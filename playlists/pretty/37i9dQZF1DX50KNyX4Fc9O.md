@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Budjerah
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,593 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,602 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 2 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 3 | [Punch Drunk Love](https://open.spotify.com/track/3pw0oGsWWY9vUVFcUlHq4O) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/460d5gDLVH1L54u9wOyhbY) | 3:17 |
 | 4 | [Long and Short](https://open.spotify.com/track/59bpa17DlPqUYIOJQCCdV1) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Long and Short](https://open.spotify.com/album/3cFujBGWjCCPirIKbKQ81i) | 3:33 |
-| 5 | [Track 1](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 |
 | 6 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 7 | [Ghost In My Machine](https://open.spotify.com/track/3i2paLDZV1YfvbNo0i39iR) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E), [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Ghost In My Machine](https://open.spotify.com/album/5t7aXf2QIRhIVGEZiQfz7v) | 3:37 |
 | 8 | [Navy Eyes](https://open.spotify.com/track/1PfUSV4p1AtXi6Pqt7W9wj) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Navy Eyes](https://open.spotify.com/album/1n8r1ZdYDdocZXjd2jJWys) | 2:45 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 18 | [Too Much](https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Too Much](https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A) | 2:46 |
 | 19 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 |
 | 20 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 |
-| 21 | [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [](https://open.spotify.com/album/null) | 3:48 |
+| 21 | [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [okay\. again?](https://open.spotify.com/album/3X8hQPPIipP1KbYV4ENqVd) | 3:48 |
 | 22 | [Mr\. Fantasy](https://open.spotify.com/track/4zT0nZK95FOuPWt4WC5vXe) | [MR\. FANTASY](https://open.spotify.com/artist/34te8NejkffLcYjn9kiAiH) | [Mr\. Fantasy](https://open.spotify.com/album/2HE6aJS5aYpobitS6dXTz0) | 3:04 |
 | 23 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
 | 24 | [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 |

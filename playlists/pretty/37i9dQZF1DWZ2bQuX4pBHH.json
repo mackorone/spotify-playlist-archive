@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 257391,
+  "num_followers": 257425,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
-        "name": "Main Hoon Na",
-        "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
-      },
-      "artists": [
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Sabri Brothers",
-          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
-        }
-      ],
-      "duration_ms": 359253,
-      "name": "Tumse Milke Dil Ka",
-      "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
-    },
-    {
-      "added_at": "2024-07-25 06:39:11",
-      "album": {
         "name": "Veer - Zaara",
         "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 295157,
       "name": "Main Yahaan Hoon",
       "url": "https://open.spotify.com/track/3OAFzjwWionh8OfM4kgf2R"
+    },
+    {
+      "added_at": "2024-07-25 06:39:11",
+      "album": {
+        "name": "Main Hoon Na",
+        "url": "https://open.spotify.com/album/2QyR1r0XwtvljXEZs9I3ge"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sabri Brothers",
+          "url": "https://open.spotify.com/artist/0sbtGmW8r5bxfXzla8a7eI"
+        }
+      ],
+      "duration_ms": 359253,
+      "name": "Tumse Milke Dil Ka",
+      "url": "https://open.spotify.com/track/1ax8ZuwRVkSdzzsIqyCNWQ"
     },
     {
       "added_at": "2024-07-25 06:39:11",
@@ -1183,22 +1183,30 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
       "artists": [
         {
-          "name": "Vinod Rathod",
-          "url": "https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd"
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
         }
       ],
-      "duration_ms": 453653,
-      "name": "Ae Mere Humsafar",
-      "url": "https://open.spotify.com/track/7GEVFIpWpZJwGoMvVpow5a"
+      "duration_ms": 343066,
+      "name": "Yeh Hum Aa Gaye Hain Kahaan",
+      "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
     },
     {
       "added_at": "2024-07-25 06:39:11",

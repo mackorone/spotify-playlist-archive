@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  donny daydreams
 
-1,511 songs - 3 day 13 hr 16 min
+1,513 songs - 3 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Caught Up](https://open.spotify.com/track/26Bcxw6i0zDUmsWml5yUnA) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Caught Up](https://open.spotify.com/album/2RG9uRF2GBvlj6Dsz2Oaci) | 2:57 | 2023-01-19 | 2023-04-24 |
 | [Caught Up](https://open.spotify.com/track/6ccnaVHrAuoqICAgniqjd4) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [14+7](https://open.spotify.com/album/5a7BPRH6wLyIRIKPGEc0yR) | 2:57 | 2023-04-20 | 2023-05-26 |
 | [caution tape](https://open.spotify.com/track/4kvxJvder2lfnQII57KmTR) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [caution tape](https://open.spotify.com/album/6xpY8pLdWXeTPvx9lqWyau) | 2:20 | 2022-05-26 | 2022-06-10 |
+| [CELLOPHANE](https://open.spotify.com/track/1icvCIhAcPDIsJPxV3sLYT) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [B&B: CELLOPHANE + BITTER TASTE](https://open.spotify.com/album/6MSA7cu8zjhLHXji2tlF2l) | 3:03 | 2025-09-18 |  |
 | [Centuries](https://open.spotify.com/track/4jN3sOY5Ie7N2gJg69eI74) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Centuries](https://open.spotify.com/album/1CzGE2ha6P0u2l1YE1ng2K) | 2:55 | 2025-04-17 | 2025-08-01 |
 | [Chance](https://open.spotify.com/track/0CjIwPoCCaIkMeGM2RcEfN) | [Tomii](https://open.spotify.com/artist/5XTFLOAT2qCrhejD1T4zOX) | [Chance](https://open.spotify.com/album/1G67kU9gJwcPjtd7OMUKsY) | 3:02 | 2024-10-17 | 2025-02-14 |
 | [Chasing Time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [Chasing Time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 | 2024-05-23 | 2024-06-07 |
@@ -734,6 +735,7 @@
 | [Ring Ring](https://open.spotify.com/track/0U0KYTkDXyLjKC6X2QTTPB) | [kiiro](https://open.spotify.com/artist/10t9nldzYKH5Awx2CHBstA) | [Ring Ring](https://open.spotify.com/album/0rBgxfZipEJTZYOMTG2LDI) | 2:35 | 2023-11-02 | 2024-01-05 |
 | [Rocket Science](https://open.spotify.com/track/0wkeaSCYNKOFWUlRKpErDo) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Rocket Science](https://open.spotify.com/album/6Kq7dYAecgd0C2QaCTqP7c) | 2:34 | 2025-08-07 |  |
 | [Rockstars](https://open.spotify.com/track/2LQp86KHkripGEWu21rNqK) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Rockstars](https://open.spotify.com/album/7ozJ1siVWzaJVSPEmEvviO) | 3:45 | 2023-06-08 | 2023-10-20 |
+| [room 1: OTF](https://open.spotify.com/track/1I2UpNMJwCSLTnBavTwnrx) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 1: OTF](https://open.spotify.com/album/2EyFBidiMq8N7gA5fGSory) | 2:22 | 2025-09-18 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2023-12-28 | 2024-05-10 |
 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 | 2022-12-29 | 2023-05-26 |
 | [Rules](https://open.spotify.com/track/2emPIwDnKVX0WSKfwacbnM) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Gemini Moon](https://open.spotify.com/album/4MmfPccObteJ4bAhnMtcA6) | 2:46 | 2023-05-25 | 2023-09-01 |

@@ -4,7 +4,7 @@
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-142 songs - 7 hr 49 min
+143 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,13 +112,14 @@
 | [She](https://open.spotify.com/track/6aNR1tbrRtamWleMigQs4J) | [Mumbi Kasumba](https://open.spotify.com/artist/5YhxCi5kNkz1E4wqFfJVa1) | [She](https://open.spotify.com/album/2s3pBPqxmcbmy1Zct8Ezu5) | 3:38 | 2023-06-30 | 2024-08-24 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-08-22 |
 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 | 2023-06-30 | 2024-10-18 |
-| [Skies Have Cleared](https://open.spotify.com/track/1sHI5KcCF4nXZKR5iQQgHM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Skies Have Cleared](https://open.spotify.com/album/75hXQzEJGC7ZxZXbSIVoTW) | 3:07 | 2024-05-30 |  |
+| [Skies Have Cleared](https://open.spotify.com/track/1sHI5KcCF4nXZKR5iQQgHM) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Skies Have Cleared](https://open.spotify.com/album/75hXQzEJGC7ZxZXbSIVoTW) | 3:07 | 2024-05-30 | 2025-09-20 |
 | [SLOWLY FAST](https://open.spotify.com/track/6eg0gp8fr41kX8s40wQJ5M) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [PRE PACK](https://open.spotify.com/album/3m0vczVUu8N3K7VZIoxdjq) | 1:04 | 2025-03-07 |  |
 | [Something Is You](https://open.spotify.com/track/1KQfpF8EmbF8oP1YwpwJ0O) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Something Is You](https://open.spotify.com/album/6zNhbmvLEE12cGS1c53VL0) | 1:50 | 2023-06-30 | 2024-06-01 |
 | [Songea](https://open.spotify.com/track/1hTWAB6y3eshiUXXDEMiZH) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Songea](https://open.spotify.com/album/1NszeKpCZuw1DSBBWQAPi0) | 3:26 | 2024-09-26 | 2025-03-14 |
 | [Spend My Money](https://open.spotify.com/track/23QGS3cR9tRLOmJ2iY8pN2) | [Tetu Shani](https://open.spotify.com/artist/4PATOXrnfnClxoIKMoRSHG), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ) | [Spend My Money](https://open.spotify.com/album/7a2QwjWVQQOD1O6M2zBDvq) | 2:56 | 2023-06-30 | 2024-07-03 |
 | [Spoils](https://open.spotify.com/track/6p2GZQ2XvtzY1y02AvsA0J) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Spoils](https://open.spotify.com/album/1FJRlLYSvXvf75AbJ6iRQR) | 3:16 | 2025-05-01 |  |
 | [Still Ain't Free](https://open.spotify.com/track/4TFvHFpvWHFhP9TDt02ppl) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [Still Ain't Free](https://open.spotify.com/album/7gC5LgjRmFhaqdJt2o0B2R) | 2:12 | 2025-03-07 | 2025-07-04 |
+| [Subira](https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Cedz Imagination](https://open.spotify.com/artist/2bsB3f3Lx5jYFHQe9MzrBR) | [Subira](https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB) | 3:01 | 2025-09-19 |  |
 | [Sucky Place](https://open.spotify.com/track/0IxYhLVxCsjKR5Mv5ZWis4) | [Sichangi](https://open.spotify.com/artist/2DftdJfk5hxZfnnRETvXtE), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Soundtrack to a Heartbreak](https://open.spotify.com/album/5emRSeXmDV77latJDtwIM3) | 2:40 | 2023-06-30 | 2025-09-12 |
 | [Sunny Everyday](https://open.spotify.com/track/7r8z2NTBdx2euV2pSJkhOW) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [mphilo](https://open.spotify.com/artist/5CJTRMHq8aukAtFyoleRIF) | [Whispers of the Soul](https://open.spotify.com/album/4XZaOuCDoQ5igRDBnxqD71) | 1:39 | 2024-02-22 | 2024-10-18 |
 | [Superhuman](https://open.spotify.com/track/5IjmDEuIPnGuZlAjJVnsPV) | [Olivia Ambani](https://open.spotify.com/artist/2ZvuDMMGloNFnH6Bhm67jG) | [The Awakening](https://open.spotify.com/album/6WnV2kPJou5mPZpmnSLvx0) | 3:03 | 2023-06-30 | 2023-10-24 |

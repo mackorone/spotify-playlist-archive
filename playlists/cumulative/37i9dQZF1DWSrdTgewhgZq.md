@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/37i9dQZF1DWSrdTgewhgZq)
 
-> Hey, Don Toliver<br/>that's DOPE!
+> Hey, Kendrick<br/>that's DOPE!
 
 427 songs - 22 hr 47 min
 

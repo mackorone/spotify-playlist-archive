@@ -4,7 +4,7 @@
 
 > Best of the EDM scene in India\. Cover\- Ritviz
 
-88 songs - 4 hr 51 min
+89 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Chemistry](https://open.spotify.com/track/79yCicUXsMibJTNY0y5CXE) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kanchan Daniel](https://open.spotify.com/artist/3PLLYBkFo8mZO9JIsXRRUA) | [Music For The \# Generation](https://open.spotify.com/album/5eEqeXiXjxhcZisBravDBr) | 3:39 | 2023-10-20 |  |
 | [Desire](https://open.spotify.com/track/3ksugse2MMQvb5RwILo8gL) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/2ZUXqOCce6uUxWYD7ZTfiU) | 3:50 | 2023-10-20 |  |
 | [Desire](https://open.spotify.com/track/5jxoaTAMBZvZpN547gsF0e) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC), [Ampresi](https://open.spotify.com/artist/5Fn1hBOpMl6EGasVkGAZ1P) | [Desire](https://open.spotify.com/album/6BGrMSEHdcrc8tvs5BVqW7) | 3:50 | 2023-12-06 | 2024-04-19 |
+| [DHA](https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [DHA](https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N) | 3:34 | 2025-09-19 |  |
 | [Easy to Say](https://open.spotify.com/track/34vphJNw9MpZqkNhOXEXkp) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy to Say](https://open.spotify.com/album/7upEImDiNfOU0XNPjGQbWL) | 2:55 | 2023-12-06 | 2024-04-19 |
 | [Easy To Say](https://open.spotify.com/track/3j9VzQkNGlZsr5582nKC1A) | [\#BBC](https://open.spotify.com/artist/0Q6aidKFOfCW2H1OW0ExOV) | [Easy To Say](https://open.spotify.com/album/6XSZrddGLhqcfSTcRZ3Rdp) | 2:55 | 2023-10-20 |  |
 | [Flash](https://open.spotify.com/track/216RNiFj3BXXJZeYdCuUUr) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Flash](https://open.spotify.com/album/7EGry35I28U6reu63FlS4g) | 2:41 | 2023-10-20 | 2024-04-19 |

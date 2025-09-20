@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Torreblanca en portada.",
+  "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alexia Mariel en portada.",
   "name": "Oye Pop",
   "tracks": [
     {
@@ -222,6 +222,24 @@
       "duration_ms": 207551,
       "name": "2mil horas",
       "url": "https://open.spotify.com/track/66i0E3wCeq7syKWpJPHG4v"
+    },
+    {
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
     },
     {
       "album": {
@@ -1425,6 +1443,24 @@
     },
     {
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2FDVmTU1dG2cctVs0EG5tD"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154550,
+      "name": "Bossa Nova",
+      "url": "https://open.spotify.com/track/73yQvnGSXGislwbcCYgkSZ"
+    },
+    {
+      "album": {
         "name": "BOY BYE",
         "url": "https://open.spotify.com/album/7DoGqiWF84pl0Rh4xUGOC7"
       },
@@ -2625,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "Deseo",
+        "url": "https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB"
+      },
+      "artists": [
+        {
+          "name": "Alanis Yuki",
+          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108137,
+      "name": "Deseo",
+      "url": "https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D"
+    },
+    {
+      "album": {
         "name": "Despacio Que Hay Prisa",
         "url": "https://open.spotify.com/album/0qrm1C9vOdLRcb15G98WIj"
       },
@@ -2924,6 +2978,24 @@
       "duration_ms": 178000,
       "name": "Dopamina",
       "url": "https://open.spotify.com/track/1K1qSkHpZIFlsydsMFdPPi"
+    },
+    {
+      "album": {
+        "name": "DREAM GIRL",
+        "url": "https://open.spotify.com/album/7sh8rKR45Qt0TiKf5quDU7"
+      },
+      "artists": [
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "DREAM GIRL",
+      "url": "https://open.spotify.com/track/4pxdMPFL5CpvsGNsX8ifc7"
     },
     {
       "album": {
@@ -3750,7 +3822,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 273084,
       "name": "Esto Es Amor",
       "url": "https://open.spotify.com/track/4wbYGHHcruNoxgOYVzfqea"
@@ -4739,6 +4811,24 @@
     },
     {
       "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230973,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr"
+    },
+    {
+      "album": {
         "name": "LA FOTO",
         "url": "https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb"
       },
@@ -5194,7 +5284,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 196197,
       "name": "Lost In Translation",
       "url": "https://open.spotify.com/track/2DQ4xJf4xm1Ho8yKQkOqgi"
@@ -6090,7 +6180,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 212466,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva"
@@ -6334,6 +6424,24 @@
       "duration_ms": 142000,
       "name": "Mucho Drama",
       "url": "https://open.spotify.com/track/76T5yoiiHKtZPmLFVkZMdk"
+    },
+    {
+      "album": {
+        "name": "MUERO X TI",
+        "url": "https://open.spotify.com/album/0t6hPxjZj9UAQSrurbeXmC"
+      },
+      "artists": [
+        {
+          "name": "HOYER",
+          "url": "https://open.spotify.com/artist/3BU3N61vOSGcUahCNviQoP"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252897,
+      "name": "MUERO X TI",
+      "url": "https://open.spotify.com/track/1HctHvk1tYjOW4Rsd5whXV"
     },
     {
       "album": {
@@ -6938,7 +7046,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 186996,
       "name": "odio a primera vista",
       "url": "https://open.spotify.com/track/4O7u2mKN9ovYtk3ejaJ87O"
@@ -7277,6 +7385,24 @@
     },
     {
       "album": {
+        "name": "PASAR\u00c1",
+        "url": "https://open.spotify.com/album/0eT46sKnCjp49gPGvAnjld"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9rida",
+          "url": "https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "PASAR\u00c1",
+      "url": "https://open.spotify.com/track/6M7vceZuEVlLQxeTyud6gu"
+    },
+    {
+      "album": {
         "name": "Pase Lo Que Pase",
         "url": "https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY"
       },
@@ -7372,7 +7498,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 243797,
       "name": "Pel\u00edcula - Intervenida por Ximena Sari\u00f1ana",
       "url": "https://open.spotify.com/track/5fINk1PUFJA9NEqjm8WxHF"
@@ -7502,7 +7628,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 164864,
       "name": "PILATES",
       "url": "https://open.spotify.com/track/6w3cKSW3HCFx4Z47tRHiwv"
@@ -7658,7 +7784,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 116129,
       "name": "Pretty GIRL",
       "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"

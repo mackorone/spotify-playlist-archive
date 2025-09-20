@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2025\. See you on the dancefloor.
 
-435 songs - 1 day 1 hr 53 min
+436 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Every Little Thing](https://open.spotify.com/track/2ovlaCF5IsApzvIpa5k64l) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ) | [Every Little Thing](https://open.spotify.com/album/3mWwqrqWfnmSRKTxtvSfDI) | 2:38 | 2023-04-04 | 2024-04-20 |
 | [Every Morning](https://open.spotify.com/track/472s6GK8J7YnTkgFuTAsxb) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX) | [Every Morning](https://open.spotify.com/album/0ctEr4CsOEyjOOy7jM1YQF) | 3:43 | 2024-09-26 | 2025-05-17 |
 | [Everything](https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Everything](https://open.spotify.com/album/56f1MFjf3qnA3OQSqS0017) | 4:45 | 2025-09-04 |  |
+| [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 | 2025-09-18 |  |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-07-26 | 2024-04-19 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-04 | 2023-08-18 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 | 2023-10-19 | 2024-04-19 |
@@ -190,7 +191,7 @@
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-07-19 |  |
 | [I Know You Want To](https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [I Know You Want To](https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE) | 3:13 | 2025-04-17 |  |
 | [I Like It](https://open.spotify.com/track/3DEWuEXKe6UbqPAzGPhT8V) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG) | [I Like It](https://open.spotify.com/album/45L7KpQYCXZRtHQsj0OYXo) | 2:46 | 2025-04-24 | 2025-05-17 |
-| [I Need You Now](https://open.spotify.com/track/7gLqg4i3lanQm6SmuhWlx6) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [I Need You Now](https://open.spotify.com/album/6O7lch7AvKLFBgtdgQYKzP) | 3:46 | 2025-06-20 |  |
+| [I Need You Now](https://open.spotify.com/track/7gLqg4i3lanQm6SmuhWlx6) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [I Need You Now](https://open.spotify.com/album/6O7lch7AvKLFBgtdgQYKzP) | 3:46 | 2025-06-20 | 2025-09-20 |
 | [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-06-30 | 2025-04-18 |
 | [I'll Be Fine](https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [I'll Be Fine](https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB) | 3:37 | 2022-08-26 | 2024-06-28 |
 | [IBIZA](https://open.spotify.com/track/2UWGoFGAYstslkTzLnHLXq) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [CRCLE](https://open.spotify.com/artist/0XDbOisy0qfOYDjqLLftvS) | [IBIZA](https://open.spotify.com/album/31czGIdxfoex2L6hGzZGy8) | 3:02 | 2024-07-05 | 2025-05-30 |

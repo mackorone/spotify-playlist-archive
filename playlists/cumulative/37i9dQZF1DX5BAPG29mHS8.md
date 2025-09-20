@@ -2,7 +2,7 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México\. Rels B en portada 🔥
+> Los hits de ahora en la playlist más grande de México\. Junior H en portada 🥀
 
 904 songs - 2 day 0 hr 34 min
 

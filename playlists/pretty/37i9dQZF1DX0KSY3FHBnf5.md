@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 
 > Dreamy Ambient in a chilled, dark aesthetic
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,640 likes - 122 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,724 likes - 122 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KSY3FHBnf5.md) - [plain]
 | 121 | [alchemist's refuge](https://open.spotify.com/track/4N9nz7KImtU08h0siN3Wtl) | [Peter Bark](https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2) | [alchemist's refuge](https://open.spotify.com/album/3nHTmjkWjDhP4ZGFfrLMTv) | 2:11 |
 | 122 | [Lichtung](https://open.spotify.com/track/0Kj7AJaaO6g18tGGWmLR41) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1), [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Lichtung](https://open.spotify.com/album/4wDAAvscm1eZwclWzkogB0) | 7:19 |
 
-Snapshot ID: `AAAAALQvk2Cqqmro759dvnubZOi7TNV3`
+Snapshot ID: `AAAAAESp/yNtdUajUsmjgFlsaNXMCSGk`

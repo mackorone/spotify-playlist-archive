@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-687 songs - 1 day 14 hr 35 min
+688 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [too many](https://open.spotify.com/track/6M0xa5VSdtUEXLgoubop0T) | [TK the Architect](https://open.spotify.com/artist/3HgJJz0BOPhFeAbxVkMd2V) | [too many](https://open.spotify.com/album/3PavHmPjfsKPAPzv9CPU6S) | 3:15 | 2022-04-13 | 2022-09-17 |
 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 | 2022-06-29 |  |
 | [Tripasia](https://open.spotify.com/track/365aB2RegILTAZqCEgmkUc) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [Tripasia](https://open.spotify.com/album/45cq3fJrBfvSPU8dKgZpwS) | 2:56 | 2022-03-25 | 2022-04-19 |
+| [Trippy Road](https://open.spotify.com/track/3ntOVouUI1AVD6etwqr6HQ) | [Father Funk](https://open.spotify.com/artist/2v8mmZp35c5E1pTDecZUkv), [zoska](https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Trippy Road](https://open.spotify.com/album/432qmUBP6wmGceprmHgF4s) | 2:20 | 2025-09-19 |  |
 | [Try](https://open.spotify.com/track/6sXhai6N2Y5bvBwQFPV3Ki) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr), [LUUNG](https://open.spotify.com/artist/5RGCg3LnBfZa0Z9Vb9RbO4) | [Try](https://open.spotify.com/album/72efYKB0Z77XuTrAETbBP3) | 2:13 | 2024-03-14 | 2024-08-07 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-22 | 2022-01-08 |
 | [undo](https://open.spotify.com/track/7i9KAvis03PzePTT88cYmG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [undo](https://open.spotify.com/album/1LTXwkbpRU3UrSlqMXkZ53) | 3:04 | 2021-11-01 | 2022-01-08 |

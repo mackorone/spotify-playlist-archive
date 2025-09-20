@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Kenriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,716 likes - 118 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,788 likes - 118 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 9 | [Tak Harus Menunggu Surga](https://open.spotify.com/track/4ZkhMMBsBHA2HtgYWX1L3c) | [Element](https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb) | [Tak Harus Menunggu Surga](https://open.spotify.com/album/6vkoGI2vnmwnqA7ppy1PLU) | 2:59 |
 | 10 | [Senandung Asmara](https://open.spotify.com/track/37PeHImKXg9LnroIRZnMqw) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Senandung Asmara](https://open.spotify.com/album/58rfYi1zol9AqkrrLyzrac) | 3:35 |
 | 11 | [Kias](https://open.spotify.com/track/63uf6yvX8NxuNk2c55ojwC) | [Fanny Soegi](https://open.spotify.com/artist/7xPtUXBZ8SaJfmJfsGeVoE) | [Kias](https://open.spotify.com/album/4tHWs8ezoBOwMbk5G9xeIL) | 6:21 |
-| 12 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [](https://open.spotify.com/album/null) | 3:41 |
+| 12 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 |
 | 13 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
 | 14 | [Surga Sementara](https://open.spotify.com/track/5dLjZvJd76yUUHd3EjXi9g) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Surga Sementara](https://open.spotify.com/album/0Ij0gZEXvC4dGlTdFlzAch) | 3:40 |
 | 15 | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/track/10JW9o9lfFSTG7NDek5uRs) | [Dialog Senja](https://open.spotify.com/artist/7hzltD6Z1nipi3asl645sh) | [Di Mana Rumah Tuk Pulang?](https://open.spotify.com/album/4s7CBBNisdAhUM963JCduC) | 4:51 |

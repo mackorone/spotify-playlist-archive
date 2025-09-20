@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Pierre Garnier
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,963 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,051 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 8 | [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 |
 | 9 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 |
 | 10 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 |
-| 11 | [Miroir](https://open.spotify.com/track/5Fq5M0I9z4Whzw2BrssHBG) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [](https://open.spotify.com/album/null) | 2:40 |
+| 11 | [Miroir](https://open.spotify.com/track/5Fq5M0I9z4Whzw2BrssHBG) | [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Miroir](https://open.spotify.com/album/5TQ0ila42eW3Mp0rnc5vLS) | 2:40 |
 | 12 | [Tant pis pour elle](https://open.spotify.com/track/2GDZe8GdXd0LoUtpVpMUVy) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/0D7w7NEXkbNnhMLDm1tawk) | 2:38 |
 | 13 | [Ça passe](https://open.spotify.com/track/6izmGwV71YDOWc0Y0V4Zou) | [John Mamann](https://open.spotify.com/artist/3lL5mw1555BFtJXaI07uIy) | [Ça passe](https://open.spotify.com/album/3excdIYIGI3GvyWUqUcHKi) | 3:16 |
 | 14 | [Poupée Soldat](https://open.spotify.com/track/0HxEXFr7iZHIwOyCel7D9y) | [Laura Ferré](https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa) | [Poupée Soldat](https://open.spotify.com/album/62SAM2R8nrAXUWoykkvC1n) | 2:58 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 23 | [Viens on essaie](https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Viens on essaie](https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY) | 2:49 |
 | 24 | [Millions de cœurs](https://open.spotify.com/track/4hQEDPRaNyFXoYfbPgasUx) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Millions de cœurs](https://open.spotify.com/album/6uf0F3mJbYYKwBUauYsA9u) | 2:39 |
 | 25 | [les avions](https://open.spotify.com/track/0rKI4LbWhiYLrokKjVxQHt) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les avions](https://open.spotify.com/album/6PELiskolaUJaVhvFR9Pbk) | 2:38 |
-| 26 | [Track 2](https://open.spotify.com/track/6jdbuti5nE5JJXsR4RBcgG) | [Adèle & Robin](https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8) | [](https://open.spotify.com/album/null) | 0:00 |
+| 26 | [Laura](https://open.spotify.com/track/6jdbuti5nE5JJXsR4RBcgG) | [Adèle & Robin](https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8) | [Changer, pleurer, rire](https://open.spotify.com/album/7iW95Wgd03q12wGcO3ncFU) | 3:09 |
 | 27 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
 | 28 | [Mirror \(feat Maëlle\)](https://open.spotify.com/track/4xeCDqW1TTPVmXcYtXZlLG) | [Puggy](https://open.spotify.com/artist/1BNQnTVxfQqeMxr6xBi8X6), [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Mirror \(feat Maëlle\)](https://open.spotify.com/album/5tsDhMIq48HcI8BjpYomEH) | 2:56 |
 | 29 | [No Name](https://open.spotify.com/track/5ZAdStqi2rBLZz2OGw8ZFH) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [No Name](https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul) | 4:23 |

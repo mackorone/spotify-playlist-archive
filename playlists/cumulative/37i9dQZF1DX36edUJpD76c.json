@@ -529,6 +529,32 @@
     },
     {
       "album": {
+        "name": "Brennpunkt",
+        "url": "https://open.spotify.com/album/4aJn7mGqeuzmfAEEREdCHS"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203995,
+      "name": "Brennpunkt",
+      "url": "https://open.spotify.com/track/1ZqLWpVs4LjkBDOrWRtivQ"
+    },
+    {
+      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/6lXWGv7kjGhyH5IUxASWNs"
       },

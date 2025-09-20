@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Poland.
 
-2,432 songs - 5 day 4 hr 36 min
+2,433 songs - 5 day 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [18](https://open.spotify.com/track/06cJ7hTMrHG7ajs0no3XJw) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [18](https://open.spotify.com/album/0dEj9U7vpuKBOlkrWlEqfM) | 2:31 | 2022-06-02 | 2022-06-26 |
 | [18](https://open.spotify.com/track/18DbAECX4iPyws8Ux7MVMX) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [Pretty Boy](https://open.spotify.com/album/01S7gAvH21k1qlD2jilmPQ) | 2:31 | 2022-06-25 | 2022-09-21 |
 | [1998 \(mam to we krwi\)](https://open.spotify.com/track/5WOnkFszDc0OY8PZw4gygY) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG) | [Opowieści z Doliny Smoków](https://open.spotify.com/album/0zqVGKhttQF25HwPeNcknO) | 3:52 | 2025-08-08 | 2025-08-10 |
-| [1DAY IN LA](https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9) | [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [1DAY IN LA](https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N) | 2:24 | 2025-06-14 |  |
+| [1DAY IN LA](https://open.spotify.com/track/1KbyOU3mlUN9UiXU2kPso9) | [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd) | [1DAY IN LA](https://open.spotify.com/album/00J4FpVxEoll7mtaxUye1N) | 2:24 | 2025-06-14 | 2025-09-20 |
 | [2 IZOTEKI](https://open.spotify.com/track/6NQ83ioZQLARpVmW3mVA7C) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [2 IZOTEKI](https://open.spotify.com/album/16mdDaDKY0X8Kg1NusHtPC) | 2:38 | 2023-01-24 | 2023-03-26 |
 | [200 osób w kawalerce](https://open.spotify.com/track/0WwTcMK4Qj9vKHVV2Me1l8) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC) | [LETNISKO](https://open.spotify.com/album/5JHHiO1j42tgSRrhNb6H6v) | 2:52 | 2022-05-14 | 2022-08-04 |
 | [2000 EXCURSION](https://open.spotify.com/track/6Gp3pYkydEOkl8EHHJxa9s) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:42 | 2025-07-14 | 2025-07-16 |
@@ -146,6 +146,7 @@
 | [Amore Mio](https://open.spotify.com/track/6xJVH9QPDH1dyS6P3xkPXO) | [Boski Heniek](https://open.spotify.com/artist/7J9KyOmHMSnBDRAeUI6l8y), [Malos](https://open.spotify.com/artist/3OdmlGMulK5p79loAQaCEr), [Nerus](https://open.spotify.com/artist/5GrBKeE919oi9ffTU5HyUt) | [Amore Mio](https://open.spotify.com/album/2VPScjPQGCcGwzA41Xwx8J) | 2:41 | 2024-11-22 | 2024-12-01 |
 | [Amsterdam](https://open.spotify.com/track/1eZXYu7L2I4DMQyf9Ek90Y) | [Janusz Walczuk](https://open.spotify.com/artist/44FnIf8PhG6EQRIoENsXu3), [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [Janusz Walczuk](https://open.spotify.com/album/7mMFix0pVTqJuroFYry2nT) | 3:17 | 2021-05-03 | 2021-05-16 |
 | [ANIA](https://open.spotify.com/track/4cBYCGbXIGJzyWraSk4tta) | [blikkk](https://open.spotify.com/artist/7ARlj4UiEdTcnT6txIEWMa) | [ANIA](https://open.spotify.com/album/46WJIocXhlj3J15N8CYdav) | 2:20 | 2025-09-13 | 2025-09-16 |
+| [ANIA](https://open.spotify.com/track/4fCqTRlftxkuo02M3GM7Kp) | [Dajczman](https://open.spotify.com/artist/1NQ1cA17XLd3Rh7PFzadL2) | [ANIA](https://open.spotify.com/album/5tMSCFQtDofjkkzAwQkm2m) | 2:16 | 2025-09-19 |  |
 | [Animal Planet](https://open.spotify.com/track/7hcTymDH3izVrvuxWz5XUe) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Ero](https://open.spotify.com/artist/54DALKUBHXwXee6LLqGWsS), [Wilku WDZ](https://open.spotify.com/artist/2W0PvL5xnsP59i2dgTkRF2) | [Fight Club](https://open.spotify.com/album/1XNJspeyxcjk6EZTLB32Mj) | 2:45 | 2021-04-01 | 2021-04-05 |
 | [Animal Planet](https://open.spotify.com/track/1fBrFnMzvb5WetxfgadcH9) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Raff J.R.](https://open.spotify.com/artist/7M5QLYpzgeunQvZiJWMOiy) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:12 | 2024-01-07 | 2024-01-13 |
 | [Anioł Stróż](https://open.spotify.com/track/5XVUws9S5FP89vNdxrysfp) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [CERBER EP](https://open.spotify.com/album/2s9Jf5Ir7sG2uFYzFWkxSU) | 2:11 | 2024-01-07 | 2024-01-14 |

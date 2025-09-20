@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,408 songs - 3 day 2 hr 21 min
+1,409 songs - 3 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [again&again](https://open.spotify.com/track/2UuZvR0nsKZt1OtncgzPMY) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [again&again](https://open.spotify.com/album/0gX23OOIPmeY54BdDOjIZ5) | 3:16 | 2021-12-10 | 2022-05-20 |
 | [Alaina](https://open.spotify.com/track/3Eoagt0ij670tloVT4FVId) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Alaina](https://open.spotify.com/album/5GAqYNRErpA63WXO6UHgfp) | 2:46 | 2021-12-10 | 2022-07-29 |
 | [Alaina](https://open.spotify.com/track/702Hp5evNiNQkK4ToupjF2) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Alaina](https://open.spotify.com/album/1uCkROQ25UpVXzDvroyGAN) | 2:46 | 2022-07-08 | 2022-08-03 |
-| [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-14 |  |
+| [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-14 | 2025-09-20 |
 | [ALEXITHYMIA](https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:15 | 2024-03-08 | 2024-04-13 |
 | [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 | 2025-04-18 |  |
 | [ALL I EVER WANTED](https://open.spotify.com/track/6DEE4Ym6b3rfJjKdPjRz0D) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ALL I EVER WANTED](https://open.spotify.com/album/11SFPa99Fx9dGYs4XW2UfJ) | 2:27 | 2022-03-25 | 2022-05-21 |
@@ -718,6 +718,7 @@
 | [Leave A Light On](https://open.spotify.com/track/3u2ivcqU7mN2JUMqyQfR1V) | [All Wrong](https://open.spotify.com/artist/7C1vk9cz8yDLZdwCQzYxHO) | [Leave A Light On](https://open.spotify.com/album/6Juv4i05iXyKSJoZ6l3NQJ) | 3:51 | 2022-03-25 | 2022-04-16 |
 | [Leave It All Behind](https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:18 | 2022-01-14 | 2022-06-12 |
 | [Leave It All Behind](https://open.spotify.com/track/3CLlEnggBg4pdxMWG1U9NC) | [The Mazlows](https://open.spotify.com/artist/60JpvikLUriWGrJ4J3Sie2) | [Community Locker](https://open.spotify.com/album/5D9yyznEqbgKD0PqOUzLQA) | 4:32 | 2022-02-04 | 2022-06-30 |
+| [Leave My Room](https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [NSFW](https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc) | 2:23 | 2025-09-19 |  |
 | [Leave The Light On](https://open.spotify.com/track/4TrzjmGcj6b8ct55iYQZXl) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Leave The Light On](https://open.spotify.com/album/58t6ugZsBq7EXegeNCEJtA) | 3:04 | 2022-03-25 | 2022-04-29 |
 | [Leaves on Parade](https://open.spotify.com/track/1YeuvK36AmRfpYCB2o8t0X) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [Leaves on Parade](https://open.spotify.com/album/0sl8tYAoJ0m2lRjaPPd1EG) | 4:12 | 2021-12-10 | 2022-07-28 |
 | [Left Alone](https://open.spotify.com/track/4HZ66Kgu13IVGUDD6zr6Wd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Left Alone](https://open.spotify.com/album/0u1Yv0jFQquN3PbWbz151l) | 3:15 | 2022-02-04 | 2022-05-10 |

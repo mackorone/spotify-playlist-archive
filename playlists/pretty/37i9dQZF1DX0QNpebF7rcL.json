@@ -1,13 +1,129 @@
 {
   "description": "The best in blues right now. Cover: Eric Gales",
-  "num_followers": 140827,
+  "num_followers": 140833,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPo/wcLkp3gWlB28U3nJPDa6eg+D",
+  "snapshot_id": "AAAAAC5JnY2AqF5729ldfoLwMp9soo9K",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/2n1ZIq9IpzwEvmfTdgE6IT"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        }
+      ],
+      "duration_ms": 330920,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/2dO7ugDcoN6xBoJ1JMK0bR"
+    },
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "I Wanna Thank You",
+        "url": "https://open.spotify.com/album/1hSsRGTrvNRefy6y5xt6to"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 281237,
+      "name": "I Wanna Thank You",
+      "url": "https://open.spotify.com/track/5zAYaE9T5Pwjz1bSshIWnC"
+    },
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "Growing Roots",
+        "url": "https://open.spotify.com/album/6wImM9NaEwVtdwxcWlmGK9"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 240764,
+      "name": "Growing Roots",
+      "url": "https://open.spotify.com/track/6jleFIxqrW20n4Fq3PyorC"
+    },
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "Help Yourself",
+        "url": "https://open.spotify.com/album/3bmRO4Gva95UwZ3eWqrPMu"
+      },
+      "artists": [
+        {
+          "name": "Blood Brothers",
+          "url": "https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP"
+        },
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "duration_ms": 330350,
+      "name": "Do What You Gotta",
+      "url": "https://open.spotify.com/track/3e9tHefKwzfYQIOtDltTBa"
+    },
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "Liberation (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1NDbJpeEHpn98FldLiroO3"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/627qRPE4twOD1Ag58smmc6"
+    },
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "California Chase",
+        "url": "https://open.spotify.com/album/04J6bZZY3n8nMM9pnlMG0P"
+      },
+      "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "California Chase",
+      "url": "https://open.spotify.com/track/4YXmZiZPXT5rXypoSUCkWD"
+    },
     {
       "added_at": "2025-08-29 04:00:27",
       "album": {
@@ -67,22 +183,6 @@
     {
       "added_at": "2025-08-22 04:00:12",
       "album": {
-        "name": "Holy Ghost Party",
-        "url": "https://open.spotify.com/album/40C7e9RzNO5Ayqp4bCiEpa"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 203482,
-      "name": "Holy Ghost Party",
-      "url": "https://open.spotify.com/track/4pR0BUUDQrgWMmGhNXyv9F"
-    },
-    {
-      "added_at": "2025-08-22 04:00:12",
-      "album": {
         "name": "Texas Headhunters",
         "url": "https://open.spotify.com/album/2vP7ttK02EcmaTWmtE7isq"
       },
@@ -103,26 +203,6 @@
       "duration_ms": 235253,
       "name": "Pocket",
       "url": "https://open.spotify.com/track/7425NoOizrwarYeXxxUseQ"
-    },
-    {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6yMn7EMp3ASkFC8K3n7RVP"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        },
-        {
-          "name": "Albert Castiglia",
-          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
-        }
-      ],
-      "duration_ms": 294874,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1J4MnbBNUcjI6XzgYQsSLd"
     },
     {
       "added_at": "2025-08-22 04:00:12",
@@ -1165,22 +1245,6 @@
       "url": "https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "My Baby Left Me",
-        "url": "https://open.spotify.com/album/7EakjtgTdmuSIKySc3LJbE"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 133773,
-      "name": "My Baby Left Me",
-      "url": "https://open.spotify.com/track/1nRuwH66bqBOFoze3u6Pfp"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
@@ -1735,58 +1799,6 @@
       "duration_ms": 244306,
       "name": "Help Yourself",
       "url": "https://open.spotify.com/track/6i2EOHluVZewHGo1WivSnA"
-    },
-    {
-      "added_at": "2023-11-10 05:01:00",
-      "album": {
-        "name": "Dear Mr. Fantasy",
-        "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
-      },
-      "artists": [
-        {
-          "name": "Dave Mason",
-          "url": "https://open.spotify.com/artist/2DWQX92uew7DlsgN0yD775"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 274081,
-      "name": "Dear Mr. Fantasy",
-      "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Sweet Feeling",
-        "url": "https://open.spotify.com/album/1rSf0wxKtdVx1e2dy66CMr"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 334066,
-      "name": "Sweet Feeling",
-      "url": "https://open.spotify.com/track/4pPi8qmEYGCtWZdSWZ79vW"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Help Me",
-        "url": "https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 210083,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
     },
     {
       "added_at": "2023-10-13 04:01:00",

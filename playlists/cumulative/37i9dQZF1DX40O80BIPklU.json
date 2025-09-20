@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. AL2 El Aldeano en portada. ",
-  "name": "Rap en Espa\u00f1ol",
+  "description": "Hip-Hop con \u00d1, aqu\u00ed lxs que dominan el\u00a0juego de las rimas. LIT Killah y Gera MX en portada. ",
+  "name": "Rap Champa\u00f1a",
   "tracks": [
     {
       "album": {
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 353676,
       "name": "Barra Abierta",
       "url": "https://open.spotify.com/track/11LFvw8fYPNZHVpomY2QUy"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 222504,
       "name": "Canci\u00f3n Para el Fin del Mundo",
       "url": "https://open.spotify.com/track/1eGObrmyfUk7KxxMFvP8AY"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 148990,
       "name": "ESC\u00c1NDALO",
       "url": "https://open.spotify.com/track/39gjSeZCgiA78IwR4sZ9pn"
@@ -5200,6 +5200,52 @@
       "duration_ms": 192526,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3NYmQgmnd2nDeRfq5vQbyu"
+    },
+    {
+      "album": {
+        "name": "Grinberg",
+        "url": "https://open.spotify.com/album/4pJxGTLOh2yKRwo42HcMVO"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Teorema",
+          "url": "https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA"
+        },
+        {
+          "name": "Urbanse",
+          "url": "https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Ser G Soul",
+          "url": "https://open.spotify.com/artist/4JflVn7Q0mR7HSxCRrS3z4"
+        },
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351230,
+      "name": "Grinberg",
+      "url": "https://open.spotify.com/track/1qGJboZMfcjZhiBZS9BmRy"
     },
     {
       "album": {
@@ -5999,6 +6045,28 @@
     },
     {
       "album": {
+        "name": "Despedida",
+        "url": "https://open.spotify.com/album/4AXCKsZbWyMwsFmgPqHjNm"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/0fE9BhHAEeSLXr3pdhErp8"
+    },
+    {
+      "album": {
         "name": "KUSTOM",
         "url": "https://open.spotify.com/album/4kXaM6fo4q2hK6b6Sra4qp"
       },
@@ -6370,6 +6438,24 @@
       "duration_ms": 202281,
       "name": "Laberintos",
       "url": "https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt"
+    },
+    {
+      "album": {
+        "name": "Lamine Yamal",
+        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163378,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
     },
     {
       "album": {
@@ -6838,7 +6924,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 269778,
       "name": "Lo Bueno Se Aproxima",
       "url": "https://open.spotify.com/track/34fPn0JOpP899mFBZKzpuU"
@@ -9049,6 +9135,28 @@
     },
     {
       "album": {
+        "name": "Otro Horizonte",
+        "url": "https://open.spotify.com/album/4hOwmx6JUQME4YgDYqAqBA"
+      },
+      "artists": [
+        {
+          "name": "Rafaell Cocoa",
+          "url": "https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc"
+        },
+        {
+          "name": "Primobeatz",
+          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118548,
+      "name": "Otro Horizonte",
+      "url": "https://open.spotify.com/track/67R3YDJ6IvnPRAtVBZFkL6"
+    },
+    {
+      "album": {
         "name": "PA TU EGO",
         "url": "https://open.spotify.com/album/7bniKmGrAIU4cshI195UtR"
       },
@@ -9604,7 +9712,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 211250,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/0Dau6menNiCeTqyqGSNgMt"
@@ -10508,6 +10616,24 @@
       "duration_ms": 164000,
       "name": "Sadman (feat. El ultimo del tren)",
       "url": "https://open.spotify.com/track/0h8ePz8yylHQ6xHZIqoD5y"
+    },
+    {
+      "album": {
+        "name": "SAL Y TORTILLA",
+        "url": "https://open.spotify.com/album/34BgKfIhXyJyL1RoRd1HBp"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178319,
+      "name": "SAL Y TORTILLA",
+      "url": "https://open.spotify.com/track/2DSA2DnuBFiEmJqZ09Vk5x"
     },
     {
       "album": {

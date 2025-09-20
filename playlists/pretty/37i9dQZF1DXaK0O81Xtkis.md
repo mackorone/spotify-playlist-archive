@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Will Linley
+> a little indie, a little pop, soda featuring Thomas Day
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,545 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,551 likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 65 | [sweet heat](https://open.spotify.com/track/1LkKQf9u7Ey6xSOtNPdxOO) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [the nostalgia tapes 3](https://open.spotify.com/album/4n1BsC5gdihN9qaJy2q8DH) | 2:47 |
 | 66 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 |
 
-Snapshot ID: `AAAAAGY7ptFqWzxzHOC5Hs1DcrGmjxRv`
+Snapshot ID: `AAAAAHFtYRikPe2MjfAqWaCcM5thHVsW`

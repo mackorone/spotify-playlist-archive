@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
-  "num_followers": 112751,
+  "num_followers": 112752,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxlj4CoQoxi+EydFRwC7eN3NCGc",
+  "snapshot_id": "AAAAAJMhcQEevfsuCGdNoG0wE+oamGrf",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:02",
@@ -29,10 +29,30 @@
       "url": "https://open.spotify.com/track/71Efa4RB8YjaQEj5kvh9v5"
     },
     {
-      "added_at": "2025-08-29 04:00:34",
+      "added_at": "2025-09-19 15:38:01",
       "album": {
-        "name": "Miranda Girl",
-        "url": "https://open.spotify.com/album/6WvV6UId407PeGSqIP10u7"
+        "name": "Caviar Dreams (from \"The Queen of Versailles - Original Broadway Cast Recording\")",
+        "url": "https://open.spotify.com/album/3Cu5mrfqp1vZg9x8VTRWmF"
+      },
+      "artists": [
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Original Broadway Cast of The Queen of Versailles",
+          "url": "https://open.spotify.com/artist/49VeUrChMUwSwfKIpORNnK"
+        }
+      ],
+      "duration_ms": 242527,
+      "name": "Caviar Dreams",
+      "url": "https://open.spotify.com/track/4Z3nq1IfaUF9NQ5dzN4sus"
+    },
+    {
+      "added_at": "2025-09-19 15:38:01",
+      "album": {
+        "name": "The Devil Wears Prada: A New Musical",
+        "url": "https://open.spotify.com/album/4wVOH8PfZ1PCYsGqyVjOYM"
       },
       "artists": [
         {
@@ -42,11 +62,27 @@
         {
           "name": "Georgie Buckland",
           "url": "https://open.spotify.com/artist/29T4BD2F39CvYCt1n94fPN"
+        },
+        {
+          "name": "Matt Henry",
+          "url": "https://open.spotify.com/artist/7FwryX2qpYOkGTew0lJfZz"
+        },
+        {
+          "name": "Olivia Saunders",
+          "url": "https://open.spotify.com/artist/1GbByJkrYduJGezKC4gMkC"
+        },
+        {
+          "name": "Maddy Ambus",
+          "url": "https://open.spotify.com/artist/1nbkSeKZ6KM6Sn6pogtSJd"
+        },
+        {
+          "name": "Natasha Heyward",
+          "url": "https://open.spotify.com/artist/2Gh9ezBXAi4VFXXbpQm46v"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Miranda Girl",
-      "url": "https://open.spotify.com/track/5QTlJBLoyLTSr98OxYEoi6"
+      "duration_ms": 262866,
+      "name": "Dress Your Way Up",
+      "url": "https://open.spotify.com/track/2Ch8dkdQmoc2A4PlatC8Le"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -179,6 +215,26 @@
       "duration_ms": 197002,
       "name": "The Pantomime - Live",
       "url": "https://open.spotify.com/track/7DGXvp8bQzG2chQqRx5d3t"
+    },
+    {
+      "added_at": "2025-08-29 04:00:34",
+      "album": {
+        "name": "Miranda Girl",
+        "url": "https://open.spotify.com/album/6WvV6UId407PeGSqIP10u7"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada Original West End Cast",
+          "url": "https://open.spotify.com/artist/3b9mqCrbSkiDrvLZujmVd9"
+        },
+        {
+          "name": "Georgie Buckland",
+          "url": "https://open.spotify.com/artist/29T4BD2F39CvYCt1n94fPN"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Miranda Girl",
+      "url": "https://open.spotify.com/track/5QTlJBLoyLTSr98OxYEoi6"
     },
     {
       "added_at": "2025-06-09 02:20:47",

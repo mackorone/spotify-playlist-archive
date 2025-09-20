@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "Dust Till Dawn",
+        "url": "https://open.spotify.com/album/3SqnkOUBHjugq0J7VvSv4u"
+      },
+      "artists": [
+        {
+          "name": "Mac Hankins and The Moonlighters",
+          "url": "https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP"
+        },
+        {
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175790,
+      "name": "Dust Till Dawn",
+      "url": "https://open.spotify.com/track/2wuLvfJn8vqmgzgAXH0wAv"
+    },
+    {
+      "album": {
         "name": "Religiously. The Album.",
         "url": "https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3"
       },

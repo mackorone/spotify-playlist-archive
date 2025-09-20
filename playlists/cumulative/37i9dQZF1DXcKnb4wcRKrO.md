@@ -4,7 +4,7 @@
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-119 songs - 6 hr 18 min
+121 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Long Way Down](https://open.spotify.com/track/1dopdUBCJvcYKWCQMMirQY) | [Talaiio](https://open.spotify.com/artist/2h1uVJZjlRuKJgwJFbkkEN) | [A Long Way Down](https://open.spotify.com/album/5qNH4aOV6uVSFlzjZOKmjC) | 2:31 | 2025-08-29 |  |
 | [Aishiteru](https://open.spotify.com/track/7tImitLob81848Jdy6MdUt) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Aishiteru](https://open.spotify.com/album/2nXIJK982tSqSTg5JZYdu9) | 2:12 | 2025-04-28 |  |
 | [All Blues](https://open.spotify.com/track/6bDe6IMM7ek4p9rBsRCdpr) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Broken Soul](https://open.spotify.com/album/75EsVTVDReGGSw2uPs9w78) | 3:01 | 2025-04-28 |  |
+| [All Together](https://open.spotify.com/track/7lsQ5xKT9mxtmhgJyKUfKm) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [All Together](https://open.spotify.com/album/6eMwp4EudeSkr9gOBS2JyN) | 2:07 | 2025-09-19 |  |
 | [amber](https://open.spotify.com/track/600oQJ0EL0L1WoxQQ8Mq8s) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [amber](https://open.spotify.com/album/0k3nJYuhQ0qQAfPpgv2dyN) | 3:08 | 2025-04-28 |  |
 | [Amour](https://open.spotify.com/track/5vAZSctNrlHsbR3vsGEzE7) | [Meladonica](https://open.spotify.com/artist/0CKBzB3A5cgDZhbdtbhQXv) | [Amour](https://open.spotify.com/album/6sAnmQzjKqAN0nJmobdUra) | 2:24 | 2025-09-12 |  |
 | [As If](https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [As If](https://open.spotify.com/album/70l9yOwA3Hrycu1Ls3Zp8k) | 2:23 | 2025-04-28 |  |
@@ -81,6 +82,7 @@
 | [Naima Blue](https://open.spotify.com/track/6W0fhqfHsrodXIuMGoGHia) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [13th Hour, Vol\. 5](https://open.spotify.com/album/51I9i1JoKz9dC5ItpTopgd) | 4:42 | 2025-04-28 |  |
 | [Nectar](https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Nectar](https://open.spotify.com/album/2e7fjwbhErSDkxjs2WQP4p) | 2:15 | 2025-04-28 |  |
 | [Neo Noir](https://open.spotify.com/track/3decquRexcvvZLEPKtWhjE) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Neo Noir](https://open.spotify.com/album/51Y0ZmCNP4vqEKWACcsiWr) | 3:41 | 2025-04-28 |  |
+| [Night in Manhattan](https://open.spotify.com/track/5pUbSE7eZkHBYcETMHilb9) | [Chrome Hours](https://open.spotify.com/artist/78YpGUYzh28JlB6RGSDvru) | [Night in Manhattan](https://open.spotify.com/album/5Di55ac17lK7ne5o8V3mbq) | 2:27 | 2025-09-19 |  |
 | [Now I See](https://open.spotify.com/track/0DBRTvXViJcg76r9EQ6ngu) | [Redeyes](https://open.spotify.com/artist/6bFVG82TmMLbnFFBqG9LYa) | [Now I See](https://open.spotify.com/album/6wn5623NAokok2nuscutZK) | 3:46 | 2025-05-15 |  |
 | [On My Mind](https://open.spotify.com/track/4lVyKOiNZzMaDLrTIuBueR) | [Berner Sen](https://open.spotify.com/artist/78ChEYEGQx7KzLDQJRMpdX) | [On My Mind](https://open.spotify.com/album/11JTZnQI2LHUKY7R8IGkF9) | 2:32 | 2025-04-28 | 2025-07-26 |
 | [On My Own](https://open.spotify.com/track/6TpLC7ywTcj6z8hqlkhZm5) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [On My Own](https://open.spotify.com/album/3RylGkmKHFebiktl4JKv6V) | 2:01 | 2025-06-13 |  |

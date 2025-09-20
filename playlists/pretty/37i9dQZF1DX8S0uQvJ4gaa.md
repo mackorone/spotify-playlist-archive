@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Jason Aldean
+> New music discovery is what we're about\. Try it on for size\. Cover: Vincent Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,668 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305,598 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Foolin' \(with Chase Rice\)](https://open.spotify.com/track/1jusrVUHm4BTMepEIME55D) | [Hannah McFarland](https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Foolin' \(with Chase Rice\)](https://open.spotify.com/album/15kcJlwHh71wPfl5x4P6TX) | 3:00 |
 | 100 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 |
 
-Snapshot ID: `AAAAAJx2vEdcm70sC3MKgboZFkPP6nM9`
+Snapshot ID: `AAAAAJ18M2DZvwofL0oJrg16BbcZMaSA`

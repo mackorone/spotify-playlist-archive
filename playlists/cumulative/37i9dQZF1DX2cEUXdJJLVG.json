@@ -1351,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Catch Onto This Feeling",
+        "url": "https://open.spotify.com/album/2YKlSVsLrYlNpRwElQeCPc"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        },
+        {
+          "name": "Rebiere",
+          "url": "https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326275,
+      "name": "Catch Onto This Feeling",
+      "url": "https://open.spotify.com/track/2ZmAHiwROLEZedDPrXpWoi"
+    },
+    {
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/6w6fnwF3to11WEGJCzM715"
       },

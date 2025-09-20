@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 48718,
+  "num_followers": 48720,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABKM3kDU6yEMBbCIfJIhMKP",
+  "snapshot_id": "aMtLgAAAAACMmLMspwOXz/rsoPLdWxhS",
   "tracks": [
     {
       "added_at": null,
@@ -415,38 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set the Night to Music",
-        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 301946,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 248213,
-      "name": "Hey, That's No Way to Say Goodbye",
-      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -467,22 +435,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of Roberta Flack",
-        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
       },
       "artists": [
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Maxi Priest",
-          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
         }
       ],
-      "duration_ms": 319893,
-      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
+      "duration_ms": 248213,
+      "name": "Hey, That's No Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/130dKZhza6XRe8WSBl1nsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set the Night to Music",
+        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 301946,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/2vXcw6gXsvfmQezYVs9Las"
     },
     {
       "added_at": null,
@@ -499,6 +479,26 @@
       "duration_ms": 243360,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of Roberta Flack",
+        "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Maxi Priest",
+          "url": "https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Set the Night to Music",
+        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299573,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roberta Flack & Donny Hathaway",
         "url": "https://open.spotify.com/album/3t3Ql46lQfRm2Co3SFXkrp"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 220773,
       "name": "For All We Know",
       "url": "https://open.spotify.com/track/1J93LI2FVb7nmseDjZr1S8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Set the Night to Music",
-        "url": "https://open.spotify.com/album/4NH4c6JLgCJeFiVrC5jBez"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299573,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/50ILHnbevWzqVvk1tYm3BO"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 420160,
+      "name": "Ballad of the Sad Young Men",
+      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 602306,
       "name": "It Might Be You",
       "url": "https://open.spotify.com/track/3Rufli1yB8NTPOii0qReSp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Ballad of the Sad Young Men",
-      "url": "https://open.spotify.com/track/5ehP3X3sgOdPnsYDqBIjpF"
     },
     {
       "added_at": null,
@@ -839,22 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+        "name": "Roberta Flack Featuring Donny Hathaway",
+        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
       "artists": [
         {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
-        {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 243666,
-      "name": "I Just Came Here To Dance",
-      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
+      "duration_ms": 246066,
+      "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
+      "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
       "duration_ms": 420986,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roberta Flack Featuring Donny Hathaway",
-        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
-      "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
     },
     {
       "added_at": null,
@@ -931,6 +911,26 @@
       "duration_ms": 303333,
       "name": "River",
       "url": "https://open.spotify.com/track/6rDR6Z8fBLhErGiDjmfOp3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+      },
+      "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "I Just Came Here To Dance",
+      "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
     }
   ],
   "unique_name": "This Is Roberta Flack",

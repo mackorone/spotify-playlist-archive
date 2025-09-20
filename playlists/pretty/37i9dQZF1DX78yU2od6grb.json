@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 546660,
+  "num_followers": 546646,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Snacks (Supersize)",
+        "url": "https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Jacques (with \u202aTove Lo)",
+      "url": "https://open.spotify.com/track/79JqbyvbJ7Shub94aKID7P"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
         "url": "https://open.spotify.com/album/4JMUcayU11ORfD6m7nt5kk"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 177804,
       "name": "Home Sweet Home (feat. ALMA & Digital Farm Animals)",
       "url": "https://open.spotify.com/track/3vIPdMmbsye0YMhXy4GeXt"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Snacks (Supersize)",
-        "url": "https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Jacques (with \u202aTove Lo)",
-      "url": "https://open.spotify.com/track/79JqbyvbJ7Shub94aKID7P"
     },
     {
       "added_at": "2025-02-07 03:01:15",

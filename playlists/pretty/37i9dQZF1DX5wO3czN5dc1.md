@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Vanco, Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,604 likes - 60 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,635 likes - 60 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 15 | [Kiveti \- Meith Remix](https://open.spotify.com/track/06soHZoaX2r21cS6npTUZR) | [Native P.](https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Meith](https://open.spotify.com/artist/2XTv5bUTw9Dm3H730vqdV9) | [Kiveti Remixes](https://open.spotify.com/album/5tzpdAu0wsq8LHt6pMseYR) | 3:28 |
 | 16 | [Ijubane](https://open.spotify.com/track/7AYzgnmvIO2N81DLvpVM31) | [Kay Durban](https://open.spotify.com/artist/5K3fPgj0w9dxOQ9jCRZy1o), [De Rose](https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL) | [Ijubane](https://open.spotify.com/album/4MdxDU3pa3qKzqdo77F6Dy) | 5:33 |
 | 17 | [Vela](https://open.spotify.com/track/5dAG4Hu4N2sBKTfybDfEkG) | [Exte C](https://open.spotify.com/artist/6xUGu0QxJfllDHmB9Pyc23) | [Back 2 Me](https://open.spotify.com/album/6h3Pkw7RB9Be9saRabAKJ4) | 6:32 |
-| 18 | [uMA weNGANE](https://open.spotify.com/track/0BWHYs2o4OGjJlvhFlrmTS) | [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/20dhCI5pqMKm8p64dL54Bg), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [uMA weNGANE](https://open.spotify.com/album/1duwAPyPf4loDJh1npTyhn) | 6:36 |
+| 18 | [uMA weNGANE](https://open.spotify.com/track/0BWHYs2o4OGjJlvhFlrmTS) | [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [uMA weNGANE](https://open.spotify.com/album/1duwAPyPf4loDJh1npTyhn) | 6:36 |
 | 19 | [Izinkinga Zami \(feat\. SG MusiQ\)](https://open.spotify.com/track/45oRgTSNn47SIa0st2CD69) | [Mluh](https://open.spotify.com/artist/2bavf3dLjihyCssEXzJrSA), [Thoby Dladla](https://open.spotify.com/artist/0kyaZ9bi9LIKEqRhpZssLo), [SG MusiQ](https://open.spotify.com/artist/0FAM9jpB9wPPb68FnjqKpA) | [Izinkinga Zami \(feat\. SG MusiQ\)](https://open.spotify.com/album/7GKVqDgJwdA8gGD6NNyRli) | 5:57 |
 | 20 | [Mulalo](https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw) | [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Mulalo](https://open.spotify.com/album/4xWjt3o0s8X3L61UHleJYZ) | 3:32 |
 | 21 | [Ukuphumelela](https://open.spotify.com/track/2CiDQsPXQsl80PodS2DM3a) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [BosPianii](https://open.spotify.com/artist/1n8CWNLpUdGV8MaWzxRZcl), [Sponch Makhekhe](https://open.spotify.com/artist/2I2bM9sQKABXCNFg5V6YrX) | [Ukuphumelela](https://open.spotify.com/album/0Cu0yU8Xbr1n4g1PWfktQQ) | 5:41 |

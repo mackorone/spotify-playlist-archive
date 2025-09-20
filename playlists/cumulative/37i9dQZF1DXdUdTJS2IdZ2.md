@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: brb.
 
-974 songs - 2 day 5 hr 5 min
+975 songs - 2 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Casual Obsession](https://open.spotify.com/track/0tEb7kJ6kbELWAVQuH8lSv) | [Last Minute](https://open.spotify.com/artist/2ZYrspk56dQKcbXRXFEiGp) | [Casual Obsession](https://open.spotify.com/album/38g96e5dd0vGkqOmKJsGqH) | 4:23 | 2025-07-10 | 2025-08-22 |
 | [Catching Sunlight](https://open.spotify.com/track/2KUKhICgPumBHWp6g3iT0O) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Catching Sunlight](https://open.spotify.com/album/3f065HtWavzYVzk4tsMnze) | 2:41 | 2025-08-28 |  |
 | [Cecilia](https://open.spotify.com/track/2s65OnZf9qEqhtixjuexX6) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [Cecilia](https://open.spotify.com/album/1K5HPlcVA6LSD74GhydxR4) | 3:58 | 2025-01-23 | 2025-04-12 |
+| [CELLOPHANE](https://open.spotify.com/track/1icvCIhAcPDIsJPxV3sLYT) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [B&B: CELLOPHANE + BITTER TASTE](https://open.spotify.com/album/6MSA7cu8zjhLHXji2tlF2l) | 3:03 | 2025-09-18 |  |
 | [Centre of Attention](https://open.spotify.com/track/6xjtBSU6NOg4W8cjuqpN7E) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Swim, Swim](https://open.spotify.com/album/0KaNwNqaZmXPVswyBO8tVt) | 3:03 | 2025-04-03 | 2025-05-09 |
 | [Change Your Mind \- Jazz Fusion Version](https://open.spotify.com/track/00FxBXJcinhdr622vJm5um) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI), [Music & Drama Company](https://open.spotify.com/artist/6F0FRmiLkGbermJLzHhMRr) | [Change Your Mind \- Jazz Fusion Version](https://open.spotify.com/album/48qu17x0Gc2PiWR4cNNgGa) | 2:46 | 2025-03-27 | 2025-05-02 |
 | [Changes](https://open.spotify.com/track/7lxCtY8sTOlnKvLkt3WDWN) | [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7), [Austin Shugart](https://open.spotify.com/artist/5nRhk1m3BqVpgN9QHupSfQ) | [Changes](https://open.spotify.com/album/2DrvlXXvffBHZku6hdzOtN) | 2:07 | 2024-06-27 | 2024-07-19 |
@@ -261,6 +262,7 @@
 | [FORREAL](https://open.spotify.com/track/3oPnaQtyGBUAXddbS3VB6u) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [FORREAL](https://open.spotify.com/album/2P5TpRumi3AvoIAMten2NO) | 1:36 | 2025-03-27 | 2025-05-09 |
 | [Four Leaf Clover](https://open.spotify.com/track/4abVgxtPYubeRK5p9naUwF) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Andreas Arianto](https://open.spotify.com/artist/1DQGUYEr9OxSlu11lxWizY) | [Four Leaf Clover](https://open.spotify.com/album/1W2Ua0mnx5kT9gg0XG51SX) | 3:36 | 2025-07-03 | 2025-08-15 |
 | [Fragile](https://open.spotify.com/track/1bV0qAvSM4wGuht2Jxyovk) | [Amanda Tee](https://open.spotify.com/artist/4PVNQJJbRrnbEnD15Md5mE), [Sarah Yap](https://open.spotify.com/artist/0xMYLdoz0zIkAro3L88OeZ) | [Fragile](https://open.spotify.com/album/4BIpa18w1O4Fs9DCJsJRk4) | 3:31 | 2025-05-29 | 2025-06-13 |
+| [fragments](https://open.spotify.com/track/72r9HFW0xRccGiQrDXWmVd) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [pov:](https://open.spotify.com/album/1Zwq6jxImEsiFtYfT7yjGb) | 3:43 | 2025-09-18 |  |
 | [Frame By Frame](https://open.spotify.com/track/3fX6nY85wiyX1QnxWg2h6u) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Frame By Frame](https://open.spotify.com/album/03KHXeojNDVdJJeW2MSPTi) | 2:50 | 2025-07-24 | 2025-09-12 |
 | [Fridge](https://open.spotify.com/track/07f6FVyaBREnqrpYvAf3A3) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Fridge](https://open.spotify.com/album/156WbTOOVi5e5oRV9Y7fhe) | 3:05 | 2024-10-17 | 2024-11-22 |
 | [friend](https://open.spotify.com/track/5kUvjEjP1mD4aRCdbUaAdO) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y), [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690) | [friend](https://open.spotify.com/album/5Y35b7wTtFFhpHXR3zYbcV) | 2:47 | 2024-06-27 | 2024-08-30 |
@@ -774,7 +776,6 @@
 | [too pretty \(to be worried\)](https://open.spotify.com/track/7ta7gwuiwwTGjeuXPTPRPF) | [kahmy](https://open.spotify.com/artist/1o0ZpWuj4Az5JH5w28EvPN) | [too pretty \(to be worried\)](https://open.spotify.com/album/2rnZ19XUfUyG8UMhYzKY4V) | 3:33 | 2025-08-07 | 2025-09-05 |
 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 | 2024-10-10 | 2024-11-09 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-09-27 |
-| [Track 6](https://open.spotify.com/track/72r9HFW0xRccGiQrDXWmVd) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [TRACK D](https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq) | [DAC](https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK D](https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Transportation Blues](https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG) | [Stopgap](https://open.spotify.com/artist/60dCRxcmRMSw9WovWPtI8g) | [Transportation Blues](https://open.spotify.com/album/53h0nva44FuOhRdSAULeYb) | 4:35 | 2024-11-08 | 2024-11-29 |
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |

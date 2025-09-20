@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-483 songs - 1 day 2 hr 51 min
+486 songs - 1 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Left Me Behind](https://open.spotify.com/track/2KOm0xOCgBoneUM9WJpZen) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Left Me Behind](https://open.spotify.com/album/5kUutwJP6xDarglGAhnW1n) | 4:54 | 2025-06-27 |  |
 | [Less Stress](https://open.spotify.com/track/2bIUrjwlTuuzpMdWFU5pCx) | [Skinny Dyck](https://open.spotify.com/artist/1saewocg14MmejEW9t4SZL) | [Easygoing](https://open.spotify.com/album/5I7ecirlZpSSDtUFEQ6XNQ) | 3:20 | 2024-10-25 | 2024-11-02 |
 | [Let 'Em Talk](https://open.spotify.com/track/4aerXR1Ra8EtNxTnlmAXLQ) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Let 'Em Talk](https://open.spotify.com/album/0uUln8pwGDVuF96thPSkIs) | 3:46 | 2024-08-02 | 2024-09-07 |
+| [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 | 2025-09-19 |  |
 | [LETTER TO GOD](https://open.spotify.com/track/1yUTtzYbLjQNO8iz6ml6hR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [SIXER](https://open.spotify.com/album/7lO4zrnPXfc8KB4IXJR6at) | 2:51 | 2025-01-24 | 2025-03-22 |
 | [LIE TO ME](https://open.spotify.com/track/5ELpUMNlLWYAARo4irK4sG) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [LIE TO ME](https://open.spotify.com/album/6IjYkGUSlK9x0GH4DBbHeE) | 2:44 | 2025-01-24 | 2025-03-22 |
 | [Little Bit Crazy](https://open.spotify.com/track/0mxbf0VhKWQEJP7EOreW7S) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Little Bit Crazy](https://open.spotify.com/album/5ylhtzNNV3OjgFkG1ooE7a) | 4:46 | 2023-11-03 | 2024-02-03 |
@@ -286,6 +287,7 @@
 | [Marlboro Reds](https://open.spotify.com/track/19TnlbG8jNMzZlxJXbEBbg) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Marlboro Reds](https://open.spotify.com/album/1a7qgV53wxD7SClLghmB27) | 3:07 | 2024-02-02 | 2024-06-01 |
 | [Me Most Nights](https://open.spotify.com/track/4BvaS7w9Cu0Psc8VGwXFDh) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Me Most Nights](https://open.spotify.com/album/1GO6f9KNUrqQKufeKGS0qc) | 2:39 | 2025-04-04 | 2025-06-28 |
 | [Meant to Be Friends](https://open.spotify.com/track/1WwxUd7O771ekVCBnAUrt3) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [..\. And What Was Left Behind](https://open.spotify.com/album/1hI9VULoMlRbwNSQ2Yhf4z) | 3:03 | 2025-04-11 | 2025-06-21 |
+| [Measure \- feat\. Max McNown](https://open.spotify.com/track/2cYH8hnffROSkisIuBSG1O) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Measure \(feat\. Max McNown\)](https://open.spotify.com/album/6tWUs44CCd1z88cGYPOebf) | 3:17 | 2025-09-19 |  |
 | [Memories We Never Made](https://open.spotify.com/track/6ZuC9soVLqp6ZY8DaS4pro) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [Memories We Never Made](https://open.spotify.com/album/7KlHACXjbYLrz3ylkZGv4O) | 3:28 | 2025-08-15 |  |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-03 | 2025-02-22 |
 | [Miss You Man](https://open.spotify.com/track/5LTVOVj96FP3GOYJyjbbQz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Miss You Man](https://open.spotify.com/album/7F291iQJw9GS7fN6dz8MNc) | 3:24 | 2025-07-25 |  |
@@ -482,6 +484,7 @@
 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 | 2024-09-13 | 2024-10-26 |
 | [Wreckage \- Live](https://open.spotify.com/track/5zHB9D7aOex9INWtPJt1Kb) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage \(Live\)](https://open.spotify.com/album/0kfcUkCxICzTR7iO6owi9O) | 3:31 | 2023-11-03 | 2023-12-16 |
 | [Write One \(feat\. Keith Urban\)](https://open.spotify.com/track/1Tbpnf062epELxIkBIAbp0) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Write One](https://open.spotify.com/album/2gcIooEpz82RkFbZPNjcgr) | 3:10 | 2024-06-07 | 2024-09-21 |
+| [Written In Stone](https://open.spotify.com/track/4K85ODHSrXi0dWqEtJhwJe) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Written In Stone](https://open.spotify.com/album/5LMmcofa5NbYqP8EkMTj7n) | 2:57 | 2025-09-19 |  |
 | [WTH JUST HAPPENED?](https://open.spotify.com/track/1IJGj9fkN9gXtvYzbh5hhW) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [WTH JUST HAPPENED?](https://open.spotify.com/album/0njVtQB4av2tgkpxdPfMMF) | 3:23 | 2025-05-02 | 2025-07-19 |
 | [You Did It Too](https://open.spotify.com/track/0rurBqyN7b9tKSp78YYc4v) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Did It Too](https://open.spotify.com/album/3LU2HeXJYSdxfFcPXVLA6U) | 3:04 | 2024-02-02 | 2024-06-08 |
 | [you don't deserve a country song \- Live from the Ryman](https://open.spotify.com/track/5L7WGjIElVTxfZ7gXYYeg0) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Alana Springsteen: Live from the Ryman](https://open.spotify.com/album/3lEZ56PjLi31aGcN3jQnk6) | 4:41 | 2025-01-24 | 2025-03-29 |

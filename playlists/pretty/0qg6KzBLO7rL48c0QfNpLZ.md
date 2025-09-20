@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,975 likes - 127 songs - 5 hr 31 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 109,962 likes - 133 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,11 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 125 | [Edge of Desire \- Grigoré & Serve Cold Remix](https://open.spotify.com/track/1c6RdSyRJhMYQkSU6LUQEn) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Edge of Desire \(Grigoré & Serve Cold Remix\)](https://open.spotify.com/album/70zilcYKAum6da4NKWVkDE) | 3:24 |
 | 126 | [The One](https://open.spotify.com/track/0dyChP0JnFXTjSIqdpRPbE) | [Avista Band](https://open.spotify.com/artist/4V0OLM23lX2E4Wt5HhXU6Q) | [The One](https://open.spotify.com/album/64dVOoGX2ItgKr8Js8f2Gv) | 2:46 |
 | 127 | [Back To Life](https://open.spotify.com/track/7aTVdaOk1WISfbuTVJw8EG) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Le Bok](https://open.spotify.com/artist/29FYBcFeHQ8z432memmfvF), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY) | [Back To Life](https://open.spotify.com/album/2xXaPI29IwS1St0SP7uvjk) | 2:43 |
+| 128 | [Don't Be Afraid](https://open.spotify.com/track/1UTVHEwU4YgxF6qN9aOqKo) | [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx) | [Don't Be Afraid](https://open.spotify.com/album/7hRk0EWjWetRRAn8Pcl9gs) | 2:16 |
+| 129 | [Lonely](https://open.spotify.com/track/0BAa3Q0mchnIpjNLOROwwJ) | [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D), [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY) | [Lonely](https://open.spotify.com/album/3ONM4W4ug6OFfeiqHJs0ch) | 1:51 |
+| 130 | [Jewels \(Stuck On You\)](https://open.spotify.com/track/1MCVV41JmQoCDQQewDhnlW) | [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [Annahita](https://open.spotify.com/artist/3G64thGPPGf8vQP7ZSuIZs) | [Jewels \(Stuck On You\)](https://open.spotify.com/album/4vSSCM2ELNfd3KjMgGY4U9) | 2:53 |
+| 131 | [The Right Time](https://open.spotify.com/track/6l52VSiGFRHFnuHn27jp8T) | [Moonkids](https://open.spotify.com/artist/2OozlR5HfAAp7LwPmOxcsm) | [The Right Time](https://open.spotify.com/album/5SPns5ZS7TKIDXcIh2qsA1) | 2:18 |
+| 132 | [Can't Take My Eyes Off You](https://open.spotify.com/track/7lIzKPkQt0HpYTXxlcDvjE) | [Sarah Berg](https://open.spotify.com/artist/58GK9mZiINEotW5TokOgUs) | [Can't Take My Eyes Off You](https://open.spotify.com/album/6CsOJCea4cwzWF6t6hMU3a) | 2:15 |
+| 133 | [Love After Love](https://open.spotify.com/track/4tOYaHjIW3sb6mPt7fIA4H) | [Almost Weekend](https://open.spotify.com/artist/6FCDyfws4NWiy6eQbZR40O), [Max Vermeulen](https://open.spotify.com/artist/35V85QUB0dxx7I4Q6AAc5w), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Love After Love](https://open.spotify.com/album/1zpqtg4zGSAK4vCrzZcbmg) | 2:48 |
 
-Snapshot ID: `AAAhPZLg54/SsTWR64sBp4wseKBbNgvV`
+Snapshot ID: `AAAhQ1ZLeLBh47030LCXo6QIQazYUKDP`

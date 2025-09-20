@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,368 likes - 197 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,376 likes - 197 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

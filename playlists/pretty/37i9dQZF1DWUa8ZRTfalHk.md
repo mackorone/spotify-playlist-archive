@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> Who's now and next in pop\. Cover: Kali Uchis & Ravyn Lenae
+> Who's now and next in pop\. Cover: Madison Beer
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,206,131 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,206,711 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 99 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 100 | [Easy Does It](https://open.spotify.com/track/70v1ILapgu1QnTlOyKGrJr) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Easy Does It](https://open.spotify.com/album/2EZsexfZ6Rys7I7ZB3sxIz) | 4:07 |
 
-Snapshot ID: `AAAAAFSD0Yqfxyqo4bpinR22dLqaWOpg`
+Snapshot ID: `AAAAAE5EAO9SLw8Toywocd/hz+pFRc4P`

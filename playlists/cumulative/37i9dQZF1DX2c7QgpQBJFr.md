@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  CLARA in cover
 
-818 songs - 1 day 14 hr 34 min
+819 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [Non x Soldi](https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [NON X SOLDI](https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg) | 2:39 | 2025-05-01 | 2025-07-18 |
 | [NON È DOMENICA](https://open.spotify.com/track/2OCnhdAKQOUKFcILscyAcU) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [NON È DOMENICA](https://open.spotify.com/album/3uBR98hoGVgJNahHGWsfyT) | 2:33 | 2025-01-09 | 2025-02-28 |
 | [Non è la mia](https://open.spotify.com/track/1b7fIMYmrr7kg4o4ek5l3n) | [Nuova Memoria](https://open.spotify.com/artist/64ruzQ19NJfnKExLna3xJd), [Cusu](https://open.spotify.com/artist/694sp2sd59eYihuAGcQpPc), [Giustinø](https://open.spotify.com/artist/4F7UrjTdPHZyDRC52VMM08) | [NVAMR001](https://open.spotify.com/album/2JeNU4OxLSGmDt8IGBZP8n) | 2:53 | 2024-07-04 | 2024-08-23 |
+| [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-09-19 |  |
 | [NONOSTANTE LA MUSICA](https://open.spotify.com/track/6YlZPXXNS46yCG3igQUqQ1) | [LINDA](https://open.spotify.com/artist/50c2SwGX2DmpRjwespS3mv), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [NONOSTANTE LA MUSICA](https://open.spotify.com/album/0WDObV2rGXa36fSWGkkg5k) | 2:33 | 2025-08-07 |  |
 | [NOSTALGIA & KARAOKE](https://open.spotify.com/track/7reLvPq3D67vtIgVQnQQLV) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [NOSTALGIA & KARAOKE](https://open.spotify.com/album/21J2V4JI35KVtUTVLCoWb2) | 3:36 | 2025-04-10 | 2025-06-06 |
 | [NOTRE\-DAME](https://open.spotify.com/track/14TGHLk71qfAez0F1Gqc3T) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm), [Raffucs](https://open.spotify.com/artist/4VmZQVUEWM65SsJf6W3qDo) | [ISTINTO ANIMALE](https://open.spotify.com/album/6OddaItV5WZhEPr4kXl1jr) | 3:00 | 2024-06-27 | 2024-08-02 |

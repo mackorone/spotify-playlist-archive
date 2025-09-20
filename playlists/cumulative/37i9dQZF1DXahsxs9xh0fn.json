@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "hot people know that fall starts in august",
+  "description": "anything by adrianne lenker on repeat ",
   "name": "fall feels",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 261734,
       "name": "August",
       "url": "https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS"
@@ -1346,6 +1346,32 @@
       "duration_ms": 181482,
       "name": "Cottage Roads",
       "url": "https://open.spotify.com/track/1LEK0kOPQrWihpzZO4rMkN"
+    },
+    {
+      "album": {
+        "name": "Crying in the Night",
+        "url": "https://open.spotify.com/album/33LW94s93xeDtCb00OT02P"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179014,
+      "name": "Crying in the Night",
+      "url": "https://open.spotify.com/track/39EnwJiZJ9q3hqcnKaJwlB"
     },
     {
       "album": {
@@ -3763,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249813,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
@@ -4013,7 +4057,7 @@
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196363,
+      "duration_ms": 195434,
       "name": "The Sick",
       "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
     },

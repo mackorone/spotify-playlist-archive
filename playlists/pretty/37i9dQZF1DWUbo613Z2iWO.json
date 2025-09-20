@@ -1,18 +1,34 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover:  BOYSODA",
-  "num_followers": 56779,
+  "description": "R&B of the moment by the artists of the future. Cover:  L\u00c9A THE LEOX",
+  "num_followers": 56791,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAObjs9Q3S2/J/oqdmJeqeHm8QhAR",
+  "snapshot_id": "AAAAAPVRx48bzY6iB6ua4CPVUa62Zl0Q",
   "tracks": [
     {
-      "added_at": "2025-09-12 19:06:48",
+      "added_at": "2025-09-19 05:52:17",
       "album": {
-        "name": "Never the Same",
-        "url": "https://open.spotify.com/album/5Tqy8bidgwF0uhWQ3TRgIm"
+        "name": "YouAndMe",
+        "url": "https://open.spotify.com/album/4us6tJ6JXMCVy8LPzq7dVO"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 174625,
+      "name": "YouAndMe",
+      "url": "https://open.spotify.com/track/0VmI6CdAptZsED2B2HLJVB"
+    },
+    {
+      "added_at": "2025-06-06 06:15:40",
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5"
       },
       "artists": [
         {
@@ -20,9 +36,145 @@
           "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Never the Same",
-      "url": "https://open.spotify.com/track/3cICWi44Hk5tD3DL8Qf9N3"
+      "duration_ms": 202597,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq"
+    },
+    {
+      "added_at": "2025-09-19 05:07:46",
+      "album": {
+        "name": "Boo Thang Bootcamp",
+        "url": "https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 175953,
+      "name": "Boo Thang Bootcamp",
+      "url": "https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H"
+    },
+    {
+      "added_at": "2025-09-19 05:07:46",
+      "album": {
+        "name": "The Last Great American Summer",
+        "url": "https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 205495,
+      "name": "FAKE",
+      "url": "https://open.spotify.com/track/2TtD1mFpD1PKaCPGJvONRV"
+    },
+    {
+      "added_at": "2025-09-12 19:06:48",
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
+    },
+    {
+      "added_at": "2025-09-19 05:07:46",
+      "album": {
+        "name": "the one",
+        "url": "https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 146361,
+      "name": "the one",
+      "url": "https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "I Love Nali",
+        "url": "https://open.spotify.com/album/3bPF5QY7iX3RGJqTWwN8iy"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        }
+      ],
+      "duration_ms": 111844,
+      "name": "all day",
+      "url": "https://open.spotify.com/track/6mo4tHSZ4cI0TpAy7Pum7Y"
+    },
+    {
+      "added_at": "2025-09-19 05:07:46",
+      "album": {
+        "name": "LOOSE",
+        "url": "https://open.spotify.com/album/7m5SpgptEu0kD2s0a0jh7U"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        },
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "LOOSE",
+      "url": "https://open.spotify.com/track/7I0OBcIj0vjzSvcGExnI1h"
+    },
+    {
+      "added_at": "2025-09-12 19:06:48",
+      "album": {
+        "name": "congrats!",
+        "url": "https://open.spotify.com/album/72AChoj5jMuu3pUmreZuDi"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        }
+      ],
+      "duration_ms": 114590,
+      "name": "congrats!",
+      "url": "https://open.spotify.com/track/0RYY0u4NqZR42QODlHBSZ5"
+    },
+    {
+      "added_at": "2025-09-19 05:07:46",
+      "album": {
+        "name": "Chronosick",
+        "url": "https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "duration_ms": 171875,
+      "name": "Hurts Anymore",
+      "url": "https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr"
     },
     {
       "added_at": "2025-09-05 04:00:30",
@@ -43,54 +195,6 @@
       "duration_ms": 170564,
       "name": "BROWN SUGAH",
       "url": "https://open.spotify.com/track/2lP4A3vu4O8SwZz1Tss6IC"
-    },
-    {
-      "added_at": "2025-09-12 19:06:48",
-      "album": {
-        "name": "JUICY",
-        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 192221,
-      "name": "JUICY",
-      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "I Love Nali",
-        "url": "https://open.spotify.com/album/3bPF5QY7iX3RGJqTWwN8iy"
-      },
-      "artists": [
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        }
-      ],
-      "duration_ms": 111844,
-      "name": "all day",
-      "url": "https://open.spotify.com/track/6mo4tHSZ4cI0TpAy7Pum7Y"
-    },
-    {
-      "added_at": "2025-09-12 19:06:48",
-      "album": {
-        "name": "congrats!",
-        "url": "https://open.spotify.com/album/72AChoj5jMuu3pUmreZuDi"
-      },
-      "artists": [
-        {
-          "name": "reggie",
-          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
-        }
-      ],
-      "duration_ms": 114590,
-      "name": "congrats!",
-      "url": "https://open.spotify.com/track/0RYY0u4NqZR42QODlHBSZ5"
     },
     {
       "added_at": "2025-09-05 04:00:30",
@@ -161,22 +265,6 @@
       "url": "https://open.spotify.com/track/7otlZUPRHB70vFbkauGf17"
     },
     {
-      "added_at": "2025-08-15 07:28:53",
-      "album": {
-        "name": "TREAT ME",
-        "url": "https://open.spotify.com/album/3t75ftuVsjFiUMxcCC3N1X"
-      },
-      "artists": [
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "TREAT ME",
-      "url": "https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl"
-    },
-    {
       "added_at": "2025-09-12 19:06:48",
       "album": {
         "name": "Au",
@@ -213,22 +301,6 @@
       "url": "https://open.spotify.com/track/1WAPQA1fOxF595DipOvVnw"
     },
     {
-      "added_at": "2025-09-05 04:00:30",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
-    },
-    {
       "added_at": "2025-08-29 19:55:22",
       "album": {
         "name": "Dreamland",
@@ -261,20 +333,20 @@
       "url": "https://open.spotify.com/track/7zIS9pKDkKQVUedycOP6kK"
     },
     {
-      "added_at": "2025-08-15 07:28:53",
+      "added_at": "2025-09-19 05:07:46",
       "album": {
-        "name": "be careful",
-        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
+        "name": "Faces",
+        "url": "https://open.spotify.com/album/32mhSctEoshvXv1xoenks0"
       },
       "artists": [
         {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
         }
       ],
-      "duration_ms": 203940,
-      "name": "be careful",
-      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
+      "duration_ms": 172101,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/4Q1pCz12OHeDwBuYgmqRki"
     },
     {
       "added_at": "2025-09-05 04:00:30",
@@ -307,6 +379,38 @@
       "duration_ms": 140689,
       "name": "i like just how you like me",
       "url": "https://open.spotify.com/track/5kJ45QtERi21dHsz2rrOyG"
+    },
+    {
+      "added_at": "2025-09-05 04:00:30",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
+    },
+    {
+      "added_at": "2025-08-15 07:28:53",
+      "album": {
+        "name": "TREAT ME",
+        "url": "https://open.spotify.com/album/3t75ftuVsjFiUMxcCC3N1X"
+      },
+      "artists": [
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "TREAT ME",
+      "url": "https://open.spotify.com/track/1OzE3r605HVqgqwRi4nYYl"
     },
     {
       "added_at": "2025-09-12 19:06:48",
@@ -423,6 +527,38 @@
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
+    },
+    {
+      "added_at": "2025-09-12 19:06:48",
+      "album": {
+        "name": "Never the Same",
+        "url": "https://open.spotify.com/album/5Tqy8bidgwF0uhWQ3TRgIm"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Never the Same",
+      "url": "https://open.spotify.com/track/3cICWi44Hk5tD3DL8Qf9N3"
+    },
+    {
+      "added_at": "2025-08-15 07:28:53",
+      "album": {
+        "name": "be careful",
+        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 203940,
+      "name": "be careful",
+      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
     },
     {
       "added_at": "2025-09-05 04:00:30",
@@ -1845,22 +1981,6 @@
       "url": "https://open.spotify.com/track/4Gu68yR7HMgDBE9fQgiAvM"
     },
     {
-      "added_at": "2025-06-27 04:00:50",
-      "album": {
-        "name": "Archive 002",
-        "url": "https://open.spotify.com/album/5KoVDwW66ZKknCK2LFrG5F"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 170884,
-      "name": "More and More",
-      "url": "https://open.spotify.com/track/1yCEZHTHo71hpuV53k5yS3"
-    },
-    {
       "added_at": "2025-06-20 04:00:55",
       "album": {
         "name": "Divinely Devoted",
@@ -2281,22 +2401,6 @@
       "url": "https://open.spotify.com/track/0r0F65GN6g3Bo2QGLqfocv"
     },
     {
-      "added_at": "2025-06-06 06:15:40",
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/6gP5fv2vn48QHO44clXsi5"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/7Eo9P9znoVf3kViiNz8NNq"
-    },
-    {
       "added_at": "2025-05-30 04:33:38",
       "album": {
         "name": "Sleepwalking",
@@ -2461,22 +2565,6 @@
       "url": "https://open.spotify.com/track/2q525jOBsyaEvP9OnNaA8c"
     },
     {
-      "added_at": "2025-05-16 13:42:09",
-      "album": {
-        "name": "Lil' Obsession",
-        "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 181921,
-      "name": "Lil' Obsession",
-      "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
-    },
-    {
       "added_at": "2025-05-30 04:33:38",
       "album": {
         "name": "My Girls (feat. Sierra Sellers)",
@@ -2559,22 +2647,6 @@
       "duration_ms": 212800,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/6FBFKoNIBfCRSLTQ5s27gD"
-    },
-    {
-      "added_at": "2025-05-09 04:00:22",
-      "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/5PnshvGWjRU4PWGcnBBbbs"
-      },
-      "artists": [
-        {
-          "name": "CHOSZN",
-          "url": "https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK"
-        }
-      ],
-      "duration_ms": 162833,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/3ptalT1zhIEaJwZ355KxpA"
     },
     {
       "added_at": "2025-05-09 04:00:22",
@@ -3329,26 +3401,6 @@
       "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
     },
     {
-      "added_at": "2024-10-18 19:42:43",
-      "album": {
-        "name": "Make Money (feat. Mereba)",
-        "url": "https://open.spotify.com/album/3u56W9N5UzKF7ZWVfwHLui"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 231577,
-      "name": "Make Money (feat. Mereba)",
-      "url": "https://open.spotify.com/track/3boX0zz8RxicdCuPK8TVdb"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Passenger Princess (Remix)",
@@ -3369,22 +3421,6 @@
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "LOVE/HATE Pt. 2",
-        "url": "https://open.spotify.com/album/3xjdl27Ab0t5g8uMNHL4dG"
-      },
-      "artists": [
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "don't text me back",
@@ -3399,22 +3435,6 @@
       "duration_ms": 201000,
       "name": "all over u",
       "url": "https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Your Ecstasy",
-        "url": "https://open.spotify.com/album/3rvVKbEF5GQWdjA4RfEshs"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 228261,
-      "name": "Your Ecstasy",
-      "url": "https://open.spotify.com/track/347G6GmaMD9JQbv7LKAILT"
     }
   ],
   "unique_name": "R&B Rising",

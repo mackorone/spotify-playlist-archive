@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: Marianne Mirage
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,145 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,152 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Il Campo](https://open.spotify.com/track/15YKyf3Ps6c8NeVOGe8KXv) | [Marianne Mirage](https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0) | [Il Campo](https://open.spotify.com/album/5qgJ6Q4gCCTno6LRIiJggK) | 2:46 |
 | 2 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 |
 | 3 | [Piangere al lavoro](https://open.spotify.com/track/2Uuh4QVOssmk5rAkj9AnWZ) | [Ministri](https://open.spotify.com/artist/6an9YCv0S0Mj3rsaD9Ahpz) | [Aurora Popolare](https://open.spotify.com/album/2YGIiQGaU0U3ejGfqzogML) | 3:11 |
-| 4 | [l'eleganza del mango](https://open.spotify.com/track/0GhaqzRaKbaGSrWN2PG9d8) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [](https://open.spotify.com/album/null) | 2:56 |
+| 4 | [l'eleganza del mango](https://open.spotify.com/track/0GhaqzRaKbaGSrWN2PG9d8) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [L'eleganza del mango](https://open.spotify.com/album/1xak8mJSWTDXHtHhcmLFJ1) | 2:56 |
 | 5 | [A te](https://open.spotify.com/track/6F88d4qWZIQo0mHPkLVPn2) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Luna di Miele](https://open.spotify.com/album/1xDLw26FaQjLnRY62Bgwvg) | 2:57 |
 | 6 | [Alla fine sono io](https://open.spotify.com/track/3EvpIddH9cO100i8pVLnPu) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Alla fine sono io](https://open.spotify.com/album/1ODnuHhNL6JucN5q0mbxjH) | 2:40 |
 | 7 | [Spizza](https://open.spotify.com/track/3zQZjJwkvH3bHYhBY0r0rk) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [FIVE EGGS](https://open.spotify.com/album/5UzAxxWmiiraZblxFoUBCv) | 3:46 |

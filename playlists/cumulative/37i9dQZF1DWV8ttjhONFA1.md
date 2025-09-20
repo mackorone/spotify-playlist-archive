@@ -4,7 +4,7 @@
 
 > Sonido independiente y nacional\. Foto: 1915
 
-424 songs - 23 hr 11 min
+427 songs - 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [daigo parry \- ODD MAMI](https://open.spotify.com/track/6TFMHx4XtnPMxsdy9CZCna) | [Guacho Bleu](https://open.spotify.com/artist/6aCzr3JU58kboMXNqu8QGo), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [daigo parry \- ODD MAMI](https://open.spotify.com/album/1GnT4PsqOahmGczmhGXOPO) | 3:10 | 2024-05-10 | 2024-07-06 |
 | [Dame](https://open.spotify.com/track/1pxxpLKCYBNWa8f5TP8Xpq) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY) | [Dame](https://open.spotify.com/album/5ozohAzMDOjPCCfXWeIa2J) | 3:15 | 2024-02-16 | 2024-04-13 |
 | [Dancetrip](https://open.spotify.com/track/2Gjzms6fFNJ4ZHYHuPyE1q) | [Ramen](https://open.spotify.com/artist/5jWacEhguFlTSl6ISl3CIh) | [Dancetrip](https://open.spotify.com/album/2vzBEb0IItNiwsrui6WBGu) | 2:19 | 2025-08-18 |  |
+| [de amor](https://open.spotify.com/track/2aTErhZNKXlUIh9OBHcMAF) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:25 | 2025-09-19 |  |
 | [De Fábrica](https://open.spotify.com/track/6vPW7S8aaT7CttBIcew6ld) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica](https://open.spotify.com/album/0au5YMCSJqzY6ULb8Qqzd0) | 4:18 | 2024-09-06 |  |
 | [De Otra Vida](https://open.spotify.com/track/3c27ZTYS7cKiySSBNElVAh) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Una Dosis de Terciopelo](https://open.spotify.com/album/6UgJn3Do0qF5Q28RsGIdKd) | 4:16 | 2023-12-15 | 2024-04-06 |
 | [Delfin](https://open.spotify.com/track/0KRGu9DnyDdJAuZ3Ivw9UV) | [Color Sirena](https://open.spotify.com/artist/4qLRfV3rrNJNBgIGHexhUk), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [Ficciones](https://open.spotify.com/album/3PxmJDkSUG0mpsSAkDa6Do) | 3:55 | 2024-10-18 | 2025-02-01 |
@@ -184,6 +185,7 @@
 | [HAT TRICK](https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [YASS](https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy) | 3:05 | 2024-08-16 | 2025-06-07 |
 | [He fakin loves me!](https://open.spotify.com/track/6b7gmH9nE2RjN0jjGt1rMr) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [He fakin loves me!](https://open.spotify.com/album/2hQjdV56JcnFQmW6URFkDA) | 2:51 | 2024-06-14 | 2024-07-13 |
 | [Hechizao](https://open.spotify.com/track/5pm2qaWB2aeoa5B2kFjQXg) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Sueño Cítrico](https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf) | 2:23 | 2024-04-05 | 2024-09-07 |
+| [Hola Desde Lejos](https://open.spotify.com/track/4UyxrT9cYjyrHNwsLwo73w) | [Pupa](https://open.spotify.com/artist/4DeufbCPBkq8eqpPRAiuqh) | [Hola Desde Lejos](https://open.spotify.com/album/5XJBbtZ52efSi8ahmDh3y2) | 3:31 | 2025-09-19 |  |
 | [hoy estoy en otra parte ⋆⁺₊✧](https://open.spotify.com/track/2pqgcrRfFM3HFpNdUtEzXd) | [Linxes](https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx) | [hoy estoy en otra parte ⋆⁺₊✧](https://open.spotify.com/album/1e8vced5iaIQnaZf5Y4kXI) | 2:49 | 2025-06-06 |  |
 | [igual o mejor](https://open.spotify.com/track/4fJ9CNXe3uEIZfQEcc5ZOE) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [igual o mejor](https://open.spotify.com/album/2AgaXT4zgEuHg93TXrA8Zc) | 3:35 | 2024-12-06 |  |
 | [Igual que sobrevivir](https://open.spotify.com/track/60oT7H969s3xAfLGFvgjGt) | [GERO](https://open.spotify.com/artist/0yJdH7HHacvB0UopMceKZl) | [Igual que sobrevivir](https://open.spotify.com/album/1SvSDn4MExGrf0Xn85Frmg) | 3:30 | 2025-05-09 |  |
@@ -192,6 +194,7 @@
 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 | 2024-08-23 | 2025-08-19 |
 | [Instante](https://open.spotify.com/track/4PgnCEcjyZtYlK5m3OFmco) | [Majo Chicar](https://open.spotify.com/artist/2t1ZWcvmcsJnj9yCRuzvOG), [Dani Rodríguez](https://open.spotify.com/artist/5Ytqx2mdkcV9h7ql5zEsVL) | [Instante](https://open.spotify.com/album/3uusU8tTfsD88r9DPyhvyf) | 2:33 | 2025-08-18 |  |
 | [INVENCIBLES](https://open.spotify.com/track/1wdBQEtQXfzMrzEKYbZ548) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [INVENCIBLES](https://open.spotify.com/album/2mNwGeWhgEIOe9ZN0gaBHa) | 2:49 | 2025-04-04 | 2025-08-02 |
+| [Invocando](https://open.spotify.com/track/4vyvDj20k4o7i5aihNgtay) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Invocando](https://open.spotify.com/album/04FsoLD1wAIy4H0SkHHtDT) | 3:58 | 2025-09-19 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-12-15 | 2024-04-06 |
 | [Isita Querida](https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida](https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB) | 3:32 | 2024-09-13 | 2025-01-11 |
 | [Jacuzzi](https://open.spotify.com/track/4SJ8b1hPttGLLzazwZo3vW) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Jacuzzi](https://open.spotify.com/album/70UID2Smd0NBuZewBcAYvN) | 3:37 | 2024-11-29 |  |

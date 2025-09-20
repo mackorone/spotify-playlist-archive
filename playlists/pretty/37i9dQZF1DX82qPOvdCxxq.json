@@ -1,6 +1,6 @@
 {
   "description": "The best new music from independent faith-based artists every Wednesday! Cover: Allie Page",
-  "num_followers": 52823,
+  "num_followers": 52861,
   "original_name": "Fresh Finds Faith",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2025-09-17 04:00:02",
       "album": {
+        "name": "oh, sinner",
+        "url": "https://open.spotify.com/album/2UfE1ZWP8L5q1XSIcQqQOl"
+      },
+      "artists": [
+        {
+          "name": "Bianca Silver",
+          "url": "https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "oh, sinner",
+      "url": "https://open.spotify.com/track/7MPTKKwioSuhkcZQ6t9AQB"
+    },
+    {
+      "added_at": "2025-09-17 04:00:02",
+      "album": {
         "name": "All Night Prayer",
         "url": "https://open.spotify.com/album/5KlJitZ9pta6sZNNAHR94C"
       },
@@ -275,6 +291,22 @@
     {
       "added_at": "2025-09-17 04:00:02",
       "album": {
+        "name": "DEEP WATERS (PSALM 18)",
+        "url": "https://open.spotify.com/album/2tJ1deiXuTfBP6WVjrJOhx"
+      },
+      "artists": [
+        {
+          "name": "LOST & FOUND",
+          "url": "https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo"
+        }
+      ],
+      "duration_ms": 132362,
+      "name": "DEEP WATERS (PSALM 18)",
+      "url": "https://open.spotify.com/track/0PWse9Pw1SyZKIjy5glfu0"
+    },
+    {
+      "added_at": "2025-09-17 04:00:02",
+      "album": {
         "name": "abundant life",
         "url": "https://open.spotify.com/album/3bmvdIubWYfE1XTAmcdrmv"
       },
@@ -291,8 +323,8 @@
     {
       "added_at": "2025-09-17 04:00:02",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Groanings",
+        "url": "https://open.spotify.com/album/6bxbbpjKjWxIN5ixcrSMO2"
       },
       "artists": [
         {

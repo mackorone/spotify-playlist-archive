@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,805 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,829 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 12 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 |
 | 13 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 |
 | 14 | [Lasciamene un po'](https://open.spotify.com/track/25W1Kc2SWFmz8DXZT2fTn5) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Lasciamene un po'](https://open.spotify.com/album/27msMZHZCDO0ZpGjPOCvco) | 3:27 |
-| 15 | [l'eleganza del mango](https://open.spotify.com/track/0GhaqzRaKbaGSrWN2PG9d8) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [](https://open.spotify.com/album/null) | 2:56 |
+| 15 | [l'eleganza del mango](https://open.spotify.com/track/0GhaqzRaKbaGSrWN2PG9d8) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [L'eleganza del mango](https://open.spotify.com/album/1xak8mJSWTDXHtHhcmLFJ1) | 2:56 |
 | 16 | [ANNO DEL DRAGO](https://open.spotify.com/track/5MfKKRonzepIH2UaCQFF8u) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [ANNO DEL DRAGO](https://open.spotify.com/album/4GQvwJwxJ3r5FQ1mwt4dBe) | 3:08 |
 | 17 | [buia](https://open.spotify.com/track/3wcWAwF5Rw7SdTYWN7EV8k) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [buia](https://open.spotify.com/album/4RFfOBgfwHeIbf4k99PTOd) | 2:49 |
 | 18 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 |
 | 19 | [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 |
 | 20 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 |
 | 21 | [Whatever You Like](https://open.spotify.com/track/08mKd7LVxvTq7Af24VfYZ1) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Whatever You Like](https://open.spotify.com/album/6Ws8yG1V1JszzzS0lwk8mn) | 2:55 |
-| 22 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [](https://open.spotify.com/album/null) | 3:37 |
+| 22 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 |
 | 23 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
 | 24 | [giorni tristi](https://open.spotify.com/track/4HCaKR1UkcIlsULPFoQUIn) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [giorni tristi](https://open.spotify.com/album/4j4acQzrgq8RlH6zfyOZJD) | 3:08 |
 | 25 | [Elodie](https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV) | [Emili Kasa](https://open.spotify.com/artist/3RjZIfNhuaISMsbzISGxvA) | [Elodie](https://open.spotify.com/album/0Yagp1kDUvjcRGGhNqqd4A) | 2:51 |

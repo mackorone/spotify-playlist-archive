@@ -1311,6 +1311,24 @@
     },
     {
       "album": {
+        "name": "Hope Came Last",
+        "url": "https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC"
+      },
+      "artists": [
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136731,
+      "name": "Drugs Don't Work",
+      "url": "https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc"
+    },
+    {
+      "album": {
         "name": "Gentle Confrontation",
         "url": "https://open.spotify.com/album/6t8EEPPBUhJiYucv3zsIKx"
       },
@@ -5652,24 +5670,6 @@
       "duration_ms": 173333,
       "name": "Touch You",
       "url": "https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
-        }
-      ],
-      "date_added": "2025-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc"
     },
     {
       "album": {

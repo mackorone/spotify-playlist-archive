@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 15598,
+  "num_followers": 15616,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABGTp6o/VNlTSZ3/PDqu8QJ",
+  "snapshot_id": "aMtLgAAAAAB2ogmBRCXYEr0LYVi8AgUn",
   "tracks": [
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca$h Ca$h",
-        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
-      },
-      "artists": [
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 184519,
-      "name": "Ca$h Ca$h",
-      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
         "url": "https://open.spotify.com/album/7wOOzGXDZFNlM35vwKCRQd"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 147119,
       "name": "Pensamentos Intrusivos (Uma s\u00e9rie Netflix \"Nova Cena\")",
       "url": "https://open.spotify.com/track/3KkmOuhoMzJJxLWDwQFSH8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ca$h Ca$h",
+        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
+      },
+      "artists": [
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 184519,
+      "name": "Ca$h Ca$h",
+      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo 2",
         "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
     },
     {
       "added_at": null,

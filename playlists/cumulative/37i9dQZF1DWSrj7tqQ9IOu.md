@@ -4,7 +4,7 @@
 
 > Le meilleur de l'indie français\. Cover : BLOWSOM
 
-703 songs - 1 day 13 hr 52 min
+704 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [J'irai en enfer](https://open.spotify.com/track/3mp3NJnyDVifpqxKapntf1) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Malabar Princess](https://open.spotify.com/album/4ocV7Sx1zDfOq5jR5KhagL) | 3:34 | 2025-04-24 | 2025-05-02 |
 | [Jamais les mêmes](https://open.spotify.com/track/0pTlR1MBae9DSvYTI8falu) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Jamais les mêmes](https://open.spotify.com/album/5G49O3DzRaNZ5htXu3XhM9) | 2:56 | 2023-02-16 | 2023-03-03 |
 | [Je continue à danser](https://open.spotify.com/track/6kotvODHgeUcffIZGRwkqe) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Je continue à danser](https://open.spotify.com/album/4gfmldrRM32UOyG4FZ9Kbr) | 3:11 | 2023-01-05 | 2023-06-02 |
+| [Je ne sais pas qui est moi](https://open.spotify.com/track/4PpatTCdC4L8fpVAXsDxSi) | [Candillac](https://open.spotify.com/artist/0UFIltW24E4sjoJkaTbagG) | [La femme est un homme comme les autres](https://open.spotify.com/album/4zD2CkbrIuuX84CcsJInK4) | 2:48 | 2025-09-19 |  |
 | [Je ne t'appartiens pas](https://open.spotify.com/track/4BHHWZKuwXCD4ipP8WhFhD) | [Toboggan](https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG) | [Je ne t'appartiens pas](https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc) | 2:37 | 2022-11-17 | 2022-12-02 |
 | [Je reste cool](https://open.spotify.com/track/6FDJmxbrJLBM1ODvP1I3MU) | [LE NOISEUR](https://open.spotify.com/artist/5Hunwp6tQa4z3l9CFwHE7K) | [Je reste cool](https://open.spotify.com/album/5vRvczFRaV4KYk0e3fwJr4) | 3:29 | 2022-10-06 | 2022-12-16 |
 | [Je reviens des enfers](https://open.spotify.com/track/4vmRrETjLhbXDKpJVqmMrT) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [dani](https://open.spotify.com/album/2aHnnm5f9FmXmtwUEPae4f) | 2:43 | 2022-06-23 | 2022-07-22 |
@@ -637,7 +638,7 @@
 | [Toupies](https://open.spotify.com/track/2OjATTlZrAxGtQVQjec1Kj) | [Rob](https://open.spotify.com/artist/08MbVpIfR68DibfHcDYaUe), [Jack Lahana](https://open.spotify.com/artist/1hN9BKDXYUmkZa9B1gOn69), [Catastrophe](https://open.spotify.com/artist/6bcVuNO2JKqacO1ITmA6jK) | [Toupies](https://open.spotify.com/album/6VNFDjMAcI947JJhzeEFEg) | 3:43 | 2022-11-10 | 2023-03-18 |
 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 | 2023-04-13 | 2023-06-02 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-12-16 |
-| [Tout tout](https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Tout tout](https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80) | 3:31 | 2025-07-24 |  |
+| [Tout tout](https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Tout tout](https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80) | 3:31 | 2025-07-24 | 2025-09-20 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |

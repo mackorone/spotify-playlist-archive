@@ -29554,6 +29554,28 @@
     {
       "album": {
         "name": "Tequila",
+        "url": "https://open.spotify.com/album/65hNu67LGFUaEFfNFhzCAS"
+      },
+      "artists": [
+        {
+          "name": "DIEGO SAN DIEGO",
+          "url": "https://open.spotify.com/artist/1lal1Zh8FBRbRwzd22s0oX"
+        },
+        {
+          "name": "Alec Monopoly",
+          "url": "https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/2kAbTtDkicUsWcqXTemx2p"
+    },
+    {
+      "album": {
+        "name": "Tequila",
         "url": "https://open.spotify.com/album/4JpqHaDLwKHq8N6xhM2H5M"
       },
       "artists": [

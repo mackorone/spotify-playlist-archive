@@ -5493,6 +5493,24 @@
     },
     {
       "album": {
+        "name": "La femme est un homme comme les autres",
+        "url": "https://open.spotify.com/album/4zD2CkbrIuuX84CcsJInK4"
+      },
+      "artists": [
+        {
+          "name": "Candillac",
+          "url": "https://open.spotify.com/artist/0UFIltW24E4sjoJkaTbagG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168034,
+      "name": "Je ne sais pas qui est moi",
+      "url": "https://open.spotify.com/track/4PpatTCdC4L8fpVAXsDxSi"
+    },
+    {
+      "album": {
         "name": "Je ne t'appartiens pas",
         "url": "https://open.spotify.com/album/4GN8F1jaywulz1Y88JkdEc"
       },
@@ -11978,7 +11996,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 211162,
       "name": "Tout tout",
       "url": "https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M"

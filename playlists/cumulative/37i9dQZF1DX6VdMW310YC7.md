@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,813 songs - 5 day 3 hr 22 min
+1,814 songs - 5 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1258,7 +1258,7 @@
 | [Pleasing](https://open.spotify.com/track/1U9mj5NtcD32HpFdObkP4b) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf), [Stu Pender](https://open.spotify.com/artist/5xuTvhpHtNikqlW5NaMLxb) | [Star\-Crossed](https://open.spotify.com/album/2EoiG8SnGZCVIi5isBBRbN) | 6:08 | 2021-11-12 | 2022-07-21 |
 | [Plectar](https://open.spotify.com/track/4KndhRUQVCFh339T7jYCZv) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [Little Devious](https://open.spotify.com/album/0WMWskgipM8eHLvvkdQBqI) | 5:56 | 2020-02-29\* | 2020-03-16 |
 | [Points Beyond](https://open.spotify.com/track/4flMFYGf017exurWgh8scp) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 5:26 | 2021-01-23 | 2022-04-21 |
-| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 |  |
+| [Polar Lights](https://open.spotify.com/track/485Th9A00AaXGv6CJUEtfi) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polar Lights](https://open.spotify.com/album/0fTi4Vl8KyHCLnfSfYowd2) | 3:10 | 2024-12-06 | 2025-09-20 |
 | [Polynesia](https://open.spotify.com/track/3MkIlbOnu8UCMt26nOQ31P) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Polynesia EP](https://open.spotify.com/album/0sieH424WlEgU2u6Z7YyfS) | 3:22 | 2020-03-17 | 2022-04-21 |
 | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/track/3aVpX48H8kYiAzeOrFql6N) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P) | [Poolside Chill \(Super Chilled Lo\-Fi Remix\)](https://open.spotify.com/album/4BvRQ4EI84ZyvNPLIpZKnF) | 3:18 | 2020-05-18 | 2021-03-10 |
 | [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 | 2024-03-08 | 2024-12-19 |
@@ -1639,6 +1639,7 @@
 | [Together](https://open.spotify.com/track/5ULLQuJT4U3tJCdBitfp73) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Mocean](https://open.spotify.com/artist/7aKMGvHnwW3UXE2Q2OLQSN) | [Together](https://open.spotify.com/album/11aWEu6KUAzcjZND5KYbcN) | 3:09 | 2025-01-10 | 2025-08-30 |
 | [Together](https://open.spotify.com/track/1f1DsFJHpMugn3zuRACUos) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Together](https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx) | 3:44 | 2021-03-27 | 2022-11-19 |
 | [Together \(feat\. RKCB\)](https://open.spotify.com/track/2rjDMAhlw0mQWp4FcmG9ay) | [Dan Farber](https://open.spotify.com/artist/5a3WpRDlPqdJvQsH5nH3kS), [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Together \(feat\. RKCB\)](https://open.spotify.com/album/0udoCtfOROoPPoefTK9Q4k) | 2:58 | 2020-03-16 | 2022-04-20 |
+| [together \(we are more\)](https://open.spotify.com/track/3HEOKmWHkZctt9iyaiqMSI) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [together \(we are more\)](https://open.spotify.com/album/1e7y7ATfvcyV3uU40giIuz) | 3:43 | 2025-09-19 |  |
 | [Together \- \(Endor's Bronx Buster Remix\) \[Edit\]](https://open.spotify.com/track/6THiGzkf2i4gkQCwwNVwyX) | [R Plus](https://open.spotify.com/artist/0lnAZ68xKGysVy084bTQmh), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Together \(Endor Remixes\)](https://open.spotify.com/album/2X8IYqsr1XPG6CtD0eM6tS) | 3:17 | 2020-07-18 | 2020-08-20 |
 | [Together \- Ferreck Dawn Remix](https://open.spotify.com/track/0hk3UinkWgVllcDgW5t45f) | [Arno Cost](https://open.spotify.com/artist/0BMhfbeiOrNMBzjELzbyNg), [Norman Doray](https://open.spotify.com/artist/1UmLUPNgy8HS6oI05zdGjD), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Together \(Ferreck Dawn Remix\)](https://open.spotify.com/album/0NdJW4RMcmbv26ftuIo8aL) | 2:53 | 2020-03-20 | 2021-03-10 |
 | [Together \- il:lo Remix](https://open.spotify.com/track/0BPH5XY2injvJu0oD0B4S8) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Together](https://open.spotify.com/album/2tNxlMTegirWUXk9atpoZg) | 4:54 | 2021-05-18 | 2022-01-13 |

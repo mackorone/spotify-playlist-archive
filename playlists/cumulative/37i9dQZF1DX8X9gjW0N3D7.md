@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Kaïn
 
-199 songs - 10 hr 33 min
+199 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Fake Friends](https://open.spotify.com/track/6uMWNX0hKdWr1hJckauIub) | [Billie du Page](https://open.spotify.com/artist/0FtpMrRAPhbGpC34OMSUbX) | [Fake Friends](https://open.spotify.com/album/4PCTm05PE1ULKyzKJGiNfO) | 3:00 | 2024-07-26 |  |
 | [Feu de paille](https://open.spotify.com/track/0Uryfi1AWwgD4eNhKmTVRo) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Feu de paille](https://open.spotify.com/album/6BRYJkvN7L16RK79er9TPL) | 3:15 | 2024-10-18 | 2024-11-09 |
 | [Feu de paille](https://open.spotify.com/track/70eqsLa9wNGGibwSx8ox04) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Feu de paille](https://open.spotify.com/album/1t7UVGseExVHbuOOtyMehW) | 3:22 | 2025-09-12 |  |
+| [Février et le mauve](https://open.spotify.com/track/1TVVBch4JforWHFUTYmX6N) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Seul au cinéma](https://open.spotify.com/album/4dzhB8gNl7a3fM1zk9t496) | 3:31 | 2025-09-18 |  |
 | [GAGNER MA CAUSE](https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy) | [Clément Jacques](https://open.spotify.com/artist/14nCwwni6uqZyDrhqRmwSM) | [GAGNER MA CAUSE](https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj) | 2:46 | 2024-09-27 |  |
 | [Gagner mon ciel](https://open.spotify.com/track/3goXwFEphGrfOtEwjsix0A) | [Fred Dionne](https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF), [Vince Lemire](https://open.spotify.com/artist/1YzPsCwc1svqXcN5P0n7XN) | [Gagner mon ciel](https://open.spotify.com/album/2BdrjdRTDXABlW30BEmJTH) | 3:03 | 2025-09-18 |  |
 | [Garde\-Malade](https://open.spotify.com/track/0qB5KfAWmhEnQmxs85GJ1m) | [Claude Bégin](https://open.spotify.com/artist/4eAuoiborBxqHdhL2J5N1t) | [Garde\-Malade](https://open.spotify.com/album/5sVfv6lOfXSqIxHZIw8AKM) | 2:54 | 2025-02-21 |  |
@@ -90,6 +91,7 @@
 | [Je veux pas t'attendre mais je t'attends](https://open.spotify.com/track/6B86ieRgF2BhI1b81qpo8R) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Est\-ce que quelqu'un me voit ?](https://open.spotify.com/album/47JLynKKW2wWCpc21eaceH) | 3:35 | 2025-04-11 |  |
 | [Jouer](https://open.spotify.com/track/2N3hy5pmIniu74CYQ4NgdL) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Jouer](https://open.spotify.com/album/5Erz4Q7ny0yoo09VTycNEg) | 3:06 | 2025-02-21 |  |
 | [Jouer pour jouer](https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Jouer pour jouer](https://open.spotify.com/album/2PLDtWbg3zLz92lGHwOpYq) | 3:10 | 2024-06-28 | 2025-08-02 |
+| [Kekpart](https://open.spotify.com/track/3U3tTkZYuqAO6yDSAzKcEu) | [Marc Déry](https://open.spotify.com/artist/0IX0nppAnGjDz53emI5YAW), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [J'aime ça quand t'es là](https://open.spotify.com/album/1mOornzvaAXe4EhoJ2rNik) | 4:56 | 2025-09-18 |  |
 | [L'autre hémisphère](https://open.spotify.com/track/7irvZlBqN7beslyn6EYJ3q) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [L'autre hémisphère](https://open.spotify.com/album/7FMTj5WXP0mLjPAiJIXluH) | 3:41 | 2024-08-09 | 2025-05-17 |
 | [L'embranchement](https://open.spotify.com/track/6YnVdI1YVBLsp2wBCrsTb3) | [Stéphane Archambault](https://open.spotify.com/artist/5mW94dZAqDWHpnj23vvXdF) | [Point](https://open.spotify.com/album/54amvrCm1neA2wWwLRX7Wo) | 3:52 | 2025-05-23 |  |
 | [L'usine](https://open.spotify.com/track/35kpLsbkfjiza5VLsPwYfM) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [La cour des grands](https://open.spotify.com/album/1uKOZ7jO4iq5dwPL3iuBbH) | 3:36 | 2025-09-12 |  |
@@ -146,7 +148,7 @@
 | [Paradis](https://open.spotify.com/track/3c1bo4qk0qA8qs7vDdQ8CW) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Paradis](https://open.spotify.com/album/6d4EHgbuvkVNNEHWLKPf8w) | 2:47 | 2024-06-28 | 2024-08-10 |
 | [Paranoïa etc.](https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS) | [Caracol](https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa) | [Paranoïa etc.](https://open.spotify.com/album/4wNsmCPiKKiyqXmYgIIx37) | 2:56 | 2024-10-11 | 2025-01-18 |
 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 | 2024-07-12 |  |
-| [Pour que tu m'aimes](https://open.spotify.com/track/5BMhYj3GsMuI7esiL5FGAT) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [](https://open.spotify.com/album/null) | 2:56 | 2025-09-18 |  |
+| [Pour que tu m'aimes](https://open.spotify.com/track/5BMhYj3GsMuI7esiL5FGAT) | [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [Pour que tu m’aimes](https://open.spotify.com/album/5kr4A20V2uSv44u0mN9kqm) | 2:56 | 2025-09-18 |  |
 | [Pris mes jambes à mon cou](https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k) | [Léonie Gray](https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b) | [Pris mes jambes à mon cou](https://open.spotify.com/album/6L5fUrhOffxBgXJc7Y3IqE) | 2:48 | 2025-01-17 | 2025-03-22 |
 | [Punch\-Out](https://open.spotify.com/track/4gVb8jzBgCUnVNp5678xe4) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Punch\-Out](https://open.spotify.com/album/7DleuXqo8KvKnrnRFLNj51) | 3:06 | 2025-02-07 |  |
 | [Quand il s'en va](https://open.spotify.com/track/7wkfNPTnFYIuyZvE2i3ZFo) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz), [Anggun](https://open.spotify.com/artist/3ahVFszO9ucf8JQLCNQeYA) | [Quand il s'en va](https://open.spotify.com/album/6VJAhUbwVq3WCOlxDGgVH9) | 4:01 | 2024-06-28 | 2025-02-22 |
@@ -189,8 +191,6 @@
 | [Tout pour plaire](https://open.spotify.com/track/4v62HH8H1avGk8ZTF11hKD) | [Jules](https://open.spotify.com/artist/067eVTSlIc2fqaaHyRrWmt) | [Pour tout vous dire](https://open.spotify.com/album/454SzvRzOmrfSyRP16HYFa) | 3:37 | 2024-06-28 | 2025-09-13 |
 | [Toute ma vie](https://open.spotify.com/track/3TOLf0LDzOrWXY6YwySG8E) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Toute ma vie](https://open.spotify.com/album/4QFHn2Ueb5E12KEPygVomi) | 2:50 | 2025-09-18 |  |
 | [Toutes tes idoles](https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Toutes tes idoles](https://open.spotify.com/album/0qpHQfFDCT0OU5adY5SfB2) | 3:53 | 2024-11-22 |  |
-| [Track 1](https://open.spotify.com/track/1TVVBch4JforWHFUTYmX6N) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
-| [Track 2](https://open.spotify.com/track/3U3tTkZYuqAO6yDSAzKcEu) | [Marc Déry](https://open.spotify.com/artist/0IX0nppAnGjDz53emI5YAW), [Imposs](https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Tshitatau](https://open.spotify.com/track/0gmHSJcLLllg525W2tPeNo) | [Florent Vollant](https://open.spotify.com/artist/46yst9cUnaE2cftTAxwFSp) | [Tshitatau](https://open.spotify.com/album/7sxmyo17HxVqeZ65RSOS5t) | 3:23 | 2024-06-28 | 2025-05-17 |
 | [Tu me fais tout oublier](https://open.spotify.com/track/2UHi3EPI2wCoFqFlSnYOTD) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Tu me fais tout oublier](https://open.spotify.com/album/5WOGYVyxjylKAE3paniOA8) | 3:18 | 2024-06-28 | 2024-09-21 |
 | [Un peu trop](https://open.spotify.com/track/0lqVTiEJlebBVu6EFl8V0r) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Une semaine à Paris](https://open.spotify.com/album/3O7RvFFEcxYUrXy49GqDCl) | 2:34 | 2024-06-28 |  |

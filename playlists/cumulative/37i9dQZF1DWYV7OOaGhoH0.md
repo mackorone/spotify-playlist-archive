@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Hazlett
+> The best in folk & acoustic today featuring music from The Favors
 
 762 songs - 1 day 22 hr 49 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6758,
+  "num_followers": 6763,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABUaxkqLLaQx5oHQaSjFeOr",
+  "snapshot_id": "aMtLgAAAAAAuDwXXqcLpu9rumXywj4wR",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Busca Amor",
-      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La V\u00edbora Peligrosa",
         "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meneaito",
-        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217234,
-      "name": "Meneaito",
-      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+      "duration_ms": 157586,
+      "name": "Busca Amor",
+      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meneaito",
+        "url": "https://open.spotify.com/album/4ZxRWf6Xu68bDuJoxnYuG4"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 217234,
+      "name": "Meneaito",
+      "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Sigas Llorando",
         "url": "https://open.spotify.com/album/3WFlN0l37hFY6WkXPNNpfD"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 156831,
       "name": "No Sigas Llorando",
       "url": "https://open.spotify.com/track/4utL0KRhxyqPLIDTQB20YX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La M\u00facura",
-        "url": "https://open.spotify.com/album/0T69bIC5Txs5iTT0fBO6sw"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 235158,
-      "name": "La M\u00facura",
-      "url": "https://open.spotify.com/track/5SCtE1ykLbTrEnLT1zAG1c"
     }
   ],
   "unique_name": "This Is Banda Vallarta Show",

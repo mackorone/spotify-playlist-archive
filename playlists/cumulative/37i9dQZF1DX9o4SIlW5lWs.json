@@ -1211,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "La Casa De La Cumbia vol.1",
+        "url": "https://open.spotify.com/album/0GHBhM6ApWzKRsF0QDV3Pi"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "Cicactrices",
+      "url": "https://open.spotify.com/track/43qGouonxPSloBl8bUEk4I"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/52O7lz8Y4dnFUxHEPQFGCD"
       },
@@ -2311,6 +2329,28 @@
     },
     {
       "album": {
+        "name": "Decepci\u00f3n",
+        "url": "https://open.spotify.com/album/7IvG7x15PsegRQ5DOUOVm3"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146878,
+      "name": "Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/1Hmyi5GKWxEaatdqlBd2ms"
+    },
+    {
+      "album": {
         "name": "Sigo Por El Objetivo",
         "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
@@ -2804,7 +2844,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 209279,
       "name": "El amor de mi vida",
       "url": "https://open.spotify.com/track/3WQbdREgIVXwUWWcnXvQJe"
@@ -3356,6 +3396,24 @@
       "duration_ms": 432014,
       "name": "Enganchados Cumbias Atenas - En Vivo",
       "url": "https://open.spotify.com/track/5GbVXvPHGw02iSj63h0wfU"
+    },
+    {
+      "album": {
+        "name": "Engualichao",
+        "url": "https://open.spotify.com/album/7vUvgl9ndAKPA5yRVAzq4z"
+      },
+      "artists": [
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Engualichao",
+      "url": "https://open.spotify.com/track/4KlnU6MCw1Ex6Ve6i6wM64"
     },
     {
       "album": {
@@ -7914,7 +7972,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 170463,
       "name": "Qu\u00e9 Nos Pas\u00f3",
       "url": "https://open.spotify.com/track/3jGhj21w7KHwTIAbycdDJS"
@@ -10322,7 +10380,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"

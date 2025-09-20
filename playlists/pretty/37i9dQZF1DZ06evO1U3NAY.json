@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 167408,
+  "num_followers": 167414,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAADoHzft7zHwk8eDdBTzf1xJ",
+  "snapshot_id": "aMtLgAAAAABwvnX4O/sc6xhR1Xf8JWsB",
   "tracks": [
     {
       "added_at": null,
@@ -350,15 +350,11 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 270479,
-      "name": "Shed My Skin",
-      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
     },
     {
       "added_at": null,
@@ -418,11 +414,15 @@
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
         }
       ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+      "duration_ms": 270479,
+      "name": "Shed My Skin",
+      "url": "https://open.spotify.com/track/5fXqeLjrxoR48qgHZGlfXz"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 336080,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
+      "duration_ms": 229026,
+      "name": "Mercy Mirror",
+      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 229026,
-      "name": "Mercy Mirror",
-      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
+      "duration_ms": 336080,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4GBbBy05LoSveNxjKxj26m"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 268373,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
+      "duration_ms": 268373,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1uo6IzolNNLFNpyQGDZwJ5"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
       "duration_ms": 194546,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/1H1U3PbWhxkUUG9HNEZEn7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Heart Of Everything",
-        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 333866,
-      "name": "The Howling",
-      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 253506,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0h46IYZnCzjROtiegnYC0Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Heart Of Everything",
+        "url": "https://open.spotify.com/album/4jE1uyxDWwHuSGQmbsusLM"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 333866,
+      "name": "The Howling",
+      "url": "https://open.spotify.com/track/4EJLjbM1gGjy8UlhtMY44C"
     },
     {
       "added_at": null,

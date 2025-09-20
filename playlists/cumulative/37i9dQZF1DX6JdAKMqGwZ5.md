@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: LUSILLON.
 
-559 songs - 1 day 5 hr 1 min
+559 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -511,7 +511,6 @@
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-09-20 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 |  |
-| [Track 1](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |
@@ -519,6 +518,7 @@
 | [Tu Jardín Japonés](https://open.spotify.com/track/229tdnZT5apIOECNcOF7qY) | [Lemot](https://open.spotify.com/artist/6RN9D7QhoLVcy7yo4AuQ9A) | [Tu Jardín Japonés](https://open.spotify.com/album/2hWhmTAJXovA994YIN3qTm) | 3:12 | 2025-04-17 |  |
 | [Tu olor](https://open.spotify.com/track/584vMaGygewON9eBMNT5ab) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Tu olor](https://open.spotify.com/album/5QHT58kMaifnYJBjj0RvIR) | 4:06 | 2024-06-27 | 2024-07-05 |
 | [tu película](https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu película](https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1) | 2:54 | 2024-12-19 |  |
+| [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 | 2025-09-18 |  |
 | [Tu Voz](https://open.spotify.com/track/7awuOF75a20k80EK8PUVSK) | [Vera Fauna](https://open.spotify.com/artist/6A1ptzbr3ljSMF01esP6G4) | [Tu Voz](https://open.spotify.com/album/35qKIt74yJX07zCRhMbzII) | 4:23 | 2024-10-24 |  |
 | [TUCUCU](https://open.spotify.com/track/6af48Ny0ELO6KOnst9GY32) | [el nido](https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [TUCUCU](https://open.spotify.com/album/27cB0YSCElG6Q2HeA19K6F) | 3:03 | 2024-09-12 | 2024-11-29 |
 | [Tutta La Notte \(feat\. Calcutta\)](https://open.spotify.com/track/7rHhea17z3C7nxBeT3RP3Z) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Tutta La Notte \(feat\. Calcutta\)](https://open.spotify.com/album/0SyYo03ajASK19eOCCcmgZ) | 2:36 | 2025-04-10 | 2025-05-16 |

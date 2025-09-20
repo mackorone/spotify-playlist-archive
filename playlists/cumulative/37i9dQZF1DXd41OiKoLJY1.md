@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Triflouride Artwork: Isu Kim
 
-3,669 songs - 8 day 22 hr 33 min
+3,672 songs - 8 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2007,6 +2007,8 @@
 | [Make You Feel Better](https://open.spotify.com/track/1JzWVJoYH2B8mZtyI6dkvH) | [MI MI](https://open.spotify.com/artist/33zZ2KDzkPeAYMjFtRwo9x) | [Make You Feel Better](https://open.spotify.com/album/3MLmVB2tKswFRdi85q140M) | 4:03 | 2023-10-19 | 2023-11-11 |
 | [Make You Pay](https://open.spotify.com/track/3jmzOVFxuluF1uKMQ6IFAU) | [Imbue No Kudos](https://open.spotify.com/artist/2TrlETzhvrdBbrZBzwnaHE) | [Make You Pay](https://open.spotify.com/album/4zZndcB1AkEJO7FKltemq7) | 3:24 | 2025-05-22 | 2025-06-27 |
 | [Make\-Believe](https://open.spotify.com/track/5ci8dXPvNzEHVDAnFKCvNL) | [Cutting Corners](https://open.spotify.com/artist/13o3NEcOG7o4wT6eQ9h70M) | [Make\-Believe](https://open.spotify.com/album/6jt7oNpvfZ58cF2ahGR5Te) | 4:07 | 2023-05-25 | 2023-06-09 |
+| [makipagharot ka](https://open.spotify.com/track/2NjmmS1uWGxFCDlCk9B7Yt) | [nicky g](https://open.spotify.com/artist/2CZO9yyIMOEJ5E24HxI95t) | [makipagharot ka](https://open.spotify.com/album/5Zemaya4DSCTozAmnEZuWM) | 3:03 | 2025-09-18 |  |
+| [Malamig](https://open.spotify.com/track/2MHmslF0QGhMBNzDFUkd7B) | [JDY](https://open.spotify.com/artist/5ryr7CEUmxDn5A71gsl3SA) | [Malamig](https://open.spotify.com/album/1cbDemyuCO0dGUaaWc2QCM) | 2:18 | 2025-09-18 |  |
 | [Malapit Na](https://open.spotify.com/track/18xOaEHY0MmoGTtIKWcLj8) | [Meds](https://open.spotify.com/artist/1RsYo55wsuLFXUDY6iNiS9) | [Malapit Na](https://open.spotify.com/album/47UtSVKhraVmypSdPLslVH) | 3:52 | 2023-11-09 | 2024-01-19 |
 | [MALAPIT NA](https://open.spotify.com/track/318ynbKROOozLTRNXggag0) | [O'$HEA G](https://open.spotify.com/artist/4qvRdmCfKpepm9gbhUOh40), [Cisco](https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq) | [MALAPIT NA](https://open.spotify.com/album/23zS5nsZqKrZsFngVIHYIk) | 3:32 | 2023-11-09 | 2024-01-19 |
 | [Malapit Na Ako](https://open.spotify.com/track/49UjgEWa9wyfvSvbjBlCYE) | [Mazeboiii](https://open.spotify.com/artist/3DFM7ya81iULbYzrxvXzo2), [Kaigreens](https://open.spotify.com/artist/6f4sTsyQi2OkY4hqhVkHka), [ASAP Blessed](https://open.spotify.com/artist/15oWlVKvNYnpDhwRvLUaqn) | [Malapit Na Ako](https://open.spotify.com/album/7GW296BZ1Yp391lBELCiaa) | 3:55 | 2023-02-02 | 2023-02-17 |
@@ -2048,6 +2050,7 @@
 | [Marahuyo](https://open.spotify.com/track/2dRU0Ibxv61HuI2von8lbK) | [Rock Opong](https://open.spotify.com/artist/2SWPWqh1is8qKmAviRGnxt) | [Marahuyo](https://open.spotify.com/album/66Bd3vZZrJKMAC7bx7nP8E) | 3:18 | 2025-03-27 | 2025-05-23 |
 | [marahuyo](https://open.spotify.com/track/7wXLvtI8mN751jwFhOXjoR) | [waltz](https://open.spotify.com/artist/6rmwd2stquWyzEngUOPFpS) | [marahuyo](https://open.spotify.com/album/464pTWwF1iljVMwKvkRIOQ) | 3:10 | 2024-09-26 | 2025-01-17 |
 | [Marahuyo \(Prod\. by Jarlo Bâse\)](https://open.spotify.com/track/3sn6zFeOQnEKYu6hPKhycP) | [Manuel Bruno](https://open.spotify.com/artist/1czxPqEOp4lajFSoegS6zx) | [Marahuyo \(Prod\. By Jarlo Bâse\)](https://open.spotify.com/album/6XN2tj8F856CKeRN08XrY0) | 3:57 | 2022-09-08 | 2022-12-01 |
+| [Marama](https://open.spotify.com/track/1ALbO9WzvKb6pdelQ3Hmqp) | [DAP](https://open.spotify.com/artist/1mLwlJlBbNmlB8U1gTO23r) | [Marama](https://open.spotify.com/album/3u4YAtMvXpz9oOst10gFkf) | 2:46 | 2025-09-18 |  |
 | [Maramdamin](https://open.spotify.com/track/45yYbW8FPY4SBzZxzf4Wup) | [NICHIMI](https://open.spotify.com/artist/1rhYDmb4KM53o8F1WdaDMg), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Maramdamin](https://open.spotify.com/album/4xvd4m3VMuvTBwiC1V2h99) | 3:36 | 2023-05-11 | 2024-01-12 |
 | [Maria Clara](https://open.spotify.com/track/4mwasPd5GLRYt1BV01RrPj) | [Ladia's Pluma](https://open.spotify.com/artist/2gRPWMGlKEqLgrnXrcOsfK) | [Maria Clara](https://open.spotify.com/album/5JKztO6VkCmcwLCH8d7pw9) | 4:33 | 2024-07-11 | 2024-08-09 |
 | [Marilag](https://open.spotify.com/track/7hrrA9La9SWQsl7AuW25rP) | [U G N Y N](https://open.spotify.com/artist/5ntSzNDmqC45A8gou9kswk) | [Marilag](https://open.spotify.com/album/2lMoGGKVMjOSiUZv6GOaBg) | 4:48 | 2023-05-18 | 2023-06-02 |

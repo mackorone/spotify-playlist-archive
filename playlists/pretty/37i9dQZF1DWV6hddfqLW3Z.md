@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,559 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,597 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Flor de Lis \(Upside Down\)](https://open.spotify.com/track/1NUy3QgtzwdxaQ1beWHSK1) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Flor de Lis \(Upside Down\)](https://open.spotify.com/album/0OwNT4Lv1ViODTp9lI9r1K) | 5:37 |
 | 70 | [Vento](https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Vento](https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK) | 2:52 |
 
-Snapshot ID: `AAAAANc+Comssvv8VvapGFPOjo19kSjA`
+Snapshot ID: `AAAAAJ56DepfRTerZnfG4bwlklT7vkRC`

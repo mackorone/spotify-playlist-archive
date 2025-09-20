@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Asster, Young Igi
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,208 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,205 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 27 | [ONE NIGHT IN MORENKA](https://open.spotify.com/track/6gN9d6CMOYLG4njNzHUka0) | [Okoń PZW](https://open.spotify.com/artist/0hpE3BfytlNZdaqaWJ0cEy), [rów babicze](https://open.spotify.com/artist/7G7Cn1swPVhPV4V3PNNXP1), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [DJ Ike](https://open.spotify.com/artist/7h7GI8ug0kdo9ct3vj1Mw5) | [ONE NIGHT IN MORENKA](https://open.spotify.com/album/69ORo6RhQiSi3KZftzT0Zg) | 2:52 |
 | 28 | [CAŁE LATO](https://open.spotify.com/track/51cTY5CXYRwZdAyWFzWsxt) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [NAPISZ JAK BĘDZIESZ](https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe) | 2:28 |
 | 29 | [Delegacja](https://open.spotify.com/track/3BClCkumTIJpEmlpFODvdY) | [Tax Free](https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei), [Kamil](https://open.spotify.com/artist/6aHb6wqILOV17hDGM0uhZx), [730 Huncho](https://open.spotify.com/artist/5di3NSPItIovcbrdEcxjsS) | [21 Gram](https://open.spotify.com/album/2KJwj8JJ4R1fa3wpY7g0S7) | 2:26 |
-| 30 | [DOBRA RADA](https://open.spotify.com/track/2hoGutSYeHzN3nDBRAS2xO) | [Drabusheyka](https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH), [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [](https://open.spotify.com/album/null) | 3:01 |
+| 30 | [DOBRA RADA](https://open.spotify.com/track/2hoGutSYeHzN3nDBRAS2xO) | [Drabusheyka](https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH), [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [HYPNOZIZ](https://open.spotify.com/album/6DO0B8AfRy8bsEX2Svr5OP) | 3:01 |
 | 31 | [300 BANIEK](https://open.spotify.com/track/4laCtGHEZEupZ7uEDQH2Ae) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [TTHE GRIND \(DELUXE\)](https://open.spotify.com/album/6kWghktaGeQtwLswCTSacE) | 2:37 |
 | 32 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/72hx2ajymKhQbSZV6WX25L) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/4serXMy5Q5Mpu7C8bj9e80) | 2:46 |
 | 33 | [HANDY](https://open.spotify.com/track/1Scj5Uaql12wiDbMYJ5a9r) | [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp), [krvchy](https://open.spotify.com/artist/6qcwTqb6gTXBCQ97Avu4Xt) | [HANDY](https://open.spotify.com/album/2GFgU0Q5x9o0hGhKbIjtjF) | 2:25 |

@@ -2,7 +2,7 @@
 
 ### [Relaxing Jazz Piano](https://open.spotify.com/playlist/37i9dQZF1DWWfxnl2EyBbd)
 
-> The soft sound of a Jazz piano trio to help you relax and unwind.
+> Unwind and relax to the soft sound of jazz piano.
 
 683 songs - 2 day 1 hr 1 min
 

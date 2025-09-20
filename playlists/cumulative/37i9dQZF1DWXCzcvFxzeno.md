@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-304 songs - 21 hr 33 min
+305 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Ang3l Attack!](https://open.spotify.com/track/2MBp3Z0SgeQL2lCsc0WORT) | [Dana Vicci](https://open.spotify.com/artist/06xgwbbr9uaPpoGsCf9NC4) | [Ang3l Attack!](https://open.spotify.com/album/1NXABba2AxQ2oMdxkB922r) | 3:36 | 2025-08-22 |  |
 | [ASBAK ANTHEM](https://open.spotify.com/track/6gXag9ON69aYPQW6YHGFfV) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [ASBAK ANTHEM](https://open.spotify.com/album/4bTmkkIfnIm7MzEv5zAIGU) | 2:39 | 2025-07-22 | 2025-08-23 |
 | [Ashes \- VIP](https://open.spotify.com/track/6MkV6oCH7NTBBoGW0BBLiV) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes \(VIP\)](https://open.spotify.com/album/4Rif9KlWwiZJEoMIaLgI29) | 2:34 | 2025-09-05 |  |
-| [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 | 2024-09-06 |  |
+| [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 | 2024-09-06 | 2025-09-20 |
 | [Aural Exciter \- Original Mix](https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B) | [Glenn Wilson](https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb), [Mike Humphries](https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1) | [Aural Exciter \- The Remixes](https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk) | 5:20 | 2024-08-13 | 2024-09-16 |
 | [B2B](https://open.spotify.com/track/0oKPYa7P06v56FiA6y2lUZ) | [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [B2B](https://open.spotify.com/album/5ljknZ8FjnJVINAp2Ap3Qn) | 3:15 | 2025-08-22 |  |
 | [Bad Man](https://open.spotify.com/track/6VUuhROHTsIPFXvSKx5WRW) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Bad Man](https://open.spotify.com/album/3x9sCjoQM0mMhh3sn5Cljy) | 2:33 | 2025-01-18 | 2025-08-23 |
@@ -277,6 +277,7 @@
 | [The Engine](https://open.spotify.com/track/1IBCEPkcHokY2BrIllHJOg) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T) | [The Engine](https://open.spotify.com/album/0d4z3tpFIzaY0KCUweU1EB) | 4:54 | 2025-02-14 | 2025-02-21 |
 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2024-04-09 | 2024-09-07 |
 | [The Kickdrum](https://open.spotify.com/track/7ukXlDcPOZKz7lMMWSkahM) | [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [The Kickdrum](https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh) | 2:19 | 2024-04-09 | 2024-10-29 |
+| [The Last Airbender \(VIP\)](https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf) | [The Last Airbender \(VIP\)](https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n) | 2:30 | 2025-09-19 |  |
 | [The Moment That Matters](https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [The Moment That Matters](https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo) | 6:00 | 2024-05-22 | 2025-02-14 |
 | [The Show Never Ends](https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD) | [Joey Risdon](https://open.spotify.com/artist/1TAVfsRR0xQIcI6OxpCten) | [D.U.R.V.A.0.0.1](https://open.spotify.com/album/0QY39P2s5FpjMZFlFMQYRs) | 6:18 | 2024-04-09 | 2024-11-29 |
 | [Thirst Trap](https://open.spotify.com/track/1VsnYd3NzzOgxIVqisMAWz) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Rebirth](https://open.spotify.com/album/3Q3OOeGLLpokswb5pyHLnn) | 5:58 | 2024-04-09 | 2024-07-05 |

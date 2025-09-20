@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Big Star",
+        "url": "https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255131,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3"
+    },
+    {
+      "album": {
         "name": "Bitter Sweet",
         "url": "https://open.spotify.com/album/5BBJTkjsZeOSGpiczply0t"
       },
@@ -1154,6 +1172,24 @@
       "duration_ms": 187231,
       "name": "California Wine",
       "url": "https://open.spotify.com/track/51Lwyrou0WmEbw868fCgIO"
+    },
+    {
+      "album": {
+        "name": "Call Up Nancy",
+        "url": "https://open.spotify.com/album/7LZns7IyuIB9EFvo7uwYyM"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205987,
+      "name": "Call Up Nancy",
+      "url": "https://open.spotify.com/track/6Ub4rQInSRonYY6y4TPnk3"
     },
     {
       "album": {
@@ -1661,6 +1697,32 @@
     },
     {
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217143,
+      "name": "David's Brother",
+      "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
+    },
+    {
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14"
       },
@@ -2144,7 +2206,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 174393,
       "name": "Every Day and Every Night",
       "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
@@ -2704,7 +2766,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
@@ -4094,7 +4156,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 213184,
       "name": "It Don't Matter",
       "url": "https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc"

@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 265519,
+  "num_followers": 265520,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAADFpD7QZS1DjZ8MH3KQDK4Z",
+  "snapshot_id": "aMtLgAAAAAD0+nqUn3SxucDqTLDqFDU4",
   "tracks": [
     {
       "added_at": null,
@@ -659,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool Again",
-        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 164668,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
+      "duration_ms": 175773,
+      "name": "Different Man",
+      "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
     },
     {
       "added_at": null,
@@ -691,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Cool Again",
+        "url": "https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9"
       },
       "artists": [
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 175773,
-      "name": "Different Man",
-      "url": "https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub"
+      "duration_ms": 164668,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter 1 - EP",
-        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "There Goes My Everything",
-      "url": "https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 174960,
       "name": "Start a Fire",
       "url": "https://open.spotify.com/track/0cMDPpAmkf6W7em2POM8eu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chapter 1 - EP",
+        "url": "https://open.spotify.com/album/5Ts9XJ1G4UWKW2vgPTbyt0"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "There Goes My Everything",
+      "url": "https://open.spotify.com/track/6oJe2ZmepeYTtsHedYwwLr"
     },
     {
       "added_at": null,

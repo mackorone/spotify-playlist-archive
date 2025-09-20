@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/5S1RC2cGpbImsmZrlRpwD4"
+      },
+      "artists": [
+        {
+          "name": "BBYx",
+          "url": "https://open.spotify.com/artist/2QiXPWnegDIZucLvDpYRS7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/7JjUvQdQ5M4qIDvXg5i3QW"
+    },
+    {
+      "album": {
         "name": "21 Flaws",
         "url": "https://open.spotify.com/album/2B1SFtydatVss2IalXULGh"
       },
@@ -8341,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215238,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki"
+    },
+    {
+      "album": {
         "name": "Freaks In Town",
         "url": "https://open.spotify.com/album/45ZPxkBKBznmXvBphMfAVG"
       },
@@ -9892,6 +9928,24 @@
       "duration_ms": 151653,
       "name": "GTA.mp3",
       "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
+    },
+    {
+      "album": {
+        "name": "Guardian Angel / More",
+        "url": "https://open.spotify.com/album/4zsa4vtCVz0yq7IbsOtopt"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127617,
+      "name": "Guardian Angel",
+      "url": "https://open.spotify.com/track/0410RgyYw4QJbHcfurtPsp"
     },
     {
       "album": {
@@ -12169,6 +12223,24 @@
     },
     {
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/5zWogd3YFW9oUU2fQHZdWQ"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138710,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/0POZcZCXYeUF7fC4EnRlVp"
+    },
+    {
+      "album": {
         "name": "I Wrote A Song",
         "url": "https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu"
       },
@@ -13614,7 +13686,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 131328,
       "name": "Karma",
       "url": "https://open.spotify.com/track/25ZsA23GKv5Ca3j1o86jK6"
@@ -16884,7 +16956,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 204483,
       "name": "More",
       "url": "https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh"
@@ -20454,7 +20526,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 184928,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9"
@@ -22338,7 +22410,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 219749,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn"
@@ -26998,7 +27070,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 168126,
       "name": "WORKCHEATLIE",
       "url": "https://open.spotify.com/track/6lb3REmaLepCfPU066oiVz"
@@ -27154,6 +27226,24 @@
       "duration_ms": 146680,
       "name": "Yes",
       "url": "https://open.spotify.com/track/3tmFd4Q9cYltKiGMEFBx7w"
+    },
+    {
+      "album": {
+        "name": "yes baby",
+        "url": "https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175324,
+      "name": "yes baby",
+      "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"
     },
     {
       "album": {

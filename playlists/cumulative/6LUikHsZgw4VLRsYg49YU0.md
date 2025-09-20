@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-272 songs - 15 hr 45 min
+275 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Automatica](https://open.spotify.com/track/3wwiBsma2wPAJ769kN7k3r) | [Nigel Stanford](https://open.spotify.com/artist/4Jyb0l1PTSn1VxNmiFxSf4) | [Automatica](https://open.spotify.com/album/0bYOYNwQ86l94CLWncI3PJ) | 3:57 | 2022-02-18 | 2022-12-10 |
 | [BAKU](https://open.spotify.com/track/6IJ777JlDiPkA8SeIhBIqF) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [BAKU](https://open.spotify.com/album/0zTNkegAjfYgBJQzbzWpEj) | 3:47 | 2022-12-09 | 2024-03-30 |
 | [Ballin](https://open.spotify.com/track/17N5FdRwJuv3UXQ7MHnbhF) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Uncle Drew \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4tedCRHFkPOlzi6HR54tqd) | 2:46 | 2022-02-18 | 2022-12-10 |
+| [Balsam \-Succession\-](https://open.spotify.com/track/4ErQl70hwgLf9ufXYPaEdn) | [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [The Apothecary Diaries: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/5zpe8965MLof2cJ5ftkQpY) | 2:47 | 2025-09-19 |  |
 | [Become the Wind](https://open.spotify.com/track/1a5iQILKS8Ke0Yhaqu3Sgd) | [Ray](https://open.spotify.com/artist/5DjK0HQaczIK7lWWcsGnVG), [YAIBA](https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4) | [BORUTO \-ボルト\- NARUTO NEXT GENERATIONS オリジナルサウンドトラック Ⅱ](https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom) | 4:54 | 2022-12-09 | 2024-02-03 |
 | [Before my body is dry](https://open.spotify.com/track/1FvZeK3MgmGldxeYDvzanR) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [キルラキル コンプリートサウンドトラック](https://open.spotify.com/album/7hhI5DK0xtKjkBmmHUlTg6) | 4:08 | 2022-12-09 | 2024-05-25 |
 | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/04xIuk7yE5S3ucvzd7VNi2) | [Daichi Takenaka](https://open.spotify.com/artist/40kOocaMWxJX2dIYzDAUmB), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Blaze of Clear Sky \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/23GffvhwgaUE3p6K3ZCDFT) | 1:58 | 2024-02-23 |  |
@@ -86,8 +87,10 @@
 | [I Will Go to War](https://open.spotify.com/track/0haX1okP3ZHnhWPzDAUipW) | [Tessa Thompson](https://open.spotify.com/artist/0wu2r1UIgBh0euCkEg6Mqx) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 1:37 | 2022-02-18 | 2022-12-10 |
 | [IDWK \- Ido B & Zooki Remix](https://open.spotify.com/track/17eOnlxr5eNA3SEjusOrgW) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Ido B & Zooki](https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2) | [IDWK \(The Remixes\)](https://open.spotify.com/album/2It3pJg368hYMLhCWXbqcY) | 3:02 | 2022-02-18 | 2022-12-10 |
 | [IMPULSE](https://open.spotify.com/track/1CXXm56FnDafykBYJanYe3) | [Yukari Hashimoto](https://open.spotify.com/artist/2oThAjMW6yMMqpjt0ffmcE) | [TV ANIME "ZENSHU" ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/6lBKOtzuwgBNLtB5K2WAX8) | 1:31 | 2025-03-31 |  |
+| [in the pool](https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6) | [kensuke ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [CHAINSAW MAN THE MOVIE: REZE ARC original soundtrack \-summer's end\-](https://open.spotify.com/album/2uEMIxWZXqUoGdHtTD7Tom) | 4:05 | 2025-09-19 |  |
 | [INERTIA](https://open.spotify.com/track/2joT0CjcGqc1fr8Fvk7itj) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Rei](https://open.spotify.com/artist/4CVs8ZjthgN0YuzXz7yXZ6) | [INERTIA](https://open.spotify.com/album/0tjOB1djtnx8VIkISrO6cb) | 3:19 | 2025-04-11 |  |
 | [Inferno](https://open.spotify.com/track/6ZXVnfb7cIIDxg1DfLCP1M) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「プロメア」オリジナルサウンドトラック](https://open.spotify.com/album/1QZBK8EZ4KSQTlunvEwL7o) | 3:54 | 2022-12-09 | 2024-05-25 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-19 |  |
 | [JEOPARDY](https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [JEOPARDY](https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL) | 3:57 | 2025-05-02 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2023-01-13 | 2023-12-14 |
 | [Kekka Orai\(English ver\)](https://open.spotify.com/track/2PFp5efJF0uBwvDxyC1ASL) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [Kekka Orai\(English ver\)](https://open.spotify.com/album/1ygQd5Oc5CVPPTMKIRIYyZ) | 2:54 | 2025-06-06 |  |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DRAIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,318 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,424 likes - 125 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Scared Of Everything And Nothing](https://open.spotify.com/track/5iVOvY8SvdCpW0BhyatobR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Scared Of Everything And Nothing](https://open.spotify.com/album/622aJIEQB1BZejd71jBGRL) | 2:33 |
-| 2 | [Track 5](https://open.spotify.com/track/4belGb5ePmzp4bJrSpG17T) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [If Your Girl Is Finger Licking, Come On Down and Do The Funky Chicken](https://open.spotify.com/track/4belGb5ePmzp4bJrSpG17T) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [String Theory](https://open.spotify.com/album/6HUamOs9pbpWSY404vH87G) | 2:07 |
 | 3 | [Bleeding Out](https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bleeding Out](https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO) | 3:01 |
-| 4 | [Track 3](https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [](https://open.spotify.com/album/null) | 0:00 |
+| 4 | [Leave My Room](https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [NSFW](https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc) | 2:23 |
 | 5 | [Float Away \(feat\. Derek DiScanio\)](https://open.spotify.com/track/6ZOGintEGaLObLzeDTrL6U) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn), [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr), [Derek DiScanio](https://open.spotify.com/artist/4gO25bbcu1eFNi8uDCvJFS) | [Float Away \(feat\. Derek DiScanio\)](https://open.spotify.com/album/1lL0Faw7dvdrjq2sb1l9SP) | 2:08 |
 | 6 | [Gloria: In Excelsis Deo \- RCA Demo](https://open.spotify.com/track/2HY8Txxm5QW4dla9BKdMrd) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gloria: In Excelsis Deo \(RCA Demo\)](https://open.spotify.com/album/0G0JMxCrUnnmISExYgkY6K) | 6:19 |
 | 7 | [Particle Physics](https://open.spotify.com/track/5VIGu2eFw1NryCrn8frMlq) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Particle Physics](https://open.spotify.com/album/7MUjpZJnaXfwyyl6L3IWIk) | 3:25 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 11 | [Automatic](https://open.spotify.com/track/3UMbZWBBN0CSjPHqgaQItA) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Automatic](https://open.spotify.com/album/6uBBKFcKNdrq0fUw0T7Eny) | 2:31 |
 | 12 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 |
 | 13 | [Mariah's Song](https://open.spotify.com/track/7ipDhQ3TgJnQNchsc82Xrz) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Mariah's Song](https://open.spotify.com/album/2O2tab6lfNyfZxWp8dWhM0) | 4:15 |
-| 14 | [Disbelief](https://open.spotify.com/track/7vxnmYkUq79GeG75iczI7m) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [](https://open.spotify.com/album/null) | 2:44 |
+| 14 | [Disbelief](https://open.spotify.com/track/7vxnmYkUq79GeG75iczI7m) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Lighten Up](https://open.spotify.com/album/4liguVdoyyGgZODBJzmlNG) | 2:44 |
 | 15 | [Finale Rack](https://open.spotify.com/track/51On8mF6kFfWaIFL41ojoW) | [Public Opinion](https://open.spotify.com/artist/62vfQ1IiuwsEwyqPWiAsWF) | [Finale Rack](https://open.spotify.com/album/3NuGVgLtdKkhvpqhmZIkxY) | 2:16 |
 | 16 | [Thought Decay](https://open.spotify.com/track/2e81mKtapRFi83OJVIYekT) | [Sunday Morning](https://open.spotify.com/artist/2jctlQLPR5HkLkNZz4Zo4G) | [Thought Decay](https://open.spotify.com/album/5Elmv5R9fWX9zFhEdABNaw) | 1:56 |
 | 17 | [Energie VS Body Crash](https://open.spotify.com/track/3DJkY1Mdr3P4LcGZOf24In) | [His Electro Blue Voice](https://open.spotify.com/artist/0fjgTN0XM22oyZi9wWzT6P) | [Energie VS Body Crash](https://open.spotify.com/album/4zQ0BaQJUuT2KgPCHnsYX7) | 2:25 |

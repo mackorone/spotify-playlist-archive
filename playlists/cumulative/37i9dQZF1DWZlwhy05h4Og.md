@@ -2,7 +2,7 @@
 
 ### [SUGAR](https://open.spotify.com/playlist/37i9dQZF1DWZlwhy05h4Og)
 
-> The sweetest bops\. Cover: KATSEYE at the VMAs
+> The sweetest bops\. Cover: XG
 
 245 songs - 12 hr 4 min
 

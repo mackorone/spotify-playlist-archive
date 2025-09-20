@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending country tracks from the last few months\. Cover: Hudson Westbrook
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,966 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,070 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 54 | [Tough People](https://open.spotify.com/track/1DNVS0Q30pQf3Rr0KaXYRk) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [Tough People](https://open.spotify.com/album/6lyQYMu3krcoLPaCJbQ35V) | 3:59 |
 | 55 | [Day Late & A Buck Short](https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Day Late & A Buck Short](https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj) | 2:33 |
 
-Snapshot ID: `AAAAAB0Z+E6GaJhGGigxQieCfGBdSHTa`
+Snapshot ID: `AAAAAOtdY3Jm4vD6ZAMlGjWOGIzKWDFC`

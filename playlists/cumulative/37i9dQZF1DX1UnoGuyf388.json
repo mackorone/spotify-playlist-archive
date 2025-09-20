@@ -404,7 +404,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 205978,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 207750,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 163580,
       "name": "Connoisseur - A COLORS SHOW",
       "url": "https://open.spotify.com/track/158nl4522BDsGavPdvekR2"
@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 130192,
       "name": "Everything Goes With Blue - from the Smurfs Movie Soundtrack",
       "url": "https://open.spotify.com/track/0cGevwqB5N1trB66N4x2DB"
@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Juniper",
+        "url": "https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197043,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI"
+    },
+    {
+      "album": {
         "name": "Freaky Deaky",
         "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
       },
@@ -3464,6 +3482,24 @@
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "album": {
+        "name": "get better!",
+        "url": "https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137781,
+      "name": "get better!",
+      "url": "https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom"
     },
     {
       "album": {
@@ -5154,7 +5190,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 207942,
       "name": "kintsugi",
       "url": "https://open.spotify.com/track/3x6gA8SG2NB2XQ9gmgggT9"
@@ -5428,7 +5464,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 149835,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1bkKjMzqeMG3knxBhDaKc0"
@@ -6341,6 +6377,24 @@
     },
     {
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b"
+    },
+    {
+      "album": {
         "name": "My Future",
         "url": "https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23"
       },
@@ -7227,6 +7281,28 @@
     },
     {
       "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160782,
+      "name": "Pick It Up (feat. Selena Gomez)",
+      "url": "https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF"
+    },
+    {
+      "album": {
         "name": "WOAH, WHAT A BLUR!",
         "url": "https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy"
       },
@@ -7740,7 +7816,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 229753,
       "name": "Raincheck",
       "url": "https://open.spotify.com/track/1DqLq5cD2XxJBDNiOtxnGM"
@@ -8604,7 +8680,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 194754,
       "name": "Special",
       "url": "https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7"
@@ -9262,7 +9338,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 118690,
       "name": "TATTOOS & U",
       "url": "https://open.spotify.com/track/7EYLUgc5aIc5r5sfzjJd2E"
@@ -9671,6 +9747,24 @@
     },
     {
       "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/7AywMcUIGhC5MePplTL80A"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166974,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/0mhlIcF2UReFGIl6XvKzB4"
+    },
+    {
+      "album": {
         "name": "Too Strange for the Circus",
         "url": "https://open.spotify.com/album/2xVPAd6OHyGna11gtdo8S4"
       },
@@ -9794,7 +9888,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 162904,
       "name": "Two Sides Of Goodbye",
       "url": "https://open.spotify.com/track/7uKXumzluES9YdRyYB4Ur7"
@@ -10120,7 +10214,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 172613,
       "name": "vitamin",
       "url": "https://open.spotify.com/track/0yNrKZfMskOElmuadLTI55"
@@ -10426,6 +10520,24 @@
       "duration_ms": 195470,
       "name": "Where Do We Go Now? (Music from Lil Nas X: Long Live Montero)",
       "url": "https://open.spotify.com/track/0jeRoIMD1LHhUkQEbjkXQv"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "album": {

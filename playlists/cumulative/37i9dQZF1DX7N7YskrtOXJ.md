@@ -4,7 +4,7 @@
 
 > La fiesta se enciende con cumbia.
 
-245 songs - 14 hr 48 min
+246 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Las Flores de Tu Florero](https://open.spotify.com/track/4uO0NyK4WLuzfTGzc49X3x) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 2:54 | 2024-02-27 | 2024-04-19 |
 | [Las Seis](https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik) | [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Toque](https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn) | 2:55 | 2024-03-29 |  |
 | [Loca](https://open.spotify.com/track/2LekureJkYmKUcUTBoHUaX) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Chico de Oro](https://open.spotify.com/album/3zqIOlC6FwNKRCE7gUpcmr) | 3:07 | 2023-08-25 | 2024-04-19 |
-| [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 | 2024-03-29 |  |
+| [Loca](https://open.spotify.com/track/7nqJSKq4bLSU5np1UKQl6f) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Plato Único Bailable](https://open.spotify.com/album/14cao29REfwt7L3liH4hQh) | 3:08 | 2024-03-29 | 2025-09-20 |
 | [Los Que Toman Como Rey](https://open.spotify.com/track/5WSqDw6NzRY89kiAUM3gxV) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Rey Mambo](https://open.spotify.com/album/076BEqIB8d6JYX8Cky7LKI) | 2:50 | 2023-08-25 | 2023-09-09 |
 | [Lost On You](https://open.spotify.com/track/3LSsTxosuhe9p4rBSjcRfX) | [Megapuesta](https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2) | [Lost On You](https://open.spotify.com/album/1rFtCRMzbussMVKQOFdQ2I) | 3:06 | 2023-08-25 | 2024-02-28 |
 | [Lástima](https://open.spotify.com/track/2ndgJ8HW0gqQnJwKUCJdm6) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [Amor Entre Sábanas](https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50) | 3:39 | 2024-02-27 |  |
@@ -123,6 +123,7 @@
 | [MALAMOR](https://open.spotify.com/track/3ZIVIlbw9n449bKyN5vKJN) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Vasquez](https://open.spotify.com/artist/3GlN5joOPb7aAQVJLSPpJx), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0) | [MALAMOR](https://open.spotify.com/album/6fZ6AwMDQCb2TR5Iw6JiWK) | 3:18 | 2023-12-22 | 2025-06-02 |
 | [Maldito Corazón](https://open.spotify.com/track/4pxpH2Dj1W1OMQfhKbHiHN) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:22 | 2024-02-27 | 2024-04-19 |
 | [Maracuyá Con Mango](https://open.spotify.com/track/0p5aiL6Dt7NPzxcu615IEK) | [Sondelvalle](https://open.spotify.com/artist/1en2WgpLwFV2kiSnCqW0gl) | [Rap Guachaca & Cumbia Reflexiva](https://open.spotify.com/album/7nQdEffGKLmEawaZkMtO7o) | 2:34 | 2023-08-25 |  |
+| [Mariposa Del Dolor](https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [ILag Keins](https://open.spotify.com/artist/4NZlQAALFKINhN1A6hji3y) | [Mariposa Del Dolor](https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg) | 4:13 | 2025-09-18 |  |
 | [María](https://open.spotify.com/track/1tYOodxB9PDbppU5qlxAoX) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/0qo1x937c8OKKBaoA7LCMg) | 5:56 | 2023-08-25 | 2023-09-27 |
 | [María](https://open.spotify.com/track/7h8mEgtCXobf4KgPuFvC1x) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Vuelve y Juega](https://open.spotify.com/album/3VREkyPb4HzE8NoQK3zmtS) | 5:57 | 2023-09-15 | 2024-02-28 |
 | [María](https://open.spotify.com/track/05Q4Vtbq6j2U3Hh7e9jqZ5) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [María](https://open.spotify.com/album/04sPLDpEqjlbU3jZ5IGmzf) | 4:37 | 2023-08-25 | 2024-02-28 |

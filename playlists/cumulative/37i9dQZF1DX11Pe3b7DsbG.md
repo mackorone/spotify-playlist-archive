@@ -4,7 +4,7 @@
 
 > Um bom sambinha para acompanhar cada gole.
 
-95 songs - 5 hr 34 min
+96 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Perdoa](https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls), [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Meus Momentos: Paulinho Da Viola](https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu) | 4:00 | 2022-03-08 | 2023-01-26 |
 | [Pintou uma Lua Lá](https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr) | [Arlindo Cruz & Sombrinha](https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE) | [Da Música](https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM) | 4:24 | 2022-03-08 |  |
 | [Promessa](https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo) | [Noca Da Portela](https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC) | [De Mãos Dadas](https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF) | 2:54 | 2022-03-08 |  |
-| [Prudente \- Ao Vivo](https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:49 | 2022-03-08 |  |
+| [Prudente \- Ao Vivo](https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:49 | 2022-03-08 | 2025-09-20 |
 | [Pé Na Areia](https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/6j0eevSzWWuNeN9tkY5AZt) | 3:40 | 2022-03-08 |  |
 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 | 2022-03-08 |  |
 | [Quando o povo entra na dança](https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Sentimento Brasileiro](https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP) | 2:51 | 2022-03-08 |  |
@@ -96,6 +96,7 @@
 | [Tive Razão \(Ao Vivo\)](https://open.spotify.com/track/4RQmuUT5DBOvnlewygH5Vy) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musicas para Churrasco, Vol.1 \(Ao Vivo\) \(Delux Edition\)](https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah) | 9:11 | 2022-03-08 | 2024-04-19 |
 | [Tive Razão \- Ao Vivo](https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil Ao Vivo \(Live\)](https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K) | 3:53 | 2022-03-08 |  |
 | [Tive Razão \- Live](https://open.spotify.com/track/3GKOAWCxKK7y1Rhb0Q0FaG) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Músicas Para Churrasco Vol.1 Ao Vivo \(Deluxe Edition\)](https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI) | 9:11 | 2022-03-08 |  |
+| [Todo Santo Dia](https://open.spotify.com/track/2eq3QByQSisn1BMigva2O5) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Todo Santo Dia](https://open.spotify.com/album/4a2772OB2irMyFceTNVP4i) | 2:55 | 2025-09-19 |  |
 | [Traço De União](https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Traço De União](https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB) | 3:31 | 2022-03-08 |  |
 | [Volta Meu Amor](https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95) | [VELHA GUARDA DA PORTELA](https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Tudo Azul](https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty) | 4:24 | 2022-03-08 |  |
 | [Volta, Meu Amor](https://open.spotify.com/track/1izDPzew6TdIcAJVN4XIyj) | [VELHA GUARDA DA PORTELA](https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Tudo Azul](https://open.spotify.com/album/6POI5YwQbVMnplbryMA4VT) | 4:23 | 2022-03-08 | 2024-04-19 |

@@ -781,6 +781,28 @@
     },
     {
       "album": {
+        "name": "Caprichito (En Vivo)",
+        "url": "https://open.spotify.com/album/6S95VlCqSP519PNY8R7obi"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Luis Vega",
+          "url": "https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235701,
+      "name": "Caprichito (En Vivo)",
+      "url": "https://open.spotify.com/track/2vT5QlaH24MEHSLGcyf84I"
+    },
+    {
+      "album": {
         "name": "Carta de Despedida",
         "url": "https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd"
       },
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 149187,
       "name": "ERROR 403",
       "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
@@ -2518,7 +2540,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -4928,7 +4950,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"

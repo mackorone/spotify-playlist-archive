@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Andien
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,858 likes - 133 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,882 likes - 133 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ujung\-Ujungnya Kamu](https://open.spotify.com/track/3zuI3idyWxEEkcUysRohKC) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Ujung\-Ujungnya Kamu](https://open.spotify.com/album/1hs3LxmpgEkvP5pZlH4VGG) | 4:05 |
 | 2 | [Sambung](https://open.spotify.com/track/3uUJsNW9TAYqqq1rBZDy1o) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C), [Dipha Barus](https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr) | [Sambung](https://open.spotify.com/album/1dz1xknOVdVX0LqfzJNxkX) | 4:58 |
 | 3 | [Secrets \(feat\. Lindsey Buckingham & Mick Fleetwood\)](https://open.spotify.com/track/37u2vfn3zgAz98uTZM7KeZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Something Beautiful \(Deluxe\)](https://open.spotify.com/album/3jyvGlsdgbUkdZnbpbZCCb) | 3:49 |
-| 4 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [](https://open.spotify.com/album/null) | 2:57 |
-| 5 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 |
+| 4 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
+| 5 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 6 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
 | 7 | [DEPRESSED](https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [DEPRESSED](https://open.spotify.com/album/4wdp5hBwGx9AgqUoiCCDUV) | 2:18 |
 | 8 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 9 | [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 |
 | 10 | [taste test](https://open.spotify.com/track/6cJMqbFoBGsLFf4yuq7PRv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [taste test](https://open.spotify.com/album/1PCcnx3pkx9xnDjE48JE9f) | 2:49 |
-| 11 | [Track 9](https://open.spotify.com/track/0VzVviCR4scXRZvJVCja75) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Safest Place \(feat\. Yuna\)](https://open.spotify.com/track/0VzVviCR4scXRZvJVCja75) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [TIME WILL TELL](https://open.spotify.com/album/6jNasr9sRzu0TmsRdaqh7z) | 2:31 |
 | 12 | [forevermore](https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [forevermore](https://open.spotify.com/album/7rbZZAHxa3yL17Gt6eXSjX) | 3:48 |
 | 13 | [Ingin Mencintai & Dicintai](https://open.spotify.com/track/5l4g0R0SsOmkCmnsQz4DHz) | [Leya Princy](https://open.spotify.com/artist/2O3HjLfKHefXk85dOpAr9x) | [Ingin Mencintai & Dicintai](https://open.spotify.com/album/25HMMZyrb6ivb9C2Th9MCc) | 3:05 |
 | 14 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 |

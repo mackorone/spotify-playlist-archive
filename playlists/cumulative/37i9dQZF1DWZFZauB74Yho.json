@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/6tdHmhGTixcen3uwnUmMfE"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259613,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/6F2cMb5QxQDhePgNixiTJo"
+    },
+    {
+      "album": {
         "name": "Boston Mountains",
         "url": "https://open.spotify.com/album/3GAuuBlGnYEu8ScOTHfzI7"
       },

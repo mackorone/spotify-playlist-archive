@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-497 songs - 23 hr 55 min
+499 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/7EpilnLzCp4IIw4RGq0e60) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 2:58 | 2025-06-13 |  |
 | [I Took A Pill In Ibiza](https://open.spotify.com/track/3GEFf9J7qcTh5yJADx5GZZ) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye) | [I Took A Pill in Ibiza \(The Forest Remix Pack\)](https://open.spotify.com/album/4tK6Tn979EZTnO5u6yuE9K) | 3:02 | 2025-06-13 |  |
 | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/track/7M58XwtXlqzuRvf25OnWy7) | [R3LL](https://open.spotify.com/artist/1oIdLFKLJx0NicqeiEvBj5), [Sai Sen](https://open.spotify.com/artist/0ObVSKfdMjPuYydCBG4TX3), [Iamsbf](https://open.spotify.com/artist/21vmR8ceieOHaiCvuwlLpI) | [I Want You \(Feat\. Sai Sen & SBF\)](https://open.spotify.com/album/67B3KMyswV6p4zF49Sns8Y) | 2:57 | 2022-06-03 | 2022-10-29 |
+| [I'm 2 Weak](https://open.spotify.com/track/2n30tiywW1DNklDW943X4p) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [I'm 2 Weak](https://open.spotify.com/album/1fdcVT2k3bpnryBwbAZrb0) | 2:54 | 2025-09-19 |  |
 | [IDGAF](https://open.spotify.com/track/4N90rKC3I3BQyROLHtXFIc) | [Flosstradamus](https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [IDGAF](https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i) | 3:21 | 2025-02-14 |  |
 | [Illusion](https://open.spotify.com/track/7Kqqg2agWjcT0nBVpzqA4B) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Illusion](https://open.spotify.com/album/159iw0k9cDQehxfOECRZgW) | 3:27 | 2022-10-27 | 2023-02-04 |
 | [Impeccable](https://open.spotify.com/track/5QLYGIPM6a5ZikKcn6hj48) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Impeccable](https://open.spotify.com/album/0ZBPGCXv01PeTM6kCMBjyi) | 2:21 | 2024-08-30 | 2025-04-27 |
@@ -423,6 +424,7 @@
 | [Summer Lasts Forever \(feat\. Love Jesse\)](https://open.spotify.com/track/32piXs0Tz0bkuYMfB4Cazk) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Love Jesse](https://open.spotify.com/artist/1PrmIUrwSolIGJfWzJ1qD5) | [A Slushii Summer](https://open.spotify.com/album/10DadGGffvTnLB0kyr9YZn) | 2:40 | 2022-09-23 | 2022-12-07 |
 | [Summertime in New York](https://open.spotify.com/track/6kBvishfePtr8auksmpGUn) | [aboywithabag](https://open.spotify.com/artist/6PqSrv8S89SEEpHAAqpUtY) | [Summertime in New York](https://open.spotify.com/album/4heCdWP7dkEcGtHWQUfXMF) | 3:19 | 2022-05-06 | 2022-07-28 |
 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 | 2022-05-06 | 2023-01-05 |
+| [Supernova](https://open.spotify.com/track/13dr6hf8qLjh7SIDEetQZZ) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Supernova](https://open.spotify.com/album/4vD3o8nVefQWef4WG1JsZW) | 2:26 | 2025-09-19 |  |
 | [Surrounded](https://open.spotify.com/track/71sxnW8hXbYa8Evm8bxEEV) | [Vincent](https://open.spotify.com/artist/7ymczLNmjz6AVMGApVNWbB) | [Surrounded](https://open.spotify.com/album/72r8Fuz8PHExhXN6pSoTm9) | 3:19 | 2024-10-04 | 2025-04-27 |
 | [Sweet Kicks](https://open.spotify.com/track/4pYN7XYrDE2NWcdgc16lON) | [Solomon France](https://open.spotify.com/artist/2NGEzvIbogjqVnEEnksrXp) | [Sweet Kicks](https://open.spotify.com/album/1x15z67Mn5RVMBvAc7ayhk) | 2:47 | 2023-08-09 | 2025-04-27 |
 | [Switch \(with Nat James\)](https://open.spotify.com/track/6hncI5tUk2z4KwtGT5sxSM) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [Switch \(with Nat James\)](https://open.spotify.com/album/1rTeQInxlDWx708GG11jK4) | 2:35 | 2023-04-07 | 2025-04-27 |

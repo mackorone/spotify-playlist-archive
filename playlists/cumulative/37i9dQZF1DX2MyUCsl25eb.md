@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-950 songs - 2 day 6 hr 51 min
+951 songs - 2 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -760,6 +760,7 @@
 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 | 2023-02-03 | 2023-02-18 |
 | [Someone Who Loved You](https://open.spotify.com/track/144wciVMFV19YTkmZ50g4z) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:57 | 2022-09-30 | 2023-06-24 |
 | [Someone Who Loved You](https://open.spotify.com/track/7LP5XpYL8XXNaSTj0ZfxI0) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Someone Who Loved You](https://open.spotify.com/album/1XoiGyWXxqcGzGVDmBbYw9) | 2:57 | 2022-09-30 | 2022-11-21 |
+| [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-19 |  |
 | [Something In The Water](https://open.spotify.com/track/1mhAbQXngabXhuwxoQycNa) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/2Sb0autVivIydesNKk5J6p) | 2:51 | 2024-07-09 |  |
 | [Something New](https://open.spotify.com/track/1i5cR4r7eiPcl1X8JYPDFu) | [Rachel Mazer](https://open.spotify.com/artist/1gN0EvPI7000a53bw1MXbl) | [Something New](https://open.spotify.com/album/0WJ9MrW2T4ogWvBoH6u4iI) | 4:34 | 2022-04-22 | 2022-07-29 |
 | [Something To Hold](https://open.spotify.com/track/2oPczwxIHoFxNkl7SbKNAH) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [Something To Hold](https://open.spotify.com/album/58WEkFrueGp8HFOZlJKRdw) | 4:31 | 2021-10-22 | 2022-07-28 |
@@ -802,7 +803,7 @@
 | [Sunshower](https://open.spotify.com/track/4kt9DbK4VmWCt33djJCqso) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Sunshower](https://open.spotify.com/album/1aOqoW6mj2lsfsfUbKgViC) | 3:45 | 2022-04-08 | 2022-04-16 |
 | [superhuman](https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [superhuman](https://open.spotify.com/album/0johO4xlYDXem8iYmjKoha) | 2:50 | 2022-10-21 | 2023-07-08 |
 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 | 2022-08-12 | 2022-08-27 |
-| [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-27 |  |
+| [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-27 | 2025-09-20 |
 | [Sweet Talk](https://open.spotify.com/track/7kbQOGIwFOpLGD08lK8DQ0) | [Archie Madekwe](https://open.spotify.com/artist/0ocHYFujtXLkWmCift0Z7Y), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:18 | 2025-08-22 |  |
 | [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-02 | 2025-04-26 |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 | 2024-03-23 |

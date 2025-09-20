@@ -4,34 +4,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Pabst, Blush Always
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,178 likes - 90 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,219 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [twenty three](https://open.spotify.com/track/3CrSjYWQn1MYLDRbNaBzzn) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [twenty three](https://open.spotify.com/album/3UXfEeyTSTziQL6AVITSsA) | 3:49 |
-| 2 | [Track 4](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 3 | [PENNY LAME](https://open.spotify.com/track/4OiPfVNluW2rsWpqjERciX) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [PENNY LAME](https://open.spotify.com/album/3IRxlSrvryP0kmlxLRbws5) | 3:00 |
 | 4 | [Keep Up](https://open.spotify.com/track/5qtGhBulxtsFRHmikMhBHe) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [Keep Up](https://open.spotify.com/album/1KB94XkuiG4b4Az6LiRXpt) | 3:36 |
 | 5 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
 | 6 | [Gatekeeper](https://open.spotify.com/track/22IBkO4ocBVIUHC4unEmp0) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Gatekeeper](https://open.spotify.com/album/4glmI7tJmWKR4CcIb3n0QB) | 2:42 |
 | 7 | [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 |
-| 8 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [](https://open.spotify.com/album/null) | 3:38 |
+| 8 | [Misery](https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Altar](https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f) | 3:38 |
 | 9 | [Euro Summer](https://open.spotify.com/track/5y7LHWSdqrpQJUhuN9MClU) | [Ava Vegas](https://open.spotify.com/artist/5ql0vsOE9XzHXwi8xP4yes) | [Euro Summer](https://open.spotify.com/album/2mosYbpraEEAs3vKVHlv1Q) | 3:53 |
 | 10 | [Common Touch](https://open.spotify.com/track/1AOZixWB3G8qpaIhS2eOwB) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Common Touch](https://open.spotify.com/album/3hy3PsDUO1B1dw9SnbHa2c) | 3:11 |
-| 11 | [Rage](https://open.spotify.com/track/4kAoE56A4sK26S72AmnN07) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Rage](https://open.spotify.com/album/1hkBhuDxZZcakXatV1RVvG) | 2:18 |
-| 12 | [Orange](https://open.spotify.com/track/7ARd43PMycrjTBdpiDUsyV) | [Pano](https://open.spotify.com/artist/2xvpNrwAVmdK1EIfA3ckzw) | [Stone Soup](https://open.spotify.com/album/1dFC9iinv0wde3it3mv0eH) | 2:19 |
-| 13 | [Dorm](https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Dorm](https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY) | 2:36 |
-| 14 | [Four Letter Words](https://open.spotify.com/track/7jNc4hkI5CZMQXvzAjC7w6) | [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Four Letter Words](https://open.spotify.com/album/08ctmUwOq7FNTVzAl0fOKH) | 3:21 |
-| 15 | [Pushing](https://open.spotify.com/track/4na9h2x04ZgtccWtKE61nA) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Pushing](https://open.spotify.com/album/28TIiWOK7U5w3RS9QV4svj) | 3:40 |
-| 16 | [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [](https://open.spotify.com/album/null) | 3:38 |
-| 17 | [Anchor](https://open.spotify.com/track/5aWd3x5i3VGHddzSZAupS3) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Anchor](https://open.spotify.com/album/27Xoq5t9AawWqgS2goiUiE) | 3:22 |
-| 18 | [Hollow Smiles](https://open.spotify.com/track/4L6g4KVBaDU9eVwVeJwNwf) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Hollow Smiles](https://open.spotify.com/album/5AGi2EuRJQ4k5AYTZ4dUcl) | 3:42 |
-| 19 | [all my friends](https://open.spotify.com/track/1usLalFVrrWZTNCybFqLDO) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [all my friends](https://open.spotify.com/album/4rIFaM69VGVks2VmKLf8xH) | 2:32 |
-| 20 | [Turned to Black](https://open.spotify.com/track/6NcC2n9p0XTFpsnnRGif8x) | [The Black Rabbits](https://open.spotify.com/artist/1cEGFR9gesXILdNnZiid9a), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [Black Rabbit \(Songs from the Netflix Limited Series\)](https://open.spotify.com/album/3lt15rkd7opjwDPGEu28p5) | 2:27 |
-| 21 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 |
-| 22 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 |
+| 11 | [Turned to Black](https://open.spotify.com/track/6NcC2n9p0XTFpsnnRGif8x) | [The Black Rabbits](https://open.spotify.com/artist/1cEGFR9gesXILdNnZiid9a), [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [Black Rabbit \(Songs from the Netflix Limited Series\)](https://open.spotify.com/album/3lt15rkd7opjwDPGEu28p5) | 2:27 |
+| 12 | [Rage](https://open.spotify.com/track/4kAoE56A4sK26S72AmnN07) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Rage](https://open.spotify.com/album/1hkBhuDxZZcakXatV1RVvG) | 2:18 |
+| 13 | [Orange](https://open.spotify.com/track/7ARd43PMycrjTBdpiDUsyV) | [Pano](https://open.spotify.com/artist/2xvpNrwAVmdK1EIfA3ckzw) | [Stone Soup](https://open.spotify.com/album/1dFC9iinv0wde3it3mv0eH) | 2:19 |
+| 14 | [Dorm](https://open.spotify.com/track/3o2msMcYmPBYSjCmESw5NL) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Dorm](https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY) | 2:36 |
+| 15 | [Four Letter Words](https://open.spotify.com/track/7jNc4hkI5CZMQXvzAjC7w6) | [Laura\-Mary Carter](https://open.spotify.com/artist/5BJfsO3JQzwpI4CZsHHJSZ) | [Four Letter Words](https://open.spotify.com/album/08ctmUwOq7FNTVzAl0fOKH) | 3:21 |
+| 16 | [Pushing](https://open.spotify.com/track/4na9h2x04ZgtccWtKE61nA) | [Mani Orrason](https://open.spotify.com/artist/6Xy8dw47s5ZgDlr0isOLV2) | [Pushing](https://open.spotify.com/album/28TIiWOK7U5w3RS9QV4svj) | 3:40 |
+| 17 | [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 |
+| 18 | [Anchor](https://open.spotify.com/track/5aWd3x5i3VGHddzSZAupS3) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Anchor](https://open.spotify.com/album/27Xoq5t9AawWqgS2goiUiE) | 3:22 |
+| 19 | [Hollow Smiles](https://open.spotify.com/track/4L6g4KVBaDU9eVwVeJwNwf) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Hollow Smiles](https://open.spotify.com/album/5AGi2EuRJQ4k5AYTZ4dUcl) | 3:42 |
+| 20 | [all my friends](https://open.spotify.com/track/1usLalFVrrWZTNCybFqLDO) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [all my friends](https://open.spotify.com/album/4rIFaM69VGVks2VmKLf8xH) | 2:32 |
+| 21 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 22 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
 | 23 | [Togetherness Is All I'm After](https://open.spotify.com/track/77YLvKyl2Ta0acpdvbAAbP) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Togetherness Is All I'm After](https://open.spotify.com/album/6ZrLd5YDJmlZZbSbpVIE0d) | 4:11 |
-| 24 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [](https://open.spotify.com/album/null) | 3:15 |
+| 24 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 |
 | 25 | [Purely Physical](https://open.spotify.com/track/5PSM8UTETwg5zd7kwaVaME) | [Kakkmaddafakka](https://open.spotify.com/artist/4HV7yKF3SRpY6I0gxu7hm9) | [Purely Physical](https://open.spotify.com/album/2lu8yi9nvo03AICpFv3Zpp) | 3:37 |
 | 26 | [Just a Lie](https://open.spotify.com/track/2SzQR32JD57uxEBGXKGE6e) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Just a Lie](https://open.spotify.com/album/7HSzlsZUOBtYXkalrmDJrF) | 3:34 |
 | 27 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Summertime Silence](https://open.spotify.com/track/1dT8gPIQ5TMhcRbISaZt4n) | [Amber & the Moon](https://open.spotify.com/artist/7bxdfk6ZAZRXFZeTsdTLEs) | [Summertime Silence](https://open.spotify.com/album/7u4KcKJ59tAMWILyEf9tlM) | 4:44 |
 | 90 | [Brand New Me](https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Brand New Me](https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT) | 3:03 |
 
-Snapshot ID: `AAAAACaSfzQUesF2/JBYJ4VVZy8/mnKJ`
+Snapshot ID: `AAAAAM9f/LIQYGzmx3AEedjLgusQtJY3`

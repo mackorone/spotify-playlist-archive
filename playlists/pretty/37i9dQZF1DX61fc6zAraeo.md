@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 
 > Dance tracks for your power moves
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,013 likes - 90 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,027 likes - 90 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX61fc6zAraeo.md) - [plain]
 | 49 | [Endless Dreamers](https://open.spotify.com/track/3uIKJc5B8D0iil6i1Dl2pM) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Endless Dreamers](https://open.spotify.com/album/1jJ9742FM6O9TpWZqr4GIU) | 3:56 |
 | 50 | [Oldskool Sound](https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Oldskool Sound](https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx) | 3:36 |
 | 51 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
-| 52 | [Everybody](https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Everybody](https://open.spotify.com/album/5fCgeqHfCgT60KyhKQzvkK) | 2:41 |
-| 53 | [Highs & Lows](https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Highs & Lows](https://open.spotify.com/album/3pxCU10ON1fpHhrtzpmGHl) | 2:07 |
+| 52 | [Highs & Lows](https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Highs & Lows](https://open.spotify.com/album/3pxCU10ON1fpHhrtzpmGHl) | 2:07 |
+| 53 | [Everybody](https://open.spotify.com/track/3c27H2nNYfoipwl2f1ULnK) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Everybody](https://open.spotify.com/album/5fCgeqHfCgT60KyhKQzvkK) | 2:41 |
 | 54 | [Dominos](https://open.spotify.com/track/482Ev1QU02GrGT9oV9TAax) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Dominos](https://open.spotify.com/album/0Pxcx3RH5L3ZVMRxmB29iL) | 2:30 |
 | 55 | [Misbehave](https://open.spotify.com/track/5ycGcr8ZiWiutDmLps8UQG) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Misbehave](https://open.spotify.com/album/3HOuGQzSeUbHKB94Chyxj1) | 2:54 |
 | 56 | [4 o'Clock \(In The Morning\)](https://open.spotify.com/track/3DKkPeLeZlJlvcq1R5Ot4A) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem), [STRINGS](https://open.spotify.com/artist/2miDdmDaU90uQwrBIFj9Cs) | [4 o'Clock \(In The Morning\)](https://open.spotify.com/album/333tnNxldO2bpInhctnz5W) | 2:04 |

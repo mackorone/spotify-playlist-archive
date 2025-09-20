@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 > pop is SO back, shop this year's collection <a href="https://www.umusic.ca/pages/POP">here</a>.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 79,283 likes - 128 songs - 6 hr 57 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 79,281 likes - 129 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 126 | [Something, Somehow, Someday](https://open.spotify.com/track/6A521u0gY1goZmyLRFS0yK) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:35 |
 | 127 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 |
 | 128 | [Contemporary Love](https://open.spotify.com/track/4XHF75XJbmUt7LVUwuOpyC) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:47 |
+| 129 | [EDUCATION](https://open.spotify.com/track/1ARemleYLCZjVZRSVq8SxF) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [EDUCATION](https://open.spotify.com/album/57HQVSPN0DT6xR91nLxoVS) | 3:50 |
 
-Snapshot ID: `AAA8LyVV6yM29UnBCeJiSUZpza51V0b8`
+Snapshot ID: `AAA8MAscjYqnUCIV7tVFzjMIqql2s41W`

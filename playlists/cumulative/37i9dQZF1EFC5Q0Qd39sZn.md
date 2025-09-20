@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-661 songs - 1 day 21 hr 45 min
+662 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,8 @@
 | [Se te ne vai così \(I Want It to Be Me\)](https://open.spotify.com/track/2UqdjQvvWeqgHknG51BjQw) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB) | [Gli Occhi Grandi Della Luna](https://open.spotify.com/album/1JHneLmyAZl9s2cUaZHjTt) | 3:47 | 2024-07-10 |  |
 | [Secrets Of The Night](https://open.spotify.com/track/6fJBAYnLjCtx9SDIuT6Rx3) | [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [El DeBarge](https://open.spotify.com/album/4WtFh6jQ53Pn0PdkUhWgYK) | 4:16 | 2025-01-09 | 2025-04-12 |
 | [Sempre Estarei Ai](https://open.spotify.com/track/4xMUHevynslj3eQ94Blpj9) | [Edilson Maia](https://open.spotify.com/artist/7IzGAGiDnAL0ivcZPquZew) | [Abra O Coração](https://open.spotify.com/album/6SgosvbIxHuasBJKe1ff6I) | 4:33 | 2024-07-10 |  |
-| [Set the Night to Music \(with Maxi Priest\) \- 2006 Remaster](https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 5:19 | 2023-12-30 |  |
+| [Set the Night to Music](https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:47 | 2025-09-19 |  |
+| [Set the Night to Music \(with Maxi Priest\) \- 2006 Remaster](https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7) | [The Very Best of Roberta Flack](https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq) | 5:19 | 2023-12-30 | 2025-09-20 |
 | [Sheltered Heart](https://open.spotify.com/track/7JBrmDHQ0APUwQzGOJOK2W) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/5dT8wsoBrLfBkfsuBK4bLJ) | 4:44 | 2025-07-30 |  |
 | [Sheltered Heart](https://open.spotify.com/track/7vs9x1UUlXQkBIyaV7KcVP) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/2E5SRcJqYXGXyJTAZOgmnB) | 4:44 | 2023-12-30 | 2025-07-31 |
 | [She’s Fire](https://open.spotify.com/track/0hP4n7XV0olkYL8mwB9GXZ) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:33 | 2023-12-30 |  |

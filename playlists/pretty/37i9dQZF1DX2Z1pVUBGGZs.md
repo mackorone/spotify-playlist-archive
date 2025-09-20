@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring paris paloma 🌻
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,881 likes - 120 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,876 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
 | 2 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
-| 3 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 |
+| 3 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 4 | [boys come and go](https://open.spotify.com/track/3jCAq8mb4xdmBvONTsZszV) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [boys come and go / chameleon](https://open.spotify.com/album/6TAe3IvGBxizax2j8DVDRM) | 3:46 |
 | 5 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
-| 6 | [Track 2](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |
 | 7 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
 | 8 | [I Love It](https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi), [shortstraw.](https://open.spotify.com/artist/3qlFWAsq8StLpupHiBDVND) | [Baby Teeth](https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD) | 3:14 |
 | 9 | [how do i tell u](https://open.spotify.com/track/74sEcN2fzGvGpP785DeiHt) | [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [how do i tell u](https://open.spotify.com/album/4GE4ck1HKKvCsEzM1giAR2) | 3:47 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 22 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
 | 23 | [Jezebel](https://open.spotify.com/track/1NciBc7baz5hT6jNTixk7w) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Jezebel](https://open.spotify.com/album/5MUMQdVStGYG834nBz6GaB) | 3:14 |
 | 24 | [American Dream](https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Don’t Cry Because It’s Over](https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI) | 2:39 |
-| 25 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 |
+| 25 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
 | 26 | [legs](https://open.spotify.com/track/41j4n25X0gRSJi04wD6Avp) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [legs](https://open.spotify.com/album/77LhNmOedKEN7rDEvdVKNc) | 3:09 |
 | 27 | [Body](https://open.spotify.com/track/3wqXKqPgBMBeyHNN3x1x47) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Body](https://open.spotify.com/album/1LNYkv0KQrGTOqBJkwiEH7) | 4:13 |
 | 28 | [test my love](https://open.spotify.com/track/48EIXgkf4pDzZ6iuSnWQeV) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [test my love / who knows?](https://open.spotify.com/album/2q1JHhM2nvZnMUm3lbStDv) | 1:42 |

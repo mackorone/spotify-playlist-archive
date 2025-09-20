@@ -1,13 +1,29 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 147308,
+  "num_followers": 147309,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFAHt4akohov5CnCyp8EXApAvkGUuP",
+  "snapshot_id": "AAAFAz/mPIrpX5XBuYpLyOXl457LlAJF",
   "tracks": [
+    {
+      "added_at": "2025-09-19 20:57:06",
+      "album": {
+        "name": "For My Broken Heart",
+        "url": "https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "The Night The Lights Went Out In Georgia",
+      "url": "https://open.spotify.com/track/2MiXC2LfpsoeUP5RvMGEQ3"
+    },
     {
       "added_at": "2025-07-25 20:04:21",
       "album": {
@@ -145,6 +161,22 @@
       "url": "https://open.spotify.com/track/5YScXJKtefsgdskIy60N7A"
     },
     {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
+    },
+    {
       "added_at": "2025-05-30 20:26:13",
       "album": {
         "name": "Spice",
@@ -191,22 +223,6 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
     },
     {
       "added_at": "2025-04-22 23:10:10",

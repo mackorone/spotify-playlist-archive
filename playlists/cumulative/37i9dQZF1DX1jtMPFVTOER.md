@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-611 songs - 1 day 12 hr 34 min
+612 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,10 +113,11 @@
 | [Chance to Say My Piece](https://open.spotify.com/track/5156TsGL5qwZfzIfFxCueZ) | [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Chance to Say My Piece](https://open.spotify.com/album/5xKaUxqVhCleXMHmHXPF6a) | 2:29 | 2021-11-12 | 2022-02-19 |
 | [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 | 2025-06-13 |  |
 | [Chasing Days](https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r) | [Chasing Days](https://open.spotify.com/album/7aYZkjC8EiJrs8ivzwbYxh) | 3:51 | 2023-03-24 | 2023-05-27 |
-| [Chasing Days \- Sam Redmore Remix](https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Chasing Days \(Sam Redmore Remix\)](https://open.spotify.com/album/4pSclrufz705aSbj4gASWM) | 5:22 | 2023-06-23 |  |
+| [Chasing Days \- Sam Redmore Remix](https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26) | [Izo FitzRoy](https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r), [Sam Redmore](https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6) | [Chasing Days \(Sam Redmore Remix\)](https://open.spotify.com/album/4pSclrufz705aSbj4gASWM) | 5:22 | 2023-06-23 | 2025-09-20 |
 | [Cheap Cigars](https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Cheap Cigars](https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx) | 3:19 | 2023-10-20 | 2024-08-24 |
 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 | 2021-11-12 | 2022-05-28 |
 | [Cheers To New Beginnings](https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Cheers To New Beginnings](https://open.spotify.com/album/7uRM9iuJfa6PhQfkTF1MyP) | 2:54 | 2023-03-31 | 2023-07-08 |
+| [Children of the Baked Potato](https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 4:06 | 2025-09-19 |  |
 | [Chino](https://open.spotify.com/track/3GAYdG396XiE4QAq3Osn3x) | [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf), [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Chino](https://open.spotify.com/album/3oiOAUaLRIjgEfJ0Nq3gMW) | 2:23 | 2022-07-29 | 2022-11-20 |
 | [Chino](https://open.spotify.com/track/3nguTHU4uZRChg1k1PCUtB) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Chino](https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6) | 2:23 | 2022-11-18 | 2023-01-28 |
 | [chrome heart](https://open.spotify.com/track/7EYvDUBpNnTVkJxT1GxtIc) | [Tray Nova](https://open.spotify.com/artist/1pznsDt09PdZmZAMjHSp2D) | [chrome heart](https://open.spotify.com/album/3f6CUelnKbs3XpWuQym73h) | 2:56 | 2021-11-12 | 2022-06-25 |

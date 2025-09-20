@@ -3941,6 +3941,32 @@
     },
     {
       "album": {
+        "name": "HASTA QUE ME ENAMORO",
+        "url": "https://open.spotify.com/album/0QqDczkevW20da9kiN9O3Q"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180881,
+      "name": "HASTA QUE ME ENAMORO",
+      "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
+    },
+    {
+      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0Bfeaf1WqowUo8XndE8YC4"
       },
@@ -6283,6 +6309,28 @@
     },
     {
       "album": {
+        "name": "No me tires flores",
+        "url": "https://open.spotify.com/album/1wpqZljTd2AQL9p9K11J5U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "No me tires flores",
+      "url": "https://open.spotify.com/track/0bZzyFUzIiqoTH744vtauR"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -6796,7 +6844,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 216943,
       "name": "Otra Canci\u00f3n",
       "url": "https://open.spotify.com/track/5PjsROhhpXFTnjhAeTd2OB"
@@ -7076,7 +7124,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 192167,
       "name": "Pa\u2019 Qu\u00e9 Volviste?",
       "url": "https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV"

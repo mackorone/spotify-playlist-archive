@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,311 likes - 30 songs - 1 hr 38 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,311 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 28 | [Disco Divina](https://open.spotify.com/track/0OaIzsNk36CofcdcdAZGam) | [Il Guardiano Del Faro](https://open.spotify.com/artist/4PmDAzACdkCCxw0Yt17db8) | [Oasis](https://open.spotify.com/album/7hEiLSzmYKkFggRKacZ4kH) | 4:06 |
 | 29 | [Slow Rock](https://open.spotify.com/track/12NaMBVRkY4MZ1RRSEAkC8) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Slow Rock](https://open.spotify.com/album/7bkieWj5UfV98siUCcHHsz) | 2:54 |
 | 30 | [Gel Lab](https://open.spotify.com/track/1S3ztdKDdpO3zOLbOPCqS7) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Rest Proof Clockwork](https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7) | 4:14 |
+| 31 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 |
 
-Snapshot ID: `AAANJOfUk9tzT5e887ls7P5cnwtGJZn/`
+Snapshot ID: `AAANJuMnQubhWrH0jJ6GXkEtzdPZFzkl`

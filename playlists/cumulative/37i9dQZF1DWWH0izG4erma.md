@@ -4,7 +4,7 @@
 
 > Country music that rocks\. Cover: Chris Stapleton
 
-420 songs - 23 hr 57 min
+421 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Lightning Bugs and Rain](https://open.spotify.com/track/0NBaQcjwg7ROSc8qosY5Fj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Mud](https://open.spotify.com/album/73umj4b9Y8amNnJk6diicy) | 3:11 | 2021-11-01 | 2022-02-05 |
 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 | 2023-09-01 |  |
 | [Live Here To Work](https://open.spotify.com/track/2KV73rmqtnouraVWPnIIrc) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Live Here To Work](https://open.spotify.com/album/02V2Qy6dT7y3eVZPQB0HsY) | 4:42 | 2024-09-20 | 2025-03-09 |
+| [Living Proof \(with Jelly Roll\)](https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Living Proof \(with Jelly Roll\)](https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2) | 3:38 | 2025-09-19 |  |
 | [Livin’ My Life Like a Country Song](https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Livin’ My Life Like a Country Song](https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL) | 3:19 | 2024-09-06 | 2024-12-26 |
 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 | 2023-08-21 |  |
 | [Lone Wolf](https://open.spotify.com/track/2Q9oePSJXYu74fE3ZUR5XX) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [&](https://open.spotify.com/album/3QFQRHFIQtlPKxzmBXNoyF) | 3:40 | 2022-08-26 | 2023-06-08 |
@@ -351,7 +352,7 @@
 | [Tell the People](https://open.spotify.com/track/5gc0DRaKq0ijViRdG5juAS) | [Brett James](https://open.spotify.com/artist/3WIMGDdZYN91QQr3zGzpxo) | [Tell the People](https://open.spotify.com/album/0AXC4SSbB9ojN8ZFxXNTwt) | 3:38 | 2021-11-01 | 2022-07-29 |
 | [That's The Kinda Place](https://open.spotify.com/track/4lkxrngFnPkp54beg466xV) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [That's The Kinda Place](https://open.spotify.com/album/6QFCmYV8X3bclMyINhimCL) | 3:39 | 2021-11-01 | 2022-07-20 |
 | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/track/33MnBkmn4aV4AbUQS17eYU) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [That's Why We Fight \(feat\. Koe Wetzel\)](https://open.spotify.com/album/5JosqecYhWy8ikWQtYVLel) | 2:43 | 2023-04-21 |  |
-| [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 | 2023-09-15 |  |
+| [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 | 2023-09-15 | 2025-09-20 |
 | [The Bottom \(Raise Em Up\)](https://open.spotify.com/track/4oefbJXSZQ6tVIn7P8ieub) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Bar Stool Preacher](https://open.spotify.com/album/6pVUsN0pgT6pkPT6BJQjtj) | 2:26 | 2022-01-21 | 2022-07-10 |
 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 | 2023-04-07 | 2025-05-10 |
 | [The Devil Is an Angel](https://open.spotify.com/track/1NrHorXOBOduKQ0QbLH5VS) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [The Devil Is An Angel](https://open.spotify.com/album/1BJYIhTmHlup1sXCE9Wnot) | 2:22 | 2021-11-01 | 2022-05-07 |

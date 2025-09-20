@@ -4,7 +4,7 @@
 
 > marrakech season
 
-96 songs - 6 hr 19 min
+97 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 | 2025-06-27 | 2025-07-02 |
 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 | 2025-06-27 |  |
 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 | 2025-06-27 |  |
+| [Tighrmt](https://open.spotify.com/track/5Ni9kw0mZeM7GzJdxMMej6) | [VAN](https://open.spotify.com/artist/6awrCroyD97KIRrAP7wFbh) | [Tighrmt](https://open.spotify.com/album/19E6q524oWKwvtcv5Pn7dX) | 3:44 | 2025-09-19 |  |
 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-07-18 |  |
 | [Undressed \- Vidojean X Oliver Loenn Remix](https://open.spotify.com/track/1f0ErRtNccQIzEnqRm0BA2) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z), [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH) | [Undressed \(Vidojean X Oliver Loenn Remix\)](https://open.spotify.com/album/6Ib3IehyjOhGyDLqaZQWRH) | 3:26 | 2025-06-27 |  |
 | [Valodja \(Liva K Remix\)](https://open.spotify.com/track/6crRAkisXn9J3THH4yWX3S) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [AN21](https://open.spotify.com/artist/3wPBMtzFP84b7UN786Sxhn), [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [Valodja \(Liva K Remix\)](https://open.spotify.com/album/3aYmKkfbN0Gln01YMAYWAD) | 3:16 | 2025-06-27 |  |

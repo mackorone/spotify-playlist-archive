@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "eternamente,",
+        "url": "https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP"
+      },
+      "artists": [
+        {
+          "name": "eliminadorzinho",
+          "url": "https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219841,
+      "name": "A cidade \u00e9 uma selva",
+      "url": "https://open.spotify.com/track/53vB6t3mcw3iwMXSHSod8E"
+    },
+    {
+      "album": {
         "name": "Tempo El\u00e1stico",
         "url": "https://open.spotify.com/album/3Rz96Hv5APcqv6xBxyB1qr"
       },
@@ -13212,7 +13230,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 216299,
       "name": "temporal",
       "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
@@ -13818,7 +13836,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 160000,
       "name": "Troquei",
       "url": "https://open.spotify.com/track/517qrLznf3kAbvr9xjyjg6"
@@ -15020,6 +15038,24 @@
       "duration_ms": 164878,
       "name": "Voc\u00ea N\u00e3o V\u00ea",
       "url": "https://open.spotify.com/track/03o9imYVmPeXwJEGLZrWbv"
+    },
+    {
+      "album": {
+        "name": "eternamente,",
+        "url": "https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP"
+      },
+      "artists": [
+        {
+          "name": "eliminadorzinho",
+          "url": "https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280163,
+      "name": "Voc\u00ea vai me escutar",
+      "url": "https://open.spotify.com/track/4RA9sd4OLjmVBZkXsE6h6g"
     },
     {
       "album": {

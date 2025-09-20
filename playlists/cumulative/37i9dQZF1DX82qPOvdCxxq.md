@@ -4,7 +4,7 @@
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Allie Page
 
-817 songs - 1 day 21 hr 42 min
+819 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Deal With the Devil](https://open.spotify.com/track/1vLiRGMXr3ogfUK9PNaBYv) | [Noah Baker](https://open.spotify.com/artist/0DnCxVNBEUIdrAAPbp8yVx) | [The Art of Losing It All](https://open.spotify.com/album/5DCQNWSvTIqn64zCpCGqw6) | 2:34 | 2025-06-04 | 2025-07-24 |
 | [DEAR GOD](https://open.spotify.com/track/0mphugFt8NbXiNrBapXQaO) | [Tree](https://open.spotify.com/artist/37wo7mJE2RpFgNSFhyvhqp), [Raymah](https://open.spotify.com/artist/6s251uzHtUOVdp9MrX9clz), [Sapphire](https://open.spotify.com/artist/5rPU4fnKinOLvEMrr2NeMs), ['Alisi](https://open.spotify.com/artist/6i21nZIWakQVBdP4CjepBh), [Aufuatō](https://open.spotify.com/artist/7k7SmDhEbcyBD4na5iDQ6T) | [DEAR GOD \(Intro\)](https://open.spotify.com/album/0ji7yVQJdFG7rJ7v0tjnxR) | 2:51 | 2025-05-28 | 2025-06-19 |
 | [deep in love](https://open.spotify.com/track/4csTcBhMlYTVlZJTqhsm2k) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [deep in love](https://open.spotify.com/album/4OGgIObFUgJnzjG3FU8XDr) | 4:51 | 2025-08-20 | 2025-09-18 |
+| [DEEP WATERS \(PSALM 18\)](https://open.spotify.com/track/0PWse9Pw1SyZKIjy5glfu0) | [LOST & FOUND](https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo) | [DEEP WATERS \(PSALM 18\)](https://open.spotify.com/album/2tJ1deiXuTfBP6WVjrJOhx) | 2:12 | 2025-09-17 |  |
 | [Deepest Part of You](https://open.spotify.com/track/7kKOQeNAFSHTihMD3jj1l6) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Deepest Part of You](https://open.spotify.com/album/4XZh5i7ww2bYwnbQczUfrE) | 3:07 | 2021-02-12 | 2024-07-06 |
 | [Deliver Me](https://open.spotify.com/track/7HNr3Ks0BKyA9e4dQliofD) | [Demaree](https://open.spotify.com/artist/0gwOJrev0qZFiHifjaZzfK) | [Deliver Me](https://open.spotify.com/album/0mKPg5vsm55EVdYa20aw2R) | 3:50 | 2025-03-19 | 2025-04-19 |
 | [DEPEND](https://open.spotify.com/track/7rBvlTjxJ3WYGuMORnpf5f) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [DEPEND](https://open.spotify.com/album/2uCnF7eR9mSQJGQoZ0xfLh) | 3:09 | 2025-08-13 |  |
@@ -288,7 +289,7 @@
 | [Great I Am](https://open.spotify.com/track/1lJyWvMc8a6d23EFadNtI4) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Great I Am](https://open.spotify.com/album/4A4XcMKZz9e0BObKtdUD1W) | 3:33 | 2024-08-07 | 2024-11-15 |
 | [Great Is The Hope](https://open.spotify.com/track/3SWztLvYi5bQbDe9TC4mgf) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is The Hope](https://open.spotify.com/album/1zicMQG6s3e4PM4dKGnuKe) | 4:47 | 2021-02-12 | 2024-04-19 |
 | [Great Is the Hope](https://open.spotify.com/track/7AsO6COcAbqjRxEcVZ7Arb) | [North Coast Church](https://open.spotify.com/artist/2O8REwWdtzkvKvBqjd1ijb) | [Great Is the Hope](https://open.spotify.com/album/4LQsFZlwX8gwlSRuCH1GUh) | 4:47 | 2021-02-12 | 2024-07-06 |
-| [GROANINGS](https://open.spotify.com/track/651fgODjPFfikV7ZbeLLLQ) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [](https://open.spotify.com/album/null) | 4:15 | 2025-09-17 |  |
+| [GROANINGS](https://open.spotify.com/track/651fgODjPFfikV7ZbeLLLQ) | [Joel Figueroa](https://open.spotify.com/artist/3QRS0RlYKcQFdr7X4pcE4V) | [Groanings](https://open.spotify.com/album/6bxbbpjKjWxIN5ixcrSMO2) | 4:15 | 2025-09-17 |  |
 | [Groove](https://open.spotify.com/track/3qB1ofzNRxrb3WLiMO1JNn) | [Holly Maduma](https://open.spotify.com/artist/00EIRyVAvMEKy4h5KDdUxH), [Linga TheBoss](https://open.spotify.com/artist/5jCTpUeZQ61zaoSYgYV2cY) | [Groove](https://open.spotify.com/album/5D4wOE49SKljGRvWMfSBqm) | 3:14 | 2025-09-17 |  |
 | [Guide Me](https://open.spotify.com/track/3qeteKEp127RXJCFoEaDW4) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [Guide Me](https://open.spotify.com/album/1MvMuNja8Vi2J0YvwX9P38) | 3:19 | 2025-05-28 | 2025-08-14 |
 | [Gutter Punk](https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy) | [Andy Squyres](https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU) | [Miracle Service](https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO) | 4:21 | 2025-06-11 | 2025-06-26 |
@@ -525,6 +526,7 @@
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/1WtF8HsIxzXoOXKMVTKzeB) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [Fe Malefiz](https://open.spotify.com/artist/2xkvTt1eyxzTNDWRao0Dcd) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/2H7GUS1k7frO1TxnFchQ2p) | 2:43 | 2025-04-09 | 2025-05-15 |
 | [Oh How I Love Jesus](https://open.spotify.com/track/3pUGSCxF6h1MoUPlpu1SsY) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [Oh How I Love Jesus](https://open.spotify.com/album/3xeNY7FyNVBJzJ9BQN78cI) | 2:42 | 2025-04-18 | 2025-05-15 |
 | [oh Papa](https://open.spotify.com/track/0YKTqQwOnzbmn05cECMaiW) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [oh Papa](https://open.spotify.com/album/1HzmhLd1iZghZLspvQmryN) | 2:49 | 2024-09-26 | 2024-10-03 |
+| [oh, sinner](https://open.spotify.com/track/7MPTKKwioSuhkcZQ6t9AQB) | [Bianca Silver](https://open.spotify.com/artist/5pGOCZ0PkA35ZGyOxgBeHL) | [oh, sinner](https://open.spotify.com/album/2UfE1ZWP8L5q1XSIcQqQOl) | 2:34 | 2025-09-17 |  |
 | [old one is dead](https://open.spotify.com/track/6Lg0ey7DTzWnxpX0EofUb8) | [Jaisua](https://open.spotify.com/artist/7u5RAgXZgtZJ7yINfxdUc5), [Tristian Hernandez](https://open.spotify.com/artist/0yycoPOfeQ1KZtebs3wAH9) | [old one is dead](https://open.spotify.com/album/1HS9C2YAPwY8a5nj0gi3ji) | 2:34 | 2024-10-25 | 2025-03-13 |
 | [Older](https://open.spotify.com/track/5SXanPIJf3sE9HkccYbgis) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Older](https://open.spotify.com/album/4IiWEtqE13R4nb9IStW8mD) | 2:49 | 2025-03-05 | 2025-06-05 |
 | [Oluranlowo \(Helper\)](https://open.spotify.com/track/2TgPPIPjk277F2Ba31L2C7) | [Folake Awesome](https://open.spotify.com/artist/6hcCN8GbNA6qhA1kDTtwpW) | [Oluranlowo \(Helper\)](https://open.spotify.com/album/68syeEbfWzxSb0geFqow5E) | 4:16 | 2024-11-27 | 2025-03-06 |

@@ -6879,6 +6879,32 @@
     },
     {
       "album": {
+        "name": "Perversa",
+        "url": "https://open.spotify.com/album/7vtTn5VGyUcMoGtRN2u8QC"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Byred",
+          "url": "https://open.spotify.com/artist/1aABhU6Qe0paiGAPMlRbWU"
+        },
+        {
+          "name": "Harrell",
+          "url": "https://open.spotify.com/artist/3XhY6vumQiV38lOxH9yeWH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156350,
+      "name": "Perversa",
+      "url": "https://open.spotify.com/track/0qh9V7O8f0CSLufNlyjva9"
+    },
+    {
+      "album": {
         "name": "Piano de la Selva",
         "url": "https://open.spotify.com/album/3eeNuUpzHKLg0rTSTcMh0D"
       },
@@ -8720,7 +8746,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 227076,
       "name": "Toma Que Toma",
       "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"

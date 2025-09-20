@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "como en una nube. Bedroom pop vibes featuring Valsian \u2728",
+  "description": "como en una nube. Bedroom pop vibes featuring Kirnbauer \u2728",
   "name": "dreamy ",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 148677,
       "name": "(sola)",
       "url": "https://open.spotify.com/track/3SdwgzRoY5ZnDt3tsiva5F"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 140547,
       "name": "100m",
       "url": "https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg"
@@ -150,6 +150,24 @@
       "duration_ms": 174000,
       "name": "420",
       "url": "https://open.spotify.com/track/4mafHOwCidj2OK0Nhci8k8"
+    },
+    {
+      "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
     },
     {
       "album": {
@@ -1141,6 +1159,58 @@
     },
     {
       "album": {
+        "name": "Claro",
+        "url": "https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        },
+        {
+          "name": "Ala\u00edde",
+          "url": "https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103695,
+      "name": "Claro",
+      "url": "https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg"
+    },
+    {
+      "album": {
+        "name": "Eden Sauvage (Remix)",
+        "url": "https://open.spotify.com/album/6PGavdSCHUFpBe4GUb6CN6"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        },
+        {
+          "name": "Peter Dallas",
+          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185294,
+      "name": "Claroscuro - Peter Dallas Remix",
+      "url": "https://open.spotify.com/track/5wUNsl2yVw2OBIyHxUc5id"
+    },
+    {
+      "album": {
         "name": "Coastin' (with Alem\u00e1n)",
         "url": "https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH"
       },
@@ -1174,7 +1244,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 255524,
       "name": "Colores crom\u00e1ticos",
       "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
@@ -1304,7 +1374,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 238315,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
@@ -1544,7 +1614,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 117606,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
@@ -2535,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "Fr\u00e1gilmente",
+        "url": "https://open.spotify.com/album/3Rl6qflmwxWIe8jtXN5zl1"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1o A Marte",
+          "url": "https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217894,
+      "name": "Fr\u00e1gilmente",
+      "url": "https://open.spotify.com/track/501PDMrVTyjxwJMPWItWK9"
+    },
+    {
+      "album": {
         "name": "Futura Memoria",
         "url": "https://open.spotify.com/album/6zYYe5HYqXooL5bhdbuheZ"
       },
@@ -3513,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "luz / vac\u00edo",
+        "url": "https://open.spotify.com/album/5SBKpqhSAF37GSFXigV4Ax"
+      },
+      "artists": [
+        {
+          "name": "Dawn Haze",
+          "url": "https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209949,
+      "name": "luz / vac\u00edo",
+      "url": "https://open.spotify.com/track/7MFOYALF9P7hdLM9QcQ3Hf"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas En Ti",
         "url": "https://open.spotify.com/album/0YtEoVStzQw32uPbc2r1TX"
       },
@@ -3618,7 +3724,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 224727,
       "name": "Mandala",
       "url": "https://open.spotify.com/track/3Lebs7ERP0ILzr80u9UReL"
@@ -3644,6 +3750,24 @@
       "duration_ms": 235044,
       "name": "Mar de Coral",
       "url": "https://open.spotify.com/track/0u45ps6DeoMdCgszuASyzr"
+    },
+    {
+      "album": {
+        "name": "MARGARITA",
+        "url": "https://open.spotify.com/album/6xW7lWB2AQfKZchs4NU70n"
+      },
+      "artists": [
+        {
+          "name": "PolyMilo",
+          "url": "https://open.spotify.com/artist/1XqNaFL3UB1kManagnsBOr"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "MARGARITA",
+      "url": "https://open.spotify.com/track/615UXER3dxcqbsc7dw7UUT"
     },
     {
       "album": {
@@ -3832,7 +3956,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 229615,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8"
@@ -4064,7 +4188,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 133333,
       "name": "M\u00edralo",
       "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
@@ -4118,7 +4242,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 180384,
       "name": "Nada Es Personal",
       "url": "https://open.spotify.com/track/3o9mEhwHeYUZCDgxOYxsF9"
@@ -4158,7 +4282,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 122553,
       "name": "Nada me cansa",
       "url": "https://open.spotify.com/track/4dhvnt64kcBObdSH2JFXnb"
@@ -4206,7 +4330,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-24",
+      "date_removed": null,
       "duration_ms": 199853,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/5ZKt9rCFpo7nssJp5hlkiu"
@@ -4235,6 +4359,28 @@
     },
     {
       "album": {
+        "name": "FASES",
+        "url": "https://open.spotify.com/album/4fIyIzv0if6AdxBbqiNWfN"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        },
+        {
+          "name": "Ronnie",
+          "url": "https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179552,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4RYR0Wmo8QbTo2zmNeZfSc"
+    },
+    {
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/7J189Nq9zcZmkkb0A8BqW7"
       },
@@ -4250,7 +4396,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 179552,
       "name": "Natural",
       "url": "https://open.spotify.com/track/5kXAfm5Ua6ZbF5umkLVNsy"
@@ -4870,7 +5016,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 190806,
       "name": "Para Hacernos Bien",
       "url": "https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu"
@@ -4888,7 +5034,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 233042,
       "name": "Paradisco",
       "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
@@ -5232,7 +5378,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-05",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Quisiera Viajar En El Tiempo",
       "url": "https://open.spotify.com/track/4VbjzlTMyY4nVMVhRHfpSb"
@@ -6316,7 +6462,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 178541,
       "name": "tus mensajes",
       "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
@@ -6410,7 +6556,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "un rato",
       "url": "https://open.spotify.com/track/22BWBU9Pwgz3M7fP1mahfk"
@@ -6682,7 +6828,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-22",
+      "date_removed": null,
       "duration_ms": 177262,
       "name": "Voces en mi mente",
       "url": "https://open.spotify.com/track/2U97hS7kT1Cu1hatTcab8e"
@@ -6718,7 +6864,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 158578,
       "name": "volvernos a ver",
       "url": "https://open.spotify.com/track/1Uq8lNL7I3y6WAuc564LBq"

@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002",
-  "num_followers": 186073,
+  "num_followers": 186074,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 260878,
-      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
-    },
-    {
-      "added_at": "2025-06-25 03:23:28",
-      "album": {
         "name": "\u611b&\u82f1\u96c4 LOVE HERO",
         "url": "https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 281182,
       "name": "\u5730\u7403\u4e0a\u6700\u6d6a\u6f2b\u7684\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO"
+    },
+    {
+      "added_at": "2025-06-25 03:23:28",
+      "album": {
+        "name": "\u6211\u5011 (\u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/55Ro04UwGKHwUZ5nC3rr2r"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 260878,
+      "name": "\u6211\u5011 - \u300a\u5f8c\u4f86\u7684\u6211\u5011\u300b\u96fb\u5f71\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/0Uf0SvwUrf02ucIt1d0Wos"
     },
     {
       "added_at": "2025-06-25 03:23:28",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-06-25 03:23:28",
       "album": {
-        "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-        "url": "https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK"
+        "name": "\u4e0d\u53ea\u662f\u670b\u53cb",
+        "url": "https://open.spotify.com/album/5YSeaPHcEESyJpm46PfGyZ"
       },
       "artists": [
         {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+          "name": "\u9ec3\u5c0f\u7425",
+          "url": "https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz"
         }
       ],
-      "duration_ms": 200287,
-      "name": "\u4f60\u4e0d\u662f\u7b2c\u4e00\u500b\u96e2\u958b\u7684\u4eba",
-      "url": "https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh"
+      "duration_ms": 304260,
+      "name": "\u4e0d\u53ea\u662f\u670b\u53cb",
+      "url": "https://open.spotify.com/track/1c434f7py7OHmi7qPxly5R"
     },
     {
       "added_at": "2025-06-25 03:23:28",

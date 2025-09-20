@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Malibu",
-  "num_followers": 131184,
+  "num_followers": 131204,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
+        "name": "Holotropica",
+        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Ubiquitous",
+      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
         "name": "Virga (feat. Darlingside)",
         "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 382867,
       "name": "Virga (feat. Darlingside)",
       "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "Holotropica",
-        "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Ubiquitous",
-      "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Impossible Light",
-        "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
-      },
-      "artists": [
-        {
-          "name": "Uboa",
-          "url": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
-        }
-      ],
-      "duration_ms": 350968,
-      "name": "Endocrine Disruptor",
-      "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "until all are free",
         "url": "https://open.spotify.com/album/6xCbR0Jj7Sv99FELiluFHw"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 281613,
       "name": "until all are free",
       "url": "https://open.spotify.com/track/0UrZM7tm4R6F4Kl9yfzEFp"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Impossible Light",
+        "url": "https://open.spotify.com/album/1ZwJMEEaBifkdvQl793ek3"
+      },
+      "artists": [
+        {
+          "name": "Uboa",
+          "url": "https://open.spotify.com/artist/4ioovQ90tEAnJiQryAtkXl"
+        }
+      ],
+      "duration_ms": 350968,
+      "name": "Endocrine Disruptor",
+      "url": "https://open.spotify.com/track/2PF6906ULwsP3InXPZ2gPc"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -911,42 +911,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Memories of Log",
-        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
-      },
-      "artists": [
-        {
-          "name": "Ulla",
-          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
-        }
-      ],
-      "duration_ms": 400248,
-      "name": "Falling Water Lullaby",
-      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "Esperance",
-        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Esperance",
-      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -963,50 +927,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Duality Pt 2 Peace",
-        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+        "name": "Memories of Log",
+        "url": "https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b"
       },
       "artists": [
         {
-          "name": "DemiMa",
-          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+          "name": "Ulla",
+          "url": "https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN"
         }
       ],
-      "duration_ms": 265480,
-      "name": "Let Love Be",
-      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "Eurybia",
-        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
-      },
-      "artists": [
-        {
-          "name": "Francesca Heart",
-          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
-        }
-      ],
-      "duration_ms": 186082,
-      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
-      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "Analemma",
-        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+      "duration_ms": 400248,
+      "name": "Falling Water Lullaby",
+      "url": "https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1031,18 +963,50 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Desert Window",
-        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
+        "name": "Eurybia",
+        "url": "https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x"
       },
       "artists": [
         {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+          "name": "Francesca Heart",
+          "url": "https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT"
         }
       ],
-      "duration_ms": 327104,
-      "name": "Our Relativity",
-      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
+      "duration_ms": 186082,
+      "name": "L'Inno delle Oceanine alla Bellezza e alla Fortuna",
+      "url": "https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Duality Pt 2 Peace",
+        "url": "https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw"
+      },
+      "artists": [
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "duration_ms": 265480,
+      "name": "Let Love Be",
+      "url": "https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1063,6 +1027,42 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Esperance",
+        "url": "https://open.spotify.com/album/216zQhxOkfIvxNSeu5Ze1e"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Esperance",
+      "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Desert Window",
+        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 327104,
+      "name": "Our Relativity",
+      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "OUT I",
-        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
-      },
-      "artists": [
-        {
-          "name": "Violeta Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
-        }
-      ],
-      "duration_ms": 281565,
-      "name": "OUT I",
-      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "The Boat",
         "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 425600,
       "name": "The Boat",
       "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "OUT I",
+        "url": "https://open.spotify.com/album/0J9olnu3NCQGDgEPQqXaOE"
+      },
+      "artists": [
+        {
+          "name": "Violeta Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3tnbSfifsk0DNL1FsoZVNJ"
+        }
+      ],
+      "duration_ms": 281565,
+      "name": "OUT I",
+      "url": "https://open.spotify.com/track/4jmNHn52MHjuLr6H9J0pBK"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "CHANDANI",
-        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
-      },
-      "artists": [
-        {
-          "name": "Chiara Dubey",
-          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
-        }
-      ],
-      "duration_ms": 189350,
-      "name": "Amma",
-      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "7.37/2.11",
         "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
@@ -1351,22 +1335,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Sea-swallowed Wands",
-        "url": "https://open.spotify.com/album/4tTKkIDE2d9wwwSK0GhFVK"
+        "name": "CHANDANI",
+        "url": "https://open.spotify.com/album/5rltLBY7tp2T0l7O4jHWoh"
       },
       "artists": [
         {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
-        },
-        {
-          "name": "Karen Vogt",
-          "url": "https://open.spotify.com/artist/72qU17IcjkHAMFqH4ol9un"
+          "name": "Chiara Dubey",
+          "url": "https://open.spotify.com/artist/4pleWkStGuAIJnSzZF55mH"
         }
       ],
-      "duration_ms": 366000,
-      "name": "Body in the shadows, face in the light",
-      "url": "https://open.spotify.com/track/0dYB5Ug2CBarhW4Zs7xjRK"
+      "duration_ms": 189350,
+      "name": "Amma",
+      "url": "https://open.spotify.com/track/6EVlMgdGXNlTQUi9xITR9G"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1403,6 +1383,26 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
+        "name": "Sea-swallowed Wands",
+        "url": "https://open.spotify.com/album/4tTKkIDE2d9wwwSK0GhFVK"
+      },
+      "artists": [
+        {
+          "name": "Jolanda Moletta",
+          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+        },
+        {
+          "name": "Karen Vogt",
+          "url": "https://open.spotify.com/artist/72qU17IcjkHAMFqH4ol9un"
+        }
+      ],
+      "duration_ms": 366000,
+      "name": "Body in the shadows, face in the light",
+      "url": "https://open.spotify.com/track/0dYB5Ug2CBarhW4Zs7xjRK"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
         "name": "Big Majestic",
         "url": "https://open.spotify.com/album/27Edaf6CUyLSiDnXPRDckq"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "PLEASE COME TO ME",
-        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
-      },
-      "artists": [
-        {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
-        }
-      ],
-      "duration_ms": 344491,
-      "name": "Only Wish",
-      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 187861,
       "name": "Cloudbreath",
       "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 344491,
+      "name": "Only Wish",
+      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Kumquat",
-        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
-      },
-      "artists": [
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
-        }
-      ],
-      "duration_ms": 196296,
-      "name": "Kumquat",
-      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+      },
+      "artists": [
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
-      },
-      "artists": [
-        {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
-        }
-      ],
-      "duration_ms": 517151,
-      "name": "Walking in a spiral towards the house: Side C",
-      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "I'll Look For You In Others",
         "url": "https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 393479,
       "name": "I'll Look for You in Others",
       "url": "https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 517151,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
     },
     {
       "added_at": "2025-09-04 09:36:25",

@@ -675,6 +675,32 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/60wULKo3XC35GgqO1n23fj"
+      },
+      "artists": [
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "La petite fille de la mer",
+      "url": "https://open.spotify.com/track/5pAZxvs7d7BRzGA0QWVcgh"
+    },
+    {
+      "album": {
         "name": "Vangelis: Delectus (Remastered)",
         "url": "https://open.spotify.com/album/7DoFecRxuDQE3Nkp5GC8SU"
       },

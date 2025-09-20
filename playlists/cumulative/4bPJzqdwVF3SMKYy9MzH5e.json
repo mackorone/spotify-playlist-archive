@@ -14107,6 +14107,24 @@
     },
     {
       "album": {
+        "name": "FTRW!",
+        "url": "https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251322,
+      "name": "FTRW!",
+      "url": "https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa"
+    },
+    {
+      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly"
       },

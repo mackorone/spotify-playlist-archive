@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: DG IMMORTALS
+> Best of Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-487 songs - 1 day 0 hr 45 min
+489 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [No Darling](https://open.spotify.com/track/0OKJzI2n4YfSCPS8dN3wvj) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [No Darling](https://open.spotify.com/album/2VJhRHyWaPX9U86xYxpUo1) | 3:29 | 2023-06-10 | 2023-08-15 |
 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 | 2024-03-26 | 2024-08-27 |
 | [No Fake](https://open.spotify.com/track/6g9O3FKotfjT9rxqgNOTi2) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [No Fake](https://open.spotify.com/album/54xTuRGq24Av5cqavO8jmE) | 3:14 | 2023-12-14 | 2025-01-11 |
-| [No Fluke](https://open.spotify.com/track/0e00wW89E66Ndp8poSdjA2) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [No Fluke](https://open.spotify.com/album/4bWXLZzAM9LIIUOoPnEpnr) | 3:28 | 2025-08-01 |  |
+| [No Fluke](https://open.spotify.com/track/0e00wW89E66Ndp8poSdjA2) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [No Fluke](https://open.spotify.com/album/4bWXLZzAM9LIIUOoPnEpnr) | 3:28 | 2025-08-01 | 2025-09-20 |
 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 | 2024-12-13 |  |
 | [No Love](https://open.spotify.com/track/681FN54hdHlpYkXXgHoOlJ) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [No Love](https://open.spotify.com/album/47UPjlcNYUogBn5QUm7zFF) | 3:59 | 2023-12-14 | 2025-01-11 |
 | [No Love](https://open.spotify.com/track/0EUPq7PY2Zm7ey1UVDiB4Z) | [Manish Rawal](https://open.spotify.com/artist/5BMrVOkeM7YwsNjhanu1Zb) | [No Love](https://open.spotify.com/album/3G8e4jVAvzOsPZSux2wkVo) | 2:18 | 2025-04-04 | 2025-05-10 |
@@ -402,6 +402,7 @@
 | [Rao Sahab Rollin'](https://open.spotify.com/track/3xsksUfVvcXErZbNVNBUw4) | [Vkey](https://open.spotify.com/artist/1BY7PxVLvuV63Ds9iPVXss), [SDEE](https://open.spotify.com/artist/302ztHnZGveCVIu1cW9awZ), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Rao Sahab Rollin'](https://open.spotify.com/album/587VNfg33gfvXuMV2YyYkO) | 3:53 | 2024-03-18 | 2025-01-11 |
 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 | 2023-08-23 | 2023-09-14 |
 | [Rapgod](https://open.spotify.com/track/1qETjoaPp0O2eVqYPQ9PQc) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Rapgod](https://open.spotify.com/album/4AnkiReAouD2pfq7GtkeE7) | 4:05 | 2023-03-28 | 2024-01-18 |
+| [Rare](https://open.spotify.com/track/3Kz1mkAM5pnbRtg7GN0NmC) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [Rare](https://open.spotify.com/album/4ukJFgSGNWD927oPGSj33j) | 2:29 | 2025-09-19 |  |
 | [Reality CHECK](https://open.spotify.com/track/0PYifNH5nUggC5tjQrd8Q7) | [Sunny Boi Singh](https://open.spotify.com/artist/6NtfxVEjZtsMvpz9WPe0WC) | [Reality CHECK](https://open.spotify.com/album/5hL9XkpHnK4RK5tdGlMM0A) | 2:56 | 2025-02-15 | 2025-08-13 |
 | [Red Face](https://open.spotify.com/track/2vcOf6FPBKpc9RFnVLPd4j) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Red Face](https://open.spotify.com/album/2brsGQtXM1iNEBSwNUaZcf) | 3:19 | 2023-12-14 | 2024-09-07 |
 | [Rolex](https://open.spotify.com/track/4Ox61ir1wrVz4RWunkCkgL) | [Amar Kharkiya](https://open.spotify.com/artist/2D0eJe0om5jkhQOR7jASIg), [Jaypee](https://open.spotify.com/artist/1zHyfn1TTwcc2sebIchkMk) | [Rolex](https://open.spotify.com/album/7qJ2MwBYs1zEa0UWX9l5bE) | 2:20 | 2023-04-03 | 2023-04-29 |
@@ -473,10 +474,11 @@
 | [True](https://open.spotify.com/track/2R7KeXRqnkjHfH66B1kn9A) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [True](https://open.spotify.com/album/1aGNh4zrzF6CAv69OtAK7D) | 4:05 | 2023-03-28 | 2023-10-10 |
 | [Tuition](https://open.spotify.com/track/2OIOzVTQGXuwkaCS6wzNit) | [SHUNYA](https://open.spotify.com/artist/5yKqRYP9G9VlPfRUFjaLIa) | [Tuition](https://open.spotify.com/album/4QAIfdRnMl4UbfNrs2PD4k) | 2:38 | 2025-05-16 | 2025-05-21 |
 | [Two Wanted](https://open.spotify.com/track/7elK9GujCDkLJx1HLYwn8a) | [The Dass](https://open.spotify.com/artist/4IVXeHz81moONMHFiV0esU), [Nehal](https://open.spotify.com/artist/125puLa2YNOkHhLPXc4mfG), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Two Wanted](https://open.spotify.com/album/0WlsdjnywiPmrTSvvytE1e) | 2:50 | 2025-01-18 | 2025-02-16 |
+| [Underground](https://open.spotify.com/track/5Q7HveElOCM22vw1BGsmyF) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Underground](https://open.spotify.com/album/6PPtgb60LicD8cRfRT1GqR) | 3:25 | 2025-09-19 |  |
 | [Unstoppable](https://open.spotify.com/track/6IePbDU29ymA3unC9NoETt) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Unstoppable](https://open.spotify.com/album/2iVLy5zu6a1W3gz8VK4azB) | 3:19 | 2023-10-09 | 2024-03-19 |
 | [Up To U](https://open.spotify.com/track/5pkOSmSeVo8RfC8555LRHT) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/75E8pKR9gdgdv3xxRyT1o8) | 3:08 | 2024-04-10 | 2024-04-19 |
 | [Up To U](https://open.spotify.com/track/7695jWrVLrftHb9ChEmFCg) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Up To U](https://open.spotify.com/album/3LqdYNb1s5tt77gpYkMeeF) | 3:08 | 2023-10-06 | 2025-01-25 |
-| [Up\-14 J & G](https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Up\-14 J & G](https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm) | 2:17 | 2024-01-26 |  |
+| [Up\-14 J & G](https://open.spotify.com/track/5wzyhBuKjAfPgC0H10tZUJ) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Up\-14 J & G](https://open.spotify.com/album/1klxmkBEoXNTLd6VDpqmcm) | 2:17 | 2024-01-26 | 2025-09-20 |
 | [Up12 to Jh14](https://open.spotify.com/track/6mYDZwRQKZEWgQ1VZqDHDF) | [Shikriwal](https://open.spotify.com/artist/0CinOHFWu7nAChXK9KH9Oa), [Total Deep](https://open.spotify.com/artist/6sRIh4YXmBX5EjTzQ9zmLf) | [Cactus](https://open.spotify.com/album/6QlGN5FPWk3VM3i3ugVfKN) | 2:54 | 2024-01-26 | 2024-03-04 |
 | [Vaastav Flow](https://open.spotify.com/track/1HqhcSGw5D5VfECNIXNcxF) | [D Shark](https://open.spotify.com/artist/6OUhFj39zRaUDiKnvzbmCr), [Kartavya](https://open.spotify.com/artist/1wmMWy3nG6RphHhovk37OC), [Khaab](https://open.spotify.com/artist/1gyHIdOiJND81gOMWI3oRo) | [Vaastav Flow](https://open.spotify.com/album/3okC2egoV3rcq1MkPfAZAH) | 2:58 | 2025-02-28 | 2025-04-05 |
 | [Vampire](https://open.spotify.com/track/31olLVhKdDW291OezbnDZt) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM) | [Vampire](https://open.spotify.com/album/5KI34lG871b5QkuNHKeIn1) | 5:06 | 2023-03-28 | 2024-08-13 |

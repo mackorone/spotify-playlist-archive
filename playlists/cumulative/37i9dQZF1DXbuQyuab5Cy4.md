@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops 🧛🏼🧛🏼
 
-140 songs - 8 hr 17 min
+141 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Squid Play](https://open.spotify.com/track/5zPFhnPNbdhhOLMTeqZT5C) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Cuebrick](https://open.spotify.com/artist/2ONoOunWxnWn1DikA6rjBM) | [Squid Play](https://open.spotify.com/album/062CSYkbPxbFT6apgGEdxH) | 2:45 | 2021-10-28 | 2024-10-02 |
 | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/track/1axYKkAUrZbB1axBahVM2J) | [Boombox Cartel](https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO), [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Supernatural \(feat\. Anjulie\)](https://open.spotify.com/album/2X04eOH1El0sUzp5Ivvp2a) | 4:28 | 2021-10-28 |  |
 | [Sweet Dreams \(VIP\)](https://open.spotify.com/track/4IQQB4PTQfvW1x7iioOeK9) | [Borgore](https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz), [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG) | [Sweet Dreams \(VIP\)](https://open.spotify.com/album/5beTuDZOcwTbSBEBhA6pT1) | 4:06 | 2021-10-28 |  |
-| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv) | 5:01 | 2024-10-31 |  |
+| [São Paulo \(feat\. Anitta\)](https://open.spotify.com/track/4UmpZwWh99V5JMSrGsacFP) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/5dH89SWty2zwQkpLtPI2Lv) | 5:01 | 2024-10-31 | 2025-09-20 |
+| [São Paulo \(feat\. Anitta\) \- Single Version](https://open.spotify.com/track/2HXQL06smXD4evuW7MLY4X) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [São Paulo](https://open.spotify.com/album/28TLpNqlJzeOqm9N4OY3BS) | 2:28 | 2025-09-19 |  |
 | [Terror Squad](https://open.spotify.com/track/3iua7Qv6SauKb6AIRErIDE) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Reanimated EP](https://open.spotify.com/album/0pvo5DotmMpj4hvnWAYkwJ) | 4:17 | 2021-10-28 |  |
 | [The Evil Folk](https://open.spotify.com/track/2Hdz3K7Nj21JyKdgtOvGIY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/1RpZGs7XhczTcZJzduxD0k) | 2:37 | 2021-10-28 | 2024-04-19 |
 | [The Evil Folk](https://open.spotify.com/track/5SV1LzjQQxm9od88K3kwio) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Nino Lucarelli](https://open.spotify.com/artist/2Z6k8JBzhJPPRIAyKaUEJZ) | [The Evil Folk](https://open.spotify.com/album/2IjPgn4eJwVQMH6Cm9xWnA) | 2:37 | 2021-10-28 |  |

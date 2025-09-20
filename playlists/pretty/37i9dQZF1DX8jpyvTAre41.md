@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Silverstein
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,945 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,957 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 3 | [A New Type of Grey](https://open.spotify.com/track/44IYvHt4YGWPATWPKo0p1h) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [A New Type of Grey](https://open.spotify.com/album/1R47UJeJUDhEYTGIKYY4Ie) | 3:29 |
 | 4 | [Common Touch](https://open.spotify.com/track/1AOZixWB3G8qpaIhS2eOwB) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Common Touch](https://open.spotify.com/album/3hy3PsDUO1B1dw9SnbHa2c) | 3:11 |
 | 5 | [For Those Who Play The Game](https://open.spotify.com/track/7E76XNBqf4HB5nc8VS7jK9) | [Mountain Head](https://open.spotify.com/artist/1Wyrho9gXU38NlI2b3lO0O) | [For Those Who Play The Game](https://open.spotify.com/album/2qkPe3TvqJTDytRBmoj7cM) | 2:51 |
-| 6 | [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [](https://open.spotify.com/album/null) | 3:11 |
-| 7 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [](https://open.spotify.com/album/null) | 3:06 |
-| 8 | [AN EFFORT TO FORGET \(FEAT\. EMILY HAINES\)](https://open.spotify.com/track/2ZQzwBZtJHZx6edmy3I2d4) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00), [Emily Haines](https://open.spotify.com/artist/0g9SI3fQvQdbDvb20pPF5M) | [](https://open.spotify.com/album/null) | 3:32 |
+| 6 | [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 |
+| 7 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 |
+| 8 | [AN EFFORT TO FORGET \(FEAT\. EMILY HAINES\)](https://open.spotify.com/track/2ZQzwBZtJHZx6edmy3I2d4) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00), [Emily Haines](https://open.spotify.com/artist/0g9SI3fQvQdbDvb20pPF5M) | [BURN ALL THE SHIPS](https://open.spotify.com/album/0fOKfwP09wOgJ0Sv4Q0ybz) | 3:32 |
 | 9 | [The Fatalist](https://open.spotify.com/track/3FrT1TD82QxLtRIn5IinK4) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Pink Moon](https://open.spotify.com/album/7H14q1uaSsDDgSV0rn3W5c) | 2:50 |
 | 10 | [Easy Come, Easy Go](https://open.spotify.com/track/0BCoj6btq07uoBXcS3HVlO) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Easy Come, Easy Go](https://open.spotify.com/album/3GZjCLfJ4o617hscOXgn43) | 2:34 |
 | 11 | [GUTS](https://open.spotify.com/track/4RjDr8lV9QTdsYTeBKc9Pq) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [GUTS](https://open.spotify.com/album/3EnqXvVQeRaxsBEQf15U7z) | 3:21 |
 | 12 | [Bleeding Out](https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Bleeding Out](https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO) | 3:01 |
-| 13 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [](https://open.spotify.com/album/null) | 5:50 |
+| 13 | [Who Wants To Live Forever?](https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [TRON: Ares \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl) | 5:50 |
 | 14 | [Here To Bleed](https://open.spotify.com/track/1DFMShSkGQrzRbKqOM1fcc) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Here To Bleed](https://open.spotify.com/album/5XrRMrmP7GaD3r2AyiBuNK) | 2:46 |
 | 15 | [Outrun](https://open.spotify.com/track/2IRfhO9PRc6nZ0vdUSqY3i) | [The Honest Heart Collective](https://open.spotify.com/artist/2qgcVY8aup4vFHfp4uoZ2X) | [Outrun](https://open.spotify.com/album/6E3HUongz7QOPrZQlHvHx5) | 3:17 |
 | 16 | [Future Present Tense](https://open.spotify.com/track/28pAZrhXWKKqucGN1SmlS0) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Future Present Tense](https://open.spotify.com/album/7iwpKybf6XhJIlKAH7ICIz) | 3:48 |
-| 17 | [Track 9](https://open.spotify.com/track/465iG5ttKfJKdKRW79lXe2) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [](https://open.spotify.com/album/null) | 0:00 |
-| 18 | [Back to Life](https://open.spotify.com/track/5nLBTwmvDJ1yS0hi84ufQS) | [Fable](https://open.spotify.com/artist/0MrfhDKWnpB41Bb1NsALii) | [](https://open.spotify.com/album/null) | 3:12 |
+| 17 | [That Girl](https://open.spotify.com/track/465iG5ttKfJKdKRW79lXe2) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Friendship & Rock 'n' Roll](https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF) | 3:10 |
+| 18 | [Back to Life](https://open.spotify.com/track/5nLBTwmvDJ1yS0hi84ufQS) | [Fable](https://open.spotify.com/artist/0MrfhDKWnpB41Bb1NsALii) | [Back to Life](https://open.spotify.com/album/1H8xgMm4ykKkySxzGnGMRk) | 3:12 |
 | 19 | [Chrome Jets](https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Chrome Jets](https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf) | 3:36 |
 | 20 | [Impose](https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Impose](https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR) | 4:23 |
 | 21 | [Young As This](https://open.spotify.com/track/5qPQImgNyuoEFsZFGKUtX6) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Young As This](https://open.spotify.com/album/1b079FK9FKg2QFt24llds8) | 2:48 |

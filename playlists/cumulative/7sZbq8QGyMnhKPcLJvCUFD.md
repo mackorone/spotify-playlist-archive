@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-762 songs - 1 day 14 hr 16 min
+763 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 | 2023-04-28 |
 | [Perfect 10](https://open.spotify.com/track/2MolFsdE7ydCQQgsmfvX6w) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Heather Sommer](https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV) | [Perfect 10](https://open.spotify.com/album/7ELX0wC96zy5lPQe8VRSdG) | 3:24 | 2023-08-08 | 2024-01-10 |
 | [Perfection](https://open.spotify.com/track/35uYMUD5cEofl6Z7g2T5x6) | [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl), [Derek Cate](https://open.spotify.com/artist/6obanUFiN0hVgGy3Nng7FQ) | [Perfection](https://open.spotify.com/album/1SIzNOI2xtlOmv4MsdpwVw) | 2:43 | 2024-11-01 |  |
+| [PHANDUYEN \(Destiny\)](https://open.spotify.com/track/2HS7yziVRfOZFEsYf0S8rx) | [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR), [Dang Minh](https://open.spotify.com/artist/6mBBguyEawXsIXiHvTd4MD) | [PHANDUYEN \(Destiny\)](https://open.spotify.com/album/5Q21RD0oWLaB1zpbsh5298) | 3:20 | 2025-09-19 |  |
 | [Phenomenon](https://open.spotify.com/track/3aYidIc6HUMrL1tFTmokSZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Hoober](https://open.spotify.com/artist/32rfvsXfn7YDlDhG7Hh7Zd), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 2:56 | 2023-08-08 | 2023-12-14 |
 | [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/6NsZCEmTqHL2z7wOu1LQ9L) | 3:58 | 2023-08-08 | 2024-07-19 |
 | [Pick Up The Pieces](https://open.spotify.com/track/65iqcLmrli2xc7L84ylh4w) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c), [Cesar Santalo](https://open.spotify.com/artist/0GOf63Qs5qGm2K0SJ8EgL2) | [Pick Up The Pieces](https://open.spotify.com/album/1tVECFTaW2JwVnA4PGbGc5) | 2:51 | 2023-12-13 | 2024-05-01 |

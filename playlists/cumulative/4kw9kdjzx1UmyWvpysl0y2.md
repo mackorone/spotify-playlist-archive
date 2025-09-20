@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,074 songs - 2 day 12 hr 8 min
+1,075 songs - 2 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Feeling Low](https://open.spotify.com/track/4tVVyEKRJZCyoEWC3rqy8t) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Feeling Low](https://open.spotify.com/album/2j2CO9BIpL1aGgVtKqvqqp) | 2:55 | 2024-06-10 | 2024-09-04 |
 | [Feelings](https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Feelings](https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l) | 3:52 | 2023-02-17 | 2023-05-09 |
 | [Feels Like Home](https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [The Return](https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T) | 3:11 | 2021-12-08 | 2022-03-12 |
+| [Feels So Good](https://open.spotify.com/track/2iBcE0fgUS1aqI94ec7vyz) | [Franky Nuts](https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Feels So Good](https://open.spotify.com/album/4IQBJ2cG2u6n6i1XsE6qBG) | 2:14 | 2025-09-19 |  |
 | [Feral](https://open.spotify.com/track/0DTGff67dAfbXMU14CWgnP) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [Feral](https://open.spotify.com/album/5hfXeWane0cxOaaiCzADrK) | 3:20 | 2024-04-26 | 2024-07-17 |
 | [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Hight](https://open.spotify.com/artist/34SBu2kvAUh84umN8Pi0iI) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-04-20 | 2023-07-15 |
 | [Fever](https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ) | [Fever](https://open.spotify.com/album/1czheboLJFCb4lgJL2q4KK) | 2:40 | 2023-11-02 | 2024-02-16 |

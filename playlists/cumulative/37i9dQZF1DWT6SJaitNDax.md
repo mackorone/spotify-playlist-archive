@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Young Jonn
+> Afro sounds crossing borders\. Cover: Davido
 
 889 songs - 1 day 21 hr 40 min
 

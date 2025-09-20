@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: ADI, Emilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,176 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,188 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 12 | [Cu Tălpile Goale](https://open.spotify.com/track/5eMX92EXE1FFV0JCixVkXD) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Cu Tălpile Goale](https://open.spotify.com/album/0R7eK1bGzwk5UBJ7IKoZWE) | 2:33 |
 | 13 | [Pata de culoare](https://open.spotify.com/track/5s8Vd9V3oGoa9r19L5ypAQ) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Pata de culoare](https://open.spotify.com/album/5D85ln9DnFG7290Jczuddo) | 2:53 |
 | 14 | [La Izvoare](https://open.spotify.com/track/2KE9MGInTguWtsAcoyOasW) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [La Izvoare](https://open.spotify.com/album/2YRsHbF7QXGL5wsvEmS0dv) | 2:28 |
-| 15 | [Zenit](https://open.spotify.com/track/00llrwQRCYJnjXGco19kmy) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B) | [](https://open.spotify.com/album/null) | 3:07 |
+| 15 | [Zenit](https://open.spotify.com/track/00llrwQRCYJnjXGco19kmy) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B) | [Zenit](https://open.spotify.com/album/6dBurh1jEVgTZyb1crilc7) | 3:07 |
 | 16 | [Ador](https://open.spotify.com/track/7A3CwgewrTkQI1yvKzv5Ie) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Ador](https://open.spotify.com/album/5gzYfapn3hqSKbFZAmRljC) | 3:09 |
 | 17 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 |
 | 18 | [Romanian girl \- From "Cursa" The Movie](https://open.spotify.com/track/7zCWFGUCJe1I3tG7bbueXA) | [Stefania](https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy) | [Romanian girl \(From "Cursa" The Movie\)](https://open.spotify.com/album/3it3HYBhV50ftsYcMyUHwz) | 2:45 |

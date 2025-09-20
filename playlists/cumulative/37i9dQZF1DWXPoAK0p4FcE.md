@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: The White Hair Cut
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: PURPEECH
 
-136 songs - 9 hr 27 min
+138 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 | 2025-02-13 |
 | [Summertime](https://open.spotify.com/track/0ZcyX8hFV1jdJNWOI8mMXF) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ), [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [Pauley & Jeen](https://open.spotify.com/album/0wB6ZuX9UpSIc79Kah1SVA) | 4:06 | 2024-06-27 | 2024-08-31 |
 | [sunflower](https://open.spotify.com/track/42zpYHx20wav5DCR1DoPMP) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [sunflower](https://open.spotify.com/album/0OYRy9wiYoerh85dSOnw4l) | 4:22 | 2025-03-14 |  |
-| [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 |  |
+| [Turning Back](https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [Turning Back](https://open.spotify.com/album/2rGPzWMTMlOpuTCoPo9vrH) | 4:38 | 2025-08-08 | 2025-09-20 |
 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 | 2025-04-11 |  |
 | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/track/6uYSkSc8dQInSNCLTZibeC) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [การรอคอย \( THE WAIT8 \)](https://open.spotify.com/album/1ggZWaDDCyOt3pkPJ9vhUY) | 5:09 | 2025-03-21 | 2025-05-02 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 | 2025-02-01 |
@@ -52,7 +52,7 @@
 | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/track/0KXS1sXRLxw3upSC4mBOMH) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [BAY6IX](https://open.spotify.com/artist/3IQnUNxVytImduQRIg84qJ), [LALA](https://open.spotify.com/artist/031xscLHmwMfKVrhUCdGoq) | [ฉันแอบซ่อนน้ำตาใต้หน้าที่มีรอยยิ้ม](https://open.spotify.com/album/13ENp47hLKvUPDaJLbNxWA) | 4:56 | 2024-06-27 | 2024-08-17 |
 | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/track/0lQPdxfV1So2QbRrOLz0ft) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ชาติหน้าช้าไป \(K.O.\)](https://open.spotify.com/album/6kn51Xi2Pj3KlyikjPn4A2) | 3:51 | 2025-02-21 |  |
 | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/track/5l6uO5TPKSzO8JdgY8Z32Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ชุ่มฉ่ำ \(ChumCham\)](https://open.spotify.com/album/7I1EvufQ6FQYUluyHAFSKk) | 3:39 | 2025-02-28 |  |
-| [ดวงดาว](https://open.spotify.com/track/057fM9Lihc7TEQB26j5OGM) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ดวงดาว](https://open.spotify.com/album/6OR0AK67vjadPL6R5pZaje) | 4:13 | 2025-08-15 |  |
+| [ดวงดาว](https://open.spotify.com/track/057fM9Lihc7TEQB26j5OGM) | [Monomania](https://open.spotify.com/artist/4EaLkY9y2jtjVIUjpGNK2z) | [ดวงดาว](https://open.spotify.com/album/6OR0AK67vjadPL6R5pZaje) | 4:13 | 2025-08-15 | 2025-09-20 |
 | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/track/6BKMVMcZF0vB9LEria3th7) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ดวงอาทิตย์ตก \(Sunset\)](https://open.spotify.com/album/4UYFjP7uXK2MnYY4zTSTIp) | 3:34 | 2024-06-27 | 2024-08-17 |
 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 | 2024-11-01 |  |
 | [ดาวเคราะห์](https://open.spotify.com/track/6Sk7GuEpr3NYxVsMmRYHZM) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ดาวเคราะห์](https://open.spotify.com/album/1kLrFPixDXY499py8uQryD) | 4:00 | 2024-11-28 |  |
@@ -66,6 +66,7 @@
 | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/track/39VELAPLYYqNYjKBpkeYJH) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/album/0tbhHsd13yvAyGRFJwXfua) | 4:12 | 2024-08-23 | 2025-08-16 |
 | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/album/5vm7a9G3ySZKCOjRi7VWPH) | 3:36 | 2024-06-27 | 2025-03-22 |
 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 | 2024-06-27 | 2024-07-06 |
+| [ทางออก](https://open.spotify.com/track/0JEusAwqhkQfACiLCA5XdU) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ทางออก](https://open.spotify.com/album/5cg2790VNoRAK8pQDjTu3z) | 4:39 | 2025-09-19 |  |
 | [ทิ้งไว้ที่เดิม](https://open.spotify.com/track/7lNFvY6jDHOPzsU5wfZz4C) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ทิ้งไว้ที่เดิม](https://open.spotify.com/album/40b5fnvDOTrUfugkRNspto) | 3:54 | 2025-03-28 | 2025-08-09 |
 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 | 2024-06-27 |  |
 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 | 2024-11-28 |  |
@@ -95,6 +96,7 @@
 | [วันที่ความรักเข้ามาทักทาย \(Hello, Love\)](https://open.spotify.com/track/2t5lcT6IjuQC14NV8wWf33) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [วันที่ความรักเข้ามาทักทาย \(Hello, Love\)](https://open.spotify.com/album/5GtXHgDlQfIp5wp0BFMRZD) | 4:09 | 2025-02-28 | 2025-03-29 |
 | [วันนี้คงยังไม่บอก \(Not Today\)](https://open.spotify.com/track/2SHuLQqfyvZIvsGBE1l1w2) | [fluffypak](https://open.spotify.com/artist/3plsvhYJrLQJrpwwwPWMkT) | [วันนี้คงยังไม่บอก \(Not Today\)](https://open.spotify.com/album/0bZHZjTzXgxrp7oClQkLOD) | 4:36 | 2024-09-20 | 2024-10-19 |
 | [วันบอกรัก \(It's Time\)](https://open.spotify.com/track/1xZ9yjk9d32eSVUv4q1Y9S) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [วันบอกรัก \(It's Time\)](https://open.spotify.com/album/1QHIjsXTfRyM2RouKPuU6X) | 4:18 | 2025-01-23 | 2025-03-01 |
+| [สบายดี](https://open.spotify.com/track/5Fd2rhFYhNq2bdIrtQfBTE) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [สบายดี](https://open.spotify.com/album/53jfXBBh8XkDIwDLEc6aAu) | 4:02 | 2025-09-19 |  |
 | [สร้างภาพ \(PERSONA\)](https://open.spotify.com/track/53eyWhgIpBtTl29xtUe9ju) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [สร้างภาพ \(PERSONA\)](https://open.spotify.com/album/2oBnPzhAHXG6SBOmQofeJZ) | 4:02 | 2025-07-04 | 2025-07-19 |
 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 | 2024-06-27 | 2025-05-02 |
 | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/track/0CC1S9A2e9v8ZSUFkWSZkN) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/album/1rukZSSmILafBs5Yt9FxXu) | 4:41 | 2024-11-22 | 2025-02-01 |

@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Max Jackson
 
-1,037 songs - 2 day 8 hr 44 min
+1,038 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,7 +523,7 @@
 | [Leona](https://open.spotify.com/track/574vxh9gV44VXNjNZfF3cS) | [Duncan Toombs](https://open.spotify.com/artist/5Jv0F98tukWFHhdP7ZNJq9) | [Steel On Steel](https://open.spotify.com/album/6cZJzkkc6oFzQWmI10Cof8) | 3:58 | 2023-01-12 | 2023-03-18 |
 | [Let It Go](https://open.spotify.com/track/4KM1P14d6Svovepg4UEitL) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go](https://open.spotify.com/album/1DSIDbiZQGXHTrftbKArNv) | 3:26 | 2022-03-31 | 2022-07-08 |
 | [Let It Go \- Live](https://open.spotify.com/track/1nbLKD60IUsOKDipPWhdNe) | [HUTCH](https://open.spotify.com/artist/55qwxSOjW4bmtSEI8INDpQ) | [Let It Go \(Live\)](https://open.spotify.com/album/6P5FFO1n4wUSa6nFcwa1rB) | 3:16 | 2022-06-30 | 2022-10-14 |
-| [Let the Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let the Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 | 2025-09-18 |  |
+| [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 | 2025-09-18 |  |
 | [Let the Song Take You Home](https://open.spotify.com/track/4zH9yoqI7g5s2M2MSYglcI) | [Adam Harvey](https://open.spotify.com/artist/3uKiMJO25JbcnE72DrmUMf) | [Let the Song Take You Home](https://open.spotify.com/album/0Qfi4NKsoy6D8ZxJSnaKco) | 3:24 | 2024-10-31 | 2024-12-13 |
 | [Let's Get Lost](https://open.spotify.com/track/0JT5EMlK5LsbqzgLo8zSfM) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Lane Pittman](https://open.spotify.com/album/2v7F41pwlVNYT1FI4u5q7z) | 2:29 | 2024-03-07 | 2024-10-18 |
 | [Let's Ride](https://open.spotify.com/track/0Z55gEv8DwlJ8BmPAEpD0k) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Let's Ride](https://open.spotify.com/album/71M1zZ7yTRSrcuyM6SkW2k) | 4:16 | 2024-02-01 | 2024-04-05 |
@@ -606,6 +606,7 @@
 | [More Than A Prayer](https://open.spotify.com/track/30hhkjL3FB3Y2BoWsn1oGo) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [More Than A Prayer](https://open.spotify.com/album/3REJ10imAC6BnIihUhwTyO) | 2:44 | 2024-07-18 | 2025-01-10 |
 | [Mountain With A View](https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:57 | 2023-03-16 | 2023-06-23 |
 | [Mountains and Miller](https://open.spotify.com/track/1loMULvlhcSYhgJsptoCOz) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Mountains and Miller](https://open.spotify.com/album/6dcqQU5Ej1sb3eAYLchncx) | 4:00 | 2024-05-23 | 2024-07-27 |
+| [Move On](https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Move On](https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA) | 3:11 | 2025-09-18 |  |
 | [Movin' On](https://open.spotify.com/track/3yqJZoAQR9N2UlQmhzKAXa) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Movin' On](https://open.spotify.com/album/2MnW3DzqCDPXXRZP0lrGlC) | 2:58 | 2024-11-21 | 2025-02-21 |
 | [Mr I Don't Care](https://open.spotify.com/track/2C5mtY0lQK9qyX8fJx6rOw) | [Emmagen Rain](https://open.spotify.com/artist/49eeshhMCwAN2P4HubqQQg) | [Mr I Don't Care](https://open.spotify.com/album/3YGsyzak046vwihQx3zThq) | 2:49 | 2022-10-06 | 2023-03-03 |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-09-23 | 2023-03-10 |
@@ -760,7 +761,7 @@
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Bee3PcNdfeqO1B80dDgFn) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-08 | 2023-11-18 |
 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/4Ldp4ixS1y6SinsEn44a23) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/album/31QoRLzmn0qTom75qfxEfE) | 3:57 | 2023-05-11 | 2023-06-11 |
 | [Save Me The Trouble](https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Save Me The Trouble, Heartbreak On The Map, Bigger Houses](https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF) | 3:20 | 2023-07-17 | 2023-10-20 |
-| [Scared Of Getting Sober](https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [](https://open.spotify.com/album/null) | 3:30 | 2025-09-18 |  |
+| [Scared Of Getting Sober](https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:30 | 2025-09-18 |  |
 | [See It for Myself](https://open.spotify.com/track/4hYW7xnMoACt6RFst5AxKE) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [See It for Myself](https://open.spotify.com/album/0BKIy7DkY1oE0qRIW57fQD) | 3:09 | 2024-09-05 | 2024-12-06 |
 | [Set Your Sights](https://open.spotify.com/track/4FRRnwHu64qxfMo76D91SE) | [Will Day](https://open.spotify.com/artist/6eUZAV9XRJh0Tzn7EGYJcw) | [Set Your Sights](https://open.spotify.com/album/257WF7WPxfg6m3nIRLYXTv) | 3:31 | 2023-06-29 | 2023-09-08 |
 | [settle on back](https://open.spotify.com/track/0Qfn33ruaFcBLZg5tZMung) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Songs From Tulip Drive](https://open.spotify.com/album/7Bx8uaFmLhWfsSQ7Ryz9Oy) | 3:20 | 2022-06-09 | 2022-07-29 |

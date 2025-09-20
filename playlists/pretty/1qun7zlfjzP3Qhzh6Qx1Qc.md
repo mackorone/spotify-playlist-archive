@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,498 likes - 78 songs - 4 hr 17 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,497 likes - 81 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,8 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 76 | [Call It Home \- A Song for North Dakota](https://open.spotify.com/track/589w3PSILCXwlyl3F5yVEw) | [Tigirlily Gold](https://open.spotify.com/artist/0z4vOhwPxS2J5ULMg8edzb) | [Call It Home \(A Song for North Dakota\)](https://open.spotify.com/album/6dZWwVzCkOTvJFwi3KIxaX) | 2:26 |
 | 77 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |
 | 78 | [Savage](https://open.spotify.com/track/2RvHcuwjEda53bWXK4u94z) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [Nashville Canyon, Pt\. 2](https://open.spotify.com/album/4dVwt4sPjocI44fF0mI1bx) | 3:09 |
+| 79 | [Measure \- feat\. Max McNown](https://open.spotify.com/track/2cYH8hnffROSkisIuBSG1O) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Measure \(feat\. Max McNown\)](https://open.spotify.com/album/6tWUs44CCd1z88cGYPOebf) | 3:17 |
+| 80 | [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 |
+| 81 | [Written In Stone](https://open.spotify.com/track/4K85ODHSrXi0dWqEtJhwJe) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Written In Stone](https://open.spotify.com/album/5LMmcofa5NbYqP8EkMTj7n) | 2:57 |
 
-Snapshot ID: `AAANIhdwbDrxnUDpBVR39WFA07fkYXJx`
+Snapshot ID: `AAANJ432K1gbbRk01Rp5P+99dBFF8jTw`

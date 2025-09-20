@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-167 songs - 10 hr 1 min
+168 songs - 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Maçã](https://open.spotify.com/track/0Y1uSDQytl2Tq5zc2vb4ZA) | [Carlos Buzelin](https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB) | [A Maçã](https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H) | 5:00 | 2021-11-26 | 2024-09-02 |
 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 | 2024-03-08 | 2025-06-14 |
 | [A Paz](https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA) | [Luiz Lucas](https://open.spotify.com/artist/37Z26WT0bfNIrRztWbGv0p) | [Anos Dourados](https://open.spotify.com/album/5uap9XbIdjhq3W1b6YjiKx) | 5:33 | 2021-11-26 |  |
-| [A Sombra do Meu Chapéu](https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn) | [Rua das Pretas](https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj), [Pierre Aderne](https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z), [Nani Medeiros](https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z) | [Um Copo de Fado, Dois de Bossa Nova](https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG) | 5:02 | 2021-11-26 |  |
+| [A Sombra do Meu Chapéu](https://open.spotify.com/track/6Dwi2vYqRAnD9rgKiZ8xQn) | [Rua das Pretas](https://open.spotify.com/artist/6FO2vyH5GHk0koe5TM7wjj), [Pierre Aderne](https://open.spotify.com/artist/4aIwULwYjN16CYIo39SJ6Z), [Nani Medeiros](https://open.spotify.com/artist/5294nZvyDPiw4PyyfQjD0z) | [Um Copo de Fado, Dois de Bossa Nova](https://open.spotify.com/album/0iqjItAMzNw18X8PYQQywG) | 5:02 | 2021-11-26 | 2025-09-20 |
 | [A Voz do Brasil](https://open.spotify.com/track/0WaoKmi9KZWGUNAF7cY1uB) | [Lili Araujo](https://open.spotify.com/artist/2iXd6VRxzOvYMyGcHu1sfs) | [Dájazz](https://open.spotify.com/album/0wkPikoZerD96sxZPiwBST) | 5:03 | 2021-11-26 |  |
 | [Afro Choro](https://open.spotify.com/track/5H94YLx13J8JHNQp5HFjLg) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Afro Choro](https://open.spotify.com/album/012JXOucxhsjzsyRPY1bMP) | 4:58 | 2021-11-26 |  |
 | [All or Nothing at All](https://open.spotify.com/track/5Y70U7gxCIL0nEcp65FjE0) | [Billy Sides Trio](https://open.spotify.com/artist/4XG3dvGDIQxdbNHAa5tgTn) | [All or Nothing at All](https://open.spotify.com/album/4jRow9QSZKH0ik7T4LilYo) | 6:15 | 2021-11-26 |  |
@@ -60,6 +60,7 @@
 | [Escada Infinita](https://open.spotify.com/track/22tlsA8FUS6wDbGjqioZnq) | [Danny Mandalay](https://open.spotify.com/artist/34aetUeuJ0C1phjVY5F4vl) | [Novo Bossa Nova](https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM) | 3:20 | 2021-11-26 |  |
 | [Esse Ano](https://open.spotify.com/track/6oEYnlgYjJAZtrT6SY118e) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Àguas De Março / Esse Ano / Nada É Melhor Do Que Você](https://open.spotify.com/album/2OADy8bkOEcsMWyF4raTRe) | 2:25 | 2021-11-26 |  |
 | [Estate](https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [House Of Jade](https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR) | 7:22 | 2021-11-26 |  |
+| [Este seu olhar / Promessas](https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd) | [Este seu olhar / Promessas](https://open.spotify.com/album/547xruDRV40FshGIzdcZHg) | 3:32 | 2025-09-19 |  |
 | [Estrela](https://open.spotify.com/track/0ksvjOeB4HMDAkLIPcVpra) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Estrela](https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI) | 4:06 | 2024-09-27 | 2025-03-07 |
 | [Eu Canto pro Dia Nascer](https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx) | [Delia Fischer](https://open.spotify.com/artist/4ervLQixU78Enkn5yLnGdG), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Eu Canto pro Dia Nascer](https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN) | 3:17 | 2025-02-07 |  |
 | [Eu Preciso de Você](https://open.spotify.com/track/4sn6sAoO20QWPdscEr1NPi) | [Didi Gomes](https://open.spotify.com/artist/2fTHMyHkY0Nc9lAeac5VQn), [Ayrton do Violão](https://open.spotify.com/artist/37BuIUO9zQiqB8QxPpBYHj) | [Eu Preciso de Você](https://open.spotify.com/album/1t8n7PLn8yMyuHJzkq7UcT) | 2:48 | 2021-11-26 |  |

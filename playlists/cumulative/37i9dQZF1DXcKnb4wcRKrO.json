@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "All Together",
+        "url": "https://open.spotify.com/album/6eMwp4EudeSkr9gOBS2JyN"
+      },
+      "artists": [
+        {
+          "name": "bonaira",
+          "url": "https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127090,
+      "name": "All Together",
+      "url": "https://open.spotify.com/track/7lsQ5xKT9mxtmhgJyKUfKm"
+    },
+    {
+      "album": {
         "name": "amber",
         "url": "https://open.spotify.com/album/0k3nJYuhQ0qQAfPpgv2dyN"
       },
@@ -1384,6 +1402,24 @@
       "duration_ms": 221444,
       "name": "Neo Noir",
       "url": "https://open.spotify.com/track/3decquRexcvvZLEPKtWhjE"
+    },
+    {
+      "album": {
+        "name": "Night in Manhattan",
+        "url": "https://open.spotify.com/album/5Di55ac17lK7ne5o8V3mbq"
+      },
+      "artists": [
+        {
+          "name": "Chrome Hours",
+          "url": "https://open.spotify.com/artist/78YpGUYzh28JlB6RGSDvru"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Night in Manhattan",
+      "url": "https://open.spotify.com/track/5pUbSE7eZkHBYcETMHilb9"
     },
     {
       "album": {

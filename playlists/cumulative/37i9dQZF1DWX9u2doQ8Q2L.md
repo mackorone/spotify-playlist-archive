@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,671 songs - 4 day 4 hr 59 min
+1,673 songs - 4 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [A24](https://open.spotify.com/track/291KmmFPIHGNZvekhqRTMC) | [BANNY BUGS](https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq), [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [A24](https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ) | 3:00 | 2024-05-28 |  |
 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 | 2022-06-16 | 2022-07-20 |
 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 | 2024-05-01 |  |
-| [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 | 2025-09-12 |  |
+| [After that...](https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [All About McGuffin](https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4) | 3:29 | 2025-09-12 | 2025-09-20 |
 | [Afterglow \- feat\. Nenashi](https://open.spotify.com/track/39I8cLedkfBP8YJp93JOxU) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX) | [Afterglow \(feat\. Nenashi\)](https://open.spotify.com/album/613jaD5wJ0ggN19H0ly3QB) | 2:57 | 2023-06-13 | 2023-06-21 |
 | [AfterImages](https://open.spotify.com/track/1zkKWsLDrTKG5ToByKe0E6) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [総総](https://open.spotify.com/album/0ukIrlzz1XcfnCooUfWT43) | 4:14 | 2023-04-04 | 2023-04-26 |
 | [AGAIN](https://open.spotify.com/track/4ltqkH3b02yW7IBR6C0cz1) | [Matt Cab](https://open.spotify.com/artist/5QdG7ZI7k64K5DLjOJgK31), [MATZ](https://open.spotify.com/artist/55vjGKmlvpOxuYjwGjBKrD), [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX), [エース橋本](https://open.spotify.com/artist/3xF0OQf5S4WUAEjglxumPX) | [AGAIN](https://open.spotify.com/album/0FJvBBvvWxfHZFbWVnyjTQ) | 3:15 | 2023-05-25 | 2023-05-31 |
@@ -376,6 +376,7 @@
 | [FUTURE STORY](https://open.spotify.com/track/3dvIrZ2i48eEE0OS9bQZgc) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [FUTURE STORY](https://open.spotify.com/album/1xVNHk9hWTCM1yYoDwwIuN) | 2:44 | 2024-02-27 | 2024-03-06 |
 | [Gacha Gacha](https://open.spotify.com/track/6dpzlQqI1Ngp4zsO3aw3Fr) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [Gacha Gacha](https://open.spotify.com/album/2ad11ILhJNc7LKjEbOwzBu) | 2:24 | 2024-01-16 | 2024-02-14 |
 | [gadja](https://open.spotify.com/track/3WACxt3lwEqbY472GCnK34) | [South Penguin](https://open.spotify.com/artist/2NNLlRoOgdg1EL1jmx2Tjf), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [gadja](https://open.spotify.com/album/7EdCjLHar1xl5sOaJ18l9f) | 2:26 | 2022-07-12 | 2022-08-10 |
+| [GALA](https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GALA](https://open.spotify.com/album/3NRRlw17pH8AinthjFc2MT) | 3:47 | 2025-09-18 |  |
 | [GAME OVER](https://open.spotify.com/track/7yEJfMKZeUG5tTMUONJAWU) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Taka Perry](https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF) | [GAME OVER](https://open.spotify.com/album/087TgkSQdZc1BxJvZRYONJ) | 3:24 | 2024-11-13 | 2025-01-29 |
 | [Garakuta](https://open.spotify.com/track/6YshcqmnTv2PZQIcpULXql) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Garakuta](https://open.spotify.com/album/1YXVCWVeFjXN9vDjH8Uark) | 2:58 | 2023-03-05 | 2023-03-08 |
 | [Garden](https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 3:49 | 2023-06-06 | 2024-04-19 |
@@ -1184,6 +1185,7 @@
 | [Tru Banger](https://open.spotify.com/track/7olFapCoaV14pvH59b73kh) | [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [Tru Banger](https://open.spotify.com/album/6YIMAKD9mMAiw3P6J1E7NK) | 3:05 | 2023-01-24 | 2023-02-01 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-11-13 | 2024-12-11 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-11 | 2023-02-03 |
+| [TURN I](https://open.spotify.com/track/0fzKQ1Q5wI52Ln7XVpZceh) | [Black petrol](https://open.spotify.com/artist/5YMmMKHQUVFGLShGNxe9Jt) | [TURN](https://open.spotify.com/album/2Jq5OuIVBOBLSIJpPpGrSJ) | 1:51 | 2025-09-18 |  |
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-02-07 |  |
 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 | 2023-05-16 | 2023-06-21 |
 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 | 2023-05-04 | 2024-05-02 |
@@ -1643,7 +1645,7 @@
 | [舞台の上で](https://open.spotify.com/track/51SCBTWn7HbmBRPRHNB8Re) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA), [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [舞台の上で](https://open.spotify.com/album/4XYTZrIy61jFCIj0c4IoPB) | 3:38 | 2022-05-26 | 2022-08-12 |
 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 | 2024-04-16 |  |
 | [花一匁](https://open.spotify.com/track/6yS6Q8iSiXqvqfjfJ67RRg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [花一匁](https://open.spotify.com/album/5nDlxSLsbMzLKGScoh3Yc5) | 4:10 | 2023-06-06 | 2023-06-14 |
-| [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-03-18 |  |
+| [花無双](https://open.spotify.com/track/2sJyR6ekoLAHUBHuKO3J1d) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [花無双](https://open.spotify.com/album/0Vx6D5yGvkNYGbrDYhQTwA) | 3:43 | 2025-03-18 | 2025-09-20 |
 | [薔薇と散る](https://open.spotify.com/track/0fi1lzX45qrp6ZWZWZWwiQ) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [薔薇と散る](https://open.spotify.com/album/4oX3vpDuBMy3RB5q8ezIUW) | 3:05 | 2025-02-21 |  |
 | [蜃気楼](https://open.spotify.com/track/2pedGdJaB5160FLTCCz2g2) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 4:27 | 2023-06-27 | 2023-06-29 |
 | [行間](https://open.spotify.com/track/4H478qhSk6CmTSYqZGzB8B) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 4:34 | 2024-03-05 | 2024-03-08 |

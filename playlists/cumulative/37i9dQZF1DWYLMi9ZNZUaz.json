@@ -570,7 +570,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-12",
+      "date_removed": null,
       "duration_ms": 158559,
       "name": "Badtrip",
       "url": "https://open.spotify.com/track/33SYx5viijwLGMqfl50FKI"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 168774,
       "name": "B\u01b0\u1edbc Za \u0110i Xa",
       "url": "https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd"
@@ -4970,7 +4970,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 210491,
       "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
       "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
@@ -6832,6 +6832,24 @@
       "duration_ms": 197333,
       "name": "\u00c0 L\u00f4i",
       "url": "https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV"
+    },
+    {
+      "album": {
+        "name": "30 The Album",
+        "url": "https://open.spotify.com/album/5J9qu9b3RHAmjKqVyN31VX"
+      },
+      "artists": [
+        {
+          "name": "Seachains",
+          "url": "https://open.spotify.com/artist/6UiKZD9yB7Gxjol62s431k"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250744,
+      "name": "\u00c2m Th\u1ea7m V\u00e0ng",
+      "url": "https://open.spotify.com/track/02El5WezsW88jBzMOte6EM"
     },
     {
       "album": {

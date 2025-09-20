@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Lvbel C5
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,404,377 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,404,565 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 6 | [SHEVCHENKO](https://open.spotify.com/track/4GJEkYQVl6CSxh0qaS5O0Q) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [SHEVCHENKO](https://open.spotify.com/album/67VaNB2V6tWiuwr7DhSgci) | 1:40 |
 | 7 | [Makossa](https://open.spotify.com/track/7BTcDCfp3kWquEvHepCAFM) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Dila Bahar](https://open.spotify.com/artist/5ZvhKqku2nxAO5tDDBFGpQ) | [Makossa](https://open.spotify.com/album/1mlGZ3ye1g5NTCqM2k4YZg) | 2:05 |
 | 8 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 |
-| 9 | [Ağır Ol Abi](https://open.spotify.com/track/4e3VLVgDXAe21ns9sB6rPv) | [Stap](https://open.spotify.com/artist/3R27mVPp04i87RNmvysZfY), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [](https://open.spotify.com/album/null) | 2:53 |
+| 9 | [Ağır Ol Abi](https://open.spotify.com/track/4e3VLVgDXAe21ns9sB6rPv) | [Stap](https://open.spotify.com/artist/3R27mVPp04i87RNmvysZfY), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Neşesi̇ne](https://open.spotify.com/album/6ED0yhMWhlzJbcTt3jNVDz) | 2:53 |
 | 10 | [NO MANIFEST](https://open.spotify.com/track/6FTkMvqFonFr7Gw9eNJlpE) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Fredd](https://open.spotify.com/artist/7mPDqgo2mw51RXWgh7zmPo) | [NO MANIFEST](https://open.spotify.com/album/5rtg5NQ4dU2KkwiT3c1EkJ) | 2:38 |
 | 11 | [6.4 MM](https://open.spotify.com/track/5pMOWB4gdjuAamxubkMDFt) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Da Poet](https://open.spotify.com/artist/7Ml6UQvSODdViugwulEjWk) | [6.4 MM](https://open.spotify.com/album/36fv58YTKRDS8gZS6Nqfjo) | 3:23 |
 | 12 | [Duman](https://open.spotify.com/track/0XqohwlYkMj73cQHLd57iU) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Duman](https://open.spotify.com/album/5ykn55qvmYWi9TZAtV25x2) | 3:11 |

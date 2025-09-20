@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
-  "num_followers": 183139,
+  "num_followers": 183190,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "I Like You",
+        "url": "https://open.spotify.com/album/7zfyRI2P40FLVcTG9eeOG7"
+      },
+      "artists": [
+        {
+          "name": "Brazil XXI",
+          "url": "https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR"
+        },
+        {
+          "name": "Luca Giacco",
+          "url": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
+        }
+      ],
+      "duration_ms": 242481,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/2Tjx2DINx4qil9xunhu5cO"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "4 Wheel Drive",
         "url": "https://open.spotify.com/album/6HHbIMi4Hk5wyjGVm4jZb2"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 226558,
       "name": "Maybe I'm Amazed",
       "url": "https://open.spotify.com/track/0VYYhGLcD6IuFvqSzI6rzu"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "I Like You",
-        "url": "https://open.spotify.com/album/7zfyRI2P40FLVcTG9eeOG7"
-      },
-      "artists": [
-        {
-          "name": "Brazil XXI",
-          "url": "https://open.spotify.com/artist/5r1OHaNjhzMOn1J4lPi1SR"
-        },
-        {
-          "name": "Luca Giacco",
-          "url": "https://open.spotify.com/artist/506zjFvbbNJcjxY260lHDC"
-        }
-      ],
-      "duration_ms": 242481,
-      "name": "I Like You",
-      "url": "https://open.spotify.com/track/2Tjx2DINx4qil9xunhu5cO"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 283893,
+      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
+      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/3MtC15aQbBa9UAeNwHNEMJ"
       },
@@ -491,18 +507,22 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Grace",
-        "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
       },
       "artists": [
         {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+          "name": "48th St. Collective",
+          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
+        },
+        {
+          "name": "Natalie Renoir",
+          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
         }
       ],
-      "duration_ms": 283893,
-      "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
-      "url": "https://open.spotify.com/track/4HAm0GNYIHLIMJxVO5U3rW"
+      "duration_ms": 249860,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -543,26 +563,6 @@
       "duration_ms": 282702,
       "name": "Make Someone Happy",
       "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/2dSzJEyeUOzNu19c5s2O0p"
-      },
-      "artists": [
-        {
-          "name": "48th St. Collective",
-          "url": "https://open.spotify.com/artist/1mbrPxCCWDAO0UJ0p2gaHn"
-        },
-        {
-          "name": "Natalie Renoir",
-          "url": "https://open.spotify.com/artist/1J6oTMVgZOOKh6ytjazn87"
-        }
-      ],
-      "duration_ms": 249860,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/02ycfzy7qpE24I6NO7wPwO"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "One Less Lonely Girl",
-        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
-      },
-      "artists": [
-        {
-          "name": "Nikki Ocean",
-          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
-        }
-      ],
-      "duration_ms": 236648,
-      "name": "One Less Lonely Girl",
-      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "What Love Is For",
         "url": "https://open.spotify.com/album/7fhua0RMidCDYutPSqlzjs"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 127426,
       "name": "How About You",
       "url": "https://open.spotify.com/track/0OotFG4v6vLS0Im8Ny6cpo"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "One Less Lonely Girl",
+        "url": "https://open.spotify.com/album/27OhCAsC9a4qvhrkHHX2pf"
+      },
+      "artists": [
+        {
+          "name": "Nikki Ocean",
+          "url": "https://open.spotify.com/artist/6niRXUE5IPchgYvYD8Ck00"
+        }
+      ],
+      "duration_ms": 236648,
+      "name": "One Less Lonely Girl",
+      "url": "https://open.spotify.com/track/0Js8EqXrjbjOF5nlvXEINa"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "My One and Only Love",
         "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 207396,
       "name": "Do You Believe",
       "url": "https://open.spotify.com/track/3OJMzuuqb6kJkZ95G2ULka"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "When The Stars Align",
-        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "When The Stars Align",
-      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Midnight Jones",
         "url": "https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 233173,
       "name": "Peace - First Sessions Demo",
       "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "When The Stars Align",
+        "url": "https://open.spotify.com/album/4LcdQw5uwritvZ25c3Bash"
+      },
+      "artists": [
+        {
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "When The Stars Align",
+      "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
-      },
-      "artists": [
-        {
-          "name": "Caleb Dinger",
-          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "At the End of the Day",
-      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Softer Than You Know",
         "url": "https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "The Road Is Narrow",
-        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7fnwEYlBFVtBqxrBK38m6O"
       },
       "artists": [
         {
-          "name": "Jecca",
-          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+          "name": "Caleb Dinger",
+          "url": "https://open.spotify.com/artist/5KyVVR3mKmRk3gKEDXhnVs"
         }
       ],
-      "duration_ms": 194823,
-      "name": "the road is narrow",
-      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
+      "duration_ms": 216000,
+      "name": "At the End of the Day",
+      "url": "https://open.spotify.com/track/1DBy8RZnRDSHfiOCvGeRRm"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1275,6 +1259,22 @@
       "duration_ms": 267355,
       "name": "Humphrey and me",
       "url": "https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "The Road Is Narrow",
+        "url": "https://open.spotify.com/album/7s0U8SQwkEy4E221cHJG2b"
+      },
+      "artists": [
+        {
+          "name": "Jecca",
+          "url": "https://open.spotify.com/artist/6OZZbpRmu88cPW77EiVjcg"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "the road is narrow",
+      "url": "https://open.spotify.com/track/3aqG3Xx1xOyKNVqWkppwoD"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Snowflakes",
-        "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
-      },
-      "artists": [
-        {
-          "name": "Jorunn Westeraas",
-          "url": "https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18"
-        },
-        {
-          "name": "Hege Saugstad",
-          "url": "https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT"
-        },
-        {
-          "name": "Monika Gellein Mathisen",
-          "url": "https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Snowflakes",
-      "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/5UZgnCc9E19cfNuhLKD2Pg"
       },
@@ -1623,6 +1599,30 @@
       "duration_ms": 184835,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/2uqVepDuWS6R39JMwIxUuW"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI"
+      },
+      "artists": [
+        {
+          "name": "Jorunn Westeraas",
+          "url": "https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18"
+        },
+        {
+          "name": "Hege Saugstad",
+          "url": "https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT"
+        },
+        {
+          "name": "Monika Gellein Mathisen",
+          "url": "https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Snowflakes",
+      "url": "https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "Wherever You're Going",
-        "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Wherever You're Going",
-      "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
-    },
-    {
-      "added_at": "2025-05-18 18:29:44",
-      "album": {
         "name": "Taller",
         "url": "https://open.spotify.com/album/5SRbo9fLmQzZqInna05WyM"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 188413,
       "name": "You Can't Hide Away From Love",
       "url": "https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK"
+    },
+    {
+      "added_at": "2025-05-18 18:29:44",
+      "album": {
+        "name": "There is a place",
+        "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        }
+      ],
+      "duration_ms": 247722,
+      "name": "There is a place",
+      "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
     },
     {
       "added_at": "2025-05-18 18:29:44",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2025-05-18 18:29:44",
       "album": {
-        "name": "There is a place",
-        "url": "https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG"
+        "name": "Wherever You're Going",
+        "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
       },
       "artists": [
         {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
         }
       ],
-      "duration_ms": 247722,
-      "name": "There is a place",
-      "url": "https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB"
+      "duration_ms": 247800,
+      "name": "Wherever You're Going",
+      "url": "https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO"
     },
     {
       "added_at": "2025-05-18 18:29:44",

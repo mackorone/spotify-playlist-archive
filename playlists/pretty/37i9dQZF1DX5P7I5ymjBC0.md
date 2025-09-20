@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul\.  Cover\- Salim\-Sulaiman and Shankar Mahadevan
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,544 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,554 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 33 | [Ronay Na Diya](https://open.spotify.com/track/0bzQYS1Fv0CjF5o7Sb0dmc) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/7c2Ujt133945maCr0SQncw) | 5:39 |
 | 34 | [Nirmohiya](https://open.spotify.com/track/09v5TgXyjMKYz7yEkkgMP5) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC), [Mandy Gill](https://open.spotify.com/artist/7otohmxIFI9XGwdj1XWw5k) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 4:38 |
 | 35 | [Ghar Aa Maahi](https://open.spotify.com/track/7b0n7IkWqpECubGjiPODqW) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK) | [Bandish Bandits Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF) | 2:55 |
-| 36 | [Garaj Garaj](https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Ajoy Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 2:38 |
+| 36 | [Garaj Garaj](https://open.spotify.com/track/3StBtW3cANtA6ZGwIzT8z2) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Pandit Ajay Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 2:38 |
 | 37 | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Aaqa \- Coke Studio Season 9](https://open.spotify.com/album/6A5WZRxOF5DGX7RRWADhYl) | 8:27 |
 | 38 | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/track/730gDa5hYH6XbhFwAEQ4gv) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [digV](https://open.spotify.com/artist/1mSR5X1EyL3MojaBbLHKnK), [Kamla Devi](https://open.spotify.com/artist/4ZgORT0DyKb49NF04cNGrH) | [Sonchadi \| Coke Studio Bharat](https://open.spotify.com/album/79ue9SUuZwiB3DAndWME0z) | 4:35 |
 | 39 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |

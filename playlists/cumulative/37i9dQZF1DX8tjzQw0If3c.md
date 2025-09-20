@@ -4,7 +4,7 @@
 
 > Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from Singapore & Malaysia!
 
-232 songs - 12 hr 42 min
+234 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Leaving Anyway](https://open.spotify.com/track/0aFoK1mxrJS6jlJueLyhor) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Something To Hide](https://open.spotify.com/album/66Oj77e2AP4A5kmT6K0KvS) | 4:09 | 2025-04-15 | 2025-09-09 |
 | [leftover feelings](https://open.spotify.com/track/4Q6GXGl5DcW5w615iSiUjf) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [leftover feelings](https://open.spotify.com/album/30nGunlYKukm79Nq7XbNnC) | 5:23 | 2024-06-27 | 2024-12-05 |
 | [leftover feelings](https://open.spotify.com/track/4WVVkyq96BDHm4MgVKYbGK) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 5:23 | 2024-12-04 | 2025-04-16 |
+| [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 | 2025-09-19 |  |
 | [LESSONS](https://open.spotify.com/track/4e6BzRekPHuGyVzWsVdKUX) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 4:28 | 2025-04-15 |  |
 | [Lifetime Subscription](https://open.spotify.com/track/1CKLRj9zh6P5QHbMUDLHFV) | [Penelope](https://open.spotify.com/artist/4pmdWxcPYV8NkfuMmL7Ubu), [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [Lifetime Subscription](https://open.spotify.com/album/7q6BO3xnbzYbtGqEJ9cDdt) | 3:07 | 2025-08-15 |  |
 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 | 2024-10-10 | 2024-12-05 |
@@ -184,6 +185,7 @@
 | [Quiet](https://open.spotify.com/track/6IgxhieemJHtjxhCVgZdMA) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Quiet](https://open.spotify.com/album/2FFc2QhxByJHakk8ycNZus) | 3:20 | 2024-06-27 |  |
 | [RADAR](https://open.spotify.com/track/0hxNOnPCbJzKmohmpDGa2K) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [RADAR](https://open.spotify.com/album/4WhSgbkRVqiOyMH9Qkf1kD) | 2:40 | 2025-04-15 | 2025-09-09 |
 | [RAVIOLI](https://open.spotify.com/track/3bm8yMrciHdHZWUp1Nzoog) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [RAVIOLI](https://open.spotify.com/album/0JGlJaPgMJK6qBywAJ6Td0) | 2:39 | 2025-05-15 |  |
+| [RICH](https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [GARETH FERNANDEZ](https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb) | [RICH](https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h) | 2:50 | 2025-09-19 |  |
 | [Ride or Die](https://open.spotify.com/track/4bRmlxIFjwicz4OvXHRDMD) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Ride or Die](https://open.spotify.com/album/0a4IcPl8xIWgJ4Wh2h3Yqu) | 2:57 | 2024-06-27 | 2025-04-16 |
 | [RISE](https://open.spotify.com/track/35WeXPdntwzMh11x92LWYf) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [RISE](https://open.spotify.com/album/170PSJTTmPwKLWYkLeDMNP) | 3:04 | 2024-06-27 | 2024-12-05 |
 | [SAH](https://open.spotify.com/track/6PGx1glZXYFGVppfHlCQqc) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Alfie Zumi](https://open.spotify.com/artist/4SkJ6iSvBXWjEzLEY4BmVV) | [SAH](https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX) | 3:48 | 2024-12-04 |  |

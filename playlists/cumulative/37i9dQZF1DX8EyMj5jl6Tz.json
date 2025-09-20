@@ -1299,6 +1299,28 @@
     },
     {
       "album": {
+        "name": "Galvanize (Chris Lake Remix)",
+        "url": "https://open.spotify.com/album/4rxSgHTfUkvO4PCuIQUcMB"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223618,
+      "name": "Galvanize - Chris Lake Remix",
+      "url": "https://open.spotify.com/track/7Ki6lQlcAW565EsHfP8U7S"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/4gMycYvNJh9cYXKbCWGPQq"
       },
@@ -2756,7 +2778,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 147450,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/07jxU55PubxneW4R6J8Dxn"

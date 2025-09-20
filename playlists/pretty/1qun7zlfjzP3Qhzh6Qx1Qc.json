@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.",
-  "num_followers": 34498,
+  "num_followers": 34497,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAANIhdwbDrxnUDpBVR39WFA07fkYXJx",
+  "snapshot_id": "AAANJ432K1gbbRk01Rp5P+99dBFF8jTw",
   "tracks": [
     {
       "added_at": "2025-09-12 16:03:38",
@@ -1307,6 +1307,58 @@
       "duration_ms": 189337,
       "name": "Savage",
       "url": "https://open.spotify.com/track/2RvHcuwjEda53bWXK4u94z"
+    },
+    {
+      "added_at": "2025-09-19 15:00:51",
+      "album": {
+        "name": "Measure (feat. Max McNown)",
+        "url": "https://open.spotify.com/album/6tWUs44CCd1z88cGYPOebf"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 197693,
+      "name": "Measure - feat. Max McNown",
+      "url": "https://open.spotify.com/track/2cYH8hnffROSkisIuBSG1O"
+    },
+    {
+      "added_at": "2025-09-19 15:49:30",
+      "album": {
+        "name": "Let The Lonely",
+        "url": "https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "Let The Lonely",
+      "url": "https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4"
+    },
+    {
+      "added_at": "2025-09-19 16:41:49",
+      "album": {
+        "name": "Written In Stone",
+        "url": "https://open.spotify.com/album/5LMmcofa5NbYqP8EkMTj7n"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 177654,
+      "name": "Written In Stone",
+      "url": "https://open.spotify.com/track/4K85ODHSrXi0dWqEtJhwJe"
     }
   ],
   "unique_name": "Country Smash Hits",

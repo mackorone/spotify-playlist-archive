@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Chris Stussy & Locklead
+> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Miss Monique & Poppy Baskcomb
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870,464 likes - 85 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,870,510 likes - 85 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 84 | [RUFFEST](https://open.spotify.com/track/5XufMiP9Ic0KlFm6QMjGcE) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Sam Interface](https://open.spotify.com/artist/04dcWSXP57PDMzOuQ2tgMw) | [RUFFEST](https://open.spotify.com/album/6eovWDRLkn2Y4AdcJDQaSf) | 3:46 |
 | 85 | [LIKE THIS](https://open.spotify.com/track/04Zh8fUm1YKPgYYMjjsZzb) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei) | [Bloomheart](https://open.spotify.com/album/3p2d2Uvsp8DwCnlWwa0TUm) | 3:23 |
 
-Snapshot ID: `AAAAADjJm9xJJzm7MNFAOhRrznfIsN8z`
+Snapshot ID: `AAAAACSKeC6+YpDh/TDv6Am6I+JQqq6U`

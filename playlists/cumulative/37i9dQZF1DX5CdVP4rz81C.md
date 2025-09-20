@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: The Kid LAROI
 
-1,783 songs - 3 day 22 hr 13 min
+1,784 songs - 3 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,8 +893,9 @@
 | [Klonopin](https://open.spotify.com/track/1jskjKnofsW0AexkhK1l5K) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Klonopin](https://open.spotify.com/album/1Dtuh9lt1CozWmuCS1iF5r) | 3:46 | 2024-05-10 | 2024-09-07 |
 | [Know Me Again \(with Cate\)](https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W), [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Know Me Again \(with Cate\)](https://open.spotify.com/album/3W4GE7d5HHoLgctPM1c8A0) | 4:15 | 2021-05-08 | 2021-06-26 |
 | [Kryptonite](https://open.spotify.com/track/6X9ZLY4GUe4GB6moGblBIF) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Kryptonite](https://open.spotify.com/album/0Bif6rCwQmsJjz2YG6hje0) | 3:03 | 2023-03-31 | 2023-07-22 |
-| [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 |  |
+| [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [L.O.V.E.U \(feat\. hannah bahng\)](https://open.spotify.com/album/4WuCB1YiE2K9K7FCnPigg7) | 3:19 | 2025-08-01 | 2025-09-20 |
 | [Ladder to the Moon](https://open.spotify.com/track/41aYKwJPK7facN5CMXLvZT) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Ladder to the Moon](https://open.spotify.com/album/31TOQwydj7vH0Kwyd8aBLJ) | 3:31 | 2021-09-25 | 2021-10-16 |
+| [Lake George](https://open.spotify.com/track/2B3EvGJ0KXpjIsY4ymStlY) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 4:19 | 2025-09-19 |  |
 | [Last Birthday](https://open.spotify.com/track/697MdxMbVWn1Ajbw8iaPv5) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The After Party](https://open.spotify.com/album/3RJi4CGEm5KVAdPxl2fWWa) | 3:57 | 2022-01-14 | 2022-02-26 |
 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 | 2022-03-04 | 2022-05-28 |
 | [LAst dAy oN EaRTh](https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [LAst dAy oN EaRTh](https://open.spotify.com/album/1979ERApWz1wTn3AgY3Wcz) | 2:52 | 2022-01-14 | 2022-10-22 |
@@ -1560,7 +1561,7 @@
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-09-15 | 2024-03-09 |
 | [The Same](https://open.spotify.com/track/57YKyo8SW8lujChukFU3qY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Same / Real Love](https://open.spotify.com/album/0zWFPw6BqkytZZ2roxs9vh) | 3:53 | 2021-02-12 | 2021-03-06 |
 | [The Show Must Go On](https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Columbo](https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS) | 4:26 | 2023-07-21 | 2023-09-16 |
-| [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:16 | 2025-08-08 |  |
+| [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:15 | 2025-08-08 |  |
 | [the stars](https://open.spotify.com/track/34opOqU70y033bZpWiWSkZ) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/4lPeaJ10vU0z7ApESALQUF) | 2:53 | 2021-02-06 | 2021-04-26 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-05-22 | 2021-07-17 |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-10-17 | 2023-03-04 |

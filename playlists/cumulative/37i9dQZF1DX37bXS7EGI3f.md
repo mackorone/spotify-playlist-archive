@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-686 songs - 2 day 4 hr 14 min
+687 songs - 2 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Imminent Threat](https://open.spotify.com/track/4TPMQfNauswpW8oxmY17PN) | [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Imminent Threat](https://open.spotify.com/album/2Rs28YNeV2Cob5Xt4JrW6w) | 5:16 | 2022-07-13 | 2022-07-29 |
 | [In Eternity](https://open.spotify.com/track/5UtdnAmaj0ouJmW1k2VbWi) | [Leaves' Eyes](https://open.spotify.com/artist/63qODcvBCdG2kTguOJkEqJ) | [In Eternity](https://open.spotify.com/album/58CIfEUTW6jkC8PNLrCqko) | 3:39 | 2024-02-23 | 2024-04-01 |
 | [In the Dawn of the AI](https://open.spotify.com/track/4jzTw6omtWGIJrVmCxo5Vf) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [In the Dawn of the AI](https://open.spotify.com/album/6hKPL7QdATVIwRlbOQcxdP) | 6:07 | 2020-11-29\* | 2021-10-16 |
+| [In The Eyes Of The Enemy](https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b) | [Grailknights](https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR), [Chiara Tricarico](https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi) | [In The Eyes Of The Enemy](https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy) | 3:56 | 2025-09-19 |  |
 | [In the Name of Love](https://open.spotify.com/track/3CQaHiwA4P14cdJuDzITLd) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Vultures Die Alone](https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN) | 4:12 | 2023-01-12 |  |
 | [In The Name Of Love \(feat\. Cyan Kicks\)](https://open.spotify.com/track/7zcL9Z95bPLFbowuAtY9Bw) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [In The Name Of Love \(feat\. Cyan Kicks\)](https://open.spotify.com/album/1BPZ8JJZTv6CFDoyU7kJY7) | 4:12 | 2021-02-12 | 2021-08-28 |
 | [In Times of Despair](https://open.spotify.com/track/3CPTxcIAGwHLmWRDcKOiiv) | [Circus of Rock](https://open.spotify.com/artist/518jW2ZS5MdaqOKpQ5aX1q), [Elize Ryd](https://open.spotify.com/artist/4aHpq3SeE9HiKNft9Bcj55) | [In Times of Despair](https://open.spotify.com/album/4Jom2FViB0yuDP1OZGr00b) | 3:56 | 2021-07-10 | 2022-04-02 |
@@ -660,7 +661,7 @@
 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 | 2024-02-05 |  |
 | [We Go To War](https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:19 | 2024-04-15 |  |
 | [We Shall Remain](https://open.spotify.com/track/4NE5lWvdpevNpziV5BUoOq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Shall Remain](https://open.spotify.com/album/2qowWVHf8S7hOkZ9utWmEG) | 4:20 | 2023-07-17 | 2025-01-13 |
-| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 |  |
+| [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 | 2025-05-02 | 2025-09-20 |
 | [We Stand United](https://open.spotify.com/track/36LRne9ykUjTPUAo64xGU5) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Stand United](https://open.spotify.com/album/5hcGB5bNE81iLGZM8srQka) | 4:42 | 2025-09-05 |  |
 | [We'll Be Free](https://open.spotify.com/track/4FH2bZ6mt6p8yuCaK8Eeg1) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Animus](https://open.spotify.com/album/6QqacKDn46CF147zU9AoqZ) | 4:02 | 2023-05-19 | 2024-04-19 |
 | [We'll Be Free](https://open.spotify.com/track/5eHDFd1y53Ui8i7rk6N9nx) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [We'll Be Free](https://open.spotify.com/album/5JE6mHj7OvwXBWHhN2DPIV) | 4:02 | 2022-01-14 | 2023-12-18 |

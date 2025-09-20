@@ -2,7 +2,7 @@
 
 ### [This Is Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9)
 
-> Play the <a href="spotify:site:skzstaydium"> STAYdium Champions Quiz!</a><br/>Stray Kids everywhere all around the world\. You make Stray Kids STAY.
+> Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
 374 songs - 20 hr 10 min
 
@@ -214,7 +214,7 @@
 | [MEGAVERSE](https://open.spotify.com/track/3USu1p2lKTzoKFIRDeeJf8) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/5Gpx9ZnR6gLRb9qDmaj3mg) | 3:05 | 2023-11-10 |  |
 | [MEGAVERSE](https://open.spotify.com/track/5Q1tv4GTxP3IJeGMOKdrFO) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:05 | 2023-11-10 | 2024-04-19 |
 | [MESS](https://open.spotify.com/track/2nPfKVwhD3ndWpLk7grx0Q) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 3:29 | 2025-08-22 |  |
-| [Message from Stray Kids](https://open.spotify.com/track/3KpAK7iurrz70SX0fmHPVt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [This Is Stray Kids](https://open.spotify.com/album/08sWCTVGP2pgTugzLRZRTA) | 0:55 | 2025-08-22 |  |
+| [Message from Stray Kids](https://open.spotify.com/track/3KpAK7iurrz70SX0fmHPVt) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [This Is Stray Kids](https://open.spotify.com/album/08sWCTVGP2pgTugzLRZRTA) | 0:55 | 2025-08-22 | 2025-09-20 |
 | [Middle School 2nd Year \(Respect Everyone's Universe\)](https://open.spotify.com/track/54JLvGY4q0rsPjbMVvX8HJ) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [Middle School 2nd Year \(Respect Everyone's Universe\)](https://open.spotify.com/album/3JQAjHSX4vG4WMVIn8OhNw) | 3:20 | 2025-09-17 |  |
 | [MIROH](https://open.spotify.com/track/3888prAY7qaqRx1vjQZSdI) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/6QIWJVJPPgAA5c4aIb1zCA) | 3:28 | 2022-03-18 | 2024-04-19 |
 | [MIROH](https://open.spotify.com/track/6gisOiWATiawP3eFUAGtJe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/4hk05fFLNquJc8w5htXZDi) | 3:28 | 2022-03-18 |  |

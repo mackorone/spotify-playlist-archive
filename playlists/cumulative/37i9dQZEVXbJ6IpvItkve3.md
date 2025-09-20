@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,273 songs - 2 day 23 hr 40 min
+1,274 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,7 +705,7 @@
 | [בחורה טובה](https://open.spotify.com/track/2LWF1rZLLwaHhpC4T9ra9i) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [ליאור נרקיס](https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS) | [NEXT EPISODE](https://open.spotify.com/album/0uMnrRUIr5sxcatkqn3tOt) | 3:39 | 2024-07-22 | 2024-07-27 |
 | [בחורות טובות](https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g), [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בחורות טובות](https://open.spotify.com/album/0UIZz7eUyhrw12rA0dvIt0) | 2:48 | 2025-08-12 |  |
 | [בחורים טובים \- Acoustic Live](https://open.spotify.com/track/6W2tGdihSWtBIjooCZl35U) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [בחורים טובים \(Acoustic Live\)](https://open.spotify.com/album/1cX8TL6rpa4LgI7a2DwobE) | 3:41 | 2024-02-03 | 2024-02-05 |
-| [בחיבק](https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd) | [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [בחיבק](https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s) | 2:27 | 2025-02-10 |  |
+| [בחיבק](https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd) | [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [בחיבק](https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s) | 2:27 | 2025-02-10 | 2025-09-20 |
 | [בחשכה \(הכל זה גם וגם\)](https://open.spotify.com/track/7kjQPQRJnTfHqK79Zq7fEC) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 4:18 | 2025-01-11 | 2025-01-15 |
 | [ביחד](https://open.spotify.com/track/3yyHRwblo5kk0fH9pfMP6M) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/0w2JUD94m7ZQ2o3uTMU4Y0) | 2:31 | 2021-08-26 | 2024-02-19 |
 | [ביחד](https://open.spotify.com/track/4NJbK9op9ixBJVOXEwNK4R) | [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp), [Guy Mentesh](https://open.spotify.com/artist/4fEvmZa0SYpKxIk9DXyQUJ) | [ביחד](https://open.spotify.com/album/5oC80Ft440Tc0cyRRefKsi) | 2:31 | 2021-03-27\* | 2021-08-26 |
@@ -1013,7 +1013,7 @@
 | [מלאך של כבוד](https://open.spotify.com/track/5dDkX66Ov8pqr1l9Cyk02l) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:27 | 2024-11-11 | 2024-11-29 |
 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 | 2024-05-31 | 2025-06-01 |
 | [מלוך](https://open.spotify.com/track/4Zm64H7mbeqRdvLzlsEZmR) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [אלול תשע״ט](https://open.spotify.com/album/3UW2gKQja0vDRfYA7wEGiM) | 3:27 | 2023-09-25 | 2024-10-14 |
-| [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-12 | 2025-09-19 |
+| [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-12 |  |
 | [מלכת הדור](https://open.spotify.com/track/3U1voPJN8NBSR96Ry0WJiF) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:03 | 2025-06-11 |  |
 | [מלכת הקרח](https://open.spotify.com/track/7jIQI2hhTqgBB7xga5jTWA) | [נתנאל דהאן](https://open.spotify.com/artist/6ES4mvTqKEqvAORGsS4wsn) | [מלכת הקרח](https://open.spotify.com/album/1VsMiIJPGALAj3lqbH8J6M) | 2:35 | 2025-07-28 |  |
 | [מלכת הרחבה](https://open.spotify.com/track/1Dus0KytptzGZvzfAnTcfG) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [מלכת הרחבה](https://open.spotify.com/album/0YS5kzUC2bBxlsfeMSVQGz) | 3:12 | 2022-08-24 | 2022-10-16 |
@@ -1127,7 +1127,7 @@
 | [עקבים וג'ינס](https://open.spotify.com/track/3d1AKnEKf2LBXn7wQUH21B) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:44 | 2025-06-11 | 2025-08-30 |
 | [ערק](https://open.spotify.com/track/0hOEW1DOcq5pQdoSguJklk) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [ערק](https://open.spotify.com/album/3pT7uVEW2U3A9fKDGihOd8) | 3:21 | 2023-02-03 | 2023-03-05 |
 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 | 2025-01-11 | 2025-01-19 |
-| [פאפי](https://open.spotify.com/track/4uZxeONVzM7MLQqlMmTHMz) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פאפי](https://open.spotify.com/album/1pDWvr5Yc28TEAVgRbU4NO) | 2:14 | 2025-06-30 | 2025-09-04 |
+| [פאפי](https://open.spotify.com/track/4uZxeONVzM7MLQqlMmTHMz) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פאפי](https://open.spotify.com/album/1pDWvr5Yc28TEAVgRbU4NO) | 2:14 | 2025-06-30 |  |
 | [פורחים לשובם](https://open.spotify.com/track/0OzFG7wUIuRUDA1dcPzlK1) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj) | [פורחים לשובם](https://open.spotify.com/album/7oIuGR5YfaecmUUz1FhomM) | 3:19 | 2024-03-15 | 2024-03-17 |
 | [פזמון אחר](https://open.spotify.com/track/5sUTab2UduAG5tZSjrFsaN) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [עם ישראל חי](https://open.spotify.com/album/432qmy3EY5mh8NWpwFRYfD) | 3:40 | 2024-04-15 | 2024-04-19 |
 | [פחד אלוהים](https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7) | [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [פחד אלוהים](https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB) | 2:49 | 2023-11-23 | 2024-12-16 |
@@ -1185,11 +1185,12 @@
 | [ראשון בבוקר](https://open.spotify.com/track/3xtK7rFrJvL5hrBu4vFgf7) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt), [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [ראשון בבוקר](https://open.spotify.com/album/4yXN6hkRfpYm4AshupuLn4) | 2:49 | 2022-12-12 | 2023-02-15 |
 | [רובים ותלתלים](https://open.spotify.com/track/5qOxJdYpngdcI4shMGYo8S) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 2:13 | 2025-05-31 | 2025-08-06 |
 | [רובינזון קרוזו](https://open.spotify.com/track/7GzjoBxxDIiBx6JFFHY9x5) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 2:28 | 2021-07-10 | 2021-09-01 |
-| [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 | 2024-05-28 |  |
+| [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 | 2024-05-28 | 2025-09-20 |
 | [רוזה](https://open.spotify.com/track/6gGbQIKS0dyNQrJfUatt46) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:50 | 2025-06-11 |  |
 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2023-02-23 | 2024-10-23 |
 | [רוצה שלום](https://open.spotify.com/track/4L4dPjtEVEpZ0ER2deHAJA) | [Raviv Kaner](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [רוצה שלום](https://open.spotify.com/album/3TsFkrLXnknyMa3GegwMOR) | 3:28 | 2021-03-27\* | 2021-12-19 |
-| [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-14 |  |
+| [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-14 | 2025-09-20 |
+| [רוקד עם הכאב](https://open.spotify.com/track/4ra4WsUIRDxIQ6p0l5t276) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [כוחה של אהבה](https://open.spotify.com/album/2L5KLSiiUaV5xJRKZ0tXTB) | 4:01 | 2025-09-19 |  |
 | [רוקנרול](https://open.spotify.com/track/2tFX3wqEPyya8k2bS8pHqW) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [לחנים שבורים](https://open.spotify.com/album/6qBbLMrB32FOw0uitKl2RR) | 2:43 | 2024-11-11 | 2025-03-16 |
 | [רחוב המשבר](https://open.spotify.com/track/3sehBAUnI9J14iGW2KOEdk) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 3](https://open.spotify.com/album/16r1AhCbAHBrumtC2LOKW2) | 3:47 | 2025-06-30 | 2025-07-13 |
 | [רחוק מכולם](https://open.spotify.com/track/1hTth4TFnHWYWiXglQ6bN2) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [עומר](https://open.spotify.com/album/2BuH7xzTbDVJ6PseqasZBM) | 2:55 | 2024-04-18 | 2024-11-15 |

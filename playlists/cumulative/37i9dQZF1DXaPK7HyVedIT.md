@@ -2,7 +2,7 @@
 
 ### [Dance Paradise](https://open.spotify.com/playlist/37i9dQZF1DXaPK7HyVedIT)
 
-> Eletrônico do momento para curtir onde estiver\. Foto: Mochakk
+> Eletrônico do momento para curtir onde estiver\. Foto: illusionize
 
 708 songs - 1 day 15 hr 12 min
 
@@ -334,7 +334,7 @@
 | [In Love Today](https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [In Love Today](https://open.spotify.com/album/3dKHCgmYp0ZTtS3UAwtFmn) | 2:45 | 2025-03-07 | 2025-06-13 |
 | [In The Dark](https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Aldae](https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO) | [In The Dark](https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO) | 2:28 | 2024-07-12 | 2024-10-26 |
 | [In Your Life](https://open.spotify.com/track/6IX9PeBeUXYqFJbBxCdBQ5) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [In Your Life](https://open.spotify.com/album/5nQrqlyRBi1y4HyuodhLUB) | 3:20 | 2024-03-08 | 2024-06-15 |
-| [Incondicional \- Les Trois Monde](https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [R.D.L.D.](https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6) | 2:31 | 2025-09-19 |  |
+| [Incondicional \- Les Trois Monde](https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [R.D.L.D.](https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6) | 2:31 | 2025-09-19 |  |
 | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/track/4ytfVjVEXfJIe0uZj4WoTF) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Bhaskar Remix\)](https://open.spotify.com/album/1hQ4ooJU4Qof6MDgExzqbI) | 2:56 | 2024-12-20 | 2025-04-05 |
 | [Infinity \(Dubdogz Remix\)](https://open.spotify.com/track/0EFlZ6qToxLzxBfZfNw3Ba) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Dubdogz Remix\)](https://open.spotify.com/album/3RG4SpdwLJR044NQ3k6kKZ) | 3:19 | 2024-12-13 | 2025-04-02 |
 | [ININNA TORA](https://open.spotify.com/track/1anRgdIoPvr8kVnAMJrASt) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [ININNA TORA](https://open.spotify.com/album/6OwWOIw2ng93HOi9DyKCfV) | 2:25 | 2024-04-19 | 2024-07-13 |

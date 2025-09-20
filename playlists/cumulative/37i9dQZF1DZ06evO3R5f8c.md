@@ -4,7 +4,7 @@
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-103 songs - 12 hr 30 min
+104 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Molo Sweetie](https://open.spotify.com/track/0XTKHw0Bp8WtfxSVSzXA3o) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 5:43 | 2021-12-28 |  |
 | [Music Is The Answer](https://open.spotify.com/track/5GD2wVVvA8gdOaosPrEDNr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Ribatone](https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR) | [The Journey Continues](https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67) | 5:35 | 2021-12-31 | 2022-01-22 |
 | [Muyè \(Black Coffee Remix\)](https://open.spotify.com/track/4rSpUjqW7KTn4Whk9vEIv5) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Sónar 25: An advanced music mixtape by Black Coffee](https://open.spotify.com/album/1xz36Gipe1dJJ1UNiFJviJ) | 7:20 | 2021-12-28 |  |
+| [My Dream](https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:40 | 2025-09-20 |  |
 | [Ndod'emnyama](https://open.spotify.com/track/2ezXfBFmYYoiPUcQeCt494) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Music Is King](https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH) | 2:37 | 2021-12-28 | 2022-06-12 |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:19 | 2022-04-06 | 2023-12-14 |
 | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Never Gonna Forget \(with Diplo feat\. Elderbrook\)](https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4) | 3:19 | 2021-12-28 | 2022-04-07 |

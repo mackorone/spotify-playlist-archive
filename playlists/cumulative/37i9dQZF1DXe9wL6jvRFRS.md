@@ -2,9 +2,9 @@
 
 ### [Spindle](https://open.spotify.com/playlist/37i9dQZF1DXe9wL6jvRFRS)
 
-> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Racing Mount Pleasant on the cover.
+> spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Maruja on the cover.
 
-60 songs - 4 hr 38 min
+61 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Racing Mount Pleasant](https://open.spotify.com/track/3fua3zsMYUgGBgnNlocxrU) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/6S3we3LnQcy47E2hhoamXV) | 5:15 | 2025-07-10 | 2025-08-16 |
 | [Ran Out of Time](https://open.spotify.com/track/2G4aLoVnpjWcyXgBRhnDI2) | [Aunt Katrina](https://open.spotify.com/artist/7sMEd7g4LPNijUP8eH2wyf) | [Ran Out of Time](https://open.spotify.com/album/4mLYTyjoHin9yZjSzUUeg6) | 2:53 | 2025-07-10 |  |
 | [Resisting Resistance](https://open.spotify.com/track/5sxatW3jsmH2gUTJ1zvnHs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Connla's Well](https://open.spotify.com/album/59lxNUUwxzNmeB4dkqQExa) | 5:58 | 2025-07-10 |  |
+| [Saoirse](https://open.spotify.com/track/3g0xd9m1MxKRiIC2Xw4998) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 5:13 | 2025-09-19 |  |
 | [See You Around](https://open.spotify.com/track/0i0g60BEOSriL0mJJu7N3S) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [See You Around](https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf) | 4:02 | 2025-07-10 |  |
 | [Shells](https://open.spotify.com/track/1vtuuLA1GTiqcnmDleBqje) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Shells](https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL) | 3:51 | 2025-07-10 |  |
 | [Skins](https://open.spotify.com/track/5munQvyxlq8hZNvTIrKoQT) | [The Orchestra \(For Now\)](https://open.spotify.com/artist/4M1DlOtwciPLmjRWBWOpFG) | [Skins](https://open.spotify.com/album/2mXZjNoSOJ9422Gwvmh7Wu) | 4:20 | 2025-07-10 |  |

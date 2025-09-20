@@ -1,13 +1,121 @@
 {
   "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 69941,
+  "num_followers": 70045,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKbXVdCcH9X4nH4NECrj66Roe+ZM",
+  "snapshot_id": "AAAAAO5sCjfu13Pz/sNYR9I4plMyf+lj",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Family Forever",
+        "url": "https://open.spotify.com/album/1tvJFnMtvJpJ4Hf2Zp62dE"
+      },
+      "artists": [
+        {
+          "name": "American Girl",
+          "url": "https://open.spotify.com/artist/5uHa58dlzYkc3Yb0WiFhVL"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 150566,
+      "name": "Family Forever",
+      "url": "https://open.spotify.com/track/2xjwrCu6SH0ryYVVcw4KIE"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Bush Doof!",
+        "url": "https://open.spotify.com/album/1ecrI7uhpnomHMwK03FXLw"
+      },
+      "artists": [
+        {
+          "name": "The Tree of Wisdom",
+          "url": "https://open.spotify.com/artist/0L6LyoYskg5GYJWfsbSW8i"
+        },
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Bush Doof!",
+      "url": "https://open.spotify.com/track/7zTF7eCipCVGvopAMYNfm2"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Disney Jr. Music: SuperKitties Su-Purr Wild (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4HlDw3O3fSHy8sFhieGwTA"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 122789,
+      "name": "Itsy Bitsy SuperKitty",
+      "url": "https://open.spotify.com/track/1PQnZ6WQpth2mGUHBp9M1g"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Puppy Campers (Skye's Music Party)",
+        "url": "https://open.spotify.com/album/6BS7n4TwchS0qzqyLeKD2g"
+      },
+      "artists": [
+        {
+          "name": "PAW Patrol",
+          "url": "https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED"
+        }
+      ],
+      "duration_ms": 106662,
+      "name": "Puppy Campers - Skye's Music Party",
+      "url": "https://open.spotify.com/track/4QSG8ZZ5DALRMphfEJJaP9"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Nature's Music",
+        "url": "https://open.spotify.com/album/52JlxplQYigaOl8f4OfGpI"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "duration_ms": 160092,
+      "name": "Nature's Music",
+      "url": "https://open.spotify.com/track/7w0V5I7bNJBgSLwJjcLECS"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Girlies (Day Of The Girl)",
+        "url": "https://open.spotify.com/album/413kBLhXWeP5X9yezuCLaC"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 168545,
+      "name": "Girlies - Day Of The Girl",
+      "url": "https://open.spotify.com/track/5zboDbeslpqe8LfH6ZZOia"
+    },
     {
       "added_at": "2025-09-12 04:00:08",
       "album": {

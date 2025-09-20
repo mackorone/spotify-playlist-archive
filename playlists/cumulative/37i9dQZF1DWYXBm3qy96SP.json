@@ -10217,6 +10217,24 @@
     },
     {
       "album": {
+        "name": "FMK!",
+        "url": "https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "FMK!",
+      "url": "https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x"
+    },
+    {
+      "album": {
         "name": "Foam",
         "url": "https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI"
       },
@@ -21525,8 +21543,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Violent Nature",
+        "url": "https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U"
       },
       "artists": [
         {
@@ -24436,7 +24454,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 214036,
       "name": "Some Things",
       "url": "https://open.spotify.com/track/4z03v8DF4bBKv1pGvwPpD1"

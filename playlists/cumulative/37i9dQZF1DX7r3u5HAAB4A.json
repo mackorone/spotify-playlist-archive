@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture.  Cover: Bounty Killer, Vybz Kartel, DJ Khaled, Buju Banton and Mavado",
+  "description": "A melting pot of Caribbean culture.  Cover: Teejay",
   "name": "Fever",
   "tracks": [
     {
@@ -2625,6 +2625,28 @@
     },
     {
       "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/0XF5pY3GW1x5DASvQE0aPK"
+      },
+      "artists": [
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145836,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY"
+    },
+    {
+      "album": {
         "name": "Looking for It",
         "url": "https://open.spotify.com/album/2VxXWMvK1VWv6QoAshbDIg"
       },
@@ -4802,7 +4824,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 167272,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7i2G01nyro3Y09I3pXoz4E"

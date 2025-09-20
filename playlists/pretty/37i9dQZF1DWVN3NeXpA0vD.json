@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26480,
+  "num_followers": 26479,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Polaroid",
         "url": "https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 193377,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 179745,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Rare (Deluxe)",
-        "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 161188,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "FRIENDS KEEP SECRETS 2",
         "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 169094,
       "name": "You (with Marshmello & Vance Joy)",
       "url": "https://open.spotify.com/track/3wCk9LASPqyp2VovekThtF"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Rare (Deluxe)",
+        "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 161188,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Call Me Now",
         "url": "https://open.spotify.com/album/2DAC8ojG0pgvJUoiwmcS3F"
       },
@@ -1907,18 +1923,18 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 191808,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
+      "duration_ms": 162864,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1935,22 +1951,6 @@
       "duration_ms": 170498,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/5sK3o66yupTNIK6gWgzGjf"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/5OrSjlgjIvI3GmTnTt6wnT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 162864,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/6rVNnvyNeibts1uOqdSNIw"
     },
     {
       "added_at": "2024-07-03 14:32:39",

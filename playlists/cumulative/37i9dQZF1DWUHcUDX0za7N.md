@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Wizard Chan
+> Hip hop and rap music from Nigeria\. Cover: Bigbird Kuti & Vector
 
-644 songs - 1 day 6 hr 12 min
+644 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 | 2024-07-16 |  |
 | [Hello Habibi](https://open.spotify.com/track/0CK6SBXMBAW2iTtlrdmutY) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Hello Habibi](https://open.spotify.com/album/43Xxk0OfHCuh0HSEJ3nK07) | 3:14 | 2024-11-08 |  |
 | [High](https://open.spotify.com/track/0KnWwKsfDzPgXnbDpCgfNa) | [KOMÉ](https://open.spotify.com/artist/1QyP5lNWbUoGJ2qdb8okRh) | [High](https://open.spotify.com/album/6rKcXdZNdAhY5azzwMBvkv) | 1:59 | 2023-07-20 | 2023-07-28 |
+| [Higher Consciousness](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [BIGBIRD & THA VIPER](https://open.spotify.com/album/06avYXeBI5Df4cvkeTfJmS) | 3:05 | 2025-09-19 |  |
 | [Highest Student](https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [Masiano](https://open.spotify.com/artist/0wh9usKigmJMIpkosaQ5uF) | [Highest Student](https://open.spotify.com/album/3cw1LTnoRBHQN9StfTHYDK) | 2:51 | 2023-03-25 | 2023-07-28 |
 | [Hit](https://open.spotify.com/track/12JtmBk0kNsk5GSECkOSPn) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko) | [Hit](https://open.spotify.com/album/41FcOVnvv8nkpG6X6uzqdT) | 2:12 | 2024-07-19 | 2024-08-02 |
 | [Holy Gee](https://open.spotify.com/track/3Y8PRiBMczgHn3edpbCkfb) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Holy Gee](https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP) | 2:44 | 2022-07-21 | 2023-11-17 |
@@ -586,7 +587,6 @@
 | [Tony Montana](https://open.spotify.com/track/3mARtPEP8hi1LzMctEwVN4) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Tony Montana](https://open.spotify.com/album/2AInHQaDznimTKHL0m3M0h) | 3:27 | 2024-03-01 | 2024-11-22 |
 | [TOSPI](https://open.spotify.com/track/59dzzyVixSx3HY2o9DHE3f) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won) | [TOSPI](https://open.spotify.com/album/3hOmLqLQWvgD88omwdB5jz) | 2:35 | 2025-02-21 | 2025-03-29 |
 | [TOY GIRL \(with Juno & Valentino Rose\)](https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t) | [THE MACHINE IS COMING](https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ) | 2:52 | 2025-04-07 |  |
-| [Track 3](https://open.spotify.com/track/4RZJ4xsVuq20lNS9eDe4ly) | [BIGBIRD KUTI](https://open.spotify.com/artist/7n7wewebGwzL1Yz8yxdz4M), [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-19 |  |
 | [Trapping](https://open.spotify.com/track/7dTf5PWqNfWcRTlgw8d4fu) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 3:45 | 2022-10-14 | 2022-10-29 |
 | [Trouble](https://open.spotify.com/track/6JZJ6Sbo0biJvOCnx5QaLw) | [Basketmouth](https://open.spotify.com/artist/12bnIxBXecZzYmrJKRbaQ4), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Trouble](https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8) | 2:43 | 2022-06-09 | 2023-11-10 |
 | [True Life Story](https://open.spotify.com/track/1m7ffYVHFhtOUF6pYHGqCC) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [BILLION DOLLAR DREAM](https://open.spotify.com/album/2ffIFz0rBMZrnlTlZm00nz) | 2:58 | 2022-10-14 | 2022-10-29 |

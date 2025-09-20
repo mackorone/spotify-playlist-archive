@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Maya Amolo
 
-287 songs - 16 hr 8 min
+289 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Kweli](https://open.spotify.com/track/5JPRVLg7QWAe0Trj0YlYtb) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Out With The Old](https://open.spotify.com/album/2pE7yxSv7xw2uRL8Sz6XDP) | 2:12 | 2025-02-13 | 2025-02-21 |
 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 | 2022-07-29 |  |
 | [Less](https://open.spotify.com/track/4RuuafWTVxluP7QgNvlIXE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Less](https://open.spotify.com/album/5oiJNwUcVFKzIICaCH0AVo) | 1:25 | 2022-03-24 | 2022-11-25 |
-| [Let Me Go](https://open.spotify.com/track/4wd7i64bBgwsP5aZ9h3KM1) | [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Let Me Go](https://open.spotify.com/album/5T4bjhjjjcBG5YgaxhehM4) | 2:29 | 2024-12-05 |  |
+| [Let Me Go](https://open.spotify.com/track/4wd7i64bBgwsP5aZ9h3KM1) | [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX) | [Let Me Go](https://open.spotify.com/album/5T4bjhjjjcBG5YgaxhehM4) | 2:29 | 2024-12-05 | 2025-09-20 |
 | [Let You Down](https://open.spotify.com/track/3apziXJWNWQPmpTceYJSZZ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X), [Kemena](https://open.spotify.com/artist/0SGTAjot9GShYwCQ69DfG2) | [Let You Down](https://open.spotify.com/album/6Up0QUA4FZV8K4xXvtzDom) | 3:25 | 2024-02-01 | 2025-05-06 |
 | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-18 | 2023-04-07 |
 | [Lifetimes](https://open.spotify.com/track/3EeWg0GABnVlg0boa29GTK) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Lifetimes](https://open.spotify.com/album/5hC9LuVBPPiECwYohDX9By) | 3:22 | 2024-05-16 | 2025-02-08 |
@@ -227,7 +227,7 @@
 | [SBLTLA](https://open.spotify.com/track/4U4XZWxsMKtcd6lOVSZT1z) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [SBLTLA](https://open.spotify.com/album/6ZmoFJLKAUoNKzuxyQa8Xb) | 1:59 | 2024-02-22 | 2024-10-18 |
 | [Secret Love](https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Secret Love](https://open.spotify.com/album/6JwMBgQOEwAhZD6MbH26Bp) | 3:48 | 2021-12-28 | 2022-07-30 |
 | [Secret Lover](https://open.spotify.com/track/5wTCpN911fjwZYhnCYzX7k) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Secret Lover](https://open.spotify.com/album/0aZpLxujAEhkWnYT9yeZe1) | 2:51 | 2023-07-13 | 2025-05-30 |
-| [Sema](https://open.spotify.com/track/4S2LpLITlVGrvOttc4rCtu) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Sema](https://open.spotify.com/album/7j0fwr3cxUNQH4vz5ISY7F) | 3:03 | 2025-02-07 |  |
+| [Sema](https://open.spotify.com/track/4S2LpLITlVGrvOttc4rCtu) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Sema](https://open.spotify.com/album/7j0fwr3cxUNQH4vz5ISY7F) | 3:03 | 2025-02-07 | 2025-09-20 |
 | [Sema Milele](https://open.spotify.com/track/2etocCZTaYXfYFwvd7a3mp) | [Gilad](https://open.spotify.com/artist/69X8GGcAC4PnkhReqPFDXQ) | [Asante](https://open.spotify.com/album/2aY4NZfuqdZxNWVfq0qksF) | 4:16 | 2025-02-13 | 2025-02-21 |
 | [Shea Butter Baby](https://open.spotify.com/track/2QzHJns0EJD4nCQ1AevgwL) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Shea Butter Baby](https://open.spotify.com/album/2pOcq4SAJfA8B7eXPwseIt) | 2:33 | 2022-04-28 | 2022-09-23 |
 | [Shelter](https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Shelter](https://open.spotify.com/album/0VMCN0GaByNplAXw9lOLFW) | 3:06 | 2024-02-22 | 2025-03-07 |
@@ -235,6 +235,7 @@
 | [Side Chick](https://open.spotify.com/track/6XeOjWznRQ6WWTelTBUCsZ) | [ItsYaba](https://open.spotify.com/artist/61CKwmxern8sROzuhUDY3j), [Jefflawgan](https://open.spotify.com/artist/5ciu7LFuG7PZSGPzIS8jav) | [Side Chick](https://open.spotify.com/album/3GOgVhlZZdyehCcVFmFwx3) | 3:50 | 2025-03-28 |  |
 | [Sio Siri](https://open.spotify.com/track/5oKoPTkNST0DFa6CYOrCS6) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Sio Siri](https://open.spotify.com/album/1XkXWsoUaTSbYFtKjDOR54) | 3:08 | 2021-12-28 | 2023-12-01 |
 | [Skin](https://open.spotify.com/track/1j6AwoqDeTLmfvBeY281CN) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [You Never Learn](https://open.spotify.com/album/53p5igeY5gYg2TDXVKDeVd) | 3:39 | 2023-09-21 | 2024-03-29 |
+| [slow burning.](https://open.spotify.com/track/5U5lHDAuwPX1XjJ4cAWqps) | [3N!](https://open.spotify.com/artist/3FvZoL8GYFyC4AsZUxfAtc), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [slow burning.](https://open.spotify.com/album/7uf5Mi12fGexmZfETSpI1Y) | 3:32 | 2025-09-19 |  |
 | [Slow Down](https://open.spotify.com/track/0hrXbMtT7Wb8vlRLpRxBZ8) | [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3), [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ) | [Slow Down](https://open.spotify.com/album/4juUxcfkxdA6ry2dKBRMYz) | 3:17 | 2021-12-28 | 2022-06-11 |
 | [Slowly](https://open.spotify.com/track/2fSLRfuJr2utyjHrbohiWu) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [The Footprint](https://open.spotify.com/album/04ZdDUDZ05hdtUawvudVL4) | 3:37 | 2024-02-15 | 2024-05-17 |
 | [Slowly \(The Haux Stories\)](https://open.spotify.com/track/6h491wk8T2zQ8KqBc98wCu) | [Ntinyari](https://open.spotify.com/artist/6mxky4PjUkwpCDOTdOeksC) | [Three](https://open.spotify.com/album/6mZk2E17q8qAkITD4bB6IS) | 3:08 | 2024-04-05 | 2025-05-16 |
@@ -245,6 +246,7 @@
 | [Sorry](https://open.spotify.com/track/5CSH0TMDXX7eTtiwhaq3OY) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/3fkE3ayLgO9KcqxBWWUh5N) | 3:52 | 2024-03-07 | 2024-04-19 |
 | [sorry it didn't work out](https://open.spotify.com/track/2C7AVrBA3vu2mg1zBu0pHk) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [Legacy](https://open.spotify.com/album/1RJZeNA3Awf8RBHPqQ9Cha) | 2:29 | 2022-03-31 | 2023-03-31 |
 | [sorry it didn't work out](https://open.spotify.com/track/4fhWjpuQMX2JelLPLhTm0a) | [Papa](https://open.spotify.com/artist/3yhUYybUxwJn1or7zHXWHy) | [sorry it didn't work out](https://open.spotify.com/album/5BP6SX5xnt4qvitpCBVKJw) | 2:29 | 2022-03-31 | 2022-10-09 |
+| [Subira](https://open.spotify.com/track/1pEgScIqHkA61slc7ZrArz) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Cedz Imagination](https://open.spotify.com/artist/2bsB3f3Lx5jYFHQe9MzrBR) | [Subira](https://open.spotify.com/album/4qNx4rrK7EG5HYWflIt8iB) | 3:01 | 2025-09-19 |  |
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |
 | [Sugar Rush](https://open.spotify.com/track/3JJ6IAPfrrJPV2fOGQZYGl) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Medicine](https://open.spotify.com/album/1UqJeAHLAQh2g5M8QCdei5) | 3:49 | 2025-02-13 | 2025-02-21 |
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 | 2022-10-14 |

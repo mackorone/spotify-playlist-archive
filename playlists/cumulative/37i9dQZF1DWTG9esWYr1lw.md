@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 | 2025-08-10 |
+| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 |  |
 | [A3zam Ayam](https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q) | [Akram Adel](https://open.spotify.com/artist/3TL9vhTxFtRnEBMPhLM2ia) | [A3zam Ayam](https://open.spotify.com/album/2m9kuiPhaFlzZ8WF5bT07V) | 2:03 | 2024-03-12 | 2025-03-24 |
 | [Ahlan Ramadan](https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Ahlan Ramadan](https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6) | 3:34 | 2024-03-12 |  |
 | [Ahlan Ramadan](https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch) | [Mohamed Tarek](https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb), [Ibrahim Al Dardasawi](https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC) | [Ahlan Ramadan](https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN) | 3:05 | 2024-03-12 |  |
@@ -21,7 +21,7 @@
 | [Bab Rizk](https://open.spotify.com/track/3ZrRdDPgevGRUgERi0OucI) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bab Rizk](https://open.spotify.com/album/2pV6SNCzHgvQzQGHMxscm9) | 2:42 | 2024-03-12 |  |
 | [Baraka Allahu Lakuma](https://open.spotify.com/track/5mJEyyMjCIJUMPqrS9VkZb) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah](https://open.spotify.com/album/7xFPI5T8J8bAAj63JVEOB1) | 4:29 | 2024-03-12 |  |
 | [Efrahou Ya Banat](https://open.spotify.com/track/0mE1z4WuQXZIwR1yRR4FqV) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:32 | 2024-03-12 | 2025-03-17 |
-| [Farhet Ramadan](https://open.spotify.com/track/3pnaVmU6XF5AEuLATBMZCV) | [Fatma Eid](https://open.spotify.com/artist/38EGMLWJ3SGC45d3q9QA26) | [Ahlan Ramadan](https://open.spotify.com/album/56CffV7bvo6xbBp6LSSiaN) | 4:04 | 2024-03-12 |  |
+| [Farhet Ramadan](https://open.spotify.com/track/3pnaVmU6XF5AEuLATBMZCV) | [Fatma Eid](https://open.spotify.com/artist/38EGMLWJ3SGC45d3q9QA26) | [Ahlan Ramadan](https://open.spotify.com/album/56CffV7bvo6xbBp6LSSiaN) | 4:04 | 2024-03-12 | 2025-09-20 |
 | [Farhet Ramadan](https://open.spotify.com/track/0MnsgMZh7GDnWGegBGM4oS) | [Fatma Eid](https://open.spotify.com/artist/38EGMLWJ3SGC45d3q9QA26) | [Farhet Ramadan](https://open.spotify.com/album/34abdF8ACHM1InwvAUjZ3T) | 4:04 | 2025-01-28 | 2025-03-01 |
 | [Hal We Hal](https://open.spotify.com/track/2CcB6H5atqWTY56s2TALWK) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 3:52 | 2025-01-28 | 2025-02-07 |
 | [Hato Al Foanis](https://open.spotify.com/track/1rKTvYQgVkbhncmUC0AkA3) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Hato Al Foanis](https://open.spotify.com/album/2yW5HJqLQQJtV7Q8p8MGte) | 5:44 | 2024-03-12 |  |

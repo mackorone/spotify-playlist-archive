@@ -9179,6 +9179,28 @@
     },
     {
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI"
+    },
+    {
+      "album": {
         "name": "Stressgummies",
         "url": "https://open.spotify.com/album/2OmqvZN0dbOxQcN2KFXeJF"
       },

@@ -2,9 +2,9 @@
 
 ### [Shisha Club](https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre)
 
-> Die Playlist zur Wasserpfeife\. Cover: Aymen
+> Die Playlist zur Wasserpfeife\. Cover: Monet192
 
-340 songs - 14 hr 30 min
+341 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [BOTTEGA](https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BOTTEGA](https://open.spotify.com/album/1nTDLd7iju1cTk1fiWm5tS) | 2:25 | 2025-06-09 |  |
 | [Bounce!](https://open.spotify.com/track/1zq3gomMLg5foDJxK91NFQ) | [CARAMELLA](https://open.spotify.com/artist/3bzLLgN7vDyZeokKXrCQAJ), [YDRA](https://open.spotify.com/artist/6AEAVlgzkJWaHO9nOGA91T) | [Bounce!](https://open.spotify.com/album/5jEgmAXeWvaaoLkPsyL7cr) | 2:55 | 2025-07-17 |  |
 | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Brazil Funk Freestyle 🇧🇷](https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH) | 2:11 | 2024-06-28 |  |
+| [Brennpunkt](https://open.spotify.com/track/1ZqLWpVs4LjkBDOrWRtivQ) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Brennpunkt](https://open.spotify.com/album/4aJn7mGqeuzmfAEEREdCHS) | 3:23 | 2025-09-19 |  |
 | [Bunker Paket](https://open.spotify.com/track/4nYZgQFAD8ARv7mBFwtn79) | [BARÉ](https://open.spotify.com/artist/1EhlCHNvUGcs4bi60tXXoB), [Biggie68](https://open.spotify.com/artist/2oOZnan3LTQbqc0uGajGY1), [Azu](https://open.spotify.com/artist/1Y5ZPIMVOc1QgWPYnaiBSp), [Bayor](https://open.spotify.com/artist/4fLyO8nvEon8gLjwvoRYne), [VITO](https://open.spotify.com/artist/7chtUnj6tYDO1bXxLSL7OA) | [Bunker Paket](https://open.spotify.com/album/1i8lUPukAge4wgXuT50xb7) | 2:35 | 2024-06-28 | 2024-07-27 |
 | [Buonasera](https://open.spotify.com/track/2DBwe8rBEtj9uAP8PI1Ig9) | [Miami Yacine](https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB) | [Buonasera](https://open.spotify.com/album/7oO2rrI1uButc8ephatUSC) | 2:31 | 2025-09-18 |  |
 | [Buscape](https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [Buscape](https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb) | 2:31 | 2025-05-13 |  |
@@ -125,7 +126,7 @@
 | [Fantasia](https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Devito](https://open.spotify.com/artist/0JQ4vokBBqHxHzRb36fSWN) | [Fantasia](https://open.spotify.com/album/5NXVPkMBEozDLKI25LCrtu) | 2:20 | 2024-07-25 | 2024-09-10 |
 | [Favela](https://open.spotify.com/track/75lcLViAJrnKsQTVgn1ZBp) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Favela](https://open.spotify.com/album/3qtjEZ0ULgJaKjf5eIhapK) | 2:12 | 2024-08-21 | 2024-10-11 |
 | [Favela Type Beat](https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Favela Type Beat](https://open.spotify.com/album/6Jy1my0Y51UIeZSmp37P9K) | 2:27 | 2024-06-28 | 2024-12-17 |
-| [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 | 2025-09-18 |  |
+| [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 | 2025-09-18 | 2025-09-20 |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 | 2025-04-18 |
 | [FROZEN](https://open.spotify.com/track/2ZZM5DepwKgqGJChdbfVx1) | [Mali](https://open.spotify.com/artist/1EpUTpT8KmlB2uDzLNK9d5), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [Alim](https://open.spotify.com/artist/2eCeP9nQxAp8hXOL30KNGZ), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [FROZEN](https://open.spotify.com/album/0IAOLh308PgsAepj19BNts) | 2:48 | 2025-03-24 |  |
 | [FÜR IMMER](https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [FÜR IMMER](https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb) | 2:40 | 2024-10-10 | 2025-08-29 |

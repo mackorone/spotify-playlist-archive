@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 189620,
+  "num_followers": 189762,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
+        "name": "New York, London, Paris, Munich",
+        "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
+      },
+      "artists": [
+        {
+          "name": "M / Robin Scott",
+          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
+        },
+        {
+          "name": "Robin Scott",
+          "url": "https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8"
+        },
+        {
+          "name": "Nick Launay",
+          "url": "https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe"
+        }
+      ],
+      "duration_ms": 296466,
+      "name": "Pop Muzik - 12 Inch Version",
+      "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
         "name": "Rebel Yell",
         "url": "https://open.spotify.com/album/6yDq3SrTcstT7zD1hv3hgM"
       },
@@ -1095,30 +1119,6 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/19omiIPoSfj8S1MlqK1aCd"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
-        "name": "New York, London, Paris, Munich",
-        "url": "https://open.spotify.com/album/5n9dcCzWXYSZqAFCE64Vl0"
-      },
-      "artists": [
-        {
-          "name": "M / Robin Scott",
-          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
-        },
-        {
-          "name": "Robin Scott",
-          "url": "https://open.spotify.com/artist/5UQO8IQ2YE4eRUrGtHygB8"
-        },
-        {
-          "name": "Nick Launay",
-          "url": "https://open.spotify.com/artist/4lG71rnC7sx25oeByeSEYe"
-        }
-      ],
-      "duration_ms": 296466,
-      "name": "Pop Muzik - 12 Inch Version",
-      "url": "https://open.spotify.com/track/0FBeVAGy58YREuZK2rpRVm"
     },
     {
       "added_at": "2024-07-09 02:45:34",

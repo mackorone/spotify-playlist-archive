@@ -118,7 +118,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 163960,
       "name": "10",
       "url": "https://open.spotify.com/track/799bsi80kqvmPbyffNo0t5"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-15",
+      "date_removed": null,
       "duration_ms": 127767,
       "name": "Hoodtrapstar",
       "url": "https://open.spotify.com/track/7N1AiJjucLwjTBvRajtnW0"
@@ -4699,6 +4699,32 @@
     },
     {
       "album": {
+        "name": "MONTAGEM RUGADA",
+        "url": "https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n"
+      },
+      "artists": [
+        {
+          "name": "cape",
+          "url": "https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K"
+        },
+        {
+          "name": "JXNDRO",
+          "url": "https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q"
+        },
+        {
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92384,
+      "name": "MONTAGEM RUGADA",
+      "url": "https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6"
+    },
+    {
+      "album": {
         "name": "WE LIVE ONLY ONCE",
         "url": "https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d"
       },
@@ -5578,7 +5604,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 144624,
       "name": "Rebirth (Intro)",
       "url": "https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa"
@@ -6078,7 +6104,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 188399,
       "name": "Slow Dance (feat. Sofia Carson)",
       "url": "https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH"
@@ -7412,7 +7438,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -8574,7 +8600,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 260560,
       "name": "\u0412\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f \u0431\u0435\u0441\u043a\u043e\u043d\u0435\u0447\u043d\u0430?",
       "url": "https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5"
@@ -11634,7 +11660,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 119062,
       "name": "\u043f\u0438\u0442\u0435\u0440 \u043f\u0430\u0440\u043a\u0435\u0440",
       "url": "https://open.spotify.com/track/6FvlCgtlMs2lfIYT4jaBcY"
@@ -14176,7 +14202,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 138305,
       "name": "\u0446\u0435\u043d\u0430",
       "url": "https://open.spotify.com/track/0mXuEBzTaqYmzIovJhx20u"
@@ -14506,7 +14532,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 91875,
       "name": "\u044f \u043c\u043e\u043b\u043e\u0434\u043e\u0439 \u0432\u0430\u043c\u043f\u0438\u0440 vamp",
       "url": "https://open.spotify.com/track/6wkSonQhYvYe1LPeEswTYk"

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-441 songs - 1 day 2 hr 23 min
+442 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Can't Fake What You Feel](https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Can't Fake What You Feel](https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG) | 2:51 | 2023-10-12 | 2025-05-20 |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7JqYAc8ACWC32Qc6JiQSSi) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/album/4XwNMKpClzhYVnhvHuT3QM) | 3:17 | 2022-09-09 | 2023-10-05 |
 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-17 |  |
+| [Catch Onto This Feeling](https://open.spotify.com/track/2ZmAHiwROLEZedDPrXpWoi) | [Shamis](https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Catch Onto This Feeling](https://open.spotify.com/album/2YKlSVsLrYlNpRwElQeCPc) | 5:26 | 2025-09-19 |  |
 | [Celebrate](https://open.spotify.com/track/61PmSBnABgBhqKhv33P27n) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Celebrate](https://open.spotify.com/album/6w6fnwF3to11WEGJCzM715) | 3:03 | 2024-03-14 | 2025-04-25 |
 | [Ceramic](https://open.spotify.com/track/2jN9H14xlf2KuDsqKV6wsG) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Ceramic](https://open.spotify.com/album/7ooSC9euPaRQCGjPMwOMQL) | 4:01 | 2022-09-09 | 2022-09-16 |
 | [CHANTE'S GROOVE](https://open.spotify.com/track/2qMKGSiQvgJAT7J94kloTB) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt), [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [CHANTE'S GROOVE](https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X) | 3:15 | 2024-01-11 | 2025-05-30 |

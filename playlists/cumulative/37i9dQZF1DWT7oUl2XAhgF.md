@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Adi Oasis
 
-547 songs - 1 day 8 hr 51 min
+548 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Get Back To The Land](https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Get Back To The Land](https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up) | 4:26 | 2022-01-14 | 2022-07-25 |
 | [Get it Got it](https://open.spotify.com/track/2o48KqCXGtUmJPLvhVQMVn) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Get it Got it](https://open.spotify.com/album/3QoqsVzvgBpuMaWr2S3xPg) | 4:06 | 2023-01-20 | 2024-01-20 |
 | [Get It Right](https://open.spotify.com/track/34C4K4p6tnU9So52HFbpMZ) | [Claire Davis](https://open.spotify.com/artist/7k4BeoQINC5sC1p7P4UBLA) | [Get It Right](https://open.spotify.com/album/15y0gBM5PFz4ftsLO1O1v3) | 3:01 | 2023-04-21 | 2023-08-05 |
-| [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 | 2024-01-12 |  |
+| [Gold Mine](https://open.spotify.com/track/3eOSNAIQJ8HPNNUZGWJPcf) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Gold Mine](https://open.spotify.com/album/4EC5UTKxVXm4Jk7UlkxDD1) | 2:31 | 2024-01-12 | 2025-09-20 |
 | [Golden](https://open.spotify.com/track/52bSduJitvvc9Rj8NifQTm) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Golden](https://open.spotify.com/album/4zCLgozrcJZMxSI91GiaQG) | 3:42 | 2022-01-21 | 2023-06-10 |
 | [Good Day](https://open.spotify.com/track/6hF1GWwmTAT0vKYuErguVj) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Good Day](https://open.spotify.com/album/5gPIcMHoQLRRhE0iDUVw7s) | 3:07 | 2022-02-15 | 2023-03-25 |
 | [Good Love](https://open.spotify.com/track/0J1lFaf00GdhNUekI4lmqJ) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [Good Love](https://open.spotify.com/album/4CgJXHgOTv1jPGsIZYEozZ) | 3:20 | 2022-03-21 | 2022-07-29 |
@@ -309,6 +309,7 @@
 | [Miss Strut](https://open.spotify.com/track/2jdi8zHvx1crcnIy049p78) | [Isak Thomas and The Stoop Boys](https://open.spotify.com/artist/7gxsKHFFOFtx2zpx2Ur5Sa) | [Miss Strut](https://open.spotify.com/album/1RsS0tnVbAeiNuJHClpGDc) | 2:41 | 2024-09-06 | 2024-09-21 |
 | [Mom Of Mine](https://open.spotify.com/track/3mc5EOf4tjQpmVG7ZFsWyv) | [Wyn Starks](https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ) | [Mom Of Mine](https://open.spotify.com/album/3yLcGl1XWkFgvyxos4d0iN) | 3:07 | 2024-05-10 |  |
 | [Momma Earth](https://open.spotify.com/track/0uFCJosTOS3pPDImbWhdpT) | [Carly Pearl](https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn) | [Momma Earth](https://open.spotify.com/album/58Lye0z0I1uOJI0mdSkL4z) | 2:52 | 2025-03-14 |  |
+| [More Than Any Thing](https://open.spotify.com/track/78gyP9y53GpfTEN8ES0OmV) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [ILU](https://open.spotify.com/album/1ecTN40b1IGLg5r71flFfP) | 3:28 | 2025-09-19 |  |
 | [More To Learn](https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [More To Learn](https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2) | 4:30 | 2022-03-04 | 2024-03-30 |
 | [Morning Sun](https://open.spotify.com/track/4Hge2Dy2MBYw45e28LIaQy) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 3:59 | 2022-11-11 | 2023-08-19 |
 | [Motorbike](https://open.spotify.com/track/1rYzhneH8uXuTCcGzOHKSC) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Why Don't You Touch Me](https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai) | 3:08 | 2021-07-09 | 2022-08-01 |

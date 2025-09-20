@@ -4375,6 +4375,32 @@
     },
     {
       "album": {
+        "name": "Same Day Cleaning",
+        "url": "https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171521,
+      "name": "Match My Mood",
+      "url": "https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J"
+    },
+    {
+      "album": {
         "name": "ME",
         "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
       },

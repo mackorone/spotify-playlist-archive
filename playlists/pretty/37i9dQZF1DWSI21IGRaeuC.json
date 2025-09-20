@@ -1,33 +1,13 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 65065,
+  "num_followers": 65108,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJnEE2UHBZnn/+7afHQQVSwNC8uD",
+  "snapshot_id": "AAAAACTofRlg8doV8pmH1ViwjXzGXlWc",
   "tracks": [
-    {
-      "added_at": "2025-09-05 04:00:16",
-      "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        },
-        {
-          "name": "Lustral",
-          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
-    },
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
@@ -53,20 +33,40 @@
       "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
     },
     {
-      "added_at": "2025-09-05 04:00:16",
+      "added_at": "2025-09-12 16:39:39",
       "album": {
-        "name": "Can't Resist EP",
-        "url": "https://open.spotify.com/album/1c2WIt22tmiyxyeXKxQofJ"
+        "name": "EVERY TIME",
+        "url": "https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg"
       },
       "artists": [
         {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
         }
       ],
-      "duration_ms": 159460,
-      "name": "Can't Resist",
-      "url": "https://open.spotify.com/track/69apGibKG9WdsnS6jvLUUG"
+      "duration_ms": 253235,
+      "name": "Like This Like That",
+      "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Gets Like That",
+      "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -91,6 +91,126 @@
       "duration_ms": 384007,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
+    },
+    {
+      "added_at": "2025-09-05 04:00:16",
+      "album": {
+        "name": "Can't Resist EP",
+        "url": "https://open.spotify.com/album/1c2WIt22tmiyxyeXKxQofJ"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "duration_ms": 159460,
+      "name": "Can't Resist",
+      "url": "https://open.spotify.com/track/69apGibKG9WdsnS6jvLUUG"
+    },
+    {
+      "added_at": "2025-09-19 14:22:02",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "added_at": "2025-09-05 04:00:16",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN"
+      },
+      "artists": [
+        {
+          "name": "IDEMI",
+          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
+        },
+        {
+          "name": "Lustral",
+          "url": "https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "You Wanna D EP",
+        "url": "https://open.spotify.com/album/79ZhAzBBIuSOidff9XXIpB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gonnelli",
+          "url": "https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe"
+        },
+        {
+          "name": "Samuele Scelfo",
+          "url": "https://open.spotify.com/artist/1Crlx3zUeYXCHoWEFm0E5H"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "You Wanna D",
+      "url": "https://open.spotify.com/track/0xAOBPbBC73UIKHQ1x0zHN"
+    },
+    {
+      "added_at": "2025-08-20 19:16:02",
+      "album": {
+        "name": "Do You Like Bass",
+        "url": "https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO"
+      },
+      "artists": [
+        {
+          "name": "Aitor Astiz",
+          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Do You Like Bass",
+      "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "Once Again Back",
+        "url": "https://open.spotify.com/album/702aq7qtCyIbYhhY14hF9l"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "duration_ms": 179542,
+      "name": "Once Again Back",
+      "url": "https://open.spotify.com/track/7xNFa6K3CSfoDZpXSWtQdu"
+    },
+    {
+      "added_at": "2025-09-19 16:40:13",
+      "album": {
+        "name": "ATW024",
+        "url": "https://open.spotify.com/album/3q68WRDnFm68DwRLABeISh"
+      },
+      "artists": [
+        {
+          "name": "Lemtom",
+          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
+        }
+      ],
+      "duration_ms": 213569,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/31qVMrHrtSXod8QNRJMAsQ"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -125,6 +245,26 @@
       "url": "https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr"
     },
     {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "Jump Higher",
+        "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Jump Higher",
+      "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
+    },
+    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Pumpin Jumpin",
@@ -157,6 +297,26 @@
       "url": "https://open.spotify.com/track/0iFxLdKp3KNbl3TPziqcB0"
     },
     {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "Cuttin' Corners",
+        "url": "https://open.spotify.com/album/1ugpWowNTglbZMkXdlCMEt"
+      },
+      "artists": [
+        {
+          "name": "Nautica (UK)",
+          "url": "https://open.spotify.com/artist/1jjc5DIwBYlsToYhng9Cu2"
+        },
+        {
+          "name": "Isis Salam",
+          "url": "https://open.spotify.com/artist/3bYWS9Hq4G2gF2Cb6rnRb2"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Cuttin' Corners",
+      "url": "https://open.spotify.com/track/0GAhvR5N1TZVbpODyxs8AM"
+    },
+    {
       "added_at": "2025-08-29 04:00:38",
       "album": {
         "name": "My 45",
@@ -173,36 +333,20 @@
       "url": "https://open.spotify.com/track/6eyMmznRO5M0mIDyY8Lc56"
     },
     {
-      "added_at": "2025-08-20 19:16:02",
+      "added_at": "2025-09-19 04:00:36",
       "album": {
-        "name": "Do You Like Bass",
-        "url": "https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO"
+        "name": "Check It Out EP",
+        "url": "https://open.spotify.com/album/1KDjLI8IlGitePMc4NlGC8"
       },
       "artists": [
         {
-          "name": "Aitor Astiz",
-          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+          "name": "Abel Budding",
+          "url": "https://open.spotify.com/artist/7k51qmtA8G6FwQJMtLR5d8"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Do You Like Bass",
-      "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Bunzzz",
-        "url": "https://open.spotify.com/album/7FPQMoNjZePas7ccKQcjNz"
-      },
-      "artists": [
-        {
-          "name": "Jeff Sorkowitz",
-          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
-        }
-      ],
-      "duration_ms": 158139,
-      "name": "Bunzzz",
-      "url": "https://open.spotify.com/track/0FVvWhTlaAtcEbO8Bp6on0"
+      "duration_ms": 216183,
+      "name": "Enclosure",
+      "url": "https://open.spotify.com/track/75DKaeuZS8YPvy6LX7hLSw"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -257,6 +401,58 @@
       "url": "https://open.spotify.com/track/7aywPYfARSGW49piyx550Q"
     },
     {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Bunzzz",
+        "url": "https://open.spotify.com/album/7FPQMoNjZePas7ccKQcjNz"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "duration_ms": 158139,
+      "name": "Bunzzz",
+      "url": "https://open.spotify.com/track/0FVvWhTlaAtcEbO8Bp6on0"
+    },
+    {
+      "added_at": "2025-09-19 17:33:03",
+      "album": {
+        "name": "To the Beat",
+        "url": "https://open.spotify.com/album/6lk7tjRUuj4o0Qa9GdUud5"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 394565,
+      "name": "To the Beat",
+      "url": "https://open.spotify.com/track/0W2egu7au4Dwp1NgUUcyYb"
+    },
+    {
+      "added_at": "2025-09-19 16:40:13",
+      "album": {
+        "name": "Reality Check / Qui Pon (Remixes)",
+        "url": "https://open.spotify.com/album/4aqm33zxTOCJBZLQThKDY3"
+      },
+      "artists": [
+        {
+          "name": "My Friend",
+          "url": "https://open.spotify.com/artist/1hg70WTHwGUQ7XDbjy3szw"
+        },
+        {
+          "name": "Simon Doty",
+          "url": "https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "Qui Pon - Simon Doty Remix",
+      "url": "https://open.spotify.com/track/4swC4OopZEIWLXcC0aEW0y"
+    },
+    {
       "added_at": "2025-08-29 04:00:38",
       "album": {
         "name": "Leave A Message (feat. Poppy Wright & Trick Shady)",
@@ -305,20 +501,24 @@
       "url": "https://open.spotify.com/track/7uMbrkuHJJjDLVucvnVjKg"
     },
     {
-      "added_at": "2025-09-12 16:39:39",
+      "added_at": "2025-09-19 04:00:36",
       "album": {
-        "name": "EVERY TIME",
-        "url": "https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg"
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
         }
       ],
-      "duration_ms": 253235,
-      "name": "Like This Like That",
-      "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
+      "duration_ms": 196363,
+      "name": "The Finest",
+      "url": "https://open.spotify.com/track/3s8jNQmpMoqLTnhu77qyCr"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -441,28 +641,24 @@
       "url": "https://open.spotify.com/track/1UR7khfRiqa8f9bPlmMCyj"
     },
     {
-      "added_at": "2025-09-05 04:00:16",
+      "added_at": "2025-09-19 04:00:36",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/0MPcxp7xIPt7LA1Qu6pMk5"
+        "name": "Fight Club",
+        "url": "https://open.spotify.com/album/7HprgxFWpJSFaqjgKzId4f"
       },
       "artists": [
         {
-          "name": "Across Boundaries",
-          "url": "https://open.spotify.com/artist/05LFLggIBdr1eWwonERbmT"
+          "name": "Airrica",
+          "url": "https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW"
         },
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        },
-        {
-          "name": "Locklead",
-          "url": "https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw"
+          "name": "Southside Nova",
+          "url": "https://open.spotify.com/artist/48JBF0PS9l9FNShhtOUAhp"
         }
       ],
-      "duration_ms": 358154,
-      "name": "Rendevouz",
-      "url": "https://open.spotify.com/track/7KilmUVGy2INos79HzyWkL"
+      "duration_ms": 208660,
+      "name": "Fight Club",
+      "url": "https://open.spotify.com/track/1xypHRh7KhczA7undaebbj"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -765,22 +961,6 @@
       "url": "https://open.spotify.com/track/4Rf0qGEGOtKTcWWIC3Fa69"
     },
     {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/3nLXHCGf1DPSLl05o26TYJ"
-      },
-      "artists": [
-        {
-          "name": "Retrouve",
-          "url": "https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb"
-        }
-      ],
-      "duration_ms": 227570,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/4ID69VKnJ3UGZiHr1t90sc"
-    },
-    {
       "added_at": "2025-08-08 04:00:42",
       "album": {
         "name": "My Wave",
@@ -799,26 +979,6 @@
       "duration_ms": 150229,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "All This Funk (Funk You Want)",
-        "url": "https://open.spotify.com/album/6mNjtyRXMsLNj1zohZI54z"
-      },
-      "artists": [
-        {
-          "name": "Hugo Godfroy",
-          "url": "https://open.spotify.com/artist/0AWbqZ44vP8SlNJrNOeLb0"
-        },
-        {
-          "name": "Austen Godfroy",
-          "url": "https://open.spotify.com/artist/7eIH0tM8qjeOwaUjk6O90L"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "All This Funk (Funk You Want)",
-      "url": "https://open.spotify.com/track/2iFkMro9CTblN8I1pZMDK6"
     },
     {
       "added_at": "2025-07-25 04:00:51",
@@ -927,22 +1087,6 @@
       "duration_ms": 185038,
       "name": "The Real Sucka",
       "url": "https://open.spotify.com/track/24mmhkshFtL77aVukzwdhW"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Rage EP",
-        "url": "https://open.spotify.com/album/6XzaEozbJcSAA8tPivklvO"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 310534,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/6374pbAgyFU4xde0wHC74D"
     },
     {
       "added_at": "2025-08-27 15:23:52",
@@ -1073,22 +1217,6 @@
       "url": "https://open.spotify.com/track/6KjzfHZd7KEAnUo3ViOl9p"
     },
     {
-      "added_at": "2025-07-04 04:00:28",
-      "album": {
-        "name": "hey! ep",
-        "url": "https://open.spotify.com/album/2ujYz2OUdGDeUjj0gwN9yW"
-      },
-      "artists": [
-        {
-          "name": "Nigel Hey",
-          "url": "https://open.spotify.com/artist/1cPQM2gu0JiwizeLoo9Edt"
-        }
-      ],
-      "duration_ms": 150405,
-      "name": "come on to me",
-      "url": "https://open.spotify.com/track/00mOV8pmVgAt7JDx9r5xuO"
-    },
-    {
       "added_at": "2025-07-14 14:30:24",
       "album": {
         "name": "Fixation EP",
@@ -1153,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0Tk1bGsHNJWVgsw6nK3cIi"
     },
     {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "Horizon EP",
-        "url": "https://open.spotify.com/album/41BpqwYxZ2hXmEdFCM2ipW"
-      },
-      "artists": [
-        {
-          "name": "Mati Astroza",
-          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
-        }
-      ],
-      "duration_ms": 208855,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3d14rp3BUZd96ZYEdigt80"
-    },
-    {
       "added_at": "2025-08-01 04:00:37",
       "album": {
         "name": "groovy sound",
@@ -1199,22 +1311,6 @@
       "duration_ms": 226714,
       "name": "The Saw That Broke The Camels Back",
       "url": "https://open.spotify.com/track/41z5UyRNqFVmmGheKvgeX5"
-    },
-    {
-      "added_at": "2025-06-29 03:44:32",
-      "album": {
-        "name": "Back At Ya",
-        "url": "https://open.spotify.com/album/6aQho6eImpDXTxfC8zoVhI"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Back At Ya",
-      "url": "https://open.spotify.com/track/02evyVGKt4jjuBAlgHzag5"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1355,26 +1451,6 @@
       "duration_ms": 180000,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/3L2kdsrjGJjuo0g8OukXZX"
-    },
-    {
-      "added_at": "2025-06-20 04:00:47",
-      "album": {
-        "name": "TOOLS 4 HARDWORKERS 003",
-        "url": "https://open.spotify.com/album/2pnyfQZDaMjZkxz3qvFn2V"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Nick Cave",
-          "url": "https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p"
-        }
-      ],
-      "duration_ms": 227664,
-      "name": "Tussi Blinder (feat. Nick Cave)",
-      "url": "https://open.spotify.com/track/54MofiLlcf5oEhBm0kAl33"
     },
     {
       "added_at": "2025-06-20 04:00:47",
@@ -1785,22 +1861,6 @@
       "url": "https://open.spotify.com/track/1Ibxp2maOqeuOFsqAatXxE"
     },
     {
-      "added_at": "2025-06-06 04:00:23",
-      "album": {
-        "name": "OG002",
-        "url": "https://open.spotify.com/album/2S3pPbkXkgTFbWeBDaSHEM"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        }
-      ],
-      "duration_ms": 205190,
-      "name": "Metronomic",
-      "url": "https://open.spotify.com/track/4ygGFDCAaMWFHSEzcRfX2Q"
-    },
-    {
       "added_at": "2025-05-16 04:00:35",
       "album": {
         "name": "The Party / bodyonbody",
@@ -1941,22 +2001,6 @@
       "url": "https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3"
     },
     {
-      "added_at": "2024-11-14 15:25:30",
-      "album": {
-        "name": "Put Your Hands Up For Cologne",
-        "url": "https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT"
-      },
-      "artists": [
-        {
-          "name": "J.K. Rollin",
-          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
-        }
-      ],
-      "duration_ms": 408941,
-      "name": "Lick It",
-      "url": "https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud"
-    },
-    {
       "added_at": "2025-01-07 21:49:06",
       "album": {
         "name": "Vintage Culture & Friends, Vol. 6 (Pt. II)",
@@ -1977,22 +2021,6 @@
       "url": "https://open.spotify.com/track/1HBiN4vgEq75YD0HFvhM7F"
     },
     {
-      "added_at": "2025-02-28 05:00:37",
-      "album": {
-        "name": "P Power",
-        "url": "https://open.spotify.com/album/5vgwUctmCAXT1JCQSRZ5kz"
-      },
-      "artists": [
-        {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 310794,
-      "name": "P Power",
-      "url": "https://open.spotify.com/track/2VVJAGlI3uYCE3yM1FnRsN"
-    },
-    {
       "added_at": "2025-01-17 05:00:50",
       "album": {
         "name": "Honey",
@@ -2007,26 +2035,6 @@
       "duration_ms": 194109,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Big Smoke's",
-        "url": "https://open.spotify.com/album/5uKIp5xDZLpo0bEGC8VygF"
-      },
-      "artists": [
-        {
-          "name": "AG Swifty",
-          "url": "https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2"
-        },
-        {
-          "name": "Brad Brunner",
-          "url": "https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL"
-        }
-      ],
-      "duration_ms": 141395,
-      "name": "Big Smoke's",
-      "url": "https://open.spotify.com/track/59UkpYdovZOPwPFxJ7QfKB"
     }
   ],
   "unique_name": "Deep & Minimal",

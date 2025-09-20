@@ -1305,6 +1305,28 @@
     },
     {
       "album": {
+        "name": "Ee Dhooram",
+        "url": "https://open.spotify.com/album/4WHiD2ROlMapOF9yDKejUs"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gurukula",
+          "url": "https://open.spotify.com/artist/1XFT4IBVHDkk3Q6N83c0V7"
+        },
+        {
+          "name": "SS Vardhan",
+          "url": "https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193246,
+      "name": "Ee Dhooram",
+      "url": "https://open.spotify.com/track/05xRro06AoS24cKRabrPMH"
+    },
+    {
+      "album": {
         "name": "Ee Maaye Prema",
         "url": "https://open.spotify.com/album/7z6UZcpBFZvpEiJqHfUQAH"
       },

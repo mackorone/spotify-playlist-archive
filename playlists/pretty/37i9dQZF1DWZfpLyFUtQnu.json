@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 105820,
+  "num_followers": 105849,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "L'Heure D'Et\u00e9",
-        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Toi mon amour",
-      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Femmes, indiscr\u00e9tion, blasph\u00e8me",
         "url": "https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 263066,
       "name": "Femmes... Je vous aime",
       "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "L'Heure D'Et\u00e9",
+        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Bleu Blanc Vert",
+        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Voil\u00e0 c'est fini",
+      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Bleu Blanc Vert",
-        "url": "https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE"
-      },
-      "artists": [
-        {
-          "name": "Jean-Louis Aubert",
-          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Voil\u00e0 c'est fini",
-      "url": "https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "On fait comme si",
-        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 251625,
-      "name": "On fait comme si",
-      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Petite Amie (Edition D\u00e9lice)",
         "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 186026,
       "name": "Manque d'Amour",
       "url": "https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "On fait comme si",
+        "url": "https://open.spotify.com/album/0UpDT5u1kYDZV21UBQctll"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 251625,
+      "name": "On fait comme si",
+      "url": "https://open.spotify.com/track/0QaVAoRnez6qMlLPqbB4fd"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Les femmes id\u00e9ales",
-        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "Nous deux contre le reste du monde - Version Acoustique",
-      "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "Erza Muqoli",
         "url": "https://open.spotify.com/album/4MYZ8sm7algdZmjef4Bp4g"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 287037,
       "name": "Dommage",
       "url": "https://open.spotify.com/track/0TdHMmYqHucjNryME4bfKe"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Les femmes id\u00e9ales",
+        "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "Nous deux contre le reste du monde - Version Acoustique",
+      "url": "https://open.spotify.com/track/7hwdkcVXdn0NjMJHWFtVl8"
     },
     {
       "added_at": "2024-10-03 14:22:43",

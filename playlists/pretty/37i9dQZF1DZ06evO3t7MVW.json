@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 91028,
+  "num_followers": 91060,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAADL1WdMQIfZccFji0Y6bl1W",
+  "snapshot_id": "aMtLgAAAAACHGeXz6LAh+qvdRQR1Oxkt",
   "tracks": [
     {
       "added_at": null,
@@ -346,11 +346,15 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 294730,
-      "name": "Above the Storm",
-      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
+      "duration_ms": 238767,
+      "name": "Summertime (feat. Citizen Cope)",
+      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
     },
     {
       "added_at": null,
@@ -418,15 +422,11 @@
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 238767,
-      "name": "Summertime (feat. Citizen Cope)",
-      "url": "https://open.spotify.com/track/2WbZZGXlVWHEfrCG9mC0UV"
+      "duration_ms": 294730,
+      "name": "Above the Storm",
+      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feel It All Around",
+        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
+      },
+      "artists": [
+        {
+          "name": "Sensamotion",
+          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 194225,
+      "name": "Show Love (with Stick Figure)",
+      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Me Easy",
         "url": "https://open.spotify.com/album/6gzFhQHXfMpwha4ZvNBngj"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 170016,
       "name": "Love Me Easy",
       "url": "https://open.spotify.com/track/11Y4VVU6MTBtuSO116rsfG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel It All Around",
-        "url": "https://open.spotify.com/album/02qlYc4mrjNMFFQvOkrS01"
-      },
-      "artists": [
-        {
-          "name": "Sensamotion",
-          "url": "https://open.spotify.com/artist/58hWUFxkzmX6sU5OMsN2Pm"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 194225,
-      "name": "Show Love (with Stick Figure)",
-      "url": "https://open.spotify.com/track/40duW4CYbkAvHPtb19eX03"
     },
     {
       "added_at": null,

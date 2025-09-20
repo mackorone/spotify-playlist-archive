@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "ATM",
+        "url": "https://open.spotify.com/album/4I65kECMNWuvQPbzm1N3Hi"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/1VjLo8p2kIz3gsdgdIrsit"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/246eXjbl54SNgcRACS4Ezb"
       },
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 203872,
       "name": "Wherever You Are - Radio Mix",
       "url": "https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE"

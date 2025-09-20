@@ -1,13 +1,29 @@
 {
   "description": "All live, all blues. Cover: Samantha Fish",
-  "num_followers": 195344,
+  "num_followers": 195388,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J",
+  "snapshot_id": "AAAAAPjtQmNSRCp6iAvvGwEJ3zMxWjSH",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:12",
+      "album": {
+        "name": "Peace Machine (Live in L.a. at The Baked Potato)",
+        "url": "https://open.spotify.com/album/6gXu4Xk2P6CfCGJLu54t9w"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 570529,
+      "name": "Peace Machine (Live in L.a. at The Baked Potato)",
+      "url": "https://open.spotify.com/track/01vW1dzOkXaISWwBe0MOsx"
+    },
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
@@ -991,22 +1007,6 @@
       "duration_ms": 544640,
       "name": "Touch My Blues Away - Live",
       "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Scorched Earth, Vol.1 (Live)",
-        "url": "https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3"
-      },
-      "artists": [
-        {
-          "name": "Philip Sayce",
-          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
-        }
-      ],
-      "duration_ms": 382741,
-      "name": "Steamroller / Powerful Thing - Live",
-      "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
     },
     {
       "added_at": "2020-10-30 17:47:12",

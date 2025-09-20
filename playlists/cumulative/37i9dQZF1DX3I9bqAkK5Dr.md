@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-404 songs - 1 day 0 hr 12 min
+405 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Dosthi](https://open.spotify.com/track/4ds6oPJGfWaDcTuEAvjAWZ) | [PVR Raja](https://open.spotify.com/artist/6tz2nw9kPvbVmlYZb9XLvV), [Tanvi Manjula Ghantasala](https://open.spotify.com/artist/4m1ehuNqR59FNh5ZEw0pcn), [Thaman Sai Jakkam](https://open.spotify.com/artist/2HsQl6VisUVm3wNAmH2skl), [Prabhath](https://open.spotify.com/artist/2289Y7PfjWzJMtcQ7G4LSk) | [Dosthi](https://open.spotify.com/album/6Y92q7B2qqgQQyRTHAm1bO) | 4:22 | 2023-07-24 | 2023-09-21 |
 | [Drunkard On The Road](https://open.spotify.com/track/7t7nXXkHjaReVvr9plCax3) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Drunkard On The Road](https://open.spotify.com/album/5FVbWIhlp7LSJz08VT08PS) | 2:26 | 2023-02-15 | 2023-05-23 |
 | [Edo Bhayam](https://open.spotify.com/track/6P2waqwcPRbHxsZqmzrSkk) | [Snigdha Sharma](https://open.spotify.com/artist/5UvSpmSgcPlDX49LTyvdfl) | [Edo Bhayam](https://open.spotify.com/album/5ptAuXYOstlXoGthcTkpeM) | 1:57 | 2024-10-07 | 2025-01-31 |
+| [Ee Dhooram](https://open.spotify.com/track/05xRro06AoS24cKRabrPMH) | [Nikhita Gurukula](https://open.spotify.com/artist/1XFT4IBVHDkk3Q6N83c0V7), [SS Vardhan](https://open.spotify.com/artist/0KoZrlePZVOyfMntY1RftL) | [Ee Dhooram](https://open.spotify.com/album/4WHiD2ROlMapOF9yDKejUs) | 3:13 | 2025-09-19 |  |
 | [Ee Maaye Prema](https://open.spotify.com/track/76GLjMzjpF1H1eEXCCa5qf) | [Suman Vankara](https://open.spotify.com/artist/2eOybWItY2efNjJWY7QQjS), [Riya Birra](https://open.spotify.com/artist/06zzSAM2zmpuOeLPANUrGu) | [Ee Maaye Prema](https://open.spotify.com/album/7z6UZcpBFZvpEiJqHfUQAH) | 3:20 | 2024-01-03 | 2024-05-26 |
 | [Ee Parichayam](https://open.spotify.com/track/4kiMKHxNaw8oiH1vJSFXZT) | [Praneeth Muzic](https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j), [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l), [Lakshmi Durga](https://open.spotify.com/artist/4LUU58BaoLm4snXuQDE1g1) | [Ee Parichayam](https://open.spotify.com/album/4BEJzmCEMiuazcDu2TFiSK) | 3:40 | 2024-02-14 |  |
 | [Ee Reyi Paadindi](https://open.spotify.com/track/53draxwLuyB3NzfCDmIRBv) | [Tarun Donipati](https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI) | [Ee Reyi Paadindi](https://open.spotify.com/album/5z0MyArgL7EF3WgGr9JAKf) | 5:46 | 2024-01-02 | 2024-02-15 |

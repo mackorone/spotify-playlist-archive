@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Tehillah",
+        "url": "https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255735,
+      "name": "Give Me Chance",
+      "url": "https://open.spotify.com/track/0DEucBhwAeQuvFKwHMJvda"
+    },
+    {
+      "album": {
         "name": "Give Me Chance",
         "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
       },
@@ -450,7 +472,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 255735,
       "name": "Give Me Chance",
       "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-11",
+      "date_removed": null,
       "duration_ms": 315212,
       "name": "Not The Same",
       "url": "https://open.spotify.com/track/66tUEMwPlkZrFmhlxByWX0"
@@ -1220,7 +1242,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 312980,
       "name": "Only You Satisfy",
       "url": "https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr"

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
-  "num_followers": 17729,
+  "num_followers": 17731,
   "original_name": "Viral 50 - Costa Rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MF91oAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MGDHIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Predador de Perereca",
         "url": "https://open.spotify.com/album/7p0RIs3cKwogFdhQduJMDM"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/6yDC6vwDgJ47HMhUFaQQ3v"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Himno al 15 de Setiembre",
         "url": "https://open.spotify.com/album/0EZU9bcS79CB8pOLH10F0z"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/2yLyUPfZ8imKPbT4XLG8ht"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Inspiraciones Costarricenses",
         "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/4WJE2pCFVd1KO4qDmQKda4"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Himnos Nacionales De Latino America",
         "url": "https://open.spotify.com/album/4UGfXKTW4BmEjk24ZiNT1Q"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3adJjH5yb0dXQjo5v8Nhvg"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Oro Verde",
         "url": "https://open.spotify.com/album/43rrTJvDFgmDu7cPjp5Ct8"
@@ -109,23 +109,7 @@
       "url": "https://open.spotify.com/track/2IiaDTvoNP77KO4sUEBfdX"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "Linda Costa Rica",
-      "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -161,7 +145,23 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "Linda Costa Rica",
+      "url": "https://open.spotify.com/track/5uA9Qx6ZmjLoJbThB4qBhU"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Patri\u00f3tica",
         "url": "https://open.spotify.com/album/5MAsFTgUPvbPV7KCNEmUjw"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/46jTNkvDyoBofPkt84MLFO"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/0a6lIvAiYy7yHzBC2zLRCy"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -209,7 +209,23 @@
       "url": "https://open.spotify.com/track/0aL5NTTiEfvOZjzbiijmA0"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Quiero +",
         "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
@@ -225,7 +241,23 @@
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Saludo a la Bandera",
+        "url": "https://open.spotify.com/album/1zZMDWtZkqesyMtV5Y4d0N"
+      },
+      "artists": [
+        {
+          "name": "Himnos y Cantos Patrioticos de CR",
+          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
+        }
+      ],
+      "duration_ms": 128809,
+      "name": "Saludo a la Bandera",
+      "url": "https://open.spotify.com/track/28oh511BxfHdYHXxJ5GSL1"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Eta \u00d1ema",
         "url": "https://open.spotify.com/album/1rIeegSoj3NSpSku2WfiyZ"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/3CwMEOwdKxfa6c5AgnumQS"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Encuentro",
         "url": "https://open.spotify.com/album/6LFocODxqxcp26CzAphOL9"
@@ -261,39 +293,7 @@
       "url": "https://open.spotify.com/track/6UHQmxFSzLnzuUT1FEMcvn"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Saludo a la Bandera",
-        "url": "https://open.spotify.com/album/1zZMDWtZkqesyMtV5Y4d0N"
-      },
-      "artists": [
-        {
-          "name": "Himnos y Cantos Patrioticos de CR",
-          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
-        }
-      ],
-      "duration_ms": 128809,
-      "name": "Saludo a la Bandera",
-      "url": "https://open.spotify.com/track/28oh511BxfHdYHXxJ5GSL1"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "COLOR OUTSIDE THE LINES",
         "url": "https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/6OWWZtNQORY1McaZmOrwhc"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "A Guevo A Guevo",
         "url": "https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -349,23 +349,23 @@
       "url": "https://open.spotify.com/track/0XJdkacqMD1gR0c4HTSdCF"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 171466,
-      "name": "El Torito",
-      "url": "https://open.spotify.com/track/0xAcXqA1HFUz8AtxsXBp4n"
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Mu\u00f1ekytta",
         "url": "https://open.spotify.com/album/3bJmIiQ0IcEwZ46bvWg4Ug"
@@ -389,39 +389,7 @@
       "url": "https://open.spotify.com/track/2W0YAiP1yDsE0Tlc0h9MNm"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "EVE: ROMANCE",
-        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Scott and Zelda",
-      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "CIBELES",
-        "url": "https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Ramos",
-          "url": "https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4"
-        }
-      ],
-      "duration_ms": 165542,
-      "name": "CIBELES",
-      "url": "https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -437,7 +405,7 @@
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Inspiraciones Costarricenses",
         "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
@@ -453,7 +421,7 @@
       "url": "https://open.spotify.com/track/5hktG6nFAQ6eoE2vWVflT9"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Inspiraciones Costarricenses",
         "url": "https://open.spotify.com/album/4aBUd0qfjJMkmQxpHFbfpL"
@@ -469,75 +437,7 @@
       "url": "https://open.spotify.com/track/6eySaS0IEKtud6e8jv5OKj"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-        "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
-      },
-      "artists": [
-        {
-          "name": "AiNA THE END",
-          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
-        }
-      ],
-      "duration_ms": 197668,
-      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
-      "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Diana al 15 de Septiembre",
-        "url": "https://open.spotify.com/album/6dgqynnhky0V008RsH58Rr"
-      },
-      "artists": [
-        {
-          "name": "Himnos y Cantos Patrioticos de CR",
-          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
-        }
-      ],
-      "duration_ms": 68209,
-      "name": "Diana al 15 de Septiembre",
-      "url": "https://open.spotify.com/track/5rVtp33gpqqOez1IMr8FS2"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Hunting Soul (from \"Dan Da Dan\" Season 2 Soundtrack)",
         "url": "https://open.spotify.com/album/3QkZZnO3Sr4GPqovo1FrKI"
@@ -553,7 +453,23 @@
       "url": "https://open.spotify.com/track/3xavvpT54qq3TZJLNjBn7Z"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Diana al 15 de Septiembre",
+        "url": "https://open.spotify.com/album/6dgqynnhky0V008RsH58Rr"
+      },
+      "artists": [
+        {
+          "name": "Himnos y Cantos Patrioticos de CR",
+          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
+        }
+      ],
+      "duration_ms": 68209,
+      "name": "Diana al 15 de Septiembre",
+      "url": "https://open.spotify.com/track/5rVtp33gpqqOez1IMr8FS2"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Ba Ba Bad Remix",
         "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
@@ -581,7 +497,39 @@
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+        "url": "https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu"
+      },
+      "artists": [
+        {
+          "name": "AiNA THE END",
+          "url": "https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC"
+        }
+      ],
+      "duration_ms": 197668,
+      "name": "\u9769\u547d\u9053\u4e2d - On The Way",
+      "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "EVE: ROMANCE",
+        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Scott and Zelda",
+      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "PURA FKN DOBLE P",
         "url": "https://open.spotify.com/album/3V7rjeNTywpRLgW8s8sfra"
@@ -613,7 +561,79 @@
       "url": "https://open.spotify.com/track/0IHckrhgYzoi4coWpIi5Cv"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "El Torito",
+      "url": "https://open.spotify.com/track/0xAcXqA1HFUz8AtxsXBp4n"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Penagos Villegas",
+          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Soy Tico",
+      "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -629,7 +649,23 @@
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 182576,
+      "name": "Nobody\u2019s Son",
+      "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -661,7 +697,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -672,84 +708,12 @@
           "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
         }
       ],
-      "duration_ms": 181293,
-      "name": "Soy Tico",
-      "url": "https://open.spotify.com/track/6jOe3C5QBhvHG0boQglw8q"
+      "duration_ms": 219413,
+      "name": "Ca\u00f1a Dulce",
+      "url": "https://open.spotify.com/track/2k5mRTFTXfukRbKgx2IXKK"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 182576,
-      "name": "Nobody\u2019s Son",
-      "url": "https://open.spotify.com/track/4SRShYMtFIGgnOU7iBicMH"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "QLOO*",
-        "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
-        }
-      ],
-      "duration_ms": 148915,
-      "name": "QLOO*",
-      "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Penagos Villegas",
-          "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "As\u00ed Es Mi Tierra",
-      "url": "https://open.spotify.com/track/2AuCMuyAcYzIIvWqyHD4yC"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Gyal Guayna De Espalda",
         "url": "https://open.spotify.com/album/2laDwavMFkxIvOIwnZQwae"
@@ -769,23 +733,7 @@
       "url": "https://open.spotify.com/track/3DNTc0lLlNLhQtQa56UAwe"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Costa Rica Pura Vida, Vol. 1",
-        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
-      },
-      "artists": [
-        {
-          "name": "Fundaci\u00f3n Tico de Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/2ycuHan5vaDqkncNmwM8Yl"
-        }
-      ],
-      "duration_ms": 299773,
-      "name": "Luna Liberiana",
-      "url": "https://open.spotify.com/track/2K4kelIlGaady1PXWvs6N8"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "Costa Rica Pura Vida, Vol. 1",
         "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
@@ -796,36 +744,12 @@
           "url": "https://open.spotify.com/artist/0uvGLQ5Z4iqMoCe1Y1sqec"
         }
       ],
-      "duration_ms": 219413,
-      "name": "Ca\u00f1a Dulce",
-      "url": "https://open.spotify.com/track/2k5mRTFTXfukRbKgx2IXKK"
+      "duration_ms": 200933,
+      "name": "As\u00ed Es Mi Tierra",
+      "url": "https://open.spotify.com/track/2AuCMuyAcYzIIvWqyHD4yC"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "YO y T\u00da",
-        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
-      },
-      "artists": [
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 198153,
-      "name": "YO y T\u00da",
-      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "2 pa 1",
         "url": "https://open.spotify.com/album/7skQPB9PUxafPYhjfOEaQP"
@@ -849,7 +773,95 @@
       "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "QLOO*",
+        "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "duration_ms": 148915,
+      "name": "QLOO*",
+      "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Costa Rica Pura Vida, Vol. 1",
+        "url": "https://open.spotify.com/album/0IYKfRWDBcQkbLjYosIqcN"
+      },
+      "artists": [
+        {
+          "name": "Fundaci\u00f3n Tico de Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/2ycuHan5vaDqkncNmwM8Yl"
+        }
+      ],
+      "duration_ms": 299773,
+      "name": "Luna Liberiana",
+      "url": "https://open.spotify.com/track/2K4kelIlGaady1PXWvs6N8"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "YO y T\u00da",
+        "url": "https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 198153,
+      "name": "YO y T\u00da",
+      "url": "https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Gracie",
+        "url": "https://open.spotify.com/album/5qmY0iGeEF1ZAQWbfqOI87"
+      },
+      "artists": [
+        {
+          "name": "Kendrickhz",
+          "url": "https://open.spotify.com/artist/7HJs9YB7qXF225G40CIltZ"
+        },
+        {
+          "name": "Kbchappo",
+          "url": "https://open.spotify.com/artist/3w75nGmfOt1fpCAOPo2sRi"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        }
+      ],
+      "duration_ms": 253793,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/0io6jjo0GxUiBrYLaYzXVp"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "El Brinco del Sapo",
         "url": "https://open.spotify.com/album/3c8HIvI6Preld5FUC5DSwq"
@@ -865,23 +877,7 @@
       "url": "https://open.spotify.com/track/6q3dd5I0QZGv56mjtyDkBy"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Oh Costa Rica",
-        "url": "https://open.spotify.com/album/5ipX0l2GRoPLEmucM0AtaL"
-      },
-      "artists": [
-        {
-          "name": "Himnos y Cantos Patrioticos de CR",
-          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "\u00a1Ooh Costa Rica! - Retro Versi\u00f3n",
-      "url": "https://open.spotify.com/track/6RdJwRj8oEzFnoGxNJlSJ2"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "DISIMULA",
         "url": "https://open.spotify.com/album/6MqIEcfgmzFJ9kwfBmXyqm"
@@ -909,7 +905,51 @@
       "url": "https://open.spotify.com/track/4vkPlCLqt5rjfS1qhCcr51"
     },
     {
-      "added_at": "2025-09-18 21:09:43",
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Clasicos 2008-2010",
+        "url": "https://open.spotify.com/album/3kVQAMAPgkUOkwpoaT2f0P"
+      },
+      "artists": [
+        {
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/0eet2VBconGGtNYJ0CBgHu"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        },
+        {
+          "name": "Randy Nota Loca",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Fuera del Planeta - Remix",
+      "url": "https://open.spotify.com/track/56innU0z9irTs1uEVbbrBA"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
+      "album": {
+        "name": "Oh Costa Rica",
+        "url": "https://open.spotify.com/album/5ipX0l2GRoPLEmucM0AtaL"
+      },
+      "artists": [
+        {
+          "name": "Himnos y Cantos Patrioticos de CR",
+          "url": "https://open.spotify.com/artist/1qMwiaWrUilOs9Z2dQqnET"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "\u00a1Ooh Costa Rica! - Retro Versi\u00f3n",
+      "url": "https://open.spotify.com/track/6RdJwRj8oEzFnoGxNJlSJ2"
+    },
+    {
+      "added_at": "2025-09-19 16:23:22",
       "album": {
         "name": "BAIA",
         "url": "https://open.spotify.com/album/2XbUTSsqAwkmZ1UEEZ91KW"
@@ -923,22 +963,6 @@
       "duration_ms": 168000,
       "name": "BAIA",
       "url": "https://open.spotify.com/track/4Hd6t7AZtpP3xIxwgFP0OL"
-    },
-    {
-      "added_at": "2025-09-18 21:09:43",
-      "album": {
-        "name": "Tierra Seca",
-        "url": "https://open.spotify.com/album/5g5eOSMwM9KuS81Qw6vofY"
-      },
-      "artists": [
-        {
-          "name": "Max Goldenberg, Odil\u00f3n Ju\u00e1rez & Malpa\u00eds",
-          "url": "https://open.spotify.com/artist/20ZpCUGljWTpYTfwLi8N1B"
-        }
-      ],
-      "duration_ms": 126493,
-      "name": "La Coyolera",
-      "url": "https://open.spotify.com/track/55wneaFdiU7wGpPxiaRksA"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

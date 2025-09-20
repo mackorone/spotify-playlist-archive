@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 319221,
+  "num_followers": 319267,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "DEGENERATE",
-        "url": "https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "DEGENERATE",
-      "url": "https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "new way out",
         "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 202909,
       "name": "new way out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "DEGENERATE",
+        "url": "https://open.spotify.com/album/4msDecysbB1ZE7hjrbrnib"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "DEGENERATE",
+      "url": "https://open.spotify.com/track/4xzPvogI6M8kJ1kPr7IrkO"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Monochrome",
-        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 237354,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Over The Threshold",
         "url": "https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 447297,
       "name": "Black Brick",
       "url": "https://open.spotify.com/track/63OqMoUP4Racq9holZo6dU"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 237354,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Kings Today",
+        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
+      },
+      "artists": [
+        {
+          "name": "Sicksense",
+          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
+        },
+        {
+          "name": "Vicky Psarakis",
+          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
+        }
+      ],
+      "duration_ms": 235954,
+      "name": "Kings Today",
+      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Touch the Corpse",
         "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 197600,
       "name": "Fuck What You Heard",
       "url": "https://open.spotify.com/track/5WjbME5ZH3917e5KbF8QMS"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Kings Today",
-        "url": "https://open.spotify.com/album/741N4FVAoLLzP11TWUhShI"
-      },
-      "artists": [
-        {
-          "name": "Sicksense",
-          "url": "https://open.spotify.com/artist/7bVyQW5pkc3aF5Rq03ZQxc"
-        },
-        {
-          "name": "Vicky Psarakis",
-          "url": "https://open.spotify.com/artist/6wgfKETz8TigbBqevjeAwZ"
-        }
-      ],
-      "duration_ms": 235954,
-      "name": "Kings Today",
-      "url": "https://open.spotify.com/track/1uCNIM6XKraHMPUsWXYzCq"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "open water",
-        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 126912,
-      "name": "open water",
-      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Spiritual Architecture",
         "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 562515,
       "name": "Spiritual Architecture",
       "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "open water",
+        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "duration_ms": 126912,
+      "name": "open water",
+      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
     },
     {
       "added_at": "2024-07-19 10:51:43",

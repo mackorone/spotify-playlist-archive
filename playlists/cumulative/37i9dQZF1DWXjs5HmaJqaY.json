@@ -3151,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Kontakt",
+        "url": "https://open.spotify.com/album/0ZmKxqD05aLJq3j6rJ4h59"
+      },
+      "artists": [
+        {
+          "name": "Julian Wassermann",
+          "url": "https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Kontakt",
+      "url": "https://open.spotify.com/track/0o5WXczVKxsFp2hWv8CcJz"
+    },
+    {
+      "album": {
         "name": "Momentum",
         "url": "https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB"
       },
@@ -6678,7 +6696,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 238997,
       "name": "Ya La La",
       "url": "https://open.spotify.com/track/2vktj4jvbrtnXTk6IdZ2CO"

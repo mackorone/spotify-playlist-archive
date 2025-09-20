@@ -2,9 +2,9 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Jassin
+> Indie, Pop und Rap mit deutschen Texten\. Cover: FREDRIK
 
-1,408 songs - 2 day 18 hr 20 min
+1,408 songs - 2 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [all in](https://open.spotify.com/track/1sq0AKToxP40kpibgVZW4j) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [all in](https://open.spotify.com/album/1YOgCIpMjKOyLRFgrnSzst) | 2:14 | 2025-01-30 | 2025-02-21 |
 | [Alle Bäche](https://open.spotify.com/track/4cw7LW2Pn2zyei1WEoTvKX) | [TROVA](https://open.spotify.com/artist/1XRu89FDdaGMmpZPLxrmWc), [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [Alle Bäche](https://open.spotify.com/album/4DcOZ3TxWjyqq1u9AWYssl) | 3:02 | 2025-04-10 | 2025-07-11 |
 | [Alle Farben](https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Auch ein Atze muss mal weinen](https://open.spotify.com/album/2lY9XiTel43ofsXz4qsHI5) | 1:55 | 2023-07-13 | 2023-11-03 |
+| [Alle meine Lieder](https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Verlernt zu fühlen](https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN) | 2:56 | 2025-09-18 |  |
 | [alle traurig](https://open.spotify.com/track/2fKPXu3OIKmpfIC5R7rrgB) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [alle traurig](https://open.spotify.com/album/4ekiYwc6DBHlwysZT3IlBh) | 3:01 | 2024-02-01 | 2024-03-22 |
 | [Allein](https://open.spotify.com/track/0GULOBrz0g7XwI39xjl93N) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Allein](https://open.spotify.com/album/1Q8LiMZVYTq0KhRpx8OB1o) | 3:04 | 2024-05-02 | 2024-08-09 |
 | [allein mit dir](https://open.spotify.com/track/57FkG1a3mePzWzHie8WlRB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [allein mit dir](https://open.spotify.com/album/657m1yXZ7fJA3K4P2hhi0x) | 2:09 | 2024-12-19 | 2025-02-21 |
@@ -1197,7 +1198,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 5](https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

@@ -2,7 +2,7 @@
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Cafuné
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Thundercat
 
 3,042 songs - 6 day 22 hr 16 min
 

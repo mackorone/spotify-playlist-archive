@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 34911,
+  "num_followers": 34918,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAACzD4h0HVmB9PNdh+E6zQCr",
+  "snapshot_id": "aMtLgAAAAABvEEymNykNf4PZGyi4fSbN",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 177015,
-      "name": "Billets Doux",
-      "url": "https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv"
+      "duration_ms": 211767,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/2OBta0X7oBpvOwu2saLudm"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 211767,
-      "name": "St. Louis Blues",
-      "url": "https://open.spotify.com/track/2OBta0X7oBpvOwu2saLudm"
+      "duration_ms": 177015,
+      "name": "Billets Doux",
+      "url": "https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limitless Jazz, Vol. 32",
-        "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangology (feat. St\u00e9phane Grappelli)",
         "url": "https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 165533,
       "name": "Djangology (feat. St\u00e9phane Grappelli) - Remastered 2002",
       "url": "https://open.spotify.com/track/4RFwUXbps30lKnOmJ8BrQh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 32",
+        "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
     },
     {
       "added_at": null,
@@ -719,6 +719,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Farewell Blues",
+      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol.2 / 1936 - 1937",
+        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Place de Brouckere",
+      "url": "https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -751,98 +807,6 @@
       "duration_ms": 185482,
       "name": "September Song",
       "url": "https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol7 / 1937 - 1938",
-        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Farewell Blues",
-      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Place de Brouckere",
-      "url": "https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol.2 / 1936 - 1937",
-        "url": "https://open.spotify.com/album/2vaQ3Cbh4aQLgavLczHZq2"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Nagasaki",
-      "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Django: Radio Recordings 1947",
-        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Eug\u00e8ne V\u00e9es",
-          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
-        },
-        {
-          "name": "Emmanuel Soudieux",
-          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
-        },
-        {
-          "name": "Andr\u00e9 Jourdan",
-          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
-        },
-        {
-          "name": "G\u00e9rard L\u00e9v\u00e9que",
-          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
-        },
-        {
-          "name": "Fred Ermelin",
-          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
-        }
-      ],
-      "duration_ms": 172993,
-      "name": "I Can't Give You Anything but Love",
-      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
     },
     {
       "added_at": null,
@@ -923,8 +887,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol.12 / 1940 - 1941",
-        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
+        "name": "Electric Django: Radio Recordings 1947",
+        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
       "artists": [
         {
@@ -932,13 +896,29 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         },
         {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+          "name": "Eug\u00e8ne V\u00e9es",
+          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
+        },
+        {
+          "name": "Emmanuel Soudieux",
+          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
+        },
+        {
+          "name": "Andr\u00e9 Jourdan",
+          "url": "https://open.spotify.com/artist/2sjYUxqrgEigSXEVd121GO"
+        },
+        {
+          "name": "G\u00e9rard L\u00e9v\u00e9que",
+          "url": "https://open.spotify.com/artist/6SRezP01JXsVi5SrOsOcjB"
+        },
+        {
+          "name": "Fred Ermelin",
+          "url": "https://open.spotify.com/artist/4ecpqdGuEdsVGC5NVXxITi"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Swing 42",
-      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
+      "duration_ms": 172993,
+      "name": "I Can't Give You Anything but Love",
+      "url": "https://open.spotify.com/track/11Y20KEeOjIkwGgcVhjovt"
     },
     {
       "added_at": null,
@@ -959,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol.12 / 1940 - 1941",
+        "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Swing 42",
+      "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Indispensible Django Reinhardt (1949-1950)",
         "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
       },
@@ -971,30 +971,6 @@
       "duration_ms": 259306,
       "name": "Beyond The Sea (La Mer)",
       "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
-        "url": "https://open.spotify.com/album/7ai0EzQi5ReAkCiawrwMTU"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "France Hot Club Quintet",
-          "url": "https://open.spotify.com/artist/3mDY4EZidFFjrPpP6usp2p"
-        }
-      ],
-      "duration_ms": 148991,
-      "name": "I Saw Stars",
-      "url": "https://open.spotify.com/track/5A4342GD1Ld9sduE5JXCKa"
     },
     {
       "added_at": null,
@@ -1031,6 +1007,30 @@
       "duration_ms": 181009,
       "name": "Viper's Dream",
       "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "European Swing Giants, Vol.6: Django Reinhardt \u2013The Ultraphone Sessions (Paris 1934-1935) and Rhythme (Brussels 1942)",
+        "url": "https://open.spotify.com/album/7ai0EzQi5ReAkCiawrwMTU"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "France Hot Club Quintet",
+          "url": "https://open.spotify.com/artist/3mDY4EZidFFjrPpP6usp2p"
+        }
+      ],
+      "duration_ms": 148991,
+      "name": "I Saw Stars",
+      "url": "https://open.spotify.com/track/5A4342GD1Ld9sduE5JXCKa"
     },
     {
       "added_at": null,

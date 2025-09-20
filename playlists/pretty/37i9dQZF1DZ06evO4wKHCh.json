@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 11307,
+  "num_followers": 11310,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAA8mHpdS1a5uj3QAH4gane2",
+  "snapshot_id": "aMtLgAAAAAALI6beYj0mNInjKqF0jBS5",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hold On Me (feat. Emei)",
         "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 149569,
       "name": "Hold On Me (feat. Emei)",
       "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
     },
     {
       "added_at": null,

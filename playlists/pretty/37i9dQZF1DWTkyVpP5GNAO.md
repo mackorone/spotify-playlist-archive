@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: MISSION MUSICA
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,194 likes - 75 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,251 likes - 75 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

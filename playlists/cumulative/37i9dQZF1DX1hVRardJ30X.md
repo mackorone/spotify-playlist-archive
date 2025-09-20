@@ -2,7 +2,7 @@
 
 ### [All New Latin](https://open.spotify.com/playlist/37i9dQZF1DX1hVRardJ30X)
 
-> New music by Kapo & Camilo, Rauw Alejandro, Eladio Carrion and more! Updates every Friday.
+> New music by Mon Laferte & NATHY PELUSO, Junior H,  Alejandro Sanz & Rels B and more! Updates every Friday.
 
 10,474 songs - 22 day 17 hr 54 min
 

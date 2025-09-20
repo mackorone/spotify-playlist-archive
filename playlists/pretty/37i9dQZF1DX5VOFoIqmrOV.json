@@ -1,12 +1,12 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 430994,
+  "num_followers": 431213,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHfUI5yCnr+tjAqBpgY5jRnniK0n",
+  "snapshot_id": "AAAAAJIPcoM8af9jOdjrWU8UCDkdz79k",
   "tracks": [
     {
       "added_at": "2025-01-20 06:56:34",
@@ -195,6 +195,26 @@
       "duration_ms": 262488,
       "name": "Seethakaalam",
       "url": "https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk"
+    },
+    {
+      "added_at": "2025-09-19 08:40:31",
+      "album": {
+        "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+        "url": "https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 267682,
+      "name": "Poolamme Pilla (From \"HanuMan\") [Telugu]",
+      "url": "https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -1499,30 +1519,6 @@
       "duration_ms": 267571,
       "name": "Chali Gaali Chuudduu",
       "url": "https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Acharya",
-        "url": "https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Harika Narayan",
-          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
-        },
-        {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
-        }
-      ],
-      "duration_ms": 247660,
-      "name": "Laahe Laahe",
-      "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
     }
   ],
   "unique_name": "Tollywood Pearls",

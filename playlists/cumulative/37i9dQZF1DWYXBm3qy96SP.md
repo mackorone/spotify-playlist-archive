@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Aerosmith & YUNGBLUD
 
-1,702 songs - 4 day 2 hr 25 min
+1,703 songs - 4 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [flashback](https://open.spotify.com/track/7AKbUJwfLdQYOAyoDKDnEI) | [ULTRA](https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS) | [flashback](https://open.spotify.com/album/38lEvVBTBgrTH3ZQLpEl9q) | 3:28 | 2023-10-12 | 2023-10-20 |
 | [FLESH AND BONE](https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [DEATH CULT \- 8323](https://open.spotify.com/album/6E5Nnp3cPI7gGTIW9XJpqr) | 3:18 | 2023-12-14 | 2023-12-22 |
 | [Flow](https://open.spotify.com/track/2NB6ACcaEct5ha069bXw7P) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Flow](https://open.spotify.com/album/5ALiFefXq1BQLwVG7CVJwq) | 3:53 | 2023-06-30 | 2023-07-14 |
+| [FMK!](https://open.spotify.com/track/7lX3ylz8nhiM7yBvz6CO0x) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [FMK!](https://open.spotify.com/album/7fu0iV33NKf7AcVkAyE4VZ) | 2:29 | 2025-09-18 |  |
 | [Foam](https://open.spotify.com/track/4h6AjmvszVvlSLg0vwJJ46) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Foam](https://open.spotify.com/album/4Rmw7d4SsYHn1U5SosFCOI) | 3:05 | 2024-02-15 | 2024-02-17 |
 | [Foam](https://open.spotify.com/track/4lfuRRTLD4UFkSVVArVVaK) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/64vC3GWaE8ryklQD2fNosa) | 3:05 | 2024-02-15 | 2025-07-04 |
 | [Foreign Land](https://open.spotify.com/track/2CxhLkidVJI6pufYJuiBGd) | [Teenage Fanclub](https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW) | [Foreign Land](https://open.spotify.com/album/2Lkz0vxOzbglSgoFbhmpyc) | 3:54 | 2023-05-25 | 2023-06-02 |
@@ -1160,7 +1161,7 @@
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2023-04-14 | 2023-09-01 |
 | [poser](https://open.spotify.com/track/4gBuBzYl2X0j38iKbo02Rl) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [poser](https://open.spotify.com/album/2cYM6qi8MBNjQIwfAcJa3C) | 2:49 | 2024-02-22 | 2024-03-01 |
 | [Power To Undo](https://open.spotify.com/track/0DgGr62ntCpgmjV2yDTOtI) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Power To Undo](https://open.spotify.com/album/7AdwPPWvFmeAdO56JB0Itk) | 2:50 | 2024-02-08 | 2024-02-16 |
-| [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [](https://open.spotify.com/album/null) | 3:11 | 2025-09-18 |  |
+| [Pray](https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Violent Nature](https://open.spotify.com/album/7r72bICF1RIxeNOKCGDP6U) | 3:11 | 2025-09-18 |  |
 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-04 | 2024-01-26 |
 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 | 2024-04-04 | 2024-08-17 |
 | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 | 2024-06-02 | 2024-06-29 |
@@ -1318,7 +1319,7 @@
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-16 | 2023-03-31 |
 | [Soldiers of Love](https://open.spotify.com/track/25XuZoz66XakTi4jQyrrAY) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [The Knock / Soldiers Of Love](https://open.spotify.com/album/3NFcWx0CCnq7D177zszg8F) | 4:11 | 2023-11-23 | 2023-12-01 |
 | [solo](https://open.spotify.com/track/1h4mu5ghHkzJzswgoVqvg3) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [solo](https://open.spotify.com/album/4TAAFPLlxRAtcGZQ035SfV) | 2:58 | 2023-07-20 | 2023-07-28 |
-| [Some Things](https://open.spotify.com/track/4z03v8DF4bBKv1pGvwPpD1) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Some Things](https://open.spotify.com/album/1iFgpCMEHReezjRNWp0XuG) | 3:34 | 2025-09-18 |  |
+| [Some Things](https://open.spotify.com/track/4z03v8DF4bBKv1pGvwPpD1) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [Some Things](https://open.spotify.com/album/1iFgpCMEHReezjRNWp0XuG) | 3:34 | 2025-09-18 | 2025-09-20 |
 | [Somebody Like You](https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Somebody Like You](https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd) | 3:20 | 2023-08-03 | 2023-08-11 |
 | [Something Beautiful](https://open.spotify.com/track/1kh6mbnCA86snagCb4M6L6) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [Something Beautiful](https://open.spotify.com/album/7eQUqUhaEo1SuMboxV0rML) | 4:06 | 2023-10-05 | 2023-10-13 |
 | [Something Changed \- Water From Your Eyes Interpolation](https://open.spotify.com/track/2rf3akXQqFEu41Ca3bJyNV) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Something Changed \(Water From Your Eyes Interpolation\)](https://open.spotify.com/album/4HJm5HpEQ6Jg8KHvnsj2q3) | 4:35 | 2023-07-13 | 2023-07-21 |

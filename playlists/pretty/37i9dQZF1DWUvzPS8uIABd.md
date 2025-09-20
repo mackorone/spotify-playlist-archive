@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Minttu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,370 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,385 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Autiomaa \- Vain elämää kausi 16](https://open.spotify.com/track/2xMaGPMw5YroV8i32HAMX0) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Autiomaa \(Vain elämää kausi 16\)](https://open.spotify.com/album/7jLSDdDKjyVENj0chrbTh7) | 2:48 |
 | 2 | [Voiko enkelitkin eksyä](https://open.spotify.com/track/0p2JegDOnAHal6tyUqcsbW) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6ZawkhQLo031iW3evZzeUr) | 4:00 |
-| 3 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
-| 4 | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/1twlTgwJAk0ApT4wOEhjSd) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5Kjjo5fGrQZYbfstHAZ1sl) | 3:14 |
-| 5 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [](https://open.spotify.com/album/null) | 3:45 |
-| 6 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
-| 7 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
-| 8 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 |
+| 3 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
+| 4 | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/track/4gLd9kmSkG65uW02NaBFKt) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Rakkauden haudalla \(Vain elämää kausi 16\)](https://open.spotify.com/album/7v8dFo8BVA41fKxs7cgFbW) | 3:18 |
+| 5 | [Ai Että](https://open.spotify.com/track/4fgLmTOX8eIDwcFA1Zgwra) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ai Että](https://open.spotify.com/album/4N63GxMekabqpOMSu4uBSg) | 2:41 |
+| 6 | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/1twlTgwJAk0ApT4wOEhjSd) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Vielki elos \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/5Kjjo5fGrQZYbfstHAZ1sl) | 3:14 |
+| 7 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
+| 8 | [Yöpakkasii](https://open.spotify.com/track/5PwkPXZpfb7yXlfx5f4lsI) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Yöpakkasii](https://open.spotify.com/album/1sW7InFGvltXITXenNLk1L) | 3:00 |
 | 9 | [Köyhä ja kipee \(feat\. BESS\)](https://open.spotify.com/track/4N1xl85zvCN21lRpz5aEZQ) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji), [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Nää pirut on mun kavereit](https://open.spotify.com/album/3qfGZ2Tk9Y3SmS0p7BPjO7) | 3:11 |
 | 10 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 |
 | 11 | [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 35 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
 | 36 | [Myöhemmin \(Vain elämää kausi 16\)](https://open.spotify.com/track/1kVPLj3eIXz8ti8QX1HeKW) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Myöhemmin \(Vain elämää kausi 16\)](https://open.spotify.com/album/7fAF7Fb45pwP9qzH5o6wUq) | 3:40 |
 | 37 | [Kaunotar ja Hirviö](https://open.spotify.com/track/28sGUcOTAHoeyZ82zHoEOt) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kaunotar ja Hirviö](https://open.spotify.com/album/2m3R1xD5xBTYwOcBKJkHPK) | 2:20 |
-| 38 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [](https://open.spotify.com/album/null) | 2:56 |
+| 38 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 |
 | 39 | [Kukat kasvaa raunioon](https://open.spotify.com/track/1ZxPMUJfqmazxzqxlNsAdK) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Kukat kasvaa raunioon](https://open.spotify.com/album/4MHQoThtc08gLgPr9IHLdj) | 3:04 |
 | 40 | [Ainoo nainen](https://open.spotify.com/track/44MDbctWdAEwsLWzMH5YLc) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [Tuhat ja yksi yötä](https://open.spotify.com/album/2oizcE37WwDzW9ZvQuO0cY) | 2:38 |
 | 41 | [Rakastaa ja tulla rakastetuksi](https://open.spotify.com/track/5JAbhlQQZJZ0Ki0zsmqGH9) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Rakastaa ja tulla rakastetuksi](https://open.spotify.com/album/6HSFVbSCA8vJoolHgXgGu0) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 74 | [Viimeinen kesäpäivä](https://open.spotify.com/track/3CIENWj83tRZKJGw5inY65) | [Klamydia](https://open.spotify.com/artist/2BFdLtG6ivaiRqPFTgV1in) | [Viimeinen kesäpäivä](https://open.spotify.com/album/7BTr771WcV4HGD2T6DyXD0) | 2:58 |
 | 75 | [Seksikkäin bämä](https://open.spotify.com/track/0nwr0XJvEWkOGS7SuY9A7C) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1) | [Seksikkäin bämä](https://open.spotify.com/album/1v8Ufpm6rsqeKj5YRiEE4N) | 3:07 |
 
-Snapshot ID: `AAAAALe+0A+uXelc3HUH3F6ckZlqdLZF`
+Snapshot ID: `AAAAABIkpsSx1p1vdKY/suD+XtjWHidx`

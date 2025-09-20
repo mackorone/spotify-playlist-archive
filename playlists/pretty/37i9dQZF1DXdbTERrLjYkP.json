@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Karly Bowman",
-  "num_followers": 219184,
+  "num_followers": 219199,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABM5IeFKNriDQRW8DzgcsYwb/jVm",
+  "snapshot_id": "AAAAAMBZV5ZC/w10iMQVgDyZUurHfsLe",
   "tracks": [
     {
       "added_at": "2025-09-12 04:20:00",
@@ -23,6 +23,54 @@
       "duration_ms": 195154,
       "name": "Just Like Us",
       "url": "https://open.spotify.com/track/7sQtaWzxpZZe4BDAYyGotk"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/1T1wPY475CLErkq858TqWR"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 291834,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 145186,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0EfOnOaJ07w3Sx3ISX9Kut"
+      },
+      "artists": [
+        {
+          "name": "Lilly Bedard",
+          "url": "https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn"
+        }
+      ],
+      "duration_ms": 167923,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6Jbf2PeG82AKgBZgS6vlfD"
     },
     {
       "added_at": "2025-09-05 04:00:31",
@@ -1003,54 +1051,6 @@
       "duration_ms": 170322,
       "name": "Sue me",
       "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
-    },
-    {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "Love A Good",
-        "url": "https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip"
-      },
-      "artists": [
-        {
-          "name": "maryjo",
-          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
-        }
-      ],
-      "duration_ms": 214822,
-      "name": "Love A Good",
-      "url": "https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
-        "name": "table for two",
-        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 111319,
-      "name": "table for two",
-      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
-    },
-    {
-      "added_at": "2025-04-14 17:52:38",
-      "album": {
-        "name": "i know, i know, i know",
-        "url": "https://open.spotify.com/album/2gW4roHxueJO5T94B0KS8v"
-      },
-      "artists": [
-        {
-          "name": "ALINA",
-          "url": "https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "i know, i know, i know",
-      "url": "https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

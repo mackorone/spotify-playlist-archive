@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Yashraj & Calm
+> Best of Hindi Hip\-Hop! Cover: Naam Sujal
 
-275 songs - 13 hr 58 min
+276 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Amitaabh](https://open.spotify.com/track/6wngMmeABsafCzMJbqNP5J) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Retro Blxxd](https://open.spotify.com/artist/6qSzBHYRQzdm981EBGbDHA) | [Amitaabh](https://open.spotify.com/album/3CbveEZuQMGnNFDu4WP1Yj) | 2:39 | 2025-03-21 | 2025-09-06 |
 | [Angaar Hai](https://open.spotify.com/track/4KDJlhSQu3jbUrwcc59rip) | [Naezy](https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2) | [Fateh](https://open.spotify.com/album/0Bcho5L7RXjKdOTgasWjYE) | 2:55 | 2025-04-04 | 2025-04-16 |
 | [Angad](https://open.spotify.com/track/1jsI1eBSguo06e4ocINgVp) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Angad](https://open.spotify.com/album/1sPEgdT59qlNeHtkPkGcm2) | 2:48 | 2023-03-10 | 2023-11-07 |
-| [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 | 2025-01-06 |  |
+| [Ankurit Moong](https://open.spotify.com/track/1tjarvG7EoJRYL7etWdJgo) | [Naam Sujal](https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP) | [Ankurit Moong](https://open.spotify.com/album/6lLwAajj5CmVJeNtrSZJGk) | 2:46 | 2025-09-19 |  |
+| [Arthur Road](https://open.spotify.com/track/2VX9Q3uMmTH5S8dt8PzMmX) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu) | [Arthur Road](https://open.spotify.com/album/7xbOLjtp1MXCnBOTc9YbmQ) | 2:55 | 2025-01-06 | 2025-09-20 |
 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 | 2023-08-28 | 2025-05-24 |
 | [BAAWE](https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 2:39 | 2025-01-17 |  |
 | [Baazigar](https://open.spotify.com/track/1T44wPr7LUlBY4vX6LlygG) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:49 | 2025-01-06 |  |

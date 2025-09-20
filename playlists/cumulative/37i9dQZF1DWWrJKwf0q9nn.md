@@ -2,7 +2,7 @@
 
 ### [New Dance 2025](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
-> Wekelijkse update! Cover: oscar med k & Khalid
+> Wekelijkse update! Cover: oskar med k & Khalid
 
 282 songs - 14 hr 4 min
 
@@ -84,7 +84,7 @@
 | [GANGSTA](https://open.spotify.com/track/0xbK2OxyqU9dx2UJYz4HpN) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA) | [GANGSTA](https://open.spotify.com/album/40yllSwcv1D4J5jspTMHiW) | 2:12 | 2025-08-28 |  |
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-08-07 | 2025-08-29 |
 | [Get Up](https://open.spotify.com/track/2H43AB2EgHmUChTFL8zVZp) | [Pegassi](https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c) | [Get Up](https://open.spotify.com/album/1kw8SiaqsRjeg8hAMxDdjL) | 3:31 | 2025-09-11 |  |
-| [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [](https://open.spotify.com/album/null) | 2:49 | 2025-09-18 |  |
+| [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 | 2025-09-18 |  |
 | [Give It To Me 2025](https://open.spotify.com/track/2SXIxc92q42M6lMCfQ8hKL) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/0tPiQFFUeHaHJ2FPOcPHcS) | 2:41 | 2025-07-17 | 2025-08-29 |
 | [Got Me Healing](https://open.spotify.com/track/4Bpy2dzXionQJTdxUTqLT7) | [El Khatib](https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y) | [Got Me Healing](https://open.spotify.com/album/2egX1trakttatUbwoeZQts) | 3:01 | 2025-08-28 | 2025-09-19 |
 | [Guard Your Joy](https://open.spotify.com/track/0kN37UhHU9BGZe2ZLyFW1O) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Pete Josef](https://open.spotify.com/artist/7c59lOg1veety7jD83d31w) | [Guard Your Joy](https://open.spotify.com/album/2PiuBzsxTp8jPOhywF56pX) | 4:25 | 2025-09-11 | 2025-09-19 |

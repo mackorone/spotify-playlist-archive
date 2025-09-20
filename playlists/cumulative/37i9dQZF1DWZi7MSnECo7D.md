@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Mombojó
 
-794 songs - 1 day 21 hr 7 min
+796 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Arte de Se Bastar](https://open.spotify.com/track/7dsbEhIpErUsTewANX617F) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [A Arte de Se Bastar](https://open.spotify.com/album/5EgCWm8o7qX0psDEaszJrr) | 2:18 | 2022-07-22 | 2023-03-18 |
 | [A Chegada](https://open.spotify.com/track/6cQfhvK6qQ9eFgIrbZ9bwU) | [Os Fugitivos](https://open.spotify.com/artist/0JCwkTQqtgVQXBRxwEloEg) | [A Chegada](https://open.spotify.com/album/1VO0sEuB8Tt4m5Askw5F6N) | 4:05 | 2023-09-01 | 2024-03-30 |
 | [A Cidade Quer](https://open.spotify.com/track/2NOSXF0YxFYChI66eigEj9) | [Os Últimos Escolhidos do Futebol](https://open.spotify.com/artist/0kpGdnhRrd1MRewMN6eX8f) | [O Catálogo de Clichês](https://open.spotify.com/album/2UakfqVogyqfKtbFeIEOLN) | 4:26 | 2023-09-15 | 2023-11-11 |
+| [A cidade é uma selva](https://open.spotify.com/track/53vB6t3mcw3iwMXSHSod8E) | [eliminadorzinho](https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ) | [eternamente,](https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP) | 3:39 | 2025-09-19 |  |
 | [A Curtinha](https://open.spotify.com/track/1OshPZA6SSa3QsfRbKSz8l) | [gueersh](https://open.spotify.com/artist/0CNIp7Bq0rB2qgpzZgVUC3) | [Tempo Elástico](https://open.spotify.com/album/3Rz96Hv5APcqv6xBxyB1qr) | 2:47 | 2023-03-31 | 2023-09-16 |
 | [A Fogueira](https://open.spotify.com/track/7fAlzuAQK9JXDqmATf0CVQ) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [A Fogueira](https://open.spotify.com/album/5A7nbwGuraxP0ghwAAeNyd) | 3:58 | 2022-01-14 | 2022-08-06 |
 | [a gente não tem nada a ver](https://open.spotify.com/track/10URqxiR7QvJnj7Fud1l5D) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [a gente não tem nada a ver](https://open.spotify.com/album/5bX7qS1cdNJYjQfjCohXt1) | 4:02 | 2022-01-14 | 2022-07-29 |
@@ -684,7 +685,7 @@
 | [Tema Para Marisa Monte](https://open.spotify.com/track/0rpqWmRWBswnIHUG0pYWMC) | [mellina](https://open.spotify.com/artist/7nGtXBuI7PJa8Rcy4aL9SY), [Jeza da Pedra](https://open.spotify.com/artist/3KdQCcpvEY8tdcLpJnSWeh) | [Lolólove](https://open.spotify.com/album/6ZVrzdqpAEOsoWA2w4HZK3) | 2:27 | 2023-10-06 | 2023-10-28 |
 | [Tempo de Mistério](https://open.spotify.com/track/6Tca1NDEg2WAItq6KtVNSd) | [Livia Nery](https://open.spotify.com/artist/2jgNIddZBgTiswbLmv91Qu) | [Tempo de Mistério](https://open.spotify.com/album/46Fix62G5d3qkhQjSnnYdr) | 3:21 | 2024-05-17 | 2024-09-28 |
 | [Tempo Presente](https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT) | [Glue Trip](https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY) | [Tempo Presente](https://open.spotify.com/album/4Mp6pCuxYF9myM7r182ZMi) | 3:44 | 2022-05-20 | 2022-06-04 |
-| [temporal](https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [temporal](https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw) | 3:36 | 2024-08-23 |  |
+| [temporal](https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [temporal](https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw) | 3:36 | 2024-08-23 | 2025-09-20 |
 | [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 | 2022-04-23 |
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 | 2022-11-25 |
 | [Terra do Nunca Mais](https://open.spotify.com/track/7Kt4Z5D10KiBFzBu1PPeAM) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Terra do Nunca Mais](https://open.spotify.com/album/4IVbk8x030ph7yTku23iEP) | 3:30 | 2023-09-22 | 2024-05-03 |
@@ -715,7 +716,7 @@
 | [Trap Triste](https://open.spotify.com/track/4wEWy4TSZbRj7EqjBHyVUc) | [Biltre](https://open.spotify.com/artist/2mQmDB0JpRnx5MsU6RBeev) | [Trap Triste](https://open.spotify.com/album/1A5g9AosXCIwwTUT8Z25dm) | 3:01 | 2022-12-23 | 2023-01-14 |
 | [Traumas de Estimação](https://open.spotify.com/track/3b1Vaxhbj3Vmp5ORS4Pf0d) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl) | [Traumas de Estimação](https://open.spotify.com/album/29Ao0U6tuUUR9u8FUBaytS) | 5:07 | 2022-02-11 | 2022-03-12 |
 | [Trincheira Nº 02](https://open.spotify.com/track/6QmfwUIedEkpYkzTyAPX5s) | [Jovelina](https://open.spotify.com/artist/3rP3sEmSvjXrlZzcujVzEY) | [Trincheira Nº 02](https://open.spotify.com/album/4kC2HnOGtisWp4pVtSNevg) | 3:21 | 2023-09-15 | 2024-03-30 |
-| [Troquei](https://open.spotify.com/track/517qrLznf3kAbvr9xjyjg6) | [Marrakesh](https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF) | [Troquei](https://open.spotify.com/album/5RcZDeySj4BEcn82o8LkcT) | 2:40 | 2025-06-20 |  |
+| [Troquei](https://open.spotify.com/track/517qrLznf3kAbvr9xjyjg6) | [Marrakesh](https://open.spotify.com/artist/7eQKpZlY4A3fynoiLXIvjF) | [Troquei](https://open.spotify.com/album/5RcZDeySj4BEcn82o8LkcT) | 2:40 | 2025-06-20 | 2025-09-20 |
 | [TRUCO](https://open.spotify.com/track/0l8pUz1xiihDeXbibzgFUT) | [Maria Beraldo](https://open.spotify.com/artist/2433aSyXTs1Mnhss4lFqHW) | [TRUCO](https://open.spotify.com/album/16OcjRTc0sdBhaoPcNJmSn) | 4:17 | 2023-01-27 | 2023-03-25 |
 | [Truque](https://open.spotify.com/track/5BWDctHY7KfVt6sc1D3tOs) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Truque](https://open.spotify.com/album/5n44zhzi1I9ig1CKj80Sm3) | 3:20 | 2023-08-11 | 2024-03-02 |
 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 | 2022-01-14 | 2022-03-18 |
@@ -777,6 +778,7 @@
 | [Você](https://open.spotify.com/track/3b6IgM70DasoHSQ2NQbgfR) | [measyou](https://open.spotify.com/artist/4zDWNcpNltzn5srR9WBNqr) | [Você](https://open.spotify.com/album/5Nnkk8HJWazxWIU3MJs4Y9) | 3:15 | 2023-04-28 | 2023-05-06 |
 | [Você Me Deu a Mão](https://open.spotify.com/track/1oOrihudjA8uPLlYK7KsV0) | [Rafa Martins](https://open.spotify.com/artist/4h4cE2zRVOuTX6CWO3526o) | [Você Me Deu a Mão](https://open.spotify.com/album/5fXUFmz3UWZprhEIZ1spyy) | 2:34 | 2024-04-12 | 2024-08-17 |
 | [Você Não Vê](https://open.spotify.com/track/03o9imYVmPeXwJEGLZrWbv) | [Pablo Vermell](https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5), [Personas](https://open.spotify.com/artist/0mb0ogPa9MGn5LEWPI9MrQ) | [Você Não Vê](https://open.spotify.com/album/3B1OvmobOdKZvwGvme9WR3) | 2:44 | 2022-04-01 | 2022-07-09 |
+| [Você vai me escutar](https://open.spotify.com/track/4RA9sd4OLjmVBZkXsE6h6g) | [eliminadorzinho](https://open.spotify.com/artist/2d9YUeWgB3uYuk7mpRSKqJ) | [eternamente,](https://open.spotify.com/album/6OcLsMeViFbKimoyKTQ9YP) | 4:40 | 2025-09-19 |  |
 | [Volta](https://open.spotify.com/track/2pZudWjHskvC5RDM2buIdo) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 4](https://open.spotify.com/album/1fRe9hw31nEe1H5AD5SDMn) | 5:40 | 2022-10-21 | 2022-11-12 |
 | [Volta](https://open.spotify.com/track/20TjtbWvLqfQIPth8gUvSB) | [Pedro Emílio](https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N) | [Regresso](https://open.spotify.com/album/6TSjLlgElA7qweTOxJMVd3) | 4:16 | 2023-04-07 | 2023-05-20 |
 | [Voltada Para o Novo](https://open.spotify.com/track/79uZCnFsegWZJPVH6BdP3l) | [LYYA](https://open.spotify.com/artist/08AHjAA3q1rYawX4kMInOD) | [Voltada Para o Novo](https://open.spotify.com/album/59CdvfRLtDUhfC5Wz7LXII) | 3:18 | 2024-06-21 | 2025-01-25 |

@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 14300,
+  "num_followers": 14437,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-09-18 08:01:33",
       "album": {
+        "name": "slow turn",
+        "url": "https://open.spotify.com/album/59TAYTgMS7y01sIXrcwyWg"
+      },
+      "artists": [
+        {
+          "name": "Sleepr Cell",
+          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
+        }
+      ],
+      "duration_ms": 127024,
+      "name": "slow turn",
+      "url": "https://open.spotify.com/track/7zbGD2aCLp4ZaJnyk7i8FT"
+    },
+    {
+      "added_at": "2025-09-18 08:01:33",
+      "album": {
         "name": "machine",
         "url": "https://open.spotify.com/album/6AWQoLV6SxT0kYCnwtg7zz"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 138987,
       "name": "Paper Kites",
       "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
-    },
-    {
-      "added_at": "2025-09-18 08:01:33",
-      "album": {
-        "name": "slow turn",
-        "url": "https://open.spotify.com/album/59TAYTgMS7y01sIXrcwyWg"
-      },
-      "artists": [
-        {
-          "name": "Sleepr Cell",
-          "url": "https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m"
-        }
-      ],
-      "duration_ms": 127024,
-      "name": "slow turn",
-      "url": "https://open.spotify.com/track/7zbGD2aCLp4ZaJnyk7i8FT"
     },
     {
       "added_at": "2025-09-18 08:01:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-09-18 08:01:33",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
-      },
-      "artists": [
-        {
-          "name": "softclouds",
-          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
-    },
-    {
-      "added_at": "2025-09-18 08:01:33",
-      "album": {
         "name": "flying on the clouds",
         "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2025-09-18 08:01:33",
       "album": {
-        "name": "Flower Lane",
-        "url": "https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp"
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
       },
       "artists": [
         {
-          "name": "JAKKARTA",
-          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
         }
       ],
-      "duration_ms": 164615,
-      "name": "Flower Lane",
-      "url": "https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ"
+      "duration_ms": 145781,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
     },
     {
       "added_at": "2025-09-18 08:01:33",
@@ -943,22 +927,34 @@
     {
       "added_at": "2025-09-18 08:01:33",
       "album": {
-        "name": "Empty Fields",
-        "url": "https://open.spotify.com/album/1ENtGvYCT8O6syanJ3nwvM"
+        "name": "Flower Lane",
+        "url": "https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp"
       },
       "artists": [
         {
-          "name": "Deauxnuts",
-          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
-        },
-        {
-          "name": "Nokiaa",
-          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
         }
       ],
-      "duration_ms": 128840,
-      "name": "Empty Fields",
-      "url": "https://open.spotify.com/track/1EDx1EKynpDqlIoaDy3YNC"
+      "duration_ms": 164615,
+      "name": "Flower Lane",
+      "url": "https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ"
+    },
+    {
+      "added_at": "2025-09-18 08:01:33",
+      "album": {
+        "name": "Autumn Letters",
+        "url": "https://open.spotify.com/album/2HyYRDTyuVecdO1dNSQcHo"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Autumn Letters",
+      "url": "https://open.spotify.com/track/7e1VORsL4GCNqACM8G3evL"
     },
     {
       "added_at": "2025-09-18 08:01:33",
@@ -975,6 +971,26 @@
       "duration_ms": 132281,
       "name": "Maze",
       "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
+    },
+    {
+      "added_at": "2025-09-18 08:01:33",
+      "album": {
+        "name": "Empty Fields",
+        "url": "https://open.spotify.com/album/1ENtGvYCT8O6syanJ3nwvM"
+      },
+      "artists": [
+        {
+          "name": "Deauxnuts",
+          "url": "https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB"
+        },
+        {
+          "name": "Nokiaa",
+          "url": "https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN"
+        }
+      ],
+      "duration_ms": 128840,
+      "name": "Empty Fields",
+      "url": "https://open.spotify.com/track/1EDx1EKynpDqlIoaDy3YNC"
     },
     {
       "added_at": "2025-09-18 08:01:33",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2025-09-18 08:01:33",
       "album": {
-        "name": "Autumn Letters",
-        "url": "https://open.spotify.com/album/2HyYRDTyuVecdO1dNSQcHo"
+        "name": "thyme moves slow",
+        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
       },
       "artists": [
         {
-          "name": "Dosi",
-          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
         }
       ],
-      "duration_ms": 171940,
-      "name": "Autumn Letters",
-      "url": "https://open.spotify.com/track/7e1VORsL4GCNqACM8G3evL"
+      "duration_ms": 147107,
+      "name": "thyme moves slow",
+      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "added_at": "2025-09-18 08:01:33",
@@ -1039,22 +1055,6 @@
       "duration_ms": 157935,
       "name": "clouded",
       "url": "https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL"
-    },
-    {
-      "added_at": "2025-09-18 08:01:33",
-      "album": {
-        "name": "thyme moves slow",
-        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
-      },
-      "artists": [
-        {
-          "name": "new vibe",
-          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "thyme moves slow",
-      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "added_at": "2025-09-18 08:01:33",

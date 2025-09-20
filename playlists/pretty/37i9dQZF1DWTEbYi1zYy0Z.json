@@ -1,13 +1,49 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 79517,
+  "num_followers": 79555,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm",
+  "snapshot_id": "AAAAALKKgEGfXTRuepVm5Q65Kt64r85p",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:09",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "The Magic Hour",
+      "url": "https://open.spotify.com/track/3OWW80MaTevZ2W83pCdUX2"
+    },
+    {
+      "added_at": "2025-09-19 04:00:09",
+      "album": {
+        "name": "The Legacy Project",
+        "url": "https://open.spotify.com/album/03GUcklCeLVe3Us2QIyGQ5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/6LnftpH4LWfg6QChPT8ekH"
+        }
+      ],
+      "duration_ms": 253103,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/7hrP8okdHRFBn5WaHnIRKr"
+    },
     {
       "added_at": "2025-08-15 04:00:04",
       "album": {
@@ -491,22 +527,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Slow Burn",
-        "url": "https://open.spotify.com/album/1Iuzwy5Dra6ntbmJ2v4j9n"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 256372,
-      "name": "The Bounce",
-      "url": "https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Living A Dream",
         "url": "https://open.spotify.com/album/2DRHGRo7PrjMGecrxFA3Km"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 253235,
       "name": "Groovin' at the Symphony Hall",
       "url": "https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Just Coolin'",
-        "url": "https://open.spotify.com/album/3WCCgQOpe6akY692bzFx6i"
-      },
-      "artists": [
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        },
-        {
-          "name": "Ryan La Valette",
-          "url": "https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Just Coolin'",
-      "url": "https://open.spotify.com/track/21MnclehxaZTGQQu9zZSX8"
     },
     {
       "added_at": "2024-03-15 04:01:00",

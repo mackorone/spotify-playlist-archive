@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Royal Lynn.
+> nü\-metal revival is happening here and now with Mudvayne.
 
-340 songs - 18 hr 59 min
+344 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,8 +80,10 @@
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-06 | 2024-10-12 |
 | [DETOX](https://open.spotify.com/track/7a3dzgrNu32WXb1ymJmgm2) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [DETOX](https://open.spotify.com/album/6iLG5mKnCdfkObd5e1onm2) | 3:45 | 2023-09-13 | 2023-10-14 |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2023-09-13 | 2023-11-18 |
+| [Disappear](https://open.spotify.com/track/09ofXA1JKT4UhRDIhRkOpE) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Disappear](https://open.spotify.com/album/2E2M2jt9rsdOMycC5hOaV9) | 3:51 | 2025-09-19 |  |
 | [Disconnected](https://open.spotify.com/track/1H3wjeRIilS7ffzNTqobkt) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1), [Johnny 3 Tears](https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF), [Funny Man](https://open.spotify.com/artist/2zL0TmGfivsuZEIWGtAhKb) | [Disconnected](https://open.spotify.com/album/338f5CbDP4xItbaB1KkWu4) | 3:04 | 2025-07-25 |  |
 | [DISDAIN](https://open.spotify.com/track/2hEI5r6nDn9ZdNqHluhbdq) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DISDAIN](https://open.spotify.com/album/7BPRvaesFamtH4Xo82I8nO) | 2:25 | 2023-10-27 | 2024-02-10 |
+| [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 | 2025-09-19 |  |
 | [Dog Cunts](https://open.spotify.com/track/2KBkozwBN2iREwOVVgw81W) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Dog Cunts](https://open.spotify.com/album/6HYdq61jHHO7dnQjTuvHxP) | 2:09 | 2024-05-17 | 2024-06-22 |
 | [Dopamine](https://open.spotify.com/track/1QBT6LsR5O2P5cKEqtN64n) | [Totalbuzzkill](https://open.spotify.com/artist/6ViDYUgAPH5gZmgNehN3W2) | [The Start of Something Beautiful](https://open.spotify.com/album/1QEmMyhcPW6rzacqpDSus6) | 3:34 | 2025-05-16 |  |
 | [Dope](https://open.spotify.com/track/6hpnjVqEa7LSyG5cJOuqc4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Dope](https://open.spotify.com/album/4uxYRLI4sPIx1tsHEl13WV) | 2:17 | 2025-08-01 |  |
@@ -132,7 +134,7 @@
 | [HOPELESS](https://open.spotify.com/track/7A9Tk8yUzaqgN8gt6jdaKV) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [HOPELESS](https://open.spotify.com/album/2JB2vd2M2Z1HwU2xdEbd8E) | 3:18 | 2025-08-01 |  |
 | [Human](https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Human](https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb) | 3:44 | 2024-06-21 | 2024-10-12 |
 | [Hurt People Hurt People](https://open.spotify.com/track/0hgiCvELn7bKI7GEKPwkY4) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Hurt People Hurt People](https://open.spotify.com/album/4wj85ClVSfL2lGI9HuL43e) | 3:34 | 2025-08-29 |  |
-| [Hype Man](https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Hype Man](https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068) | 4:08 | 2025-08-29 |  |
+| [Hype Man](https://open.spotify.com/track/4eTN4kEeexKdkAE804WJfv) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Hype Man](https://open.spotify.com/album/2Gmcj6USDIZh2tGg0Z3068) | 4:08 | 2025-08-29 | 2025-09-20 |
 | [I GOT THAT](https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:19 | 2024-05-03 | 2025-06-28 |
 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 | 2023-09-13 | 2024-04-06 |
 | [I WON'T BACK DOWN](https://open.spotify.com/track/7nBKzSA8l5msyNV4wkDvQp) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [I WON'T BACK DOWN](https://open.spotify.com/album/10C6jOFAImGjenVam7idgu) | 3:21 | 2025-05-09 | 2025-08-16 |
@@ -179,6 +181,7 @@
 | [Malware](https://open.spotify.com/track/1lllDI2VIFmRhqbUERI0vO) | [When In Doubt](https://open.spotify.com/artist/6eZJRqL2OlpvruaVCMFaP1), [Cyberdrip$](https://open.spotify.com/artist/3FoS8RMVwPAVPfkHdeBygg) | [Malware](https://open.spotify.com/album/4QHXghOu5a2aSmGJAwNJCZ) | 3:37 | 2025-05-02 |  |
 | [Mascot](https://open.spotify.com/track/2cxkTaDpJz0F2WRHVa8Ti1) | [Gridiron](https://open.spotify.com/artist/2eIUyCr530XyFHd358dxYZ) | [Mascot](https://open.spotify.com/album/4kSyalTUF0LmvLJykLFHPO) | 2:42 | 2025-03-07 | 2025-05-17 |
 | [Medicine](https://open.spotify.com/track/08OARGejNP5FQLXfJjPIUu) | [Dirty Machine](https://open.spotify.com/artist/1Y21Adie8KSr85kRwGPfrA) | [Medicine](https://open.spotify.com/album/0cyHewm7uwzseWKHVaaixQ) | 3:07 | 2024-10-11 | 2024-10-19 |
+| [Mercia](https://open.spotify.com/track/0ptNPzAaewqAlfoQFCoiLT) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Mercia](https://open.spotify.com/album/7b0ToeYAyJ2mscjvZgt4Ep) | 5:34 | 2025-09-19 |  |
 | [Merciless](https://open.spotify.com/track/3JVa8Bai4qTtm6vkip0IFW) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Merciless](https://open.spotify.com/album/4BMssodRLk2w2YFGGxxGmv) | 3:18 | 2025-01-24 | 2025-09-13 |
 | [Metamorphosis](https://open.spotify.com/track/1LfZui3XXZ92ZZDjAxYqhj) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Metamorphosis](https://open.spotify.com/album/7zdOkjjbeUNeouWdouwNxE) | 3:23 | 2024-06-21 | 2024-07-27 |
 | [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-03-29 | 2024-09-07 |
@@ -225,7 +228,7 @@
 | [Prepackaged](https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Prepackaged](https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo) | 5:03 | 2024-07-19 | 2024-09-14 |
 | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/track/0xbDLHfn1F4FGNExKmNEpR) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i), [Joe Bad](https://open.spotify.com/artist/1GI7k8gduzXUlQrnH3Aizp) | [Psychopath \(feat\. Joe Bad\)](https://open.spotify.com/album/5qrhkfZ4OYytIfpglXgihZ) | 3:19 | 2024-05-17 | 2024-07-19 |
 | [Pure Adrenaline](https://open.spotify.com/track/4WZlNmXZnO4AP963muV38u) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Pure Adrenaline](https://open.spotify.com/album/5xakafpbkKzImSJ7lge4n5) | 2:22 | 2025-05-23 | 2025-06-28 |
-| [Purpose: Be Myself](https://open.spotify.com/track/2xFjaKa3TK6ouhbPTnC3Rd) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Purpose: Be Myself](https://open.spotify.com/album/0K8GA4QEyyXVGESlj6q7qR) | 3:00 | 2025-09-05 |  |
+| [Purpose: Be Myself](https://open.spotify.com/track/2xFjaKa3TK6ouhbPTnC3Rd) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Purpose: Be Myself](https://open.spotify.com/album/0K8GA4QEyyXVGESlj6q7qR) | 3:00 | 2025-09-05 | 2025-09-20 |
 | [Push](https://open.spotify.com/track/0rFc5oSEYXS1oUAMZOwMHg) | [Silent Vice](https://open.spotify.com/artist/5MCUjqJTNFcvvAZsuVmUFT) | [Push](https://open.spotify.com/album/1NRQveipkyJm0myrLWHsLG) | 3:56 | 2024-04-05 | 2024-06-01 |
 | [Pushing Through](https://open.spotify.com/track/59y6cuvtqbhI8pc8daKmKr) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Pushing Through](https://open.spotify.com/album/4movYlx0WTp1NXIkEtIpXT) | 4:16 | 2025-08-15 |  |
 | [Qué Linda](https://open.spotify.com/track/6aIihWCXDxues6MiGrM3rX) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Qué Linda](https://open.spotify.com/album/5ld8B0HseNBSGQiJyDAON5) | 2:45 | 2024-04-19 | 2024-05-18 |
@@ -296,7 +299,7 @@
 | [This Is Over](https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [This Is Over](https://open.spotify.com/album/1WTW5zVbx104vQyQolqOHf) | 3:06 | 2023-09-13 | 2024-01-20 |
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 | 2024-04-05 | 2025-06-07 |
 | [Today's My Day](https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Today's My Day](https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV) | 3:35 | 2024-02-09 | 2024-04-06 |
-| [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 | 2025-03-19 |  |
+| [TONGUES](https://open.spotify.com/track/4P40bs3Cqi2XevliZj6FLi) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [TONGUES](https://open.spotify.com/album/6SL0RXcGjUVwx2SwnnI7gy) | 2:51 | 2025-03-19 | 2025-09-20 |
 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 | 2023-12-16 |
 | [Troubled](https://open.spotify.com/track/4YHUgFw8vYSTxooGSjUklu) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [Troubled](https://open.spotify.com/album/2prdpwWoJU82pXAi4fBxwE) | 3:06 | 2024-08-30 | 2024-09-07 |
 | [Tsunami](https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Tsunami](https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD) | 3:44 | 2024-08-09 | 2025-08-23 |
@@ -345,6 +348,7 @@
 | [WTCH](https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [BLACK MAGIC](https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB) | 2:59 | 2025-06-27 |  |
 | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs), [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [XOXO \(feat\. From Ashes to New\)](https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3) | 2:53 | 2024-03-01 | 2024-09-21 |
 | [YEAR OF THE RAT](https://open.spotify.com/track/3gF64oRdu5O5m5Eucx4JY1) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [YEAR OF THE RAT](https://open.spotify.com/album/6OA7lLwuUQacTmqqYtrRJB) | 3:12 | 2024-12-06 | 2025-08-30 |
+| [You Want Honest?](https://open.spotify.com/track/7f68aCkrTvF0CPfExKDP0U) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa), [Chad Gray](https://open.spotify.com/artist/6RyUIdO2XGP1iagzPiojKB) | [RESENT](https://open.spotify.com/album/4FMvHkCd0F4o8znHVyqKt0) | 2:49 | 2025-09-19 |  |
 | [Z0mbie](https://open.spotify.com/track/1sigPT3Dq2zgrPL0YVMPOj) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:11 | 2023-10-06 | 2024-01-27 |
 | [Zero](https://open.spotify.com/track/2jtRquHacdjMoGhnuUG0i4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [A Digital Nowhere](https://open.spotify.com/album/36QgSEVbr6YcCNM8naxWev) | 3:29 | 2024-02-16 | 2024-04-19 |
 | [твоя система буде зруйнована](https://open.spotify.com/track/4xilakhsg8Sofck34wpRvV) | [Burned Time Machine](https://open.spotify.com/artist/1CqrtuYsF9FgMfSeWM4uB1) | [твоя система буде зруйнована](https://open.spotify.com/album/0CSpi5vbJgxPR1zeeOFGT9) | 3:10 | 2024-02-16 | 2024-03-23 |

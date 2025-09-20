@@ -2,9 +2,9 @@
 
 ### [Trotamundos](https://open.spotify.com/playlist/37i9dQZF1DWTz2CbxASWRu)
 
-> Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Manu Chao y Santa Fe Klan en portada.
+> Nomadismo sonoro para quienes aman la música de todos los rincones del planeta\. Mon Laferte, NATHY PELUSO en portada.
 
-663 songs - 2 day 0 hr 31 min
+666 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Ghir Enta](https://open.spotify.com/track/738Ku4hI0ezRMNheUcW8Eh) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Deb](https://open.spotify.com/album/1xAPktZ9m3kt6TpgxAlukd) | 5:05 | 2023-07-10 | 2024-04-19 |
 | [Gnosienne No.1](https://open.spotify.com/track/5QNaj0xZ9ZbcIj83I4vp9w) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:33 | 2023-07-10 | 2024-04-19 |
 | [Go Back](https://open.spotify.com/track/6YPwVMy9U1zFC1KjkyP61j) | [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Nova Tunes 3.1](https://open.spotify.com/album/7oJgqiEy4Xqz99uz6gjDs7) | 4:03 | 2023-07-10 | 2025-07-12 |
+| [Good Luck, Good Night](https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Good Luck, Good Night](https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu) | 4:21 | 2025-09-19 |  |
 | [Good Morning](https://open.spotify.com/track/5UcovshtEG46X0GrcYk5vm) | [Coubo](https://open.spotify.com/artist/3VZj4YxaCNGpQGm95P1lVq) | [Strangers](https://open.spotify.com/album/01km9IMS6czI8LoJzq6Bsi) | 2:29 | 2023-07-10 | 2025-07-12 |
 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 | 2023-07-10 | 2025-07-12 |
 | [Gozar Hasta Que Me Ausente](https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Gozar Hasta Que Me Ausente](https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP) | 4:02 | 2023-07-10 | 2024-04-19 |
@@ -257,6 +258,7 @@
 | [Grazing In The Grass](https://open.spotify.com/track/5yIMfJOAacVK8EvObn3HsX) | [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [Still Grazing](https://open.spotify.com/album/4zllAVYZucLtJpbJIyZN7K) | 2:37 | 2023-07-10 | 2025-07-12 |
 | [Guajira Ven \(Demo\)](https://open.spotify.com/track/27M8N6znkNUCBPAYx6HYfb) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Guajira Ven \(Demo\)](https://open.spotify.com/album/4nNvYuo6mmjAcnyz6vLPA1) | 5:47 | 2023-07-10 | 2024-04-19 |
 | [Guajira Ven \- Demo](https://open.spotify.com/track/0ppBPHy4XtdPNaSL7N3TD9) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Guajira Ven \(Demo\)](https://open.spotify.com/album/6Vbpsx1FgzuudhpAKIM8Zb) | 5:47 | 2023-07-10 | 2023-11-05 |
+| [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/7K4u5bxc2SVotPItpmVAe4) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Eternamente Omara](https://open.spotify.com/album/7KuOwzB6ZJ7fJmYvfxxeVm) | 4:37 | 2025-09-19 |  |
 | [Guaracha Vegana](https://open.spotify.com/track/5VeuIfEw3Le7T2Hs8lO3PV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:33 | 2023-07-10 | 2025-07-12 |
 | [Guayabo](https://open.spotify.com/track/7E0fKLZLwODr87yOe1GA3H) | [La Perla](https://open.spotify.com/artist/1CJIcvG0AwRBiclbftNcDp) | [Guayabo](https://open.spotify.com/album/4bjLDyvWAgtdaCm8ygrcmW) | 2:32 | 2023-07-10 | 2024-09-27 |
 | [Guitarra](https://open.spotify.com/track/1rnNgMJDYoUp4uyvTwk0W3) | [Madredeus](https://open.spotify.com/artist/3mlxV3eHtMwvoOSLzR6CFj) | [Ainda: Original Motion Picture Soundtrack From "Lisbon Story"](https://open.spotify.com/album/10I0BDZh5AtSH8la2lvKbz) | 3:47 | 2023-07-10 | 2025-07-12 |
@@ -334,6 +336,7 @@
 | [La Leyenda Del Tiempo \- Bamberas](https://open.spotify.com/track/150U15S6wWZYQwBPcNnNvX) | [Camaron De La Isla](https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI) | [Flamenco es..\. Camaron](https://open.spotify.com/album/2R7PryxSDFjQeortJSidSj) | 3:35 | 2023-07-10 | 2023-11-16 |
 | [La Leyenda Del Tiempo \- Jaleos](https://open.spotify.com/track/4Kh7ItnnbDLchwioC5yU7j) | [Camaron De La Isla](https://open.spotify.com/artist/5MnhtFXEfqi637k6NfKuZI) | [El Legado De Camarón](https://open.spotify.com/album/4ejOIEiojdFoWm0R7AlgUt) | 3:39 | 2024-03-08 | 2025-07-12 |
 | [La Piña Madura](https://open.spotify.com/track/4E19z5U058DMxnmn8GMv1H) | [Abelardo Carbono](https://open.spotify.com/artist/2gvexCrSP72GLvESGZQ772), [Quantic](https://open.spotify.com/artist/1ijY25dnsl9f3mAyLeUTvE) | [Polen 10 Años \- En el Aire](https://open.spotify.com/album/1QfJZHXwghKJFN7QCVHfdE) | 9:29 | 2024-03-08 | 2025-07-12 |
+| [La Tirana](https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [La Tirana](https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp) | 4:04 | 2025-09-19 |  |
 | [La Weá](https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 5:56 | 2023-07-10 | 2025-07-12 |
 | [Ladino Song](https://open.spotify.com/track/5gW8CwStSOep4f7LvMrf8S) | [Oi Va Voi](https://open.spotify.com/artist/1AzrlUnOS6dhH0iMV86ctS) | [Laughter Through Tears](https://open.spotify.com/album/6LQYWuzr7X20lFbR6wheSh) | 4:12 | 2023-07-10 | 2025-07-12 |
 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 | 2023-07-10 | 2025-07-12 |

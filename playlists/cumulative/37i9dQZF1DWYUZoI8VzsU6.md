@@ -4,7 +4,7 @@
 
 > back roads up loud with Treaty Oak Revival
 
-53 songs - 2 hr 59 min
+54 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cuckoo](https://open.spotify.com/track/3qGtdBULj8YlGAYYrPhUJF) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad](https://open.spotify.com/album/1yoC2Wq50qymZj5HyF2z2A) | 4:28 | 2025-09-05 |  |
 | [Deep End](https://open.spotify.com/track/22U2iPJ728cC4DKSDuNAzi) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Bonfire Blackout](https://open.spotify.com/album/6yMlmWv8SIyaZ7KgNKzqBj) | 2:46 | 2025-09-05 |  |
 | [DEVIL YOU KNOW](https://open.spotify.com/track/7nbAWldYW0XcfYUsB2fQIl) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [devil and a prayer](https://open.spotify.com/album/0wXmEIIUIdZbvSk99P4QrK) | 3:12 | 2025-09-05 |  |
+| [Dust Till Dawn](https://open.spotify.com/track/2wuLvfJn8vqmgzgAXH0wAv) | [Mac Hankins and The Moonlighters](https://open.spotify.com/artist/7aJ7WbvSeDeZpXu33gDWAP), [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Dust Till Dawn](https://open.spotify.com/album/3SqnkOUBHjugq0J7VvSv4u) | 2:55 | 2025-09-19 |  |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2025-09-05 |  |
 | [Four Leaf Clover](https://open.spotify.com/track/4rKwvkw0x1K3I9dr5lwRhg) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 3:11 | 2025-09-05 |  |
 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 | 2025-09-05 |  |

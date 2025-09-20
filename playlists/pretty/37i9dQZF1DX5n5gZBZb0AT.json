@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 948314,
+  "num_followers": 948530,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
         "name": "MOTINHA 2.0 (Mete Marcha)",
         "url": "https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 118081,
       "name": "MOTINHA 2.0 (Mete Marcha)",
       "url": "https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "BOUNCE FUNK (Slowed)",
-        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
-      },
-      "artists": [
-        {
-          "name": "SAPFIR",
-          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
-        }
-      ],
-      "duration_ms": 97368,
-      "name": "BOUNCE FUNK - Slowed",
-      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "HUMBLE. (SKRILLEX REMIX)",
         "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 156800,
       "name": "HUMBLE. - SKRILLEX REMIX",
       "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "BOUNCE FUNK (Slowed)",
+        "url": "https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD"
+      },
+      "artists": [
+        {
+          "name": "SAPFIR",
+          "url": "https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5"
+        }
+      ],
+      "duration_ms": 97368,
+      "name": "BOUNCE FUNK - Slowed",
+      "url": "https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -767,22 +767,18 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "TRALALERO TRALALA FUNK",
-        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
       },
       "artists": [
         {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
         }
       ],
-      "duration_ms": 117901,
-      "name": "TRALALERO TRALALA FUNK",
-      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
+      "duration_ms": 171384,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     }
   ],
   "unique_name": "gymcore",

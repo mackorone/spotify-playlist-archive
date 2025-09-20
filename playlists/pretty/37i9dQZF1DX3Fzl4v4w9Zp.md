@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Brandi Carlile
+> Keep your finger on the pulse of Americana\. Cover: Thelma & James
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,168 likes - 171 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,215 likes - 171 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 170 | [Country Kid](https://open.spotify.com/track/0qHRw28w5WnjVgaLp6bAlX) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Country Kid](https://open.spotify.com/album/2sjMqp2bBoT0abDKJYavl1) | 3:33 |
 | 171 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 |
 
-Snapshot ID: `AAAAAF6EpM9JjLldi1nxpK7dDbUSYwOZ`
+Snapshot ID: `AAAAAE2W8iNpJsoBhWt0O5q3DZEXLKhv`

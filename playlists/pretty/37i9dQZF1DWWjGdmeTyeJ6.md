@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,530 likes - 300 songs - 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,498 likes - 300 songs - 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 299 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 |
 | 300 | [Guppy](https://open.spotify.com/track/6OAYvModmNIVDkkMSK7zgq) | [Sweet Tooth](https://open.spotify.com/artist/2W8y7m3yZUesovmYDPAfnw) | [Guppy](https://open.spotify.com/album/25os0Uy6AmPFvzXFdJJgT1) | 2:42 |
 
-Snapshot ID: `AAAAAFEQx5LjfhVxV0M0HfyQMJhyFPzi`
+Snapshot ID: `AAAAABMfKrdTqVQ5N3Z8pqivFreootnH`

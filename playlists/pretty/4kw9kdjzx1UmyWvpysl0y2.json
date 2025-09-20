@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124974,
+  "num_followers": 124971,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUmJxzMRhjofDLJfJqsRI3gHbxQfmk",
+  "snapshot_id": "AAAUmYvuiStiJLqwc/+JUXXaXOr2+SHM",
   "tracks": [
+    {
+      "added_at": "2025-09-19 14:33:37",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/4IQBJ2cG2u6n6i1XsE6qBG"
+      },
+      "artists": [
+        {
+          "name": "Franky Nuts",
+          "url": "https://open.spotify.com/artist/3YZPramylP3cGeVkbykhVZ"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/2iBcE0fgUS1aqI94ec7vyz"
+    },
     {
       "added_at": "2025-09-18 14:46:25",
       "album": {

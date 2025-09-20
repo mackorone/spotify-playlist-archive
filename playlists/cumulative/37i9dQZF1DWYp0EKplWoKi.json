@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La esquina donde el urbano y la m\u00fasica mexicana se unen.  Neton Vega en portada.",
+  "description": "La esquina donde el urbano y la m\u00fasica mexicana se unen.  Beto Sierra en portada.",
   "name": "El Junte",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 284338,
       "name": "Adios Mama",
       "url": "https://open.spotify.com/track/5ynXbvpVZ3HZoWdMeg8okp"
@@ -946,6 +946,28 @@
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
+    },
+    {
+      "album": {
+        "name": "BELICLOVE",
+        "url": "https://open.spotify.com/album/02WCLBD9m0CE59VM6eS7yk"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "BELICLOVE",
+      "url": "https://open.spotify.com/track/7nAOK2nmjAJOixiF7Dd2UT"
     },
     {
       "album": {
@@ -4496,7 +4518,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 202067,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/5XoFPmVH1utr6vSS1AkFnT"
@@ -5586,7 +5608,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 355869,
       "name": "Ondeado V2",
       "url": "https://open.spotify.com/track/5X5thivWst7CHdwIO3l2qw"
@@ -5962,6 +5984,28 @@
       "duration_ms": 147228,
       "name": "PLEBITA",
       "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "album": {
+        "name": "Plegarias",
+        "url": "https://open.spotify.com/album/6iFc4jh5yxj9JB2LD3Qom3"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223638,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/4brGzrH7rgluGqvXLIoIIA"
     },
     {
       "album": {

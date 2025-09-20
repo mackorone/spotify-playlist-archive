@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,240 likes - 68 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,240 likes - 69 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,16 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 55 | [Give N Go](https://open.spotify.com/track/5d042XvyliHl5ndka9Tyz9) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 2:54 |
 | 56 | [History](https://open.spotify.com/track/5PkNAc7ecD8Rk8ieuXCfQr) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 4:50 |
 | 57 | [Cold \(feat\. Kaash Paige\)](https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:37 |
-| 58 | [Going Wild](https://open.spotify.com/track/0j5Ur0gX9kl4KOAZgCSKF4) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:13 |
-| 59 | [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 |
-| 60 | [SHAWTY / IN LOVE WITH ALL MY BITCHES](https://open.spotify.com/track/1nFhPTEsefIYECgtZzND6y) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:23 |
-| 61 | [YEAAA! \(feat\. Future\)](https://open.spotify.com/track/1RsgNG6ne4TKnL0xoAzFeQ) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:34 |
-| 62 | [Too Many Times](https://open.spotify.com/track/0iRWX6F62Q9QEEUHeI5bVT) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:56 |
-| 63 | [Showstopper](https://open.spotify.com/track/3YpnwDPCp3yNUB9NBO3plZ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:29 |
-| 64 | [Period.](https://open.spotify.com/track/2DXQ8dS7PkrwgLqgX2t0sh) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Ice Cups And Shootouts](https://open.spotify.com/album/4vs6WKFkz4pctlEnLO2uCy) | 2:19 |
-| 65 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
-| 66 | [Fam Without Blood](https://open.spotify.com/track/7xLDettMGTIBwxoHhRxH2S) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:01 |
-| 67 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
-| 68 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
+| 58 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
+| 59 | [Going Wild](https://open.spotify.com/track/0j5Ur0gX9kl4KOAZgCSKF4) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:13 |
+| 60 | [Don't Play](https://open.spotify.com/track/3LI5b1E6jYpMI8zRwuoeMw) | [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Don't Play](https://open.spotify.com/album/0YsKj89MQL8KQgGjfWlUnI) | 2:17 |
+| 61 | [SHAWTY / IN LOVE WITH ALL MY BITCHES](https://open.spotify.com/track/1nFhPTEsefIYECgtZzND6y) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:23 |
+| 62 | [YEAAA! \(feat\. Future\)](https://open.spotify.com/track/1RsgNG6ne4TKnL0xoAzFeQ) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 3:34 |
+| 63 | [Too Many Times](https://open.spotify.com/track/0iRWX6F62Q9QEEUHeI5bVT) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ) | [MISUNDERSTOOD](https://open.spotify.com/album/6UGajHeNjVlZN2I9LJhT2l) | 4:56 |
+| 64 | [Showstopper](https://open.spotify.com/track/3YpnwDPCp3yNUB9NBO3plZ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:29 |
+| 65 | [Period.](https://open.spotify.com/track/2DXQ8dS7PkrwgLqgX2t0sh) | [Smoove'L](https://open.spotify.com/artist/6FheakPfcCNN0NeROtOKeQ) | [Ice Cups And Shootouts](https://open.spotify.com/album/4vs6WKFkz4pctlEnLO2uCy) | 2:19 |
+| 66 | [Afro Blue](https://open.spotify.com/track/5cx3TUJjhXZJttt6nTUKzY) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Afro Blue](https://open.spotify.com/album/6FrOVQv6pmNkJB6dE5RKqV) | 3:51 |
+| 67 | [Fam Without Blood](https://open.spotify.com/track/7xLDettMGTIBwxoHhRxH2S) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:01 |
+| 68 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
+| 69 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `Ab8lnAAAAACpRkvQyiESpx98gdHQqVmI`
+Snapshot ID: `Ab8rKAAAAAC8Q8i7HtBcKNatZSM9hZD2`

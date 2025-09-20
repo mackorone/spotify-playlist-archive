@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Bien & Phyno",
-  "num_followers": 628430,
+  "num_followers": 628511,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-09-18 12:22:30",
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": "2025-09-18 12:22:30",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2025-09-18 12:22:30",
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
     },
     {
       "added_at": "2025-09-18 12:22:30",

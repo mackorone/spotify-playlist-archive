@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 84348,
+  "num_followers": 84377,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAACcOQIfI1RSc0/jb8EHqsB7",
+  "snapshot_id": "aMtLgAAAAABbm1oZBnP9MtAnI6SWeNZK",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demasiado Corazon",
+        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Demasiado Corazon",
+      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Band And Their Music: Campeones",
         "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 331720,
       "name": "Qu\u00edtate T\u00fa - Live",
       "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demasiado Corazon",
-        "url": "https://open.spotify.com/album/2IgZZffWbFgLioltFU54VE"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Demasiado Corazon",
-      "url": "https://open.spotify.com/track/203xPsmlzOYbPoUv4WL2kM"
     },
     {
       "added_at": null,

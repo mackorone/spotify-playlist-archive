@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: IDEMI
 
-1,274 songs - 3 day 14 hr 43 min
+1,275 songs - 3 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [Higher Elevation](https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04) | 6:13 | 2023-04-27 | 2023-09-08 |
 | [Higher Elevation](https://open.spotify.com/track/3AGTwVq5mmZmRZ4INK4wpv) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Higher Elevation](https://open.spotify.com/album/1D4EJmfAi8VJbMocGS5MaC) | 6:13 | 2023-01-20 | 2023-05-01 |
 | [Hold On, Let Go](https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Hold On, Let Go](https://open.spotify.com/album/73diRAl84rievVIadGPsoc) | 4:01 | 2025-08-21 |  |
-| [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 | 2025-06-19 |  |
+| [Hold You](https://open.spotify.com/track/42sEy8EwRIzAMQk5pACbcr) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Hold You](https://open.spotify.com/album/3tVg0WYwk5drh3NyXqJm8l) | 3:37 | 2025-06-19 | 2025-09-20 |
 | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/track/2LFLXzQe95ViTXZeq1WRdx) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [hollaback bitch \(with Shygirl & Channel Tres\)](https://open.spotify.com/album/1hITEiMMdQFFFS2mkWmFd5) | 3:23 | 2022-06-23 | 2022-09-16 |
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-01-21 | 2022-06-17 |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-11-24\* | 2022-02-05 |
@@ -852,6 +852,7 @@
 | [Peach](https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Peach](https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh) | 5:45 | 2023-04-06 | 2023-09-08 |
 | [Pearl](https://open.spotify.com/track/1l4fsop2H0buZdcYaa7KM1) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Pearl](https://open.spotify.com/album/7uyyNpmNR8yE1MqPNnxik0) | 3:54 | 2024-09-12 | 2025-03-14 |
 | [Perfect Life](https://open.spotify.com/track/1lCic9SNC6dEaYY0mokFsj) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Perfect Life](https://open.spotify.com/album/47TFvHtoVAsNYGUGl9Jv1G) | 3:57 | 2023-04-06 | 2023-10-20 |
+| [Phase](https://open.spotify.com/track/3CESG19e31e3WpUaIblz50) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Phase](https://open.spotify.com/album/3Qp1YBUgGBRpFEITXni0lk) | 3:14 | 2025-09-19 |  |
 | [Phone Call](https://open.spotify.com/track/3cVi9bWA3cGzHtYlWTIcCY) | [Henry Wu](https://open.spotify.com/artist/0IvTgqmNuZwVjEkkjzxLha) | [Phone Call](https://open.spotify.com/album/6rfqVlaBbJ4yYts6VSi8rx) | 4:30 | 2022-07-14 | 2022-12-17 |
 | [Phoneglow](https://open.spotify.com/track/1uvBA3JbqBFyK0Q0NxsJk0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Phoneglow / Eyes Go Blank](https://open.spotify.com/album/0jPeFnwJf6AKKOWVMoBInW) | 9:10 | 2024-06-21 | 2024-11-29 |
 | [Piano Skank](https://open.spotify.com/track/79XMhe7Y6KfuECqu1sEqKN) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW) | [Piano Skank](https://open.spotify.com/album/5WnCqwiHCV0DxkgZkAsEUh) | 4:37 | 2022-05-06 | 2022-09-16 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 582350,
+  "num_followers": 582397,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAC/0VvGByqS75EmKbEDSJ65",
+  "snapshot_id": "aMtLgAAAAAB/3L1/AxaBoHo9a1V4/Aad",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 192053,
       "name": "The Times They Are A-Changin'",
       "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocks And Gravel (Solid Road)",
+        "url": "https://open.spotify.com/album/4epjyxCSD9OV7SONWXecL6"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Rocks And Gravel (Solid Road)",
+      "url": "https://open.spotify.com/track/49fv1KJHAdY7Ml7fT6vyUE"
     },
     {
       "added_at": null,
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 258973,
-      "name": "Meet Me in the Morning",
-      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+      "duration_ms": 203506,
+      "name": "Buckets of Rain",
+      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
     },
     {
       "added_at": null,
@@ -556,9 +572,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Buckets of Rain",
-      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+      "duration_ms": 258973,
+      "name": "Meet Me in the Morning",
+      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
     },
     {
       "added_at": null,
@@ -815,22 +831,6 @@
       "duration_ms": 356226,
       "name": "Tombstone Blues",
       "url": "https://open.spotify.com/track/5JqsRFZYDtIK5Rgeuzd2Jv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 143066,
-      "name": "I Threw It All Away",
-      "url": "https://open.spotify.com/track/2HXnjMxrO4QccqE3Grwmd0"
     }
   ],
   "unique_name": "This Is Bob Dylan",

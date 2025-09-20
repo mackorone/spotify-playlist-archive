@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Dardan, Azet, Dhurata Dora
 
-130 songs - 5 hr 39 min
+131 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Bonzeneltern](https://open.spotify.com/track/3h9RWKFJ50an9X3xOhJ54g) | [Maxwell](https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Bonzeneltern](https://open.spotify.com/album/7IEWyYdEviyfbWwRgf7FbJ) | 2:57 | 2025-07-31 | 2025-09-13 |
 | [BORN SPINNER](https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [BORN SPINNER](https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8) | 3:03 | 2025-08-07 | 2025-09-09 |
 | [BOTTEGA](https://open.spotify.com/track/3cmfbLQkCBkyAxVNlApBsP) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [BOTTEGA](https://open.spotify.com/album/1nTDLd7iju1cTk1fiWm5tS) | 2:25 | 2025-07-17 | 2025-08-09 |
+| [Brennpunkt](https://open.spotify.com/track/1ZqLWpVs4LjkBDOrWRtivQ) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Brennpunkt](https://open.spotify.com/album/4aJn7mGqeuzmfAEEREdCHS) | 3:23 | 2025-09-19 |  |
 | [Bubblegum](https://open.spotify.com/track/1dW3Cd4MshbzcUSIRktqGz) | [Lucio101](https://open.spotify.com/artist/4LwRgSkj7AJJTKLnEaHjMv) | [Bubblegum](https://open.spotify.com/album/6lXWGv7kjGhyH5IUxASWNs) | 1:51 | 2025-08-28 | 2025-09-13 |
 | [BWL](https://open.spotify.com/track/6eBS8edAI8MXMJ1nPKlrUk) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [BWL](https://open.spotify.com/album/0qVVMhGTR9cQcBG2C4FerU) | 3:35 | 2025-07-17 | 2025-07-25 |
 | [Camilla](https://open.spotify.com/track/4IgsV4j9x88UgXTiYSzMK5) | [YUNG SAINT PAUL](https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R) | [Camilla](https://open.spotify.com/album/4MGZL6LTZHQYWM1tFGPDMS) | 3:12 | 2025-07-17 | 2025-08-29 |

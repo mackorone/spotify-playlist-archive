@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,350 songs - 2 day 21 hr 49 min
+1,354 songs - 2 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Can I Tell You I Like You?](https://open.spotify.com/track/6LSkLGDk87wGKawiRTqwdy) | [Kinnaird](https://open.spotify.com/artist/0csD4vo1AqbNJkm7b80BGg) | [Can I Tell You I Like You?](https://open.spotify.com/album/0vH5RGYzgJNm1nS6bkFu5u) | 2:18 | 2023-01-06 | 2024-06-01 |
 | [Can We Take The Night Off?](https://open.spotify.com/track/7uOvb1oTvrCGiU42h4rzE5) | [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Can We Take The Night Off?](https://open.spotify.com/album/4wgjdiDDwSiSkL4QwUZKlG) | 3:30 | 2022-09-16 | 2023-01-14 |
 | [Cardigan](https://open.spotify.com/track/7CCKYz9WZ0G2D3nELghKl3) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Cardigan](https://open.spotify.com/album/5boWNREF7G7SqWNGOzmhFO) | 3:10 | 2022-09-23 | 2024-03-02 |
+| [Cat's Cradle \- Spanish Version](https://open.spotify.com/track/7FprIbwrHFDESevTUjb5uL) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz), [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Cat's Cradle \(Spanish Version\)](https://open.spotify.com/album/6U5ADCkecn9TAe5Y9tfmum) | 3:50 | 2025-09-19 |  |
 | [Catch Me](https://open.spotify.com/track/6AdgfvJ4y3BzOVvUYX6xkb) | [LilSaku](https://open.spotify.com/artist/1ArRwk2d2zyiu9MKfFkUie), [wethher](https://open.spotify.com/artist/4U3s5eKRWiJYp9S9G0B1To) | [Catch Me](https://open.spotify.com/album/7nXGtcBDdEwWiSV4MwCCMJ) | 2:09 | 2021-01-23 | 2021-02-06 |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-18 |  |
 | [Ce n'est pas de la chance](https://open.spotify.com/track/4GvY9PDlREAnpeTmGJAESR) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [medium plaisir](https://open.spotify.com/album/1Uq4V1N2AL1eI3M4cqq9sr) | 4:52 | 2024-04-19 |  |
@@ -867,6 +868,7 @@
 | [OOZ](https://open.spotify.com/track/02SS3PqtrKPZpWnTtyTFaN) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [OOZ](https://open.spotify.com/album/1NZjWMc4WucANW1OGEFUvo) | 4:29 | 2021-02-13 | 2021-03-27 |
 | [optimist](https://open.spotify.com/track/6sSE5oFiUSPpijlIBxeF70) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [optimist](https://open.spotify.com/album/2RiSaykU1d75bXHOKxAfvk) | 2:48 | 2025-04-11 |  |
 | [Orange Hoodie](https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Orange Hoodie](https://open.spotify.com/album/7kjDSALwRw5EjnkNzTyc5t) | 2:59 | 2021-03-27 | 2021-06-19 |
+| [Otherworld](https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Running With Scissors](https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act) | 4:10 | 2025-09-19 |  |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-09-17 |
 | [out of place](https://open.spotify.com/track/25bLY2lcGRFDlwLVImTdL4) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [out of place](https://open.spotify.com/album/0Ip616glU6BrtTZZcpN98D) | 2:42 | 2023-07-28 | 2023-10-14 |
 | [Outcast](https://open.spotify.com/track/656r03fVc91w2pXprmCQfd) | [Izabel](https://open.spotify.com/artist/3YTr9y6XOl88xxHv246Vlf) | [WAVES](https://open.spotify.com/album/6MrrskGB8xXQCK3VUcFfjX) | 3:28 | 2021-10-16 | 2021-10-23 |
@@ -1143,6 +1145,7 @@
 | [Swallow](https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Swallow](https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8) | 2:59 | 2024-02-02 | 2024-03-16 |
 | [SWEAT](https://open.spotify.com/track/17UhmlhHX5kj1MFOnvo5FT) | [The Sophs](https://open.spotify.com/artist/2zX0ROHqU3TEfFtKBtqOAE) | [SWEAT](https://open.spotify.com/album/1Opey02fRwqQTeOqwUSvY7) | 3:33 | 2025-05-23 |  |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-14 | 2021-11-20 |
+| [Sweet Dreams](https://open.spotify.com/track/3dVx0gm3xfD9OFMBSH8Py9) | [evvvie](https://open.spotify.com/artist/2yzLAaeqPYYN2FD8wM6Y9m) | [Sweet Dreams](https://open.spotify.com/album/3f6z5GVUfANyFJmiKQF2ej) | 3:21 | 2025-09-19 |  |
 | [sweet taste](https://open.spotify.com/track/5qBkWkzOGMAyqfboaaaNAi) | [sol williams](https://open.spotify.com/artist/2MTS6xN7Q1Bgu93YCL2AsH) | [sweet taste](https://open.spotify.com/album/0g0q7BHDLMZRCVlCmFa7Xf) | 2:24 | 2021-04-24 | 2021-08-14 |
 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 | 2022-08-19 | 2023-12-16 |
 | [Sweet Tooth](https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Sweet Tooth](https://open.spotify.com/album/7zSMZnX4BvUQNYQLMN54Yo) | 2:13 | 2021-02-06 | 2021-02-20 |
@@ -1173,6 +1176,7 @@
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2022-03-04 | 2022-08-06 |
 | [That I Won't Do](https://open.spotify.com/track/3mZnzp5DzIxmnSYrUBME8b) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [That I Won't Do](https://open.spotify.com/album/1YrYPr2CJZztg9s3RdUdNo) | 2:42 | 2021-11-13 | 2022-04-16 |
 | [That's Life](https://open.spotify.com/track/32q9OuCp7wFdLZKuCXm0wl) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [That's Life](https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j) | 2:27 | 2021-06-27 | 2021-08-14 |
+| [That's My Love](https://open.spotify.com/track/7h9JeOJ5hayqsQjnZibq0h) | [FLOOR CRY](https://open.spotify.com/artist/0oNT7doR0CV9mAXYDSk8Tx) | [That's My Love](https://open.spotify.com/album/4hrsbJMzAgdWiwGH2Ri2G9) | 2:37 | 2025-09-19 |  |
 | [The Bird Behind The Drapes](https://open.spotify.com/track/7MBQxWmHe7FI3I8xRMEjs2) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv), [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [The Bird Behind The Drapes](https://open.spotify.com/album/3nO8SwDNqxzQOHGWwg4XoE) | 3:53 | 2021-04-17 | 2021-05-22 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-04-10 | 2021-04-17 |
 | [The Door](https://open.spotify.com/track/3n5khQAAiFapxjGUCHnzOz) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [The Door](https://open.spotify.com/album/7gSKIZ2I5y9HbafiSm9Fn5) | 3:31 | 2021-12-11 | 2022-03-19 |

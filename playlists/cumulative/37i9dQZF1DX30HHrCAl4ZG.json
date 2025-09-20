@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from The Last Dinner Party",
+  "description": "Explore all things indie rock right now. Featuring music from NewDad",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -854,7 +854,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 254920,
       "name": "Achilles And",
       "url": "https://open.spotify.com/track/74yoALVa8n1cOi4zdAZQ0t"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 161571,
       "name": "Animaru",
       "url": "https://open.spotify.com/track/1SkY6npvIxrTAU1cP4XMIg"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 213149,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/6SfellStjQsIgVgQQaQGWP"
@@ -9736,7 +9736,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 197113,
       "name": "Door",
       "url": "https://open.spotify.com/track/6SqYRVpl5gT4WZyuLBCsgV"
@@ -9964,6 +9964,24 @@
       "duration_ms": 219292,
       "name": "Dreamland",
       "url": "https://open.spotify.com/track/4n0vLtWzaTCpkT3nI06xos"
+    },
+    {
+      "album": {
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "Drenched",
+      "url": "https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX"
     },
     {
       "album": {
@@ -10912,7 +10930,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 235013,
       "name": "Event of a Fire",
       "url": "https://open.spotify.com/track/6XeNjkIGrphY3kzyU5RZJk"
@@ -14438,7 +14456,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 193141,
       "name": "Heartthrob",
       "url": "https://open.spotify.com/track/7wPD6MvFi8KS4Znr7mXBLj"
@@ -18634,7 +18652,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 148455,
       "name": "Lala",
       "url": "https://open.spotify.com/track/0PCB6i5MHdB94K3gEFvn2Q"
@@ -18670,7 +18688,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 251253,
       "name": "Last Goodbye",
       "url": "https://open.spotify.com/track/1qaHTGjjAYsteotGY6vXue"
@@ -18728,7 +18746,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 118579,
       "name": "LATELY",
       "url": "https://open.spotify.com/track/5ZFv5WTFx31j0eXRIN9z8s"
@@ -20300,7 +20318,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 218151,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
@@ -21566,6 +21584,24 @@
       "duration_ms": 201372,
       "name": "Mirtazapine",
       "url": "https://open.spotify.com/track/6crhRTyzHvzxB6Tjr09LbR"
+    },
+    {
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218335,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
     },
     {
       "album": {
@@ -24964,7 +25000,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 261164,
       "name": "Pick Up That Knife",
       "url": "https://open.spotify.com/track/5ZcOoawIU0JU1se1prra62"
@@ -25000,7 +25036,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 220865,
       "name": "Pie in the Sky",
       "url": "https://open.spotify.com/track/5aAQKNQROaiA2uVQo8Bp1t"
@@ -25126,7 +25162,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 272933,
       "name": "Politix",
       "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
@@ -25220,6 +25256,28 @@
       "duration_ms": 269411,
       "name": "Pool House",
       "url": "https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq"
+    },
+    {
+      "album": {
+        "name": "Poor Things (feat. Ben Kweller)",
+        "url": "https://open.spotify.com/album/2yBpDeK30wB65LDQzAqlU9"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        },
+        {
+          "name": "Ben Kweller",
+          "url": "https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Poor Things (feat. Ben Kweller)",
+      "url": "https://open.spotify.com/track/0G5bjovI6eG4dUzMozaw6L"
     },
     {
       "album": {
@@ -26189,6 +26247,24 @@
     },
     {
       "album": {
+        "name": "Red Couch",
+        "url": "https://open.spotify.com/album/1767l1LGvYXvlVsl2Oq924"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170701,
+      "name": "Red Couch",
+      "url": "https://open.spotify.com/track/3Ng7teL4xbJAgEpXJbHz5y"
+    },
+    {
+      "album": {
         "name": "Red Hot",
         "url": "https://open.spotify.com/album/2p1CTtfcaZTL6isuwjUTf2"
       },
@@ -26420,7 +26496,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 125782,
       "name": "Richer Feeling",
       "url": "https://open.spotify.com/track/72o0dEaBzdIUlg8vR2yQmu"
@@ -26787,6 +26863,24 @@
     },
     {
       "album": {
+        "name": "rooster",
+        "url": "https://open.spotify.com/album/2wDHpVaU5WuuRgkn52Lp2e"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335038,
+      "name": "rooster",
+      "url": "https://open.spotify.com/track/5gTYOYsiGMYVa6WVf98q1n"
+    },
+    {
+      "album": {
         "name": "why aren't you laughing?",
         "url": "https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh"
       },
@@ -26950,7 +27044,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 277617,
       "name": "Safeandsound",
       "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
@@ -27486,7 +27580,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/0vbdCsYHg1by09QKOGO4PR"
@@ -30115,6 +30209,28 @@
     },
     {
       "album": {
+        "name": "Stillborns and Six Lane Highways (With Annie DiRusso)",
+        "url": "https://open.spotify.com/album/7CQ6bwCdun94WnNmkHAiHx"
+      },
+      "artists": [
+        {
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
+        },
+        {
+          "name": "Annie DiRusso",
+          "url": "https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140478,
+      "name": "Stillborns and Six Lane Highways (With Annie DiRusso)",
+      "url": "https://open.spotify.com/track/0an3WHqUXS2kLZHy76hTsn"
+    },
+    {
+      "album": {
         "name": "Stop Making This Hurt",
         "url": "https://open.spotify.com/album/6Zumf6wFEd0VHxHIUoMXhX"
       },
@@ -31447,6 +31563,24 @@
     },
     {
       "album": {
+        "name": "Teenage Messiah",
+        "url": "https://open.spotify.com/album/0NQeE4xYtYeTOrbilll4Ao"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296724,
+      "name": "Teenage Messiah",
+      "url": "https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA"
+    },
+    {
+      "album": {
         "name": "Tek It (I Watch the Moon)",
         "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
       },
@@ -32436,7 +32570,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 242001,
       "name": "There's A Part I Can't Get Back",
       "url": "https://open.spotify.com/track/1dZcRgX7UjJWNFAdtr8vRv"
@@ -33133,6 +33267,24 @@
     },
     {
       "album": {
+        "name": "Togetherness Is All I'm After",
+        "url": "https://open.spotify.com/album/6ZrLd5YDJmlZZbSbpVIE0d"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251204,
+      "name": "Togetherness Is All I'm After",
+      "url": "https://open.spotify.com/track/77YLvKyl2Ta0acpdvbAAbP"
+    },
+    {
+      "album": {
         "name": "Tom",
         "url": "https://open.spotify.com/album/4Ye7ihf3eLlE7P2Ukgy5xL"
       },
@@ -33577,6 +33729,24 @@
     },
     {
       "album": {
+        "name": "Bleeds",
+        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Townies",
+      "url": "https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo"
+    },
+    {
+      "album": {
         "name": "Toyota Camry",
         "url": "https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB"
       },
@@ -33952,7 +34122,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 194760,
       "name": "Tyrants",
       "url": "https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd"

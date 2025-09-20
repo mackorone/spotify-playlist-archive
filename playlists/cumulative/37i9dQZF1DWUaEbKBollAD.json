@@ -849,6 +849,28 @@
     },
     {
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/2vnLGgIxwbShPY4ia6MrOc"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        },
+        {
+          "name": "MR.BLACK",
+          "url": "https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192827,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/0iVL6ID87Nh8jYY6UX1g5c"
+    },
+    {
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
       },
@@ -1778,7 +1800,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 215500,
       "name": "On The Road",
       "url": "https://open.spotify.com/track/714Ile0WQOorAkduRufKqh"
@@ -3002,7 +3024,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 222299,
       "name": "Warriors Of Light",
       "url": "https://open.spotify.com/track/4TWinoKTnaa62vAW3ph80f"
@@ -3064,6 +3086,24 @@
       "duration_ms": 145260,
       "name": "What Would Gerry Do",
       "url": "https://open.spotify.com/track/0AcAZoVPYbGf1oIEn8UDiG"
+    },
+    {
+      "album": {
+        "name": "What's a Girl to Do in '25",
+        "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148047,
+      "name": "What's a Girl to Do in '25",
+      "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
     },
     {
       "album": {

@@ -3175,6 +3175,40 @@
     },
     {
       "album": {
+        "name": "H\u00c1BITOS",
+        "url": "https://open.spotify.com/album/6lUxTH0QyYPYp2bppIhXCy"
+      },
+      "artists": [
+        {
+          "name": "GALV\u00c3O",
+          "url": "https://open.spotify.com/artist/0X1Ete1bGqWYxmLVHXLRCF"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "DU\u2019SANTT",
+          "url": "https://open.spotify.com/artist/77TsYg8ush6jFXeYHgOfhx"
+        },
+        {
+          "name": "Panthera",
+          "url": "https://open.spotify.com/artist/1wpyTYHAIPzKn9ddtwCFMC"
+        },
+        {
+          "name": "SAMY",
+          "url": "https://open.spotify.com/artist/3SmzudLm40imM4neFpifjl"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248625,
+      "name": "H\u00c1BITOS",
+      "url": "https://open.spotify.com/track/4H1haNn3ZwxgMjfuRCwX7l"
+    },
+    {
+      "album": {
         "name": "Imprevis\u00edvel",
         "url": "https://open.spotify.com/album/5EEDSyWXqRE9TAEM9hD404"
       },
@@ -5986,7 +6020,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 147043,
       "name": "Samba da Volta",
       "url": "https://open.spotify.com/track/6gT9APBt78Jcn5Qfqx96RW"

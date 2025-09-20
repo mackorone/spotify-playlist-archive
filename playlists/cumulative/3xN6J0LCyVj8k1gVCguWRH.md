@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,302 songs - 12 day 8 hr 25 min
+5,305 songs - 12 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2775,6 +2775,7 @@
 | [Love Me](https://open.spotify.com/track/0IXUWH8jL2vpFRvTkVeWCW) | [Jack Sleiman](https://open.spotify.com/artist/4eewS27bMIhWcXGukOdXAj), [MiMS](https://open.spotify.com/artist/76RrKpsvOmSKG8CIjROdSG), [Felly](https://open.spotify.com/artist/5PvXSHrO1GatqTe6GuBIBp), [Em.ILY](https://open.spotify.com/artist/2EvSEoin8Qz95gGetwGx0c) | [Love Me](https://open.spotify.com/album/0I3rfdNMO2HkWMKFKcuHBT) | 2:38 | 2020-11-20 | 2020-12-05 |
 | [Love Me](https://open.spotify.com/track/3XCiRxQ5uB3YVSEB4P7uVs) | [Pale Moon](https://open.spotify.com/artist/0Fs4anTtuXgqXzOFOdfOs9) | [Love Me](https://open.spotify.com/album/5Ys0J1F1C5qYGA6E6opDdy) | 4:30 | 2024-06-07 | 2024-06-19 |
 | [Love Me \- Radio Version](https://open.spotify.com/track/1BBshz6snWgae7YsnuZhu2) | [ALEX IVA](https://open.spotify.com/artist/7AHuMxR95Sx5O1uJdfsCkN), [Jesus Luz](https://open.spotify.com/artist/5SRrRUx9kNNtPhAwWSJPGr), [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi) | [Love Me](https://open.spotify.com/album/06ZS9daIVLjhzja2G0c3Oc) | 2:51 | 2022-10-21 | 2022-11-12 |
+| [Love Me Do](https://open.spotify.com/track/4BCLqsH9RVMbCupXCoa3uw) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Love Me Do](https://open.spotify.com/album/4lIKVgNu0NdzF5e6cqtxQu) | 2:14 | 2025-09-19 |  |
 | [Love Me Gently Remix](https://open.spotify.com/track/1cF7Xi9bsUjSOgrECOLq9G) | [Destani Wolf](https://open.spotify.com/artist/0SiK5iC7tDZCq3HIH4EEBl), [Mars Today](https://open.spotify.com/artist/60jVpPkp3hgECctyeE9gWH) | [Love Me Gently Remix](https://open.spotify.com/album/5dx4UbMPlvuY5FPtjDGmLj) | 3:15 | 2020-11-13 | 2020-11-28 |
 | [Love Me If You Must](https://open.spotify.com/track/70fYiSipzPY96LG9ZAkw63) | [ET Boys](https://open.spotify.com/artist/3QxTGYOFDszXNRsWRMKd9z) | [Love Me If You Must](https://open.spotify.com/album/5lN08s1lOWMYCFRjzQCayA) | 3:54 | 2025-03-05 | 2025-03-17 |
 | [Love Me JeJe](https://open.spotify.com/track/1eDI5oU04SLsXl0TfxfwYf) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:58 | 2024-08-12 |  |
@@ -3727,6 +3728,7 @@
 | [Receipts](https://open.spotify.com/track/4nA0z8xySwq7Nt39ee307k) | [Sophie Dorsten](https://open.spotify.com/artist/5CdWY3kUKjlO7gDpdW2JXR), [Alex Dorsten](https://open.spotify.com/artist/0n8DZSotJdu0tz4cFTZHNF) | [Receipts](https://open.spotify.com/album/4LJbO3nVPwpADmyqcM8f2M) | 3:43 | 2021-10-16 | 2021-10-31 |
 | [Receive Sense](https://open.spotify.com/track/3kDjEsDYuyMWZSyDexUPO0) | [Prolifik Plsoo](https://open.spotify.com/artist/3gdXgaIc6lIxOzpqpY1TJZ) | [Receive Sense](https://open.spotify.com/album/7qPyZsKT8CkQ14Iohk02qY) | 2:39 | 2020-10-04 | 2020-10-21 |
 | [Recharging](https://open.spotify.com/track/38l4nNFByGTln9ldKf1las) | [BIGLER](https://open.spotify.com/artist/7pIt5II3N96Xl5SCwSr745) | [Recharging](https://open.spotify.com/album/2GSoPUaRRYre3Ong4W8YZw) | 3:59 | 2023-09-15 | 2023-12-14 |
+| [Reckless](https://open.spotify.com/track/4tX3cl6lrfiaJOYGxPvH5V) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Reckless](https://open.spotify.com/album/0n1h084mDDdcQoHXkqqMup) | 2:46 | 2025-09-19 |  |
 | [Reckless Car](https://open.spotify.com/track/46NeGtsJJ0q9Yd6kuIkkpb) | [Bodine Monet](https://open.spotify.com/artist/3yYjWBj7KIlhTtr8LPeKVz) | [Reckless Car](https://open.spotify.com/album/4WRXuXWthi8zWZmDWv0jm5) | 3:06 | 2025-04-19 | 2025-05-02 |
 | [Reckoner](https://open.spotify.com/track/78N4rnLLCmWFHGzb9kXMdi) | [Steven Bamidele](https://open.spotify.com/artist/71MVm1MdM62WiEBkSIjIA6) | [Summing Up: Loose Ends](https://open.spotify.com/album/2kvIfzU6fJYNAFyCLORzKm) | 3:58 | 2024-07-19 | 2024-08-13 |
 | [Reckoning](https://open.spotify.com/track/63fQAhgOzcVWwi4wyDixaK) | [Slstrss](https://open.spotify.com/artist/3I2THwf2FsgtggwlhGrube) | [Reckoning](https://open.spotify.com/album/3qCaXBFLoz6xJVWbgFn5zy) | 3:22 | 2024-06-14 | 2024-06-26 |
@@ -4589,6 +4591,7 @@
 | [THE SPACE BETWEEN THE SECONDS](https://open.spotify.com/track/5q9oLsYu0zUTBAozOxrfZi) | [THE SPLATTER PATTERN](https://open.spotify.com/artist/0noon3hvMOUsSXclOA8ji0) | [WHILE WE WERE MAKING PLANS](https://open.spotify.com/album/607iu1qDwg5PqwfrtKFimj) | 4:50 | 2023-06-16 | 2023-07-09 |
 | [The Steps](https://open.spotify.com/track/2N2niBI0xAbLl3jI6l4S7g) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/4qNGDMsRNqDQZPkTWyyeRF) | 4:07 | 2020-08-20 | 2023-02-12 |
 | [The Steps](https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 4:07 | 2023-07-21 | 2023-08-28 |
+| [The Story](https://open.spotify.com/track/4pdhcVH0ugWaH2V0Ee1xC1) | [Jordan Corey](https://open.spotify.com/artist/7fVAMCPyWtZf1yx92YTBmJ) | [The Tunnel + the Light](https://open.spotify.com/album/2wVBD6IOKMwM0uKitmq5YI) | 3:57 | 2025-09-19 |  |
 | [The Sun \(feat\. Bryson Tiller & Raphael Saadiq\)](https://open.spotify.com/track/6Hi6Y4vSJH03Wj4w6iEBPs) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [See You When I am Famous!!!!!!!!!!!!](https://open.spotify.com/album/1RSTPdgNKZxXvdTpZ5TuJ5) | 2:36 | 2020-08-20 | 2023-08-28 |
 | [The Sun \(feat\. Bryson Tiller & Raphael Saadiq\)](https://open.spotify.com/track/1OtbUHPOgOwBiQmo4rBeZz) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [See You When I am Famous!!!!!!!!!!!!](https://open.spotify.com/album/3AlnhGxi6Mdfe0ndoTwKSj) | 2:37 | 2021-11-18 | 2023-02-12 |
 | [The Sun, The Wine and You](https://open.spotify.com/track/5ji6n1mtwW6AOR3gYCJlBY) | [IurisEkero](https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID) | [The Sun, The Wine and You](https://open.spotify.com/album/0r4wWyR4sE8xhInofpwC7o) | 3:50 | 2025-07-20 | 2025-08-02 |

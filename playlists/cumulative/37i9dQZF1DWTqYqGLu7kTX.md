@@ -4,7 +4,7 @@
 
 > Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
 
-290 songs - 14 hr 16 min
+291 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Muhammad Ali](https://open.spotify.com/track/7nqrM3YD2EfjtaGPvd1dE3) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Muhammad Ali](https://open.spotify.com/album/7mAfZEurqdGBfykp7RvbdP) | 2:18 | 2024-07-26 | 2024-08-24 |
 | [Munde Desi](https://open.spotify.com/track/04Y40castrKPhpKehco0E7) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Welcome To The Revolution](https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3) | 2:52 | 2023-07-25 | 2023-10-13 |
 | [MUNDE HOOD DE](https://open.spotify.com/track/0ZHTAMmcduDQMvri24XPnu) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:45 | 2024-11-16 | 2024-12-25 |
-| [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-02-13 |  |
+| [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-02-13 |  |
 | [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-16 |  |
 | [My Boyz](https://open.spotify.com/track/3CRjjTpw9dpg3P84SHmszK) | [Kambi Rajpuria](https://open.spotify.com/artist/0D1zUm6fYTA4tzlGjmnYFw), [Desi Ma](https://open.spotify.com/artist/4Xxi26Q3J73FVmLpBtLnH0), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Unity, Vol\. 1](https://open.spotify.com/album/6dMxu2itWiv3N804kxn6PW) | 3:17 | 2024-03-26 | 2024-08-10 |
 | [My Way](https://open.spotify.com/track/0IU3udts4NQ1C4KHRfv6sv) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:30 | 2025-01-24 |  |
@@ -200,7 +200,7 @@
 | [No Regrets](https://open.spotify.com/track/2aAM91sTMQ81KdwYLXPiwM) | [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Lazyeye](https://open.spotify.com/artist/2EYUCVTwCcAqNnmCPCAAoQ) | [No Regrets](https://open.spotify.com/album/6KRRQoVmR0BMZn90t4i0m4) | 2:35 | 2024-04-03 | 2024-06-11 |
 | [Not Again](https://open.spotify.com/track/1GeYg8ZmnjUezVhIzdfRmd) | [Hemmy](https://open.spotify.com/artist/4MET84hruIiQ3Z05lLDNO6), [Bekhauf](https://open.spotify.com/artist/11TNfhP5pMAgWbDwPhvdg0) | [Not Again](https://open.spotify.com/album/4YoP0DeqCUpl8GtJSYIkxZ) | 3:03 | 2024-04-05 | 2024-05-23 |
 | [Not Allowed](https://open.spotify.com/track/6GHamf2yNnMghMPGZ1CDmW) | [Indyy Sanghera](https://open.spotify.com/artist/3NLsLe2pvDtx8sDNChqQCN), [rocky](https://open.spotify.com/artist/5SdlpwxcJbR4JjrkmPEl1G) | [Not Allowed](https://open.spotify.com/album/28YNr2IZpS6LcpBfOfvYWq) | 3:30 | 2024-04-02 | 2024-05-17 |
-| [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 |  |
+| [Nothing Lasts](https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 2:56 | 2024-02-15 | 2025-09-20 |
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2023-03-18 | 2025-03-01 |
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-06-23 | 2024-04-19 |
 | [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 | 2024-04-05 | 2024-08-31 |
@@ -257,6 +257,7 @@
 | [Still Rollin](https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-06-23 | 2025-04-26 |
 | [Street Fame](https://open.spotify.com/track/2lAI80sYra6NhSdRAWF4ks) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Vansh DX](https://open.spotify.com/artist/2sO8oRYnSaKKBRjavZRpE3) | [Street Fame](https://open.spotify.com/album/4yL77lGxXRq3KRXIeETS9J) | 3:32 | 2025-07-18 |  |
 | [Streetwise](https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:44 | 2023-09-04 | 2023-11-13 |
+| [Strings Attached](https://open.spotify.com/track/5qXOKKtAPWAzsf2fEQIxIq) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Strings Attached](https://open.spotify.com/album/1u5zGS19vX75xh0zW6IAU0) | 2:34 | 2025-09-19 |  |
 | [Sultan Rahi](https://open.spotify.com/track/6xynqprt4AGDohJraoSEhZ) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ricky Chohan](https://open.spotify.com/artist/6FDEgXyJ1K7ctKJfkLwonD) | [Sultan Rahi](https://open.spotify.com/album/5S3aMciVvdj3cl0X39UMWj) | 1:49 | 2024-11-21 | 2025-05-10 |
 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 | 2025-06-16 |  |
 | [SUPREME](https://open.spotify.com/track/4A0DXFx7xuaXx5ak9Ufoc1) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Xpensive](https://open.spotify.com/album/65XPuQWFOgLYGnxrOQjKmt) | 2:48 | 2023-03-18 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 21285,
+  "num_followers": 21332,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAADDKEB0Ev3TrTgjrsARtw5Y",
+  "snapshot_id": "aMtLgAAAAAD9ffv4FW2f7g+3+2HZmcwF",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I WANT MY LOVED ONES TO GO WITH ME",
-        "url": "https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW"
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
       },
       "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 169026,
-      "name": "Way Of The World (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy"
+      "duration_ms": 195386,
+      "name": "20-20",
+      "url": "https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP"
     },
     {
       "added_at": null,
@@ -231,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "still hungover",
-        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+        "name": "I WANT MY LOVED ONES TO GO WITH ME",
+        "url": "https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW"
       },
       "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 195386,
-      "name": "20-20",
-      "url": "https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP"
+      "duration_ms": 169026,
+      "name": "Way Of The World (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy"
     },
     {
       "added_at": null,

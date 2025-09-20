@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-2,566 songs - 5 day 12 hr 53 min
+2,567 songs - 5 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,13 +315,14 @@
 | [BREAK MY SOUL](https://open.spotify.com/track/2KukL7UlQ8TdvpaA7bY3ZJ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BREAK MY SOUL](https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP) | 4:38 | 2022-06-22 | 2022-07-17 |
 | [BREAK MY SOUL](https://open.spotify.com/track/40KCN2nYImUounlfO5Cdzn) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/3ctW8o8ABBCNWWkdIvEGgV) | 4:38 | 2022-07-30 | 2022-08-02 |
 | [BREAK MY SOUL](https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:38 | 2022-08-01 | 2022-08-16 |
-| [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-09-16 |  |
-| [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 | 2025-09-17 | 2025-09-19 |
+| [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 | 2025-09-16 | 2025-09-20 |
+| [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 | 2025-09-17 |  |
 | [Bring it on, bring it all](https://open.spotify.com/track/26SzKaorApo4AFsVcCekkF) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Gå för glory](https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a) | 3:47 | 2025-01-18 | 2025-01-20 |
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2022-05-16 | 2022-05-29 |
 | [BRODIE](https://open.spotify.com/track/2P2KwUw2Tdhry4DX34WkSQ) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [BRODIE](https://open.spotify.com/album/731Z71rhXYS6ZYR2cmqR2n) | 2:41 | 2022-08-20 | 2022-08-22 |
 | [Brottslingar](https://open.spotify.com/track/5o8lrG703lxW7sxvLzIWhC) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Unge Med Extra Energi](https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T) | 3:03 | 2021-10-23 | 2021-10-24 |
 | [Brände hela lönen](https://open.spotify.com/track/6ro4XzciI1U2JMZd3QfM2u) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [Brände hela lönen](https://open.spotify.com/album/3kJ50xZWdFsdZAwnZsZPz2) | 2:45 | 2021-10-01 | 2021-10-04 |
+| [BUBBEL](https://open.spotify.com/track/3qkMysp3aCh7zc9126F9Df) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [BUBBEL](https://open.spotify.com/album/25QLKqY6jUG6W1rxtDTeoR) | 2:06 | 2025-09-19 |  |
 | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd), [Sofie Svensson & Dom Där](https://open.spotify.com/artist/7LBwVPl8kIn3I949KmBVim) | [BUBBEL PÅ BALKONGEN](https://open.spotify.com/album/09dL2m4Jx62jwDYqGhtCcn) | 2:46 | 2022-06-25 | 2024-01-04 |
 | [Bullerbyn är död](https://open.spotify.com/track/50tyzSlh6cGO2WIMilA6Y3) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bullerbyn är död](https://open.spotify.com/album/1O6p1ZEHM8cCQYv3cZfYdq) | 2:37 | 2025-02-03 | 2025-05-04 |
 | [Bullet](https://open.spotify.com/track/3DMq9xe5H8TTwi1FQfvcDF) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 3:23 | 2022-06-18 | 2022-06-26 |
@@ -1107,7 +1108,7 @@
 | [IKNOW IKNOW](https://open.spotify.com/track/5w7VnCARb24upPxk3Q9nMW) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:53 | 2024-10-26 | 2024-10-28 |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2021-06-07 | 2021-09-28 |
 | [Ikon](https://open.spotify.com/track/7y3tROxVvdzvJGu4NgWV6l) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Ikon](https://open.spotify.com/album/15j8wwgCOjSLP5wP3lA3Md) | 2:41 | 2023-02-01 | 2023-02-28 |
-| [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-12 |  |
+| [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-12 | 2025-09-20 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-13 | 2024-04-21 |
 | [In corpore sano](https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg) | [Konstrakta](https://open.spotify.com/artist/0mrbJs6eUt85g1ozyYMiUt) | [In corpore sano](https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI) | 2:59 | 2022-05-16 | 2022-05-29 |
 | [In i dimman](https://open.spotify.com/track/095zAxJmG96ap3ol3zVRZs) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/28RPgvITk9r0msUN8PVJVX) | 2:53 | 2022-02-28 | 2022-06-10 |

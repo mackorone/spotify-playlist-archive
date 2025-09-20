@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Sammy Virji
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,301 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,312 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 11 | [Phases](https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Phases](https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ) | 3:04 |
 | 12 | [7 Conversations](https://open.spotify.com/track/2Em2zk11fhl9hAlJzfZaRv) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [Ray Pelka](https://open.spotify.com/artist/4aujT37M75QocEJDguSHQX) | [Primrose](https://open.spotify.com/album/3onMVI57ow1sE8SuLcCVEd) | 3:17 |
 | 13 | [Hypnotic](https://open.spotify.com/track/1ulorUgFxDQdshBrtzgYRK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Hypnotic](https://open.spotify.com/album/4pYBgkBcpcqhEOfrLCBKWc) | 2:58 |
-| 14 | [can't get a](https://open.spotify.com/track/3gG7zAZT8hQjoxbSnxwPDK) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [](https://open.spotify.com/album/null) | 2:00 |
+| 14 | [can't get a](https://open.spotify.com/track/3gG7zAZT8hQjoxbSnxwPDK) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [tumblrcore](https://open.spotify.com/album/4pV1IUmiJ899ZQrzdyT6qm) | 2:00 |
 | 15 | [Restart \(ft\. KLP\)](https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Restart \(ft\. KLP\)](https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71) | 3:35 |
 | 16 | [System](https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [System](https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk) | 3:21 |
 | 17 | [Original Don](https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Original Don](https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL) | 2:48 |

@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> Who's now and next in pop\. Cover: Kali Uchis & Ravyn Lenae
+> Who's now and next in pop\. Cover: Madison Beer
 
 2,694 songs - 5 day 19 hr 17 min
 

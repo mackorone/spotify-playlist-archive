@@ -2325,8 +2325,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
       "artists": [
         {
@@ -6599,6 +6599,24 @@
     },
     {
       "album": {
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
+    },
+    {
+      "album": {
         "name": "My Mouth (la la la)",
         "url": "https://open.spotify.com/album/41JIT907XyLYcUYlyXWAj7"
       },
@@ -8694,7 +8712,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 136925,
       "name": "Starry Eyed (with Chelsea Cutler)",
       "url": "https://open.spotify.com/track/4qPEcB7tDrrGu0eheFa6H4"

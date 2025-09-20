@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: CASIOPEA",
-  "num_followers": 213500,
+  "num_followers": 213547,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEbmS7exPABPTO7dsU74zKOs4lI+",
+  "snapshot_id": "AAAAAOpDEuE8eva5mjB0cAemzDKw49O+",
   "tracks": [
     {
       "added_at": "2025-08-29 04:00:27",
@@ -23,6 +23,26 @@
       "duration_ms": 276880,
       "name": "SKY SO HIGH",
       "url": "https://open.spotify.com/track/6jgQrjaRM6gKBQfabAhnzy"
+    },
+    {
+      "added_at": "2025-09-19 04:00:09",
+      "album": {
+        "name": "The Lamb of Funk",
+        "url": "https://open.spotify.com/album/4NWSHJOuVlCcjjHAgpcLRd"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Horn House",
+          "url": "https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "The Lamb of Funk",
+      "url": "https://open.spotify.com/track/3nAQuS0nT4yJKM801NhFjv"
     },
     {
       "added_at": "2025-02-07 05:00:20",
@@ -1383,22 +1403,6 @@
       "duration_ms": 234624,
       "name": "Leimert Day",
       "url": "https://open.spotify.com/track/4HrR8RwNBqEUC45kYHKKaL"
-    },
-    {
-      "added_at": "2023-08-14 15:11:22",
-      "album": {
-        "name": "Lockdown Boogie",
-        "url": "https://open.spotify.com/album/2UQzqEK9yKcIZjY4taxUk9"
-      },
-      "artists": [
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 318205,
-      "name": "Lockdown Boogie",
-      "url": "https://open.spotify.com/track/44m5C5PwRPijazjXQJESGG"
     },
     {
       "added_at": "2023-08-14 15:11:22",

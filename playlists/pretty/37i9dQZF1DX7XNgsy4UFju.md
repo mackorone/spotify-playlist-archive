@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: Leith Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,043 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,042 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [](https://open.spotify.com/album/null) | 4:49 |
-| 2 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 |
-| 3 | [HOV \(unerthed\)](https://open.spotify.com/track/5XZRcZUKUWgBmiQYUN9v7o) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [](https://open.spotify.com/album/null) | 2:16 |
+| 1 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
+| 2 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
+| 3 | [HOV \(unerthed\)](https://open.spotify.com/track/5XZRcZUKUWgBmiQYUN9v7o) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Unerthed: Hole Erth Unplugged](https://open.spotify.com/album/1ZjpUdKgDpQxvIBq3bINsx) | 2:16 |
 | 4 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 |
-| 5 | [Otherworld](https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [](https://open.spotify.com/album/null) | 4:10 |
+| 5 | [Otherworld](https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Running With Scissors](https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act) | 4:10 |
 | 6 | [Poor Things \(feat\. Ben Kweller\)](https://open.spotify.com/track/0G5bjovI6eG4dUzMozaw6L) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd), [Ben Kweller](https://open.spotify.com/artist/7bhMBjjQhgPX0q9S4Ajncn) | [Poor Things \(feat\. Ben Kweller\)](https://open.spotify.com/album/2yBpDeK30wB65LDQzAqlU9) | 3:30 |
 | 7 | [Crazy Bitch Song](https://open.spotify.com/track/0sBHtKyjZLMwt2niRYxGMM) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Crazy Bitch Song](https://open.spotify.com/album/6raHiXlXAuf1lU0JsIC70Q) | 2:13 |
 | 8 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 |
-| 9 | [Track 9](https://open.spotify.com/track/465iG5ttKfJKdKRW79lXe2) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [That Girl](https://open.spotify.com/track/465iG5ttKfJKdKRW79lXe2) | [Yukon Blonde](https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN) | [Friendship & Rock 'n' Roll](https://open.spotify.com/album/00CQc4RN8EzyEfCiMk0skF) | 3:10 |
 | 10 | [Hijacked](https://open.spotify.com/track/1oNWzmrZE8fSJ5NitLXnzm) | [Odonis Odonis](https://open.spotify.com/artist/33qVw2pK7R3Io2tMPNOIf0) | [Hijacked](https://open.spotify.com/album/65ywGw0vrZ6XsPVKTfnybu) | 3:39 |
 | 11 | [Togetherness Is All I'm After](https://open.spotify.com/track/77YLvKyl2Ta0acpdvbAAbP) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Togetherness Is All I'm After](https://open.spotify.com/album/6ZrLd5YDJmlZZbSbpVIE0d) | 4:11 |
-| 12 | [Stuck In Your Ways](https://open.spotify.com/track/2qa1ANs0kZd2suAjGv0h82) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [](https://open.spotify.com/album/null) | 3:39 |
+| 12 | [Stuck In Your Ways](https://open.spotify.com/track/2qa1ANs0kZd2suAjGv0h82) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Crazy Blue](https://open.spotify.com/album/5MYskDUTKIXmnTPfCCBkgj) | 3:39 |
 | 13 | [POP POP POP](https://open.spotify.com/track/0sIt7VbQHa9FWS3YHtuhGi) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POP POP POP](https://open.spotify.com/album/7pkpLezwIBYN5ykKtVnqFU) | 2:43 |
 | 14 | [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 |
 | 15 | [GODDAMN!](https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [GODDAMN!](https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD) | 4:07 |

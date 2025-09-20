@@ -13186,7 +13186,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 165542,
       "name": "CIBELES",
       "url": "https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD"
@@ -25910,7 +25910,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "Fuera del Planeta - Remix",
       "url": "https://open.spotify.com/track/56innU0z9irTs1uEVbbrBA"
@@ -27582,6 +27582,36 @@
       "duration_ms": 236010,
       "name": "Gracias (feat. Kafu Banton)",
       "url": "https://open.spotify.com/track/2FfInk7R82BBgWkCr5hJvB"
+    },
+    {
+      "album": {
+        "name": "Gracie",
+        "url": "https://open.spotify.com/album/5qmY0iGeEF1ZAQWbfqOI87"
+      },
+      "artists": [
+        {
+          "name": "Kendrickhz",
+          "url": "https://open.spotify.com/artist/7HJs9YB7qXF225G40CIltZ"
+        },
+        {
+          "name": "Kbchappo",
+          "url": "https://open.spotify.com/artist/3w75nGmfOt1fpCAOPo2sRi"
+        },
+        {
+          "name": "Andiex",
+          "url": "https://open.spotify.com/artist/4vICqNWZlcu4zoSfTG05RY"
+        },
+        {
+          "name": "Josuan",
+          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Gracie",
+      "url": "https://open.spotify.com/track/0io6jjo0GxUiBrYLaYzXVp"
     },
     {
       "album": {
@@ -33834,7 +33864,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 126493,
       "name": "La Coyolera",
       "url": "https://open.spotify.com/track/55wneaFdiU7wGpPxiaRksA"

@@ -4,7 +4,7 @@
 
 > Banfy sulla cover della playlist più grande in Italia 🏆
 
-238 songs - 12 hr 15 min
+239 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [AMOR](https://open.spotify.com/track/7vc09IDmFH0MfyPYHPEWRM) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Comuni Mortali](https://open.spotify.com/album/3tiuh424B3Leg8bxHc1Jv5) | 2:57 | 2025-04-24 |  |
 | [Amore Disperato](https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Amore Disperato](https://open.spotify.com/album/7s4bIAU9FK0rMuTFec2924) | 3:08 | 2024-10-07 | 2025-04-25 |
 | [Anche Se Ti Amo \(con Frah Quintale, nayt & prima stanza a destra\)](https://open.spotify.com/track/0yzZJ1wNec8GihbRZ5FGyL) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:27 | 2025-06-03 | 2025-07-17 |
-| [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 | 2025-02-20 |  |
+| [ANEMA E CORE](https://open.spotify.com/track/5M8Z823Sb2BhMpecHksN0T) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi) | [ANEMA E CORE](https://open.spotify.com/album/2t1lwzO3j3iRxYrIdNQJLi) | 2:46 | 2025-02-20 | 2025-09-20 |
 | [Anno Fantastico \(feat\. Shiva, Tony Boy\)](https://open.spotify.com/track/4PBn4zkgReSPmM41RYijJM) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Anno Fantastico \(feat\. Shiva, Tony Boy\)](https://open.spotify.com/album/6rIpx3OnZ7Jt0HW22Abx0Y) | 3:05 | 2025-03-24 | 2025-05-02 |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-13 | 2025-07-01 |
 | [APNEA](https://open.spotify.com/track/3qyidNdb5QNHLxAFJzTn6P) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [APNEA](https://open.spotify.com/album/0YMrslSUc1TClPK7b1SVBa) | 3:00 | 2024-06-28 | 2024-07-05 |
@@ -175,6 +175,7 @@
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-06-28 | 2024-09-07 |
 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2024-10-17 | 2025-02-13 |
 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 | 2024-09-06 | 2025-05-27 |
+| [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 | 2025-09-19 |  |
 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 | 2024-09-05 | 2024-12-04 |
 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 | 2024-12-06 | 2025-01-08 |
 | [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-23 | 2025-01-14 |

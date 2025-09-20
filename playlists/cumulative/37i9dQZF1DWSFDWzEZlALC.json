@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Jassin",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: FREDRIK",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -1306,6 +1306,24 @@
       "duration_ms": 115467,
       "name": "Alle Farben",
       "url": "https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl"
+    },
+    {
+      "album": {
+        "name": "Verlernt zu f\u00fchlen",
+        "url": "https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN"
+      },
+      "artists": [
+        {
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176806,
+      "name": "Alle meine Lieder",
+      "url": "https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D"
     },
     {
       "album": {
@@ -22452,24 +22470,6 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "FREDRIK",
-          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
-        }
-      ],
-      "date_added": "2025-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D"
     },
     {
       "album": {

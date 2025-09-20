@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Essential Classics, Vol. 687: Ma Rainey",
+        "url": "https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154"
+      },
+      "artists": [
+        {
+          "name": "Ma Rainey",
+          "url": "https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Bad Luck Blues",
+      "url": "https://open.spotify.com/track/3yTexl91j9VkE8zyVVqXFm"
+    },
+    {
+      "album": {
         "name": "Ma Rainey Vol. 1 (1923-1924)",
         "url": "https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 173140,
       "name": "Don't Fish In My Sea",
       "url": "https://open.spotify.com/track/2hyu2pSSqC2AxKPc1k92pR"

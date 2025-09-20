@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-186 songs - 10 hr 26 min
+187 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Check This](https://open.spotify.com/track/2DIKCVLxEwCInD7apxfMVH) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd) | [Onzeker Kraft Vol\. 1.5](https://open.spotify.com/album/6jU5BRvsHFuEmIt00ePEwV) | 2:59 | 2024-07-26 | 2024-11-09 |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-12-01 |  |
 | [Collect Call \- Adventure Club Remix](https://open.spotify.com/track/4mDhR5nTFXmHdZxMBmaZrm) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa) | [Collect Call \(Adventure Club Remix\)](https://open.spotify.com/album/5SoxPgdiY1o9nlK37v6h3V) | 3:28 | 2024-04-26 | 2024-05-04 |
+| [COME AS YOU ARE](https://open.spotify.com/track/2Vtu6kE8wlqWpZKQsg9cLW) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [THE DARK SiDE OF THE TRASH](https://open.spotify.com/album/2DDv1U1A1ipoeySQl6bRYI) | 1:44 | 2025-09-19 |  |
 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 | 2025-04-25 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-12-01 |  |
 | [Counting \- Sammy Virji Remix](https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 3:34 | 2024-02-09 | 2024-11-09 |

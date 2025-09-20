@@ -1,13 +1,33 @@
 {
   "description": "Explore a genre bending universe centered around jazz. Cover: Butcher Brown",
-  "num_followers": 107858,
+  "num_followers": 107865,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACtpK/ygNrjqeaUclMSOyTbjhsKH",
+  "snapshot_id": "AAAAANhNMDub++0y440frN3u4JBkciIR",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:35",
+      "album": {
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Children of the Baked Potato",
+      "url": "https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b"
+    },
     {
       "added_at": "2025-08-22 04:00:12",
       "album": {
@@ -1491,26 +1511,6 @@
       "duration_ms": 243986,
       "name": "Dear Cousin",
       "url": "https://open.spotify.com/track/2HqHWQ4oiPwnmS1H6cKmGp"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Chasing Days (Sam Redmore Remix)",
-        "url": "https://open.spotify.com/album/4pSclrufz705aSbj4gASWM"
-      },
-      "artists": [
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        },
-        {
-          "name": "Sam Redmore",
-          "url": "https://open.spotify.com/artist/3McygTbX192HcFzSHa9mA6"
-        }
-      ],
-      "duration_ms": 322812,
-      "name": "Chasing Days - Sam Redmore Remix",
-      "url": "https://open.spotify.com/track/4VO19I7PqB0YbR5r4Nbv26"
     },
     {
       "added_at": "2023-07-07 04:01:00",

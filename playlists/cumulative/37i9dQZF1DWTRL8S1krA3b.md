@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-200 songs - 10 hr 55 min
+201 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Come Go With Us](https://open.spotify.com/track/6O4bsFgDPdzkhymihwKAaa) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Come Go With Us](https://open.spotify.com/album/6nElCWjIICuKSS4lg0RUVi) | 6:40 | 2024-11-15 |  |
 | [Come Home For Christmas](https://open.spotify.com/track/1dLYS8RVIdUTZz8m8g3V93) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Come Home For Christmas](https://open.spotify.com/album/58upWWhTeAZnT0dK9TGCqs) | 3:19 | 2024-11-29 |  |
 | [Counting Down Christmas](https://open.spotify.com/track/1UfxYzE8v24SXw4uo96gz3) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Counting Down Christmas](https://open.spotify.com/album/473lbNRulOv0esYMKBkp4z) | 3:39 | 2023-11-24 | 2024-10-19 |
+| [Counting Down The Days](https://open.spotify.com/track/7cbOw6mnOjWKnvLWifQEjA) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Counting Down The Days](https://open.spotify.com/album/1CHaVLVHPxDrrVANgwxsts) | 3:50 | 2025-09-19 |  |
 | [Country Christmas](https://open.spotify.com/track/0qH1ZauXu4eLWr368fF4LY) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Country Christmas](https://open.spotify.com/album/0XdN7x2UxeQN9u2gpLm6YZ) | 2:39 | 2024-11-15 |  |
 | [Country Little Christmas](https://open.spotify.com/track/4LjWIcO3q8doUD1E6YwKGw) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Country Little Christmas](https://open.spotify.com/album/5Gwc85Lc5KIlhkbuxhKweV) | 3:09 | 2023-11-24 | 2024-10-19 |
 | [Cowboy for Christmas](https://open.spotify.com/track/5uX6YefmX5Cqg11BjUxYZE) | [Annie Bosko](https://open.spotify.com/artist/1hBOguBu3xMBQzVEAzUeym) | [Cowboy for Christmas](https://open.spotify.com/album/2cmvIgfEvJm1GuLaCkSjYG) | 2:55 | 2023-11-24 | 2024-10-19 |

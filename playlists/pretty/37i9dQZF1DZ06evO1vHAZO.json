@@ -1,12 +1,12 @@
 {
   "description": "This is Oasis. The essential tracks, all in one playlist.",
-  "num_followers": 6046,
+  "num_followers": 6047,
   "original_name": "This Is Oasis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAD4Uk1cFAG4jlvQ8laDGDV3",
+  "snapshot_id": "aMtLgAAAAABH3vmYjzqBMZ2csG/Zg9w1",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
       "duration_ms": 260079,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/7Do5xcVXgjNEbXzYUSrPvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go Let It Out",
-        "url": "https://open.spotify.com/album/1ggiOXW9IWnJrwYOCBttGM"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 233640,
-      "name": "Let's All Make Believe",
-      "url": "https://open.spotify.com/track/4iM2s0WZFznvgoC0HxZekI"
     }
   ],
   "unique_name": "This Is Oasis",

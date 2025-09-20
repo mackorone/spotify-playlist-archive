@@ -2,7 +2,7 @@
 
 ### [Corridos Tumbados](https://open.spotify.com/playlist/37i9dQZF1DWWhMyyrqZlaY)
 
-> Los corridos más placosos que suenan en las calles\. Natanael Cano y Dan Sánchez en portada.
+> Los corridos más placosos que suenan en las calles\. Chuyin en portada.
 
 190 songs - 9 hr 32 min
 

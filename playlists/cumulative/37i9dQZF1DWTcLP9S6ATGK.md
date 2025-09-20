@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Aisha Retno, Ade Govinda
 
-632 songs - 1 day 17 hr 25 min
+634 songs - 1 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Bintang Yang Hilang](https://open.spotify.com/track/434mi9vv7kfxX5Yn6lOqtn) | [Arvian Dwi](https://open.spotify.com/artist/0tB33cNAVw1H2enMHpgFiP) | [Bintang Yang Hilang](https://open.spotify.com/album/2t9dSYpWaXY2oKmElI4mO3) | 3:47 | 2024-10-10 | 2025-01-10 |
 | [Bisa Apa?](https://open.spotify.com/track/0OObcN3lVpYRUFWI5hanxu) | [Amanda Citra](https://open.spotify.com/artist/4Jrl3wADhbdxxuYvYAjT6t) | [Bisa Apa?](https://open.spotify.com/album/0giohrzZRm4XnZpWxVpgDA) | 3:47 | 2024-11-21 | 2024-11-29 |
 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 | 2025-08-21 |  |
+| [Bola Mata Sayu](https://open.spotify.com/track/5nMAuxzQxAb4k5FYFKkSYt) | [DNANDA](https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti) | [Bola Mata Sayu](https://open.spotify.com/album/7bn897QnFkuEBJDv3IF73s) | 3:43 | 2025-09-19 |  |
 | [Boleh Merindu](https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Boleh Merindu](https://open.spotify.com/album/16tWz380soVodMC5yN9la7) | 4:08 | 2024-09-20 | 2025-01-10 |
 | [Bring It On](https://open.spotify.com/track/7jjSkcLMIVQT0w9LlsfL9q) | [SEBY](https://open.spotify.com/artist/2gyoZB0qaowphecujZAzTd) | [A to Z](https://open.spotify.com/album/5Uwg2KxTq43qPGJkAYWrlR) | 4:08 | 2025-05-08 | 2025-06-13 |
 | [Buang Garam Di Laut](https://open.spotify.com/track/2X4KT7AOroEAHAeg9jheO9) | [Luvia band](https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a) | [Buang Garam Di Laut](https://open.spotify.com/album/3bktbSxvPXoLZVnEL1ZcTz) | 4:49 | 2025-09-11 |  |
@@ -304,6 +305,7 @@
 | [Lepas Pegangan](https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb), [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Lepas Pegangan](https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q) | 3:15 | 2025-09-18 |  |
 | [Lewat Semesta \- OST\. TABAYYUN](https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Lewat Semesta \(OST\. TABAYYUN\)](https://open.spotify.com/album/2zGRJnutXLCACHo3LAt5ob) | 4:07 | 2025-02-06 | 2025-08-16 |
 | [Liang Yang Sama](https://open.spotify.com/track/0m4X8CX1iGMA2SGoi9FL18) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC), [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [Liang Yang Sama](https://open.spotify.com/album/4f0IOqaK5A5HdURObwwdFL) | 4:07 | 2025-05-16 | 2025-07-11 |
+| [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 | 2025-09-19 |  |
 | [Lihat Saja Nanti](https://open.spotify.com/track/15xxsm2qdanGPhzBCmVRXA) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Lihat Saja Nanti](https://open.spotify.com/album/0osKTPgd5Z9JGk6yja3nD0) | 3:19 | 2024-10-10 | 2024-11-29 |
 | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO) | [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Lintasan Yang Sama \(From "1 Imam 2 Makmum"\)](https://open.spotify.com/album/5EJQZDCytmNnMZK3uZYy75) | 4:27 | 2024-12-05 |  |
 | [Little by Little](https://open.spotify.com/track/14OP5wOfh1zmkaNxRhazuz) | [Gabriella Ekaputri](https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui) | [Midnight's Promises](https://open.spotify.com/album/7L8u8SoGZjEGBi9yFI0Cxo) | 3:20 | 2025-07-17 |  |

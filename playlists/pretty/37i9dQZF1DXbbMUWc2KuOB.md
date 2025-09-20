@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,334 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,381 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 46 | [Did \- Thirty\-nine Instrumental Version](https://open.spotify.com/track/2PKuQxcVQZiyizrDfuqmtS) | [Jung Joonil](https://open.spotify.com/artist/1l7cLEFdVSttQ7w71FHqkv) | [Thirty\-nine \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/6sfEE4OC28GJ3T1yUKXjwf) | 3:49 |
 | 47 | [Sunday Latte \- Instrumental](https://open.spotify.com/track/4zerpyG26IXU5sYJNgAQaq) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 |
 | 48 | [Say I Love U \- Instrumental](https://open.spotify.com/track/253auyXWaaHMBWJXs63h5m) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
-| 49 | [Every second \- Instrumental](https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1) | 3:32 |
-| 50 | [Writing Our Stories \- Instrumental](https://open.spotify.com/track/0cqpCH4ZAfPrTZcaHdK1Xw) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Chicago Typewriter, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0rg8mV7d5p1u5fNtHp2ns8) | 3:37 |
+| 49 | [Writing Our Stories \- Instrumental](https://open.spotify.com/track/0cqpCH4ZAfPrTZcaHdK1Xw) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Chicago Typewriter, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0rg8mV7d5p1u5fNtHp2ns8) | 3:37 |
+| 50 | [Every second \- Instrumental](https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1) | 3:32 |
 
 Snapshot ID: `AAAAAMY/UuqkVp0D/hLzJIcJT04hah+N`

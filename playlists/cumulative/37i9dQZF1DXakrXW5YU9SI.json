@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+    },
+    {
+      "album": {
         "name": "abyss",
         "url": "https://open.spotify.com/album/3hZjfIVdPdCym1PRPD57JT"
       },
@@ -724,10 +742,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 164869,
       "name": "bar",
       "url": "https://open.spotify.com/track/7epBYMSR42d7s4mSStpsRv"
+    },
+    {
+      "album": {
+        "name": "Jestem wierszem",
+        "url": "https://open.spotify.com/album/0LPh6ItoITqbigDHjBp8vY"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170256,
+      "name": "Ba\u0142aganiara",
+      "url": "https://open.spotify.com/track/7xM5ProCo7fjxnKMR8j82n"
     },
     {
       "album": {
@@ -2316,7 +2352,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 221454,
       "name": "Diadem (pisane noc\u0105)",
       "url": "https://open.spotify.com/track/4y5x5lBiFs7328sPjnFdv4"
@@ -3008,7 +3044,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 263500,
       "name": "ernest",
       "url": "https://open.spotify.com/track/4N283rSr7iWXEzdUJE2VRI"
@@ -3275,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Firdyga\u0142ki",
+        "url": "https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr"
+      },
+      "artists": [
+        {
+          "name": "maks.tachasiuk",
+          "url": "https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233636,
+      "name": "Firdyga\u0142ki",
+      "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
+    },
+    {
+      "album": {
         "name": "The Jester",
         "url": "https://open.spotify.com/album/3HkJCHR1gtwyyhSfLbmo83"
       },
@@ -3326,6 +3380,24 @@
       "duration_ms": 128522,
       "name": "Fly Or Burn",
       "url": "https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy"
+    },
+    {
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "album": {
@@ -4406,7 +4478,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 107183,
       "name": "Jagna",
       "url": "https://open.spotify.com/track/5a4jziec5vsP0ktnRZ5KcQ"
@@ -5658,7 +5730,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -6644,7 +6716,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 146313,
       "name": "Nerwy na bok",
       "url": "https://open.spotify.com/track/7ww82v6kviSjJC0h0WJxDS"
@@ -6706,7 +6778,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 205375,
       "name": "Niby to wiem",
       "url": "https://open.spotify.com/track/1TGP53EWadwAcMCQDzUBL8"
@@ -6884,6 +6956,24 @@
       "duration_ms": 186551,
       "name": "Nie mog\u0119 Ci\u0119 pozna\u0107",
       "url": "https://open.spotify.com/track/68crcVC3Nt2qYM2BAVQVnk"
+    },
+    {
+      "album": {
+        "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+        "url": "https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161129,
+      "name": "Nie pozwol\u0119 Ci wyj\u015b\u0107",
+      "url": "https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U"
     },
     {
       "album": {
@@ -7300,7 +7390,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 210241,
       "name": "Ob\u0142\u0119d",
       "url": "https://open.spotify.com/track/2zgEt2hzvZmOFn5WcVieFF"
@@ -8126,6 +8216,24 @@
       "duration_ms": 178570,
       "name": "Pop\u0142yniemy",
       "url": "https://open.spotify.com/track/66jkTQje4DSEe72yG8HhKz"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
     },
     {
       "album": {
@@ -9290,6 +9398,24 @@
       "duration_ms": 181677,
       "name": "something i can't afford",
       "url": "https://open.spotify.com/track/5BZyKhuOTOp4ouVRkp15k7"
+    },
+    {
+      "album": {
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "album": {
@@ -10856,7 +10982,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 279840,
       "name": "Tylko o sobie",
       "url": "https://open.spotify.com/track/1jNxTar4cTALeka7nwGHaX"
@@ -11080,7 +11206,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 166148,
       "name": "Usypiasz Mnie Jak Lek",
       "url": "https://open.spotify.com/track/0m7mpiEImNabbFyxGsfACh"
@@ -11718,6 +11844,24 @@
       "duration_ms": 124866,
       "name": "Wszystko si\u0119 u\u0142o\u017cy",
       "url": "https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ"
+    },
+    {
+      "album": {
+        "name": "Wyjmij mnie",
+        "url": "https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj"
+      },
+      "artists": [
+        {
+          "name": "Pola Maj",
+          "url": "https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198882,
+      "name": "Wyjmij mnie",
+      "url": "https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc"
     },
     {
       "album": {

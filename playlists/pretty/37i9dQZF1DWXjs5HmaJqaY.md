@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,138 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,194 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ya La La](https://open.spotify.com/track/2vktj4jvbrtnXTk6IdZ2CO) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Ya La La](https://open.spotify.com/album/4rj2nab5UEA1rDw4ABDRjk) | 3:58 |
-| 2 | [+100](https://open.spotify.com/track/7vmnja07oYJdSy11pOvH8z) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [+100](https://open.spotify.com/album/02uDAfB0ZOlLHNH8dRFbTZ) | 3:17 |
-| 3 | [Iris](https://open.spotify.com/track/1xNZMcELIjekNEflXa40mg) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Iris](https://open.spotify.com/album/6Br3McrR0AVrUqCqCJXAXr) | 3:34 |
-| 4 | [CPU Goes Wrong](https://open.spotify.com/track/38fExFRL6yWdRrfZzk5Mc7) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [CPU Goes Wrong](https://open.spotify.com/album/2j4IejhqMPAHaxN3UjOET9) | 4:09 |
-| 5 | [Hmuah\-A\-Hey\-Tahb\-Yu\-DahAh](https://open.spotify.com/track/6l1zHCbBcV4iEmDgL4bfEW) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [Neurocharger](https://open.spotify.com/album/5XQL4QLpiGuNn3PIrIq28z) | 7:34 |
-| 6 | [Das Omen](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 3:30 |
-| 7 | [Workout](https://open.spotify.com/track/0XBCDZ3hD3N4GoJce8Qzpt) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Workout](https://open.spotify.com/album/4wffqjFTOmsx5nOhaduVCn) | 3:35 |
-| 8 | [Code](https://open.spotify.com/track/4O3uPi7mbbnym5dWfZg1M4) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Code](https://open.spotify.com/album/4KX8Db1MPMAk7zyGHRbOdP) | 4:52 |
-| 9 | [Sauna](https://open.spotify.com/track/2Vmj3rizpizIu6pBrmj6GC) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sauna](https://open.spotify.com/album/3HjL5kQqOBCqTTLfiRfMNK) | 6:42 |
-| 10 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 |
+| 1 | [+100](https://open.spotify.com/track/7vmnja07oYJdSy11pOvH8z) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [+100](https://open.spotify.com/album/02uDAfB0ZOlLHNH8dRFbTZ) | 3:17 |
+| 2 | [Kontakt](https://open.spotify.com/track/0o5WXczVKxsFp2hWv8CcJz) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Kontakt](https://open.spotify.com/album/0ZmKxqD05aLJq3j6rJ4h59) | 2:53 |
+| 3 | [CPU Goes Wrong](https://open.spotify.com/track/38fExFRL6yWdRrfZzk5Mc7) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [CPU Goes Wrong](https://open.spotify.com/album/2j4IejhqMPAHaxN3UjOET9) | 4:09 |
+| 4 | [Hmuah\-A\-Hey\-Tahb\-Yu\-DahAh](https://open.spotify.com/track/6l1zHCbBcV4iEmDgL4bfEW) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO) | [Neurocharger](https://open.spotify.com/album/5XQL4QLpiGuNn3PIrIq28z) | 7:34 |
+| 5 | [Das Omen](https://open.spotify.com/track/0QSonqlm6e1Rvjl44D4DOL) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Nostalgie und Traurigkeit](https://open.spotify.com/album/7aO4M6jNRWRtV2F57O0YLa) | 3:30 |
+| 6 | [Workout](https://open.spotify.com/track/0XBCDZ3hD3N4GoJce8Qzpt) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Workout](https://open.spotify.com/album/4wffqjFTOmsx5nOhaduVCn) | 3:35 |
+| 7 | [Code](https://open.spotify.com/track/4O3uPi7mbbnym5dWfZg1M4) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Code](https://open.spotify.com/album/4KX8Db1MPMAk7zyGHRbOdP) | 4:52 |
+| 8 | [Sauna](https://open.spotify.com/track/2Vmj3rizpizIu6pBrmj6GC) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sauna](https://open.spotify.com/album/3HjL5kQqOBCqTTLfiRfMNK) | 6:42 |
+| 9 | [Ginger](https://open.spotify.com/track/16lQpZjF3WfsPOo7tJJ8rF) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Ginger](https://open.spotify.com/album/3rRynKB1uolIl6HwikbFnS) | 7:35 |
+| 10 | [Iris](https://open.spotify.com/track/1xNZMcELIjekNEflXa40mg) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Iris](https://open.spotify.com/album/6Br3McrR0AVrUqCqCJXAXr) | 3:34 |
 | 11 | [It Starts](https://open.spotify.com/track/4pXJy96uVpKCZAxLvOtA85) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [It Starts](https://open.spotify.com/album/2ltU8W98zEwT2or6f9Ipto) | 3:21 |
 | 12 | [We Begin](https://open.spotify.com/track/2M5L3hRA23q2eQXgAqTNcW) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [We Begin](https://open.spotify.com/album/0lXCiIEET1JsMzGDaOcJAS) | 3:44 |
 | 13 | [Schattenkinder](https://open.spotify.com/track/4pJAUIdjUCZaN4RxNmW6J6) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Schattenkinder](https://open.spotify.com/album/4nVd6PO6kLvO0ShmrUVxEZ) | 3:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 59 | [Flockentanz \- 2024 Remake](https://open.spotify.com/track/07iPWNVMyNWK9LF5tT6LWO) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Flockentanz Remixes](https://open.spotify.com/album/3yF9V62Qh45yKNX416mef3) | 8:00 |
 | 60 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 
-Snapshot ID: `AAAAAEDiGe91+cqoHQL4SQRHsrgL68bl`
+Snapshot ID: `AAAAALSfy7CopZfvZdklkcHGi6/IOvE6`

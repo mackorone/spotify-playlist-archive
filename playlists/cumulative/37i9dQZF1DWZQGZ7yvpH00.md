@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ysrael Barajas en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Julio Caesar en portada.
 
-516 songs - 1 day 4 hr 36 min
+517 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [1004 Kilómetros](https://open.spotify.com/track/0pt0wjZNeFOMIeCudmXRrl) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico](https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv) | 4:37 | 2021-11-22 | 2022-07-09 |
 | [1004 KM](https://open.spotify.com/track/54udnumOCHpq4SRpbKleat) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 4:42 | 2023-05-12 |  |
 | [123](https://open.spotify.com/track/2HpaoTOD7dojn7e7S0NLzc) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [123](https://open.spotify.com/album/5Uj1vT6mKxxDjuzUb5DQFC) | 3:33 | 2023-07-14 | 2023-08-26 |
-| [130](https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/0wbnTjxysM59zeh4z4a5ID) | 3:03 | 2025-07-04 |  |
+| [130](https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/0wbnTjxysM59zeh4z4a5ID) | 3:03 | 2025-07-04 | 2025-09-20 |
 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 | 2022-09-02 | 2023-01-28 |
 | [2:26am](https://open.spotify.com/track/17FDxgsz6jzkAwIs2cULWO) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [2:26am](https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF) | 3:21 | 2022-08-05 | 2023-02-18 |
 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 | 2023-01-27 | 2023-06-17 |
@@ -494,6 +494,7 @@
 | [Vas A Llorar](https://open.spotify.com/track/6lF45hzdxt6Z2hQf1zzyOl) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Con Un Porte Diferente](https://open.spotify.com/album/1xXYVPgDrUD943eL1M7RRV) | 3:05 | 2025-01-10 | 2025-03-11 |
 | [Vas A Olvidarte](https://open.spotify.com/track/3owQ1hV6hn0sQmjRDFmyRe) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [772 </3](https://open.spotify.com/album/2P6TMN431iln4GxB1SlSo0) | 3:47 | 2023-06-02 | 2023-07-08 |
 | [Verbo](https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Verbo](https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp) | 2:48 | 2025-01-17 | 2025-05-10 |
+| [vete de una vez](https://open.spotify.com/track/6RM6EWJjDuvjwkUBqbyMhl) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [vete de una vez](https://open.spotify.com/album/3ZRctlFN64rCLSXvCHRsW2) | 3:40 | 2025-09-19 |  |
 | [Volver Al Futuro](https://open.spotify.com/track/33Nj9AdncSmHbCN3QeSZTL) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Volver Al Futuro](https://open.spotify.com/album/0d91zWX7A6i4iPLgJc9oy6) | 3:24 | 2024-05-31 |  |
 | [Volveremos](https://open.spotify.com/track/0atD69P4fKr8nBUi1FXBzX) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 5:28 | 2022-04-29 | 2025-06-07 |
 | [When I was your Man \- En Vivo](https://open.spotify.com/track/4uD5lKiR8j3rVLVzCsEzSq) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [En Vivo Con DC](https://open.spotify.com/album/0WoAtQOZEwpwFCMCZXsdwu) | 2:31 | 2024-10-25 | 2024-11-30 |

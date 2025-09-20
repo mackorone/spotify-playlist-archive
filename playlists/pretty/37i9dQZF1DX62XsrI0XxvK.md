@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Briellebeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,385 likes - 98 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,389 likes - 98 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 |
-| 2 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [](https://open.spotify.com/album/null) | 3:41 |
+| 2 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 |
 | 3 | [Be My Love](https://open.spotify.com/track/5a4qqM7xdsHefJBTEzSgVb) | [I Talk Too Much When I'm Drunk](https://open.spotify.com/artist/4EvhAbrKkEcqaztPw5wouv) | [I Love Too Much When I’m Drunk](https://open.spotify.com/album/4T0HuawiX38S7XQoTO7XLZ) | 3:59 |
 | 4 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 |
 | 5 | [Lagi Lagi Lagi](https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Lagi Lagi Lagi](https://open.spotify.com/album/2CzW3RNkzaPxuKfTyEMgTP) | 3:51 |

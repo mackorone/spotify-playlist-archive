@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 366084,
+  "num_followers": 366133,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABxCrn7031r1p9yYMVwTmn2",
+  "snapshot_id": "aMtLgAAAAABJmysUnUKAmdACZg/7tu6f",
   "tracks": [
     {
       "added_at": null,
@@ -302,15 +302,11 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 158518,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
+      "duration_ms": 157138,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
     },
     {
       "added_at": null,
@@ -370,11 +366,15 @@
         {
           "name": "Kenia Os",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 157138,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/7dxrSzsK1bouobJiY5fIcD"
+      "duration_ms": 158518,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/5N7MQvvccl5Hu01j9dUtPe"
     },
     {
       "added_at": null,

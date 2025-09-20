@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-454 songs - 1 day 8 hr 5 min
+455 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-12-15 | 2024-04-19 |
 | [Merciless Death](https://open.spotify.com/track/7bQqbbtZkaeCj4U14mYPR3) | [Dark Angel](https://open.spotify.com/artist/0RFQyVQGVcECxnuSLvEKxV) | [Darkness Descends](https://open.spotify.com/album/1IRzwwevpNSdxERoRIKQrw) | 4:02 | 2022-07-13 |  |
 | [Metal Church](https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Metal Church](https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv) | 5:02 | 2022-07-13 |  |
-| [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 | 2022-07-13 |  |
+| [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 | 2022-07-13 | 2025-09-20 |
 | [Metal Militia \(Remastered\)](https://open.spotify.com/track/5gQ0LTbcX7gpQDg39gNLH8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 5:11 | 2022-07-13 | 2022-12-16 |
 | [Miami Supercops](https://open.spotify.com/track/7rrIaFaaKxEEnzb4rWv6cl) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Miami Supercops](https://open.spotify.com/album/4Eu7a3XOyHwruAjlW5reZL) | 3:17 | 2021-12-17 |  |
 | [Midnight Sun](https://open.spotify.com/track/4AbEyowmGAEGnLUZ9YCphR) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv), [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Midnight Sun](https://open.spotify.com/album/3wh3qtOhkaJkA5mqxkzrGP) | 3:38 | 2022-05-06 |  |
@@ -377,6 +377,7 @@
 | [Superstition](https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 3:14 | 2022-07-13 | 2024-04-19 |
 | [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 | 2022-08-15 |
 | [Surf Nicaragua](https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:40 | 2022-07-13 |  |
+| [Symmetry](https://open.spotify.com/track/6xTCj1JryDzosvA6ITcNuz) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Symmetry](https://open.spotify.com/album/3TRQ64AFgX1mH9Ml7CGTi0) | 3:58 | 2025-09-19 |  |
 | [Synchro Anarchy](https://open.spotify.com/track/7jQ8PxjIR2o4y4nndfEvh1) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/1k9JH2nPsI1Lb9ny0rFVpj) | 4:25 | 2022-01-28 | 2022-02-11 |
 | [Taphephobia](https://open.spotify.com/track/06IhSNQeoWnzEThNAu0GAX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Taphephobia](https://open.spotify.com/album/3nsvLJadE0giMIxYB7tYpH) | 3:42 | 2025-06-06 |  |
 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 | 2022-12-15 |  |

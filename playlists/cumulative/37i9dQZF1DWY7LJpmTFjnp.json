@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Amigos Invisibles en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Cuarteto de Nos en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 258573,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 237013,
       "name": "Brindo por ti - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/3W8oqGTpqbVhDoikGdOkln"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Puertas",
+        "url": "https://open.spotify.com/album/0YyiLprwcLOytMKd4ES5tq"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222639,
+      "name": "Cara de nada",
+      "url": "https://open.spotify.com/track/3tSwimmFBswsAvpFNB3Xh0"
+    },
+    {
+      "album": {
         "name": "Polvo De Estrellas",
         "url": "https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS"
       },
@@ -692,7 +710,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 201333,
       "name": "Chale",
       "url": "https://open.spotify.com/track/2U7TSQQzm5R0rZEFRJExKn"
@@ -736,6 +754,28 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "album": {
+        "name": "Como la Vez Primera",
+        "url": "https://open.spotify.com/album/1eCTC0yikdFPHZQL3xcVJo"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Daniel Gutierrez",
+          "url": "https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184055,
+      "name": "Como la Vez Primera",
+      "url": "https://open.spotify.com/track/7w6xeCLBFcetKIj5yPDHD1"
     },
     {
       "album": {
@@ -822,7 +862,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 252006,
       "name": "Contra Todo Pron\u00f3stico",
       "url": "https://open.spotify.com/track/2jcBXpWt5lD1qsZZGZjMPO"
@@ -1144,6 +1184,24 @@
       "duration_ms": 215440,
       "name": "El color de tus ojos",
       "url": "https://open.spotify.com/track/7wjFEqG6ufpVqHbQGxNPAu"
+    },
+    {
+      "album": {
+        "name": "El Cordel De Mis Zapatos",
+        "url": "https://open.spotify.com/album/2mwZYpyxPjiTPJqeCBOxhn"
+      },
+      "artists": [
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "El Cordel De Mis Zapatos",
+      "url": "https://open.spotify.com/track/3jALinW74WgCdUpuC21H8H"
     },
     {
       "album": {
@@ -1493,6 +1551,28 @@
     },
     {
       "album": {
+        "name": "El Taquicardio",
+        "url": "https://open.spotify.com/album/7AIQsTUjFdh6D69rYIocT6"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1"
+        },
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270806,
+      "name": "El Taquicardio",
+      "url": "https://open.spotify.com/track/08ZqrrG5IcnVvyZh9kFOjd"
+    },
+    {
+      "album": {
         "name": "La Sintesis O'Konor",
         "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
       },
@@ -1703,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Porfiado",
+        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259680,
+      "name": "Enamorado tuyo",
+      "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
+    },
+    {
+      "album": {
         "name": "Enfiestados",
         "url": "https://open.spotify.com/album/7hxSlXXe0K4twNjszhYTCC"
       },
@@ -1714,7 +1812,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 193000,
       "name": "Enfiestados",
       "url": "https://open.spotify.com/track/1EAPboZadjEfsMifzaT0dE"
@@ -3115,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/2M6bjKE6Pkr7jo4EfJvG7B"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Luna Nueva",
+      "url": "https://open.spotify.com/track/0Nn8fRZgLWtqdnGekA6UIa"
+    },
+    {
+      "album": {
         "name": "Nectar",
         "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
       },
@@ -3407,6 +3523,32 @@
     },
     {
       "album": {
+        "name": "Mi vida sin tu vida",
+        "url": "https://open.spotify.com/album/6wiPssuqdqZ5oaNxqmkZQa"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202328,
+      "name": "Mi vida sin tu vida",
+      "url": "https://open.spotify.com/track/3juCArYNEUHsMNRDlRZL2s"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo D\u2019Lira",
         "url": "https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9"
       },
@@ -3619,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Libre",
+        "url": "https://open.spotify.com/album/3XAyTBYE7vIdK8mvYsMe9Z"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134031,
+      "name": "M\u00e9xico Libre",
+      "url": "https://open.spotify.com/track/4Da0sxKYH394GEov6ZdjZX"
+    },
+    {
+      "album": {
         "name": "M\u00eda",
         "url": "https://open.spotify.com/album/32xEMV1PFkZxnyzO9EE5Zn"
       },
@@ -3776,7 +3936,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 197801,
       "name": "No Puede Parar De So\u00f1ar",
       "url": "https://open.spotify.com/track/7ujRdKjA7G7QvFkq0YV0dO"
@@ -5676,7 +5836,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"

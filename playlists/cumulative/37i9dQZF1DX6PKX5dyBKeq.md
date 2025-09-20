@@ -4,7 +4,7 @@
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kidwild, Blanco
 
-2,168 songs - 4 day 11 hr 42 min
+2,169 songs - 4 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,7 +670,8 @@
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-06-29 | 2023-07-28 |
 | [Every Season](https://open.spotify.com/track/4WjYwEmTeoiKqJQJACuJdA) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Neighbourhood](https://open.spotify.com/album/4qtjFx1Id9ADMFltJknbEK) | 2:32 | 2024-07-05 | 2024-09-27 |
 | [Everybody Knows](https://open.spotify.com/track/1rukVwJA2iC5Sx3wq2TliI) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Everybody Knows](https://open.spotify.com/album/2VZAtWEvKIReS3GDF38Kyf) | 2:49 | 2023-06-08 | 2023-07-28 |
-| [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 | 2025-09-18 |  |
+| [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 | 2025-09-18 | 2025-09-20 |
+| [Everyday](https://open.spotify.com/track/6PW7IX53uKCB1woGe0Uak5) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Don't Look Down](https://open.spotify.com/album/1RAGs6JnmurAIytKWIbAxX) | 2:31 | 2025-09-19 |  |
 | [Everything Gangster \(feat\. Morrisson\)](https://open.spotify.com/track/2F246LhqckfoUpGo3I8FrS) | [Sleeks](https://open.spotify.com/artist/18UMkfg7oAqJ92nqPvHkPW), [Smoke Boys](https://open.spotify.com/artist/0ZnmpHEiVrHpbyRqDYjnTL), [Morrisson](https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA) | [Everything Gangster \(feat\. Morrisson\)](https://open.spotify.com/album/5RVs6DlGHYsv3vAar9Vnc9) | 4:05 | 2020-06-19 | 2020-07-03 |
 | [Everything's Personal](https://open.spotify.com/track/6WDFw2wrH5QoKqQX6bi8qk) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [36 Hours](https://open.spotify.com/album/6SQj6gs15aBIcIYzTCQQVF) | 3:10 | 2024-05-10 | 2024-06-21 |
 | [Evicted](https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Evicted](https://open.spotify.com/album/3OhdKF1s2F5ZwXNd3UXYaP) | 2:41 | 2024-10-17 | 2025-03-07 |

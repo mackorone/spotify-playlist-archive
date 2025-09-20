@@ -1,13 +1,29 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: Conan Gray",
-  "num_followers": 556185,
+  "description": "Feeling dramatic? All eyes on you. Cover: Paris Paloma",
+  "num_followers": 556198,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALbRyRBjmBtI4n1LlxiF+8YHF2uK",
+  "snapshot_id": "AAAAAF5dFWuKpKcmqscA1RlCKihOP5Sp",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:30",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
     {
       "added_at": "2025-09-12 04:00:22",
       "album": {
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw"
     },
     {
-      "added_at": "2025-09-08 07:14:09",
-      "album": {
-        "name": "Vodka Cranberry",
-        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 245664,
-      "name": "Vodka Cranberry",
-      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
-    },
-    {
       "added_at": "2024-08-23 04:11:51",
       "album": {
         "name": "Be the Cowboy",
@@ -73,20 +73,36 @@
       "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
     },
     {
-      "added_at": "2025-08-15 04:00:29",
+      "added_at": "2025-09-08 07:14:09",
       "album": {
-        "name": "One Man Circus",
-        "url": "https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN"
+        "name": "Vodka Cranberry",
+        "url": "https://open.spotify.com/album/0Z5FaBjNQ1sZ2Udunf17Jt"
       },
       "artists": [
         {
-          "name": "Madilyn Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 280240,
-      "name": "One Man Circus",
-      "url": "https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba"
+      "duration_ms": 245664,
+      "name": "Vodka Cranberry",
+      "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
+    },
+    {
+      "added_at": "2025-06-20 04:00:48",
+      "album": {
+        "name": "piano in the sky",
+        "url": "https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 130203,
+      "name": "piano in the sky",
+      "url": "https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW"
     },
     {
       "added_at": "2025-08-08 04:00:40",
@@ -153,22 +169,6 @@
       "url": "https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy"
     },
     {
-      "added_at": "2025-06-20 04:00:48",
-      "album": {
-        "name": "piano in the sky",
-        "url": "https://open.spotify.com/album/5Pn3JRVnxuR5dROybezUyK"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 130203,
-      "name": "piano in the sky",
-      "url": "https://open.spotify.com/track/1EMQCope8VHOJDHIKQTbRW"
-    },
-    {
       "added_at": "2025-08-18 02:36:33",
       "album": {
         "name": "Daisies",
@@ -183,6 +183,38 @@
       "duration_ms": 240134,
       "name": "The Water Is Fine",
       "url": "https://open.spotify.com/track/3gS0VrWH2NyPGXYiFmcagd"
+    },
+    {
+      "added_at": "2025-09-19 04:00:30",
+      "album": {
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY"
+      },
+      "artists": [
+        {
+          "name": "Haute & Freddy",
+          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki"
+    },
+    {
+      "added_at": "2024-08-23 04:11:51",
+      "album": {
+        "name": "The Family Jewels",
+        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 215960,
+      "name": "Hermit the Frog",
+      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
     },
     {
       "added_at": "2025-09-12 04:00:22",
@@ -233,20 +265,36 @@
       "url": "https://open.spotify.com/track/32cXaJseha1gHpL0YAF828"
     },
     {
-      "added_at": "2025-09-15 22:13:38",
+      "added_at": "2025-08-18 02:36:33",
       "album": {
-        "name": "Little Caesar",
-        "url": "https://open.spotify.com/album/2jUoyp6QSpo5xWrEqNORfb"
+        "name": "boys beware",
+        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
       },
       "artists": [
         {
-          "name": "Seb Lowe",
-          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
         }
       ],
-      "duration_ms": 174256,
-      "name": "Little Caesar",
-      "url": "https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo"
+      "duration_ms": 133887,
+      "name": "boys beware",
+      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
+    },
+    {
+      "added_at": "2025-08-15 04:00:29",
+      "album": {
+        "name": "One Man Circus",
+        "url": "https://open.spotify.com/album/6vFpCve8ucdIFqWy13uUHN"
+      },
+      "artists": [
+        {
+          "name": "Madilyn Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+        }
+      ],
+      "duration_ms": 280240,
+      "name": "One Man Circus",
+      "url": "https://open.spotify.com/track/6hgBTpKs8Ac8a8owmUIwba"
     },
     {
       "added_at": "2025-08-29 04:00:39",
@@ -301,20 +349,20 @@
       "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
-      "added_at": "2024-08-23 04:11:51",
+      "added_at": "2025-09-15 22:13:38",
       "album": {
-        "name": "The Family Jewels",
-        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
+        "name": "Little Caesar",
+        "url": "https://open.spotify.com/album/2jUoyp6QSpo5xWrEqNORfb"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
         }
       ],
-      "duration_ms": 215960,
-      "name": "Hermit the Frog",
-      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
+      "duration_ms": 174256,
+      "name": "Little Caesar",
+      "url": "https://open.spotify.com/track/1DVRDDz3uoN09hhrIZSiLo"
     },
     {
       "added_at": "2025-09-12 04:00:22",
@@ -343,22 +391,6 @@
       "duration_ms": 176702,
       "name": "BUZZZN",
       "url": "https://open.spotify.com/track/4aDvMSlTIH4RP66ignhUFv"
-    },
-    {
-      "added_at": "2025-08-18 02:36:33",
-      "album": {
-        "name": "boys beware",
-        "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 133887,
-      "name": "boys beware",
-      "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
     },
     {
       "added_at": "2025-08-18 02:36:33",
@@ -769,22 +801,6 @@
       "url": "https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW"
     },
     {
-      "added_at": "2025-05-16 04:00:10",
-      "album": {
-        "name": "Shy Girl",
-        "url": "https://open.spotify.com/album/3geXpNNZHdQD15uZV0uRj5"
-      },
-      "artists": [
-        {
-          "name": "Haute & Freddy",
-          "url": "https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR"
-        }
-      ],
-      "duration_ms": 187727,
-      "name": "Shy Girl",
-      "url": "https://open.spotify.com/track/7KNFJbMvPdplvrolBUkK2N"
-    },
-    {
       "added_at": "2025-05-09 04:00:10",
       "album": {
         "name": "Joyride",
@@ -1087,22 +1103,6 @@
       "duration_ms": 248266,
       "name": "Child Psychology",
       "url": "https://open.spotify.com/track/7Bj4wIqRzM6vx278EFYoBh"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Dinner @ Brasserie Z\u00e9del",
-        "url": "https://open.spotify.com/album/0NNZzGLChmCp78PF60tuWk"
-      },
-      "artists": [
-        {
-          "name": "Luvcat",
-          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
-        }
-      ],
-      "duration_ms": 204688,
-      "name": "Dinner @ Brasserie Z\u00e9del",
-      "url": "https://open.spotify.com/track/2OE8encLnOWQEsmcJTifeZ"
     },
     {
       "added_at": "2024-08-23 04:11:51",

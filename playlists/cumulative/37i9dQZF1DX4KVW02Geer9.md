@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Thundercat
 
-426 songs - 1 day 6 hr 31 min
+426 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Must Have Known](https://open.spotify.com/track/3TlVcT7gmTbwB3607URmTL) | [Takuya Kuroda](https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP), [Corey King](https://open.spotify.com/artist/4QpFZwYNSqn212bHXtpDrc) | [EVERYDAY](https://open.spotify.com/album/7MGQ30eNUS8DqLKQdH2zTi) | 3:43 | 2025-02-27 | 2025-06-27 |
 | [my friend](https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Sector 202](https://open.spotify.com/artist/4wZcgsw8OsO3gxRkbSQ5dP) | [my friend](https://open.spotify.com/album/06f11n0nawAhdN7Tuy3KFQ) | 4:04 | 2025-08-29 |  |
 | [My Ideal](https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [My Ideal](https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4) | 4:43 | 2025-07-24 |  |
+| [My Life Matters](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [My Life Matters](https://open.spotify.com/album/2xBXyOee7dECjSo657sXeL) | 6:23 | 2025-09-18 |  |
 | [Música Faz Parte de Mim](https://open.spotify.com/track/4RpBzgNoIYrDibKbbHF6yH) | [Dom Salvador](https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Música Faz Parte de Mim](https://open.spotify.com/album/0B4DHob4rw3y7E0HKq2w6u) | 5:14 | 2025-06-05 | 2025-07-25 |
 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-17 | 2024-12-06 |
 | [Nara Black](https://open.spotify.com/track/4eVZYHkPeFNtem42iniPKL) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Nara Black](https://open.spotify.com/album/4nidHbF3V8pli584hQJiJH) | 5:13 | 2025-07-24 |  |
@@ -372,7 +373,6 @@
 | [Tokyo](https://open.spotify.com/track/1KurCtUeLJhAYsHNhyOFJP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [DEEPER](https://open.spotify.com/album/2oUkGbcCAgYuxu9oKsh1aL) | 4:18 | 2024-12-17 | 2025-03-14 |
 | [Tokyo Daydream](https://open.spotify.com/track/6WLnZc1eXIoGy6VOzkEV3l) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Taali](https://open.spotify.com/artist/5SkhihNXZNPmooUcbSVZho) | [1978: Revenge of The Dragon](https://open.spotify.com/album/485R0lCUZRApYWXnH2PAeh) | 3:48 | 2025-05-15 | 2025-08-01 |
 | [Tokyo Lift \(5am\)](https://open.spotify.com/track/3nNHdtE7GDHCBwt6mA1D4M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Tokyo Lift \(5am\)](https://open.spotify.com/album/5VOkDAIt6P6s1eNRhay1xE) | 2:24 | 2025-03-13 | 2025-06-27 |
-| [Track 7](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Transient Line](https://open.spotify.com/track/4ekwaV3DkhZOWafEoKWUUZ) | [Soundtype](https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te) | [Transient Line](https://open.spotify.com/album/4eOsTT2FgzuTRqCJLqXDbH) | 4:13 | 2025-07-03 |  |
 | [Transporter](https://open.spotify.com/track/0mQo8pALF313P3mtXFQj1T) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Transformations](https://open.spotify.com/album/3pGVHliOsYNnjjQLjZaClb) | 2:27 | 2025-06-19 | 2025-08-01 |
 | [Tranxit](https://open.spotify.com/track/3J27GbmvtUh7fVmVFTH0oN) | [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Dave Holland](https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH) | [Tranxit](https://open.spotify.com/album/4JQlMc2S92oia3nGxWETMz) | 5:39 | 2024-09-26 | 2025-02-21 |

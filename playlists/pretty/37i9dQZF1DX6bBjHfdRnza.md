@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance music by independent artists and labels, featuring Jaguar\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,381 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,389 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Drugs I Like](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Drugs I Like](https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg) | 3:18 |
 | 100 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 
-Snapshot ID: `AAAAAMMIfmnJ4EGpZdxVjP7b+gZoS03u`
+Snapshot ID: `AAAAALFmvPq7BuImAxsTi0rPRDIoV8i/`

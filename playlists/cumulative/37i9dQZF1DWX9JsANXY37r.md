@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-251 songs - 15 hr 30 min
+252 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Burning Eyes](https://open.spotify.com/track/0pFNObqYA88ICySQbcojpd) | [Lou Berry](https://open.spotify.com/artist/6ZejT5CyVklEhKncKniiNQ), [Eylia](https://open.spotify.com/artist/0TtUCUCvzpAJeJokwfco30) | [Blue Sky](https://open.spotify.com/album/0WOa60QN1RlWW5YX6iEpK9) | 3:15 | 2022-02-18 | 2022-07-29 |
 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:28 | 2022-06-24 | 2023-07-29 |
 | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/track/71hBQ9qHsZU2M3vDF8MtaN) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [By Yourself \(feat\. Jhené Aiko & Mustard\)](https://open.spotify.com/album/1CQFYWHVdRypCsU2IU80t1) | 2:28 | 2022-03-25 | 2022-04-21 |
+| [Calor e Arrepio](https://open.spotify.com/track/2XrEARXWEdoExuzJiUfgO4) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Leo Guima](https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD) | [Os Garotin Session 2](https://open.spotify.com/album/2RPmWy0aO7APLeA7ot9VRH) | 2:22 | 2025-09-19 |  |
 | [Caminho Sem Volta](https://open.spotify.com/track/18kgN90dymlnnLvJSmtQug) | [THAMI](https://open.spotify.com/artist/4XlOnZCcxqJttY99hc3uqq) | [Caminho Sem Volta](https://open.spotify.com/album/7ybtjO05lRXxBSO8CCEt9l) | 3:26 | 2022-02-18 | 2022-07-29 |
 | [Cartas para o Passado](https://open.spotify.com/track/4bWigbot8lWuwfqkAMwXfP) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Cartas para o Passado](https://open.spotify.com/album/3xNi4aZ7NY5pngUCrPfSFV) | 4:00 | 2022-04-08 | 2022-07-29 |
 | [Change](https://open.spotify.com/track/58czdfdkPFvp8a3DRTUyBI) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Change](https://open.spotify.com/album/6XPbirRQZpjKJLMW8GhtkB) | 3:21 | 2022-02-18 | 2023-06-10 |
@@ -124,7 +125,7 @@
 | [Hunger](https://open.spotify.com/track/3Ly2KsOZ0OylQh3WmjZ8At) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/3kSUJ193A42dfs82PmOUP0) | 3:29 | 2022-03-25 | 2022-04-21 |
 | [Hunnybee](https://open.spotify.com/track/3DPFmwFtV5ElQaTniLOdgk) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/7c2Xfq7aQKzs0KdSI3K7Rc) | 4:28 | 2022-03-25 | 2022-04-20 |
 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 | 2022-06-24 | 2024-04-19 |
-| [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2022-03-25 |  |
+| [Hurt](https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hurt](https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ) | 3:36 | 2022-03-25 | 2025-09-20 |
 | [I Don't Know You](https://open.spotify.com/track/06cqIVC8kRAT02qfHQT65v) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 3:29 | 2022-03-25 |  |
 | [I Don't Want It At All](https://open.spotify.com/track/4qexD6ObR5nzpFJNpvQxIr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6rx35EFa5H8vMAlva3T95C) | 4:10 | 2022-03-25 | 2022-04-16 |
 | [I Don't Want It At All](https://open.spotify.com/track/4xhYxKvAxtrRd83MiqOy29) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [I Don't Want It At All](https://open.spotify.com/album/6TreAlV1VSMi8UmHl7byC4) | 4:10 | 2022-06-24 | 2023-08-28 |

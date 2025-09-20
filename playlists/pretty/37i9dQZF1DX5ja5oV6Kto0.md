@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zhus Jdo
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zhus Jdo & Solis4eva
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,210 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,224 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [How I Want It](https://open.spotify.com/track/0IsysGvtKPy8kY1s94kP3p) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [How I Want It](https://open.spotify.com/album/27ntNIe5RuATV5gXDrmYYV) | 3:02 |
 | 80 | [4](https://open.spotify.com/track/0Rw7SgIeIDtVMgy0lgTEW5) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [4](https://open.spotify.com/album/37afImoE5cCB6Nxwg4a28w) | 2:12 |
 
-Snapshot ID: `AAAAAM6l85nfQUKVXul1ODPYlcsK8J/U`
+Snapshot ID: `AAAAABLmLJLXiy1B/MRs2xYU8KxEjSf1`

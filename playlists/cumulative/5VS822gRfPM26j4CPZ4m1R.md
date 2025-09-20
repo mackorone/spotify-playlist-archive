@@ -4,7 +4,7 @@
 
 > Playlist
 
-608 songs - 1 day 11 hr 58 min
+609 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Still There](https://open.spotify.com/track/4PX1l25gDqLjaJTShFSZkL) | [Caraml](https://open.spotify.com/artist/60Mmm8LfNaNPjTbn20b1cg) | [Still There](https://open.spotify.com/album/0Vwbdn1CSBCpDz2magEHwy) | 4:05 | 2023-10-25 |  |
 | [Stop\. Revive\. Survive.](https://open.spotify.com/track/02Zf7eG8k9hCygdNS2IEpF) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 4:39 | 2023-10-25 |  |
 | [Strange Havana Nights](https://open.spotify.com/track/0IVY8esbREQqpPMkO8MGgq) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Silent Struggles](https://open.spotify.com/album/7oKFZCczw4URVDthSKJ2f7) | 5:09 | 2023-10-25 |  |
+| [Strangers](https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [Strangers](https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts) | 3:21 | 2025-09-19 |  |
 | [Stressgummies](https://open.spotify.com/track/1wIJ3lXFCyMedWo7ATGSy9) | [Layten Kramer](https://open.spotify.com/artist/6N7SiBlq090aRlRDJl8mFL) | [Stressgummies](https://open.spotify.com/album/2OmqvZN0dbOxQcN2KFXeJF) | 3:00 | 2023-10-25 |  |
 | [Strung](https://open.spotify.com/track/2TKbTFoRnFlaiLpu6hSk7c) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 3:00 | 2023-10-25 |  |
 | [Stuck in the Groove](https://open.spotify.com/track/3dAIzUK4zyNC0Q2nSgONXq) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Cabin Fever Dreams](https://open.spotify.com/album/7yc9we9YwgeuOBlyclDxMn) | 2:46 | 2023-10-25 |  |

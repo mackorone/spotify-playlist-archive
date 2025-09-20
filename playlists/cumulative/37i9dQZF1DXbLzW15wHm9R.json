@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
@@ -820,7 +820,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 106840,
       "name": "Enlightenment (Main Title Theme) - from \"The White Lotus: Season 3\"",
       "url": "https://open.spotify.com/track/2IGWD7cCtMJMfCBlXSIbz1"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 214506,
       "name": "I Always Wanted A Brother",
       "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "A Big Bold Beautiful Journey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "The Risk",
+      "url": "https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5"
+    },
+    {
+      "album": {
         "name": "The Top (from the Netflix Film \"UGLIES\")",
         "url": "https://open.spotify.com/album/3HSefcT3hoMEzAXC0gN6PC"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 173562,
       "name": "Ultimate",
       "url": "https://open.spotify.com/track/0WeaOSRwr944nlMVoOXPC4"
@@ -2954,6 +2972,24 @@
       "duration_ms": 146642,
       "name": "What's My Name (Red Version) - From \"Descendants: The Rise of Red\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1duJTDSFuK3sB0NwNr0QRg"
+    },
+    {
+      "album": {
+        "name": "TRON: Ares (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/47pjW3XDPW99NShtkeewxl"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350856,
+      "name": "Who Wants To Live Forever?",
+      "url": "https://open.spotify.com/track/7B38TXK2kfIGggpNOyT5zE"
     },
     {
       "album": {

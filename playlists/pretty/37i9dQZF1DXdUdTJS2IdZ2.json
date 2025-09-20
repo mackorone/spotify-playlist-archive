@@ -1,6 +1,6 @@
 {
   "description": "Rising stars and new releases from sunny Singapore. Cover: brb.",
-  "num_followers": 4092,
+  "num_followers": 4094,
   "original_name": "Rising 65",
   "owner": {
     "name": "Spotify",
@@ -59,8 +59,8 @@
     {
       "added_at": "2025-09-18 16:00:25",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "pov:",
+        "url": "https://open.spotify.com/album/1Zwq6jxImEsiFtYfT7yjGb"
       },
       "artists": [
         {
@@ -68,9 +68,25 @@
           "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 6",
+      "duration_ms": 223260,
+      "name": "fragments",
       "url": "https://open.spotify.com/track/72r9HFW0xRccGiQrDXWmVd"
+    },
+    {
+      "added_at": "2025-09-18 16:00:25",
+      "album": {
+        "name": "B&B: CELLOPHANE + BITTER TASTE",
+        "url": "https://open.spotify.com/album/6MSA7cu8zjhLHXji2tlF2l"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ng",
+          "url": "https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc"
+        }
+      ],
+      "duration_ms": 183870,
+      "name": "CELLOPHANE",
+      "url": "https://open.spotify.com/track/1icvCIhAcPDIsJPxV3sLYT"
     },
     {
       "added_at": "2025-09-18 16:00:25",

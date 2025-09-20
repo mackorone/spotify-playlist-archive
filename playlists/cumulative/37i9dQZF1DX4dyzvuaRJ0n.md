@@ -2,7 +2,7 @@
 
 ### [mint](https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n)
 
-> The world's biggest dance & electronic hits\. Cover: John Summit
+> The world's biggest dance & electronic hits\. Cover: Sammy Virji
 
 1,334 songs - 3 day 1 hr 49 min
 

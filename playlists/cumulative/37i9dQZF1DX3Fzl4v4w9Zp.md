@@ -2,7 +2,7 @@
 
 ### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
 
-> Keep your finger on the pulse of Americana\. Cover: Brandi Carlile
+> Keep your finger on the pulse of Americana\. Cover: Thelma & James
 
 853 songs - 2 day 4 hr 31 min
 

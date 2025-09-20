@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265001,
+  "num_followers": 265010,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAACE8CkBUHiTDVKfKSVUBBFm",
+  "snapshot_id": "aMtLgAAAAABrhvmIARfkg4EbkcfIQ8qD",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 174881,
+      "name": "Tenta\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo (Deluxe)",
         "url": "https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 152624,
       "name": "MTG Sagrado Profano",
       "url": "https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 174881,
-      "name": "Tenta\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI"
     },
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olhos Castanhos",
+        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 205523,
+      "name": "Olhos Castanhos",
+      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Type Dangerous - The Remixes",
         "url": "https://open.spotify.com/album/7Jv4EKxbrxJYaatg4lSd4v"
       },
@@ -919,18 +935,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olhos Castanhos",
-        "url": "https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh"
+        "name": "N\u00e3o Sirvo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
       },
       "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
         {
           "name": "Lu\u00edsa Sonza",
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 205523,
-      "name": "Olhos Castanhos",
-      "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
+      "duration_ms": 161749,
+      "name": "N\u00e3o Sirvo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
     },
     {
       "added_at": null,
@@ -955,26 +975,6 @@
       "duration_ms": 149090,
       "name": "Posi\u00e7\u00e3o de Ataque",
       "url": "https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Sirvo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 161749,
-      "name": "N\u00e3o Sirvo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
     },
     {
       "added_at": null,

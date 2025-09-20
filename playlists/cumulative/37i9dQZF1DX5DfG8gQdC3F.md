@@ -2,7 +2,7 @@
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Drake, Ed Sheeran, Rezz, Twenty One Pilots, Silverstein and more!
+> New music from Josh Ross, Cardi B, Lola Young, Leith Ross, Thelma & James and more!
 
 18,802 songs - 41 day 14 hr 23 min
 

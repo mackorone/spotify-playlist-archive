@@ -4,7 +4,7 @@
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Aerosmith ja YUNGBLUD.
 
-298 songs - 19 hr 15 min
+299 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Hail to the King](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:05 | 2024-09-11 | 2025-01-10 |
 | [Haluaako Piepponen turpaan?](https://open.spotify.com/track/08jQ1OPwy0gJ6VrlWRPKH9) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Haluaako Piepponen turpaan?](https://open.spotify.com/album/3va93w0LhqBOsmUUKmxmSg) | 3:32 | 2024-10-24 | 2025-01-24 |
 | [Haluamanilainen, mietin sua pahalla \- Emma Gaala 2025 Live](https://open.spotify.com/track/6GdsfRTm1mjLgyCP5Qd653) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Haluamanilainen, mietin sua pahalla \(Emma Gaala 2025 Live\)](https://open.spotify.com/album/2QXiRw2Y032iqIuXDyaFOo) | 5:22 | 2025-04-13 |  |
-| [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [](https://open.spotify.com/album/null) | 3:04 | 2025-09-18 |  |
+| [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Die About It \(Deluxe\)](https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G) | 3:04 | 2025-09-18 |  |
 | [Hearts Burst into Fire](https://open.spotify.com/track/6DsILuMLGYN6QqPXlhGHWo) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/2mGohCvbL3klQgXyTj7uNB) | 4:57 | 2024-09-11 | 2024-09-13 |
 | [Heaven's On Fire](https://open.spotify.com/track/1brpdmqkx3kSxyqzqXfW7J) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Animalize](https://open.spotify.com/album/5UxqSH1Ez2fcNVLqvLjsgB) | 3:21 | 2025-03-18 | 2025-06-20 |
 | [Heavy Is the Crown](https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Heavy Is the Crown](https://open.spotify.com/album/3Su6Sgi0YjcUFuCzjLKYYq) | 2:47 | 2024-09-26 | 2025-03-28 |
@@ -132,7 +132,7 @@
 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 | 2025-03-06 |  |
 | [I Left My License in the Future](https://open.spotify.com/track/1KK7Jyf8kzQO1LkNF85uO4) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [I Left My License in the Future](https://open.spotify.com/album/15NNV514Cwa36hZa9NkiYT) | 3:32 | 2024-09-11 | 2024-09-20 |
 | [I LOVE U2](https://open.spotify.com/track/6d417VbqewwGw3L4RG2mVk) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [I LOVE U2](https://open.spotify.com/album/4OL2lNDtyP8hryz7zIzRLl) | 3:09 | 2025-08-28 |  |
-| [I Miss You](https://open.spotify.com/track/6v14YPTFeAeeg1oGXtnKpu) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [This is Black Stone Cherry's RSD album\. The band really likes it.](https://open.spotify.com/album/0fzZFJx12IvTn7obhFhgsi) | 3:25 | 2025-04-17 |  |
+| [I Miss You](https://open.spotify.com/track/6v14YPTFeAeeg1oGXtnKpu) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [This is Black Stone Cherry's RSD album\. The band really likes it.](https://open.spotify.com/album/0fzZFJx12IvTn7obhFhgsi) | 3:25 | 2025-04-17 | 2025-09-20 |
 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 | 2025-05-15 | 2025-09-05 |
 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 | 2025-02-20 |  |
 | [I'll Give You Hell](https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [I'll Give You Hell](https://open.spotify.com/album/07gD3jqtgnnxtm4Y1z1Vsr) | 3:39 | 2024-09-11 | 2024-09-27 |
@@ -180,6 +180,7 @@
 | [Musta valo](https://open.spotify.com/track/0tmxdDHthPCpoF881Hu3Zy) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC) | [Tuomiojärvi](https://open.spotify.com/album/2bOL9UxiD5EoRkmc3ulkfo) | 3:50 | 2025-09-11 |  |
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 | 2025-07-18 |
 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-18 |  |
+| [Neon Eyes](https://open.spotify.com/track/4b75L4tjIUROKoUJRiN06L) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Neon Eyes](https://open.spotify.com/album/60cV6stcgNnSM9Q0EdyDTI) | 3:56 | 2025-09-19 |  |
 | [Neon Noir](https://open.spotify.com/track/4jW6TlrmCQUGnNcbEdr8Ui) | [VV](https://open.spotify.com/artist/5QeGMmMBYG14aeTzkVny1l) | [Neon Noir](https://open.spotify.com/album/1F9QDVhcJCUz0BHcjdmqvX) | 4:56 | 2024-09-11 | 2024-12-13 |
 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 | 2024-09-11 | 2025-01-17 |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-02-28 |

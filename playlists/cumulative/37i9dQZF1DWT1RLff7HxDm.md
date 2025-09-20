@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-171 songs - 17 hr 27 min
+172 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Open Hearted Woman \- Live](https://open.spotify.com/track/3Phzwv994YsLZSSU7B2Q6P) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [Live at DBA: New Orleans Bootleg](https://open.spotify.com/album/0XQbbMvll706Gfsk4ymE2T) | 7:57 | 2022-02-18 |  |
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville \(Deluxe\)](https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe) | 8:29 | 2020-10-30 | 2024-04-19 |
 | [Pallet Soft and Low \(Live\)](https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Live in Nashville](https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf) | 8:29 | 2020-10-30 |  |
+| [Peace Machine \(Live in L.a\. at The Baked Potato\)](https://open.spotify.com/track/01vW1dzOkXaISWwBe0MOsx) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine \(Live in L.a\. at The Baked Potato\)](https://open.spotify.com/album/6gXu4Xk2P6CfCGJLu54t9w) | 9:30 | 2025-09-19 |  |
 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 | 2020-10-30 |  |
 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 | 2024-06-21 |  |
 | [Rain \- Live At Red Rocks, 2023](https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Rain \(Live At Red Rocks, 2023\)](https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix) | 4:48 | 2023-10-06 |  |
@@ -134,7 +135,7 @@
 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 | 2020-10-30 | 2024-04-19 |
 | [SoulBQue \- Live in Boston](https://open.spotify.com/track/5Q1osWuey1198DjmVlaHrJ) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda) | [Live in Boston](https://open.spotify.com/album/5h3MWDw8xiiRCWxWMvoIaS) | 7:37 | 2023-09-15 | 2024-01-13 |
 | [Soulshine](https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Live...With A Little Help From Our Friends](https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE) | 9:09 | 2020-10-30 |  |
-| [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 | 2020-10-30 |  |
+| [Steamroller / Powerful Thing \- Live](https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol.1 \(Live\)](https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3) | 6:22 | 2020-10-30 | 2025-09-20 |
 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 | 2020-10-30 |  |
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 | 2020-10-30 | 2024-04-19 |
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad & Beautiful \- Live](https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp) | 5:50 | 2020-10-30 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 ### [All New Pop](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
-> All this week's best new pop releases\. Cover: JADE
+> All this week's best new pop releases\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,810 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,446 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Mortal Kombat](https://open.spotify.com/track/2W2Tgwk2FDozPT0kF6P7oa) | [Elise Eriksen](https://open.spotify.com/artist/4Z4AA4VE6yS9vOZdEXabS8) | [Mortal Kombat](https://open.spotify.com/album/5aPUlVOjjWFCsajVhGLuiJ) | 3:11 |
 | 99 | [Somebody You Like](https://open.spotify.com/track/1WJ66qjiS1DTZC3U0FcGsj) | [primo.io](https://open.spotify.com/artist/4sG37eH4v8Oi8nReR52YCB) | [Somebody You Like](https://open.spotify.com/album/77euuQgjEcgsmuk4myDHZ7) | 3:22 |
 
-Snapshot ID: `AAAAAE6Qy5Ll6YwOkJJWj5gHjqr2rssY`
+Snapshot ID: `AAAAAMUBV4rMMWYRBBe1zQVCl4hSUPoJ`

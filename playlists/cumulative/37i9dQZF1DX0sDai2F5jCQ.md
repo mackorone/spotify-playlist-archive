@@ -2,9 +2,9 @@
 
 ### [A1](https://open.spotify.com/playlist/37i9dQZF1DX0sDai2F5jCQ)
 
-> Your shortcut to the best new Hip Hop\. Cover: Drake
+> Your shortcut to the best new Hip Hop\. Cover: Cardi B
 
-668 songs - 1 day 8 hr 37 min
+670 songs - 1 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [2 Mazza \(feat\. Drake\)](https://open.spotify.com/track/2rKNlxKBZvpSpuIChBdHts) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Don't Box Me In](https://open.spotify.com/album/2TLqwyhFd2gr8ACn4G7xiT) | 3:11 | 2025-06-19 | 2025-09-19 |
 | [2004 \- feat\. buddy & the gang](https://open.spotify.com/track/53TwJxoz2dCjrfRYZJAIaQ) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [The Gang](https://open.spotify.com/artist/0FgJeqcioFnFh5jYUNZXMI) | [2004 \(feat\. buddy & the gang\)](https://open.spotify.com/album/0FKxD8lXXxJI0DDMMm8whM) | 4:02 | 2025-05-15 | 2025-06-20 |
 | [3am](https://open.spotify.com/track/1LYGpC6P9t7VARZxap9Kcx) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs), [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs), [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [3am](https://open.spotify.com/album/7HKTDmDebceTzrFxiCAO1m) | 3:29 | 2024-02-15 | 2024-06-14 |
+| [4 Raws](https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 2:26 | 2025-09-19 |  |
 | [444](https://open.spotify.com/track/2f7NXiO2Uyffl4Pp2AArRI) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Lost In Euphoria](https://open.spotify.com/album/7baqnLVVcQUr5yUhakW9KX) | 2:41 | 2025-03-20 | 2025-05-02 |
 | [444](https://open.spotify.com/track/7r4dJgoKyj5y4ddkgwxhlR) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [444](https://open.spotify.com/album/4y591Ukpf4rq7wZquXKJkR) | 1:54 | 2025-01-30 | 2025-03-14 |
 | [44ever](https://open.spotify.com/track/40DarBiyfVPEC6OQid9jv6) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [44ever](https://open.spotify.com/album/3l1waWo8qk4IVtyuzKD4bx) | 1:55 | 2024-04-18 | 2024-08-02 |
@@ -368,6 +369,7 @@
 | [Luxford](https://open.spotify.com/track/7asYmLWx9FqYTBqfkOxRsv) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Luxford](https://open.spotify.com/album/14RtB2BufGODTUgDlsvjfx) | 3:27 | 2025-05-15 |  |
 | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/track/1MhXchY126AX5Iuv4Odbe8) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Speedy](https://open.spotify.com/artist/4hTb6DnLgjnsz9SgibDYS4), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [LV Bag \(feat\. j\-hope of BTS & Pharrell Williams\)](https://open.spotify.com/album/5AbAAzC0jBy4teVgpRbFPj) | 3:02 | 2025-02-20 | 2025-06-13 |
 | [LWRW](https://open.spotify.com/track/00KKtPfUBjO1k8Yn8dmJKZ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LWRW](https://open.spotify.com/album/17UWTQHJpEBuW8cWFGbYlN) | 2:39 | 2024-03-14 | 2024-04-19 |
+| [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 | 2025-09-19 |  |
 | [Make a W \(feat\. Skrillex, AJ Tracey & BEAM\)](https://open.spotify.com/track/1TvL9bTK09XpG2NtAkD4nq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [The Last One](https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp) | 2:57 | 2024-06-27 | 2024-11-29 |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-10-19 | 2023-12-01 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-08-01 | 2024-09-20 |
@@ -464,7 +466,7 @@
 | [Pop It Off](https://open.spotify.com/track/41Rb31TeUfCQqSHrPTbsrL) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Pop It Off](https://open.spotify.com/album/2K72Xpc2mhuNAIz2mwcvwt) | 3:09 | 2025-01-23 |  |
 | [Poppin](https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Poppin](https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR) | 2:46 | 2025-01-16 | 2025-02-21 |
 | [Port Antonio](https://open.spotify.com/track/74QLfg69aVm4Afw3VGhDTY) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Port Antonio](https://open.spotify.com/album/5PsNxZIlqO0zVMxDF9zulW) | 5:16 | 2025-03-06 | 2025-06-20 |
-| [Portals](https://open.spotify.com/track/3zbLUGQOL6gRZC4gHSiR0W) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [z0nes](https://open.spotify.com/artist/1tkWBIitP6KqmbYwg0pZUm) | [Portals](https://open.spotify.com/album/41PRXkMTyok9wozPohbGK5) | 2:48 | 2025-06-12 |  |
+| [Portals](https://open.spotify.com/track/3zbLUGQOL6gRZC4gHSiR0W) | [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ), [z0nes](https://open.spotify.com/artist/1tkWBIitP6KqmbYwg0pZUm) | [Portals](https://open.spotify.com/album/41PRXkMTyok9wozPohbGK5) | 2:48 | 2025-06-12 | 2025-09-20 |
 | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/track/060f2MPkZIV4lNLDkq0Uta) | [JessB](https://open.spotify.com/artist/3dnNuI5EU8TEdiAT73kj27), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Power \(feat\. Sister Nancy & Sampa the Great\)](https://open.spotify.com/album/2OQhtuAlEsrxSjU3WS1txn) | 2:43 | 2024-07-11 | 2024-08-02 |
 | [prada dem \(feat\. Offset\)](https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [prada dem \(feat\. Offset\)](https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY) | 2:45 | 2024-03-22 | 2024-06-28 |
 | [Preach](https://open.spotify.com/track/0dxupq1dWkfw6rFeaxwTTE) | [Barkaa](https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr) | [Preach](https://open.spotify.com/album/3qCzLZmKm0dozA92WXogJ9) | 2:39 | 2024-06-21 | 2024-07-27 |

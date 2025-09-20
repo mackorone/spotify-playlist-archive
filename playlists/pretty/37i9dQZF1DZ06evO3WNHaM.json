@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 454934,
+  "num_followers": 455104,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAAiVxs0EMeGVyT+JY9BWiLj",
+  "snapshot_id": "aMtLgAAAAABYkiNg6QbHAgOYsTGe791Z",
   "tracks": [
     {
       "added_at": null,
@@ -55,22 +55,6 @@
       "duration_ms": 124173,
       "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
       "url": "https://open.spotify.com/track/4HpIh5wWfkq5sSuCLLSwYR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 212577,
-      "name": "infinite source",
-      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "added_at": null,
@@ -164,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 208570,
-      "name": "ecdysis",
-      "url": "https://open.spotify.com/track/4JV3BjszeEUD1bTTcx9hdx"
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "added_at": null,
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 172385,
-      "name": "locked club",
-      "url": "https://open.spotify.com/track/3ICYxVhwVsp8FYI3IT2dDV"
+      "duration_ms": 208570,
+      "name": "ecdysis",
+      "url": "https://open.spotify.com/track/4JV3BjszeEUD1bTTcx9hdx"
     },
     {
       "added_at": null,
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 248840,
-      "name": "milk of the madonna",
-      "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
+      "duration_ms": 172385,
+      "name": "locked club",
+      "url": "https://open.spotify.com/track/3ICYxVhwVsp8FYI3IT2dDV"
     },
     {
       "added_at": null,
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 181982,
-      "name": "cut hands",
-      "url": "https://open.spotify.com/track/4oONLfYN4mYYWnnQNW0tap"
+      "duration_ms": 248840,
+      "name": "milk of the madonna",
+      "url": "https://open.spotify.com/track/2463q6UN8BIDfeVI379qFz"
     },
     {
       "added_at": null,
@@ -807,6 +791,22 @@
       "duration_ms": 302413,
       "name": "(L)MIRL",
       "url": "https://open.spotify.com/track/4hYNZvsCnAOZP0lADhpmgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
     }
   ],
   "unique_name": "This Is Deftones",

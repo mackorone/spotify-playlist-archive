@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-451 songs - 1 day 0 hr 9 min
+452 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Pegate](https://open.spotify.com/track/4pW0EymAfv9nGZhEcRT1Q8) | [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX), [LVGA](https://open.spotify.com/artist/56XA3oHWzuMXJHU9PV48ty), [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Pegate](https://open.spotify.com/album/5sMoNyvJviNyHwNShbxvaR) | 2:03 | 2024-06-28 | 2024-08-31 |
 | [Pelota](https://open.spotify.com/track/6e1n2hJalQwUKjwosm5iwZ) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Pure Cold](https://open.spotify.com/artist/63xJ8YYPv8AtvO8sj3ssLI), [Shaq Rayes](https://open.spotify.com/artist/2PgjJYtkSxJPn6A0jmLerc) | [Pelota](https://open.spotify.com/album/5fIhFcKkwc1TGivrJD5vdU) | 3:20 | 2024-03-29 | 2024-05-28 |
 | [Periquito](https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn) | [Bruno Bona](https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU) | [Salzzati](https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw) | 5:16 | 2024-04-19 | 2024-06-22 |
+| [Perversa](https://open.spotify.com/track/0qh9V7O8f0CSLufNlyjva9) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Byred](https://open.spotify.com/artist/1aABhU6Qe0paiGAPMlRbWU), [Harrell](https://open.spotify.com/artist/3XhY6vumQiV38lOxH9yeWH) | [Perversa](https://open.spotify.com/album/7vtTn5VGyUcMoGtRN2u8QC) | 2:36 | 2025-09-19 |  |
 | [Piano de la Selva](https://open.spotify.com/track/0FJnDA2xiJ5jqYZgA6bhdE) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Piano de la Selva](https://open.spotify.com/album/3eeNuUpzHKLg0rTSTcMh0D) | 4:07 | 2023-12-01 | 2024-03-20 |
 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 | 2024-06-21 |  |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2023-11-17 |  |
@@ -408,7 +409,7 @@
 | [Toca Me Ft\. Michelle Marrero](https://open.spotify.com/track/2WzUDkHU1iAVJdy3Can2O9) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [OBRIGADO](https://open.spotify.com/album/0EoZk9OPqTPYIPId511MtB) | 3:21 | 2025-02-21 | 2025-05-24 |
 | [Tocate](https://open.spotify.com/track/0hmovhJh8gx8Ito3nbPRQy) | [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e), [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc) | [Tocate](https://open.spotify.com/album/1J69wY1wgzllb0AisNy99J) | 3:10 | 2024-04-05 | 2024-04-19 |
 | [Toma Dale](https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Toma Dale](https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr) | 5:23 | 2023-12-01 | 2025-07-18 |
-| [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-11-10 |  |
+| [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 | 2023-11-10 | 2025-09-20 |
 | [Tomala](https://open.spotify.com/track/3J8H0G31LQnI5SAfho46DD) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Tomala](https://open.spotify.com/album/1SxwEEXsi7urSOIk303YoY) | 2:20 | 2024-02-23 | 2024-03-09 |
 | [Tomala \(Se Mueve Se Siente\)](https://open.spotify.com/track/37VEY7FABybvLFg9iYE3LY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Draxx \(ITA\)](https://open.spotify.com/artist/57QKWHmmY0jb44T2w7ln73) | [Tomala \(Se Mueve Se Siente\)](https://open.spotify.com/album/6Tk01gOTdEwBSvsHdm9Ld2) | 2:40 | 2024-07-19 | 2025-01-25 |
 | [Tomatá](https://open.spotify.com/track/1K20G73TiqmwtpSpF8YZc4) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Tomatá](https://open.spotify.com/album/72yDPVxxmIO1fag7fz9rQD) | 2:45 | 2025-04-25 | 2025-05-29 |

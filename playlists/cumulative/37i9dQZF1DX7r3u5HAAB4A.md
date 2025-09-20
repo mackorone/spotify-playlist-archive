@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\.  Cover: Bounty Killer, Vybz Kartel, DJ Khaled, Buju Banton and Mavado
+> A melting pot of Caribbean culture\.  Cover: Teejay
 
-268 songs - 13 hr 16 min
+269 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Life of The Party](https://open.spotify.com/track/1VxsfMAJDss6usTE85yv32) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt) | [Life of The Party](https://open.spotify.com/album/7LqmuIdc6C1c68OBUhgzjP) | 3:33 | 2025-02-28 | 2025-04-26 |
 | [LIFESTYLE](https://open.spotify.com/track/50v9IKJoA8b1Qqx7wwdZzf) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [LIFESTYLE](https://open.spotify.com/album/7MQy2VfgrtsZz4hXvsQOz4) | 2:51 | 2024-08-29 | 2025-01-17 |
 | [Light Of Mine](https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Light Of Mine](https://open.spotify.com/album/3tXhyhTgxoF5s4PrBajFla) | 3:42 | 2025-03-28 | 2025-04-05 |
+| [Like That](https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/0XF5pY3GW1x5DASvQE0aPK) | 2:25 | 2025-09-19 |  |
 | [Looking for It](https://open.spotify.com/track/3RUzc2zCcZBaGUdXfOPBrw) | [Hypasounds](https://open.spotify.com/artist/3ukVr8bbF0HUXtqjI7uxHF) | [Looking for It](https://open.spotify.com/album/2VxXWMvK1VWv6QoAshbDIg) | 2:56 | 2024-08-29 | 2024-09-14 |
 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 | 2024-08-29 | 2025-02-22 |
 | [Marching](https://open.spotify.com/track/5xaxWpHoX9vs72pnpiIcpK) | [Zion Marley](https://open.spotify.com/artist/3NfvGqN0IZIAKcpuxVhOsx) | [Marching](https://open.spotify.com/album/76XQ6TzMmAFtsinWFPL2j7) | 3:24 | 2025-06-13 | 2025-07-12 |
@@ -237,7 +238,7 @@
 | [TIME](https://open.spotify.com/track/12U7ykhK1TZTzTGmDHWDGq) | [Jimmy October](https://open.spotify.com/artist/7ymbjgoFo1FSdcVCKjxQUn) | [TIME](https://open.spotify.com/album/2FbMoqc0ksmsJqLqqoGJmB) | 2:31 | 2025-09-12 |  |
 | [Tomorrow Promised Us](https://open.spotify.com/track/7m5c8nJDfChDtqZQCaIFy1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lovers Till I'm Gone](https://open.spotify.com/album/4WAgGUPLsCdOqGpiJcbN52) | 3:18 | 2025-01-17 | 2025-03-08 |
 | [Too Hot \(feat\. Moliy\)](https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:14 | 2025-08-08 |  |
-| [Too Late](https://open.spotify.com/track/7i2G01nyro3Y09I3pXoz4E) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [No Place Like Home](https://open.spotify.com/album/7tFkIzZkbJvc3GkncxI5tj) | 2:47 | 2025-08-29 |  |
+| [Too Late](https://open.spotify.com/track/7i2G01nyro3Y09I3pXoz4E) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [No Place Like Home](https://open.spotify.com/album/7tFkIzZkbJvc3GkncxI5tj) | 2:47 | 2025-08-29 | 2025-09-20 |
 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 | 2025-02-28 | 2025-03-15 |
 | [Top Gyal](https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P) | [Top Gyal](https://open.spotify.com/album/0AquTZ7zO9Bq5W1TSQeaEH) | 2:06 | 2025-08-22 | 2025-09-06 |
 | [Touchdown \(with J Balvin, Beenie Man, Bounty Killer & Tasan\)](https://open.spotify.com/track/5YQoiJnRRrsctf33UG9JYv) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Touchdown \(with J Balvin, Beenie Man, Bounty Killer & Tasan\)](https://open.spotify.com/album/09NhKmRugCWSvRKh1jK46Z) | 3:18 | 2025-01-31 | 2025-03-01 |

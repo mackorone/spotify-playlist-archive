@@ -4,7 +4,7 @@
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Supercombo
 
-207 songs - 12 hr 20 min
+208 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Cidade](https://open.spotify.com/track/6chCkT8RkDC0kM66HKfPQb) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [As Cores, as Curvas e as Dores do Mundo](https://open.spotify.com/album/7LHPGpPZV2duyGmI2KthiX) | 2:43 | 2025-05-30 |  |
 | [A Cidade Sumiu](https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ) | [Cadu Pereira](https://open.spotify.com/artist/3dboP9Qt8tTyuLkpGOpenP) | [A Cidade Sumiu](https://open.spotify.com/album/3IJEblX2wYdTe9UWs29kAZ) | 2:57 | 2024-07-19 |  |
 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 | 2023-07-21 | 2025-02-15 |
-| [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-23 |  |
+| [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2024-02-23 | 2025-09-20 |
+| [A Vida É Um Trem Cheio de Gente Dizendo Tchau](https://open.spotify.com/track/1W88QS91c2s1jM2BYgipTb) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [A Vida É Um Trem Cheio de Gente Dizendo Tchau](https://open.spotify.com/album/5rKriM0hYVcvaQV0xEVlGS) | 3:42 | 2025-09-19 |  |
 | [Abra as Cortinas](https://open.spotify.com/track/7C9J1E6XuC7m6RzmGJtLP7) | [Douglas Lopes](https://open.spotify.com/artist/7tWPG5zZcCcn2Mi3UJlHjl) | [Abra as Cortinas](https://open.spotify.com/album/123gz25QTgvOuvy9nd9Fv4) | 3:07 | 2023-07-21 | 2023-12-16 |
 | [acordar](https://open.spotify.com/track/7LxFmCfhILQ0zWFWEqxs09) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [acordar](https://open.spotify.com/album/7H5zUnptzblSjqmu6feq72) | 4:26 | 2023-07-21 | 2024-04-06 |
 | [Acrobata](https://open.spotify.com/track/6orBIiTmqWyGI21IkACaAA) | [Daparte](https://open.spotify.com/artist/6D5hUhZncLiNMeE3gq9BhL) | [Pescador / Acrobata](https://open.spotify.com/album/56j6hEFyQdQCINw9rINDKP) | 3:16 | 2023-07-21 | 2024-02-24 |

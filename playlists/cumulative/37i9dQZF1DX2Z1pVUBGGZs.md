@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring paris paloma 🌻
 
-638 songs - 1 day 8 hr 15 min
+638 songs - 1 day 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bird cage blue and yellow](https://open.spotify.com/track/3qhyW08FypET71F65dYZZc) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Songs of Origin](https://open.spotify.com/album/2l9etGpqZ3uyqa5I2xozjv) | 3:14 | 2024-09-27 | 2024-10-18 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-27 | 2024-09-21 |
 | [Black Girls Wanna Have Fun](https://open.spotify.com/track/2S9Mi8kKLdfD5Xu0ypYKb5) | [billie\-angela](https://open.spotify.com/artist/1USzYJ98DrLK7yVTyS9Zpm) | [Black Girls Wanna Have Fun](https://open.spotify.com/album/2B9StN4ktbzDyz0ZDHUbWm) | 1:45 | 2024-06-27 | 2024-08-30 |
-| [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 | 2025-09-18 |  |
+| [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 | 2025-09-18 |  |
 | [Blind](https://open.spotify.com/track/513z8kjyLSnl0toYu9xwdU) | [Only Real](https://open.spotify.com/artist/5cyHu7tidauRJ9UawaPwG5) | [Blind](https://open.spotify.com/album/0OKbrYFDbd3WbPdmSWY3Hq) | 3:00 | 2025-01-17 | 2025-02-28 |
 | [Bloom](https://open.spotify.com/track/38AqcVgPDXEb0PtBltxCin) | [aimei 媚](https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ) | [Bloom](https://open.spotify.com/album/17LhwJlAlvNZqufsVPGUQi) | 3:35 | 2024-10-24 | 2024-11-01 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2024-10-04 |
@@ -169,6 +169,7 @@
 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 | 2024-06-27 | 2024-07-05 |
 | [Drama](https://open.spotify.com/track/4DQNdeDEnbJIckoZ8XLg7G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Drama](https://open.spotify.com/album/4gpz8x6AGw0DOjsKYr9PRq) | 2:58 | 2025-01-03 | 2025-02-28 |
 | [Drive](https://open.spotify.com/track/2Z9Biqmc0XwwYUVgvIkeiq) | [Alfie Neale](https://open.spotify.com/artist/3kMEpQS5iaBwIvrudhKYmG) | [Drive](https://open.spotify.com/album/7DCk4UPh5RZ7gNgBwkcgkC) | 2:45 | 2025-06-05 | 2025-08-01 |
+| [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 | 2025-09-18 |  |
 | [Dumb Bitch Juice](https://open.spotify.com/track/3GREjwadOvBZW448ULa6TC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:31 | 2024-06-27 | 2024-07-19 |
 | [Dumb Feeling](https://open.spotify.com/track/2fF1a2k5TX0hpzcRv8YQCd) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dumb Feeling](https://open.spotify.com/album/7KxzFjvX8ocoU3wRYW4bmi) | 3:10 | 2025-02-28 | 2025-05-16 |
 | [Dumb Girl](https://open.spotify.com/track/5ZT6xWFUUXSwKmMC0kBZL9) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur](https://open.spotify.com/album/5svjBxPc0CFYX8ftpZwVal) | 3:10 | 2025-07-24 |  |
@@ -445,7 +446,7 @@
 | [play dumb](https://open.spotify.com/track/6RWQDZzsJxGuWaQkDz6wms) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [play dumb](https://open.spotify.com/album/52Yl4If8vcadAmxKGZ2KxW) | 2:54 | 2025-05-22 | 2025-07-04 |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 |  |
 | [Please Forgive Me, David Gray](https://open.spotify.com/track/3QLLYIN4ZYUQyQmcNNcebi) | [Annie\-Dog](https://open.spotify.com/artist/0kWbyk1GXEB8RrVVOlKmVU) | [Please Forgive Me, David Gray](https://open.spotify.com/album/53xvRwB63FngPIEMlCRJDz) | 3:02 | 2025-01-24 | 2025-02-14 |
-| [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 | 2025-09-18 |  |
+| [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-18 |  |
 | [Powerful](https://open.spotify.com/track/7qkxE2CKWhccItjbGmMrs7) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Powerful](https://open.spotify.com/album/65UihlYgSsnfbvph1lZmdx) | 3:53 | 2025-08-28 |  |
 | [pretty](https://open.spotify.com/track/7o6G7qNzrsnW0cpTjZ1erz) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [pretty](https://open.spotify.com/album/2kWk6J6FUStP7K4urQ266l) | 3:00 | 2024-06-27 | 2024-07-12 |
 | [Pretty Boy, Pt\. 2 \(feat\. Zino Vinci\)](https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM), [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Pretty Boy, Pt\. 2 \(feat\. Zino Vinci\)](https://open.spotify.com/album/3APB1ROZYZdC57LzEwudNM) | 4:37 | 2024-11-29 | 2025-05-09 |
@@ -585,7 +586,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-09 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 2](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
 | [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 | 2025-03-21 |

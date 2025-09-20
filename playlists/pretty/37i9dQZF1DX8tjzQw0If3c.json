@@ -1,12 +1,12 @@
 {
   "description": "Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from Singapore & Malaysia!",
-  "num_followers": 11160,
+  "num_followers": 11158,
   "original_name": "RADAR SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPOnipKrXRdOI3d600zBnl6rTg1c",
+  "snapshot_id": "AAAAAPB8gahjiGgyArLDRP1Yt+9iy1+y",
   "tracks": [
     {
       "added_at": "2025-09-08 16:00:16",
@@ -143,6 +143,46 @@
       "duration_ms": 218260,
       "name": "half of my heart",
       "url": "https://open.spotify.com/track/1axeB1swjtFnZk8weaQcrN"
+    },
+    {
+      "added_at": "2025-09-19 05:47:13",
+      "album": {
+        "name": "RICH",
+        "url": "https://open.spotify.com/album/5As5b3LJnMumsTkQM00x7h"
+      },
+      "artists": [
+        {
+          "name": "Yokez",
+          "url": "https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus"
+        },
+        {
+          "name": "GARETH FERNANDEZ",
+          "url": "https://open.spotify.com/artist/5OCCRySomkXZXoE1JQ5Hkb"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "RICH",
+      "url": "https://open.spotify.com/track/0APma3TkPygErSuwg8y9nn"
+    },
+    {
+      "added_at": "2025-09-19 05:47:13",
+      "album": {
+        "name": "Lepas Pegangan",
+        "url": "https://open.spotify.com/album/5WOKeopcxaXQPkEjUJrX6q"
+      },
+      "artists": [
+        {
+          "name": "NAKI",
+          "url": "https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb"
+        },
+        {
+          "name": "Mitty Zasia",
+          "url": "https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Lepas Pegangan",
+      "url": "https://open.spotify.com/track/6HlPJ9EhmA6CgBD4Ke5AeG"
     },
     {
       "added_at": "2025-09-08 16:00:16",

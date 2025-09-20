@@ -2,7 +2,7 @@
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: CeCe
+> Music City must\-hears\. Cover: Payton Smith
 
 3,436 songs - 7 day 16 hr 25 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Crudo Means Raw
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Mon Laferte, Nathy Peluso
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,577 likes - 66 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,760 likes - 66 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 65 | [Mi Cora](https://open.spotify.com/track/45ct8eQ190WelNwKRcoqeU) | [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Mi Cora](https://open.spotify.com/album/4aUYU4E0KHqdfFafYvu8YZ) | 3:04 |
 | 66 | [ManiKI](https://open.spotify.com/track/3eg2SVktHhkyH0djwJ51X5) | [Lil Keren](https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt) | [ManiKI](https://open.spotify.com/album/55RsGWoHmCAqm56r7tXtcR) | 2:14 |
 
-Snapshot ID: `AAAAAALcK54wIqOWf2S+vNnIJlfgqm5e`
+Snapshot ID: `AAAAAPbQTAtWjIKFRPRlHQovlCKdDQuR`

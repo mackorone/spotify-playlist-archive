@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,236 songs - 4 day 23 hr 48 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,237 songs - 4 day 23 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2244,5 +2244,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2234 | [Whip Smack](https://open.spotify.com/track/2GiIxdpHNTJ4mirXfDOpma) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [Whip Smack](https://open.spotify.com/album/6Tmt9DPTZJojU0ILaikzkK) | 2:36 |
 | 2235 | [4c1d](https://open.spotify.com/track/3TsjTZLJbnVzLY9HEq0JlS) | [drenchrome](https://open.spotify.com/artist/4CZGDoISuyPBiQ2s6dwwYM) | [4c1d](https://open.spotify.com/album/1AH5zxDjbUYmMI3YOOLa5I) | 1:00 |
 | 2236 | [Raid Boss](https://open.spotify.com/track/1QWe23QoFAIWI7iDZhGM0A) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [ACID REFLUX](https://open.spotify.com/album/4u7dPlaVhMP137ISVgroAd) | 4:11 |
+| 2237 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
 
-Snapshot ID: `AAAErpckAXay+1xLsFJGQOs4spRTFmzF`
+Snapshot ID: `AAAErwMTqvlGxT+1lpJM3/Th4ASnQmAY`

@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 194901,
+  "num_followers": 194938,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "LIEBE IN GEFAHR",
         "url": "https://open.spotify.com/album/1BDhpkMlQdbi4AAQlXKpHe"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 164936,
       "name": "Jeden Tag mehr",
       "url": "https://open.spotify.com/track/2EOJi8TfW5kQ3NM2pk0y7p"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -963,18 +963,18 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Liebeslieder",
-        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
+        "name": "Meine Liebe",
+        "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
       },
       "artists": [
         {
-          "name": "Alexander Eder",
-          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
         }
       ],
-      "duration_ms": 147825,
-      "name": "Liebeslieder",
-      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
+      "duration_ms": 188446,
+      "name": "Meine Liebe",
+      "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -999,18 +999,18 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Meine Liebe",
-        "url": "https://open.spotify.com/album/5Sm78Vs7XZ2TGEm4Sr6lbV"
+        "name": "Liebeslieder",
+        "url": "https://open.spotify.com/album/2LhRORqn6i6b4Qb1hbQvnL"
       },
       "artists": [
         {
-          "name": "Wilhelmine",
-          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+          "name": "Alexander Eder",
+          "url": "https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE"
         }
       ],
-      "duration_ms": 188446,
-      "name": "Meine Liebe",
-      "url": "https://open.spotify.com/track/15vtqlvHAnWjaiQdf87zRr"
+      "duration_ms": 147825,
+      "name": "Liebeslieder",
+      "url": "https://open.spotify.com/track/4kicMdMtAxfHgr8IhpwRyb"
     }
   ],
   "unique_name": "Liebeslieder",

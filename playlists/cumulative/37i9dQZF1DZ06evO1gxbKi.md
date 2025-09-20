@@ -4,7 +4,7 @@
 
 > This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
-162 songs - 8 hr 5 min
+163 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,12 +46,13 @@
 | [Go Ahead](https://open.spotify.com/track/3iduBepxPdQzxUOCAz6b01) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Authorized Sister Rosetta Tharpe Collection](https://open.spotify.com/album/0QKuuYbckrnqy7qaL9zsRr) | 4:37 | 2022-05-25 | 2022-12-25 |
 | [Go Ahead \- Live](https://open.spotify.com/track/50fnUS19njK5kSzm9l0Whd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bound For Glory \(Live Stuttgart '58\)](https://open.spotify.com/album/1SbRXFU9vDp4OrQ4umcCGM) | 3:34 | 2023-08-08 | 2023-09-03 |
 | [Go Ahead \- Live](https://open.spotify.com/track/0cwtRGTYhPKJOXkVRDVzx2) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Soul Of Gospel](https://open.spotify.com/album/7tMURmtJUVkgltUFJWq5TY) | 3:39 | 2023-10-01 | 2024-02-10 |
-| [Go Get the Water \(The Gospel Truth \(1959\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/4q9PDCtCAKSLhSrU5D6FSc) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 2:17 | 2025-07-31 |  |
+| [Go Get the Water \(The Gospel Truth \(1959\)\) \- 2025 Digitally Remastered](https://open.spotify.com/track/4q9PDCtCAKSLhSrU5D6FSc) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Four Classic Albums \(Gospel Train / The Gospel Truth \(1959\) / Sister Rosetta Tharpe / The Gospel Truth \- All New! Her Greatest Gospel Hits \(1962\)\)](https://open.spotify.com/album/0DoAIX7HSofgOw1puyDZBY) | 2:17 | 2025-07-31 | 2025-09-20 |
 | [God Don't Like It](https://open.spotify.com/track/5jz86OQYMMXfo8XNZGogT4) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Gospel Of The Blues](https://open.spotify.com/album/28Cv21nC7Bme59GR2qtPzA) | 2:24 | 2022-05-25 | 2024-07-24 |
 | [God Don't Like It](https://open.spotify.com/track/3o9FiDMKdKp1EQuwg5lxwW) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [First Great Star of Gospel Music](https://open.spotify.com/album/1XStey6fjHNAB9WqriW4Lm) | 2:52 | 2024-11-04 | 2025-05-30 |
 | [God Is Wonderful](https://open.spotify.com/track/5Lvyr3tiHpwnrgezwafrqd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Rosetta Tharpe Is Wonderful](https://open.spotify.com/album/3EGaXflrlGpBi5HsH3iBSb) | 2:04 | 2022-05-25 |  |
 | [Have A Little Talk With Jesus](https://open.spotify.com/track/7yfVEafYHPMvvdUb3fZPFp) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [The Decca Singles, Vol\. 5](https://open.spotify.com/album/7tvIxQ4NARYopPCeUARhcj) | 2:00 | 2023-10-04 | 2023-10-11 |
 | [He's Got the Whole World in His Hands \- Live](https://open.spotify.com/track/1Vh3YDo7zs0dloAYuBpsfK) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Live in 1960](https://open.spotify.com/album/3HySlTcJp61IznncKRWK50) | 1:54 | 2022-05-26 | 2022-10-25 |
+| [He's The Lily of the Valley](https://open.spotify.com/track/5J3KLdvasM0AjvMKSZHxoO) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Spirituals In Rhythm](https://open.spotify.com/album/0m04XubMVnvu8oKgGSgTT9) | 1:34 | 2025-09-20 |  |
 | [Heaven Is Not My Home](https://open.spotify.com/track/2zPbogViWWF7oIdXHM1KHg) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [GODMOTHER OF ROCK N'ROLL](https://open.spotify.com/album/4v91jzTMDvs6pzBgLRlpRU) | 2:40 | 2025-03-02 | 2025-09-06 |
 | [His Eye Is On The Sparrow](https://open.spotify.com/track/5nJTO9vXW1w8AnwtW6V7wn) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS) | [The Decca Singles, Vol\. 4](https://open.spotify.com/album/1MqOy16zLy7kv7oBWLs6K5) | 3:24 | 2023-02-08 | 2023-02-20 |
 | [How About You](https://open.spotify.com/track/6ZruOPBw97ZTTPeiNqMQny) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train \(Expanded Edition\)](https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei) | 3:32 | 2022-05-25 |  |

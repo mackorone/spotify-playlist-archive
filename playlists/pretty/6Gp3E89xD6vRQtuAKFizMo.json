@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43906,
+  "num_followers": 43907,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaaUd3hZgimR+geDf2S/KmVNPZbEtQ",
+  "snapshot_id": "AAAaa6qz9zF/xog1H5PZzimAcxfdshBY",
   "tracks": [
+    {
+      "added_at": "2025-09-19 20:36:07",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/4vD3o8nVefQWef4WG1JsZW"
+      },
+      "artists": [
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "duration_ms": 146222,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/13dr6hf8qLjh7SIDEetQZZ"
+    },
+    {
+      "added_at": "2025-09-19 20:36:35",
+      "album": {
+        "name": "I'm 2 Weak",
+        "url": "https://open.spotify.com/album/1fdcVT2k3bpnryBwbAZrb0"
+      },
+      "artists": [
+        {
+          "name": "Crumb Pit",
+          "url": "https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I"
+        },
+        {
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "I'm 2 Weak",
+      "url": "https://open.spotify.com/track/2n30tiywW1DNklDW943X4p"
+    },
     {
       "added_at": "2025-09-12 19:02:24",
       "album": {

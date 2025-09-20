@@ -4,7 +4,7 @@
 
 > Den bästa och största rocklistan i Sverige!
 
-360 songs - 22 hr 43 min
+361 songs - 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,13 +130,13 @@
 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 | 2024-10-24 | 2025-02-28 |
 | [Gods Of Rock N Roll](https://open.spotify.com/track/6fJ3mXUUBRHj1cCBazDCwQ) | [Billy Morrison](https://open.spotify.com/artist/5p5z43dPcFgT0EI7Ycf3XD), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Steve Stevens](https://open.spotify.com/artist/4ZMaiDLfxDaoG7ULXgcnDb) | [Gods Of Rock N Roll](https://open.spotify.com/album/3QmCUNc3xulR0uuL8HJfwf) | 5:16 | 2025-02-13 |  |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2024-06-27 | 2025-04-12 |
-| [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [](https://open.spotify.com/album/null) | 3:47 | 2025-09-18 |  |
+| [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Futique](https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF) | 3:47 | 2025-09-18 |  |
 | [Grand Finale](https://open.spotify.com/track/0UIYcRAhNjvDrDdo8TCGcH) | [Reach](https://open.spotify.com/artist/4PAH2hYK4vEvxLEwCg9zQ2) | [Prophecy](https://open.spotify.com/album/1PlAzDc2xlmK33ykOEA80P) | 4:14 | 2024-06-27 | 2024-11-08 |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-05-15 |  |
 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2024-11-28 | 2025-01-24 |
 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 | 2025-06-05 |  |
 | [Hail To The King](https://open.spotify.com/track/6jlcTlI4CD4TxOCbdQPa4l) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Hail To The King](https://open.spotify.com/album/41AS8bqTRpDtR1BDidABm7) | 4:32 | 2024-06-27 | 2024-08-02 |
-| [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [](https://open.spotify.com/album/null) | 3:04 | 2025-09-18 |  |
+| [Hanging On To Thunder \(feat\. Stand Atlantic\)](https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Die About It \(Deluxe\)](https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G) | 3:04 | 2025-09-18 |  |
 | [Haters](https://open.spotify.com/track/31I91d5SGQt7hEyZgz8Ng3) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Mister Misery](https://open.spotify.com/album/6fKArz5J5tdK4eSFEe7YDF) | 3:29 | 2024-08-01 | 2024-09-20 |
 | [Heartbreak Squad](https://open.spotify.com/track/5Ihnt8kxYhBhdqatpu2u7v) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Heartbreak Squad](https://open.spotify.com/album/3JAtZmE93N1JZbuNO5aUvQ) | 2:46 | 2025-06-05 | 2025-09-19 |
 | [Hearts on Fire](https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Crimson Thunder](https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi) | 3:51 | 2024-12-19 |  |
@@ -160,7 +160,7 @@
 | [Hurricane](https://open.spotify.com/track/5dGBQrUKyOtCBEuLBtIbve) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Hurricane](https://open.spotify.com/album/6lBLUITFrP3wWcHKVM5FG4) | 3:28 | 2024-10-31 | 2024-11-22 |
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-06 | 2024-09-27 |
 | [Hysteria](https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [Hysteria](https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK) | 3:09 | 2024-06-27 | 2024-08-02 |
-| [I Miss You](https://open.spotify.com/track/6v14YPTFeAeeg1oGXtnKpu) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [This is Black Stone Cherry's RSD album\. The band really likes it.](https://open.spotify.com/album/0fzZFJx12IvTn7obhFhgsi) | 3:25 | 2025-04-17 |  |
+| [I Miss You](https://open.spotify.com/track/6v14YPTFeAeeg1oGXtnKpu) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [This is Black Stone Cherry's RSD album\. The band really likes it.](https://open.spotify.com/album/0fzZFJx12IvTn7obhFhgsi) | 3:25 | 2025-04-17 | 2025-09-20 |
 | [I Refuse \(feat\. Maria Brink of In This Moment\) \- 2025 VERSION](https://open.spotify.com/track/183LHdf7z7LG2eQf10popU) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [I Refuse \(feat\. Maria Brink of In This Moment\) \[2025 VERSION\]](https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI) | 3:41 | 2025-05-15 |  |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2024-06-27 | 2025-03-14 |
 | [I Will Not Break](https://open.spotify.com/track/3MfqS0MYdNOZ5Xk7itm4jJ) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [I Will Not Break](https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr) | 4:52 | 2025-02-20 |  |
@@ -218,6 +218,7 @@
 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 | 2025-07-10 | 2025-08-22 |
 | [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-18 |  |
 | [Naked](https://open.spotify.com/track/4Q9CDVu74bzpaFbcOmzydy) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Naked](https://open.spotify.com/album/7pQc3n8UzHNnV10P9qaLEH) | 3:43 | 2025-05-08 |  |
+| [Neon Eyes](https://open.spotify.com/track/4b75L4tjIUROKoUJRiN06L) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Neon Eyes](https://open.spotify.com/album/60cV6stcgNnSM9Q0EdyDTI) | 3:56 | 2025-09-19 |  |
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-06 | 2025-03-07 |
 | [Northern Lights](https://open.spotify.com/track/4bcMfLHLMv7tzOMKCzzhJg) | [We Are the Catalyst](https://open.spotify.com/artist/06q1JEvxIDhmuBnDj0V6qw) | [Northern Lights](https://open.spotify.com/album/1kBVmJtBPe2mSmrLHzyx4C) | 2:42 | 2024-06-27 | 2024-11-08 |
 | [Ok, But This Is The Last Time](https://open.spotify.com/track/6diTGCtoRTj198zL0v2RIO) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [SUPERCHARGED](https://open.spotify.com/album/5PDtsevGakWdIRZyeOZ83g) | 3:23 | 2024-10-10 | 2024-11-08 |

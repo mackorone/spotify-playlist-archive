@@ -1,13 +1,29 @@
 {
   "description": "Best of the EDM scene in India. Cover- Ritviz",
-  "num_followers": 36770,
+  "num_followers": 36775,
   "original_name": "EDM in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAunryYLAj5gYoqsMinNOvPDnuCm",
+  "snapshot_id": "AAAAANumSnoPwmD/d29TL+w64GgDzS3C",
   "tracks": [
+    {
+      "added_at": "2025-09-19 11:22:16",
+      "album": {
+        "name": "DHA",
+        "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "DHA",
+      "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
+    },
     {
       "added_at": "2025-07-09 07:44:49",
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Zimmer90
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,837 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,840 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 |
 | 2 | [Start A Fire](https://open.spotify.com/track/28cYQJKDB6tiGSDzHAVAPE) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Start A Fire](https://open.spotify.com/album/3UTBLc4db5ykQ5m6Pp5VJq) | 3:51 |
 | 3 | [Lilac](https://open.spotify.com/track/2SXciokm1N0B63FZfATclZ) | [Stavroz](https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Lilac](https://open.spotify.com/album/110GBkReUMiu5ofCM3RW5g) | 4:07 |
 | 4 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |

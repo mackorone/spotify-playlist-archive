@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "DHA",
+        "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214545,
+      "name": "DHA",
+      "url": "https://open.spotify.com/track/7zppLGJpnb7poKWXnytlYh"
+    },
+    {
+      "album": {
         "name": "Easy to Say",
         "url": "https://open.spotify.com/album/7upEImDiNfOU0XNPjGQbWL"
       },

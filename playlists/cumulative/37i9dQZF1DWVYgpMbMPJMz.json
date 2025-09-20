@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Matt Redman & Joe L Barnes",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Phil Wickham",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1852,6 +1852,28 @@
       "duration_ms": 196859,
       "name": "Bless The Lord",
       "url": "https://open.spotify.com/track/3E11GLIEZ6EVipo4iicyXO"
+    },
+    {
+      "album": {
+        "name": "Bless The Lord",
+        "url": "https://open.spotify.com/album/5ebAGaI0fM4EckqAKxicyl"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Katie Torwalt",
+          "url": "https://open.spotify.com/artist/6AXIMz03907VRnxzPsRiW6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195849,
+      "name": "Bless The Lord",
+      "url": "https://open.spotify.com/track/1pnQfMqjJm1G03GkM2Y3mA"
     },
     {
       "album": {
@@ -4596,6 +4618,28 @@
     {
       "album": {
         "name": "Garment Of Praise",
+        "url": "https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299489,
+      "name": "Garment Of Praise",
+      "url": "https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1"
+    },
+    {
+      "album": {
+        "name": "Garment Of Praise",
         "url": "https://open.spotify.com/album/3iNoBoPiJnmCoZKsvEstRd"
       },
       "artists": [
@@ -4700,7 +4744,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 275600,
       "name": "Glory Be - Acoustic",
       "url": "https://open.spotify.com/track/4F0SDoKbTKQG446AWA6J8a"
@@ -7168,7 +7212,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 245989,
       "name": "I Remind Myself - Live",
       "url": "https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu"
@@ -7396,7 +7440,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 275910,
       "name": "I Was, But God",
       "url": "https://open.spotify.com/track/3FHO4DclRzmdiciKgdKsMi"
@@ -9935,6 +9979,28 @@
     },
     {
       "album": {
+        "name": "Mighty Name of Jesus",
+        "url": "https://open.spotify.com/album/5FZ1N4Ia4I8e7vS7tOevun"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443291,
+      "name": "Mighty Name of Jesus",
+      "url": "https://open.spotify.com/track/7wqSUHBPpffaR5XGuGsafk"
+    },
+    {
+      "album": {
         "name": "Mighty Name of Jesus & This Place (Live)",
         "url": "https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr"
       },
@@ -10148,6 +10214,32 @@
       "duration_ms": 256531,
       "name": "Monday Morning Faith - Studio Version",
       "url": "https://open.spotify.com/track/5pttLvlCeWoUsjMqoQL54O"
+    },
+    {
+      "album": {
+        "name": "One True God",
+        "url": "https://open.spotify.com/album/0Fm9oqCL5OqzqkxuZ5TRuW"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Michael Ketterer",
+          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
+        },
+        {
+          "name": "Matt Pelt",
+          "url": "https://open.spotify.com/artist/4Bq682UCIDpgtfgVpvxMwh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248391,
+      "name": "More",
+      "url": "https://open.spotify.com/track/13LZNirXIOzUljYCS5kSQ8"
     },
     {
       "album": {
@@ -13877,6 +13969,24 @@
     },
     {
       "album": {
+        "name": "Songs for the Anxious Heart: Live from the HUB",
+        "url": "https://open.spotify.com/album/6mA22vsD5MvgUPCEPKgjBg"
+      },
+      "artists": [
+        {
+          "name": "LO Worship",
+          "url": "https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360196,
+      "name": "Space - Live",
+      "url": "https://open.spotify.com/track/6sAWlBzfpgDxb9hxPnZrkX"
+    },
+    {
+      "album": {
         "name": "Spirit Fall (Dove) [Live]",
         "url": "https://open.spotify.com/album/3KTCaaf0LQU9E14mr57mPN"
       },
@@ -15244,7 +15354,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 236799,
       "name": "The Joy - Studio Version",
       "url": "https://open.spotify.com/track/6VDHBVXR8CBH1Ef2sJMTp2"
@@ -16304,7 +16414,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 197390,
       "name": "Time And Time Again",
       "url": "https://open.spotify.com/track/42PFZkVtgmqj3u3481ZY2L"
@@ -16954,6 +17064,24 @@
       "duration_ms": 469430,
       "name": "Wash Over Me - Live",
       "url": "https://open.spotify.com/track/5iIcJhksyVDWo72yag8AYS"
+    },
+    {
+      "album": {
+        "name": "Washed",
+        "url": "https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "Washed",
+      "url": "https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0"
     },
     {
       "album": {
@@ -18496,7 +18624,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 371541,
       "name": "You Will Make A Way",
       "url": "https://open.spotify.com/track/61jyAFUcAgEKBI55uCKkpT"

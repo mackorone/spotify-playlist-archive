@@ -4596,7 +4596,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 274500,
       "name": "Just Coolin'",
       "url": "https://open.spotify.com/track/21MnclehxaZTGQQu9zZSX8"
@@ -6989,6 +6989,28 @@
     },
     {
       "album": {
+        "name": "The Legacy Project",
+        "url": "https://open.spotify.com/album/03GUcklCeLVe3Us2QIyGQ5"
+      },
+      "artists": [
+        {
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/6LnftpH4LWfg6QChPT8ekH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253103,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/7hrP8okdHRFBn5WaHnIRKr"
+    },
+    {
+      "album": {
         "name": "Protest Injustice",
         "url": "https://open.spotify.com/album/4DK0GKLXoPHbUTuq3AsWvX"
       },
@@ -8842,7 +8864,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 256372,
       "name": "The Bounce",
       "url": "https://open.spotify.com/track/6RUIN0IIPm13Bt3RhPto02"
@@ -8934,6 +8956,24 @@
       "duration_ms": 326253,
       "name": "The Last Minute",
       "url": "https://open.spotify.com/track/3tzYgQTDUiJbJfbac2pvpH"
+    },
+    {
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/46QgyPFudNpjtNnApZFFBz"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "The Magic Hour",
+      "url": "https://open.spotify.com/track/3OWW80MaTevZ2W83pCdUX2"
     },
     {
       "album": {

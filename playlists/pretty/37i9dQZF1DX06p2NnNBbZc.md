@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 
 > 【セトリ公開】来日公演 "TWICE 5TH WORLD TOUR ‘READY TO BE’ in JAPAN SPECIAL"のセットリストをプレイリストで聴こう！
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,546 likes - 28 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,547 likes - 28 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

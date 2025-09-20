@@ -2,7 +2,7 @@
 
 ### [All New Pop](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
-> All this week's best new pop releases\. Cover: JADE
+> All this week's best new pop releases\. Cover: RAYE
 
 9,428 songs - 19 day 15 hr 10 min
 

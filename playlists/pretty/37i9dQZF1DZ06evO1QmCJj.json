@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 46847,
+  "num_followers": 46852,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAACVcTaYn1FId9Q0lFhSNbmR",
+  "snapshot_id": "aMtLgAAAAAD33C0rbr97qm8HHMleW7md",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 128136,
-      "name": "POBRE DIABLA - Spotify Singles",
-      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
+      "duration_ms": 253202,
+      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
+      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
     },
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 253202,
-      "name": "CORAZ\u00d3N PART\u00cdO - Spotify Singles",
-      "url": "https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF"
+      "duration_ms": 128136,
+      "name": "POBRE DIABLA - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toy Story",
+        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 179912,
+      "name": "Toy Story",
+      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 175784,
       "name": "LA PRIMAVERA",
       "url": "https://open.spotify.com/track/4cuPBlZB9PBKIyiZAifjU9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toy Story",
-        "url": "https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 179912,
-      "name": "Toy Story",
-      "url": "https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Quiero N\u00e1",
-        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 192975,
-      "name": "Ya No Quiero N\u00e1",
-      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 144424,
       "name": "YO TENGO UN NOVIO",
       "url": "https://open.spotify.com/track/6sS6ZaxqVAWIBJpMGU3OdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Quiero N\u00e1",
+        "url": "https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 192975,
+      "name": "Ya No Quiero N\u00e1",
+      "url": "https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX"
     },
     {
       "added_at": null,

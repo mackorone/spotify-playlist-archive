@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-840 songs - 2 day 11 hr 36 min
+841 songs - 2 day 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Crystal Sand](https://open.spotify.com/track/6okAEDxLESUnM50i8dQZGv) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:31 | 2024-03-08 | 2024-11-22 |
 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 | 2023-01-03 | 2023-02-27 |
 | [Cumbia Fantasía](https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Cumbia Fantasía](https://open.spotify.com/album/1SrjHppHv9QG1qF0gFy3BN) | 4:49 | 2021-10-06 | 2022-02-05 |
-| [Cumbia Mahàre](https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG) | [Psyché](https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5) | [Psyché](https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT) | 3:41 | 2023-12-04 |  |
+| [Cumbia Mahàre](https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG) | [Psyché](https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5) | [Psyché](https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT) | 3:41 | 2023-12-04 | 2025-09-20 |
 | [Cumbietiope](https://open.spotify.com/track/4LIdFQO5kSKc8eD8MCLsH6) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:04 | 2021-10-06 | 2022-04-18 |
 | [Dance](https://open.spotify.com/track/2WqMiwXwjpj3kFcO4ht37Z) | [Cabrita](https://open.spotify.com/artist/4FVt6BMbyh2PeX0asQ8nMF), [LARIE](https://open.spotify.com/artist/3ghao2yjayK7uaht9Z0bFy) | [Umbra](https://open.spotify.com/album/4DjALZHUdagEjSO0E53Fzq) | 3:30 | 2023-11-23 | 2024-02-16 |
 | [Dantokpa](https://open.spotify.com/track/2eUMZhKSqfURd3aRZsfsAZ) | [Meister Lampe](https://open.spotify.com/artist/4KjUoFUS7MM53AJtofvn1i) | [Orb II](https://open.spotify.com/album/6k78QLpwnOuAJOIcg6l95f) | 3:21 | 2021-10-06 |  |
@@ -398,6 +398,7 @@
 | [Knights of Jahannam](https://open.spotify.com/track/5hFOWZO8xzX0sQayxyUHR0) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Knights of Jahannam / Soma Gospel](https://open.spotify.com/album/718mLwYhZMgjweBEFycTqz) | 3:29 | 2025-07-11 |  |
 | [Kodak](https://open.spotify.com/track/61JId4cKxT37dAx8Ugy49k) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Kodak](https://open.spotify.com/album/0VxK1HxAonoEU6mdVTQqdD) | 2:56 | 2025-03-21 |  |
 | [Kokokokoko](https://open.spotify.com/track/1wEARf9O4Y99NAY89Zk6Tw) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH) | [Kokokokoko](https://open.spotify.com/album/3pfrpbYDEG3liawfrAI5Xk) | 4:19 | 2023-01-07 | 2023-03-23 |
+| [Koura](https://open.spotify.com/track/2qJ6APfav42WjLVSzR5cbO) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Koura](https://open.spotify.com/album/6i7BirtBIymehHusY8nrQB) | 4:18 | 2025-09-12 |  |
 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 | 2023-03-31 | 2023-06-11 |
 | [Kryé Mwen](https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Soleil Kréyol](https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah) | 5:01 | 2021-10-06 |  |
 | [Kudaushe](https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS) | [Afriquoi](https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT), [Kudaushe Matimba](https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt) | [Kolaba](https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW) | 3:58 | 2024-07-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234219,
+  "num_followers": 234224,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Running/Planning",
-        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 266586,
-      "name": "Running/Planning",
-      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Bleachers",
         "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Running/Planning",
+        "url": "https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 266586,
+      "name": "Running/Planning",
+      "url": "https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -207,6 +207,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "The Florist",
+        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
+      },
+      "artists": [
+        {
+          "name": "Abby Sage",
+          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
+        }
+      ],
+      "duration_ms": 190601,
+      "name": "The Florist",
+      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 181390,
       "name": "Meticulous",
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "The Florist",
-        "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
-      },
-      "artists": [
-        {
-          "name": "Abby Sage",
-          "url": "https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k"
-        }
-      ],
-      "duration_ms": 190601,
-      "name": "The Florist",
-      "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
-      },
-      "artists": [
-        {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
-        }
-      ],
-      "duration_ms": 207312,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Sink Into Me",
         "url": "https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 158789,
       "name": "Sink Into Me",
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/5NfORohjlF3kjZJ2GaUtgD"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 207312,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/6xq2ewiAEbFJt0PT8uharC"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -843,22 +843,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj"
+        "name": "I've Got Feelings",
+        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
       },
       "artists": [
         {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
-        },
-        {
-          "name": "H 3 F",
-          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
+          "name": "Will Bryant",
+          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
         }
       ],
-      "duration_ms": 394906,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG"
+      "duration_ms": 241981,
+      "name": "I've Got Feelings",
+      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -879,18 +875,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "I've Got Feelings",
-        "url": "https://open.spotify.com/album/2bLRDPpnlBgpuHQg0qVmo1"
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/2QRzc3cbXi3DjaVk30t5Vj"
       },
       "artists": [
         {
-          "name": "Will Bryant",
-          "url": "https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea"
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        },
+        {
+          "name": "H 3 F",
+          "url": "https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3"
         }
       ],
-      "duration_ms": 241981,
-      "name": "I've Got Feelings",
-      "url": "https://open.spotify.com/track/6AufSqeMerHPyCYy7PcvvP"
+      "duration_ms": 394906,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/5nRaLv8g2AAtEf92IuQJyG"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Manifest",
-        "url": "https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb"
-      },
-      "artists": [
-        {
-          "name": "Crystal Fighters",
-          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
-        }
-      ],
-      "duration_ms": 146766,
-      "name": "Manifest",
-      "url": "https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "is that all there is?",
         "url": "https://open.spotify.com/album/3aA70pxDFs5FrHVJ2SAjTK"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 177814,
       "name": "welcome to the sidelines",
       "url": "https://open.spotify.com/track/1uL7ztGHir7vgUgjydISln"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Manifest",
+        "url": "https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "duration_ms": 146766,
+      "name": "Manifest",
+      "url": "https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Drive to Goldenhammer",
-        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 210732,
-      "name": "Lord",
-      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Mac's Omelette",
         "url": "https://open.spotify.com/album/3CLqLECm5JopTVkD3tMikU"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 238845,
       "name": "Mac\u2019s Omelette",
       "url": "https://open.spotify.com/track/4puNPIWV9CQLdWKy5gtkiP"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Drive to Goldenhammer",
+        "url": "https://open.spotify.com/album/1JlbWPlZef4pXOdFBsK994"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 210732,
+      "name": "Lord",
+      "url": "https://open.spotify.com/track/0ZVIp8P740Vq8ZXdBwNURI"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Attempt",
-        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Attempt",
-      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/1NcmOmza86zn7wt02k9q74"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 179000,
       "name": "Try",
       "url": "https://open.spotify.com/track/1E2pCJo8kbB2og7YYiJMWx"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Attempt",
+        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Attempt",
+      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "chamomile",
-        "url": "https://open.spotify.com/album/10mmlgOJ3AC0sAVyEG3Ybd"
-      },
-      "artists": [
-        {
-          "name": "brand new legs",
-          "url": "https://open.spotify.com/artist/6Ufmc6jv705vKWqSkD9xSa"
-        }
-      ],
-      "duration_ms": 159297,
-      "name": "chamomile",
-      "url": "https://open.spotify.com/track/7CH3DVWV2Qbyk583B1XrKH"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "elsie",
         "url": "https://open.spotify.com/album/4pWfJR7DS0DMbpU4dh3U4Y"
       },
@@ -1651,6 +1635,26 @@
       "duration_ms": 203995,
       "name": "elsie",
       "url": "https://open.spotify.com/track/5dSAVONexmt8XipPux7QjZ"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "How Can I Love? (When I Can't Get Away from You)",
+        "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
+      },
+      "artists": [
+        {
+          "name": "fika",
+          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
+        },
+        {
+          "name": "Bambie",
+          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "How Can I Love? - When I Can't Get Away from You",
+      "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

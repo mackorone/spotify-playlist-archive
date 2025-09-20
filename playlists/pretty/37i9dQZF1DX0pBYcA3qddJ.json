@@ -1,6 +1,6 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 54451,
+  "num_followers": 54452,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "Mother Nature",
-        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
+        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
+        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+          "name": "Shinya Kiyozuka",
+          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
         }
       ],
-      "duration_ms": 235644,
-      "name": "Mother Nature",
-      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
+      "duration_ms": 201306,
+      "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
+      "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
     },
     {
       "added_at": "2024-05-30 15:22:47",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2024-05-30 15:22:47",
       "album": {
-        "name": "\u7720\u308b\u305f\u3081\u306e\u30d4\u30a2\u30ce\u30a2\u30eb\u30d0\u30e0\uff5ebeautiful sleep\uff5e",
-        "url": "https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ"
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s"
       },
       "artists": [
         {
-          "name": "Shinya Kiyozuka",
-          "url": "https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
         }
       ],
-      "duration_ms": 201306,
-      "name": "\u30d1\u30c3\u30d8\u30eb\u30d9\u30eb\u306e\u30ab\u30ce\u30f3 - beautiful sleep ver.",
-      "url": "https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A"
+      "duration_ms": 235644,
+      "name": "Mother Nature",
+      "url": "https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP"
     },
     {
       "added_at": "2024-05-30 15:22:47",

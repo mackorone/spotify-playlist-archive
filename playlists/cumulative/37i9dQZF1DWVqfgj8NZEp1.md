@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-339 songs - 1 day 6 hr 52 min
+340 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Karl\-Martin Almqvist](https://open.spotify.com/artist/4dXbqcDmR48iVBEpgLPuhm), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2021-07-23 | 2025-07-19 |
 | [Silk Threads](https://open.spotify.com/track/06saP1KfOa0j93jO8XnCUT) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Jasper Somsen](https://open.spotify.com/artist/2lcAR2q7nM4FNKG4SbaKVY), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Common View](https://open.spotify.com/album/0MKZB0Q3tyrI0jtacgtQZF) | 4:34 | 2020-10-09 | 2025-09-06 |
 | [Simplicity](https://open.spotify.com/track/2R1vQwYTC0sl93C6oyVuHC) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF) | [25 Years](https://open.spotify.com/album/4GDYdHheKfIOBMjqOgTK6k) | 5:09 | 2020-10-09 | 2025-08-24 |
+| [So In Love](https://open.spotify.com/track/74qtsnuLhOQSyRy9Oai39h) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [So In Love](https://open.spotify.com/album/3KWP2k6jGZLAMMrXWlPvuw) | 5:08 | 2025-09-19 |  |
 | [So in Love](https://open.spotify.com/track/1Kez08abn4yr3T7hbCeW3i) | [Nestor Torres](https://open.spotify.com/artist/25z14Qw0e8uN0dIaWVe2Mk) | [Jazz Flute Traditions](https://open.spotify.com/album/3zSMrISTkz9nnCwzn7VNAT) | 8:25 | 2020-10-09 | 2022-02-18 |
 | [So Lovely](https://open.spotify.com/track/0Ya7lMXJGmETT1G3bW0uX2) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 5:40 | 2020-10-09 | 2022-12-06 |
 | [So They Say](https://open.spotify.com/track/4689TAqR9n79nptG04RV9c) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [So They Say](https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg) | 3:57 | 2023-06-01 | 2025-02-20 |
@@ -330,7 +331,7 @@
 | [We Will Never Meet Again](https://open.spotify.com/track/6zYDzFqWrXG2rMWZA1I7tZ) | [John Rae](https://open.spotify.com/artist/09SVpoNxeMVRHY48xjqS0c) | [We Will Never Meet Again](https://open.spotify.com/album/4FrHFBCtchCE0qfhEcXdqF) | 4:17 | 2020-10-09 |  |
 | [We'll Be Together Again](https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [We'll Be Together Again](https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7) | 5:08 | 2024-01-19 |  |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-10-09 | 2024-06-29 |
-| [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2020-10-09 |  |
+| [When Sunny Gets Blue](https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/6MinQE3GG7Xb9GWrOoAWEz) | 4:42 | 2020-10-09 | 2025-09-20 |
 | [When You Are Near](https://open.spotify.com/track/7dWzkzCjOVVkJDTEeWrCZ0) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 8:22 | 2020-10-09 | 2022-05-03 |
 | [Where Are You?](https://open.spotify.com/track/0CN01lqL96CRZ3dQ4rTXNl) | [JD Allen](https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM) | [Where Are You?](https://open.spotify.com/album/21GCIo7gzQWPustZ5fiIk8) | 5:22 | 2025-09-05 |  |
 | [Where Do You Start](https://open.spotify.com/track/0gPxAMKPYhnFSAKkBcy3UN) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Where Do You Start](https://open.spotify.com/album/2s8XWSfq0eLzFd6oaNiIx2) | 4:06 | 2020-10-09 | 2025-09-06 |

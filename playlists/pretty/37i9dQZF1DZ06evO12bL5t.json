@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 138140,
+  "num_followers": 138180,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAD+6rVisfE11tSe5hpwnZFD",
+  "snapshot_id": "aMtLgAAAAAC6il4GR6whhYFEVSzOWSum",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mustang 65'",
-        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+        "name": "EL KARMA",
+        "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 194100,
-      "name": "Feria en el Sobre",
-      "url": "https://open.spotify.com/track/65C6XLTjQ1sbmldzcUVNi1"
+      "duration_ms": 171749,
+      "name": "EL KARMA",
+      "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
     },
     {
       "added_at": null,
@@ -235,22 +231,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL KARMA",
-        "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 171749,
-      "name": "EL KARMA",
-      "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
+      "duration_ms": 194100,
+      "name": "Feria en el Sobre",
+      "url": "https://open.spotify.com/track/65C6XLTjQ1sbmldzcUVNi1"
     },
     {
       "added_at": null,

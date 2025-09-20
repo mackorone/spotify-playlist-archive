@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA1w+jm9PgG4F3Tx5sKVcbK76gvc",
+  "snapshot_id": "AAAAAKtMeR7ku/fqVsHl6yz4od+4F33n",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1CHaVLVHPxDrrVANgwxsts"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 230299,
+      "name": "Counting Down The Days",
+      "url": "https://open.spotify.com/track/7cbOw6mnOjWKnvLWifQEjA"
+    },
     {
       "added_at": "2025-08-18 20:00:45",
       "album": {

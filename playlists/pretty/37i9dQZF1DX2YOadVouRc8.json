@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 40108,
+  "num_followers": 40146,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-09-19 00:01:07",
       "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Jies",
-      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
-    },
-    {
-      "added_at": "2025-09-19 00:01:07",
-      "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 207378,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD"
+    },
+    {
+      "added_at": "2025-09-19 00:01:07",
+      "album": {
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Jies",
+      "url": "https://open.spotify.com/track/6dmuFoJ8jYh7kzai2twWNo"
     },
     {
       "added_at": "2025-09-19 00:01:07",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-09-19 00:01:07",
       "album": {
-        "name": "On The Low",
-        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "On The Low",
-      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-09-19 00:01:07",
-      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
+    },
+    {
+      "added_at": "2025-09-19 00:01:07",
+      "album": {
+        "name": "On The Low",
+        "url": "https://open.spotify.com/album/5IRpVk3ZkwNeU2OuoUdW9S"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "On The Low",
+      "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
     },
     {
       "added_at": "2025-09-19 00:01:07",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-09-19 00:01:07",
       "album": {
-        "name": "London Summers",
-        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 217636,
-      "name": "London Summers",
-      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
-    },
-    {
-      "added_at": "2025-09-19 00:01:07",
-      "album": {
         "name": "Verily",
         "url": "https://open.spotify.com/album/7vU3HmCgSJfCmreSA9LXOR"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 195816,
       "name": "Verily",
       "url": "https://open.spotify.com/track/78JnyPSDt67KvELlYdQvcw"
+    },
+    {
+      "added_at": "2025-09-19 00:01:07",
+      "album": {
+        "name": "London Summers",
+        "url": "https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 217636,
+      "name": "London Summers",
+      "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
     },
     {
       "added_at": "2025-09-19 00:01:07",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-09-19 00:01:07",
       "album": {
-        "name": "Taxi Driver",
-        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 156226,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
-    },
-    {
-      "added_at": "2025-09-19 00:01:07",
-      "album": {
         "name": "Compose",
         "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2025-09-19 00:01:07",
+      "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/7c2XZws36PYpazUQUgMPUh"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 156226,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/2vQJRynClKi21S5CBnFHvj"
     },
     {
       "added_at": "2025-09-19 00:01:07",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2025-09-19 00:01:07",
       "album": {
-        "name": "FINAL",
-        "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Frescool",
-          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
-        }
-      ],
-      "duration_ms": 215103,
-      "name": "FINAL",
-      "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
-    },
-    {
-      "added_at": "2025-09-19 00:01:07",
-      "album": {
         "name": "Yes I Do",
         "url": "https://open.spotify.com/album/2FlaE855XAFjUwUhS36vox"
       },
@@ -1231,6 +1211,26 @@
     {
       "added_at": "2025-09-19 00:01:07",
       "album": {
+        "name": "FINAL",
+        "url": "https://open.spotify.com/album/4jrmuEs4TnIUB5w8sJP2sR"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+        }
+      ],
+      "duration_ms": 215103,
+      "name": "FINAL",
+      "url": "https://open.spotify.com/track/3wHxnEkwClALnNaYy7ir7G"
+    },
+    {
+      "added_at": "2025-09-19 00:01:07",
+      "album": {
         "name": "Ouu wee (brown)",
         "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
+    },
+    {
+      "added_at": "2025-09-19 00:01:07",
+      "album": {
+        "name": "Before We Became Strangers",
+        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
+      },
+      "artists": [
+        {
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Maj\u1eb9kaj\u00e1",
+      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2025-09-19 00:01:07",
@@ -1267,22 +1283,6 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": "2025-09-19 00:01:07",
-      "album": {
-        "name": "Before We Became Strangers",
-        "url": "https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Maj\u1eb9kaj\u00e1",
-      "url": "https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV"
     },
     {
       "added_at": "2025-09-19 00:01:07",

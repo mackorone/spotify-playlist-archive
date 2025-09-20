@@ -1359,6 +1359,28 @@
     },
     {
       "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460800,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r"
+    },
+    {
+      "album": {
         "name": "Music Is King",
         "url": "https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH"
       },

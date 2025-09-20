@@ -1,13 +1,201 @@
 {
-  "description": "Unearthing your new favourite artists. Cover: Ehin.  Artwork: Isu Kim.",
-  "num_followers": 7055,
+  "description": "Unearthing your new favourite artists. Cover: Mila Bea",
+  "num_followers": 7056,
   "original_name": "Fresh Finds SG & MY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH5vhZgsN0sWoSVatQ9mqDhkwpPm",
+  "snapshot_id": "AAAAADYUadJ/n8fCcGONsANuEywObBb2",
   "tracks": [
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Laughing track",
+        "url": "https://open.spotify.com/album/3u2to7VATHhsYUUqaNwJrN"
+      },
+      "artists": [
+        {
+          "name": "Mila Bea",
+          "url": "https://open.spotify.com/artist/2zNoOjMtnHPRWgZKqEhxXm"
+        }
+      ],
+      "duration_ms": 205536,
+      "name": "Laughing track",
+      "url": "https://open.spotify.com/track/5S10QxTIO34rSid4NL8ZfL"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Vacuum",
+        "url": "https://open.spotify.com/album/4LGGv9zYokNXl7gfODOLl0"
+      },
+      "artists": [
+        {
+          "name": "ELDEN",
+          "url": "https://open.spotify.com/artist/0iXKUtkdoqeFen02tzanD3"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Vacuum",
+      "url": "https://open.spotify.com/track/2or0YaVbpg7rVXCQ8vFOF6"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "pov:",
+        "url": "https://open.spotify.com/album/1Zwq6jxImEsiFtYfT7yjGb"
+      },
+      "artists": [
+        {
+          "name": "Jean Seizure",
+          "url": "https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS"
+        }
+      ],
+      "duration_ms": 223260,
+      "name": "fragments",
+      "url": "https://open.spotify.com/track/72r9HFW0xRccGiQrDXWmVd"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Tiada Lagi",
+        "url": "https://open.spotify.com/album/09ulVDonHJx1yr0r20BqiZ"
+      },
+      "artists": [
+        {
+          "name": "Danial Baharin",
+          "url": "https://open.spotify.com/artist/5In2Kkmpf5REayiSA6Ls0w"
+        },
+        {
+          "name": "Favourite Playlist",
+          "url": "https://open.spotify.com/artist/4t6Zp48HNFrfVFRd5UGMPy"
+        }
+      ],
+      "duration_ms": 276631,
+      "name": "Tiada Lagi",
+      "url": "https://open.spotify.com/track/35efuu53Kfi8EyOo025ERJ"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/51jTFn4qZpgwo1qmlmnpxA"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP"
+        }
+      ],
+      "duration_ms": 182777,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/7as9P0V0aBj3KORks09ILJ"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Liberating Feeling",
+        "url": "https://open.spotify.com/album/1cwd6tLlBBAz1c8RwcJCeC"
+      },
+      "artists": [
+        {
+          "name": "CHEWY",
+          "url": "https://open.spotify.com/artist/5Y0QoftWCtmdRgbtDQVbvm"
+        },
+        {
+          "name": "Roy Boey",
+          "url": "https://open.spotify.com/artist/5ecejGNSxuFDRgHmjy3jfW"
+        }
+      ],
+      "duration_ms": 233208,
+      "name": "Liberating Feeling",
+      "url": "https://open.spotify.com/track/3DJFt4nK1IvPsSVeM0jgMF"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/3xRhJUyn6DvqhORF59JL1H"
+      },
+      "artists": [
+        {
+          "name": "Falling Feathers",
+          "url": "https://open.spotify.com/artist/0GuItDFWw5YrYhlQPWIHzy"
+        }
+      ],
+      "duration_ms": 154726,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/6yLlY6BH339S9uUlxqfP0t"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0gfQjH7Zmo995GLKyprwb0"
+      },
+      "artists": [
+        {
+          "name": "Saint Kylo",
+          "url": "https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA"
+        },
+        {
+          "name": "Skinner",
+          "url": "https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ"
+        }
+      ],
+      "duration_ms": 268691,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/5NZbMabGPizhVsvmgx96cr"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "IMONTOP",
+        "url": "https://open.spotify.com/album/2cDtwNQ6x2MGOddOh2b2Vu"
+      },
+      "artists": [
+        {
+          "name": "Danboy Studio",
+          "url": "https://open.spotify.com/artist/28CBPsyK4uO1VfWeo6wk86"
+        }
+      ],
+      "duration_ms": 140302,
+      "name": "IMONTOP",
+      "url": "https://open.spotify.com/track/60af6K3ZZCWnBg1hSxRvt2"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "Pagi",
+        "url": "https://open.spotify.com/album/5cIbiGpEplWdLfEzMjwBcd"
+      },
+      "artists": [
+        {
+          "name": "ZUHAL",
+          "url": "https://open.spotify.com/artist/0ki0NWV28kNuaUPJ042MXL"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Pagi",
+      "url": "https://open.spotify.com/track/2XGj69ZMBN64IcHQk3nEJy"
+    },
+    {
+      "added_at": "2025-09-19 05:45:54",
+      "album": {
+        "name": "sanguine",
+        "url": "https://open.spotify.com/album/799vP8nh3BylUwKKcIpj54"
+      },
+      "artists": [
+        {
+          "name": "zeff",
+          "url": "https://open.spotify.com/artist/0s49QuFrxOaom9iZ7mVlnE"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "sanguine",
+      "url": "https://open.spotify.com/track/0uWkGWLgb9snU3tOgAw71o"
+    },
     {
       "added_at": "2025-09-12 14:50:25",
       "album": {

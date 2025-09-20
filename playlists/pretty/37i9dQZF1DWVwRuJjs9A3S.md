@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Girl Group.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,892 likes - 210 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,893 likes - 210 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 8 | [know no love](https://open.spotify.com/track/5jziLoMTqLYV1shUXkOqch) | [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [know no love](https://open.spotify.com/album/1MfAvxgc9XlVf4cCPIBks7) | 3:47 |
 | 9 | [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 |
 | 10 | [Jaime](https://open.spotify.com/track/2PV9DHHBVKWfwOEM7H0mwf) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:23 |
-| 11 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [](https://open.spotify.com/album/null) | 3:37 |
+| 11 | [David's Brother](https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Dream](https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi) | 3:37 |
 | 12 | [Stjärnorna](https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Stjärnorna](https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS) | 4:20 |
 | 13 | [Call Me Up](https://open.spotify.com/track/2iq4RTCriD9tIkVF0yYAjk) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Call Me Up](https://open.spotify.com/album/4SWZebwQDZLG0hlP5IhSI1) | 2:39 |
 | 14 | [On a Pier, On the Hudson](https://open.spotify.com/track/3NPGL8TYTiahQplLct85G2) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx), [Matilda Sargren](https://open.spotify.com/artist/1eRz9OGhKoaqlllkjNoR6d) | [Songs for Other People's Weddings](https://open.spotify.com/album/4SEOqwVS7l830bA5Q4aBFd) | 4:33 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 16 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
 | 17 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
 | 18 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 |
-| 19 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [](https://open.spotify.com/album/null) | 4:29 |
-| 20 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 |
+| 19 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 |
+| 20 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
 | 21 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 |
 | 22 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 |
 | 23 | [Boys Don't Cry](https://open.spotify.com/track/6mAJ6zg0qt6oWu4IdYkP3d) | [I Don't Speak French](https://open.spotify.com/artist/6w3WTHXhYnXWRPLal2dsjY) | [Boys Don't Cry](https://open.spotify.com/album/6tALCdY8BWXAYqyZ0A2UEi) | 2:50 |

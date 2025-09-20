@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Budjerah
 
-2,190 songs - 4 day 16 hr 54 min
+2,190 songs - 4 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,7 +906,7 @@
 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-20 | 2023-09-22 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-06-15 | 2023-06-23 |
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 | 2025-08-01 |
-| [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [](https://open.spotify.com/album/null) | 3:48 | 2025-09-18 |  |
+| [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [okay\. again?](https://open.spotify.com/album/3X8hQPPIipP1KbYV4ENqVd) | 3:48 | 2025-09-18 |  |
 | [How I Love You](https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Songs I Cry 2](https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY) | 3:12 | 2025-02-07 | 2025-03-21 |
 | [How Long \(Is This Gonna Take\)?](https://open.spotify.com/track/07E8u5Xp7Db4Z4DxWyVEWl) | [natalie mei](https://open.spotify.com/artist/45z2aQmnsWVBrGxBtV8wVu) | [How Long \(Is This Gonna Take\)?](https://open.spotify.com/album/493HS1lMuydf1NfU59mZcA) | 3:48 | 2024-02-01 | 2024-03-29 |
 | [How Sweet](https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [How Sweet](https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq) | 3:39 | 2024-05-23 | 2024-07-05 |
@@ -921,6 +921,7 @@
 | [Hurt](https://open.spotify.com/track/1i18b7rRxYr3XBI32LMgao) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Love Worth Believing](https://open.spotify.com/album/20ytKvRFBexNfIPs5s4qkM) | 3:09 | 2024-08-01 | 2024-08-30 |
 | [Hurt](https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Hurt](https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS) | 2:41 | 2024-07-04 | 2024-08-30 |
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 | 2025-08-08 |
+| [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 | 2025-09-18 |  |
 | [HUSH](https://open.spotify.com/track/2Sz9UBfeZ0N0h9H6gUtblz) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [HUSH](https://open.spotify.com/album/5t0Iro1tcxCXEq4sxpuFlf) | 2:27 | 2024-10-11 | 2024-11-22 |
 | [Hymn to Virgil](https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ) | 3:22 | 2024-12-05 | 2025-02-14 |
 | [I <3 YOU](https://open.spotify.com/track/7DNTmEFMARpxeSFY82wZiw) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 3:36 | 2025-06-06 | 2025-07-25 |
@@ -1969,7 +1970,6 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-23 | 2024-06-28 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 1](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-06 | 2023-08-25 |

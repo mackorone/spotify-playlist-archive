@@ -9735,24 +9735,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "date_added": "2025-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
-    },
-    {
-      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -9884,6 +9866,24 @@
       "duration_ms": 174467,
       "name": "tu pel\u00edcula",
       "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
+    },
+    {
+      "album": {
+        "name": "FAN\u00c1TICA",
+        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Tu VIP",
+      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
     },
     {
       "album": {

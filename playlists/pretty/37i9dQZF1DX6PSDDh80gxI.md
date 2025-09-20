@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > Frah Quintale è alle prese con un Blue Monday, ti capiamo  amico 💙
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,577 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,608 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 12 | [Sentirsi Soli \(con Calcutta\)](https://open.spotify.com/track/7avHfK0CfHjOoZG8UWlVIn) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 3:05 |
 | 13 | [Tuareg](https://open.spotify.com/track/6FLcWRbOznMsx55HF46oBL) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tuareg](https://open.spotify.com/album/1Ns0mmFgzffnMQSi9Hv9ww) | 3:40 |
 | 14 | [Noi no](https://open.spotify.com/track/0ryO2qGJlJU1CYCqIWuTw7) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Noi no](https://open.spotify.com/album/7i6hD1DqhbmoXVCAcqV8je) | 3:16 |
-| 15 | [l'eleganza del mango](https://open.spotify.com/track/0GhaqzRaKbaGSrWN2PG9d8) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [](https://open.spotify.com/album/null) | 2:56 |
+| 15 | [l'eleganza del mango](https://open.spotify.com/track/0GhaqzRaKbaGSrWN2PG9d8) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [L'eleganza del mango](https://open.spotify.com/album/1xak8mJSWTDXHtHhcmLFJ1) | 2:56 |
 | 16 | [Sottocosto](https://open.spotify.com/track/1vFMS4QY6wVqoDnaRuL0SB) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Sottocosto](https://open.spotify.com/album/4HBTyRWYk6ySZAs35bbCdM) | 2:57 |
 | 17 | [SU E GIÙ \(feat\. Piccolo & Clams Casino\)](https://open.spotify.com/track/0gysKxbEM9DDzUhZTUicX9) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 2:25 |
 | 18 | [La Distanza \(con Ariete & Lorenzza\)](https://open.spotify.com/track/347ILhysXGJPDiF3JLi93m) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:14 |

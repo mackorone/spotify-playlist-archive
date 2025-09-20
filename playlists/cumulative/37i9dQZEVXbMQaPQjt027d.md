@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-261 songs - 13 hr 29 min
+262 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [The Rebellion](https://open.spotify.com/track/6gAio3Ad1heiDLsgRKgGCU) | [The Smiler](https://open.spotify.com/artist/4YzDJturpsYRQrGx7k2Zmm), [Faceless](https://open.spotify.com/artist/6Tx1eyyk7TnZ8kJsrRaJ2u) | [The Rebellion](https://open.spotify.com/album/1SlICEswqtMoTUwicRxovU) | 2:49 | 2025-09-10 | 2025-09-16 |
 | [The Sick](https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [The Sick](https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs) | 3:16 | 2025-08-19 | 2025-09-17 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-19 | 2025-09-02 |
+| [Through My Soul](https://open.spotify.com/track/7mSydMVoNUM2N3UzZvmeoC) | [Enlly Blue](https://open.spotify.com/artist/28W1qq34TByUcLOtkceRxp) | [Shadows & Soul](https://open.spotify.com/album/3p4PFOpeBSQ8A1sNGqtX2O) | 3:30 | 2025-09-19 |  |
 | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL) | 2:27 | 2025-08-26 | 2025-09-03 |
 | [Tiffany](https://open.spotify.com/track/1h6tEGvt21f6TrGxjJ7RWJ) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Tiffany](https://open.spotify.com/album/7IXEhlp1q2hUAPEjKFqTZ3) | 2:27 | 2025-08-19 | 2025-08-31 |
 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 | 2025-07-19 | 2025-07-23 |
@@ -249,7 +250,7 @@
 | [War Pigs \- 2009 Remaster](https://open.spotify.com/track/6TYQRlRci6AkVrN9a5C7ne) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid](https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI) | 7:55 | 2025-07-28 | 2025-07-30 |
 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2025-07-25 | 2025-07-31 |
 | [Waterkant](https://open.spotify.com/track/7oogv7kVuYNY7hzUZyOpD6) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [De Ene Hand Wast De Ander](https://open.spotify.com/album/1JZOSXy4Fjjh5bo9FOcTBX) | 3:02 | 2025-08-26 | 2025-09-03 |
-| [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-08-26 |  |
+| [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-08-26 | 2025-09-20 |
 | [What It Sounds Like](https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 4:10 | 2025-07-19 | 2025-09-03 |
 | [WHAT THE HELLY](https://open.spotify.com/track/3PrlxQtFCyAlKFC0uZwSXf) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [YG24](https://open.spotify.com/artist/3A16zm3oPSNnetOrwp0TU6) | [WHAT THE HELLY](https://open.spotify.com/album/5ESn5GFLsSdYanFcoBxwQl) | 2:10 | 2025-08-26 | 2025-09-06 |
 | [What Trance Feels Like](https://open.spotify.com/track/7dZYojbGaX6sHmruG62EKC) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [What Trance Feels Like](https://open.spotify.com/album/5SZOwK2fP9a6fvp8y0EBF5) | 2:57 | 2025-09-02 | 2025-09-14 |

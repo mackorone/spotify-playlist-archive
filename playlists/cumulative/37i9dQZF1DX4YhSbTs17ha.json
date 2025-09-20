@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Manuel Turizo en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Rels B y Alejandro Sanz en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -334,6 +334,28 @@
       "duration_ms": 184133,
       "name": "<3CDMX",
       "url": "https://open.spotify.com/track/3L8OZNmQMFGMDhigIRL1zR"
+    },
+    {
+      "album": {
+        "name": "A la antigua",
+        "url": "https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "A la antigua",
+      "url": "https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK"
     },
     {
       "album": {
@@ -3445,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261071,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
+    },
+    {
+      "album": {
         "name": "Culpable o Inocente",
         "url": "https://open.spotify.com/album/4UTxkkqlTskMqvdBMUfQOv"
       },
@@ -4544,7 +4584,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 205669,
       "name": "El acuerdo",
       "url": "https://open.spotify.com/track/5656uNhek3iuoACMKIuoLN"
@@ -5928,6 +5968,24 @@
       "duration_ms": 123970,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/3hfb0K2rRK0HDhjNbi95Xj"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Good Night",
+        "url": "https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261139,
+      "name": "Good Luck, Good Night",
+      "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
     },
     {
       "album": {
@@ -7326,6 +7384,28 @@
       "duration_ms": 221362,
       "name": "La Tarea",
       "url": "https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr"
+    },
+    {
+      "album": {
+        "name": "La Tirana",
+        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244059,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
     },
     {
       "album": {
@@ -10259,6 +10339,28 @@
     },
     {
       "album": {
+        "name": "No me tires flores",
+        "url": "https://open.spotify.com/album/1wpqZljTd2AQL9p9K11J5U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "No me tires flores",
+      "url": "https://open.spotify.com/track/0bZzyFUzIiqoTH744vtauR"
+    },
+    {
+      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD"
       },
@@ -10444,7 +10546,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 224829,
       "name": "No Te Vayas Sin Saber",
       "url": "https://open.spotify.com/track/7DlyoTUiq5lwxoUpz1GKxl"
@@ -12986,7 +13088,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 168466,
       "name": "Si No Es Ahora No Es Nunca",
       "url": "https://open.spotify.com/track/7qfRjL0gx632A9fqiHFDcw"
@@ -14712,7 +14814,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 211116,
       "name": "Un Bendito D\u00eda",
       "url": "https://open.spotify.com/track/0SN8t32hU7C203Tnmzew1p"
@@ -15014,7 +15116,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 193154,
       "name": "Una Noche Contigo",
       "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"

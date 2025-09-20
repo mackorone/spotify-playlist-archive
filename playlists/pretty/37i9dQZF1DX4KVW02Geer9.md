@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,206 likes - 87 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,222 likes - 87 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 9 | [In Black](https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [In Black](https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq) | 3:31 |
 | 10 | [Happy Sad](https://open.spotify.com/track/5aL6ovxQvpMobmJ6gFQeZc) | [James Macaulay and The Ancient Highballs](https://open.spotify.com/artist/1sMVgAs9dOOqQK0Da7sf6R), [James Macaulay](https://open.spotify.com/artist/2O8rHsNJ6MlniL4rVpFLH5), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Happy Sad](https://open.spotify.com/album/6T7H5qJx6baFoDCj62xGLB) | 6:39 |
 | 11 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |
-| 12 | [Track 7](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [My Life Matters](https://open.spotify.com/track/399lk3KeNdL1DUOpGF1Lky) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [My Life Matters](https://open.spotify.com/album/2xBXyOee7dECjSo657sXeL) | 6:23 |
 | 13 | [Chili Chili \(feat\. Yucco Miller\)](https://open.spotify.com/track/4rYDtfaxhmw39VTEAdmSWE) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY), [Yucco Miller](https://open.spotify.com/artist/6DeqOC0YR2W0egna2AhnSO) | [Dazz On](https://open.spotify.com/album/2wMdVrbu1ckG6MmUI30lFu) | 3:50 |
 | 14 | [揺れる](https://open.spotify.com/track/7htsAqcJKs8wuKIbIFB47r) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [揺れる](https://open.spotify.com/album/7oU1ioz9JWtg73Lnl23jv6) | 3:38 |
 | 15 | [Wake Up \(feat\. MMYYKK\) \- Flipped by MMYYKK](https://open.spotify.com/track/3IzOTC89cQcLBfptnDpoRY) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [Code Derivation](https://open.spotify.com/album/3Mc0nvVT7wkqRUurBPxOG7) | 3:08 |

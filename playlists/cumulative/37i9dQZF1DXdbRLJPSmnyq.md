@@ -2,7 +2,7 @@
 
 ### [J\-Pop Hits](https://open.spotify.com/playlist/37i9dQZF1DXdbRLJPSmnyq)
 
-> All the J\-Pop tunes you love in one playlist\. Cover: HANA
+> All the J\-Pop tunes you love in one playlist\. Cover: XG
 
 348 songs - 21 hr 59 min
 

@@ -3708,10 +3708,6 @@
         {
           "name": "Real Boss",
           "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
-        },
-        {
-          "name": "BIG KAY SMG",
-          "url": "https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G"
         }
       ],
       "date_added": "2024-02-13",
@@ -4208,7 +4204,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 176725,
       "name": "Nothing Lasts",
       "url": "https://open.spotify.com/track/7tYAKbutuUrdxAhdOvqF01"
@@ -5408,6 +5404,24 @@
       "duration_ms": 164666,
       "name": "Streetwise",
       "url": "https://open.spotify.com/track/5YYqibj5kqYWjZ3GOHHUaC"
+    },
+    {
+      "album": {
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/1u5zGS19vX75xh0zW6IAU0"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154430,
+      "name": "Strings Attached",
+      "url": "https://open.spotify.com/track/5qXOKKtAPWAzsf2fEQIxIq"
     },
     {
       "album": {

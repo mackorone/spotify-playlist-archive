@@ -1207,6 +1207,32 @@
     },
     {
       "album": {
+        "name": "Rap God (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6olsIKSPwKNpdS7lOwA3wY"
+      },
+      "artists": [
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        },
+        {
+          "name": "ROMEO",
+          "url": "https://open.spotify.com/artist/4xfex2y2o9sfHyAHhV0mWk"
+        },
+        {
+          "name": "NsD",
+          "url": "https://open.spotify.com/artist/5UZgIiWiotrgcnIC9JnDL9"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195254,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/14Nv1sac50bwPYV5id5OwG"
+    },
+    {
+      "album": {
         "name": "Three Plays",
         "url": "https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE"
       },
@@ -1480,6 +1506,24 @@
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
+    },
+    {
+      "album": {
+        "name": "House Navior",
+        "url": "https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Dapper Dan",
+      "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
     },
     {
       "album": {
@@ -3092,7 +3136,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 168090,
       "name": "K Million",
       "url": "https://open.spotify.com/track/2PF5MO5PEtJ3K40bacZACB"
@@ -4894,7 +4938,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 200993,
       "name": "Saada Aura",
       "url": "https://open.spotify.com/track/1ocsN0Gh93gMgI3K0dumQ4"
@@ -5174,6 +5218,28 @@
       "duration_ms": 155161,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+    },
+    {
+      "album": {
+        "name": "House Navior",
+        "url": "https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210825,
+      "name": "Sprint",
+      "url": "https://open.spotify.com/track/4uVHPXRi01Zro1IBbJyOMF"
     },
     {
       "album": {
@@ -5684,7 +5750,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 0,
       "name": "Track 2",
       "url": "https://open.spotify.com/track/3I3MuNOtHtWhbz6K7ySRWN"

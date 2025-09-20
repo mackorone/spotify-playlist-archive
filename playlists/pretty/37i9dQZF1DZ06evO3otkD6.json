@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 85967,
+  "num_followers": 86014,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAACo6NRSk55+FrbX+wpRzyic",
+  "snapshot_id": "aMtLgAAAAADEZW6GbKxA95RieD2mz3py",
   "tracks": [
     {
       "added_at": null,
@@ -458,11 +458,15 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 202088,
-      "name": "Cursi De +",
-      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
+      "duration_ms": 193360,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
     },
     {
       "added_at": null,
@@ -542,15 +546,11 @@
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 193360,
-      "name": "JACKPOT",
-      "url": "https://open.spotify.com/track/1oabrI9tWO5eqs3ST6EmZK"
+      "duration_ms": 202088,
+      "name": "Cursi De +",
+      "url": "https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3"
     },
     {
       "added_at": null,

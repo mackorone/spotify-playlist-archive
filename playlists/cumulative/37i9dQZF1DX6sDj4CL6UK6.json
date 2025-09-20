@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "English songs from Indian artists\nCover: Tarang Joseph",
+  "description": "English songs from Indian artists\nCover: Ramya Pothuri",
   "name": "Indian Indie English",
   "tracks": [
     {
@@ -1988,6 +1988,24 @@
       "duration_ms": 188214,
       "name": "For a While",
       "url": "https://open.spotify.com/track/1yhfYBmhghTPVEs103vITH"
+    },
+    {
+      "album": {
+        "name": "forget your name",
+        "url": "https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3"
+      },
+      "artists": [
+        {
+          "name": "Ramya Pothuri",
+          "url": "https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235636,
+      "name": "forget your name",
+      "url": "https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY"
     },
     {
       "album": {
@@ -6416,6 +6434,28 @@
       "duration_ms": 204634,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/1TqOLfxNA0nyRKanVioCMh"
+    },
+    {
+      "album": {
+        "name": "What Comes After",
+        "url": "https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC"
+      },
+      "artists": [
+        {
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+        },
+        {
+          "name": "Neil Mukherjee",
+          "url": "https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305121,
+      "name": "What Comes After",
+      "url": "https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg"
     },
     {
       "album": {

@@ -4088,7 +4088,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 172482,
       "name": "Blue Skies Are Coming",
       "url": "https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv"
@@ -23250,7 +23250,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 130274,
       "name": "R\u00eaverie M\u00e9lancolique",
       "url": "https://open.spotify.com/track/6cJ8uUbLRTZA0NI95N9uMF"
@@ -25595,6 +25595,24 @@
     },
     {
       "album": {
+        "name": "SUONO",
+        "url": "https://open.spotify.com/album/5AelHUV6lVK9G3FQ3q3YwX"
+      },
+      "artists": [
+        {
+          "name": "Teruyuki Nobuchika",
+          "url": "https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164356,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/0py9zaTRlPWzIftIsbQKOW"
+    },
+    {
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble"
       },
@@ -27144,6 +27162,24 @@
       "duration_ms": 118500,
       "name": "That day",
       "url": "https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB"
+    },
+    {
+      "album": {
+        "name": "That day Re-work",
+        "url": "https://open.spotify.com/album/65Avh1vLd4VWCbq2cuA40B"
+      },
+      "artists": [
+        {
+          "name": "Taichi Chishaki",
+          "url": "https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102902,
+      "name": "That day Re-work",
+      "url": "https://open.spotify.com/track/7F6hZ0WLtmdElhFoGvU6Xt"
     },
     {
       "album": {

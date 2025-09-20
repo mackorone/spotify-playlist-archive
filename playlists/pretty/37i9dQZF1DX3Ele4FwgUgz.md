@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,482 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,484 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 44 | [サイコーハート](https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:12 |
 | 45 | [Evergreen](https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:55 |
 | 46 | [テレテレパシー](https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:13 |
-| 47 | [Eutopia](https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Eutopia / EMOTION / stars we chase \(鐘 嵐珠盤\)](https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi) | 4:09 |
+| 47 | [Look at me now](https://open.spotify.com/track/6av1xL9khQJQptHMmduHYI) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [ニジガク ボーナストラック コレクション Vol.2](https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp) | 3:13 |
 | 48 | [My Own Fairy\-Tale](https://open.spotify.com/track/5TKgniNeHWwaH1pf5QV8nA) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:40 |
-| 49 | [Look at me now](https://open.spotify.com/track/6av1xL9khQJQptHMmduHYI) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [ニジガク ボーナストラック コレクション Vol.2](https://open.spotify.com/album/6yzn8cwXu3mQ12GWPU8FSp) | 3:13 |
+| 49 | [Eutopia](https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [Eutopia / EMOTION / stars we chase \(鐘 嵐珠盤\)](https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi) | 4:09 |
 | 50 | [声繋ごうよ](https://open.spotify.com/track/2wu07j9FHCuZ99fRfbjnK7) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:20 |
 
 Snapshot ID: `AAAAAHi2gPTDz6N9qGaRrDPI30C+zas6`

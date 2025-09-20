@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 96723,
+  "num_followers": 96725,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAADDyq21qmY0qvm8YFocnsOU",
+  "snapshot_id": "aMtLgAAAAACwdz+MeJFw3Ptrr+jBewnb",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuan Grande Es el",
-        "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
+        "name": "Venci\u00f3",
+        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
       },
       "artists": [
-        {
-          "name": "Eunice Rodriguez",
-          "url": "https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 284383,
-      "name": "Cuan Grande Es el",
-      "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
+      "duration_ms": 248893,
+      "name": "Al que es Digno",
+      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
     },
     {
       "added_at": null,
@@ -631,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venci\u00f3",
-        "url": "https://open.spotify.com/album/4rhVnJvuqXXEnaTbH3EaWw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 248893,
-      "name": "Al que es Digno",
-      "url": "https://open.spotify.com/track/14ZqaxUjFW2Fhq5CcJ5mhm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santo R\u00edo de Dios",
         "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 301958,
       "name": "Santo R\u00edo de Dios",
       "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuan Grande Es el",
+        "url": "https://open.spotify.com/album/36XJXcA1jx5BZcZqlzjIxt"
+      },
+      "artists": [
+        {
+          "name": "Eunice Rodriguez",
+          "url": "https://open.spotify.com/artist/2hgP8nOel52OiqwXIFxZYD"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 284383,
+      "name": "Cuan Grande Es el",
+      "url": "https://open.spotify.com/track/41TDqLRP26inAFhyC1AIva"
     },
     {
       "added_at": null,

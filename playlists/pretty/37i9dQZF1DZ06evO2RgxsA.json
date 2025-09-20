@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92299,
+  "num_followers": 92314,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABeoNa4RByE0XKtOoWk+GDP",
+  "snapshot_id": "aMtLgAAAAAB+l6uO/3X/jVJGesrRQaSP",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 136666,
-      "name": "Please Play This Song On The Radio",
-      "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
+      "duration_ms": 136666,
+      "name": "Please Play This Song On The Radio",
+      "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 138840,
-      "name": "Drugs Are Good",
-      "url": "https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F"
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 78800,
       "name": "The Man I Killed",
       "url": "https://open.spotify.com/track/0gbOhXBSBgFdPZTWLwwrJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Longest EP",
+        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 30880,
+      "name": "I Wanna Be an Alcoholic",
+      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
     },
     {
       "added_at": null,

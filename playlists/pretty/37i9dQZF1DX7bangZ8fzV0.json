@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek! Omslag: Dassie",
-  "num_followers": 133527,
+  "description": "Net die beste Afrikaanse musiek! Omslag: Jo Black",
+  "num_followers": 133623,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKzVNxW9lDrtAIO1Mw5qrmwR5pn8",
+  "snapshot_id": "AAAAAO7LY8k9gLnVpGLuMDW/pIZxuUgH",
   "tracks": [
+    {
+      "added_at": "2025-09-18 22:00:35",
+      "album": {
+        "name": "Ek Sal Nie Bang Wees Nie",
+        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Ek Sal Nie Bang Wees Nie",
+      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
+    },
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
@@ -57,22 +73,6 @@
       "url": "https://open.spotify.com/track/38bqjg6GOpqDMXglWBF5zT"
     },
     {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Vitamiene See",
-        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Vitamiene See",
-      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
-    },
-    {
       "added_at": "2025-08-28 22:00:24",
       "album": {
         "name": "Ek Kannie",
@@ -91,18 +91,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Jannaman",
-        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
+        "name": "Vitamiene See",
+        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
       },
       "artists": [
         {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 205114,
-      "name": "Jannaman",
-      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
+      "duration_ms": 177096,
+      "name": "Vitamiene See",
+      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
     },
     {
       "added_at": "2025-08-28 22:00:24",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Jannaman",
+        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 205114,
+      "name": "Jannaman",
+      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
       },
@@ -135,6 +151,22 @@
       "duration_ms": 191303,
       "name": "Toer Om Die Vloer",
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Rooi Vlag",
+        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 246393,
+      "name": "Rooi Vlag",
+      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -159,38 +191,6 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Rooi Vlag",
-        "url": "https://open.spotify.com/album/3P4iOMpuH73tPAvNLZjw45"
-      },
-      "artists": [
-        {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
-        }
-      ],
-      "duration_ms": 246393,
-      "name": "Rooi Vlag",
-      "url": "https://open.spotify.com/track/1hmxEM9ACNWYDDbcJc4pNU"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
       "added_at": "2025-09-11 22:00:22",
@@ -227,18 +227,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Oorwurm",
-        "url": "https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9"
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
       },
       "artists": [
         {
-          "name": "Kurt Darren",
-          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Oorwurm",
-      "url": "https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO"
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -259,18 +259,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Yskas Skuif",
-        "url": "https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ"
+        "name": "Oorwurm",
+        "url": "https://open.spotify.com/album/4wUtaYSOK8yP03bHYd60F9"
       },
       "artists": [
         {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
         }
       ],
-      "duration_ms": 204335,
-      "name": "Yskas Skuif",
-      "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
+      "duration_ms": 205440,
+      "name": "Oorwurm",
+      "url": "https://open.spotify.com/track/5rvAl2qQx49CVjReTDO2HO"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -291,6 +291,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Yskas Skuif",
+        "url": "https://open.spotify.com/album/6d3LnzJ7KMQSeSN2CpUfAZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+        }
+      ],
+      "duration_ms": 204335,
+      "name": "Yskas Skuif",
+      "url": "https://open.spotify.com/track/5n2KIUk8fQT6O7pZqVwlJE"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Klein Bietjie",
         "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 181194,
       "name": "Klein Bietjie",
       "url": "https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Helemal",
-        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 227999,
-      "name": "Helemal",
-      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -423,6 +423,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Helemal",
+        "url": "https://open.spotify.com/album/4bLIjuCO7RnAD6HrB1aAKR"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 227999,
+      "name": "Helemal",
+      "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Hart Breek",
         "url": "https://open.spotify.com/album/2iCN2iJrxMImXOdK1QSHmO"
       },
@@ -455,26 +471,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "308",
-        "url": "https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY"
-      },
-      "artists": [
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 167472,
-      "name": "308",
-      "url": "https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Die Lot",
         "url": "https://open.spotify.com/album/2756SkzLOIcaewehaS4P5F"
       },
@@ -503,6 +499,26 @@
       "duration_ms": 216992,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "308",
+        "url": "https://open.spotify.com/album/431xgZhPXYTOQ4wEdAZ7xY"
+      },
+      "artists": [
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 167472,
+      "name": "308",
+      "url": "https://open.spotify.com/track/0DZD8tLGZ01RtIXtwuzSi8"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -563,6 +579,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Jagtrip",
         "url": "https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6"
       },
@@ -591,22 +623,6 @@
       "duration_ms": 198970,
       "name": "Jagtrip",
       "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Heito Potato",
-        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 217342,
-      "name": "Heito Potato",
-      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -747,22 +763,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Haar Naam Is Afrikaans",
-        "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 204335,
-      "name": "Haar Naam Is Afrikaans",
-      "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Insecure Meisies",
         "url": "https://open.spotify.com/album/18J2iHoPYYYPci1BiNeR34"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 191562,
       "name": "Insecure Meisies",
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Haar Naam Is Afrikaans",
+        "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
+      },
+      "artists": [
+        {
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+        }
+      ],
+      "duration_ms": 204335,
+      "name": "Haar Naam Is Afrikaans",
+      "url": "https://open.spotify.com/track/55Y2k3TvlgniJdoZtcul0b"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -833,22 +849,6 @@
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Lui Voete",
-        "url": "https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM"
-      },
-      "artists": [
-        {
-          "name": "Tamlyn Wessels",
-          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Lui Voete",
-      "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
-    },
-    {
       "added_at": "2025-08-21 22:00:39",
       "album": {
         "name": "Naam",
@@ -863,6 +863,22 @@
       "duration_ms": 161242,
       "name": "Naam",
       "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Lui Voete",
+        "url": "https://open.spotify.com/album/4jDNv5KSltQHTQ09SrDHGM"
+      },
+      "artists": [
+        {
+          "name": "Tamlyn Wessels",
+          "url": "https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Lui Voete",
+      "url": "https://open.spotify.com/track/1WKaVLborIMrqDfcQvnHHP"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -1339,22 +1355,6 @@
       "duration_ms": 205237,
       "name": "Vlam In Die Wind",
       "url": "https://open.spotify.com/track/3CAs3oyxYvbWezkHooI3Kj"
-    },
-    {
-      "added_at": "2025-09-18 22:00:35",
-      "album": {
-        "name": "Ek Sal Nie Bang Wees Nie",
-        "url": "https://open.spotify.com/album/4Ok6uHJKhvETPiGnCu7qYQ"
-      },
-      "artists": [
-        {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Ek Sal Nie Bang Wees Nie",
-      "url": "https://open.spotify.com/track/0YAYhBmpFGVCgOBcdzjzBS"
     }
   ],
   "unique_name": "Afrikaanse Hits",

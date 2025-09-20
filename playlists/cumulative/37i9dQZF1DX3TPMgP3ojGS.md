@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,821 songs - 3 day 9 hr 37 min
+1,823 songs - 3 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Bloom](https://open.spotify.com/track/7wilNobfinzsRr8ey92TIX) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Bloom](https://open.spotify.com/album/5WGW2OzIOgLix003qTTthr) | 2:35 | 2021-12-21 | 2022-07-27 |
 | [Blue](https://open.spotify.com/track/1MxHKxjuUwyBw0uREfYyKZ) | [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [Blue](https://open.spotify.com/album/4bKozDx7DQxvaLrX38Ntpv) | 3:08 | 2021-03-15 | 2022-04-11 |
 | [Blue Aurora](https://open.spotify.com/track/2XUDxWhpULyCwZ6tSyAULr) | [Kim Alvez](https://open.spotify.com/artist/24U3alIirCYs7TMOlIVEAv) | [Blue Aurora](https://open.spotify.com/album/3BQjjetj53tqBx2KgLNlHc) | 2:14 | 2021-04-29 | 2022-05-29 |
-| [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 | 2021-11-26 |  |
+| [Blue Skies Are Coming](https://open.spotify.com/track/29WaVQCJPqk7thJmKPNhQv) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Lupi](https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68) | 2:52 | 2021-11-26 | 2025-09-20 |
 | [Bluebird](https://open.spotify.com/track/2NW5l5VDQNbt7IIS6SAZH6) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Bluebird](https://open.spotify.com/album/3JpEvq41EcVub0QNEhlwvH) | 3:07 | 2022-04-20 | 2022-07-24 |
 | [Bluebird \(Solo Piano Version\)](https://open.spotify.com/track/3LQwGnHo2iHiRGbLl5aPXQ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Bluebird \(Solo Piano Version\)](https://open.spotify.com/album/1DsyDD6mimG3xUjdCvPFSz) | 3:24 | 2021-03-17 | 2022-07-29 |
 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 | 2023-12-26 |  |
@@ -1291,7 +1291,7 @@
 | [Rues de Flavigny](https://open.spotify.com/track/1Ozxe6DIFd6e6qTPvv8M40) | [Caroline Collette](https://open.spotify.com/artist/2BGDPQmQ1UAeMbQSKpGm8V) | [Rues de Flavigny](https://open.spotify.com/album/5QHQ8nu9QhbcAkJ2I7IRWi) | 2:57 | 2021-03-20 | 2022-04-01 |
 | [Ruiseñor](https://open.spotify.com/track/0ECmXrwUI8YqLnKKom8jq1) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Khione](https://open.spotify.com/album/6nkSfwqiUqpcDcr3i5Ep51) | 2:59 | 2022-12-22 | 2023-05-31 |
 | [Rêvasser](https://open.spotify.com/track/2rBLJwsNjWvSx0yVAQLc3B) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Rêvasser](https://open.spotify.com/album/0xnlKa5rkGsf3r93ULxb3l) | 3:29 | 2022-12-24 | 2022-12-31 |
-| [Rêverie Mélancolique](https://open.spotify.com/track/6cJ8uUbLRTZA0NI95N9uMF) | [Sonic Abodes](https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x) | [Rêverie Mélancolique](https://open.spotify.com/album/4HXKn0z7O29IH6jmvIECau) | 2:10 | 2024-01-30 |  |
+| [Rêverie Mélancolique](https://open.spotify.com/track/6cJ8uUbLRTZA0NI95N9uMF) | [Sonic Abodes](https://open.spotify.com/artist/3rzgt7XlVxEmuSp8o1Md0x) | [Rêverie Mélancolique](https://open.spotify.com/album/4HXKn0z7O29IH6jmvIECau) | 2:10 | 2024-01-30 | 2025-09-20 |
 | [Rêverie, L\. 68](https://open.spotify.com/track/5IzY73gAigNjKuGIFQQm3g) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [François\-Joël Thiollier](https://open.spotify.com/artist/6iYKdlSq42Em0z7knC3rgM) | [Art & Music: Degas – Music of His Time](https://open.spotify.com/album/4lEJwhXrs0rjhIfN3f77pc) | 4:23 | 2021-03-10 | 2021-03-11 |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2021-04-06 | 2022-04-15 |
 | [Rêves dans la nuit](https://open.spotify.com/track/6ymh2bWqGE8PBs2oDEZzQ9) | [Chantal Serville](https://open.spotify.com/artist/6urCvaK0qMGvUeXpXleWIw) | [Rêves dans la nuit](https://open.spotify.com/album/4ojJHTOYusAqh2MvIuiwYF) | 2:52 | 2021-08-09 | 2022-05-22 |
@@ -1421,6 +1421,7 @@
 | [Sou](https://open.spotify.com/track/0tMRFAZNW3Mu4cMV0QUw0Q) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sou](https://open.spotify.com/album/0bOPUetUUgOWPulo6gp6Or) | 2:03 | 2023-06-27 |  |
 | [Soul Searching](https://open.spotify.com/track/6xxePsq2BKr8dtLUw4E3Er) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Soul Searching](https://open.spotify.com/album/79sDlK9zbIAZf5UfEhuHfs) | 3:39 | 2021-05-16 | 2022-04-21 |
 | [Sound Of Mind](https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [Sound Of Mind](https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk) | 2:02 | 2023-07-27 |  |
+| [Souvenir](https://open.spotify.com/track/0py9zaTRlPWzIftIsbQKOW) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [SUONO](https://open.spotify.com/album/5AelHUV6lVK9G3FQ3q3YwX) | 2:44 | 2025-09-18 |  |
 | [Space](https://open.spotify.com/track/6Ux1msFzvpBSuaZuyyy0lv) | [Vincent Amory](https://open.spotify.com/artist/1WE0vML8umaUUfUgggyssZ) | [Space](https://open.spotify.com/album/4z0bg4l4w2x7B50Camhble) | 3:36 | 2021-05-03 | 2022-07-19 |
 | [Spanish Evening](https://open.spotify.com/track/7vK9F11sa8mdyAgUp3CthS) | [Hilda Atkins](https://open.spotify.com/artist/0rOkj5PIQ8nEoeJzf8NHUd) | [Spanish Evening](https://open.spotify.com/album/6xrIXzPQXnLe2pwkzKsK3o) | 2:31 | 2021-04-30 | 2022-04-16 |
 | [Speck of Dust](https://open.spotify.com/track/0M7gRVPeVUAUDbS8N0kmdb) | [Fellows](https://open.spotify.com/artist/28MgNka3kDQyWxvuoGDo3o) | [Speck of Dust](https://open.spotify.com/album/3GnXsIXQPmCreqTC5l8ZZ0) | 4:07 | 2021-04-22 | 2021-12-20 |
@@ -1507,6 +1508,7 @@
 | [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-07-27 | 2023-10-05 |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2021-12-18 |  |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-05-13 | 2022-04-21 |
+| [That day Re\-work](https://open.spotify.com/track/7F6hZ0WLtmdElhFoGvU6Xt) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [That day Re\-work](https://open.spotify.com/album/65Avh1vLd4VWCbq2cuA40B) | 1:42 | 2025-09-18 |  |
 | [That kind of day](https://open.spotify.com/track/2HrQsRsCx8Pnv9BYNgmVwz) | [Cauã Cavalcanti Azevedo](https://open.spotify.com/artist/1FOppiOpSLfxmS2pYUWXal) | [That kind of day](https://open.spotify.com/album/0uOyOXBYsr53gf8Jnscb3K) | 2:28 | 2021-03-19 | 2022-03-27 |
 | [That morning](https://open.spotify.com/track/2JhJZ1b5JQKcDolFvw5edc) | [Hiwet Tesmi](https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T) | [That morning](https://open.spotify.com/album/61JrVGvUW3Tb0p8cGome0d) | 1:14 | 2021-04-23 | 2022-07-14 |
 | [The Approaching Night](https://open.spotify.com/track/4eoDPVbSx04PlypRDwjsXk) | [Philip Wesley](https://open.spotify.com/artist/7xaLfXBI5MSy3aNX7m4X3O) | [Dark Night of the Soul](https://open.spotify.com/album/2z7fcGI8oW7BXab2U9ikK1) | 6:39 | 2021-03-09 | 2025-06-23 |

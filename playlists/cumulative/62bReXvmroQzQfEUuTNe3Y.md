@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to this Summer 2025\. Updated weekly!
 
-496 songs - 1 day 3 hr 46 min
+497 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Uplifted](https://open.spotify.com/track/4E3xcXqrCfywoL2GQ0aayE) | [Jozels](https://open.spotify.com/artist/0U1vPNbcJ2OJIcqFmhf3dy), [Jon Hazel](https://open.spotify.com/artist/0s7OxlyWZNRp85gNvzkMDv) | [Uplifted](https://open.spotify.com/album/4bXw5B4YvjVMLmsBVM8XkF) | 4:04 | 2021-03-11 | 2021-04-03 |
 | [Us \- Selected Mix](https://open.spotify.com/track/5PU3Pd7ml1GfvJt7IqksG6) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Us](https://open.spotify.com/album/1FtgISKKm0jFKfZxKvZ8QC) | 2:43 | 2021-03-11 |  |
 | [VIEWS](https://open.spotify.com/track/0zXjUo1w3t9MNT6RKYmNHv) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:48 | 2022-08-05 |  |
+| [Waiting for Love](https://open.spotify.com/track/5v2wRn44H8LLX6iCYUAMP7) | [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Waiting for Love](https://open.spotify.com/album/5dZrQwKZNuLqxCtCc8L2I5) | 2:35 | 2025-09-19 |  |
 | [Walk Away \(feat\. Ailbhe Reddy\)](https://open.spotify.com/track/3qpbvXLn62vd5nKUIqCAWV) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 2:53 | 2023-04-21 | 2023-07-02 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-01-21 | 2022-09-17 |
 | [Want It](https://open.spotify.com/track/37OhtSnCY0kzqkPWmfN3RD) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Want It](https://open.spotify.com/album/495KToZQi6VijKwHedBAAH) | 2:32 | 2021-06-12 | 2021-07-17 |

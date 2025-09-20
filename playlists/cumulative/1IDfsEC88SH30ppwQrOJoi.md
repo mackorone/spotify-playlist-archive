@@ -4,7 +4,7 @@
 
 > High energy, club songs from around the world! <a href="https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq?si=5qAIG8wiQKOpeYS6tPsUgA">Jaxomy</a> on the cover\. Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-423 songs - 21 hr 49 min
+425 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Lollipop \- Weird Genius Remix](https://open.spotify.com/track/5jEQdAw62xgqgq36en8NDR) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ) | [Lollipop \(Remixes\)](https://open.spotify.com/album/53Icv1FzHUlgIExWeU0XWB) | 2:33 | 2024-08-02 |  |
 | [Loneliness](https://open.spotify.com/track/0iFxSf5RjiybnVSjofFEBg) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5u1NYKRPYx8KkcAVXXryQS) | 2:43 | 2023-11-03 | 2024-09-28 |
 | [Lonely Heart](https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [John Alto](https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj) | [Lonely Heart](https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH) | 2:43 | 2024-10-31 |  |
+| [Lose Control](https://open.spotify.com/track/47tJ2hkHBQGfIaAmb3TOVi) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Lose Control](https://open.spotify.com/album/2FLmeqwB9aWaW8PArqshV2) | 3:16 | 2025-09-19 |  |
 | [Lose Control](https://open.spotify.com/track/3DLWVhaowApIGw1JnJj6GS) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Lose Control](https://open.spotify.com/album/1OYS1FK3tnJ8JhbWuUZaqE) | 2:53 | 2023-08-17 | 2024-05-01 |
 | [Lose My Mind \- Passion Edit](https://open.spotify.com/track/5eCXYjXDeK1Dtiq8hDnldD) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind \(Passion Edit\)](https://open.spotify.com/album/2yLv6nYrTXJMrwFLY6uhEe) | 2:23 | 2023-07-14 | 2024-03-14 |
 | [Losing My Mind](https://open.spotify.com/track/0sxqmoQj9acdoUdx8WPtas) | [DJ S.K.T](https://open.spotify.com/artist/05z4P0nQO00HG5WeErugd0), [Leo Leone](https://open.spotify.com/artist/0c85biWSn583yWSpravRd6) | [Losing My Mind](https://open.spotify.com/album/447VnqohmOruegTrbzjiDM) | 2:50 | 2024-05-20 | 2024-08-03 |
@@ -324,6 +325,7 @@
 | [Scars](https://open.spotify.com/track/3QaQwIhjTKe1vWZlk0fjtw) | [Stadtmos](https://open.spotify.com/artist/1shg38hoNaL56c6eZXIYCb), [Sky Garden](https://open.spotify.com/artist/2HU8Xi4rVgijIwIALsVbNo) | [Scars](https://open.spotify.com/album/5v9btuYXMyOS8eGrmGvTN4) | 3:32 | 2023-08-22 | 2024-03-14 |
 | [Se Pone Loca](https://open.spotify.com/track/0UyJooJf2H3WsrS9hNJ1Ue) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Se Pone Loca](https://open.spotify.com/album/70KHuQWKfG8x2RvCT90WxB) | 3:08 | 2023-08-28 | 2024-03-14 |
 | [Sell Your Soul](https://open.spotify.com/track/57UOGQIxDfQLaYoNm3JSzg) | [Sam Red](https://open.spotify.com/artist/7HjYkiUnk6BYqB3UZrzVRg) | [Sell Your Soul](https://open.spotify.com/album/0eLmMMjrNq1Boup6Lr6alT) | 3:42 | 2024-08-16 |  |
+| [SexyBack](https://open.spotify.com/track/0Zi3WlwXZAnTFju0NLAiFG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [SexyBack](https://open.spotify.com/album/2Itng7z3sjVM5iE0vxHj5P) | 2:50 | 2025-09-19 |  |
 | [Shake What Yo Mama](https://open.spotify.com/track/6LDI9NkKCTCK3Dhu7s5iSd) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Shake What Yo Mama](https://open.spotify.com/album/64upmd4XuphLblnHNe5TFB) | 3:13 | 2024-02-05 | 2024-03-14 |
 | [Shingaling Shingaling](https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd) | [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs), [Lost Minds](https://open.spotify.com/artist/14z02tRm4yTs0cJfmrHfnr), [Reebs](https://open.spotify.com/artist/5gnvJivfNKC78JcOknY5Y0) | [Shingaling Shingaling](https://open.spotify.com/album/6kRYsgKCkmWeDnkT7m6eUS) | 2:26 | 2025-03-10 |  |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-13 | 2024-05-01 |

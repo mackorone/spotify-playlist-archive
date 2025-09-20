@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 194861,
+  "num_followers": 194891,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAAdg5xqsBrx2xV8KExgHg6X",
+  "snapshot_id": "aMtLgAAAAADM7ZfhrlQAmWNuX+UXntlz",
   "tracks": [
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 214226,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
+      "duration_ms": 227493,
+      "name": "Can't We Be Friends?",
+      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 227493,
-      "name": "Can't We Be Friends?",
-      "url": "https://open.spotify.com/track/22MsyWQ5WFGv8GXP7qmzDP"
+      "duration_ms": 214226,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/1ZWb3KgGTyoSdM6Qm85OXH"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 204333,
+      "name": "(When We Are Dancin') I Get Ideas - Single Version",
+      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Vie En Rose",
         "url": "https://open.spotify.com/album/4rii2OLIasjb8JnzA0Ylel"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 194000,
       "name": "Can Anyone Explain? - Single Version",
       "url": "https://open.spotify.com/track/53MiKD05DuARd9TbqmidxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "(When We Are Dancin') I Get Ideas - Single Version",
-      "url": "https://open.spotify.com/track/4I7npxGquBQfADdUJ9JT8I"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 190133,
       "name": "Cold Cold Heart",
       "url": "https://open.spotify.com/track/1BH2rbqoikRKIZxjMPoqs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 221173,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
     },
     {
       "added_at": null,

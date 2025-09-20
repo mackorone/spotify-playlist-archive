@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Martin Garrix x R3HAB x Skytech
 
-2,014 songs - 4 day 6 hr 41 min
+2,015 songs - 4 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1457,6 +1457,7 @@
 | [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-18 | 2023-06-23 |
 | [Reverie](https://open.spotify.com/track/234TDvvPYxHtej1xkbxQzj) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Reverie](https://open.spotify.com/album/6cvukTR7kmVIe2vxwYGgVj) | 2:40 | 2025-03-27 | 2025-05-02 |
 | [Rhythm of the Night](https://open.spotify.com/track/4GsFcpSiUAbFKa1CPFWuEN) | [JOMMY](https://open.spotify.com/artist/38LGgscsrvNiN82PTOIi10) | [Rhythm of the Night](https://open.spotify.com/album/3FtmWt1bHNU0Mow9dCOiHJ) | 3:10 | 2024-08-08 | 2024-09-13 |
+| [Rich Man \(Yellow Claw Remix\)](https://open.spotify.com/track/32hTq85uIG4YtY1cR7TOCC) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Rich Man \(Remixes\)](https://open.spotify.com/album/5EDMSi5MEpIayk0J4kMKxh) | 3:10 | 2025-09-18 |  |
 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 | 2023-05-18 | 2023-06-23 |
 | [Right Here \(WDJF 2025 Anthem\)](https://open.spotify.com/track/0ofzEICVXUyuRJmkDBeMei) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [I\-RIE](https://open.spotify.com/artist/6hHXTwKPbSPe3EF4JMbH76), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Right Here \(WDJF 2025 Anthem\)](https://open.spotify.com/album/264wweFMoT7afupXT9z8EU) | 3:20 | 2025-06-19 |  |
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 | 2023-02-02 | 2023-02-10 |

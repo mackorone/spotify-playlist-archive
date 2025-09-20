@@ -1,12 +1,12 @@
 {
   "description": "This is Bruno Mars. The essential tracks, all in one playlist.",
-  "num_followers": 4205907,
+  "num_followers": 4206086,
   "original_name": "This Is Bruno Mars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAC5vhhJJ2U46CKx+pSASpjy",
+  "snapshot_id": "aMtLgAAAAABd/v1Rg85odlD2mYrOVEAH",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bonde do Brun\u00e3o",
-        "url": "https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 57230,
-      "name": "Bonde do Brun\u00e3o",
-      "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 244493,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bonde do Brun\u00e3o",
+        "url": "https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 57230,
+      "name": "Bonde do Brun\u00e3o",
+      "url": "https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv"
     },
     {
       "added_at": null,

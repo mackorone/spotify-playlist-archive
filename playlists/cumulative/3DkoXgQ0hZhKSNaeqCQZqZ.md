@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-391 songs - 20 hr 44 min
+392 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [DINNER!](https://open.spotify.com/track/0zeJA3ABeJ0ZuziPetWBl3) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DINNER!](https://open.spotify.com/album/6YbAqDsUx7KxcK3eoOZtk0) | 2:16 | 2024-02-17 | 2024-12-20 |
 | [Distraction](https://open.spotify.com/track/7iV6Qd17zrFGLSimz2CbDG) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Bits & Bytes, Vol\. 1](https://open.spotify.com/album/2gERJhdpyprBByroGo4oEM) | 3:56 | 2024-06-04 |  |
 | [Dog Ears](https://open.spotify.com/track/0e6I94eva07huDA7Fplb01) | [scuttlefuzz](https://open.spotify.com/artist/4ll5RlLT3paku0bQDJCqlu) | [Keychain](https://open.spotify.com/album/0YTa3pfGMUMjqtlfC3tp8I) | 3:24 | 2024-08-15 |  |
+| [dogwhistle](https://open.spotify.com/track/3HMMFZFgUWhxvqtwklHLBx) | [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [my teeth will free you](https://open.spotify.com/album/6ieL6pmFGmestYx7pqn5ZR) | 4:49 | 2025-09-19 |  |
 | [Don't Play](https://open.spotify.com/track/2F99j2WpQ5GRWoTAQZ0rPQ) | [Marti](https://open.spotify.com/artist/4jmSBoKdI4v6xgF9B88u9Q), [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Don't Play](https://open.spotify.com/album/6ev9CsA87Vs4hht6DQkWnc) | 2:54 | 2025-01-27 |  |
 | [Dr1p](https://open.spotify.com/track/1yPooLQa9YF3ZLQckOWRcQ) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [Holoplankton](https://open.spotify.com/album/7g5ymwyauwP5J0jGP9yGmp) | 3:49 | 2023-06-14 |  |
 | [Drained](https://open.spotify.com/track/3ISjtbkPZgp4kQaGuNcQwR) | [ABSRDST](https://open.spotify.com/artist/0F4rneT54YD3eaWYXUXvFM) | [Drained](https://open.spotify.com/album/3FDlszVMTptRq3PXkGbw4p) | 4:02 | 2024-11-18 |  |

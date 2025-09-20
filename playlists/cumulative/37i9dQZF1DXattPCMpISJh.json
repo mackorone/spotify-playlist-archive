@@ -998,6 +998,24 @@
     {
       "album": {
         "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4rFgB6gBS4YJR8EtyUinvw"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197752,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/54qhMRdSYqQhUo7CtFzXQa"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
         "url": "https://open.spotify.com/album/2pH3M9jjYrEGYIvFiouJ6A"
       },
       "artists": [
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 176458,
       "name": "Disco Turbo",
       "url": "https://open.spotify.com/track/0RZjuYWQ7nXV0iij60LYgJ"
@@ -1554,6 +1572,32 @@
       "duration_ms": 209956,
       "name": "Do I Do - Radio Edit",
       "url": "https://open.spotify.com/track/0GzNOBgWu5468S9emhSFRv"
+    },
+    {
+      "album": {
+        "name": "Do It for Love",
+        "url": "https://open.spotify.com/album/6uOwJ9RBdPXhPXYwZ0iAEh"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158924,
+      "name": "Do It for Love",
+      "url": "https://open.spotify.com/track/5NzJnRutdEtt8KsgE8b1aC"
     },
     {
       "album": {
@@ -4232,7 +4276,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 170083,
       "name": "Old School Love",
       "url": "https://open.spotify.com/track/4IywS1K0mIm1fdGDasE6uu"

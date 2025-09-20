@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,114 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,124 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vallankumouksii](https://open.spotify.com/track/0aFWUfrYPKlEkOdxdFuGjk) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4) | [Vallankumouksii](https://open.spotify.com/album/3pM9JVzTdGIIVvFTt1FDEW) | 3:09 |
 | 2 | [ring business](https://open.spotify.com/track/3uGeRIlSXVNRREJXll7Djp) | [Peppina](https://open.spotify.com/artist/75ZFQsw3AKrheMQz0P6qyf) | [ring business](https://open.spotify.com/album/1q9b9svecaAaAhVKWgf7rJ) | 2:47 |
 | 3 | [Säästön hinta](https://open.spotify.com/track/0CYF6DphY54e2aaO4nOZyd) | [Topi Saha](https://open.spotify.com/artist/634z144xl609g8O217USKM) | [Säästön hinta](https://open.spotify.com/album/5JN7sP2MPOCXFto59Yabrk) | 3:54 |
-| 4 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [](https://open.spotify.com/album/null) | 3:45 |
+| 4 | [Ei kulu päivääkään](https://open.spotify.com/track/0Q3f5sp2j2NESNeyH8YeC2) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Jos mä oisin rehellinen](https://open.spotify.com/album/1E7KbNui75iGvJirJOWlJy) | 3:45 |
 | 5 | [Viidestä kolme pois](https://open.spotify.com/track/0eA3yVMSzzbxQEIIQhGtKH) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Peppuni kanssa](https://open.spotify.com/album/7xe8AruYJ8xpR82d1N3rcK) | 3:09 |
 | 6 | [Jättiläinen](https://open.spotify.com/track/2zCUjOxx43JXonzCA578r3) | [Aili Järvelä](https://open.spotify.com/artist/6r1mVyGnnq60IThQV3Is8j) | [VUORI](https://open.spotify.com/album/1aFmLcH2FXugbs3Fx2tZIT) | 4:32 |
 | 7 | [Kuka kuuntelee sua nyt](https://open.spotify.com/track/5dck3LV7Jfn6lYbCiYeYEe) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [Kuka kuuntelee sua nyt](https://open.spotify.com/album/5rb5gHGUAn4QC67egGROEV) | 2:57 |

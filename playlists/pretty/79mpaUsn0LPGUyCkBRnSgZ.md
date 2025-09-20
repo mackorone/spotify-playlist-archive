@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 581 songs - 1 day 14 hr 7 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 582 songs - 1 day 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -589,5 +589,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 579 | [Senja](https://open.spotify.com/track/5XivEexP5g4mYhkeZ2JMT1) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [WHERE IS MY HEAD?](https://open.spotify.com/album/4KdSMovHLQrLV7lGM7Z0af) | 2:34 |
 | 580 | [Siren](https://open.spotify.com/track/4ruZteFNe4IiXU1j03AK6g) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Tell the Future With Your Body](https://open.spotify.com/album/3QHg5WQNHUN6ZxuoowtAbt) | 3:03 |
 | 581 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
+| 582 | [Kookaburra](https://open.spotify.com/track/1kcl4JslEp3ygDU3JpjhQi) | [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Emerald City](https://open.spotify.com/album/3UdOmY1STQuqz3zHCkT2JK) | 5:30 |
 
-Snapshot ID: `AAAHsCh+n77zTJF6uA3xw3pYAQ606X75`
+Snapshot ID: `AAAHsenPfySZd5BDkrkh1MZ9D5YhflJX`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
-  "num_followers": 133396,
+  "num_followers": 133415,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
+        "name": "San Cristobal",
+        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        }
+      ],
+      "duration_ms": 141398,
+      "name": "San Cristobal",
+      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
         "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
         "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 130493,
       "name": "El Siquisiri",
       "url": "https://open.spotify.com/track/5AaFV9x2mCYc0xOaOq2t8a"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "San Cristobal",
-        "url": "https://open.spotify.com/album/2cKjc9JgutU0ZJstgSh60V"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        }
-      ],
-      "duration_ms": 141398,
-      "name": "San Cristobal",
-      "url": "https://open.spotify.com/track/6eFJW7pI0m6oxhnjR8mABo"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -247,22 +247,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Mambos Boleros y Danzones",
-        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
-      },
-      "artists": [
-        {
-          "name": "Marimba Nandayapa",
-          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
-        }
-      ],
-      "duration_ms": 112596,
-      "name": "Juarez",
-      "url": "https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 100943,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/67nOZSTKNPgwFt4ObbBPar"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Mambos Boleros y Danzones",
+        "url": "https://open.spotify.com/album/1eXlFz9or8QRLWFggOojTs"
+      },
+      "artists": [
+        {
+          "name": "Marimba Nandayapa",
+          "url": "https://open.spotify.com/artist/6BNTYyi6vioSRcseOxQcC8"
+        }
+      ],
+      "duration_ms": 112596,
+      "name": "Juarez",
+      "url": "https://open.spotify.com/track/1kohPiTbyDD9Hdt2KWLxZ9"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
-        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alma Jarocha",
-          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Canto A Veracruz",
-      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Mariachi Vol. 1",
         "url": "https://open.spotify.com/album/2YkbFuALq3qadFUQ6W4OTA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 132672,
       "name": "Camino A San Miguel",
       "url": "https://open.spotify.com/track/1LCKlitvr598k9WmOcDv8z"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Revent\u00f3n Veracruzano Puros \u00c9xitos De..",
+        "url": "https://open.spotify.com/album/3BKmNEqwNSI8bveYxTGhgh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alma Jarocha",
+          "url": "https://open.spotify.com/artist/7CFjxWuOYDOXtSUdMNfi5f"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Canto A Veracruz",
+      "url": "https://open.spotify.com/track/0MYecQUlzO9dyJ9lRHpEko"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
-        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
-      },
-      "artists": [
-        {
-          "name": "Los Camperos de Valles",
-          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "El fandanguito (The Little Fandango)",
-      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Mariachi Vol. 2",
         "url": "https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu"
       },
@@ -475,6 +459,22 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
+        "name": "El ave de mi so\u00f1ar: Mexican Sones Huastecos",
+        "url": "https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk"
+      },
+      "artists": [
+        {
+          "name": "Los Camperos de Valles",
+          "url": "https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "El fandanguito (The Little Fandango)",
+      "url": "https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
         "name": "\u00a1caramba Ni\u00f1o!",
         "url": "https://open.spotify.com/album/37UxRdiQJKRefqLLcLqJWC"
       },
@@ -487,26 +487,6 @@
       "duration_ms": 236360,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/1w1Ymv3ICnMEXWgmHMZafH"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Huapangos",
-        "url": "https://open.spotify.com/album/0ixsO3X1ohADyPz4bM8WUy"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        },
-        {
-          "name": "Alberto Angel \"El Cuervo\"",
-          "url": "https://open.spotify.com/artist/3COV2y66LVfz9WB64WYQJb"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "La Malaguena",
-      "url": "https://open.spotify.com/track/7EvfoiCkbtLTUacNhvPj2m"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -563,6 +543,26 @@
       "duration_ms": 98871,
       "name": "Huapango 2",
       "url": "https://open.spotify.com/track/4Pthpw4nta7U476XtKWWcM"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Huapangos",
+        "url": "https://open.spotify.com/album/0ixsO3X1ohADyPz4bM8WUy"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        },
+        {
+          "name": "Alberto Angel \"El Cuervo\"",
+          "url": "https://open.spotify.com/artist/3COV2y66LVfz9WB64WYQJb"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "La Malaguena",
+      "url": "https://open.spotify.com/track/7EvfoiCkbtLTUacNhvPj2m"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -791,26 +791,18 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
-        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
+        "name": "Pasi\u00f3n Huasteca",
+        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
       },
       "artists": [
         {
-          "name": "Velino Miguel Preza",
-          "url": "https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN"
-        },
-        {
-          "name": "Anabel Medrano",
-          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
-        },
-        {
-          "name": "Ensamble Centenario",
-          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
+          "name": "Macuilxochitl",
+          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
         }
       ],
-      "duration_ms": 267720,
-      "name": "Lindas Mexicanas",
-      "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
+      "duration_ms": 170493,
+      "name": "El Borracho",
+      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -831,18 +823,26 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Pasi\u00f3n Huasteca",
-        "url": "https://open.spotify.com/album/1IxTROEf8eB8IRsa910pYa"
+        "name": "M\u00fasica Mexicana de Sal\u00f3n Con Salterio: Finales del Siglo Xix y Principios del Siglo Xx",
+        "url": "https://open.spotify.com/album/0NIeTPc7wQYpjgX0ZGodeZ"
       },
       "artists": [
         {
-          "name": "Macuilxochitl",
-          "url": "https://open.spotify.com/artist/4VrEalhZopVFHXtqnwAZTu"
+          "name": "Velino Miguel Preza",
+          "url": "https://open.spotify.com/artist/2xtHMMGdjIdwWqHQ0ZNslN"
+        },
+        {
+          "name": "Anabel Medrano",
+          "url": "https://open.spotify.com/artist/4kyT6BkRnlPf8pBAk5X1AR"
+        },
+        {
+          "name": "Ensamble Centenario",
+          "url": "https://open.spotify.com/artist/35xQxv2nFAmbbkHKGkizto"
         }
       ],
-      "duration_ms": 170493,
-      "name": "El Borracho",
-      "url": "https://open.spotify.com/track/1whNjZlL6zjuvTWg2tekxI"
+      "duration_ms": 267720,
+      "name": "Lindas Mexicanas",
+      "url": "https://open.spotify.com/track/71AU1WeRsBgdRceTWqNloI"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1171,74 +1171,6 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
-      },
-      "artists": [
-        {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "La bikina (Arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/1O4VFqHZSAnJONSv7YQTVs"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Mexico: 20 Best Mariachi and Folk Songs",
-        "url": "https://open.spotify.com/album/4EfsZRb9EGyKIAPrGHOeKT"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "El querreque",
-      "url": "https://open.spotify.com/track/0ieZKzWjcO0eBaTVBz82Mg"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
-      },
-      "artists": [
-        {
-          "name": "Juan Jos\u00e9 Espinosa",
-          "url": "https://open.spotify.com/artist/4BjCrB48jwSb1BoRTmgcNM"
-        },
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 122026,
-      "name": "Las Alte\u00f1itas",
-      "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "Discover Music from Mexico",
-        "url": "https://open.spotify.com/album/2fjxjiwPLGvFY9FTKL9BCr"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "La Raspa",
-      "url": "https://open.spotify.com/track/6N9he4wWKlcKnPZbUD0SDn"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/7fy4PZRCnrhYPucqvSBzwT"
       },
@@ -1287,6 +1219,74 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
+        "name": "Mexico: 20 Best Mariachi and Folk Songs",
+        "url": "https://open.spotify.com/album/4EfsZRb9EGyKIAPrGHOeKT"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "El querreque",
+      "url": "https://open.spotify.com/track/0ieZKzWjcO0eBaTVBz82Mg"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
+      },
+      "artists": [
+        {
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "La bikina (Arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/1O4VFqHZSAnJONSv7YQTVs"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Discover Music from Mexico",
+        "url": "https://open.spotify.com/album/2fjxjiwPLGvFY9FTKL9BCr"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 170800,
+      "name": "La Raspa",
+      "url": "https://open.spotify.com/track/6N9he4wWKlcKnPZbUD0SDn"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
+      },
+      "artists": [
+        {
+          "name": "Juan Jos\u00e9 Espinosa",
+          "url": "https://open.spotify.com/artist/4BjCrB48jwSb1BoRTmgcNM"
+        },
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "duration_ms": 122026,
+      "name": "Las Alte\u00f1itas",
+      "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
         "name": "Trio Azteca: Folk Songs and Ballads",
         "url": "https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V"
       },
@@ -1316,9 +1316,9 @@
           "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 167000,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/0MBSO5GELNAmRSJ3QQxzXP"
+      "duration_ms": 148240,
+      "name": "El colas",
+      "url": "https://open.spotify.com/track/7e2aYM1h3QiyCZyAA9YI51"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1360,9 +1360,9 @@
           "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 148240,
-      "name": "El colas",
-      "url": "https://open.spotify.com/track/7e2aYM1h3QiyCZyAA9YI51"
+      "duration_ms": 167000,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/0MBSO5GELNAmRSJ3QQxzXP"
     },
     {
       "added_at": "2025-09-04 20:27:32",

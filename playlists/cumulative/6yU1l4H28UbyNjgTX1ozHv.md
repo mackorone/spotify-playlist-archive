@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-301 songs - 15 hr 28 min
+303 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Complicated \- Acoustic](https://open.spotify.com/track/0qUr4Vj5WkpqZtiZoFBZI2) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [Complicated \(Acoustic\)](https://open.spotify.com/album/6OZu8Khy4sBZKaKcpEnlPY) | 3:34 | 2023-02-24 |  |
 | [Crazy Love \- Acoustic](https://open.spotify.com/track/5OnYymymXaoxjTEEOjqcae) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [Crazy Love \(Acoustic\)](https://open.spotify.com/album/7hKQ20375hBvYSKqoLpjG4) | 3:07 | 2022-09-03 | 2023-01-28 |
 | [Creep](https://open.spotify.com/track/7BRwh1bemr9rFMDeTbcy5S) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Creep](https://open.spotify.com/album/2XbaujqgmPJn92LT1wbKRe) | 3:54 | 2019-10-13 |  |
-| [Crush \- Acoustic](https://open.spotify.com/track/3T5zvXUlM4vn8b6sMbEtv9) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Crush \(Acoustic\)](https://open.spotify.com/album/1dED0Yhp2wW6Wn3TsECE3B) | 3:36 | 2024-11-03 |  |
+| [Crush \- Acoustic](https://open.spotify.com/track/3T5zvXUlM4vn8b6sMbEtv9) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Crush \(Acoustic\)](https://open.spotify.com/album/1dED0Yhp2wW6Wn3TsECE3B) | 3:36 | 2024-11-03 | 2025-09-20 |
 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 | 2023-08-24 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 | 2024-10-25 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |
@@ -243,6 +243,7 @@
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 | 2024-03-04 |
 | [The Lady In Red](https://open.spotify.com/track/18Lc5luPtdEN5dr3QoYA5l) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [The Lady In Red](https://open.spotify.com/album/30H8Xm5PzpxpPIDyESoGsB) | 4:06 | 2025-05-10 | 2025-06-08 |
+| [The Middle](https://open.spotify.com/track/4hqiwgmUKa641pPIwYeiIq) | [Gavern](https://open.spotify.com/artist/3AZ2iVcKQZB9Vg2HphGgDt) | [The Middle](https://open.spotify.com/album/1NOtPaz75FEvp7KNKZMHJq) | 1:52 | 2025-09-19 |  |
 | [The Scientist \- Candlelight Version](https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [The Scientist \(Candlelight Version\)](https://open.spotify.com/album/35c4uhnGB3BBuTcYfe5Djf) | 3:09 | 2024-06-21 | 2024-09-07 |
 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 | 2024-05-10 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
@@ -250,6 +251,7 @@
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/5g8icmRtCprCAYeSVtJufd) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/2TfaY2Qo3JiCEBYhzRG2jV) | 4:26 | 2025-06-27 |  |
 | [Thinking Out Loud \- Acoustic](https://open.spotify.com/track/30kpPQ8pYmxqyUD9l1mFL7) | [Sands of Summer](https://open.spotify.com/artist/43vjXOqFOUcodqUtWIRptz) | [Thinking Out Loud \(Acoustic\)](https://open.spotify.com/album/1WrdSnM8vS3UlX3YD20qms) | 3:04 | 2025-02-17 |  |
 | [This Kiss \- Acoustic](https://open.spotify.com/track/3AqkRNDw7B5vukDtnXy8zJ) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [This Kiss \(Acoustic\)](https://open.spotify.com/album/7wQAgYNFflHq2AqevwUSWn) | 2:42 | 2024-04-27 | 2024-06-01 |
+| [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0VfBSUgWyPbWDaAu3nDCK0) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/album/67zHzYw6srHxKJ2Yu6JDG3) | 2:28 | 2025-09-19 |  |
 | [This Will Be \(An Everlasting Love\) \- Acoustic](https://open.spotify.com/track/585mlT2Qwq7urXcnPg7dOk) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [This Will Be \(An Everlasting Love\) \[Acoustic\]](https://open.spotify.com/album/4IVsduaa3eklnbjrxehKvp) | 2:19 | 2023-08-04 | 2024-03-04 |
 | [Three Little Birds \- Acoustic](https://open.spotify.com/track/7CSKKB5I9mmE3gl5HXcoR8) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [Three Little Birds \(Acoustic\)](https://open.spotify.com/album/1ub9a49YbbCbmJOlcoPSjl) | 2:24 | 2022-03-25 | 2023-05-10 |
 | [Time After Time \- Acoustic](https://open.spotify.com/track/6E5nFQmuLN1L8k5qSzCQzB) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Time After Time \(Acoustic\)](https://open.spotify.com/album/5uxvXq75wFr9uRKR1QVVKq) | 3:04 | 2025-01-10 |  |

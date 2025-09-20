@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CHJY6ZqPPz.md) - [plain]
 
 > Find out the true meaning of <a href="spotify:site:aesparichman"> aespa RICH MAN</a>\. <br/>All about aespa: meeting another self and experiencing the new world
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,608 likes - 91 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,347 likes - 91 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

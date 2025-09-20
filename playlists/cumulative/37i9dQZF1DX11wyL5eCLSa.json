@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. De Nalgas en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. El Plan de La Mariposa en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -732,7 +732,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 200732,
       "name": "Am\u00e9rica",
       "url": "https://open.spotify.com/track/2nqez4c6Yo1GrOSMR6PMBo"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 191184,
       "name": "Balas Perdidas",
       "url": "https://open.spotify.com/track/5nSYN6VjBU0vo9yrajSD0X"
@@ -1588,6 +1588,24 @@
       "duration_ms": 226572,
       "name": "Calles de Talcahuano",
       "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
+    },
+    {
+      "album": {
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/3IrD7IpDBy3psoDWWpIubo"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204373,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4HT8vpwMPNpgZq6TcxColK"
     },
     {
       "album": {
@@ -2193,6 +2211,28 @@
     },
     {
       "album": {
+        "name": "Como la Vez Primera",
+        "url": "https://open.spotify.com/album/1eCTC0yikdFPHZQL3xcVJo"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Daniel Gutierrez",
+          "url": "https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184055,
+      "name": "Como la Vez Primera",
+      "url": "https://open.spotify.com/track/7w6xeCLBFcetKIj5yPDHD1"
+    },
+    {
+      "album": {
         "name": "como me encanta",
         "url": "https://open.spotify.com/album/6YoWXvum55EbkVxoCawSZE"
       },
@@ -2708,7 +2748,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 208757,
       "name": "Dar\u00eda Todo",
       "url": "https://open.spotify.com/track/4jfk2uhlhfQKEX2w3cRaZB"
@@ -2820,7 +2860,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 219395,
       "name": "De Regreso",
       "url": "https://open.spotify.com/track/1yyLkSKtweWX6G8wsAPJAB"
@@ -3752,6 +3792,24 @@
       "duration_ms": 252428,
       "name": "El Brillo de Tu Ausencia",
       "url": "https://open.spotify.com/track/5j1grRcBgGMzdXh0DoEOzz"
+    },
+    {
+      "album": {
+        "name": "El Cantar de los Anzuelos",
+        "url": "https://open.spotify.com/album/6EC7bqC3eLObVq1trOes4B"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232183,
+      "name": "El Cantar de los Anzuelos",
+      "url": "https://open.spotify.com/track/6RPjByBOMY4mDJZ7kShliE"
     },
     {
       "album": {
@@ -5359,6 +5417,28 @@
     },
     {
       "album": {
+        "name": "HOWMUCHFORADAYWITHSOMEONETHATISDEAD?",
+        "url": "https://open.spotify.com/album/05Nh1maAU4o1AL0Vl8QQ8I"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89600,
+      "name": "HOWMUCHFORADAYWITHSOMEONETHATISDEAD?",
+      "url": "https://open.spotify.com/track/1JOBEqK5UXzUA3iN7vf2mT"
+    },
+    {
+      "album": {
         "name": "Hoy Creo en M\u00ed",
         "url": "https://open.spotify.com/album/1l0okpo4YMHJ7GNlHZ96qA"
       },
@@ -5460,7 +5540,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 162647,
       "name": "HYPER POSPONK MEXA",
       "url": "https://open.spotify.com/track/0uQ9YUnW68OHZizF8KYgsi"
@@ -5834,6 +5914,24 @@
       "duration_ms": 136893,
       "name": "La Desgracia Ajena",
       "url": "https://open.spotify.com/track/3FSaKGcPziAbqiw5wPy38g"
+    },
+    {
+      "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/2igUrvjRYAgBBRyufC50pb"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230973,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/3kII7smb04nI2T2vnj5eZr"
     },
     {
       "album": {
@@ -6379,6 +6477,24 @@
     },
     {
       "album": {
+        "name": "Las Palabras",
+        "url": "https://open.spotify.com/album/45YiKj8AvC9TXo3OjCkw1E"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199225,
+      "name": "Las Palabras",
+      "url": "https://open.spotify.com/track/2xKCYRoW2BNxciBwUzSz08"
+    },
+    {
+      "album": {
         "name": "Last\u00edmame",
         "url": "https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h"
       },
@@ -6866,6 +6982,24 @@
       "duration_ms": 197077,
       "name": "Luciana",
       "url": "https://open.spotify.com/track/1btgrD66tOkrj6C8NjnCWs"
+    },
+    {
+      "album": {
+        "name": "Luna Nueva",
+        "url": "https://open.spotify.com/album/2M6bjKE6Pkr7jo4EfJvG7B"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Toussaint",
+          "url": "https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "Luna Nueva",
+      "url": "https://open.spotify.com/track/0Nn8fRZgLWtqdnGekA6UIa"
     },
     {
       "album": {
@@ -9734,10 +9868,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 186250,
       "name": "Pienso en ti",
       "url": "https://open.spotify.com/track/16UpkkwrCOzFik6R2yrzch"
+    },
+    {
+      "album": {
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/1HcxT4Pd0cFlyXBnOO3KYF"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Pila Social",
+      "url": "https://open.spotify.com/track/4oZuHp4QPoXLtPk3nsA5wX"
     },
     {
       "album": {
@@ -10768,7 +10920,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 267258,
       "name": "Serpiente",
       "url": "https://open.spotify.com/track/663UMoGtYJxHXbfDhhojL7"
@@ -13354,7 +13506,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 152250,
       "name": "\u00bfHoy a qu\u00e9 vamos a jugar?",
       "url": "https://open.spotify.com/track/6zQ3sTiUg5mDHcuWdTeKJz"

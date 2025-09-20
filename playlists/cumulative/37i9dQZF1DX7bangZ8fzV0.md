@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Dassie
+> Net die beste Afrikaanse musiek! Omslag: Jo Black
 
 329 songs - 18 hr 11 min
 

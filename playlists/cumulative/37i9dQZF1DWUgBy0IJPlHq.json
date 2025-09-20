@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Margo Price",
+  "description": "A new shade of Country. Cover: Evan Honer",
   "name": "Indigo",
   "tracks": [
     {
@@ -6727,6 +6727,24 @@
     },
     {
       "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215182,
+      "name": "Lose A Friend",
+      "url": "https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk"
+    },
+    {
+      "album": {
         "name": "Losing Streak",
         "url": "https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h"
       },
@@ -8990,6 +9008,24 @@
       "duration_ms": 214056,
       "name": "Sarah's Place (feat. Noah Kahan)",
       "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+    },
+    {
+      "album": {
+        "name": "Saving Grace",
+        "url": "https://open.spotify.com/album/5XDG4KriATkei5H0lqAgos"
+      },
+      "artists": [
+        {
+          "name": "Briscoe",
+          "url": "https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220264,
+      "name": "Saving Grace",
+      "url": "https://open.spotify.com/track/6mj5RahkA04eSwt8exoCH4"
     },
     {
       "album": {
@@ -11674,7 +11710,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 257146,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"

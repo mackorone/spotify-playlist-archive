@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,360 likes - 101 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380,507 likes - 101 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 100 | [New Beginning](https://open.spotify.com/track/1MNw7WRsx6b8GoixLPIBUq) | [Che Noir](https://open.spotify.com/artist/6fXIxRAaELsPMPhSkuV54J), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [The Color Chocolate 2](https://open.spotify.com/album/0Q3l20nxzOrMP3cKHTt4ZK) | 3:47 |
 | 101 | [Potluck](https://open.spotify.com/track/7zf6vJVebBtQYoC34zw9C5) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Potluck](https://open.spotify.com/album/0ZrbxhcawEvpQMqacOfmtK) | 2:35 |
 
-Snapshot ID: `AAAAAOP/x8nS7n8W0YErwrPLsm2by3BT`
+Snapshot ID: `AAAAAELvV+30DKFRuAWdmO8dcD9LlK4G`

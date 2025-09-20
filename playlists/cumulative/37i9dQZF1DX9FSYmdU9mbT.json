@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+    },
+    {
+      "album": {
         "name": "Gal Costa (Compacto de 1972)",
         "url": "https://open.spotify.com/album/2Zic84dsU9R3lGjnWIlYj8"
       },
@@ -92,7 +110,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 293053,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"

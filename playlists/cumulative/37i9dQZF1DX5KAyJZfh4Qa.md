@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Algernon Cadwallader
 
-293 songs - 16 hr 16 min
+294 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Mulholland Dr.](https://open.spotify.com/track/337bOFFRgT6HyF2V4fLCYf) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:01 | 2022-11-25 | 2024-04-20 |
 | [My Anchor](https://open.spotify.com/track/76DOdPpL7iz7YFCiV5SeRv) | [With Honor](https://open.spotify.com/artist/3jHWCx8YiFqlbOmRR6f5Ul) | [My Anchor](https://open.spotify.com/album/4eysI52E7L77BPEtpI9Jxi) | 2:44 | 2023-08-25 | 2024-05-15 |
 | [My Fault](https://open.spotify.com/track/50FpCfseTjaMAWQ9q1Krfl) | [Stay Inside](https://open.spotify.com/artist/59QLiM8EVDaCyuHV6ifMpv) | [Ferried Away](https://open.spotify.com/album/2GAlwex2k6grIDP3ieQf6c) | 2:27 | 2024-12-18 | 2025-09-03 |
+| [Never Meant To](https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Never Meant To](https://open.spotify.com/album/6G43jE12MNPUbmdzbSlBOo) | 3:04 | 2025-09-12 |  |
 | [Nice to Know Ya](https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Nice to Know Ya](https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p) | 2:59 | 2025-08-08 |  |
 | [No Backbone](https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [No Backbone](https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL) | 2:17 | 2024-04-19 | 2024-10-12 |
 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 | 2023-08-25 | 2025-08-08 |
@@ -221,7 +222,7 @@
 | [Scenery](https://open.spotify.com/track/20ubvnxFGvq9YX8YCFE4VM) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/7enb4iw7WjPOH3eUeSLedb) | 2:39 | 2023-03-17 | 2023-08-21 |
 | [Scenery](https://open.spotify.com/track/3mgUfPB8YDEppyDfoi5qZN) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Scenery](https://open.spotify.com/album/2SmglPpr3CiDSbbiQAfdPs) | 2:39 | 2024-03-08 | 2024-10-12 |
 | [Scenery](https://open.spotify.com/track/4ZJDUqVn8n592qx7IQft5o) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [The Best Part About Being Human](https://open.spotify.com/album/5W3BwgmLw8jbsgOm4Rv9po) | 2:39 | 2023-05-19 | 2024-04-19 |
-| [SCREAM!!](https://open.spotify.com/track/67BGWOAdG09RomaAi1PBHn) | [katie drives](https://open.spotify.com/artist/6sJHVAnPiDsrsXU2myom2b), [Pentastone](https://open.spotify.com/artist/2jq5w38tD7Fxst2oFtbLGM) | [SCREAM!!](https://open.spotify.com/album/09MVxYvRi0qHjc6Jg88hih) | 3:03 | 2025-08-08 |  |
+| [SCREAM!!](https://open.spotify.com/track/67BGWOAdG09RomaAi1PBHn) | [katie drives](https://open.spotify.com/artist/6sJHVAnPiDsrsXU2myom2b), [Pentastone](https://open.spotify.com/artist/2jq5w38tD7Fxst2oFtbLGM) | [SCREAM!!](https://open.spotify.com/album/09MVxYvRi0qHjc6Jg88hih) | 3:03 | 2025-08-08 | 2025-09-20 |
 | [Se Sufre Pero Se Goza](https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Se Sufre Pero Se Goza](https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5) | 2:33 | 2025-08-08 |  |
 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 | 2023-11-10 | 2024-12-28 |
 | [Serotonin](https://open.spotify.com/track/0PkriCeqOJvh9QNvfMka7w) | [Covey](https://open.spotify.com/artist/1BWtQmbjRgQ6YaEIizJ5Pe) | [Serotonin](https://open.spotify.com/album/1OISFeE5Pfq40hyzuqtT8H) | 3:17 | 2024-10-11 |  |

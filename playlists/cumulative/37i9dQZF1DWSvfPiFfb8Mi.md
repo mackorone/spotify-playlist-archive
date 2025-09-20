@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-401 songs - 1 day 2 hr 15 min
+402 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [NYC Dirty Talks](https://open.spotify.com/track/0y7OfSu7FZSJViYvRKigzl) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/24n2ljrMMv2UHYVlibcInw) | 6:23 | 2021-07-24 | 2022-07-29 |
 | [NYC Dirty Talks](https://open.spotify.com/track/4pf4aRWUDzJTHacddS3e25) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [JAH Love](https://open.spotify.com/album/4s2kxIRXTtf2Fu4oyh4Lqa) | 6:23 | 2022-06-20 | 2023-05-20 |
 | [NYC Dirty Talks \- Original Mix](https://open.spotify.com/track/4WRrZknAyG38JPLFL2Sej0) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [This Is House, Vol\. 1](https://open.spotify.com/album/0XNQ1bQRX7M37TUGeoeLji) | 6:23 | 2022-06-20 | 2022-11-13 |
+| [Oh Baby](https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Oh Baby](https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57) | 3:00 | 2025-09-12 |  |
 | [Oh I](https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn) | [Oh I](https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz) | 3:57 | 2024-08-30 | 2025-03-08 |
 | [Olé Maca](https://open.spotify.com/track/2Xw7NAZNuZKkLJVNQsIXiN) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Olé Maca \- Single](https://open.spotify.com/album/66kcE5GtO1NBEzsLHGu3na) | 2:37 | 2024-06-28 | 2024-10-04 |
 | [ON THE MOVE](https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [ON THE MOVE](https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu) | 3:24 | 2023-06-09 |  |
@@ -378,7 +379,7 @@
 | [Type of Girl Pt\. 2](https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Type of Girl](https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ) | 4:25 | 2024-08-02 | 2024-09-29 |
 | [u can get it](https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [u can get it](https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8) | 2:54 | 2024-12-06 |  |
 | [Unconditional feat\. Rationale \- Extended Version](https://open.spotify.com/track/2ETcVAJp0womgNLhC1Esgt) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Unconditional feat\. Rationale \(Extended Version\)](https://open.spotify.com/album/2oHFjPiBi2VSLFzlinbzTk) | 6:22 | 2024-04-26 | 2024-07-15 |
-| [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-06-28 |  |
+| [Unconditional feat\. Rationale \- Girls of the Internet Remix](https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy), [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Unconditional feat\. Rationale \(Girls of the Internet Remix\)](https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF) | 3:50 | 2024-06-28 | 2025-09-20 |
 | [Under My Skin](https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Under My Skin](https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9) | 3:42 | 2024-09-20 |  |
 | [Unholy Delights](https://open.spotify.com/track/1K7CGcnQpclZiuUtFGXo4o) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Unholy Delights](https://open.spotify.com/album/2EgnK1VNU4wv952DUhvwPO) | 3:08 | 2023-10-27 | 2024-03-31 |
 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 | 2024-09-13 | 2025-06-20 |

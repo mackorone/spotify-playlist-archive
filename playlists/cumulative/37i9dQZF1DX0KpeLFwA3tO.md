@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: DRAIN
 
-2,768 songs - 5 day 18 hr 19 min
+2,768 songs - 5 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,7 +664,7 @@
 | [Disabuse](https://open.spotify.com/track/5d5Ur3zYKpjSmPWJs7bNco) | [Fucked Up](https://open.spotify.com/artist/05C3EDw4Rf0qMhrdjFKncL) | [Disabuse](https://open.spotify.com/album/4tISgQYB23hvT8TZPPWgjF) | 2:51 | 2025-01-17 | 2025-03-28 |
 | [Disappear](https://open.spotify.com/track/2VihwGHfl9zRpNRvd9mELR) | [Love Rarely](https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM) | [Disappear](https://open.spotify.com/album/2Zs2UXq5be983BMtlSnd2z) | 3:57 | 2025-04-10 | 2025-06-13 |
 | [Disappear](https://open.spotify.com/track/5cOYvRvQ31Ff0sTeNTDPAV) | [Two Trains Left](https://open.spotify.com/artist/3CKpFibQUpWRorEYFxLNJn) | [Disappear](https://open.spotify.com/album/62ncD2u49O0QFm0voLVzoX) | 3:54 | 2022-05-26 | 2022-07-08 |
-| [Disbelief](https://open.spotify.com/track/7vxnmYkUq79GeG75iczI7m) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [](https://open.spotify.com/album/null) | 2:44 | 2025-09-18 |  |
+| [Disbelief](https://open.spotify.com/track/7vxnmYkUq79GeG75iczI7m) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Lighten Up](https://open.spotify.com/album/4liguVdoyyGgZODBJzmlNG) | 2:44 | 2025-09-18 |  |
 | [Disco 1.5](https://open.spotify.com/track/0xS4zMgCLHUaaC8WRFJkbq) | [Special Interest](https://open.spotify.com/artist/2CYTLJOt91YLe1JLStFu6m) | [Disco 1.5](https://open.spotify.com/album/2NVfjHQr7uyNWGIGFkrPpy) | 1:31 | 2023-07-13 | 2023-09-02 |
 | [Disgrace](https://open.spotify.com/track/7dxPMyC1Xqyf5729lsQyba) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Disgrace](https://open.spotify.com/album/7sD1Y8nY3yn1Y2UZQdTjIg) | 2:04 | 2024-11-29 | 2025-03-07 |
 | [Disruption](https://open.spotify.com/track/2bErXDdkDsBNYcZRFYYVGU) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Disruption](https://open.spotify.com/album/0tXfqlsm6CycM64gjI8v6N) | 3:00 | 2024-02-09 | 2024-03-22 |
@@ -1225,6 +1225,7 @@
 | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/album/3CfmxDJ95NdqqHdDumeYt1) | 2:37 | 2023-09-08 | 2023-10-27 |
 | [If I'm Honest](https://open.spotify.com/track/5hxC606AyNMf3ZFByarMxA) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [If I'm Honest](https://open.spotify.com/album/34PDSAsthwQVMCfQTiiwmw) | 3:37 | 2025-02-07 | 2025-04-11 |
 | [If It Sucks, Turn It Up](https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm) | [Dune Rats](https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04) | [If It Sucks, Turn It Up](https://open.spotify.com/album/3Cjqmxw1nQFHc0p4rXkUAm) | 2:59 | 2024-08-01 | 2024-09-21 |
+| [If Your Girl Is Finger Licking, Come On Down and Do The Funky Chicken](https://open.spotify.com/track/4belGb5ePmzp4bJrSpG17T) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [String Theory](https://open.spotify.com/album/6HUamOs9pbpWSY404vH87G) | 2:07 | 2025-09-18 |  |
 | [Ill at Ease](https://open.spotify.com/track/3359sTGFONdK9BmVsUzWpG) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Ill at Ease](https://open.spotify.com/album/3fpHEfrCtFDJt0y7iRtSoa) | 5:29 | 2025-04-25 | 2025-07-04 |
 | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/track/7M0dXjcXs8JgdMSkHtoLZi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Ashrita Kumar](https://open.spotify.com/artist/7DSIiUGpsOMhqcyee4UGua) | [IMPERIALISM \(feat\. Ashrita Kumar of Pinkshift\)](https://open.spotify.com/album/5qGVr4SEf2QP6eEed7C3C5) | 2:56 | 2022-09-08 | 2022-10-21 |
 | [Imposing Will](https://open.spotify.com/track/1DctDqwwzM62QrJgktLtHK) | [Nails](https://open.spotify.com/artist/69a2GzMCkrrTrN9iVmP8Ys) | [Imposing Will](https://open.spotify.com/album/2z0nYg2homkOgcdpCteFCt) | 1:22 | 2024-06-13 | 2024-07-19 |
@@ -1381,6 +1382,7 @@
 | [Leather Jacket](https://open.spotify.com/track/5OVcPK3UpZNFusQ9FXZJmC) | [BOIDS](https://open.spotify.com/artist/4viRfDJk73chpatX5M6rrA) | [BOIDS](https://open.spotify.com/album/6cGkK70dc228K7AGPc5zPZ) | 3:39 | 2024-06-27 | 2024-08-09 |
 | [Leave Her Johnny](https://open.spotify.com/track/1UlFYPCY4xCW5UQkgogD2I) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Leave Her Johnny](https://open.spotify.com/album/6CTwln0Rti6ZAgzGF1eTQh) | 3:13 | 2022-10-27 | 2022-11-21 |
 | [Leave Her Johnny](https://open.spotify.com/track/3el3bWRAzJhRLDJhAJYqQG) | [The Real McKenzies](https://open.spotify.com/artist/1YczG6BNjM9XAnw64RqnXi) | [Songs of the Highlands, Songs of the Sea](https://open.spotify.com/album/4lQJQoonyV4XpWMRwOuK9G) | 3:13 | 2022-11-18 | 2023-02-17 |
+| [Leave My Room](https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [NSFW](https://open.spotify.com/album/3bOpeEfsrkWun8uj5DMrJc) | 2:23 | 2025-09-18 |  |
 | [Leaving Candyland](https://open.spotify.com/track/19zYVOWm7HBRxylA1nJrCS) | [Handheld](https://open.spotify.com/artist/1RSIxRoxSc8mdUgtjtgIHX) | [Leaving Candyland](https://open.spotify.com/album/27CrBBpILjfIQxgnkwg9S6) | 2:40 | 2022-05-20 | 2022-07-01 |
 | [Leech](https://open.spotify.com/track/4PJYzWsL4EjU9s15owchBD) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Leech](https://open.spotify.com/album/3QATHeFuFAimHyxBMeP6Xr) | 5:10 | 2022-11-11 | 2023-02-24 |
 | [Left Off](https://open.spotify.com/track/0bdyWwmNeQMIaN7G8R7ZLU) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Left Off](https://open.spotify.com/album/125ROOxxg7yBtVrSoKAHWV) | 3:32 | 2024-04-05 | 2024-06-07 |
@@ -2509,8 +2511,6 @@
 | [TOXIC \(with POORSTACY\)](https://open.spotify.com/track/75FYDtqlseNpc63QjHazO6) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [TOXIC \(with POORSTACY\)](https://open.spotify.com/album/0AJOcyb81Xh2KiuCfUQhiI) | 2:28 | 2022-03-31 | 2022-05-21 |
 | [Toxic Love](https://open.spotify.com/track/3M0J5hXymCJCdQEZAhE3G4) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Toxic Love](https://open.spotify.com/album/07KrQlLZk6ysQYVAURaAw1) | 2:21 | 2022-05-12 | 2022-06-24 |
 | [Toxic Trait](https://open.spotify.com/track/3kMn8LV1QPBfZXZ0TTS0Pn) | [Free Friends](https://open.spotify.com/artist/4sWKMQMxKMdfZNWsozaGNZ), [Ben DeHan](https://open.spotify.com/artist/6NOcwcPdofGYv0UfUojN09), [Pine Creek Academy](https://open.spotify.com/artist/6YqPhD2w2y0GE4fOhZio47) | [Toxic Trait](https://open.spotify.com/album/4NWQQn6gsw5NOC1eWk1xoV) | 3:22 | 2025-05-30 | 2025-07-25 |
-| [Track 3](https://open.spotify.com/track/6bF9CZB2b9R2SNaudpayNO) | [The Paradox](https://open.spotify.com/artist/6GhcI55xfZf5vqmmNqYzxW) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
-| [Track 5](https://open.spotify.com/track/4belGb5ePmzp4bJrSpG17T) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Traffic Lights](https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB) | [Bikini Beach](https://open.spotify.com/artist/1eMm4uIStcxmNAfqif8DSp) | [Traffic Lights](https://open.spotify.com/album/61AYogut6rSU9Zr8w9eLOK) | 2:09 | 2022-10-06 | 2022-11-18 |
 | [Trail of Lies](https://open.spotify.com/track/4VhckYGc9j3unz0Btz2Dd4) | [Pluto The Racer](https://open.spotify.com/artist/5JOYHHF1xocXGsPuQHn3qB) | [Trail of Lies](https://open.spotify.com/album/36YGrt1WlmTl0L3rH8Jksn) | 3:25 | 2024-12-06 | 2025-02-14 |
 | [Trans Youth](https://open.spotify.com/track/0lzq9WLqSlKMoGHRXUlDoC) | [Neighbours Burning Neighbours](https://open.spotify.com/artist/4GQw6nVpgVMHCgUnEdUslh) | [Trans Youth](https://open.spotify.com/album/1qsnpATTwO2ryktzueWttL) | 4:55 | 2024-09-12 | 2024-11-01 |

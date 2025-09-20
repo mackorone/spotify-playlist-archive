@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Milena Pina
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: Esther Durán, Chris Duran
 
-203 songs - 12 hr 4 min
+204 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Deixa Esse Medo](https://open.spotify.com/track/7fKi87WxPP93vIVPxBfX4u) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Urban Music](https://open.spotify.com/artist/1rlhLZKrDNMRbPUMbbgAgY) | [Deixa Esse Medo](https://open.spotify.com/album/6E2eSQG04ZY7zep1UAicvN) | 2:05 | 2024-08-16 |  |
 | [Deixar para Trás](https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt) | [Jessi Dias](https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83), [Guimarães Beats](https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo) | [Deixar para Trás](https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ) | 2:48 | 2024-04-26 |  |
 | [Desacreditar Jamais \- Ao Vivo](https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Desacreditar Jamais \(Ao Vivo\)](https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq) | 3:45 | 2025-01-10 |  |
+| [Desejável](https://open.spotify.com/track/2u2NL48dpclQeLPh3rbA9I) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah), [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Desejável](https://open.spotify.com/album/4B3VnrNJcH1vmsvYlntKFc) | 5:33 | 2025-09-19 |  |
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-28 | 2024-04-20 |
 | [Deus É Bom \- Ao Vivo Em Lisboa](https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Deus É Bom \(Ao Vivo Em Lisboa\)](https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew) | 3:58 | 2023-11-24 |  |
 | [Dia de Festa](https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD) | [Dia de Festa](https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs) | 4:58 | 2023-10-06 |  |
@@ -186,7 +187,7 @@
 | [Teu Esconderijo \(Ao Vivo\)](https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Teu Esconderijo \(Ao Vivo\)](https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj) | 5:49 | 2024-10-18 |  |
 | [Teu Reino Venha](https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx) | [Cordão de Três](https://open.spotify.com/artist/7KsRO9uCI003Ks8wBTTy88) | [Teu Reino Venha](https://open.spotify.com/album/7AXrbAIoCbiI3ixrnLcCWw) | 3:42 | 2022-08-05 | 2023-12-23 |
 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 | 2023-12-22 |  |
-| [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 | 2022-08-05 |  |
+| [Teus Rios](https://open.spotify.com/track/34EF4hF2gVbSWiTbTXTaPv) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Teus Rios](https://open.spotify.com/album/4JgWgUGhqRNes5E5aFpdQL) | 3:14 | 2022-08-05 | 2025-09-20 |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2023-09-01 | 2024-06-15 |
 | [Todo Meu Viver \(Acústico\) \- Ao Vivo](https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv) | [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1), [Cristiano Halabi](https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M) | [Todo Meu Viver \(Acústico\) \[Ao Vivo\]](https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw) | 3:17 | 2023-07-21 |  |
 | [Todos Um](https://open.spotify.com/track/4Zkub4jUIwCyZItpcykvh8) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Todos Um](https://open.spotify.com/album/0hzqxQ85RBpimlXpp42vUF) | 3:31 | 2022-08-05 | 2023-04-16 |

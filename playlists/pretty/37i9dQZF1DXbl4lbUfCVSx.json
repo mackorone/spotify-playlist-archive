@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Haiti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 35272,
+  "num_followers": 35289,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,22 @@
     {
       "added_at": "2025-06-27 04:00:29",
       "album": {
+        "name": "Av\u00e9'w",
+        "url": "https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf"
+      },
+      "artists": [
+        {
+          "name": "Daan Junior",
+          "url": "https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs"
+        }
+      ],
+      "duration_ms": 335026,
+      "name": "Av\u00e9'w",
+      "url": "https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01"
+    },
+    {
+      "added_at": "2025-06-27 04:00:29",
+      "album": {
         "name": "Douce Tankou Sirop",
         "url": "https://open.spotify.com/album/6aciWh0PwWbGK0eijriQVm"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 315924,
       "name": "Douce Tankou Sirop",
       "url": "https://open.spotify.com/track/3ovFI5AbptfOzODNeUsYE6"
-    },
-    {
-      "added_at": "2025-06-27 04:00:29",
-      "album": {
-        "name": "Av\u00e9'w",
-        "url": "https://open.spotify.com/album/6EfS8JFEcuq4IoBQV3BZRf"
-      },
-      "artists": [
-        {
-          "name": "Daan Junior",
-          "url": "https://open.spotify.com/artist/1mOEe4YuD4hBTa1xyzSBfs"
-        }
-      ],
-      "duration_ms": 335026,
-      "name": "Av\u00e9'w",
-      "url": "https://open.spotify.com/track/4mAbKXEkZVJlJCW3fwkB01"
     },
     {
       "added_at": "2025-06-27 04:00:29",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-06-27 04:00:29",
       "album": {
-        "name": "F\u00f2k T\u00e8t Ou La",
-        "url": "https://open.spotify.com/album/1zlhgCRbwflCf8AYamaraw"
+        "name": "3 Tou 9",
+        "url": "https://open.spotify.com/album/1IwaIw7A5aN8sYmvwyvz5m"
       },
       "artists": [
         {
-          "name": "Roody Roodboy",
-          "url": "https://open.spotify.com/artist/5VgONLRcpRrg4FbBstSxhN"
+          "name": "T-Vice",
+          "url": "https://open.spotify.com/artist/2bbAvnyKqRhU6zut6bAE9N"
         }
       ],
-      "duration_ms": 263414,
-      "name": "Kenbe'l La",
-      "url": "https://open.spotify.com/track/6llFsg3VEQqXmfCTAWH8os"
+      "duration_ms": 289537,
+      "name": "San Limit",
+      "url": "https://open.spotify.com/track/0jMJvojL24cI32yYm8l43z"
     }
   ],
   "unique_name": "Kompas Dir\u00e8k",

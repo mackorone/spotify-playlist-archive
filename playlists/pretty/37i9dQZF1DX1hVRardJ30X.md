@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 ### [All New Latin](https://open.spotify.com/playlist/37i9dQZF1DX1hVRardJ30X)
 
-> New music by Kapo & Camilo, Rauw Alejandro, Eladio Carrion and more! Updates every Friday.
+> New music by Mon Laferte & NATHY PELUSO, Junior H,  Alejandro Sanz & Rels B and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,216 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,332 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 44 | [stardust in my blood](https://open.spotify.com/track/6krAqd5MbY5oQguzbE1TRi) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Stardust in my Blood](https://open.spotify.com/album/2CDAzfAS5CxddLFYfbbZ6J) | 2:37 |
 | 45 | [Máquina Del Tiempo](https://open.spotify.com/track/7idYCTc5harEsFODnWhIz2) | [Destino](https://open.spotify.com/artist/1OxOSIlaBxSoWcT7UzxFwZ) | [Máquina Del Tiempo](https://open.spotify.com/album/5sM3vte1jdfQCbLytfiN8p) | 2:28 |
 
-Snapshot ID: `AAAAACfuKDlb18pAHB2yboYAJQT6noU1`
+Snapshot ID: `AAAAAKdgDSBXpG6wOGVwh71E7FjV+8pd`

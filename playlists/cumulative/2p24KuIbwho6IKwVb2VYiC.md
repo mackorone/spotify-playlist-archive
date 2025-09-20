@@ -4,7 +4,7 @@
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Rezz
 
-360 songs - 18 hr 48 min
+361 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [MAGIC \(feat\. babyidontlikeyou\)](https://open.spotify.com/track/7pTC4natqyNBB0EBtdDeYi) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [babyidontlikeyou](https://open.spotify.com/artist/0vvLUDvumHN2BRVL0ks8Uq) | [MAGIC](https://open.spotify.com/album/48mGE9Z8VowqEVUHj3WN5H) | 3:22 | 2024-04-26 | 2025-08-09 |
 | [Make You Say \- ellis Remix](https://open.spotify.com/track/67Y5TUpVRkdEqnnhpXUTp1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [ellis](https://open.spotify.com/artist/00CYRdkMnA0mwfy1VQPA7X), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Make You Say \(ellis Remix\)](https://open.spotify.com/album/04Z4z609qhUIkxaSYatRxv) | 2:30 | 2023-10-27 | 2025-02-05 |
 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-05-22 |  |
+| [Match My Mood](https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Same Day Cleaning](https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT) | 2:51 | 2025-09-19 |  |
 | [ME](https://open.spotify.com/track/7dyJugljupi044oQfkrzlc) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [ME](https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq) | 3:34 | 2024-01-22 | 2025-02-05 |
 | [Me and My Guitar](https://open.spotify.com/track/27IPKPihBookrvrXK1FHmC) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Me and My Guitar](https://open.spotify.com/album/2aUjskRm4oj02ZUEymdPww) | 2:14 | 2023-10-27 | 2023-11-25 |
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-10-24 |  |

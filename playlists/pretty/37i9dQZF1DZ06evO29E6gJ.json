@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 12342,
+  "num_followers": 12346,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAAmz9rY+zvzJtFxYZcDsTNF",
+  "snapshot_id": "aMtLgAAAAACl1dBB0lbDvWDPHeskwuNZ",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 130507,
-      "name": "Alma Enamorada",
-      "url": "https://open.spotify.com/track/7eP3e8oSbNoxtZiBn6j5US"
+      "duration_ms": 150883,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/1IakVCQY7u99BadooPlATN"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
-        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
+        "name": "Homenaje Norte\u00f1o A Felipe Valdes Leal Con",
+        "url": "https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 146373,
-      "name": "El Golpe Traidor",
-      "url": "https://open.spotify.com/track/7bBKjaJ2bU7iLagUNwtJrW"
+      "duration_ms": 163440,
+      "name": "Entre Copa y Copa",
+      "url": "https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq"
     },
     {
       "added_at": null,
@@ -244,15 +244,15 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/1IakVCQY7u99BadooPlATN"
+      "duration_ms": 130507,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/7eP3e8oSbNoxtZiBn6j5US"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje Norte\u00f1o A Felipe Valdes Leal Con",
-        "url": "https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp"
+        "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 2",
+        "url": "https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 163440,
-      "name": "Entre Copa y Copa",
-      "url": "https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq"
+      "duration_ms": 146373,
+      "name": "El Golpe Traidor",
+      "url": "https://open.spotify.com/track/7bBKjaJ2bU7iLagUNwtJrW"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las 100 Clasicas De Los Alegres De Teran Vol. 1",
         "url": "https://open.spotify.com/album/1uVCsJprW8DCulgYwjEtvR"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 167866,
       "name": "Los Pilares de la C\u00e1rcel",
       "url": "https://open.spotify.com/track/3kx7GR0EaE6LOaVQYEYKB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
     },
     {
       "added_at": null,

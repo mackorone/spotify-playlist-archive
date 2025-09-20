@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 91937,
+  "num_followers": 91941,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAA1OnjIaz9d8g7rdIP6WxoT",
+  "snapshot_id": "aMtLgAAAAADEYOgGcmBOt5QMCFQpcHVE",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zo Van Ah Yeah",
-        "url": "https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe"
-      },
-      "artists": [
-        {
-          "name": "Nielson",
-          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Mannenharten",
-      "url": "https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
         "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 238083,
       "name": "Laat Me Los",
       "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zo Van Ah Yeah",
+        "url": "https://open.spotify.com/album/1HWYzaevKQh0f5aIC2tlxe"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Mannenharten",
+      "url": "https://open.spotify.com/track/1RkgroVbrTs8gFeHJ4znJt"
     },
     {
       "added_at": null,

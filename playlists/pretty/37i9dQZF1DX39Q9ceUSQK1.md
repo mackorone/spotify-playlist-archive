@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Glitterpaard
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,643 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,670 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quiet Boys](https://open.spotify.com/track/1sNL7NZPkrn7zGF7ai5Dnv) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Thursday](https://open.spotify.com/album/7hzFaE1FPdV7JMwpTOuLbh) | 3:05 |
-| 2 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 |
+| 2 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
 | 3 | [Just a Lie](https://open.spotify.com/track/2SzQR32JD57uxEBGXKGE6e) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Just a Lie](https://open.spotify.com/album/7HSzlsZUOBtYXkalrmDJrF) | 3:34 |
 | 4 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
 | 5 | [Get Back On Your Feet](https://open.spotify.com/track/5bVVK4XXk6uO93BP8ljkqh) | [Oproer](https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2) | [Get Back On Your Feet](https://open.spotify.com/album/7qlXlASZ7ztAQTF1TRMWGa) | 3:32 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 27 | [GOD SAVE THE PONY.](https://open.spotify.com/track/4JQGw7eMPgYB4a8hRNe864) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [NATIONAL AVERAGE.](https://open.spotify.com/album/33oory27UshNhxTd1HmiHZ) | 3:09 |
 | 28 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 |
 | 29 | [FUCK IT UP](https://open.spotify.com/track/3ufKaFKr8xbk0QJDqooHAK) | [FUZZY TEETH](https://open.spotify.com/artist/1xcEmLnArCFePsauK1EYuE) | [FUCK IT UP](https://open.spotify.com/album/3CHrnLadhESg6r2NIit9rt) | 3:26 |
-| 30 | [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [](https://open.spotify.com/album/null) | 3:47 |
+| 30 | [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Futique](https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF) | 3:47 |
 | 31 | [Alive](https://open.spotify.com/track/6Uvo6d74LcODauNBSqWNt2) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Alive](https://open.spotify.com/album/4zXYI1ZtMuPyGa0ilGzE2e) | 3:01 |
 | 32 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 |
 | 33 | [Unbind](https://open.spotify.com/track/4TvpYr1gFtYxtZ4yn2LVuI) | [Eloi Youssef](https://open.spotify.com/artist/4y0egYlrx2v3IzeciScO2A) | [Unbind](https://open.spotify.com/album/04wo4zBOGQzQlbYADhO8xO) | 3:27 |

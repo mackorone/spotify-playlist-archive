@@ -12891,6 +12891,32 @@
     },
     {
       "album": {
+        "name": "Trippy Road",
+        "url": "https://open.spotify.com/album/432qmUBP6wmGceprmHgF4s"
+      },
+      "artists": [
+        {
+          "name": "Father Funk",
+          "url": "https://open.spotify.com/artist/2v8mmZp35c5E1pTDecZUkv"
+        },
+        {
+          "name": "zoska",
+          "url": "https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Trippy Road",
+      "url": "https://open.spotify.com/track/3ntOVouUI1AVD6etwqr6HQ"
+    },
+    {
+      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/72efYKB0Z77XuTrAETbBP3"
       },

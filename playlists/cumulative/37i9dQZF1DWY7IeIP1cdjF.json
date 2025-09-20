@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Reggaeton hits from Feid, Blessd, Fuerza Regida, Ovy On The Drums, Bad Bunny, and more. \ud83d\udd25\ud83c\udf51",
+  "description": "Reggaeton hits from Brray & DIA, Bad Bunny, Feid and more. \ud83d\udd25\ud83c\udf51",
   "name": "Baila Reggaeton",
   "tracks": [
     {
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 203750,
       "name": "El Reggaet\u00f3n del Disco",
       "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
@@ -7636,7 +7636,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 132647,
       "name": "Mamisuki",
       "url": "https://open.spotify.com/track/2Br42Z1UoDdGLJNVEdkipn"
@@ -10683,6 +10683,32 @@
     },
     {
       "album": {
+        "name": "Puej Claro",
+        "url": "https://open.spotify.com/album/3nZRtjqGIVjHyEHtQ2nYdF"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "L-O-N",
+          "url": "https://open.spotify.com/artist/3nzfJeScfLaqasTrNn2QGj"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225319,
+      "name": "Puej Claro",
+      "url": "https://open.spotify.com/track/3eqXThzK0BNXFMhoRTmQjC"
+    },
+    {
+      "album": {
         "name": "PUNTO 40",
         "url": "https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs"
       },
@@ -12082,6 +12108,24 @@
       "duration_ms": 240306,
       "name": "Shampoo de Coco",
       "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
       "album": {

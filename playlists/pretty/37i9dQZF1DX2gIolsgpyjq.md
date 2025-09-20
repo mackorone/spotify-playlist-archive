@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: ELIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,459 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,505 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [On My Mind](https://open.spotify.com/track/1pAPnfETKcrMg7DOdHwLs2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [On My Mind](https://open.spotify.com/album/3PTZ6UE74oA2x6kO6HG4eF) | 2:22 |
 | 2 | [Even If It's a Lie](https://open.spotify.com/track/3lKRNL0H2hSEWby9EaV5s3) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Even If It's a Lie](https://open.spotify.com/album/7jg2h2Z7dcg5oWXIcADYGB) | 3:08 |
-| 3 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [](https://open.spotify.com/album/null) | 1:46 |
+| 3 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 |
 | 4 | [Fun Just Begun](https://open.spotify.com/track/2Nb951jOS4i9Oupc6hLm0g) | [hi.jens](https://open.spotify.com/artist/1pa3THAd0q3skRNJEo8fof) | [Fun Just Begun](https://open.spotify.com/album/5zt3iQASph6pjXmBQGRMv8) | 4:20 |
 | 5 | [typical me](https://open.spotify.com/track/4wJWCLc5MxMUNHrhDcYwAp) | [dilba](https://open.spotify.com/artist/6wYmfcd6UCkVp88YgUveNE) | [typical me](https://open.spotify.com/album/0138WkrTdlDjw6iOZdKojt) | 3:02 |
-| 6 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [](https://open.spotify.com/album/null) | 4:29 |
+| 6 | [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 |
 | 7 | [The Way Out](https://open.spotify.com/track/3TCwDfzJU5HljewgNomrPd) | [SANDY](https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL) | [The Way Out](https://open.spotify.com/album/5ZfP58rgvEPiZqz8tYQHTp) | 3:26 |
 | 8 | [Misconception](https://open.spotify.com/track/7GAExfw1SSZklMzTwfPDW0) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/1LgTFDtxq0cyXnBEJYjP5U) | 3:33 |
 | 9 | [23](https://open.spotify.com/track/45Hv0rhZyzEhUnoCAkEywK) | [Anni II](https://open.spotify.com/artist/6c9h8a6rq1IF6XZuurv6xX) | [23](https://open.spotify.com/album/7u9HEFKw7cBJzDVJy5BNQo) | 4:21 |

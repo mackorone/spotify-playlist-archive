@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-328 songs - 1 day 0 hr 12 min
+329 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Cinnamon \- Rework](https://open.spotify.com/track/1hdqoVkC8nr2IZjsLUX1ic) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Kazahana](https://open.spotify.com/album/1U2IQ5PDO4lBlB7OS8fWyH) | 2:58 | 2022-02-22 | 2023-08-19 |
 | [Clouds](https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 5:54 | 2022-12-30 | 2025-05-16 |
 | [Colors](https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Colors](https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye) | 2:45 | 2023-07-21 | 2024-08-09 |
+| [comfort](https://open.spotify.com/track/06DnxCJSjX1DYH5ED6cfW3) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [comfort/orb](https://open.spotify.com/album/6bcHOdTZPdIrOgJ4vlNo5u) | 1:43 | 2025-09-18 |  |
 | [Communication](https://open.spotify.com/track/5tyASemkiCXFPUMOxtnnEN) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [Air Dance](https://open.spotify.com/album/54ZE2Sh1Iru0oS9Z9TK819) | 4:09 | 2022-01-07 |  |
 | [Constellation](https://open.spotify.com/track/2e5EegPzF24hgqv8gCTIXk) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [Silent Rain \(Original Soundtrack\)](https://open.spotify.com/album/4STn2qItzwcUPQpl7IYf9B) | 4:08 | 2022-01-07 | 2023-04-22 |
 | [Cycle](https://open.spotify.com/track/23HQOR3hBeeLbXdmcPQA8m) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 3:52 | 2022-12-30 | 2025-03-07 |
@@ -292,7 +293,7 @@
 | [ubi](https://open.spotify.com/track/5SpqLL6fVoeRKSPrBqIz1k) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:03 | 2022-01-07 | 2022-07-29 |
 | [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 | 2023-02-17 |  |
 | [Under the soil](https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn) | [Garden Studies](https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId) | 4:04 | 2025-05-02 |  |
-| [under the white moon of december](https://open.spotify.com/track/1nJb0Xmwteqqxi3TlC4tT0) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [under the white moon of december](https://open.spotify.com/album/3GnilBZFDYYRMNZi1JrOE5) | 3:10 | 2023-01-06 |  |
+| [under the white moon of december](https://open.spotify.com/track/1nJb0Xmwteqqxi3TlC4tT0) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [under the white moon of december](https://open.spotify.com/album/3GnilBZFDYYRMNZi1JrOE5) | 3:10 | 2023-01-06 | 2025-09-20 |
 | [Under Water](https://open.spotify.com/track/1eRK03Al2xKms7tEV7baym) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Mist](https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6) | 3:36 | 2022-01-07 |  |
 | [Unexpected](https://open.spotify.com/track/4dEaEf5BHeVegBLSjDxz6s) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa), [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Unexpected](https://open.spotify.com/album/3T1YzxxMKpRbyGmmJhJw52) | 4:06 | 2022-10-15 | 2023-08-19 |
 | [Until the End of the World](https://open.spotify.com/track/6zC5XZfQBCbLTsx9l9lrEu) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Horizon, Volume 1](https://open.spotify.com/album/0Tvs4LpQSHSH1gcfVdF3WV) | 6:04 | 2022-12-30 | 2025-03-07 |

@@ -1525,6 +1525,28 @@
     },
     {
       "album": {
+        "name": "O Baile Funk Vai Rolar",
+        "url": "https://open.spotify.com/album/6geaweh3N4vW8M2h9URrlS"
+      },
+      "artists": [
+        {
+          "name": "Carlos Daf\u00e9",
+          "url": "https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167761,
+      "name": "O Baile Funk Vai Rolar",
+      "url": "https://open.spotify.com/track/5azpkIu0g2mQH5cP8PxUH5"
+    },
+    {
+      "album": {
         "name": "O Descobridor Dos Sete Mares (1983)",
         "url": "https://open.spotify.com/album/6ROi7CSCQPo0FI2ejWqsZi"
       },
@@ -1780,7 +1802,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 264631,
       "name": "Preta de Humait\u00e1",
       "url": "https://open.spotify.com/track/5s6OgyXVWd8poXQ9NFcMIr"

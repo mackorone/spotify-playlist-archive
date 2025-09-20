@@ -5291,6 +5291,28 @@
     },
     {
       "album": {
+        "name": "In The Eyes Of The Enemy",
+        "url": "https://open.spotify.com/album/4K6UjlrsOStac2Grk4V6qy"
+      },
+      "artists": [
+        {
+          "name": "Grailknights",
+          "url": "https://open.spotify.com/artist/3WKWdx78zcqsj2RkN5ldqR"
+        },
+        {
+          "name": "Chiara Tricarico",
+          "url": "https://open.spotify.com/artist/1htSCdZGjJNC2huPxA7pHi"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236573,
+      "name": "In The Eyes Of The Enemy",
+      "url": "https://open.spotify.com/track/6KPiJfK9OQEHpHhhDjWb9b"
+    },
+    {
+      "album": {
         "name": "Vultures Die Alone",
         "url": "https://open.spotify.com/album/32Ipg2losKbTMPoQGhArGN"
       },
@@ -12248,7 +12270,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 183626,
       "name": "We Stand Tall",
       "url": "https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx"

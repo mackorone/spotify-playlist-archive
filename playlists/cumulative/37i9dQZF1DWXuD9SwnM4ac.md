@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Thundercat
 
-1,070 songs - 2 day 13 hr 22 min
+1,070 songs - 2 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Bittersweet](https://open.spotify.com/track/70u4z4wltq4ANdu7EszBXX) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Bittersweet](https://open.spotify.com/album/7u6zwETx0Uc0EI5zXMXoQv) | 4:58 | 2024-06-27 | 2024-08-09 |
 | [BLACK RUST](https://open.spotify.com/track/6z1lidUiwK0BM6Epnc1RzE) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [BLACK RUST](https://open.spotify.com/album/6jcv85R5cdebiSqqfADUcw) | 2:47 | 2025-03-27 | 2025-05-16 |
 | [blade bird](https://open.spotify.com/track/7ypm9ZGrUXGmSXgmpAd2hZ) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [blade bird](https://open.spotify.com/album/1FyfAcUFlchVi4txMXabRZ) | 3:18 | 2025-02-06 | 2025-04-04 |
-| [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 | 2025-09-18 |  |
+| [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 | 2025-09-18 |  |
 | [BLEED](https://open.spotify.com/track/4wKqLGUpj38utREJukCGxz) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [BLEED](https://open.spotify.com/album/0lqtmwACaUjKdMaI2Kus6d) | 1:39 | 2025-02-13 | 2025-03-28 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-27 | 2025-04-25 |
 | [Bless the Internet](https://open.spotify.com/track/6RGWdRv5ZZSHO7TqGrRAk5) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [tell me if the world is gonna end](https://open.spotify.com/album/5M6DBibWNDlicJ1mAsnK9C) | 2:44 | 2024-12-05 | 2025-01-31 |
@@ -293,7 +293,7 @@
 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 | 2025-09-11 |  |
 | [Draggin'](https://open.spotify.com/track/04wr6aFY29qDGWeZvwwjZV) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Draggin'](https://open.spotify.com/album/5p6l3NoTw1L11bWbtxei07) | 4:35 | 2025-02-20 | 2025-03-21 |
 | [Dream Woman](https://open.spotify.com/track/5R6hCi9TVatMsM0UNqhZKA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Dream Woman](https://open.spotify.com/album/6bbtoTI64tkjiOkDNTteig) | 4:08 | 2025-02-20 | 2025-03-28 |
-| [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [](https://open.spotify.com/album/null) | 4:11 | 2025-09-18 |  |
+| [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 | 2025-09-18 |  |
 | [drive song](https://open.spotify.com/track/5P7wdPjXNgRMf6dSmz9vRZ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [drive song](https://open.spotify.com/album/1YyK1u60qqNCpXYi54crDJ) | 3:27 | 2024-12-05 | 2025-02-14 |
 | [Driver](https://open.spotify.com/track/3J9fDdirND6efE3VMFROGp) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Driver](https://open.spotify.com/album/7lyh2o99pWYe6T9XI8cjXg) | 4:12 | 2024-09-12 | 2024-10-25 |
 | [Driveway](https://open.spotify.com/track/0NDWhFxtRmakSLuxdvkIp4) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Driveway](https://open.spotify.com/album/67ruOPjGPhLFmplqqnuf1D) | 3:26 | 2024-11-14 | 2025-01-10 |
@@ -761,7 +761,7 @@
 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 | 2024-08-22 | 2024-09-27 |
 | [Politix](https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Politix](https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy) | 4:32 | 2025-08-21 |  |
 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-12 | 2025-02-07 |
-| [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 | 2025-09-18 |  |
+| [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-18 |  |
 | [Potion](https://open.spotify.com/track/2mEgBXBksVpGBotlB1yGZD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Potion](https://open.spotify.com/album/1ip3kwOjeoIXzxVwpqfL17) | 2:47 | 2025-04-03 | 2025-06-20 |
 | [Pour Your Heart Out](https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 3:10 | 2024-10-17 | 2024-11-15 |
 | [Powertrippn'](https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW), [Ambrose Kenny\-Smith](https://open.spotify.com/artist/0NLFuTzlY3oCTiJGBzpu97) | [Ill Times](https://open.spotify.com/album/2aVVkK5Wm8bcUGxMK0Hh4J) | 3:10 | 2024-07-18 | 2024-08-23 |
@@ -968,6 +968,7 @@
 | [Throw A Fit](https://open.spotify.com/track/3tazpHY9P91agm3vmKyzeG) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Throw A Fit](https://open.spotify.com/album/4XvaLxTkk1jSJjzCWIPEOm) | 3:43 | 2025-02-06 | 2025-03-14 |
 | [tidal wave](https://open.spotify.com/track/2D5IDhHCuwWLmz1e499pZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [tidal wave](https://open.spotify.com/album/6iF2RBE0lrba8zSOuQslW8) | 2:27 | 2024-06-27 | 2024-08-23 |
 | [Til The Morning](https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q) | 3:32 | 2024-09-05 | 2024-11-29 |
+| [Til The Morning Comes](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 3:01 | 2025-09-18 |  |
 | [Time Will Try](https://open.spotify.com/track/69XAsJo6c9KBDc7vNYgT9A) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Time Will Try](https://open.spotify.com/album/1lOZkHSqxR1hQrf3dzFVKs) | 4:18 | 2024-08-29 | 2024-10-11 |
 | [Timebomb](https://open.spotify.com/track/1beGOYpnv25VhysbtvNOLN) | [Dappled Cities](https://open.spotify.com/artist/7HQ1JiXyQVMLInXD17xtrG) | [Timebomb](https://open.spotify.com/album/3tcMaZpdXH1TH7x4t0JVvD) | 4:43 | 2025-08-21 |  |
 | [Timelapse](https://open.spotify.com/track/1Cppjn0ioEQjIVBEYbfQ6R) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Timelapse](https://open.spotify.com/album/3giOPjknBklt7Ck1AxttGU) | 2:41 | 2024-06-27 | 2024-08-02 |
@@ -983,8 +984,7 @@
 | [TOP OF THE HILL](https://open.spotify.com/track/71sErbgiV6p5lUpBmoTN5h) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [TOP OF THE HILL](https://open.spotify.com/album/4BVz80IYLuhZSxhFlmHlnk) | 2:58 | 2025-08-28 |  |
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
-| [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [](https://open.spotify.com/album/null) | 3:15 | 2025-09-18 |  |
-| [Track 4](https://open.spotify.com/track/3n6fEY5ci3vFMvD3IrW9gV) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
+| [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 |  |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-07-31 | 2025-08-22 |

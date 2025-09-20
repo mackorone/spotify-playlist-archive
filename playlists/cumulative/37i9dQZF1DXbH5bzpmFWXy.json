@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 144238,
       "name": "7 VIDAS",
       "url": "https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 175058,
       "name": "A LA ORDEN",
       "url": "https://open.spotify.com/track/0rodUDZZo1w7pZHHoTtUb7"
@@ -1447,6 +1447,32 @@
     },
     {
       "album": {
+        "name": "Botellas",
+        "url": "https://open.spotify.com/album/6lmXPwyCpoOAUYrgb6ikVk"
+      },
+      "artists": [
+        {
+          "name": "Los Parna",
+          "url": "https://open.spotify.com/artist/19JlSGcWdtgQOQmiaEHdi6"
+        },
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Josue Sanchez",
+          "url": "https://open.spotify.com/artist/0X2aRulFu6uLAy1Dip2PZ8"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250488,
+      "name": "Botellas",
+      "url": "https://open.spotify.com/track/36Vxgtpx91zALef20YiL6v"
+    },
+    {
+      "album": {
         "name": "Botellitas De Dobel (REMIX)",
         "url": "https://open.spotify.com/album/1ZnTg0fF8lgSfPbp1qwpeX"
       },
@@ -1672,7 +1698,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 297969,
       "name": "Cachondos Session #1 (feat. Sebastian Esquivel, Eugenio Esquivel, Tiagz & Los Esquivel)",
       "url": "https://open.spotify.com/track/5vNRuXbnqV6ISkNxvHEfbM"
@@ -1694,7 +1720,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 165840,
       "name": "Cach\u00edn",
       "url": "https://open.spotify.com/track/4ACD3NpWOVetddcRoo4vHl"
@@ -2020,7 +2046,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 217033,
       "name": "Chalineras",
       "url": "https://open.spotify.com/track/6y9kwY2Z6zOUmVymmj9P06"
@@ -3104,7 +3130,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 173617,
       "name": "Doble D",
       "url": "https://open.spotify.com/track/2TzWKKox93RxQGH8HTKs9z"
@@ -3130,7 +3156,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
@@ -3258,7 +3284,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 223190,
       "name": "Drop Shop",
       "url": "https://open.spotify.com/track/1vOapxQZPD6ftHk2fhm5EB"
@@ -3540,7 +3566,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 169812,
       "name": "El Blue",
       "url": "https://open.spotify.com/track/3fJ35WKG3nxSWIoCTXI6Tf"
@@ -4252,7 +4278,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-29",
+      "date_removed": null,
       "duration_ms": 193200,
       "name": "En El Alcohol",
       "url": "https://open.spotify.com/track/284cMrnBjCAwqaaMyZddIe"
@@ -4554,7 +4580,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 273749,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/4vl4ZusHPPkM5iNrAXG5Ad"
@@ -4624,7 +4650,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 126300,
       "name": "Flore$",
       "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
@@ -5342,7 +5368,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 178721,
       "name": "Juan Carlos \"Lefty SM\"",
       "url": "https://open.spotify.com/track/7h4J9noNJOCTCfKz6iR1FE"
@@ -5638,6 +5664,32 @@
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "album": {
+        "name": "LA 10",
+        "url": "https://open.spotify.com/album/7D66cibho44I2EGafCV6Ep"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "LA 10",
+      "url": "https://open.spotify.com/track/0R2ToLJARgmFjezsfiyx3v"
     },
     {
       "album": {
@@ -6180,7 +6232,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
@@ -6418,7 +6470,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 200535,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2"
@@ -6458,7 +6510,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 201325,
       "name": "La \u00daltima Carta",
       "url": "https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh"
@@ -6539,6 +6591,24 @@
     },
     {
       "album": {
+        "name": "Lamine Yamal",
+        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163378,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
+    },
+    {
+      "album": {
         "name": "Las Caravanas",
         "url": "https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP"
       },
@@ -6602,6 +6672,28 @@
       "duration_ms": 228676,
       "name": "Lean",
       "url": "https://open.spotify.com/track/4zQJf65ZNkPgEl3i622bbA"
+    },
+    {
+      "album": {
+        "name": "Leche (LQRA Session #19)",
+        "url": "https://open.spotify.com/album/3kCIVEIwHkWq3qKvV3yVls"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154421,
+      "name": "Leche (LQRA Session #19)",
+      "url": "https://open.spotify.com/track/3UghfjMAY9Ddj4iXKX6SK2"
     },
     {
       "album": {
@@ -7805,6 +7897,32 @@
     },
     {
       "album": {
+        "name": "MORRITA BELLA",
+        "url": "https://open.spotify.com/album/5BQ3BfSMBLoWyaRjf4I6OY"
+      },
+      "artists": [
+        {
+          "name": "Tavo Rayo",
+          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
+        },
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Ernesto Garza",
+          "url": "https://open.spotify.com/artist/3ck0Lz49fc6D7G8GnofiTz"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183916,
+      "name": "MORRITA BELLA",
+      "url": "https://open.spotify.com/track/7c0bM2u9IrDUAi7c0VUQYD"
+    },
+    {
+      "album": {
         "name": "Morritas",
         "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
       },
@@ -8098,7 +8216,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 202324,
       "name": "No Fui Yo",
       "url": "https://open.spotify.com/track/3AJAJkOQJwzxaOFjjGommM"
@@ -8420,7 +8538,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 169408,
       "name": "Otra Vez Pegue Un Vergazo",
       "url": "https://open.spotify.com/track/4McpYuSV5NUuvX2dv9Vhy6"
@@ -9008,7 +9126,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
@@ -9172,7 +9290,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 145321,
       "name": "pRiiNcEza 100% OriiGiinaL",
       "url": "https://open.spotify.com/track/5coNu3jF2g4LEBOjJPu92f"
@@ -9644,7 +9762,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
@@ -9738,7 +9856,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 167130,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/50KucaDoVIZ6Uhyt52gNbQ"
@@ -9852,7 +9970,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 173022,
       "name": "ROS\u00c9",
       "url": "https://open.spotify.com/track/5oXo0e51380SVSKtx0fhqF"
@@ -10506,7 +10624,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 255733,
       "name": "Sin Rencor - Sonando desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/2N8AMWe2TrxM3dEiAi08qh"
@@ -10642,7 +10760,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 284571,
       "name": "Somos Guerreros",
       "url": "https://open.spotify.com/track/1RF6xAOyZWxQHdmvqyY0A4"
@@ -10686,7 +10804,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-28",
+      "date_removed": null,
       "duration_ms": 206605,
       "name": "SONIDERO",
       "url": "https://open.spotify.com/track/4yiSoPgXRTtMeGaoN7QTMP"
@@ -10912,7 +11030,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 182168,
       "name": "Te Acostumbraste",
       "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
@@ -11570,7 +11688,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-08",
+      "date_removed": null,
       "duration_ms": 114139,
       "name": "TUPAC",
       "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"
@@ -11716,7 +11834,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 299381,
       "name": "Un Scar",
       "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
@@ -11738,7 +11856,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 202328,
       "name": "UN SHOT",
       "url": "https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx"
@@ -12326,7 +12444,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 149700,
       "name": "XClusive",
       "url": "https://open.spotify.com/track/46defqRhyto8kFovVjc36n"

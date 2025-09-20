@@ -2,9 +2,9 @@
 
 ### [La Miscelánea: Banda, Corridos & más...](https://open.spotify.com/playlist/37i9dQZF1DX8VlzsR6EEFY)
 
-> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Marcos Villalobos en portada.
+> Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Tufic en portada.
 
-342 songs - 17 hr 47 min
+346 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Eres Divina \(En Vivo\)](https://open.spotify.com/track/4Hl7uRd3sEHZafKY6PBVj5) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Para Siempre \(En Vivo\)](https://open.spotify.com/album/4FxKAmh8rRtFhWjqDeBK7M) | 3:43 | 2024-10-04 |  |
 | [Este Corazón](https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Este Corazón](https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2) | 3:47 | 2024-03-08 | 2024-03-23 |
 | [Estás Cancelada](https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Edición Limitada](https://open.spotify.com/album/5d4TvsUqIKmZQV3Pr5nHaF) | 2:48 | 2025-03-07 |  |
+| [Fake Friends](https://open.spotify.com/track/2IpCIWDEteAZPCnE176NN5) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Fake Friends](https://open.spotify.com/album/0fXPfenNeP1TFNVATQbC6I) | 2:25 | 2025-09-19 |  |
 | [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 | 2024-04-26 | 2024-08-17 |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-03-08 | 2024-04-19 |
 | [Flores](https://open.spotify.com/track/7gn2w2Kff4d9njp2SbtMtA) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Flores](https://open.spotify.com/album/5h4a45hu6p0pFpmteYSJZw) | 2:34 | 2024-07-19 | 2024-09-21 |
@@ -205,9 +206,11 @@
 | [Mentality](https://open.spotify.com/track/7LZyqWfp3JkyG3YNpYNIpw) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [Por El Momento](https://open.spotify.com/album/5ajocepPHfcBFFKxtz9wrL) | 2:49 | 2025-07-18 |  |
 | [Mentirme](https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mentirme](https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y) | 3:08 | 2024-03-08 | 2024-05-04 |
 | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg) | 2:48 | 2024-04-12 | 2024-07-13 |
+| [Mi Carnal](https://open.spotify.com/track/6ukvOPkdVxkWSVQiRj2mzv) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Carnal](https://open.spotify.com/album/4wTM8e9nVp1tlCA61dqnoo) | 2:48 | 2025-09-19 |  |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/56qp8eaEnZ6hh96FkaDF7D) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Mi Eterno Amor Secreto](https://open.spotify.com/album/5Y6bfQiugnvNc1PxDCU77c) | 3:52 | 2024-03-08 | 2024-09-07 |
 | [Mi Funeral](https://open.spotify.com/track/0pt2Wx1hLbzObpTkFYyKGW) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Mi Funeral](https://open.spotify.com/album/4zuLwWLiQPvgHBbpASMgAx) | 3:19 | 2025-01-10 | 2025-03-08 |
 | [Mi Legado](https://open.spotify.com/track/2cwLGVTFOG6lyoj2RUOuU7) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O) | [Mi Legado](https://open.spotify.com/album/3QMVjlxC8BTaVtgPSLpjMf) | 3:33 | 2024-03-08 | 2024-04-19 |
+| [Mi Mas Grande Error](https://open.spotify.com/track/71KHZWC5lH7GHibnJuZTTt) | [Privilegio](https://open.spotify.com/artist/1Tg5nJ693I78m1KeZGiF6b), [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Mi Mas Grande Error](https://open.spotify.com/album/4D2HrRnNOjUCCSPz7S14EE) | 2:44 | 2025-09-19 |  |
 | [Mi Morenita](https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [JPL](https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd) | [Mi Morenita](https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1) | 2:29 | 2024-05-24 | 2024-07-19 |
 | [Mi Tiempo](https://open.spotify.com/track/3bJuYzQZ82bcXqEEur6UgT) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Mi Tiempo](https://open.spotify.com/album/4nrVowPS8i3IlbI8oBoV9C) | 2:46 | 2025-03-31 | 2025-04-26 |
 | [Mis Amigas Las Flores](https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mis Amigas Las Flores](https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji) | 2:58 | 2024-04-19 | 2024-08-17 |
@@ -256,6 +259,7 @@
 | [PERLA](https://open.spotify.com/track/7c8vIRSiWSCvYcQFSUotFD) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE) | [PERLA](https://open.spotify.com/album/4wGQO8krYTucDmi9ilIC8O) | 2:22 | 2024-10-18 |  |
 | [Pero Si Fue](https://open.spotify.com/track/54Rc94xfSTRhxi9ZMhQlrx) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Pero Si Fue](https://open.spotify.com/album/0kH03LyNZQRbQDh8NHb2OZ) | 2:34 | 2024-03-22 | 2024-04-27 |
 | [PICASSO](https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya No Se Llevan Serenatas](https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6) | 3:36 | 2025-05-23 |  |
+| [Piel Canela](https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Suset](https://open.spotify.com/artist/0E2CCbvyNgIvGjbRPPlg95) | [Piel Canela](https://open.spotify.com/album/25afOwevhL6aXlRax8SNBd) | 2:58 | 2025-09-19 |  |
 | [Por culpa de un tercero](https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:54 | 2024-08-30 | 2024-11-30 |
 | [Por La Familia](https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [BorderKid](https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3) | [Por La Familia](https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T) | 2:33 | 2024-03-08 | 2024-04-13 |
 | [Por Si Me Les Adelanto](https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Por Si Me Les Adelanto](https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p) | 2:37 | 2024-03-08 | 2024-09-07 |

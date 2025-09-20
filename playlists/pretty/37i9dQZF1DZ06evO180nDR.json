@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 55451,
+  "num_followers": 55592,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAADYy2F43PjkeUAVXCs15dj2",
+  "snapshot_id": "aMtLgAAAAABZ4S1JBOK8IJbbIpFsJ9bi",
   "tracks": [
     {
       "added_at": null,
@@ -440,17 +440,13 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Esau Ortiz",
-          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
         }
       ],
-      "duration_ms": 142285,
-      "name": "Tommy Vercetti",
-      "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
+      "duration_ms": 179195,
+      "name": "Dinero Infinito",
+      "url": "https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1"
     },
     {
       "added_at": null,
@@ -524,13 +520,17 @@
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         },
         {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 179195,
-      "name": "Dinero Infinito",
-      "url": "https://open.spotify.com/track/3de3DQ1qgilSJqfRWT1xn1"
+      "duration_ms": 142285,
+      "name": "Tommy Vercetti",
+      "url": "https://open.spotify.com/track/6Dqy6XTXUcjnUUxkGCmtOp"
     },
     {
       "added_at": null,

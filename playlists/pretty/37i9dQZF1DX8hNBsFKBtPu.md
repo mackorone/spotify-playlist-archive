@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,035 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,044 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ego](https://open.spotify.com/track/3V5OErscHlZJ4G5EivYCae) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [](https://open.spotify.com/album/null) | 3:26 |
-| 2 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [](https://open.spotify.com/album/null) | 4:21 |
-| 3 | [Sygeplejerske på nattevagt \(feat\. Molly Sandén & Delara\)](https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [](https://open.spotify.com/album/null) | 2:59 |
+| 1 | [Ego](https://open.spotify.com/track/3V5OErscHlZJ4G5EivYCae) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [EGO](https://open.spotify.com/album/4KZGnVN2Uner3QBMC0Tfoc) | 3:26 |
+| 2 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 |
+| 3 | [Sygeplejerske på nattevagt \(feat\. Molly Sandén & Delara\)](https://open.spotify.com/track/5sLwYGTP680NRoQG4BqeSW) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [VULKANØ](https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ) | 2:59 |
 | 4 | [Den nye pige](https://open.spotify.com/track/62ULtmT9IgrELMOpd4SJqi) | [Blæst](https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5) | [Den nye pige](https://open.spotify.com/album/5xp5cdwnjXheO7ZRmiTPNa) | 2:49 |
 | 5 | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 |
 | 6 | [Love of My Life](https://open.spotify.com/track/0fbhgMNlAVPGzOtvqzFRNt) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Love of My Life](https://open.spotify.com/album/6bsgwjCP94ZbPFkGST32X5) | 2:16 |

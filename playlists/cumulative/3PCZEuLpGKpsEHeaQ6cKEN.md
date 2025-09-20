@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Layton Giordani &amp; Green Velvet
 
-1,584 songs - 3 day 12 hr 22 min
+1,585 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1340,6 +1340,7 @@
 | [Techno Trance](https://open.spotify.com/track/1lMxKk2oWSpZ15hqxkhdb8) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [D\-Shake](https://open.spotify.com/artist/1VH9xeQo3W6s20EBaW9ipJ) | [Techno Trance](https://open.spotify.com/album/7AaqOJ5kEjUdpD8FKV0E5N) | 3:36 | 2025-09-05 |  |
 | [Telia](https://open.spotify.com/track/35FQqed9hIZ3q9XiEkdUdl) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Telia](https://open.spotify.com/album/3BYr45sLyEhIgX5pzU4VYB) | 3:52 | 2025-02-13 | 2025-07-18 |
 | [Tengo Fuego](https://open.spotify.com/track/1CHYzp3JApDRMGDGhf15iw) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Tengo Fuego](https://open.spotify.com/album/7iEKNRehvEwhwwWTTGPhOG) | 3:07 | 2024-06-20 | 2024-10-19 |
+| [Tequila](https://open.spotify.com/track/2kAbTtDkicUsWcqXTemx2p) | [DIEGO SAN DIEGO](https://open.spotify.com/artist/1lal1Zh8FBRbRwzd22s0oX), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Tequila](https://open.spotify.com/album/65hNu67LGFUaEFfNFhzCAS) | 2:51 | 2025-09-19 |  |
 | [Tequila](https://open.spotify.com/track/6uqpNQYnxhPEjiCxDGJPPi) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Tequila](https://open.spotify.com/album/4JpqHaDLwKHq8N6xhM2H5M) | 2:39 | 2024-02-15 | 2024-08-31 |
 | [Tequila, You & I](https://open.spotify.com/track/4AUCjxWTsVwuw9YEHvLM0A) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Cassie Ann](https://open.spotify.com/artist/5LJRswr6IhkRRkq1EHDuwj) | [Tequila, You & I](https://open.spotify.com/album/3EpPNk2AIdkCrACGdy5Oo1) | 2:09 | 2025-03-21 | 2025-03-28 |
 | [That Feeling](https://open.spotify.com/track/1JG4t7ekJoQjQkgToEAqI0) | [George Feely](https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:18 | 2023-07-31 | 2023-12-14 |

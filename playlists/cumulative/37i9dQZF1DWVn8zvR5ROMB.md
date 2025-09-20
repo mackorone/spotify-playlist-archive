@@ -2,7 +2,7 @@
 
 ### [All New Country](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
-> All of the newest country songs in one playlist! Featuring Warren Zeiders, Jason Aldean, Josh Ross and more.
+> All of the newest country songs in one playlist! Featuring Dasha, Josh Ross, HARDY and more.
 
 10,909 songs - 24 day 20 hr 20 min
 

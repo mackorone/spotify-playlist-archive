@@ -2,9 +2,9 @@
 
 ### [RAGE](https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0)
 
-> The home of rage rap\. Cover: Homixide Gang
+> The home of rage rap\. Cover: Destroy Lonely
 
-172 songs - 7 hr 20 min
+174 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [CRAYON](https://open.spotify.com/track/44Rtuc5OuZtwMwPfkrAsp6) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [CRAYON](https://open.spotify.com/album/04cqIVlhRK13cRoRm6TuCB) | 2:16 | 2024-03-15 | 2024-04-06 |
 | [CRUSH \(with Travis Scott\)](https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:53 | 2025-03-14 |  |
 | [delusional](https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [delusional](https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy) | 2:11 | 2024-12-06 | 2025-05-24 |
-| [DEMON HOME](https://open.spotify.com/track/6IoVm0ggNarpZNAGZz8mtc) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [DEMON HOME](https://open.spotify.com/album/1o9z5t0xuvOcOp3VZ4ElXH) | 1:31 | 2025-06-20 |  |
+| [DEMON HOME](https://open.spotify.com/track/6IoVm0ggNarpZNAGZz8mtc) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [DEMON HOME](https://open.spotify.com/album/1o9z5t0xuvOcOp3VZ4ElXH) | 1:31 | 2025-06-20 | 2025-09-20 |
 | [DIE LIKE THIS](https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:45 | 2025-06-06 |  |
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 | 2024-04-27 |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
@@ -129,6 +129,7 @@
 | [on dat shit](https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [on dat shit](https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE) | 2:58 | 2023-12-01 | 2024-01-06 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 |  |
 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2023-12-01 | 2024-02-03 |
+| [open it up \(with Ken Carson\)](https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 4:22 | 2025-09-19 |  |
 | [ORCHESTRATË](https://open.spotify.com/track/3Ygb9jYG5TeibrrKJzCPmV) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:53 | 2024-12-06 | 2025-05-24 |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-12-01 | 2024-09-04 |
 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 | 2024-08-20 | 2024-09-11 |
@@ -142,6 +143,7 @@
 | [PYRAMIDZ](https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [PYRAMIDZ](https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab) | 3:02 | 2025-05-23 |  |
 | [R50](https://open.spotify.com/track/0eoNYtkwyNxAtBMoTtjB6H) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 1:45 | 2024-08-20 | 2025-08-09 |
 | [RICK OWENS \(feat\. Ken Carson\)](https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [SONY](https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp) | 2:10 | 2024-01-05 | 2025-07-12 |
+| [screwed up](https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:33 | 2025-09-19 |  |
 | [Shibuya](https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [11th Dimension](https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf) | 2:36 | 2024-08-20 |  |
 | [Shibuya](https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Shibuya](https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB) | 2:36 | 2024-03-18 | 2024-09-05 |
 | [SIDE EFFExT \(feat\. Lil Yachty\)](https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [i5u5we5](https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d) | 3:42 | 2024-05-31 |  |

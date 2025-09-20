@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-418 songs - 1 day 0 hr 44 min
+419 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Darlin Corey](https://open.spotify.com/track/2UFcexUGAYwuuskfg7HUcn) | [A.P\. Rodgers](https://open.spotify.com/artist/0eF4nW5iYoOXOEVgP5jNhA) | [Darlin Corey](https://open.spotify.com/album/2LEdx7U8a3sSzSJmKOuf1u) | 2:15 | 2024-08-02 | 2024-12-07 |
 | [Daydreamer](https://open.spotify.com/track/1ykmpRMuKbowPqXUZQp7xu) | [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Daydreamer](https://open.spotify.com/album/7rBgqTNLshhW2m8nn7zZBM) | 3:34 | 2025-01-31 |  |
 | [Daylight No More](https://open.spotify.com/track/2NwCj87xzfVJSHbjfOIdux) | [Jeff Autry](https://open.spotify.com/artist/5APpALqCaBOaYcYYnIu72X) | [Daylight No More](https://open.spotify.com/album/2GN2U6OQHkyNhX4uDvgwE8) | 2:40 | 2024-06-28 | 2024-08-10 |
+| [Dead Man Walking](https://open.spotify.com/track/6F2cMb5QxQDhePgNixiTJo) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Dead Man Walking](https://open.spotify.com/album/6tdHmhGTixcen3uwnUmMfE) | 4:19 | 2025-09-19 |  |
 | [Deadly Sin](https://open.spotify.com/track/0z6BriK0Yhh5WipPk71lSN) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [Boston Mountains](https://open.spotify.com/album/3GAuuBlGnYEu8ScOTHfzI7) | 3:51 | 2025-02-14 |  |
 | [Defying Gravity](https://open.spotify.com/track/3sCMvJ9DOm6vwt8DzkC2tm) | [Austin Brown: The Covers](https://open.spotify.com/artist/7BTVjewQkmSmvHAzEqIl36) | [Defying Gravity](https://open.spotify.com/album/2RoHp3yp5WgYAiFN5uCE5k) | 3:04 | 2024-12-13 | 2025-02-15 |
 | [Devil's Den](https://open.spotify.com/track/2EHWX1wmzxf0I4Ps51ggr4) | [Will Jones](https://open.spotify.com/artist/3O3IXkuwqV4wkD6WuvN5ER) | [Devil's Den](https://open.spotify.com/album/17B9OD1DC4G3BvcQekbYg4) | 3:31 | 2025-01-31 |  |

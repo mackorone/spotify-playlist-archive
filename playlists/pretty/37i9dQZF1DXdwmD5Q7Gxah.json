@@ -1,13 +1,29 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: mark william lewis",
-  "num_followers": 1189273,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: Lola Young",
+  "num_followers": 1189206,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAZAVbkXLKYTto2/EOsBkYxHw/Is",
+  "snapshot_id": "AAAAAJmul0yHagxSn02p29VydhL7rI6d",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "I\u2019m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 261959,
+      "name": "Post Sex Clarity",
+      "url": "https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg"
+    },
     {
       "added_at": "2025-09-10 19:56:00",
       "album": {
@@ -41,20 +57,52 @@
       "url": "https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3"
     },
     {
-      "added_at": "2025-04-18 04:00:55",
+      "added_at": "2025-09-19 04:35:41",
       "album": {
-        "name": "Woman Lake",
-        "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
+        "name": "everybody want me but my lover",
+        "url": "https://open.spotify.com/album/3x4GpVR0ZDtLRCUzb0IA2I"
       },
       "artists": [
         {
-          "name": "snuggle",
-          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+          "name": "Deem Spencer",
+          "url": "https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK"
         }
       ],
-      "duration_ms": 164583,
-      "name": "Woman Lake",
-      "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
+      "duration_ms": 151933,
+      "name": "everybody want me but my lover",
+      "url": "https://open.spotify.com/track/5P64I8OMYZ0AlA154EHygE"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Wolf Alice - Spotify Live Room",
+        "url": "https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 238729,
+      "name": "Play It Out (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
     },
     {
       "added_at": "2025-09-16 17:01:44",
@@ -73,6 +121,70 @@
       "url": "https://open.spotify.com/track/1UjdWK2qSXojLOsDaYOhqS"
     },
     {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Bleeds",
+        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 116933,
+      "name": "The Way Love Goes",
+      "url": "https://open.spotify.com/track/1o9KFXJkF6jBpIvd4rthsi"
+    },
+    {
+      "added_at": "2025-04-18 04:00:55",
+      "album": {
+        "name": "Woman Lake",
+        "url": "https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6"
+      },
+      "artists": [
+        {
+          "name": "snuggle",
+          "url": "https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa"
+        }
+      ],
+      "duration_ms": 164583,
+      "name": "Woman Lake",
+      "url": "https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Children of the Baked Potato",
+        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 250489,
+      "name": "Otherworld",
+      "url": "https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5"
+    },
+    {
       "added_at": "2025-09-10 20:00:56",
       "album": {
         "name": "Yellow",
@@ -87,6 +199,102 @@
       "duration_ms": 267576,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/6LCMIrcOxFKMAmccaK7biI"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
+    },
+    {
+      "added_at": "2025-07-17 18:21:08",
+      "album": {
+        "name": "Playing Classics",
+        "url": "https://open.spotify.com/album/5jh3qNyLd7WUCD26vodofU"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 353260,
+      "name": "Playing Classics",
+      "url": "https://open.spotify.com/track/231MlrwBMFPgJC05VChPXF"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Bleeds",
+        "url": "https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "Phish Pepsi",
+      "url": "https://open.spotify.com/track/5ksAxcBX7eirDDHSYM5FoM"
+    },
+    {
+      "added_at": "2025-09-12 04:00:21",
+      "album": {
+        "name": "Mount Crystal",
+        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
+      },
+      "artists": [
+        {
+          "name": "Joviale",
+          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
+        }
+      ],
+      "duration_ms": 189761,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "duration_ms": 162370,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq"
     },
     {
       "added_at": "2025-09-12 04:00:21",
@@ -107,22 +315,6 @@
     {
       "added_at": "2025-09-12 04:00:21",
       "album": {
-        "name": "Mount Crystal",
-        "url": "https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h"
-      },
-      "artists": [
-        {
-          "name": "Joviale",
-          "url": "https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7"
-        }
-      ],
-      "duration_ms": 189761,
-      "name": "Blu",
-      "url": "https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV"
-    },
-    {
-      "added_at": "2025-09-12 04:00:21",
-      "album": {
         "name": "To The Sandals",
         "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
       },
@@ -135,22 +327,6 @@
       "duration_ms": 248932,
       "name": "To The Sandals",
       "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
-    },
-    {
-      "added_at": "2025-07-17 18:21:08",
-      "album": {
-        "name": "Playing Classics",
-        "url": "https://open.spotify.com/album/5jh3qNyLd7WUCD26vodofU"
-      },
-      "artists": [
-        {
-          "name": "Water From Your Eyes",
-          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
-        }
-      ],
-      "duration_ms": 353260,
-      "name": "Playing Classics",
-      "url": "https://open.spotify.com/track/231MlrwBMFPgJC05VChPXF"
     },
     {
       "added_at": "2025-09-12 04:00:21",
@@ -199,6 +375,22 @@
       "duration_ms": 219428,
       "name": "joey knows",
       "url": "https://open.spotify.com/track/0m5RQJVdPvsZwx4DYfUg5o"
+    },
+    {
+      "added_at": "2025-09-19 04:35:41",
+      "album": {
+        "name": "Fry",
+        "url": "https://open.spotify.com/album/2RJXppLPydUDTLr7taH7tC"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Fry",
+      "url": "https://open.spotify.com/track/507nGWLksK9ktnzpYxDgGC"
     },
     {
       "added_at": "2025-09-12 04:00:21",
@@ -441,22 +633,6 @@
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
     },
     {
-      "added_at": "2025-09-04 15:16:27",
-      "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/3WE1NBG8v7glf6akszxVq5"
-      },
-      "artists": [
-        {
-          "name": "For Opal",
-          "url": "https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/5631C1irkmhGmNPeyKp7av"
-    },
-    {
       "added_at": "2025-08-22 04:00:32",
       "album": {
         "name": "tears on his rings and chains",
@@ -523,6 +699,22 @@
       "duration_ms": 249813,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
+    },
+    {
+      "added_at": "2025-09-04 15:16:27",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/3WE1NBG8v7glf6akszxVq5"
+      },
+      "artists": [
+        {
+          "name": "For Opal",
+          "url": "https://open.spotify.com/artist/3LCda3gkCgVOICHbZhFvM4"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/5631C1irkmhGmNPeyKp7av"
     },
     {
       "added_at": "2025-09-05 04:30:02",

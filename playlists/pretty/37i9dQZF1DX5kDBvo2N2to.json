@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60222,
+  "num_followers": 60252,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -75,8 +75,8 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "VULKAN\u00d8",
+        "url": "https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ"
       },
       "artists": [
         {
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
+        "name": "Josephine",
+        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 135769,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
         "name": "Inte bra i grupp",
         "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
       },
@@ -379,18 +395,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Josephine",
-        "url": "https://open.spotify.com/album/07tHbUOa1pW8WHBLduEhIx"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
         }
       ],
-      "duration_ms": 135769,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/2VHsPF4LyOL7jcXhc7t8VQ"
+      "duration_ms": 187537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -423,22 +439,6 @@
       "duration_ms": 163320,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/5Y9UJiXsJSXWlOOJl2FRLW"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 187537,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -507,6 +507,26 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
+        "name": "MIG/DIG (feat. Klaudy)",
+        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        },
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 176672,
+      "name": "MIG/DIG (feat. Klaudy)",
+      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
       },
@@ -539,26 +559,6 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "MIG/DIG (feat. Klaudy)",
-        "url": "https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        },
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 176672,
-      "name": "MIG/DIG (feat. Klaudy)",
-      "url": "https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
         "name": "Baddiez",
         "url": "https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 163000,
       "name": "Baddiez",
       "url": "https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
-        "name": "MSN & Lunar",
-        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 213680,
-      "name": "MSN & Lunar",
-      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -611,6 +595,22 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
+        "name": "MSN & Lunar",
+        "url": "https://open.spotify.com/album/6dJsgto6bwHsJBGqX6CXwk"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 213680,
+      "name": "MSN & Lunar",
+      "url": "https://open.spotify.com/track/7I1ilCxXvxl26XjzR8PF2b"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
         "name": "Missing Out",
         "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
       },
@@ -627,18 +627,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Bad Dream",
-        "url": "https://open.spotify.com/album/3wUzhRPIwf70GNjQeHrKG9"
+        "name": "Han vill ha dig",
+        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
       },
       "artists": [
         {
-          "name": "Dandelion",
-          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
+          "name": "Emilia Pantic",
+          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
         }
       ],
-      "duration_ms": 204674,
-      "name": "Bad Dream",
-      "url": "https://open.spotify.com/track/4MIyiOOiMv10ybKL0N3hQN"
+      "duration_ms": 208845,
+      "name": "Han vill ha dig",
+      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -659,18 +659,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Han vill ha dig",
-        "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/3wUzhRPIwf70GNjQeHrKG9"
       },
       "artists": [
         {
-          "name": "Emilia Pantic",
-          "url": "https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG"
+          "name": "Dandelion",
+          "url": "https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c"
         }
       ],
-      "duration_ms": 208845,
-      "name": "Han vill ha dig",
-      "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
+      "duration_ms": 204674,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/4MIyiOOiMv10ybKL0N3hQN"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 172053,
-      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
-      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
         "name": "Damned",
         "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 154340,
       "name": "Damned",
       "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
+        "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
+        "url": "https://open.spotify.com/album/282V3114CXhdwxHdVDWpE3"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 172053,
+      "name": "Storstads\u00e5ngest (jag beh\u00f6ver dig Sabrina)",
+      "url": "https://open.spotify.com/track/0gEMFfHYQXxjRp1bVIllVa"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Tappar det",
-        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
+        "name": "Jag m\u00e5ste v\u00e4lja",
+        "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
       },
       "artists": [
         {
-          "name": "Arwin",
-          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
         }
       ],
-      "duration_ms": 155975,
-      "name": "Tappar det",
-      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
+      "duration_ms": 195500,
+      "name": "Jag m\u00e5ste v\u00e4lja",
+      "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Jag m\u00e5ste v\u00e4lja",
-        "url": "https://open.spotify.com/album/3inX2cdSEUxZat1E2lcZNE"
+        "name": "Tappar det",
+        "url": "https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C"
       },
       "artists": [
         {
-          "name": "Elin Wiigh",
-          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+          "name": "Arwin",
+          "url": "https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q"
         }
       ],
-      "duration_ms": 195500,
-      "name": "Jag m\u00e5ste v\u00e4lja",
-      "url": "https://open.spotify.com/track/3GDX6H2fLc3UyBaHHdIGwz"
+      "duration_ms": 155975,
+      "name": "Tappar det",
+      "url": "https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
+        "name": "Men du",
+        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
+      },
+      "artists": [
+        {
+          "name": "Elin Wiigh",
+          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Men du",
+      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/2KRSxzDsKG1TkJjAjzlHJm"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 194789,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5KnH8nLgUCWDQ9vIfFz7V0"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
-        "name": "Men du",
-        "url": "https://open.spotify.com/album/7HLTPSI5iTSLad6OJHid1P"
-      },
-      "artists": [
-        {
-          "name": "Elin Wiigh",
-          "url": "https://open.spotify.com/artist/5aPRJKu2wTU9jXewdzMSyn"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Men du",
-      "url": "https://open.spotify.com/track/76MUeiYerAnR6J5GvBXM4U"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF"
+        "name": "N\u00e5gon annan \u00e4n dig",
+        "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
       },
       "artists": [
         {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        },
+        {
+          "name": "JULI",
+          "url": "https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf"
         }
       ],
-      "duration_ms": 141058,
-      "name": "More",
-      "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"
+      "duration_ms": 164869,
+      "name": "N\u00e5gon annan \u00e4n dig",
+      "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "N\u00e5gon annan \u00e4n dig",
-        "url": "https://open.spotify.com/album/2ygUzWnMr5uTK4ddjDZdKB"
+        "name": "More",
+        "url": "https://open.spotify.com/album/1e2rOFtlbbGD1phx4ksazF"
       },
       "artists": [
         {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        },
-        {
-          "name": "JULI",
-          "url": "https://open.spotify.com/artist/4L3VEiHYe7BxQsHloHXGzf"
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
         }
       ],
-      "duration_ms": 164869,
-      "name": "N\u00e5gon annan \u00e4n dig",
-      "url": "https://open.spotify.com/track/4r1TW43zghVN80uLJxxk9d"
+      "duration_ms": 141058,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
+        "name": "Hennessy",
+        "url": "https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1"
+      },
+      "artists": [
+        {
+          "name": "Parana",
+          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hennessy",
+      "url": "https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
         "name": "apricot jam",
         "url": "https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N"
       },
@@ -1243,6 +1259,22 @@
       "duration_ms": 194166,
       "name": "apricot jam",
       "url": "https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
+        "name": "Min Till Slut",
+        "url": "https://open.spotify.com/album/3A2IXQNnLr7el2B9r7FdF7"
+      },
+      "artists": [
+        {
+          "name": "MELVIN",
+          "url": "https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4"
+        }
+      ],
+      "duration_ms": 158672,
+      "name": "Min Till Slut",
+      "url": "https://open.spotify.com/track/1Q2KjEBrfko2pDnFnrAsUg"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1275,22 +1307,6 @@
       "duration_ms": 187506,
       "name": "Moln & Sommarregn",
       "url": "https://open.spotify.com/track/18q6GQAd9VK6IRzz6xofKN"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
-        "name": "Hennessy",
-        "url": "https://open.spotify.com/album/2sHBTZk91B9ztITUyhoFT1"
-      },
-      "artists": [
-        {
-          "name": "Parana",
-          "url": "https://open.spotify.com/artist/7mkDHzjImR7tnMVJ1QKeFv"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hennessy",
-      "url": "https://open.spotify.com/track/41MY3Ue0BSfAWqzt0RGosH"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "Min Till Slut",
-        "url": "https://open.spotify.com/album/3A2IXQNnLr7el2B9r7FdF7"
-      },
-      "artists": [
-        {
-          "name": "MELVIN",
-          "url": "https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4"
-        }
-      ],
-      "duration_ms": 158672,
-      "name": "Min Till Slut",
-      "url": "https://open.spotify.com/track/1Q2KjEBrfko2pDnFnrAsUg"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/5ttGp9NcuUNKFSwHd1h9j6"
       },
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "TVIVEL & TRO",
-        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+        "name": "MAJOR CONTEST",
+        "url": "https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP"
       },
       "artists": [
         {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+          "name": "Jhon Allan",
+          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
         }
       ],
-      "duration_ms": 168928,
-      "name": "DELILAH",
-      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
+      "duration_ms": 187623,
+      "name": "MAJOR CONTEST",
+      "url": "https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
+        "name": "TVIVEL & TRO",
+        "url": "https://open.spotify.com/album/2eWk5PnmUu9dT0rNQMB9wg"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 168928,
+      "name": "DELILAH",
+      "url": "https://open.spotify.com/track/1zmufSjMnUu7VBVuMDJ5Bf"
+    },
+    {
+      "added_at": "2025-09-18 22:00:18",
+      "album": {
         "name": "Do You Love Me",
         "url": "https://open.spotify.com/album/20mAlA3bsGhvDFPKgpLD3I"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 174480,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/5lMiSTRHgJWp16KUCjef9y"
-    },
-    {
-      "added_at": "2025-09-18 22:00:18",
-      "album": {
-        "name": "MAJOR CONTEST",
-        "url": "https://open.spotify.com/album/7unvBth5M8c46usYzfA6KP"
-      },
-      "artists": [
-        {
-          "name": "Jhon Allan",
-          "url": "https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS"
-        }
-      ],
-      "duration_ms": 187623,
-      "name": "MAJOR CONTEST",
-      "url": "https://open.spotify.com/track/3pCWAgzVZ84h10NLQpXQay"
     },
     {
       "added_at": "2025-09-18 22:00:18",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2025-09-18 22:00:18",
       "album": {
-        "name": "F\u00f6rst\u00f6raren",
-        "url": "https://open.spotify.com/album/1T0gsLv0NrBA8DKuQQknoD"
+        "name": "Dansa med mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2pwSqGf52N5kN8NdQ9sdmn"
       },
       "artists": [
         {
-          "name": "Hemliga Klubben",
-          "url": "https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf"
+          "name": "NOVELLEN",
+          "url": "https://open.spotify.com/artist/5aQMa0MZ0CiWYGm1XukJ2r"
         }
       ],
-      "duration_ms": 146778,
-      "name": "F\u00f6rst\u00f6raren",
-      "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
+      "duration_ms": 127250,
+      "name": "Dansa med mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/18Ju9XIxWJTLbBUeSi2oEZ"
     }
   ],
   "unique_name": "p\u00e5 repeat",

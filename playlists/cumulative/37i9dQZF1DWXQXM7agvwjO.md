@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: IV OF SPADES \(Philippines\)
+> Hottest indie sounds from Asia\. Cover: Kiki \(Thailand\)
 
 2,176 songs - 5 day 11 hr 41 min
 

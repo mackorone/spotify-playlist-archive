@@ -1,6 +1,6 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388597,
+  "num_followers": 388593,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-09-18 22:00:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
-    },
-    {
-      "added_at": "2025-09-18 22:00:15",
-      "album": {
         "name": "Pretender",
         "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 146079,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
+    },
+    {
+      "added_at": "2025-09-18 22:00:15",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
     },
     {
       "added_at": "2025-09-18 22:00:15",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-09-18 22:00:15",
       "album": {
-        "name": "Hoagy's Place",
-        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Hoagy's Place",
-      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
-    },
-    {
-      "added_at": "2025-09-18 22:00:15",
-      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 269413,
       "name": "22:23",
       "url": "https://open.spotify.com/track/0TjAjZ6Hp7smLH8qUBlNuR"
+    },
+    {
+      "added_at": "2025-09-18 22:00:15",
+      "album": {
+        "name": "Hoagy's Place",
+        "url": "https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Hoagy's Place",
+      "url": "https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv"
     },
     {
       "added_at": "2025-09-18 22:00:15",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-09-18 22:00:15",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
+        "name": "Love Is... Infinite",
+        "url": "https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds"
       },
       "artists": [
         {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+          "name": "Gypsy Mitchell",
+          "url": "https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD"
         }
       ],
-      "duration_ms": 283066,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+      "duration_ms": 400321,
+      "name": "It... What or Why?",
+      "url": "https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ"
     },
     {
       "added_at": "2025-09-18 22:00:15",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-09-18 22:00:15",
       "album": {
-        "name": "Love Is... Infinite",
-        "url": "https://open.spotify.com/album/7EaDMX3kJlaSpyer3Xz0Ds"
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
       },
       "artists": [
         {
-          "name": "Gypsy Mitchell",
-          "url": "https://open.spotify.com/artist/5F2tjF7v6W681K73MW3UZD"
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
         }
       ],
-      "duration_ms": 400321,
-      "name": "It... What or Why?",
-      "url": "https://open.spotify.com/track/7iXlNYB5XvFmsVhy2hMSrJ"
+      "duration_ms": 283066,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
     },
     {
       "added_at": "2025-09-18 22:00:15",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-18 22:00:15",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 110143,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
-    },
-    {
-      "added_at": "2025-09-18 22:00:15",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 236346,
       "name": "Us",
       "url": "https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy"
+    },
+    {
+      "added_at": "2025-09-18 22:00:15",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110143,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

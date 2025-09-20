@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: LUSILLON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,052 likes - 120 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,118 likes - 120 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 |
 | 2 | [Lo que nunca fue](https://open.spotify.com/track/2QACvOCPzkQ9SWNOy16Sgn) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Lo que nunca fue](https://open.spotify.com/album/1hPurFan6dyxixyl4ntE3h) | 2:40 |
 | 3 | [qué triste, qué desastre \(bolero\)](https://open.spotify.com/track/4UVaHNLL9WLObHhYpjvdJY) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [nomeolvides](https://open.spotify.com/album/3RuMWGbodLpBMlUzJ2VchT) | 2:59 |
 | 4 | [La Boca del Lobo](https://open.spotify.com/track/3KMdnYhFgFMPOmWYc7Alx4) | [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [La Boca del Lobo](https://open.spotify.com/album/6FbPApCJOcvGgZvGbcsckq) | 3:40 |

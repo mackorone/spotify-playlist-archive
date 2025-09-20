@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Manuel Turizo , Nicki Nicole, Rauw Alejandro  Shakira, and more!!! Cover:Rauw Alejandro
 
-915 songs - 2 day 0 hr 40 min
+916 songs - 2 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,6 +575,7 @@
 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-10 | 2023-06-03 |
 | [No Me Preguntes \- Live](https://open.spotify.com/track/0l9A5SMslLBCdj4JIacmYR) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Life After Vida \(Live\)](https://open.spotify.com/album/2imkNvhi31gigBW2ucEoO5) | 3:49 | 2023-10-19 | 2024-07-03 |
 | [No Me Pueden Parar](https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [No Me Pueden Parar](https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK) | 3:28 | 2023-03-24 | 2023-06-01 |
+| [No me tires flores](https://open.spotify.com/track/0bZzyFUzIiqoTH744vtauR) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [No me tires flores](https://open.spotify.com/album/1wpqZljTd2AQL9p9K11J5U) | 3:23 | 2025-09-19 |  |
 | [NO MIENTEN](https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [NO MIENTEN](https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw) | 2:27 | 2022-04-20 | 2023-05-26 |
 | [NO MIENTEN \- Tiësto Remix](https://open.spotify.com/track/46cyduQIwGKuyZX8TQvVLK) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [NO MIENTEN \(Tiësto Remix\)](https://open.spotify.com/album/3eoM1XxYABWjL8XQTXxGD8) | 2:34 | 2022-06-03 | 2023-05-26 |
 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 | 2024-05-10 | 2024-07-03 |

@@ -4,7 +4,7 @@
 
 > Stripped back vibes\. Cover:  Lekan
 
-296 songs - 17 hr 17 min
+299 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Free \- Acoustic Version](https://open.spotify.com/track/2Rn92MnXejzNAoVU74nm2F) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Free \(Acoustic Version\)](https://open.spotify.com/album/4Od7QH0SgdhW7R4KMsdlrh) | 4:09 | 2025-06-06 |  |
 | [Gentlemen Don't](https://open.spotify.com/track/6qz64OVGikyW6lgiGabdzJ) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 3:08 | 2021-12-09 | 2022-01-14 |
 | [Get You \- Live at The Dairy, London, 2018](https://open.spotify.com/track/2EJWix6iALSlWsZafPUPw6) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Live at The Dairy](https://open.spotify.com/album/1FsLkDdBvnFcPQLxKCq4pb) | 4:13 | 2021-12-09 | 2022-01-26 |
+| [Give Me A Smile](https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:57 | 2025-09-19 |  |
 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/19hHkHNqoDb55MoLLvpPG3) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Gold \(Live at Subfrantic\)](https://open.spotify.com/album/5qlO0CJBcPPzIDLaJkI32K) | 3:30 | 2021-12-09 |  |
 | [Gold \- Live at Subfrantic](https://open.spotify.com/track/6WG7lZf7eByJM7ehImtX7k) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Honesty \(Live at Subfrantic Studios\)](https://open.spotify.com/album/0qtGR4UmBgC4pWuuyhh1zp) | 3:30 | 2022-06-16 | 2024-04-19 |
 | [Golden Ticket \- Stripped Down](https://open.spotify.com/track/4irNRCfA9IxCJS8eWpFZPe) | [Calundé](https://open.spotify.com/artist/4cNiCiyVjl5qDdJYqiuxxX) | [Golden Ticket \(Stripped Down\)](https://open.spotify.com/album/4qXekZ4rkzYXnVQXGJBqjq) | 2:08 | 2022-02-09 |  |
@@ -219,6 +220,7 @@
 | [Radio \- Acoustic](https://open.spotify.com/track/3YCZ87JivLIZK4yqurn0wH) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Sides](https://open.spotify.com/album/5alIr9JGPvOQwPLphm0beJ) | 3:24 | 2022-06-16 | 2023-04-09 |
 | [Radio \- Acoustic](https://open.spotify.com/track/7CVZB9X434DUviZcd8xIEI) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Radio \(Acoustic\)](https://open.spotify.com/album/5Cd59q1EMsF14OVTkkSJVm) | 3:24 | 2021-12-09 | 2022-07-29 |
 | [Reckless Soul \- demo](https://open.spotify.com/track/7yO88YQ8NjN7ib9x6bBq6G) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/4PfN0s5linXQvTPlHpJ7De) | 3:54 | 2024-11-08 |  |
+| [Red Flags \- Acoustic](https://open.spotify.com/track/1PULS6rIUtHeoTDnQvQQfG) | [Perri Jones](https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4) | [Red Flags \(Acoustic\)](https://open.spotify.com/album/2eYXshIxECS3p2VJiGvE4R) | 2:19 | 2025-09-19 |  |
 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 | 2024-08-09 |  |
 | [Remind Me](https://open.spotify.com/track/6QRjpaIoSIssUrKWyYjO8o) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX) | 4:56 | 2021-12-09 | 2023-08-31 |
 | [Rent Free \- Acoustic](https://open.spotify.com/track/79lnq17i7L4AeFNfJO9Jaq) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [No More Lonely Nights](https://open.spotify.com/album/6oghy5BL3k36IYHUI3VHV4) | 2:46 | 2024-03-22 |  |
@@ -239,6 +241,7 @@
 | [Seven Times \- Live](https://open.spotify.com/track/7xvnFLLcemBrNCtkmCNQlt) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Live At The Roundhouse](https://open.spotify.com/album/0FBoE1ZlpLdy29UGDOQyB6) | 3:29 | 2021-12-09 | 2024-02-09 |
 | [She](https://open.spotify.com/track/7Hq4pnV88cIVrm8ZSsz0mc) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [I Fkn Love Myself](https://open.spotify.com/album/17AFgJa777rVq5X0wdiD6P) | 3:19 | 2021-12-09 | 2024-02-09 |
 | [SHIVER](https://open.spotify.com/track/4zJh7D3QxnCTJ3Uvsow5iN) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [SUNSET BLACK](https://open.spotify.com/album/0OtYksI5BZRkt4xWj7bCN6) | 3:14 | 2025-02-21 |  |
+| [Simple](https://open.spotify.com/track/3jdDlPCVxwqv3Ars52mXcR) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [The Last Great American Summer](https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC) | 3:31 | 2025-09-19 |  |
 | [Slow Down \(Acoustic\)](https://open.spotify.com/track/4o905HLa1RQPXYBfxeCF16) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [When I Wake up \- Acoustic EP](https://open.spotify.com/album/7HiIZJHO9SNjFqorG8EzdK) | 2:36 | 2021-12-09 | 2022-01-14 |
 | [Socials \- Acoustic](https://open.spotify.com/track/643kFnFHrshqpBVJHPqS45) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [Elvis from Paradise](https://open.spotify.com/artist/199vtJaeoEBE4m4yJoB4wp), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Socials \(Acoustic\)](https://open.spotify.com/album/2HxdLVy8eXluEKfQnbut9l) | 3:04 | 2021-12-09 | 2024-02-09 |
 | [Soldier](https://open.spotify.com/track/3oye3VyqKTfffB8D3KdkGb) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Pink Magnolia \(Deluxe\)](https://open.spotify.com/album/34gCWRw6h4xYIqzKctIx8x) | 2:53 | 2024-12-14 |  |

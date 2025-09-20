@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 142731,
+  "num_followers": 142735,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABW61/q8UqM3KiZtiBxfL5d",
+  "snapshot_id": "aMtLgAAAAADJI/AHH3ZQ2ezZocnTNZFV",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 347493,
-      "name": "Mente roquera",
-      "url": "https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra tocada m\u00e1s",
         "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 176200,
       "name": "Nocivo para la salud",
       "url": "https://open.spotify.com/track/6otwuzrUxVSIiTWMFcneEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 347493,
+      "name": "Mente roquera",
+      "url": "https://open.spotify.com/track/6siM0kfxKHLW5zhM5g80x9"
     },
     {
       "added_at": null,
@@ -715,42 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tri Sinf\u00f3nico II",
-        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 283906,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Raza M\u00e1s Chida",
-        "url": "https://open.spotify.com/album/7iGKBUFdyI3A2XxYjuAa6H"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 208459,
-      "name": "La Raza M\u00e1s Chida",
-      "url": "https://open.spotify.com/track/1DwXFADeKSTu1TwZnQfTSB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -767,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "El Tri Sinf\u00f3nico II",
+        "url": "https://open.spotify.com/album/23fQNeHs1eHG2nHqBZbshr"
       },
       "artists": [
         {
@@ -776,9 +740,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 281600,
-      "name": "Pamela",
-      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+      "duration_ms": 283906,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/0ksTXUvXqsn0ujFwArYWQP"
     },
     {
       "added_at": null,
@@ -799,22 +763,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miguel R\u00edos y las estrellas del Rock latino",
-        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/7y9v2r9wF9wd9VE97VFX3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Raza M\u00e1s Chida",
+        "url": "https://open.spotify.com/album/7iGKBUFdyI3A2XxYjuAa6H"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         },
         {
           "name": "El Tri",
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 203573,
-      "name": "Triste canci\u00f3n de amor (con El Tri)",
-      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+      "duration_ms": 208459,
+      "name": "La Raza M\u00e1s Chida",
+      "url": "https://open.spotify.com/track/1DwXFADeKSTu1TwZnQfTSB"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miguel R\u00edos y las estrellas del Rock latino",
+        "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Triste canci\u00f3n de amor (con El Tri)",
+      "url": "https://open.spotify.com/track/5mYa4SjEvkrQmHNyEIwXTb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "40 A\u00f1os Vol. 2",
         "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
       },
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 325706,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 223333,
       "name": "Libertad bajo fianza",
       "url": "https://open.spotify.com/track/0nqNIWpoI0y3k1PBVXnv8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 325706,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/5yfAPz7Qac8QzSLRw4iIdL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-348 songs - 1 day 8 hr 32 min
+349 songs - 1 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Knocking Birds](https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 04](https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS) | 7:12 | 2022-12-02 | 2023-02-04 |
 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-10-27 | 2023-02-18 |
 | [Kolm](https://open.spotify.com/track/2dakWeynruxsUyeSFvFaaP) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Kolm](https://open.spotify.com/album/1Ll05kLvstpcJT7iBKykdd) | 6:23 | 2023-01-20 | 2023-05-03 |
+| [Kontakt](https://open.spotify.com/track/0o5WXczVKxsFp2hWv8CcJz) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Kontakt](https://open.spotify.com/album/0ZmKxqD05aLJq3j6rJ4h59) | 2:53 | 2025-09-20 |  |
 | [Last Call](https://open.spotify.com/track/3vRA3f2BSYJLlXhWEkxrMK) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 6:55 | 2023-04-06 | 2023-05-03 |
 | [Last Call](https://open.spotify.com/track/45V4hmjgWU7mD97WoHSLhL) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Last Call](https://open.spotify.com/album/4zZPozFyRWdIFhIBUWCpeR) | 6:55 | 2023-02-17 | 2024-01-27 |
 | [Last Song](https://open.spotify.com/track/0FH3BmyADV6h7UzaVx2I4k) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Buenos Aires](https://open.spotify.com/album/2uMcxU5GmZR8D9Fg0O324C) | 7:42 | 2022-09-16 | 2023-02-11 |
@@ -349,7 +350,7 @@
 | [Wormhole](https://open.spotify.com/track/6uWONZ4EV0NcH59BMiMGYx) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Level One](https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz) | 7:42 | 2023-05-02 | 2023-06-24 |
 | [WTF](https://open.spotify.com/track/7tycEaFDvpBnSh8CQYqge6) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Philipp Johann Thimm](https://open.spotify.com/artist/7v8RCL7y8b8I9J9rSMIN96), [Jamal Dilmen](https://open.spotify.com/artist/2ReUOiIHulZfotQQgFHoqB) | [WTF](https://open.spotify.com/album/3KLcnBTly3skMYOrzy1zQu) | 3:11 | 2025-02-14 |  |
 | [XOXO](https://open.spotify.com/track/73s1V8uEJoc7r9uG8MH956) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [XOXO](https://open.spotify.com/album/2B0zymgi6PcjXBL6e6sRf3) | 8:49 | 2025-04-25 | 2025-06-28 |
-| [Ya La La](https://open.spotify.com/track/2vktj4jvbrtnXTk6IdZ2CO) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Ya La La](https://open.spotify.com/album/4rj2nab5UEA1rDw4ABDRjk) | 3:58 | 2025-08-15 |  |
+| [Ya La La](https://open.spotify.com/track/2vktj4jvbrtnXTk6IdZ2CO) | [mcfly](https://open.spotify.com/artist/00CJAni0JgRC6EhKTKUcCG) | [Ya La La](https://open.spotify.com/album/4rj2nab5UEA1rDw4ABDRjk) | 3:58 | 2025-08-15 | 2025-09-20 |
 | [You](https://open.spotify.com/track/3wRLulchIZg3qKFOO43wT0) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [You](https://open.spotify.com/album/75xFrxG6vy2YHwTzPD8o8Q) | 3:00 | 2024-03-02 | 2024-06-29 |
 | [You \- Wankelmut Remix](https://open.spotify.com/track/1UbJMShJ8K22WX3vW9FVas) | [Fabique](https://open.spotify.com/artist/69CFg5Gp1zrNZbqLjprGS8), [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [You](https://open.spotify.com/album/6vuHAobWZhR04B3NDRdOPC) | 7:19 | 2022-12-16 | 2023-05-06 |
 | [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 | 2023-07-14 | 2024-06-11 |

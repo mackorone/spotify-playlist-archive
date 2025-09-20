@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Jassin
+> Indie, Pop und Rap mit deutschen Texten\. Cover: FREDRIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,040 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,162 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Alle meine Lieder](https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Verlernt zu fühlen](https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN) | 2:56 |
 | 2 | [Kreise](https://open.spotify.com/track/6KfWdQ15gSsuNKNmTxhXRa) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Kreise](https://open.spotify.com/album/4xpl7dnHx7Dh6Y3ekKZ40y) | 2:24 |
 | 3 | [Fliegengewicht](https://open.spotify.com/track/03ADpV2GfahBPHyFvD5hfB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Fliegengewicht](https://open.spotify.com/album/2WqZ6ViQJSfKtVhdg0sDuA) | 3:06 |
 | 4 | [Arsenalplatz](https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Arsenalplatz](https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh) | 2:55 |

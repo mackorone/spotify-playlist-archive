@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Armand Hofmeyr,  Ivan Roux, Steve Hofmeyr, Early B en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,814 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,859 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kuier](https://open.spotify.com/track/3rmWdBUwtpPMw2OOyRuqYi) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [](https://open.spotify.com/album/null) | 2:16 |
+| 1 | [Kuier](https://open.spotify.com/track/3rmWdBUwtpPMw2OOyRuqYi) | [Armand Hofmeyr](https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh) | [Kuier](https://open.spotify.com/album/35eX82rOat751o4K1473Rv) | 2:16 |
 | 2 | [Anders](https://open.spotify.com/track/7zRwT0qN0bcJ3YZ8i0BJBW) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Anders](https://open.spotify.com/album/0OQz7VerEPNrOkDDSxm2Uc) | 2:48 |
 | 3 | [As jy my vind](https://open.spotify.com/track/2Ope7Ta4eo6kuTBEnlX1vY) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [As jy my vind](https://open.spotify.com/album/49VESfdCVVlGKIk3zELjtO) | 3:31 |
 | 4 | [Alle Eer](https://open.spotify.com/track/2QTTNVu5gpfYnesPh42u7M) | [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Alynah Mackay](https://open.spotify.com/artist/1W5776lLdV7vOLRN8socJQ) | [Alle Eer](https://open.spotify.com/album/6xbZJ19CWwSIma0UprbnlW) | 2:46 |

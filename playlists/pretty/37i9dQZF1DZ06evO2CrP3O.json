@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139058,
+  "num_followers": 139072,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAA1SDiYu6HTBaPAhE2O2JQB",
+  "snapshot_id": "aMtLgAAAAAB55Xx9zBbyn8PjnWHYCn0C",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Loud",
-        "url": "https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG"
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/4fMaYgVNVzIUQOn19ctNad"
       },
       "artists": [
-        {
-          "name": "Just Loud",
-          "url": "https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9"
-        },
         {
           "name": "Blondie",
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Soul Train",
-      "url": "https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w"
+      "duration_ms": 187466,
+      "name": "(Can I) Find The Right Words (To Say) - Remastered",
+      "url": "https://open.spotify.com/track/2Gqr8oDf3nj4TKF48dhQSu"
     }
   ],
   "unique_name": "This Is Blondie",

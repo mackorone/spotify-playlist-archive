@@ -2,7 +2,7 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Will Linley
+> a little indie, a little pop, soda featuring Thomas Day
 
 1,451 songs - 3 day 0 hr 19 min
 

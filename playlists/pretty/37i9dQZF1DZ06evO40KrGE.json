@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37216,
+  "num_followers": 37226,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABoxGSLgfWpXutDt2TpTwYx",
+  "snapshot_id": "aMtLgAAAAAB+DoVI47G62Uy07TRIfJpA",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 289459,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Identidade",
         "url": "https://open.spotify.com/album/5dr9iu1pswVRmeou9ltwpm"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 289459,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recompensa",
         "url": "https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 215063,
-      "name": "Basta Uma Palavra",
-      "url": "https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ao Som dos Louvores",
         "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 313093,
       "name": "Amigo Esp\u00edrito Santo",
       "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 215063,
+      "name": "Basta Uma Palavra",
+      "url": "https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 248314,
-      "name": "Deus Tem Poder",
-      "url": "https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sementes da F\u00e9",
         "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 289552,
       "name": "Esconderijo do Alt\u00edssimo",
       "url": "https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 248314,
+      "name": "Deus Tem Poder",
+      "url": "https://open.spotify.com/track/39QAy80uCoPxx7ed7wdLDd"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Segredo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 306694,
-      "name": "O Segredo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
+      "duration_ms": 289970,
+      "name": "Todo Poderoso",
+      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "O Segredo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 289970,
-      "name": "Todo Poderoso",
-      "url": "https://open.spotify.com/track/4AIha4HSFqi7KFcSEcPM0O"
+      "duration_ms": 306694,
+      "name": "O Segredo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO"
     },
     {
       "added_at": null,
@@ -747,34 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhidas",
-        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "Hellen Miranda",
-          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
-        }
-      ],
-      "duration_ms": 247756,
-      "name": "Escolhidas",
-      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Sempre",
         "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
       },
@@ -807,6 +779,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Escolhidas",
+        "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Hellen Miranda",
+          "url": "https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r"
+        }
+      ],
+      "duration_ms": 247756,
+      "name": "Escolhidas",
+      "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cura",
         "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
@@ -832,25 +832,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 345698,
-      "name": "Alvo Mais que a Neve",
-      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For\u00e7a Imensa",
-        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 302927,
-      "name": "Igreja Pequena",
-      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
+      "duration_ms": 247942,
+      "name": "A Alma Abatida",
+      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
     },
     {
       "added_at": null,
@@ -871,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Sempre",
-        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+        "name": "For\u00e7a Imensa",
+        "url": "https://open.spotify.com/album/0qLMGkSjgjqzCb0BZzvXXQ"
       },
       "artists": [
         {
@@ -880,25 +864,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 224258,
-      "name": "N\u00e3o \u00e9 Tarde Demais",
-      "url": "https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harpa Vol.1",
-        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 247942,
-      "name": "A Alma Abatida",
-      "url": "https://open.spotify.com/track/512xriilWCODMzkyhFaR4O"
+      "duration_ms": 302927,
+      "name": "Igreja Pequena",
+      "url": "https://open.spotify.com/track/3inLgXi9DzkUMtj5CPPi6p"
     },
     {
       "added_at": null,
@@ -919,74 +887,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
-        "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
+        "name": "Harpa Vol.1",
+        "url": "https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc"
       },
       "artists": [
         {
-          "name": "Marina De Oliveira",
-          "url": "https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB"
-        },
-        {
-          "name": "Novo Som",
-          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
-        },
-        {
-          "name": "Alex Gonzaga",
-          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Jozyanne",
-          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
-        },
-        {
-          "name": "Brother Simion",
-          "url": "https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ"
-        },
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Banda & Voz",
-          "url": "https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E"
-        },
-        {
-          "name": "Ellas",
-          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
-        },
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 345698,
+      "name": "Alvo Mais que a Neve",
+      "url": "https://open.spotify.com/track/5iWARO07W7fW9uaU07zMeT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/67g7o7DQ4n2QZu4GVAa2Lb"
+      },
+      "artists": [
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        },
-        {
-          "name": "Raquel Mello",
-          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
         }
       ],
-      "duration_ms": 182508,
-      "name": "Unidos Pelo Amor",
-      "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+      "duration_ms": 224258,
+      "name": "N\u00e3o \u00e9 Tarde Demais",
+      "url": "https://open.spotify.com/track/5LyZZODJTapW2kjsf5Y2ZZ"
     },
     {
       "added_at": null,
@@ -1003,6 +931,22 @@
       "duration_ms": 237586,
       "name": "Ele Tem Poder",
       "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 Anos de Muito Louvor",
+        "url": "https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 259227,
+      "name": "Medley - Festa no C\u00e9u / Fogo Santo / Aqui tem Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/14OBr06PAYRYZa9Ff5QYDg"
     }
   ],
   "unique_name": "This Is Cassiane",

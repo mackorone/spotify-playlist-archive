@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: IV OF SPADES \(Philippines\)
+> Hottest indie sounds from Asia\. Cover: Kiki \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,103 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,169 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Walk](https://open.spotify.com/track/6RMrQc3mT9PksM7msH3aFn) | [Dac](https://open.spotify.com/artist/0nWX29koulPYFLJoMxIpJx), [鄭昭元 ZAOYUAN](https://open.spotify.com/artist/6LCI3F627oY5LPJ3cB4Hvj) | [Enough](https://open.spotify.com/album/3iyjQ3OEts3NZPMYXwyqIZ) | 4:27 |
 | 100 | [似乎又明白了一些事](https://open.spotify.com/track/1J0SrGzCOVvtgPZDIpwISf) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [似乎又明白了一些事](https://open.spotify.com/album/18ujp6HqNic7iOay1gSiMQ) | 4:18 |
 
-Snapshot ID: `AAAAAB2gcqO8f6GQ9TbCnx0emz9yy0ey`
+Snapshot ID: `AAAAACfXapaiyR/AmhQTOyEQc4gphSR7`

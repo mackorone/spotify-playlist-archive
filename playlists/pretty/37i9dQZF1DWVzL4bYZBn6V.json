@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 28179,
+  "num_followers": 28200,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
-      },
-      "artists": [
-        {
-          "name": "Luis JR",
-          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
-        },
-        {
-          "name": "D'ALEX",
-          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 201691,
       "name": "Nada",
       "url": "https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
+      },
+      "artists": [
+        {
+          "name": "Luis JR",
+          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
+        },
+        {
+          "name": "D'ALEX",
+          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
     },
     {
       "added_at": "2024-03-28 01:32:56",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,983 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,976 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 8 | [Bipolar](https://open.spotify.com/track/1ZtTGHFQwhltWz9jNVPBxp) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Bipolar](https://open.spotify.com/album/4fnTUUw8cxDHm1u58Z3JRM) | 2:51 |
 | 9 | [ILDEBRAND \(feat\. ICEKIID\)](https://open.spotify.com/track/76f4YhlwMdBOIiXitTjxaV) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MOTIONBOYZ \(MIXTAPE\)](https://open.spotify.com/album/6Nn8qXUNaXLQNTIHD1Fhzl) | 2:41 |
 | 10 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 |
-| 11 | [Submissive \(feat\. Zuloo\)](https://open.spotify.com/track/4eLM9kVdcf9gxtLGpg9rjw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [](https://open.spotify.com/album/null) | 2:47 |
+| 11 | [Submissive \(feat\. Zuloo\)](https://open.spotify.com/track/4eLM9kVdcf9gxtLGpg9rjw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [VULKANØ](https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ) | 2:47 |
 | 12 | [Step](https://open.spotify.com/track/5ZNJsqqcvgECPEG3i2rxkB) | [wicky](https://open.spotify.com/artist/79ky6ZBdwtfcMNf2LqRzvP) | [Step](https://open.spotify.com/album/2a0RrDIZbKd3GV0gituzji) | 2:32 |
 | 13 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 |
 | 14 | [C h v o r v i R i d a g](https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 2:32 |

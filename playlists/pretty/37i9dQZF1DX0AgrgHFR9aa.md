@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : okis
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,567 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,566 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LA MAGIE DU COUP DE BOL](https://open.spotify.com/track/4HmEhjYaSHhwEYDjyCaXfx) | [okis](https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB), [Mani Deïz](https://open.spotify.com/artist/0IKPfKkoKDbdQTKX0LCFZB) | [](https://open.spotify.com/album/null) | 2:06 |
+| 1 | [LA MAGIE DU COUP DE BOL](https://open.spotify.com/track/4HmEhjYaSHhwEYDjyCaXfx) | [okis](https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB), [Mani Deïz](https://open.spotify.com/artist/0IKPfKkoKDbdQTKX0LCFZB) | [TRIPLE CRÈME](https://open.spotify.com/album/0pcCLPiIAHtsUumu2N3zCG) | 2:06 |
 | 2 | [Chaque jour un peu plus](https://open.spotify.com/track/1g7aRhvS2FNgOOpYDKtVL1) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98) | [Paraît que les miracles n'existent pas](https://open.spotify.com/album/6LUXDm9fS8mtWtJFhVcM95) | 3:31 |
 | 3 | [INTRO](https://open.spotify.com/track/56HiaZ4c4Vf97QuW1IKVMB) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [INTRO](https://open.spotify.com/album/6Vq2XXly8aXgp9tFh2Tuez) | 3:26 |
 | 4 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 |

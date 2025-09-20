@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1CHaVLVHPxDrrVANgwxsts"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230299,
+      "name": "Counting Down The Days",
+      "url": "https://open.spotify.com/track/7cbOw6mnOjWKnvLWifQEjA"
+    },
+    {
+      "album": {
         "name": "Country Christmas",
         "url": "https://open.spotify.com/album/0XdN7x2UxeQN9u2gpLm6YZ"
       },

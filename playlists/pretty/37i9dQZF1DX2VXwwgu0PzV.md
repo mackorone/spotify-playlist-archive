@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Sal Ly and Shime Ahua
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,900 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,972 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 11 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
 | 12 | [Hosanna](https://open.spotify.com/track/3SRPFu0eWTtajH5l3XUBV6) | [Ogoh Precious](https://open.spotify.com/artist/1ozEQMzWQuJLNAAXRVpz83), [IsholaBeatz](https://open.spotify.com/artist/2fSqVIuSWiBbenBGde4KlW) | [Hosanna](https://open.spotify.com/album/1zo6LhAp1iP7abpmmMZPPK) | 2:33 |
 | 13 | [Omemma \- Live](https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59) | [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Chandler Moore: Live in Los Angeles](https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V) | 11:25 |
-| 14 | [Serving Master \- Energize Version](https://open.spotify.com/track/6R7FZf8xbSiI6ubbXsuyxq) | [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Serving A God \(Energize Version\)](https://open.spotify.com/album/37MjDtf3Fzn5VEZ2tocwsi) | 4:08 |
+| 14 | [Serving A God \- Energize Version](https://open.spotify.com/track/6R7FZf8xbSiI6ubbXsuyxq) | [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Serving A God \(Energize Version\)](https://open.spotify.com/album/37MjDtf3Fzn5VEZ2tocwsi) | 4:08 |
 | 15 | [JOY](https://open.spotify.com/track/7m0KC7T9QGF6Lbi41vH5xY) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [JOY](https://open.spotify.com/album/4CwMQ8v7GfTJLspDVO7dol) | 3:02 |
 | 16 | [Joy](https://open.spotify.com/track/393nJe8YyZXrx7uJDmlGT5) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Joy](https://open.spotify.com/album/4t0XROk7L1wPmWdjSX0LrP) | 2:26 |
 | 17 | [More of you God](https://open.spotify.com/track/770Z9OGv4gVgzDIbClpWYm) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [More of you God](https://open.spotify.com/album/03wxN0lOmPyzlziiNhKSrg) | 4:40 |

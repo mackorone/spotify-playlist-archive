@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,248 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,250 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 11 | [Route161 \- YAZZY BEATS Remix](https://open.spotify.com/track/0KgonpGA3oeq8RXETrVQCB) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [YAZZY BEATS](https://open.spotify.com/artist/3L7TsDNYesxwnnr3Bwzecg) | [回遊](https://open.spotify.com/album/4u4GnvBgGH4boBv9fvrgFt) | 2:45 |
 | 12 | [消えない火](https://open.spotify.com/track/3AG8ByNBrxISGBchkNXMcF) | [SUSHIBOYS](https://open.spotify.com/artist/7FFaFas6TD1PhMtJ1xel8J) | [ひ](https://open.spotify.com/album/2Gq4UgkjamHmclRHfjWwje) | 3:23 |
 | 13 | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/track/4FI5XZ9paE4Lliaacra77p) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [KICK BACK \(Frost Children Remix\)](https://open.spotify.com/album/3osCW6kofsU9dIlILmL46l) | 4:12 |
-| 14 | [J\-J POP \(feat\. Saren\)](https://open.spotify.com/track/5tPR7sfjqsuuJVr4Ddn1RT) | [kegøn](https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb), [Saren](https://open.spotify.com/artist/2vTKtunSdyr2We2xSAan8j) | [DONTMIND](https://open.spotify.com/album/2dxAXSvTgvxZPHo0Oyfgnt) | 1:36 |
+| 14 | [J\-J POP \(feat\. Saren\)](https://open.spotify.com/track/5tPR7sfjqsuuJVr4Ddn1RT) | [kegøn](https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb), [Saren](https://open.spotify.com/artist/5tbzr5nor6qJPUEryD7oZK) | [DONTMIND](https://open.spotify.com/album/2dxAXSvTgvxZPHo0Oyfgnt) | 1:36 |
 | 15 | [Angel \(feat\. swetty\)](https://open.spotify.com/track/4T64h1z1UafLWGl15zJndV) | [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [ME VS ME](https://open.spotify.com/album/6iE9IH2mvkvvQ35jmU0Veo) | 2:57 |
 | 16 | [Zoo](https://open.spotify.com/track/135G8ErUNZ6ZYEvXu87WXv) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [Zoo](https://open.spotify.com/album/0O0BY44rEkgAIZFJob8iMy) | 2:36 |
 | 17 | [SPIDER SILK](https://open.spotify.com/track/6XitXAq48WwEKN9v3OqR9n) | [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4) | [SPIDER SILK](https://open.spotify.com/album/0de1TT7S5z8YgZ2rfaxTu9) | 4:08 |

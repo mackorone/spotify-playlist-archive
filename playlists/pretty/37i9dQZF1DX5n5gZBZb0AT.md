@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,314 likes - 40 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,530 likes - 40 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 14 | [Tacata \(Remix\)](https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj) | [Tiagz](https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Tacata \(Remix\)](https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA) | 2:36 |
 | 15 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 16 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
-| 17 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
-| 18 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 17 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
+| 18 | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/track/456hxgSVUAJVgPV0UncG68) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [MOTINHA 2.0 \(Mete Marcha\)](https://open.spotify.com/album/15PHJFLeNIt2dfJIHtMP9F) | 1:58 |
 | 19 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 20 | [BRODYAGA FUNK](https://open.spotify.com/track/2V3hsJU3bTOATih0Fm4aDp) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [BRODYAGA FUNK](https://open.spotify.com/album/7EWDvEG6vKIjTBk3rGMtP0) | 2:14 |
 | 21 | [MATUSHKA ULTRAFUNK](https://open.spotify.com/track/12CXx3gXBn9QjGSNYzEh05) | [satirin](https://open.spotify.com/artist/7g38XDW5EXI4dMTUkYjVTO) | [MATUSHKA ULTRAFUNK](https://open.spotify.com/album/1SYGCQXfhjL8KnMXQ6ImsK) | 2:24 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 33 | [Live Another Day](https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Phonkageddon](https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg) | 2:13 |
 | 34 | [NEON BLADE](https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm) | 4:25 |
 | 35 | [REAL MOONSHINE FUNK \- Super Slowed](https://open.spotify.com/track/05ApNGJtAmmfL9lStfo8kO) | [DJ ROBE](https://open.spotify.com/artist/3eHYmpvQFLj7Q3g3LYP3OP), [TRXSHBXY](https://open.spotify.com/artist/1lpPb0grX95giST5LLNOuJ) | [REAL MOONSHINE FUNK](https://open.spotify.com/album/23VKm1LeYl3mkHfws8OP7D) | 1:34 |
-| 36 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
-| 37 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 36 | [HUMBLE\. \- SKRILLEX REMIX](https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [HUMBLE\. \(SKRILLEX REMIX\)](https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V) | 2:36 |
+| 37 | [BOUNCE FUNK \- Slowed](https://open.spotify.com/track/0cJwt3tpaMOXPAXkaHAp7k) | [SAPFIR](https://open.spotify.com/artist/0pSdNszQKrzI6m9okVVSL5) | [BOUNCE FUNK \(Slowed\)](https://open.spotify.com/album/572YC1K4uc7PjFqb6xaICD) | 1:37 |
 | 38 | [GANO \- Slowed](https://open.spotify.com/track/3pZwPvgzq4qUtveXzrkqdk) | [VUKEINE](https://open.spotify.com/artist/2Wy9S6wJDza4ehtIj4rGew), [Mc Maroladão](https://open.spotify.com/artist/7H8Im0AWaWPW6Qe6FLBeAs) | [GANO](https://open.spotify.com/album/4v6yhY10irD8n7f0sMc0II) | 1:17 |
 | 39 | [Funk Da Montanha \- Super Slowed](https://open.spotify.com/track/4gjg9hB5q4xWjJ9EelppL2) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw), [SCARIONIX](https://open.spotify.com/artist/19lQadj43jplt3tzz36jLb), [IMMORTAL PLAYA](https://open.spotify.com/artist/0zVxxogKTboGS2y5aQ8EvU) | [Funk Da Montanha](https://open.spotify.com/album/1lIRnJM73zVgEWVE8oCxnb) | 1:47 |
-| 40 | [TRALALERO TRALALA FUNK](https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1) | [DJ Raulipues](https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [TRALALERO TRALALA FUNK](https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4) | 1:57 |
+| 40 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 |
 
 Snapshot ID: `AAAAALRBthNUVWU9otCAeSgdHoj2vET4`

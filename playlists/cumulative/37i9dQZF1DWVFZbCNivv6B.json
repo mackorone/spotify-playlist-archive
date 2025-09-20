@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. Lefty Sm en la tarima. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. Beto Sierra en la tarima. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 231758,
       "name": "Catatumbo",
       "url": "https://open.spotify.com/track/1Bnpm9R8jYaEK7GEyNBGP3"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 232587,
       "name": "Cholo",
       "url": "https://open.spotify.com/track/1LU62m7g2VTJwp0OOUMjPl"
@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 172500,
       "name": "Conocimiento Prohibido",
       "url": "https://open.spotify.com/track/3wKL4EfrROyR26wpbOCOk5"
@@ -6579,6 +6579,32 @@
     },
     {
       "album": {
+        "name": "Gente Chaka",
+        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Gente Chaka",
+      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
+    },
+    {
+      "album": {
         "name": "Gimme A Second",
         "url": "https://open.spotify.com/album/01wFnLBPNdYcg05kJDkdbQ"
       },
@@ -8408,6 +8434,28 @@
       "duration_ms": 225549,
       "name": "Lalo",
       "url": "https://open.spotify.com/track/7odIaBva786qcMRWMFOMyN"
+    },
+    {
+      "album": {
+        "name": "Las Cuentas",
+        "url": "https://open.spotify.com/album/0TIvuANOmxZzbDlojhslDI"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Lalote",
+          "url": "https://open.spotify.com/artist/7jFNq0U92GK6EFLZfLjS16"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Las Cuentas",
+      "url": "https://open.spotify.com/track/0eFzp1ymrkEmYi7seDlaPZ"
     },
     {
       "album": {
@@ -11977,6 +12025,28 @@
     },
     {
       "album": {
+        "name": "Plegarias",
+        "url": "https://open.spotify.com/album/6iFc4jh5yxj9JB2LD3Qom3"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223638,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/4brGzrH7rgluGqvXLIoIIA"
+    },
+    {
+      "album": {
         "name": "PLOMO",
         "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
       },
@@ -15512,7 +15582,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 161007,
       "name": "TODOS SERIOS",
       "url": "https://open.spotify.com/track/3FMTVoLwYJ2kP0z4ILtRjs"
@@ -16256,6 +16326,36 @@
       "duration_ms": 185000,
       "name": "Verano",
       "url": "https://open.spotify.com/track/2gRfZmrE8X5gM2p6ADuINn"
+    },
+    {
+      "album": {
+        "name": "Verbal Balacera",
+        "url": "https://open.spotify.com/album/3BgPnBzsxn5Z0AgtJWuj3d"
+      },
+      "artists": [
+        {
+          "name": "Bizor",
+          "url": "https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7"
+        },
+        {
+          "name": "Trew",
+          "url": "https://open.spotify.com/artist/7wawnTgEzR8fXDEtmVnSzX"
+        },
+        {
+          "name": "Binko Yi",
+          "url": "https://open.spotify.com/artist/2ul4H6d0ZgKSv3EtdPRtxM"
+        },
+        {
+          "name": "Calakas Clique",
+          "url": "https://open.spotify.com/artist/0EcWxWcLPFdvhPfnIdBfSt"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214903,
+      "name": "Verbal Balacera",
+      "url": "https://open.spotify.com/track/0VvDzEN169bckAejMxLx4A"
     },
     {
       "album": {

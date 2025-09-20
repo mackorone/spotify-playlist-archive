@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: Thundercat
 
-1,375 songs - 3 day 1 hr 19 min
+1,377 songs - 3 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [baby, lmk](https://open.spotify.com/track/2xYtaFbnusB8RDW4lxkimy) | [Notkyle](https://open.spotify.com/artist/6NbOllM9XjgO44JQyhUv6D), [Lukey](https://open.spotify.com/artist/3do4yL5zwMViERQIwA6KYp) | [baby, lmk](https://open.spotify.com/album/0VzytjR0VnjonQrySdnocY) | 3:26 | 2025-06-12 | 2025-09-19 |
 | [Back](https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Back](https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5) | 2:18 | 2023-10-05 | 2024-02-09 |
 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 | 2025-09-18 |  |
+| [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 | 2025-09-19 |  |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-19 | 2025-09-19 |
 | [Back to School](https://open.spotify.com/track/4l9uDHFUyblAkFqPqegVHt) | [野巢 Nosu](https://open.spotify.com/artist/30pJXiYdUEUSVVbizHKjTs) | [Back to School](https://open.spotify.com/album/5YvmD7LY6l7lzYdwh1tl1p) | 3:30 | 2025-06-06 | 2025-06-20 |
 | [back to you](https://open.spotify.com/track/4J3UeEeSNrMKYHCaaQy46a) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf), [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [back to you](https://open.spotify.com/album/1wyZWBOKXgjiYxc7IR1Ajs) | 3:33 | 2024-05-16 | 2024-08-09 |
@@ -535,6 +536,7 @@
 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 | 2024-04-11 | 2024-04-19 |
 | [How?](https://open.spotify.com/track/2j7Pva7eln4YrW7PkfMAKu) | [ESKM](https://open.spotify.com/artist/2gV4JeFpv8CgtSZN3Nb4iy), [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [How?](https://open.spotify.com/album/5Peuqy7Cum6ajMVC3X85k6) | 3:43 | 2025-06-12 | 2025-06-20 |
 | [Human Nature](https://open.spotify.com/track/3t52A63M852sUyVOYWPheG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:57 | 2023-11-23 | 2025-01-17 |
+| [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 | 2025-09-18 |  |
 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-03 | 2024-10-11 |
 | [i believe in you](https://open.spotify.com/track/2c6EvcF1pbrYvMmANTkgsA) | [MKNK](https://open.spotify.com/artist/3ISXbYdy7FZsAZL9rEsI27) | [re\-connecting....](https://open.spotify.com/album/1ogi6AzPjORdSXp11Vv1sg) | 3:42 | 2023-04-14 | 2023-09-08 |
 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-07-10 |  |
@@ -980,6 +982,7 @@
 | [Romantic Pt\. II](https://open.spotify.com/track/1GM7j1nwUstl4cNoiYZOsg) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Romantic Pt\. II](https://open.spotify.com/album/4sj9tPkP7qKwKzaxRdaOKz) | 2:42 | 2022-12-30 | 2023-01-20 |
 | [Romantica](https://open.spotify.com/track/39eZLeY7b5nYt76MivVP6M) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [Début](https://open.spotify.com/album/6Zwn86SLvGk3cy4ic6rb0v) | 3:14 | 2024-11-28 | 2024-12-05 |
 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 | 2024-08-22 | 2024-08-30 |
+| [room 1: OTF](https://open.spotify.com/track/1I2UpNMJwCSLTnBavTwnrx) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 1: OTF](https://open.spotify.com/album/2EyFBidiMq8N7gA5fGSory) | 2:22 | 2025-09-18 |  |
 | [Rose](https://open.spotify.com/track/2OOMy8bcLiVOquyAM8ONeb) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Rose](https://open.spotify.com/album/1RTmX2eJgfdBSEErVW0Jfm) | 2:37 | 2023-05-11 | 2023-06-09 |
 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 | 2024-08-15 | 2024-11-08 |
 | [Round & Round](https://open.spotify.com/track/1nGzJFZ5nmG4zS7s8s0CuG) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Round & Round](https://open.spotify.com/album/4E9ZtOGnrNEjiVEPcepMBU) | 3:16 | 2023-03-09 | 2024-02-02 |
@@ -994,6 +997,7 @@
 | [Safe Space](https://open.spotify.com/track/4qPYKAuPtGskn6gDfWmtVi) | [BECKA](https://open.spotify.com/artist/0zH5akhP1A41eUk6VCQUNz) | [Safe Space](https://open.spotify.com/album/6JKj3EO00S2Zmsqi5lviiM) | 3:34 | 2023-11-09 | 2023-11-24 |
 | [Safe Spaces](https://open.spotify.com/track/6dzv9Nii8Ixy4GoaR5TEEl) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Safe Spaces](https://open.spotify.com/album/25zyMiv23luQa7rchIG3o0) | 2:23 | 2025-09-18 |  |
 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 | 2025-09-18 |  |
+| [Safest Place \(feat\. Yuna\)](https://open.spotify.com/track/0VzVviCR4scXRZvJVCja75) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [TIME WILL TELL](https://open.spotify.com/album/6jNasr9sRzu0TmsRdaqh7z) | 2:31 | 2025-09-18 |  |
 | [Sailing](https://open.spotify.com/track/5BhlE0di2Qeey289ECk9IF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sailing](https://open.spotify.com/album/4JC0wgDAIou1Q0005eCXb4) | 3:25 | 2023-10-13 | 2024-02-02 |
 | [sanctuary](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [sanctuary](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 | 2023-06-15 | 2023-06-23 |
 | [Satellite](https://open.spotify.com/track/1ImhD5W20BYmmA9GYlBvOk) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 3:30 | 2024-02-29 | 2024-05-25 |
@@ -1228,8 +1232,6 @@
 | [Top Bop](https://open.spotify.com/track/2MYQdWKJS2OFWDYcsTKhvo) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Top Bop](https://open.spotify.com/album/1AlFUvBhjG8jF3SR3dDOg0) | 2:31 | 2023-04-27 | 2023-10-06 |
 | [Tough Love \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5qidBQqsjdwewlQaw16o3L) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Good Morning Gorgeous \(Deluxe\)](https://open.spotify.com/album/5K3aBzXwBvSltrtfBNYRl6) | 4:33 | 2022-06-08 | 2022-06-10 |
 | [Toxic Games](https://open.spotify.com/track/3QQYtCycRomIXlzeCQo6rj) | [fredrik s](https://open.spotify.com/artist/16UPHme5BmhuhoQpeTGGGr) | [Toxic Games](https://open.spotify.com/album/6lHCGQUi4ygqAUH0GHjJhL) | 3:09 | 2024-11-14 | 2024-12-05 |
-| [Track 1](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
-| [Track 9](https://open.spotify.com/track/0VzVviCR4scXRZvJVCja75) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-24 | 2023-09-01 |
 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 | 2022-06-09 | 2022-06-24 |
 | [TREASURE](https://open.spotify.com/track/7grAswqijIdxzRgK3l06A7) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [TREASURE](https://open.spotify.com/album/72lymuQG7fYSUNI2iTBtTh) | 3:11 | 2025-05-01 | 2025-08-15 |

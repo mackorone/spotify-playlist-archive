@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Kinto Sol en portada ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Sandro Malandro en portada ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 207500,
       "name": "A Trav\u00e9s del Tiempo (333)",
       "url": "https://open.spotify.com/track/70ghyLL6s6OWjx7d5jJkg1"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 202764,
       "name": "Antifama",
       "url": "https://open.spotify.com/track/6uD1EgyPCI6v5Ic7Eo9Z5L"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 353676,
       "name": "Barra Abierta",
       "url": "https://open.spotify.com/track/11LFvw8fYPNZHVpomY2QUy"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 207222,
       "name": "BILBOR",
       "url": "https://open.spotify.com/track/01xLacaMPChcF3E4Fozrbz"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 231758,
       "name": "Catatumbo",
       "url": "https://open.spotify.com/track/1Bnpm9R8jYaEK7GEyNBGP3"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 198476,
       "name": "CEREZA",
       "url": "https://open.spotify.com/track/3b2Av4XhMCtWqxsxQ91lbf"
@@ -8305,6 +8305,32 @@
     },
     {
       "album": {
+        "name": "Gente Chaka",
+        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Gente Chaka",
+      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
+    },
+    {
+      "album": {
         "name": "Gloriax",
         "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
       },
@@ -8412,6 +8438,52 @@
       "duration_ms": 172800,
       "name": "Graciela / \"Carta a Mi Abuela\"",
       "url": "https://open.spotify.com/track/1yZZsjAwvLfeHdOIEdlHGR"
+    },
+    {
+      "album": {
+        "name": "Grinberg",
+        "url": "https://open.spotify.com/album/4pJxGTLOh2yKRwo42HcMVO"
+      },
+      "artists": [
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        },
+        {
+          "name": "Teorema",
+          "url": "https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA"
+        },
+        {
+          "name": "Urbanse",
+          "url": "https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Ser G Soul",
+          "url": "https://open.spotify.com/artist/4JflVn7Q0mR7HSxCRrS3z4"
+        },
+        {
+          "name": "Horus",
+          "url": "https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351230,
+      "name": "Grinberg",
+      "url": "https://open.spotify.com/track/1qGJboZMfcjZhiBZS9BmRy"
     },
     {
       "album": {
@@ -10214,7 +10286,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 182757,
       "name": "La FIERITA",
       "url": "https://open.spotify.com/track/4qEbMTQnv5sP7T5XpfLGEC"
@@ -10769,6 +10841,28 @@
     },
     {
       "album": {
+        "name": "SE FUE LA LUZ",
+        "url": "https://open.spotify.com/album/5Q7wLNKTv3MnxcOSg2Y2bV"
+      },
+      "artists": [
+        {
+          "name": "Vakero",
+          "url": "https://open.spotify.com/artist/5rlwbF5flU2JCmAzV5Obu0"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "LA \u00b4PARA Y VAKER\u00d3",
+      "url": "https://open.spotify.com/track/6woEKGoP2XiAI2BhrPZ1gT"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Canci\u00f3n",
         "url": "https://open.spotify.com/album/4ATSnu0qKCqM0U1Lw1qE0g"
       },
@@ -10880,6 +10974,28 @@
       "duration_ms": 240000,
       "name": "Largarme",
       "url": "https://open.spotify.com/track/3rTAkitnfEkOMVu3OMqxzA"
+    },
+    {
+      "album": {
+        "name": "Las Cuentas",
+        "url": "https://open.spotify.com/album/0TIvuANOmxZzbDlojhslDI"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Lalote",
+          "url": "https://open.spotify.com/artist/7jFNq0U92GK6EFLZfLjS16"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Las Cuentas",
+      "url": "https://open.spotify.com/track/0eFzp1ymrkEmYi7seDlaPZ"
     },
     {
       "album": {
@@ -15100,7 +15216,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 100608,
       "name": "OBRIGADO",
       "url": "https://open.spotify.com/track/2j1LpiF8pEUe4Kr5oRTE7f"
@@ -15398,6 +15514,28 @@
       "duration_ms": 146750,
       "name": "Otro Concierto",
       "url": "https://open.spotify.com/track/3D2g4YCGiiSidMABDe9ypA"
+    },
+    {
+      "album": {
+        "name": "Otro Horizonte",
+        "url": "https://open.spotify.com/album/4hOwmx6JUQME4YgDYqAqBA"
+      },
+      "artists": [
+        {
+          "name": "Rafaell Cocoa",
+          "url": "https://open.spotify.com/artist/39nFvUPl8lMqvt0O3XZinc"
+        },
+        {
+          "name": "Primobeatz",
+          "url": "https://open.spotify.com/artist/72LTyD9Rh8nqOCvb3uyLxG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118548,
+      "name": "Otro Horizonte",
+      "url": "https://open.spotify.com/track/67R3YDJ6IvnPRAtVBZFkL6"
     },
     {
       "album": {
@@ -17127,6 +17265,32 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n la Quiere",
+        "url": "https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+        },
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338000,
+      "name": "Qui\u00e9n la Quiere",
+      "url": "https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
         "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
       },
@@ -17207,6 +17371,24 @@
     },
     {
       "album": {
+        "name": "Rafa Ca$H",
+        "url": "https://open.spotify.com/album/3vZGVMN4IAAuqjU4sXaJe9"
+      },
+      "artists": [
+        {
+          "name": "Ander Bock",
+          "url": "https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348226,
+      "name": "Rafa Ca$H",
+      "url": "https://open.spotify.com/track/0tV3iMhYCo5L6dk9ImdH8D"
+    },
+    {
+      "album": {
         "name": "Rap de culto",
         "url": "https://open.spotify.com/album/6uGPj9zJFxiih5f8H0Vn9Q"
       },
@@ -17226,6 +17408,28 @@
       "duration_ms": 152429,
       "name": "Rap de culto",
       "url": "https://open.spotify.com/track/5PoukzPE9YDkXaVk9cThDQ"
+    },
+    {
+      "album": {
+        "name": "Rap De La Mata",
+        "url": "https://open.spotify.com/album/3xvgo39y5SlwPX2hzYqOmN"
+      },
+      "artists": [
+        {
+          "name": "Shelow Shaq",
+          "url": "https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU"
+        },
+        {
+          "name": "Lapiz Conciente",
+          "url": "https://open.spotify.com/artist/0UTsdD7VIsEB9i7a6DDx5t"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Rap De La Mata",
+      "url": "https://open.spotify.com/track/5nWhXXiBWBUaeX0PT7HSw8"
     },
     {
       "album": {
@@ -17590,6 +17794,24 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "album": {
+        "name": "RESPETO",
+        "url": "https://open.spotify.com/album/5Bs4pslrUo6mzkj4g7f3UH"
+      },
+      "artists": [
+        {
+          "name": "Rc La Sensacion",
+          "url": "https://open.spotify.com/artist/4yR1GCYxY2lgkvPUhUM8Ws"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94442,
+      "name": "RESPETO",
+      "url": "https://open.spotify.com/track/4Amr9e2FjzQWtsz696lNDw"
     },
     {
       "album": {
@@ -18047,6 +18269,24 @@
     },
     {
       "album": {
+        "name": "SAL Y TORTILLA",
+        "url": "https://open.spotify.com/album/34BgKfIhXyJyL1RoRd1HBp"
+      },
+      "artists": [
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178319,
+      "name": "SAL Y TORTILLA",
+      "url": "https://open.spotify.com/track/2DSA2DnuBFiEmJqZ09Vk5x"
+    },
+    {
+      "album": {
         "name": "Sala Llena",
         "url": "https://open.spotify.com/album/3mtTUeqA6YQnMdDJwCRb0H"
       },
@@ -18062,6 +18302,36 @@
       "duration_ms": 135272,
       "name": "Sala Llena",
       "url": "https://open.spotify.com/track/0r09pvHj9RWzEfAkClrb4D"
+    },
+    {
+      "album": {
+        "name": "Sali2 de Barrio",
+        "url": "https://open.spotify.com/album/4OzeM6WnKn2rKCQ2dy5CrB"
+      },
+      "artists": [
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        },
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        },
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "Jan Glack",
+          "url": "https://open.spotify.com/artist/0Vg3WP6VS3IuKYwvnGsJFh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241480,
+      "name": "Sali2 de Barrio",
+      "url": "https://open.spotify.com/track/2Jrmgq8QHvfLPYwlY4RbjM"
     },
     {
       "album": {
@@ -18098,6 +18368,32 @@
       "duration_ms": 215758,
       "name": "Salmos",
       "url": "https://open.spotify.com/track/3iVSrLMgMJRremITvXnmWz"
+    },
+    {
+      "album": {
+        "name": "Saltamontes",
+        "url": "https://open.spotify.com/album/3CrgC5O23ryxQtjKLQ3k6U"
+      },
+      "artists": [
+        {
+          "name": "Casi Nadie",
+          "url": "https://open.spotify.com/artist/0vJgkbbav7xljw0MkFQ0aN"
+        },
+        {
+          "name": "El Kalvo",
+          "url": "https://open.spotify.com/artist/3GOtzu1fzxIS0zYI94K21v"
+        },
+        {
+          "name": "Car3sucio",
+          "url": "https://open.spotify.com/artist/4dnEue5UW1TVX8hK9opzRc"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212991,
+      "name": "Saltamontes",
+      "url": "https://open.spotify.com/track/2x8qUNxvJs8yJwgHl3ooks"
     },
     {
       "album": {
@@ -19168,7 +19464,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 182117,
       "name": "Solitario Muisca",
       "url": "https://open.spotify.com/track/2x54zSkJ3xjObunjhQ3NFd"
@@ -19260,7 +19556,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 249000,
       "name": "Solo Quiero Fumar",
       "url": "https://open.spotify.com/track/1p3DpWXR6VHlSWtAsC31vO"
@@ -20596,7 +20892,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 214020,
       "name": "Triqui",
       "url": "https://open.spotify.com/track/0QxzH85sOCFZ8Q1oJDogpv"
@@ -21350,7 +21646,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 202000,
       "name": "Valijiando",
       "url": "https://open.spotify.com/track/7yOmUc9vQGMVpODQFxCEwq"
@@ -21726,7 +22022,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 212232,
       "name": "Voy En El Troc\u00f3n",
       "url": "https://open.spotify.com/track/5d5vq0yhLueKOB9bnhwcgB"
@@ -21804,6 +22100,36 @@
       "duration_ms": 206528,
       "name": "V\u00e1monos de Aqu\u00ed",
       "url": "https://open.spotify.com/track/0zhhnma04FbdNvVsuczhrD"
+    },
+    {
+      "album": {
+        "name": "V\u00eda Prohibida",
+        "url": "https://open.spotify.com/album/3U6nyfJBitK7jR5qulCqKD"
+      },
+      "artists": [
+        {
+          "name": "Error 999",
+          "url": "https://open.spotify.com/artist/7lsntvM70w5zsPUbAFFFT0"
+        },
+        {
+          "name": "Victor Rutty",
+          "url": "https://open.spotify.com/artist/1IwaBmp25vZN2gxUitGECH"
+        },
+        {
+          "name": "Rober del Pyro",
+          "url": "https://open.spotify.com/artist/6OTAC8ZCYXGZ3FCXn5bmrA"
+        },
+        {
+          "name": "DJ Kaef",
+          "url": "https://open.spotify.com/artist/3ibFIw0G8rIK5Ixao16YSg"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214565,
+      "name": "V\u00eda Prohibida",
+      "url": "https://open.spotify.com/track/6fhG214dpBXmsi9OrXZvgp"
     },
     {
       "album": {

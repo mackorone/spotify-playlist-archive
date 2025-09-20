@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: The White Hair Cut",
+  "description": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e17\u0e35\u0e48\u0e1b\u0e31\u0e07 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c! \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PURPEECH",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c Indieology",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 278000,
       "name": "Turning Back",
       "url": "https://open.spotify.com/track/1LZRt5SEfIxhxrZA6iqgb1"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 253000,
       "name": "\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27",
       "url": "https://open.spotify.com/track/057fM9Lihc7TEQB26j5OGM"
@@ -1082,6 +1082,24 @@
       "duration_ms": 290909,
       "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e32\u0e07\u0e2d\u0e2d\u0e01",
+        "url": "https://open.spotify.com/album/5cg2790VNoRAK8pQDjTu3z"
+      },
+      "artists": [
+        {
+          "name": "Slur",
+          "url": "https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279173,
+      "name": "\u0e17\u0e32\u0e07\u0e2d\u0e2d\u0e01",
+      "url": "https://open.spotify.com/track/0JEusAwqhkQfACiLCA5XdU"
     },
     {
       "album": {
@@ -1604,6 +1622,24 @@
       "duration_ms": 258000,
       "name": "\u0e27\u0e31\u0e19\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01 (It's Time)",
       "url": "https://open.spotify.com/track/1xZ9yjk9d32eSVUv4q1Y9S"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e1a\u0e32\u0e22\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/53jfXBBh8XkDIwDLEc6aAu"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "\u0e2a\u0e1a\u0e32\u0e22\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/5Fd2rhFYhNq2bdIrtQfBTE"
     },
     {
       "album": {

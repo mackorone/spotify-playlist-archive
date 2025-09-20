@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,516 likes - 29 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,518 likes - 29 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 9 | [Personal Pornstar](https://open.spotify.com/track/6bKpTpTcQ4imWaP4uMMJmb) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [DROOL](https://open.spotify.com/album/46uDWaLv4goRceYW9atPaI) | 2:49 |
 | 10 | [SEX MACHINA](https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0) | 2:09 |
 | 11 | [Deserve Each Other](https://open.spotify.com/track/4sQzliwhbjG17hZMXkg7aL) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/5wO4rxGxX729iEkcIuvYvH) | 2:47 |
-| 12 | [End Of The World](https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS) | 2:38 |
-| 13 | [Grim Reaper](https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug) | 2:50 |
-| 14 | [BODY PARTS](https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4) | 3:12 |
+| 12 | [Grim Reaper](https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug) | 2:50 |
+| 13 | [BODY PARTS](https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4) | 3:12 |
+| 14 | [End Of The World](https://open.spotify.com/track/5DcYAGea9lp1MQh1V293tr) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [End Of The World](https://open.spotify.com/album/09cG6BcdEtyjjbeLFG7TvS) | 2:38 |
 | 15 | [Mozart](https://open.spotify.com/track/4EISOJDYezvr8UtIeOy3sj) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Mozart](https://open.spotify.com/album/2uCwKi5lViWMVTCCwp2JwL) | 1:37 |
 | 16 | [Incognito](https://open.spotify.com/track/7y1XREM9DIRIH5FwQcwOaB) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [FEAST \(Let’s Eat Yuh Yuh\)](https://open.spotify.com/album/6AaZk65wZdhu7GtKTM9dPx) | 2:39 |
 | 17 | [ENEMIES \(feat\. bludnymph & Shift K3Y\)](https://open.spotify.com/track/3iOSOAFB0Rv1cNZM5Jwy4P) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 2:26 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4yfE9e.md) - [plain]
 | 28 | [Lavender](https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn) | [EZ Ice](https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Lavender](https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA) | 2:43 |
 | 29 | [Wishin](https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [Indigowavv](https://open.spotify.com/artist/2yzeix2G6wK5nEJAudnC4Z) | [Wishin](https://open.spotify.com/album/4MuJLxFax2HZAMwl8xdhzv) | 2:53 |
 
-Snapshot ID: `aMn6AAAAAABUVQ2DPDDh1052JhcLGpIk`
+Snapshot ID: `aMtLgAAAAAC5AtegpcEAcsdyDggM/VSk`

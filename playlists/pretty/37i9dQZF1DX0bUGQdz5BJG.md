@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 ### [Next From Nashville](https://open.spotify.com/playlist/37i9dQZF1DX0bUGQdz5BJG)
 
-> Music City must\-hears\. Cover: CeCe
+> Music City must\-hears\. Cover: Payton Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,275 likes - 200 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,294 likes - 200 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [Turn On The Lights](https://open.spotify.com/track/0dFJxcjmxNma9wt40UAn41) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Turn On The Lights](https://open.spotify.com/album/3oCS87hsUM8NDpoGsvrRBL) | 3:34 |
 | 200 | [Humble](https://open.spotify.com/track/7HOFz6GuWjgZ3QZ5c3iGIX) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Humble](https://open.spotify.com/album/2swwefQjCOhM389zPn5Llf) | 3:03 |
 
-Snapshot ID: `AAAAALtymba3e7S8LmazGtL+6XQLrNU1`
+Snapshot ID: `AAAAAKVtPCe2q+OE5+tPRtbs9RKpMPcS`

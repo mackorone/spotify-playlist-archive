@@ -1,13 +1,37 @@
 {
   "description": "Featuring that new vintage. Cover: Kali Uchis",
-  "num_followers": 415136,
+  "num_followers": 415176,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIMMfc/4NPruE5waVY5AO4O6tAbt",
+  "snapshot_id": "AAAAAPlRqXh20HhDvM29mhXOOtz2xZ5N",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:35",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
+      },
+      "artists": [
+        {
+          "name": "The Favors",
+          "url": "https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        },
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 217143,
+      "name": "David's Brother",
+      "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
+    },
     {
       "added_at": "2025-09-12 04:00:28",
       "album": {
@@ -29,6 +53,22 @@
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
     },
     {
+      "added_at": "2025-09-19 04:00:35",
+      "album": {
+        "name": "Call Up Nancy",
+        "url": "https://open.spotify.com/album/7LZns7IyuIB9EFvo7uwYyM"
+      },
+      "artists": [
+        {
+          "name": "Zinadelphia",
+          "url": "https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum"
+        }
+      ],
+      "duration_ms": 205987,
+      "name": "Call Up Nancy",
+      "url": "https://open.spotify.com/track/6Ub4rQInSRonYY6y4TPnk3"
+    },
+    {
       "added_at": "2025-09-12 04:00:28",
       "album": {
         "name": "something like this",
@@ -43,6 +83,22 @@
       "duration_ms": 169430,
       "name": "something like this",
       "url": "https://open.spotify.com/track/6hR0pP818BP6CZjaOG7k1V"
+    },
+    {
+      "added_at": "2025-09-19 04:00:35",
+      "album": {
+        "name": "Big Star",
+        "url": "https://open.spotify.com/album/01IYN4SUBDMYXXs6F3LWVG"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 255131,
+      "name": "Big Star",
+      "url": "https://open.spotify.com/track/4x08v04zVAsyVeeZskSDN3"
     },
     {
       "added_at": "2025-09-12 04:00:28",
@@ -1497,22 +1553,6 @@
       "url": "https://open.spotify.com/track/6M3QXcbCwOq5htJoTAkHip"
     },
     {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
       "added_at": "2022-09-30 04:01:00",
       "album": {
         "name": "Rolling Back",
@@ -1527,22 +1567,6 @@
       "duration_ms": 223720,
       "name": "Rolling Back",
       "url": "https://open.spotify.com/track/0YUgl8ulUgXOFr1IL8ZLK2"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "It Don't Matter",
-        "url": "https://open.spotify.com/album/5CSe4p4wJpggsELemioCqj"
-      },
-      "artists": [
-        {
-          "name": "Elise Azkoul",
-          "url": "https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE"
-        }
-      ],
-      "duration_ms": 213184,
-      "name": "It Don't Matter",
-      "url": "https://open.spotify.com/track/45IX2seKuUtWnQEzAh3JRc"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1631,22 +1655,6 @@
       "duration_ms": 137798,
       "name": "Making it Right",
       "url": "https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "Those Days Are Over",
-        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Every Day and Every Night",
-      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
     },
     {
       "added_at": "2023-06-23 04:01:00",

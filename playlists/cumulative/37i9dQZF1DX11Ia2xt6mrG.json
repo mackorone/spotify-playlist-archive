@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Deorro, Alexia Mariel y RAYBEN en portada.",
+  "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. The Wookies en portada.",
   "name": "electro mx ",
   "tracks": [
     {
@@ -412,6 +412,28 @@
       "duration_ms": 144375,
       "name": "Angel",
       "url": "https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/6fiQok7m1pQUTJsCUueZPK"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242024,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/71nlFhAB2VhGZ1Vd7OdbHi"
     },
     {
       "album": {
@@ -2770,7 +2792,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 195692,
       "name": "flamingos",
       "url": "https://open.spotify.com/track/44NLrDVuOPH1ehp3fY7YVB"
@@ -3645,6 +3667,28 @@
     },
     {
       "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/5USpRVyGupuWJdUs0fNHhO"
+      },
+      "artists": [
+        {
+          "name": "Xox\u00f8",
+          "url": "https://open.spotify.com/artist/0S87gSNJeIOYTmaL31nW3O"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112566,
+      "name": "Insta Crush",
+      "url": "https://open.spotify.com/track/2837TQTr3t9lRF7i1rrh1x"
+    },
+    {
+      "album": {
         "name": "Inv\u00edtame A Un Caf\u00e9",
         "url": "https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5"
       },
@@ -3968,7 +4012,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 186902,
       "name": "LA MALA VIDA",
       "url": "https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU"
@@ -6076,7 +6120,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 169761,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
@@ -6942,7 +6986,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 140339,
       "name": "secrets",
       "url": "https://open.spotify.com/track/7cdFOeQHW8YOGTVr3153yG"
@@ -7357,6 +7401,46 @@
     },
     {
       "album": {
+        "name": "SOHO",
+        "url": "https://open.spotify.com/album/3YNpnq5HAeW52ll8zZV9E7"
+      },
+      "artists": [
+        {
+          "name": "Purpple K",
+          "url": "https://open.spotify.com/artist/6KipYMVEAeTYC4waoqFE6e"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162514,
+      "name": "SOHO",
+      "url": "https://open.spotify.com/track/0Wb0qRQFSsnFAlnzrBgsWJ"
+    },
+    {
+      "album": {
+        "name": "SOL",
+        "url": "https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA"
+      },
+      "artists": [
+        {
+          "name": "The Wookies",
+          "url": "https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195271,
+      "name": "SOL",
+      "url": "https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5"
+    },
+    {
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
       },
@@ -7516,6 +7600,28 @@
       "duration_ms": 184347,
       "name": "Star Love",
       "url": "https://open.spotify.com/track/4OiaBX9HD3FUoiFZJWRLoK"
+    },
+    {
+      "album": {
+        "name": "steles",
+        "url": "https://open.spotify.com/album/31jNMVOxzrX9XghglLW1BL"
+      },
+      "artists": [
+        {
+          "name": "Navjaxx",
+          "url": "https://open.spotify.com/artist/2TULVw2MOCScHpvEomVP4s"
+        },
+        {
+          "name": "KREZUS",
+          "url": "https://open.spotify.com/artist/6S1GI59Xa6ClqYBqASQxjq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "steles",
+      "url": "https://open.spotify.com/track/44y0RiAOGgydaTZm1epkiw"
     },
     {
       "album": {
@@ -8842,7 +8948,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"

@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Antonio Rios Y Sus Amigos - Teatro Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2czLBfZ0QMfMrlovKJDUcv"
+      },
+      "artists": [
+        {
+          "name": "Antonio Rios",
+          "url": "https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi"
+        },
+        {
+          "name": "Sombras Nada M\u00e1s",
+          "url": "https://open.spotify.com/artist/4BcjHOqvgEZZaarxtCG2Ma"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211017,
+      "name": "Lloraras - En Vivo Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2s3fthd5osyzRdmZJt9U1J"
+    },
+    {
+      "album": {
         "name": "Aniversario",
         "url": "https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD"
       },
@@ -4442,7 +4464,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 260096,
       "name": "Ya Te Olvide - En Vivo",
       "url": "https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf"

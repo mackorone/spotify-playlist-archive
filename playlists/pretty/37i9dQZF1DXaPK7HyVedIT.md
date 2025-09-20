@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 ### [Dance Paradise](https://open.spotify.com/playlist/37i9dQZF1DXaPK7HyVedIT)
 
-> Eletrônico do momento para curtir onde estiver\. Foto: Mochakk
+> Eletrônico do momento para curtir onde estiver\. Foto: illusionize
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,750 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,222,061 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Enjoy the Silence](https://open.spotify.com/track/1amCCB4XeX1k7wAuwzLIfm) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L) | [Enjoy the Silence](https://open.spotify.com/album/4aViIoBPm9o3FHK8z33lQK) | 2:40 |
-| 2 | [Incondicional \- Les Trois Monde](https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [R.D.L.D.](https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6) | 2:31 |
+| 2 | [Incondicional \- Les Trois Monde](https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [R.D.L.D.](https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6) | 2:31 |
 | 3 | [MEGA DO JAMES BROWN](https://open.spotify.com/track/0TGIk0OpzL8lzB8JQnLX5d) | [Guidini](https://open.spotify.com/artist/1TGa00kic91Sr8tUETDUrh) | [MEGA DO JAMES BROWN](https://open.spotify.com/album/0bBnCqU9Brx6RMEwCAUN8e) | 4:00 |
 | 4 | [Legumes](https://open.spotify.com/track/3SoUF3c4hlB1WFjvah1abp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [Legumes](https://open.spotify.com/album/600smbnjXNOHndcU8iPqep) | 4:44 |
 | 5 | [Fever](https://open.spotify.com/track/7b3tktwO7obxxYuQMiyz5T) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Fever](https://open.spotify.com/album/3FC9JSCOZxpqxishliyxby) | 2:26 |

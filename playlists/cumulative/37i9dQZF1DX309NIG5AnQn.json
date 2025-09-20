@@ -1231,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "de amor",
+        "url": "https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145858,
+      "name": "de amor",
+      "url": "https://open.spotify.com/track/2aTErhZNKXlUIh9OBHcMAF"
+    },
+    {
+      "album": {
         "name": "De Cero A Cien X Essentials #1",
         "url": "https://open.spotify.com/album/4JDgTCvoC6nbyjDkE2F9OW"
       },

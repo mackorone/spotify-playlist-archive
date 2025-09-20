@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Yana
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Paris Paloma
 
-537 songs - 1 day 6 hr 27 min
+541 songs - 1 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Gold](https://open.spotify.com/track/0wubDogxhtvRFPpuEyNmze) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 |  |
 | [Golden Hour](https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Golden Hour](https://open.spotify.com/album/01j4hEadyEaX40YCjQXvMR) | 2:49 | 2023-08-25 | 2023-09-02 |
+| [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-19 |  |
 | [Good Grief](https://open.spotify.com/track/1XJiPT4CuzLju0dLeEA559) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Good Grief](https://open.spotify.com/album/4W3taFGD605teSYbVv4rfu) | 3:35 | 2025-08-15 |  |
 | [Good Riddance](https://open.spotify.com/track/4psl72FmlFg9y711X88aEL) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Good Riddance](https://open.spotify.com/album/75BeAq4oBNfn6g3zN8lwfE) | 3:17 | 2025-05-30 |  |
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-11-12 | 2023-08-10 |
@@ -260,7 +261,7 @@
 | [In This Life](https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI) | 2:43 | 2022-08-19 | 2024-02-17 |
 | [In This Life](https://open.spotify.com/track/6LVBLqjO3uh7UmSfp0PNyI) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/0qzrRGMp3q7kt5l2d4SS8j) | 2:43 | 2022-03-12 | 2022-09-15 |
 | [In This Life](https://open.spotify.com/track/7oOHmn71o7XjdeHJkfGNj2) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [We Still Move on Dance Floors](https://open.spotify.com/album/2Q06IiBSrCsS11HhYME17x) | 2:43 | 2021-11-12 | 2022-07-28 |
-| [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 | 2024-03-04 |  |
+| [in your arms](https://open.spotify.com/track/2CPDwUoC69q6ric0kjUf72) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [in your arms](https://open.spotify.com/album/27xZcpqdPn1ZBvsdnRJuvQ) | 3:19 | 2024-03-04 | 2025-09-20 |
 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 | 2021-11-12 | 2023-09-30 |
 | [Is What It Is](https://open.spotify.com/track/7MDA0WYCgLWU7bRMZD3HF0) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Ever\-Shifting, Continual Blossoming](https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB) | 3:23 | 2025-01-31 |  |
 | [Is What It Is](https://open.spotify.com/track/5E2lXhEAe1dsQlvAFzykx2) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Is What It Is](https://open.spotify.com/album/3EKqraKWALJHm2AZ2cDzSr) | 3:56 | 2024-01-12 | 2024-02-11 |
@@ -371,6 +372,7 @@
 | [Puzzle Peace](https://open.spotify.com/track/6RNx2PvcKDBJSvFMW6SqES) | [SAILR](https://open.spotify.com/artist/3OjFBZXDBX6mrezQFaadGa) | [Puzzle Peace](https://open.spotify.com/album/7vKsNksBLfF9WRExodr9DF) | 3:54 | 2021-11-12 | 2022-07-29 |
 | [radio tower](https://open.spotify.com/track/1rIrGL2KRBhIE4FEX2IawH) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [san marino](https://open.spotify.com/album/64FhCcwZeQHckx4Dug0Et4) | 3:08 | 2024-11-22 | 2025-03-15 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 |  |
+| [Ready to Let You Down](https://open.spotify.com/track/4SEbW0shz7Q7yN3qrEDoQM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Ready to Let You Down](https://open.spotify.com/album/3tkB4oJJ3ENFQMDjflYIBu) | 3:04 | 2025-09-19 |  |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2025-07-05 |
 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-03-29 | 2024-04-19 |
 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 | 2022-03-12 | 2024-04-19 |
@@ -408,6 +410,7 @@
 | [Sing Like Madonna](https://open.spotify.com/track/6R81LNxCNqY9c1TXCuyvXq) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Sing Like Madonna](https://open.spotify.com/album/4iDYXsSzgSmXRzzyBfR6yT) | 3:33 | 2024-11-13 |  |
 | [Sinner](https://open.spotify.com/track/2Lm7Qmm7UvlRojt0c8BFI1) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Sinner](https://open.spotify.com/album/0EKc0MQ8huSHiUm1ipjSD7) | 3:23 | 2024-07-12 |  |
 | [Sip Your Wine \(with Sierra Ferrell\)](https://open.spotify.com/track/6KMqNxwO4kRwkz6jcK85ti) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Music For People Who Believe In Love](https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE) | 3:57 | 2025-05-23 |  |
+| [Skeleton](https://open.spotify.com/track/2Yn9puKCi8DRD1oYi4kNn8) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Skeleton](https://open.spotify.com/album/06nY6LXMeaRGEudo7i2IOd) | 2:38 | 2025-09-19 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 | 2024-08-31 |
 | [Sleepwalking \(feat\. Sasha Alex Sloan\)](https://open.spotify.com/track/24BsZ8lMbzHz1C2QjuP6Pd) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Whispering Pines](https://open.spotify.com/album/5BlyT55fQ4Vj6ju1hSjRhb) | 2:56 | 2024-11-15 |  |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 | 2025-07-26 |
@@ -534,6 +537,7 @@
 | [Wonderland](https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC) | 3:32 | 2023-07-07 | 2023-09-23 |
 | [Wonderland](https://open.spotify.com/track/69OY9Ujexp9qK4MHtD6Tzr) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/770No61AWG74gR1xQaRYzL) | 3:32 | 2023-03-17 | 2023-07-08 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-11-12 | 2024-02-20 |
+| [Worth the Walk](https://open.spotify.com/track/0b6sdOUZ6DMiE8rhTpGuzK) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [To Love A Thing That Fades](https://open.spotify.com/album/1mBprt4SXV2ih1O6HVRbUK) | 3:20 | 2025-09-19 |  |
 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-06-06 |  |
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-12 | 2024-01-19 |
 | [You Again](https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [You Again](https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m) | 3:14 | 2025-07-25 |  |

@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-248 songs - 16 hr 26 min
+249 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 | 2023-08-07 |  |
 | [Koppamga Koppamga \- From "Mr\. Majnu"](https://open.spotify.com/track/0Z3zGNsygprNlSMAX6vAvc) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Mr\. Majnu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QoSCNoIdNXOU0dWo5g66W) | 4:34 | 2021-12-16 | 2022-07-25 |
 | [La La Bheemla](https://open.spotify.com/track/2B5ovomAAUAZtLGArf4wdw) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4) | [Bheemla Nayak](https://open.spotify.com/album/40QYJZhy74fQqi8OGuKaDb) | 2:27 | 2021-12-16 | 2022-07-25 |
-| [Laahe Laahe](https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Acharya](https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG) | 4:07 | 2021-12-16 |  |
+| [Laahe Laahe](https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Acharya](https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG) | 4:07 | 2021-12-16 | 2025-09-20 |
 | [Leharaayi](https://open.spotify.com/track/0pCXbJ3lbtinCZnwg1CYDC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Most Eligible Bachelor](https://open.spotify.com/album/67FATbnVWtXgD9TF6OGb3P) | 4:05 | 2022-07-24 | 2025-01-21 |
 | [Leharaayi](https://open.spotify.com/track/6DFXFqK5PTGqTzTbdj47uV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Most Eligible Bachelor](https://open.spotify.com/album/22hFErJbDz0TB3xUMTpsAf) | 4:05 | 2021-12-16 | 2022-07-25 |
 | [Life Of Ram](https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Jaanu](https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG) | 6:04 | 2023-05-04 |  |
@@ -190,6 +190,7 @@
 | [Pillaa Raa](https://open.spotify.com/track/6vhvtHO8e57meVNp8yKzdV) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:55 | 2022-07-24 | 2023-08-08 |
 | [Pillaa Raa](https://open.spotify.com/track/3MXTLAouHSztOxoOSOnbb9) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Top Singer's Playlist](https://open.spotify.com/album/10pn3qTksy0ii0qXogOm0s) | 3:57 | 2022-07-24 | 2022-08-21 |
 | [Pillaa Raa](https://open.spotify.com/track/47hP2BJPCOMyYKT5WQ9evZ) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:57 | 2021-12-16 | 2022-07-25 |
+| [Poolamme Pilla \(From "HanuMan"\) \[Telugu\]](https://open.spotify.com/track/4ooaLueG56Bsq44TUNRgAn) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Poolamme Pilla \(From "HanuMan"\) \[Telugu\]](https://open.spotify.com/album/0BV1m2cWIBUmFpO3DhkvJN) | 4:27 | 2025-09-19 |  |
 | [Pranaamam](https://open.spotify.com/track/75PLRXczgeUtwD9mFzDVsB) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Janatha Garage](https://open.spotify.com/album/4WSLvIQ3Q6vhYQIxXi7mn8) | 4:00 | 2023-08-07 | 2023-11-08 |
 | [Prema Velluva \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Prema Velluva \(From "Hit \- 3"\) \(Telugu\)](https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG) | 4:12 | 2025-05-09 |  |
 | [Prema Vennela](https://open.spotify.com/track/5mBwJ0Dl4GSoXwbATPtcsj) | [Sudharshan Ashok](https://open.spotify.com/artist/0NCSUqKWDdQrLf7688pRa6), [Srimani](https://open.spotify.com/artist/0EyiqvK7GFXBk0xcoLb6si) | [Chitralahari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pr4jhCfAZ2VjaC45ebThr) | 3:37 | 2021-12-16 |  |

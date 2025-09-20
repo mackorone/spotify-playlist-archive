@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223398,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
+    },
+    {
+      "album": {
+        "name": "Abracadabra",
         "url": "https://open.spotify.com/album/0afS7TjKOoq8LzTx9CgOnu"
       },
       "artists": [
@@ -106,7 +124,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 294573,
       "name": "Bad Romance",
       "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
@@ -290,7 +308,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 148470,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0"
@@ -456,6 +474,24 @@
       "duration_ms": 194253,
       "name": "Cannibal",
       "url": "https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3"
+    },
+    {
+      "album": {
+        "name": "CANNIBALISM!",
+        "url": "https://open.spotify.com/album/20PiiYxiYvWiagbQ65z1Qo"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167156,
+      "name": "CANNIBALISM!",
+      "url": "https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh"
     },
     {
       "album": {
@@ -730,6 +766,28 @@
       "duration_ms": 259825,
       "name": "Evil Woman",
       "url": "https://open.spotify.com/track/5qRJD1yaLJ5s0J3JpbgnwA"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/4zAy084VKE74mjySXPMlaW"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "Forgot About Dre - Album Version (Edited)",
+      "url": "https://open.spotify.com/track/5sdjP6WpDav6FZUE20efFs"
     },
     {
       "album": {
@@ -2086,7 +2144,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 136502,
       "name": "SICK PRETTY MIND (SIDE B)",
       "url": "https://open.spotify.com/track/4VY6SsgA05tDXC3jAkAE1h"
@@ -2658,7 +2716,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 186346,
       "name": "THE DINER",
       "url": "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF"

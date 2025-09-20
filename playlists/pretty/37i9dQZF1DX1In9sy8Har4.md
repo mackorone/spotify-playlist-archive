@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1In9sy8Har4.md) - [plain]
 
 > The Official Snabba Cash Playlist\. Season 2 out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,829 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,826 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

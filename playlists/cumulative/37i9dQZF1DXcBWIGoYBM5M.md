@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Justin Bieber
+> The hottest 50\. Cover: Doja Cat
 
 1,287 songs - 2 day 20 hr 56 min
 

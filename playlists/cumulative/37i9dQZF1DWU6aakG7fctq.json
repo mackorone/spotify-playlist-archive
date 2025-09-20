@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "4ME",
+        "url": "https://open.spotify.com/album/1fnkE945x2Q1NAiUTvhcHC"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160421,
+      "name": "4ME",
+      "url": "https://open.spotify.com/track/0zVhZg7WBIffwnHmxqhYdY"
+    },
+    {
+      "album": {
         "name": "6:00 P.M.",
         "url": "https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp"
       },
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 155526,
       "name": "As\u00ed me va",
       "url": "https://open.spotify.com/track/5TrOcMvIqmvZ2aYBRW6ZAC"
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 154000,
       "name": "Callaito",
       "url": "https://open.spotify.com/track/3Aqg7ZURmkYp2wBWP97yyf"
@@ -3347,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Corazones Desechables",
+        "url": "https://open.spotify.com/album/1pXRSlf95dCVBrXYGbi2B4"
+      },
+      "artists": [
+        {
+          "name": "Katz\u00f9 Oso",
+          "url": "https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Corazones Desechables",
+      "url": "https://open.spotify.com/track/68XmEEQOo5NY4XqxNIKMIE"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Entero",
         "url": "https://open.spotify.com/album/1q9Uk5JuWNciN5YSSA8BS2"
       },
@@ -3380,6 +3416,24 @@
       "duration_ms": 201176,
       "name": "Corolla 94",
       "url": "https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG"
+    },
+    {
+      "album": {
+        "name": "Coronel",
+        "url": "https://open.spotify.com/album/4yP6tr6iSQbIsyouDcWRWO"
+      },
+      "artists": [
+        {
+          "name": "Depressiego",
+          "url": "https://open.spotify.com/artist/0lGbS4aZKjwIzqXtq2fyQD"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193448,
+      "name": "Coronel",
+      "url": "https://open.spotify.com/track/4O1PkdMNUAT53EMuv4PEmr"
     },
     {
       "album": {
@@ -4708,7 +4762,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 248446,
       "name": "El Amor Vuela",
       "url": "https://open.spotify.com/track/5KaNFY843tNHHtDRZPHrAN"
@@ -4900,6 +4954,28 @@
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/7LUepo06YjPnIoDVmiwYlJ"
+    },
+    {
+      "album": {
+        "name": "El Mundo Delante De Ti",
+        "url": "https://open.spotify.com/album/5wyycKkfemxHq3D90pDh2t"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        },
+        {
+          "name": "TRIST\u00c1N!",
+          "url": "https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "El Mundo Delante De Ti",
+      "url": "https://open.spotify.com/track/6BXu2OtgRrVN4UHf2PKAUp"
     },
     {
       "album": {
@@ -5566,7 +5642,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 198041,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/7aivoV6lsu8Xn7aXcsdeTL"
@@ -5744,7 +5820,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 233096,
       "name": "Espina De Rosas",
       "url": "https://open.spotify.com/track/4RyIoIeXZXvu7nwc4nEWxM"
@@ -6074,6 +6150,24 @@
       "duration_ms": 225717,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4X3uJBuvNpucNE70y5CPl5"
+    },
+    {
+      "album": {
+        "name": "Falta Algo",
+        "url": "https://open.spotify.com/album/5psNcnKQlvazaFbBN8MUVv"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203127,
+      "name": "Falta Algo",
+      "url": "https://open.spotify.com/track/6zZjV6QPv2DQqcBQRPyd5f"
     },
     {
       "album": {
@@ -6646,6 +6740,24 @@
       "duration_ms": 177598,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/1KGt05jHnHhFwvw8F5AlOy"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Good Night",
+        "url": "https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261139,
+      "name": "Good Luck, Good Night",
+      "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
     },
     {
       "album": {
@@ -7832,6 +7944,24 @@
       "duration_ms": 269640,
       "name": "La Ciudad",
       "url": "https://open.spotify.com/track/2YAhz9BUgMniYM1WNfLpkL"
+    },
+    {
+      "album": {
+        "name": "La Cocina",
+        "url": "https://open.spotify.com/album/2kexItK3vmo0knubvQWh3i"
+      },
+      "artists": [
+        {
+          "name": "Sofia Lafuente",
+          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189088,
+      "name": "La Cocina",
+      "url": "https://open.spotify.com/track/7rYFeSjLMBkyv3yy5XCzvM"
     },
     {
       "album": {
@@ -9700,7 +9830,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 215250,
       "name": "malibU",
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
@@ -10085,6 +10215,24 @@
     },
     {
       "album": {
+        "name": "ANKAAN",
+        "url": "https://open.spotify.com/album/5Q1Zln67vDhOXn7mqX0mqq"
+      },
+      "artists": [
+        {
+          "name": "juliocesar",
+          "url": "https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242999,
+      "name": "me r\u00edo de la NASA",
+      "url": "https://open.spotify.com/track/5JOVUEftbqwhphq2nW0KgC"
+    },
+    {
+      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -10256,7 +10404,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 244223,
       "name": "Mi Color Favorito",
       "url": "https://open.spotify.com/track/36UpRIQb1wis9Svxwr5YX9"
@@ -11504,7 +11652,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 300431,
       "name": "No est\u00e1 tan mal",
       "url": "https://open.spotify.com/track/5UYynltQCCM3pGXvAwEeLM"
@@ -14042,7 +14190,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 252549,
       "name": "QUE ME PERDONE LA VIDA",
       "url": "https://open.spotify.com/track/27tyhKZs1quBkQqX611gT3"
@@ -16382,7 +16530,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 203287,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/7yo3nV5vWY2dMLVgC1YNKj"
@@ -17037,6 +17185,24 @@
     },
     {
       "album": {
+        "name": "Toda una vida",
+        "url": "https://open.spotify.com/album/5ZoDaSrxspL5PHHyqWu0Xd"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171340,
+      "name": "Toda una vida",
+      "url": "https://open.spotify.com/track/2Blydh05Xl0U0LST9beyR7"
+    },
+    {
+      "album": {
         "name": "todo bien :-)",
         "url": "https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS"
       },
@@ -17582,6 +17748,24 @@
       "duration_ms": 199210,
       "name": "Tu Veneno",
       "url": "https://open.spotify.com/track/0MzNLLx5SxavXd2eoRrpZC"
+    },
+    {
+      "album": {
+        "name": "FAN\u00c1TICA",
+        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
+      },
+      "artists": [
+        {
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206538,
+      "name": "Tu VIP",
+      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
     },
     {
       "album": {

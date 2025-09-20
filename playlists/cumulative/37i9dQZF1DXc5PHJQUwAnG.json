@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Victor Mendivil en portada.",
+  "description": "Bienvenidx a la trampa mexa. El Bogueto en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -4464,6 +4464,24 @@
       "duration_ms": 183733,
       "name": "La Trampa",
       "url": "https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV"
+    },
+    {
+      "album": {
+        "name": "Lamine Yamal",
+        "url": "https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163378,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 79886,
+  "num_followers": 79890,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Under deg",
-        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 244266,
-      "name": "Under deg",
-      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 299333,
       "name": "Bru over m\u00f8rke b\u00f8lger",
       "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Under deg",
+        "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Under deg",
+      "url": "https://open.spotify.com/track/7bCWY2qgzjKMhTc0Tr2IO0"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
         "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 193079,
       "name": "Det begynner \u00e5 bli et liv",
       "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-08-28 22:00:05",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-08-28 22:00:05",
       "album": {
-        "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
-        "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
-      },
-      "artists": [
-        {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        },
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
-      "url": "https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5"
-    },
-    {
-      "added_at": "2025-08-28 22:00:05",
-      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2025-08-28 22:00:05",
+      "album": {
+        "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
+        "url": "https://open.spotify.com/album/5wa6SdMaTRGnI6qI7TDq37"
+      },
+      "artists": [
+        {
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        },
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Alltid Aldri (feat. Ingebj\u00f8rg Bratland)",
+      "url": "https://open.spotify.com/track/1l4A0NJPKZOaZ28BrwDVR5"
     },
     {
       "added_at": "2025-08-28 22:00:05",

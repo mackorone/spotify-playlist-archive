@@ -2,7 +2,7 @@
 
 ### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
 
-> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Ray Volpe
+> All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with PEEKABOO
 
 1,486 songs - 3 day 9 hr 53 min
 

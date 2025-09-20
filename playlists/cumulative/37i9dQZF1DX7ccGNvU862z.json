@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YUNGTARR",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JayQ",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 183428,
       "name": "ALIEN",
       "url": "https://open.spotify.com/track/42Wc17EFHgTuuDSdM2A1Hj"
@@ -636,6 +636,24 @@
       "duration_ms": 102461,
       "name": "Bali",
       "url": "https://open.spotify.com/track/4dg3peJ7J2sanlkyOCw7tf"
+    },
+    {
+      "album": {
+        "name": "Bangkok vibe",
+        "url": "https://open.spotify.com/album/51ywnY5H5ykqAodQeHnX25"
+      },
+      "artists": [
+        {
+          "name": "BANGMIN",
+          "url": "https://open.spotify.com/artist/0XNAB7Exujvs1R3ijJDkNa"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185037,
+      "name": "Bangkok vibe",
+      "url": "https://open.spotify.com/track/1v0ftsf7iesT8WrdY8A6fs"
     },
     {
       "album": {
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 170810,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/0jvPuiQAnergoh0otFaLOW"
@@ -5450,6 +5468,24 @@
       "duration_ms": 172000,
       "name": "Sakuna",
       "url": "https://open.spotify.com/track/1JTLxXrESiX4Mz5VBtCFRX"
+    },
+    {
+      "album": {
+        "name": "Sanrio",
+        "url": "https://open.spotify.com/album/0o0tRYEe92iUlP6a1LXhSR"
+      },
+      "artists": [
+        {
+          "name": "Kakagoesbackhome",
+          "url": "https://open.spotify.com/artist/3FmE7HqD23T9KKQmiu94M1"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Sanrio",
+      "url": "https://open.spotify.com/track/25JwYWJL8hm3M4pIfF4kaE"
     },
     {
       "album": {
@@ -9644,7 +9680,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 134265,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/52UYNxwivDViPv3ZaCkcSB"
@@ -10675,6 +10711,28 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e07 (Double J)",
+        "url": "https://open.spotify.com/album/1r3clWVD3tEVT39qTvK4ZM"
+      },
+      "artists": [
+        {
+          "name": "JayQ",
+          "url": "https://open.spotify.com/artist/5SLXYrzObBv7IrLzo4I4S6"
+        },
+        {
+          "name": "Young J",
+          "url": "https://open.spotify.com/artist/5nYImteGVIjH7sXrD9quLp"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207414,
+      "name": "\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e27\u0e48\u0e32\u0e07 (Double J)",
+      "url": "https://open.spotify.com/track/4gLMSWL68WWsu7EkRV1V0f"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e1e\u0e1a",
         "url": "https://open.spotify.com/album/07MxXCWHOYymKgc3mU55mw"
       },
@@ -11609,6 +11667,28 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e21\u0e14\u0e38\u0e25\u0e23\u0e31\u0e01 (Balance)",
+        "url": "https://open.spotify.com/album/27NJks9IX9VfAjgvQQRtgk"
+      },
+      "artists": [
+        {
+          "name": "SEA.",
+          "url": "https://open.spotify.com/artist/0uu4cmaCJaaVOiUHQUG2ZC"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "\u0e2a\u0e21\u0e14\u0e38\u0e25\u0e23\u0e31\u0e01 (Balance)",
+      "url": "https://open.spotify.com/track/2luYdyxKSSxuC3cSW8N6A0"
+    },
+    {
+      "album": {
         "name": "\u0e2a\u0e21\u0e32\u0e18\u0e34\u0e2a\u0e31\u0e49\u0e19",
         "url": "https://open.spotify.com/album/1KkxnxDY1PkkfqWG1ro1Kb"
       },
@@ -12025,6 +12105,32 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e19",
+        "url": "https://open.spotify.com/album/5nx5uApVy3PQuoqXHeYQsB"
+      },
+      "artists": [
+        {
+          "name": "H19",
+          "url": "https://open.spotify.com/artist/1tV7R6eK6tocVZogocURsY"
+        },
+        {
+          "name": "3way",
+          "url": "https://open.spotify.com/artist/0Y9gDb7F4swjPHssSdyfbx"
+        },
+        {
+          "name": "ESK-B",
+          "url": "https://open.spotify.com/artist/63ONYJBO8q93Rt4sGl4yN5"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194085,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e1d\u0e19",
+      "url": "https://open.spotify.com/track/1LVWzkSUO7x6t9uLmk9Mwk"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e19\u0e49\u0e32\u0e2b\u0e19\u0e32\u0e27",
         "url": "https://open.spotify.com/album/2a0KAwifvA59awte5mrU26"
       },
@@ -12172,7 +12278,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 192293,
       "name": "\u0e2b\u0e49\u0e2d\u0e07\u0e0a\u0e31\u0e48\u0e27\u0e04\u0e23\u0e32\u0e27 (Motel)",
       "url": "https://open.spotify.com/track/36lfPTcsWLOTUDrDeOdeZT"
@@ -13696,7 +13802,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 127659,
       "name": "\u0e40\u0e23\u0e37\u0e48\u0e2d\u0e07\u0e02\u0e2d\u0e07\u0e01\u0e39 (\u0e1e\u0e48\u0e2d\u0e1a\u0e49\u0e32\u0e19\u0e43\u0e08\u0e01\u0e25\u0e49\u0e32)",
       "url": "https://open.spotify.com/track/7nbz5ChW4547YFN1FGVyUv"
@@ -14028,6 +14134,28 @@
       "duration_ms": 150386,
       "name": "\u0e41\u0e04\u0e1b\u0e2b\u0e21\u0e39",
       "url": "https://open.spotify.com/track/5vPkVHgDPJY11j62plGUoD"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e1c\u0e39\u0e49\u0e0a\u0e32\u0e22\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
+        "url": "https://open.spotify.com/album/2VPRMY96Jrl4Y6U46oH1qE"
+      },
+      "artists": [
+        {
+          "name": "INZ\u00c9",
+          "url": "https://open.spotify.com/artist/6HlaEUuaYb5juC2qsQmGmc"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "\u0e41\u0e04\u0e48\u0e1c\u0e39\u0e49\u0e0a\u0e32\u0e22\u0e04\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07",
+      "url": "https://open.spotify.com/track/6bnN3FQoeMYPRVazExnT5k"
     },
     {
       "album": {
@@ -14514,7 +14642,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 234852,
       "name": "\u0e42\u0e1b\u0e23\u0e40\u0e14\u0e35\u0e22\u0e27\u0e44\u0e21\u0e48\u0e21\u0e35\u0e08\u0e23\u0e34\u0e07",
       "url": "https://open.spotify.com/track/7H0Zk3tcYFaRt6YIjL82EK"

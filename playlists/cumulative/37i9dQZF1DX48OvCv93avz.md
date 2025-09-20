@@ -2,7 +2,7 @@
 
 ### [Demon Slayer](https://open.spotify.com/playlist/37i9dQZF1DX48OvCv93avz)
 
-> Enter the <a href="https://open.spotify.com/site/infinityplaylist">Infinity Playlist</a>\.  Music from "Demon Slayer"\. <br/>  ©吾峠呼世晴／集英社・アニプレックス・ufotable
+> Enter the <a href="spotify:site:infinityplaylist">Infinity Playlist</a>\.  Music from "Demon Slayer"\. <br/>  ©吾峠呼世晴／集英社・アニプレックス・ufotable
 
 54 songs - 2 hr 36 min
 

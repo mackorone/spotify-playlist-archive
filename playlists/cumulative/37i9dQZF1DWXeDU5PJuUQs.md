@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-229 songs - 14 hr 10 min
+230 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Labios Compartidos \- En Vivo](https://open.spotify.com/track/4mbZ7lM957Ljb3grkhrs2q) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:32 | 2021-12-10 | 2022-07-28 |
 | [Latidos](https://open.spotify.com/track/2BV9cUhl5HVBpn6nUudnlT) | [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x), [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [El Club de la Cumbia](https://open.spotify.com/artist/1WTE076oMv3AL15Ics0qnU) | [Rambla De Montevideo](https://open.spotify.com/album/2FLqOZNLJdS9zT5L2iB41l) | 2:57 | 2025-06-20 |  |
 | [Llamala / Una Calle Nos Separa \- En Vivo](https://open.spotify.com/track/7wvG7AxaUlgrfhnl4LozrZ) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En Vivo](https://open.spotify.com/album/3KwyevLnQNE7nXJtmIOLc9) | 3:57 | 2025-03-14 |  |
+| [Lloraras \- En Vivo Teatro Gran Rex](https://open.spotify.com/track/2s3fthd5osyzRdmZJt9U1J) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Sombras Nada Más](https://open.spotify.com/artist/4BcjHOqvgEZZaarxtCG2Ma) | [Antonio Rios Y Sus Amigos \- Teatro Gran Rex \(En Vivo\)](https://open.spotify.com/album/2czLBfZ0QMfMrlovKJDUcv) | 3:31 | 2025-09-19 |  |
 | [Lloraras mas de diez veces](https://open.spotify.com/track/3nYGOZ9rTj1czXLrKHoFqQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aniversario](https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD) | 3:29 | 2025-02-28 |  |
 | [Lo Intentamos \- En Vivo](https://open.spotify.com/track/63Du15jCCnjjM2nzQ3OIS4) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/6ZG2zkEkNlpiEq8SRcn7tT) | 2:20 | 2022-03-18 | 2022-12-25 |
 | [Locura y Pasión \(En Vivo en la Quinta Vergara\)](https://open.spotify.com/track/34ibXLS4Wp2x2vDAlAzIRM) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Locura y Pasión \(En Vivo en la Quinta Vergara\)](https://open.spotify.com/album/2RjtKMQlFgUXw7UOnzi3Uk) | 4:00 | 2022-01-07 | 2022-07-25 |
@@ -231,7 +232,7 @@
 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 | 2023-04-24 |  |
 | [Ya llegó \- En Vivo](https://open.spotify.com/track/7kbYYzNAkoQtcyShZvMspR) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [Sin Miedo \(En Vivo\)](https://open.spotify.com/album/5iXv2zVf6nmd4FmBiSBMEv) | 1:28 | 2025-04-18 | 2025-07-05 |
 | [YA NO SIENTO NADA \- EN VIVO](https://open.spotify.com/track/2lFqOL9ZCckmJzjOZF0hOS) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [PRELUDIOS \(EN VIVO\)](https://open.spotify.com/album/06iXtfYHxTVepSLWT467Wq) | 3:59 | 2025-08-29 |  |
-| [Ya Te Olvide \- En Vivo](https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Ya Te Olvide \(En Vivo\)](https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC) | 4:20 | 2021-12-10 |  |
+| [Ya Te Olvide \- En Vivo](https://open.spotify.com/track/1Xhy66Vvyk4KUSNWx3P8Qf) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [Ya Te Olvide \(En Vivo\)](https://open.spotify.com/album/69vSl7Ue6NQe92t0k7LVwC) | 4:20 | 2021-12-10 | 2025-09-20 |
 | [Yo Era](https://open.spotify.com/track/3n6EihEumKlLky7mfeOj71) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v) | 2:12 | 2025-03-14 |  |
 | [Yo Tengo un Angel \- En Vivo](https://open.spotify.com/track/73lLqZyFsu6jGFfD1e7nYI) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Yo Tengo un Angel \(En Vivo\)](https://open.spotify.com/album/6nqRXecIGxl5eDTNekrldR) | 2:09 | 2022-03-18 | 2022-07-25 |
 | [Yo tomo licor \- En Vivo](https://open.spotify.com/track/4cJTVWpkGJa5G18egTwu2W) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [En Vivo Movistar Arena, Sesión 1](https://open.spotify.com/album/46VBUMLDQnPoR33QuXVJM7) | 2:25 | 2023-12-22 |  |

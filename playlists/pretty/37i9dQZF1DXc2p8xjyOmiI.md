@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 
 > Puros corridones pa' quemarle las patas al Diablo 😈 HERNÁN TREJO en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,905 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,940 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2p8xjyOmiI.md) - [plain]
 | 79 | [El Cigarrito Banado](https://open.spotify.com/track/0HeTasu9tMyqTFP7Exu6E7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Y Seguimos La Borrachera](https://open.spotify.com/album/1Dtzxd3Dumtysst0Xk4HnD) | 3:19 |
 | 80 | [Maybe](https://open.spotify.com/track/2QrCGyJAPhjiky7P0SQJHy) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Maybe](https://open.spotify.com/album/4sKTf9MhkKpgCGZb5aFtJH) | 3:09 |
 
-Snapshot ID: `AAAAAL63vxh5PvoxEndzi41GVK6Z/4e/`
+Snapshot ID: `AAAAAJsnswHqA3HRme+rrE7fsMvUR8f3`

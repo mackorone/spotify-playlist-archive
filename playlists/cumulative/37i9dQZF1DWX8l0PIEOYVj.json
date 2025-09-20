@@ -2145,6 +2145,28 @@
     },
     {
       "album": {
+        "name": "By the Light of the Moon",
+        "url": "https://open.spotify.com/album/4Hd8CzQdBmuEXsUyHpYCcj"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Kerli",
+          "url": "https://open.spotify.com/artist/4IFgewC2urR62Fwt7uAU03"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267062,
+      "name": "By the Light of the Moon",
+      "url": "https://open.spotify.com/track/20TYKg7pZLNFmLwwfER9G5"
+    },
+    {
+      "album": {
         "name": "Call It Quits (feat. Danni Carra)",
         "url": "https://open.spotify.com/album/735ZTy17ECMFUje6WSi3tS"
       },
@@ -6906,7 +6928,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 164785,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/33lIbOLfF200gictVibk9O"
@@ -8108,6 +8130,32 @@
       "duration_ms": 190789,
       "name": "I Miss U",
       "url": "https://open.spotify.com/track/1ZK7PV7r9is98UD4zqSy9h"
+    },
+    {
+      "album": {
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/4oArT2bJZlrdvoqMh5Q4bK"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "ANDY KAUTZ",
+          "url": "https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/1dfkSVQn5Pwct72NkmKZMG"
     },
     {
       "album": {
@@ -16878,7 +16926,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 212800,
       "name": "WantU2Go",
       "url": "https://open.spotify.com/track/6uNqwvJqnOhAOOHwrMBPq5"

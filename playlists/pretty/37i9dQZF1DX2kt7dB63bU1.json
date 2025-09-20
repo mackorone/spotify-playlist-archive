@@ -1,13 +1,37 @@
 {
   "description": "Jazz voices of today. Cover: Rachael & Vilray",
-  "num_followers": 160423,
+  "num_followers": 160450,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOwzIkhS9BAiJ8rkqBK4qniJ6HMQ",
+  "snapshot_id": "AAAAAHje5tBilqnqJZ1bWBIymzgJZVp9",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:09",
+      "album": {
+        "name": "Oh Snap",
+        "url": "https://open.spotify.com/album/7uiAPDnBrbgujLp0p9E32Z"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        },
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        },
+        {
+          "name": "Kate Davis",
+          "url": "https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco"
+        }
+      ],
+      "duration_ms": 214925,
+      "name": "Take this stone (feat. June McDoom & Kate Davis)",
+      "url": "https://open.spotify.com/track/5njraCJH3kezunxuBGpKf1"
+    },
     {
       "added_at": "2025-09-12 04:00:27",
       "album": {
@@ -39,6 +63,26 @@
       "duration_ms": 227080,
       "name": "fucking happy",
       "url": "https://open.spotify.com/track/5tZplFi9dOTcwmlFUJV088"
+    },
+    {
+      "added_at": "2025-09-19 04:00:09",
+      "album": {
+        "name": "What Is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/0SGVUNn1QovEcOA4UM8Im0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Kenny Banks Jr.",
+          "url": "https://open.spotify.com/artist/6rSheR9c3wYRRsfhYKBUmg"
+        }
+      ],
+      "duration_ms": 259271,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/0yrcMGiv3VbMXqykxMjkbg"
     },
     {
       "added_at": "2025-08-22 04:00:09",
@@ -147,22 +191,6 @@
       "duration_ms": 175040,
       "name": "The Glow Worm",
       "url": "https://open.spotify.com/track/3FPKj2xihZlzsa8tWQU3i6"
-    },
-    {
-      "added_at": "2025-08-08 04:00:32",
-      "album": {
-        "name": "What does blue mean to you?",
-        "url": "https://open.spotify.com/album/2MN4gtPpdVgffkVuiPS7Wf"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 279596,
-      "name": "What does blue mean to you?",
-      "url": "https://open.spotify.com/track/0LACLZOv7ZALxvWsfIX0Pr"
     },
     {
       "added_at": "2025-08-01 04:13:00",
@@ -719,38 +747,6 @@
       "duration_ms": 249573,
       "name": "Tainted Love",
       "url": "https://open.spotify.com/track/0jOulpJbFDaGwb09pAx1q9"
-    },
-    {
-      "added_at": "2025-02-14 05:00:38",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/73ar6JITfxgCsLOYsJuyYx"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        },
-        {
-          "name": "Sullivan Fortner",
-          "url": "https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5"
-        },
-        {
-          "name": "Dezron Douglas",
-          "url": "https://open.spotify.com/artist/3HtyiTNRFO5HOPU5Cj3at7"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        }
-      ],
-      "duration_ms": 257028,
-      "name": "Vida",
-      "url": "https://open.spotify.com/track/0co0ZOkzlwV2xeIHqC2olu"
     },
     {
       "added_at": "2025-02-28 05:00:30",

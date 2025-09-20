@@ -2,7 +2,7 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Douwe Bob & MEAU
+> Frisse Nederlandse pop\. Cover: Antoon
 
 1,062 songs - 2 day 2 hr 42 min
 

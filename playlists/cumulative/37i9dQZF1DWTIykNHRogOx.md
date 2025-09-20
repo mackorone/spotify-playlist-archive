@@ -2,9 +2,9 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
+> Les  meilleures nouveautés de la chanson française avec Noé Preszow
 
-217 songs - 12 hr 5 min
+219 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [AMOURFOU](https://open.spotify.com/track/6nNGuufca7lNkotjvIIkev) | [Martin Luminet](https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y) | [APRÈS DEUIL\(S\)](https://open.spotify.com/album/0ZpYSAaOfQvIo55zbEx4ly) | 3:36 | 2024-06-27 | 2024-09-20 |
 | [Après l'amour \- Session Théâtre de l'Atelier](https://open.spotify.com/track/2tCruedoOejBaJnsa4BLdP) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Après l'amour \(Session Théâtre de l'Atelier\)](https://open.spotify.com/album/27uBY4WErYJ0GZ8YPhPMXJ) | 4:09 | 2024-06-27 | 2024-11-29 |
 | [Arrêter le temps \(feat\. Sofiane Pamart\)](https://open.spotify.com/track/33574meZfftZQlc8ZPBrtk) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Arrêter le temps \(feat\. Sofiane Pamart\)](https://open.spotify.com/album/0JWZ6ljnQBw5l4GTAeoBq7) | 2:49 | 2025-04-10 | 2025-09-05 |
+| [au lendemain](https://open.spotify.com/track/7vCljshKnwQYA3EA9TPz3X) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [au lendemain](https://open.spotify.com/album/1HcrZUaLl7QOvRPgu471Hd) | 3:05 | 2025-09-18 |  |
 | [Aujourd'hui Kurt Cobain est mort](https://open.spotify.com/track/0jEkGlpUANVeYw7g0cEAHc) | [Joseph d'Anvers](https://open.spotify.com/artist/1k8xwxvWduyzLf7W4Ov92u), [Aurélie Saada](https://open.spotify.com/artist/4hXlAArOvdCE7yvxblLjHh) | [Un garçon ordinaire \(D'après le roman de Joseph d'Anvers\)](https://open.spotify.com/album/0nDtgDNJX1wCKbuyXCJG5w) | 3:51 | 2024-06-27 | 2024-07-19 |
 | [Bande annonce](https://open.spotify.com/track/3LzDVM9VIu8EjyimQcrENP) | [Marine Quéméré](https://open.spotify.com/artist/5GDjnPfEAxrXVQUnM4KM9c) | [Bande annonce](https://open.spotify.com/album/3madmQA8hvMj3qZ18ud76H) | 2:34 | 2024-06-27 | 2024-10-04 |
 | [Blasé](https://open.spotify.com/track/0lkX4eB6G5k1B6guGkqYkm) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM) | [Blasé](https://open.spotify.com/album/422iiY3B8iDAbepmDiBRtX) | 3:18 | 2025-01-10 | 2025-02-21 |
@@ -96,7 +97,7 @@
 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 | 2025-05-15 | 2025-09-12 |
 | [LA NUIT](https://open.spotify.com/track/4cc2PUXzaw7hgUsbYScfFd) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [LA NUIT \(La Venue de l’avenir \- musique originale\)](https://open.spotify.com/album/6FEqYXlwRZfx9ro7cXNZru) | 3:12 | 2025-05-29 |  |
 | [La nuit est entrée en lui](https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK) | [H\-Burns](https://open.spotify.com/artist/5Jd4dFTFgTta5lqPvamjZn), [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [Sunset Park \(Extended version\)](https://open.spotify.com/album/4R7JoS7uL4Rs0zBayDeJxY) | 4:21 | 2024-06-27 | 2024-09-06 |
-| [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 |  |
+| [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 | 2025-04-24 | 2025-09-20 |
 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 | 2024-07-18 | 2024-11-08 |
 | [La route de Vénus](https://open.spotify.com/track/2r8P281AMp4LDUlTESLFsP) | [Emily Loizeau](https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09) | [La route de Vénus](https://open.spotify.com/album/3pQIXoxrA4JiucuHUantW7) | 3:10 | 2024-06-27 | 2024-11-08 |
 | [La Rua Madureira](https://open.spotify.com/track/0JodGC4N6E7adLUi3nYf1I) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Piano Voix](https://open.spotify.com/album/1gqh4vUbdIetgdpWqnaq67) | 3:28 | 2024-08-29 | 2025-01-17 |
@@ -131,7 +132,7 @@
 | [Les désirs fatigués des navires d’argent](https://open.spotify.com/track/5yWjsQylhePlSIF14zcWvT) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [Paris Amour](https://open.spotify.com/album/3dvIlg1tuKOqYaAU8eYFJ5) | 3:37 | 2025-09-11 |  |
 | [Les garçons](https://open.spotify.com/track/5R2vhB1BdBj517BCqGMncJ) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 2:50 | 2024-06-27 | 2024-09-27 |
 | [Les ogres](https://open.spotify.com/track/6313xKMuwpKqA2xP1Tl2wU) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Les ogres](https://open.spotify.com/album/3lutBn9xqQgjOUpj88L8mf) | 2:54 | 2024-11-28 | 2025-04-18 |
-| [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-24 |  |
+| [Les ogres](https://open.spotify.com/track/7maKIQM9dXihvpXAJGSPiV) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Si on sombre ce sera beau](https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv) | 2:54 | 2025-04-24 | 2025-09-20 |
 | [Les ratures](https://open.spotify.com/track/3HSSGaHoHkJK4wXxr0bdQq) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Les ratures](https://open.spotify.com/album/5n4FmzmHvPzvilS26pNZJr) | 3:17 | 2025-04-24 | 2025-06-27 |
 | [Les rois du désespoir](https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Les rois du désespoir](https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s) | 2:48 | 2024-09-05 | 2024-11-22 |
 | [Les tours d'horloge](https://open.spotify.com/track/1sdUVIFiZsQkYR9zb8NCME) | [Thomas Fersen](https://open.spotify.com/artist/1e8wNOOTAfcvZnYAqxqHZM), [Trio SR9](https://open.spotify.com/artist/1sqwA17XCYCqJiAzQq0h3G) | [Les tours d'horloge](https://open.spotify.com/album/6S455vueaUSjsktIQgovkK) | 3:19 | 2025-02-06 | 2025-05-16 |
@@ -178,6 +179,7 @@
 | [Promis juré](https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Ex æquo](https://open.spotify.com/album/577bgbkPYgJf71s0AeOdim) | 3:11 | 2025-04-24 |  |
 | [Quelques centimes](https://open.spotify.com/track/1oUatsJ6OTgHVAyfyl5In2) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Quelques centimes](https://open.spotify.com/album/3VW8z9MaYAbCxBgVJq4pSg) | 3:57 | 2024-09-19 | 2025-01-24 |
 | [Quitter la ville](https://open.spotify.com/track/2o1egEONubbMeEjYZyjZip) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Quitter la ville](https://open.spotify.com/album/7LxezQ4HtOMd7R31t2J2Ms) | 4:05 | 2024-06-27 | 2024-07-27 |
+| [Regarder passer les trains](https://open.spotify.com/track/1Lmufi10VKuJumsI9KV2NQ) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Regarder passer les trains](https://open.spotify.com/album/1j5ehAXMc9wjpDuUWneVpt) | 4:13 | 2025-09-18 |  |
 | [rentrer chez moi](https://open.spotify.com/track/4lu4t2NkQ8APnm0GwL8Gbl) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [rentrer chez moi](https://open.spotify.com/album/3d8yIiEx11x64VMAbpoQcU) | 3:39 | 2024-06-27 | 2024-09-27 |
 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 | 2025-07-10 |  |
 | [Rien à voir](https://open.spotify.com/track/0KeXKxR394ACwBbarKPBWy) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP), [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [Rien à voir](https://open.spotify.com/album/230Mq8P3aO4hnHrZ9jECaA) | 3:03 | 2024-06-27 | 2025-01-10 |

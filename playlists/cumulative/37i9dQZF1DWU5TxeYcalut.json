@@ -1749,6 +1749,44 @@
     },
     {
       "album": {
+        "name": "Hubert",
+        "url": "https://open.spotify.com/album/0i3T8nQCsb0ZzDDHhDcYe7"
+      },
+      "artists": [
+        {
+          "name": "Deusnir Souza",
+          "url": "https://open.spotify.com/artist/59jGIR233F2cJnH0upbg0I"
+        },
+        {
+          "name": "Bruninho Nunes",
+          "url": "https://open.spotify.com/artist/7AJ1joFeNqympvdsW4Wbcn"
+        },
+        {
+          "name": "Cleverson Silva",
+          "url": "https://open.spotify.com/artist/7I3feFPmFfXc1CizAxRJZ5"
+        },
+        {
+          "name": "Felipe Pizzutiello",
+          "url": "https://open.spotify.com/artist/5SMZhM9utd5OSNF3d9GP7e"
+        },
+        {
+          "name": "Guto Boc\u00e3o",
+          "url": "https://open.spotify.com/artist/76aaHmGR0qLFMOdpmo1Hg1"
+        },
+        {
+          "name": "Jorginho Neto",
+          "url": "https://open.spotify.com/artist/7GuU9MWqXNdmV3DUKTm4D0"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263694,
+      "name": "Hubert",
+      "url": "https://open.spotify.com/track/0EvvrHPNA2a63PRLX4le1p"
+    },
+    {
+      "album": {
         "name": "IBC",
         "url": "https://open.spotify.com/album/1NRlLPsK07v1psS7dB4ZjH"
       },
@@ -3772,7 +3810,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 212416,
       "name": "Talvez Certamente",
       "url": "https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O"

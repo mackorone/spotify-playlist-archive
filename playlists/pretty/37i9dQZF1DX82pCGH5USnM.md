@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,375,099 likes - 197 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,375,338 likes - 197 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 196 | [Bellini](https://open.spotify.com/track/61KnzdL9uPVpaXB5oBLGYE) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Bellini / Macua](https://open.spotify.com/album/0xe6EIYh6ZuU2XOT7KD22j) | 4:37 |
 | 197 | [infinity](https://open.spotify.com/track/3RKywy0zmUseiC48cMvYpk) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [infinity](https://open.spotify.com/album/3m9a0TyW3D4fCOGlgOySp1) | 2:46 |
 
-Snapshot ID: `AAAAADiWdRaMlXGagIS7zRYsGrkd8s9/`
+Snapshot ID: `AAAAAJiYPKx2eQwERSykfxX5ROzYooBc`

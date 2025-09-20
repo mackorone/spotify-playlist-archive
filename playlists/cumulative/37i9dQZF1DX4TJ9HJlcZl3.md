@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-128 songs - 7 hr 58 min
+129 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Clear](https://open.spotify.com/track/6OyjHEusfnpjMxewx4msTA) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [Clear](https://open.spotify.com/album/0H5PiJtK74cXzs4A1HDmeR) | 4:02 | 2022-10-21 | 2024-06-29 |
 | [Coffee's on Me](https://open.spotify.com/track/3P2bJaakq9DyvGCco9Ddhx) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/0dFsQp0ZUhABhxJX0eeBeD) | 3:43 | 2022-10-21 | 2024-10-19 |
 | [Coffee's on Me](https://open.spotify.com/track/3t4mslZa0wJYrj2UjlsyPX) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Coffee's on Me](https://open.spotify.com/album/4BE9UzrvSYUrtwj3pIoczL) | 3:43 | 2022-10-21 | 2024-04-19 |
+| [Come & Get It](https://open.spotify.com/track/3GnIOJ4Pmqfcu9PY19AD0F) | [Kayla Williams](https://open.spotify.com/artist/5KDjlsopM0uSSeVIiMiVDI) | [Come & Get It](https://open.spotify.com/album/0LNoMoQFHEt0WhoOyniYkR) | 3:36 | 2025-09-19 |  |
 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 | 2022-10-21 | 2023-12-09 |
 | [Diamond Eyes](https://open.spotify.com/track/69LWzGUpt3oe1URUCvjVbt) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Diamond Eyes](https://open.spotify.com/album/1TJiqXwjAVzyGtTjxXq6WM) | 6:42 | 2024-11-08 |  |
 | [Distant Calls](https://open.spotify.com/track/2QU1bg22cuTuNXUpQl389b) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [Close to Your Heart](https://open.spotify.com/album/2BbAWGyJvddLWwzpzhA6lp) | 2:44 | 2022-10-21 |  |
@@ -116,7 +117,7 @@
 | [TIP OF THE FLAME \- 12" DISCO MIX](https://open.spotify.com/track/1rtL8tDWsIWhRjuOONau7r) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [TIP OF THE FLAME \(12" DISCO MIX\)](https://open.spotify.com/album/7B4L0vrNdIShUKOqwcM8mO) | 5:57 | 2023-02-17 | 2023-02-19 |
 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/67DpsCMB560OVTv3EfztzW) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip Of The Flame \(12" Disco Mix\)](https://open.spotify.com/album/6QoIPnSuTwSMWoWjoqtiCD) | 5:57 | 2023-02-17 | 2023-12-05 |
 | [Tip Of The Flame \- 12" Disco Mix](https://open.spotify.com/track/6ywx4XD9UL3FrllzCjaU0T) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Ticket To Shangri\-La \(Deluxe Version\)](https://open.spotify.com/album/4CYFJzamIcEG44GjBceFp9) | 5:57 | 2023-09-01 | 2024-04-19 |
-| [Tip of the Flame \- 12” Disco Mix](https://open.spotify.com/track/3PF7zlShrw5JwwW3b1E3Jh) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip of the Flame \(12” Disco Mix\)](https://open.spotify.com/album/0zasXyPv7yIEJ6mRJoaBEi) | 5:57 | 2023-09-01 |  |
+| [Tip of the Flame \- 12” Disco Mix](https://open.spotify.com/track/3PF7zlShrw5JwwW3b1E3Jh) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Tip of the Flame \(12” Disco Mix\)](https://open.spotify.com/album/0zasXyPv7yIEJ6mRJoaBEi) | 5:57 | 2023-09-01 | 2025-09-20 |
 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 | 2022-10-21 |  |
 | [Tropical Illusion](https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Tropical Illusion / Passengers](https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy) | 3:47 | 2024-05-24 | 2024-09-07 |
 | [Upon Arrival](https://open.spotify.com/track/5AqO5MfeOGIgjnjgUaiSOt) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Upon Arrival](https://open.spotify.com/album/0i4qVBoh5czpvFAzezcrFU) | 3:24 | 2025-07-04 |  |

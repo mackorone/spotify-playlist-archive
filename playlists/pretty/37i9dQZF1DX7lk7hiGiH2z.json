@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 54166,
+  "num_followers": 54184,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Ferien",
-        "url": "https://open.spotify.com/album/2qWrW1gQliBhhheAI2umsU"
-      },
-      "artists": [
-        {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Ferien",
-      "url": "https://open.spotify.com/track/2qYVigDCjtxXDKWE6N5zPq"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Idas Sommerlied",
         "url": "https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv"
       },
@@ -779,22 +763,34 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Schmetterlingskacke",
-        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
+        "name": "Ferien",
+        "url": "https://open.spotify.com/album/2qWrW1gQliBhhheAI2umsU"
       },
       "artists": [
         {
-          "name": "Sukini",
-          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
-        },
-        {
-          "name": "Saskia Lavaux",
-          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
         }
       ],
-      "duration_ms": 182213,
-      "name": "Glitzer",
-      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
+      "duration_ms": 129000,
+      "name": "Ferien",
+      "url": "https://open.spotify.com/track/2qYVigDCjtxXDKWE6N5zPq"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 138266,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -839,18 +835,22 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+        "name": "Schmetterlingskacke",
+        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "Sukini",
+          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
+        },
+        {
+          "name": "Saskia Lavaux",
+          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
         }
       ],
-      "duration_ms": 138266,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/4ZMiwU7dAYoVyytt3wttAc"
+      "duration_ms": 182213,
+      "name": "Glitzer",
+      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Meine M\u00fctze und Ich",
         "url": "https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 150227,
       "name": "Ich g\u00f6nn mir Eiscreme",
       "url": "https://open.spotify.com/track/0V7bnkaD5CBAdfKDVE7xGJ"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Sommertag",
-        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
-      },
-      "artists": [
-        {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
-        }
-      ],
-      "duration_ms": 128444,
-      "name": "Sommertag",
-      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Disco Kinder",
         "url": "https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 169773,
       "name": "Disco Kinder (Minis Maxis)",
       "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Sommertag",
+        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "duration_ms": 128444,
+      "name": "Sommertag",
+      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
     },
     {
       "added_at": "2025-08-08 05:42:25",

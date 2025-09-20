@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Langa ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,774 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,849 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 7 | [Boccaccio](https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Boccaccio](https://open.spotify.com/album/5bwru8YsdUBycin4I75img) | 3:07 |
 | 8 | [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 |
 | 9 | [Awesome/Poolside](https://open.spotify.com/track/3nkZMDmPu43kkWNXkdaZ0W) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Sunflower](https://open.spotify.com/album/2uxqcqNZXfaAwU0iOBZMnq) | 2:45 |
-| 10 | [Zoukaton 2.0](https://open.spotify.com/track/0ft7ZqdFxL3qfC9HmMX3Av) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [](https://open.spotify.com/album/null) | 2:13 |
+| 10 | [Zoukaton 2.0](https://open.spotify.com/track/0ft7ZqdFxL3qfC9HmMX3Av) | [KILATE TESLA](https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [ZOUKATON](https://open.spotify.com/album/76ZfvUdAMCbA4BkSitVLkT) | 2:13 |
 | 11 | [Als Ons \(feat\. Sluwe Ollie\)](https://open.spotify.com/track/0fZl3DuUx5nRPz3tY0n06Z) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Sluwe Ollie](https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx) | [Als Ons](https://open.spotify.com/album/2qAP0w0bBu1EvJygXOWtrg) | 2:17 |
 | 12 | [MOVE](https://open.spotify.com/track/4KNY6zzi38uqZYNuUVcR8e) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sheldon Sjögreen](https://open.spotify.com/artist/4RZeAFGLViPKDqVKGSsPS9) | [MOVE](https://open.spotify.com/album/1XM6loZ7TTYFgbMk76dWlb) | 2:16 |
 | 13 | [CASAMIGOS](https://open.spotify.com/track/0LUNLyK43d1NEqWtuvYfHl) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [CASAMIGOS](https://open.spotify.com/album/5SNVtJO3PA2TsZWdbzge7X) | 2:37 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 69 | [Zij Weet 't](https://open.spotify.com/track/3MYtX4KibnFdEYpPVsNAzn) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Zij Weet 't](https://open.spotify.com/album/3cqSKnKu43NRT0PaZzDuLD) | 2:50 |
 | 70 | [Dushi](https://open.spotify.com/track/02XaqRz8GJt0v7t7i8OyKT) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Dushi](https://open.spotify.com/album/3cVPakapbNChsXir1BAx0F) | 2:11 |
 
-Snapshot ID: `AAAAADGxcxQZ8VhgCyZ+D34oyoGKqg9w`
+Snapshot ID: `AAAAAHlkOwK5hYLEf+y8bEqj9PKGpfbk`

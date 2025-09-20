@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/41gDU7s6DpPXhBggLSJdw6">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 12 | [Patient Zero](https://open.spotify.com/track/4zQSz74DWD9iThkQSWYA5P) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:41 |
 | 13 | [Driving Sideways](https://open.spotify.com/track/41CMp8QQTobpwIg6Tdh4Ud) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 3:49 |
 | 14 | [You Do](https://open.spotify.com/track/7FAs0XwXCtY0SanMiSQeiV) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Magnolia \(Music from the Motion Picture\)](https://open.spotify.com/album/6jbjx0LGKl11H6UtrgS2nV) | 3:45 |
-| 15 | [Milwaukee](https://open.spotify.com/track/2VL6PCrcWgJfqxruAWCXnY) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 4:21 |
-| 16 | [Today's the Day](https://open.spotify.com/track/3R6Yl4rzMWEMJkz093QuGp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/5gl67XfmbbdmfJKPkR9rIe) | 4:42 |
+| 15 | [Today's the Day](https://open.spotify.com/track/3R6Yl4rzMWEMJkz093QuGp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/5gl67XfmbbdmfJKPkR9rIe) | 4:42 |
+| 16 | [Milwaukee](https://open.spotify.com/track/2VL6PCrcWgJfqxruAWCXnY) | [The Both](https://open.spotify.com/artist/6nH7HjT8QPbZI2wnTjtJui) | [The Both](https://open.spotify.com/album/3Feh0t4blZHMotGPGKM6lr) | 4:21 |
 | 17 | [Pavlov's Bell](https://open.spotify.com/track/0EfNxK7VbgofcknJHA4FNL) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 4:27 |
 | 18 | [You Never Loved Me](https://open.spotify.com/track/5ZQYl1nIY1s1FvfKNkPeJg) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 3:07 |
 | 19 | [How Am I Different \- Remastered 2020](https://open.spotify.com/track/195F1ifBpwJI02D4a1TkNv) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor, No\. 2 \(Or, The Last Remains of the Dodo\) \[20th Anniversary Edition\]](https://open.spotify.com/album/1eEcY3aadclBQnBcpTJGeV) | 5:03 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `Ab8lkgAAAADPwcEX8OTAxBp40ea3eS0O`
+Snapshot ID: `Ab8rKAAAAACAQage9v+/3JUYN02b7rBO`

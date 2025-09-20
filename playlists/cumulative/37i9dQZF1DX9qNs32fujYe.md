@@ -2,9 +2,9 @@
 
 ### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
 
-> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Sabaton
+> Heavy Metal forever \\m/ classics to brand new tracks\. Cover: King Diamond
 
-1,132 songs - 3 day 10 hr 30 min
+1,134 songs - 3 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2022-08-19 | 2025-02-01 |
 | [Break The Silence](https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Break The Silence](https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH) | 4:23 | 2025-08-19 |  |
 | [Break the Silence](https://open.spotify.com/track/0lUykx87qMYn0VYGN2SCzN) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Break the Silence](https://open.spotify.com/album/2xDONBAfy61NbCoI1F8BBa) | 4:21 | 2025-06-13 | 2025-06-21 |
+| [Break the Spell](https://open.spotify.com/track/2XLfNFUKxi1er33lMTa34m) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Break the Spell](https://open.spotify.com/album/3Fjjxc5rAZr8xw0gl25crI) | 4:27 | 2025-09-19 |  |
 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 | 2022-08-19 | 2024-02-10 |
 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 | 2024-01-26 | 2024-04-19 |
 | [Breaking the Habit](https://open.spotify.com/track/3Rk9g2PzzHrDRiskq8qV9m) | [Skarlett Riot](https://open.spotify.com/artist/6IN0ZavFCDhKZ2N3NT7E3z) | [Invicta](https://open.spotify.com/album/5dcybGJ0n1KmH23J4a8mnr) | 4:09 | 2021-12-17 | 2022-07-29 |
@@ -348,7 +349,7 @@
 | [For No Reason](https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [For No Reason](https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO) | 4:44 | 2021-12-17 | 2022-07-13 |
 | [Force Majeure](https://open.spotify.com/track/4w6GKkwtaw8x5MQ3l3cPPn) | [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O), [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Force Majeure](https://open.spotify.com/album/5eTz3POhcf7hVr2kh47dP0) | 3:59 | 2021-12-17 | 2022-07-23 |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2023-02-15 |
-| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-13 | 2025-08-23 |
+| [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 | 2022-12-13 |  |
 | [Foregone, Pt\. 2](https://open.spotify.com/track/6kk4G7WCvFrYuiotuDnH2N) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 4:30 | 2023-04-21 | 2024-04-19 |
 | [Forever Aligned](https://open.spotify.com/track/4Aw6jQX2IEsVBEUbuFEygx) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Forever Aligned](https://open.spotify.com/album/6tCIVsMcZOUAiAZabsnfYD) | 4:05 | 2024-11-22 |  |
 | [Forever Lost](https://open.spotify.com/track/2sJeFaKMzEMmwiBbL8x0H6) | [Silver Bullet](https://open.spotify.com/artist/0ppFsYRZGoGYxL12PSjS2q) | [Mooncult](https://open.spotify.com/album/6mv1NleoKi67NUgHU4Q9b8) | 4:45 | 2021-12-17 | 2022-07-25 |
@@ -373,7 +374,7 @@
 | [Ghost of a Chance](https://open.spotify.com/track/0dUAr9A37b7B61eqrbYMf2) | [Mob Rules](https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4) | [Ghost of a Chance](https://open.spotify.com/album/7id3eu5aclRJOOpxP4JwX6) | 4:45 | 2021-12-17 | 2022-04-29 |
 | [Ghost of Marley](https://open.spotify.com/track/7pczoeIkihynLe4VgWEQUx) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [Ghost of Marley](https://open.spotify.com/album/6wENRoHkOij2hS1s8DKUOL) | 4:39 | 2021-12-17 | 2022-07-14 |
 | [Ghost Shadow](https://open.spotify.com/track/5Aeb1JJBAd4eawC5Yjri07) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Ghost Shadow](https://open.spotify.com/album/0N2mi0kn16wWSwMtma7a1Q) | 3:07 | 2022-03-22 | 2022-04-20 |
-| [Ghosts](https://open.spotify.com/track/3myXA6jZlVpFUpXzEJA3VB) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Ghosts](https://open.spotify.com/album/6weoRlYfRjZfaSvjEXYqFi) | 3:46 | 2025-07-04 |  |
+| [Ghosts](https://open.spotify.com/track/3myXA6jZlVpFUpXzEJA3VB) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Ghosts](https://open.spotify.com/album/6weoRlYfRjZfaSvjEXYqFi) | 3:46 | 2025-07-04 | 2025-09-20 |
 | [Ghosts In The Mist](https://open.spotify.com/track/3L9g32usdQEz1mIbqvLaJS) | [Unleash The Archers](https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU) | [Ghosts In The Mist](https://open.spotify.com/album/7zapwid2cKGXjCPMv7edoa) | 5:46 | 2024-04-19 | 2024-05-03 |
 | [Gloryhammer](https://open.spotify.com/track/4HA34COgxgVJ6zK88UN4Ik) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Gloryhammer](https://open.spotify.com/album/2HJFrpR304ZxZ4CPQK1ws2) | 5:00 | 2021-12-17 | 2022-07-28 |
 | [Gloryhammer](https://open.spotify.com/track/4vyrKBuBfgv390ItIC75Sw) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Legends from Beyond the Galactic Terrorvortex](https://open.spotify.com/album/5EqtPIx96U0AUSzHUu4QGp) | 5:00 | 2022-07-08 | 2024-04-19 |
@@ -387,7 +388,7 @@
 | [Grayscale](https://open.spotify.com/track/3mnSgoZalFJkqsbIaQQOfW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:59 | 2022-10-07 | 2022-12-06 |
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-01-27 | 2025-01-11 |
 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 | 2022-08-19 | 2024-05-03 |
-| [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2025-01-10 |  |
+| [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2025-01-10 | 2025-09-20 |
 | [Grooming My Replacement](https://open.spotify.com/track/07QE1QxgiKnWwVOtTgf4K4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 2:54 | 2023-10-27 | 2024-05-22 |
 | [Guess Who's Back](https://open.spotify.com/track/1ryULElwveye7LHLbLQPeO) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Guess Who's Back](https://open.spotify.com/album/4bfZCNIZkasFV5Aa1LurE0) | 2:41 | 2023-05-26 | 2025-02-01 |
 | [Guiding Light](https://open.spotify.com/track/580BXGwESv2tV5K7YR9GI0) | [Veonity](https://open.spotify.com/artist/3Zero2Ovi9miqMvjcNpobH) | [Guiding Light](https://open.spotify.com/album/7D7bLUMdrReUVeavqhMlkX) | 6:00 | 2022-01-14 | 2022-04-20 |
@@ -537,6 +538,7 @@
 | [Land of the Free \- 30 Years \- Live Version](https://open.spotify.com/track/7iMt0du7vAQf3m1IYTrhM4) | [Gamma Ray](https://open.spotify.com/artist/6LZE884lDIsCSLHuTplfGp) | [Land of the Free](https://open.spotify.com/album/7kHii8llgDEAKLR6SJDrKt) | 4:36 | 2021-12-29 | 2022-07-19 |
 | [Landslide](https://open.spotify.com/track/5h9R0Z3lqvgfItpq4QsvjG) | [Alienist](https://open.spotify.com/artist/3QjDcXIEFoAGHAe6TSBnce) | [Landslide](https://open.spotify.com/album/0rDeiOVJ47MhUgRqPiP0mW) | 3:31 | 2022-03-22 | 2022-04-19 |
 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 | 2025-05-09 |  |
+| [Lay A Wreath Upon The World](https://open.spotify.com/track/7jC2KqZdyyGovJsUDw50r8) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Ascension](https://open.spotify.com/album/7H732EUjLKsi8M8kfdWd57) | 4:51 | 2025-09-19 |  |
 | [Left on Mars](https://open.spotify.com/track/4vR33RBNDOk6hpgqZpaom9) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00), [Tarja](https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc) | [Left on Mars](https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5) | 5:01 | 2024-03-22 | 2024-11-23 |
 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 | 2024-05-03 | 2025-04-26 |
 | [Let It Burn](https://open.spotify.com/track/1taz6QC91MFJmODsf7aQsb) | [Cold Kingdom](https://open.spotify.com/artist/2xCNGjnt3szUnV29cCtrWD) | [The Moon and the Fool](https://open.spotify.com/album/5MQrXXhEaswOBKULG4qLX6) | 4:01 | 2022-07-08 | 2024-04-06 |
@@ -1027,7 +1029,7 @@
 | [Twilight of the Gods](https://open.spotify.com/track/7LvIHenP3bZ7yp5NiXWJYF) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond the Red Mirror](https://open.spotify.com/album/5QTcrJ2UrC9KhnN9xDWW2C) | 4:49 | 2022-07-08 | 2022-08-20 |
 | [Twilight Of The Gods](https://open.spotify.com/track/06HNCfXJcMnKHmRrkue97s) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond The Red Mirror](https://open.spotify.com/album/5bH9q5EMi147oTykVETEZn) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Tyrant King](https://open.spotify.com/track/43S1Zw11WVZxVxoMczFXTu) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Return of Gor Gor](https://open.spotify.com/album/3BXP8puT6OR8NfBKAejNsJ) | 3:26 | 2025-07-25 | 2025-09-13 |
-| [Tyrants Serenade](https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Tyrants Serenade](https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD) | 4:20 | 2025-08-15 |  |
+| [Tyrants Serenade](https://open.spotify.com/track/6TdTD8R3iWculjW9k2HWJP) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Tyrants Serenade](https://open.spotify.com/album/6d0gOnYNbE4rFNOrSVYnCD) | 4:20 | 2025-08-15 | 2025-09-20 |
 | [Unbreakable](https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Nemesis](https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La) | 4:37 | 2021-12-17 | 2022-04-30 |
 | [UNBØUND](https://open.spotify.com/track/0qgQlOPeF3z8zjwQ0ff2K9) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [BØNESCRAPER](https://open.spotify.com/album/5BdBDX5zGZP0cidRxkV9C2) | 3:56 | 2025-04-25 | 2025-09-10 |
 | [Und die Engel singen](https://open.spotify.com/track/3egJPsm8iPwtrQ5U3VqNCS) | [Till Lindemann](https://open.spotify.com/artist/2a5G7JLmVJNjfFNg8rwLcP) | [Und die Engel singen](https://open.spotify.com/album/3XGBLits7rW4XngEyzjTJF) | 3:27 | 2025-06-13 |  |

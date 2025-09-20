@@ -5269,6 +5269,24 @@
     },
     {
       "album": {
+        "name": "So In Love",
+        "url": "https://open.spotify.com/album/3KWP2k6jGZLAMMrXWlPvuw"
+      },
+      "artists": [
+        {
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308830,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/74qtsnuLhOQSyRy9Oai39h"
+    },
+    {
+      "album": {
         "name": "Jazz Flute Traditions",
         "url": "https://open.spotify.com/album/3zSMrISTkz9nnCwzn7VNAT"
       },
@@ -6788,7 +6806,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 282320,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"

@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/1T1wPY475CLErkq858TqWR"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291834,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin"
+    },
+    {
+      "album": {
         "name": "Me And My Past",
         "url": "https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG"
       },
@@ -4494,6 +4512,24 @@
       "duration_ms": 236079,
       "name": "End of the Day",
       "url": "https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0EfOnOaJ07w3Sx3ISX9Kut"
+      },
+      "artists": [
+        {
+          "name": "Lilly Bedard",
+          "url": "https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167923,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6Jbf2PeG82AKgBZgS6vlfD"
     },
     {
       "album": {
@@ -7350,7 +7386,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 202226,
       "name": "i know, i know, i know",
       "url": "https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc"
@@ -9360,7 +9396,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 214822,
       "name": "Love A Good",
       "url": "https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg"
@@ -10164,6 +10200,24 @@
       "duration_ms": 152035,
       "name": "Minor Inconveniences",
       "url": "https://open.spotify.com/track/1uLPjjdIKUXvzC3Y2jSdjC"
+    },
+    {
+      "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b"
     },
     {
       "album": {
@@ -14086,7 +14140,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 111319,
       "name": "table for two",
       "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"

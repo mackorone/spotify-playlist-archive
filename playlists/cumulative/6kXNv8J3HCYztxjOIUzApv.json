@@ -2523,6 +2523,28 @@
     },
     {
       "album": {
+        "name": "Die About It (Deluxe)",
+        "url": "https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        },
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184555,
+      "name": "Hanging On To Thunder (feat. Stand Atlantic)",
+      "url": "https://open.spotify.com/track/2qI6Cwnkf2R4iGjwiFvAkR"
+    },
+    {
+      "album": {
         "name": "Hangman",
         "url": "https://open.spotify.com/album/5FuLeS3LzoWQ7UoAHaFXm8"
       },

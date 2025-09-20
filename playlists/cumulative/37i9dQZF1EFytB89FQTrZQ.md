@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-543 songs - 1 day 6 hr 58 min
+545 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Let Them Know](https://open.spotify.com/track/3hSe567EWQTIE1FMPhS9HZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Let Them Know](https://open.spotify.com/album/5yP4ApUADDkqRWnwxadFAY) | 3:02 | 2023-12-14 | 2024-02-02 |
 | [Life Is Still Going On](https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:38 | 2022-09-08 |  |
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:58 | 2022-09-08 |  |
+| [Lip Service](https://open.spotify.com/track/5bKogHKk8pvWG6l25Jw2Lw) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 2:27 | 2025-09-19 |  |
 | [London Town](https://open.spotify.com/track/1ziehPdmzGgXItY0ri5w9n) | [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [London Town](https://open.spotify.com/album/3jUpU8dNL7IEb7mLqpZaSH) | 2:28 | 2025-01-09 | 2025-04-12 |
 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 | 2022-09-08 |  |
 | [Loneliest Time Of Year](https://open.spotify.com/track/3nAf7YEWJyRUxyAym9QGwj) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/7bp0qDzUIOHKog8V0UydDK) | 3:26 | 2023-12-13 | 2024-02-02 |
@@ -293,6 +294,7 @@
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-16 |  |
 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 | 2022-11-18 |  |
 | [Mine](https://open.spotify.com/track/4QU75MocpRSTXdltSNTnzy) | [Alexander Norman](https://open.spotify.com/artist/5W0RMG8qbEDxyJjQ2TCkMY), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [Mine](https://open.spotify.com/album/5QiOaZ0bMBNsVMq1oJFfbL) | 2:48 | 2023-12-13 | 2025-06-28 |
+| [Miss You](https://open.spotify.com/track/4XuJ0BRSM4JRcMuLCxOmux) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Miss You](https://open.spotify.com/album/3d2Ys2ZfDiqHOxcuXJzOW7) | 3:40 | 2025-09-19 |  |
 | [Mistakes](https://open.spotify.com/track/7sFWHYHbk3S5jKIG3rXjPd) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [EST\. 1989](https://open.spotify.com/album/7uua9VeRYOlEooVGZR53Is) | 3:06 | 2022-09-08 |  |
 | [Money](https://open.spotify.com/track/7MaFzoiWh1RYRY17R8HoTw) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Foreign Ororo \(Special Edition\)](https://open.spotify.com/album/5wfam3DHsK7cduTO0VCHQB) | 3:22 | 2023-09-25 | 2023-12-24 |
 | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/track/0GaSolMcA26ZUpOqpWeNt9) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Money \(feat\. Kah\-Lo, Mr Eazi & Davido\)](https://open.spotify.com/album/049oFpZ37qrysrGET84wH3) | 3:25 | 2022-09-08 | 2023-09-26 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 ### [All New Country](https://open.spotify.com/playlist/37i9dQZF1DWVn8zvR5ROMB)
 
-> All of the newest country songs in one playlist! Featuring Warren Zeiders, Jason Aldean, Josh Ross and more.
+> All of the newest country songs in one playlist! Featuring Dasha, Josh Ross, HARDY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,707 likes - 63 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,847 likes - 63 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 62 | [Little White Lies](https://open.spotify.com/track/7Kh4WjpuhHsEkjvTp8Xvsb) | [Somewhere Blue](https://open.spotify.com/artist/5fLdBbgZlvxbsnOnZId2xT) | [Little White Lies](https://open.spotify.com/album/5HTDLfyca6DrViPNjjLdc9) | 3:09 |
 | 63 | [Control Me](https://open.spotify.com/track/7Cl0Kqz1dFYqpkq6vDeFaq) | [TANAEYA](https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa) | [Control Me](https://open.spotify.com/album/7xORJMu524kyp9rGj2VuMy) | 3:11 |
 
-Snapshot ID: `AAAAAKXtffCH2J7F6ztsKiYev660BNcn`
+Snapshot ID: `AAAAAHJn4lE3QCtBRxdPwynPCbNc5890`

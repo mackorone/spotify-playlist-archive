@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Cafuné
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,730 likes - 126 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,791 likes - 126 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 125 | [Black Bear](https://open.spotify.com/track/2SPacYHu9nWUVnxnmSEJOI) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Black Bear](https://open.spotify.com/album/3ClE7KHKTRFulaAREMqSbD) | 3:46 |
 | 126 | [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 |
 
-Snapshot ID: `AAAAAAL3gfvHdzgK+0atxB8hVknGGNSX`
+Snapshot ID: `AAAAAH3ux9LWwYTiFWy703iytSrP6ot9`

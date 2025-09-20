@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈 Morad in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,732 likes - 82 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,805 likes - 82 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 81 | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/track/0zK49rNDZV9ptuuKs1buL8) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [FIGLI DEI PALAZZI \(feat\. Néza\)](https://open.spotify.com/album/3YS77kPw04Ts9PTDRV7vNJ) | 2:18 |
 | 82 | [OPPOSTO](https://open.spotify.com/track/0Yi9qh7UmSXCJNc2f8criL) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 3:06 |
 
-Snapshot ID: `AAAAAE1O6qz8/dEp7EG0hLZw/ZXfW4RW`
+Snapshot ID: `AAAAAN2v/q/6GFJduqIa2zbW2t1UyJRN`

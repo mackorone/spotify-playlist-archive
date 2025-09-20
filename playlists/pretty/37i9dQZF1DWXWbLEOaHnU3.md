@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,272 likes - 75 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,376 likes - 75 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 43 | [High On Life](https://open.spotify.com/track/2BfOgfF9Wmqu2q6fD9fLFJ) | [Zyce](https://open.spotify.com/artist/6kyeGjpiR7Gdw27yU0yvUm), [Flegma](https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC), [Sonic Species](https://open.spotify.com/artist/0RB2HADLaxeaZAlNus7vVG) | [High On Life](https://open.spotify.com/album/2qPQc7z2aELxBE8Kw8nhSk) | 6:37 |
 | 44 | [Negev](https://open.spotify.com/track/5FA74wCrHIAQ43TDbPqKbp) | [Animato](https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL), [Pettra](https://open.spotify.com/artist/2qzM98SPNta8roSgqVfG7D) | [Negev](https://open.spotify.com/album/1s2JLwfuLJKZhzZPi17mdo) | 8:00 |
 | 45 | [Mystical Experience](https://open.spotify.com/track/6LPQmTty2Vnr2Im63pvmMd) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Flegma](https://open.spotify.com/artist/0BOdyY6GCTVhpxQmwJdcPC) | [Mystical Experience](https://open.spotify.com/album/1gTx8C7jJeaHNDFLc6i8Mj) | 9:10 |
-| 46 | [Nova Sinfonia](https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Nova Sinfonia](https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ) | 4:28 |
-| 47 | [Nova](https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3) | [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4), [Protonica](https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt) | [Nova](https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv) | 8:08 |
+| 46 | [Nova](https://open.spotify.com/track/0ekoUHScohhFaSE5yS28K3) | [Ace Ventura](https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4), [Protonica](https://open.spotify.com/artist/2fhNO804KWA0hiFxjpv3Tt) | [Nova](https://open.spotify.com/album/3dy4DmQnHDQuXRcead8IMv) | 8:08 |
+| 47 | [Nova Sinfonia](https://open.spotify.com/track/61nuwR2CfUzU3CyZevDVbe) | [Henrique Camacho](https://open.spotify.com/artist/2NTtIgPZyELENThAeqfvR6), [Mandragora](https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY) | [Nova Sinfonia](https://open.spotify.com/album/5vI1eehmzeC4BjGOAoZBEZ) | 4:28 |
 | 48 | [Boss La Rosh](https://open.spotify.com/track/2c7y5n1q4rwHNTUPzi4HOe) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [IM25](https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp) | 6:41 |
 | 49 | [You & I](https://open.spotify.com/track/6evCF4QQGUt2C3pbefE3jH) | [Yahel](https://open.spotify.com/artist/7CHdJ8rVKe6cez9PKlpKrF), [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [You & I](https://open.spotify.com/album/2lhRmzTITHYR9xcAdRho0R) | 5:28 |
 | 50 | [STAY \- HEDEGAARD Remix](https://open.spotify.com/track/6Fd9WEx2ySMzE6N3hCCMjG) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [STAY \(HEDEGAARD Remix\)](https://open.spotify.com/album/6a11hn9oPaSa4ur5e70eY9) | 2:27 |

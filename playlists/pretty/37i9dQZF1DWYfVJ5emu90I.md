@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,824 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,838 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 13 | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/track/37ifPBg9M2NzlRNHe9WUIy) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [KAWASAKI \(with Felip & thủy\)](https://open.spotify.com/album/5VY9bSLF9Dy2kUj4jlL3n2) | 2:10 |
 | 14 | [RASEN in OKINAWA](https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [tubakiii](https://open.spotify.com/artist/2Bi1XtdmndNK6V2nlpI2A1), [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [098RADIO vol.1 Hosted by Awich](https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs) | 4:49 |
 | 15 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 |
-| 16 | [TRAUMA \(feat\. ralph\)](https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:54 |
+| 16 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 |
 | 17 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
 | 18 | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/track/3m9iJprY6untx4hbbgs4R5) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAWASAKI \(with Big Sean\)](https://open.spotify.com/album/4RKxFOuzNLV1wOXJsVOT6H) | 2:06 |
-| 19 | [B.G.P](https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Magna Scale](https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL) | 2:21 |
+| 19 | [TRAUMA \(feat\. ralph\)](https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [DESTRUCTION](https://open.spotify.com/album/6J2XUL32G6s74SoTCmURpD) | 2:54 |
 | 20 | [ヘビー \(feat\. DADA & Watson\)](https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 4:01 |
 | 21 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 |
 | 22 | [Assassin \- Remix](https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [S.J.soldier](https://open.spotify.com/artist/0dFj1rvEIFdLUxWCiqkCTf), [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [Assassin \(feat\. S.J.soldier & Carz\) \[Remix\]](https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B) | 3:24 |

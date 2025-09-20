@@ -4,7 +4,7 @@
 
 > alternative meets electronic.
 
-341 songs - 17 hr 52 min
+342 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Behaviour](https://open.spotify.com/track/08VUmUWFeWtXjfswYufGXQ) | [Glove](https://open.spotify.com/artist/4QbWweBoGYV4uFUQZeK1cy) | [Behaviour](https://open.spotify.com/album/2t3NoK6VU6iH91Uo2A38NC) | 3:55 | 2021-07-23 | 2022-07-28 |
 | [Being One](https://open.spotify.com/track/1x3H8BGXFpRbvScvG2HG1W) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Being One](https://open.spotify.com/album/6yDBjZF7QbzpBbmwaIl9nt) | 3:20 | 2024-07-12 |  |
 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 | 2021-08-06 |  |
+| [Between Dreams](https://open.spotify.com/track/38z26PUg63ewXSY7yQV1oi) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Between Dreams](https://open.spotify.com/album/4CeCvMBu8oQteG3NNtaYYs) | 3:34 | 2025-09-12 |  |
 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 | 2020-11-24 |  |
 | [Black & White](https://open.spotify.com/track/7ajdfpfW1h6cN7GMQ5Sver) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Black & White](https://open.spotify.com/album/7rK2XqSVowv63XkuuuRYqK) | 3:08 | 2022-03-04 | 2022-05-31 |
 | [Bleed](https://open.spotify.com/track/4vtzbijWEew1JlxamzNUBE) | [Connor Kauffman](https://open.spotify.com/artist/0bFEOKy3T1knA0g7ZaPnHe) | [Bleed](https://open.spotify.com/album/1LcLPYd5lesuWO3QWHETBq) | 2:25 | 2023-04-09 | 2025-01-30 |
@@ -75,7 +76,7 @@
 | [Days Go By](https://open.spotify.com/track/3HQgbZUdzP6kn27L5c0LcV) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Young Dumb](https://open.spotify.com/album/3t55Gq48Pbw1uw51T4WSoi) | 2:50 | 2022-11-25 | 2023-04-22 |
 | [Dead](https://open.spotify.com/track/3z4bbV92bY6K2A5EMXpLhI) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/4c2aw2xQDzSHqesCIfeCMm) | 2:37 | 2022-04-01 | 2022-07-28 |
 | [Dead](https://open.spotify.com/track/6O2QJqa6hgF0uzj9mcDq4p) | [Baby Jane](https://open.spotify.com/artist/3scHMUcB85BflinC8FclbI) | [Dead](https://open.spotify.com/album/3hKxNaxs2oVPewk04LDuBI) | 2:37 | 2023-08-18 | 2024-04-19 |
-| [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-06-03 |  |
+| [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 | 2022-06-03 | 2025-09-20 |
 | [Dead To Me](https://open.spotify.com/track/6tPLIurCFf9MAGYvba94ub) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me](https://open.spotify.com/album/0GgNNJPbQUpny8XErV9Vhw) | 2:33 | 2022-03-04 |  |
 | [deadly ever after](https://open.spotify.com/track/1sGT7SHoxtjk18oSNSItBq) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [the last laugh](https://open.spotify.com/album/2Ph3wOGu6UwYZz5UqicIHL) | 3:16 | 2024-01-19 | 2024-04-19 |
 | [deadly ever after](https://open.spotify.com/track/49RVuMbXGzYwu7Q8Jec5Yw) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [deadly ever after](https://open.spotify.com/album/257JMntLr2vKOG3esYNkdK) | 3:16 | 2023-02-05 | 2024-01-19 |

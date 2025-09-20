@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. En portada, Grupo Anexxado y De Parranda\ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. En portada, 5to Vuelo\ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 195024,
       "name": "Agachadita",
       "url": "https://open.spotify.com/track/2nwiohQG9DROhzlgZlXPSK"
@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "5to Vuelo Live Sessions, Vol. 3",
+        "url": "https://open.spotify.com/album/0Kd7UYjsChb6PKR6p9it7Z"
+      },
+      "artists": [
+        {
+          "name": "5to Vuelo",
+          "url": "https://open.spotify.com/artist/3aVXoK3UNqx8eiYlkN7PdW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "Brillas - En Vivo",
+      "url": "https://open.spotify.com/track/0uLcSlMZAw3Uh9sNWJuB90"
+    },
+    {
+      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
@@ -300,6 +318,42 @@
       "duration_ms": 195103,
       "name": "B\u00e9same Morenita",
       "url": "https://open.spotify.com/track/0oyYP7CW5V4wwU9KkrCdY4"
+    },
+    {
+      "album": {
+        "name": "Campeon (Villa Del Refugio)",
+        "url": "https://open.spotify.com/album/2a4qgksn1V3gbcZdmyov6D"
+      },
+      "artists": [
+        {
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140217,
+      "name": "Campeon (Villa Del Refugio)",
+      "url": "https://open.spotify.com/track/1mXwOxGrThacR2y3wlKUmJ"
+    },
+    {
+      "album": {
+        "name": "Canto A Mi Padre (En Vivo)",
+        "url": "https://open.spotify.com/album/3ACuDrA5DegI4Fh3eLBcBe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Zaaz",
+          "url": "https://open.spotify.com/artist/3reo0BlmIcT0KnUfkolHuw"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225911,
+      "name": "Canto A Mi Padre - En Vivo",
+      "url": "https://open.spotify.com/track/2kfDpVt25AZSSN7EN1lW4O"
     },
     {
       "album": {
@@ -434,10 +488,32 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 177482,
       "name": "Cokita De Vidrio",
       "url": "https://open.spotify.com/track/1YNAR75TjRjD1Lorvo2HhL"
+    },
+    {
+      "album": {
+        "name": "Como Se Olvida",
+        "url": "https://open.spotify.com/album/0E1K5TwhwYAewToZmBeXwz"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        },
+        {
+          "name": "Grupo 5",
+          "url": "https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Como Se Olvida",
+      "url": "https://open.spotify.com/track/1qyfC7LJSmMFvkLwDPh0Sv"
     },
     {
       "album": {
@@ -482,6 +558,28 @@
       "duration_ms": 151802,
       "name": "Cuando Era Un Jovencito",
       "url": "https://open.spotify.com/track/4Iz9rXiub4KZgAMcCbvaab"
+    },
+    {
+      "album": {
+        "name": "Cuando Me Enamoro",
+        "url": "https://open.spotify.com/album/1QKnHrK16zhAkj2r6SLLbw"
+      },
+      "artists": [
+        {
+          "name": "Distinto",
+          "url": "https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz"
+        },
+        {
+          "name": "Conjunto Falso",
+          "url": "https://open.spotify.com/artist/1YdxpshQDGso4J2KbqSTE7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177039,
+      "name": "Cuando Me Enamoro",
+      "url": "https://open.spotify.com/track/7pDCTH1qYcSAURXvSI11s4"
     },
     {
       "album": {
@@ -580,6 +678,24 @@
       "duration_ms": 217402,
       "name": "Cumbia Vallenata - En Vivo",
       "url": "https://open.spotify.com/track/6FzRj4Wk0vs4lfA1RoVr9j"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Le Har\u00e9",
+        "url": "https://open.spotify.com/album/2pKSh05bsApJpCh9dhXqj2"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "C\u00f3mo Le Har\u00e9",
+      "url": "https://open.spotify.com/track/2VLmX3sxll81utJmBGtmUA"
     },
     {
       "album": {
@@ -1553,6 +1669,28 @@
     },
     {
       "album": {
+        "name": "Perfil No Encontrado",
+        "url": "https://open.spotify.com/album/1Qgs4sxmL9HoC995qKeMeO"
+      },
+      "artists": [
+        {
+          "name": "Elegancia Armada",
+          "url": "https://open.spotify.com/artist/3iVFiwrAhaBIlr1fT14r00"
+        },
+        {
+          "name": "El Emcut Y Los Primos",
+          "url": "https://open.spotify.com/artist/3E5sK5vsUya8gyjTUWwqFz"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Perfil No Encontrado",
+      "url": "https://open.spotify.com/track/6WnLn2X0GmPN8NDhjOaIV3"
+    },
+    {
+      "album": {
         "name": "Pero Esta Vez Llore",
         "url": "https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u"
       },
@@ -1586,6 +1724,24 @@
       "duration_ms": 521690,
       "name": "Popurr\u00ed Cumbias: Se Muri\u00f3 De Amor/Desvelado/Otra Vez - En Vivo",
       "url": "https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ"
+    },
+    {
+      "album": {
+        "name": "Popurr\u00ed de Cumbias: Hermanos Barron",
+        "url": "https://open.spotify.com/album/07Mb5D1S65YWSP8hJ2djz5"
+      },
+      "artists": [
+        {
+          "name": "Intrusso De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416638,
+      "name": "Popurr\u00ed de Cumbias: Hermanos Barron",
+      "url": "https://open.spotify.com/track/4T1u3nOZTfSs2qqJ19ySRn"
     },
     {
       "album": {
@@ -1984,7 +2140,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 182485,
       "name": "Un Campito",
       "url": "https://open.spotify.com/track/0cooGS5pakK0MIMbJMLwBJ"

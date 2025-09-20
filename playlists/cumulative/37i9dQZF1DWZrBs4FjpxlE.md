@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-119 songs - 5 hr 57 min
+121 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Central Park](https://open.spotify.com/track/5CSCpV7F9ZJZqFTOYxGoAw) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1), [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [Central Park](https://open.spotify.com/album/50VY4hGQOZYKjDNsEo7pOT) | 2:49 | 2025-03-28 | 2025-05-10 |
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2023-08-07 |  |
 | [Chosen 1](https://open.spotify.com/track/40QrLHWdsxyXLAdjJG4Rxs) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 2:07 | 2023-08-07 | 2024-01-28 |
-| [Close Friends \(Lil Baby & Gunna\)](https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:23 | 2023-08-18 |  |
+| [Close Friends \(Lil Baby & Gunna\)](https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:23 | 2023-08-18 | 2025-09-20 |
 | [Codeine Crazy](https://open.spotify.com/track/0joQFwiBKmi6X1Iq5R1ubH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 5:46 | 2024-02-23 | 2025-01-06 |
 | [Cruel](https://open.spotify.com/track/4vMaUYpkdmOKPzqLnQsBx6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [PISCES](https://open.spotify.com/album/7nktQKQFOMkh40iOTOzzBS) | 3:00 | 2025-04-25 | 2025-05-10 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-08-07 | 2025-04-16 |
@@ -36,6 +36,7 @@
 | [demon in disguise](https://open.spotify.com/track/2WTUmcQ0WKIIALr3ZtLjoT) | [Dead RoseZzz](https://open.spotify.com/artist/0PiOMEDCzza0Wx28spFAre), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [sundwn](https://open.spotify.com/artist/7Bkr0jXyQGFIiNEyD7MYRH) | [demon in disguise](https://open.spotify.com/album/2zFin6A36rULP0y6WGiu1J) | 1:48 | 2025-08-01 | 2025-08-16 |
 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 | 2023-08-07 | 2025-09-04 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-08-07 | 2024-12-16 |
+| [don't go to sleep](https://open.spotify.com/track/1pYNeCPizd8bU9nfwZcmia) | [zown](https://open.spotify.com/artist/5cUFNLkI4OFUhmcqBEGsqz), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [don't go to sleep](https://open.spotify.com/album/68JBhyK8RyWLlbJEiv6CMq) | 1:34 | 2025-09-19 |  |
 | [Don't Pretend](https://open.spotify.com/track/0cDE1IzAH6OsPpwLKT1l6t) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [Don't Pretend](https://open.spotify.com/album/1xzB42qRKOpfZVdFEyoL7B) | 2:44 | 2025-09-11 |  |
 | [dont let me go](https://open.spotify.com/track/2qvGI2uUNgNheWnfxQr25W) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [dont let me go](https://open.spotify.com/album/6VA6WgquH5zBIfIDz5IMKb) | 2:53 | 2024-02-23 | 2024-05-01 |
 | [Down Below](https://open.spotify.com/track/4SWWe2OYC4mqf40Gc2RSdl) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 3:44 | 2024-02-23 | 2024-12-06 |
@@ -93,6 +94,7 @@
 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 | 2023-08-07 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-08-07 |  |
 | [Missing You](https://open.spotify.com/track/0HYgtZsxhbZTwywSUTBwEc) | [Billi Royce](https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic) | [Missing You](https://open.spotify.com/album/6F7xofvKdMKQRhtmBqKCfJ) | 2:29 | 2024-08-09 | 2024-12-14 |
+| [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 | 2025-09-19 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 2:40 | 2023-08-07 | 2024-09-12 |
 | [Not Getting Better](https://open.spotify.com/track/0l1w6Ukv7YBrkgcppMcseq) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [Not Getting Better](https://open.spotify.com/album/02Fi5JDPyEl2LzZByBaFj4) | 3:15 | 2025-08-29 |  |
 | [Oh So Sorry Pt\. 2](https://open.spotify.com/track/6oOnw6lWk4BAcboVGJnaLm) | [PVLN](https://open.spotify.com/artist/7uCAdx7vj3t6T1ZSq25WIa), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Oh So Sorry Pt\. 2](https://open.spotify.com/album/2cmHAjAYDMgfjYuelT3Pgg) | 2:34 | 2025-02-21 | 2025-03-29 |
@@ -105,7 +107,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-08-07 |  |
 | [S.A.D.](https://open.spotify.com/track/5c87iiPldlSNuv55Ntnt2S) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [S.A.D.](https://open.spotify.com/album/072y3eg8a1bd0ccD9J9PRu) | 2:29 | 2024-02-16 | 2024-08-10 |
 | [Sad Song](https://open.spotify.com/track/6TGcyIIJgkfVEg5AP4mwHo) | [Vwillz](https://open.spotify.com/artist/0S7eN9KAsbAaIZtFyCn1q1) | [Sad Song](https://open.spotify.com/album/60K08nLuWmoctIih6sILjP) | 2:20 | 2025-01-31 | 2025-05-10 |
-| [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 | 2025-08-29 |  |
+| [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 | 2025-08-29 | 2025-09-20 |
 | [Selfish](https://open.spotify.com/track/479iOebjPbBBXPXZvGKcYc) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Selfish](https://open.spotify.com/album/5epAkQBKiF1AbHuK3OjI2R) | 2:50 | 2025-04-18 | 2025-04-26 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-08-07 |  |
 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2023-08-18 | 2024-04-19 |

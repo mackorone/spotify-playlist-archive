@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Margo Price
+> A new shade of Country\. Cover: Evan Honer
 
-645 songs - 1 day 15 hr 22 min
+647 songs - 1 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Loose Cannon](https://open.spotify.com/track/0NugEFSGIWRGcrbH7h2jDS) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Loose Cannon](https://open.spotify.com/album/789MvCDTKZzXZh6YkgO0ee) | 3:22 | 2022-01-28 | 2022-05-07 |
 | [Loose Change](https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 2:22 | 2021-12-17 | 2023-01-21 |
 | [Loretta](https://open.spotify.com/track/43qQQf5qnWkXSQMd2DGIBZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Texas Blue](https://open.spotify.com/album/3AwtSFoY4bVeoKHHZlnerA) | 2:56 | 2022-03-18 | 2022-04-29 |
+| [Lose A Friend](https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL) | 3:35 | 2025-09-19 |  |
 | [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 | 2025-08-08 |  |
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-05 | 2022-11-12 |
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-02-03 |  |
@@ -480,6 +481,7 @@
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-03-22 | 2025-03-29 |
 | [Salt Flats](https://open.spotify.com/track/2MrRxcr9O26welk5uHNx9D) | [Gregory Griffin](https://open.spotify.com/artist/2X5MgOonxm9lBdynM9lSAb) | [Salt Flats](https://open.spotify.com/album/462OQbyTeXOCECsUSeYBSI) | 3:27 | 2021-12-17 | 2022-01-15 |
 | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Sarah's Place \(feat\. Noah Kahan\)](https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi) | 3:34 | 2023-09-22 | 2023-12-16 |
+| [Saving Grace](https://open.spotify.com/track/6mj5RahkA04eSwt8exoCH4) | [Briscoe](https://open.spotify.com/artist/28NTlcAifzUgF4SIZgxncj) | [Saving Grace](https://open.spotify.com/album/5XDG4KriATkei5H0lqAgos) | 3:40 | 2025-09-19 |  |
 | [Scale These Walls](https://open.spotify.com/track/06nuTL9QddAcOzMd4S2497) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [True North](https://open.spotify.com/album/1XGrCmcWifmmiKfpK4nwm2) | 4:15 | 2022-06-10 | 2023-02-25 |
 | [Scared of the Dark](https://open.spotify.com/track/4JBPgWBmn7HnLn7dxJ50JK) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [American Son](https://open.spotify.com/album/47zGI80MnyO7qSmFwxgvta) | 3:31 | 2024-06-28 |  |
 | [Scared To Start](https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start](https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39) | 2:39 | 2024-02-23 |  |
@@ -619,7 +621,7 @@
 | [Whiskey River](https://open.spotify.com/track/3lIaJQ9U0l6Bae86e1cZQs) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Whiskey River](https://open.spotify.com/album/2Bq8jup1tjO1rxo7YTauaU) | 4:31 | 2021-12-17 | 2022-03-26 |
 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-04-28 | 2023-07-15 |
 | [White Dove](https://open.spotify.com/track/5SBpklyXHt6ledjUTz3TJ6) | [David Ferguson](https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC), [Ronnie McCoury](https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh) | [White Dove](https://open.spotify.com/album/0l9s01Apr4iWRPDBvNVjGK) | 3:51 | 2022-01-21 | 2022-07-30 |
-| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-08-18 |  |
+| [Who I Am](https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Who I Am](https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY) | 4:17 | 2023-08-18 | 2025-09-20 |
 | [Whose God Is This?](https://open.spotify.com/track/5QEQGO6pC9FDMy8BcgIO2D) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [Whose God Is This?](https://open.spotify.com/album/7m1gUIPvku2bAqyBH0HibY) | 5:14 | 2022-03-25 | 2022-05-28 |
 | [Who’s Laughing Now?](https://open.spotify.com/track/1l9LGKMWlwXrPOYFPiTugJ) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG), [Teddy and The Rough Riders](https://open.spotify.com/artist/73PqmYewGOesbBVOciGNV8) | [Who’s Laughing Now?](https://open.spotify.com/album/6mWsYknwm1ONN8YtNrDVEU) | 3:35 | 2023-04-07 | 2023-06-17 |
 | [Wicked Ways](https://open.spotify.com/track/3hk1nq3xRWJpsXkRjIjtiT) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [Wicked Ways](https://open.spotify.com/album/6Oj6IEnSiCkioP5S2wUuLu) | 4:16 | 2023-08-25 | 2023-11-18 |

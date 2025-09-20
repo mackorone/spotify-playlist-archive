@@ -2,7 +2,7 @@
 
 ### [Dance Rising](https://open.spotify.com/playlist/37i9dQZF1DX8tZsk68tuDw)
 
-> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Chris Stussy & Locklead
+> Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Miss Monique & Poppy Baskcomb
 
 3,624 songs - 8 day 16 hr 6 min
 

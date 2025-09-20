@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,308 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,302 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 32 | [I Need U](https://open.spotify.com/track/1j5OPlPaNAvWL9mgis4lur) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [So Far South](https://open.spotify.com/album/0QVZNjVqsLenILPinmltYG) | 3:46 |
 | 33 | [Get It Over](https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Get It Over](https://open.spotify.com/album/5o7I5gyXLPgw0uPP1zpvy8) | 3:16 |
 | 34 | [Brave St Andrew](https://open.spotify.com/track/4QwsbaWwtNMN0yZqyvuzaw) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Brave St Andrew](https://open.spotify.com/album/4dwzfYlUUyD2MnGCNdfODd) | 3:49 |
-| 35 | [Forever](https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [](https://open.spotify.com/album/null) | 3:17 |
+| 35 | [Forever](https://open.spotify.com/track/64WrQvHvGsS9TFjSjcl4qI) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Juniper](https://open.spotify.com/album/2pl698RtvcPc9qyUf0h7C7) | 3:17 |
 | 36 | [FIRE!](https://open.spotify.com/track/4dfRBif6eGu0dLau5J5a2Q) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 2:40 |
 | 37 | [Two Steps](https://open.spotify.com/track/5VG10DAXruz3BpPCBSjr2y) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Two Steps](https://open.spotify.com/album/1AiVydBPEu6DBHmOKXrRKK) | 2:04 |
 | 38 | [Wallpaper](https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Wallpaper](https://open.spotify.com/album/6W63ELml5omoe4bNVKVsdI) | 2:59 |

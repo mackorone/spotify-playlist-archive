@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 227520,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1N5cFf4F9LNfov7GCGWpQc"
@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 227520,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/6hPaTWf6zuddDf2VNzYdAo"
@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "100 Greatest Christmas Songs Ever",
+        "url": "https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq"
+      },
+      "artists": [
+        {
+          "name": "Sammy Davis Jr.",
+          "url": "https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "url": "https://open.spotify.com/track/6m0vO299PSkO0Zl5F4Gvd0"
+    },
+    {
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 231173,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
@@ -3058,7 +3076,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-02",
+      "date_removed": null,
       "duration_ms": 231173,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/4xEUfPbamZ3tlwNxLUo2nr"
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 204156,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/3aHDEjyb4ZMpdj0G2xDGUM"

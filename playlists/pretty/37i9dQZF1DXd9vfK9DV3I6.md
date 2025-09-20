@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,708 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,779 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 78 | [Eternal Roots](https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm) | [Eternal Roots](https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL) | 5:05 |
 | 79 | [Sakaratou Achiqin](https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Mawal Lotfi](https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda) | [Sakaratou Achiqin](https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh) | 2:19 |
 | 80 | [Mosaic \- Yohan & David Remix](https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK) | [Billy Esteban](https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0), [Ghenwa Nemnom](https://open.spotify.com/artist/4SUWLWGcllGbkcLN5DKulp), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Yohan & David](https://open.spotify.com/artist/2qeOIsxc6nlKxjjAHVJvik) | [Mosaic](https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye) | 7:32 |
-| 81 | [Rhim \- Jad Halal Remix](https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Salam](https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA) | 4:33 |
-| 82 | [Cewresamin](https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [CEWRESAMIN](https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q) | 2:16 |
+| 81 | [Cewresamin](https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [CEWRESAMIN](https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q) | 2:16 |
+| 82 | [Rhim \- Jad Halal Remix](https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon) | [Anis Karek](https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Salam](https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA) | 4:33 |
 | 83 | [Alchemist](https://open.spotify.com/track/3ZSINKOsHPDMp39Ttqqjee) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Alchemist EP](https://open.spotify.com/album/6gfX8ITCeBz0QzdHson0Rv) | 8:35 |
 | 84 | [Arabesque](https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ Ego](https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv) | [Arabesque](https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT) | 6:17 |
 | 85 | [Angelic](https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC) | [Nick Saley](https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez), [Ikonnya](https://open.spotify.com/artist/08muTYaqRus09v2EMCxar1) | [Angelic](https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3) | 4:29 |

@@ -2039,8 +2039,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Love Balloon",
+        "url": "https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm"
       },
       "artists": [
         {
@@ -3374,6 +3374,24 @@
       "duration_ms": 186971,
       "name": "Hurt So Bad",
       "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
+    },
+    {
+      "album": {
+        "name": "Chronosick",
+        "url": "https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171875,
+      "name": "Hurts Anymore",
+      "url": "https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr"
     },
     {
       "album": {
@@ -7680,24 +7698,6 @@
       "duration_ms": 227142,
       "name": "Touchy Subject",
       "url": "https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        }
-      ],
-      "date_added": "2025-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr"
     },
     {
       "album": {

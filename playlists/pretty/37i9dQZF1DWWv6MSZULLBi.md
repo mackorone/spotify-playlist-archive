@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,497 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,501 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heavy Metal](https://open.spotify.com/track/2SZJnE7Nkpa8QAt1zaR3oN) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Heavy Metal](https://open.spotify.com/album/4G7yVSLs4kpHia3Sa8HoJB) | 3:55 |
 | 2 | [Reminds Me \(feat\. Katie Gavin\)](https://open.spotify.com/track/6JpxuY7s8tapxheD3Iotqm) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp), [Katie Gavin](https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg) | [Reminds Me \(feat\. Katie Gavin\)](https://open.spotify.com/album/20fRFEHMnRdAD6HTuS9SOv) | 3:49 |
 | 3 | [man like you](https://open.spotify.com/track/2VIWp6coRHJpOu8KhcqIQC) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [man like you](https://open.spotify.com/album/6emR0rCcWjJ9tB0beVAFUt) | 2:37 |
-| 4 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [](https://open.spotify.com/album/null) | 4:49 |
+| 4 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
 | 5 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
 | 6 | [Cinder Block](https://open.spotify.com/track/4ocbhbmq4kUNWFqCEoUOLs) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Cinder Block](https://open.spotify.com/album/2XMx3ZVns6LFVKu3GpAYN6) | 3:42 |
 | 7 | [Lay All Your Love On Me](https://open.spotify.com/track/3CcQQCFlLhmlTBkAcbaZga) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Lay All Your Love On Me](https://open.spotify.com/album/7o4JnK2qh0hioNCSBOXNA1) | 3:33 |
-| 8 | [Track 6](https://open.spotify.com/track/0opvyElQZPPq405LGzfe56) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Diamond](https://open.spotify.com/track/0opvyElQZPPq405LGzfe56) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Back to the Country](https://open.spotify.com/album/2qtHeHuUDLpyaz9KYPj3zI) | 4:10 |
 | 9 | [Whose face am I](https://open.spotify.com/track/7hdSVanm1ob3fY8JPDMrMF) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Whose face am I](https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx) | 2:15 |
 | 10 | [In A Minute](https://open.spotify.com/track/7JoIXpwP4uOZbaoeIfjXum) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp) | [Elk\-Lake Serenade \(20th Anniversary\)](https://open.spotify.com/album/6HmjqsGj4LprnVBNkD4Qc0) | 2:25 |
-| 11 | [Track 1](https://open.spotify.com/track/1f0tS8qA5DsPUzhlRnWyj9) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [](https://open.spotify.com/album/null) | 0:00 |
-| 12 | [Stuck In Your Ways](https://open.spotify.com/track/2qa1ANs0kZd2suAjGv0h82) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [](https://open.spotify.com/album/null) | 3:39 |
+| 11 | [Call on Me](https://open.spotify.com/track/1f0tS8qA5DsPUzhlRnWyj9) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Call on Me](https://open.spotify.com/album/64UJBGBzbvhy1SmTCOhtl3) | 3:00 |
+| 12 | [Stuck In Your Ways](https://open.spotify.com/track/2qa1ANs0kZd2suAjGv0h82) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Crazy Blue](https://open.spotify.com/album/5MYskDUTKIXmnTPfCCBkgj) | 3:39 |
 | 13 | [Parking Lot Prayers](https://open.spotify.com/track/0TMwDEVotcHkOwQb2lgZcl) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:45 |
 | 14 | [The Ceiling](https://open.spotify.com/track/6ZKiSLhEkjXopP9Olzz6fB) | [Kaeley Jade](https://open.spotify.com/artist/0uHvg2Vc2T0NrCvSkbSb2t) | [The Ceiling](https://open.spotify.com/album/5qikq68HaaoP6uKRwzIbHG) | 4:15 |
 | 15 | [Cat's Cradle \- Spanish Version](https://open.spotify.com/track/7FprIbwrHFDESevTUjb5uL) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz), [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Cat's Cradle \(Spanish Version\)](https://open.spotify.com/album/6U5ADCkecn9TAe5Y9tfmum) | 3:50 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 18 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 |
 | 19 | [Body To Body](https://open.spotify.com/track/1G4bXB1UO3uPisKXnp1xOD) | [Siibii](https://open.spotify.com/artist/5xIv9tG1tb1tBj3PsjIqgi), [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Body To Body](https://open.spotify.com/album/2xBsIALzD8MjPfSzlQFc1c) | 3:15 |
 | 20 | [Tear in the Tide](https://open.spotify.com/track/3avfg2tRKOBcC6NhpnXkW3) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Tear in the Tide](https://open.spotify.com/album/3KABPyNYjL0K2r7rjgDZFo) | 2:32 |
-| 21 | [Track 14](https://open.spotify.com/track/74HStNv7UKnd5ek3WPx1Fp) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [](https://open.spotify.com/album/null) | 0:00 |
+| 21 | [Trouble, Heartaches & Sadness](https://open.spotify.com/track/74HStNv7UKnd5ek3WPx1Fp) | [Frazey Ford](https://open.spotify.com/artist/3w6sr0v1PArSe6JAwqk8Bl) | [Indian Ocean \(Deluxe Edition\)](https://open.spotify.com/album/5tZmV6Tut1LHtRR6yhDoYv) | 2:59 |
 | 22 | [Luther](https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Ben Bridwell](https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W) | [Luther](https://open.spotify.com/album/1wfs4vGzWOLyeiLvHv7VUP) | 3:18 |
 | 23 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 |
 | 24 | [Wake \(feat\. Fleet Foxes\)](https://open.spotify.com/track/3BET187FKsBSEEwU5qtDXU) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Wake](https://open.spotify.com/album/7f9YkOw54CSn7GcMvUk89m) | 4:16 |

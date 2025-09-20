@@ -2,7 +2,7 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Jason Aldean
+> New music discovery is what we're about\. Try it on for size\. Cover: Vincent Mason
 
 2,697 songs - 6 day 1 hr 54 min
 

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Sech en portada",
+  "description": "Shawty lo que necesitas es darle flow. Easykid en portada",
   "name": "Dale Flow",
   "tracks": [
+    {
+      "album": {
+        "name": "+ Perra + Bitch",
+        "url": "https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198211,
+      "name": "+ Perra + Bitch",
+      "url": "https://open.spotify.com/track/0T1BVEf9OOT5YolK9xqljP"
+    },
     {
       "album": {
         "name": "IND\u00d3MITA",
@@ -4960,7 +4982,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
@@ -7839,6 +7861,32 @@
     },
     {
       "album": {
+        "name": "LA 10",
+        "url": "https://open.spotify.com/album/7D66cibho44I2EGafCV6Ep"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Gotay \"El Autentiko\"",
+          "url": "https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "LA 10",
+      "url": "https://open.spotify.com/track/0R2ToLJARgmFjezsfiyx3v"
+    },
+    {
+      "album": {
         "name": "LPM",
         "url": "https://open.spotify.com/album/3fsLDApUM08iTJDtKoXE0L"
       },
@@ -7982,6 +8030,32 @@
       "duration_ms": 149433,
       "name": "LA DEA",
       "url": "https://open.spotify.com/track/1L9TXxy6RxbGFRyR8ocM2L"
+    },
+    {
+      "album": {
+        "name": "La Depre",
+        "url": "https://open.spotify.com/album/6bLQMYas9ooASXS7I1yZzq"
+      },
+      "artists": [
+        {
+          "name": "Alex Sensation",
+          "url": "https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Aaantonio",
+          "url": "https://open.spotify.com/artist/36fJy6ygbEqqH0yhPCOK1n"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218761,
+      "name": "La Depre",
+      "url": "https://open.spotify.com/track/7d11mvlrfVZAe9HKlbNNBY"
     },
     {
       "album": {
@@ -13972,7 +14046,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 168071,
       "name": "PORCELANA",
       "url": "https://open.spotify.com/track/4wlv3MSrlHVXpr6Z6zeK3T"
@@ -14540,7 +14614,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 110361,
       "name": "QUE PERRA ME VEO",
       "url": "https://open.spotify.com/track/6m3Bk94meDjZTLYBNU9yLZ"
@@ -15084,7 +15158,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 200156,
       "name": "Revol\u00fa",
       "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
@@ -16072,6 +16146,24 @@
       "duration_ms": 240306,
       "name": "Shampoo de Coco",
       "url": "https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan"
+    },
+    {
+      "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
       "album": {

@@ -513,6 +513,44 @@
     },
     {
       "album": {
+        "name": "CORTAVENTO",
+        "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
+      },
+      "artists": [
+        {
+          "name": "JOCA",
+          "url": "https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        },
+        {
+          "name": "Ludom",
+          "url": "https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0"
+        },
+        {
+          "name": "Marcelo de Lamare",
+          "url": "https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM"
+        },
+        {
+          "name": "C-AFROBRASIL",
+          "url": "https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx"
+        },
+        {
+          "name": "Reurbana",
+          "url": "https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230580,
+      "name": "AYE O",
+      "url": "https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2"
+    },
+    {
+      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -3070,7 +3108,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
@@ -3678,6 +3716,24 @@
       "duration_ms": 203357,
       "name": "Perlas Negras",
       "url": "https://open.spotify.com/track/0N6h5RnzCNJG3JfROXQIMQ"
+    },
+    {
+      "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "album": {
@@ -4950,7 +5006,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 155294,
       "name": "TocToc",
       "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"

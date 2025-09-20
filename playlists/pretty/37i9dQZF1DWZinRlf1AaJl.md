@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZinRlf1AaJl.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,674 likes - 23 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,775 likes - 23 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZinRlf1AaJl.md) - [plain]
 | 22 | [Mansae](https://open.spotify.com/track/5rIsrawNyPv1q8v11iwJsh) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2nd Mini Album ‘BOYS BE’](https://open.spotify.com/album/18aXrsD7zdPD6NSIfdwExD) | 3:06 |
 | 23 | [Adore U](https://open.spotify.com/track/6wtgR5ZVbOZPHIeMNQwugp) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:06 |
 
-Snapshot ID: `AAAAAAzh1TKBkrDe9s/0/czZM7yQdTKl`
+Snapshot ID: `AAAAADj8nZ7gt6AobiGCrL5ktTnxI1Hm`

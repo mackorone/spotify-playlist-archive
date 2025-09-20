@@ -4,7 +4,7 @@
 
 > Celebrating women at the center of innovation in electronic music\. Featuring Ninajirachi.
 
-668 songs - 1 day 17 hr 57 min
+671 songs - 1 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Apollo](https://open.spotify.com/track/7sNp24ekO02LkwhV7kBh3Z) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/5Plok6w5YeCXhdzXGSri4T) | 7:00 | 2023-03-07 | 2024-03-02 |
 | [Apollo \- Original Mix](https://open.spotify.com/track/50OKS8aOeuiegMnJuPKUeN) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Apollo EP](https://open.spotify.com/album/6h4f0Fq4di449j06qjBt3O) | 7:00 | 2023-03-07 | 2023-11-05 |
 | [Are U Down](https://open.spotify.com/track/5UwR04Cke847W9Whoxx57s) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:17 | 2021-03-01 | 2023-03-08 |
-| [Aria](https://open.spotify.com/track/2bBvkqFf4jFssDHYOxDUrU) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Panta Rei](https://open.spotify.com/album/3yQacbQfDovjruUyUy7BN4) | 4:45 | 2025-05-02 |  |
+| [Aria](https://open.spotify.com/track/2bBvkqFf4jFssDHYOxDUrU) | [Ehua](https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50) | [Panta Rei](https://open.spotify.com/album/3yQacbQfDovjruUyUy7BN4) | 4:45 | 2025-05-02 | 2025-09-20 |
 | [Ashes](https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Ashes](https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB) | 3:06 | 2025-01-10 | 2025-04-02 |
 | [Attack](https://open.spotify.com/track/1Due9XdQ9PAJ4wzBNtWoq2) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Project Ghost](https://open.spotify.com/album/0rJWzZcmEdFrPokYIYPtLm) | 3:40 | 2021-03-01 | 2023-01-07 |
 | [Attack](https://open.spotify.com/track/7wnxYjwm2gl9FjKAJQZEyg) | [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [PROJECT GHOST](https://open.spotify.com/album/7yxrXJ2KTLEniIiz5bZ4yM) | 3:40 | 2022-03-08 | 2023-03-08 |
@@ -138,6 +138,7 @@
 | [CUT ME OUT](https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Digital Ethos](https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX) | [CAN YOU SEE ME?](https://open.spotify.com/album/6tQ1vjB7ZXy8sKkGEtHs1X) | 3:42 | 2024-03-15 | 2024-05-11 |
 | [Cutie \- Edit](https://open.spotify.com/track/6ZKiCDG5v785d9aYTqkhhk) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 4:00 | 2023-03-07 | 2024-03-02 |
 | [D.A.N.C.E \- From F1® The Movie](https://open.spotify.com/track/15cIdgwfMw0YRunjzxtui9) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [D.A.N.C.E \(From F1® The Movie\)](https://open.spotify.com/album/2AgQHiCnhTpiOwZ29rrZ6v) | 3:15 | 2025-06-28 | 2025-09-06 |
+| [Dale Duro](https://open.spotify.com/track/7LnEMKpabO0Ju8PEUD4vNu) | [Lisa Korver](https://open.spotify.com/artist/3erkoMXFF8JTY5PvwolFUH) | [Dale Duro](https://open.spotify.com/album/7L5xGuL7Qd65NL8kCXqifB) | 2:47 | 2025-09-19 |  |
 | [Dance Of The Desert](https://open.spotify.com/track/3gizZUKArzqyQs5MhghCbW) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Dance Of The Desert](https://open.spotify.com/album/2dI4CM2NWgI2sbe63rndYX) | 4:04 | 2025-04-04 |  |
 | [Dancing With My Boyz](https://open.spotify.com/track/3xAP0b5O1NwVT7bud4foiF) | [Avi Sic](https://open.spotify.com/artist/2zkKco91JEZWEnIYrWHZNe) | [Dancing With My Boyz](https://open.spotify.com/album/2wAmFZUuvaR7O5Lm2iKNig) | 2:24 | 2024-03-22 | 2024-06-08 |
 | [dark place](https://open.spotify.com/track/3RrPdmhquZWhdHaU9Ijcql) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [dark place](https://open.spotify.com/album/2H6TvilDrWYC0qs9rNrJtg) | 2:47 | 2024-11-22 | 2025-05-03 |
@@ -482,6 +483,7 @@
 | [Radical Spectacular](https://open.spotify.com/track/0SMvgsGjYvbNUnLytP0VnO) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/1uXd0Gk3K9oV1TtEzjtAwo) | 6:30 | 2022-03-08 | 2024-03-02 |
 | [Radical Spectacular](https://open.spotify.com/track/1yKmeBwzsPyWkYaQDtqOWW) | [Mor Elian](https://open.spotify.com/artist/4nLavg4nn48n7wwx2AIklZ) | [Radical Spectacular](https://open.spotify.com/album/5bSLmNj9JHOixxVg9s2xxF) | 6:30 | 2021-03-01 | 2022-07-29 |
 | [Rage is a Feeling](https://open.spotify.com/track/4vq7sdPlVwqg3ONTEklL8F) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Rage is a Feeling](https://open.spotify.com/album/34bFzGOCPM7imxPvuv7Gdi) | 4:03 | 2024-12-20 | 2025-04-19 |
+| [Rain](https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Rain](https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ) | 3:18 | 2025-09-19 |  |
 | [Rain](https://open.spotify.com/track/5O6tALLpAxNPr1CTnGztYe) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw) | [Rain](https://open.spotify.com/album/3vZEyzRYGl5hxPtYShZkaU) | 2:50 | 2025-06-28 |  |
 | [Rain Falls](https://open.spotify.com/track/3uUCNEmGnPWBk0DRv73qaF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Rain Falls](https://open.spotify.com/album/5aZdqqlt3syn5S0w15RftM) | 3:12 | 2025-03-07 | 2025-07-19 |
 | [Rave Is The Weapon](https://open.spotify.com/track/7kCGuVumIpjWec9aexfCLU) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Rave Is The Weapon](https://open.spotify.com/album/34sqVY63xSSYwizUAjiLTp) | 3:16 | 2024-03-29 | 2024-04-19 |
@@ -538,6 +540,7 @@
 | [Sister](https://open.spotify.com/track/0OQehQY5sa24kxGOOB1Uuu) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:28 | 2023-03-07 | 2024-03-02 |
 | [Skin](https://open.spotify.com/track/05aLNGW9s6N87iNB67iK96) | [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Skin](https://open.spotify.com/album/7xSr9mtGS8LHKj03dezN73) | 4:22 | 2024-10-25 | 2025-01-25 |
 | [Slap Back](https://open.spotify.com/track/5t5N6ptYytg52XRAXh1Z24) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [House Of Molly](https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh) | [Slap Back](https://open.spotify.com/album/3LppsQq64jjRxylqesXChB) | 2:59 | 2024-08-02 | 2025-04-12 |
+| [Slapped By My Life](https://open.spotify.com/track/6TkqnafmCsB2JavcMkFuwE) | [Jessy Lanza](https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN) | [Slapped By My Life](https://open.spotify.com/album/3q5z86u0a86dmYM0xcOZvg) | 2:55 | 2025-09-19 |  |
 | [Slay The Beast](https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Trusting Theta](https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o) | 3:42 | 2024-09-20 | 2025-03-01 |
 | [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 | 2024-07-24 | 2024-10-26 |
 | [Slow Rush](https://open.spotify.com/track/33cBueBQrnRbMUWfa8Zjw6) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Slow Rush](https://open.spotify.com/album/40GCnZ1p60c3l1YjOTPB83) | 2:38 | 2024-08-09 | 2025-01-25 |
@@ -588,7 +591,7 @@
 | [The Cycle](https://open.spotify.com/track/768m6Ckgon2o15cceVVuuV) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [The Cycle](https://open.spotify.com/album/5OVbv5PBbJ97x5sWqcg3eF) | 3:44 | 2024-03-01 | 2024-05-18 |
 | [The Danger](https://open.spotify.com/track/0YrcKU4rdiCWhjTlfSMAtm) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/432bdHnwL1efoKDkSdROUz) | 2:27 | 2024-04-19 | 2024-04-27 |
 | [The Danger](https://open.spotify.com/track/1virgARM9gdMB8kUWX46B0) | [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [The Danger](https://open.spotify.com/album/7FK9DwGJvYlLuT78hXgcer) | 2:27 | 2024-03-01 | 2024-04-19 |
-| [The Edge](https://open.spotify.com/track/0uT9cCSq5TPBm2yDAeME2y) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [The Edge](https://open.spotify.com/album/13zNTeakfEaJIcUEkNwvlM) | 3:10 | 2025-04-04 |  |
+| [The Edge](https://open.spotify.com/track/0uT9cCSq5TPBm2yDAeME2y) | [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [The Edge](https://open.spotify.com/album/13zNTeakfEaJIcUEkNwvlM) | 3:10 | 2025-04-04 | 2025-09-20 |
 | [The Game](https://open.spotify.com/track/0Rm3QhTh5GZoXdg5wI6MB4) | [Nicky Elisabeth](https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE) | [The Game](https://open.spotify.com/album/4iVnaLmLr65RfBmzommKb1) | 3:09 | 2024-03-22 | 2024-06-08 |
 | [The Life](https://open.spotify.com/track/4u9Dvrt4VSSrOPvFTu6FPb) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [The Life](https://open.spotify.com/album/0OXDzuQer6RMIBeksBYEYk) | 2:48 | 2024-07-05 | 2024-11-23 |
 | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/track/4mCr3lxi33KfNkGsdcX8lM) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [SAÍGO](https://open.spotify.com/artist/2Gu2iejmc6pUo0ZR7thZCO) | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/album/6N7WsWfTXGn6RyoSTMc4ci) | 3:25 | 2025-01-24 | 2025-03-29 |

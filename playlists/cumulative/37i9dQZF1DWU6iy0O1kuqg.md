@@ -2,15 +2,16 @@
 
 ### [Norteño\-Banda](https://open.spotify.com/playlist/37i9dQZF1DWU6iy0O1kuqg)
 
-> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Calibre 50 en portada.
+> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Punto Final & Julio Preciado en portada.
 
-69 songs - 3 hr 49 min
+70 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 | 2023-02-24 | 2024-04-19 |
 | [Amor Limosnero](https://open.spotify.com/track/4wLdvcHJg7cb1EN8Q6iQJs) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/3hCFPKRBu3eQbbptilmIIx) | 4:00 | 2023-12-01 |  |
 | [Ando Bien Al Tiro](https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 2:27 | 2023-02-24 |  |
+| [Aunque No Sea Conmigo](https://open.spotify.com/track/0giKaADapSeNCbNsQH93Ju) | [Punto Final](https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Aunque No Sea Conmigo](https://open.spotify.com/album/2Ebonc8h40CqHy3svWp5WA) | 3:52 | 2025-09-19 |  |
 | [Aunque Te Duela](https://open.spotify.com/track/6Ng777bqg8fwA7N7GyUDYm) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Cumpliendo Un Sueño](https://open.spotify.com/album/5HNyHXa6z20pWDod3JyLXo) | 3:19 | 2023-02-24 |  |
 | [Besos Y Caricias](https://open.spotify.com/track/2V2caKcvSw2tBTBVTFKqy0) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 2:18 | 2023-02-24 |  |
 | [Buscándole A La Suerte](https://open.spotify.com/track/00dHIvc294v6xzdQjKE3GO) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [PRESENTE](https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9) | 2:18 | 2023-12-01 |  |
@@ -69,7 +70,7 @@
 | [Suena La Banda](https://open.spotify.com/track/1C0kA4UNIUJSVXPiYp0qEf) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Perdóname Mi Amor](https://open.spotify.com/album/1GOJbuPNFe5zufCE2jEJkp) | 2:54 | 2023-12-01 |  |
 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 | 2023-02-24 | 2023-12-02 |
 | [Sueño Güajiro](https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:32 | 2023-12-01 |  |
-| [Te Amo \- En vivo](https://open.spotify.com/track/2aJKZn5EEgu3ktMrkN9t3A) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5SMUfi5QkPbnaaUhBIvw92) | 3:07 | 2023-02-24 |  |
+| [Te Amo \- En vivo](https://open.spotify.com/track/2aJKZn5EEgu3ktMrkN9t3A) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5SMUfi5QkPbnaaUhBIvw92) | 3:07 | 2023-02-24 | 2025-09-20 |
 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/3PVrycV05knnR92Lgyqwrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:45 | 2023-02-24 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2023-02-24 |  |
 | [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2023-02-24 |  |

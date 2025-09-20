@@ -4,7 +4,7 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-227 songs - 11 hr 37 min
+228 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Forte](https://open.spotify.com/track/4cC2oSrEm16ddPOCzvPjuY) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [For The Ladies Rap Italiano I GOT 5 ON IT](https://open.spotify.com/album/5sTaHxgOr2e9jKorZ5wq8L) | 3:27 | 2022-07-28 | 2023-04-17 |
 | [Forte](https://open.spotify.com/track/5G6jHSoLrzhtPBhS2gMvfW) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Nonostante Tutto](https://open.spotify.com/album/0q62V6NN0EWwRTEtyFCsGQ) | 3:27 | 2022-05-03 |  |
 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 | 2022-05-03 |  |
-| [GANGSTA LOVE](https://open.spotify.com/track/39lWme9vIQaoq6OOofXhLR) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL) | 1:55 | 2025-03-18 |  |
+| [GANGSTA LOVE](https://open.spotify.com/track/39lWme9vIQaoq6OOofXhLR) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/6ExmoTCkfrCs3NbaVRjDeL) | 1:55 | 2025-03-18 | 2025-09-20 |
 | [Ghetto love \(feat\. Guè\)](https://open.spotify.com/track/6fG0TZQMCCUjTlWwB5WyGP) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 1:58 | 2024-01-25 | 2024-03-14 |
 | [Guerra Persa](https://open.spotify.com/track/5K2iD1Ch3a1FHMR3U1foFi) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:47 | 2024-06-20 | 2024-07-05 |
 | [Habibi](https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Album](https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B) | 3:04 | 2022-05-03 | 2024-01-12 |
@@ -107,6 +107,7 @@
 | [I Miss U \(feat\. Tony Boy\)](https://open.spotify.com/track/52vA7mR6kKFJTaMzRUKMmk) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 3:03 | 2024-05-02 |  |
 | [I P’ ME, TU P’ TE](https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [I P’ ME, TU P’ TE](https://open.spotify.com/album/09DwcnxasBOzPGqVXJPF13) | 3:07 | 2024-02-13 | 2025-03-19 |
 | [IL CIELO NELLA STANZA \(feat\. NSTASIA\)](https://open.spotify.com/track/2fkVZYFv9hOejIsLzZy8ad) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [NSTASIA](https://open.spotify.com/artist/2BBgFkNBBMln3m2G2Bm2bt) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:06 | 2022-05-03 |  |
+| [IL GIOCO DEL SILENZIO](https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:56 | 2025-09-18 |  |
 | [IL MALE CHE MI FAI \(feat\. Marracash\)](https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:47 | 2023-04-06 | 2024-06-01 |
 | [IL MIO NOME](https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:18 | 2022-11-20 | 2022-12-08 |
 | [IL MIO NOME](https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:18 | 2022-12-01 | 2023-03-31 |

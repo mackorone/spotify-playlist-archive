@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-256 songs - 12 hr 52 min
+257 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Army Camp Harmony Blues](https://open.spotify.com/track/6RsdMKNawozhGqlP2i1IZu) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 2:59 | 2022-08-07 | 2023-08-29 |
 | [Army Camp Harmony Blues: 2](https://open.spotify.com/track/72yTSeekIdIXAIYqfpUk3U) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD B](https://open.spotify.com/album/4UVDYSDEVCx9WiPo820Ycz) | 2:57 | 2023-04-02 | 2023-08-01 |
 | [Bad Luck Blues](https://open.spotify.com/track/0N9iMreCUdPW53nktm28xd) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 3:04 | 2024-09-04 | 2025-06-15 |
+| [Bad Luck Blues](https://open.spotify.com/track/3yTexl91j9VkE8zyVVqXFm) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Essential Classics, Vol\. 687: Ma Rainey](https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154) | 3:06 | 2025-09-20 |  |
 | [Bad Luck Blues](https://open.spotify.com/track/6sNz9fiaadP8nSIRdSDg3a) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 3:07 | 2022-08-05 | 2024-07-05 |
 | [Barrel House](https://open.spotify.com/track/44A4r4CkPQqaIIUgwWjFUV) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [First of the Great Blues Singers](https://open.spotify.com/album/6p93mgCaYnQyTKTT7txgJJ) | 2:59 | 2023-02-21 | 2023-02-23 |
 | [Barrel House Blues](https://open.spotify.com/track/3ZLSDAmqWiFbqe958QFITw) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:47 | 2025-01-06 |  |
@@ -69,7 +70,7 @@
 | [Deep Moanin Blues](https://open.spotify.com/track/7HFlwmFEzq3vXL6oJGd3xe) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Blame It on the Blues](https://open.spotify.com/album/6JNhU16QKAoGeEeCWvP3md) | 2:43 | 2022-08-12 | 2025-09-19 |
 | [Deep Moaning Blues \(Take 2\)](https://open.spotify.com/track/46XLxe3VhYFyQ7ZSsEpR05) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 2:47 | 2024-08-14 | 2025-09-02 |
 | [Deep Moaning Blues: 1](https://open.spotify.com/track/71880lDX9ffJjkZp4n0bTb) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD E](https://open.spotify.com/album/78tNbKD0U0z7jyxPdu82in) | 3:02 | 2022-08-05 | 2025-05-14 |
-| [Don't Fish In My Sea](https://open.spotify.com/track/2hyu2pSSqC2AxKPc1k92pR) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:53 | 2022-08-05 |  |
+| [Don't Fish In My Sea](https://open.spotify.com/track/2hyu2pSSqC2AxKPc1k92pR) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 4 \(1926\-1927\)](https://open.spotify.com/album/4ZbiNXqQa1hWNw0jMQ249q) | 2:53 | 2022-08-05 | 2025-09-20 |
 | [Don't Fish In My Sea](https://open.spotify.com/track/0AHuU1LVAKfeAjCZLIL31H) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 2:53 | 2023-04-27 | 2023-04-30 |
 | [Down By The Riverside](https://open.spotify.com/track/4g1FheFJBJykPx8ufKpGfv) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Blues Anthems](https://open.spotify.com/album/2tvUrNZgp8Qn4xhioef222) | 2:37 | 2023-02-07 | 2024-12-11 |
 | [Down in the Basement](https://open.spotify.com/track/1fnnmgNR09YaKImEB6GVT5) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 3:07 | 2022-08-05 | 2024-09-25 |

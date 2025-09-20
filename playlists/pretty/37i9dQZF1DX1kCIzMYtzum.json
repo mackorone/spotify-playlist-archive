@@ -1,12 +1,12 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 418206,
+  "num_followers": 418547,
   "original_name": "EDM 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK3s7dHw9aXsuAVKKWvtAuzxUH63",
+  "snapshot_id": "AAAAAPPlNmfw/QrhH94R7zR8X9e1HQ24",
   "tracks": [
     {
       "added_at": "2025-09-12 04:00:13",
@@ -1327,6 +1327,30 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
+        "name": "MAD (Matt Pridgyn Remix)",
+        "url": "https://open.spotify.com/album/4obbdNRvSbjPA4FmO76mcu"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "MAD - Matt Pridgyn Remix",
+      "url": "https://open.spotify.com/track/6k99wxsDKgFMyvCBRIWLtl"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1351,30 +1375,6 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
-        "name": "MAD (Matt Pridgyn Remix)",
-        "url": "https://open.spotify.com/album/4obbdNRvSbjPA4FmO76mcu"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Matt Pridgyn",
-          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "MAD - Matt Pridgyn Remix",
-      "url": "https://open.spotify.com/track/6k99wxsDKgFMyvCBRIWLtl"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Everlight",
-        "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Everlight",
-      "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
         "name": "Falling In Love",
         "url": "https://open.spotify.com/album/7oVRn6cgrbWYBXl4LnsEAf"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 181874,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
+        "name": "Everlight",
+        "url": "https://open.spotify.com/album/1n96zLen6gmcOjXLI6FGE6"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Everlight",
+      "url": "https://open.spotify.com/track/4g1gtAETdNfsNT5GBxNW34"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -1759,6 +1759,50 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
+        "name": "Rave Till My Grave",
+        "url": "https://open.spotify.com/album/24pocT8fPZICPOt99SR5rO"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "Villain",
+          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Rave Till My Grave",
+      "url": "https://open.spotify.com/track/7w0OLfAqXs05KpUU34ngWd"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
+        "name": "Tokyo Drift",
+        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "duration_ms": 146433,
+      "name": "Tokyo Drift",
+      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
         "name": "Edge Of The World (feat. Nu-La)",
         "url": "https://open.spotify.com/album/5v93LnHvcpo8xS7bl1DCA5"
       },
@@ -1783,30 +1827,6 @@
       "duration_ms": 173432,
       "name": "Edge Of The World (feat. Nu-La)",
       "url": "https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
-        "name": "Rave Till My Grave",
-        "url": "https://open.spotify.com/album/24pocT8fPZICPOt99SR5rO"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Villain",
-          "url": "https://open.spotify.com/artist/7iajTuviby3038TmfrpvZ3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Rave Till My Grave",
-      "url": "https://open.spotify.com/track/7w0OLfAqXs05KpUU34ngWd"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Tokyo Drift",
-        "url": "https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "Vion Konger",
-          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
-        }
-      ],
-      "duration_ms": 146433,
-      "name": "Tokyo Drift",
-      "url": "https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
         "name": "Until The Lights Go Out",
         "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
       },
@@ -1911,6 +1911,22 @@
       "duration_ms": 164000,
       "name": "Out My Head",
       "url": "https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
+        "name": "Interstellar",
+        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 231591,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -1955,22 +1971,6 @@
       "duration_ms": 143010,
       "name": "Born To Be Lonely",
       "url": "https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
-        "name": "Interstellar",
-        "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 231591,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
     },
     {
       "added_at": "2025-09-12 04:00:13",
@@ -2123,6 +2123,26 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
+        "name": "Beautiful Odyssey",
+        "url": "https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 170556,
+      "name": "Beautiful Odyssey",
+      "url": "https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh"
+    },
+    {
+      "added_at": "2025-09-12 04:00:13",
+      "album": {
         "name": "Let's Ride Away (Dimitri Vangelis & Wyman Golden Era Mix)",
         "url": "https://open.spotify.com/album/4chnQRrrqpVDbYBU2r1H8u"
       },
@@ -2147,26 +2167,6 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Beautiful Odyssey",
-        "url": "https://open.spotify.com/album/15lETGtzNwgjUOHTzqbjDb"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 170556,
-      "name": "Beautiful Odyssey",
-      "url": "https://open.spotify.com/track/5hiYBhGt4E9o5n2LycnAuh"
-    },
-    {
-      "added_at": "2025-09-12 04:00:13",
-      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/0FrwdQEOvEUP6wYUaiiaSS"
       },
@@ -2183,18 +2183,26 @@
     {
       "added_at": "2025-09-12 04:00:13",
       "album": {
-        "name": "Electric High",
-        "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
+        "name": "I Remember (John Summit Remix)",
+        "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
       },
       "artists": [
         {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Electric High",
-      "url": "https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"
+      "duration_ms": 240000,
+      "name": "I Remember - John Summit Remix",
+      "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
     }
   ],
   "unique_name": "EDM 2025",

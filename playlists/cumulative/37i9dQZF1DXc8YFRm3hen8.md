@@ -4,7 +4,7 @@
 
 > Tu dosis diaria de rock 📸 La Franela y Ciro y los Persas
 
-393 songs - 1 day 1 hr 11 min
+394 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-08-03 | 2023-03-03 |
 | [Mi Voz](https://open.spotify.com/track/5Cu3nmXfZzPoslccKSrf08) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/354l1X636EuvuvrJjhBZlw) | 3:12 | 2023-04-28 | 2023-08-26 |
 | [Mil Horas](https://open.spotify.com/track/7JEnT0uFWcwZqNZWv7hC9N) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 2:48 | 2022-07-19 | 2023-03-03 |
+| [Mil Infiernos](https://open.spotify.com/track/2XABw5ioagIufOkxm993mz) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Mil Infiernos](https://open.spotify.com/album/60dYPwcyvYq8839EqKamD2) | 3:21 | 2025-09-19 |  |
 | [Mira](https://open.spotify.com/track/5JEJItvFwoKDLDc0Flf8ky) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Es Así](https://open.spotify.com/album/2UE88brWNLJTYpJpnxTN16) | 3:49 | 2022-07-15 | 2022-07-17 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-29 | 2022-07-29 |
 | [Moderato](https://open.spotify.com/track/59RKWLyMJvVueWpwE3Cqr2) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Súper Terror](https://open.spotify.com/album/7iOJ8uRQ1mylHA2ndpzYkS) | 3:25 | 2023-07-07 | 2023-09-22 |
@@ -253,7 +254,7 @@
 | [Mutantes](https://open.spotify.com/track/76JS66fQKVW2TEknyPNOoj) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Mutantes](https://open.spotify.com/album/0lt6oS9QStYcgPwR6gZQVf) | 2:28 | 2022-07-06 | 2022-07-21 |
 | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/track/3q77DS8eOXSozmO20xLlOq) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Más Fuerte Más Alto Más Lejos](https://open.spotify.com/album/2mdmgnxNAlV1QlcGIPKnvG) | 3:46 | 2022-07-19 | 2022-07-23 |
 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 | 2022-07-19 | 2023-01-28 |
-| [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 | 2022-06-29 |  |
+| [Nada Es Igual](https://open.spotify.com/track/3YLIsu2NZxqfEPj4ADA7WX) | [La Portuaria](https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7) | [Devorador De Corazones](https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH) | 2:58 | 2022-06-29 | 2025-09-20 |
 | [Nada Nace](https://open.spotify.com/track/1EvXBtdPJF4QY2PK9XDDwF) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Esencia](https://open.spotify.com/album/5fPro8uymLfadWDm7FzM8B) | 3:33 | 2025-03-14 |  |
 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 | 2023-06-16 | 2023-08-26 |
 | [Ni Siquiera](https://open.spotify.com/track/3Bm1HGtE8GdHI9wp6U0O8P) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Ni Siquiera](https://open.spotify.com/album/1qZbZDbF9DuFhfjxqmJYcH) | 3:50 | 2022-06-29 | 2022-07-28 |

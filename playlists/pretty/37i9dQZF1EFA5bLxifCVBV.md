@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 154 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124 likes - 154 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 54 | [Thrill Me](https://open.spotify.com/track/6QTEluyhJiABjh1ZnXnZJ0) | [Ethel Ennis](https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC) | [Change Of Scenery](https://open.spotify.com/album/027UEzorpvpgU68jNZoedH) | 3:23 |
 | 55 | [Dance of the Golden Crock](https://open.spotify.com/track/4dSvDe7ncbjhJkUH3hVeX7) | [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA) | [Finian's Rainbow \(New Broadway Cast Recording\)](https://open.spotify.com/album/03R8He29oPPJAQC3uYyAq1) | 3:28 |
 | 56 | [Save Me, Sister](https://open.spotify.com/track/4VNNNyKb5VhrkCeSkW3Nvy) | [Cab Calloway](https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04) | [New York 1935\-1937, Vol\. A](https://open.spotify.com/album/4kP8rDV2ynkWMMNDKjJbD2) | 3:05 |
-| 57 | [Bubbles \- Remastered Version](https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD) | [Gay Purr\-ee \- Robert Goulet, Red Buttons & The Mellow Men](https://open.spotify.com/artist/2lUvRQVG4WLyNjI0OV7hsS) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:48 |
-| 58 | [Najla's Song Of Joy](https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:19 |
+| 57 | [Najla's Song Of Joy](https://open.spotify.com/track/2BRGwFXYgsxRCfC7rNjqly) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:19 |
+| 58 | [Bubbles \- Remastered Version](https://open.spotify.com/track/17Zu3LHy5OCrOU1ffJs0xD) | [Gay Purr\-ee \- Robert Goulet, Red Buttons & The Mellow Men](https://open.spotify.com/artist/2lUvRQVG4WLyNjI0OV7hsS) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:48 |
 | 59 | [The Same Boat, Brother](https://open.spotify.com/track/1xxhUCYBJqNaFnkqzwFbJT) | [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [He Walked On](https://open.spotify.com/album/1gXwOtD1sj3fGXROIgtAUa) | 3:39 |
 | 60 | [Here's to Your Illusions](https://open.spotify.com/track/1KwwoClXnNPbpLFDSICTSd) | [Kate Baldwin](https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa) | [Let's See What Happens](https://open.spotify.com/album/4ogteRE8HANS0KjRv4oujr) | 2:27 |
 | 61 | [Push De Button](https://open.spotify.com/track/5IetPwmlKV0hGhJTwEPGlC) | [The Gil Evans Orchestra](https://open.spotify.com/artist/0NSaDbZ3bVycmiRGhVvjyX), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [Priceless Jazz: Gil Evans](https://open.spotify.com/album/2Vrg0gyuBxMq1oGkibbRiO) | 5:50 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 153 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 154 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `Ab8lnAAAAABkMn31OUgSg7wxwNcUgVkx`
+Snapshot ID: `Ab8rKAAAAADPeYSAQZPJ8VwZfGZqBxTh`

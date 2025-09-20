@@ -4,7 +4,7 @@
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 1 min
+83 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 | 2023-12-13 | 2025-03-16 |
 | [Did You See NAV?](https://open.spotify.com/track/4KvXkK07Xyxix6k4Hi60Ia) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 3:37 | 2024-04-28 | 2024-06-04 |
 | [Don't Need Friends \(feat\. Lil Baby\)](https://open.spotify.com/track/4x3mum2YGHtIBrgUKiNt4F) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 3:04 | 2023-12-13 |  |
-| [Fall Back \(feat\. NAV\)](https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back](https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md) | 2:40 | 2024-08-18 |  |
+| [Fall Back \(feat\. NAV\)](https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back](https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md) | 2:40 | 2024-08-18 | 2025-09-20 |
+| [Fall Back \(feat\. NAV\)](https://open.spotify.com/track/2P2t2ligxAF1B562FDYrDu) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back \(feat\. NAV\)](https://open.spotify.com/album/7suwBb7PlZ6zupyHE1PYwP) | 2:40 | 2025-09-20 |  |
 | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/track/6jUKHPysxKgQI3YRqGGCLc) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/album/2ehhPO1kBl6xz41qeBcXDT) | 3:24 | 2024-05-19 | 2024-06-16 |
 | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [FAVORITE LADY \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 | 2024-06-16 | 2025-03-06 |
 | [FEEL NONE](https://open.spotify.com/track/2QnSwZgIGvcAY8i4aWq8Lm) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [OMW2 REXDALE \(DELUXE\)](https://open.spotify.com/album/5E7Q6PZEvJQIGMYADlFra9) | 1:44 | 2025-05-08 | 2025-06-30 |

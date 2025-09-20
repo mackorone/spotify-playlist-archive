@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 好樂團 \(Good Band\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,473 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,477 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [攀](https://open.spotify.com/track/3t4vDJ3z7EbyuUMcVFmSqB) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [](https://open.spotify.com/album/null) | 3:11 |
+| 1 | [攀](https://open.spotify.com/track/3t4vDJ3z7EbyuUMcVFmSqB) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [懂](https://open.spotify.com/album/1dNxVwESQkzH3ffoaZQVtr) | 3:11 |
 | 2 | [窗](https://open.spotify.com/track/2L271GrS9ZknJo31wkWFZ4) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [shawnshawn](https://open.spotify.com/artist/5viROI7OAb6XHVSqtlQlpW), [ex3545](https://open.spotify.com/artist/1XBzRhnZlL4NYhpOLZWF6K), [上杉早雄](https://open.spotify.com/artist/6UOM01aXFRyfyRbxm9IA4c) | [窗](https://open.spotify.com/album/43u2fm1EvPdPmMTD906JDT) | 3:54 |
 | 3 | [Sad Melody \(stripped\)](https://open.spotify.com/track/7dx3AvhnSwvbTpPFoQ7Tfs) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [Sad Melody \(stripped\)](https://open.spotify.com/album/0mwJnzjARJBiiPoH0c3giX) | 4:21 |
 | 4 | [Itchy](https://open.spotify.com/track/4b8jMhzPV9Hklx9rWL4ipy) | [BB彈](https://open.spotify.com/artist/3XvsBnr5I2CaTacYhrdAht) | [Itchy](https://open.spotify.com/album/0V9NaFvvq7ECliL1q1B3yO) | 1:07 |

@@ -1,13 +1,33 @@
 {
   "description": "Playlist",
-  "num_followers": 17824,
+  "num_followers": 17828,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMBY+z70a0CETUKEOQBHBr+ELThjoz",
+  "snapshot_id": "AAAMB61pI82PWPLeyaZU3fDEHp/Q1wP1",
   "tracks": [
+    {
+      "added_at": "2025-09-19 08:32:21",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI"
+    },
     {
       "added_at": "2025-09-12 07:21:16",
       "album": {

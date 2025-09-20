@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-271 songs - 15 hr 45 min
+273 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,8 @@
 | [Yesterday Once More](https://open.spotify.com/track/19qP5vtDpeJEcSNb38HiJc) | [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n) | [Yesterday Once More](https://open.spotify.com/album/3yDYZd5HRXPfwR4B7wJl6n) | 3:20 | 2021-11-19 |  |
 | [You Are The Reason](https://open.spotify.com/track/4o7NgKeVcNZeyGR27FOtPs) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [You Are The Reason](https://open.spotify.com/album/2lCk8Gp0JgIAsqAqDNIGyi) | 3:27 | 2022-10-14 | 2024-03-30 |
 | [You Oughta Know](https://open.spotify.com/track/6eZXxcFFDaAcAli6LsEJdF) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Tomàs Peire Serrate](https://open.spotify.com/artist/5Ej2nkofJ86vrXgu1bTmgr) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 2:47 | 2022-03-30 |  |
+| [you should see me in a crown](https://open.spotify.com/track/5tDqnUjzrSEQxIA49JAqXW) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [you should see me in a crown](https://open.spotify.com/album/05EdLJqtMko9sYXGo4eWXq) | 2:50 | 2025-09-19 |  |
 | [Zombie \- \(Soundtrack Version\) from "Wednesday: Season 2"](https://open.spotify.com/track/066b8lHH03cSlTFES2jMre) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Christian Almiron](https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 2:24 | 2025-08-08 |  |
+| [Zombie \- Piano & Strings Version](https://open.spotify.com/track/1KBm3CGrB5dEWkYtaROWDC) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Zombie \(Piano & Strings Version\)](https://open.spotify.com/album/5B7lZ6aEIiuodHZ3SuWGkv) | 2:35 | 2025-09-19 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

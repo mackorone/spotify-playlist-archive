@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 40289,
+  "num_followers": 40295,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABR4PebdjMtrlcDtcP/TqD5",
+  "snapshot_id": "aMtLgAAAAAAl54StbAF/xCOfJIXgaaot",
   "tracks": [
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 268146,
-      "name": "Na Segunda Vinda",
-      "url": "https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW"
+      "duration_ms": 180160,
+      "name": "Caminhos do Destino",
+      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 180160,
-      "name": "Caminhos do Destino",
-      "url": "https://open.spotify.com/track/1ksjOvoeNah5VGK2sSoTQ3"
+      "duration_ms": 268146,
+      "name": "Na Segunda Vinda",
+      "url": "https://open.spotify.com/track/0xNIIXQrCQq49w0iRpW2bW"
     },
     {
       "added_at": null,
@@ -579,26 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bambas & Biritas, Vol. 1",
-        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
+        "name": "N\u00c3O VAMOS DESISTIR",
+        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
       },
       "artists": [
         {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+          "name": "Planet Hemp",
+          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "DJ Soul Slinger",
-          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
         }
       ],
-      "duration_ms": 307253,
-      "name": "Na Noite Se Resolve",
-      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+      "duration_ms": 245920,
+      "name": "N\u00c3O VAMOS DESISTIR",
+      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
     },
     {
       "added_at": null,
@@ -619,22 +615,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00c3O VAMOS DESISTIR",
-        "url": "https://open.spotify.com/album/7yzYfAyAZO6EAtqWbeAaEc"
+        "name": "Bambas & Biritas, Vol. 1",
+        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
       "artists": [
         {
-          "name": "Planet Hemp",
-          "url": "https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU"
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
         },
         {
           "name": "Black Alien",
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "DJ Soul Slinger",
+          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
         }
       ],
-      "duration_ms": 245920,
-      "name": "N\u00c3O VAMOS DESISTIR",
-      "url": "https://open.spotify.com/track/6OB5NImXWEIv7qKubYy2qZ"
+      "duration_ms": 307253,
+      "name": "Na Noite Se Resolve",
+      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
     },
     {
       "added_at": null,

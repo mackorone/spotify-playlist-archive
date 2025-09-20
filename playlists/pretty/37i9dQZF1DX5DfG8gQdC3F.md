@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Drake, Ed Sheeran, Rezz, Twenty One Pilots, Silverstein and more!
+> New music from Josh Ross, Cardi B, Lola Young, Leith Ross, Thelma & James and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,283 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,121 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [orchid](https://open.spotify.com/track/4Z3jhAN6t2UsWIvp42FwTK) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [orchid](https://open.spotify.com/album/4vKZzhLdxN2df0L2M8lLHE) | 2:20 |
 | 100 | [Ashen Grey](https://open.spotify.com/track/1DequHOXV6d2AuVlokx8FI) | [Spite House](https://open.spotify.com/artist/3ORse2pnaM7OvXoqIgS1pN) | [Desertion](https://open.spotify.com/album/2hJsYTqlP0azOpmxFOK3y3) | 1:42 |
 
-Snapshot ID: `AAAAAP64ij4+YvR3lewrgEksoMKTj6WU`
+Snapshot ID: `AAAAAH4CW9FYg86GmZw3G2cQqLGP2NUe`

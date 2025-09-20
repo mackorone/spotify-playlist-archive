@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,263 songs - 2 day 19 hr 33 min
+1,264 songs - 2 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,7 @@
 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 | 2022-01-21 | 2023-01-15 |
 | [Forgive Me](https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Forgive Me](https://open.spotify.com/album/1nlXbXvDt7p0yDRT8m6bmI) | 2:41 | 2021-12-17 | 2022-04-21 |
 | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/track/5C29RTtzXBODKoZn0aB4zb) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Carrie Baxter](https://open.spotify.com/artist/052GxJJYMQVVqXRsZfORK1) | [FOUND LOVE \(feat\. Carrie Baxter\)](https://open.spotify.com/album/7ut4PfRhGtazFoK7UOMxbs) | 2:16 | 2021-07-16 | 2021-12-21 |
-| [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 | 2025-01-31 |  |
+| [Freak](https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Freak](https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO) | 3:21 | 2025-01-31 | 2025-09-20 |
 | [Freak \- Joe Stone 2K18 Edit](https://open.spotify.com/track/2xbRwcylUnX881qaqf5ZZJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Freak \(Joe Stone 2K18 Edit\)](https://open.spotify.com/album/2gDbE9WrayhjpbI1gEhe0t) | 2:57 | 2020-05-22\* | 2022-04-15 |
 | [Freaks](https://open.spotify.com/track/25V0TNA8cZLVzLQpHa6rB1) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Freaks](https://open.spotify.com/album/5CvGaa7ehTBOhyxLDxRWb6) | 2:55 | 2020-09-05 | 2021-10-13 |
 | [Free](https://open.spotify.com/track/0kzhCraxTEGj5uyft6y6aD) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/0qfQxiLiUyGvWpz8QQs0Gd) | 3:57 | 2021-10-09 | 2022-04-17 |
@@ -1246,6 +1246,7 @@
 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD) | 2:58 | 2022-07-14 | 2024-02-07 |
 | [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2024-02-02 | 2024-04-19 |
 | [Worst Enemy](https://open.spotify.com/track/3HNB7P3nnZlGzHKPPXXYix) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Worst Enemy](https://open.spotify.com/album/74zgCRedFSiylNUsxCB14L) | 2:51 | 2022-04-01 | 2022-04-21 |
+| [WTF](https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1) | [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [WTF](https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo) | 3:13 | 2025-09-19 |  |
 | [Wurk](https://open.spotify.com/track/4Ynibk8PO978n4voJ1Uzby) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [Wurk](https://open.spotify.com/album/2k0pwGmrqosMNaoDo01yp8) | 2:48 | 2022-07-14 | 2022-07-30 |
 | [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-23 |  |
 | [Ya Kidding](https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Ya Kidding](https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e) | 3:58 | 2020-05-22\* | 2021-12-21 |

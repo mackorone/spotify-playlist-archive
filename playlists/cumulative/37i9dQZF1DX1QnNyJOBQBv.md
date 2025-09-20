@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> Pop on the rise you should know, featuring Manuel Turizo.
+> Pop on the rise you should know, featuring Alejandro Sanz & Rels B.
 
 731 songs - 1 day 13 hr 37 min
 

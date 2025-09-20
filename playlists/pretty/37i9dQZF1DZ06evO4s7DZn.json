@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 8932,
+  "num_followers": 8935,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABdXHicEhO1c+W7zZ/CAN9M",
+  "snapshot_id": "aMtLgAAAAAA4exTeHHFbEVBjH7dQbMnD",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 185887,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+      "duration_ms": 156013,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
     },
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lagrimas Del Corazon",
         "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Cari\u00f1o Donde Andaras",
+        "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
       },
       "artists": [
         {
@@ -440,25 +456,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 156013,
-      "name": "La Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 178920,
-      "name": "Llegaste A Mi Vida",
-      "url": "https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX"
+      "duration_ms": 301578,
+      "name": "Yo Te Amo",
+      "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cari\u00f1o Donde Andaras",
-        "url": "https://open.spotify.com/album/0B1b5XWLxUdAz54oCsG1VH"
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 301578,
-      "name": "Yo Te Amo",
-      "url": "https://open.spotify.com/track/7wrkulb0HE7RTrXjfOxqwf"
+      "duration_ms": 178920,
+      "name": "Llegaste A Mi Vida",
+      "url": "https://open.spotify.com/track/029iHUnTzyQntyEuWzpnVX"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. RinRin
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,906 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,955 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 19 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 |
 | 20 | [Carry Me Home](https://open.spotify.com/track/48ccwX9wv8bSSOdb2nKRBK) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Carry Me Home](https://open.spotify.com/album/7Jb7E81AWkiaBUnMCjnVoX) | 2:45 |
 | 21 | [HUSH](https://open.spotify.com/track/2ZsCDEyhieI5fBgtHlIRGC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [HUSH](https://open.spotify.com/album/6oDFuAJZf16fsLr6y26qsQ) | 2:22 |
-| 22 | [Coming Up](https://open.spotify.com/track/35xajnbGwbIiPf0QBU0O68) | [Patriarchy](https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki) | [](https://open.spotify.com/album/null) | 3:07 |
+| 22 | [Coming Up](https://open.spotify.com/track/35xajnbGwbIiPf0QBU0O68) | [Patriarchy](https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki) | [Manual For Dying](https://open.spotify.com/album/0DmvGf7Xj0u6aAS6Mde2Yu) | 3:07 |
 | 23 | [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 |
 | 24 | [Incline \(feat\. Nova Twins, Pink Siifu & Yung Skrrt\)](https://open.spotify.com/track/6QnlhyJkaLpxEslu7sB5el) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh), [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Incline \(feat\. Nova Twins, Pink Siifu & Yung Skrrt\)](https://open.spotify.com/album/7772WgBOwdNwxi8PlJnH3Y) | 3:39 |
 | 25 | [SOMETIMESICAN'TFEELATHING](https://open.spotify.com/track/456mFHic8RX8MQph1JIzYK) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [SOMETIMESICAN'TFEELATHING](https://open.spotify.com/album/2Zyqat9ORGm9uZt7BLEaMB) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,762 likes - 32 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,761 likes - 32 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 19 | [Prende](https://open.spotify.com/track/0HvDDm3txsHclaAC973SAi) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende](https://open.spotify.com/album/4OG6GclEeWCYk82coFs8tR) | 3:06 |
 | 20 | [Entrando en Calor](https://open.spotify.com/track/1lJVlqqUghLjg5FC7fnNTy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Jinzus](https://open.spotify.com/artist/7IjLz8LTToOSNtI4cW5ZKg) | [Entrando en Calor](https://open.spotify.com/album/2CsK2MEVkZba0TUKKDMO6Y) | 3:12 |
 | 21 | [Mi Camino](https://open.spotify.com/track/2wCAFZrTjjwVyqmFC07TA8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:47 |
-| 22 | [Una Como Tu](https://open.spotify.com/track/3KSkWY17uXtjDkwz9puuEN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Como Tu](https://open.spotify.com/album/2YjF5MZfofFQ0IJ5TvGBCZ) | 3:20 |
-| 23 | [Quedate \- Live](https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Quedate \(Live\)](https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi) | 3:30 |
-| 24 | [Kikito y Ruta \- En Vivo](https://open.spotify.com/track/4lSM2qqZnyMe77wgqEoyfY) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Kikito & Ruta \(En Vivo\)](https://open.spotify.com/album/4HdZnedk7RxUPB3YbtEgDs) | 4:14 |
-| 25 | [Ruta](https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I) | 2:30 |
-| 26 | [Mas Diablo Soy Yo](https://open.spotify.com/track/7JvooZ9YHJ2mTGUQLCiTbn) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/3yLgPoMyYbIYZI0a9ehM9C) | 3:40 |
+| 22 | [Kikito y Ruta \- En Vivo](https://open.spotify.com/track/4lSM2qqZnyMe77wgqEoyfY) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Kikito & Ruta \(En Vivo\)](https://open.spotify.com/album/4HdZnedk7RxUPB3YbtEgDs) | 4:14 |
+| 23 | [Ruta](https://open.spotify.com/track/6yToupHMF7KRbAthyR5POJ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/53rI2kESC0eAG3jkVfFS5I) | 2:30 |
+| 24 | [Una Como Tu](https://open.spotify.com/track/3KSkWY17uXtjDkwz9puuEN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Como Tu](https://open.spotify.com/album/2YjF5MZfofFQ0IJ5TvGBCZ) | 3:20 |
+| 25 | [Mas Diablo Soy Yo](https://open.spotify.com/track/7JvooZ9YHJ2mTGUQLCiTbn) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk) | [Mas Diablo Soy Yo](https://open.spotify.com/album/3yLgPoMyYbIYZI0a9ehM9C) | 3:40 |
+| 26 | [Quedate \- Live](https://open.spotify.com/track/2tOYbLXrwEKCVwTNYBupYc) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Quedate \(Live\)](https://open.spotify.com/album/0VM1G9J7kPpcxaHJ5SPWPi) | 3:30 |
 | 27 | [Olvidando el pasado](https://open.spotify.com/track/4W4GNgS2O0YbrkXsTdkBVa) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg) | [Olvidando el pasado](https://open.spotify.com/album/44f7j8TXQoWm9msEgyAFRI) | 3:18 |
 | 28 | [Pilita](https://open.spotify.com/track/3W1X4YpgycUPuYfQ1wwU18) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6izvyhwMROBRGRZewggfra) | 2:58 |
 | 29 | [Una Noche Tranquila \- Version Discoteca](https://open.spotify.com/track/3svW0Wq31tR9dDzDlPMmD0) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Una Noche Tranquila \(Version Discoteca\)](https://open.spotify.com/album/46GOunIlxWaUlFbbhlkHOe) | 3:02 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 31 | [Provoca](https://open.spotify.com/track/3I7DArlMv8E8FiRslMLvVz) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/61KINxMTi3tqeCEppDskc4) | 3:26 |
 | 32 | [Vamono Lejos](https://open.spotify.com/track/4xdl8WUxPsgG0gZdIP4yS8) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Sacra Mr Melody](https://open.spotify.com/artist/03A4rAqMAxVwjkRIPZxZ9Y) | [Vamono Lejos](https://open.spotify.com/album/2XJ0HDrDyFqGuzGP4vQbGg) | 3:07 |
 
-Snapshot ID: `aMn6AAAAAADGSD5EI6Gz9q9OaJ+rR7hJ`
+Snapshot ID: `aMtLgAAAAABuhJRSSHxfFg0dHb7dGXbs`

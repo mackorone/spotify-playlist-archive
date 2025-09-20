@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6181,
+  "num_followers": 6189,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAD0fQzjeF+aWrkpqThbyVTp",
+  "snapshot_id": "aMtLgAAAAABGmCSqsBiNPwarPPKsiNzS",
   "tracks": [
     {
       "added_at": null,
@@ -83,46 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bust Down",
-        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Bust Down",
-      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BlownBoy RU",
-        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Giveaway",
-      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Help Is On The Way",
         "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
       },
@@ -147,6 +107,46 @@
       "duration_ms": 176183,
       "name": "Living Life",
       "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BlownBoy RU",
+        "url": "https://open.spotify.com/album/6PAGfuja5bu2d7EHzo77uz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Giveaway",
+      "url": "https://open.spotify.com/track/6XEv0xIrDhwolBuzju8v5y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bust Down",
+        "url": "https://open.spotify.com/album/5WBwh4xPACk0mfi5J5vw1G"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Bust Down",
+      "url": "https://open.spotify.com/track/3eWpfsYgd5OL2QdwcVcF6Q"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Vibe Machine",
-        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 165656,
-      "name": "No Sleeping",
-      "url": "https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spiritual",
         "url": "https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 208917,
       "name": "Spiritual",
       "url": "https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Original Vibe Machine",
+        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 165656,
+      "name": "No Sleeping",
+      "url": "https://open.spotify.com/track/1JDxpKlpGehMGOtclizdVT"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sick Six",
+        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 128429,
+      "name": "Say No to Big Fall",
+      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Marleba The EP",
         "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 144993,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sick Six",
-        "url": "https://open.spotify.com/album/4UinowfqwB20ITGJdS3BaD"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 128429,
-      "name": "Say No to Big Fall",
-      "url": "https://open.spotify.com/track/2mk0VTrxiZJXhLPB2yo4mk"
     },
     {
       "added_at": null,

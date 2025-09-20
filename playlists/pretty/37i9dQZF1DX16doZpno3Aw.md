@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,841 likes - 115 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,994 likes - 115 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 114 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 |
 | 115 | [Fascination](https://open.spotify.com/track/47WewSqip6G4BSSi8V8O8N) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr) | [Fascination](https://open.spotify.com/album/5v5R3JtW0bvAqJWAcJRpnR) | 2:39 |
 
-Snapshot ID: `AAAAAOmjeMmFR2mvjxCtMlqWE0rEbCfS`
+Snapshot ID: `AAAAAKaqVZ1zO09cjY3hsBHM5ZhLLWRH`

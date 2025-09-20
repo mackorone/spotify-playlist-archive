@@ -2,7 +2,7 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
 
-> The best mix of today's Christian music, all genres, worldwide\. Cover: Phil Wickham
+> The best mix of today's Christian music, all genres, worldwide\. Cover: Zach Williams
 
 1,212 songs - 3 day 10 hr 24 min
 

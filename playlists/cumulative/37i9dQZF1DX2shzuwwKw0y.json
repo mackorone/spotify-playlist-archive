@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-26",
-  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Victor Valverde, Jaziel Avilez ",
+  "description": "Del rancho a la ciudad, las historias que pocos se atreven a contar. Cover: Los Dos de Tamaulipas",
   "name": "Corridos Perrones",
   "tracks": [
     {
@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Arriba la Barbiza",
+        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168866,
+      "name": "Arriba la Barbiza",
+      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
+    },
+    {
+      "album": {
         "name": "Arriba Las Manos",
         "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
       },
@@ -836,7 +854,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 209920,
       "name": "Backpack",
       "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 220399,
       "name": "Carne y Hueso",
       "url": "https://open.spotify.com/track/5MiDveEDxzEsVn5Tt1vQbI"
@@ -1454,7 +1472,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 171322,
       "name": "CDN",
       "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
@@ -1848,7 +1866,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 144726,
       "name": "Con Toda La Fe",
       "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
@@ -2619,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "DURACELL",
+        "url": "https://open.spotify.com/album/2HaKO4hbjCjwkExsp3gtDt"
+      },
+      "artists": [
+        {
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+        },
+        {
+          "name": "Hector Vargas",
+          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166410,
+      "name": "DURACELL",
+      "url": "https://open.spotify.com/track/65gHNwnsOY5N3T0m8su6O6"
+    },
+    {
+      "album": {
         "name": "Duro Le Chingamos",
         "url": "https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV"
       },
@@ -2686,6 +2726,24 @@
       "duration_ms": 190796,
       "name": "El 08",
       "url": "https://open.spotify.com/track/2aqt0Rj3aBncNXlVwYYMBJ"
+    },
+    {
+      "album": {
+        "name": "Censurado",
+        "url": "https://open.spotify.com/album/2jhcKtNWIM6qkVrGrGI5PZ"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195818,
+      "name": "El 220",
+      "url": "https://open.spotify.com/track/3d0AgIxAtw9VQWjQDexXOL"
     },
     {
       "album": {
@@ -4633,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "El Trompas",
+        "url": "https://open.spotify.com/album/5IiDoeyRQQL6UfZem0TLFN"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156053,
+      "name": "El Trompas",
+      "url": "https://open.spotify.com/track/2d0MPbOAVFsnln2FTMIFwc"
+    },
+    {
+      "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
       },
@@ -5076,7 +5152,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 204100,
       "name": "FLOTA",
       "url": "https://open.spotify.com/track/3YptM3ZoSH2EW2LCiTmIVF"
@@ -5465,6 +5541,28 @@
     },
     {
       "album": {
+        "name": "Haciendo Memoria",
+        "url": "https://open.spotify.com/album/34nVEyCXj7H5vRoqLf34Ar"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187034,
+      "name": "Haciendo Memoria",
+      "url": "https://open.spotify.com/track/1trlpTsQJoBoKQeHGDF72a"
+    },
+    {
+      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -5703,6 +5801,28 @@
     },
     {
       "album": {
+        "name": "Internacional",
+        "url": "https://open.spotify.com/album/2oNaleloWWqNi8VKTSA4jR"
+      },
+      "artists": [
+        {
+          "name": "Grupo La Ruleta",
+          "url": "https://open.spotify.com/artist/3cVM3GJkd3ejgHsmJqO5kz"
+        },
+        {
+          "name": "PAEZ JR",
+          "url": "https://open.spotify.com/artist/7Gve8WHTlIvZQ6zmyUQoR1"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144781,
+      "name": "Internacional",
+      "url": "https://open.spotify.com/track/6R4YoZP0G6Zxz5nnhzmZvj"
+    },
+    {
+      "album": {
         "name": "James B.",
         "url": "https://open.spotify.com/album/0SopcVXw2oPUQTAJYZv6UQ"
       },
@@ -5714,7 +5834,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 174642,
       "name": "James B.",
       "url": "https://open.spotify.com/track/6T9mi3HBKG2T21JvM9zowV"
@@ -5772,7 +5892,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 185750,
       "name": "Joven Bragado",
       "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"
@@ -7563,6 +7683,24 @@
     },
     {
       "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/6vOywIVQkSx2L4bIAsVBwu"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176266,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/0ShpSN6i6yiqcQjo97W3ae"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
       },
@@ -8548,6 +8686,24 @@
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "album": {
+        "name": "Sin Rumbo",
+        "url": "https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Garcia",
+          "url": "https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203606,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
     },
     {
       "album": {
@@ -10452,7 +10608,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 197062,
       "name": "Terco Soy",
       "url": "https://open.spotify.com/track/4mbWLsNAgFcB8Rvue936rN"

@@ -4,7 +4,7 @@
 
 > Celebrating some of the most greatest female voices of all time\. Cover: Mariah Carey
 
-138 songs - 9 hr 9 min
+139 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2024-04-12 |  |
 | [Change](https://open.spotify.com/track/7xYy4fuiPfFEAsjz3H93Sl) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Change](https://open.spotify.com/album/0m8VAwx05KPWcxo0B3g2W7) | 3:06 | 2021-01-08 | 2022-04-23 |
 | [Defying Gravity](https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 7:39 | 2025-03-03 |  |
-| [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2024-12-27 |  |
+| [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2024-12-27 | 2025-09-20 |
 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 | 2021-01-08 | 2022-11-13 |
 | [Don't Know Why](https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:06 | 2021-01-08 | 2022-07-29 |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2022-07-11 | 2024-04-19 |
@@ -114,6 +114,7 @@
 | [Skyscraper](https://open.spotify.com/track/4B3RmT3cGvh8By3WY9pbIx) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Unbroken](https://open.spotify.com/album/1ypH0eU9RcE6wngSGSqmeY) | 3:41 | 2022-07-11 | 2024-02-13 |
 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 | 2021-01-08 |  |
 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 | 2022-07-11 | 2024-04-19 |
+| [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-19 |  |
 | [Stop](https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8) | [Sam Brown](https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5), [Pete Brown](https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA) | [Stop!](https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ) | 4:55 | 2022-04-22 | 2022-11-13 |
 | [Stop \- Edit](https://open.spotify.com/track/5aSzCwW4lemb0ZsfWuDuos) | [Sam Brown](https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5) | [True Power\-Ballads / 3CD set](https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX) | 3:57 | 2021-01-08 | 2022-04-23 |
 | [Super Duper Love](https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions](https://open.spotify.com/album/188TILSlxecPremJwHDkk7) | 4:20 | 2022-04-22 | 2025-06-04 |

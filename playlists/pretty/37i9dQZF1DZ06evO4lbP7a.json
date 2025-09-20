@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 49589,
+  "num_followers": 49587,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAAV481geHWQR7WQFOG/ZdGW",
+  "snapshot_id": "aMtLgAAAAAAOEytEIhj5c9EOoSS4d53u",
   "tracks": [
     {
       "added_at": null,
@@ -575,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30aa\u30ea\u30b8\u30f3",
-        "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
+        "name": "; semicolon",
+        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
       "artists": [
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 206666,
-      "name": "\u30aa\u30ea\u30b8\u30f3",
-      "url": "https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr"
+      "duration_ms": 180666,
+      "name": "\u30ec\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
     },
     {
       "added_at": null,
@@ -607,6 +611,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30aa\u30ea\u30b8\u30f3",
+        "url": "https://open.spotify.com/album/5pRmvEqEFcbS83hcQPNWrb"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "\u30aa\u30ea\u30b8\u30f3",
+      "url": "https://open.spotify.com/track/7sqlWfsAcENRdsrN6BuyTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u58f0\u660e",
+        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 215700,
+      "name": "\u58f0\u660e",
+      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "; semicolon",
         "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
       },
@@ -614,15 +650,11 @@
         {
           "name": "yama",
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 180666,
-      "name": "\u30ec\u30b3\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6wG7V7gPdYl85QScNKqRBc"
+      "duration_ms": 195133,
+      "name": "Film",
+      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
     },
     {
       "added_at": null,
@@ -647,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u660e",
-        "url": "https://open.spotify.com/album/64WnOkk1bfF32ElFKEBw1F"
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
       },
       "artists": [
         {
@@ -656,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 215700,
-      "name": "\u58f0\u660e",
-      "url": "https://open.spotify.com/track/52K93xV0RzR1oiTpLelcmj"
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -675,38 +707,6 @@
       "duration_ms": 219206,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/5EBkv7Vl47e674Yi6Gk7zi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "; semicolon",
-        "url": "https://open.spotify.com/album/6N8APVZNMPGElFdIbkTFMe"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Film",
-      "url": "https://open.spotify.com/track/33Cdpy0wIKa6le6kNaD6Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,

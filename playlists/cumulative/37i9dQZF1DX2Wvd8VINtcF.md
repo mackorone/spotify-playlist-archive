@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Tame Impala✨
 
-2,039 songs - 4 day 14 hr 14 min
+2,040 songs - 4 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 | 2023-04-20 | 2023-06-02 |
 | [Blame](https://open.spotify.com/track/6BjfERCULw4fyP9MGyer9q) | [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Blame](https://open.spotify.com/album/5sz76UGFRuVaZ1HRzqq5lm) | 2:37 | 2022-12-08 | 2023-01-27 |
 | [Blanket](https://open.spotify.com/track/34mIasINn8fmO54la1cDaM) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/1yUYTi45DvH4lTZnrX9hib) | 1:57 | 2023-10-05 | 2023-11-10 |
-| [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [](https://open.spotify.com/album/null) | 3:23 | 2025-09-18 |  |
+| [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 | 2025-09-18 |  |
 | [Bleecker](https://open.spotify.com/track/5GHXtGjgoX5EKQTiuNX6Fc) | [ALBA](https://open.spotify.com/artist/5MKM7cNYL4SIuIe6q4Qd1p) | [Bleecker](https://open.spotify.com/album/3E7WTyyZV0bx1EcLJFQQDh) | 3:30 | 2023-08-07 | 2023-09-01 |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-02-27 | 2025-04-25 |
 | [bleeder](https://open.spotify.com/track/5q3mmZ2MpbykOjZejtZDVR) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [bleeder](https://open.spotify.com/album/0pLT2hTEf7WOC0QhvJX2l6) | 2:45 | 2025-02-13 | 2025-03-14 |
@@ -882,6 +882,7 @@
 | [I Want You To Know](https://open.spotify.com/track/4bZAsC7ftR11pHpRNk2Mhc) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 4:47 | 2023-09-07 | 2024-01-05 |
 | [i will never be there for u](https://open.spotify.com/track/3oGyXaa4ZrkmNSqtv0QgwM) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [i will never be there for u](https://open.spotify.com/album/0eJzVex3WKvPmYxDZ1ILCD) | 2:49 | 2023-10-12 | 2024-02-16 |
 | [i win](https://open.spotify.com/track/64XQVX4dMJiMrgso3vHn0o) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [i win](https://open.spotify.com/album/55SUwxMlaNT4gsTDJtlLWd) | 1:16 | 2024-05-09 | 2024-07-27 |
+| [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 | 2025-09-19 |  |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-26 | 2023-04-21 |
 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 | 2025-09-11 |  |
 | [I Write The News](https://open.spotify.com/track/24rzn9kTpr0G4keKLkzofw) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/2OrfhPs4nDffAUyRrcxXWg) | 2:45 | 2024-02-08 | 2024-03-01 |
@@ -1328,7 +1329,7 @@
 | [Orange Blossoms](https://open.spotify.com/track/4IZTru7nKgBE8sBq6aMY56) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Orange Blossoms](https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao) | 3:12 | 2023-10-19 | 2024-02-23 |
 | [orange moon](https://open.spotify.com/track/3SUCjwn774ivXNis4CahDt) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [orange moon](https://open.spotify.com/album/7D5ov4OZ7x6s1JPDKRyH7y) | 3:07 | 2024-11-28 | 2025-02-14 |
 | [ORANGES](https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [ORANGES](https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV) | 2:03 | 2023-05-11 | 2023-06-30 |
-| [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [](https://open.spotify.com/album/null) | 4:29 | 2025-09-18 |  |
+| [Orbit of You](https://open.spotify.com/track/0Q7W1QnyazyGO95aTyCxf2) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Orbit](https://open.spotify.com/album/02N4GkYrEAl9NocCEgBbsm) | 4:29 | 2025-09-18 |  |
 | [Oregon](https://open.spotify.com/track/1xIAHRag2NC347gbTe5ig4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Oregon](https://open.spotify.com/album/2Zw3tUqmAocI2AD2YN0jgH) | 1:55 | 2023-12-21 | 2024-02-09 |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-22 | 2024-10-25 |
 | [Orion](https://open.spotify.com/track/6IMZz2RhWJCzWKo2he1SLB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Orion](https://open.spotify.com/album/5JvejhNPdxVVPTP9P8bxXf) | 3:59 | 2024-02-01 | 2024-06-07 |

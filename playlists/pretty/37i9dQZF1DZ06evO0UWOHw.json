@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 14048,
+  "num_followers": 14062,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAACm+qHUukIbh+F4RAHvG/lE",
+  "snapshot_id": "aMtLgAAAAAAuO8jvs70c4YnAeMGbuTrC",
   "tracks": [
     {
       "added_at": null,
@@ -591,30 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tayo",
-        "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "SO7ACE",
-          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 162162,
-      "name": "Milli (feat. Victony)",
-      "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypnotize",
         "url": "https://open.spotify.com/album/5yEFZR4xk6tSmCUz7TU5dl"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 206821,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/7LNQltPtE6ChZrHdbYn6BJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tayo",
+        "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "SO7ACE",
+          "url": "https://open.spotify.com/artist/4ibCJiC5KbRm8hhmaXRkIU"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 162162,
+      "name": "Milli (feat. Victony)",
+      "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
     },
     {
       "added_at": null,
@@ -747,22 +747,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 108823,
-      "name": "NAIJA SHAWTY (feat. Victony)",
-      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
+      "duration_ms": 163200,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
     },
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": null,

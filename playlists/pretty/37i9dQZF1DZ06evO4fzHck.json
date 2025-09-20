@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 583541,
+  "num_followers": 583612,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAABmzENQOyc/gOogxvjPb/WK",
+  "snapshot_id": "aMtLgAAAAADd8YHsxkyxafFXtm7G1N8w",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 460293,
-      "name": "From The Edge Of The Deep Green Sea",
-      "url": "https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP"
+      "duration_ms": 209666,
+      "name": "The Walk",
+      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 209666,
-      "name": "The Walk",
-      "url": "https://open.spotify.com/track/4UvcIxaBqIVlljqqncrpyr"
+      "duration_ms": 460293,
+      "name": "From The Edge Of The Deep Green Sea",
+      "url": "https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP"
     },
     {
       "added_at": null,

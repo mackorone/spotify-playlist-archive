@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 
 > De beste Nederlandse muziek vind je hier! Met o.a\. Kensington \(cover\), Frenna, Noano, Bilal Wahib en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,825 likes - 60 songs - 2 hr 57 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,826 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 | 59 | [Therapie](https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Therapie](https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO) | 3:01 |
 | 60 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 |
 
-Snapshot ID: `AAAbtx4SJoGLhY4xrYHVXcnvyf7x7COa`
+Snapshot ID: `AAAbufWH5tGTBk8uMDoJyMDnxrhOcpoZ`

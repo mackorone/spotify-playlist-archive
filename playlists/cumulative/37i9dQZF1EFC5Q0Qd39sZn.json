@@ -8887,6 +8887,24 @@
     },
     {
       "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287213,
+      "name": "Set the Night to Music",
+      "url": "https://open.spotify.com/track/3tf0iRfyJd4eYqs1Dn1w79"
+    },
+    {
+      "album": {
         "name": "The Very Best of Roberta Flack",
         "url": "https://open.spotify.com/album/4zgWZypmvsNzjNSsDRqxQq"
       },
@@ -8902,7 +8920,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 319893,
       "name": "Set the Night to Music (with Maxi Priest) - 2006 Remaster",
       "url": "https://open.spotify.com/track/2lwsF5lzIgTmlAhcpuD1py"

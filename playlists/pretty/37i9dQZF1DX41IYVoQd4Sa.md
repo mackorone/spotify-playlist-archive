@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : נגה ארז
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,591 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,598 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 40 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
 | 41 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |
 | 42 | [In Stereo](https://open.spotify.com/track/6VBbmDuYFGj4xAxLM79JB7) | [Moscoman](https://open.spotify.com/artist/44F8g3iM4NgU5cisocTlTQ), [Tom Sanders](https://open.spotify.com/artist/7JPYQ0pXUIZVWVE1fRT7FU) | [In Stereo](https://open.spotify.com/album/44B9VnE86HRFjcYVEEg0lz) | 4:26 |
-| 43 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
-| 44 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 43 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 44 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
 | 45 | [דיסקו ואפרול](https://open.spotify.com/track/4050UijbIIaF382v8Wven7) | [Mika Tal](https://open.spotify.com/artist/0MmJ5Op44ZkXimqUvybV31) | [דיסקו ואפרול](https://open.spotify.com/album/0WQRFKQV9HgcNJlfBwEmYH) | 2:40 |
 | 46 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
 | 47 | [אני אתה אני](https://open.spotify.com/track/13AhCOHUBRLxSM8bP49T67) | [Yael Selinger](https://open.spotify.com/artist/29XbTsg9MEdJf1gHJhqO5l) | [שירים, כאבי לב](https://open.spotify.com/album/28wYNOpaaiB1ryhzxe0yjn) | 2:32 |
 | 48 | [Home "La La La"](https://open.spotify.com/track/56ftzomXxvahAqZlFcBsaO) | [Red Axes](https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G) | [Home "La La La"](https://open.spotify.com/album/1vfFaZBZz6lKMfeU6cMPDT) | 3:27 |
 | 49 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
-| 50 | [חורלא](https://open.spotify.com/track/3C7jJyJwgICuugBmm0ydGM) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc), [Lava Dome](https://open.spotify.com/artist/7cyXcAXjpUsTLIvBqsmIEC) | [בחזרה לארון](https://open.spotify.com/album/2wM0XTYE5UDr2dlgs6OqWp) | 2:58 |
+| 50 | [שמעתי שחיכית](https://open.spotify.com/track/3Bai1ywFYzrW7VrNGXXE3e) | [Eldad Zitrin](https://open.spotify.com/artist/4NNomCVl1n5hhBBk2h8aNk), [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [שמעתי שחיכית](https://open.spotify.com/album/39tVAUJZhbTM9FfaURWX4O) | 3:10 |
 
 Snapshot ID: `AAAAAFoxtoJilAtj6pV+w+jY08lBYatq`

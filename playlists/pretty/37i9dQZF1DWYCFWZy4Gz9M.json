@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 70934,
+  "num_followers": 70973,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Live in Casablanca",
-        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
       "artists": [
         {
-          "name": "Fehd Benchemsi",
-          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 569244,
-      "name": "Lalla Mira",
-      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
+      "duration_ms": 397333,
+      "name": "Chalaba",
+      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -259,22 +263,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Live in Casablanca",
+        "url": "https://open.spotify.com/album/25DdBbAFYrRhdi0xiYATKR"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Fehd Benchemsi",
+          "url": "https://open.spotify.com/artist/1Z4qZRTqdRiefiqgbNg2ky"
         }
       ],
-      "duration_ms": 397333,
-      "name": "Chalaba",
-      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
+      "duration_ms": 569244,
+      "name": "Lalla Mira",
+      "url": "https://open.spotify.com/track/2Ya5BmjguLHtvnIznh35cf"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -439,18 +439,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
       },
       "artists": [
         {
-          "name": "Hassan Boussou",
-          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 44986,
-      "name": "Katib Allah",
-      "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
+      "duration_ms": 541653,
+      "name": "Salat al Nabi",
+      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -471,22 +475,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
         }
       ],
-      "duration_ms": 541653,
-      "name": "Salat al Nabi",
-      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
+      "duration_ms": 44986,
+      "name": "Katib Allah",
+      "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -603,26 +603,18 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
       "artists": [
         {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
-        },
-        {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
-        },
-        {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+          "name": "Abdelkebir Merchane",
+          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
         }
       ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
+      "duration_ms": 417666,
+      "name": "Hamadi",
+      "url": "https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -659,18 +651,26 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
       "artists": [
         {
-          "name": "Abdelkebir Merchane",
-          "url": "https://open.spotify.com/artist/7iiuXYxFPuc2tMe000sxe4"
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+        },
+        {
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+        },
+        {
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
         }
       ],
-      "duration_ms": 417666,
-      "name": "Hamadi",
-      "url": "https://open.spotify.com/track/5iTnwSlkwGr0HX125tsfFR"
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2025-03-13 20:50:57",

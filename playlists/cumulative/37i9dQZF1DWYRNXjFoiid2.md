@@ -2,7 +2,7 @@
 
 ### [Ultimate Pop Gaming](https://open.spotify.com/playlist/37i9dQZF1DWYRNXjFoiid2)
 
-> Pop to fuel your gaming\. Cover: KATSEYE
+> Pop to fuel your gaming\. Cover: Lydia Night
 
 436 songs - 21 hr 28 min
 

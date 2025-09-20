@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 NOTA
 
-264 songs - 14 hr 58 min
+265 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Cómo Conquistar la Ciudad](https://open.spotify.com/track/0KQE1Mt4imKQKya2d0aPg3) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta \(Deluxe\)](https://open.spotify.com/album/32qXrkxbLyo7lGqNeN2Oe0) | 3:04 | 2024-02-09 | 2024-11-16 |
 | [D.I.E \(Dance In Ecstasy\)](https://open.spotify.com/track/03y9Y3WXf2A4RvNl7c4FN2) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Esto es lo que obtenés cuando te cansás de lo que ya obtuviste](https://open.spotify.com/album/4N2YIuYGbn5P0pyTbrwend) | 5:49 | 2023-04-28 |  |
 | [DAME MENOS](https://open.spotify.com/track/5kjeSPCqW7SqvT9bCJV1HN) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [SOMOS PROFESIONALES](https://open.spotify.com/album/0deIeSsYeNUehBW1yfxfoT) | 1:43 | 2024-07-05 |  |
+| [de amor](https://open.spotify.com/track/2aTErhZNKXlUIh9OBHcMAF) | [un muerto mas](https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0) | [de amor](https://open.spotify.com/album/47gnNZkAo3cBhbWwZL2DYW) | 2:25 | 2025-09-19 |  |
 | [De Cero A Cien X Essentials \#1](https://open.spotify.com/track/3HsgtlddNm8Q9zoKkgwsUo) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [Tygas](https://open.spotify.com/artist/1mLmCADd22UpYNqCAykYKT), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [Elsidechain](https://open.spotify.com/artist/0DubQNvKAkkXWIIC2jImhU) | [De Cero A Cien X Essentials \#1](https://open.spotify.com/album/4JDgTCvoC6nbyjDkE2F9OW) | 3:01 | 2022-03-25 | 2023-03-25 |
 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 | 2022-03-25 | 2023-03-25 |
 | [Desconsuelo](https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2) | [DOJO](https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG) | [Desconsuelo](https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T) | 4:03 | 2024-07-12 |  |

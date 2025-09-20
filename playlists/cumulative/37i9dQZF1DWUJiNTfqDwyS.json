@@ -149,6 +149,32 @@
     },
     {
       "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/6zgPifPQ5uMdWS09mGHwjd"
+      },
+      "artists": [
+        {
+          "name": "Youth Never Dies",
+          "url": "https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r"
+        },
+        {
+          "name": "Our Mirage",
+          "url": "https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU"
+        },
+        {
+          "name": "Onlap",
+          "url": "https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285154,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/5HZS0Vq4lzPyXR3s1qfjvg"
+    },
+    {
+      "album": {
         "name": "ReAniMate: The CoVeRs eP",
         "url": "https://open.spotify.com/album/2fwH1QL0wgnbbXiHWCYs1D"
       },
@@ -448,7 +474,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 218333,
       "name": "Cars - Remix",
       "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
@@ -1511,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Be Somebody",
+        "url": "https://open.spotify.com/album/3wQukIxRxaLwzScXyz6YAf"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222231,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/47XVdpZtKkmBIjIbWNsKOU"
+    },
+    {
+      "album": {
         "name": "The Blood of Gods",
         "url": "https://open.spotify.com/album/4Ps3txaybLW14aDROZ48sL"
       },
@@ -1688,7 +1732,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
@@ -2086,7 +2130,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 211973,
       "name": "Message in a Bottle",
       "url": "https://open.spotify.com/track/6Iy5KEB1kO2BVOGnAgVV65"

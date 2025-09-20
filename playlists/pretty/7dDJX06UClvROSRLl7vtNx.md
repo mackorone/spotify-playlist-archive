@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 99,495 likes - 205 songs - 8 hr 53 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 99,589 likes - 205 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 116 | [Too Hot For You To Hold](https://open.spotify.com/track/3nZBJJT2efeQ89JRK50lDC) | [HeɅven](https://open.spotify.com/artist/12PufqR6w54uHrEiOkJnzU), [AUGUSTKID](https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y), [Jessie Villa](https://open.spotify.com/artist/17f6GZLFTD3ImVTQGyA9gX) | [Too Hot For You To Hold](https://open.spotify.com/album/2JRLofOR1HIZjXMfh7dntu) | 2:23 |
 | 117 | [Fall Again](https://open.spotify.com/track/3UZvF50rHDH8zPSS02Jojx) | [Tom Platts](https://open.spotify.com/artist/59UD0lnD3PozhhXlMQcAgP), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [LIZ LUNE](https://open.spotify.com/artist/5xRUsKg8Fo7klXjR63y894) | [Fall Again](https://open.spotify.com/album/2H3qkryo6drnSDzrq5uTvs) | 3:01 |
 | 118 | [Ever After](https://open.spotify.com/track/0mGszojlSVN0afEjKGrLNg) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Ever After](https://open.spotify.com/album/360d0ZvbeMHpar5lvBhyeR) | 2:36 |
-| 119 | [Mama Used To](https://open.spotify.com/track/5qJOLnTc9TNxumM0fJdW25) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Mama Used To](https://open.spotify.com/album/0VPuQl1rQDwYHlEzckmByP) | 2:58 |
+| 119 | [Don't Be Afraid](https://open.spotify.com/track/1UTVHEwU4YgxF6qN9aOqKo) | [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X), [Haisten](https://open.spotify.com/artist/7dd7gUFKUAa0EtdPzUroyx) | [Don't Be Afraid](https://open.spotify.com/album/7hRk0EWjWetRRAn8Pcl9gs) | 2:16 |
 | 120 | [Colours](https://open.spotify.com/track/2J5zHk5cmM1lG2xhYGRX16) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Colours](https://open.spotify.com/album/3g8FjQwA2h3jfq0Hc93yqO) | 2:29 |
 | 121 | [Bad Memories](https://open.spotify.com/track/4igpctg9YvMuatTMbmZEVv) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8), [FORMNT](https://open.spotify.com/artist/2hJxBRtyaB2Z3aIvd8ucEB) | [Bad Memories](https://open.spotify.com/album/59kzU8OIVDK51UisOKERem) | 2:19 |
 | 122 | [La La La Love](https://open.spotify.com/track/2ZcU1WV5y30r3Q1gv0Se7d) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a) | [La La La Love](https://open.spotify.com/album/4j5mJTZOFK2LQkdPfrhvWQ) | 2:20 |
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 204 | [Get You The Moon](https://open.spotify.com/track/3ciO40CQHrP5rYDhoMfOWQ) | [Saxena](https://open.spotify.com/artist/4RmAlZapfAsWhj2k1pHsKe) | [Get You The Moon](https://open.spotify.com/album/1LDvI7zJlNVPUpmYh0WasO) | 2:36 |
 | 205 | [Silence](https://open.spotify.com/track/2byCVqyzzpEdlAIDEVCZhd) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Rory Hope](https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC) | [Silence](https://open.spotify.com/album/1HEeUhoxsJDWK9dOL1cakm) | 3:02 |
 
-Snapshot ID: `AABMyDX+EzpSh8uHNrPuOc85Nk3h6qkA`
+Snapshot ID: `AABMy0wv0OstA0Wz4Z5dL0TWE74BxQuI`

@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-407 songs - 23 hr 10 min
+408 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [I Won](https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Won \[From F9 The Fast Saga Original Motion Picture Soundtrack\]](https://open.spotify.com/album/01RtA0qCjfGy0FY4ON23nD) | 2:55 | 2022-07-08 | 2024-04-19 |
 | [I Won](https://open.spotify.com/track/3cyiLfw6V0Vz5WxUOMEex6) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [I Won](https://open.spotify.com/album/3N1PEaBrpL1B3TIbUa69lB) | 2:55 | 2022-01-14 | 2024-11-08 |
 | [I'm the Man \(with O.T\. Genasis\)](https://open.spotify.com/track/2gvBPA9OjjoXbxHeYA0MeF) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [I'm the Man \(with O.T\. Genasis\)](https://open.spotify.com/album/2mLjObRQAapXuH9MaouvyV) | 1:45 | 2022-04-22 | 2022-07-28 |
+| [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-09-19 |  |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-10-28 |  |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 |  |
 | [Insomniak \(feat\. Rick Ross\)](https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:59 | 2022-01-14 | 2024-09-13 |
@@ -350,7 +351,7 @@
 | [Subzero](https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Subzero](https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi) | 3:00 | 2022-04-08 | 2022-08-02 |
 | [Sucka Free \(feat\. Killer Mike\)](https://open.spotify.com/track/4BsT04mOym0M60CbG6uMf3) | [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Big Sleepover](https://open.spotify.com/album/7I7LXKjl6oGnHT6GcfsP8Q) | 3:43 | 2022-01-14 | 2022-07-27 |
 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 | 2022-03-25 | 2022-06-25 |
-| [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 | 2022-01-14 |  |
+| [Super](https://open.spotify.com/track/1rjnHhnDtoboZAXJyJgzaz) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Super](https://open.spotify.com/album/6Dt8m6lk18tTFafSPMuDeo) | 2:57 | 2022-01-14 | 2025-09-20 |
 | [Super](https://open.spotify.com/track/3sjtQ07ptlPzw2N4YmGW3S) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:57 | 2022-07-08 | 2024-04-19 |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-26 | 2022-09-24 |
 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 | 2022-07-08 |  |

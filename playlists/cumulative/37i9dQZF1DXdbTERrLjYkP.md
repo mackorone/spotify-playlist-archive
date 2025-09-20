@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Karly Bowman
 
-934 songs - 2 day 2 hr 7 min
+937 songs - 2 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Blisters](https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Blisters](https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu) | 3:43 | 2025-05-30 |  |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-08-13 |
 | [blonde](https://open.spotify.com/track/2yRUkIXdgVvyXmd2oInA1n) | [Lily Knott](https://open.spotify.com/artist/5aMFV1cLrvinPeoITxMFhW) | [blonde](https://open.spotify.com/album/3avpX068ebxCGzHCPUuTFk) | 2:52 | 2025-05-30 | 2025-08-30 |
+| [Blood Moon](https://open.spotify.com/track/4cXAWD76lMGYjXxezJIKin) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Blood Moon](https://open.spotify.com/album/1T1wPY475CLErkq858TqWR) | 4:51 | 2025-09-19 |  |
 | [Bloodline](https://open.spotify.com/track/2nOYVXe2AVBLWDjMJPur3O) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Me And My Past](https://open.spotify.com/album/6PGKiegqtNByX3zPzgsBeG) | 3:01 | 2023-11-10 | 2024-02-10 |
 | [Bluebird](https://open.spotify.com/track/73k5rySilKqE1DRJ0VoNSi) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Bluebird](https://open.spotify.com/album/4bh2nuVjY6wuFaCGmsUCRb) | 3:31 | 2025-03-07 | 2025-07-26 |
 | [Bluebird](https://open.spotify.com/track/3UZQKylw0fLvlEqP18M99A) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [Waves](https://open.spotify.com/album/36H0aED0yPq0gvQxdg6G99) | 2:45 | 2022-01-14 | 2022-02-12 |
@@ -256,6 +257,7 @@
 | [Emma](https://open.spotify.com/track/3KDJyASCak07xkgxvKhjB2) | [Andrew Barth Feldman](https://open.spotify.com/artist/5ulESxWZSX8cw4PI6xgdDG) | [Emma](https://open.spotify.com/album/158IZZsGeaxebU5MMKUF8i) | 4:08 | 2022-01-14 | 2022-03-12 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-01-14 |
 | [End of the Day](https://open.spotify.com/track/1piMjMBuN0NRkoDy9aMD4u) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [End of the Day](https://open.spotify.com/album/2xBbejBQKutWWyCjlJ17Nf) | 3:56 | 2022-06-08 | 2022-08-06 |
+| [Endless Summer](https://open.spotify.com/track/6Jbf2PeG82AKgBZgS6vlfD) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Endless Summer](https://open.spotify.com/album/0EfOnOaJ07w3Sx3ISX9Kut) | 2:47 | 2025-09-19 |  |
 | [Enough of Me](https://open.spotify.com/track/5ypUyCDoZp66D7TagjnJhq) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Enough of Me](https://open.spotify.com/album/0M9JDqqqxKkFyd2WWRsd8C) | 2:28 | 2024-02-02 | 2024-09-21 |
 | [Escape Plan](https://open.spotify.com/track/57nPLBMMNk8w4KDNSwDxdz) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Escape Plan](https://open.spotify.com/album/3kt4vMSt4GLQQ7M5pS5Dpx) | 2:19 | 2024-06-14 | 2024-12-21 |
 | [Eternal June](https://open.spotify.com/track/1KKHhlOK0Kt7aCRzccuQ5n) | [Emma Foley](https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x) | [Eternal June](https://open.spotify.com/album/07UddeVlOY0BdtTIkUH51b) | 2:24 | 2024-08-16 | 2025-01-18 |
@@ -413,7 +415,7 @@
 | [I just don't think I'll make it over you.](https://open.spotify.com/track/3GrePGRplvl9v5EFZs2xzj) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [I just don't think I'll make it over you.](https://open.spotify.com/album/0WujnDrd2N0FksTXRW0yDl) | 3:43 | 2024-11-15 | 2025-04-19 |
 | [I Just Killed a Spider](https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I Just Killed a Spider](https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39) | 2:29 | 2024-04-12 | 2024-09-07 |
 | [I Know What It Isn't](https://open.spotify.com/track/0AHmkzxAC070F548NHKAM0) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [I Know What It Isn't](https://open.spotify.com/album/0nv0PvvCZ2OrvlUWUxGaj8) | 3:03 | 2023-11-17 | 2024-02-21 |
-| [i know, i know, i know](https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [i know, i know, i know](https://open.spotify.com/album/2gW4roHxueJO5T94B0KS8v) | 3:22 | 2025-04-14 |  |
+| [i know, i know, i know](https://open.spotify.com/track/3HXGdQXb9XTDD1IqFWkSNc) | [ALINA](https://open.spotify.com/artist/5dMqTi9pBymJAVzH9V7N86) | [i know, i know, i know](https://open.spotify.com/album/2gW4roHxueJO5T94B0KS8v) | 3:22 | 2025-04-14 | 2025-09-20 |
 | [I Lost Myself In Loving You](https://open.spotify.com/track/2ySPkHH3mHCP3r3T040M5V) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [I Lost Myself In Loving You](https://open.spotify.com/album/1gLySgZluGmfvNYkny3H0C) | 3:21 | 2022-01-28 | 2022-09-10 |
 | [I Love My Birthday](https://open.spotify.com/track/7n7hPWER2dtJovBznJHa8W) | [Alexis Donn](https://open.spotify.com/artist/5oS6l0G47YindNtVFTzuGf) | [I Love My Birthday](https://open.spotify.com/album/4FT9kjBjX9zpfxtqPCVUxB) | 3:07 | 2022-01-14 | 2022-08-20 |
 | [I Miss You](https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz) | [Abigail Fierce](https://open.spotify.com/artist/24q2VAybFrs4Lzy0eEnXga) | [I Miss You](https://open.spotify.com/album/3XtttQ1KmntgU5cx1wOmW2) | 3:30 | 2022-01-14 | 2022-04-09 |
@@ -524,7 +526,7 @@
 | [Loud](https://open.spotify.com/track/2YDPikS8jvS2rsWF0ozCvY) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Loud](https://open.spotify.com/album/0LEW3Cj5UU2oC2bM6yAJhI) | 2:24 | 2022-09-16 | 2022-12-24 |
 | [LOVE](https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4) | 2:52 | 2022-11-04 | 2023-01-21 |
 | [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-25 | 2023-02-18 |
-| [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 | 2025-05-16 |  |
+| [Love A Good](https://open.spotify.com/track/7Kug4Y5pkvOXIsJRONpwTg) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love A Good](https://open.spotify.com/album/6dr5B4L0fdzKdvTDGjg9ip) | 3:34 | 2025-05-16 | 2025-09-20 |
 | [Love Fools](https://open.spotify.com/track/7lDD5Ajj01UMmZ7ww8JGPT) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Love Fools](https://open.spotify.com/album/4G6BxhKzRTYG7ftX48BY9f) | 3:10 | 2023-02-24 | 2023-08-12 |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-08-05 | 2022-12-24 |
 | [Love Like That \(Words from Her\)](https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Love Like That \(Words from Her\)](https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy) | 2:54 | 2022-04-22 | 2022-10-29 |
@@ -569,6 +571,7 @@
 | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-02-09 | 2024-08-17 |
 | [Midnight Train From Marylebone](https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o) | [Isaac Stuart](https://open.spotify.com/artist/7vqrMptsKefoZat5ztYapE) | [Skyline](https://open.spotify.com/album/1FHfPh4tGlzWrnY6Yw6iZ2) | 3:21 | 2023-05-05 | 2023-11-11 |
 | [Minor Inconveniences](https://open.spotify.com/track/1uLPjjdIKUXvzC3Y2jSdjC) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Minor Inconveniences](https://open.spotify.com/album/0hy2RxRbnzbs9eTgqIEhd0) | 2:32 | 2025-01-24 | 2025-02-01 |
+| [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 | 2025-09-19 |  |
 | [Molly, I'm Coming Around](https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Molly, I’m Coming Around](https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI) | 2:41 | 2024-09-06 | 2025-01-18 |
 | [mona lisa](https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [mona lisa](https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2) | 3:10 | 2022-02-11 | 2022-04-29 |
 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 | 2022-08-12 | 2022-11-12 |
@@ -785,7 +788,7 @@
 | [Sweet Satin Boy](https://open.spotify.com/track/2XRieO4EqaCRzUIxvbQfdZ) | [hannah bahng](https://open.spotify.com/artist/2oTW5kYNj4eIgp68Z5W4D9) | [Sweet Satin Boy](https://open.spotify.com/album/30JilV14nAFQI9TyL8Tlka) | 3:05 | 2025-07-11 |  |
 | [Sweetheart](https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sweetheart](https://open.spotify.com/album/5YRCEVDf3R3TLwPJsKdctz) | 3:35 | 2025-07-18 |  |
 | [T\-Shirt](https://open.spotify.com/track/14t5xsqdGQXdMhRkeCMZaN) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [T\-Shirt](https://open.spotify.com/album/4DBkNAsMfMLqZ86H8FUc6O) | 2:38 | 2025-06-06 |  |
-| [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 | 2025-05-09 |  |
+| [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 | 2025-05-09 | 2025-09-20 |
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2023-09-01 | 2023-11-11 |
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 | 2023-09-05 |
 | [talking in your sleep](https://open.spotify.com/track/3FpztYu0GOJH1txtKKRnKw) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [From the Next Room](https://open.spotify.com/album/54IqM9oTczHCMX8sljk0AY) | 3:10 | 2024-02-23 | 2024-09-14 |

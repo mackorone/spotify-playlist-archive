@@ -2,9 +2,9 @@
 
 ### [Sexy Drill](https://open.spotify.com/playlist/37i9dQZF1DX75NPukNKIss)
 
-> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Chris Brown
+> Way 2 Slizzy\. Click into the feed to learn all about the movement\. Cover: Cardi B
 
-143 songs - 6 hr 35 min
+144 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bad For Me](https://open.spotify.com/track/46htLemGubh1NvYMbeBGeV) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Fuck A Friendzone 2](https://open.spotify.com/album/0MLdG6HlXagozTFyYQFsoj) | 3:58 | 2025-02-14 | 2025-07-26 |
 | [bae](https://open.spotify.com/track/5sEC88gNr8VEGXc7FSQGit) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [bae](https://open.spotify.com/album/07MVkMt1UaDkk7rKgviGYT) | 2:33 | 2025-05-09 |  |
 | [Be Alone](https://open.spotify.com/track/60mLVgBx8LkBAMWsL9s3bi) | [Tyler Loyal](https://open.spotify.com/artist/7pgbjv3FWqKcMKQckkbd3j) | [Be Alone](https://open.spotify.com/album/6AXdFVJhSzC1sndGfBuFNM) | 1:58 | 2024-12-20 | 2025-01-11 |
-| [Beishu](https://open.spotify.com/track/2ZW0S50cpLNPf0cDANvjrT) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J) | [Beishu](https://open.spotify.com/album/4mgGMS9sl45p1nH6WIN2lL) | 2:00 | 2025-02-14 |  |
+| [Beishu](https://open.spotify.com/track/2ZW0S50cpLNPf0cDANvjrT) | [Stelair](https://open.spotify.com/artist/13JA5UadZYfANIKzGJjc5J) | [Beishu](https://open.spotify.com/album/4mgGMS9sl45p1nH6WIN2lL) | 2:00 | 2025-02-14 | 2025-09-20 |
 | [Billie Jean](https://open.spotify.com/track/3Kz373RINbFfB4Rvth18hs) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Billie Jean](https://open.spotify.com/album/1g2qspriqd79KOJOYjw6GB) | 2:40 | 2025-05-21 |  |
 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/7lk77UiboOecWW4ot68mBl) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/album/1x4Dc7YK3ZvBckQyDN91vY) | 3:12 | 2024-10-25 |  |
 | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/track/3ktptX2yF9kOTairLxOPWj) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Dj E Money](https://open.spotify.com/artist/5vLXLmhOx2FLRo0ZwAd1Ue), [G6reddot](https://open.spotify.com/artist/4KN1fLTWx19e2jmVpotGmq) | [By Myself \(feat\. Dj E Money & G6reddot\)](https://open.spotify.com/album/2z6owfrCNbOou2vZCjtzbJ) | 3:57 | 2025-07-25 |  |
@@ -114,6 +114,7 @@
 | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/track/1pqswmjvnS3xr7JdA4gD2x) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/album/7jIpISYSxVcKBPdLt0vmBr) | 2:46 | 2025-04-11 |  |
 | [RENZ&B](https://open.spotify.com/track/2bcQBG9OI7etCWLNPJdHzB) | [Renz](https://open.spotify.com/artist/41CSndbOU6r05kajQCO9b1) | [RENZ&B](https://open.spotify.com/album/7Hg6cdprOXcTZff5gVpJ5H) | 2:00 | 2024-10-25 |  |
 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 | 2024-10-25 |  |
+| [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-19 |  |
 | [settings!](https://open.spotify.com/track/3TDZRV8TdWySueKV3UX3j2) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:35 | 2024-10-25 | 2025-08-09 |
 | [SEX LOVE DEMONS \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6i0nVCYnZy24212rvQ2syy) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [BIG DIOR](https://open.spotify.com/album/2cU7wfkSDMKR35tlC5ThIR) | 2:42 | 2024-12-10 |  |
 | [Sexy Drill](https://open.spotify.com/track/5nGRq9FDYNEyTVd3j4l4K6) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Sexy Drill](https://open.spotify.com/album/4bfhigFhw3gW1v2YkSJHxw) | 3:22 | 2025-08-08 | 2025-08-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,172 likes - 74 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,401 likes - 74 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,18 +38,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 28 | [2010](https://open.spotify.com/track/3nQ0arinFp0x9raD21YQZc) | [the Still](https://open.spotify.com/artist/3Tq7aTzawujjHwODdNSGuv) | [2010](https://open.spotify.com/album/1bs1VdA9cvd13bqvcAQaK3) | 3:21 |
 | 29 | [秋刀魚の味](https://open.spotify.com/track/5zWfwZH2BE9YAHa3sLNGeK) | [MURABANKU。](https://open.spotify.com/artist/0SeN8yeuR1b6l7ZK6ABEGI) | [秋刀魚の味 \- Single](https://open.spotify.com/album/0MIZCuTcXfFyPA62301JKq) | 3:14 |
 | 30 | [mirror ball](https://open.spotify.com/track/0pZtpCC5PrxWBpvQOnkBE5) | [PARIS on the City!](https://open.spotify.com/artist/09myUYl8BkaWtdh1kdWxVn) | [mirror ball](https://open.spotify.com/album/67CWluoWyq0vwAp17k1wN3) | 4:36 |
-| 31 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
+| 31 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |
 | 32 | [ランドリー四月を泳ぐ](https://open.spotify.com/track/0OenOL91FapnogFtW1ndYL) | [TIDAL CLUB](https://open.spotify.com/artist/0O4w4sG37zlMGsXK8fOsMw) | [ランドリー四月を泳ぐ](https://open.spotify.com/album/39sZUXzzuq8OFOr4W7CUoV) | 4:53 |
-| 33 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |
+| 33 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 |
 | 34 | [Tongues](https://open.spotify.com/track/37mOR6hOZqIo1lu6Z1J92U) | [Sotaro Fujiwara](https://open.spotify.com/artist/7q53lx1QXYkwoErQ682z0N), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [Tongues](https://open.spotify.com/album/4F2gRBxNYg2vO19UtAJB2u) | 3:01 |
 | 35 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 |
 | 36 | [BAKA](https://open.spotify.com/track/6ls085GIWTVbUF7Sjw5iLw) | [黒沼英之](https://open.spotify.com/artist/7dkDvlrSkcuAaGL6r8hGX3) | [BAKA](https://open.spotify.com/album/08YIsReVzsAdrdeOEsRE2a) | 2:54 |
 | 37 | [say my name](https://open.spotify.com/track/7vMHZ0sgIqRbMjJwYZVkUJ) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [say my name](https://open.spotify.com/album/3ix94HKA9QJ4fKL9TuuB2p) | 4:03 |
 | 38 | [Zest](https://open.spotify.com/track/3rohG04D4MnPeVCanbJA3G) | [wala.collective](https://open.spotify.com/artist/7eemBtJuL38427DQ0v1JLi) | [Zest](https://open.spotify.com/album/3Y55ddsXYYnua81BNBpBeQ) | 3:02 |
-| 39 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
+| 39 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:45 |
 | 40 | [ROSE](https://open.spotify.com/track/2jbWhKzRu30UH19vKHhnow) | [ItimatuSuzuka](https://open.spotify.com/artist/0H4tdUOZriPtjlE0ggoS5T) | [ROSE](https://open.spotify.com/album/7E5agLbvupvLKRT5KW5tGp) | 2:47 |
 | 41 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
-| 42 | [Funky Lovely Girl](https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Funky Lovely Girl](https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p) | 3:45 |
+| 42 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 |
 | 43 | [Rorutana](https://open.spotify.com/track/5mocMpmPyla7dILBdI0Rup) | [Yutasyu](https://open.spotify.com/artist/4mRjs2ZjlgmiAqM6WiGgb4) | [Rorutana](https://open.spotify.com/album/0xP4wrQpSJmT9oTH0rFDeI) | 3:22 |
 | 44 | [健忘者たち](https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [健忘者たち](https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP) | 3:46 |
 | 45 | [Stratocaster Morning](https://open.spotify.com/track/5OUr37K31EqW91wqG1Y4LG) | [Spinning Plums](https://open.spotify.com/artist/3dCPzfpP0piDpgOJ3S2mo1) | [Stratocaster Morning](https://open.spotify.com/album/6G4iHG4UgP6quZYOWulGGN) | 4:08 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 68 | [Grown Too Old](https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Grown Too Old](https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8) | 3:12 |
 | 69 | [SUNSET \- feat\. Yvette Young](https://open.spotify.com/track/0O6OWDBSCvVS3MHOYAfujL) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [SUNSET \(feat\. Yvette Young\)](https://open.spotify.com/album/0VIdKN62Kw7V0o7FdKK07p) | 4:13 |
 | 70 | [Man on the Run](https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in the House?](https://open.spotify.com/album/04cL4l3zjxF2iwKC9yziNm) | 2:33 |
-| 71 | [リンゴ追分](https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [CHO CO PA：EAST ASIA oldies EP](https://open.spotify.com/album/0D8fkxFhJiJR6EkKMMAZlC) | 2:53 |
-| 72 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
-| 73 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
+| 71 | [MOVE MOVE](https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [MOVE MOVE](https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR) | 3:36 |
+| 72 | [HOLD ME](https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [HOLD ME](https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y) | 3:12 |
+| 73 | [リンゴ追分](https://open.spotify.com/track/4caPlbVKbDntPzz7lcklCj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [CHO CO PA：EAST ASIA oldies EP](https://open.spotify.com/album/0D8fkxFhJiJR6EkKMMAZlC) | 2:53 |
 | 74 | [かみんち](https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [かみんち](https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs) | 3:53 |
 
 Snapshot ID: `AAAAAIJhrwnEUP3S1eyBlcW3s83ucHw8`

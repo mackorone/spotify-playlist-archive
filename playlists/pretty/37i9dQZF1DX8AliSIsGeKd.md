@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique, Argy
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,170 likes - 90 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,353 likes - 90 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 6 | [Break Out](https://open.spotify.com/track/5SwmfChByBXybUAMT1Xvjy) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg) | [Break Out](https://open.spotify.com/album/3wQT6IzxucDjY7jzRdaM4N) | 4:02 |
 | 7 | [For a Moment](https://open.spotify.com/track/666WMsNqb2IJd3H2gzzosb) | [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy), [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O) | [For a Moment](https://open.spotify.com/album/2f5tmuhSyxIEJCvHuNrThB) | 4:20 |
 | 8 | [Kontakt](https://open.spotify.com/track/0o5WXczVKxsFp2hWv8CcJz) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Kontakt](https://open.spotify.com/album/0ZmKxqD05aLJq3j6rJ4h59) | 2:53 |
-| 9 | [Takina](https://open.spotify.com/track/5o8mcvj48xzA2xWXUlqzyn) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [](https://open.spotify.com/album/null) | 3:46 |
+| 9 | [Takina](https://open.spotify.com/track/5o8mcvj48xzA2xWXUlqzyn) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Alexey Union](https://open.spotify.com/artist/4bzppvW4geKqxLC5VYJn2G), [Kinky Sound](https://open.spotify.com/artist/6oIco6H7xclBUVQpEeCTnl) | [Body Language, Vol\. 26](https://open.spotify.com/album/21eWHTzoAtut2q4wFXymiU) | 3:46 |
 | 10 | [Flowers & Guns](https://open.spotify.com/track/7mD4TkmM78RYkE2SlbFh0z) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU), [8Kays](https://open.spotify.com/artist/6VJ8RuUWKIgm5p5uEvZCfQ) | [Flowers & Guns](https://open.spotify.com/album/1luddSPGSSs0UJZtzN0Iz7) | 3:59 |
 | 11 | [Berlin](https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Berlin](https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y) | 2:01 |
 | 12 | [Signs Of Change](https://open.spotify.com/track/64o5oBV1q8oFtNFucoySNJ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Signs of Change](https://open.spotify.com/album/0MNpTVU58VUC5i3EddQfvl) | 3:19 |
 | 13 | [Grosser Schillerfalter](https://open.spotify.com/track/5wZvzJ4i3soKF0GRPyWvaE) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Grosser Schillerfalter](https://open.spotify.com/album/6jKCuZA3qasqI5Axd9hOcB) | 4:42 |
-| 14 | [Track 2](https://open.spotify.com/track/3qWCxTlqhZZpXlagAJRfBp) | [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [False REM](https://open.spotify.com/track/3qWCxTlqhZZpXlagAJRfBp) | [Anna Tur](https://open.spotify.com/artist/3AV9wkRe9dDJjE1vk6ZwdH) | [Dreams Of Life EP](https://open.spotify.com/album/6gQVpdATu9yz3t3i0BR3SF) | 3:56 |
 | 15 | [Music Society](https://open.spotify.com/track/3TaTxPt1cweKYifUSE6fT3) | [Marc Brauner](https://open.spotify.com/artist/6HX3fbKCin6OPe6ZFZ8qsf) | [Music Society](https://open.spotify.com/album/32kXGHA1ruLAVl5tvd47qy) | 3:25 |
 | 16 | [Hard2Sleep](https://open.spotify.com/track/5FwoblKmorXIz0hFuaqOqL) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Beaux Neptune](https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj) | [Hard2Sleep](https://open.spotify.com/album/5W43PNvqQsY8aykMg0AOLv) | 3:10 |
-| 17 | [Signal](https://open.spotify.com/track/3TAPQ9FqT9nRBvpdGxMEt4) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [](https://open.spotify.com/album/null) | 3:58 |
+| 17 | [Signal](https://open.spotify.com/track/3TAPQ9FqT9nRBvpdGxMEt4) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Come With Me EP](https://open.spotify.com/album/2kclunYVscRcwvFgEL9iDc) | 3:58 |
 | 18 | [For You](https://open.spotify.com/track/71pXxkcccg3KrjYKDcP9pO) | [Wanderist](https://open.spotify.com/artist/1qmwD3ibawPGHDpOT6lxAQ) | [Imagine](https://open.spotify.com/album/69DDhhMjA3mqQTNl1ZL5MA) | 6:51 |
 | 19 | [What We Used To Say](https://open.spotify.com/track/5trPNZilyybhYtfIwVv0Oa) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Adna](https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g) | [What We Used To Say](https://open.spotify.com/album/1tWvjhzQ8WHV6XHnrpMBrc) | 3:42 |
 | 20 | [Dawn](https://open.spotify.com/track/3PWsoTF9TbG26qg7ZoVPtV) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Dawn](https://open.spotify.com/album/16Bl5lJEQDYasGZf7GeYwH) | 4:12 |

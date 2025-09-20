@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuO8BmbsNLVIk+EjMQD1k4SDyYD",
+  "snapshot_id": "AAAAABsiNsMpRF8EahXlGFvDW8gwUp1E",
   "tracks": [
     {
       "added_at": "2025-09-04 22:00:30",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-09-04 22:00:30",
       "album": {
-        "name": "Staal Op Staal",
-        "url": "https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q"
-      },
-      "artists": [
-        {
-          "name": "dorpsstraat 3",
-          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
-        }
-      ],
-      "duration_ms": 235704,
-      "name": "Filmster",
-      "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
-    },
-    {
-      "added_at": "2025-09-04 22:00:30",
-      "album": {
         "name": "Wind In De Zeilen",
         "url": "https://open.spotify.com/album/1Vcc1C8T9ktEhGmmlx8A0D"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 215184,
       "name": "Wind In De Zeilen",
       "url": "https://open.spotify.com/track/1CuunQxTRe5jL13ikuQ67Y"
+    },
+    {
+      "added_at": "2025-09-04 22:00:30",
+      "album": {
+        "name": "Staal Op Staal",
+        "url": "https://open.spotify.com/album/4ATUDakW1IL9zYu3oEG74Q"
+      },
+      "artists": [
+        {
+          "name": "dorpsstraat 3",
+          "url": "https://open.spotify.com/artist/48XLHMAiLI8SAihFXXeV1A"
+        }
+      ],
+      "duration_ms": 235704,
+      "name": "Filmster",
+      "url": "https://open.spotify.com/track/33hQTFcIB1w2NTGSXwnvAj"
     },
     {
       "added_at": "2025-09-04 22:00:30",

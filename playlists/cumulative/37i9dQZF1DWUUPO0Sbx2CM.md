@@ -4,7 +4,7 @@
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-497 songs - 1 day 3 hr 16 min
+498 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Loved By You](https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:13 | 2023-02-07 | 2024-04-19 |
 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 | 2023-02-08 | 2025-09-15 |
 | [Low \- dance party](https://open.spotify.com/track/0JqbggEh5R0MnKdPCUdqxC) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Low](https://open.spotify.com/album/5Dh3yjnbVzt3FIXBp9oOhe) | 4:14 | 2023-02-08 | 2023-02-25 |
+| [Low Key](https://open.spotify.com/track/0aNKeOOHCahZiYHMU4oYar) | [Giovani](https://open.spotify.com/artist/24ChasRK4LlBoGdhRvSCRG), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij) | [Low Key](https://open.spotify.com/album/09OYmPoQpciY6AbMgkZJlE) | 2:20 | 2025-09-14 |  |
 | [Luau \- Juicebangers Remix](https://open.spotify.com/track/5rtgmeK5ssgSN91yqZeUjT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Juicebangers](https://open.spotify.com/artist/5NJ5H0WVG6JpjTROfISdpE) | [Luau](https://open.spotify.com/album/3TIFgTpdDDPhEbw5s16lUr) | 3:39 | 2021-10-31 | 2022-06-15 |
 | [Luminism](https://open.spotify.com/track/2VmZqe3lhOursqcHWtLeh5) | [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Luminism](https://open.spotify.com/album/6nV1XOWuVSMh6yCzIe3kh9) | 3:31 | 2021-10-31 | 2022-06-19 |
 | [Majesty](https://open.spotify.com/track/1pzjXhhI0DOfjTfxIRUXWW) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Majesty](https://open.spotify.com/album/0LIvETmeleZSzZjMxHikQM) | 8:20 | 2023-02-07 | 2024-07-20 |
@@ -429,7 +430,7 @@
 | [Talk It Out](https://open.spotify.com/track/4nxCYXMrfWacXlMZGYJZNf) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7), [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk) | [Talk It Out](https://open.spotify.com/album/5jZsmCknsxqGmpafGX4AMp) | 3:46 | 2021-10-31 | 2022-04-24 |
 | [Tell All My Friends](https://open.spotify.com/track/5MOEQnIL7s1FIA31n3gMqu) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Sydney James](https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ) | [Tell All My Friends](https://open.spotify.com/album/76bktOoiugu5TovvBanrIZ) | 3:36 | 2023-02-07 |  |
 | [Tempo](https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg) | [Run51](https://open.spotify.com/artist/1qC0iwCgdWNwJM1KCxbX10) | [Tempo](https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh) | 2:58 | 2023-02-07 | 2024-07-20 |
-| [Thankful](https://open.spotify.com/track/6rGoI3PrGO9swDjo4CGHLs) | [Sound Haven](https://open.spotify.com/artist/1kwQGKUN2oMZi8TpPf7Bag), [Za Smith](https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X), [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Thankful](https://open.spotify.com/album/6i51R5QgBQu6ynxVLkpA0a) | 2:46 | 2025-09-14 |  |
+| [Thankful](https://open.spotify.com/track/6rGoI3PrGO9swDjo4CGHLs) | [Sound Haven](https://open.spotify.com/artist/1kwQGKUN2oMZi8TpPf7Bag), [Za Smith](https://open.spotify.com/artist/4XtxlaWuCCmOs0MpZp4t7X), [Maddi Jane](https://open.spotify.com/artist/6p0HFtE6QhdHNY1H4Nk0mo) | [Thankful](https://open.spotify.com/album/6i51R5QgBQu6ynxVLkpA0a) | 2:46 | 2025-09-14 | 2025-09-20 |
 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 | 2021-10-31 | 2023-02-08 |
 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 | 2021-10-31 | 2022-07-27 |
 | [The Greatest](https://open.spotify.com/track/7egaSn0ILHiB2ULah0i0UW) | [David Dunn](https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v) | [The Greatest](https://open.spotify.com/album/7xXyEzdawnwduIZDPw4Bxh) | 2:52 | 2021-10-31 | 2022-07-29 |

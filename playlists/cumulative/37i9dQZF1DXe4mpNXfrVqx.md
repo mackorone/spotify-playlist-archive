@@ -4,7 +4,7 @@
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: LARINHX, Marisa Pecadora
 
-223 songs - 9 hr 53 min
+224 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Aura](https://open.spotify.com/track/1NA9tV7Wb2ZwCroXglVpzk) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [Aura](https://open.spotify.com/album/1jJsTPqYYiILO9dTyMk2PR) | 1:49 | 2025-01-06 |  |
 | [Autentik](https://open.spotify.com/track/0iakCJvnYl4a4O8OlZmIzH) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/6u3TylmFcGwrf1Hh67X1e8) | 2:51 | 2022-10-14 | 2024-04-26 |
 | [Autentik](https://open.spotify.com/track/4fjCiIbLbAODNeAPfFsYdN) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Autentik](https://open.spotify.com/album/5qtO48IVD7aoY7VcLJDXfp) | 2:51 | 2022-03-18 | 2022-10-16 |
-| [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 | 2022-09-30 |  |
+| [Baby Encaixa](https://open.spotify.com/track/73W5TnbTGT3mTqplHwrHdY) | [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Baby Encaixa](https://open.spotify.com/album/0yr8pzDUuuK3l1K045jiJ2) | 1:59 | 2022-09-30 | 2025-09-20 |
 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Soud](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 | 2022-03-18 |  |
 | [Baby Prince$$](https://open.spotify.com/track/3MebYuT8I3DY4EMCcbinzy) | [Nic Dias](https://open.spotify.com/artist/4Si7TiXmSA3LaESL8YIdaM) | [Baby Prince$$](https://open.spotify.com/album/136I42oMuE4sPEuIouaRqF) | 2:15 | 2022-03-18 | 2022-07-09 |
 | [Bad Bitches](https://open.spotify.com/track/7tVqBzsSAdGrMlRZjiOeSb) | [Tory Dru](https://open.spotify.com/artist/0dxYsrJebx92yDX7hQrup5), [gabss](https://open.spotify.com/artist/50eJSWy0PG43JLWFkIXR4E), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Bad Bitches](https://open.spotify.com/album/2A63zUnlL6WkcB74VqUocf) | 2:05 | 2025-08-01 |  |
@@ -95,6 +95,7 @@
 | [Ginga \- Bem vindo a Party](https://open.spotify.com/track/4dawKCBsHpalmKzB7G1sAq) | [Inza Princess](https://open.spotify.com/artist/7fTIgiXmMVCpCrzdkfmO3D), [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz) | [Ginga \(Bem vindo a Party\)](https://open.spotify.com/album/0volOaNCpImkXaytDiVTiB) | 2:11 | 2024-05-03 | 2024-06-22 |
 | [Girassol](https://open.spotify.com/track/26comn1fbkVTg3HuuYU4w3) | [A's Trinca](https://open.spotify.com/artist/1RqfTOSGUR86C7KuDaoU9I) | [Girassol](https://open.spotify.com/album/7poqNacyVe3hPkzyPtugdD) | 2:26 | 2023-01-06 | 2023-02-23 |
 | [GROUPIES](https://open.spotify.com/track/5yB3lKEERZ1u7ag44te5bi) | [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [BeatzbyNolan](https://open.spotify.com/artist/6Bt5jX9ESHGTnJKGGt9YWc) | [GROUPIES](https://open.spotify.com/album/3e0u0TUdHfcvJPotNBP1r1) | 2:04 | 2023-09-15 | 2024-09-03 |
+| [GUAPO](https://open.spotify.com/track/4GqXEvdILHr1eArHd6Ht97) | [Sayle](https://open.spotify.com/artist/415XkxlrNLB1aqKaakdN1C), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk) | [GUAPO](https://open.spotify.com/album/5TusX6p1gI1VqTij2BwExA) | 2:12 | 2025-09-19 |  |
 | [Hater](https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Hater](https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy) | 2:17 | 2023-03-31 |  |
 | [Haters And Snakes](https://open.spotify.com/track/0GrH8cHTWShAdjaQtS9yBy) | [Casa De Musique](https://open.spotify.com/artist/0hZopCUa9lvzrv2GGsHfxz), [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters And Snakes](https://open.spotify.com/album/1ezQ47LA8hNsUdZafyOUSY) | 2:28 | 2022-07-08 | 2023-11-11 |
 | [Haters and Snakes](https://open.spotify.com/track/4yPrZjRwN6vB07Qx6zyxVa) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo) | [Haters and Snakes](https://open.spotify.com/album/2KGOOACrBMEGoEWFY7RWEM) | 2:28 | 2022-03-18 | 2022-07-29 |

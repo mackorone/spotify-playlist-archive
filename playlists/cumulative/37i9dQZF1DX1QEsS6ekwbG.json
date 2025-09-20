@@ -707,6 +707,28 @@
     },
     {
       "album": {
+        "name": "difunto amor",
+        "url": "https://open.spotify.com/album/2lpFMJQ21kIXfmTXLFDTIk"
+      },
+      "artists": [
+        {
+          "name": "Franco Masciarelli",
+          "url": "https://open.spotify.com/artist/39cpIJ07VfRgvfiPq3pk0c"
+        },
+        {
+          "name": "Juanito El Cantor",
+          "url": "https://open.spotify.com/artist/0XOo1UrJtPQjLkILqMGusW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "difunto amor",
+      "url": "https://open.spotify.com/track/49ma72K2eB2LNJdxIW0SSs"
+    },
+    {
+      "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
       },
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 239240,
       "name": "Jueves",
       "url": "https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w"
@@ -1823,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Nada funciona con vos",
+        "url": "https://open.spotify.com/album/6DNZUYFcbgNbcDw5YaIbAZ"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170535,
+      "name": "Nada funciona con vos",
+      "url": "https://open.spotify.com/track/7mFv9RQdTuoynfpYeIf4P0"
+    },
+    {
+      "album": {
         "name": "Te Amo TV 3 - los Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/4dsGgVv1nbRUmZEZDKC9Mn"
       },
@@ -1976,7 +2016,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 198333,
       "name": "No Te Apartes de M\u00ed (feat. Valeria Bertuccelli)",
       "url": "https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO"

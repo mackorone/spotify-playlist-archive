@@ -4,7 +4,7 @@
 
 > Music from shows and movies you love including Secret Lives of Mormon Wives, now streaming on Hulu.
 
-167 songs - 8 hr 6 min
+169 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,10 +47,12 @@
 | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:39 | 2024-01-05 | 2024-07-03 |
 | [Every Rose Has Its Thorn](https://open.spotify.com/track/2B6L6j6ZjyY30P4WMambsh) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB) | [Paradise \(Original Soundtrack\)](https://open.spotify.com/album/0SkfzM1PBNfxqyLoLFXvly) | 4:17 | 2025-03-08 |  |
 | [Falling in Love \- Bonus Version](https://open.spotify.com/track/0dqBY5e5A0KNTfds5tUpmQ) | [Up Here \- Cast](https://open.spotify.com/artist/69aGXX2T28iQOy1teJy61L) | [Up Here \(Original Series Soundtrack\)](https://open.spotify.com/album/4ytsQEFFvWKALIRLkMBZxx) | 2:11 | 2024-01-05 | 2025-05-07 |
+| [First Day at Hatch Labs](https://open.spotify.com/track/2d1b4uI8QSxVjQH94its5e) | [Chanda Dancy](https://open.spotify.com/artist/4h2JhymTmAhtumDKHG4Jta) | [Swiped \(Original Soundtrack\)](https://open.spotify.com/album/6jbnAfxyIqr3Ig5iM4zZRS) | 2:04 | 2025-09-19 |  |
 | [First Day on the Job \(Main Title\)](https://open.spotify.com/track/2Kv15dAAKw5bDXpG5kEEBN) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [Flamin' Hot \(Original Soundtrack\)](https://open.spotify.com/album/5DuzkMYUCMUt03jayDY4xm) | 0:51 | 2024-01-05 | 2025-05-07 |
 | [Forever Young \- From "A Million Little Things: Season 5"](https://open.spotify.com/track/3hYp4xSGb0l8kE64fk3Ljs) | [Gabriel Mann](https://open.spotify.com/artist/33dnQjRlbxp0FzvlNpy50B), [Piper Rose](https://open.spotify.com/artist/6XdwqUASZa813jPPSFNh3S) | [Forever Young \(From "A Million Little Things: Season 5"\)](https://open.spotify.com/album/3KGl5T9uBlr7MPeluX0Tac) | 3:26 | 2025-05-06 |  |
 | [Freskito](https://open.spotify.com/track/6twTVx1n5UKlJUo1530mHZ) | [Tomás Barreiro](https://open.spotify.com/artist/5zevXb8qqBBmO4HvTLUr5P) | [La Máquina \(Original Soundtrack\)](https://open.spotify.com/album/3KP9WyomLkp4wOQVOtWXgB) | 1:27 | 2024-10-15 |  |
 | [Gas in My Car](https://open.spotify.com/track/1t01O0Po7zHa2mTWzkjk8a) | [Bob's Burgers](https://open.spotify.com/artist/0NZ4IxTtMSEx59a0H0ikLE), [Earnest Jackson](https://open.spotify.com/artist/5pXRWt2xs9uVuBO2n49jrm) | [The Ocean Avenue Block Party \(From "Bob's Burgers"\)](https://open.spotify.com/album/78bIHCIOlk7FGA1b0wj72g) | 5:07 | 2024-01-05 |  |
+| [Get Lucky \- From "Swiped"](https://open.spotify.com/track/7sQutsHOhSXYQeUGdykcWB) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Get Lucky \(From "Swiped"\)](https://open.spotify.com/album/2iiyqimfT0sURXnc1OMJDs) | 4:02 | 2025-09-19 |  |
 | [Getting Better \- Remastered 2009](https://open.spotify.com/track/3LtOmWpTXLhilL5odoKysR) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Remastered\)](https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW) | 2:48 | 2024-01-05 | 2024-07-03 |
 | [Girl From The North Country](https://open.spotify.com/track/4l4j2T8PNeu3XoCGWigLB3) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [Monica Barbaro](https://open.spotify.com/artist/3W1QNTtfYoAnni7dvqC4rg) | [A Complete Unknown \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21abnHIwhrjqFs4Yywsm9t) | 2:04 | 2025-05-06 |  |
 | [Girls, Girls, Girls](https://open.spotify.com/track/4qj8vXZyFP4XHv8HBBi8dz) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls \(2021 \- Remaster\)](https://open.spotify.com/album/3x7xYMkpgXRjSjgtykeHY0) | 4:30 | 2024-04-01 | 2024-07-03 |

@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ\_MX](https://open.spotify.com/playlist/37i9dQZF1DXc5PHJQUwAnG)
 
-> Bienvenidx a la trampa mexa\. Victor Mendivil en portada.
+> Bienvenidx a la trampa mexa\. El Bogueto en portada.
 
-401 songs - 19 hr 4 min
+402 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [La Perrada de la R](https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4) | [Proceder Elegante](https://open.spotify.com/artist/31I3LvGAhnvpBqv5YRkxbO) | [La Perrada de la R](https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX) | 2:50 | 2024-07-05 |  |
 | [La Primera](https://open.spotify.com/track/4F12uZbVbzzvyI1shTud4m) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [La Primera](https://open.spotify.com/album/39ICZEfQgeMWBVWMisix9A) | 2:23 | 2025-07-04 |  |
 | [La Trampa](https://open.spotify.com/track/5hSjKz5d9BNFLbVN1dJ0YV) | [Krusha G](https://open.spotify.com/artist/4OTXdFDQv95Y2bcB4TBYZw), [Coko Yamasaki](https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm) | [La Trampa](https://open.spotify.com/album/1zK3TV2luYmgMTBgViW2Jc) | 3:03 | 2023-09-29 | 2024-05-18 |
+| [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 | 2025-09-19 |  |
 | [LAS COSAS CAMBIARON](https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [SOTORIUS](https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT) | 2:53 | 2024-10-11 | 2025-07-05 |
 | [Le Gustan Así](https://open.spotify.com/track/4ZP264Ld4mOd72cNa0LvVF) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [De Vuelta a las Andadas](https://open.spotify.com/album/2YgSHCBlOE0ZamNGQBg19Q) | 2:59 | 2025-05-09 |  |
 | [Le tiré](https://open.spotify.com/track/6cBeF1NWjZBfN3sLZ8kCRh) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Le tiré](https://open.spotify.com/album/6DgcTU4NE4tDtfGbe2k7qH) | 2:12 | 2023-06-09 | 2023-09-23 |

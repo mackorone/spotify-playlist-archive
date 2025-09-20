@@ -6082,7 +6082,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 201924,
       "name": "Bidu Gaadi Yene Barali (From \"Ekka\")",
       "url": "https://open.spotify.com/track/3DSkOgY2B4XN4pVwQ0sR58"
@@ -39769,6 +39769,36 @@
     },
     {
       "album": {
+        "name": "Veera Naaga (From \"Lokah - Chapter 1: Chandra\")",
+        "url": "https://open.spotify.com/album/6EPjHpSnjcbWwlEMdUfpud"
+      },
+      "artists": [
+        {
+          "name": "JK",
+          "url": "https://open.spotify.com/artist/0CS2KzsuCXswXNnu7Up7b9"
+        },
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253228,
+      "name": "Veera Naaga (From \"Lokah - Chapter 1: Chandra\")",
+      "url": "https://open.spotify.com/track/5qJkL2KbVhJPVTYiTxc5A3"
+    },
+    {
+      "album": {
         "name": "PS-2 (Kannada) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/09x1YIyNqIdcCWAkq6Eytx"
       },
@@ -40730,12 +40760,12 @@
           "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
         },
         {
-          "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
-        },
-        {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
         }
       ],
       "date_added": "2025-07-30",

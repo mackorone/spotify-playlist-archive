@@ -2,9 +2,9 @@
 
 ### [Chill Indie Music](https://open.spotify.com/playlist/1khS5Pll0YEduwuZdciEbe)
 
-> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mac DeMarco
+> Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Altameda
 
-277 songs - 16 hr 44 min
+278 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
 | [Stick Around](https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 4:32 | 2024-04-05 | 2024-10-05 |
 | [Stowaway](https://open.spotify.com/track/5J4Y17SKE7k9HvYbcoqqdv) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [Good Dream / Stowaway](https://open.spotify.com/album/3nIJ6OwyVRrRaV3iynN5HE) | 3:03 | 2025-01-25 | 2025-03-01 |
+| [Stuck In Your Ways](https://open.spotify.com/track/5CteCoH5SqwTbRNmiPPg7e) | [Altameda](https://open.spotify.com/artist/01KXhlX2PCz5Uiw7d5eryb) | [Crazy Blue](https://open.spotify.com/album/7GbnNpd9eE4JUcMeHU34Ha) | 3:39 | 2025-09-19 |  |
 | [Stupid 4 U](https://open.spotify.com/track/0XudTjuk5umhu2Q8KYEZDU) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Dizzy](https://open.spotify.com/album/18B8EjYaDsWbukaC6dXyvc) | 3:56 | 2023-11-03 | 2024-03-09 |
 | [Take What’s Given](https://open.spotify.com/track/5ai9YGfkYzJ6WHtFIPiIdD) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What’s Given](https://open.spotify.com/album/68Ty6HjRWh9np1sfwnXyTB) | 2:57 | 2024-02-02 | 2024-11-02 |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-21 |  |

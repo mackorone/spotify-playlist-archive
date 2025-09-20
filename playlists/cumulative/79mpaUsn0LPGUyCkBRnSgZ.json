@@ -8129,6 +8129,24 @@
     },
     {
       "album": {
+        "name": "Emerald City",
+        "url": "https://open.spotify.com/album/3UdOmY1STQuqz3zHCkT2JK"
+      },
+      "artists": [
+        {
+          "name": "John Vanderslice",
+          "url": "https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330186,
+      "name": "Kookaburra",
+      "url": "https://open.spotify.com/track/1kcl4JslEp3ygDU3JpjhQi"
+    },
+    {
+      "album": {
         "name": "Afrika",
         "url": "https://open.spotify.com/album/6e2Xynkebu3TzBTxtEzvlM"
       },

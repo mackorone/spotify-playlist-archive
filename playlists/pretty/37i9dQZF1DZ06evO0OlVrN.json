@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 7886,
+  "num_followers": 7887,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAAoPW64yi7EUN6DdWitCdGp",
+  "snapshot_id": "aMtLgAAAAACAQki7OJDgs52npt3a/0tZ",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 158666,
-      "name": "Prieta Mojina - Live",
-      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
+      "duration_ms": 243760,
+      "name": "Podiosero De Amor - Live",
+      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Podiosero De Amor - Live",
-      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+      "duration_ms": 158666,
+      "name": "Prieta Mojina - Live",
+      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
     },
     {
       "added_at": null,
@@ -663,26 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
-        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
       },
       "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        },
-        {
-          "name": "Ram\u00f3n Ayala",
-          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
-        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 187840,
-      "name": "Tu Desconfianza",
-      "url": "https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB"
+      "duration_ms": 196893,
+      "name": "Falsa Ilusion",
+      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
     },
     {
       "added_at": null,
@@ -735,18 +727,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 Exitos Inmortales",
-        "url": "https://open.spotify.com/album/2zXix1WTlM3E4vtSnKwLMT"
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
       },
       "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
         {
           "name": "Los Relampagos Del Norte",
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Falsa Ilusion",
-      "url": "https://open.spotify.com/track/1s02yQ5hlpDzn9FATAh89J"
+      "duration_ms": 187840,
+      "name": "Tu Desconfianza",
+      "url": "https://open.spotify.com/track/2kj352d6US9v2nyis5jgKB"
     },
     {
       "added_at": null,

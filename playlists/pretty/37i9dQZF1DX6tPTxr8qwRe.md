@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Ella Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,155 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,177 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 69 | [U WON'T!](https://open.spotify.com/track/7iYyOqLQY46zCtfP3zW3bl) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [U WON'T!](https://open.spotify.com/album/3eSyIBoXNUuMRW3hH4KAJI) | 2:01 |
 | 70 | [addicted](https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK) | [Alessiah](https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw) | [addicted](https://open.spotify.com/album/70106lIC8nwyleCcCZQ6uR) | 3:13 |
 
-Snapshot ID: `AAAAAHjL4j2dDf4s615HircNcWFZ27If`
+Snapshot ID: `AAAAALpm1jhMEYsdeqnx/kv2TVfL76eZ`

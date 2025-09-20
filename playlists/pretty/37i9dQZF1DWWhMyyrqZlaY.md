@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 
 ### [Corridos Tumbados](https://open.spotify.com/playlist/37i9dQZF1DWWhMyyrqZlaY)
 
-> Los corridos más placosos que suenan en las calles\. Natanael Cano y Dan Sánchez en portada.
+> Los corridos más placosos que suenan en las calles\. Chuyin en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,661,130 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,661,583 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhMyyrqZlaY.md) - [plain]
 | 49 | [Ladeando \(feat\. Fuerza Regida\)](https://open.spotify.com/track/0vgqt0mRZmbb3b57i9p8wV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:11 |
 | 50 | [Costumbres](https://open.spotify.com/track/2wEHpXdFjkxlv6pHhSqMiQ) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Costumbres](https://open.spotify.com/album/0I874dPuRdrdZuhPh8VrLt) | 2:55 |
 
-Snapshot ID: `AAAAADJPAiogaeKowtPKhuVxfzhUSEBo`
+Snapshot ID: `AAAAAMpARCiCjECuWMEjhq1bIshTYWAb`

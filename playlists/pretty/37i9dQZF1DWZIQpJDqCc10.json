@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 741358,
+  "num_followers": 741463,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
         "name": "Let's Get Out Of This Country",
         "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 202293,
       "name": "Young Love (feat. Laura Marling)",
       "url": "https://open.spotify.com/track/5Bp3OmGILMam5w6KnafdKY"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
     },
     {
       "added_at": "2024-01-19 14:43:19",

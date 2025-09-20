@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 52224,
+  "num_followers": 52230,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
+        "name": "Oldies 60's",
+        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "You'll Never Walk Alone",
+      "url": "https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Oldies 60's",
-        "url": "https://open.spotify.com/album/3y2gHDcfKpQG21SutK6ErH"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "You'll Never Walk Alone",
-      "url": "https://open.spotify.com/track/3nxEmpFc1R0kiDrULNkSaf"
     },
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
+        "name": "Little Green Bag",
+        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Dear Ann",
+      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
+    },
+    {
+      "added_at": "2020-04-20 05:39:13",
+      "album": {
         "name": "Die Goeie Ouwe Tijd 2 - Top 100",
         "url": "https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 157200,
       "name": "I'm A Believer",
       "url": "https://open.spotify.com/track/1Dix6w1eVOCVNLqehxLXH1"
-    },
-    {
-      "added_at": "2020-04-20 05:39:13",
-      "album": {
-        "name": "Little Green Bag",
-        "url": "https://open.spotify.com/album/3kZKbvvhVprZVphNHYvRcj"
-      },
-      "artists": [
-        {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "Dear Ann",
-      "url": "https://open.spotify.com/track/7lpjk8A09oxqj7l18TrPua"
     },
     {
       "added_at": "2020-04-20 05:39:13",

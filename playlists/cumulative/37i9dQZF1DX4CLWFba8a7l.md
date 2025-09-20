@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Hazlett
 
-449 songs - 1 day 0 hr 58 min
+449 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [don't let me go](https://open.spotify.com/track/2ji2z7jiPIfcdBr4C8dCYN) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [don't let me go](https://open.spotify.com/album/7sM9CTDFIHVd8kOtV5YsTh) | 2:35 | 2025-04-10 | 2025-09-05 |
 | [Don’t Happy, Be Worry](https://open.spotify.com/track/7ep7tmv4MzpkC5ozd6GC3D) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [Don’t Happy, Be Worry](https://open.spotify.com/album/0oINbUTZmShChwgDUZRJdd) | 3:09 | 2025-04-10 | 2025-08-08 |
 | [Down To The Sea](https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Cape Forestier](https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn) | 3:19 | 2024-05-31 | 2024-09-03 |
-| [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [](https://open.spotify.com/album/null) | 4:11 | 2025-09-18 |  |
+| [Drenched](https://open.spotify.com/track/2H8JnA9YH0uM6siDbzPQbX) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Love Balloon](https://open.spotify.com/album/0yxuksgs4Ecu9U9UJLG8lm) | 4:11 | 2025-09-18 |  |
 | [Driving Me Wild](https://open.spotify.com/track/7uVfTZjuVxiQah7iDnUrgU) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Driving Me Wild](https://open.spotify.com/album/2sClfYTlQ4XeDKox9QCVxG) | 3:02 | 2025-06-05 | 2025-06-13 |
 | [DROWNING IN MY ROOM](https://open.spotify.com/track/1vfo3R77F4Vk7EZkEbzhW0) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [DROWNING IN MY ROOM](https://open.spotify.com/album/5qlCQsJ61VPsPDscOtxtIR) | 2:29 | 2025-01-30 | 2025-02-07 |
 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-17 |  |
@@ -188,6 +188,7 @@
 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 | 2025-06-19 |  |
 | [How to Kill Houseplants](https://open.spotify.com/track/19y5QUQ6zfgRyPi0Jlg1PO) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [How to Kill Houseplants](https://open.spotify.com/album/4c2YoXr8JKbX8MgusvVbUD) | 3:28 | 2025-03-04 | 2025-05-24 |
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 |  |
+| [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 | 2025-09-18 |  |
 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 |  |
 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-26 | 2025-08-17 |
 | [I Don't Wanna Go Home](https://open.spotify.com/track/5JgVl5KixyY1fI2jsfoDt1) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [I Don't Wanna Go Home](https://open.spotify.com/album/4N3Br72rwMUxSXZiBSOppL) | 2:41 | 2025-07-10 | 2025-07-18 |
@@ -415,7 +416,6 @@
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2024-05-31 | 2025-04-25 |
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
-| [Track 1](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |

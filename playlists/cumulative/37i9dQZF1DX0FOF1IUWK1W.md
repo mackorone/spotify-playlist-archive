@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Vitinho Imperador e os maiores hits do país\. O que tá bombando tá aqui.
+> PEDRO SAMPAIO e os maiores hits do país\. O que tá bombando tá aqui.
 
 632 songs - 1 day 7 hr 29 min
 

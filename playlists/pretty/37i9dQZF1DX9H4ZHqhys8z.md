@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου αυτές τις απίθανες καλλιτέχνιδες στη διαπασών\. Μια playlist που συνυπογράφει η Aspa
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,417 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,422 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Malista Kyrie](https://open.spotify.com/track/16lGVeIHR5XDc5hvlW2MZ5) | [Valia Tsirgioti](https://open.spotify.com/artist/2zVzPjIdABuyJdUnrHJ7ki), [Giorgos Zambetas](https://open.spotify.com/artist/0nvVCoiYH184eR8CDXfx3r) | [Malista Kyrie](https://open.spotify.com/album/77rFUuqxlLvrhIiRqgTyeU) | 3:44 |
 | 50 | [Χαρικλάκι](https://open.spotify.com/track/1jm68HObfMJZWnrFqj4E8H) | [Magda Varoucha](https://open.spotify.com/artist/5Mw4GzF9beZH7rq1If4CxC) | [Χαρικλάκι](https://open.spotify.com/album/12ahn0Q5atDXGXltJsP2sT) | 2:39 |
 
-Snapshot ID: `AAAAABx15mmYWolk6VSPyxCbrLtxxV98`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

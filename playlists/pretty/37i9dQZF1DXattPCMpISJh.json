@@ -1,13 +1,53 @@
 {
   "description": "A new take on a classic sound. Cover: Say She She",
-  "num_followers": 144946,
+  "num_followers": 144996,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAbwffiKCKNrLbBnZxzfrkS7uST0",
+  "snapshot_id": "AAAAAAERGhaNuFIsV7u/e7IntFxiW6Nc",
   "tracks": [
+    {
+      "added_at": "2025-09-19 04:00:35",
+      "album": {
+        "name": "Do It for Love",
+        "url": "https://open.spotify.com/album/6uOwJ9RBdPXhPXYwZ0iAEh"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "duration_ms": 158924,
+      "name": "Do It for Love",
+      "url": "https://open.spotify.com/track/5NzJnRutdEtt8KsgE8b1aC"
+    },
+    {
+      "added_at": "2025-09-19 04:00:35",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4rFgB6gBS4YJR8EtyUinvw"
+      },
+      "artists": [
+        {
+          "name": "EASY FREAK",
+          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
+        }
+      ],
+      "duration_ms": 197752,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/54qhMRdSYqQhUo7CtFzXQa"
+    },
     {
       "added_at": "2025-09-05 04:00:01",
       "album": {
@@ -131,30 +171,6 @@
       "duration_ms": 316133,
       "name": "Turn This Love Around",
       "url": "https://open.spotify.com/track/1NTMY22seuV6Rvvt8BYTnN"
-    },
-    {
-      "added_at": "2025-08-15 04:00:08",
-      "album": {
-        "name": "Disco Turbo",
-        "url": "https://open.spotify.com/album/6pIia0cXMnfA0I41UiS52A"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Haile Supreme",
-          "url": "https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        }
-      ],
-      "duration_ms": 176458,
-      "name": "Disco Turbo",
-      "url": "https://open.spotify.com/track/0RZjuYWQ7nXV0iij60LYgJ"
     },
     {
       "added_at": "2025-08-08 04:00:46",
@@ -323,22 +339,6 @@
       "duration_ms": 191000,
       "name": "Love Contest (Dave Lee's Mini Disco Mix)",
       "url": "https://open.spotify.com/track/0VneTyVPNsyz9sdXYOH6Q6"
-    },
-    {
-      "added_at": "2025-04-18 04:00:33",
-      "album": {
-        "name": "Old School Love",
-        "url": "https://open.spotify.com/album/5vGI2bJb0Xo9CQogz1R8AH"
-      },
-      "artists": [
-        {
-          "name": "EASY FREAK",
-          "url": "https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Old School Love",
-      "url": "https://open.spotify.com/track/4IywS1K0mIm1fdGDasE6uu"
     },
     {
       "added_at": "2025-05-02 04:00:21",

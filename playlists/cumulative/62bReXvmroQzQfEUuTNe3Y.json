@@ -9643,6 +9643,28 @@
     },
     {
       "album": {
+        "name": "Waiting for Love",
+        "url": "https://open.spotify.com/album/5dZrQwKZNuLqxCtCc8L2I5"
+      },
+      "artists": [
+        {
+          "name": "Tudor",
+          "url": "https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb"
+        },
+        {
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Waiting for Love",
+      "url": "https://open.spotify.com/track/5v2wRn44H8LLX6iCYUAMP7"
+    },
+    {
+      "album": {
         "name": "Little Love",
         "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
       },

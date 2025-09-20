@@ -4,7 +4,7 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Paula Lima
 
-107 songs - 6 hr 27 min
+108 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Nossa Noite](https://open.spotify.com/track/19ZBM3YUW2ckbZ9uAnNbha) | [ogoin](https://open.spotify.com/artist/31lFbAIACVCAY9J0JoLbCy), [Linguini](https://open.spotify.com/artist/3VNJeULanp6BoL1MOConoz), [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ) | [Ogoin & Linguini: TV Show](https://open.spotify.com/album/1rKjTHrC5iRC5e9Vm8Widv) | 3:16 | 2023-12-08 | 2024-06-15 |
 | [Não Quero Mais](https://open.spotify.com/track/5PqycyW12kd3QPhAMts0Oo) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 2:10 | 2023-12-08 | 2024-10-12 |
 | [Nós dois um só \- Just You And Me](https://open.spotify.com/track/4ze1NjtQxLnbOwRSHVUeWy) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nós dois um só \(Just You And Me\)](https://open.spotify.com/album/46AmONQlUeyTzkERmWwG21) | 2:27 | 2023-12-08 |  |
+| [O Baile Funk Vai Rolar](https://open.spotify.com/track/5azpkIu0g2mQH5cP8PxUH5) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [O Baile Funk Vai Rolar](https://open.spotify.com/album/6geaweh3N4vW8M2h9URrlS) | 2:47 | 2025-09-19 |  |
 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/7DcOrwBOQmTfGU6dmlRGJR) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares \(1983\)](https://open.spotify.com/album/6ROi7CSCQPo0FI2ejWqsZi) | 4:23 | 2024-03-29 |  |
 | [O Descobridor Dos Sete Mares](https://open.spotify.com/track/6wpDQGn3Gl0j9Wt6D6mYvQ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [O Descobridor Dos Sete Mares](https://open.spotify.com/album/7Ff0Q5oeEoVKHtxJJoXyId) | 4:25 | 2023-12-08 | 2024-04-19 |
 | [O Quanto Eu Gosto Dela](https://open.spotify.com/track/5TvtSNY4UPIBRddYa1Nmgs) | [Diogo Brown](https://open.spotify.com/artist/6q3C6cAweuplRwXGjz1buS) | [O Quanto Eu Gosto Dela](https://open.spotify.com/album/6vTo538LiSPQDHhPTThJ2q) | 3:31 | 2023-12-08 |  |
@@ -88,7 +89,7 @@
 | [Onda Poderosa / Citação: Abalou](https://open.spotify.com/track/0ufa6F0EztswDDsWRbcMok) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Onda Poderosa / Citação: Abalou](https://open.spotify.com/album/031Zl5kgrUiOm6l5RE2i6u) | 4:14 | 2023-12-08 | 2024-01-20 |
 | [Plano Astral](https://open.spotify.com/track/61DHpS5NML76zOqum12Sk1) | [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [02 de Fevereiro](https://open.spotify.com/album/2FpyYjNz2THd0HVHgHMFLJ) | 4:23 | 2023-12-08 |  |
 | [Poeira](https://open.spotify.com/track/0NBEUOXcxAYhirxbC8ibuX) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Poeira](https://open.spotify.com/album/1xi2xzHZgoXx4aujl8bbmD) | 2:59 | 2024-06-21 |  |
-| [Preta de Humaitá](https://open.spotify.com/track/5s6OgyXVWd8poXQ9NFcMIr) | [Mununu](https://open.spotify.com/artist/6Pl3is2BWXd1lWbjrnqnNn), [Nego Moura](https://open.spotify.com/artist/6LPX9ybjEaR6mdqkbMPlLt), [Os Camarás](https://open.spotify.com/artist/3CONcpsrok1bCCFxOkriX7) | [Preta de Humaitá](https://open.spotify.com/album/27suoD4HF6ue9TQhHgrVgB) | 4:24 | 2023-12-08 |  |
+| [Preta de Humaitá](https://open.spotify.com/track/5s6OgyXVWd8poXQ9NFcMIr) | [Mununu](https://open.spotify.com/artist/6Pl3is2BWXd1lWbjrnqnNn), [Nego Moura](https://open.spotify.com/artist/6LPX9ybjEaR6mdqkbMPlLt), [Os Camarás](https://open.spotify.com/artist/3CONcpsrok1bCCFxOkriX7) | [Preta de Humaitá](https://open.spotify.com/album/27suoD4HF6ue9TQhHgrVgB) | 4:24 | 2023-12-08 | 2025-09-20 |
 | [Proposta](https://open.spotify.com/track/1taeNu1wYQx0duaEu2NqXY) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/1xEQfEqDkNhypgXbFGBWHo) | 3:44 | 2024-03-29 | 2024-05-11 |
 | [Proposta](https://open.spotify.com/track/6K7RRfMOjRHEwa0JN1tvf1) | [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf), [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Leo Minas.](https://open.spotify.com/artist/5VoUhia4pII9rmZU3fByI3) | [Proposta](https://open.spotify.com/album/3xxzWBSGDSA6wNtT73Xiiv) | 3:44 | 2023-12-08 | 2024-04-19 |
 | [Pétalas Vermelhas](https://open.spotify.com/track/25pUHGs0liXOe2qPc9ZuDa) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY), [Alfonz Jones](https://open.spotify.com/artist/4dI0tjVoli8bZZrRKRCgFa) | [Pétalas Vermelhas](https://open.spotify.com/album/00go5RKRDWp8IJFQKZv1QS) | 3:41 | 2023-12-08 | 2024-03-23 |

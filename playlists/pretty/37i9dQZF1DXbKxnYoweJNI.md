@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 白安 \(Ann Bai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,635 likes - 128 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,637 likes - 128 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 4 | [不想忘掉](https://open.spotify.com/track/0RnFODkvPGoKeozcQfRZlQ) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [不想忘掉](https://open.spotify.com/album/3vUYwWf7801LFagmV83aKG) | 3:56 |
 | 5 | [Butterfly Effect](https://open.spotify.com/track/2rbLtisZzVOcHVyubAZVJn) | [Bolly](https://open.spotify.com/artist/5plw5T9XNykcYu3a6ZWCAW) | [Butterfly Effect](https://open.spotify.com/album/3h0OwmEIUwbePY8nNxwwi6) | 3:12 |
 | 6 | [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 |
-| 7 | [攀](https://open.spotify.com/track/3t4vDJ3z7EbyuUMcVFmSqB) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [](https://open.spotify.com/album/null) | 3:11 |
+| 7 | [攀](https://open.spotify.com/track/3t4vDJ3z7EbyuUMcVFmSqB) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [懂](https://open.spotify.com/album/1dNxVwESQkzH3ffoaZQVtr) | 3:11 |
 | 8 | [謝謝妳愛我抱歉我是渣男](https://open.spotify.com/track/4au7BUR7PN6slQEzHSJmCL) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ) | [謝謝妳愛我抱歉我是渣男](https://open.spotify.com/album/1d0ElowhR0IcGDV1O8x5qf) | 4:52 |
 | 9 | [窗](https://open.spotify.com/track/2L271GrS9ZknJo31wkWFZ4) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd), [shawnshawn](https://open.spotify.com/artist/5viROI7OAb6XHVSqtlQlpW), [ex3545](https://open.spotify.com/artist/1XBzRhnZlL4NYhpOLZWF6K), [上杉早雄](https://open.spotify.com/artist/6UOM01aXFRyfyRbxm9IA4c) | [窗](https://open.spotify.com/album/43u2fm1EvPdPmMTD906JDT) | 3:54 |
 | 10 | [輕功水上飄](https://open.spotify.com/track/5CxPkBxzhTFMUb1T4G6zyk) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [輕功水上飄](https://open.spotify.com/album/1nyTVQdyIB3il2g02g5F3b) | 3:42 |

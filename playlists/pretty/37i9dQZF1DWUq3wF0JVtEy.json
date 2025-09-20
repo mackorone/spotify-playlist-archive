@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 928251,
+  "num_followers": 928258,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Instant Moments",
+        "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
+      },
+      "artists": [
+        {
+          "name": "Divasi",
+          "url": "https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY"
+        }
+      ],
+      "duration_ms": 160208,
+      "name": "Instant Moments",
+      "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Renegade Master (Don Diablo Edit)",
         "url": "https://open.spotify.com/album/0NRlW0uReoU6nZN5Rc3xlj"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 202204,
       "name": "Cocoon - Martin Garrix & Space Ducks Remix",
       "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Instant Moments",
-        "url": "https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu"
-      },
-      "artists": [
-        {
-          "name": "Divasi",
-          "url": "https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY"
-        }
-      ],
-      "duration_ms": 160208,
-      "name": "Instant Moments",
-      "url": "https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "The Future Is Now - The Truth",
-        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "The Future Is Now",
-      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "The Future Is Now - The Truth",
+        "url": "https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "The Future Is Now",
+      "url": "https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/6OMHgy8Biljd8XCAhIyjMD"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1Fu1vVpBhR2SvMOgifFsuT"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Goosebumps",
         "url": "https://open.spotify.com/album/3MoEKmUWinVchDsrOmka16"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 150128,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/1pjBBHUjHqS92OmaNa2fWS"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/6OMHgy8Biljd8XCAhIyjMD"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1Fu1vVpBhR2SvMOgifFsuT"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -811,30 +811,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "Go Mode",
-        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        },
-        {
-          "name": "Blookah",
-          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 232031,
-      "name": "Go Mode",
-      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "The Don",
         "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 166237,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Go Mode",
+        "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        },
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        }
+      ],
+      "duration_ms": 232031,
+      "name": "Go Mode",
+      "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Hypnotize EP",
+        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Party All The Time (D.O.D Remix)",
         "url": "https://open.spotify.com/album/0ko9z0wMuLm1sDVhKYS4lg"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 134624,
       "name": "Party All The Time - D.O.D Remix",
       "url": "https://open.spotify.com/track/5JBtawmFkJ1Qs9Fzrdgkxt"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Hypnotize EP",
-        "url": "https://open.spotify.com/album/1XKS2l8AbjaCBJbIHiFCgu"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Keep On Dancin\u2019",
+        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        }
+      ],
+      "duration_ms": 207096,
+      "name": "Keep On Dancin\u2019",
+      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Smash The Disco",
         "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 181875,
       "name": "Smash The Disco",
       "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Keep On Dancin\u2019",
-        "url": "https://open.spotify.com/album/2Uailrdpotagi31qGYaKOj"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 207096,
-      "name": "Keep On Dancin\u2019",
-      "url": "https://open.spotify.com/track/2tZ6RENHFCbw6vyv0LRcZP"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Rock The Party",
+        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 204923,
+      "name": "Rock The Party",
+      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/2xQP7FhsF1Qpstvb7wdVRH"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 150875,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/2JIWCJrgxmmM8coyFZZriG"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Rock The Party",
-        "url": "https://open.spotify.com/album/7mJCgi7cA9vFsA4hMhizL7"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "Rock The Party",
-      "url": "https://open.spotify.com/track/3wnan34oo7sAqyoLPV5G9k"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "I Wanna",
         "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 155520,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "C.R.E.A.M.",
-        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
-      },
-      "artists": [
-        {
-          "name": "Lukas Vane",
-          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
-        }
-      ],
-      "duration_ms": 149562,
-      "name": "C.R.E.A.M.",
-      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
       },
@@ -1759,6 +1743,22 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "C.R.E.A.M.",
+        "url": "https://open.spotify.com/album/7pOk3ct870S4hLB547f7VJ"
+      },
+      "artists": [
+        {
+          "name": "Lukas Vane",
+          "url": "https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U"
+        }
+      ],
+      "duration_ms": 149562,
+      "name": "C.R.E.A.M.",
+      "url": "https://open.spotify.com/track/3sPnvTRfLlviMwOGbvjIug"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
         "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
       },
@@ -1771,42 +1771,6 @@
       "duration_ms": 176309,
       "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
       "url": "https://open.spotify.com/track/3SdJfLXRrzaS06znA07k2u"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 141860,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
-      },
-      "artists": [
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
-        }
-      ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1831,6 +1795,26 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 166954,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        }
+      ],
+      "duration_ms": 141860,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
     },
     {
       "added_at": "2025-09-12 04:00:11",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
-        "name": "No Ecstasy Love",
-        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
-      },
-      "artists": [
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 205846,
-      "name": "No Ecstasy Love",
-      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
+        "name": "No Ecstasy Love",
+        "url": "https://open.spotify.com/album/23LgdnFZdrukb4zopFgz8e"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 205846,
+      "name": "No Ecstasy Love",
+      "url": "https://open.spotify.com/track/7zPRxFNAatx8y4LYTAvJrD"
     },
     {
       "added_at": "2025-09-12 04:00:11",

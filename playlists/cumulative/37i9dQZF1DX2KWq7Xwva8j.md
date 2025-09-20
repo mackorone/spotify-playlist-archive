@@ -4,7 +4,7 @@
 
 > El futuro ya está aquí\. Foto: LUSILLON.
 
-303 songs - 14 hr 39 min
+303 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,12 +279,12 @@
 | [Taxi](https://open.spotify.com/track/5d8jEQ6AFvwJQC0VWmJPrh) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Taxi](https://open.spotify.com/album/2mtpU3ZYRWk6oBTsYj2DQx) | 2:57 | 2025-03-27 |  |
 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 | 2024-02-06 | 2025-03-04 |
 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 | 2023-03-01 | 2025-03-04 |
-| [Track 1](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-18 |  |
 | [Tregua](https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Tregua](https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx) | 2:33 | 2023-09-15 | 2024-02-07 |
 | [Tremenda suerte](https://open.spotify.com/track/5Xt7uirmf3G3yI7XSvd1NV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Tremenda suerte](https://open.spotify.com/album/5WHCioEAtmcXk4CqSTpFc6) | 2:38 | 2021-12-31 | 2022-01-07 |
 | [Triste pero no](https://open.spotify.com/track/63XSp3hSyJub2N23FtkYQw) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Triste pero no](https://open.spotify.com/album/6lzKsNh7XxGFiUlBRuZfOQ) | 3:00 | 2022-02-17 | 2022-07-15 |
 | [Tu Luz](https://open.spotify.com/track/2hM0PMIP5aYPtRsI2PcckG) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Tu Luz](https://open.spotify.com/album/2h4BKhKCtxfxDJw7T0RxV8) | 3:09 | 2021-12-31 | 2022-03-18 |
 | [tu móvil](https://open.spotify.com/track/2SgBpPyx26xZjdLxxaQBGc) | [agosto](https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK) | [tu móvil](https://open.spotify.com/album/3A37HbpywhHNV0iuodEu8r) | 2:59 | 2021-12-31 | 2022-02-05 |
+| [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 | 2025-09-18 |  |
 | [Tú Me Pones Nervioso](https://open.spotify.com/track/7I1w9AjG7Y4LLA7jXSFTiQ) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY) | [Tú Me Pones Nervioso](https://open.spotify.com/album/5mbszSSia1Lapl1oRcdhrE) | 3:16 | 2021-12-31 | 2022-01-28 |
 | [Un Amor De Locos](https://open.spotify.com/track/0KngGwsqYzLisleU46WuLH) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Un Amor De Locos](https://open.spotify.com/album/3GUmhfkz5WZo0LN9daXoGp) | 3:17 | 2022-06-06 | 2023-02-08 |
 | [Un Paseo Más](https://open.spotify.com/track/7gVESyKinmw7wpQEBM9x69) | [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [Un Paseo Más](https://open.spotify.com/album/1QUKV49LaQiYrbAE0AvVrq) | 3:43 | 2021-12-31 | 2022-01-28 |

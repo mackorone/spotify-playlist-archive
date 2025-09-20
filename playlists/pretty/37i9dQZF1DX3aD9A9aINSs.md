@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,777 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,770 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 75 | [SUCH A LEADER](https://open.spotify.com/track/68mTwxP3vquZSsCNj1gtA5) | [Elif Azim](https://open.spotify.com/artist/45Eehk635oeB2M92fwUqjO) | [SUCH A LEADER](https://open.spotify.com/album/2ANRby7IXkht1phoYmhtJ1) | 4:06 |
 | 76 | [Oy Oy](https://open.spotify.com/track/3jicf6NaCagTlC9MW4ScPd) | [Yasemin Bahloul](https://open.spotify.com/artist/2mz9baBuJ1mILERJJihYJ5) | [Oy Oy](https://open.spotify.com/album/11K0zR4NJMn0wVcpVEeJTr) | 3:39 |
 
-Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`
+Snapshot ID: `AAAAAJqFKWIBcb3yi20/zsbWJkeDAGgq`

@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Crudo Means Raw
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Mon Laferte, Nathy Peluso
 
 11,370 songs - 25 day 2 hr 55 min
 

@@ -8471,6 +8471,28 @@
     },
     {
       "album": {
+        "name": "No Campo",
+        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210461,
+      "name": "No Campo",
+      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
+    },
+    {
+      "album": {
         "name": "Nois T\u00e1 Pra Cima",
         "url": "https://open.spotify.com/album/3maoNtBHXjBNJujQsr6qTi"
       },
@@ -12546,7 +12568,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 290944,
       "name": "SPRITE CODEIN",
       "url": "https://open.spotify.com/track/6oRS51NBZAC1lmOrgynn9c"

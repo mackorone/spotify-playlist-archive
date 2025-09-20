@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,563 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,581 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Weekends Are for Making Love](https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Weekends Are for Making Love](https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc) | 2:49 |
-| 2 | [Dear Lord](https://open.spotify.com/track/2mtZmxWnLHGog8UvLanaFk) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Dear Lord](https://open.spotify.com/album/3TiwYNTikmOyGs0l2Z1oSW) | 5:56 |
-| 3 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
-| 4 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
-| 5 | [Stained](https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [Stained](https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW) | 2:51 |
-| 6 | [Naked In The Jungle](https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Naked In The Jungle](https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c) | 3:14 |
-| 7 | [Know My Name](https://open.spotify.com/track/3Hh6HFZ7V4RUw1Oi6hmOD3) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Know My Name](https://open.spotify.com/album/03yhfSbKgwgTpKCwPlkm0q) | 2:29 |
-| 8 | [Alone](https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [The Love Anthology](https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM) | 3:45 |
-| 9 | [Risk Everythang](https://open.spotify.com/track/35BWdWmb60A8Ng3B8QhfkT) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Risk Everythang](https://open.spotify.com/album/1vjYtX0meIbFdnFdcwvouZ) | 2:12 |
-| 10 | [Love Is A Fight](https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Love Is A Fight](https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga) | 3:33 |
-| 11 | [Count On Me \- Edit](https://open.spotify.com/track/3UhOT6UdA5ioHmpwCYDwzx) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Count On Me](https://open.spotify.com/album/5hlNOvF2Fn1Xn3mygRwjGa) | 3:17 |
-| 12 | [Wherever You Are \- Radio Mix](https://open.spotify.com/track/7x1WL4uE97GjAdWe9IMiNE) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Wherever You Are \(Radio Mix\)](https://open.spotify.com/album/6Ml1tPseDakWkVH1C8XX9T) | 3:23 |
+| 1 | [ATM](https://open.spotify.com/track/1VjLo8p2kIz3gsdgdIrsit) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [ATM](https://open.spotify.com/album/4I65kECMNWuvQPbzm1N3Hi) | 2:26 |
+| 2 | [Weekends Are for Making Love](https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Weekends Are for Making Love](https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc) | 2:49 |
+| 3 | [Dear Lord](https://open.spotify.com/track/2mtZmxWnLHGog8UvLanaFk) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Dear Lord](https://open.spotify.com/album/3TiwYNTikmOyGs0l2Z1oSW) | 5:56 |
+| 4 | [The Man](https://open.spotify.com/track/7zH1G8gZtSFYtL8ThQ1hv6) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [The Man](https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI) | 3:03 |
+| 5 | [When Will The Love Rain Down](https://open.spotify.com/track/5RZC6hR11cilAHjsNMu1gI) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [When Will The Love Rain Down](https://open.spotify.com/album/4W8Z1xjbtA2UsqrSHdOZ3d) | 5:43 |
+| 6 | [Stained](https://open.spotify.com/track/0lLvGzQhd7hADAeC2hUHB0) | [Brittany Broski](https://open.spotify.com/artist/4bvnxCtWPHufMtiQQuT8nW) | [Stained](https://open.spotify.com/album/1egulPm1dhjjElWYJIhjuW) | 2:51 |
+| 7 | [Naked In The Jungle](https://open.spotify.com/track/1O5x5VyiR3eWMnTPPJnFEJ) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Naked In The Jungle](https://open.spotify.com/album/7rGhM1ak9y2bbqG66WxX5c) | 3:14 |
+| 8 | [Know My Name](https://open.spotify.com/track/3Hh6HFZ7V4RUw1Oi6hmOD3) | [Mike Äpt](https://open.spotify.com/artist/2OPYiATrhxvLoSXgo7XQka) | [Know My Name](https://open.spotify.com/album/03yhfSbKgwgTpKCwPlkm0q) | 2:29 |
+| 9 | [Alone](https://open.spotify.com/track/3LGHAzSDMm9KDxSrJlWIqV) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [The Love Anthology](https://open.spotify.com/album/1Przkz0IqwGmtFQ4Va2wxM) | 3:45 |
+| 10 | [Risk Everythang](https://open.spotify.com/track/35BWdWmb60A8Ng3B8QhfkT) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Risk Everythang](https://open.spotify.com/album/1vjYtX0meIbFdnFdcwvouZ) | 2:12 |
+| 11 | [Love Is A Fight](https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Love Is A Fight](https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga) | 3:33 |
+| 12 | [Count On Me \- Edit](https://open.spotify.com/track/3UhOT6UdA5ioHmpwCYDwzx) | [Toby Lee](https://open.spotify.com/artist/059zYnVrxnkUTiNIrHHYyz) | [Count On Me](https://open.spotify.com/album/5hlNOvF2Fn1Xn3mygRwjGa) | 3:17 |
 | 13 | [Changing Suits](https://open.spotify.com/track/5UG0YMXwPnszPDDW4DXtPB) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Come Up Kid](https://open.spotify.com/album/1OOYRUliVouUyeqTDjTNB9) | 3:57 |
 | 14 | [Gossip](https://open.spotify.com/track/65XSifoolPRjDZAQQnwJOa) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [Gossip](https://open.spotify.com/album/0lafTsLHcigE5J0EMO9HKx) | 3:10 |
 | 15 | [Father Let Me Go](https://open.spotify.com/track/2O6bD7GtWCQGRuMtdL0EtG) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb) | [Untold](https://open.spotify.com/album/1PajuQorortn4jOtkzOQ84) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Two Plus Two Is Five](https://open.spotify.com/track/5IUlrVdOqBxaNbMgFFTgMC) | [Jon Kenzie](https://open.spotify.com/artist/31eXvMCHf7z4m5IzsZmVKA) | [Two Plus Two Is Five](https://open.spotify.com/album/43SQsyna8h0sWhlwQWIRNy) | 2:58 |
 | 100 | [Without You](https://open.spotify.com/track/0P3d2XgHvQraoTdcCql217) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp), [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Without You](https://open.spotify.com/album/7I4v2j4ueGOtCgCKzuRjPp) | 3:20 |
 
-Snapshot ID: `AAAAAO6Wowz2VyaHjRkc5ef+TQCnWPXh`
+Snapshot ID: `AAAAAM3n8sXpej6N2TSvMTB+5aiqf+mB`

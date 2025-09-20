@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Urumi
 
-403 songs - 1 day 1 hr 13 min
+404 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Chekele](https://open.spotify.com/track/0hVxx4yyDgx6kkhXEpLqeT) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Archana Mohan Iyer](https://open.spotify.com/artist/28aw8AhOzmnkmx07DqMkFX) | [Chekele](https://open.spotify.com/album/7Ma2OjPf1ZUR2cAsEVYT18) | 3:27 | 2022-07-28 | 2023-07-28 |
 | [Chekuthan](https://open.spotify.com/track/5Zoe8tHOVTMOzeapdpQeYL) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan](https://open.spotify.com/album/0HH6caLXMV6xudGoXkFn9q) | 2:48 | 2022-12-22 | 2024-06-08 |
 | [Chekuthan \(Reprise\)](https://open.spotify.com/track/6N0Z9weSdoXUzL0wbqQD4h) | [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C), [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh) | [Chekuthan \(Reprise\)](https://open.spotify.com/album/6Qz3dfZLUwwyvzd6JHxUPa) | 1:40 | 2022-09-06 | 2023-07-28 |
+| [Chelu](https://open.spotify.com/track/0xdm6L3j1eX7qqI9Tp1Oyp) | [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0), [Najran Kabeer](https://open.spotify.com/artist/0jvCibdhene4gjkWnfdort), [Musthafa](https://open.spotify.com/artist/0tHJICSi99x38lzsS9yjnz) | [Chelu](https://open.spotify.com/album/4FDQHPRJfVSzXPw4v6o6o8) | 2:32 | 2025-09-19 |  |
 | [CHENGAAIMAAR](https://open.spotify.com/track/5lty7EPSLJaiFX24QQbbYa) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [CHENGAAIMAAR](https://open.spotify.com/album/67ggQcHgJFnBxxOIioaMvz) | 3:01 | 2024-10-08 | 2025-04-12 |
 | [Chirapunji \- From Saina Music Indie](https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi) | [Chirapunji \(From Saina Music Indie\)](https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ) | 2:40 | 2025-06-16 |  |
 | [Chiripaatu](https://open.spotify.com/track/049lmlc3unN6EyPyTcmmHe) | [Varkey](https://open.spotify.com/artist/3lGO2vlBKprFARQoF8BjEI), [Gopikrishnan S Kurup](https://open.spotify.com/artist/3pNvwcpWqhSxLDAc65GCWp) | [Chiripaatu](https://open.spotify.com/album/2kJGjzcGpZE9vgyv3CKmAu) | 4:00 | 2023-10-10 | 2024-07-13 |
@@ -319,7 +320,7 @@
 | [Puthumazha](https://open.spotify.com/track/5CfnIDYUEXRTe6eiYR4YQZ) | [Ewinikz](https://open.spotify.com/artist/5gfzutNloSkBDuLVikIUN8), [Godwin Fernandez](https://open.spotify.com/artist/5vTeO5rzVIjdqNv7RTmB43), [Suchith Surendran](https://open.spotify.com/artist/3Dmkg6TaEsyJ9n8grHJl5T) | [Puthumazha](https://open.spotify.com/album/7ys3lpm8qwYbepZ8bPr08v) | 1:10 | 2025-07-22 | 2025-09-04 |
 | [Puttu Biriyani](https://open.spotify.com/track/0HNQsBtT9LfC1PCV1W9V2y) | [Sannidanandan](https://open.spotify.com/artist/36G7EzMNhakODA2g5hLxIq), [Retheesh Narayanan](https://open.spotify.com/artist/6JdxkqU06zxt6pLC0PSeSz) | [Puttu Biriyani](https://open.spotify.com/album/3PsgvyeqCTUCeKE4FaSuMr) | 3:44 | 2025-02-18 | 2025-04-29 |
 | [Puttu Paattu](https://open.spotify.com/track/7i8me6jJ0iAWHeOwdImXFT) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 5:32 | 2022-12-22 | 2025-01-14 |
-| [Qiyamah](https://open.spotify.com/track/0CxqNmgWofnikiYUfoulmw) | [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6) | [Qiyamah](https://open.spotify.com/album/4Uk9qGCVATwNRzNzVaVx96) | 3:00 | 2025-05-05 |  |
+| [Qiyamah](https://open.spotify.com/track/0CxqNmgWofnikiYUfoulmw) | [Fathima Jahaan](https://open.spotify.com/artist/2iqMauzUdnUyiCOUeOFYD6) | [Qiyamah](https://open.spotify.com/album/4Uk9qGCVATwNRzNzVaVx96) | 3:00 | 2025-05-05 | 2025-09-20 |
 | [Raathri](https://open.spotify.com/track/1p1na85QNJHUxdcqO5wbEd) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Sarah Black](https://open.spotify.com/artist/42HHTJt9IDWgxElbHzZStO) | [Raathri](https://open.spotify.com/album/1FP3UTmOQNaT5zW4e5ISKJ) | 3:43 | 2025-07-10 |  |
 | [Raavu](https://open.spotify.com/track/26wTJ11QTpGx59BoRCsY6G) | [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu), [Zanjay](https://open.spotify.com/artist/2GrMbhYEEFMHSqUJw32gb2) | [Raavu](https://open.spotify.com/album/0ECb3vCOu1XZ8pmTaQMS44) | 3:25 | 2025-07-28 |  |
 | [Rangapura Vihara](https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Rangapura Vihara \- Single](https://open.spotify.com/album/6f4cOJPPGqBKXbj0luhAQQ) | 8:57 | 2022-12-22 |  |

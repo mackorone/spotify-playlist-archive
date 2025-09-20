@@ -2,9 +2,9 @@
 
 ### [Indian Indie English](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> English songs from Indian artists<br/>Cover: Tarang Joseph
+> English songs from Indian artists<br/>Cover: Ramya Pothuri
 
-342 songs - 19 hr 41 min
+344 songs - 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Foolish Once Again](https://open.spotify.com/track/5fv2dx3jfxxX8Gqvzl6TjI) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [Foolish Once Again](https://open.spotify.com/album/2F8nmRroxmD3yHbnFiN1tV) | 4:03 | 2022-03-25 | 2024-08-23 |
 | [Fools Will Learn](https://open.spotify.com/track/5P9utVQ2Rb9XDZwoPEzvxi) | [Cinema of Excess](https://open.spotify.com/artist/3xA6t8yRi2XxiycBjSB9Ai) | [Rooftops](https://open.spotify.com/album/3PN7n3nqjEgGzZDrKjDfXr) | 4:28 | 2022-03-25 | 2022-05-04 |
 | [For a While](https://open.spotify.com/track/1yhfYBmhghTPVEs103vITH) | [Krishnahazar](https://open.spotify.com/artist/2Z16jBrzl4twrIQ1NCQb7d) | [For a While](https://open.spotify.com/album/6aNgCHHG3x5U112Wuj0fZ4) | 3:08 | 2024-07-20 | 2025-09-13 |
+| [forget your name](https://open.spotify.com/track/5HMJr3qOYf7Bjd58UNvGDY) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [forget your name](https://open.spotify.com/album/2ZwwjE0KXrvn5UnHXcbaR3) | 3:55 | 2025-09-19 |  |
 | [free](https://open.spotify.com/track/6AZFB9yD5kyahBrPhv9i4E) | [Teenasai](https://open.spotify.com/artist/6xIdf78GSxt5FrRC4RC6Uj) | [free](https://open.spotify.com/album/6x5uvmf4EOslQGWPOREQEf) | 3:06 | 2022-03-25 | 2023-01-13 |
 | [ghost](https://open.spotify.com/track/77mRIH0iEMSDycL7JwgPRz) | [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME), [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [ghost](https://open.spotify.com/album/6GGzNzRrPyIuXTp5yvwAHI) | 3:40 | 2025-02-04 |  |
 | [Gimme Love](https://open.spotify.com/track/4Lrj5gedGK2BoHYlmIQSjd) | [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Gimme Love](https://open.spotify.com/album/2cfnjv71Pf1Nc9LbNzc5UB) | 3:07 | 2023-07-28 | 2024-07-27 |
@@ -337,6 +338,7 @@
 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 | 2023-05-19 | 2025-09-13 |
 | [Waves](https://open.spotify.com/track/6BqqBaaQPILuPRKqwl7Gyq) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Waves](https://open.spotify.com/album/4BiUDSP16xxTY1xowEipas) | 4:04 | 2023-05-19 | 2023-05-24 |
 | [Weatherman](https://open.spotify.com/track/1TqOLfxNA0nyRKanVioCMh) | [Perp](https://open.spotify.com/artist/7jIBDfVAfhi2qtoQNveJEu), [Tiana Tara](https://open.spotify.com/artist/3lHzLZ5rH5uP4IYwZyBGan), [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Weatherman](https://open.spotify.com/album/00nclop2url6nQAx3OgJ6J) | 3:24 | 2023-02-07 | 2024-12-07 |
+| [What Comes After](https://open.spotify.com/track/6KWu81kaN90xUHq4KuElpg) | [Tejas](https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl), [Neil Mukherjee](https://open.spotify.com/artist/3cR7HOfNj7hxOHFGPV6fUZ) | [What Comes After](https://open.spotify.com/album/2WCYkOcuI8Zm90iU3jfHEC) | 5:05 | 2025-09-19 |  |
 | [When We Feel Young](https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0) | 4:26 | 2023-12-15 | 2024-04-19 |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-03-25 | 2024-05-11 |
 | [Wildflower](https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv) | [Shrinidhi Ghatate](https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW) | [Wildflower](https://open.spotify.com/album/6lYabKmdLSpFPbh29M6cI7) | 3:53 | 2022-12-20 | 2023-05-07 |

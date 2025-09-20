@@ -1,12 +1,12 @@
 {
   "description": "This is AJULIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 9742,
+  "num_followers": 9757,
   "original_name": "This Is AJULIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMn6AAAAAAAOwhX5ppViI+CybYdlxsG2",
+  "snapshot_id": "aMtLgAAAAABAc9lcfbGfG+NbP5JSaPm+",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 53375,
+      "name": "Interl\u00fadio [MINI SAIA]",
+      "url": "https://open.spotify.com/track/4S3S7z29zHwoNz5nZ17xbx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
@@ -131,30 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Dj KLJay",
-          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Dharma",
-      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Voc\u00ea Parece Com Vergonha",
         "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
       },
@@ -167,6 +163,26 @@
       "duration_ms": 183000,
       "name": "Voc\u00ea Parece Com Vergonha",
       "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Quero saber",
+      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
     },
     {
       "added_at": null,
@@ -215,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Quero saber",
-      "url": "https://open.spotify.com/track/5MKeuNq3s0BAc5XCSGp1Sa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -255,6 +251,30 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
     },
     {
       "added_at": null,
@@ -327,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Maffalda",
-          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
-        }
-      ],
-      "duration_ms": 53375,
-      "name": "Interl\u00fadio [MINI SAIA]",
-      "url": "https://open.spotify.com/track/4S3S7z29zHwoNz5nZ17xbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piranha",
         "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
       },
@@ -367,6 +367,26 @@
       "duration_ms": 176098,
       "name": "Piranha",
       "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 130988,
+      "name": "Toc Toc Toc",
+      "url": "https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO"
     },
     {
       "added_at": null,
@@ -411,26 +431,6 @@
       "duration_ms": 111157,
       "name": "SALA VERMELHA #03 - Ajuliacosta",
       "url": "https://open.spotify.com/track/1mfJYqL2GDvyVJ525Hj5OW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 130988,
-      "name": "Toc Toc Toc",
-      "url": "https://open.spotify.com/track/2Oq3YDQMK6oFqOuuIzeeXO"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 132624,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/4u3ZKIMsLAiikFqxOsnXSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Tipo de Garota",
         "url": "https://open.spotify.com/album/7mnSOMErfK00QXnUnxxo6y"
       },
@@ -547,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 132624,
-      "name": "Liberdade",
-      "url": "https://open.spotify.com/track/4u3ZKIMsLAiikFqxOsnXSp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brutas Amam, Choram e Sentem Raiva",
         "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
       },
@@ -583,6 +583,34 @@
       "duration_ms": 262400,
       "name": "T\u00e3o Gostoso",
       "url": "https://open.spotify.com/track/0bgy7v2lKWmvaegE7JKF7m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 156374,
+      "name": "Sob a luz do seu olhar",
+      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
     },
     {
       "added_at": null,
@@ -635,34 +663,6 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novo Testamento",
-        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        }
-      ],
-      "duration_ms": 156374,
-      "name": "Sob a luz do seu olhar",
-      "url": "https://open.spotify.com/track/68SClB1WYtJnapn6I7Spmk"
     },
     {
       "added_at": null,
@@ -871,6 +871,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 120944,
+      "name": "7 Ruas",
+      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -887,26 +903,6 @@
       "duration_ms": 165454,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Aju",
-      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
     },
     {
       "added_at": null,
@@ -947,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AJU",
+        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Aju",
+      "url": "https://open.spotify.com/track/3AnlYFI3TFrz7p0Q6zo376"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/3NSdLNoPmrSGXbHTiFdXiX"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 246965,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/4MmhgIjjLSo3BdLL9ZIucd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AJU",
-        "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
-      },
-      "artists": [
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 120944,
-      "name": "7 Ruas",
-      "url": "https://open.spotify.com/track/3rOXjEay5jV6cFDkQvuGqE"
     }
   ],
   "unique_name": "This Is AJULIACOSTA",

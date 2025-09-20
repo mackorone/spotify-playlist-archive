@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: mustbejohn
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,927 likes - 253 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,930 likes - 253 songs - 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |
 | 2 | [To The Sandals](https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [To The Sandals](https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw) | 4:08 |
 | 3 | [Steppers](https://open.spotify.com/track/1wgp8ywKsyg2p1axFfnN7X) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Steppers / Closer](https://open.spotify.com/album/3iysmFz1R1MIC1OnNVLS6s) | 3:04 |
 | 4 | [Members Only](https://open.spotify.com/track/0gxkhOg66cr6ZckoVwOoa8) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Members Only](https://open.spotify.com/album/531QyECwY7CCKY4aPnxz4Z) | 2:35 |

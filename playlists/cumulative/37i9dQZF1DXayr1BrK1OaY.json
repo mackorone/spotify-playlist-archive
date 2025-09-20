@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Blink",
+        "url": "https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY"
+      },
+      "artists": [
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314462,
+      "name": "Blink",
+      "url": "https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV"
+    },
+    {
+      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
       },
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 182255,
       "name": "Cool",
       "url": "https://open.spotify.com/track/0OTCBDrMgtftlMLdHwwg0m"
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 211409,
       "name": "Feel It For You",
       "url": "https://open.spotify.com/track/76vnxLIS70EvlISthDydnE"
@@ -3682,6 +3700,28 @@
       "duration_ms": 176746,
       "name": "Happy",
       "url": "https://open.spotify.com/track/0kfDEJky3CCHp5uARqVl96"
+    },
+    {
+      "album": {
+        "name": "Hard2Sleep",
+        "url": "https://open.spotify.com/album/5W43PNvqQsY8aykMg0AOLv"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190910,
+      "name": "Hard2Sleep",
+      "url": "https://open.spotify.com/track/5FwoblKmorXIz0hFuaqOqL"
     },
     {
       "album": {
@@ -4500,6 +4540,24 @@
       "duration_ms": 249012,
       "name": "I Can Make It",
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
+    },
+    {
+      "album": {
+        "name": "I Can See You Everywhere",
+        "url": "https://open.spotify.com/album/4kIzChFsBsfhXQSAE2EnHE"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "I Can See You Everywhere",
+      "url": "https://open.spotify.com/track/6QAPEfO3Nno6X4jbXOMaKE"
     },
     {
       "album": {
@@ -5564,7 +5622,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 195555,
       "name": "Left My Heart",
       "url": "https://open.spotify.com/track/1nQuMtamfqjRDRqmjtlLh9"
@@ -6826,7 +6884,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 186263,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
@@ -6928,7 +6986,7 @@
       ],
       "date_added": "2025-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 238048,
       "name": "Never Feel Alone Again",
       "url": "https://open.spotify.com/track/1mlunZbKwoc5jyKUNggO46"
@@ -7158,6 +7216,24 @@
       "duration_ms": 193000,
       "name": "no turning back",
       "url": "https://open.spotify.com/track/2ZaSeV3Y6PTlPW6n7mOUXP"
+    },
+    {
+      "album": {
+        "name": "NO WORDS / PROMISES",
+        "url": "https://open.spotify.com/album/63DAeksUgkiiPTEqKbCz5c"
+      },
+      "artists": [
+        {
+          "name": "glittr",
+          "url": "https://open.spotify.com/artist/2a5e4bQS4bNov080O3zTFJ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "NO WORDS",
+      "url": "https://open.spotify.com/track/67VS35UEuuJKF24PTPd3OF"
     },
     {
       "album": {
@@ -7790,7 +7866,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 199071,
       "name": "Pain Away - Atura Remix",
       "url": "https://open.spotify.com/track/3hKpyQXNklbdtUq1mVJtkL"
@@ -8370,6 +8446,28 @@
       "duration_ms": 205312,
       "name": "Ruthless",
       "url": "https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M"
+    },
+    {
+      "album": {
+        "name": "s.o.s",
+        "url": "https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129320,
+      "name": "s.o.s",
+      "url": "https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z"
     },
     {
       "album": {
@@ -10358,6 +10456,28 @@
       "duration_ms": 165135,
       "name": "This Ain't Real",
       "url": "https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh"
+    },
+    {
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/1Uwaxg2tnNMQkP4gvE7HcI"
+      },
+      "artists": [
+        {
+          "name": "Klur",
+          "url": "https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227179,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/2OanCtn4n2jC2SgHMMjn65"
     },
     {
       "album": {

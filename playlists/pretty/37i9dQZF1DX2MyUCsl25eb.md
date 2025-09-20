@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,263 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,265 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Art Museum \(2am\)](https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Art Museum \(2am\)](https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0) | 2:10 |
-| 2 | [Nothing Ever Changes](https://open.spotify.com/track/2I4nP51WoUZ7lnsggMKK5i) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Nothing Ever Changes](https://open.spotify.com/album/4GFqvXV50eB7JrB7bFJQir) | 2:44 |
-| 3 | [Love In Reverse](https://open.spotify.com/track/0UFRS2HsHHTzzyu0gFp7hB) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Love In Reverse](https://open.spotify.com/album/6iF9R5VvH6RHDLrFDU1Ll4) | 3:19 |
-| 4 | [i don’t know you](https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Garden State](https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3) | 3:23 |
-| 5 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
-| 6 | [Sweet Talk](https://open.spotify.com/track/7kbQOGIwFOpLGD08lK8DQ0) | [Archie Madekwe](https://open.spotify.com/artist/0ocHYFujtXLkWmCift0Z7Y), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:18 |
-| 7 | [Away We Go](https://open.spotify.com/track/3VhDpmwuYGrfvB9qagSHH0) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Away We Go](https://open.spotify.com/album/6gbrYJI3NWW1qbPty0nA00) | 3:15 |
-| 8 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 |
-| 9 | [I Got a Feeling](https://open.spotify.com/track/361XkCyE6JIwjPsGYiy3yc) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [I Got a Feeling](https://open.spotify.com/album/0ftERai3KKuXqNTH5ikOfV) | 3:13 |
-| 10 | [Better Broken](https://open.spotify.com/track/41WXld8gYKFvVJXkQwrrsA) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Better Broken](https://open.spotify.com/album/0xHHMmkbKy2zbOD8TW9xur) | 4:00 |
-| 11 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 |
+| 1 | [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 |
+| 2 | [Art Museum \(2am\)](https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Art Museum \(2am\)](https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0) | 2:10 |
+| 3 | [Nothing Ever Changes](https://open.spotify.com/track/2I4nP51WoUZ7lnsggMKK5i) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Nothing Ever Changes](https://open.spotify.com/album/4GFqvXV50eB7JrB7bFJQir) | 2:44 |
+| 4 | [Love In Reverse](https://open.spotify.com/track/0UFRS2HsHHTzzyu0gFp7hB) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Love In Reverse](https://open.spotify.com/album/6iF9R5VvH6RHDLrFDU1Ll4) | 3:19 |
+| 5 | [i don’t know you](https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Garden State](https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3) | 3:23 |
+| 6 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
+| 7 | [Sweet Talk](https://open.spotify.com/track/7kbQOGIwFOpLGD08lK8DQ0) | [Archie Madekwe](https://open.spotify.com/artist/0ocHYFujtXLkWmCift0Z7Y), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:18 |
+| 8 | [Away We Go](https://open.spotify.com/track/3VhDpmwuYGrfvB9qagSHH0) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Away We Go](https://open.spotify.com/album/6gbrYJI3NWW1qbPty0nA00) | 3:15 |
+| 9 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 |
+| 10 | [I Got a Feeling](https://open.spotify.com/track/361XkCyE6JIwjPsGYiy3yc) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [I Got a Feeling](https://open.spotify.com/album/0ftERai3KKuXqNTH5ikOfV) | 3:13 |
+| 11 | [Better Broken](https://open.spotify.com/track/41WXld8gYKFvVJXkQwrrsA) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Better Broken](https://open.spotify.com/album/0xHHMmkbKy2zbOD8TW9xur) | 4:00 |
 | 12 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 |
 | 13 | [Looking Up](https://open.spotify.com/track/2L255DSg5DJbmHlFrxp2Nq) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [THE ART OF BEING A MESS](https://open.spotify.com/album/0t6PMy3FcoonbnnSkxTRyf) | 2:25 |
 | 14 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 |
 | 100 | [Don't Make Sense](https://open.spotify.com/track/1PJiZjIcN08pjgJgKDHqUZ) | [Shannon Lauren Callihan](https://open.spotify.com/artist/4bbW7o78JYMG9yuIZgPXD2) | [Don't Make Sense](https://open.spotify.com/album/3pXvt9PNq59Rl7ZhHrLxOC) | 4:20 |
 
-Snapshot ID: `AAAAAN9BKXe0T3j+Z/zU5KBV0nRVBGwl`
+Snapshot ID: `AAAAAASKBzF9IO8IUUerh+9N0peYNXJ4`

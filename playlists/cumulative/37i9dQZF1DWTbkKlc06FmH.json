@@ -3337,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "CURIOUS (feat. Toro y Moi)",
+        "url": "https://open.spotify.com/album/7uwhe6VCJXSpA5kEYK2BL2"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        },
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230538,
+      "name": "CURIOUS (feat. Toro y Moi)",
+      "url": "https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB"
+    },
+    {
+      "album": {
         "name": "CYM",
         "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
       },
@@ -19104,7 +19126,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 160824,
       "name": "weeknight",
       "url": "https://open.spotify.com/track/2edBRVf8A6IcOLdO6P7HuE"

@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-787 songs - 1 day 20 hr 40 min
+788 songs - 1 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Big Win](https://open.spotify.com/track/2jR7NL3VzaKWtmUi10SSTQ) | [Spare Parts For Broken Hearts](https://open.spotify.com/artist/2Ztv3nUtX0tMKHlOpLeGf5) | [Big Win](https://open.spotify.com/album/6X8C9Vs8SzBkbzwuzFsAUH) | 3:25 | 2021-03-09 | 2022-01-17 |
 | [Bigger](https://open.spotify.com/track/1ZGEmcNu3OSEAEl1AKLn47) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Bigger](https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl) | 3:18 | 2023-09-15 | 2023-12-16 |
 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 | 2022-09-29 | 2025-03-28 |
-| [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-21 |  |
+| [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 | 2025-02-21 | 2025-09-20 |
 | [Biohazard](https://open.spotify.com/track/1UwdthvN2C6eCA4KXwgWza) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Biohazard](https://open.spotify.com/album/0p6NMSzwhksi96b6hriPKW) | 2:25 | 2021-03-09 | 2022-01-17 |
 | [Birthday](https://open.spotify.com/track/2AKdrnTd4ghOtZqBL0ftr6) | [Nectar](https://open.spotify.com/artist/0KrkFYlEHw4rOmAXtK9L7g) | [Knocking at the Door](https://open.spotify.com/album/4cTkQGmo5za5yeoCL9HrHj) | 4:02 | 2021-03-09 | 2022-01-17 |
 | [Bite Me](https://open.spotify.com/track/6VVpVTRXPfzLCGBFDXIHTh) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Bite Me](https://open.spotify.com/album/3D3nleZaK7ABBT7iI0G1Dt) | 2:17 | 2022-08-18 | 2022-09-30 |
@@ -760,6 +760,7 @@
 | [What Do You Mean?](https://open.spotify.com/track/4U8pHHV7Mhq6qOEb3dsyZN) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [What Do You Mean?](https://open.spotify.com/album/3ly2DjbPZP1C2PScvRaL8Y) | 3:43 | 2022-08-18 | 2022-10-07 |
 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-03-03 | 2023-05-24 |
 | [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 | 2023-05-25 | 2023-07-01 |
+| [What You Need](https://open.spotify.com/track/2UvWkmIR6mUaOx7gkWWuCT) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Soft Glas](https://open.spotify.com/artist/64YO6kjOrspjCGA2GQwsT0) | [What You Need](https://open.spotify.com/album/5JbGpDzw1QQpWEWfJIh8ux) | 3:50 | 2025-09-12 |  |
 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-23 | 2025-06-07 |
 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 | 2023-07-13 | 2023-09-22 |
 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 | 2023-02-10 | 2023-07-22 |

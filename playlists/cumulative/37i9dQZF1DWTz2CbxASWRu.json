@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta. Manu Chao y Santa Fe Klan en portada.",
+  "description": "Nomadismo sonoro para quienes aman la m\u00fasica de todos los rincones del planeta. Mon Laferte, NATHY PELUSO en portada.",
   "name": "Trotamundos",
   "tracks": [
     {
@@ -4649,6 +4649,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Good Night",
+        "url": "https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261139,
+      "name": "Good Luck, Good Night",
+      "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/01km9IMS6czI8LoJzq6Bsi"
       },
@@ -4772,6 +4790,28 @@
       "duration_ms": 347846,
       "name": "Guajira Ven - Demo",
       "url": "https://open.spotify.com/track/0ppBPHy4XtdPNaSL7N3TD9"
+    },
+    {
+      "album": {
+        "name": "Eternamente Omara",
+        "url": "https://open.spotify.com/album/7KuOwzB6ZJ7fJmYvfxxeVm"
+      },
+      "artists": [
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277527,
+      "name": "Guantanamera (feat. Angelique Kidjo)",
+      "url": "https://open.spotify.com/track/7K4u5bxc2SVotPItpmVAe4"
     },
     {
       "album": {
@@ -6254,6 +6294,28 @@
       "duration_ms": 569366,
       "name": "La Pi\u00f1a Madura",
       "url": "https://open.spotify.com/track/4E19z5U058DMxnmn8GMv1H"
+    },
+    {
+      "album": {
+        "name": "La Tirana",
+        "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244059,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
     },
     {
       "album": {

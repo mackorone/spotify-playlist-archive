@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-619 songs - 1 day 18 hr 50 min
+620 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [On My Way](https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [REDUX 006](https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE) | 4:15 | 2023-10-27 | 2024-10-28 |
 | [One Blood](https://open.spotify.com/track/6GsiVoZNXLGo4WecVIak0r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Junior Reid](https://open.spotify.com/artist/0qPUDOVD0aYR2lmCilnscs) | [One Blood](https://open.spotify.com/album/4X7gDueyLrvzMZcrdOvmdH) | 4:21 | 2021-08-20 | 2022-07-29 |
 | [One More Thing](https://open.spotify.com/track/0Mk1NKKRRpR4ZWRHJOmKu3) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Sara Davis](https://open.spotify.com/artist/2XYDrXOdwhRiGSgo8NWKFW) | [One More Thing](https://open.spotify.com/album/1GWjugkKrXYklmMaDpoWD7) | 3:30 | 2025-03-28 |  |
-| [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 | 2024-05-24 |  |
+| [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 | 2024-05-24 | 2025-09-20 |
 | [Only For The Night](https://open.spotify.com/track/1UaBt4vluuMX0prcp6et4E) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Higher Lane](https://open.spotify.com/artist/1FlwGYjqpPXt0kzomFYgmX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Only For The Night](https://open.spotify.com/album/1Tb49CVypOagsQZqGsQHxz) | 3:04 | 2023-01-20 | 2023-02-18 |
 | [Only I](https://open.spotify.com/track/0vdrnfVsWCOtxOTO8z0vaV) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Only I](https://open.spotify.com/album/6GfqIy3LzvsBQ5fkrGAp5d) | 3:48 | 2024-11-01 | 2025-09-05 |
 | [Only Love \(LP Giobbi Remix\)](https://open.spotify.com/track/2cXbrpn30LnJyjO0BaO6rs) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Only Love \(LP Giobbi Remix\)](https://open.spotify.com/album/45T3b0b3GdAGrg0AKVCUFB) | 5:51 | 2021-11-05 | 2022-07-29 |
@@ -420,6 +420,7 @@
 | [Quezacotl](https://open.spotify.com/track/24jPquymYcAxmOUXwjJwLk) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Quezacotl](https://open.spotify.com/album/1wU8NaPgbgLvsK8tUA2t2z) | 7:15 | 2024-07-05 | 2025-09-13 |
 | [Radiant](https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Radiant](https://open.spotify.com/album/3t5CejWFtZFsh5P6TfnM41) | 3:05 | 2021-11-05 | 2022-07-23 |
 | [Radiation](https://open.spotify.com/track/5NhqdTRCcqww2HaRv9nXiF) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Metaphysical](https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM) | 3:30 | 2022-10-28 | 2023-07-06 |
+| [Rain](https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Rain](https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ) | 3:18 | 2025-09-19 |  |
 | [Rapture](https://open.spotify.com/track/77Slqc0b3W46tzOp6J8ar8) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [Rapture \(with Robert Falcon\)](https://open.spotify.com/album/6e6tyNGXXbD7YVCHruq2qB) | 3:07 | 2023-12-08 | 2025-08-10 |
 | [Rave](https://open.spotify.com/track/57KkNRa2cLuqdSVhAcEyi4) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Rave](https://open.spotify.com/album/3mmQk6NOkaA1dd17JI1BRG) | 4:48 | 2023-07-28 | 2024-07-20 |
 | [Ray](https://open.spotify.com/track/3425OMM9bb64VMNXXldLvU) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [This Time / Ray](https://open.spotify.com/album/44uAC9UVMSekbXyBJV8nMO) | 6:54 | 2022-07-01 | 2023-02-18 |

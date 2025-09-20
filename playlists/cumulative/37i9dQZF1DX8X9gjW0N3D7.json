@@ -1117,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Seul au cin\u00e9ma",
+        "url": "https://open.spotify.com/album/4dzhB8gNl7a3fM1zk9t496"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211026,
+      "name": "F\u00e9vrier et le mauve",
+      "url": "https://open.spotify.com/track/1TVVBch4JforWHFUTYmX6N"
+    },
+    {
+      "album": {
         "name": "GAGNER MA CAUSE",
         "url": "https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj"
       },
@@ -1598,6 +1616,28 @@
       "duration_ms": 190942,
       "name": "Jouer pour jouer",
       "url": "https://open.spotify.com/track/1P1W8f5D0BXyw4GzwkfSCY"
+    },
+    {
+      "album": {
+        "name": "J'aime \u00e7a quand t'es l\u00e0",
+        "url": "https://open.spotify.com/album/1mOornzvaAXe4EhoJ2rNik"
+      },
+      "artists": [
+        {
+          "name": "Marc D\u00e9ry",
+          "url": "https://open.spotify.com/artist/0IX0nppAnGjDz53emI5YAW"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296503,
+      "name": "Kekpart",
+      "url": "https://open.spotify.com/track/3U3tTkZYuqAO6yDSAzKcEu"
     },
     {
       "album": {
@@ -2641,8 +2681,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Pour que tu m\u2019aimes",
+        "url": "https://open.spotify.com/album/5kr4A20V2uSv44u0mN9kqm"
       },
       "artists": [
         {
@@ -3448,46 +3488,6 @@
       "duration_ms": 233920,
       "name": "Toutes tes idoles",
       "url": "https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Bobby Bazini",
-          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
-        }
-      ],
-      "date_added": "2025-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1TVVBch4JforWHFUTYmX6N"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Marc D\u00e9ry",
-          "url": "https://open.spotify.com/artist/0IX0nppAnGjDz53emI5YAW"
-        },
-        {
-          "name": "Imposs",
-          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
-        }
-      ],
-      "date_added": "2025-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3U3tTkZYuqAO6yDSAzKcEu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,696 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,710 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 15 | [Feunen](https://open.spotify.com/track/2kJI2Vf1LEGNy4r6ZQFyvG) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 1:55 |
 | 16 | [W.I.N.N.E.](https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 3:42 |
 | 17 | [HoedenPlank](https://open.spotify.com/track/4ISig8xvPT0SPkeGt3w4GN) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
-| 18 | [Als Zij Langsloopt](https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:39 |
-| 19 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
+| 18 | [Tante Lien](https://open.spotify.com/track/6lj0yxC8lnP3nHpits0vBa) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 5:25 |
+| 19 | [Als Zij Langsloopt](https://open.spotify.com/track/4SoDQVbhz2VRRNfgGm3HbR) | [Flinke Namen](https://open.spotify.com/artist/1pl6zHy7TssEvPr4d6hMgK) | [Superstuntwerk](https://open.spotify.com/album/0wSDzGeN8VmYNV4zqpVBjE) | 3:39 |
 | 20 | [Alleen](https://open.spotify.com/track/1RClBEEVn5SqHFM8gsyoXL) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Fresku](https://open.spotify.com/album/0VPK9rRn6KeNwwFpKY6cnW) | 3:49 |
 | 21 | [Aye](https://open.spotify.com/track/74LD0K8IpSkD1BktHfGHpj) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 2:58 |
 | 22 | [Regendans](https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 53 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
 | 54 | [Time Flies](https://open.spotify.com/track/5qJJKhaHibXUk4XsdyPHuL) | [Pete Philly & Perquisite](https://open.spotify.com/artist/4XOAS1Q62GWP67HMX7ASk3), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Perquisite](https://open.spotify.com/artist/1jYPZvaIkl6LoRFFcXeJa2) | [Mystery Repeats](https://open.spotify.com/album/0cYv2ncIFqmNYjOIeWGn3M) | 4:20 |
 | 55 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
-| 56 | [Ze Zeggen](https://open.spotify.com/track/473KmP1rRwpPL5Jaq8Jaix) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [In Kleur](https://open.spotify.com/album/4ihEfLKv4RGrqb3xBhclSQ) | 3:17 |
-| 57 | [Zwarte Koffie](https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 3:52 |
+| 56 | [Zwarte Koffie](https://open.spotify.com/track/0AUUsTWuBrQB0IEd5K63Sh) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 3:52 |
+| 57 | [Ze Zeggen](https://open.spotify.com/track/473KmP1rRwpPL5Jaq8Jaix) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [In Kleur](https://open.spotify.com/album/4ihEfLKv4RGrqb3xBhclSQ) | 3:17 |
 | 58 | [De Flexte](https://open.spotify.com/track/5S4pjllkGkBKuZ9ElJcgXL) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 4:02 |
 | 59 | [Utopia](https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS) | [Sticks & Delic](https://open.spotify.com/artist/6RQVbkxQcRhkvDEtOUc3Pn), [James](https://open.spotify.com/artist/1AJcyFwtpIj2RqsqYVqKKG), [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Fakkelteit](https://open.spotify.com/album/5YGJo9Oc4OuSYdKEtUJ2fJ) | 4:10 |
 | 60 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |

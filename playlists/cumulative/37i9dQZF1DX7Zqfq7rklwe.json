@@ -2021,8 +2021,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Die About It (Deluxe)",
+        "url": "https://open.spotify.com/album/3SxBRT1zXLbxbZQXz0Y15G"
       },
       "artists": [
         {
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 205254,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/6v14YPTFeAeeg1oGXtnKpu"
@@ -3202,6 +3202,24 @@
       "duration_ms": 255818,
       "name": "My Only Angel",
       "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "album": {
+        "name": "Neon Eyes",
+        "url": "https://open.spotify.com/album/60cV6stcgNnSM9Q0EdyDTI"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236278,
+      "name": "Neon Eyes",
+      "url": "https://open.spotify.com/track/4b75L4tjIUROKoUJRiN06L"
     },
     {
       "album": {

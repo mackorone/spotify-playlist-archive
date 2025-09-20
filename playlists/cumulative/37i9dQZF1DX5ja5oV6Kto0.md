@@ -2,7 +2,7 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zhus Jdo
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zhus Jdo & Solis4eva
 
 940 songs - 1 day 21 hr 43 min
 

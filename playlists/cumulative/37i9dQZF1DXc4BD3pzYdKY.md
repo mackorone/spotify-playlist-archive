@@ -2,7 +2,7 @@
 
 ### [The Flow](https://open.spotify.com/playlist/37i9dQZF1DXc4BD3pzYdKY)
 
-> The best of Christian Hip Hop today\.  Cover:  Lecrae
+> The best of Christian Hip Hop today\.  Cover:  Derek Minor & Canon
 
 1,276 songs - 2 day 13 hr 59 min
 

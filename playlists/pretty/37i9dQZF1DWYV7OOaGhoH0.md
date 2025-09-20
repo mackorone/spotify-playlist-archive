@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Hazlett
+> The best in folk & acoustic today featuring music from The Favors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,234 likes - 110 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,230 likes - 110 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 109 | [Room On Your Shoulder](https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Room On Your Shoulder](https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va) | 3:26 |
 | 110 | [Same Old Song](https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Same Old Song](https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN) | 2:54 |
 
-Snapshot ID: `AAAAAH+mqTa9DRWOHiQ8UDKpwljGye9F`
+Snapshot ID: `AAAAAF/m4vLkVIbFXSBHzekWt74bWFkG`

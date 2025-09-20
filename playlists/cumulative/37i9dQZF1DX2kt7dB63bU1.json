@@ -14213,6 +14213,32 @@
     },
     {
       "album": {
+        "name": "Oh Snap",
+        "url": "https://open.spotify.com/album/7uiAPDnBrbgujLp0p9E32Z"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        },
+        {
+          "name": "June McDoom",
+          "url": "https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV"
+        },
+        {
+          "name": "Kate Davis",
+          "url": "https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214925,
+      "name": "Take this stone (feat. June McDoom & Kate Davis)",
+      "url": "https://open.spotify.com/track/5njraCJH3kezunxuBGpKf1"
+    },
+    {
+      "album": {
         "name": "Time Wouldn't Wait",
         "url": "https://open.spotify.com/album/3A1SnoMa5acAHgPxGDF6C0"
       },
@@ -16416,7 +16442,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 257028,
       "name": "Vida",
       "url": "https://open.spotify.com/track/0co0ZOkzlwV2xeIHqC2olu"
@@ -16944,7 +16970,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-20",
       "duration_ms": 279596,
       "name": "What does blue mean to you?",
       "url": "https://open.spotify.com/track/0LACLZOv7ZALxvWsfIX0Pr"
@@ -16970,6 +16996,28 @@
       "duration_ms": 282441,
       "name": "What Gives You The Right",
       "url": "https://open.spotify.com/track/7weVhPDPHC8H1nOQJMalw9"
+    },
+    {
+      "album": {
+        "name": "What Is This Thing Called Love?",
+        "url": "https://open.spotify.com/album/0SGVUNn1QovEcOA4UM8Im0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Kenny Banks Jr.",
+          "url": "https://open.spotify.com/artist/6rSheR9c3wYRRsfhYKBUmg"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259271,
+      "name": "What Is This Thing Called Love?",
+      "url": "https://open.spotify.com/track/0yrcMGiv3VbMXqykxMjkbg"
     },
     {
       "album": {

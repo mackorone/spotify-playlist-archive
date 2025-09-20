@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,791 likes - 303 songs - 15 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,789 likes - 303 songs - 15 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 68 | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [DOORS UNLOCKED \(feat\. Ty Dolla $ign & Polo G\)](https://open.spotify.com/album/1l8cso9L0nNR3GuiB5mKve) | 2:51 |
 | 69 | [Clicc Clacc](https://open.spotify.com/track/2odeWIBW5susyP8MOg10rm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood](https://open.spotify.com/album/6li8kT6o9RM59IxRyZZJYh) | 1:53 |
 | 70 | [Make It Out](https://open.spotify.com/track/6h4JuOPlHFYpHPIEmBwbus) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:06 |
-| 71 | [Beast](https://open.spotify.com/track/5kuxtUHQr23zov47Wn35Of) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:20 |
-| 72 | [NORTHSIDE](https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 3:29 |
+| 71 | [NORTHSIDE](https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Ama, who?](https://open.spotify.com/album/7BWDLFcIlUrgZdtjwLEJxw) | 3:29 |
+| 72 | [Beast](https://open.spotify.com/track/5kuxtUHQr23zov47Wn35Of) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 4:20 |
 | 73 | [VACATION](https://open.spotify.com/track/6q2uIyLqASSpv2SIv2ehWK) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [VACATION](https://open.spotify.com/album/42XA3CG4dOtlaVKq5ZRNRh) | 3:12 |
 | 74 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 |
 | 75 | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Banana Split \(with YNW Melly feat\. Lil Durk\)](https://open.spotify.com/album/3QWBKAttGO0ONYIcsDHBW4) | 3:12 |
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 302 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
 | 303 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
 
-Snapshot ID: `Ab8lkgAAAAC/BEuYC8KVh0MiBkhy7h4P`
+Snapshot ID: `Ab8rKAAAAAD4prhFUvVZ15Hi+zzDQ6VR`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: LUSILLON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,804 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,805 likes - 45 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 |
 | 2 | [SÉPTIMO SENTIDO](https://open.spotify.com/track/2C0pKSrGBCP4CZHzzAYDIk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [SÉPTIMO SENTIDO](https://open.spotify.com/album/1DWJoDN8uLJ2wkKAKn99EC) | 2:37 |
 | 3 | [Bikini Rojo](https://open.spotify.com/track/740I972rjadktN3ciBogDg) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Bikini Rojo](https://open.spotify.com/album/1PdSnxa330Xpub81WdQrXi) | 2:18 |
 | 4 | [Monster Truck](https://open.spotify.com/track/7nFx5bPzPKrZAves575jcP) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Monster Truck](https://open.spotify.com/album/4j3HF2JuYjn2YclTjm6662) | 3:01 |
