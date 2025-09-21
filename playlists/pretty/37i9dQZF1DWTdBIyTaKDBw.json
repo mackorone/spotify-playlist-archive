@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the lo-fi beat with oriental colors.",
-  "num_followers": 19099,
+  "num_followers": 19150,
   "original_name": "oriental lofi",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
+        "name": "Chillhop Essentials Spring 2017",
+        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
+      },
+      "artists": [
+        {
+          "name": "Gyvus",
+          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
+        }
+      ],
+      "duration_ms": 152812,
+      "name": "Koi",
+      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
+    },
+    {
+      "added_at": "2025-09-09 07:25:36",
+      "album": {
         "name": "Simple Things",
         "url": "https://open.spotify.com/album/0Lx7VVGGBhXVI0TJ3yCLyz"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 264000,
       "name": "Shanghai Nights",
       "url": "https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75"
-    },
-    {
-      "added_at": "2025-09-09 07:25:36",
-      "album": {
-        "name": "Chillhop Essentials Spring 2017",
-        "url": "https://open.spotify.com/album/0Mr3TYA4sKQVPUeQp16Q7i"
-      },
-      "artists": [
-        {
-          "name": "Gyvus",
-          "url": "https://open.spotify.com/artist/6qNRi3Mn9apPNnMSt6Qbvn"
-        }
-      ],
-      "duration_ms": 152812,
-      "name": "Koi",
-      "url": "https://open.spotify.com/track/5zaVUfHKidYZ8xIsDOnWl6"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
-      },
-      "artists": [
-        {
-          "name": "Nomak",
-          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
-    },
-    {
-      "added_at": "2025-09-09 07:25:36",
-      "album": {
         "name": "Kick This",
         "url": "https://open.spotify.com/album/6Q8yHue48rOr9fPo6kRYho"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 262000,
       "name": "Sunflower Samurai",
       "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp"
+    },
+    {
+      "added_at": "2025-09-09 07:25:36",
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2udB97O2aRJDluomPS7v9m"
+      },
+      "artists": [
+        {
+          "name": "Nomak",
+          "url": "https://open.spotify.com/artist/6XrpG3fOQBXzVBYjQUrsGv"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4xVy2Ej4pV95vyMauBwToI"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Autumn in Osaka",
-        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
-      },
-      "artists": [
-        {
-          "name": "Vens Adams",
-          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Autumn in Osaka",
-      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
-    },
-    {
-      "added_at": "2025-09-09 07:25:36",
-      "album": {
         "name": "Ancient Bond",
         "url": "https://open.spotify.com/album/2VmqsNof7gbRec5Gd3xAX5"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Around the World",
-        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
+        "name": "Autumn in Osaka",
+        "url": "https://open.spotify.com/album/3HaMbxX4Ywec6NLXexpMuw"
       },
       "artists": [
         {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+          "name": "Vens Adams",
+          "url": "https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ"
         }
       ],
-      "duration_ms": 219112,
-      "name": "Yu Garden",
-      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
+      "duration_ms": 160800,
+      "name": "Autumn in Osaka",
+      "url": "https://open.spotify.com/track/1XsgXYvkeYaKquLQY9m8dO"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Answer Love",
-        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
+        "name": "Around the World",
+        "url": "https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy"
       },
       "artists": [
         {
-          "name": "Lilac",
-          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
         }
       ],
-      "duration_ms": 139095,
-      "name": "Anata",
-      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
+      "duration_ms": 219112,
+      "name": "Yu Garden",
+      "url": "https://open.spotify.com/track/5cdYg4l2l34xNKY5IUDBp4"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1107,22 +1091,18 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Aquilla",
-        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
+        "name": "Answer Love",
+        "url": "https://open.spotify.com/album/4zidnQ8OvxIzMmpcYNDie1"
       },
       "artists": [
         {
-          "name": "Loafy Building",
-          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
-        },
-        {
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+          "name": "Lilac",
+          "url": "https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1"
         }
       ],
-      "duration_ms": 124765,
-      "name": "Zhuki",
-      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
+      "duration_ms": 139095,
+      "name": "Anata",
+      "url": "https://open.spotify.com/track/5iU6aWGsSsc0Ln0Bf7GDyz"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1159,18 +1139,22 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Soothing Breeze",
-        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
+        "name": "Aquilla",
+        "url": "https://open.spotify.com/album/1CscRBQ465UaSIPNjeIOnB"
       },
       "artists": [
         {
-          "name": "Tibeauthetraveler",
-          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+          "name": "Loafy Building",
+          "url": "https://open.spotify.com/artist/656fNsyi29ZFuxOc7cBdIs"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
         }
       ],
-      "duration_ms": 156482,
-      "name": "Cherry Tree",
-      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
+      "duration_ms": 124765,
+      "name": "Zhuki",
+      "url": "https://open.spotify.com/track/55K4HllSdmsXw1L7KmRBWv"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1187,6 +1171,22 @@
       "duration_ms": 156059,
       "name": "The Shining Kingdom",
       "url": "https://open.spotify.com/track/40sf9qGw1EXipis9Ol8X4N"
+    },
+    {
+      "added_at": "2025-09-09 07:25:36",
+      "album": {
+        "name": "Soothing Breeze",
+        "url": "https://open.spotify.com/album/50cgYJnKBSTaxjrLavv1FF"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "duration_ms": 156482,
+      "name": "Cherry Tree",
+      "url": "https://open.spotify.com/track/5owO5cS8Bdkyvcac3Eadt5"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
+      },
+      "artists": [
+        {
+          "name": "Vindu",
+          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Blood Oath",
+      "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
+    },
+    {
+      "added_at": "2025-09-09 07:25:36",
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/6f3P0xSo1l6jqFpA31u05X"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 139200,
       "name": "Nocturne",
       "url": "https://open.spotify.com/track/7aRXwYkC9v7jFLjs72PrDS"
-    },
-    {
-      "added_at": "2025-09-09 07:25:36",
-      "album": {
-        "name": "Blood Oath",
-        "url": "https://open.spotify.com/album/3YslCpD8Zr4PjVeKqh7uA0"
-      },
-      "artists": [
-        {
-          "name": "Vindu",
-          "url": "https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Blood Oath",
-      "url": "https://open.spotify.com/track/2PKptrmMOcBoP6WPWwawvO"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
+        "name": "Journey To Osaka",
+        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
+      },
+      "artists": [
+        {
+          "name": "Aoko",
+          "url": "https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO"
+        }
+      ],
+      "duration_ms": 175799,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
+    },
+    {
+      "added_at": "2025-09-09 07:25:36",
+      "album": {
         "name": "isolation",
         "url": "https://open.spotify.com/album/0LEUp5kpnL7WTCiO2TODFb"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2025-09-09 07:25:36",
       "album": {
-        "name": "Journey To Osaka",
-        "url": "https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm"
+        "name": "cacti",
+        "url": "https://open.spotify.com/album/094jG0cKUrz4jb4NYUnIEy"
       },
       "artists": [
         {
-          "name": "Aoko",
-          "url": "https://open.spotify.com/artist/2AneE7YpS3dgN9XjDgv2pO"
+          "name": "seasalt",
+          "url": "https://open.spotify.com/artist/2r3Q4OY6WzezIAHqtxHsBo"
         }
       ],
-      "duration_ms": 175799,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/06zm8wJOikEhv8O4oLb6RX"
+      "duration_ms": 165003,
+      "name": "flowers at midnight",
+      "url": "https://open.spotify.com/track/4my2pCttiX5EsXxzcr3NPC"
     },
     {
       "added_at": "2025-09-09 07:25:36",
@@ -1595,22 +1611,6 @@
       "duration_ms": 198518,
       "name": "A Hero Is Born",
       "url": "https://open.spotify.com/track/4SJJkTyFoNcXQYfMr9x3or"
-    },
-    {
-      "added_at": "2025-09-09 07:25:36",
-      "album": {
-        "name": "cacti",
-        "url": "https://open.spotify.com/album/094jG0cKUrz4jb4NYUnIEy"
-      },
-      "artists": [
-        {
-          "name": "seasalt",
-          "url": "https://open.spotify.com/artist/2r3Q4OY6WzezIAHqtxHsBo"
-        }
-      ],
-      "duration_ms": 165003,
-      "name": "flowers at midnight",
-      "url": "https://open.spotify.com/track/4my2pCttiX5EsXxzcr3NPC"
     },
     {
       "added_at": "2025-09-09 07:25:36",

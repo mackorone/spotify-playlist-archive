@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Bigbird Kuti & Vector,  Cardi B, King Promise, Shoday  and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,550 likes - 76 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,614 likes - 76 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 37 | [Fanta My Baby](https://open.spotify.com/track/7f21nWcFDOCZePj6S8wcip) | [Fantana](https://open.spotify.com/artist/2y9TO2D5JBOaIT9qL3dtwS), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Fanta My Baby](https://open.spotify.com/album/4VlvdugYHuFC4gEKfo04pd) | 2:41 |
 | 38 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 |
 | 39 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 |
-| 40 | [La Vida Loca](https://open.spotify.com/track/4Hxx6KY9Hrq6q3NFZkR1gV) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [La Vida Loca](https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm) | 4:26 |
+| 40 | [La vida Loca](https://open.spotify.com/track/4Hxx6KY9Hrq6q3NFZkR1gV) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [La vida Loca](https://open.spotify.com/album/5SJvtKjcD4LmZ564pD24Rm) | 4:26 |
 | 41 | [Who Dat](https://open.spotify.com/track/2EDdTOzg7KMiGIB6CpSwSo) | [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj), [Rashelle Blue](https://open.spotify.com/artist/6NJc5LhOE8G79HpBjwu5RX) | [Who Dat](https://open.spotify.com/album/24IvkfqqRkcGC85a0Ywx5m) | 2:05 |
 | 42 | [Make It Clap](https://open.spotify.com/track/6HYltKSEEgV0tUaW94u4dx) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [Tales Of A Dreamer](https://open.spotify.com/album/5mG4hqdhQyGWqSXGYD0yLP) | 2:17 |
 | 43 | [100%](https://open.spotify.com/track/62BMyR9EdEvM66GQDpc9Yl) | [ANNY](https://open.spotify.com/artist/4jFYJxnO6fjK8ZGc6JUyUw), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [100%](https://open.spotify.com/album/6Pb6qV7vSTmjRajjkwNNX6) | 2:38 |

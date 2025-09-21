@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 386838,
+  "num_followers": 386924,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,38 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Be My Glory",
+        "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
+      },
+      "artists": [
+        {
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        }
+      ],
+      "duration_ms": 262213,
+      "name": "Be My Glory",
+      "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Light of Heaven",
         "url": "https://open.spotify.com/album/09kgncLTX6pFf77R1bHOZx"
       },
@@ -811,38 +843,6 @@
       "duration_ms": 254666,
       "name": "If It Wasn\u2019t for the Cross",
       "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Be My Glory",
-        "url": "https://open.spotify.com/album/6avlRanbNswBYSWbB7T4zf"
-      },
-      "artists": [
-        {
-          "name": "Trulah",
-          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
-        }
-      ],
-      "duration_ms": 262213,
-      "name": "Be My Glory",
-      "url": "https://open.spotify.com/track/3pMmt4q1EBrJlHZ874TC4s"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Sweet By and By Goodbye",
-        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Sweet By and By Goodbye",
-      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "SURVEY: Part 1",
-        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 350783,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "SURVEY: Part 1",
+        "url": "https://open.spotify.com/album/4uZlAuQbVCZr4LN8ZOzyg0"
+      },
+      "artists": [
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 350783,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/68JEeLG2HrM2jNakDd6YlK"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Resting Place (To the Cross)",
         "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
       },
@@ -1179,22 +1179,6 @@
       "duration_ms": 243346,
       "name": "Resting Place (To the Cross)",
       "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1219,22 +1203,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
-        "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
       },
       "artists": [
         {
-          "name": "Lucy Grimble",
-          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
-        },
-        {
-          "name": "Bianca Rose",
-          "url": "https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo"
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
         }
       ],
-      "duration_ms": 244213,
-      "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
-      "url": "https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW"
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1255,6 +1235,26 @@
       "duration_ms": 212543,
       "name": "The Invitation",
       "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
+        "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
+      },
+      "artists": [
+        {
+          "name": "Lucy Grimble",
+          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
+        },
+        {
+          "name": "Bianca Rose",
+          "url": "https://open.spotify.com/artist/3L06eylvgeEkGmkNyi4uPo"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
+      "url": "https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+      },
+      "artists": [
+        {
+          "name": "In the Wild",
+          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+        }
+      ],
+      "duration_ms": 284545,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Grace after Grace",
         "url": "https://open.spotify.com/album/14lJlizbzXdtC2nrS0nR5O"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 253058,
       "name": "Grace after Grace",
       "url": "https://open.spotify.com/track/5h3Zp8z3UP5zqsuUIFgHRf"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
-      },
-      "artists": [
-        {
-          "name": "In the Wild",
-          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
-        }
-      ],
-      "duration_ms": 284545,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1955,6 +1955,26 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "Wonderful, Wonderful Lord (Ps 139)",
+        "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
+      },
+      "artists": [
+        {
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Rothbury",
+          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
+        }
+      ],
+      "duration_ms": 274657,
+      "name": "Wonderful, Wonderful Lord (Ps 139)",
+      "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "It Goes Both Ways",
         "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
       },
@@ -1983,26 +2003,6 @@
       "duration_ms": 247336,
       "name": "Holy Here and Now",
       "url": "https://open.spotify.com/track/3K13jFO8mWf23paD3GlQ8U"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "Wonderful, Wonderful Lord (Ps 139)",
-        "url": "https://open.spotify.com/album/7HlFT26e1ltW5gxfGBGwgp"
-      },
-      "artists": [
-        {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Rothbury",
-          "url": "https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye"
-        }
-      ],
-      "duration_ms": 274657,
-      "name": "Wonderful, Wonderful Lord (Ps 139)",
-      "url": "https://open.spotify.com/track/49Hi599ZbDEN4T4KkEqM4E"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Miracle Service",
-        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
-      },
-      "artists": [
-        {
-          "name": "Andy Squyres",
-          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
-        }
-      ],
-      "duration_ms": 261918,
-      "name": "Gutter Punk",
-      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Don't Let Me Stray",
         "url": "https://open.spotify.com/album/1IdIWg8IWI1aHE4f2eWO2z"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 331533,
       "name": "Don't Let Me Stray",
       "url": "https://open.spotify.com/track/1XCpH3pqDi1dsOPPKsXyfS"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Miracle Service",
+        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
+      },
+      "artists": [
+        {
+          "name": "Andy Squyres",
+          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
+        }
+      ],
+      "duration_ms": 261918,
+      "name": "Gutter Punk",
+      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "On Christ (House Church)",
-        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 264289,
-      "name": "On Christ (House Church)",
-      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Christ Be In My Heart",
         "url": "https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 288529,
       "name": "Christ Be In My Heart",
       "url": "https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "On Christ (House Church)",
+        "url": "https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "On Christ (House Church)",
+      "url": "https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9"
     },
     {
       "added_at": "2025-08-06 07:25:48",

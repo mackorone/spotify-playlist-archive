@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Bryant Myres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,496,622 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496,613 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 99 | [Rito](https://open.spotify.com/track/3n7pryFOcA61ZvPegaYidv) | [Anubiis](https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB), [Yama Make Them Bounce](https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu) | [Rito](https://open.spotify.com/album/1g0Qy70daljauJeGJQrTBa) | 2:42 |
 | 100 | [RKO](https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 1:46 |
 
-Snapshot ID: `AAAAAAmZM96ZDQ/M/0m15w31r92+YGm8`
+Snapshot ID: `AAAAAATcDtvuVyk8araJazkFqs576zcN`

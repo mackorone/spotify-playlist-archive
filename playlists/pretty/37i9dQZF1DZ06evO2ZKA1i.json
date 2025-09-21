@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 299127,
+  "num_followers": 299155,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAADRYZqGkqeiYqz8HP0SWC1e",
+  "snapshot_id": "aMydAAAAAAClcJ/I8W7p8V2ePiXh72dc",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slaves and Masters (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "King of Dreams",
-      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Taste The Band: 35th Anniversary Edition",
         "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 324733,
       "name": "You Keep On Moving - 2010 Digital Remaster",
       "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slaves and Masters (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 326013,
+      "name": "King of Dreams",
+      "url": "https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+        "name": "Rapture of the Deep (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 218173,
-      "name": "Gettin' Tighter - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
+      "duration_ms": 273610,
+      "name": "Wrong Man - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/7o5SdJ3mrMC0Vgstv1rHM3"
     },
     {
       "added_at": null,
@@ -647,6 +647,38 @@
       "duration_ms": 261493,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 218173,
+      "name": "Gettin' Tighter - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/2cEx6PZgsWqu3aa0JTvsho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Into the Fire - 1995 Remaster",
+      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
     },
     {
       "added_at": null,
@@ -683,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple in Rock (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Into the Fire - 1995 Remaster",
-      "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapture of the Deep (20th Anniversary Remix)",
         "url": "https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO"
       },
@@ -708,9 +724,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 242977,
-      "name": "Back to Back - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/0nrFV7y5YADxjTgyzvWmkI"
+      "duration_ms": 236682,
+      "name": "Girls Like That - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/5hppjSURxXHlxVYwm6jfDB"
     },
     {
       "added_at": null,
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 236682,
-      "name": "Girls Like That - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/5hppjSURxXHlxVYwm6jfDB"
+      "duration_ms": 242977,
+      "name": "Back to Back - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/0nrFV7y5YADxjTgyzvWmkI"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 282426,
       "name": "All I Got Is You",
       "url": "https://open.spotify.com/track/1fVzpydMREur3ZJYTiDSgq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Book of Taliesyn",
-        "url": "https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Anthem - 2000 Remaster",
-      "url": "https://open.spotify.com/track/5Umq1zAmNYuE2o9oG6R1bR"
     }
   ],
   "unique_name": "This Is Deep Purple",

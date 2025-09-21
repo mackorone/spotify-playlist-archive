@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1alf4P7GDe5aNpALBzWIGf">Zeddy Will</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,779,291 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,779,268 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 40 | [act xi: she ain’t no angel](https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Still Shinin](https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE) | 2:17 |
 | 41 | [out my way](https://open.spotify.com/track/2IpKA7eqYva8autNNVzXGz) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [MARCO PLUS vs\. tha Underworld](https://open.spotify.com/album/6CRsycLmp5msVvtPxPKqHH) | 2:24 |
 | 42 | [3am](https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Rockstar Junkie](https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID) | 2:16 |
-| 43 | [Nite N Day \(feat\. Babyfxce E & 1up Tee\)](https://open.spotify.com/track/4P8t48ZG1miuAzz16QqSf4) | [Luhh Dyl](https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Nite N Day \(feat\. Babyfxce E & 1up Tee\)](https://open.spotify.com/album/2eExyocGA6FWIClE4Xh1tZ) | 3:40 |
+| 43 | [Nite N Day \(feat\. Babyfxce E & 1up Tee\) \[Bonus\]](https://open.spotify.com/track/4P8t48ZG1miuAzz16QqSf4) | [Luhh Dyl](https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Nite N Day \(feat\. Babyfxce E & 1up Tee\)](https://open.spotify.com/album/2eExyocGA6FWIClE4Xh1tZ) | 3:40 |
 | 44 | [Help Me](https://open.spotify.com/track/4A8goAjfi9HJKjR2ORVXTJ) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Richey Rich](https://open.spotify.com/album/2P2kHr1m4bZUN9fNn7eyYB) | 3:01 |
 | 45 | [JAT \(Remix\) \[with Stunna Sandy\]](https://open.spotify.com/track/3vn4cW1r3BWVWv0NamDIP3) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [JAT \(Remix\)](https://open.spotify.com/album/203AygGNtkJz0KlK73sw0k) | 2:37 |
 | 46 | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/track/1HmpFowQR9dq4wzNdfzmnY) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Friend Do Remix \(feat\. YKNIECE\)](https://open.spotify.com/album/6tKVKWZYZ9zqwUC6qBU8r5) | 2:51 |

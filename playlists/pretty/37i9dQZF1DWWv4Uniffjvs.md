@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,248 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,269 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 12 | [TRISHA](https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [TRISHA](https://open.spotify.com/album/62H21Ioh6LEd8jq0ABjLRP) | 4:22 |
 | 13 | [Sireneh](https://open.spotify.com/track/2KOg4GRyVc7EqozP1VhkFg) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Sireneh](https://open.spotify.com/album/3xJuCxobi6BWjqZH92UIAA) | 3:06 |
 | 14 | [One Night In Bogotá](https://open.spotify.com/track/6FNmzqsxKXC43aSvbFmHqy) | [Franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [One Night In Bogotá](https://open.spotify.com/album/5zJWoAyYHwFJKDgzlcgGnH) | 3:18 |
-| 15 | [Need U](https://open.spotify.com/track/1hbPmMWGg7eDAbzODBZs7z) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM), [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH) | [All Yours](https://open.spotify.com/album/1DelPHxFIgMYjpiphaMaqM) | 3:38 |
+| 15 | [Need U](https://open.spotify.com/track/1hbPmMWGg7eDAbzODBZs7z) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [Rian Brazil](https://open.spotify.com/artist/1O4STden5bjJI5SLsY8GGH), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [All Yours](https://open.spotify.com/album/1DelPHxFIgMYjpiphaMaqM) | 3:38 |
 | 16 | [Call Me Babe](https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Call Me Babe](https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM) | 2:44 |
 | 17 | [67 Tekno](https://open.spotify.com/track/1C0voHosMFAnOgG4A7eYGD) | [銀製品Agprod](https://open.spotify.com/artist/6j4sUIZxM49HgkNHEi9je4) | [Back 2 The Old Skool](https://open.spotify.com/album/4oXgK5oq5SEsNAXrKaKJKo) | 3:49 |
 | 18 | [Just Bounce](https://open.spotify.com/track/2C8gmUA6X0UIH9ExVhp7Me) | [Tekkfunk](https://open.spotify.com/artist/3pjikx9nZYJOLjBmCnPw4B), [Four to Eight](https://open.spotify.com/artist/4CNhHtuDzMh8hMSKHmtxTr) | [Just Bounce](https://open.spotify.com/album/433MQUJwwLf2ubYOZT3eiU) | 4:43 |

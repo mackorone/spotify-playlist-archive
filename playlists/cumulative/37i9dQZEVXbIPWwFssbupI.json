@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "5 bleus",
+        "url": "https://open.spotify.com/album/6XucNOw2RptjuGZeV6HyI2"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198974,
+      "name": "5 bleus",
+      "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
       },
@@ -9238,7 +9256,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Chemin d'or",
       "url": "https://open.spotify.com/track/5kfAx6phDHPpz5g8IAPyc2"
@@ -29414,7 +29432,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 179757,
       "name": "Mia",
       "url": "https://open.spotify.com/track/6CRb7rnmx8Mqrb8cpixcVi"
@@ -33724,7 +33742,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Paradise (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D"
@@ -38158,7 +38176,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 179253,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
@@ -41208,7 +41226,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/4oVMLxxYpQLYx8gx4JjuuY"
@@ -47269,6 +47287,24 @@
     },
     {
       "album": {
+        "name": "AVTLR",
+        "url": "https://open.spotify.com/album/4k10wWcbZwk1SfBwawz64s"
+      },
+      "artists": [
+        {
+          "name": "TKS 2G",
+          "url": "https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164600,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/270e7DrH30CwgNJt7YtExp"
+    },
+    {
+      "album": {
         "name": "Whine",
         "url": "https://open.spotify.com/album/4T7ESVSUoJqjoMIubvcZdB"
       },
@@ -47298,7 +47334,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 164600,
       "name": "Whine",
       "url": "https://open.spotify.com/track/5sTiliOzx02twYDJLdBQPS"

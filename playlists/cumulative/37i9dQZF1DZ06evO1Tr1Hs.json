@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "</3\u00b3",
+        "url": "https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262539,
+      "name": "open it up (with Ken Carson)",
+      "url": "https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq"
+    },
+    {
+      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },

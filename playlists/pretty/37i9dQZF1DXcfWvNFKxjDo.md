@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Old Jim, Pascal Letoublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,501 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,585 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 12 | [Love Nation](https://open.spotify.com/track/0LD9cnTUbGwDJOGXewcp1j) | [Coach Harrison](https://open.spotify.com/artist/40DuSzxFswBymk0cjFnuqL) | [Love Nation](https://open.spotify.com/album/3bTTXiclHHlp4Ji7a8JwJ7) | 4:05 |
 | 13 | [Drunk Right Now \(Na Na Na\)](https://open.spotify.com/track/52Y1SosOxOcL26Vn6pKOKg) | [KALUMA](https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Drunk Right Now \(Na Na Na\)](https://open.spotify.com/album/3ONbl9yPk61hSxvGav3Xng) | 2:59 |
 | 14 | [What's a Girl to Do in '25](https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What's a Girl to Do in '25](https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr) | 2:28 |
-| 15 | [Fitness](https://open.spotify.com/track/4ufTjzTZQRmJhXLtaQwj3z) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Hard Candy](https://open.spotify.com/artist/64xp3mYRaJ60mlMYgGYiAx), [TOXIMAMI](https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Fitness](https://open.spotify.com/album/5BgyhmAXvnfDUnfngfNnon) | 3:35 |
+| 15 | [Fitness](https://open.spotify.com/track/4ufTjzTZQRmJhXLtaQwj3z) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O), [TOXIMAMI](https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Fitness](https://open.spotify.com/album/5BgyhmAXvnfDUnfngfNnon) | 3:35 |
 | 16 | [House Party](https://open.spotify.com/track/5Xey2vHNJPAYfrRPOs81mA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [House Party](https://open.spotify.com/album/67Fig18sgK6uebGB6CaNw5) | 3:17 |
 | 17 | [Dear Friend](https://open.spotify.com/track/2s2l6JSOu3UveEzIEQdOx4) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Dear Friend](https://open.spotify.com/album/3gDbGWn1O5azVnCN5i68x3) | 3:49 |
 | 18 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 |

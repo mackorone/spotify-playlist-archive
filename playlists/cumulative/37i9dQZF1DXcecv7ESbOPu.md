@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Molly Sandén, Tjuvjakt, Drake med flera\. Happy New Music Friday!
 
-20,921 songs - 45 day 3 hr 8 min
+20,922 songs - 45 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -608,7 +608,7 @@
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-09-22 | 2022-09-30 |
 | [Ain’t No Thief](https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't No Thief](https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w) | 3:59 | 2022-04-21 | 2022-04-29 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-27 | 2022-11-04 |
-| [Ain’t The Feelin’](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feelin’](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 | 2025-09-18 |  |
+| [Ain’t The Feeling](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feeling](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 | 2025-09-18 |  |
 | [Air](https://open.spotify.com/track/3jjBLJCxq4xD5n0h8dz4wC) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Air](https://open.spotify.com/album/54TRcRE5cExljtlDYn6pH1) | 2:40 | 2025-06-26 | 2025-07-04 |
 | [Air](https://open.spotify.com/track/2ZzknSLuPyWxXvReut8ekG) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [AIR \- part 1](https://open.spotify.com/album/0i5sNZmhdQFENjLqRZIP17) | 3:00 | 2024-03-14 | 2024-03-22 |
 | [Air](https://open.spotify.com/track/5gUGzVwOeYlCjYc6PbC8d5) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Air](https://open.spotify.com/album/43vYQ3SP9P5jL3kEVF63Af) | 3:15 | 2022-02-24 | 2022-03-04 |
@@ -8889,6 +8889,7 @@
 | [I Will Wait](https://open.spotify.com/track/03b8q7V15x8R7MT4uumnnr) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [I Will Wait](https://open.spotify.com/album/7tBbWAbOBFcM1eXlUf5iNG) | 2:36 | 2025-03-27 | 2025-04-04 |
 | [i wish](https://open.spotify.com/track/5J8f0H43kDCcBI3IilbRxm) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [i wish](https://open.spotify.com/album/09XXbAhCYqLMKqwNbYRvWX) | 3:10 | 2024-11-14 | 2024-11-22 |
 | [I Wish \(feat\. Libianca\)](https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B) | [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [I Wish \(feat\. Libianca\)](https://open.spotify.com/album/1UMJ7lsAe3c4PhvaB3BA2o) | 2:43 | 2023-06-01 | 2023-06-09 |
+| [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 | 2025-09-19 |  |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-21 | 2025-08-29 |
 | [I Wish I Was Someone Else](https://open.spotify.com/track/1XWCk0iPODzTX9cNMpFzps) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Wish I Was Someone Else](https://open.spotify.com/album/1zJtLZQme1Vr0fbkExQDfv) | 2:53 | 2023-09-28 | 2023-10-06 |
 | [i wish someone would cheat on me](https://open.spotify.com/track/6WB56Jn45tBje3nnEEGgwt) | [amanda jerlov](https://open.spotify.com/artist/3Yy0wNrunrgNWnmqPJibaz) | [i wish someone would cheat on me](https://open.spotify.com/album/3i8GeBRPAflcCyzhpbjTPf) | 2:52 | 2023-03-02 | 2023-03-10 |

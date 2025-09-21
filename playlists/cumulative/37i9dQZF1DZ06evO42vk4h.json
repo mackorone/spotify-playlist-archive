@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-10",
+      "date_removed": null,
       "duration_ms": 474180,
       "name": "Happiness",
       "url": "https://open.spotify.com/track/4tv8HUHpZRio3ydnv7ecqh"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 271858,
       "name": "Nakupenda (feat. LA-AK) - Radio Edit",
       "url": "https://open.spotify.com/track/3Ww4hnEh6Sw5CFjcsVdGn9"
@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Ntwana yami (feat. X-wise) - Acoustic Version",
       "url": "https://open.spotify.com/track/4sf0P3XBy2YD4omSpKsg2i"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 343404,
       "name": "Sabela - Club Mix",
       "url": "https://open.spotify.com/track/4NyrfFyJnQWmjjc7Xc4q1n"
@@ -1765,6 +1765,32 @@
     },
     {
       "album": {
+        "name": "Tsa Ma Ndebele (Manoo Remix)",
+        "url": "https://open.spotify.com/album/1z5N7BH4lWlr2x2iou7c41"
+      },
+      "artists": [
+        {
+          "name": "OSKIDO",
+          "url": "https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R"
+        },
+        {
+          "name": "Candy Tsamandebele",
+          "url": "https://open.spotify.com/artist/0mqbizsedJ6CxlvyVn8Unj"
+        },
+        {
+          "name": "Manoo",
+          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232207,
+      "name": "Tsa Ma Ndebele - Manoo Remix",
+      "url": "https://open.spotify.com/track/5q8HakNbJcAYvi02dgboXP"
+    },
+    {
+      "album": {
         "name": "Tsa Ma Ndebele Kids (Dr Feel & Oskido Remix)",
         "url": "https://open.spotify.com/album/4Wv2434ZMueT4tAMUzdlCF"
       },
@@ -1806,7 +1832,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 417520,
       "name": "Tsa Mandebele",
       "url": "https://open.spotify.com/track/6OQqb88STgvROwhN1IYPyH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: NIDALA
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,389 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,385 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 | 49 | [Young Men](https://open.spotify.com/track/4uPjJQPCZF1RzhCLISsqbB) | [Mulga Bore Hard Rock](https://open.spotify.com/artist/20UoU6pOqBHVcSRITcRIzl) | [Heavy Rain](https://open.spotify.com/album/1agfSEUlwa4atpbck7205R) | 1:59 |
 | 50 | [See It Through](https://open.spotify.com/track/3O7DDVJAO9pZVQy7rjG3yC) | [Ziggy Ramo](https://open.spotify.com/artist/068h92tgvxKyexVLhE75Q7), [JCAL](https://open.spotify.com/artist/5RQKVfC5tRlUVfWROL99fr) | [See It Through](https://open.spotify.com/album/3DYbbKlB1CgETqtTGzqDxU) | 2:29 |
 
-Snapshot ID: `AAAAAP4Zi6TfGKiwV1KrBdHCRovo5dvi`
+Snapshot ID: `AAAAAKJdpkH0lIy7Wgiwif2ILOTWje8m`

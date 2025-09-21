@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-435 songs - 1 day 1 hr 20 min
+437 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,10 +48,11 @@
 | [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 |  |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
-| [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 |  |
+| [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-21 |
 | [Bra för dig](https://open.spotify.com/track/0uSBYTlQw9tR6H2HzcUXji) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0), [Karin Wistrand](https://open.spotify.com/artist/6LHbFvsdTSwsk5Tn4O7PNB) | [Så mycket bättre 2024 \- Tolkningarna](https://open.spotify.com/album/07tHAQSKDA4CnmNWn1U3kA) | 4:07 | 2025-01-02 | 2025-05-09 |
 | [Brandalsund](https://open.spotify.com/track/4YSgUGFpznFJt9bfBmIn72) | [Adolphson & Falk](https://open.spotify.com/artist/2PGhx95sJF2XfZyOyrDFo0), [Peder af Ugglas](https://open.spotify.com/artist/0BShcQJsGOlh0CxBK24Q43) | [Brandalsund](https://open.spotify.com/album/6eGmbGKoEUJOCD40SbPQOI) | 4:26 | 2024-06-27 | 2024-08-16 |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-27 | 2024-08-23 |
+| [Bättre här](https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Bättre här](https://open.spotify.com/album/1wXJmcfz165NY32SoEaSVn) | 3:08 | 2025-09-18 |  |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 | 2025-04-04 |
 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 | 2025-03-27 |  |
 | [Caught Me On A Bad Day](https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP) | [Martin Almgren](https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G) | [Caught Me On A Bad Day](https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN) | 3:30 | 2024-09-06 | 2024-09-25 |
@@ -336,7 +337,7 @@
 | [Sol, vind och vatten](https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Sol, vind och vatten](https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg) | 3:38 | 2024-06-27 | 2024-08-30 |
 | [Solen går aldrig ner](https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Solen går aldrig ner](https://open.spotify.com/album/2y5tJvYtWXmNNXizFcF9LT) | 2:40 | 2024-06-27 | 2024-08-16 |
 | [Solen i den vänstra](https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Solen i den vänstra](https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q) | 4:53 | 2024-09-06 | 2025-01-14 |
-| [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-03-27 |  |
+| [Solens alla änglar](https://open.spotify.com/track/0IefRffecTIzgApJOf6cms) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Solens alla änglar](https://open.spotify.com/album/2ckdEx33yCKlLwQjVrTnw4) | 4:17 | 2025-03-27 | 2025-09-21 |
 | [Som att jag bryr mig](https://open.spotify.com/track/18qdws9fuz3z2DYWJVYDaF) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Som att jag bryr mig](https://open.spotify.com/album/14C1eFILphO24CKmlKNJcE) | 3:02 | 2025-01-09 | 2025-05-16 |
 | [Som en sprucken mandolin](https://open.spotify.com/track/6NmjnuBzH9lE7AzKDLwadl) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Alla kan dansa](https://open.spotify.com/album/7iCxq3oFrvvFV2ojh0vaHA) | 3:40 | 2024-09-26 | 2024-11-08 |
 | [Som jag har längtat](https://open.spotify.com/track/4DWHJnyw4aeD3lQqnHyf0S) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Som jag har längtat](https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG) | 3:26 | 2024-06-27 | 2024-08-09 |
@@ -353,6 +354,7 @@
 | [Spin The Bottle](https://open.spotify.com/track/1W0AJZWfVldNrgNDoaqRkY) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Spin The Bottle](https://open.spotify.com/album/2PhwRImFoeE9HvSMsyrjfz) | 3:06 | 2025-05-01 | 2025-08-08 |
 | [Springer ikapp](https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Springer Ikapp](https://open.spotify.com/album/5cUibeySR9mDVYxRrtrcQk) | 3:34 | 2025-07-17 |  |
 | [Stillhet](https://open.spotify.com/track/09Xt3KWgGT25MdaNJqv8wJ) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Ärligt misstag](https://open.spotify.com/album/0Ar1oOGOq7FSZDuilbUjoW) | 4:23 | 2025-09-04 |  |
+| [Stjärnorna](https://open.spotify.com/track/6d11hYN6PUR07rk1YIXqem) | [crescenterna](https://open.spotify.com/artist/3nRWFDHzmQF7O2xMAZUhyh) | [Stjärnorna](https://open.spotify.com/album/08LEQYxN0BBdBPpn9qCsxS) | 4:20 | 2025-09-18 |  |
 | [Stjärnorna](https://open.spotify.com/track/3LMOtdKFkGrz3rHycZntPm) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Stjärnorna](https://open.spotify.com/album/4MyRVj71HgtDonhDzJyFq3) | 4:14 | 2024-12-05 | 2025-01-03 |
 | [Stjärnorna inatt](https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N) | [Lilla London](https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD) | [Stjärnorna inatt](https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO) | 3:27 | 2024-06-27 | 2024-08-23 |
 | [Stockholm](https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV) | [Annika Wickihalder](https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of) | [Stockholm](https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH) | 2:52 | 2025-02-27 |  |

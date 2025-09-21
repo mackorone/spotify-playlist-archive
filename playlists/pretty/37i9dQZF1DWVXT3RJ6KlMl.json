@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 34606,
+  "num_followers": 34621,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
+        "name": "Vette Jus En Boerenjongens",
+        "url": "https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw"
+      },
+      "artists": [
+        {
+          "name": "Alexander Curly",
+          "url": "https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Guus",
+      "url": "https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
         "name": "Wilma",
         "url": "https://open.spotify.com/album/092vpDBtbC8iFyV5VVUSpq"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 242526,
       "name": "Zou Het Erg Zijn, Lieve Opa",
       "url": "https://open.spotify.com/track/0tA70v8mUkJfhSQrmyIjYJ"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
-        "name": "Vette Jus En Boerenjongens",
-        "url": "https://open.spotify.com/album/02QKH5t4NZHMupe4TVoQfw"
-      },
-      "artists": [
-        {
-          "name": "Alexander Curly",
-          "url": "https://open.spotify.com/artist/73lX0TrvsXpSyXWdiYYICN"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Guus",
-      "url": "https://open.spotify.com/track/34SuDsoNO7lOXO4THmkBuf"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Andr\u00e9 van Duin",
-        "url": "https://open.spotify.com/album/7xDv53IspICoxPuySv8OVh"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 van Duin",
-          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
-        }
-      ],
-      "duration_ms": 134853,
-      "name": "Angelique",
-      "url": "https://open.spotify.com/track/78lbU2qP55R0rqqSebur4p"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Zijn Allergrootste Hits",
         "url": "https://open.spotify.com/album/6SlNC7rFjsx0BKszgslACL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 335520,
       "name": "Meisjes Met Rode Haren",
       "url": "https://open.spotify.com/track/5NKXshbPQekjqoR2l3Q6JZ"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Andr\u00e9 van Duin",
+        "url": "https://open.spotify.com/album/7xDv53IspICoxPuySv8OVh"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 van Duin",
+          "url": "https://open.spotify.com/artist/1G2QbSM5dLTtqeZHYnxXsF"
+        }
+      ],
+      "duration_ms": 134853,
+      "name": "Angelique",
+      "url": "https://open.spotify.com/track/78lbU2qP55R0rqqSebur4p"
     },
     {
       "added_at": "2024-07-09 16:51:18",

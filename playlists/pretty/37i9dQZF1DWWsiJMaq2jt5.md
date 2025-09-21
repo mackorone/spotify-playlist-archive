@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6A1ynRvP3mW9mlLkWcSnlx">Fausti</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,690 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,692 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 |
 | 50 | [Dzięki](https://open.spotify.com/track/3ARmYkBKXLMTEvnGlLeFAt) | [Julia Bojur](https://open.spotify.com/artist/7yI5GTAddn0GBCRnDOpWPK), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [Dzięki](https://open.spotify.com/album/2wSjlONQNx1Umr2NsNGOJH) | 2:24 |
 
-Snapshot ID: `AAAAAMB8goNYIjJQZRaStEvn/65vOF0r`
+Snapshot ID: `AAAAAAPIU43lPpoUf7+DtTCbT+ryzj0Z`

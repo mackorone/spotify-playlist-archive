@@ -1,13 +1,29 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 176502,
+  "num_followers": 176518,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAACsVa1LthXkKYJlI3sB6VZQ",
+  "snapshot_id": "aMydAAAAAACfEktVjN9ZEqusKSG6uEsz",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 189163,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF"
+    },
     {
       "added_at": null,
       "album": {
@@ -823,22 +839,6 @@
       "duration_ms": 206306,
       "name": "Dark Side of Your Room",
       "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/2otrDlo0zpTrCqoSuorzWd"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 204250,
-      "name": "Say Something - Live From Spotify UK",
-      "url": "https://open.spotify.com/track/3JHuDEDfKiFDvRaIlyBM5h"
     }
   ],
   "unique_name": "This Is All Time Low",

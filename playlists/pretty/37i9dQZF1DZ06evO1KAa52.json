@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 661238,
+  "num_followers": 661269,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAACTxBq109ulc4jMvJ9gjvy1",
+  "snapshot_id": "aMydAAAAAAD1GcDAcDSEvtE94qJmDdoa",
   "tracks": [
     {
       "added_at": null,
@@ -1115,38 +1115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/2UQSMFU11WqCr7shuCRGZL"
       },
       "artists": [
         {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        },
+        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
         }
       ],
-      "duration_ms": 221480,
-      "name": "Just Sing",
-      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
+      "duration_ms": 233066,
+      "name": "My Kinda Girl",
+      "url": "https://open.spotify.com/track/0uxjxRAqlPEUwQh9db0pCP"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

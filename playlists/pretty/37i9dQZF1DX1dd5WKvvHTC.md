@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month's most exciting songwriters from around the globe\. Cover: Hit\-Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,774 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,802 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 | 38 | [Contigo](https://open.spotify.com/track/0d1W9ovj9YnxPDAZlIP2oq) | [Eliad Cohen](https://open.spotify.com/artist/328WfXDcCf3YB8l3ZsXQqo), [Robbie Elias](https://open.spotify.com/artist/42w8CzOAZzsjMa4D1UMSfy) | [Contigo](https://open.spotify.com/album/4HVJhy7PziQV0AJUtL747G) | 3:00 |
 | 39 | [Single Soon](https://open.spotify.com/track/6iF4RgIjDvDqyW13PezSj3) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Single Soon](https://open.spotify.com/album/6EejduBuRYb7rzJaD2YCqO) | 2:51 |
 
-Snapshot ID: `AAAAAN4o2ZB1TvDaj1Hb25flkcHGq6r4`
+Snapshot ID: `AAAAAGBZNCQ4AWW4BNUWbMQRLzLchiML`

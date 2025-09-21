@@ -601,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Friends Don\u2019t",
+        "url": "https://open.spotify.com/album/13ccJsUECBGoRAm2xdTvuC"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Friends Don't",
+      "url": "https://open.spotify.com/track/2N970NvTMrHQ1iqN4Aot8k"
+    },
+    {
+      "album": {
         "name": "All Stand Together",
         "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
       },

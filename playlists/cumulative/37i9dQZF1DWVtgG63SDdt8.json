@@ -46105,24 +46105,6 @@
     },
     {
       "album": {
-        "name": "Faithful (from the Netflix Film \"Ruth & Boaz\")",
-        "url": "https://open.spotify.com/album/4wSVHTNFbT90u4d4OYQpIS"
-      },
-      "artists": [
-        {
-          "name": "Serayah",
-          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
-        }
-      ],
-      "date_added": "2025-09-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164140,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT"
-    },
-    {
-      "album": {
         "name": "Faithful",
         "url": "https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol"
       },
@@ -46142,6 +46124,24 @@
       "duration_ms": 375723,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC"
+    },
+    {
+      "album": {
+        "name": "Faithful (from the Netflix Film \"Ruth & Boaz\")",
+        "url": "https://open.spotify.com/album/4wSVHTNFbT90u4d4OYQpIS"
+      },
+      "artists": [
+        {
+          "name": "Serayah",
+          "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164140,
+      "name": "Faithful (from the Netflix Film \"Ruth & Boaz\")",
+      "url": "https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT"
     },
     {
       "album": {
@@ -167322,8 +167322,8 @@
           "url": "https://open.spotify.com/artist/4ZbqpGWsVop5QxDwqIC1PJ"
         },
         {
-          "name": "Eric Lee Blumley",
-          "url": "https://open.spotify.com/artist/4todZepXhiZ4pN4Z1U3yJT"
+          "name": "Eric Lee Brumley",
+          "url": "https://open.spotify.com/artist/4WMo8ghmpwr16jTTxWPMDx"
         }
       ],
       "date_added": "2025-09-19",

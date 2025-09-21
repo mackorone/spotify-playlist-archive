@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: 21 Promo & Pengii
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,912 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 47 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |
 | 48 | [Plug Me S:2 EP:4](https://open.spotify.com/track/09Dk5ZSgFigmaXYKLqw9T2) | [21 Promo & Pengii](https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt), [Jocstar](https://open.spotify.com/artist/27DIt49xiHNX2nr9pDc7w8) | [Plug Me S:2 EP:4](https://open.spotify.com/album/0TV7mswwrlYHdrPcZ69MU1) | 2:47 |
 | 49 | [Goated](https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R) | [Chesrae Megan](https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf) | [Goated](https://open.spotify.com/album/2x3H5EeJV52IfkLSuiNQfP) | 2:11 |
-| 50 | [Nomme$](https://open.spotify.com/track/5nygJwihfPEmWEnTkcNnfV) | [AdieOG](https://open.spotify.com/artist/35lToWKxIoARmGThv1SpBA), [Various TRF](https://open.spotify.com/artist/7ahGbBQetfSrwGd6vB8xx1) | [Nomme$](https://open.spotify.com/album/7zXvopLBMCyhKDeaYF4tWH) | 2:52 |
+| 50 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 
 Snapshot ID: `AAAAAH2LGxQnz9bJRiuQxiFS+amCP2eg`

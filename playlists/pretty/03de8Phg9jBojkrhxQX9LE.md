@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,703 likes - 160 songs - 8 hr 45 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,704 likes - 160 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 8 | [s.o.s](https://open.spotify.com/track/2gRcRlKTI8WSQhufYPlO1Z) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [Tabi](https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn) | [s.o.s](https://open.spotify.com/album/4E0rIBD3vyXDoaynnfT5Av) | 2:09 |
 | 9 | [Close My Eyes](https://open.spotify.com/track/6QNrYR1tHfRF0BVGUt6syc) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Close My Eyes](https://open.spotify.com/album/6MsgtkjlZ1URg8w4BqdkeE) | 3:24 |
 | 10 | [ALL4U](https://open.spotify.com/track/1Z5rv5e7vc5OTIJlkpwDJ0) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [ALL4U](https://open.spotify.com/album/0ALwYFcACNazFg0UeUezOK) | 2:57 |
-| 11 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 |
+| 11 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 |
 | 12 | [FIGHT OR FLIGHT](https://open.spotify.com/track/4uJ7Y0ux0L4zJtJCnOCYKD) | [Zoey808](https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [FIGHT OR FLIGHT](https://open.spotify.com/album/3uvqOnCn4H1zJ99zcGb4jI) | 2:40 |
 | 13 | [Champagne \(feat\. Dia Frampton\)](https://open.spotify.com/track/1kuTUxdFGSPkcVx08BYcvV) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Champagne \(feat\. Dia Frampton\)](https://open.spotify.com/album/5VnfM3oQTV3OEC2Uq7ssUc) | 3:38 |
 | 14 | [Maia Maia](https://open.spotify.com/track/2DCAWhnusZQoxC7BffLjGY) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE) | [Maia Maia](https://open.spotify.com/album/4NmtnN6kK5IMgxzUILmZiu) | 3:01 |

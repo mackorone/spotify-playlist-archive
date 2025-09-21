@@ -4,7 +4,7 @@
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 54 min
+53 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Jillian \(I'd Give My Heart\)](https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 | 2025-03-08 |  |
 | [Labyrinth](https://open.spotify.com/track/48xGyT3j2AgkomjWutb0Y1) | [BLIND8](https://open.spotify.com/artist/6Cp7Edmrgw7XA8duPOFmtz), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Labyrinth](https://open.spotify.com/album/5Kuwp2cLjCBCSjU9USGdQI) | 3:39 | 2025-03-08 | 2025-04-10 |
 | [Let Us Burn](https://open.spotify.com/track/5ZMZrIPhlf5oMHwzw6RMre) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 5:31 | 2025-03-08 |  |
-| [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2Qmf8FFj2zKicY86pitOI3) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Light Can Only Shine In The Darkness](https://open.spotify.com/album/6chFakF4QAf8X0BvU1Hf52) | 3:36 | 2025-07-25 |  |
+| [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2Qmf8FFj2zKicY86pitOI3) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Light Can Only Shine In The Darkness](https://open.spotify.com/album/6chFakF4QAf8X0BvU1Hf52) | 3:36 | 2025-07-25 | 2025-09-21 |
+| [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [OPVS NOIR Vol\. 1](https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6) | 3:36 | 2025-09-21 |  |
 | [Mad World](https://open.spotify.com/track/0tUWRioloZrqmq95DAMsOK) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:57 | 2025-03-08 |  |
 | [Memories](https://open.spotify.com/track/5qOA9jbfWAtxOJ8zY1ReYf) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 3:51 | 2025-03-08 |  |
 | [Mercy Mirror](https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 3:49 | 2025-03-08 |  |

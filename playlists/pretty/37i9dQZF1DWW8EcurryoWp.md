@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 
 > The best new Irish alternative sounds\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,568 likes - 55 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,573 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW8EcurryoWp.md) - [plain]
 | 54 | [lock & key](https://open.spotify.com/track/5S6U4IY74N8Gekf8i5WdgO) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [hard drive songs](https://open.spotify.com/album/4rygwEIZ6qlH8IwW8SFJTU) | 4:15 |
 | 55 | [The Stink](https://open.spotify.com/track/3Lt8O13nVCZEKtIkApJEnp) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Blast Off](https://open.spotify.com/album/25KBaVGMBf8tpFAgIqWqFB) | 2:35 |
 
-Snapshot ID: `AAAAAHNdrYI0wwzJElsBOElT/v5R/6vJ`
+Snapshot ID: `AAAAACy3j7o8lJMN6ERTNNYWx0K78u7Q`

@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Algernon Cadwallader",
-  "num_followers": 74639,
+  "num_followers": 74676,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "ps pls call me",
-        "url": "https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7"
-      },
-      "artists": [
-        {
-          "name": "Dear Maryanne",
-          "url": "https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "ps pls call me",
-      "url": "https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
         "name": "Starchild",
         "url": "https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 138679,
       "name": "Eternal",
       "url": "https://open.spotify.com/track/4O8mBTuiMOpXZ4hUfqm6SD"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
+        "name": "ps pls call me",
+        "url": "https://open.spotify.com/album/1y5PrfclvJhAgeHAoHfil7"
+      },
+      "artists": [
+        {
+          "name": "Dear Maryanne",
+          "url": "https://open.spotify.com/artist/7C04Hg3t3Q0sTLw5raMMP8"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "ps pls call me",
+      "url": "https://open.spotify.com/track/6p03ssQvEzWVSQxGGyJIML"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
+        "name": "Lullabies for Dogs",
+        "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
+      },
+      "artists": [
+        {
+          "name": "Chase Petra",
+          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
+        }
+      ],
+      "duration_ms": 223756,
+      "name": "Because I Am My Own Dog",
+      "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
         "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
         "url": "https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
-        "name": "Lullabies for Dogs",
-        "url": "https://open.spotify.com/album/7sVo3dfzwUo17mucey5xgk"
-      },
-      "artists": [
-        {
-          "name": "Chase Petra",
-          "url": "https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3"
-        }
-      ],
-      "duration_ms": 223756,
-      "name": "Because I Am My Own Dog",
-      "url": "https://open.spotify.com/track/3gBNVDofpuZuFLmnyeFIeR"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "Better Luck Next Time",
-        "url": "https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb"
-      },
-      "artists": [
-        {
-          "name": "worlds greatest dad",
-          "url": "https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "KO",
-      "url": "https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
         "name": "Dunce Hat",
         "url": "https://open.spotify.com/album/59Qgi3ocRFrE9wykOvPTAS"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 141223,
       "name": "Dunce Hat",
       "url": "https://open.spotify.com/track/0iQYIcRhqOqyNxA1dV5CLG"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/6mfrchDxERxDGQGaPidTVb"
+      },
+      "artists": [
+        {
+          "name": "worlds greatest dad",
+          "url": "https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "KO",
+      "url": "https://open.spotify.com/track/0eOosmtcasDzw1vrjxd3SO"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
+        "name": "A Collection Of Songs For Saying Goodbye",
+        "url": "https://open.spotify.com/album/3xWqNODAigQ4qVSrofxGci"
+      },
+      "artists": [
+        {
+          "name": "gas station.",
+          "url": "https://open.spotify.com/artist/3NYPmsKD44GlUOZYLuvhPZ"
+        }
+      ],
+      "duration_ms": 174277,
+      "name": "Fallen Leaves",
+      "url": "https://open.spotify.com/track/149COG6Y0vz8dAMYUaV6hK"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
         "name": "Glass",
         "url": "https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 283986,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
-        "name": "Lovers Lane",
-        "url": "https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58"
-      },
-      "artists": [
-        {
-          "name": "Thanks! I Hate It",
-          "url": "https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu"
-        }
-      ],
-      "duration_ms": 225962,
-      "name": "Opossum! My Possum!",
-      "url": "https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "A Collection Of Songs For Saying Goodbye",
-        "url": "https://open.spotify.com/album/3xWqNODAigQ4qVSrofxGci"
+        "name": "Lovers Lane",
+        "url": "https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58"
       },
       "artists": [
         {
-          "name": "gas station.",
-          "url": "https://open.spotify.com/artist/3NYPmsKD44GlUOZYLuvhPZ"
+          "name": "Thanks! I Hate It",
+          "url": "https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu"
         }
       ],
-      "duration_ms": 174277,
-      "name": "Fallen Leaves",
-      "url": "https://open.spotify.com/track/149COG6Y0vz8dAMYUaV6hK"
+      "duration_ms": 225962,
+      "name": "Opossum! My Possum!",
+      "url": "https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -1187,26 +1187,6 @@
       "duration_ms": 214447,
       "name": "Stone",
       "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
-        "name": "Se Sufre Pero Se Goza",
-        "url": "https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5"
-      },
-      "artists": [
-        {
-          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
-          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
-        },
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 153013,
-      "name": "Se Sufre Pero Se Goza",
-      "url": "https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -1239,6 +1219,26 @@
       "duration_ms": 184101,
       "name": "Never Meant To",
       "url": "https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
+        "name": "Se Sufre Pero Se Goza",
+        "url": "https://open.spotify.com/album/7pXnv8YtyTnedHLQX8iZL5"
+      },
+      "artists": [
+        {
+          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
+        },
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 153013,
+      "name": "Se Sufre Pero Se Goza",
+      "url": "https://open.spotify.com/track/34SzTZIqW62IcXfyOqy6dw"
     }
   ],
   "unique_name": "emo right now",

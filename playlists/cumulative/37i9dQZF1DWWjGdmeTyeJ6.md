@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Cover: Hudson Freeman
 
-8,952 songs - 20 day 5 hr 9 min
+8,953 songs - 20 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6844,6 +6844,7 @@
 | [She Likes a Boy](https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [She Likes a Boy](https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv) | 2:09 | 2024-01-17 | 2024-02-15 |
 | [She Looks Like a Dog](https://open.spotify.com/track/5zsPHcCiseRIgqg74nTnw3) | [Giss](https://open.spotify.com/artist/52ioMEJSwM5Aix7sljlTes) | [She Looks Like a Dog](https://open.spotify.com/album/0E0mO29A1O2SIwL27EJTtd) | 2:45 | 2022-08-31 | 2022-09-09 |
 | [She Said](https://open.spotify.com/track/6M6acsYjRwMlmAruzRx9UZ) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY) | [She Said](https://open.spotify.com/album/30qozTbt0hfuwIiuiztvsw) | 3:12 | 2025-05-07 | 2025-06-12 |
+| [she want](https://open.spotify.com/track/6paFt1CYKtEF2pedfxAEpi) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [she want](https://open.spotify.com/album/3ulRFa5q2un4ZFDz92iWTQ) | 2:18 | 2025-09-19 |  |
 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 | 2024-04-10 | 2024-05-09 |
 | [She Was Mine](https://open.spotify.com/track/6gnvpZnNRNi1vw8HvmCpSo) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH) | [Songs From A Breakup](https://open.spotify.com/album/6WLhSEAg80ccThstBTWqvX) | 3:24 | 2024-02-07 | 2024-02-15 |
 | [She Wasn't Crazy](https://open.spotify.com/track/2zX8IIUq2PUwCZQP9iT7b9) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [She Wasn't Crazy](https://open.spotify.com/album/0Lg2PK9yJNuNTXnBpy9kFu) | 3:17 | 2025-02-19 | 2025-03-06 |

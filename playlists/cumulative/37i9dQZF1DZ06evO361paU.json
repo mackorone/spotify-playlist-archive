@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Circus (Deluxe)",
+        "url": "https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313733,
+      "name": "Circus - Acoustic Version",
+      "url": "https://open.spotify.com/track/40YtxwWmxuoqnRE7BIbIqM"
+    },
+    {
+      "album": {
         "name": "It Is Time For A Love Revolution",
         "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
       },
@@ -819,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Circus (Deluxe)",
+        "url": "https://open.spotify.com/album/1V4I2ePRIjgcxuGDJ3YF9G"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231240,
+      "name": "Is It Me, Is It You",
+      "url": "https://open.spotify.com/track/69IRcCUIKG2CecXMGJd057"
+    },
+    {
+      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -1000,7 +1036,7 @@
       ],
       "date_added": "2025-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 206785,
       "name": "Let It Ride - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/4Qia8t2vNSY3qyMYe6zCU9"
@@ -1170,7 +1206,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 208133,
       "name": "More Than Anything In This World",
       "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"

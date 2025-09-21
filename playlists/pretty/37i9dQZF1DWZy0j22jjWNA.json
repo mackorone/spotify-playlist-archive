@@ -1,6 +1,6 @@
 {
   "description": "Let these songs help you start your with the Lord!",
-  "num_followers": 116601,
+  "num_followers": 116631,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-09-14 08:56:53",
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        }
+      ],
+      "duration_ms": 126764,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6"
+    },
+    {
+      "added_at": "2025-09-14 08:56:53",
+      "album": {
         "name": "Joy In The Morning (Horizon Edition)",
         "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 233373,
       "name": "Joy In The Morning - Remix",
       "url": "https://open.spotify.com/track/38xvrudag6EpgxK369Cn9B"
-    },
-    {
-      "added_at": "2025-09-14 08:56:53",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/1VELwOMtJkOqrMycG7tr2M"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        }
-      ],
-      "duration_ms": 126764,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/25pt74MnSZoOSdjDCBo8f6"
     },
     {
       "added_at": "2025-09-14 08:56:53",
@@ -567,26 +567,6 @@
     {
       "added_at": "2025-09-14 08:56:53",
       "album": {
-        "name": "Brand New (feat. Terrian)",
-        "url": "https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ"
-      },
-      "artists": [
-        {
-          "name": "Bay Turner",
-          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
-        },
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 175323,
-      "name": "Brand New (feat. Terrian)",
-      "url": "https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn"
-    },
-    {
-      "added_at": "2025-09-14 08:56:53",
-      "album": {
         "name": "Shine On Me",
         "url": "https://open.spotify.com/album/1cUkumqdaoOmyJhI1Nk3Ak"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 180740,
       "name": "Shine On Me",
       "url": "https://open.spotify.com/track/71wENgIM7IF7EtUCyvwIqZ"
+    },
+    {
+      "added_at": "2025-09-14 08:56:53",
+      "album": {
+        "name": "Brand New (feat. Terrian)",
+        "url": "https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ"
+      },
+      "artists": [
+        {
+          "name": "Bay Turner",
+          "url": "https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 175323,
+      "name": "Brand New (feat. Terrian)",
+      "url": "https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn"
     },
     {
       "added_at": "2025-09-14 08:56:53",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-09-14 08:56:53",
       "album": {
-        "name": "05 (Morning)",
-        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
-      },
-      "artists": [
-        {
-          "name": "Tom Read",
-          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "05 (Morning)",
-      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
-    },
-    {
-      "added_at": "2025-09-14 08:56:53",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 362346,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS"
+    },
+    {
+      "added_at": "2025-09-14 08:56:53",
+      "album": {
+        "name": "05 (Morning)",
+        "url": "https://open.spotify.com/album/1SW6r6zCRzX9YuXN50DCT5"
+      },
+      "artists": [
+        {
+          "name": "Tom Read",
+          "url": "https://open.spotify.com/artist/2KqFfpWJjwA1xr9ZxfIqmd"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "05 (Morning)",
+      "url": "https://open.spotify.com/track/072T9qhiz29GNZmoqOzCEk"
     },
     {
       "added_at": "2025-09-14 08:56:53",

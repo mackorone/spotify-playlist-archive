@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > 2025 Tyler, The Creator \[CHROMAKOPIA: THE WORLD TOUR in SEOUL\] 9월 13\-14일 @ 킨텍스 제2전시장 10홀
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,836 likes - 26 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,978 likes - 26 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

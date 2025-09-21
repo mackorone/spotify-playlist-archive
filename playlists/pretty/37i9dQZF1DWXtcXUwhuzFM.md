@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat emma & matilda, william & BIZI, Ilta ja KAUKUA & AHTI  – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,279 likes - 123 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,317 likes - 123 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 93 | [Seasick](https://open.spotify.com/track/1EFC4Fi9QRwFys1JN7vNxl) | [Juppe](https://open.spotify.com/artist/0NQqTkZtf1GzSjowEi3a9h) | [Fun! And How to Have it](https://open.spotify.com/album/2PG5MEuySFSQux3qoGWOsa) | 2:58 |
 | 94 | [r u gonna love me?](https://open.spotify.com/track/0xpy0DrLu1kcCWAkvb0HqU) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/2fDf6DEQH3Tv0hOkOhbeYU) | 3:03 |
 | 95 | [musta veri](https://open.spotify.com/track/0RijntgPbRJDb9AGQIXoEt) | [1les](https://open.spotify.com/artist/462eXvO7RVfaU7aCzxKggi) | [musta veri / hajota](https://open.spotify.com/album/6m2l3t5RrCaQYSvrb5gAMv) | 2:03 |
-| 96 | [Ain’t The Feelin’](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feelin’](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 |
+| 96 | [Ain’t The Feeling](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feeling](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 |
 | 97 | [IMITATION](https://open.spotify.com/track/6Q6T0FPkW6sRytQqY6URqN) | [Nick\-E Maggz](https://open.spotify.com/artist/4THoP0ZeHikbfshug7w8RG) | [IMITATION](https://open.spotify.com/album/0NS89qyMu9S9vu4YUiBTFn) | 2:49 |
 | 98 | [Scared Of Getting Sober](https://open.spotify.com/track/0OnvtIScF6dnQh4jFW6thI) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Later Tonight](https://open.spotify.com/album/7hAMjXvMKlllp6f3WZatdD) | 3:30 |
 | 99 | [Megaton](https://open.spotify.com/track/6tsugFcFFJvz89znj7bNJK) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Megaton](https://open.spotify.com/album/25Ujl2GZlvbQkf23YeUyCN) | 2:52 |

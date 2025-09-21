@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 582 songs - 1 day 14 hr 12 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 587 songs - 1 day 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -590,5 +590,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 580 | [Siren](https://open.spotify.com/track/4ruZteFNe4IiXU1j03AK6g) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [Tell the Future With Your Body](https://open.spotify.com/album/3QHg5WQNHUN6ZxuoowtAbt) | 3:03 |
 | 581 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 |
 | 582 | [Kookaburra](https://open.spotify.com/track/1kcl4JslEp3ygDU3JpjhQi) | [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Emerald City](https://open.spotify.com/album/3UdOmY1STQuqz3zHCkT2JK) | 5:30 |
+| 583 | [Material Girl](https://open.spotify.com/track/7bkyXSi4GtVfD7itZRUR3e) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 4:00 |
+| 584 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 |
+| 585 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
+| 586 | [Stupid Dumb Illiterate](https://open.spotify.com/track/3V8KGh982XNNMdk0xy17xN) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:17 |
+| 587 | [VEENA](https://open.spotify.com/track/7pBbcjmlVvyHRF4DpJX1CU) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [RAM DULARI](https://open.spotify.com/artist/7bMzC3UZKxukjTnTAWA19t), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [VEENA](https://open.spotify.com/album/6AUvshZi7wXvnfnzCsm1u9) | 2:26 |
 
-Snapshot ID: `AAAHsenPfySZd5BDkrkh1MZ9D5YhflJX`
+Snapshot ID: `AAAHtgd5pp5TBhVL74v3bw+Y9L7Z2aIo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Ernia, 333 Mob, Giorgia, Frah Quintale, Miley Cyrus, Lewis Capaldi, Cardi B, Lola Young  e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,064 likes - 87 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,084 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Marek Niedzielski, Ania Szlagowska
 
-583 songs - 1 day 4 hr 28 min
+584 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 | 2024-08-01 | 2025-01-24 |
 | [KUKU](https://open.spotify.com/track/6zNT4rr5WyxydUAa1WfOTZ) | [Nicole](https://open.spotify.com/artist/0u0v2kVNfDCRjSlND4Od44), [Faded Dollars](https://open.spotify.com/artist/7d16c3NgSNVAKr6ADZVSX6), [WIKTOR](https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN) | [KUKU](https://open.spotify.com/album/6fNggR8FhEbRX6clkcMdtr) | 2:24 | 2025-03-06 | 2025-03-30 |
 | [Kurz](https://open.spotify.com/track/2D7PmhrojDfJgQPj6VwRef) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Kurz](https://open.spotify.com/album/3K5qLgKZmqc87o5jxiPNbg) | 2:35 | 2025-02-27 | 2025-04-25 |
+| [Kwiaty](https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Kwiaty](https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB) | 2:48 | 2025-09-16 |  |
 | [KŁOPOTY](https://open.spotify.com/track/7bl2ekqiQVO6xbQ1qIOdJX) | [Hanafi](https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Hubi](https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN), [Adash](https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk) | [KŁOPOTY](https://open.spotify.com/album/3k62wujjzZwoNyjduqwWNE) | 3:20 | 2025-08-19 |  |
 | [Kłódki](https://open.spotify.com/track/3yuEPvUfNhi9yiXzWQHiiO) | [Gaba Kościug](https://open.spotify.com/artist/2YjBfW9J5WxnoYKDuYyj5D), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [Kłódki](https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6) | 2:15 | 2025-07-08 | 2025-09-01 |
 | [Lawenda](https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ) | [Aymi](https://open.spotify.com/artist/4fjC4XQqR0L6tdvIgujs8I) | [Lawenda](https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV) | 2:28 | 2024-08-22 | 2024-10-19 |
@@ -587,7 +588,7 @@
 | [Ćma](https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Ćma](https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz) | 4:39 | 2025-01-23 | 2025-03-14 |
 | [Čyrvone Nebo](https://open.spotify.com/track/3cGQ3b4enpPUGJsPLvcN7v) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [Čyrvone Nebo](https://open.spotify.com/album/5KuvlS6wxp4QK4sKWXpflb) | 3:06 | 2025-06-05 |  |
 | [Łez](https://open.spotify.com/track/3XwbXBdDfmpjlwpyuTPzv3) | [Effy](https://open.spotify.com/artist/662m0WrjxDl2ZrWAghojh2) | [Łez](https://open.spotify.com/album/5ei7THv6SDlyGburhlR8Qf) | 2:37 | 2025-03-20 | 2025-04-18 |
-| [ślad](https://open.spotify.com/track/4HiXJSftCBFKIhXY5UFQUN) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU), [Filip Solen](https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5) | [ślad](https://open.spotify.com/album/69kc4sFg5UJX8iRMxOrw4x) | 3:17 | 2025-09-04 |  |
+| [ślad](https://open.spotify.com/track/4HiXJSftCBFKIhXY5UFQUN) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU), [Filip Solen](https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5) | [ślad](https://open.spotify.com/album/69kc4sFg5UJX8iRMxOrw4x) | 3:17 | 2025-09-04 | 2025-09-21 |
 | [ŻART!?](https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [ŻART!?](https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH) | 2:51 | 2024-09-13 | 2025-01-24 |
 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 | 2024-11-22 |
 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 | 2025-04-10 | 2025-06-20 |

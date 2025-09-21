@@ -4,14 +4,14 @@
 
 > This is Angelique Kidjo\. The essential tracks, all in one playlist.
 
-150 songs - 9 hr 54 min
+151 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adouma](https://open.spotify.com/track/3OEDBmjoVo9OptRZKvdFpo) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 4:28 | 2021-12-28 | 2023-06-18 |
 | [Afirika](https://open.spotify.com/track/1EAZC4QpvwM5tbeZmoLun1) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K) | 4:14 | 2021-12-28 |  |
 | [Africa Nangadef](https://open.spotify.com/track/1bcdYsNISTkYpnbuAXp9Le) | [Faada Freddy](https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Golden Cages](https://open.spotify.com/album/0nISni6H22mYUDNtmlrH2J) | 3:41 | 2024-08-03 | 2025-08-25 |
-| [Africa Nangadef](https://open.spotify.com/track/2G93qLPeCF3fMiTD6lB4Ug) | [Faada Freddy](https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Golden Cages \(Deluxe Edition\)](https://open.spotify.com/album/591SAjhEIu4bVOEe17Ryhx) | 3:41 | 2025-08-26 |  |
+| [Africa Nangadef](https://open.spotify.com/track/2G93qLPeCF3fMiTD6lB4Ug) | [Faada Freddy](https://open.spotify.com/artist/7EBwTCv2UZ1vm4WmfNCiEK), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Golden Cages \(Deluxe Edition\)](https://open.spotify.com/album/591SAjhEIu4bVOEe17Ryhx) | 3:41 | 2025-08-26 | 2025-09-21 |
 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 | 2022-10-16 | 2024-06-07 |
 | [African Woman](https://open.spotify.com/track/0pDXEy8VfmjsDnEIbi7wUm) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Rebel Queen](https://open.spotify.com/album/6LHuKanB3fdLZhTQNdB2l1) | 2:48 | 2024-07-30 | 2024-10-25 |
 | [Afro Bolero](https://open.spotify.com/track/45u9j7yYusneijsns98g12) | [Philippe Cohen Solal](https://open.spotify.com/artist/0EFmOtI513PheI6td8B5WV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mo Laudi](https://open.spotify.com/artist/3jWjZtXKLucI8YSgshXJhW) | [Afro Bolero](https://open.spotify.com/album/6eyUDhcGyhx68IZXaVERl7) | 3:10 | 2023-03-12 | 2023-03-14 |
@@ -63,6 +63,7 @@
 | [Flying High](https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:53 | 2021-12-28 | 2025-02-27 |
 | [Free & Equal](https://open.spotify.com/track/5fbj7p7obnBArZzPLdFiGM) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:09 | 2022-10-27 | 2024-11-07 |
 | [Gimme Shelter](https://open.spotify.com/track/3yFCAbInpUiqR1AqfUHizw) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Djin Djin](https://open.spotify.com/album/1Bb5UeMGzTX0n8Gm3U86MY) | 4:08 | 2022-03-30 | 2022-07-24 |
+| [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/5quLv2zOCNLPL0jQrC7fZv) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Guantanamera \(feat\. Angelique Kidjo\)](https://open.spotify.com/album/3qTqXoz0Z1IGsPT6GIJpbR) | 4:37 | 2025-09-21 |  |
 | [Houses in Motion](https://open.spotify.com/track/0jvRTmaJPpR3DdrzhZgiML) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 4:33 | 2021-12-30 | 2022-10-11 |
 | [Idje Idje](https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Aye](https://open.spotify.com/album/1FmjOQhxwxC0flGj4PNdza) | 5:48 | 2022-01-02 | 2022-10-13 |
 | [Iemanja](https://open.spotify.com/track/0kAZfnq7vls5Kr94N5EeBg) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Black Ivory Soul](https://open.spotify.com/album/7pR9BKlxr6IlLhkf4Oc1eB) | 4:25 | 2024-07-22 | 2024-08-18 |

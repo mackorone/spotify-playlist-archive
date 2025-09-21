@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs & The Alchemist
 
-848 songs - 1 day 21 hr 19 min
+849 songs - 1 day 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 | 2024-08-30 | 2025-07-30 |
 | [36 Ounces and a Mercedes](https://open.spotify.com/track/4IfQLjiAk1bahtL0TRkWxQ) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [ILL Tone Beats](https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8) | [The Pre\-Game](https://open.spotify.com/album/5EPczt43gqjn3GY3OdMLCn) | 3:20 | 2025-02-21 | 2025-06-22 |
 | [3:50 in L.A](https://open.spotify.com/track/7o2LXvuYDrH63Tv8UQxhLi) | [Bishop Nehru](https://open.spotify.com/artist/1b5fazYV5ecKkQHKTlwLG8) | [Nehruvia: My Disregarded Thoughts](https://open.spotify.com/album/2noJiJ7pCVOIu1yc5BT50a) | 3:19 | 2021-09-03 | 2022-01-27 |
-| [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 | 2025-02-07 |  |
+| [3:AM \(feat\. Erykah Badu\)](https://open.spotify.com/track/44BRidSOFkXcKH3oZzHKdR) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 3:33 | 2025-02-07 | 2025-09-21 |
 | [456 semm](https://open.spotify.com/track/0f0vtIaGiLXakQ1JcjOOiA) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scarecrows](https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj) | 3:26 | 2025-08-08 |  |
 | [505](https://open.spotify.com/track/0Tmh90l0RvTR0lZMWSey2i) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Apt\. 505](https://open.spotify.com/album/2f9OKBlHW6ZcJ11cutOCGf) | 3:07 | 2022-04-01 | 2022-12-03 |
 | [50K or Brunch](https://open.spotify.com/track/3Ibuz2B3qy9a6EJBdwC8UV) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [50K or Brunch](https://open.spotify.com/album/2nQwGLF2oQfLuy5I0i9DqE) | 2:38 | 2022-09-02 | 2022-09-17 |
@@ -832,6 +832,7 @@
 | [What It Came Wit](https://open.spotify.com/track/7j9toA31XRMOsgA5x7m5UN) | [P.Gutter](https://open.spotify.com/artist/32YCpkE0HALpF82ZcJxUeX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [What It Came Wit](https://open.spotify.com/album/3Bv54tILGqaNq5xxyrwFbT) | 3:18 | 2023-07-07 | 2023-07-20 |
 | [What This All Really Means](https://open.spotify.com/track/6IkrEMj1yTPyZr5bk8PmGF) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:00 | 2023-07-21 | 2023-10-22 |
 | [Where I Belong](https://open.spotify.com/track/1PwY8OpvFFt7CmnpnPAw7O) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Where I Belong](https://open.spotify.com/album/1IoHRUzxpGXIxgA5otCYe0) | 3:08 | 2022-07-01 | 2022-12-06 |
+| [Who Killed Michael Jackson??????](https://open.spotify.com/track/70UW9NcUpy1nlHoW0XFVeL) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Quentin Miller](https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9) | [A Written Testimony: Leaflets](https://open.spotify.com/album/3KYiZsPl8C1hOWFGXWSMSx) | 5:54 | 2025-09-19 |  |
 | [Who Wants What](https://open.spotify.com/track/2z3woIGj8hClFZVq0Hvcwr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Who Wants What](https://open.spotify.com/album/6d4Jwyp4LsakoykTAvHL6Z) | 5:23 | 2021-09-03 | 2022-07-14 |
 | [Whoop Tang Flow \(feat\. Raekwon\)](https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Bebey](https://open.spotify.com/album/01ewz4ezvpzgz1R1WOetVy) | 4:01 | 2021-09-03 | 2022-06-18 |
 | [Wilson Fisk \(feat\. 38 Spesh\)](https://open.spotify.com/track/1KWDFS1nvOupYRt8lXklgo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Lavish Misery](https://open.spotify.com/album/73VpGECa5lE0BM4t0YvVsV) | 2:38 | 2024-03-08 | 2024-03-16 |

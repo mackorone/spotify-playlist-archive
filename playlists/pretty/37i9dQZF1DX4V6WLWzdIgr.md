@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > ra kabeh sing mbok tresnani, mbalik nresnani kowe 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,805 likes - 90 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,933 likes - 90 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

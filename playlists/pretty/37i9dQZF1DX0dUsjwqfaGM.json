@@ -203,6 +203,22 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
+        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
+      },
+      "artists": [
+        {
+          "name": "Vy Vy",
+          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
+        }
+      ],
+      "duration_ms": 218507,
+      "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
+      "url": "https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF"
+    },
+    {
+      "added_at": "2025-06-12 10:26:12",
+      "album": {
         "name": "ANH B\u1edc VAI",
         "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
       },
@@ -223,34 +239,22 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-        "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
-      },
-      "artists": [
-        {
-          "name": "Vy Vy",
-          "url": "https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j"
-        }
-      ],
-      "duration_ms": 218507,
-      "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
-      "url": "https://open.spotify.com/track/43CnREMxKnUeLJiUpgoKRF"
-    },
-    {
-      "added_at": "2025-06-12 10:26:12",
-      "album": {
-        "name": "Gentle Bad",
-        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
+        "name": "U Can Call Me (feat. TINLE)",
+        "url": "https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD"
       },
       "artists": [
         {
           "name": "GUrbane",
           "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        },
+        {
+          "name": "TINLE",
+          "url": "https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq"
         }
       ],
-      "duration_ms": 236363,
-      "name": "Gentle Bad",
-      "url": "https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug"
+      "duration_ms": 210731,
+      "name": "U Can Call Me (feat. TINLE)",
+      "url": "https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -287,22 +291,6 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 219963,
-      "name": "Anh B\u1edd Vai",
-      "url": "https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2"
-    },
-    {
-      "added_at": "2025-06-12 10:26:12",
-      "album": {
         "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
         "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
       },
@@ -319,22 +307,34 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "U Can Call Me (feat. TINLE)",
-        "url": "https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD"
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 219963,
+      "name": "Anh B\u1edd Vai",
+      "url": "https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2"
+    },
+    {
+      "added_at": "2025-06-12 10:26:12",
+      "album": {
+        "name": "Gentle Bad",
+        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
       },
       "artists": [
         {
           "name": "GUrbane",
           "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
-        },
-        {
-          "name": "TINLE",
-          "url": "https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq"
         }
       ],
-      "duration_ms": 210731,
-      "name": "U Can Call Me (feat. TINLE)",
-      "url": "https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U"
+      "duration_ms": 236363,
+      "name": "Gentle Bad",
+      "url": "https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 250748,
-      "name": "N\u1eafng hoa ni\u00ean",
-      "url": "https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G"
-    },
-    {
-      "added_at": "2025-06-12 10:26:12",
-      "album": {
         "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
         "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 214000,
       "name": "D\u1ea1o B\u01b0\u1edbc D\u01b0\u1edbi M\u00f9a H\u00e8",
       "url": "https://open.spotify.com/track/4nDM3iXzRzh3GkfXzC2zrX"
+    },
+    {
+      "added_at": "2025-06-12 10:26:12",
+      "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 250748,
+      "name": "N\u1eafng hoa ni\u00ean",
+      "url": "https://open.spotify.com/track/2HjASGS12d5cZwiLQ5KQ8G"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "ANH B\u1edc VAI",
-        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
-      },
-      "artists": [
-        {
-          "name": "V\u01af\u01a0NG B\u00ccNH",
-          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
-        }
-      ],
-      "duration_ms": 297076,
-      "name": "100 < 1",
-      "url": "https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU"
-    },
-    {
-      "added_at": "2025-06-12 10:26:12",
-      "album": {
         "name": "Bu\u1ed9c V\u00e0o C\u01a1n Gi\u00f3",
         "url": "https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 258750,
       "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
       "url": "https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc"
+    },
+    {
+      "added_at": "2025-06-12 10:26:12",
+      "album": {
+        "name": "ANH B\u1edc VAI",
+        "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
+      },
+      "artists": [
+        {
+          "name": "V\u01af\u01a0NG B\u00ccNH",
+          "url": "https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb"
+        }
+      ],
+      "duration_ms": 297076,
+      "name": "100 < 1",
+      "url": "https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -511,22 +511,18 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "\u1ea8n",
-        "url": "https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo"
+        "name": "Sau T\u1ea5m R\u00e8m",
+        "url": "https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX"
       },
       "artists": [
         {
-          "name": "Teddie J",
-          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
-        },
-        {
-          "name": "Linh C\u00e1o",
-          "url": "https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm"
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
         }
       ],
-      "duration_ms": 196056,
-      "name": "\u1ea8n",
-      "url": "https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl"
+      "duration_ms": 197454,
+      "name": "Sau T\u1ea5m R\u00e8m",
+      "url": "https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -551,18 +547,22 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "Sau T\u1ea5m R\u00e8m",
-        "url": "https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX"
+        "name": "\u1ea8n",
+        "url": "https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo"
       },
       "artists": [
         {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+          "name": "Teddie J",
+          "url": "https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk"
+        },
+        {
+          "name": "Linh C\u00e1o",
+          "url": "https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm"
         }
       ],
-      "duration_ms": 197454,
-      "name": "Sau T\u1ea5m R\u00e8m",
-      "url": "https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX"
+      "duration_ms": 196056,
+      "name": "\u1ea8n",
+      "url": "https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -603,26 +603,18 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "FASHION RAPPER",
-        "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
       },
       "artists": [
         {
-          "name": "PRVCY Rockey",
-          "url": "https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB"
-        },
-        {
-          "name": "SIXTYUPTOWN",
-          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
-        },
-        {
-          "name": "Adam, The Litder",
-          "url": "https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT"
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
         }
       ],
-      "duration_ms": 205656,
-      "name": "FASHION RAPPER",
-      "url": "https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO"
+      "duration_ms": 259202,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -651,18 +643,26 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+        "name": "FASHION RAPPER",
+        "url": "https://open.spotify.com/album/2YQqegcepgvng3OTOC9XaW"
       },
       "artists": [
         {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+          "name": "PRVCY Rockey",
+          "url": "https://open.spotify.com/artist/5p9R1ybhn6OZx7o7KrQtBB"
+        },
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        },
+        {
+          "name": "Adam, The Litder",
+          "url": "https://open.spotify.com/artist/0qP6hoW9mIcHEbZXd2xPPT"
         }
       ],
-      "duration_ms": 259202,
-      "name": "City",
-      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
+      "duration_ms": 205656,
+      "name": "FASHION RAPPER",
+      "url": "https://open.spotify.com/track/29FDEPPwf4LjoW8TYSm5FO"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "Gentle Bad",
-        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
       },
       "artists": [
         {
-          "name": "GUrbane",
-          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Say That You Love Me",
-      "url": "https://open.spotify.com/track/42EOWpTWFoAn56fBRJxN0T"
+      "duration_ms": 220023,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -735,18 +735,18 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
+        "name": "Gentle Bad",
+        "url": "https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y"
       },
       "artists": [
         {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
         }
       ],
-      "duration_ms": 220023,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG"
+      "duration_ms": 216000,
+      "name": "Say That You Love Me",
+      "url": "https://open.spotify.com/track/42EOWpTWFoAn56fBRJxN0T"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -787,26 +787,6 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "ON MY WAY",
-        "url": "https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw"
-      },
-      "artists": [
-        {
-          "name": "GUrbane",
-          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
-        },
-        {
-          "name": "M NAIVE",
-          "url": "https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "ON MY WAY",
-      "url": "https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT"
-    },
-    {
-      "added_at": "2025-06-12 10:26:12",
-      "album": {
         "name": "ANH B\u1edc VAI",
         "url": "https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 247800,
       "name": "B\u1ed3ng B\u1ec1nh B\u1ed3ng B\u1ec1nh",
       "url": "https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr"
+    },
+    {
+      "added_at": "2025-06-12 10:26:12",
+      "album": {
+        "name": "ON MY WAY",
+        "url": "https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        },
+        {
+          "name": "M NAIVE",
+          "url": "https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "ON MY WAY",
+      "url": "https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT"
     },
     {
       "added_at": "2025-06-12 10:26:12",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-06-12 10:26:12",
       "album": {
-        "name": "Gentle Bad (Special Acoustic Version)",
-        "url": "https://open.spotify.com/album/3VyRzYzL0tmMIiXYqo9UQI"
-      },
-      "artists": [
-        {
-          "name": "GUrbane",
-          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
-        }
-      ],
-      "duration_ms": 216740,
-      "name": "Gentle Bad - Special Acoustic Version",
-      "url": "https://open.spotify.com/track/7eH52MOG0HpwIQBbtlveuU"
-    },
-    {
-      "added_at": "2025-06-12 10:26:12",
-      "album": {
         "name": "Thua Ng\u01b0\u1eddi Ta",
         "url": "https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 279000,
       "name": "chi\u1ec1u th\u1ee9 7",
       "url": "https://open.spotify.com/track/4Via6cJtYwTD95mrrwgRkw"
+    },
+    {
+      "added_at": "2025-06-12 10:26:12",
+      "album": {
+        "name": "Gentle Bad (Special Acoustic Version)",
+        "url": "https://open.spotify.com/album/3VyRzYzL0tmMIiXYqo9UQI"
+      },
+      "artists": [
+        {
+          "name": "GUrbane",
+          "url": "https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN"
+        }
+      ],
+      "duration_ms": 216740,
+      "name": "Gentle Bad - Special Acoustic Version",
+      "url": "https://open.spotify.com/track/7eH52MOG0HpwIQBbtlveuU"
     }
   ],
   "unique_name": "RADAR Vietnam",

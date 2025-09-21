@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Lena Zevgara",
-  "num_followers": 36665,
+  "num_followers": 36670,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,18 @@
     {
       "added_at": "2025-09-11 21:00:09",
       "album": {
-        "name": "San To Louloudi",
-        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
+        "name": "Me Sighorite",
+        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
       },
       "artists": [
         {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        },
-        {
-          "name": "Stavento",
-          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
         }
       ],
-      "duration_ms": 193274,
-      "name": "San To Louloudi",
-      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
+      "duration_ms": 210007,
+      "name": "Me Sighorite",
+      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
     },
     {
       "added_at": "2025-09-11 21:00:09",
@@ -351,18 +347,22 @@
     {
       "added_at": "2025-09-11 21:00:09",
       "album": {
-        "name": "Me Sighorite",
-        "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
+        "name": "San To Louloudi",
+        "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        },
+        {
+          "name": "Stavento",
+          "url": "https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK"
         }
       ],
-      "duration_ms": 210007,
-      "name": "Me Sighorite",
-      "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+      "duration_ms": 193274,
+      "name": "San To Louloudi",
+      "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
     },
     {
       "added_at": "2025-09-11 21:00:09",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-09-11 21:00:09",
       "album": {
-        "name": "Na Giriseis Pou",
-        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
-      },
-      "artists": [
-        {
-          "name": "Nikos Makropoulos",
-          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
-        }
-      ],
-      "duration_ms": 166105,
-      "name": "Na Giriseis Pou",
-      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
-    },
-    {
-      "added_at": "2025-09-11 21:00:09",
-      "album": {
         "name": "maZW Akoma (Ola Mou Ta Thelo)",
         "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 208355,
       "name": "maZW Akoma (Ola Mou Ta Thelo)",
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+    },
+    {
+      "added_at": "2025-09-11 21:00:09",
+      "album": {
+        "name": "Na Giriseis Pou",
+        "url": "https://open.spotify.com/album/3NtmGvcOSVqR53Qw2JL7mo"
+      },
+      "artists": [
+        {
+          "name": "Nikos Makropoulos",
+          "url": "https://open.spotify.com/artist/5ETZ4zl1tAJe8zCTDEaoGO"
+        }
+      ],
+      "duration_ms": 166105,
+      "name": "Na Giriseis Pou",
+      "url": "https://open.spotify.com/track/12yBDRdAFphLSeubaMO4Cc"
     },
     {
       "added_at": "2025-09-11 21:00:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-09-11 21:00:09",
       "album": {
-        "name": "Dysi Kai Anatoli",
-        "url": "https://open.spotify.com/album/6QgvVuIEs3WAKpEq5XOS1T"
-      },
-      "artists": [
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Dysi Kai Anatoli",
-      "url": "https://open.spotify.com/track/1SlEspnD2trG8pZSiUCy94"
-    },
-    {
-      "added_at": "2025-09-11 21:00:09",
-      "album": {
         "name": "24 Ores",
         "url": "https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 197378,
       "name": "24 Ores",
       "url": "https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX"
+    },
+    {
+      "added_at": "2025-09-11 21:00:09",
+      "album": {
+        "name": "Dysi Kai Anatoli",
+        "url": "https://open.spotify.com/album/6QgvVuIEs3WAKpEq5XOS1T"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Dysi Kai Anatoli",
+      "url": "https://open.spotify.com/track/1SlEspnD2trG8pZSiUCy94"
     },
     {
       "added_at": "2025-09-11 21:00:09",

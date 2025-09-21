@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: The Dirty Skirts
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,709 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,719 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 23 | [Groen Radio](https://open.spotify.com/track/1KZBgmpGw1rNBP0pb8jprd) | [Simeon Kriel](https://open.spotify.com/artist/6gMmN8h1L9X9H6dVllgltp), [Alleen Na Desember](https://open.spotify.com/artist/3Rsnw9ucAh383CLWoZip5w) | [Alleen Na Desember](https://open.spotify.com/album/1ixpbY9HFzlzR2s0QUP39Y) | 3:30 |
 | 24 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 25 | [Naglied](https://open.spotify.com/track/1vzvmwNz3upK4s9GsYeO7k) | [Karel Bester & Die Kraaines Band](https://open.spotify.com/artist/6kaSeQhlAwj3t83bCY4Zvz) | [Naglied](https://open.spotify.com/album/341135ghJpap3hsbMCmOFU) | 3:54 |
-| 26 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
+| 26 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 27 | [Te Laat](https://open.spotify.com/track/7bLQdagnve3FSdz33nm47z) | [Renier West](https://open.spotify.com/artist/6w6boCjphrBbeyvDWgRD9w) | [Te Laat](https://open.spotify.com/album/3cFvXFR3e3UuAbfItgtuM9) | 3:18 |
-| 28 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
+| 28 | [Dis DDP](https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Dis DDP](https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES) | 3:15 |
 | 29 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
 | 30 | [RULEMAKER](https://open.spotify.com/track/2h1p0cauj24GNWX6SO9uO4) | [Feargulls](https://open.spotify.com/artist/72yLNS51IoyspvoeeaAs8h) | [RULEMAKER](https://open.spotify.com/album/6n5cNP3g1nWammMsEX2czk) | 2:56 |
 | 31 | [SKREE](https://open.spotify.com/track/3Cc3QpKHoRLzn04i8sv1Ef) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [SKREE](https://open.spotify.com/album/6Hey3FHSiKTBAIR4GUoXrF) | 2:58 |

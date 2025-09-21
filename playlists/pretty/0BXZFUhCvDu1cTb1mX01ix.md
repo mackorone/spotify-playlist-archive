@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0BXZFUhCvDu1cTb1mX01ix.md) - [plain]
 
 > Crank it, sing along, and relive the decade that brought some of the best hits! Cover: No Doubt
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 116,699 likes - 80 songs - 5 hr 36 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 116,698 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

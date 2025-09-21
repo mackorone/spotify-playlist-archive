@@ -9969,6 +9969,24 @@
     },
     {
       "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/0eKrahjuysLIsQv6OAZ64O"
+      },
+      "artists": [
+        {
+          "name": "Music VEVO",
+          "url": "https://open.spotify.com/artist/7kfGz1zUDfTBwWV1Gnk1Dg"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150086,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/1kf14PEup9Lfagx9PdsrCR"
+    },
+    {
+      "album": {
         "name": "Cas Con Sal",
         "url": "https://open.spotify.com/album/476F4oCLcyTbtDkxXfF98u"
       },
@@ -11308,7 +11326,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 241906,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/5ksXJchmDn2QnQNP8MVRXq"
@@ -18780,7 +18798,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 158200,
       "name": "El Jarabe Tapat\u00edo",
       "url": "https://open.spotify.com/track/3Ar6aR0DwkuWHKLwlxS6Hc"
@@ -19752,7 +19770,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 135024,
       "name": "Elecciones Victor M",
       "url": "https://open.spotify.com/track/5K9ujU6oMzV5UxyHKhaWok"
@@ -30398,7 +30416,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 192998,
       "name": "La M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/0EXLXqvuCnE6hoPPxsVk3P"
@@ -37006,7 +37024,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 226035,
       "name": "MIENTRAS DUERMES",
       "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
@@ -59534,7 +59552,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -64128,7 +64146,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 261933,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/0A6sqSxlqml1wjQLjuM4BH"

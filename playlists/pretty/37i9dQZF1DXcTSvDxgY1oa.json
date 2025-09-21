@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. Cover: Syot ",
-  "num_followers": 1912,
+  "num_followers": 1914,
   "original_name": "Popronde 2025",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/1YYGYLfJqSYH34dgrxPkkt"
+      },
+      "artists": [
+        {
+          "name": "LNDE",
+          "url": "https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be"
+        }
+      ],
+      "duration_ms": 202312,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3yJ2xDbJBa28WQ8Wag4UmN"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
         "name": "Lach",
         "url": "https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 247495,
       "name": "perfectly imperfect",
       "url": "https://open.spotify.com/track/3DCzpVDtnF6Pw4NlqPbDaR"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/1YYGYLfJqSYH34dgrxPkkt"
-      },
-      "artists": [
-        {
-          "name": "LNDE",
-          "url": "https://open.spotify.com/artist/2YuMX7ytJAdMfJr7x8r7Be"
-        }
-      ],
-      "duration_ms": 202312,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3yJ2xDbJBa28WQ8Wag4UmN"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Dom Doen",
-        "url": "https://open.spotify.com/album/2WMtQfA6ZHRhdVTYL904tq"
-      },
-      "artists": [
-        {
-          "name": "Hiltje",
-          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Dom Doen",
-      "url": "https://open.spotify.com/track/6fWOe3X6TtsOcBjmE38bSk"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Like Her",
         "url": "https://open.spotify.com/album/2YOH02gLy3eKZaQL88EsaN"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 164571,
       "name": "Like Her",
       "url": "https://open.spotify.com/track/6FhWIHut9fb3hMHniCD4ei"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Dom Doen",
+        "url": "https://open.spotify.com/album/2WMtQfA6ZHRhdVTYL904tq"
+      },
+      "artists": [
+        {
+          "name": "Hiltje",
+          "url": "https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Dom Doen",
+      "url": "https://open.spotify.com/track/6fWOe3X6TtsOcBjmE38bSk"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Iemand Anders",
-        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
-      },
-      "artists": [
-        {
-          "name": "REINDIER",
-          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
-        }
-      ],
-      "duration_ms": 230599,
-      "name": "Iemand Anders",
-      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Muurvast",
         "url": "https://open.spotify.com/album/2YZPcDxaUMzrNCvn4FovNq"
       },
@@ -587,18 +571,34 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "The S Tapes",
-        "url": "https://open.spotify.com/album/5CTp9d48vHsPdjGLWt4VTZ"
+        "name": "Iemand Anders",
+        "url": "https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL"
       },
       "artists": [
         {
-          "name": "Dear Omen",
-          "url": "https://open.spotify.com/artist/3jZaVUML78O4diJtPEmPbP"
+          "name": "REINDIER",
+          "url": "https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK"
         }
       ],
-      "duration_ms": 237197,
-      "name": "Use Me, Darling",
-      "url": "https://open.spotify.com/track/7fBRooTzTLU4OMfZTA09pv"
+      "duration_ms": 230599,
+      "name": "Iemand Anders",
+      "url": "https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Kattekwaad",
+        "url": "https://open.spotify.com/album/6SD0ruH583DtucRVb8bk4y"
+      },
+      "artists": [
+        {
+          "name": "CLITTEBAND",
+          "url": "https://open.spotify.com/artist/1mdpsox66qFgKuJIzvPpFv"
+        }
+      ],
+      "duration_ms": 152261,
+      "name": "Gore Gozers",
+      "url": "https://open.spotify.com/track/6J3FJIq8q1ps0kBv2RoDOv"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Kattekwaad",
-        "url": "https://open.spotify.com/album/6SD0ruH583DtucRVb8bk4y"
+        "name": "The S Tapes",
+        "url": "https://open.spotify.com/album/5CTp9d48vHsPdjGLWt4VTZ"
       },
       "artists": [
         {
-          "name": "CLITTEBAND",
-          "url": "https://open.spotify.com/artist/1mdpsox66qFgKuJIzvPpFv"
+          "name": "Dear Omen",
+          "url": "https://open.spotify.com/artist/3jZaVUML78O4diJtPEmPbP"
         }
       ],
-      "duration_ms": 152261,
-      "name": "Gore Gozers",
-      "url": "https://open.spotify.com/track/6J3FJIq8q1ps0kBv2RoDOv"
+      "duration_ms": 237197,
+      "name": "Use Me, Darling",
+      "url": "https://open.spotify.com/track/7fBRooTzTLU4OMfZTA09pv"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/18FVsSUcmtFoJ2hoJrXhTD"
-      },
-      "artists": [
-        {
-          "name": "Badminton",
-          "url": "https://open.spotify.com/artist/3dGxfZgbXwg8qIRYs1IuNO"
-        }
-      ],
-      "duration_ms": 140682,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/4nvcnHLaI4TBB2lxNE1W25"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Be Gone Now",
         "url": "https://open.spotify.com/album/1wsFs3qIxbQ6t6XIqDqCVQ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 199763,
       "name": "Be Gone Now",
       "url": "https://open.spotify.com/track/07VxsgaKq3CK358NFjfRWP"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/18FVsSUcmtFoJ2hoJrXhTD"
+      },
+      "artists": [
+        {
+          "name": "Badminton",
+          "url": "https://open.spotify.com/artist/3dGxfZgbXwg8qIRYs1IuNO"
+        }
+      ],
+      "duration_ms": 140682,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/4nvcnHLaI4TBB2lxNE1W25"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Superficial Girl",
-        "url": "https://open.spotify.com/album/7kCM6kZYqbxgSFx9XuheSY"
-      },
-      "artists": [
-        {
-          "name": "Jackie & The Facts",
-          "url": "https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf"
-        }
-      ],
-      "duration_ms": 169239,
-      "name": "Superficial Girl",
-      "url": "https://open.spotify.com/track/68ODURPoZdrI92TjFMe6cZ"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Not That Deep",
         "url": "https://open.spotify.com/album/1i0Yk07fWVnBlOfnDmRdpn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215998,
       "name": "Not That Deep",
       "url": "https://open.spotify.com/track/3p9fESJ7NQuTymS0Qqclyc"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Superficial Girl",
+        "url": "https://open.spotify.com/album/7kCM6kZYqbxgSFx9XuheSY"
+      },
+      "artists": [
+        {
+          "name": "Jackie & The Facts",
+          "url": "https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf"
+        }
+      ],
+      "duration_ms": 169239,
+      "name": "Superficial Girl",
+      "url": "https://open.spotify.com/track/68ODURPoZdrI92TjFMe6cZ"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -947,42 +947,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "No Regrets",
-        "url": "https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg"
-      },
-      "artists": [
-        {
-          "name": "Inherited",
-          "url": "https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02"
-        }
-      ],
-      "duration_ms": 152652,
-      "name": "Purge",
-      "url": "https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "volgens mij ben ik verliefd",
-        "url": "https://open.spotify.com/album/27K7UVc24nW01l6WhvipId"
-      },
-      "artists": [
-        {
-          "name": "Dashaeno",
-          "url": "https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE"
-        },
-        {
-          "name": "damy",
-          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
-        }
-      ],
-      "duration_ms": 147648,
-      "name": "volgens mij ben ik verliefd",
-      "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Astrolabium",
         "url": "https://open.spotify.com/album/5QSbJFB8m77WctR3Dz6Ipg"
       },
@@ -995,6 +959,22 @@
       "duration_ms": 213800,
       "name": "Abiga\u00efl",
       "url": "https://open.spotify.com/track/20TNMClcKfd2YCtlHNMu2q"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "No Regrets",
+        "url": "https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg"
+      },
+      "artists": [
+        {
+          "name": "Inherited",
+          "url": "https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02"
+        }
+      ],
+      "duration_ms": 152652,
+      "name": "Purge",
+      "url": "https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1031,6 +1011,26 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
+        "name": "volgens mij ben ik verliefd",
+        "url": "https://open.spotify.com/album/27K7UVc24nW01l6WhvipId"
+      },
+      "artists": [
+        {
+          "name": "Dashaeno",
+          "url": "https://open.spotify.com/artist/4I2aCs53IWnEvtMGuiJlSE"
+        },
+        {
+          "name": "damy",
+          "url": "https://open.spotify.com/artist/174dVKjThMTw6S3PYfYUZK"
+        }
+      ],
+      "duration_ms": 147648,
+      "name": "volgens mij ben ik verliefd",
+      "url": "https://open.spotify.com/track/3v7jPB2LvWc0WA9cRHqYHS"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
         "name": "Dans la nuit",
         "url": "https://open.spotify.com/album/1odIZMVjPJDgh0p1HhfpZI"
       },
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
+        "name": "short answers, quick messages",
+        "url": "https://open.spotify.com/album/5jBX8bBMjmSCBY97jTCdsH"
+      },
+      "artists": [
+        {
+          "name": "SERVICE",
+          "url": "https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY"
+        }
+      ],
+      "duration_ms": 221005,
+      "name": "short answers, quick messages",
+      "url": "https://open.spotify.com/track/5idnCP5skXPpkgqYUuzRMO"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
         "name": "Best Of You",
         "url": "https://open.spotify.com/album/6m0TUbG4smeIIud4CxRROT"
       },
@@ -1075,22 +1091,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "short answers, quick messages",
-        "url": "https://open.spotify.com/album/5jBX8bBMjmSCBY97jTCdsH"
-      },
-      "artists": [
-        {
-          "name": "SERVICE",
-          "url": "https://open.spotify.com/artist/2GS7B0jEZp2FPg6NH6zJNY"
-        }
-      ],
-      "duration_ms": 221005,
-      "name": "short answers, quick messages",
-      "url": "https://open.spotify.com/track/5idnCP5skXPpkgqYUuzRMO"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Lonely Part Of Me",
         "url": "https://open.spotify.com/album/4LCVhpY0194Ei335gTSxIu"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 199558,
       "name": "Lonely Part Of Me",
       "url": "https://open.spotify.com/track/1B2SEsITGnyID7NI7HJIKA"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Low Fire",
+        "url": "https://open.spotify.com/album/7t5PZLfWVbr5mYP1Xwlluh"
+      },
+      "artists": [
+        {
+          "name": "Mazis",
+          "url": "https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg"
+        }
+      ],
+      "duration_ms": 260010,
+      "name": "Low Fire",
+      "url": "https://open.spotify.com/track/39XFyZJzw07vyuQqKgKsFA"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Rebecca",
-        "url": "https://open.spotify.com/album/6nolDWZk9XnHEXXVnubPH2"
-      },
-      "artists": [
-        {
-          "name": "The Pekkers",
-          "url": "https://open.spotify.com/artist/22D5gB31snumzOzjp48D1R"
-        }
-      ],
-      "duration_ms": 212718,
-      "name": "Rebecca",
-      "url": "https://open.spotify.com/track/25IJaZY5S618JEIOLW4Ot8"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "Feel The Pain",
         "url": "https://open.spotify.com/album/0qSeZDreT0DBBghTv3gEiq"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Low Fire",
-        "url": "https://open.spotify.com/album/7t5PZLfWVbr5mYP1Xwlluh"
+        "name": "Rebecca",
+        "url": "https://open.spotify.com/album/6nolDWZk9XnHEXXVnubPH2"
       },
       "artists": [
         {
-          "name": "Mazis",
-          "url": "https://open.spotify.com/artist/2EreMe8NHDgvfRNBGO2hbg"
+          "name": "The Pekkers",
+          "url": "https://open.spotify.com/artist/22D5gB31snumzOzjp48D1R"
         }
       ],
-      "duration_ms": 260010,
-      "name": "Low Fire",
-      "url": "https://open.spotify.com/track/39XFyZJzw07vyuQqKgKsFA"
+      "duration_ms": 212718,
+      "name": "Rebecca",
+      "url": "https://open.spotify.com/track/25IJaZY5S618JEIOLW4Ot8"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
+        "name": "The Immortal Gerard",
+        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
+      },
+      "artists": [
+        {
+          "name": "Baba Pen & The Bim Bam Band",
+          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
+        }
+      ],
+      "duration_ms": 251106,
+      "name": "The Immortal Gerard",
+      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
         "name": "Alice",
         "url": "https://open.spotify.com/album/2YOVFeQhCUQgCPEyhkDLfU"
       },
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
+        "name": "Bust a Move",
+        "url": "https://open.spotify.com/album/24ksVM6aYcWH9xEHnqTHka"
+      },
+      "artists": [
+        {
+          "name": "STROOMSTOOT",
+          "url": "https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi"
+        }
+      ],
+      "duration_ms": 177652,
+      "name": "Bust a Move",
+      "url": "https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
         "name": "Learning To Live Without You",
         "url": "https://open.spotify.com/album/0CEhKsVuC0OHKHXopt3tSt"
       },
@@ -1235,22 +1267,6 @@
       "duration_ms": 203624,
       "name": "Learning To Live Without You",
       "url": "https://open.spotify.com/track/3mnEcmQEV5kjHNok4opDS2"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "The Immortal Gerard",
-        "url": "https://open.spotify.com/album/7BAh6QkxTBK8vY6JepR17J"
-      },
-      "artists": [
-        {
-          "name": "Baba Pen & The Bim Bam Band",
-          "url": "https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9"
-        }
-      ],
-      "duration_ms": 251106,
-      "name": "The Immortal Gerard",
-      "url": "https://open.spotify.com/track/0L9h6PM0vMWpHThUpiK55z"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1287,18 +1303,50 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "Bust a Move",
-        "url": "https://open.spotify.com/album/24ksVM6aYcWH9xEHnqTHka"
+        "name": "A\u015fk\u0131m Benim",
+        "url": "https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI"
       },
       "artists": [
         {
-          "name": "STROOMSTOOT",
-          "url": "https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi"
+          "name": "Kemal",
+          "url": "https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5"
         }
       ],
-      "duration_ms": 177652,
-      "name": "Bust a Move",
-      "url": "https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7"
+      "duration_ms": 188235,
+      "name": "A\u015fk\u0131m Benim",
+      "url": "https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ"
+      },
+      "artists": [
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
+        }
+      ],
+      "duration_ms": 251026,
+      "name": "Odo",
+      "url": "https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "Sight Inside",
+        "url": "https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra"
+      },
+      "artists": [
+        {
+          "name": "FAST DE",
+          "url": "https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Miss Trutti Finally Found Her Gem",
+      "url": "https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1319,22 +1367,6 @@
       "duration_ms": 279646,
       "name": "Resonant Echoes",
       "url": "https://open.spotify.com/track/3lHJqZc9enjdV0lh5UXeTr"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "Sight Inside",
-        "url": "https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra"
-      },
-      "artists": [
-        {
-          "name": "FAST DE",
-          "url": "https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Miss Trutti Finally Found Her Gem",
-      "url": "https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1371,54 +1403,6 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
-        "name": "PICTURE PERFECT",
-        "url": "https://open.spotify.com/album/6uwAmMJ4xRanLbu37BTkEO"
-      },
-      "artists": [
-        {
-          "name": "Trxnz",
-          "url": "https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "PICTURE PERFECT",
-      "url": "https://open.spotify.com/track/1iBPVg9hGfRNuI6zlxPAnW"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5eyxTmhSDiUjp4XJKrFxVJ"
-      },
-      "artists": [
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0G0qI6dxJaWcGBmPmLKU6z"
-        }
-      ],
-      "duration_ms": 251026,
-      "name": "Odo",
-      "url": "https://open.spotify.com/track/1fnNSWATbZd4UMjtXGnb6t"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "A\u015fk\u0131m Benim",
-        "url": "https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI"
-      },
-      "artists": [
-        {
-          "name": "Kemal",
-          "url": "https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "A\u015fk\u0131m Benim",
-      "url": "https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
         "name": "I Won't Back Down",
         "url": "https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 141532,
       "name": "Tanjiro",
       "url": "https://open.spotify.com/track/0CcdB5iv26yiENNayybuZB"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
+        "name": "PICTURE PERFECT",
+        "url": "https://open.spotify.com/album/6uwAmMJ4xRanLbu37BTkEO"
+      },
+      "artists": [
+        {
+          "name": "Trxnz",
+          "url": "https://open.spotify.com/artist/1u2RwK9C55BTgbGB0LARNm"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "PICTURE PERFECT",
+      "url": "https://open.spotify.com/track/1iBPVg9hGfRNuI6zlxPAnW"
     },
     {
       "added_at": "2025-09-16 09:26:39",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-09-16 09:26:39",
       "album": {
+        "name": "Citroen Jenever",
+        "url": "https://open.spotify.com/album/6yjOhOi0OR8addoViqALsq"
+      },
+      "artists": [
+        {
+          "name": "Vegan Music",
+          "url": "https://open.spotify.com/artist/4QaDqUig4hQ0OARX0CCYVG"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Citroen Jenever",
+      "url": "https://open.spotify.com/track/1TXeb0NcFd2legVPBUlkxA"
+    },
+    {
+      "added_at": "2025-09-16 09:26:39",
+      "album": {
         "name": "EIGEN RISICO 3",
         "url": "https://open.spotify.com/album/3elHSIIOjgCb8mYc3yZO65"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 163796,
       "name": "Conditioned",
       "url": "https://open.spotify.com/track/7x76FmoY7VlJ2daAqpSjLw"
-    },
-    {
-      "added_at": "2025-09-16 09:26:39",
-      "album": {
-        "name": "Citroen Jenever",
-        "url": "https://open.spotify.com/album/6yjOhOi0OR8addoViqALsq"
-      },
-      "artists": [
-        {
-          "name": "Vegan Music",
-          "url": "https://open.spotify.com/artist/4QaDqUig4hQ0OARX0CCYVG"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Citroen Jenever",
-      "url": "https://open.spotify.com/track/1TXeb0NcFd2legVPBUlkxA"
     },
     {
       "added_at": "2025-09-16 09:26:39",

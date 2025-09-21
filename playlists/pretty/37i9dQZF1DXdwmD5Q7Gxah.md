@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,206 likes - 186 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,169 likes - 186 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 300,677 likes - 234 songs - 13 hr 17 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 300,675 likes - 234 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 84 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs) | 4:07 |
 | 85 | [Prayer](https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX) | 2:38 |
 | 86 | [Last Foray \(From "Last Swim" Soundtrack\)](https://open.spotify.com/track/5q4fYSBdqQJ8bS08FYDs7w) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Last Foray \(From "Last Swim" Soundtrack\)](https://open.spotify.com/album/18TWiATPDTTzTLA253Uv0c) | 1:40 |
-| 87 | [Piano Sonata in A major \- Official video](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |
+| 87 | [Piano Sonata in A major](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |
 | 88 | [Kyo](https://open.spotify.com/track/0LjazH98i2iH7TCkKPX4m3) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Kyo](https://open.spotify.com/album/0lwPCjEyY3TOE93TYeeFq8) | 2:57 |
 | 89 | [Troubled Water](https://open.spotify.com/track/51PYzvfPToQI5LXVS5v53G) | [Margaret Bonds](https://open.spotify.com/artist/5rAjCNBtMjC6cP6IVpaC9l), [Jeneba Kanneh\-Mason](https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ) | [Fantasie](https://open.spotify.com/album/2VBiMRKdZF0UnlA2UOgOYL) | 5:23 |
 | 90 | [Ave Maria Variation \(After The Well\-Tempered Clavier I: Prelude and Fugue No\. 1 in C Major, BWV 846: I\. Prelude\) \[Arr\. for Violin, String Quintet and Piano by Tim Allhoff\]](https://open.spotify.com/track/26XqpCmNYpvbkFttjmBIUb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Eldbjørg Hemsing](https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F), [Norwegian String Quintet](https://open.spotify.com/artist/2e7YyU25R6B4frcn8lHz4B) | [Ave Maria Variation](https://open.spotify.com/album/6PhODc9izHGNLBYs0B7akm) | 2:08 |

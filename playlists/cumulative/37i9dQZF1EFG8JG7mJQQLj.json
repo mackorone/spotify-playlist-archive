@@ -6266,7 +6266,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
@@ -8638,10 +8638,28 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 162346,
       "name": "Stone Cold Love",
       "url": "https://open.spotify.com/track/3mSaE1mYeLgZkdHwGFxkRi"
+    },
+    {
+      "album": {
+        "name": "Good Road to Follow",
+        "url": "https://open.spotify.com/album/3Qea9kfTfWWk5mREvVdApw"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Stone Cold Love",
+      "url": "https://open.spotify.com/track/2u3xMFhm3jIgvbL9Q2J1um"
     },
     {
       "album": {
@@ -9878,7 +9896,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 273960,
       "name": "Unbroken",
       "url": "https://open.spotify.com/track/1PDmepvxFGC6jP1GTs7rne"

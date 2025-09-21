@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 284,173 likes - 37 songs - 2 hr 1 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 284,163 likes - 37 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 17 | [Big Fun](https://open.spotify.com/track/41eO3dxtmTvs4XqA30Rfz6) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Big Fun](https://open.spotify.com/album/551L9RzD8tuvZvBPwRT42u) | 2:57 |
 | 18 | [Set Me Free](https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Set Me Free](https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF) | 3:09 |
 | 19 | [Move](https://open.spotify.com/track/6cUX5QNP8x7tEZDDRWuwdH) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Move](https://open.spotify.com/album/0XCCqqwriW8mcWBJNFo1ig) | 3:00 |
-| 20 | [Y.O.U.](https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Y.O.U](https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh) | 3:03 |
+| 20 | [Y.O.U.](https://open.spotify.com/track/7zRayTvShLcDhlxdo8CsIN) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Y.O.U.](https://open.spotify.com/album/3SXXeeBoNzJg7oMqmXy0bh) | 3:03 |
 | 21 | [Where All My People](https://open.spotify.com/track/0koUMh9cOpA0WfWD20MIxD) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [House Of Molly](https://open.spotify.com/artist/2OJ4GHfL6qKe7osItZyedh) | [Where All My People](https://open.spotify.com/album/47EJutKixbBXN6mVtXe7Qg) | 3:06 |
 | 22 | [Gets Like That](https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [The Finest EP](https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve) | 2:49 |
 | 23 | [nobody \(make me feel\)](https://open.spotify.com/track/72qknjLxZXE6iE6h27sIHY) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [nobody \(make me feel\)](https://open.spotify.com/album/3eeriHqB4mrrlzqFwdpjHQ) | 2:45 |

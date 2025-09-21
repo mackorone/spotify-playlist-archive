@@ -1,6 +1,6 @@
 {
   "description": "Jotap\u00ea e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 371683,
+  "num_followers": 371684,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -55,6 +55,26 @@
     {
       "added_at": "2025-09-19 22:36:44",
       "album": {
+        "name": "Fica com Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0I2TaOTi00hnXngSGoP4RA"
+      },
+      "artists": [
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 199871,
+      "name": "Fica com Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/5W7OZVxOtnQsPVLOEUvu1G"
+    },
+    {
+      "added_at": "2025-09-19 22:36:44",
+      "album": {
         "name": "Mixtape Chir\u00f3",
         "url": "https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 213284,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e"
-    },
-    {
-      "added_at": "2025-09-19 22:36:44",
-      "album": {
-        "name": "Fica com Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0I2TaOTi00hnXngSGoP4RA"
-      },
-      "artists": [
-        {
-          "name": "Yan",
-          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 199871,
-      "name": "Fica com Deus - Ao Vivo",
-      "url": "https://open.spotify.com/track/5W7OZVxOtnQsPVLOEUvu1G"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -363,22 +363,18 @@
     {
       "added_at": "2025-09-19 22:36:44",
       "album": {
-        "name": "Desabafo 2",
-        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
+        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
       },
       "artists": [
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Desabafo 2",
-      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
+      "duration_ms": 229131,
+      "name": "Banjo E Bon\u00e9 - Ao Vivo",
+      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -423,18 +419,22 @@
     {
       "added_at": "2025-09-19 22:36:44",
       "album": {
-        "name": "Banjo E Bon\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/02yzZwEiWu5iGYoLDFyFVd"
+        "name": "Desabafo 2",
+        "url": "https://open.spotify.com/album/0lcel8WZounsmaTOL2Awg9"
       },
       "artists": [
         {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
-      "duration_ms": 229131,
-      "name": "Banjo E Bon\u00e9 - Ao Vivo",
-      "url": "https://open.spotify.com/track/3n9qVrN5kbErDCj51tJvEE"
+      "duration_ms": 150000,
+      "name": "Desabafo 2",
+      "url": "https://open.spotify.com/track/4fcl3bHKtrVcrygIZk8Zfw"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -451,6 +451,22 @@
       "duration_ms": 207272,
       "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
       "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+    },
+    {
+      "added_at": "2025-09-19 22:36:44",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 298871,
+      "name": "FEBRE",
+      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -475,22 +491,6 @@
       "duration_ms": 251587,
       "name": "Avan\u00e7ando Muito",
       "url": "https://open.spotify.com/track/07wT9eu9bx9rMvIychC4lT"
-    },
-    {
-      "added_at": "2025-09-19 22:36:44",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 298871,
-      "name": "FEBRE",
-      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-09-19 22:36:44",
       "album": {
-        "name": "S\u00f3 VVamo Sunset (Ao Vivo)",
-        "url": "https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN"
-      },
-      "artists": [
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        }
-      ],
-      "duration_ms": 168688,
-      "name": "Foto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3POrgCwqQq9JNfUR7OZCnV"
-    },
-    {
-      "added_at": "2025-09-19 22:36:44",
-      "album": {
         "name": "Amor ou Ressentimento",
         "url": "https://open.spotify.com/album/2X2OyxL5P0wBToVT29irgF"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 151048,
       "name": "Amor ou Ressentimento",
       "url": "https://open.spotify.com/track/4FRk1wmtB9JfFey0xEpNM9"
+    },
+    {
+      "added_at": "2025-09-19 22:36:44",
+      "album": {
+        "name": "S\u00f3 VVamo Sunset (Ao Vivo)",
+        "url": "https://open.spotify.com/album/552JgFjFaUfcDdx8Kx4SdN"
+      },
+      "artists": [
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        }
+      ],
+      "duration_ms": 168688,
+      "name": "Foto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3POrgCwqQq9JNfUR7OZCnV"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -939,30 +939,6 @@
     {
       "added_at": "2025-09-19 22:36:44",
       "album": {
-        "name": "Sentido \u00e0 Zona Leste",
-        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 123508,
-      "name": "Sentido \u00e0 Zona Leste",
-      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
-    },
-    {
-      "added_at": "2025-09-19 22:36:44",
-      "album": {
         "name": "Os Caras da Rua, Pt. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5C8z8VzNC4fUpoyIPFyuLu"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 92389,
       "name": "Nosso Lance - Ao Vivo",
       "url": "https://open.spotify.com/track/2vMItEdBMWzJXP8KLoPMvg"
+    },
+    {
+      "added_at": "2025-09-19 22:36:44",
+      "album": {
+        "name": "Sentido \u00e0 Zona Leste",
+        "url": "https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 123508,
+      "name": "Sentido \u00e0 Zona Leste",
+      "url": "https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2"
     },
     {
       "added_at": "2025-09-19 22:36:44",
@@ -1051,22 +1051,38 @@
     {
       "added_at": "2025-09-19 22:36:44",
       "album": {
-        "name": "Papel de Ot\u00e1rio",
-        "url": "https://open.spotify.com/album/49YIhCVfyKRjPYgFJTeoZI"
+        "name": "Pra Decidir (Os Caras Da Rua)",
+        "url": "https://open.spotify.com/album/1rfEA3P0h79oqpulZMK7KG"
       },
       "artists": [
         {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+          "name": "FM O Dia",
+          "url": "https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ"
         },
         {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        },
+        {
+          "name": "Yan",
+          "url": "https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq"
+        },
+        {
+          "name": "Fabinho",
+          "url": "https://open.spotify.com/artist/7p47atayUept3xqqBbVXlN"
+        },
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Renan Oliveira",
+          "url": "https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm"
         }
       ],
-      "duration_ms": 150623,
-      "name": "Papel de Ot\u00e1rio",
-      "url": "https://open.spotify.com/track/10TooKY9p8e0Pget0v26lo"
+      "duration_ms": 172906,
+      "name": "Pra Decidir (Os Caras Da Rua)",
+      "url": "https://open.spotify.com/track/1puFSNhtsa9enn7SVe6oPU"
     },
     {
       "added_at": "2025-09-19 22:36:44",

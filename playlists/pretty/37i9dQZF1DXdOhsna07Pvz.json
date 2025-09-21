@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 96424,
+  "num_followers": 96490,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "A Menina Dan\u00e7a",
-      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Tropix",
         "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 288200,
       "name": "Varanda Suspensa",
       "url": "https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "A Menina Dan\u00e7a",
+      "url": "https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Roda de Funk",
         "url": "https://open.spotify.com/album/3AKNwgDdWfEDrPM384eY3S"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 191560,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/1CocWJfxH8sVh7tTYzszLe"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "M\u00e1quina de Escrever M\u00fasica (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz"
-      },
-      "artists": [
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        }
-      ],
-      "duration_ms": 297573,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "M\u00e1quina de Escrever M\u00fasica (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
     },
     {
       "added_at": "2022-09-22 18:13:04",

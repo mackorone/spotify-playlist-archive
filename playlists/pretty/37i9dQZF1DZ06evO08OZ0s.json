@@ -1,18 +1,18 @@
 {
   "description": "This is Kelli-Leigh. The essential tracks, all in one playlist.",
-  "num_followers": 676,
+  "num_followers": 677,
   "original_name": "This Is Kelli-Leigh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAACcHSPEPVt3qsjW7VUZMvSa",
+  "snapshot_id": "aMydAAAAAACnb4oEW9KWojWieQXgteKd",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/3k0NQ5if3HNqmb9qaZlKkG"
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 193392,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/1OBD78TQNosI2cVxqzCSVT"
+      "duration_ms": 174240,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0udQn3SIcXZYGwFyOO4jgi"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/3k0NQ5if3HNqmb9qaZlKkG"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 193392,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/1OBD78TQNosI2cVxqzCSVT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/2pXhlF11yVLjt2Awu20Ub3"
       },
@@ -327,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chemical Love",
-        "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
-      },
-      "artists": [
-        {
-          "name": "Poylow",
-          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 126490,
-      "name": "Chemical Love",
-      "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chase The Sun",
         "url": "https://open.spotify.com/album/3lmlgZBrwoWe7fTsqTAHnB"
       },
@@ -367,6 +363,26 @@
       "duration_ms": 183281,
       "name": "Chase The Sun",
       "url": "https://open.spotify.com/track/3aTKb3ottzhElNxoYiscPw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemical Love",
+        "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
+      },
+      "artists": [
+        {
+          "name": "Poylow",
+          "url": "https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 126490,
+      "name": "Chemical Love",
+      "url": "https://open.spotify.com/track/2NJ8vHC4lLd0LLELdrvmAA"
     },
     {
       "added_at": null,
@@ -627,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nightales",
         "url": "https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx"
       },
@@ -643,6 +675,22 @@
       "duration_ms": 195384,
       "name": "Nightales",
       "url": "https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favourite Things",
+        "url": "https://open.spotify.com/album/0mLMw6PJM6km6G10Jv5pZ0"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Favourite Things",
+      "url": "https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG"
     },
     {
       "added_at": null,
@@ -671,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favourite Things",
-        "url": "https://open.spotify.com/album/0mLMw6PJM6km6G10Jv5pZ0"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Favourite Things",
-      "url": "https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miracles (ft. Kelli Leigh)",
         "url": "https://open.spotify.com/album/24Jm18cBLx0hQGpfiSZFoD"
       },
@@ -703,6 +735,26 @@
       "duration_ms": 232258,
       "name": "Miracles (feat. Kelli Leigh)",
       "url": "https://open.spotify.com/track/4SBTi6hhwTzD5IlK9gnF8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN"
+      },
+      "artists": [
+        {
+          "name": "Black Saint",
+          "url": "https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 173150,
+      "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w"
     },
     {
       "added_at": null,
@@ -727,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN"
+        "name": "Back",
+        "url": "https://open.spotify.com/album/5FenB9heDmRgVhICwLQdE0"
       },
       "artists": [
-        {
-          "name": "Black Saint",
-          "url": "https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 173150,
-      "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w"
+      "duration_ms": 195172,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/2BhvrItjSTqnTTcbvPC4x3"
     },
     {
       "added_at": null,
@@ -811,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/5FenB9heDmRgVhICwLQdE0"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 195172,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/2BhvrItjSTqnTTcbvPC4x3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Touch Me",
         "url": "https://open.spotify.com/album/380Y40ZOSIWlIWEWjalnkQ"
       },
@@ -887,26 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Lucky (With Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw"
-      },
-      "artists": [
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 177925,
-      "name": "Get Lucky (With Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -931,22 +943,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Yes",
-        "url": "https://open.spotify.com/album/5w2EftFnoXlJf6LCTa3hdf"
+        "name": "Get Lucky (With Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw"
       },
       "artists": [
         {
-          "name": "Krystal Roxx",
-          "url": "https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 210303,
-      "name": "Say Yes - Radio Edit",
-      "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"
+      "duration_ms": 177925,
+      "name": "Get Lucky (With Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
     },
     {
       "added_at": null,
@@ -1011,42 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Desperation",
-        "url": "https://open.spotify.com/album/36W4zH3OCD7qgeLU7G7bQ7"
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/5w2EftFnoXlJf6LCTa3hdf"
       },
       "artists": [
         {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Krystal Roxx",
+          "url": "https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0"
         },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 166060,
-      "name": "Sweet Desperation - Radio Edit",
-      "url": "https://open.spotify.com/track/7e68OISHjPwhWFy9gSmE6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cotton Clouds (Cutmore Remix)",
-        "url": "https://open.spotify.com/album/4DLyIn25SoE3G70uh8X4PK"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Cutmore",
-          "url": "https://open.spotify.com/artist/19Nvb77ZQIw8gff2ZYg3cS"
-        }
-      ],
-      "duration_ms": 233709,
-      "name": "Cotton Clouds - Cutmore Remix",
-      "url": "https://open.spotify.com/track/6DjvrztskWWRh9LzgmL053"
+      "duration_ms": 210303,
+      "name": "Say Yes - Radio Edit",
+      "url": "https://open.spotify.com/track/7pIOrIvj89Z0fpjQwLZ1Ky"
     }
   ],
   "unique_name": "This Is Kelli-Leigh",

@@ -4,7 +4,7 @@
 
 > easy breezy summer 2025 ☀️☺️
 
-327 songs - 16 hr 8 min
+328 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,13 +182,14 @@
 | [Like Home](https://open.spotify.com/track/056o22JVIosLPAF9ZTPVqV) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW) | [Like Home](https://open.spotify.com/album/0lCkWOdc6EZQKrsswelBXP) | 3:11 | 2022-09-15 | 2023-02-24 |
 | [Like The River](https://open.spotify.com/track/1Q2lYPkPWLYkPkUY413lQl) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Like The River](https://open.spotify.com/album/2utkoAbb80PMxawy7W1G8O) | 2:46 | 2024-07-26 | 2024-12-13 |
 | [Like The River](https://open.spotify.com/track/2ax56WgYInN1NuOXgnDTvw) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Like The River](https://open.spotify.com/album/01xxaKbYLaq8fvhN0SinTQ) | 2:46 | 2023-08-24 | 2024-04-19 |
+| [Little More Like Me](https://open.spotify.com/track/0nXi6haQElSxXpgTkM5zMP) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [aniika](https://open.spotify.com/artist/2wi4P025ZjQKNvhTpjncc3) | [Little More Like Me](https://open.spotify.com/album/7ohafsECLE68cvZH4cSZME) | 2:53 | 2025-09-18 |  |
 | [Live In The Moment](https://open.spotify.com/track/7hNec5eJPMhEKFTvF5cvNt) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Live In The Moment](https://open.spotify.com/album/4OYcMY57gpiT6PzvL5tzxn) | 3:00 | 2022-09-15 | 2023-06-29 |
 | [Lost & Found](https://open.spotify.com/track/4e5WwKKeIjWiwYEd39exKW) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Lost & Found](https://open.spotify.com/album/30YcBQt0C4lqcAOFXpBYJG) | 3:59 | 2023-06-29 | 2024-03-21 |
 | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx) | [Jack David](https://open.spotify.com/artist/4cX1pqH0S3g3jvN8wiYPjG), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj), [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Lost In Love \(feat\. Rolipso\)](https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou) | 2:04 | 2024-09-10 |  |
 | [Lost In The Sky](https://open.spotify.com/track/3tFNn8hGcISeYWLORFqncX) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g) | 2:40 | 2023-06-08 | 2024-11-22 |
 | [Lost In The Sky](https://open.spotify.com/track/5ZeGvfbXQC7WqEqnNoZMTQ) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Lost In The Sky](https://open.spotify.com/album/1Buz836gF1ikJN43NgQiNn) | 2:40 | 2023-06-08 | 2024-04-19 |
 | [Love You So](https://open.spotify.com/track/2Da4R63vIvr5FSGjXaO7Ap) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [Love You So](https://open.spotify.com/album/3DCO2DZFApkgWqRBUhzj3a) | 2:04 | 2025-03-13 |  |
-| [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 | 2025-04-24 |  |
+| [Mad World](https://open.spotify.com/track/7v976kIGJsqOaqmK54aZuJ) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Mad World](https://open.spotify.com/album/3wZDSM5YjFkW4rdT9VCvhT) | 3:24 | 2025-04-24 | 2025-09-21 |
 | [Mad World](https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Mad World](https://open.spotify.com/album/2BrS7f0enkfT2DhwiYwjpV) | 2:22 | 2025-03-28 |  |
 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 | 2022-09-15 | 2024-10-25 |
 | [Magnetic](https://open.spotify.com/track/4HEggPhcyKQGzHLsgfs9my) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [Belle Doron](https://open.spotify.com/artist/0vG28tQeh1adA0xHmdUTVQ) | [Magnetic](https://open.spotify.com/album/2GmPo1t1eRB47964nvvJAl) | 3:02 | 2025-06-05 |  |

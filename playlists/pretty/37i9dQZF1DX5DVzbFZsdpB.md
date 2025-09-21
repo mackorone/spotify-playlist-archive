@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Soberly Speaking with Julia Rangiheuea is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 10 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,424 likes - 10 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

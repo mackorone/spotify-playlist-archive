@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Key Glock
 
-2,270 songs - 4 day 10 hr 18 min
+2,271 songs - 4 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,7 +611,7 @@
 | [Dying Is Easy \(Feat\. NoCap\)](https://open.spotify.com/track/64uBbqzjUEjFYrKJzvsnNC) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Luca Brasi 4](https://open.spotify.com/album/2MrBg0bmBOii342VanrH6v) | 3:04 | 2025-08-15 | 2025-08-30 |
 | [EASY DUB \(feat\. BabyDrill\)](https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [9](https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL) | 3:12 | 2024-03-15 | 2024-09-07 |
 | [Eat the Man](https://open.spotify.com/track/77mzQAyxLz1tu8FG73XPad) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Eat the Man](https://open.spotify.com/album/1y02HjHkIg56ATMcapQ3dO) | 2:37 | 2025-08-08 | 2025-08-16 |
-| [Eatcha Beatcha](https://open.spotify.com/track/4Drf6OvnI5IYz4EezDzfDD) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Eatcha Beatcha](https://open.spotify.com/album/7vVDt3q2f1btLI7wJZPHW3) | 2:27 | 2025-09-12 |  |
+| [Eatcha Beatcha](https://open.spotify.com/track/4Drf6OvnI5IYz4EezDzfDD) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Eatcha Beatcha](https://open.spotify.com/album/7vVDt3q2f1btLI7wJZPHW3) | 2:27 | 2025-09-12 | 2025-09-21 |
 | [Eaze Your Mind](https://open.spotify.com/track/3VOCdjPijYY314lUgl4EHL) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Eaze Your Mind](https://open.spotify.com/album/1Ts7dHjXutjCbZdb3OXLEd) | 3:11 | 2023-10-27 | 2023-11-04 |
 | [EBK](https://open.spotify.com/track/5GF32Lak9flWCNi7qC8ruH) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [EBK](https://open.spotify.com/album/0chyk18CxWlkFS8Fb1krOM) | 2:28 | 2024-05-10 | 2024-06-15 |
 | [Edible \(feat\. Gunna\)](https://open.spotify.com/track/0PloZ9T7XT9NSVwzf56u8f) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:56 | 2024-03-15 | 2024-03-23 |
@@ -2194,6 +2194,7 @@
 | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/album/2niITwO5X7ODSlOKvOoAsq) | 2:48 | 2025-07-18 | 2025-08-30 |
 | [Who Do](https://open.spotify.com/track/5TBEzhlJqpBFwalNZ3FUpx) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Who Do](https://open.spotify.com/album/7hQEAJdHOrnsSVapYVdzmj) | 3:02 | 2022-03-11 | 2022-04-16 |
 | [Who Hotter Than Gee](https://open.spotify.com/track/1VdWvwRPqiWfAUQrUjXIEt) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Who Hotter Than Gee](https://open.spotify.com/album/19tP4MHwgVdq7NprIhIuIp) | 2:15 | 2022-01-28 | 2022-02-19 |
+| [Who Killed Michael Jackson??????](https://open.spotify.com/track/70UW9NcUpy1nlHoW0XFVeL) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ), [Quentin Miller](https://open.spotify.com/artist/6po19E0R9xffrgzrg84TC9) | [A Written Testimony: Leaflets](https://open.spotify.com/album/3KYiZsPl8C1hOWFGXWSMSx) | 5:54 | 2025-09-20 |  |
 | [Who U Wit \(feat\. BloodHound Q50\)](https://open.spotify.com/track/1IGUJ2xFkTkkrGL9FhxGbN) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [FBG Murda](https://open.spotify.com/artist/7epN7rM4Hg4WRdl9e4Rsr5), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Youngest In Charge](https://open.spotify.com/album/6NDswpknmIfgeWySwkmo6u) | 2:51 | 2025-01-31 | 2025-03-08 |
 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 | 2025-05-30 | 2025-06-14 |
 | [Whole Nother League](https://open.spotify.com/track/42aR8AeISrUmz2g3uISrvb) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz) | [Whole Nother League](https://open.spotify.com/album/247OXdx4UMTpuL2gi5hulJ) | 2:34 | 2023-03-27 | 2023-06-03 |

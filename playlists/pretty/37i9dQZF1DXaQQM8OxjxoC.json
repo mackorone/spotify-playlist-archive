@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 124190,
+  "num_followers": 124218,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-09-15 14:00:11",
       "album": {
-        "name": "Nicholas Angelich Plays Brahms",
-        "url": "https://open.spotify.com/album/4V8IDsiiF69tkqoOYYfI0r"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Nicholas Angelich",
-          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
-        }
-      ],
-      "duration_ms": 268293,
-      "name": "4 Ballades, Op. 10: No. 3, Intermezzo (Allegro)",
-      "url": "https://open.spotify.com/track/3lkcGnbvUoIrZz6BwptiOI"
-    },
-    {
-      "added_at": "2025-09-15 14:00:11",
-      "album": {
         "name": "Brahms: 4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
         "url": "https://open.spotify.com/album/6Aj0UehiTC5FPW590ywIbd"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 235573,
       "name": "4 Klavierst\u00fccke, Op. 119: No. 1, Intermezzo in B Minor",
       "url": "https://open.spotify.com/track/77StsLxzzl5SD77dwTp45y"
+    },
+    {
+      "added_at": "2025-09-15 14:00:11",
+      "album": {
+        "name": "Nicholas Angelich Plays Brahms",
+        "url": "https://open.spotify.com/album/4V8IDsiiF69tkqoOYYfI0r"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Nicholas Angelich",
+          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
+        }
+      ],
+      "duration_ms": 268293,
+      "name": "4 Ballades, Op. 10: No. 3, Intermezzo (Allegro)",
+      "url": "https://open.spotify.com/track/3lkcGnbvUoIrZz6BwptiOI"
     },
     {
       "added_at": "2025-09-15 14:00:11",

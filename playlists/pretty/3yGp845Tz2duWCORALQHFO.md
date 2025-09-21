@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,140 likes - 57 songs - 3 hr 3 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,142 likes - 57 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 2 | [Ocean Eyes](https://open.spotify.com/track/3ks8NSzktyvgwRFg3PwmNQ) | [King Felix](https://open.spotify.com/artist/05cnqRzccy5dwAJeHMFmBX), [ḱlew déluré](https://open.spotify.com/artist/0cu4Kiye4q1Huuh9rMtx01) | [Ocean Eyes](https://open.spotify.com/album/590PvowoEKRY0rXL2w1VWB) | 3:12 |
 | 3 | [Time Life](https://open.spotify.com/track/6dICm8WZcERDKFlNLFiryS) | [Game Chasers](https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS) | [Time Life](https://open.spotify.com/album/60MY3kte4LLIGNp0xgr1sF) | 3:14 |
 | 4 | [Smooth](https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Smooth](https://open.spotify.com/album/7ojjB8vVRuwmhB9n0KMCUr) | 2:53 |
-| 5 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 |
+| 5 | [Girls MIA](https://open.spotify.com/track/7dHtHyIsxcDzgeFWLxfW4q) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [Girls MIA](https://open.spotify.com/album/54bjkUTJnTTktRXEBnMfJc) | 2:13 |
 | 6 | [Avalanche](https://open.spotify.com/track/17GnspHtyyrQRknKvDdT0N) | [Richard Durand](https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR), [Driftmoon](https://open.spotify.com/artist/4iMFxtzAcgUfbsagyY3Vla) | [Avalanche](https://open.spotify.com/album/6aQVHmfnrKJD5l5hjahHDR) | 3:06 |
 | 7 | [I See You](https://open.spotify.com/track/53pHNURiqlPbwt55KQCeAe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [I See You](https://open.spotify.com/album/4Xi6uh4GOCzw7nl1EVpOKK) | 2:31 |
 | 8 | [House Party](https://open.spotify.com/track/5Xey2vHNJPAYfrRPOs81mA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe) | [House Party](https://open.spotify.com/album/67Fig18sgK6uebGB6CaNw5) | 3:17 |

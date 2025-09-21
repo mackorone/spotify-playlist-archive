@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 65741,
+  "num_followers": 65825,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAADxUqt8B/k+YK74lluNLVft",
+  "snapshot_id": "aMydAAAAAABTUzgFJnyvztq3HNFYoGON",
   "tracks": [
     {
       "added_at": null,
@@ -927,26 +927,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp"
+        "name": "Active",
+        "url": "https://open.spotify.com/album/412QPcWdln144o2W4RZRDV"
       },
       "artists": [
-        {
-          "name": "MO3",
-          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
-        },
-        {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 196029,
-      "name": "AR (feat. BigXthaPlug)",
-      "url": "https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB"
+      "duration_ms": 174857,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/1WqidYIhCu5g01r3E36zR1"
     }
   ],
   "unique_name": "This Is BigXthaPlug",

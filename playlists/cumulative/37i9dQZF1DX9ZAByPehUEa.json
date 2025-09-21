@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Bout Rockin'",
+        "url": "https://open.spotify.com/album/0Kf4Bs2Oq8lT32spjEkCzJ"
+      },
+      "artists": [
+        {
+          "name": "TheDjLawyer",
+          "url": "https://open.spotify.com/artist/7k2fD4YbAzbcHX5DFl0RDD"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Bout Rockin' - All-You-Can-Play Edit",
+      "url": "https://open.spotify.com/track/5gkEJDEw3P0pSOvdBNVUF2"
+    },
+    {
+      "album": {
         "name": "Bring It",
         "url": "https://open.spotify.com/album/1kjCYBtS4NMoZfp3ZTyk99"
       },
@@ -6424,7 +6442,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 189816,
       "name": "Kimbara",
       "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
@@ -6544,6 +6562,24 @@
       "duration_ms": 248727,
       "name": "Kunafa King",
       "url": "https://open.spotify.com/track/67Do8TlrqHxuiIcHTlQuLs"
+    },
+    {
+      "album": {
+        "name": "Kung Fu",
+        "url": "https://open.spotify.com/album/1sd9NEoz7msgxdPOmkdZE0"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Kung Fu",
+      "url": "https://open.spotify.com/track/0rbnHRprVnhdSJGQJ2jpZB"
     },
     {
       "album": {
@@ -9158,7 +9194,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 155097,
       "name": "Nothing Better Than Music",
       "url": "https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS"

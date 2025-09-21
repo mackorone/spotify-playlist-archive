@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "MALIK",
+        "url": "https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223480,
+      "name": "Veranda (feat. CARI)",
+      "url": "https://open.spotify.com/track/27tCU1eQ9zMKCKy3HTMUIt"
+    },
+    {
+      "album": {
         "name": "Vibes (feat. Sam Wise & Venna)",
         "url": "https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc"
       },
@@ -1070,7 +1092,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 40013,
       "name": "Yoshi\u2019 Intro",
       "url": "https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy"

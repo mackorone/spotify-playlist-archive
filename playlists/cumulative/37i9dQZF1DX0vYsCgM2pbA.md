@@ -4,7 +4,7 @@
 
 > Kick on with this mix of homegrown electronic music
 
-284 songs - 17 hr 10 min
+285 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Rotary](https://open.spotify.com/track/6bbW1x1ERztI6Ze5vXAjPO) | [Subjoi](https://open.spotify.com/artist/5yP54uGWok9LAIYdH7tz5p) | [Rotary](https://open.spotify.com/album/4UYHCpndsdUFT6Tz8Iuqn2) | 6:25 | 2023-08-24 | 2023-09-01 |
 | [Running Around](https://open.spotify.com/track/2bnayGAnFWqebodBao1xv8) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Regrowth](https://open.spotify.com/album/6Y2VniWR6cKbJ7IQwp0hdS) | 3:45 | 2025-02-05 |  |
 | [RUSH \(Blush\)](https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [RUSH \(Blush\)](https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp) | 4:02 | 2023-01-13 | 2023-06-02 |
-| [Say No More](https://open.spotify.com/track/7tLGJbAhl7jmIAwOhNomI9) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Everything Begins Again](https://open.spotify.com/album/4NJRCRC3nqmw1uKscmZBd4) | 3:31 | 2025-08-01 |  |
+| [Say No More](https://open.spotify.com/track/7tLGJbAhl7jmIAwOhNomI9) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Everything Begins Again](https://open.spotify.com/album/4NJRCRC3nqmw1uKscmZBd4) | 3:31 | 2025-08-01 | 2025-09-21 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9) | 3:52 | 2022-12-01 | 2024-02-22 |
 | [Say Nothing \(feat\. MAY\-A\)](https://open.spotify.com/track/4uBgAIrCRf8ed02XbNKdBQ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Palaces](https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC) | 3:52 | 2024-02-01 | 2024-04-19 |
 | [Second Line](https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh) | [Set Mo](https://open.spotify.com/artist/2rv8IrcIQiFKkdvQAgUTZj), [Sumner](https://open.spotify.com/artist/3MkvptiOUwlGj7DyNbJfrY) | [Second Line](https://open.spotify.com/album/1urJXJzqJ3JkAz8V1kiZUO) | 4:11 | 2023-02-09 | 2023-02-24 |
@@ -273,6 +273,7 @@
 | [Under The Milky Way \- Leo Portela Remix](https://open.spotify.com/track/1mQCMnCLJyKUvseZajs5DB) | [Anakelly](https://open.spotify.com/artist/4BoBwZFmzlSepZqWiok2Z9), [Leo Portela](https://open.spotify.com/artist/40sTBkcCMNcveOK4XprOYk) | [The Remixes](https://open.spotify.com/album/1oW0C4vcjbCdSJDSyw90ig) | 2:53 | 2024-02-01 | 2025-07-26 |
 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 | 2023-10-05 | 2023-11-10 |
 | [undrcut](https://open.spotify.com/track/1Q6aZrlfWlLCNs7BMDLhej) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [undrcut](https://open.spotify.com/album/1tiiz9aRA7aRkDMc5NJ0WR) | 4:02 | 2024-01-25 | 2024-08-23 |
+| [Vai No](https://open.spotify.com/track/6yJqyUWSqczkjt9lSjmkwK) | [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Vai No](https://open.spotify.com/album/6moykiZA1fAItBAw1A8Vco) | 6:09 | 2025-08-01 |  |
 | [Vigil](https://open.spotify.com/track/24KgQu8B7JCyoIcMeF1xan) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x) | [Vigil](https://open.spotify.com/album/4gOJ1TNUxWRxjtBOAMnI3M) | 4:35 | 2022-12-01 | 2023-04-14 |
 | [Waiting For Nothing](https://open.spotify.com/track/2BSWidCfy0WZ7fkpwc7rAD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [LIFTED](https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV) | 4:08 | 2023-12-21 | 2024-04-19 |
 | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Waiting for Nothing \(feat\. Yaeger\)](https://open.spotify.com/album/5cZopeO3e9cyeXAOPVCgLK) | 4:08 | 2022-12-15 | 2023-02-10 |

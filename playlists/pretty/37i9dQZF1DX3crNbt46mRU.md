@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Lewis Capaldi, RAYE, Miley Cyrus, Nemo, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,662 likes - 109 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,671 likes - 109 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 74 | [Als ich Mädchen noch scheiße fand](https://open.spotify.com/track/3E9TT0AYJTrLyatUlfvDgW) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Quer durch die Bank](https://open.spotify.com/album/5pn1dlglRw8oNoTsBJFROy) | 2:17 |
 | 75 | [Oublier](https://open.spotify.com/track/0COOpYVrr8jb7eR7GWZWZa) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Africa Jungle](https://open.spotify.com/album/7cM1ZIqhREKIjrp71Z0EGl) | 2:24 |
 | 76 | [Friends Don't](https://open.spotify.com/track/2N970NvTMrHQ1iqN4Aot8k) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Friends Don’t](https://open.spotify.com/album/13ccJsUECBGoRAm2xdTvuC) | 3:24 |
-| 77 | [Fitness](https://open.spotify.com/track/4ufTjzTZQRmJhXLtaQwj3z) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Hard Candy](https://open.spotify.com/artist/64xp3mYRaJ60mlMYgGYiAx), [TOXIMAMI](https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Fitness](https://open.spotify.com/album/5BgyhmAXvnfDUnfngfNnon) | 3:35 |
+| 77 | [Fitness](https://open.spotify.com/track/4ufTjzTZQRmJhXLtaQwj3z) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [HARD CANDY](https://open.spotify.com/artist/1I1LcKWdBImFCt4DOW2s5O), [TOXIMAMI](https://open.spotify.com/artist/27S2557qJiAXvFenQvXT85), [DJ Cringey](https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q) | [Fitness](https://open.spotify.com/album/5BgyhmAXvnfDUnfngfNnon) | 3:35 |
 | 78 | [r u gonna love me?](https://open.spotify.com/track/7lPQOKHFmCNsCoa10lDOV7) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [r u gonna love me?](https://open.spotify.com/album/7bAqvJp4f2XqND4G5MkFn2) | 3:03 |
 | 79 | [Dolce&Gabbana](https://open.spotify.com/track/1VzFf43TrhqVgFTlSFjLJS) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Dolce&Gabbana](https://open.spotify.com/album/2jDq3MpbHUG2OZMZOMHRea) | 1:59 |
 | 80 | [twenty three](https://open.spotify.com/track/3CrSjYWQn1MYLDRbNaBzzn) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [twenty three](https://open.spotify.com/album/3UXfEeyTSTziQL6AVITSsA) | 3:49 |

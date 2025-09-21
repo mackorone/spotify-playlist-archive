@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/4W52uLWuYeNT3GJWoAb5fl"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Empty - Live MTV Unplugged",
+      "url": "https://open.spotify.com/track/12sxeMvMRpKGe9vqBImiBS"
+    },
+    {
+      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 201760,
       "name": "The Pressure",
       "url": "https://open.spotify.com/track/5w12AU1s2jwXFYL7jSImwR"

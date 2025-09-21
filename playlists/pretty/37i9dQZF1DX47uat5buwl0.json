@@ -1,13 +1,29 @@
 {
   "description": "\ud83d\udd25\ud83c\udf89",
-  "num_followers": 316069,
+  "num_followers": 316074,
   "original_name": "Studenten Hits 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGryBA0/Rb7tm4d5PgVfcveie9MJ",
+  "snapshot_id": "AAAAAGt26a3tAOOXoWobo6zlSqX1BUZ3",
   "tracks": [
+    {
+      "added_at": "2025-09-16 08:08:18",
+      "album": {
+        "name": "ADHD",
+        "url": "https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ"
+      },
+      "artists": [
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "ADHD",
+      "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
+    },
     {
       "added_at": "2025-09-16 08:08:18",
       "album": {
@@ -43,22 +59,6 @@
       "duration_ms": 170270,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
-    },
-    {
-      "added_at": "2025-09-16 08:08:18",
-      "album": {
-        "name": "ADHD",
-        "url": "https://open.spotify.com/album/25KH0GIrdIVtbJAWeixbdJ"
-      },
-      "artists": [
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "ADHD",
-      "url": "https://open.spotify.com/track/4XdXOs0nb6GwLYQjl1WuaB"
     },
     {
       "added_at": "2025-09-16 08:08:18",
@@ -219,30 +219,6 @@
     {
       "added_at": "2025-09-16 08:08:18",
       "album": {
-        "name": "Hoe Het Is",
-        "url": "https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        },
-        {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 151875,
-      "name": "Hoe Het Is",
-      "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
-    },
-    {
-      "added_at": "2025-09-16 08:08:18",
-      "album": {
         "name": "REMIX PACK",
         "url": "https://open.spotify.com/album/1r7s5anqKnYFUZDgHFyH38"
       },
@@ -319,18 +295,26 @@
     {
       "added_at": "2025-09-16 08:08:18",
       "album": {
-        "name": "Wangedrag",
-        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
+        "name": "Hoe Het Is",
+        "url": "https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC"
       },
       "artists": [
         {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 121889,
-      "name": "Wangedrag",
-      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
+      "duration_ms": 151875,
+      "name": "Hoe Het Is",
+      "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
     },
     {
       "added_at": "2025-09-16 08:08:18",
@@ -415,22 +399,18 @@
     {
       "added_at": "2025-09-16 08:08:18",
       "album": {
-        "name": "Ushuaia",
-        "url": "https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6"
+        "name": "Wangedrag",
+        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
       },
       "artists": [
         {
-          "name": "Turfy Gang",
-          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
-        },
-        {
-          "name": "Russo",
-          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 157261,
-      "name": "Ushuaia",
-      "url": "https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP"
+      "duration_ms": 121889,
+      "name": "Wangedrag",
+      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
     },
     {
       "added_at": "2025-09-16 08:08:18",
@@ -451,18 +431,22 @@
     {
       "added_at": "2025-09-16 08:08:18",
       "album": {
-        "name": "Kut Student!",
-        "url": "https://open.spotify.com/album/0YbCXR8ZanVW7NBJ0qZlXS"
+        "name": "Ushuaia",
+        "url": "https://open.spotify.com/album/69HpOZiGi9xDwEYjMgPrv6"
       },
       "artists": [
         {
-          "name": "Young Dylan",
-          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
+          "name": "Turfy Gang",
+          "url": "https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
         }
       ],
-      "duration_ms": 132283,
-      "name": "Kut Student!",
-      "url": "https://open.spotify.com/track/4eLGw6q1Fzl35fOALv9OsT"
+      "duration_ms": 157261,
+      "name": "Ushuaia",
+      "url": "https://open.spotify.com/track/2AeMy7dwvoPuof6xDmncUP"
     },
     {
       "added_at": "2025-09-16 08:08:18",
@@ -667,6 +651,22 @@
       "duration_ms": 177758,
       "name": "Matcha Coco",
       "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
+    },
+    {
+      "added_at": "2025-09-16 08:08:18",
+      "album": {
+        "name": "Kut Student!",
+        "url": "https://open.spotify.com/album/0YbCXR8ZanVW7NBJ0qZlXS"
+      },
+      "artists": [
+        {
+          "name": "Young Dylan",
+          "url": "https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc"
+        }
+      ],
+      "duration_ms": 132283,
+      "name": "Kut Student!",
+      "url": "https://open.spotify.com/track/4eLGw6q1Fzl35fOALv9OsT"
     },
     {
       "added_at": "2025-09-16 08:08:18",

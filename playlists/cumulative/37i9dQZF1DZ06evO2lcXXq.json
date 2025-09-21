@@ -308,6 +308,24 @@
     {
       "album": {
         "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208709,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/2udUyMvX1xp5kjb3HApR9I"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
         "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
       },
       "artists": [
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 191895,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/26WwwFoWQCkNWT0SI1IFHL"

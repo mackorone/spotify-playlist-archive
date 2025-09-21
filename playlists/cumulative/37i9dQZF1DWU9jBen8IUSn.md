@@ -2,7 +2,7 @@
 
 ### [Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> Inspired by Project Serpo and the Roswell incident, Haroumi Hosono imagines the music astronauts might have carried on an interplanetary journey\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
+> Inspired by Project Serpo and the Roswell incident, Haruomi Hosono imagines the music astronauts might have carried on an interplanetary journey\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
 965 songs - 2 day 15 hr 15 min
 

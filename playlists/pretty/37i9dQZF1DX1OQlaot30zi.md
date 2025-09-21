@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Ernia, 333 Mob, 18K, Sick Budd, IvanBi, Saco e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,249 likes - 84 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,254 likes - 84 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

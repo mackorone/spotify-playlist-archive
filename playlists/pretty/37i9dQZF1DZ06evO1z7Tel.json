@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 36910,
+  "num_followers": 36929,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAADN0gxaGepSB515SOytFtli",
+  "snapshot_id": "aMydAAAAAADpD/EziI9x5kfy7y7WRfjP",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 192426,
-      "name": "El Vino Y La Parranda",
-      "url": "https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE"
+      "duration_ms": 176953,
+      "name": "El Vengador de los Federales",
+      "url": "https://open.spotify.com/track/0eW4F1miVLHZD4d14nIBMZ"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1IVNmS6tX19lyAVSYpx3Do"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 176953,
-      "name": "El Vengador de los Federales",
-      "url": "https://open.spotify.com/track/0eW4F1miVLHZD4d14nIBMZ"
+      "duration_ms": 192426,
+      "name": "El Vino Y La Parranda",
+      "url": "https://open.spotify.com/track/1nDgTKTlFu1MnY4AD1INKE"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Caballos Famosos Con",
-        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vienen Los Recuerdos",
         "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 193600,
       "name": "El Manicero",
       "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Caballos Famosos Con",
+        "url": "https://open.spotify.com/album/6z3guGK2jlvhj4SlZufhe0"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/20Vf0wHEus0qRMg7pxbA4n"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestros Primeros 20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Tengo a Mi Lupe",
-      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 183693,
       "name": "Ramiro Y Miguel",
       "url": "https://open.spotify.com/track/6U7BgvIenwmFI65FTcrbaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestros Primeros 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/03YW8wRioNiRdm2lHF31Op"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Tengo a Mi Lupe",
+      "url": "https://open.spotify.com/track/2vMQzi0mDlxliMre8CAF1L"
     },
     {
       "added_at": null,

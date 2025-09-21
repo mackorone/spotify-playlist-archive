@@ -1,29 +1,13 @@
 {
   "description": "This is Descendents. The essential tracks, all in one playlist.",
-  "num_followers": 21578,
+  "num_followers": 21582,
   "original_name": "This Is Descendents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAAAB6A6kVUq2Mf8GhIR3N68L",
+  "snapshot_id": "aMydAAAAAABSuJ2/oWZVlQFI/e1/8Vxe",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "'Merican",
-      "url": "https://open.spotify.com/track/2xcivsD9oKfeKyIv3kf5IX"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 120333,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "'Merican",
+      "url": "https://open.spotify.com/track/2xcivsD9oKfeKyIv3kf5IX"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All",
-        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 167144,
-      "name": "Coolidge",
-      "url": "https://open.spotify.com/track/1sYjTUX8Fc9bhPdH44gC3i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 100333,
       "name": "Suburban Home",
       "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All",
+        "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 167144,
+      "name": "Coolidge",
+      "url": "https://open.spotify.com/track/1sYjTUX8Fc9bhPdH44gC3i"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Nothing with You",
-      "url": "https://open.spotify.com/track/2PTyGr6dAKTJTHhkXyUBTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 43240,
       "name": "M-16",
       "url": "https://open.spotify.com/track/2fZPDNhVXaK6o5bas9LkxV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Nothing with You",
+      "url": "https://open.spotify.com/track/2PTyGr6dAKTJTHhkXyUBTq"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Cool to Be You",
-      "url": "https://open.spotify.com/track/6iubswzG9x39mhDQjv9rtH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 120800,
       "name": "Myage",
       "url": "https://open.spotify.com/track/1PcPuR2vNpqNr88Cc2Lw8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "Cool to Be You",
+      "url": "https://open.spotify.com/track/6iubswzG9x39mhDQjv9rtH"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want to Grow Up",
-        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 107200,
-      "name": "Pervert",
-      "url": "https://open.spotify.com/track/0xifpRiUNzQzIsFKVyhtRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 88773,
       "name": "I'm Not a Loser",
       "url": "https://open.spotify.com/track/1XFG00rEeHaDIPOQv9LTYs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 107200,
+      "name": "Pervert",
+      "url": "https://open.spotify.com/track/0xifpRiUNzQzIsFKVyhtRn"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want to Grow Up",
-        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 81266,
-      "name": "I Don't Want to Grow Up",
-      "url": "https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milo Goes to College",
         "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 134066,
       "name": "Bikeage",
       "url": "https://open.spotify.com/track/3H7lUDRaFAXi5hcEzd2GsU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want to Grow Up",
+        "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 81266,
+      "name": "I Don't Want to Grow Up",
+      "url": "https://open.spotify.com/track/5agRly96hAJywJYZlZRiuA"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 231259,
+      "name": "Sour Grapes",
+      "url": "https://open.spotify.com/track/0ZTtzCeL6FqRF7mRlPK7RX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Don't Want to Grow Up",
         "url": "https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enjoy",
-        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 231259,
-      "name": "Sour Grapes",
-      "url": "https://open.spotify.com/track/0ZTtzCeL6FqRF7mRlPK7RX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cool to Be You",
         "url": "https://open.spotify.com/album/0wKd9K5PicsSc6jrhWWGYi"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 111533,
       "name": "She Don't Care",
       "url": "https://open.spotify.com/track/3M27UObWWBzZZH89DRneW9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9th & Walnut",
+        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 142843,
+      "name": "Nightage",
+      "url": "https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7"
     },
     {
       "added_at": null,
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9th & Walnut",
-        "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 142843,
-      "name": "Nightage",
-      "url": "https://open.spotify.com/track/0gNDfOiFi2HLe2uZerMAB7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All",
         "url": "https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR"
       },
@@ -535,6 +535,22 @@
       "duration_ms": 167560,
       "name": "Mass Nerder",
       "url": "https://open.spotify.com/track/0LcMGQZE2nNxgEBdci2X8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "'Merican",
+        "url": "https://open.spotify.com/album/51iwFQcTRgaklyI04obvSd"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Here with Me",
+      "url": "https://open.spotify.com/track/5JCnwxjAgEWiKMLTkK6Jt1"
     },
     {
       "added_at": null,
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Merican",
-        "url": "https://open.spotify.com/album/51iwFQcTRgaklyI04obvSd"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Here with Me",
-      "url": "https://open.spotify.com/track/5JCnwxjAgEWiKMLTkK6Jt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "9th & Walnut",
         "url": "https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 56958,
       "name": "Like the Way I Know",
       "url": "https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 196419,
+      "name": "Get the Time",
+      "url": "https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 237840,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enjoy",
-        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 196419,
-      "name": "Get the Time",
-      "url": "https://open.spotify.com/track/2ufvmEujQKJmsewWvuvmFn"
     },
     {
       "added_at": null,

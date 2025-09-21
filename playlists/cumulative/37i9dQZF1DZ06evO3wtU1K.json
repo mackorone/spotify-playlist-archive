@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Jesus Over Everything (Live In Las Vegas)",
+        "url": "https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236247,
+      "name": "Another Thing (with Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/28dBWQUI19spbuQacMBPhc"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/19yNOXDt9RzLmAU2j9YnML"
       },
@@ -268,7 +290,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 373120,
       "name": "Daily Bread",
       "url": "https://open.spotify.com/track/6XpAJgHhWlS58Ys7WNoIRh"

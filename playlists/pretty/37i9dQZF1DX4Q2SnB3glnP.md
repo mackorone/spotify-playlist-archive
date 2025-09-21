@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,951 likes - 176 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,995 likes - 176 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 175 | [Knowing Me](https://open.spotify.com/track/3mILy9e3t8cTH42Jzf8gmJ) | [ZenithEcho](https://open.spotify.com/artist/6kr9ZNAP53oR0jWVt7LJwD) | [Knowing Me](https://open.spotify.com/album/50h3lZl5KcEn3Mu4isjxdd) | 2:24 |
 | 176 | [Meditatio Lux](https://open.spotify.com/track/5Q9U0Fh4QjQWPsCFy7TAQ1) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Meditatio Lux](https://open.spotify.com/album/5HLUwTzWyI6Bsu0ATw5yIO) | 3:45 |
 
-Snapshot ID: `AAAAAKBL3C5hHlsOW2qFVxSBCDbRaxs/`
+Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`

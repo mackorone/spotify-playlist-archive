@@ -10026,7 +10026,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 186003,
       "name": "Caballito de Metal",
       "url": "https://open.spotify.com/track/6kJgNhXUD92yG9BaBZmXTe"
@@ -16708,7 +16708,7 @@
       ],
       "date_added": "2025-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 180000,
       "name": "DESEO",
       "url": "https://open.spotify.com/track/7kfgRQbmicsoQyKJOl02xY"
@@ -25468,7 +25468,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -31253,6 +31253,24 @@
     },
     {
       "album": {
+        "name": "Cuecas Pa'l Dieciocho - Independence Day Folk Dance - For Export",
+        "url": "https://open.spotify.com/album/612WCjoAGaBQa3RWxhFDzz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Lagos",
+          "url": "https://open.spotify.com/artist/5ytJE29OqgTxbR1i4QJIFE"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117533,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/6WBAwTrUIwWJTlS8e3v5Zx"
+    },
+    {
+      "album": {
         "name": "30 Cuecas",
         "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
       },
@@ -31582,7 +31600,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 119153,
       "name": "La Guaracha Consentida",
       "url": "https://open.spotify.com/track/75UfTqxolLfpayQ6cmlJ8P"
@@ -34742,7 +34760,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 105266,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/0K7k6dYM3E6VbHszkR4Tpo"
@@ -34760,7 +34778,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-27",
+      "date_removed": null,
       "duration_ms": 111960,
       "name": "Los Viejos Estandartes",
       "url": "https://open.spotify.com/track/3LhhnpM828NTPHuQIAFqkW"
@@ -46428,7 +46446,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 141389,
       "name": "PALA",
       "url": "https://open.spotify.com/track/4JqGih3SIlNubBZMyTdlqC"
@@ -47316,7 +47334,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 135902,
       "name": "Pasion Total",
       "url": "https://open.spotify.com/track/4X8Q4TXbQ7l9l9RIXmOt85"
@@ -54428,7 +54446,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 120494,
       "name": "SENDA BELLAKONA",
       "url": "https://open.spotify.com/track/7IyBvpCV5itnX98vKMramA"
@@ -63504,7 +63522,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 112483,
       "name": "TUNG SAHUR \u2013 BZRT Session (Todos Quieren Tung!)",
       "url": "https://open.spotify.com/track/1rG7NGFQBn6znMMCIDCEEN"
@@ -69116,7 +69134,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 117838,
       "name": "Yo me enamor\u00e9 de noche",
       "url": "https://open.spotify.com/track/2sO9DAZCrPr1UKuBbT1Vim"

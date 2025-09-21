@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAACBn1Xq8oyoXFx8P0R9WN8m",
+  "snapshot_id": "aMydAAAAAAAwau3928SRlTo5gHFnM3Vv",
   "tracks": [
     {
       "added_at": null,
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 93482,
-      "name": "William",
-      "url": "https://open.spotify.com/track/2hCn5FZS3a0RgCSyNVqYxo"
+      "duration_ms": 240480,
+      "name": "The Hatch",
+      "url": "https://open.spotify.com/track/1mleJhqMVmUEIRYzh0RUXH"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 240480,
-      "name": "The Hatch",
-      "url": "https://open.spotify.com/track/1mleJhqMVmUEIRYzh0RUXH"
+      "duration_ms": 126568,
+      "name": "Carl's New Office",
+      "url": "https://open.spotify.com/track/296XQNqhoxOALW0CVzq6DN"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
       "duration_ms": 184293,
       "name": "Training With Mr. Schaibel",
       "url": "https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Department Q (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 126568,
-      "name": "Carl's New Office",
-      "url": "https://open.spotify.com/track/296XQNqhoxOALW0CVzq6DN"
     },
     {
       "added_at": null,

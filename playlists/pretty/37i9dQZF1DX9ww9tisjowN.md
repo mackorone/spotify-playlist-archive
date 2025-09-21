@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: POLYESTER & POLYURETHANE from New PANTY & STOCKING with GARTERBELT ©TRIGGER・今石洋之／NPSG製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,593 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,824 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

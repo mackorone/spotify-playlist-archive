@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 415440,
       "name": "Amanxeba",
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 228884,
       "name": "Awsukanini",
       "url": "https://open.spotify.com/track/21lD8ZDP6nbEAUtoSQl032"
@@ -23758,7 +23758,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 263000,
       "name": "Ithathe - Shenge Version",
       "url": "https://open.spotify.com/track/3NwDK579thyRXH36kNcXSN"
@@ -29822,7 +29822,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 305084,
       "name": "MAHHALA",
       "url": "https://open.spotify.com/track/564GwAZ1PayxB1OXkUPkky"
@@ -35105,6 +35105,28 @@
     },
     {
       "album": {
+        "name": "AM I THE DRAMA?",
+        "url": "https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196847,
+      "name": "Nice Guy (feat. Tyla)",
+      "url": "https://open.spotify.com/track/3rZpsB07jU84a0LvMTGJ8L"
+    },
+    {
+      "album": {
         "name": "Today's Tragedy, Tomorrow's Memory: the mixtape",
         "url": "https://open.spotify.com/album/4vhWSUXx9WQD5q4dZ5fq2F"
       },
@@ -36068,7 +36090,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 192253,
       "name": "Oil & Water",
       "url": "https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby"
@@ -44534,7 +44556,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 327457,
       "name": "Sohlala Sisonke",
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
@@ -48610,10 +48632,36 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 463872,
       "name": "Tholukuthi (Clap Song) (feat. MaWhoo)",
       "url": "https://open.spotify.com/track/1d3srkotnZxmQhsqbIu9jv"
+    },
+    {
+      "album": {
+        "name": "The Most Wanted",
+        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463872,
+      "name": "Tholukuthi (Clap Song) (feat. MaWhoo)",
+      "url": "https://open.spotify.com/track/3Ov08eLMxqkNmvtlV9Truu"
     },
     {
       "album": {
@@ -50990,7 +51038,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 393305,
       "name": "Ulele",
       "url": "https://open.spotify.com/track/2znV6ccKYPJOLh1GzKM3zE"
@@ -51023,6 +51071,36 @@
     },
     {
       "album": {
+        "name": "The Most Wanted",
+        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396629,
+      "name": "uMA weNGANE",
+      "url": "https://open.spotify.com/track/2XSmD2t2OZ5oMZhuZzJB4P"
+    },
+    {
+      "album": {
         "name": "uMA weNGANE",
         "url": "https://open.spotify.com/album/1duwAPyPf4loDJh1npTyhn"
       },
@@ -51046,7 +51124,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 396629,
       "name": "uMA weNGANE",
       "url": "https://open.spotify.com/track/0BWHYs2o4OGjJlvhFlrmTS"
@@ -52293,6 +52371,36 @@
     },
     {
       "album": {
+        "name": "The Most Wanted",
+        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "uValo (feat. Dlala Thukzin)",
+      "url": "https://open.spotify.com/track/0y7lIKJXlNFPcqVCxfnvOO"
+    },
+    {
+      "album": {
         "name": "uValo (feat. Dlala Thukzin)",
         "url": "https://open.spotify.com/album/5QjHzVPucU0OIJffwuIkFM"
       },
@@ -52316,7 +52424,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 368000,
       "name": "uValo (feat. Dlala Thukzin)",
       "url": "https://open.spotify.com/track/1gpcYCQC5YTPkT840nr83D"
@@ -52706,10 +52814,36 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 467145,
       "name": "Uzizwa Kanjan",
       "url": "https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a"
+    },
+    {
+      "album": {
+        "name": "The Most Wanted",
+        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467145,
+      "name": "Uzizwa Kanjan",
+      "url": "https://open.spotify.com/track/1rb8u0m3l3oq59vUqW1O7p"
     },
     {
       "album": {
@@ -54052,7 +54186,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 280398,
       "name": "Warning",
       "url": "https://open.spotify.com/track/5JjQdivvXPrnjeEoxE16WD"
@@ -55232,7 +55366,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

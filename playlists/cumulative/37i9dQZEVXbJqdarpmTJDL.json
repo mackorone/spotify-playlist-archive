@@ -9292,7 +9292,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-26",
+      "date_removed": null,
       "duration_ms": 187766,
       "name": "CONCERTO",
       "url": "https://open.spotify.com/track/1wpFDhpTDMfkPRijmIajnM"
@@ -20374,7 +20374,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 168888,
       "name": "ILEGAL",
       "url": "https://open.spotify.com/track/6R2utRyFhiEBnyz6afQ9Pe"
@@ -21682,7 +21682,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 124827,
       "name": "Kaigomai",
       "url": "https://open.spotify.com/track/5xYRYWS2y2NCxs12ZVEvNv"
@@ -23894,7 +23894,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-14",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -30324,7 +30324,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 177600,
       "name": "MOU ZITAS",
       "url": "https://open.spotify.com/track/3Q3e0KMeCinQONCLJyO69X"
@@ -32768,7 +32768,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 281503,
       "name": "Ola Gia Ola",
       "url": "https://open.spotify.com/track/51Sxai2iT4hMLcGMpb0oY6"
@@ -47296,7 +47296,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 189622,
       "name": "Vorias",
       "url": "https://open.spotify.com/track/3gOXiqKkGCE0TR31c2SONO"
@@ -48208,6 +48208,28 @@
       "duration_ms": 228500,
       "name": "Xares",
       "url": "https://open.spotify.com/track/6LlFw8LxQeQNcSvy9lKRI2"
+    },
+    {
+      "album": {
+        "name": "XAROS",
+        "url": "https://open.spotify.com/album/1JrJ4zYUsmIVPrVn7vbXv4"
+      },
+      "artists": [
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128741,
+      "name": "XAROS",
+      "url": "https://open.spotify.com/track/0drZEILXlqWqzpniZMZEbh"
     },
     {
       "album": {

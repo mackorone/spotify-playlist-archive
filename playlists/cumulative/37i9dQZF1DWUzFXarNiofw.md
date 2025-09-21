@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Reggie Becton
 
-4,428 songs - 9 day 15 hr 36 min
+4,429 songs - 9 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1673,7 +1673,7 @@
 | [hillside](https://open.spotify.com/track/6SmqjAiE7w5NmCX6esq61v) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [hillside](https://open.spotify.com/album/6tLJiimtOK3RaFetJZrslR) | 2:52 | 2024-09-06 | 2025-01-18 |
 | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/track/5uPoubTLkvcCMy7VfqZZPi) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Hillside \(feat\. Savannah Ré\)](https://open.spotify.com/album/08yGUFP2pDEh8gqeUqPY4W) | 2:39 | 2024-10-18 | 2024-12-01 |
 | [Hindsight](https://open.spotify.com/track/5DTRDKxTsfGkrqzKti7zRu) | [Ama Louise](https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73) | [Hindsight](https://open.spotify.com/album/11x1EjJ6DfYS1v6uGiMSAP) | 2:46 | 2025-08-08 |  |
-| [Hip 2 Hip Hypnosis](https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Hip 2 Hip Hypnosis](https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR) | 3:13 | 2025-08-22 |  |
+| [Hip 2 Hip Hypnosis](https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Hip 2 Hip Hypnosis](https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR) | 3:13 | 2025-08-22 | 2025-09-21 |
 | [History](https://open.spotify.com/track/2f4KlAKeZ2lLBPuPZrPSMN) | [King Sis](https://open.spotify.com/artist/47jdlqzmvdk0SFUU0gweMz) | [History](https://open.spotify.com/album/5T7IP0zL9cUDs7N0wLzMgx) | 3:24 | 2023-06-09 | 2023-07-08 |
 | [History](https://open.spotify.com/track/1QXMERC4XMJE11pOzCCjb1) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [History](https://open.spotify.com/album/7erKgQL1qJ2oktM5zudVPM) | 3:32 | 2025-06-06 | 2025-07-05 |
 | [Hit a Wall](https://open.spotify.com/track/0JysufYyd8ev6wHWZOVC4Q) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Hit a Wall](https://open.spotify.com/album/4s07kCH6AwFdyU5SpJ4iZk) | 2:44 | 2024-11-22 | 2025-02-22 |
@@ -3500,6 +3500,7 @@
 | [Soul On Fire](https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Soul On Fire](https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK) | 2:13 | 2024-10-25 | 2025-01-18 |
 | [Soul Sista \- Live](https://open.spotify.com/track/7naVW0r3bYoBILHTc0j2em) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs), [?uestlove](https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c) | [Live at Glasshaus](https://open.spotify.com/album/1EzqyR7Ez4Z9MUC4WyXLAQ) | 4:17 | 2024-06-14 | 2024-07-19 |
 | [SOUL SURVIVOR](https://open.spotify.com/track/0kQTQQzTCf958lQCmPTraa) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN BENEDICTION](https://open.spotify.com/album/47wufSb4ym1n1EhsJvYAOX) | 3:01 | 2023-06-23 | 2023-07-29 |
+| [Soul Tie \(Slow\)](https://open.spotify.com/track/7Fd6fB66pRrcl1Mfc4ktN2) | [Jack Freeman](https://open.spotify.com/artist/0sQ5GaIilKYSsvYlXSgEcl) | [Nina Deluxe](https://open.spotify.com/album/2haw6yFWm0ftmkqKHVWlSx) | 4:35 | 2025-09-19 |  |
 | [Soul, Body & Mind](https://open.spotify.com/track/5TVuj7S4ZcbBtlCzDVmeVi) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Soul, Body & Mind](https://open.spotify.com/album/4vr53R7apxpdPLKS1gGHto) | 2:55 | 2024-04-19 | 2024-05-18 |
 | [Souls Align](https://open.spotify.com/track/2XFqq4pMRyocImfXqzUj5O) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Ms\. Elle](https://open.spotify.com/album/5LmwjRy0etKdguKSIi17hn) | 3:16 | 2023-11-10 | 2024-01-13 |
 | [Southern Delicacy](https://open.spotify.com/track/3TzHYI4SvydLcaQxGJZ7Mm) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Southern Delicacy](https://open.spotify.com/album/2GqVdnApGsHmQrQWX0rVY2) | 3:17 | 2023-04-14 | 2023-06-17 |

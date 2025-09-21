@@ -845,6 +845,24 @@
     },
     {
       "album": {
+        "name": "We Were Born In A Flame",
+        "url": "https://open.spotify.com/album/3AoWVHZuuu68ZVOy1R55l9"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts Band",
+          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Brother Down",
+      "url": "https://open.spotify.com/track/32WrsvD69H6sSLCPQo5WNy"
+    },
+    {
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },

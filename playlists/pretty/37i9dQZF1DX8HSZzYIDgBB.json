@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Simon Grossmann en portada.",
-  "num_followers": 39692,
+  "num_followers": 39691,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-09-05 06:00:13",
       "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
+    },
+    {
+      "added_at": "2025-09-05 06:00:13",
+      "album": {
         "name": "Mood Swing (Sinego Remix)",
         "url": "https://open.spotify.com/album/6LSJZ1zDqxWhVL3hDydSFB"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 245901,
       "name": "Mood Swing - Radio Edit",
       "url": "https://open.spotify.com/track/76DwMrwpAY9El8AZXlWxyW"
-    },
-    {
-      "added_at": "2025-09-05 06:00:13",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2025-09-05 06:00:13",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2025-09-05 06:00:13",
       "album": {
-        "name": "Lovers' Holiday",
-        "url": "https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM"
+        "name": "Gritar",
+        "url": "https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8"
       },
       "artists": [
         {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
         }
       ],
-      "duration_ms": 205666,
-      "name": "Lovers' Holiday",
-      "url": "https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV"
+      "duration_ms": 180000,
+      "name": "Gritar",
+      "url": "https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g"
     },
     {
       "added_at": "2025-09-05 06:00:13",
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2025-09-05 06:00:13",
       "album": {
-        "name": "Gritar",
-        "url": "https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8"
+        "name": "Lovers' Holiday",
+        "url": "https://open.spotify.com/album/5K1exgNYjlugtrUPutVgBM"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gritar",
-      "url": "https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g"
+      "duration_ms": 205666,
+      "name": "Lovers' Holiday",
+      "url": "https://open.spotify.com/track/6yGBX0IefuwQfBRYaaXpcV"
     },
     {
       "added_at": "2025-09-05 06:00:13",

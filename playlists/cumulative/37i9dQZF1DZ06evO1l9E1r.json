@@ -1293,6 +1293,24 @@
     },
     {
       "album": {
+        "name": "Make Space",
+        "url": "https://open.spotify.com/album/2qrBIpQX8L5mDhu34DEUsG"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140909,
+      "name": "Make Space",
+      "url": "https://open.spotify.com/track/62TE5ldKv2uFe3RCy2zQ2w"
+    },
+    {
+      "album": {
         "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
@@ -2338,7 +2356,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 238973,
       "name": "The Sound of Snow",
       "url": "https://open.spotify.com/track/3ZTtUYunsTuwaYTsGBEpsM"

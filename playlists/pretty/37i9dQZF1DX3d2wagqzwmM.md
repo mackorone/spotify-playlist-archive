@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,452 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,574 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 69 | [Rockstar Rave \- Extended Mix](https://open.spotify.com/track/1RCn9CiipgZ49rNV7lquqc) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k) | [Rockstar Rave](https://open.spotify.com/album/1a4BXtziLRL6Q3XQOt6XWV) | 3:37 |
 | 70 | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/track/7b5Eu8Mp5uB4MPjT3Kh3WF) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [Derb](https://open.spotify.com/artist/3mPVA7KPcWK2iKju5lLFc8), [Krys Tha Sis](https://open.spotify.com/artist/4FnvX9uPMfR9upQ4ByiBuO) | [Germany & Techno \(feat\. Krys Tha Sis\)](https://open.spotify.com/album/6sU8MVFcuQwitiDPKGFmwT) | 2:20 |
 | 71 | [Pump It](https://open.spotify.com/track/0cvh5BDi1aLFNPj2LV0TNN) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Pump It](https://open.spotify.com/album/5Spbk5Zg10W6T52xDJOHas) | 2:19 |
-| 72 | [Save The Day \- Once Again](https://open.spotify.com/track/328CwkVImzoaI9cryh0I6V) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Save The Day \(Once Again\)](https://open.spotify.com/album/35EMyzHw7HcRrncq5VRDzN) | 3:30 |
-| 73 | [Ratata \- Olly James Remix](https://open.spotify.com/track/1C9pIQewMcQp2nKk214ZeV) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Ratata](https://open.spotify.com/album/3cumrVwWPeqcxUlqUgSwmR) | 2:42 |
+| 72 | [Ratata \- Olly James Remix](https://open.spotify.com/track/1C9pIQewMcQp2nKk214ZeV) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Ratata](https://open.spotify.com/album/3cumrVwWPeqcxUlqUgSwmR) | 2:42 |
+| 73 | [Save The Day \- Once Again](https://open.spotify.com/track/328CwkVImzoaI9cryh0I6V) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Save The Day \(Once Again\)](https://open.spotify.com/album/35EMyzHw7HcRrncq5VRDzN) | 3:30 |
 | 74 | [Higher State Of Consciousness](https://open.spotify.com/track/1szMXvAlWLszMADcwKwR64) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Higher State Of Consciousness](https://open.spotify.com/album/2WHfvIIzdT7dLVLTajxjvv) | 3:03 |
 | 75 | [Día de Muertos \- Thoby's Version](https://open.spotify.com/track/4N6gh8ftIZwG62grKQorsZ) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao), [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x) | [Día de Muertos \(Thoby's Version\)](https://open.spotify.com/album/2DXKZAkIlIt8KkWpDijYTy) | 2:34 |
 | 76 | [La La La](https://open.spotify.com/track/44teMuEcQx41IYoWdRMolu) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk) | [La La La](https://open.spotify.com/album/6ZITdRO6gpcJtgwpawSGxe) | 1:54 |
-| 77 | [Nobody Else](https://open.spotify.com/track/1Gg1UJxlKPYFi6jvxqiXFV) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Nobody Else](https://open.spotify.com/album/30Dkv0eLc0WT3vr2mn5b6t) | 2:57 |
-| 78 | [Quantum Glitch](https://open.spotify.com/track/4bDPVSHBXnjuqU6Wqx9sTi) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Quantum Glitch](https://open.spotify.com/album/4Za1sMSUZSWjTohG72Hd6P) | 2:35 |
+| 77 | [Quantum Glitch](https://open.spotify.com/track/4bDPVSHBXnjuqU6Wqx9sTi) | [Nifra](https://open.spotify.com/artist/4Ipm3lGKLqzhir25JU846A) | [Quantum Glitch](https://open.spotify.com/album/4Za1sMSUZSWjTohG72Hd6P) | 2:35 |
+| 78 | [Nobody Else](https://open.spotify.com/track/1Gg1UJxlKPYFi6jvxqiXFV) | [Gelida](https://open.spotify.com/artist/3zlRoYmaLR1ogMVyJxfjag) | [Nobody Else](https://open.spotify.com/album/30Dkv0eLc0WT3vr2mn5b6t) | 2:57 |
 | 79 | [Heaven](https://open.spotify.com/track/4Un1dBih9aFD4pTZwRk9ZM) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [AKI\-HIRO](https://open.spotify.com/artist/532rNbzwQMk20W1yTmmj3L) | [Heaven](https://open.spotify.com/album/2fBY8khpyyFfGVe0xfvATz) | 3:23 |
 | 80 | [Rise Up](https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Rise Up](https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11) | 3:49 |
 

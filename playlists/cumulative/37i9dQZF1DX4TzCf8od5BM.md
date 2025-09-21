@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from Mickey Mouse Clubhouse+
 
-228 songs - 5 hr 58 min
+229 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Iron Friends Let's Go](https://open.spotify.com/track/3fbVHBF0iQH0ckF4t11WC8) | [Marvel’s Iron Man and His Awesome Friends – Cast](https://open.spotify.com/artist/1isd6R81bLb8bfNX0JSvMc), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Marvel's Iron Man and His Awesome Friends](https://open.spotify.com/album/6oYlFzm9YKClbkgoJLY7Fk) | 1:41 | 2025-08-15 |  |
 | [It's Jeff](https://open.spotify.com/track/0S1PjjMHpZiXy8CANVWSBg) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Marvel's Spidey and His Amazing Friends \- Water Webs](https://open.spotify.com/album/1t27m5EXAMl2yglCztc3OQ) | 2:11 | 2025-06-03 |  |
 | [It's Raining, It's Pouring](https://open.spotify.com/track/3POKZKjJdiJ8YhzASXHHKI) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Nursery Rhymes Vol\. 4](https://open.spotify.com/album/0CEROqJxzE7OTEqw1Fj30v) | 1:23 | 2022-03-18 | 2023-11-23 |
+| [Itsy Bitsy SuperKitty](https://open.spotify.com/track/1PQnZ6WQpth2mGUHBp9M1g) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: SuperKitties Su\-Purr Wild \(Original Soundtrack\)](https://open.spotify.com/album/4HlDw3O3fSHy8sFhieGwTA) | 2:02 | 2025-09-19 |  |
 | [Jake and the Never Land Pirates \(Main Title\) \- From "Jake and the Never Land Pirates"/Soundtrack Version](https://open.spotify.com/track/6j6fuhuCNiULtPmlfYKOz2) | [The Never Land Pirate Band](https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM) | [Jake And The Never Land Pirates](https://open.spotify.com/album/6AiPOzsx3NiOfeFvBivBYM) | 0:59 | 2022-03-18 |  |
 | [Jake and the Never Land Pirates \- Swashbucklin' Version](https://open.spotify.com/track/3tzSIK2uQQyYOHPLN1mL0a) | [The Never Land Pirate Band](https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM), [Jake](https://open.spotify.com/artist/6vx3m9xE9aMFTuClCXbt1F), [Izzy](https://open.spotify.com/artist/1WXRRxavKa9BnqKvi7jQG1), [Cubby](https://open.spotify.com/artist/6nuGaE4wm7r7jWbFtC2DD7) | [Disney Junior DJ Shuffle](https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg) | 0:57 | 2022-03-18 |  |
 | [Jump Into Wow! \- From "Disney Junior Music: Jump Into Wow!"](https://open.spotify.com/track/5uvpm4qJc8oTsCvRvtUOUp) | [Lamont Coleman](https://open.spotify.com/artist/0zaocTqm5PPBW7O2Hi1JEh), [Paula Winger](https://open.spotify.com/artist/39wNMOu1AnEupjEejl99AH), [Maria Christensen](https://open.spotify.com/artist/3dqeuUrOrCUjPspVv1FKlG) | [Jump Into Wow! \(From "Disney Junior Music: Jump Into Wow!"\)](https://open.spotify.com/album/2dCGc0xKSvvFApGaQh9XGo) | 1:44 | 2022-03-18 | 2023-08-09 |

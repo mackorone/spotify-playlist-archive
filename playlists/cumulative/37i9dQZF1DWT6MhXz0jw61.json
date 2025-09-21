@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Stellar Reputation",
+        "url": "https://open.spotify.com/album/1v5fU1TvA32zVlljxZElBX"
+      },
+      "artists": [
+        {
+          "name": "Deniro Farrar",
+          "url": "https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p"
+        },
+        {
+          "name": "Marc Spano",
+          "url": "https://open.spotify.com/artist/7a0fWz1BBranhBTJ91X1is"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120708,
+      "name": "$100 Cheesesteak",
+      "url": "https://open.spotify.com/track/1cUFl28NSsGqQoC4wZjMU4"
+    },
+    {
+      "album": {
         "name": "Victor",
         "url": "https://open.spotify.com/album/5wa0dQzg8Qe4L28za33DcH"
       },
@@ -414,6 +436,24 @@
       "duration_ms": 185812,
       "name": "3 Left Feet",
       "url": "https://open.spotify.com/track/6H3eLnUGTeiobrCia2wTNj"
+    },
+    {
+      "album": {
+        "name": "The Art of Perseverance",
+        "url": "https://open.spotify.com/album/0NPPsWq5qOfeuDn7XXc0FB"
+      },
+      "artists": [
+        {
+          "name": "Lew Sid",
+          "url": "https://open.spotify.com/artist/6ByZhpvv5X5ST4HtxH02Pn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191999,
+      "name": "3/21",
+      "url": "https://open.spotify.com/track/0H3V0k4wAgyYQDKavRaz5J"
     },
     {
       "album": {
@@ -2338,7 +2378,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 220143,
       "name": "BACK IT UP",
       "url": "https://open.spotify.com/track/3EP9OvE0Kh96oNTcoJrxPv"
@@ -5434,7 +5474,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 137219,
       "name": "Coco Gauff",
       "url": "https://open.spotify.com/track/73NBBLGtwyehCgML05lCbb"
@@ -6366,7 +6406,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 216386,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW"
@@ -8066,7 +8106,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 213349,
       "name": "Erewhon",
       "url": "https://open.spotify.com/track/4rm5bfZeNypM7oxK4fkXmm"
@@ -10977,6 +11017,24 @@
     },
     {
       "album": {
+        "name": "Hanging Tree",
+        "url": "https://open.spotify.com/album/7jzKPoF8NiN0MsMo2Q4Lrl"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181394,
+      "name": "Hanging Tree",
+      "url": "https://open.spotify.com/track/6R8tTcaNCdPIO9uZQLCU8F"
+    },
+    {
+      "album": {
         "name": "TYO 808",
         "url": "https://open.spotify.com/album/6qT4CoP1NXZobvnam3Fyzm"
       },
@@ -12327,6 +12385,24 @@
     },
     {
       "album": {
+        "name": "Everywhere, But Always (Deluxe)",
+        "url": "https://open.spotify.com/album/5UKLWnB2qImfzGC7X69SCq"
+      },
+      "artists": [
+        {
+          "name": "Yonny",
+          "url": "https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159880,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/75pdlyPCyZkE9jmPVjdxEU"
+    },
+    {
+      "album": {
         "name": "I Been",
         "url": "https://open.spotify.com/album/35A7fWLFHyE36KKAOazele"
       },
@@ -12762,7 +12838,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 146296,
       "name": "I'm Not An Apprentice",
       "url": "https://open.spotify.com/track/03hXI7gIbgQjkr9Y3CbCya"
@@ -12806,6 +12882,28 @@
       "duration_ms": 159452,
       "name": "If This Is It",
       "url": "https://open.spotify.com/track/15F2iwDCl9iDp9LoW0CQVR"
+    },
+    {
+      "album": {
+        "name": "Joint4u!",
+        "url": "https://open.spotify.com/album/06L3rJJoKdi48UWNUIArye"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        },
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140977,
+      "name": "Ight!!!! (feat. Kiefer)",
+      "url": "https://open.spotify.com/track/6zoeos3OIe74J9Q5MmqhCl"
     },
     {
       "album": {
@@ -13466,7 +13564,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 232258,
       "name": "Jill Scott (feat. Wiz Khalifa & Curren$y)",
       "url": "https://open.spotify.com/track/2MKGgh3tAB58wylg2J8CWc"
@@ -13696,7 +13794,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 236501,
       "name": "Just A Drop (feat. Jay Electronica)",
       "url": "https://open.spotify.com/track/3gxDopbcUDigbjJUiHkSRT"
@@ -15362,6 +15460,28 @@
       "duration_ms": 263670,
       "name": "Love You So",
       "url": "https://open.spotify.com/track/0Nln6WzcC4Z8hIlBjoY522"
+    },
+    {
+      "album": {
+        "name": "Joint4u!",
+        "url": "https://open.spotify.com/album/06L3rJJoKdi48UWNUIArye"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331953,
+      "name": "Lulwodie!!!! (feat. Pink Siifu)",
+      "url": "https://open.spotify.com/track/7qaBtBqVaV8TEtlVL1T9bA"
     },
     {
       "album": {
@@ -24296,7 +24416,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 156133,
       "name": "TELL ME (feat. Chl\u00f6e)",
       "url": "https://open.spotify.com/track/5SUYx8DCjFhdU9d9Qu4Vnf"
@@ -25818,6 +25938,24 @@
       "duration_ms": 211957,
       "name": "Top 10",
       "url": "https://open.spotify.com/track/0wIg4PwVJkrQqnTRrHhq83"
+    },
+    {
+      "album": {
+        "name": "9/15",
+        "url": "https://open.spotify.com/album/5jMXeDrpBBs3RYDQXBsqfz"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "Top Down",
+      "url": "https://open.spotify.com/track/6Gcow77fOMmdIxc3atXDyt"
     },
     {
       "album": {
@@ -27430,6 +27568,32 @@
       "duration_ms": 233531,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/49nkBg3OJtp6m6TQPmG1Qw"
+    },
+    {
+      "album": {
+        "name": "words i should've said",
+        "url": "https://open.spotify.com/album/1X5p3avr90meczOk6qY4BY"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "EMIL",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Words I should've said",
+      "url": "https://open.spotify.com/track/2wj1i3TRlyiMGujUO6Whjd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 61,437 likes - 149 songs - 8 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 61,436 likes - 149 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 36 | [Moment in Time](https://open.spotify.com/track/5QVpsrD7VvA3JGLO7UAjpr) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Niklas Liepe](https://open.spotify.com/artist/6ukAV4us7nVNQ1MQvj4sut) | [Moment in Time](https://open.spotify.com/album/67MwEDznUXj1Oo1SwLbkq4) | 3:09 |
 | 37 | [Helena's Sunrise](https://open.spotify.com/track/0FA7x00wmGCqUNHsmXtHM4) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Helena's Sunrise](https://open.spotify.com/album/3iccrCMVW5AOOyqCeccQHw) | 2:50 |
 | 38 | [Kyo](https://open.spotify.com/track/0LjazH98i2iH7TCkKPX4m3) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Kyo](https://open.spotify.com/album/0lwPCjEyY3TOE93TYeeFq8) | 2:57 |
-| 39 | [Piano Sonata in A major \- Official video](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |
+| 39 | [Piano Sonata in A major](https://open.spotify.com/track/63ayBaJeqgp9GmRnc4ewmF) | [Thomas Enhco](https://open.spotify.com/artist/7JpJd4JNH3oPZMWCwTKkYK) | [Piano Sonata in A major](https://open.spotify.com/album/4W3y0BJ9PG73pL5kAXl2Vu) | 4:36 |
 | 40 | [Prayer](https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX) | 2:38 |
 | 41 | [Hannah's Song](https://open.spotify.com/track/3D7pAAKaBtgFjvjSuxlwps) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF) | [Hannah's Song](https://open.spotify.com/album/5SpaQZuGEbdDIVWsq5esvd) | 3:19 |
 | 42 | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/track/5vHdzeEjuK5ZQnOyFqUTDH) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Nocturne in E\-Flat Major, Op\. 9, No\. 2](https://open.spotify.com/album/03BGb4cBD5kWEg8Dng7pFs) | 4:07 |

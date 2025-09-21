@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Pola Maj
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,981 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,989 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 49 | [GDZIE TRAFIA MIŁOŚĆ, GDY UMIERA](https://open.spotify.com/track/3WH7Cwb58Emk21C75nBTAU) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [GDZIE TRAFIA MIŁOŚĆ, GDY UMIERA](https://open.spotify.com/album/75mmJhjfvKWo4vGxCQK7Dt) | 2:47 |
 | 50 | [wolniej!](https://open.spotify.com/track/1DPShtZe2ocPeVX77GPC1f) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI) | [wolniej!](https://open.spotify.com/album/6sHUFDP92VgAXRF6hHkJqJ) | 2:28 |
 | 51 | [Szekspir](https://open.spotify.com/track/3B4ZCBL1Qr8k5q0YjZKfbq) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV), [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [Szekspir](https://open.spotify.com/album/4WlGNUct5FGv0Q28Ox0zjY) | 3:06 |
-| 52 | [Life Is A Game](https://open.spotify.com/track/2sjN8s15GRHoZTctyP0qx2) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [Life Is A Game](https://open.spotify.com/album/5EcDYFP87JwM371HNyEAWK) | 3:34 |
+| 52 | [Life Is A Game](https://open.spotify.com/track/2sjN8s15GRHoZTctyP0qx2) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [Life Is A Game](https://open.spotify.com/album/5EcDYFP87JwM371HNyEAWK) | 3:32 |
 | 53 | [NAD RANEM](https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [NAD RANEM](https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv) | 4:33 |
 | 54 | [blue](https://open.spotify.com/track/2NHK219XZGLZfnP0pVYqV0) | [MUD/O](https://open.spotify.com/artist/39BnGnKHfJNx4JXrSANdkf) | [It's enough to say I tried](https://open.spotify.com/album/45gJ5mFAn3RocUfGHfBOPm) | 3:35 |
 | 55 | [Ponton](https://open.spotify.com/track/57Q7QjiuYdJJquCoeOEnd6) | [nago](https://open.spotify.com/artist/1SffW2FKbStzVnMBdBwSy6), [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Ponton](https://open.spotify.com/album/5JdHrK3PTsXmMuG11d2KDF) | 3:53 |

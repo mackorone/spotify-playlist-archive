@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7m9p3l6oKvnMHJyEDsQvyA">Clementine Douglas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301 likes - 138 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 300 likes - 138 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 105 | [See This Through](https://open.spotify.com/track/35qF5s6IqQHzD45CkjkeQx) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [See This Through](https://open.spotify.com/album/3mr6nOha9myNvBwMEMAA4y) | 4:43 |
 | 106 | [R&L](https://open.spotify.com/track/54YpijDJAZ5PPz8B7pu87V) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [We Lost Ourselves and Found A Family](https://open.spotify.com/album/6yViLlBfDfb5mRrRaYqUtq) | 3:20 |
 | 107 | [Take It Easy](https://open.spotify.com/track/7tcHhUpBMuIqToolN3ZPD3) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Take It Easy](https://open.spotify.com/album/43bkp1b2lPlULq9vpfXNvu) | 2:20 |
-| 108 | [All I Need](https://open.spotify.com/track/4JNfSaTt2RgXddGPjLvS87) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All I Need](https://open.spotify.com/album/5ayP5H34Jl6fvr1kIUqLl2) | 3:34 |
-| 109 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 |
+| 108 | [Celebration \(feat\. Dawn Richard\)](https://open.spotify.com/track/723J8TT1MrywSg66aIqZio) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 2:50 |
+| 109 | [All I Need](https://open.spotify.com/track/4JNfSaTt2RgXddGPjLvS87) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All I Need](https://open.spotify.com/album/5ayP5H34Jl6fvr1kIUqLl2) | 3:34 |
 | 110 | [You Could Be The One](https://open.spotify.com/track/0VOL1UznKwKTTbAqNsG3pM) | [Tagavaka](https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy) | [Extrapolate EP](https://open.spotify.com/album/3g9sgL0uyNptqTgNowIF3R) | 3:15 |
 | 111 | [Right Direction](https://open.spotify.com/track/0thgGzOsrXtd4LvmbvOyx4) | [Gok Wan](https://open.spotify.com/artist/6QZpNKFFfeDnT0mC2yxszE) | [Right Direction](https://open.spotify.com/album/0SjCHCGfMup38P8YhMQPOS) | 3:34 |
 | 112 | [Forever](https://open.spotify.com/track/3AiyGGOgTyx6QmzQUrXJeO) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Forever](https://open.spotify.com/album/1t96mIM5YRX4sowjHXRt9I) | 2:53 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSiPLEmRWHlV.md) - [plain]
 | 137 | [Healthy](https://open.spotify.com/track/0SDiNesytguub7hj5PDNu4) | [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Are You With Me?](https://open.spotify.com/album/2Yv55gk5Sa144UCTfDthtf) | 3:10 |
 | 138 | [Falling](https://open.spotify.com/track/7i95fZDQo6DIIMpbI3YxV5) | [Mandyngo](https://open.spotify.com/artist/7GPVVWlYgHMHha6F86wfxQ), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Falling](https://open.spotify.com/album/7L29duYYvRaVbGg2oBidYV) | 7:13 |
 
-Snapshot ID: `Ab8rHgAAAADy230aafE81B80U0kRC8UH`
+Snapshot ID: `Ab8w0gAAAADwb40EkPKDV8d/N+VRmgDr`

@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 16376,
+  "num_followers": 16389,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Traveling You",
         "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 226220,
       "name": "\ud30c\ub780",
       "url": "https://open.spotify.com/track/3TDKL7ULjxEtFurcn4P4S2"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 235013,
+      "name": "As the Night Goes On",
+      "url": "https://open.spotify.com/track/1uczIRSpydgkLAi8kfAwwV"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 233333,
       "name": "\ubd88\uaf43",
       "url": "https://open.spotify.com/track/3CYMSmNYRnNz6CtGjbCW72"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 235013,
-      "name": "As the Night Goes On",
-      "url": "https://open.spotify.com/track/1uczIRSpydgkLAi8kfAwwV"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Let Me Love",
-        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "\ub2e4\uc9d0",
-      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Let's Go To My Star",
         "url": "https://open.spotify.com/album/2DGCxLMvM06pMkTOEsx3x6"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198360,
       "name": "\ubc14\uafd4",
       "url": "https://open.spotify.com/track/3COMNgsSBF1Gs3TV2zlc0T"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Let Me Love",
+        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "\ub2e4\uc9d0",
+      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/6zVFnvhl88fdYTOQNBkySs"
-      },
-      "artists": [
-        {
-          "name": "Baek Z Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
-        }
-      ],
-      "duration_ms": 226377,
-      "name": "Dash",
-      "url": "https://open.spotify.com/track/1dal60q6fDKWx4Y1Xtf6tC"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0dy5uXSLcZxXpezb84ece2"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/6zVFnvhl88fdYTOQNBkySs"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 226377,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/1dal60q6fDKWx4Y1Xtf6tC"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "The Reign",
         "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 225946,
       "name": "A-Yo",
       "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Power Bit Techno Space A",
+        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
+      },
+      "artists": [
+        {
+          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
+          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
+        }
+      ],
+      "duration_ms": 226893,
+      "name": "\uc131\uc219",
+      "url": "https://open.spotify.com/track/1Mr3U7Ku6Y30EShsQtGoiS"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Power Bit Techno Space A",
-        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
-      },
-      "artists": [
-        {
-          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
-          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
-        }
-      ],
-      "duration_ms": 226893,
-      "name": "\uc131\uc219",
-      "url": "https://open.spotify.com/track/1Mr3U7Ku6Y30EShsQtGoiS"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "The Third Eye",
         "url": "https://open.spotify.com/album/0B3aIlP9B06FS9oF1DIKxq"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 211426,
       "name": "Now",
       "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Power Bit Techno Space A",
+        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
+      },
+      "artists": [
+        {
+          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
+          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1187,38 +1203,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Power Bit Techno Space A",
-        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
-      },
-      "artists": [
-        {
-          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
-          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "School Byeolgok",
-        "url": "https://open.spotify.com/album/18P1aqSLQA9WdNljjEhv9q"
-      },
-      "artists": [
-        {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "The way this guy lives",
-      "url": "https://open.spotify.com/track/3zpTFOea1bEMJxj0gwBDSZ"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Myself",
         "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 220933,
       "name": "\ubc18",
       "url": "https://open.spotify.com/track/3gEaYFqK3CGCn5Jmw37Xwd"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "School Byeolgok",
+        "url": "https://open.spotify.com/album/18P1aqSLQA9WdNljjEhv9q"
+      },
+      "artists": [
+        {
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "The way this guy lives",
+      "url": "https://open.spotify.com/track/3zpTFOea1bEMJxj0gwBDSZ"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ud558\ub298\ub545 \ubcc4\ub545",
-        "url": "https://open.spotify.com/album/3kgkpGjsUJBZNyh2F0JX8i"
-      },
-      "artists": [
-        {
-          "name": "\ube44\ube44",
-          "url": "https://open.spotify.com/artist/2fdwPdFrxlIm0jVKHVnxbX"
-        }
-      ],
-      "duration_ms": 216372,
-      "name": "\ud558\ub298\ub545 \ubcc4\ub545",
-      "url": "https://open.spotify.com/track/2uaWQ7tyiIPAWUUYUhjP49"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Taekwon V",
         "url": "https://open.spotify.com/album/7DAB9CI3G64gf1nsHgUm2n"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 222200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/36iEQYW3jx9jsfETI5drEc"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "\ud558\ub298\ub545 \ubcc4\ub545",
+        "url": "https://open.spotify.com/album/3kgkpGjsUJBZNyh2F0JX8i"
+      },
+      "artists": [
+        {
+          "name": "\ube44\ube44",
+          "url": "https://open.spotify.com/artist/2fdwPdFrxlIm0jVKHVnxbX"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "\ud558\ub298\ub545 \ubcc4\ub545",
+      "url": "https://open.spotify.com/track/2uaWQ7tyiIPAWUUYUhjP49"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Roo`ra Best Album",
-        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
-      },
-      "artists": [
-        {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Jinusean",
         "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 243910,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+        "name": "Roo`ra Best Album",
+        "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
       "artists": [
         {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
         }
       ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
+      "duration_ms": 243435,
+      "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
     },
     {
       "added_at": "2024-08-05 17:06:13",

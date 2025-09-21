@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+    },
+    {
+      "album": {
         "name": "Coma Happy",
         "url": "https://open.spotify.com/album/6QhOK8ASSEafbqLRoifCnn"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 198306,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 191373,
       "name": "Kingdumb",
       "url": "https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK"

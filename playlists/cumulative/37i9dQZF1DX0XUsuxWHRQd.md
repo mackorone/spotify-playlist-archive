@@ -4,7 +4,7 @@
 
 > Music from Gunna, Cardi B and Drake.
 
-2,508 songs - 5 day 10 hr 4 min
+2,509 songs - 5 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -706,7 +706,7 @@
 | [Flex Up \(feat\. Future & Playboi Carti\)](https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 2:50 | 2020-11-27 | 2021-01-21 |
 | [Floating \(feat\. 21 Savage\)](https://open.spotify.com/track/4NN6N5TxBO5k9uqu0W4gfQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [CrasH Talk](https://open.spotify.com/album/3UTp6spxkyTdvsmJDPfb7n) | 3:06 | 2019-05-26\* | 2019-08-13 |
 | [Flocky Flocky \(feat\. Travis Scott\)](https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:03 | 2021-10-08 | 2022-01-15 |
-| [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 | 2025-08-29 |  |
+| [Flood](https://open.spotify.com/track/11FK7jL23XRcdrWmZWepvu) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Flood](https://open.spotify.com/album/4UM2ZMdwsY7rWYGsn0XRBY) | 2:07 | 2025-08-29 | 2025-09-21 |
 | [Flood My Wrist \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5Tj4faD9lGyMw8ZatUYR6G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Don Q](https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Flood My Wrist \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/1DNZxVVjDU8ArQRzQjif6H) | 3:00 | 2020-07-02 | 2020-10-02 |
 | [Flooded The Face](https://open.spotify.com/track/4daEMLSZCgZ2Mt7gNm2SRa) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:12 | 2023-07-07 | 2023-10-28 |
 | [Floor Seats](https://open.spotify.com/track/645O1frAHmClaFygFT9EZa) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Floor Seats](https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6) | 2:37 | 2019-08-23 | 2019-08-27 |
@@ -1852,6 +1852,7 @@
 | [Scorpio](https://open.spotify.com/track/0LlFMKD7MAHwOqkIBsHui6) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain: Reloaded](https://open.spotify.com/album/78L6XKTChkf0M5SK3oogk3) | 2:45 | 2021-10-22 | 2022-01-08 |
 | [Scrape It Off \(feat\. Lil Uzi Vert & Don Toliver\)](https://open.spotify.com/track/1dp8aQANyTRKssDeAYPiZe) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:32 | 2022-04-22 | 2022-07-09 |
 | [Screw Juice](https://open.spotify.com/track/2XSO13Gyndo7MDdtYibIxO) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 2:59 | 2020-07-10 | 2020-07-14 |
+| [screwed up](https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:33 | 2025-09-19 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-07 | 2023-09-16 |
 | [Seduce \(feat\. Capella Grey\)](https://open.spotify.com/track/5irzewJoHob42Nq3P9kOYh) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Seduce \(feat\. Capella Grey\)](https://open.spotify.com/album/4rznzfuokCVEOo5amWNx7c) | 1:57 | 2021-10-16 | 2021-10-23 |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2022-05-27 | 2022-09-03 |

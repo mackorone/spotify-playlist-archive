@@ -4,7 +4,7 @@
 
 > und macht laune
 
-315 songs - 14 hr 41 min
+316 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Ibu macht den Meister](https://open.spotify.com/track/1pugeuyZsU92mGC2oio4yH) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [PA69](https://open.spotify.com/artist/1f3unG8ouGKD4s3iscIA5h) | [AUA AUA](https://open.spotify.com/album/19EYnc7WdB1RKNYqDW3TJ8) | 2:14 | 2024-10-10 | 2024-10-25 |
 | [Ich bin cool](https://open.spotify.com/track/1GO1PktfOEg5gnuOaVa9n4) | [Mehnersmoos](https://open.spotify.com/artist/4v1lRzkxvSsxo1JVUxXEOK) | [Ich bin cool](https://open.spotify.com/album/6AmNFzhaOzjdhhTunhhEoj) | 2:22 | 2024-09-16 | 2024-10-11 |
 | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs) | [Ich nehm dich bei der Hand \(SimsalaGrimm\)](https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP) | 2:05 | 2024-01-05 | 2025-02-01 |
-| [Ich will nur dass du weißt \- IIVEN Remix](https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Ich will nur dass du weißt \(IIVEN Remix\)](https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA) | 2:36 | 2023-08-11 |  |
+| [Ich will nur dass du weißt \- IIVEN Remix](https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq), [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Ich will nur dass du weißt \(IIVEN Remix\)](https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA) | 2:36 | 2023-08-11 | 2025-09-21 |
 | [IMMER \(MIT MAKKO\)](https://open.spotify.com/track/0UZOCEkRQ7kBNFH4NZgmHq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Wilmersdorfs Kind](https://open.spotify.com/album/1qGEpCF1NA9ToIocKI4xVK) | 2:35 | 2024-09-02 | 2025-06-18 |
 | [IN THE CLUB](https://open.spotify.com/track/7vX0rvoGneCCOJ2QPruNNZ) | [Mishashi Sensei](https://open.spotify.com/artist/2kH0ycFAZXMJzpNems0mVK) | [IN THE CLUB](https://open.spotify.com/album/1nKcVRIapkprHO7oeNLyE4) | 2:19 | 2023-07-21 | 2023-09-09 |
 | [It Ain't Over](https://open.spotify.com/track/2CXgBOHvaylFWhzk8aoNPG) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [It Ain't Over](https://open.spotify.com/album/1JOMt08TLz8kwa9GJXP4Ya) | 3:35 | 2023-12-28 | 2024-01-02 |
@@ -187,6 +187,7 @@
 | [Lullaby](https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Lullaby](https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy) | 3:07 | 2024-05-01 |  |
 | [Macarena](https://open.spotify.com/track/38aDPziKNpMScJAdNro7vI) | [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [Macarena](https://open.spotify.com/album/4u8Cg6VFMrJDM6WvckaHau) | 2:03 | 2023-07-28 | 2024-05-11 |
 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-05-01 | 2025-03-14 |
+| [MAMA GEHT'S FANTASTISCH](https://open.spotify.com/track/1WpzWood5j5iFzoFprHdOP) | [LARI LUKE](https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm), [Das Lumpenpack](https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM) | [MAMA GEHT'S FANTASTISCH](https://open.spotify.com/album/3qc2mZ7Xb83o3e5yR70GGD) | 2:15 | 2025-09-18 |  |
 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \[Techno Mix\]](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 | 2024-09-02 |  |
 | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP) | [Girl On Couch](https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Man In Finance \(G6 Trust Fund\)](https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs) | 2:31 | 2024-06-11 | 2024-09-01 |
 | [Maneater](https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [ECHO](https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI) | [Maneater](https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw) | 2:34 | 2023-07-21 | 2025-07-04 |

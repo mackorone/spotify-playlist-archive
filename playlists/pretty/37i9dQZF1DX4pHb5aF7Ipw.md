@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sultaan, Navaan Sandhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,355 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,381 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 13 | [Open Fire](https://open.spotify.com/track/3UudI4oLw2ZIs9TTTTmRtq) | [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [Vansh DX](https://open.spotify.com/artist/2sO8oRYnSaKKBRjavZRpE3) | [Open Fire](https://open.spotify.com/album/4ESOJ39fFCUJNtCefquJDd) | 3:27 |
 | 14 | [CHROMEO](https://open.spotify.com/track/5pQPxIXdcbzyVK5JypPWHv) | [Arry Krown](https://open.spotify.com/artist/4clfOKTzZ9CAvRieykRtSD), [Ishaan Sharma](https://open.spotify.com/artist/2h0v09QwE0b9Wda5bTfYQ4) | [CHROMEO](https://open.spotify.com/album/7lv5QVxxtzkvYUue1FIpsD) | 3:10 |
 | 15 | [STUBBORN](https://open.spotify.com/track/2EWNCovGetUcsMm0YoaLW1) | [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5), [Avy](https://open.spotify.com/artist/60LOC5YjxUz2giCuSG8vgY) | [STUBBORN](https://open.spotify.com/album/7sLWgorFOvUA5U6ri8m2bN) | 2:14 |
-| 16 | [Unstable](https://open.spotify.com/track/0j1JIhTpapX3eIvVOO3RVt) | [Harkabir Honey](https://open.spotify.com/artist/0wMLpmdTTbVj8w1dbu9RqS), [RTX](https://open.spotify.com/artist/5O5KzH8nvY3Lc90zF0YwYM) | [Unstable](https://open.spotify.com/album/2kvsncJrY3N31Yc1KH6clM) | 3:13 |
+| 16 | [Unstable](https://open.spotify.com/track/0j1JIhTpapX3eIvVOO3RVt) | [Harkabir Honey](https://open.spotify.com/artist/0wMLpmdTTbVj8w1dbu9RqS), [RTX](https://open.spotify.com/artist/13qVh0s2d7Y24k3DFBSk7a) | [Unstable](https://open.spotify.com/album/2kvsncJrY3N31Yc1KH6clM) | 3:13 |
 | 17 | [Audi Kaali](https://open.spotify.com/track/7e21eh0Dq8T3VmegGeQD9Y) | [Sagar Bhatoa](https://open.spotify.com/artist/63l0cVf3XrP2qcTNVjuhS5), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [Audi Kaali](https://open.spotify.com/album/2e2UKHx48wVE4dMjvKeMXJ) | 2:41 |
 | 18 | [Piche Aava](https://open.spotify.com/track/3jRBzl4AJMssXH0VQ5Tem1) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Muzzle](https://open.spotify.com/artist/19trpXQWUc00d2UEGLZQVB) | [Boy Drama](https://open.spotify.com/album/7IdRtAuG8gIaDcQfoacL8e) | 2:25 |
 | 19 | [YKW](https://open.spotify.com/track/5wtAzbiOedygEGaBjEdW2O) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [FXRZII](https://open.spotify.com/artist/6kZ4nGuE2fWal8c08vL5Wm), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [YKW](https://open.spotify.com/album/3aEMasnqvXwZjve3pvRkT4) | 2:19 |

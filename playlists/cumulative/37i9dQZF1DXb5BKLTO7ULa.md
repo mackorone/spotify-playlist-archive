@@ -4,7 +4,7 @@
 
 > Nieuwe muziek: Cardi B, Antoon, RAYE, Lola Young en meer
 
-12,721 songs - 27 day 16 hr 28 min
+12,723 songs - 27 day 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -8577,6 +8577,7 @@
 | [Physique \(feat\. RBZ\)](https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [RBZ](https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL) | [Physique \(feat\. RBZ\)](https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ) | 2:58 | 2024-02-15 | 2024-02-23 |
 | [Picasso](https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Picasso](https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967) | 3:16 | 2024-05-09 | 2024-05-17 |
 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-28 | 2024-12-06 |
+| [Pick It Up \(feat\. Selena Gomez\)](https://open.spotify.com/track/6M1vkKMDQZoh1sbH4asNcF) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:40 | 2025-09-19 |  |
 | [Pick Me](https://open.spotify.com/track/02Vncg7BGazGARW9CMVstt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pick Me](https://open.spotify.com/album/04wIPzs14Kuqk3OBbhcB3U) | 2:58 | 2024-01-25 | 2024-02-02 |
 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 | 2023-06-08 | 2023-06-16 |
 | [Pick Up The Pace \(feat\. Bayka\)](https://open.spotify.com/track/2VLLXmcR2ahOi8hLS6qUxQ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Pick Up The Pace \(feat\. Bayka\)](https://open.spotify.com/album/6xKgXvMCjS2li7upWSw2KJ) | 2:34 | 2024-11-14 | 2024-11-22 |
@@ -9267,6 +9268,7 @@
 | [Sad Shit](https://open.spotify.com/track/38KpdBkSBBjoBdWiTzTqVa) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Sad Shit](https://open.spotify.com/album/3LWLYiEJ92tWiMx2WwSheZ) | 4:06 | 2024-08-29 | 2024-09-06 |
 | [Sadness As A Gift](https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Sadness As A Gift](https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD) | 4:19 | 2024-01-19 | 2024-01-26 |
 | [Safari](https://open.spotify.com/track/63m0FSZlrlvZsw4NqC2ZJA) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [SHY](https://open.spotify.com/artist/6XPCiOK0ZzG8WJhUsnyU7T) | [Safari](https://open.spotify.com/album/6Ls71z8Zwbzw6zMwxWkv2a) | 3:06 | 2024-09-12 | 2024-09-20 |
+| [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-19 |  |
 | [Safe Bay](https://open.spotify.com/track/652KfZBWKtqzD0k24i7Z9h) | [Suzy V](https://open.spotify.com/artist/7vgvkOOXTiKmmHc2Yw3zM8) | [Safe Bay](https://open.spotify.com/album/5Qztw5kM4kiIZijqYOXM8q) | 4:53 | 2023-03-30 | 2023-04-07 |
 | [Safe Haven](https://open.spotify.com/track/2zyRqo9sfyxle2aNEU1dgv) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Safe Haven](https://open.spotify.com/album/0ZdOm1pVd7bilAbWTrLeYw) | 4:07 | 2025-07-03 | 2025-07-11 |
 | [Safe in the Suburbs](https://open.spotify.com/track/5DnmQbTWvGQfIijaE0wGd8) | [Femke](https://open.spotify.com/artist/5XEOJI2noMNu9v6f30cQ4w) | [Safe in the Suburbs](https://open.spotify.com/album/6SurerfroAM8SvgLZL7KsZ) | 3:02 | 2023-06-22 | 2023-06-30 |

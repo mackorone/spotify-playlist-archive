@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168377,
+      "name": "Senza te",
+      "url": "https://open.spotify.com/track/2Ig5zqWraL3pQ2SCwYIu5k"
+    },
+    {
+      "album": {
         "name": "Serial Killer",
         "url": "https://open.spotify.com/album/2RgVZmru4TcFFq5hyGLGti"
       },

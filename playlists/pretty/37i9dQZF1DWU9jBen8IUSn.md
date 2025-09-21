@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 ### [Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> Inspired by Project Serpo and the Roswell incident, Haroumi Hosono imagines the music astronauts might have carried on an interplanetary journey\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
+> Inspired by Project Serpo and the Roswell incident, Haruomi Hosono imagines the music astronauts might have carried on an interplanetary journey\. <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">Check out past mixtapes here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,994 likes - 26 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,215 likes - 26 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 25 | [Beat Me Daddy Eight To The Bar \- Remastered](https://open.spotify.com/track/03RgS4fhXdmUViacKpuASz) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc) | [The Essential Glenn Miller](https://open.spotify.com/album/2T5OcivGnzcSE2kaBtXXKj) | 3:04 |
 | 26 | [Come On\-A My House](https://open.spotify.com/track/3GVyT9fBXuEkGs1STo2WHZ) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [The Essential Rosemary Clooney](https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP) | 1:56 |
 
-Snapshot ID: `AAAAAJC4PK9RZLYMucJQ1ecE7zaORWrr`
+Snapshot ID: `AAAAADSsGKoz1ZCjXwhEyh53d126vB6a`

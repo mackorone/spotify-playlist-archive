@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: State Champs
 
-532 songs - 1 day 2 hr 36 min
+533 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Matching Piece](https://open.spotify.com/track/3TkhGiMSW4s29s1EMTmeyh) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Matching Piece](https://open.spotify.com/album/6pr2hYWxrwPkWHWrZ71wJi) | 2:50 | 2021-12-20 | 2022-01-15 |
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2022-10-21 | 2023-02-10 |
 | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/track/2sPlAS5w8wpAfbxL3l2Ljr) | [GARZI](https://open.spotify.com/artist/0w6YVGViQHcgC3eyc8LxUv), [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [MESS \(with Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/7tyN1gptSZOcv1PPELd7vU) | 2:19 | 2022-02-28 | 2023-07-07 |
+| [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 | 2025-09-12 |  |
 | [Miracle](https://open.spotify.com/track/5BAQNOeOEhgKsOGCEqZBCv) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Miracle](https://open.spotify.com/album/7xLrIwFcJTpViGlOwrpREK) | 2:59 | 2023-10-19 | 2023-11-16 |
 | [Miracle](https://open.spotify.com/track/5zcwr8ousvLdjUz8RqwN1j) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [More Like A Crash](https://open.spotify.com/album/6s7dcsTRvTLnz06RJCdJ8a) | 2:59 | 2023-10-19 | 2024-04-19 |
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-08-07 |  |
@@ -391,7 +392,7 @@
 | [Say Yes](https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Say Yes](https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI) | 2:38 | 2021-12-20 | 2022-09-10 |
 | [Scream](https://open.spotify.com/track/7LQQ207LAlwd7AuL8cmgjN) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Scream](https://open.spotify.com/album/4h3kh61nAsdHKkCGPUtq17) | 2:52 | 2021-12-20 | 2022-04-05 |
 | [Second Chances](https://open.spotify.com/track/2oGyfekTurVuAerH3HDx5f) | [Rxmance](https://open.spotify.com/artist/3HbCm60icNbP67i0vLCB62) | [Second Chances](https://open.spotify.com/album/5ufFZ6CRoArwJ87eeezDhw) | 2:51 | 2021-12-20 | 2022-04-05 |
-| [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 | 2025-02-21 |  |
+| [Second Thoughts](https://open.spotify.com/track/6UR9TruATotQiBMQtU4ZCH) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [Second Thoughts](https://open.spotify.com/album/18T5RgOkboFwvVVNBCRF3u) | 2:41 | 2025-02-21 | 2025-09-21 |
 | [See You All in Hell](https://open.spotify.com/track/2KfXD9pHBUpKpFe8wHO9Y2) | [brake](https://open.spotify.com/artist/7abxh8jKgffWgxI12BESvb) | [See U All in Hell](https://open.spotify.com/album/3laSoUVDJdNAVU4UfXafCp) | 2:29 | 2021-12-20 | 2022-01-15 |
 | [Seeing Red \(with Dusty Locane & Rah Swish\)](https://open.spotify.com/track/7eokpLlr9FBg6PdqzA2hLh) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Seeing Red](https://open.spotify.com/album/5niGkfpw5sNpXPQnicsAKO) | 2:41 | 2022-10-13 | 2023-09-15 |
 | [SELF\-SABOTAGE](https://open.spotify.com/track/6uEBUvGjFsoVdEf775Coa3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SELF\-SABOTAGE](https://open.spotify.com/album/1a37BS9lp7tkEbhGtoj0qf) | 2:37 | 2022-07-18 | 2022-10-14 |

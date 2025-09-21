@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Bruna Black",
-  "num_followers": 352403,
+  "num_followers": 352449,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "Vila do Sossego",
+        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Vila do Sossego",
+      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "A Paz (Ao Vivo)",
         "url": "https://open.spotify.com/album/4BXhVxKouNYfRoR6iPnYuv"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 274304,
       "name": "A Paz - Ao Vivo",
       "url": "https://open.spotify.com/track/409yVdUeXfYJY7MeY0SKRf"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Vila do Sossego",
-        "url": "https://open.spotify.com/album/5xQJOjRkhtFXfmOo8KoeGR"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Vila do Sossego",
-      "url": "https://open.spotify.com/track/0FumDeSskbVwlmJ6EKhtsY"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -391,18 +391,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Olho D'\u00c1gua",
-        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
+        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        },
+        {
+          "name": "Timbalada",
+          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
         }
       ],
-      "duration_ms": 188064,
-      "name": "Deleita",
-      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+      "duration_ms": 268364,
+      "name": "S\u00f3 Quem Ama - Ao Vivo",
+      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -427,22 +431,18 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "JV30 Tour, Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5KQcO6fc7dtZT86wYs41eg"
+        "name": "Olho D'\u00c1gua",
+        "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
       "artists": [
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        },
-        {
-          "name": "Timbalada",
-          "url": "https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 268364,
-      "name": "S\u00f3 Quem Ama - Ao Vivo",
-      "url": "https://open.spotify.com/track/6TQ1NW7GFhRMU2bU9SXVYf"
+      "duration_ms": 188064,
+      "name": "Deleita",
+      "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Prud\u00eancia - Praga",
-        "url": "https://open.spotify.com/album/0qUA4PLjTdr9F67xgJKdBZ"
-      },
-      "artists": [
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 198250,
-      "name": "Praga",
-      "url": "https://open.spotify.com/track/4mVF0VWZ8mS2gqSoed5V2c"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
         "name": "JV30 Tour Deluxe (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tzWjnm1GsPT4xCpSOShKk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 342150,
       "name": "Ela Une Todas as Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "Prud\u00eancia - Praga",
+        "url": "https://open.spotify.com/album/0qUA4PLjTdr9F67xgJKdBZ"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "Praga",
+      "url": "https://open.spotify.com/track/4mVF0VWZ8mS2gqSoed5V2c"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -787,6 +787,26 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "SalDoce",
+        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+        }
+      ],
+      "duration_ms": 181992,
+      "name": "Bem ou Mal",
+      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "DEL\u00cdRIOS",
         "url": "https://open.spotify.com/album/5zdy3MUjYs5tFsWCl5Vcg1"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "SalDoce",
-        "url": "https://open.spotify.com/album/3L72Mzaf9rUIFgRXlQiCF3"
-      },
-      "artists": [
-        {
-          "name": "SalDoce",
-          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "duration_ms": 181992,
-      "name": "Bem ou Mal",
-      "url": "https://open.spotify.com/track/5WjWfsNUTjiPbxubTL3UPz"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1279,26 +1279,18 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "N\u00f3s dois \u00e9 bem melhor",
-        "url": "https://open.spotify.com/album/4rzDSw6sJGijfL0H98LhO3"
+        "name": "Uma Estrela Misteriosa",
+        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "Fabinho K",
-          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
         }
       ],
-      "duration_ms": 177513,
-      "name": "N\u00f3s dois \u00e9 bem melhor",
-      "url": "https://open.spotify.com/track/4FEWrTX7MGHfV9AjLFZSPJ"
+      "duration_ms": 426853,
+      "name": "Estrela Misteriosa",
+      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1323,18 +1315,26 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Uma Estrela Misteriosa",
-        "url": "https://open.spotify.com/album/3fBnUzq7UsPTNcI6BRww9W"
+        "name": "N\u00f3s dois \u00e9 bem melhor",
+        "url": "https://open.spotify.com/album/4rzDSw6sJGijfL0H98LhO3"
       },
       "artists": [
         {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "Fabinho K",
+          "url": "https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
         }
       ],
-      "duration_ms": 426853,
-      "name": "Estrela Misteriosa",
-      "url": "https://open.spotify.com/track/4Ulq4jkpbjAorWd164P2cG"
+      "duration_ms": 177513,
+      "name": "N\u00f3s dois \u00e9 bem melhor",
+      "url": "https://open.spotify.com/track/4FEWrTX7MGHfV9AjLFZSPJ"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "Este seu olhar / Promessas",
         "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 212727,
       "name": "Este seu olhar / Promessas",
       "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "Pr\u00f3xima",
+        "url": "https://open.spotify.com/album/3e5GqL7KOk41xS3wcyjqls"
+      },
+      "artists": [
+        {
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        }
+      ],
+      "duration_ms": 267448,
+      "name": "Pr\u00f3xima",
+      "url": "https://open.spotify.com/track/6QAphFOhQzdC4nW2F775Jf"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "Pra voc\u00ea poder chegar",
         "url": "https://open.spotify.com/album/08crnatWWV8TAUG3rnxmC2"
       },
@@ -1695,38 +1711,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Rivo III e a F\u00e9",
-        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
+        "name": "Um Trem para as Estrelas",
+        "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
       },
       "artists": [
         {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Piquete",
-      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "real cinema",
-        "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
-      },
-      "artists": [
-        {
-          "name": "LUIZGA",
-          "url": "https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         },
         {
-          "name": "Jo\u00e3o Silva",
-          "url": "https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS"
+          "name": "Nilo Romero",
+          "url": "https://open.spotify.com/artist/62RsxSRoTKw2gxgCoaAMbA"
         }
       ],
-      "duration_ms": 203827,
-      "name": "aprender a perder",
-      "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
+      "duration_ms": 216425,
+      "name": "Um Trem Para as Estrelas",
+      "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1755,34 +1755,18 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "\u00c0 Primeira Vista",
-        "url": "https://open.spotify.com/album/3TjqDLIj31znVGalAnYi9Y"
+        "name": "Rivo III e a F\u00e9",
+        "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
         }
       ],
-      "duration_ms": 154686,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/31H4dP6BCJvgAydev8U2wI"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Pr\u00f3xima",
-        "url": "https://open.spotify.com/album/3e5GqL7KOk41xS3wcyjqls"
-      },
-      "artists": [
-        {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        }
-      ],
-      "duration_ms": 267448,
-      "name": "Pr\u00f3xima",
-      "url": "https://open.spotify.com/track/6QAphFOhQzdC4nW2F775Jf"
+      "duration_ms": 253173,
+      "name": "Piquete",
+      "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1803,6 +1787,42 @@
       "duration_ms": 217840,
       "name": "Na Ronda",
       "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "real cinema",
+        "url": "https://open.spotify.com/album/0eXvtucC2iXVmb3v3mQZgt"
+      },
+      "artists": [
+        {
+          "name": "LUIZGA",
+          "url": "https://open.spotify.com/artist/2805s9LKfRvmaFi6eK6L0f"
+        },
+        {
+          "name": "Jo\u00e3o Silva",
+          "url": "https://open.spotify.com/artist/48siV5cOPIH3efnBKvN8FS"
+        }
+      ],
+      "duration_ms": 203827,
+      "name": "aprender a perder",
+      "url": "https://open.spotify.com/track/0zkftqXT4ROiEWwKEOMs8b"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "\u00c0 Primeira Vista",
+        "url": "https://open.spotify.com/album/3TjqDLIj31znVGalAnYi9Y"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 154686,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/31H4dP6BCJvgAydev8U2wI"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1855,26 +1875,6 @@
       "duration_ms": 165010,
       "name": "NADA DE EXTRAORDIN\u00c1RIO",
       "url": "https://open.spotify.com/track/2Mgwya93knUYDgNM5EVT7l"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Um Trem para as Estrelas",
-        "url": "https://open.spotify.com/album/4g5evSq0zyRmJlRpy8j7XP"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Nilo Romero",
-          "url": "https://open.spotify.com/artist/62RsxSRoTKw2gxgCoaAMbA"
-        }
-      ],
-      "duration_ms": 216425,
-      "name": "Um Trem Para as Estrelas",
-      "url": "https://open.spotify.com/track/7yTVP7L2L6ACdt9n16tFW4"
     },
     {
       "added_at": "2025-09-19 14:07:44",

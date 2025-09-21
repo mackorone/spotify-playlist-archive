@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 171722,
       "name": "AM4",
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
@@ -5414,6 +5414,24 @@
     {
       "album": {
         "name": "Story",
+        "url": "https://open.spotify.com/album/4uivNP26ytzPnGKtTfRm6D"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167826,
+      "name": "Bohyne",
+      "url": "https://open.spotify.com/track/1rAy4X4aHyixDqXmxjSZBQ"
+    },
+    {
+      "album": {
+        "name": "Story",
         "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
       },
       "artists": [
@@ -5874,7 +5892,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -5892,7 +5910,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -8768,7 +8786,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 183428,
       "name": "C\u00edgo a k\u00e1va (feat. Saul)",
       "url": "https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N"
@@ -14158,7 +14176,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 165245,
       "name": "Gambit",
       "url": "https://open.spotify.com/track/2CK7yTPUmfxCl3eZjasHe1"
@@ -20783,6 +20801,32 @@
     },
     {
       "album": {
+        "name": "KDE SI?!",
+        "url": "https://open.spotify.com/album/1IvdQAtO3xNlu4D1zpNMeF"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181893,
+      "name": "KDE SI?!",
+      "url": "https://open.spotify.com/track/5EhpEj7rkZJmDkpZrtGPSw"
+    },
+    {
+      "album": {
         "name": "Hudba Nen\u00ed Zl\u00e1",
         "url": "https://open.spotify.com/album/0X7fKhehlFhOnTMwKE9DNH"
       },
@@ -23888,7 +23932,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -25242,7 +25286,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "medelin",
       "url": "https://open.spotify.com/track/4KmnwhIOSh9zZRzTUJGsY4"
@@ -27336,7 +27380,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 153230,
       "name": "M\u011b Nedostanou",
       "url": "https://open.spotify.com/track/0OZ9KaHagV90vvlhNUYdh7"
@@ -35256,7 +35300,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 157947,
       "name": "Ready \u010di ne!?",
       "url": "https://open.spotify.com/track/7BYzdtr7IDLBxe81Wwat8n"
@@ -36038,7 +36082,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 255774,
       "name": "ROOFTOP",
       "url": "https://open.spotify.com/track/40NDq9cPK2bxBlkPFATZWw"
@@ -38942,7 +38986,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 174246,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/4O0dlJnPKQNRzh1J1pGpKg"
@@ -41370,7 +41414,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 166299,
       "name": "Syndrom",
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
@@ -42786,7 +42830,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -45672,7 +45716,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 212727,
       "name": "Viac",
       "url": "https://open.spotify.com/track/2zCkru42FlOYnguzb9Z4aT"
@@ -46836,6 +46880,32 @@
       "duration_ms": 66976,
       "name": "WAE",
       "url": "https://open.spotify.com/track/0XbpDPx8cuA9qnOSsju1MF"
+    },
+    {
+      "album": {
+        "name": "WAGWAN",
+        "url": "https://open.spotify.com/album/5bMBiptclUjKLfEDRyBIna"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102226,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/3uuVaRYdplEzu9akDjXPSX"
     },
     {
       "album": {
@@ -48272,6 +48342,24 @@
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/6TEftSkmWdTm1EpThnwqh6"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/0Sd9HZYd5ITYBUZEgPIePp"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        }
+      ],
+      "date_added": "2025-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173583,
+      "name": "X",
+      "url": "https://open.spotify.com/track/6cgrQtqDkqZkOVGjeMgfO6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 
 > Belt it out\. Cover: Audra McDonald in "Gypsy"
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,743 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,755 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqsF7GMD33N.md) - [plain]
 | 54 | [Let It Go \- From "Frozen: The Broadway Musical"](https://open.spotify.com/track/68qA74EO9cxzSWJwmOjmQR) | [Caissie Levy](https://open.spotify.com/artist/4WpXr474F2fTdlgWL0034N) | [Frozen: The Broadway Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2rCCUNn3PUaTsKRAKBIzh4) | 3:46 |
 | 55 | [Dancing Queen \- 1999 / Musical "Mamma Mia"](https://open.spotify.com/track/5qUkINqRuoPkM7J6TYo8R0) | [Benny Andersson](https://open.spotify.com/artist/0kV0e99xlTJcLKSu8KrLyp), [Björn Ulvaeus](https://open.spotify.com/artist/2lVPicgpjjlbROFIzwGm8V), [Stig Anderson](https://open.spotify.com/artist/1CDtTrMhug34Bq6GQHIfhe), [Jenny Galloway](https://open.spotify.com/artist/5Bc5dlMRPkNKNqu22Lh2z1), [Louise Plowright](https://open.spotify.com/artist/1mk0x5MnI1Du1of0Xbbvb5), [Siobhan McCarthy](https://open.spotify.com/artist/167dt4dzL6p1HOtIlS52ap) | [Mamma Mia](https://open.spotify.com/album/1lx7DiPOfZARm0ROECcKFL) | 3:42 |
 | 56 | [I Know It's Today](https://open.spotify.com/track/6zEEGZVvTnbyPtaovocFwy) | [Leah Greenhaus](https://open.spotify.com/artist/1A2zTDBNQAtGRaHX9lISZ5), [Marissa O'Donnell](https://open.spotify.com/artist/7uKEMkjW2Y8VCqE8c29ARz), [Sutton Foster](https://open.spotify.com/artist/2RWaZohsuqSJX9xWX3p95G) | [Shrek The Musical](https://open.spotify.com/album/5VeD79fcAGrvxWTwiWSVfh) | 5:18 |
-| 57 | [Diva's Lament \(What Ever Happened To My Part?\) \- Original Broadway Cast Recording: "Spamalot"](https://open.spotify.com/track/0PEkZhThiOCTPk1NxnjjJe) | [Sara Ramirez](https://open.spotify.com/artist/369G5DRwe0MjvyOoyyVXGN) | [Monty Python's Spamalot](https://open.spotify.com/album/5To3LrXgZuZEfDTiIjKqFf) | 2:32 |
+| 57 | [Diva's Lament \(What Ever Happened To My Part?\) \- From "Spamalot" Original Broadway Cast Recording](https://open.spotify.com/track/0PEkZhThiOCTPk1NxnjjJe) | [Sara Ramirez](https://open.spotify.com/artist/369G5DRwe0MjvyOoyyVXGN), [Todd Ellison](https://open.spotify.com/artist/1WUHA1TyaRBQWxIUH8fguI) | [Monty Python's Spamalot](https://open.spotify.com/album/5To3LrXgZuZEfDTiIjKqFf) | 2:32 |
 | 58 | [Adelaide's Lament](https://open.spotify.com/track/2IvclMRRfknwnR6wgk5uIn) | [Faith Prince](https://open.spotify.com/artist/1lrPNYVtvuiB3lmOjbyJc9) | [Guys and Dolls \(New Broadway Cast Recording \(1992\)\)](https://open.spotify.com/album/7aVLz778h7j4o82KcAD2Ic) | 3:40 |
 | 59 | [There Won't Be Trumpets](https://open.spotify.com/track/1CtGmYxK6fwjKOopL5aTmf) | [Lee Remick](https://open.spotify.com/artist/3i7VCvbORwxiHlZd5qsY53), [Original Broadway Cast of Anyone Can Whistle](https://open.spotify.com/artist/2MOaqdHa8mKOvXJh69XVYe) | [Anyone Can Whistle \(Original Broadway Cast Recording\)](https://open.spotify.com/album/1wgIxOQp2hn7pb0dqE1D9Z) | 2:37 |
 | 60 | [Someone Like You](https://open.spotify.com/track/2WNPG9HRibvtymAp7f9jIW) | [Lucy](https://open.spotify.com/artist/0sV6QzECLIDKuGvscO13V5) | [Jekyll & Hyde](https://open.spotify.com/album/7r684fxZHqa4LOqacOgX9i) | 3:46 |

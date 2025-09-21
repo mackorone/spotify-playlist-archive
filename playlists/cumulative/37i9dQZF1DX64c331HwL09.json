@@ -1241,6 +1241,28 @@
     },
     {
       "album": {
+        "name": "Monty Python's Spamalot",
+        "url": "https://open.spotify.com/album/5To3LrXgZuZEfDTiIjKqFf"
+      },
+      "artists": [
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        {
+          "name": "Todd Ellison",
+          "url": "https://open.spotify.com/artist/1WUHA1TyaRBQWxIUH8fguI"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53346,
+      "name": "Overture - From \"Spamalot\" Original Broadway Cast Recording",
+      "url": "https://open.spotify.com/track/2DtWp1Hh5disUodD8hwNnM"
+    },
+    {
+      "album": {
         "name": "The Scarlet Pimpernel Original Broadway Cast Recording",
         "url": "https://open.spotify.com/album/4sdRox4FiY3DakCAn2LntS"
       },
@@ -1256,24 +1278,6 @@
       "duration_ms": 90133,
       "name": "Overture - Instrumental",
       "url": "https://open.spotify.com/track/6WcfhlrT5w1a5fIsvcDlNA"
-    },
-    {
-      "album": {
-        "name": "Monty Python's Spamalot",
-        "url": "https://open.spotify.com/album/5To3LrXgZuZEfDTiIjKqFf"
-      },
-      "artists": [
-        {
-          "name": "Orchestra",
-          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
-        }
-      ],
-      "date_added": "2022-12-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 53346,
-      "name": "Overture - Original Broadway Cast Recording: \"Spamalot\"",
-      "url": "https://open.spotify.com/track/2DtWp1Hh5disUodD8hwNnM"
     },
     {
       "album": {

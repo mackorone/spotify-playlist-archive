@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 97992,
+  "num_followers": 98106,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1751,42 +1751,6 @@
     {
       "added_at": "2025-09-19 04:00:36",
       "album": {
-        "name": "Bambina",
-        "url": "https://open.spotify.com/album/28TWfwYUHwA01HtRdoic38"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "Bambina feat. Martina Camargo - Dream Edit",
-      "url": "https://open.spotify.com/track/0yjBRyMzzVcB4v76Tt4Lro"
-    },
-    {
-      "added_at": "2025-09-19 04:00:36",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2025-09-19 04:00:36",
-      "album": {
         "name": "Rulay",
         "url": "https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN"
       },
@@ -1811,26 +1775,18 @@
     {
       "added_at": "2025-09-19 04:00:36",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/2iN9ZXUBXkf02ZK97AKJp8"
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
       },
       "artists": [
         {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        },
-        {
-          "name": "MORENITA",
-          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
         }
       ],
-      "duration_ms": 170322,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/3VHTRQqwZ51KsL2VkrBZFv"
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -1851,6 +1807,26 @@
     {
       "added_at": "2025-09-19 04:00:36",
       "album": {
+        "name": "Bambina",
+        "url": "https://open.spotify.com/album/28TWfwYUHwA01HtRdoic38"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "Bambina feat. Martina Camargo - Dream Edit",
+      "url": "https://open.spotify.com/track/0yjBRyMzzVcB4v76Tt4Lro"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
         "name": "Musica",
         "url": "https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc"
       },
@@ -1863,6 +1839,30 @@
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/2iN9ZXUBXkf02ZK97AKJp8"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/3VHTRQqwZ51KsL2VkrBZFv"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2025-09-19 04:00:36",
       "album": {
+        "name": "Bailame",
+        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 185650,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
         "name": "Wataki",
         "url": "https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 218709,
       "name": "Wataki",
       "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"
-    },
-    {
-      "added_at": "2025-09-19 04:00:36",
-      "album": {
-        "name": "Bailame",
-        "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 185650,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP"
     },
     {
       "added_at": "2025-09-19 04:00:36",

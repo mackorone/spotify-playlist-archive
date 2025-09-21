@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Ásgeir, Lola Young, Lewis Capaldi  og mörgum fleiri!
 
-7,875 songs - 17 day 15 hr 10 min
+7,876 songs - 17 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5279,7 +5279,7 @@
 | [Passerine](https://open.spotify.com/track/1yzwIvyfFukPLBXBMES3Cf) | [Lust For Youth](https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u), [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Emma Acs](https://open.spotify.com/artist/6iLTh6Fhd16Cdq212BaS5c) | [All Worlds](https://open.spotify.com/album/0TQsFDYAoApv5HDz8lkSBm) | 3:23 | 2025-03-07 | 2025-03-14 |
 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 | 2025-05-16 | 2025-05-23 |
 | [Passionate](https://open.spotify.com/track/6tClSnxqjcYZB1RzjPH7iB) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Passionate](https://open.spotify.com/album/2YjR5jDt9qN3dULlBqx8Sc) | 1:50 | 2024-06-28 | 2024-07-05 |
-| [PASSIONATE](https://open.spotify.com/track/2rwTonvgO39lox0BVjsPE0) | [Paradísa](https://open.spotify.com/artist/5GAXJ03ZrgXGglGZMmGzwl) | [PASSIONATE](https://open.spotify.com/album/2XAuu3wXg3c6r1Yn8JaaXh) | 3:33 | 2025-09-19 |  |
+| [PASSIONATE](https://open.spotify.com/track/2rwTonvgO39lox0BVjsPE0) | [Paradísa](https://open.spotify.com/artist/5GAXJ03ZrgXGglGZMmGzwl) | [PASSIONATE](https://open.spotify.com/album/2XAuu3wXg3c6r1Yn8JaaXh) | 3:33 | 2025-09-19 | 2025-09-21 |
 | [Pathetic Song](https://open.spotify.com/track/5C9WsaXWT8wk0WPljAPgUS) | [virgin orchestra](https://open.spotify.com/artist/5sSdK5Wg4TGU7HTeDcHdSS) | [The Pathetic Song](https://open.spotify.com/album/2OPd6HphY9VO2k5pDkydSG) | 5:21 | 2025-04-04 | 2025-04-09 |
 | [Patience](https://open.spotify.com/track/5TrYG8zcjoit4ZdYWrwUnW) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Patience](https://open.spotify.com/album/0Uxar0jhip7in5QfGC5mYS) | 2:51 | 2024-07-26 | 2024-08-03 |
 | [patience](https://open.spotify.com/track/1xW7A5GFLJS3uTwf5QEcZi) | [sindr](https://open.spotify.com/artist/4UiuiDCLil74AvDoXjdpib), [BENJAMINRICH](https://open.spotify.com/artist/4TD3d7oNp9cr8Ub6QUI0XJ) | [patience](https://open.spotify.com/album/0KEzwyUujccKOKOtTVZicl) | 2:02 | 2024-11-08 | 2024-11-15 |
@@ -5747,6 +5747,7 @@
 | [Sad Piano House](https://open.spotify.com/track/5aoW3sHEi8uBBYEQyC16i9) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Sad Piano House](https://open.spotify.com/album/5RqK2ppKKTOIZbCl9wNbtv) | 5:05 | 2025-06-13 | 2025-06-20 |
 | [Sadgirl](https://open.spotify.com/track/4wqpxVWSrEoWfSne7WNklb) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [Sadgirl](https://open.spotify.com/album/0VhRvAbpUNvWlUTkf4Fkv1) | 2:48 | 2025-01-31 | 2025-02-07 |
 | [Safe](https://open.spotify.com/track/0Bd3qt36q8Je7W6jGYYITL) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Safe](https://open.spotify.com/album/3RIdpPPRMQgqWTK0nk3sT4) | 2:59 | 2025-01-24 | 2025-01-31 |
+| [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 | 2025-09-19 |  |
 | [Safe And Sound](https://open.spotify.com/track/3mcC6mwcDPCUNar8Ztm5JB) | [Nokto](https://open.spotify.com/artist/3NiVJxNS6ZIckAT3WtRXv5), [Hermann Rune](https://open.spotify.com/artist/2qd1XFXM6Q6NcZbuyKLqRX) | [Safe And Sound](https://open.spotify.com/album/6ANJKjhSVNhlXaqYErSAqf) | 3:00 | 2024-09-06 | 2024-09-13 |
 | [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-14 | 2025-03-21 |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-28 | 2025-03-07 |

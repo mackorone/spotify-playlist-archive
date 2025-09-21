@@ -4,7 +4,7 @@
 
 > Lekker  eten en lang natafelen? Daar hoort muziek bij.
 
-133 songs - 7 hr 37 min
+134 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Joan](https://open.spotify.com/track/2zJuQQS8vs8odCZFsmIWuU) | [Yvonne Ambrée](https://open.spotify.com/artist/5wdvfg6mXXZuPfaNX8d52X) | [Joan](https://open.spotify.com/album/2F3soH2g4nGBYZJXtJBsAF) | 3:37 | 2025-07-16 |  |
 | [Joking](https://open.spotify.com/track/2NeHJnXA3fsCmfKRnCJIQq) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Joking](https://open.spotify.com/album/1lSICe6rIoZ3OOf4HGTfZU) | 2:38 | 2025-07-16 |  |
 | [Julia](https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Julia](https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV) | 3:09 | 2025-09-08 |  |
+| [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 | 2025-09-20 |  |
 | [Kids](https://open.spotify.com/track/5ydndwOte7G6LQKbP8Suvb) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Kids](https://open.spotify.com/album/06oxOFFYnj4Pv5pLhIklm8) | 3:05 | 2025-07-16 | 2025-09-19 |
 | [Leave It Up To You](https://open.spotify.com/track/6L9mT3g89Nl8JVWMy5DAPf) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [evi](https://open.spotify.com/artist/4EI5KdR7Z61kYb344Pi5CC) | [Leave It Up To You](https://open.spotify.com/album/1CE36RRFj8UJxH9B0KSTnH) | 2:48 | 2025-07-16 |  |
 | [Less Is More](https://open.spotify.com/track/6xDHpo8drfNDqIgKfEwyx9) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Echo](https://open.spotify.com/album/4xlpCJ0XKZ3a9E6k8R8vJB) | 3:56 | 2025-08-08 |  |

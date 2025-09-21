@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 
 > A brand new anime season has arrived! Check back often to discover your next favorite anime tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,858 likes - 81 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,005 likes - 81 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUJyJZNonKS.md) - [plain]
 | 80 | [水平線は僕の古傷 広川卯月 Short Ver.](https://open.spotify.com/track/22Fw0SNdOuROATPGxCJ2jE) | [広川卯月](https://open.spotify.com/artist/0mtrvyGrZ0BNOrsHf7R7EL) | [水平線は僕の古傷 広川卯月 Short Ver.](https://open.spotify.com/album/4FnHmr73YHmo7FxcxlYsxI) | 1:00 |
 | 81 | [Dark Dream \(《诡秘之主小丑篇》动画片尾曲\)](https://open.spotify.com/track/0xBD3vqW3QMdYqrwDpfgFR) | [希林娜依•高](https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G) | [Dark Dream \(《诡秘之主小丑篇》动画片尾曲\)](https://open.spotify.com/album/5lOdguT3P7EszO75WMzGnQ) | 3:26 |
 
-Snapshot ID: `AAAAAM6uMLSW/HYAQDbKvMJqwQgdPlZL`
+Snapshot ID: `AAAAAP5DyyPNRDabTpeLYqtBkHQz/Pyd`

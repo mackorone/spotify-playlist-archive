@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,614 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,650 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 31 | [Proud Of You](https://open.spotify.com/track/3Mix9WqvN7SzDYdUUjZlAl) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW) | [Proud Of You](https://open.spotify.com/album/4qL229iIVTospYFzlKulta) | 3:51 |
 | 32 | [Fight Like Heaven](https://open.spotify.com/track/43EXydjWVDtpvsp75PEBaz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Fight Like Heaven](https://open.spotify.com/album/1HFtYu2cRGDxkF4qSHtQVB) | 2:57 |
 | 33 | [alive?](https://open.spotify.com/track/5ARZuV6TzcY9Q0cFijQbPf) | [TIDES](https://open.spotify.com/artist/0eZKxTEWH3Sb70LcJWeWQZ), [Abby Siler](https://open.spotify.com/artist/4JmRxJQC4R65Po60AERzGG) | [alive?](https://open.spotify.com/album/23KJQdAGdZcaNfFgNF3Fao) | 2:50 |
-| 34 | [Faithful](https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/album/4wSVHTNFbT90u4d4OYQpIS) | 2:44 |
+| 34 | [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/album/4wSVHTNFbT90u4d4OYQpIS) | 2:44 |
 | 35 | [Follow You \(Spirit Way\)](https://open.spotify.com/track/1Er4k7hl6CNF9Lfr31UsJa) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap) | [Follow You \(Spirit Way\)](https://open.spotify.com/album/0LGGkMCuauwG3cHh6UHpcj) | 7:10 |
 | 36 | [Surpasses My Understanding](https://open.spotify.com/track/2hvY21OBBw2tt7XXBTuVa3) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Surpasses My Understanding](https://open.spotify.com/album/1UVa72WePqqvaA95p9cRYc) | 3:10 |
 | 37 | [ADHD](https://open.spotify.com/track/2mJFGY4A8ssSGFXewHRLIW) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [ADHD](https://open.spotify.com/album/1LuDlIroOgn4sONjZIF3OP) | 3:09 |
 | 38 | [On And On](https://open.spotify.com/track/7lPHdo4cIyuGppOYp9VTiB) | [John Allan](https://open.spotify.com/artist/3yXwrQypnq4HbhapeXftN9) | [On And On](https://open.spotify.com/album/0cPhteFLvJGEF5v7suiO6B) | 4:06 |
-| 39 | [Surprise Me](https://open.spotify.com/track/69nY6cSWr9luqMlj39rEil) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [WallerCo](https://open.spotify.com/artist/4ZbqpGWsVop5QxDwqIC1PJ), [Eric Lee Blumley](https://open.spotify.com/artist/4todZepXhiZ4pN4Z1U3yJT) | [Surprise Me](https://open.spotify.com/album/3BImT2fxVeg5mS0OYIgTKt) | 3:58 |
+| 39 | [Surprise Me](https://open.spotify.com/track/69nY6cSWr9luqMlj39rEil) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL), [WallerCo](https://open.spotify.com/artist/4ZbqpGWsVop5QxDwqIC1PJ), [Eric Lee Brumley](https://open.spotify.com/artist/4WMo8ghmpwr16jTTxWPMDx) | [Surprise Me](https://open.spotify.com/album/3BImT2fxVeg5mS0OYIgTKt) | 3:58 |
 | 40 | [Rags or Riches](https://open.spotify.com/track/3KnIagnbHl4aG9lvqdCweS) | [After Grace](https://open.spotify.com/artist/4zf1AAw95UDMXBXyVOwTfd) | [Rags or Riches](https://open.spotify.com/album/6SofEUWguD3nNX2rfZ9RMU) | 2:41 |
 | 41 | [Wait For Me](https://open.spotify.com/track/58iKOSsOb6TTd5FAI8Tw3Q) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves](https://open.spotify.com/album/3KqoANpOMDWpx9C4JbMNQG) | 3:43 |
 | 42 | [Peace](https://open.spotify.com/track/5OlA8wCfwEyKh3ZZdCUjxf) | [Constanza Herrero](https://open.spotify.com/artist/2PEux3R8bR42v3WJWOI4yL) | [Peace](https://open.spotify.com/album/3tE9TpTQossZEL136kY0lM) | 1:32 |

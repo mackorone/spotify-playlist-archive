@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,803 likes - 100 songs - 5 hr 42 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,802 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

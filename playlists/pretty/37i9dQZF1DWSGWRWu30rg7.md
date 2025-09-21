@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: DNANDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,280 likes - 69 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,282 likes - 69 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

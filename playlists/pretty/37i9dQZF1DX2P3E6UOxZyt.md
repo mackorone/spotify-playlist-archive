@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 慶祝 RADAR 音樂人突破 1000 位！重溫 RADAR 新勢力歷來最受歡迎歌手作品！Cover: 顏人中 \(Ele Yan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,473 likes - 66 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,476 likes - 66 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

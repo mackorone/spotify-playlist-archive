@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Low Jay x Lisandro Cuxi
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,385 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,399 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 26 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:58 |
 | 27 | [Beau Paquet](https://open.spotify.com/track/0fyF6Y58nnilOdnLXKpj6q) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [TOO BABY DELUXE](https://open.spotify.com/album/4EMgJ7zn9fMgziTIjPPP8W) | 2:53 |
 | 28 | [Ceux D'Avant](https://open.spotify.com/track/5EwfJvQJGc1JuNn5ox7FkE) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:15 |
-| 29 | [PRENDS SUR MOI \(feat\. DAKEEZ\)](https://open.spotify.com/track/5lW3atf42ItPyQxFWahkBf) | [PRINC€](https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [SOUSCALCUL MIXTAPE VOL.1 \(Version Deluxe\)](https://open.spotify.com/album/6UiBEkleixVDeJ1KbQhQUv) | 2:38 |
+| 29 | [PRENDS SUR MOI \(feat\. DAKEEZ\)](https://open.spotify.com/track/5lW3atf42ItPyQxFWahkBf) | [PRINC€](https://open.spotify.com/artist/42eXaZ8DcymFXerFjEEcmj), [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [SOUSCALCUL MIXTAPE VOL.1](https://open.spotify.com/album/6UiBEkleixVDeJ1KbQhQUv) | 2:38 |
 | 30 | [BLS \#2 \- Pas d'hasard](https://open.spotify.com/track/1qtN08oH1mGxlsj25TJaGe) | [YNV](https://open.spotify.com/artist/1WGh6BLnwr51kSSHAEOSKp) | [BLS \#2 \- Pas d'hasard](https://open.spotify.com/album/3BdB4iV5cjSkN0dWyu3g18) | 2:32 |
 | 31 | [ROSE CHROMÉ](https://open.spotify.com/track/0hTggBmwDrr6G5XzIQCTKO) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [G\-POP CLASSIKS .01](https://open.spotify.com/album/3EM82zTTxBDPCcZ6lfnzLT) | 2:26 |
 | 32 | [Vice](https://open.spotify.com/track/7JnPEnndd3MBy5aR8JqO1U) | [7iaa](https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl) | [Vice](https://open.spotify.com/album/5bwYiC4e3lw4Eby50WoeKe) | 2:35 |

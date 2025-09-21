@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Sammy Virji
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,312 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,310 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 83 | [Helium](https://open.spotify.com/track/6boSF01JluHcotXBvUcnEz) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Helium](https://open.spotify.com/album/2dMZhbMxAjRSWPjSOUkr1B) | 2:18 |
 | 84 | [Groove Baby](https://open.spotify.com/track/148Qb7qsZpuKAsFdITvwY2) | [Sgt Slick](https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll) | [Groove Baby](https://open.spotify.com/album/79L5Vk0uqMP8q2rOsWyyns) | 3:16 |
 | 85 | [Closer \(with Marshmello\)](https://open.spotify.com/track/4rabNjkDVahFaNnwDlz6v4) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Love Is Like \(Deluxe\)](https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL) | 2:35 |
-| 86 | [Inanna's Descent](https://open.spotify.com/track/0gqUJAs4gr8AxXeXobPD0C) | [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj), [GOLDI](https://open.spotify.com/artist/2Md3wdt1IgGPXx1H101rJk) | [Inanna's Descent](https://open.spotify.com/album/4qYDpeNS67cmJPTDs4vUjk) | 2:10 |
+| 86 | [Inanna's Descent](https://open.spotify.com/track/0gqUJAs4gr8AxXeXobPD0C) | [The Journey](https://open.spotify.com/artist/4rbhHtuqrTE2NKY6z8BLoj), [GOLDI](https://open.spotify.com/artist/2maACglDkpXMhz6hyTYCwi) | [Inanna's Descent](https://open.spotify.com/album/4qYDpeNS67cmJPTDs4vUjk) | 2:10 |
 | 87 | [See You Again](https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [See You Again](https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x) | 4:31 |
 | 88 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
 | 89 | [Caught in the Trick](https://open.spotify.com/track/2kbj6P0pCSj1y7kaTJbNdx) | [DON'T THINK](https://open.spotify.com/artist/0JkeEwbkFQLU4C5voqbjFG) | [Caught in the Trick](https://open.spotify.com/album/7EJgwjFNHiDznIMsEv44gh) | 2:29 |

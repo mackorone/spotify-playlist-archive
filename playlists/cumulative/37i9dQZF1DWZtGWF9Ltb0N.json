@@ -396,7 +396,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 153800,
       "name": "ALL DAY, ALL NIGHT",
       "url": "https://open.spotify.com/track/7oniDV1HpNk4CkiRVxNi8J"
@@ -422,6 +422,24 @@
       "duration_ms": 256000,
       "name": "All Ways",
       "url": "https://open.spotify.com/track/1t8CseUn2l8xXtCLAV4NuQ"
+    },
+    {
+      "album": {
+        "name": "ALL4U",
+        "url": "https://open.spotify.com/album/0ALwYFcACNazFg0UeUezOK"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "ALL4U",
+      "url": "https://open.spotify.com/track/1Z5rv5e7vc5OTIJlkpwDJ0"
     },
     {
       "album": {
@@ -826,7 +844,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 192428,
       "name": "backitup",
       "url": "https://open.spotify.com/track/6sfpVclVEk8aTPjuS81DIn"
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 224000,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/4bMQZc9SiNDrlVXoExuiEd"
@@ -5840,7 +5858,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-21",
       "duration_ms": 246857,
       "name": "Gossip",
       "url": "https://open.spotify.com/track/2A7hEzjx2RO87ct4aQTkoh"
@@ -7402,7 +7420,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Junction",
       "url": "https://open.spotify.com/track/3kJ4RvvETkBYQlQ8A6egbf"
@@ -12943,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "Smoking",
+        "url": "https://open.spotify.com/album/4LfauXFqfICUuZqHew5BBk"
+      },
+      "artists": [
+        {
+          "name": "Blookah",
+          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Smoking",
+      "url": "https://open.spotify.com/track/2z4VFyovIQcbiS6naFjBd5"
+    },
+    {
+      "album": {
         "name": "Snakeweight",
         "url": "https://open.spotify.com/album/1UENsrsLstQgPnNVI2JY1U"
       },
@@ -14264,6 +14300,32 @@
       "duration_ms": 308571,
       "name": "Telling Me Nothing",
       "url": "https://open.spotify.com/track/4oZzKl23R31U9yhCtXaC7x"
+    },
+    {
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/299wVmY5iBdKA4a6fb7lw0"
+      },
+      "artists": [
+        {
+          "name": "Stylust",
+          "url": "https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu"
+        },
+        {
+          "name": "PVRPLE.",
+          "url": "https://open.spotify.com/artist/2PEiHkM3PuN8ngTntlSrBB"
+        },
+        {
+          "name": "Fabien Darcy",
+          "url": "https://open.spotify.com/artist/07zpwGKSS1RiVfyg6TYKHX"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Ten",
+      "url": "https://open.spotify.com/track/3qfdptUhpFIttp68oVLBcN"
     },
     {
       "album": {

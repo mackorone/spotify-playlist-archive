@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lola Young, RAYE, Lewis Capaldi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,733 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,805 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 29 | [Not Gonna Be Your Boo \(feat\. Robin S\)](https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Not Gonna Be Your Boo \(feat\. Robin S\)](https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4) | 2:54 |
 | 30 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
 | 31 | [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 |
-| 32 | [Black Music \(feat\. Kwamzy\) \- Club Mix](https://open.spotify.com/track/5Ebm8mYneBqMBy8yDlIwmc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv) | [Black Music \(feat\. Kwamzy\) \[Club Mix\]](https://open.spotify.com/album/1kzv2mROAmV1L0xkS7LOQo) | 4:58 |
+| 32 | [Black Music \- Club Mix](https://open.spotify.com/track/5Ebm8mYneBqMBy8yDlIwmc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv) | [Black Music \(Club Mix\)](https://open.spotify.com/album/1kzv2mROAmV1L0xkS7LOQo) | 4:58 |
 | 33 | [Whatever You Like](https://open.spotify.com/track/08mKd7LVxvTq7Af24VfYZ1) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Whatever You Like](https://open.spotify.com/album/6Ws8yG1V1JszzzS0lwk8mn) | 2:55 |
 | 34 | [folding chairs on the moon](https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [folding chairs on the moon](https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc) | 3:20 |
 | 35 | [Legacy](https://open.spotify.com/track/0udQn3SIcXZYGwFyOO4jgi) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 2:54 |

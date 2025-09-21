@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 > The Cool Kids got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,620 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,634 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 10 | [DO IT! \(AGAIN!\) \(feat\. TLC\)](https://open.spotify.com/track/1dVebYDzVt5I7O5lpWdaxM) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:35 |
 | 11 | [Open Invite \(feat\. KAYTRANADA\)](https://open.spotify.com/track/1DbNmSluOpaqCvv9ADIP9k) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Escape Room](https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf) | 1:56 |
 | 12 | [Ring Ring Ring](https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:21 |
-| 13 | [apologize \(feat\. Gwen Bunn\)](https://open.spotify.com/track/0iMlOkz5pRg4kZNXPEX7YG) | [Drewbyrd](https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [apologize \(feat\. Gwen Bunn\)](https://open.spotify.com/album/0cOhde3xYMOhe7a7ATbzdg) | 2:43 |
+| 13 | [apologize](https://open.spotify.com/track/0iMlOkz5pRg4kZNXPEX7YG) | [Drewbyrd](https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [apologize](https://open.spotify.com/album/0cOhde3xYMOhe7a7ATbzdg) | 2:43 |
 | 14 | [tell me why](https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [tell me why](https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg) | 3:12 |
 | 15 | [Whine It Up \(feat\. Warrior Queen\)](https://open.spotify.com/track/3J2vWrIk9p2XAa6LaZxMVF) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Whine It Up \(feat\. Warrior Queen\)](https://open.spotify.com/album/34tMmaCGi4X787pVxUQ5gr) | 3:32 |
 | 16 | [Groovin'](https://open.spotify.com/track/5sZ7nssiKtWPe6J9NsAFrt) | [Soul In The Horn](https://open.spotify.com/artist/2nDmZKLnQ3mFg4pqu0hEju), [Kai Alce](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [Groovin'](https://open.spotify.com/album/6RdCQFBacjNbZDwEWtFqpa) | 5:52 |

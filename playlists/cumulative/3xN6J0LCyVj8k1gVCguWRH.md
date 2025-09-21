@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,305 songs - 12 day 8 hr 34 min
+5,307 songs - 12 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Addington Square](https://open.spotify.com/track/6un5oUXBz9cblPadYgu2TS) | [Prismala](https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY) | [Addington Square](https://open.spotify.com/album/6Rmnk0wps1l5AD5iX6VdrD) | 3:20 | 2023-05-14 | 2023-06-02 |
 | [ADEWALE: The Crown Came Home](https://open.spotify.com/track/6504LGDygo8qrkbrbDPY66) | [Rari Lu](https://open.spotify.com/artist/2lNMZGfSuiBzqSvNJTSTd3), [Sim C](https://open.spotify.com/artist/188EDLQnjQB8XGywRcrnez) | [JADESOLA: Come Out Into Wealth](https://open.spotify.com/album/3lla6EKrocSzgJWqRKAHwY) | 3:15 | 2024-12-19 | 2024-12-31 |
 | [affection](https://open.spotify.com/track/0tNCYxUnH8bc9YElueyNAm) | [rl](https://open.spotify.com/artist/2lEalpmzOYUIL5eoGNASVw), [Asect](https://open.spotify.com/artist/0WaibLALSTpeNZCn9hpxtf) | [lost](https://open.spotify.com/album/4MHnQLnoBjnCaQRLGL6cyD) | 3:22 | 2024-08-07 | 2024-08-19 |
-| [Affillele](https://open.spotify.com/track/5HsX6VMVdg1tsNGPcZ4uiC) | [MUZIG](https://open.spotify.com/artist/2jwPteq80dFbeimmms4H8F) | [Affillele](https://open.spotify.com/album/7LrXjIOnUu5ldW3ENMgieu) | 3:16 | 2025-09-09 |  |
+| [Affillele](https://open.spotify.com/track/5HsX6VMVdg1tsNGPcZ4uiC) | [MUZIG](https://open.spotify.com/artist/2jwPteq80dFbeimmms4H8F) | [Affillele](https://open.spotify.com/album/7LrXjIOnUu5ldW3ENMgieu) | 3:16 | 2025-09-09 | 2025-09-21 |
 | [Affinity](https://open.spotify.com/track/6qPe8aLtxdGH3xfTJBh0sl) | [Tnola](https://open.spotify.com/artist/3qsiuJcX1xermvwbJ6mg6O) | [Affinity](https://open.spotify.com/album/4y4bBrQWEhqVgXWwbmKgA7) | 3:12 | 2022-11-02 | 2022-11-21 |
 | [Afraid Of Love](https://open.spotify.com/track/3bAw3BSH1bEiQkKDI7PrMe) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Afraid Of Love](https://open.spotify.com/album/6SUkomHCMylDL1QnhWfHxq) | 2:50 | 2024-03-12 | 2024-10-23 |
 | [After All \- Radio Edit](https://open.spotify.com/track/3o3dy08AQwxYuEKfoY6TQ3) | [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV), [Roni Tran](https://open.spotify.com/artist/0tefsWejwv0Z61sfWzlUe6) | [After All](https://open.spotify.com/album/2QrelLyiYbgwOY1tuH9c17) | 3:34 | 2021-03-19 | 2021-04-04 |
@@ -1407,7 +1407,7 @@
 | [Eres Tú](https://open.spotify.com/track/6J1dBZzuj8hNZnnsotkwVL) | [ELENA](https://open.spotify.com/artist/6OCqShu6SL11NqhFIUaXzg) | [Eres Tú](https://open.spotify.com/album/5FvYepMzpVbIpVwiW7QDJb) | 3:30 | 2023-04-06 | 2023-04-29 |
 | [Error](https://open.spotify.com/track/6G5xwimzygf6guwvFpmptB) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Error](https://open.spotify.com/album/2PXTo7dgCnLXZxe9VPlR4c) | 3:52 | 2020-04-02 | 2020-04-20 |
 | [Es Duro Caer](https://open.spotify.com/track/0Y9wJ8a13gZnSyf8mZZbCz) | [El Fa](https://open.spotify.com/artist/4aNUCwwGwxED5Mv78kkvQ7) | [Es Duro Caer](https://open.spotify.com/album/2xSo1BSJ5biq9vkvX5ZEGN) | 3:54 | 2024-03-21 | 2024-03-29 |
-| [Escape](https://open.spotify.com/track/3QOXEWLKMcWaryMwzHqKZV) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1), [Jaimie P](https://open.spotify.com/artist/2TcI1EUYdaeuZAxOy2AoWV) | [US](https://open.spotify.com/album/38P5xmHpbFUpFceAXHBfk2) | 5:56 | 2025-09-01 |  |
+| [Escape](https://open.spotify.com/track/3QOXEWLKMcWaryMwzHqKZV) | [PAWPAWTHEDAWG](https://open.spotify.com/artist/7AbDcmHZnaA3O5cIsQuyd1), [Jaimie P](https://open.spotify.com/artist/2TcI1EUYdaeuZAxOy2AoWV), [C.C](https://open.spotify.com/artist/21aRFxJp0YdjZOOsgeYmVB) | [US](https://open.spotify.com/album/38P5xmHpbFUpFceAXHBfk2) | 5:56 | 2025-09-01 |  |
 | [ESCLAVO](https://open.spotify.com/track/5w5NzY9anGUwg5V1CWRMsz) | [Thunds](https://open.spotify.com/artist/4ozFrTcmzszd0mC9FqUIyq), [Sent](https://open.spotify.com/artist/1tjI28EhdjXzyUyPccqFMs) | [ESCLAVO](https://open.spotify.com/album/3c7pTZg8yS7L9EcH7KRusR) | 3:54 | 2024-11-25 | 2024-12-08 |
 | [Española Way](https://open.spotify.com/track/1b1CowCegHe8N4vIMstOMQ) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 5:00 | 2022-07-15 | 2022-07-31 |
 | [Espera](https://open.spotify.com/track/7qEKZP3nOqWpEQlANPccOx) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 4:38 | 2019-09-29\* | 2021-11-19 |
@@ -2898,6 +2898,7 @@
 | [May I](https://open.spotify.com/track/5yoDAg7p5kwEh92yDRuxm3) | [Curly Brown](https://open.spotify.com/artist/5PejSwdwgRlT4qYFcgWDHN) | [May I](https://open.spotify.com/album/6dqoF6sMoalryMe9AXyB7H) | 2:41 | 2023-07-31 | 2023-08-20 |
 | [May to September](https://open.spotify.com/track/7wGrUTDzcpJSXT1IozuDyU) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [May to September](https://open.spotify.com/album/13RzfLMPX69BQxcaGUDvA4) | 3:06 | 2022-09-11 | 2022-09-27 |
 | [maybe](https://open.spotify.com/track/05Y3vThn6ZnkqZnv4oGrKv) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [maybe](https://open.spotify.com/album/3smnkj76NfBe7q4YTg50Fy) | 3:23 | 2025-05-23 | 2025-06-21 |
+| [Maybe It's You](https://open.spotify.com/track/6FjK5agfRML4bI4GicOIoJ) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Maybe It's You](https://open.spotify.com/album/5EvUx0cDdwv7CFQomeh5yJ) | 3:06 | 2025-09-20 |  |
 | [Maybe She Knows](https://open.spotify.com/track/1JEkio51J9H2gXtf91hfeL) | [Tom R Rider](https://open.spotify.com/artist/2mUPa152Sru67ghhbeADat) | [Maybe She Knows](https://open.spotify.com/album/11MKyHO8n5nw6OsqOpobKg) | 2:29 | 2024-03-22 | 2024-04-05 |
 | [Maybe Tonight](https://open.spotify.com/track/23SENjysjh3gLAeSeoV7WT) | [Jascha Richter](https://open.spotify.com/artist/2VOMfXGriwklZIkNmdP7ld) | [Maybe Tonight](https://open.spotify.com/album/5PPO1TAqTxEtmTuGMJBxMg) | 3:33 | 2024-09-28 | 2024-11-20 |
 | [Maze](https://open.spotify.com/track/5NHEwfiv4tjbUrEO2LkWBj) | [Bone Nest](https://open.spotify.com/artist/0xWjVpyUgTeXnYWScqBEdq) | [Maze](https://open.spotify.com/album/3mD25KhmdgRF6gHwwLKM0Q) | 2:22 | 2020-08-20 | 2020-09-04 |
@@ -4114,6 +4115,7 @@
 | [So Far](https://open.spotify.com/track/02cKpUsIPfiESOZvXxRG2c) | [Saving Miles Lemon](https://open.spotify.com/artist/2GrcffeWVLMQ6sF4lvnDuF) | [Lovely](https://open.spotify.com/album/2IXXsJPjuOONJpvIx7Vp9N) | 2:41 | 2023-12-11 | 2023-12-26 |
 | [So Far so Good](https://open.spotify.com/track/6y3sWwhoLbgTo7YtbhWs9M) | [Cody Matlock](https://open.spotify.com/artist/201MdKms0q6Kerqol7XopW) | [So Far so Good](https://open.spotify.com/album/1MJH9iJyR8JREIHX5XWXzy) | 4:14 | 2023-07-17 | 2023-07-29 |
 | [So Fine](https://open.spotify.com/track/2dWMMEMVjmUsJuE3xJjclG) | [Smith William](https://open.spotify.com/artist/5DxdZin9LBhrN8SLwTg9fr) | [So Fine](https://open.spotify.com/album/72f8gyfMtaDEWeeLreu8Gf) | 4:35 | 2024-12-03 | 2024-12-15 |
+| [So Fine](https://open.spotify.com/track/1s68EC8mF3IPjnVeEJ4kc1) | [Zenon](https://open.spotify.com/artist/3Z5j2ENLXmM4dPrP7vSaZS) | [So Fine](https://open.spotify.com/album/3Vf8DSjxFE5eEf4JbFwQC3) | 2:37 | 2025-09-20 |  |
 | [So Fire](https://open.spotify.com/track/30G8QigLPm9z1jbW1ZATM4) | [Dpkny](https://open.spotify.com/artist/5ae1G6qlmQ83VU64KvZFvG), [London Rae](https://open.spotify.com/artist/2TuLqB421D8i83m3NUEd8z) | [So Fire](https://open.spotify.com/album/7zHNgrsmKW2MTYDLKcRJWK) | 3:56 | 2023-05-19 | 2023-06-11 |
 | [So Glad](https://open.spotify.com/track/7zM9DeSahEHBy5YOZ2aRQR) | [The Blue Moon](https://open.spotify.com/artist/5N8F1674Tc9gcE9dvnvBFN) | [So Glad](https://open.spotify.com/album/7z8O6RPxPYRRwoHJ5dR6b0) | 3:14 | 2025-04-25 | 2025-05-08 |
 | [So Good](https://open.spotify.com/track/1CALfWfDDq2Nzfw3t1mB23) | [Andy Tongren](https://open.spotify.com/artist/6NdJZ7cLpyCLcJyXSfsZLG) | [So Good](https://open.spotify.com/album/60Duq6NZtAy8HG0lf5KKLa) | 2:15 | 2025-05-22 | 2025-06-08 |

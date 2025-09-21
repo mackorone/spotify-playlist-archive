@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Calvin Harris &amp; Jessie Reyez
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 94,966 likes - 100 songs - 5 hr 37 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 94,963 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 13 | [The Way You Move In Me](https://open.spotify.com/track/6KuilakKUQ2F6SfvVsiHD4) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [The Way You Move In Me](https://open.spotify.com/album/5JG2rNmspQME512asovAJ7) | 3:42 |
 | 14 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 |
 | 15 | [SPACE INVADER](https://open.spotify.com/track/64YrKDteBAafvV2EyAfUOi) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/2P0Poj0xF7GXMbMTVfocsW) | 4:34 |
-| 16 | [Black Music \(feat\. Kwamzy\) \- Club Mix](https://open.spotify.com/track/5Ebm8mYneBqMBy8yDlIwmc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv) | [Black Music \(feat\. Kwamzy\) \[Club Mix\]](https://open.spotify.com/album/1kzv2mROAmV1L0xkS7LOQo) | 4:58 |
+| 16 | [Black Music \- Club Mix](https://open.spotify.com/track/5Ebm8mYneBqMBy8yDlIwmc) | [Skyla Tylaa](https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245), [Kwamzy](https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv) | [Black Music \(Club Mix\)](https://open.spotify.com/album/1kzv2mROAmV1L0xkS7LOQo) | 4:58 |
 | 17 | [Mi Bomba](https://open.spotify.com/track/38HYAev3whK9zkq4oi6KdD) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Arianna Triassi](https://open.spotify.com/artist/2u7XXwcDpyFBbO4Mjf45B2) | [Mi Bomba](https://open.spotify.com/album/4isLjgs7SoWbpm92Tb9vkj) | 1:58 |
 | 18 | [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 |
 | 19 | [Blue Strips](https://open.spotify.com/track/7mdE0zAzmczyGF0pKNXAEb) | [Evenity](https://open.spotify.com/artist/2xvIl9tkJtch2KY7rbRsjv) | [Blue Strips](https://open.spotify.com/album/6gfkEdPUr7J9zb8cDiHljE) | 2:14 |

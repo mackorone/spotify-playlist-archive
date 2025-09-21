@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 22572,
+  "num_followers": 22588,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAABGem+73vsbOXVnj6Qc7FS3",
+  "snapshot_id": "aMydAAAAAACuKhMRHtaCZi/VxEtUl48z",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weisse Nase",
-        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Weisse Nase",
-      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruinen Dieser Welt",
         "url": "https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J"
       },
@@ -223,6 +203,26 @@
       "duration_ms": 190451,
       "name": "Ruinen Dieser Welt",
       "url": "https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Weisse Nase",
+        "url": "https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Weisse Nase",
+      "url": "https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H"
     },
     {
       "added_at": null,
@@ -411,30 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vaderland",
-        "url": "https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "The Darkraver",
-          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
-        }
-      ],
-      "duration_ms": 208286,
-      "name": "Vaderland",
-      "url": "https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Het Zwarte Schaap",
         "url": "https://open.spotify.com/album/43ua8DSEx8NSWnAcOa19Rt"
       },
@@ -459,6 +435,30 @@
       "duration_ms": 184971,
       "name": "Het Zwarte Schaap",
       "url": "https://open.spotify.com/track/2oJanqscZDqDY7Xf6ds4FV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vaderland",
+        "url": "https://open.spotify.com/album/4Yu2FndCZi7jLRsDlZroxg"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "The Darkraver",
+          "url": "https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv"
+        }
+      ],
+      "duration_ms": 208286,
+      "name": "Vaderland",
+      "url": "https://open.spotify.com/track/4EncVGXlw9yTuaPXMRLTw1"
     },
     {
       "added_at": null,
@@ -1003,30 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/2SXDYAcPeTsKSdQJYT86VM"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Dutch Movement",
-          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 189392,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/3n5GXYHCAnK9VskjAseOEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUTS (Remixpack)",
         "url": "https://open.spotify.com/album/67GjgbnGGaNbHZG1BeUxGe"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 146083,
       "name": "HUTS - Outsiders & The Darkraver Remix",
       "url": "https://open.spotify.com/track/5flW9RYORo5SH5XEF7dcIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/2SXDYAcPeTsKSdQJYT86VM"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Dutch Movement",
+          "url": "https://open.spotify.com/artist/5fnGunxiUsH78nYIEAHBiO"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 189392,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3n5GXYHCAnK9VskjAseOEr"
     },
     {
       "added_at": null,

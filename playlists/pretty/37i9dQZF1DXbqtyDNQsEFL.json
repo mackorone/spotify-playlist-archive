@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi",
-  "num_followers": 98615,
+  "num_followers": 98667,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -293,42 +293,6 @@
       "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
     },
     {
-      "added_at": "2024-09-13 00:01:00",
-      "album": {
-        "name": "A Great Work",
-        "url": "https://open.spotify.com/album/0o9a31MuEFplebgbvfQCWt"
-      },
-      "artists": [
-        {
-          "name": "Strive to Be",
-          "url": "https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj"
-        },
-        {
-          "name": "Patch Crowe",
-          "url": "https://open.spotify.com/artist/1MIq5NXNxANzwF7LJj6UQR"
-        }
-      ],
-      "duration_ms": 153182,
-      "name": "If You Believe",
-      "url": "https://open.spotify.com/track/1Z25zW2xBqMHVfgYAdKeqX"
-    },
-    {
-      "added_at": "2025-08-01 00:01:33",
-      "album": {
-        "name": "I Decree (Live)",
-        "url": "https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli"
-      },
-      "artists": [
-        {
-          "name": "David Dam",
-          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "I Decree - Live",
-      "url": "https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq"
-    },
-    {
       "added_at": "2025-02-21 00:01:30",
       "album": {
         "name": "Mighty Name of Jesus & This Place (Live)",
@@ -347,6 +311,42 @@
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
+    },
+    {
+      "added_at": "2025-08-01 00:01:33",
+      "album": {
+        "name": "I Decree (Live)",
+        "url": "https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli"
+      },
+      "artists": [
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "I Decree - Live",
+      "url": "https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq"
+    },
+    {
+      "added_at": "2024-09-13 00:01:00",
+      "album": {
+        "name": "A Great Work",
+        "url": "https://open.spotify.com/album/0o9a31MuEFplebgbvfQCWt"
+      },
+      "artists": [
+        {
+          "name": "Strive to Be",
+          "url": "https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj"
+        },
+        {
+          "name": "Patch Crowe",
+          "url": "https://open.spotify.com/artist/1MIq5NXNxANzwF7LJj6UQR"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "If You Believe",
+      "url": "https://open.spotify.com/track/1Z25zW2xBqMHVfgYAdKeqX"
     },
     {
       "added_at": "2025-09-05 00:01:24",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
       "added_at": "2025-01-10 12:58:00",
       "album": {
         "name": "Let It Show (Live)",
@@ -731,6 +715,22 @@
       "duration_ms": 479824,
       "name": "Let It Show (Live)",
       "url": "https://open.spotify.com/track/0qShlAPNKT5UHib8bLn3X2"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
-      },
-      "artists": [
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 505147,
-      "name": "Be Lifted (Live)",
-      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Ebenezeri",
         "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "duration_ms": 505147,
+      "name": "Be Lifted (Live)",
+      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-06-27 00:01:36",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 142205,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4"
-    },
-    {
-      "added_at": "2025-06-27 00:01:36",
-      "album": {
         "name": "How Can I Forget?",
         "url": "https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 198668,
       "name": "How Can I Forget?",
       "url": "https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm"
+    },
+    {
+      "added_at": "2025-06-27 00:01:36",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 142205,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4"
     },
     {
       "added_at": "2025-07-04 00:01:36",
@@ -1403,26 +1403,6 @@
       "duration_ms": 551456,
       "name": "Desire - Live",
       "url": "https://open.spotify.com/track/1yOW7Wm9TMN0O8bp4576gd"
-    },
-    {
-      "added_at": "2025-08-15 00:01:29",
-      "album": {
-        "name": "Follow the Lamb",
-        "url": "https://open.spotify.com/album/0rvQFF3rxjydtHBZJWEBhn"
-      },
-      "artists": [
-        {
-          "name": "Godswill Oyor",
-          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
-        },
-        {
-          "name": "Esua",
-          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
-        }
-      ],
-      "duration_ms": 324375,
-      "name": "Follow the Lamb",
-      "url": "https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1465,20 +1445,24 @@
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
     },
     {
-      "added_at": "2025-01-07 00:01:28",
+      "added_at": "2025-08-15 00:01:29",
       "album": {
-        "name": "Judah (Live)",
-        "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
+        "name": "Follow the Lamb",
+        "url": "https://open.spotify.com/album/0rvQFF3rxjydtHBZJWEBhn"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        },
+        {
+          "name": "Esua",
+          "url": "https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2"
         }
       ],
-      "duration_ms": 534026,
-      "name": "Judah - Live",
-      "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
+      "duration_ms": 324375,
+      "name": "Follow the Lamb",
+      "url": "https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk"
     },
     {
       "added_at": "2025-08-15 00:01:29",
@@ -1495,6 +1479,22 @@
       "duration_ms": 358501,
       "name": "Shake The Ground",
       "url": "https://open.spotify.com/track/3Gfi0d2EJT1S6f3U72eQuL"
+    },
+    {
+      "added_at": "2025-01-07 00:01:28",
+      "album": {
+        "name": "Judah (Live)",
+        "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 534026,
+      "name": "Judah - Live",
+      "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1557,20 +1557,20 @@
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
     },
     {
-      "added_at": "2025-04-18 00:01:29",
+      "added_at": "2024-08-30 00:01:00",
       "album": {
-        "name": "Hagiazo (Live)",
-        "url": "https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw"
+        "name": "Isi Gini",
+        "url": "https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
         }
       ],
-      "duration_ms": 901815,
-      "name": "Hagiazo - Live",
-      "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
+      "duration_ms": 269538,
+      "name": "Isi Gini",
+      "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
     }
   ],
   "unique_name": "Be Lifted ",

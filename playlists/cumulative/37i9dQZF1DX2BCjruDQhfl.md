@@ -4,7 +4,7 @@
 
 > It's giving those vibes\. Cover: Kaya Imani, Yssi SB & ADF Samski
 
-143 songs - 6 hr 39 min
+144 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Whine It Up](https://open.spotify.com/track/6YlcxKcCplZTr80U5s2SB2) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Red Rose Romance](https://open.spotify.com/album/5HMPz9vHbmthIDKiVXdSsO) | 3:09 | 2025-07-17 |  |
 | [Woorden Wegen Niks](https://open.spotify.com/track/6fAlrzWpVgfN0VOmfoaXJw) | [NAVARONE COLE](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Alles Op Z'n Tijd](https://open.spotify.com/album/4c4q1iqjMnPAYhdAbVqj67) | 2:40 | 2025-07-17 | 2025-09-19 |
 | [Yu Na Mi Lijn](https://open.spotify.com/track/0ffZnrxUIxQJBvXPOsxfw2) | [Passion](https://open.spotify.com/artist/1J83abhW7lGHgDpTeTUuSd), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Yu Na Mi Lijn](https://open.spotify.com/album/5wK6gSfgTF21AqQszhBQIX) | 3:00 | 2025-07-17 |  |
+| [ZAAZAA \- Pearl Ramos & Janice Fierce Remix](https://open.spotify.com/track/5m4czfHsS163trYnoCGV7F) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Janice Fierce](https://open.spotify.com/artist/1XawxWRplTvDLEK8TzgWbJ), [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh) | [ZAAZAA \(REMIX PACK\)](https://open.spotify.com/album/0irrVpBU2ZWacOQjR0CbBr) | 2:34 | 2025-09-20 |  |
 | [Zonder Bedoeling](https://open.spotify.com/track/1TLmpC3FLXAxgP73mfUdJG) | [Nathan](https://open.spotify.com/artist/4BOkPqfWOHtk5TLVyILCg3) | [Zonder Bedoeling](https://open.spotify.com/album/0ZZp5SO2RUwSxNismoKVIl) | 2:12 | 2025-08-26 |  |
 
 \*This playlist was first scraped on 2025-07-20. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 36 min
+50 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,10 +52,11 @@
 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 | 2025-08-02 |  |
 | [U think Maybe? \(feat\. Liv.e and Venna\)](https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 2:29 | 2025-08-02 |  |
 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [What's A Diamond To A Baby \- The Remixes Vol\. 1](https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv) | 4:14 | 2025-08-02 |  |
+| [Veranda \(feat\. CARI\)](https://open.spotify.com/track/27tCU1eQ9zMKCKy3HTMUIt) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:43 | 2025-09-21 |  |
 | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc) | 3:12 | 2025-08-02 |  |
 | [WestBorn](https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Soundboy](https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy) | 3:06 | 2025-08-02 |  |
 | [Where Are We Going?](https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Where Are We Going?](https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I) | 3:46 | 2025-08-02 |  |
-| [Yoshi’ Intro](https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 0:40 | 2025-09-10 |  |
+| [Yoshi’ Intro](https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 0:40 | 2025-09-10 | 2025-09-21 |
 | [Zazu](https://open.spotify.com/track/5c8RVrqykEO8NTlAai5xCc) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 2:11 | 2025-09-10 | 2025-09-12 |
 
 \*This playlist was first scraped on 2025-08-02. Prior content cannot be recovered.

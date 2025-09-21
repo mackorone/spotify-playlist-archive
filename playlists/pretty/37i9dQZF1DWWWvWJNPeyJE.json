@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 350195,
+  "num_followers": 350296,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "All I See Is You",
+        "url": "https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T"
+      },
+      "artists": [
+        {
+          "name": "Meaku",
+          "url": "https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "All I See Is You",
+      "url": "https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Freudian",
         "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "All I See Is You",
-        "url": "https://open.spotify.com/album/1MexXJHmamEttAaPeUsq7T"
-      },
-      "artists": [
-        {
-          "name": "Meaku",
-          "url": "https://open.spotify.com/artist/2zD28cZO766exrIWQBDFEJ"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "All I See Is You",
-      "url": "https://open.spotify.com/track/3iGCmdEr1Nja2gPhJAUsD3"
     },
     {
       "added_at": "2024-09-02 12:32:28",

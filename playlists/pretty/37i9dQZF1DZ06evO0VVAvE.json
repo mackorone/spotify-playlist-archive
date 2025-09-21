@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6698,
+  "num_followers": 6704,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMtLgAAAAACw1K9qAWOsLDZv6NcO1UvG",
+  "snapshot_id": "aMydAAAAAAA+H7LAMl2MxbEg0GNDWbMA",
   "tracks": [
     {
       "added_at": null,
@@ -659,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
       },
       "artists": [
+        {
+          "name": "TMP Offisial",
+          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
+      "duration_ms": 190769,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
     },
     {
       "added_at": null,
@@ -695,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
       },
       "artists": [
-        {
-          "name": "TMP Offisial",
-          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
+      "duration_ms": 174863,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TOMIWA",
-        "url": "https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 184894,
-      "name": "TOMIWA",
-      "url": "https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo (feat. Boss6man) [speed up]",
         "url": "https://open.spotify.com/album/1GXjJ8RVyVabZpRPyQJkjy"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 139086,
       "name": "Jogo (feat. Boss6man) - speed up",
       "url": "https://open.spotify.com/track/1wSlKkVlDVVmH55siiWl1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TOMIWA",
+        "url": "https://open.spotify.com/album/0chRtYY5hF57ABdB2PTMEx"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 184894,
+      "name": "TOMIWA",
+      "url": "https://open.spotify.com/track/49sAm7LT7WLHCEeydE3Rkf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-640 songs - 1 day 11 hr 49 min
+641 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Can't Help Loving You](https://open.spotify.com/track/6UjaY2lvCFOKQtAS3e2BbH) | [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Can't Help Loving You](https://open.spotify.com/album/1lDSS0917xH5cwevSkequ6) | 3:32 | 2021-07-07 | 2022-05-13 |
 | [Cannibal](https://open.spotify.com/track/3Sg6B5YHoP2JvDEj4AndqL) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Cannibal](https://open.spotify.com/album/7M07KVSye8Bj8Qdn4ijnJ7) | 3:11 | 2025-03-31 | 2025-08-13 |
 | [Carry Me Away](https://open.spotify.com/track/6TL3MOcVW8i1UiJkvhpDbR) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Carry Me Away](https://open.spotify.com/album/5KvmuOTWNRFPAQdz0KRPcf) | 2:39 | 2019-09-13 | 2019-09-27 |
-| [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 | 2025-03-31 |  |
+| [carry me through](https://open.spotify.com/track/3WDoIP9z8IXS1F3ol9lmVr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [carry me through](https://open.spotify.com/album/5Im9EAXp77n11mdr3bUTxj) | 3:35 | 2025-03-31 | 2025-09-21 |
 | [Carry You](https://open.spotify.com/track/2dTO92fHhSMFeEhvNhiCLQ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [Carry You](https://open.spotify.com/album/4aNik5aG6zbT9mctPxZS87) | 3:14 | 2020-01-24 | 2020-02-14 |
 | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/track/02VHspkXhhH1QCInRWWIfr) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Catching Feelings \(feat\. Six60\)](https://open.spotify.com/album/39qXV1tvwnmPEDnFUEFz5G) | 3:38 | 2019-09-13 | 2020-06-05 |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-15 | 2024-10-01 |
@@ -522,6 +522,7 @@
 | [Soft Landing](https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection \(Deluxe Edition\)](https://open.spotify.com/album/0jgLrnhzlL9o4z9TyEt2ih) | 2:27 | 2021-11-12 | 2022-09-09 |
 | [Somebody To Love](https://open.spotify.com/track/0yc37FvbXRwwFaQxzpxbsd) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Somebody To Love](https://open.spotify.com/album/1YjQ5Q5ptRnQcT4P6nSCyt) | 3:01 | 2019-09-13 | 2020-05-15 |
 | [Someone You Loved](https://open.spotify.com/track/2XfZTkN2rTMw4ncgdP0fY9) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Someone You Loved \(Future Humans Remix\)](https://open.spotify.com/album/7m7vv9wlQ4i0LFuJiE2zsQ) | 3:02 | 2019-07-29\* | 2020-01-10 |
+| [Something In The Heavens](https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Something In The Heavens](https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf) | 3:18 | 2025-09-16 |  |
 | [Something Tells Me](https://open.spotify.com/track/6NWX5CdmjYSaG9inwaXShA) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:36 | 2019-08-02 | 2019-11-22 |
 | [Somewhere in Ann Arbor](https://open.spotify.com/track/7EurJLsr9GPEp8Aq5LJvOK) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Somewhere in Ann Arbor](https://open.spotify.com/album/7zt3lJbBlBnA58fYD619Me) | 3:32 | 2020-05-08 | 2020-07-18 |
 | [Song For You](https://open.spotify.com/track/5gor6VJlFBj5QDbcEPJNww) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/3fX6Dplduee9QXzLjYhdjo) | 3:58 | 2019-07-29\* | 2019-08-02 |

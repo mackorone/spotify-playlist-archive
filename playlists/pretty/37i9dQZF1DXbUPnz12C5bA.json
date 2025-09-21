@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 154851,
+  "num_followers": 154969,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Historia Musical de Luis Mateus y la Nueva Generaci\u00f3n",
+        "url": "https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus, David Rendon Y La Nueva Generacion",
+          "url": "https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN"
+        }
+      ],
+      "duration_ms": 278691,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
       },
@@ -831,26 +847,6 @@
       "duration_ms": 297413,
       "name": "Quiero Saber de Ti",
       "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
-        }
-      ],
-      "duration_ms": 246726,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -871,18 +867,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Historia Musical de Luis Mateus y la Nueva Generaci\u00f3n",
-        "url": "https://open.spotify.com/album/75nLOjeMuoVdB375ClTVmP"
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
       },
       "artists": [
         {
-          "name": "Luis Mateus, David Rendon Y La Nueva Generacion",
-          "url": "https://open.spotify.com/artist/3fVKEL0h8IO21P05YrgaSN"
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
         }
       ],
-      "duration_ms": 278691,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/1FziCEBLETrUuDEQfIyID6"
+      "duration_ms": 246726,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
     },
     {
       "added_at": "2024-05-28 19:20:48",
