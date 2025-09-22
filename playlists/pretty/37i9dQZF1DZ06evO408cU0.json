@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 62061,
+  "num_followers": 62069,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAADWK0sjtyaH3ao1VBpTOj24",
+  "snapshot_id": "aM3ugAAAAADLbbtSY242MCvOpxyPZNVT",
   "tracks": [
     {
       "added_at": null,
@@ -503,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
-        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
-      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -532,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 185160,
-      "name": "\u00bfC\u00f3mo Le Digo?",
-      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
+      "duration_ms": 199440,
+      "name": "Ya Me Sirvi\u00f3 De Experiencia",
+      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 210413,
       "name": "Pude",
       "url": "https://open.spotify.com/track/3GsjXU7XdqakW86Iy3vB4n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Y Rancheras En Vivo (En Vivo Desde Mazatl\u00e1n, Sinaloa/M\u00e9xico 2016)",
+        "url": "https://open.spotify.com/album/37BLoPJ2s2zTBx2QsSoO2r"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "\u00bfQui\u00e9n Es El Patr\u00f3n? - En Vivo",
+      "url": "https://open.spotify.com/track/6AEIaEfIETFP831ZAOf3bE"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 185160,
+      "name": "\u00bfC\u00f3mo Le Digo?",
+      "url": "https://open.spotify.com/track/7wzf8JSpGi3TQMQDN5JWw9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Ver A Qu\u00e9 Horas (En Vivo)",
         "url": "https://open.spotify.com/album/3wEwmBFOd6wiZ6F0zXMy6a"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 153680,
       "name": "A Ver A Qu\u00e9 Horas - En Vivo",
       "url": "https://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "Ya Me Sirvi\u00f3 De Experiencia",
-      "url": "https://open.spotify.com/track/5YYOxnJQZxaGwmHi63EfvI"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "El Prisionero De La Celda 909",
-      "url": "https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fibras Sensibles",
         "url": "https://open.spotify.com/album/1SIOva8bdGwBhujbFfWmUm"
       },
@@ -831,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
       "artists": [
         {
@@ -840,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 155333,
-      "name": "La Repetidora",
-      "url": "https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz"
+      "duration_ms": 221146,
+      "name": "El Prisionero De La Celda 909",
+      "url": "https://open.spotify.com/track/5U8ZVNyGoGD32pBeEJ3Px5"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 191560,
       "name": "El Becerro No Ha Mamado Y El Borrego Cachet\u00f3n - En Vivo",
       "url": "https://open.spotify.com/track/76FZVlzBjXGtbN9ff9sdtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 155333,
+      "name": "La Repetidora",
+      "url": "https://open.spotify.com/track/0F94OmFF77qyj3HCy1DKFz"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La \u00daltima Despedida",
-        "url": "https://open.spotify.com/album/6saWvHCp5KIbQFgliUKT2a"
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Ausencia Eterna",
-      "url": "https://open.spotify.com/track/432N8047PMajG01RoyXHof"
+      "duration_ms": 181280,
+      "name": "El Tarasco - En Vivo",
+      "url": "https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

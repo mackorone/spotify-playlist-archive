@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 945502,
+  "num_followers": 945438,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,26 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Fazer Falta",
+        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "Fazer Falta",
+      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Bum Bum Tam Tam",
         "url": "https://open.spotify.com/album/1E6aIrYOcysBusmGfm2Pcm"
       },
@@ -95,26 +115,6 @@
       "duration_ms": 213988,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/6k2900NjJeVqZM55G3Danu"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Fazer Falta",
-        "url": "https://open.spotify.com/album/2J6ZBAGXWlvjmUh01H4rC0"
-      },
-      "artists": [
-        {
-          "name": "Mc Livinho",
-          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "Fazer Falta",
-      "url": "https://open.spotify.com/track/6vZbWgHWITDgEe6a2aOUqY"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Deu Onda",
+        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
+      },
+      "artists": [
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "Deu Onda",
+      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Vento Forte",
         "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 123711,
       "name": "Vento Forte",
       "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Deu Onda",
-        "url": "https://open.spotify.com/album/2ksQI4wyde528WS4Ci7gGl"
-      },
-      "artists": [
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "Deu Onda",
-      "url": "https://open.spotify.com/track/0HiOQzcBkMLj2t5m3ghcbm"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1139,30 +1139,18 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Olha A Explos\u00e3o (Remix)",
-        "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
+        "name": "Envolvimento",
+        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Nacho",
-          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
         }
       ],
-      "duration_ms": 210773,
-      "name": "Olha A Explos\u00e3o - Remix",
-      "url": "https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY"
+      "duration_ms": 146602,
+      "name": "Envolvimento",
+      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1227,18 +1215,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Envolvimento",
-        "url": "https://open.spotify.com/album/5bIJHBuvyTHfxXmy8ZUNyv"
+        "name": "Olha A Explos\u00e3o (Remix)",
+        "url": "https://open.spotify.com/album/69krsAEiMZ6nClROTNExfp"
       },
       "artists": [
         {
-          "name": "MC Loma e As G\u00eameas Lacra\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/6tdM5Njlln7nWkonCppW0u"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
         }
       ],
-      "duration_ms": 146602,
-      "name": "Envolvimento",
-      "url": "https://open.spotify.com/track/3xhgrkZuPHxJBHwyBl5sOs"
+      "duration_ms": 210773,
+      "name": "Olha A Explos\u00e3o - Remix",
+      "url": "https://open.spotify.com/track/5RBW30fFFVav2n0IqFj0fY"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Mechendo Voce Vai",
-        "url": "https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J"
-      },
-      "artists": [
-        {
-          "name": "MC Gury",
-          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
-        },
-        {
-          "name": "Lonny Bello",
-          "url": "https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc"
-        },
-        {
-          "name": "Dominic",
-          "url": "https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Mechendo Voce Vai",
-      "url": "https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
         "name": "N\u00e3o Pare",
         "url": "https://open.spotify.com/album/7GCjgOvt3728sKyNDVpQsJ"
       },
@@ -1543,6 +1519,30 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "Mechendo Voce Vai",
+        "url": "https://open.spotify.com/album/0FfgTedsNzwUksBwaFVF8J"
+      },
+      "artists": [
+        {
+          "name": "MC Gury",
+          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
+        },
+        {
+          "name": "Lonny Bello",
+          "url": "https://open.spotify.com/artist/5Dm6nzgflFsiqwJraFSVQc"
+        },
+        {
+          "name": "Dominic",
+          "url": "https://open.spotify.com/artist/7nY8uiLDsKXZMR8hVRjiZx"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Mechendo Voce Vai",
+      "url": "https://open.spotify.com/track/6WOHqlRNvyvTIYWGTgKxPZ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ"
       },
@@ -1555,6 +1555,26 @@
       "duration_ms": 165600,
       "name": "Coisa Boa",
       "url": "https://open.spotify.com/track/4SBQSroThFQ98U29IwnJ2g"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "Vai Embrazando",
+        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "MC Vigary",
+          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
+        }
+      ],
+      "duration_ms": 166060,
+      "name": "Vai Embrazando",
+      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1579,26 +1599,6 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Vai Embrazando",
-        "url": "https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "MC Vigary",
-          "url": "https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe"
-        }
-      ],
-      "duration_ms": 166060,
-      "name": "Vai Embrazando",
-      "url": "https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ"
     },
     {
       "added_at": "2023-06-26 14:06:50",

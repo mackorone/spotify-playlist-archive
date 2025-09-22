@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: JR, Defano Holwijn, Vensly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,452 likes - 64 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,433 likes - 64 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 17 | [Man Zijn](https://open.spotify.com/track/6ntnmM14ptMpdOcUziSdCC) | [Vinny](https://open.spotify.com/artist/4ZDIqLTT2TZuC199G4KwTD), [Kingsize](https://open.spotify.com/artist/1d6XcWMNZgvbgs123LlFgJ) | [Filantroop](https://open.spotify.com/album/2C6yXgjoNE7pmZpDmQwc8P) | 2:32 |
 | 18 | [UNC](https://open.spotify.com/track/7sX1MtwoBHcznKQ9xw2lIr) | [Leeroy](https://open.spotify.com/artist/5XOot0LfXGuSWgTmolsDzn) | [Unc](https://open.spotify.com/album/5GjRfcHRdhVOT1y2pqEwiM) | 3:00 |
 | 19 | [4WIEL](https://open.spotify.com/track/6fDKErrqoJ82liH3lWBtx8) | [W19](https://open.spotify.com/artist/5016jZ4DoKPDuKy5xZyUpU), [Jaïr](https://open.spotify.com/artist/6vG755giuevRw6BkA3ZQLB), [Devo again](https://open.spotify.com/artist/1IeuC3gQosGED5Nkaf4vIa), [Doomy](https://open.spotify.com/artist/4bmt4gg4vdPPt4E27baJ91) | [4WIEL](https://open.spotify.com/album/7fFiVLLwD0fegc7ZOI4ypV) | 3:06 |
-| 20 | [Goed Gepakt](https://open.spotify.com/track/1YqT88mO4ISuyrRn9hd4W9) | [Chief777](https://open.spotify.com/artist/5EtehYPIV85CUeD6Z0Aw71), [Surri](https://open.spotify.com/artist/5c8BTWdQH241pbQMpFohaT) | [Goed Gepakt](https://open.spotify.com/album/6LIv4fvO6LuEExbHc7ZDQq) | 2:01 |
+| 20 | [Goed Gepakt](https://open.spotify.com/track/1YqT88mO4ISuyrRn9hd4W9) | [Chief777](https://open.spotify.com/artist/5EtehYPIV85CUeD6Z0Aw71), [SURRI](https://open.spotify.com/artist/1CLP6paOGZXg1qIkYvyzHo) | [Goed Gepakt](https://open.spotify.com/album/6LIv4fvO6LuEExbHc7ZDQq) | 2:01 |
 | 21 | [MARV & MACK](https://open.spotify.com/track/1xzPeSp1Zd0VbrfhV2RgDB) | [$KEER&BOO$](https://open.spotify.com/artist/54AXOGACUgkWEWlIG07d6B), [Starvin Marv](https://open.spotify.com/artist/1G4mjanvIMscJ8JuNOAqik) | [MARV & MACK](https://open.spotify.com/album/6UPENYnK296D2H8LO56OQx) | 2:48 |
 | 22 | [COMMUNICEREN](https://open.spotify.com/track/0gx1cLh9q7bC6vOQr5qJpk) | [Ajay](https://open.spotify.com/artist/6blOShkI4PDC0gqCk6PQoa), [ATLouis](https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa) | [COMMUNICEREN](https://open.spotify.com/album/1meJ2pMBqjJIX5ClGJr2sF) | 2:11 |
 | 23 | [Oneerlijk](https://open.spotify.com/track/4JHcB7g5n7clfjp0b0fBgl) | [DenzelSN](https://open.spotify.com/artist/3o6rBFfY6bEVAK4dfYISUZ), [Yerrado](https://open.spotify.com/artist/4ZsJRsJnzgOfmGPKuQIckH), [Quina01](https://open.spotify.com/artist/5Eqd3fO4nHEtBHlr6Vf7Yw), [Fair](https://open.spotify.com/artist/7JhnKNjIudXD71nPQMlm0w), [Vos7](https://open.spotify.com/artist/3xzQ3bNUqTjZW1RoX7MZdS), [Radje](https://open.spotify.com/artist/66I85zkezshnF7dOJ5dAhz), [WV](https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh) | [Oneerlijk](https://open.spotify.com/album/0sXP7PkOscvIW3sXGcNi8b) | 3:30 |

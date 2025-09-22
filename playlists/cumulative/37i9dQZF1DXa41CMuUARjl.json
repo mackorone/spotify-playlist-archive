@@ -475524,6 +475524,28 @@
     {
       "album": {
         "name": "Roses",
+        "url": "https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218095,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj"
+    },
+    {
+      "album": {
+        "name": "Roses",
         "url": "https://open.spotify.com/album/4LF4m0i5Wf8pJ1tstvx3AM"
       },
       "artists": [
@@ -475560,28 +475582,6 @@
       "duration_ms": 186275,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0zu6qUAFupSo7UbwcgzfqL"
-    },
-    {
-      "album": {
-        "name": "Roses (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk"
-      },
-      "artists": [
-        {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "date_added": "2025-09-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218095,
-      "name": "Roses (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj"
     },
     {
       "album": {

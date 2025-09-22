@@ -4,7 +4,7 @@
 
 > All of it
 
-980 songs - 2 day 12 hr 34 min
+981 songs - 2 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [RATATATA](https://open.spotify.com/track/2S3u18aJF8eExll5dYwSJb) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [METAL FORTH](https://open.spotify.com/album/7JAioi7aQOS0VenAg3xfrp) | 3:37 | 2025-08-08 |  |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-06-02 |  |
 | [Raydar](https://open.spotify.com/track/3utisM1p90YUtH7yjXyrrY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:24 | 2025-06-02 |  |
+| [recently,](https://open.spotify.com/track/1djCoU5rvnq2zXFyD2iqq4) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:55 | 2025-09-22 |  |
 | [Red and Gold](https://open.spotify.com/track/1a1LNRtmRJ46EqjVja044n) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:42 | 2025-06-02 |  |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2025-06-02 |  |
 | [Red Sun \- Maniac Agenda Mix](https://open.spotify.com/track/4CzR6YrcxWeQDQHtas6Bcl) | [Jason Charles Miller](https://open.spotify.com/artist/7pOKRPPfbtv5c7Kdv40LVo) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:13 | 2025-06-02 |  |

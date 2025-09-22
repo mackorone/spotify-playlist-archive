@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,279 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,268 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 20 | [Sábado](https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo) | [Gorilla Concept Music](https://open.spotify.com/artist/3uItN5CehblL9at5ZvETez), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N) | [Voos Internacionais, Vol\. 2](https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj) | 2:23 |
 | 21 | [quem dera fosse...](https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS) | [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Léo da Bodega](https://open.spotify.com/artist/1CCSimZ4o0yIv6v7iQAh0g), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [quem dera fosse...](https://open.spotify.com/album/2buJ0NeUZkGf0uu4I7CjCK) | 2:49 |
 | 22 | [Tira, Coloca De Volta](https://open.spotify.com/track/78GL1D7ZMN0LA0g02GsqGV) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Tira, Coloca De Volta](https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE) | 2:24 |
-| 23 | [BUNDÃO GG](https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [MIXTRAPISEIRO](https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY) | 3:12 |
-| 24 | [Comemorar?](https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Comemorar?](https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml) | 3:10 |
+| 23 | [Comemorar?](https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Comemorar?](https://open.spotify.com/album/7eUW8B4zebW4viuiN178Ml) | 3:10 |
+| 24 | [BUNDÃO GG](https://open.spotify.com/track/4D7ip2Qf4woQXy3vH1AZp2) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM), [EDNOBEAT](https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV) | [MIXTRAPISEIRO](https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY) | 3:12 |
 | 25 | [Luz da Lua](https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Oriente Acústico](https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1) | 3:35 |
 | 26 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 |
 | 27 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 |

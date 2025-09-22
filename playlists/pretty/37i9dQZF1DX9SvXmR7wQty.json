@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Bobby Bazini",
-  "num_followers": 46200,
+  "num_followers": 46207,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Hors du temps",
+        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "duration_ms": 173887,
+      "name": "Hors du temps",
+      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "HAYATI (Episode 1 : Du sable et du sang)",
         "url": "https://open.spotify.com/album/5DSAu517doRjS2AxNPfDSd"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Hors du temps",
-        "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        }
-      ],
-      "duration_ms": 173887,
-      "name": "Hors du temps",
-      "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Choisi (feat. Alonzo)",
         "url": "https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 170774,
       "name": "Choisi (feat. Alonzo)",
       "url": "https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Mille vagues",
-        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Mille vagues",
-      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -899,6 +883,22 @@
       "duration_ms": 160891,
       "name": "Kappa",
       "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Mille vagues",
+        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Mille vagues",
+      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
     },
     {
       "added_at": "2025-08-01 04:00:28",

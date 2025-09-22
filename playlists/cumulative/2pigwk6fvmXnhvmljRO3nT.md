@@ -4,7 +4,7 @@
 
 > 
 
-7,723 songs - 19 day 22 hr 51 min
+7,724 songs - 19 day 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3728,6 +3728,7 @@
 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 | 2025-04-30 |  |
 | [Maria I'm Drunk \(feat\. Justin Bieber & Young Thug\)](https://open.spotify.com/track/6Yqmv7XJLCrQEauMbPGZSw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Rodeo](https://open.spotify.com/album/4PWBTB6NYSKQwfo79I3prg) | 5:49 | 2025-01-15 |  |
 | [Marijuana](https://open.spotify.com/track/2GtaNlidzvK3hY78kCdsHa) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 4:20 | 2025-01-03 |  |
+| [Mariposa](https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK) | 3:30 | 2025-09-21 |  |
 | [Married To The Game](https://open.spotify.com/track/4Kup1kDTLoJaUMgpGFPqau) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Project E.T.](https://open.spotify.com/album/3C3RvTGChyw9k6A2uaa2B3) | 2:10 | 2025-01-03 |  |
 | [Marry You](https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:50 | 2024-12-10 |  |
 | [mars](https://open.spotify.com/track/7gAy29kgfgLkGGo9Mj9zKd) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [learn 2 swim](https://open.spotify.com/album/6UMelDEJAzDUlgUi9VxPFf) | 3:17 | 2025-01-15 |  |
@@ -6553,7 +6554,7 @@
 | [White Ferrari](https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:08 | 2025-01-03 |  |
 | [White Gloves](https://open.spotify.com/track/4AKUOaCRcoKTFnVI9LtsrN) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:38 | 2025-01-03 |  |
 | [White Iverson](https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 4:16 | 2025-01-15 |  |
-| [White Iverson](https://open.spotify.com/track/1Bi5t0q9j3nYXIZuZgSGvr) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney](https://open.spotify.com/album/7J0uECwRkAFLiZljgYFq1w) | 4:16 | 2025-05-27 |  |
+| [White Iverson](https://open.spotify.com/track/1Bi5t0q9j3nYXIZuZgSGvr) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney](https://open.spotify.com/album/7J0uECwRkAFLiZljgYFq1w) | 4:16 | 2025-05-27 | 2025-09-22 |
 | [White Loneliness](https://open.spotify.com/track/5aDKF7SXmPTK43ywKkGxOP) | [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Summer Pockets Original SoundTrack](https://open.spotify.com/album/5f430S14cud6XqMtFQ910l) | 2:49 | 2025-04-24 |  |
 | [White love](https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [PERFECT LOVE](https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of) | 3:20 | 2025-01-15 |  |
 | [White Love Story](https://open.spotify.com/track/5Nx1gyfFKrHYR6ZdbNPo7W) | [As One](https://open.spotify.com/artist/1MF797sg8WfxKRXELhlqtT) | [The 1st Shop of Coffee Prince \(Original Television Soundtrack\)](https://open.spotify.com/album/21QIRdboswvw3p2YnlIyop) | 4:37 | 2024-12-07 |  |
@@ -7397,7 +7398,7 @@
 | [그녀의 연인에게..\. \#Story 1](https://open.spotify.com/track/4uNF79VtjMAbnpQKCPn5Oz) | [KIM sung myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:50 | 2025-01-03 |  |
 | [그대 내게 다시](https://open.spotify.com/track/63Hr7Uvt6S6BLgwvXfivAD) | [변진섭](https://open.spotify.com/artist/5Moz0OfOqFgmg4JpQNdyQm) | [그대 내게 다시](https://open.spotify.com/album/3ob8YgLT4Q71ZAi3viACtd) | 4:05 | 2025-01-15 |  |
 | [그대는 눈물겹다](https://open.spotify.com/track/18yfSV6Jhh9lhAPzZoIkfq) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Love Is Time Sixth Sense](https://open.spotify.com/album/6VjZu0I92vdfh4dGEP9qCQ) | 5:02 | 2025-01-04 |  |
-| [그대는 어디에](https://open.spotify.com/track/50DVz42iHD4qmMmhDfm54M) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:51 | 2025-01-03 |  |
+| [그대는 어디에](https://open.spotify.com/track/50DVz42iHD4qmMmhDfm54M) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:51 | 2025-01-03 | 2025-09-22 |
 | [그대만 있다면](https://open.spotify.com/track/0U3mtPkuvMJhccjg2EjtI3) | [일기예보](https://open.spotify.com/artist/41uzoiojZhXj2jXpm6CaFi) | [일기예보 5집 \- 다섯번째](https://open.spotify.com/album/6dh8449TcwgvRQrSCVb3rL) | 3:59 | 2025-01-15 |  |
 | [그대안의 블루](https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1) | 3:35 | 2025-01-03 |  |
 | [그대에게](https://open.spotify.com/track/6RE5MEqVyzkeMgxGKhxJGf) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [넥스트 5.5집](https://open.spotify.com/album/5JlCKiLaaF0P0ny9QjlnXk) | 5:06 | 2025-01-04 |  |
@@ -7537,7 +7538,7 @@
 | [비밀번호 486](https://open.spotify.com/track/0GtnPY1LePGHquWzIEiqMj) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [고백하기 좋은 날](https://open.spotify.com/album/79AMjDleF4FaqfI3a28XdV) | 3:48 | 2025-01-15 |  |
 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang Eun](https://open.spotify.com/artist/0Gqc2XO4Wu0YpYVWSiDwYt) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 | 2025-06-03 |  |
 | [비상](https://open.spotify.com/track/424hhpwdrLq2avq6oFFPGQ) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories](https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1) | 4:21 | 2025-01-03 |  |
-| [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2025-01-03 |  |
+| [비상](https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:30 | 2025-01-03 | 2025-09-22 |
 | [비와 당신\(럼블 피쉬\)](https://open.spotify.com/track/3kSm1u0Hq19BFUXAKIAJvj) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [나홀로 가는 음악 여행](https://open.spotify.com/album/0imqY8D6dAITenfIOZUBib) | 4:08 | 2025-01-15 |  |
 | [비와 당신의 이야기](https://open.spotify.com/track/4YvWV2TfZkrUYS6Th28iKB) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [The Best Of Born Again](https://open.spotify.com/album/4rvxxZJ12vnJgPLCsIM2AN) | 6:01 | 2024-12-10 |  |
 | [비와 당신의 이야기](https://open.spotify.com/track/6xdoj9Wun8O2Nj00v7fo0v) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [새벽](https://open.spotify.com/album/4nc43iXhWaylkGhKdVsKyH) | 6:06 | 2024-12-10 |  |
@@ -7552,7 +7553,7 @@
 | [사랑과 우정사이](https://open.spotify.com/track/5t06HW53buDt6xUzjVaFca) | [Pinocchio](https://open.spotify.com/artist/6N8xbwEPb0gYiiD1Dn7V76) | [다시 만난 너에게](https://open.spotify.com/album/0wHq315KNuiFNVkri09aCf) | 4:31 | 2025-01-15 |  |
 | [사랑과 우정사이](https://open.spotify.com/track/6UWXnJ4MpEeVkBLXmF90aj) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [sg WANNA BE \- Classic Odyssey](https://open.spotify.com/album/6nGXlSP0HjarsA0szIhLnv) | 3:57 | 2025-01-15 |  |
 | [사랑과 우정사이](https://open.spotify.com/track/20INz9muKVLRnJ24hBMB5D) | [피노키오](https://open.spotify.com/artist/1LXiMdGF2M2ystDp1Dv6l5) | [REMIND RAIN](https://open.spotify.com/album/2fDCx0pizPUKD2wQdbr2qq) | 4:37 | 2025-01-15 |  |
-| [사랑보다 깊은 상처](https://open.spotify.com/track/4Y4yf4f2ndNOmHRvPtl5PJ) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:26 | 2025-01-03 |  |
+| [사랑보다 깊은 상처](https://open.spotify.com/track/4Y4yf4f2ndNOmHRvPtl5PJ) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:26 | 2025-01-03 | 2025-09-22 |
 | [사랑보다 깊은 상처](https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:30 | 2025-01-03 |  |
 | [사랑보다 깊은 상처](https://open.spotify.com/track/4aoCjsKskYrU2HboGYAApR) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Memories](https://open.spotify.com/album/73gPVFr5bRXhm2iGL29eK1) | 5:06 | 2025-01-03 |  |
 | [사랑스러워](https://open.spotify.com/track/6XVp0q2S9ORgOeHBeaXlke) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [This is me](https://open.spotify.com/album/0aOZf1FV1MFFhue6oRi3eu) | 4:29 | 2025-01-03 |  |
@@ -7601,7 +7602,7 @@
 | [아름다운 구속](https://open.spotify.com/track/5CE7Q33bONpzjgKAjRkDxv) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [Kim Jong Seo Ⅴ](https://open.spotify.com/album/4eKFy8EDH3HrAU6G0AOEp3) | 4:12 | 2025-01-03 |  |
 | [아름다운 세상](https://open.spotify.com/track/4uh2B2Ps2Nci12nkzcj1nH) | [Yurisangja](https://open.spotify.com/artist/0yHsQ2vzDleLT7qjgo7qt7) | [All That Yurisangja](https://open.spotify.com/album/2AFoXmIqS5xgmaCzQRBtlY) | 3:34 | 2025-08-17 |  |
 | [아름다운 세상](https://open.spotify.com/track/1U7aeIHtT712qmF4NnqxS6) | [유리상자](https://open.spotify.com/artist/0XT8epaZZMkIeYcu17Ie2Z) | [All That Yurisangja](https://open.spotify.com/album/4Tx0odGJYdzB6eCZGbU1De) | 3:34 | 2025-01-15 |  |
-| [아름다운 오해](https://open.spotify.com/track/77kzQDQXcy1nw5j9JF9no5) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:04 | 2025-01-03 |  |
+| [아름다운 오해](https://open.spotify.com/track/77kzQDQXcy1nw5j9JF9no5) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:04 | 2025-01-03 | 2025-09-22 |
 | [아버지와나](https://open.spotify.com/track/4ga6fPHRcRg7Rkj4UpmrlN) | [N.EX.T](https://open.spotify.com/artist/1BvcPcQ3raChuHJcAJrvGy) | [넥스트 5.5집](https://open.spotify.com/album/5JlCKiLaaF0P0ny9QjlnXk) | 5:09 | 2025-01-04 |  |
 | [아시나요](https://open.spotify.com/track/2R9rCnnSkSffuKZx2U3hLJ) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [Let Me Love](https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM) | 5:27 | 2025-01-03 |  |
 | [아직도 널](https://open.spotify.com/track/4PxQyXDCoEM56YngnJujgm) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Coexistence](https://open.spotify.com/album/2yupj6Bwjo1m6Jew5uscif) | 3:12 | 2025-01-15 |  |
@@ -7692,7 +7693,7 @@
 | [촛불하나](https://open.spotify.com/track/2APM0MB4txhD5Oir3Ahae2) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 3](https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn) | 3:31 | 2025-01-03 |  |
 | [총 맞은 것처럼](https://open.spotify.com/track/1eKB7VHL8NmM64993UY1rE) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:59 | 2025-07-11 |  |
 | [총맞은것처럼](https://open.spotify.com/track/1TnykJShAmwjk8y1WZSD3W) | [Baek Z Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Sensibility](https://open.spotify.com/album/3afqlbSrXUtzJex07fQF7E) | 3:59 | 2024-12-10 |  |
-| [최선의 고백](https://open.spotify.com/track/4K43bjV6fxfdAzuEPjKdyl) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:42 | 2025-01-03 |  |
+| [최선의 고백](https://open.spotify.com/track/4K43bjV6fxfdAzuEPjKdyl) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Desire To Fly](https://open.spotify.com/album/1t2xBGmp2yQKnQEdf6omH3) | 4:42 | 2025-01-03 | 2025-09-22 |
 | [취미는 사랑](https://open.spotify.com/track/3kNeVQowXmRBGh4elxryd6) | [Autumn Vacation](https://open.spotify.com/artist/6OSMGFNb20nNBw4a2vWxMT) | [가을방학](https://open.spotify.com/album/1dulWkmJSItilAHwYGuINt) | 2:56 | 2024-12-07 |  |
 | [친구](https://open.spotify.com/track/0g1hIewFLjr9Z3zLTLlz5D) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 4:33 | 2025-01-15 |  |
 | [칵테일 사랑](https://open.spotify.com/track/1vAiz64h5jvmTEHh6a5918) | [Maronie Friends](https://open.spotify.com/artist/3DUpWzqbk04LI5GzGm5Wgn) | [Maronie Friends](https://open.spotify.com/album/0VJwSzzPznBRYHBr9Xvdla) | 3:51 | 2025-01-04 |  |

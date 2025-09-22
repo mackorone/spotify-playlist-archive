@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAABktH4V+yIHBt/UcwNnRiFe",
+  "snapshot_id": "aM3ugAAAAADZDFyDXX1tH8bD7DjcpaaN",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm Me",
-        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Omarm Me",
-      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alles Blijft Anders",
         "url": "https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 247533,
       "name": "Donker Hart",
       "url": "https://open.spotify.com/track/7slPUKikfw8lG5s5GvUd6K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm Me",
+        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Omarm Me",
+      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
     },
     {
       "added_at": null,
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm",
-        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
+        "name": "We doen wat we kunnen (feat. Geike)",
+        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Geike",
+          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
         }
       ],
-      "duration_ms": 434680,
-      "name": "De Mooiste Verliezers",
-      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
+      "duration_ms": 240562,
+      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
+      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We doen wat we kunnen (feat. Geike)",
-        "url": "https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ"
+        "name": "Omarm",
+        "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Geike",
-          "url": "https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP"
         }
       ],
-      "duration_ms": 240562,
-      "name": "We doen wat we kunnen (feat. Geike) - Single Edit",
-      "url": "https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x"
+      "duration_ms": 434680,
+      "name": "De Mooiste Verliezers",
+      "url": "https://open.spotify.com/track/3fLDw6PS213U606WPG0qn8"
     },
     {
       "added_at": null,

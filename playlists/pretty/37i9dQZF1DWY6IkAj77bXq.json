@@ -1,6 +1,6 @@
 {
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
-  "num_followers": 82496,
+  "num_followers": 82507,
   "original_name": "Sanaci\u00f3n Profunda",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Renacer en Calma",
-        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
-      },
-      "artists": [
-        {
-          "name": "Esmeraldas",
-          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Ecos de Meditaci\u00f3n",
-      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Resonance",
         "url": "https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 143500,
       "name": "Resonance",
       "url": "https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Renacer en Calma",
+        "url": "https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW"
+      },
+      "artists": [
+        {
+          "name": "Esmeraldas",
+          "url": "https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Ecos de Meditaci\u00f3n",
+      "url": "https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Relatively",
-        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
-      },
-      "artists": [
-        {
-          "name": "Latehours",
-          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
-        }
-      ],
-      "duration_ms": 167187,
-      "name": "Relatively",
-      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Evening Veil",
         "url": "https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 136000,
       "name": "Evening Veil",
       "url": "https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Relatively",
+        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "duration_ms": 167187,
+      "name": "Relatively",
+      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Interlock",
-        "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
-      },
-      "artists": [
-        {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Interlock",
-      "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Solstice Waves",
         "url": "https://open.spotify.com/album/05AOfjLp2pq7emPXZGbRXk"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Dreams of Another",
-        "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
+        "name": "Interlock",
+        "url": "https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m"
       },
       "artists": [
         {
-          "name": "Jack Allenson",
-          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
         }
       ],
-      "duration_ms": 166125,
-      "name": "Dreams of Another",
-      "url": "https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6"
+      "duration_ms": 156000,
+      "name": "Interlock",
+      "url": "https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -939,18 +923,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Silent Aurora",
-        "url": "https://open.spotify.com/album/34spoj4NANjQSWpPQuCNGn"
+        "name": "Dreams of Another",
+        "url": "https://open.spotify.com/album/27GczgpVr1V4JtHWfNtbaS"
       },
       "artists": [
         {
-          "name": "Gates of Heaven",
-          "url": "https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j"
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
         }
       ],
-      "duration_ms": 193629,
-      "name": "Silent Aurora",
-      "url": "https://open.spotify.com/track/3mpAyQ4QANg2RXImWKvqDH"
+      "duration_ms": 166125,
+      "name": "Dreams of Another",
+      "url": "https://open.spotify.com/track/3pOOs5JqVXvvZFwOeEb1g6"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -983,6 +967,22 @@
       "duration_ms": 177391,
       "name": "Protection",
       "url": "https://open.spotify.com/track/7seUboMUYcCSjiuWfHRqkR"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Silent Aurora",
+        "url": "https://open.spotify.com/album/34spoj4NANjQSWpPQuCNGn"
+      },
+      "artists": [
+        {
+          "name": "Gates of Heaven",
+          "url": "https://open.spotify.com/artist/2d1SOxC8HeERlKJmAcS14j"
+        }
+      ],
+      "duration_ms": 193629,
+      "name": "Silent Aurora",
+      "url": "https://open.spotify.com/track/3mpAyQ4QANg2RXImWKvqDH"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Cosmic Vibe",
         "url": "https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Nature of Life",
-        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
       },
       "artists": [
         {
-          "name": "Ozo Nakuru",
-          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
         }
       ],
-      "duration_ms": 159892,
-      "name": "Nature of Life",
-      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1191,6 +1175,22 @@
       "duration_ms": 165193,
       "name": "By the Seaside",
       "url": "https://open.spotify.com/track/7KAQD0hOEik8MhNdrsbkTM"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Nature of Life",
+        "url": "https://open.spotify.com/album/6l6qwBSjrCfVaNrJE4r6DE"
+      },
+      "artists": [
+        {
+          "name": "Ozo Nakuru",
+          "url": "https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7"
+        }
+      ],
+      "duration_ms": 159892,
+      "name": "Nature of Life",
+      "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Shimmer",
-        "url": "https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW"
-      },
-      "artists": [
-        {
-          "name": "AuraLoom",
-          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Spiritual Connection",
         "url": "https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 198000,
       "name": "Spiritual Connection",
       "url": "https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "duration_ms": 200536,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF"
     },
     {
       "added_at": "2025-07-24 09:44:19",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-07-24 09:44:19",
       "album": {
-        "name": "Exploring Eternity",
-        "url": "https://open.spotify.com/album/7MVOhDlxQcLo3ex8LF1UN2"
-      },
-      "artists": [
-        {
-          "name": "Tone Jacobs",
-          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Exploring Eternity",
-      "url": "https://open.spotify.com/track/2uL83umNBoXsuFjVtD6iOK"
-    },
-    {
-      "added_at": "2025-07-24 09:44:19",
-      "album": {
         "name": "Amoralis",
         "url": "https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 211948,
       "name": "Amoralis",
       "url": "https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ"
+    },
+    {
+      "added_at": "2025-07-24 09:44:19",
+      "album": {
+        "name": "Exploring Eternity",
+        "url": "https://open.spotify.com/album/7MVOhDlxQcLo3ex8LF1UN2"
+      },
+      "artists": [
+        {
+          "name": "Tone Jacobs",
+          "url": "https://open.spotify.com/artist/3uDLX7j7thpPkEANovcmlT"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Exploring Eternity",
+      "url": "https://open.spotify.com/track/2uL83umNBoXsuFjVtD6iOK"
     },
     {
       "added_at": "2025-07-24 09:44:19",

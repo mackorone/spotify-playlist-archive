@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Sep 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Sep 22:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -15450,7 +15450,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 167156,
       "name": "CANNIBALISM!",
       "url": "https://open.spotify.com/track/0d5maE1saK2pmlhZfW0xmh"
@@ -21452,7 +21452,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 104415,
       "name": "DADE",
       "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
@@ -37239,6 +37239,24 @@
     },
     {
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "album": {
         "name": "Good For Me",
         "url": "https://open.spotify.com/album/3UdCt2WeU8nsaSNrBRl7BA"
       },
@@ -39062,6 +39080,24 @@
       "duration_ms": 178346,
       "name": "Harder to Kill",
       "url": "https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz"
+    },
+    {
+      "album": {
+        "name": "HARDHEAD",
+        "url": "https://open.spotify.com/album/1jg65OhOKrAftMrnKJWqfg"
+      },
+      "artists": [
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "HARDHEAD",
+      "url": "https://open.spotify.com/track/60pXpNEqw1GfwSGxU3n7c5"
     },
     {
       "album": {
@@ -80116,7 +80152,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 191660,
       "name": "Silence",
       "url": "https://open.spotify.com/track/7tv8zTisovOo3Xb9KAVOpa"
@@ -95026,6 +95062,24 @@
       "duration_ms": 300045,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ"
+    },
+    {
+      "album": {
+        "name": "Troubled Water",
+        "url": "https://open.spotify.com/album/5ppygjU5YVH6knvthwcpbf"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/5P4el2I8usVLwh90Q2AcMa"
     },
     {
       "album": {

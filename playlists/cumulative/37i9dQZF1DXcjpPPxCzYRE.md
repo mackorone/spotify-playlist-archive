@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-421 songs - 1 day 0 hr 9 min
+422 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Always Remember Us This Way](https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:30 | 2022-11-11 |  |
 | [Amor del bueno](https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid) | [Eva Sola](https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4) | [Amor del bueno](https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx) | 3:15 | 2024-10-24 |  |
 | [And I Love Her](https://open.spotify.com/track/0Dv23k5ErS9XO9U2BYRI0F) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 2:42 | 2022-11-11 | 2025-09-19 |
+| [Ando despistado](https://open.spotify.com/track/1bKazzhvfzjjheK5qpmwqt) | [Flavio](https://open.spotify.com/artist/2PpQXJidwYjlmvUyyWqsxN) | [Ando despistado](https://open.spotify.com/album/7kzkw8zloj5wvdidrbKL0Q) | 4:40 | 2025-09-18 |  |
 | [Angeles](https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:56 | 2023-04-20 | 2024-04-19 |
 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 | 2022-11-11 | 2023-04-29 |
 | [Another Vibe \(feat\. Omah Lay\)](https://open.spotify.com/track/1sNQMj0Dq0UHrryEQqP4OY) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 2:43 | 2024-02-08 | 2024-03-05 |
@@ -219,7 +220,7 @@
 | [Leve](https://open.spotify.com/track/4hswVtm8bkPLsMqnctlIBb) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Soma](https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez) | 3:33 | 2024-03-15 | 2024-07-05 |
 | [Life In The Time](https://open.spotify.com/track/4Cj6hfQwoGvJPfiNyNG5eV) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Life In The Time](https://open.spotify.com/album/30r6TlQJHRQOeC1iq8rAWS) | 3:30 | 2023-06-09 | 2023-07-23 |
 | [Life Is A Movie](https://open.spotify.com/track/5wLORt31zVolrz4fvekc9P) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Life Is A Movie](https://open.spotify.com/album/3IJhzIBopdSE70xsu1RthO) | 3:01 | 2025-02-25 | 2025-06-08 |
-| [Limão](https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z) | [navxja](https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh) | [Limão](https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow) | 3:37 | 2025-09-18 |  |
+| [Limão](https://open.spotify.com/track/0ND0hIRaK0GfPYIqELyp2Z) | [navxja](https://open.spotify.com/artist/1H5AZwBOL8ETpshyqPvYQh) | [Limão](https://open.spotify.com/album/4zNnHX6IxlhzI5TMXKxgow) | 3:37 | 2025-09-18 | 2025-09-22 |
 | [Lista de deseos](https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5) | [Medianoche](https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk) | [Lista de deseos](https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL) | 3:16 | 2025-09-18 |  |
 | [Livin´ On a Prayer](https://open.spotify.com/track/33wSIvyZvFVzOap7H89JMG) | [Softband](https://open.spotify.com/artist/7KS4igpkjzmjCn4nhTnhhV) | [Acoustic Hits](https://open.spotify.com/album/2QL3fVo50dTiXdvmCc1I9q) | 3:48 | 2024-04-11 | 2025-09-19 |
 | [Llévame](https://open.spotify.com/track/4uxTvwFypCgeL7VT7V5NZh) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Llévame](https://open.spotify.com/album/1XweC6MnJea3Pz9jlLImji) | 3:28 | 2025-03-31 | 2025-06-03 |

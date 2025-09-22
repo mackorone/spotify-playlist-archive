@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-306 songs - 16 hr 54 min
+307 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Sweet dream](https://open.spotify.com/track/1DP9vgW2iuSzP2Krk1JkiY) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Someone's playlist \#6](https://open.spotify.com/album/3VbivLC3qr9JCqAEAx5PqW) | 4:22 | 2022-06-20 | 2022-07-25 |
 | [Tattoo](https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Tattoo](https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08) | 3:09 | 2022-05-11 | 2024-03-09 |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-18 | 2023-05-03 |
+| [Tell me](https://open.spotify.com/track/2E4Z5imTjZDMAIrXsfXSZS) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [Tell me](https://open.spotify.com/album/0teL9CDkCXRgvLgUFGQ55B) | 3:38 | 2025-09-18 |  |
 | [Tell Me](https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Tell Me](https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms) | 2:53 | 2025-07-08 | 2025-07-16 |
 | [Tell Me How to Date You \(feat\. Park Han Kyul\)](https://open.spotify.com/track/3xzCvsu9Dtg2KJj25Zq7Te) | [Gilbert](https://open.spotify.com/artist/7HYpsAbttGfuUTmkQXJtsC), [Park Han Kyul](https://open.spotify.com/artist/3lat2ErjBtpkMFnc6veeLa) | [Tell Me How to Date You](https://open.spotify.com/album/5gDB0H17phGRZB4ldgBQxE) | 3:26 | 2022-07-08 | 2022-07-29 |
 | [That 5 Minutes](https://open.spotify.com/track/0QK3S1SpmCTBaMWMm5q91H) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [That 5 Minutes](https://open.spotify.com/album/09u1pmADUh4G115baFV7Dx) | 3:24 | 2024-03-08 | 2024-04-19 |

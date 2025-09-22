@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7GbHglX84yopo1gvURMV0X">Lindy Cofer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 6 hr 22 min
+57 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Christ And Christ Crucified \- Live](https://open.spotify.com/track/32adupKO13M1j6hWpysy0U) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [I Saw The Lord \(Live\)](https://open.spotify.com/album/7Hm28jY9rPa1xCX8vpvAYw) | 6:34 | 2024-06-13 |  |
 | [Christ Has Overcome \- Live](https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [Christ Has Overcome \(Live\)](https://open.spotify.com/album/6yNrGP3SoOq7HSfAqIEXSb) | 9:49 | 2024-09-07 |  |
 | [Driven by Love \(Live\)](https://open.spotify.com/track/0AxEYz0ycLJfFi5JsayApi) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Driven by Love \(Deluxe\) \[Live\]](https://open.spotify.com/album/1Zqg6J0ckWkzHXzRsx5Lip) | 5:05 | 2025-01-09 | 2025-04-12 |
+| [Empty Words](https://open.spotify.com/track/4UC5KqAFxGKLZWLI6YiCWm) | [Worship Center Music](https://open.spotify.com/artist/46df2ZIGYEvAR9fMn8lXWT) | [First Love \(Returning\. Communion\. Joy.\)](https://open.spotify.com/album/2vysXZJjiZZa4RXt12OhvU) | 6:08 | 2025-09-21 |  |
 | [Everything That Has Breath \(Praise\) \- Live](https://open.spotify.com/track/4VaFwW2mZqKymb7svsYFI4) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Why Not Right Now? \(Live\)](https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0) | 4:28 | 2024-06-13 |  |
 | [Freight Train \(Live\)](https://open.spotify.com/track/5KQfouLNX52RkYPV08fZvx) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Every Nation](https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv) | 4:45 | 2024-06-13 | 2024-07-14 |
 | [Freight Train \(Live\)](https://open.spotify.com/track/4SJVN7SQGFeVPyC9EcaTek) | [Lindy Conant\-Cofer](https://open.spotify.com/artist/1JfPWFDQ3K09D6LrGdIqbq), [The Circuit Riders](https://open.spotify.com/artist/0xplBp0QIAn9GdSbHUmxFN) | [Every Nation](https://open.spotify.com/album/1HodNwaYNXdf3Vg1SGTmwK) | 4:45 | 2024-07-18 | 2024-07-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Esoterica
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,033 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,036 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 79 | [Left Behind](https://open.spotify.com/track/25ewFHNJ0iwd9i20sKatiQ) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Aema](https://open.spotify.com/artist/7JSrXBvO9q497l16REoSS2), [Victor Collins](https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH) | [Spell](https://open.spotify.com/album/3qRmPWSuZQtt6ntNr3i7Zd) | 2:29 |
 | 80 | [Sexy Roma](https://open.spotify.com/track/3yTgd6eflmtQUr7QYXTS3g) | [Prayly](https://open.spotify.com/artist/1bIlyg8r7BMZZgUVKn9LyH) | [Sexy Roma](https://open.spotify.com/album/1IegkTCiqiahBKNx6q1swn) | 2:49 |
 
-Snapshot ID: `AAAAAF9Y5Zdko2zGcHbRvrEhnIEgvA9L`
+Snapshot ID: `AAAAAIQnB0lTI66uVHxQ1wBfDs0jbC6Z`

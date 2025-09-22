@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus 菲道爾
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,997 likes - 78 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,994 likes - 78 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

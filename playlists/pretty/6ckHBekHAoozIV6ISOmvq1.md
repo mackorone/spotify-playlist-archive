@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ckHBekHAoozIV6ISOmvq1.md) - [plain]
 
 > See also <a href="spotify:playlist:2z6FM4scrQ5lpsKId0jeki">Intro</a>, <a href="spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe">Pulse</a>, <a href="spotify:playlist:2xfCdpmPmRtGgNyuk1zawd">Edge</a>, <a href="spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs">♀Filter</a> or <a href="spotify:playlist:18NVIhicUeOGx6Ag3x491U">2023</a>; or the Sounds of <a href="spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA">Renaissance</a>, <a href="spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT">Troubadour</a>, <a href="spotify:playlist:6zc2HFPnDWeqqsBHhYEQER">Trecento</a>, <a href="spotify:playlist:0K86fmE0c0SFgz9GpwhwLm">Early Music</a>, <a href="spotify:playlist:0nqJegaRD3nkCjyIwg7mry">Trouvère</a>, <a href="spotify:playlist:0AVJ1UKXMQf244cvu4np0k">Minnesang</a>, <a href="spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte">Early Music Ensemble</a>, <a href="spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M">Ars subtilior</a>, <a href="spotify:playlist:511MabrP35Zp3tqYh2G4iJ">Medieval Ensemble</a> or <a href="spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF">Madrigal</a>; or much more at <a href="http://everynoise.com">everynoise.com</a>.
 
-[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 605 likes - 197 songs - 17 hr 28 min
+[The Sounds of Spotify](https://open.spotify.com/user/thesoundsofspotify) - 606 likes - 197 songs - 17 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

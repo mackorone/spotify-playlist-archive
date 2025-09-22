@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sakiler ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,483 likes - 137 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,467 likes - 137 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

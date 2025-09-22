@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: line rychart, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,006 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,007 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 39 | [givenchy](https://open.spotify.com/track/6OF8uQoDLYe7JRqAF4dDrh) | [LISABETH](https://open.spotify.com/artist/2LB3CqyRr5ttDlWqGl5CEv) | [givenchy](https://open.spotify.com/album/0nfPBBqzG0VbetledJ9bKy) | 2:59 |
 | 40 | [Beethovenstadt](https://open.spotify.com/track/7LWcdFHMS3H9AfQQULOmpI) | [Oheri](https://open.spotify.com/artist/2dAA7GaXXHegKRqMfwZHB1) | [Beethovenstadt](https://open.spotify.com/album/18VRBHwM3uJwi3y5069NeC) | 3:12 |
 | 41 | [Sunny All The Time](https://open.spotify.com/track/6kYWpEFk0CQLVZHfSmEAOk) | [Superweak](https://open.spotify.com/artist/7gxARotrFBsOr69X3atVDL) | [Sunny All The Time](https://open.spotify.com/album/4kJybCbiEzXWCfCg7cYCj3) | 1:56 |
-| 42 | [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/2OTccfUPi1r1TFAct5ifW5) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 |
+| 42 | [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/47yqAhT6hF75fb5j9iTcNf) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 |
 | 43 | [Steht still](https://open.spotify.com/track/5gRQoEsXb2T7SDKhK5ZH8k) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Steht still](https://open.spotify.com/album/0DqM5FNVJXNdfFVokSN7iv) | 2:04 |
 | 44 | [wegfahren?](https://open.spotify.com/track/1ojHQEs8o48dutAuQ5ct1Z) | [SCHWERT](https://open.spotify.com/artist/6JZqHfaAdBke6x6vIeZlyC), [ARISTOMANE](https://open.spotify.com/artist/6kNLTIIrnEyDAIG6tABgso) | [wegfahren?](https://open.spotify.com/album/5umwwaDPEbQ44M64CgNlPj) | 2:33 |
 | 45 | [kaffee am bett](https://open.spotify.com/track/5WdSWli3WhQolHlE3ykIam) | [Nie ohne Timba](https://open.spotify.com/artist/1lL3XKkvD4ZMHFTOXoXVzt), [Moonis](https://open.spotify.com/artist/2cIm0WVXYXsmTJ7JV7e1oX) | [kaffee am bett](https://open.spotify.com/album/3TQtyKQAx3yO4MsEDMaaQi) | 2:19 |

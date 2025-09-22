@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: トンボコープ
 
-1,363 songs - 3 day 10 hr 19 min
+1,364 songs - 3 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -965,6 +965,7 @@
 | [リバーサイドナイト](https://open.spotify.com/track/3VroNpAxaOA7KOZmDiS1rW) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:01 | 2024-03-07 | 2024-09-18 |
 | [リプライ](https://open.spotify.com/track/4KbmOp2YdArim0V89bsUJY) | [Catfood Salmons](https://open.spotify.com/artist/6M2RO8H6cJ0b5ZFFXVMoBN) | [リプライ](https://open.spotify.com/album/5CGIMmdPEBoymMSvkuiOXj) | 3:26 | 2024-01-31 | 2024-02-07 |
 | [リーガル・ガール](https://open.spotify.com/track/62fegJpY72DfN6VJ6RWEfY) | [aug.1020](https://open.spotify.com/artist/56Sj5dh45KttT8EFLDEaAo) | [リーガル・ガール](https://open.spotify.com/album/1D3RKoWPj0hIux5Ipj2ghe) | 3:02 | 2025-01-21 | 2025-02-05 |
+| [ルックアットミー](https://open.spotify.com/track/2T41XBXEgCEPJGsiVSUqtP) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [ルックアットミー](https://open.spotify.com/album/1tzE86plPYE5MSi87kLWLD) | 2:24 | 2025-09-16 |  |
 | [ルビを振れ](https://open.spotify.com/track/261ruVr8QvDtNgEdua6GrQ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ルビを振れ](https://open.spotify.com/album/3oCcpl90Mh5q9IW8o7CfjS) | 3:54 | 2024-11-12 | 2025-02-02 |
 | [ルーツ](https://open.spotify.com/track/3U4sMDIlhDRyHtnJmaNUNR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [ルーツ](https://open.spotify.com/album/2oHZkXP1kzX5USWN7rT6dc) | 3:15 | 2025-01-14 |  |
 | [ルー・ティーン](https://open.spotify.com/track/35hr06cOrc9r7d7rFCeP7c) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [ルー・ティーン](https://open.spotify.com/album/1yjPzag78uBOQAnGXf7yWd) | 3:55 | 2023-11-07 | 2023-11-16 |
@@ -1105,7 +1106,7 @@
 | [平成からの逆襲](https://open.spotify.com/track/0XoYYVsZH632bKER32bvoa) | [Hwyl](https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC) | [平成からの逆襲 / nai](https://open.spotify.com/album/13qisazBoJZR5gPdfIvnWK) | 2:38 | 2025-03-04 | 2025-03-12 |
 | [幻と一緒](https://open.spotify.com/track/0WEQBWySwG92KovrXTQRq7) | [望月起市](https://open.spotify.com/artist/30X4hEsMvjJc0b5BJizNkV) | [幻と一緒](https://open.spotify.com/album/1jKmzHzOAcVVSGhiGCGhYL) | 3:36 | 2025-05-21 | 2025-06-04 |
 | [幻陽](https://open.spotify.com/track/7DSNoKeR28MdcU1kSGwjz1) | [Aruyue](https://open.spotify.com/artist/4oHHGbHMXuJ97fRPzuESJW) | [幻陽](https://open.spotify.com/album/4iTDgRLajqImZ6lnImUaD3) | 3:57 | 2023-08-08 | 2023-08-10 |
-| [幽霊まぼろし](https://open.spotify.com/track/1r1HD6uCMxqEoQ2iO2dyDY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [幽霊まぼろし](https://open.spotify.com/album/5cvt0g4QiNPR3ti7qI1Kd6) | 2:10 | 2025-07-08 |  |
+| [幽霊まぼろし](https://open.spotify.com/track/1r1HD6uCMxqEoQ2iO2dyDY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [幽霊まぼろし](https://open.spotify.com/album/5cvt0g4QiNPR3ti7qI1Kd6) | 2:10 | 2025-07-08 | 2025-09-22 |
 | [彗星](https://open.spotify.com/track/6DMRyyJQev1wsAPPWN1IpY) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [彗星](https://open.spotify.com/album/4D2ad9KMisLaxdsU4b5sF6) | 3:25 | 2024-07-02 | 2024-09-04 |
 | [影絵の街](https://open.spotify.com/track/60yWiKpwmyVo2aJILrdEG6) | [taiti](https://open.spotify.com/artist/7mAFrzaqkSY0TDqUNoSm9n) | [影絵の街](https://open.spotify.com/album/22oAw8X7VytntcBVVLKHwT) | 2:10 | 2025-01-21 | 2025-02-05 |
 | [往日](https://open.spotify.com/track/2r73737Z4jWYKizwA2px9u) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [君にみた季節](https://open.spotify.com/album/7h4kEEvu4nS8U4Ooahptko) | 3:42 | 2024-02-13 | 2024-02-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: ONE CLICK STRAIGHT
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,157 likes - 186 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,202 likes - 186 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

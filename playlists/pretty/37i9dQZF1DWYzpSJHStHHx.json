@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487519,
+  "num_followers": 487508,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Naga Damai",
+        "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
+      },
+      "artists": [
+        {
+          "name": "Cocobolo",
+          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Naga Damai",
+      "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "LONG LIVE THE WILDERNESS",
         "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
       },
@@ -603,34 +619,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Naga Damai",
-        "url": "https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo"
+        "name": "Bangkok",
+        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
       },
       "artists": [
         {
-          "name": "Cocobolo",
-          "url": "https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu"
+          "name": "Alaaska",
+          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
         }
       ],
-      "duration_ms": 217413,
-      "name": "Naga Damai",
-      "url": "https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Out Of Here",
-        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 151838,
-      "name": "Out Of Here",
-      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
+      "duration_ms": 212173,
+      "name": "Bangkok",
+      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -649,20 +649,20 @@
       "url": "https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-02-07 17:00:04",
       "album": {
-        "name": "Bangkok",
-        "url": "https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv"
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
       },
       "artists": [
         {
-          "name": "Alaaska",
-          "url": "https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK"
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
         }
       ],
-      "duration_ms": 212173,
-      "name": "Bangkok",
-      "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+      "duration_ms": 151838,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Recycle",
         "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 211829,
       "name": "Valley Girl",
       "url": "https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT"
     },
     {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Welcome Back (To The//Glow)",
-        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 285824,
-      "name": "Welcome Back (To The//Glow)",
-      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Cigarettes In Space",
@@ -927,6 +911,22 @@
       "duration_ms": 210640,
       "name": "Bali Nights",
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Welcome Back (To The//Glow)",
+        "url": "https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 285824,
+      "name": "Welcome Back (To The//Glow)",
+      "url": "https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7"
-      },
-      "artists": [
-        {
-          "name": "SweetLipp",
-          "url": "https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV"
-        }
-      ],
-      "duration_ms": 160375,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Can You See The Sunshine? (EP)",
         "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 205376,
       "name": "Couch Sex",
       "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7"
+      },
+      "artists": [
+        {
+          "name": "SweetLipp",
+          "url": "https://open.spotify.com/artist/7tBfbnypPbK5fYNPBV0vCV"
+        }
+      ],
+      "duration_ms": 160375,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/4NX5VjHmaaFTMMSXh4LcTd"
     },
     {
       "added_at": "2025-03-27 13:00:14",

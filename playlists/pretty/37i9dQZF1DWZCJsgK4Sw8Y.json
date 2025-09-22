@@ -1,6 +1,6 @@
 {
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
-  "num_followers": 198890,
+  "num_followers": 198893,
   "original_name": "Cornerstones",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2025-09-14 08:46:36",
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU"
+      },
+      "artists": [
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Super Good Feeling - Static Album Version",
+      "url": "https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI"
+    },
+    {
+      "added_at": "2025-09-14 08:46:36",
+      "album": {
         "name": "Turn The Tides",
         "url": "https://open.spotify.com/album/1gTvrOuCP6SjwS8aCFiFBo"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 161693,
       "name": "Jonah - Flying Album Version",
       "url": "https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV"
-    },
-    {
-      "added_at": "2025-09-14 08:46:36",
-      "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU"
-      },
-      "artists": [
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Super Good Feeling - Static Album Version",
-      "url": "https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI"
     },
     {
       "added_at": "2025-09-14 08:46:36",

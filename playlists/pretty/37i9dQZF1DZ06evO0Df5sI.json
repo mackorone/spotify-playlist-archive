@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 23008,
+  "num_followers": 23017,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAABBxliyiTCSQZpr04fjXQnm",
+  "snapshot_id": "aM3ugAAAAAAucuAxEddkVtkHElEKniah",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bleeding Out",
+        "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 181016,
+      "name": "Bleeding Out",
+      "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maybe I'll Catch Fire",
         "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/0YJvSDPuh3MmmpHkvMFJc5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crimson",
-        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 251986,
-      "name": "Time to Waste",
-      "url": "https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/3VKf6mjVtOgynbmAxH0H6F"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 251986,
+      "name": "Time to Waste",
+      "url": "https://open.spotify.com/track/6q0058HsQQ7Ch3SrvcatAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Mourning",
         "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 227026,
       "name": "This Could Be Love",
       "url": "https://open.spotify.com/track/0jFqJQtQs9BjogBXNzK5Ag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleeding Out",
-        "url": "https://open.spotify.com/album/4yKCLT3LpFkIurLQzGyVsO"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "Bleeding Out",
-      "url": "https://open.spotify.com/track/77XAAsMujIEoEVpRhsYIEK"
     },
     {
       "added_at": null,

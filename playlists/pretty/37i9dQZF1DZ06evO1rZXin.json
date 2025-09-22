@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6765,
+  "num_followers": 6773,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAADe1DPgAlUorje+03VzOPcg",
+  "snapshot_id": "aM3ugAAAAACA7fiKlQkBDzXxYYuMoa6x",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 170986,
-      "name": "Pa'Yo",
-      "url": "https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt"
+      "duration_ms": 204026,
+      "name": "Hueso No Ma",
+      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
     },
     {
       "added_at": null,
@@ -352,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 145973,
-      "name": "La Primera Caricia",
-      "url": "https://open.spotify.com/track/5UVrUzx3P58h5bOqEluApd"
+      "duration_ms": 181933,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/1TtEn9YkPng9lKJKE6cDS9"
     },
     {
       "added_at": null,
@@ -375,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Hueso No Ma",
-      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
@@ -404,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 191000,
-      "name": "El Tirador",
-      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
+      "duration_ms": 170986,
+      "name": "Pa'Yo",
+      "url": "https://open.spotify.com/track/3qgQfKKwAWbW6SMg82jsZt"
     },
     {
       "added_at": null,
@@ -472,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217000,
-      "name": "Rock y Banda",
-      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
+      "duration_ms": 191000,
+      "name": "El Tirador",
+      "url": "https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA"
     },
     {
       "added_at": null,
@@ -528,7 +508,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
         {
@@ -540,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 223040,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3"
+      "duration_ms": 217000,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/5K0720vRnLAH1ViBjog5mV"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 144440,
       "name": "Insensible",
       "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3"
     },
     {
       "added_at": null,

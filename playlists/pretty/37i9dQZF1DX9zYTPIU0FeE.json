@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 11893,
+  "num_followers": 11899,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,26 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+      },
+      "artists": [
+        {
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        },
+        {
+          "name": "MoAfrika Wa Mokgathi",
+          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
+        }
+      ],
+      "duration_ms": 258920,
+      "name": "Elusive Freedom",
+      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
-      },
-      "artists": [
-        {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        },
-        {
-          "name": "MoAfrika Wa Mokgathi",
-          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
-        }
-      ],
-      "duration_ms": 258920,
-      "name": "Elusive Freedom",
-      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
     },
     {
       "added_at": "2025-08-29 10:19:41",

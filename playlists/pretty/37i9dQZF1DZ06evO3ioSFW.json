@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 509106,
+  "num_followers": 509140,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAABCEzpd9udFIbJ9U3TMRGpq",
+  "snapshot_id": "aM3ugAAAAAAX0HThL7rHYW5UOCNIaRE/",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Habla el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/43UFrMP3JHPl7W4MqfWWcA"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 324493,
       "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
       "url": "https://open.spotify.com/track/5X5e8H5D9SikfhcXCHxqvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/2QUSJ27TXCd0Kiy7NmfwoH"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Es Color De Rosa",
-        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 239626,
-      "name": "No Me Preguntes M\u00e1s",
-      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 234306,
       "name": "Como Yo Te Amo",
       "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 239626,
+      "name": "No Me Preguntes M\u00e1s",
+      "url": "https://open.spotify.com/track/7AV5Uh7QsSZuWa9MP4oy9k"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 236866,
-      "name": "Cuento - Sesi\u00f3n de Estudio",
-      "url": "https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 236906,
       "name": "D\u00e9jame Volver Contigo",
       "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Cuento - Sesi\u00f3n de Estudio",
+      "url": "https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn"
     },
     {
       "added_at": null,

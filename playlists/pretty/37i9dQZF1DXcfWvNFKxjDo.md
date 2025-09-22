@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Old Jim, Pascal Letoublon
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,585 likes - 98 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,618 likes - 98 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 43 | [Yours Tonight](https://open.spotify.com/track/5CclUNu2uD0uderBrDhsH4) | [Easy Peasy](https://open.spotify.com/artist/3JhJ1wnu45fhtoUcMPgLvz), [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [Yours Tonight](https://open.spotify.com/album/5bLGh0LTr6Z5pc6E8RpDcx) | 2:38 |
 | 44 | [Si Tu T'en Vas](https://open.spotify.com/track/5KxeKpgOm2BmtyhFBu5S1U) | [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Si Tu T'en Vas](https://open.spotify.com/album/73z7IfeJe0LoIBucXUjI7s) | 2:04 |
 | 45 | [Ey DJ](https://open.spotify.com/track/1lNXhkaDf05rMcSpKDoy3R) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk), [Kayne & Kinkel](https://open.spotify.com/artist/58PCOxmGpo9AlI9EVYq4XD), [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Ey DJ](https://open.spotify.com/album/4Yp3qILl6DdBNb8qWdqisL) | 2:19 |
-| 46 | [Roses \(feat\. Julia Church\)](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses \(feat\. Julia Church\)](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
+| 46 | [Roses](https://open.spotify.com/track/6EEXnHK3SYLTj74ynXAHtj) | [Nosi](https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Roses](https://open.spotify.com/album/2qIx0ueLDqtvYJtZdOLffk) | 3:38 |
 | 47 | [Game Started](https://open.spotify.com/track/5bdPIvk8EyOs8gL6gDPMMd) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Game Started](https://open.spotify.com/album/3NSwT8JqAuVmLlieceSSBI) | 2:28 |
 | 48 | [Ring of Fire](https://open.spotify.com/track/3UoyCBnr5YJ4qKzHkrM2fj) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Ring of Fire](https://open.spotify.com/album/6ck1XXwbuY5YbL9dAb4S86) | 2:16 |
 | 49 | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/track/1y9Yo4EGuAVlmUr3fgklpm) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [nilsix](https://open.spotify.com/artist/00S0dnexJEwjUFTEMTUC9I), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Radiate \(feat\. Hayley May\)](https://open.spotify.com/album/0qhB3pwU5CkZJ9LT7wBHRg) | 4:03 |

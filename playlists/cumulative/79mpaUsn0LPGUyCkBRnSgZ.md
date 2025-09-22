@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-913 songs - 2 day 12 hr 30 min
+914 songs - 2 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -832,6 +832,7 @@
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |
 | [TNT](https://open.spotify.com/track/7noqdg2Oc77zl0lZsOsioI) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 7:33 | 2024-01-31 |  |
 | [To All The Girls](https://open.spotify.com/track/7JSHs5GH7pq5moVo8wu1I6) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Paul's Boutique \(20th Anniversary Edition / Remastered\)](https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05) | 1:29 | 2024-01-03 |  |
+| [Tomb](https://open.spotify.com/track/6EcKanoJrfQ9lWODXQEFrV) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 4:18 | 2025-09-21 |  |
 | [TOP SECRET MAN](https://open.spotify.com/track/0xlMZyzjV8B6d0xchDCnmw) | [Plastics](https://open.spotify.com/artist/12I1yoGmoHUfrm0OIrYQhz) | [WELCOME PLASTICS](https://open.spotify.com/album/52zbFml9o5ADP62lvoaq3Z) | 2:26 | 2024-06-17 |  |
 | [Total euphoria](https://open.spotify.com/track/5GHYjIrLwK4e7WTTZZcJt5) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:30 | 2025-08-12 |  |
 | [Trace](https://open.spotify.com/track/3wn2M3B4nge5qnqeqKdeFC) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [In The Air](https://open.spotify.com/album/7LZYx5g4krGcHV8ri0jRjz) | 4:33 | 2024-09-17 |  |

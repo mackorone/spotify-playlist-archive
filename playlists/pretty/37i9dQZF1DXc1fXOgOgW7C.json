@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 50527,
+  "num_followers": 50533,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
@@ -391,8 +391,8 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Sue\u00f1o Dorado",
-        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
+        "name": "Abel",
+        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 212373,
-      "name": "No Me Olvides",
-      "url": "https://open.spotify.com/track/2Pq3bGuvCa1beNMrBxgcKT"
+      "duration_ms": 181933,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -475,8 +475,8 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Abel",
-        "url": "https://open.spotify.com/album/3xZOsYi4w4NWEM99Ln2YCW"
+        "name": "Sue\u00f1o Dorado",
+        "url": "https://open.spotify.com/album/5iAfktdcKxeETNbaxEWckh"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/2n8VYWU3mMrziR2ua8leHu"
+      "duration_ms": 212373,
+      "name": "No Me Olvides",
+      "url": "https://open.spotify.com/track/2Pq3bGuvCa1beNMrBxgcKT"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
+        "name": "El Club De Los Martes",
+        "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Se te nota",
+      "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
         "name": "Bandera",
         "url": "https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "El Club De Los Martes",
-        "url": "https://open.spotify.com/album/0BDe1xU84IYJoM6kZi3z9G"
+        "name": "Agua Ardiente",
+        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Se te nota",
-      "url": "https://open.spotify.com/track/4qlb4cHm1GmndU5p3Z5s4T"
+      "duration_ms": 237686,
+      "name": "Jugo",
+      "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -883,22 +899,6 @@
       "duration_ms": 207396,
       "name": "Puedo Sentirlo (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
-        "name": "Agua Ardiente",
-        "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
-      },
-      "artists": [
-        {
-          "name": "Los Espiritus",
-          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
-        }
-      ],
-      "duration_ms": 237686,
-      "name": "Jugo",
-      "url": "https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7"
     },
     {
       "added_at": "2024-06-12 22:23:25",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-06-12 22:23:25",
       "album": {
-        "name": "Pu\u00f1al",
-        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Soltar",
-      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
-    },
-    {
-      "added_at": "2024-06-12 22:23:25",
-      "album": {
         "name": "Agua Ardiente",
         "url": "https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 273971,
       "name": "Perdida En El Fuego",
       "url": "https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU"
+    },
+    {
+      "added_at": "2024-06-12 22:23:25",
+      "album": {
+        "name": "Pu\u00f1al",
+        "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
     },
     {
       "added_at": "2024-06-12 22:23:25",

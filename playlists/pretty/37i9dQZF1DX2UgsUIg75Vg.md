@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Ebubé
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,373,136 likes - 215 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,373,057 likes - 215 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

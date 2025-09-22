@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 白安 \(Ann Bai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,637 likes - 128 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,632 likes - 128 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 392933,
+  "num_followers": 392963,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
-      },
-      "artists": [
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 180973,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "25",
         "url": "https://open.spotify.com/album/57CeXretqkDlILesiRMvv6"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 215261,
       "name": "25",
       "url": "https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs"
+      },
+      "artists": [
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 180973,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
+        "name": "A Way With My Heart",
+        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
+      },
+      "artists": [
+        {
+          "name": "Savine",
+          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
+        },
+        {
+          "name": "Sven Hammond",
+          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "A Way With My Heart",
+      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK"
       },
@@ -583,42 +603,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "A Way With My Heart",
-        "url": "https://open.spotify.com/album/1OULQzVeiUbDCQu4blG3Qk"
-      },
-      "artists": [
-        {
-          "name": "Savine",
-          "url": "https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc"
-        },
-        {
-          "name": "Sven Hammond",
-          "url": "https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "A Way With My Heart",
-      "url": "https://open.spotify.com/track/3qwb56omTzpzWixWNjQW9K"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
-      },
-      "artists": [
-        {
-          "name": "Opera Alaska",
-          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
-        }
-      ],
-      "duration_ms": 172852,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Thorns",
         "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "Opera Alaska",
+          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
         }
       ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
+      "duration_ms": 172852,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -695,6 +679,22 @@
       "duration_ms": 177306,
       "name": "Falling Easy",
       "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Lean On Me",
         "url": "https://open.spotify.com/album/7nSiaooaqwCoFAwuel41I5"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 212226,
       "name": "Lean On Me",
       "url": "https://open.spotify.com/track/6fFy9yYO8WJUY5lQfVaQKr"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -883,38 +883,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "One Day",
-        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
-      },
-      "artists": [
-        {
-          "name": "Axelle",
-          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
-        }
-      ],
-      "duration_ms": 179148,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "To Love Somebody",
-        "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
-      },
-      "artists": [
-        {
-          "name": "Tim Dawn",
-          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "In The Middle",
         "url": "https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW"
       },
@@ -935,6 +903,38 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
+        "name": "To Love Somebody",
+        "url": "https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL"
+      },
+      "artists": [
+        {
+          "name": "Axelle",
+          "url": "https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ"
+        }
+      ],
+      "duration_ms": 179148,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
         "name": "I Believe In Life",
         "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 216519,
       "name": "I Believe In Life",
       "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "Loud Boy (Acoustic Session)",
-        "url": "https://open.spotify.com/album/7ix7u8Nel7PdgPQpXLCaSA"
-      },
-      "artists": [
-        {
-          "name": "Archie X",
-          "url": "https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU"
-        }
-      ],
-      "duration_ms": 195217,
-      "name": "Loud Boy - Acoustic Session",
-      "url": "https://open.spotify.com/track/0wKgwevSPynsNCJcLqN1bq"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -987,18 +971,34 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Never Fall In Love Again",
-        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
+        "name": "Loud Boy (Acoustic Session)",
+        "url": "https://open.spotify.com/album/7ix7u8Nel7PdgPQpXLCaSA"
       },
       "artists": [
         {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+          "name": "Archie X",
+          "url": "https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU"
         }
       ],
-      "duration_ms": 168991,
-      "name": "Never Fall In Love Again",
-      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+      "duration_ms": 195217,
+      "name": "Loud Boy - Acoustic Session",
+      "url": "https://open.spotify.com/track/0wKgwevSPynsNCJcLqN1bq"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "somebody's daughter",
+        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 193996,
+      "name": "talk shit",
+      "url": "https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "somebody's daughter",
-        "url": "https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK"
+        "name": "Never Fall In Love Again",
+        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
       },
       "artists": [
         {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
         }
       ],
-      "duration_ms": 193996,
-      "name": "talk shit",
-      "url": "https://open.spotify.com/track/6IEtI05pJzht8zp6u5P9kv"
+      "duration_ms": 168991,
+      "name": "Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "We Could Start a Thing",
-        "url": "https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg"
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
       },
       "artists": [
         {
-          "name": "Twan Ray",
-          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 144390,
-      "name": "We Could Start a Thing",
-      "url": "https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh"
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1179,22 +1179,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+        "name": "We Could Start a Thing",
+        "url": "https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg"
       },
       "artists": [
         {
-          "name": "The Road",
-          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
-        },
-        {
-          "name": "BROWN & GRAY",
-          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
         }
       ],
-      "duration_ms": 169585,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
+      "duration_ms": 144390,
+      "name": "We Could Start a Thing",
+      "url": "https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1227,6 +1223,26 @@
       "duration_ms": 203346,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1bBXBskc6n3uJywJUdcWEC"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/7dDoxxE2cbTMHdgd9ddiAj"
+      },
+      "artists": [
+        {
+          "name": "The Road",
+          "url": "https://open.spotify.com/artist/27unjjQ1Ul3vWmGF034xWA"
+        },
+        {
+          "name": "BROWN & GRAY",
+          "url": "https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN"
+        }
+      ],
+      "duration_ms": 169585,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/55iAa62IUSZPvDomtdTXtf"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp"
       },
@@ -1323,22 +1323,6 @@
       "duration_ms": 224941,
       "name": "One By One",
       "url": "https://open.spotify.com/track/1J0LAfDI6V7BXtj866wopY"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "I Look For You",
-        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
-      },
-      "artists": [
-        {
-          "name": "BYNK",
-          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
-        }
-      ],
-      "duration_ms": 211704,
-      "name": "I Look For You",
-      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1359,6 +1343,22 @@
       "duration_ms": 260173,
       "name": "Anything To Feel Alive",
       "url": "https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "I Look For You",
+        "url": "https://open.spotify.com/album/4DzVKjoqUO5l0e4BDj51wr"
+      },
+      "artists": [
+        {
+          "name": "BYNK",
+          "url": "https://open.spotify.com/artist/1JHiSrdnSqRoXMDxlrDM57"
+        }
+      ],
+      "duration_ms": 211704,
+      "name": "I Look For You",
+      "url": "https://open.spotify.com/track/4RLvewAmYtg8FetS2t3sjA"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Suddenly Forever",
-        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
-      },
-      "artists": [
-        {
-          "name": "Selwyn",
-          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Suddenly Forever",
-      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Magnetic Fields",
         "url": "https://open.spotify.com/album/5sEAAWAprzf2j6PW8SgXed"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Happy in Hindsight",
-        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
+        "name": "Suddenly Forever",
+        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
       },
       "artists": [
         {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+          "name": "Selwyn",
+          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
         }
       ],
-      "duration_ms": 254100,
-      "name": "Waiting in the Wings",
-      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
+      "duration_ms": 200000,
+      "name": "Suddenly Forever",
+      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+        "name": "Happy in Hindsight",
+        "url": "https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs"
       },
       "artists": [
         {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
         }
       ],
-      "duration_ms": 164493,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+      "duration_ms": 254100,
+      "name": "Waiting in the Wings",
+      "url": "https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1559,6 +1543,22 @@
       "duration_ms": 244160,
       "name": "The Room",
       "url": "https://open.spotify.com/track/07U0FinW8EoiM4IU8SfdNS"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 164493,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Be My Own",
-        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
-      },
-      "artists": [
-        {
-          "name": "NYVE",
-          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
-        }
-      ],
-      "duration_ms": 219746,
-      "name": "Be My Own",
-      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Amen (Acoustic)",
         "url": "https://open.spotify.com/album/6djsYBWmFpvHuOgcH4CTKO"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 210000,
       "name": "Amen - Acoustic",
       "url": "https://open.spotify.com/track/2dPlHxjsK1Ol7sUiOj8qnv"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "Be My Own",
+        "url": "https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70"
+      },
+      "artists": [
+        {
+          "name": "NYVE",
+          "url": "https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Be My Own",
+      "url": "https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw"
     },
     {
       "added_at": "2025-09-20 13:39:43",

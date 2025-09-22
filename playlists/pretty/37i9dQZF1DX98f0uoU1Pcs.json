@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: bar italia",
-  "num_followers": 293442,
+  "num_followers": 293455,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "2000: In Search Of The Endless Sky",
-        "url": "https://open.spotify.com/album/7lfmJvIDQVQaNADF48E58d"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB"
       },
       "artists": [
         {
-          "name": "Fleshwater",
-          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
+          "name": "Teenage Disaster",
+          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
         }
       ],
-      "duration_ms": 242306,
-      "name": "Green Street",
-      "url": "https://open.spotify.com/track/1E9Oo5txYfwk17D3wmYW0I"
+      "duration_ms": 153277,
+      "name": "inside",
+      "url": "https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB"
+        "name": "2000: In Search Of The Endless Sky",
+        "url": "https://open.spotify.com/album/7lfmJvIDQVQaNADF48E58d"
       },
       "artists": [
         {
-          "name": "Teenage Disaster",
-          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
+          "name": "Fleshwater",
+          "url": "https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF"
         }
       ],
-      "duration_ms": 153277,
-      "name": "inside",
-      "url": "https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx"
+      "duration_ms": 242306,
+      "name": "Green Street",
+      "url": "https://open.spotify.com/track/1E9Oo5txYfwk17D3wmYW0I"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Box for Buddy, Box for Star",
-        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
-      },
-      "artists": [
-        {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        }
-      ],
-      "duration_ms": 273460,
-      "name": "I'm All Fucked Up",
-      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "Salsa Verde",
         "url": "https://open.spotify.com/album/04IkY9cPhX7xT8wNsD36cQ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 204704,
       "name": "Salsa Verde",
       "url": "https://open.spotify.com/track/3YfT1BLLWJ1Jjv8VB4ge6l"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Box for Buddy, Box for Star",
+        "url": "https://open.spotify.com/album/3wSIO65dy3pAoBjKBybOcV"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 273460,
+      "name": "I'm All Fucked Up",
+      "url": "https://open.spotify.com/track/2p1EDUqcrCjrIf3oTgGW85"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
+        "name": "Pop Punk Anthem (Sorry for the Delay)",
+        "url": "https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC"
+      },
+      "artists": [
+        {
+          "name": "Die Spitz",
+          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+        }
+      ],
+      "duration_ms": 230678,
+      "name": "Pop Punk Anthem (Sorry for the Delay)",
+      "url": "https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
         "name": "Cutthroat",
         "url": "https://open.spotify.com/album/3Wm7UlvuhjWq4kiUBOqZeE"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Pop Punk Anthem (Sorry for the Delay)",
-        "url": "https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC"
-      },
-      "artists": [
-        {
-          "name": "Die Spitz",
-          "url": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
-        }
-      ],
-      "duration_ms": 230678,
-      "name": "Pop Punk Anthem (Sorry for the Delay)",
-      "url": "https://open.spotify.com/track/2gaY4NhYEGJvxKbur1GKJE"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "weirdthrob",
         "url": "https://open.spotify.com/album/00nDteGUHi1oH7xLb9txsD"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 304191,
       "name": "Lifesaver",
       "url": "https://open.spotify.com/track/4CS1lpezkGnq1n29dxGYdv"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -603,18 +587,34 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh"
+        "name": "Big Swimmer",
+        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
       },
       "artists": [
         {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
         }
       ],
-      "duration_ms": 212653,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/218P4brorJq8BLcyzconqS"
+      "duration_ms": 202048,
+      "name": "New York, Let's Do Nothing",
+      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Erasure",
+        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 189159,
+      "name": "Erasure",
+      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -651,18 +651,50 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Erasure",
-        "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/6kFtMtRJgfk9lnLmnSvjKh"
       },
       "artists": [
         {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
         }
       ],
-      "duration_ms": 189159,
-      "name": "Erasure",
-      "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
+      "duration_ms": 212653,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/218P4brorJq8BLcyzconqS"
+    },
+    {
+      "added_at": "2025-09-12 16:25:35",
+      "album": {
+        "name": "Bite Reality",
+        "url": "https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 238223,
+      "name": "In My Pocket",
+      "url": "https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Girl with Fish",
+        "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN"
     },
     {
       "added_at": "2025-09-12 16:25:35",
@@ -683,22 +715,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Girl with Fish",
-        "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Steamroller",
-      "url": "https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -711,6 +727,22 @@
       "duration_ms": 176869,
       "name": "Eye On The Bat",
       "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -747,50 +779,18 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+        "name": "The Clip",
+        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
         }
       ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2025-09-12 16:25:35",
-      "album": {
-        "name": "Bite Reality",
-        "url": "https://open.spotify.com/album/6i7UnNlsaT8MbI5TKtX3rM"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 238223,
-      "name": "In My Pocket",
-      "url": "https://open.spotify.com/track/2ZO4EidiOqngPkhNlSY5Zl"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
-        "name": "4D Country",
-        "url": "https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 175108,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9"
+      "duration_ms": 165346,
+      "name": "Barn Boiler",
+      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -811,18 +811,18 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "The Clip",
-        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
+        "name": "4D Country",
+        "url": "https://open.spotify.com/album/4K2SDO8BFmI5oJsAHJieHp"
       },
       "artists": [
         {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
         }
       ],
-      "duration_ms": 165346,
-      "name": "Barn Boiler",
-      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
+      "duration_ms": 175108,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/71h0heg5nqZ8JwuXahMWD9"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -839,6 +839,22 @@
       "duration_ms": 181807,
       "name": "Crashing Highs",
       "url": "https://open.spotify.com/track/7aeDHsVnCToDJIV5fLalnZ"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Be A Big Girl",
+        "url": "https://open.spotify.com/album/3M48990TSLoCplWuNssAAs"
+      },
+      "artists": [
+        {
+          "name": "Pillow Queens",
+          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
+        }
+      ],
+      "duration_ms": 170944,
+      "name": "Be A Big Girl",
+      "url": "https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -875,22 +891,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Be A Big Girl",
-        "url": "https://open.spotify.com/album/3M48990TSLoCplWuNssAAs"
-      },
-      "artists": [
-        {
-          "name": "Pillow Queens",
-          "url": "https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d"
-        }
-      ],
-      "duration_ms": 170944,
-      "name": "Be A Big Girl",
-      "url": "https://open.spotify.com/track/3tdBEe2FBbWJpWzaSyfKto"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "Wash Away",
         "url": "https://open.spotify.com/album/6PWkXVHVMGVO7H82rLh1bt"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 203293,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/1mjPbbKOjH5C4as2EC084i"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
-        "name": "Cowards",
-        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 231677,
-      "name": "Building 650",
-      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -939,18 +923,18 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+        "name": "Cowards",
+        "url": "https://open.spotify.com/album/2PXkyoHGhPBTdumrGSh8Ta"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
         }
       ],
-      "duration_ms": 189418,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+      "duration_ms": 231677,
+      "name": "Building 650",
+      "url": "https://open.spotify.com/track/6JrtUQ97SQqVoMW5bWFd7I"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -967,6 +951,22 @@
       "duration_ms": 193246,
       "name": "Bedrock",
       "url": "https://open.spotify.com/track/5NQzU2NZYt8bJoieGVkZEZ"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -1003,38 +1003,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "O, My Love",
-        "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
-      },
-      "artists": [
-        {
-          "name": "Grrrl Gang",
-          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
-        }
-      ],
-      "duration_ms": 178006,
-      "name": "O, My Love",
-      "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
-        "name": "Break the Tension",
-        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 225186,
-      "name": "Break the Tension",
-      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "Name Your Sorrow",
         "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
       },
@@ -1051,6 +1019,38 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
+        "name": "O, My Love",
+        "url": "https://open.spotify.com/album/5h45GEmLWL10Jm2djRMHbD"
+      },
+      "artists": [
+        {
+          "name": "Grrrl Gang",
+          "url": "https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A"
+        }
+      ],
+      "duration_ms": 178006,
+      "name": "O, My Love",
+      "url": "https://open.spotify.com/track/24V9Sex1uEv1pB76hk7rgb"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "I Just Needed You To Know",
+        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "I Just Needed You To Know",
+      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Break the Tension",
+        "url": "https://open.spotify.com/album/4oMSL9GDnGiU7wkFjkChvo"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 225186,
+      "name": "Break the Tension",
+      "url": "https://open.spotify.com/track/0xDcb79YbOWM9izkdd26gi"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "I Just Needed You To Know",
-        "url": "https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "I Just Needed You To Know",
-      "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "Demon Compass (Deluxe)",
         "url": "https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 208935,
       "name": "The Best Tears of Your Life",
       "url": "https://open.spotify.com/track/0HELrIzuk3GhtxoGkYrZfa"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
-        "name": "Drawbacks",
-        "url": "https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp"
-      },
-      "artists": [
-        {
-          "name": "dust",
-          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
-        }
-      ],
-      "duration_ms": 248114,
-      "name": "Drawbacks",
-      "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
+        "name": "Drawbacks",
+        "url": "https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp"
+      },
+      "artists": [
+        {
+          "name": "dust",
+          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
+        }
+      ],
+      "duration_ms": 248114,
+      "name": "Drawbacks",
+      "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
         "name": "The Night the Zombies Came",
         "url": "https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 223866,
       "name": "The Vegas Suite",
       "url": "https://open.spotify.com/track/304fddzE78zrBtZv42biyB"
-    },
-    {
-      "added_at": "2025-09-12 16:25:35",
-      "album": {
-        "name": "Animal Hospital",
-        "url": "https://open.spotify.com/album/2PuvBLMJmFLZsgmH7OviQm"
-      },
-      "artists": [
-        {
-          "name": "Ganser",
-          "url": "https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Half Plastic",
-      "url": "https://open.spotify.com/track/2XZPLnlSOXe3MRlUeVidFg"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -1255,6 +1239,22 @@
       "duration_ms": 266986,
       "name": "We Don't Care About That",
       "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+    },
+    {
+      "added_at": "2025-09-12 16:25:35",
+      "album": {
+        "name": "Animal Hospital",
+        "url": "https://open.spotify.com/album/2PuvBLMJmFLZsgmH7OviQm"
+      },
+      "artists": [
+        {
+          "name": "Ganser",
+          "url": "https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Half Plastic",
+      "url": "https://open.spotify.com/track/2XZPLnlSOXe3MRlUeVidFg"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri"
+      },
+      "artists": [
+        {
+          "name": "Legss",
+          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Broadcast",
+      "url": "https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
         "name": "Up On Gravity Hill",
         "url": "https://open.spotify.com/album/7hvDQ45VsXZiWMOLtK6QtN"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 211853,
       "name": "Earthling",
       "url": "https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
-        "name": "Unreal",
-        "url": "https://open.spotify.com/album/5gcSwha8vaziKqzav5v7Ri"
-      },
-      "artists": [
-        {
-          "name": "Legss",
-          "url": "https://open.spotify.com/artist/6qSC5s99fwbkvyWzRqws4F"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Broadcast",
-      "url": "https://open.spotify.com/track/5TCvpIRJfUrL55BkgcF0Ex"
     },
     {
       "added_at": "2025-09-12 16:08:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-09-12 16:08:33",
       "album": {
-        "name": "Goon Show",
-        "url": "https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut"
-      },
-      "artists": [
-        {
-          "name": "Tropical Fuck Storm",
-          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
-        }
-      ],
-      "duration_ms": 306146,
-      "name": "Goon Show",
-      "url": "https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp"
-    },
-    {
-      "added_at": "2025-09-12 16:08:33",
-      "album": {
         "name": "Spring Grove",
         "url": "https://open.spotify.com/album/5t7CByjhX4jdwiCtN4llLI"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 138524,
       "name": "Salome",
       "url": "https://open.spotify.com/track/2ZhMiaTlkiqwKNz6iUO1KN"
+    },
+    {
+      "added_at": "2025-09-12 16:08:33",
+      "album": {
+        "name": "Goon Show",
+        "url": "https://open.spotify.com/album/4HZk7i5XbdWNM0pgiXm2Ut"
+      },
+      "artists": [
+        {
+          "name": "Tropical Fuck Storm",
+          "url": "https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL"
+        }
+      ],
+      "duration_ms": 306146,
+      "name": "Goon Show",
+      "url": "https://open.spotify.com/track/7Exj4IIvicWakJsjdUDoXp"
     },
     {
       "added_at": "2025-09-12 16:08:33",

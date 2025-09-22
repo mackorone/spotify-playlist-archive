@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EqpAEG8F4f.md) - [plain]
 
 > The biggest viral songs you couldn't get out of your head in 2024\. Cover: Tommy Richman
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,428 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,401 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

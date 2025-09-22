@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05e4\u05d0\u05e8 \u05d8\u05e1\u05d9 ",
-  "num_followers": 25547,
+  "num_followers": 25548,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
-        "url": "https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 167218,
-      "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
-      "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
         "url": "https://open.spotify.com/album/5XGGVgbzCrOmQR0aRUeOhM"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 195000,
       "name": "\u05d6\u05d6\u05d4 \u05e2\u05dd \u05d4\u05d2\u05d5\u05e3",
       "url": "https://open.spotify.com/track/12ddpfSEpTUe2iixjUvLl6"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
+        "url": "https://open.spotify.com/album/6YjrY3pKZAhn323wnFvfE5"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 167218,
+      "name": "\u05ea\u05df \u05dc\u05d9 \u05d0\u05ea \u05d4\u05d0\u05e9\u05e9\u05e9",
+      "url": "https://open.spotify.com/track/2v8ZRDPqR7s7KDt1QQ57hx"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 196548,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
         "url": "https://open.spotify.com/album/7cyRJlBeNv6sUo8i6V1tV2"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 163522,
       "name": "\u05e8\u05d0\u05e9 \u05d4\u05de\u05de\u05e9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/64X7IM9ZENFkjZDOVGnxCh"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 196548,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05d3\u05d0\u05de",
-        "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 169322,
-      "name": "\u05d3\u05d0\u05de",
-      "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 238000,
       "name": "\u05dc\u05d3\u05e4\u05d5\u05e7 \u05ea'\u05e8\u05d0\u05e9",
       "url": "https://open.spotify.com/track/3dkItSs4LurpACEg70HDIB"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "\u05d3\u05d0\u05de",
+        "url": "https://open.spotify.com/album/71eXZyUAobK32JZ1YnFwKo"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 169322,
+      "name": "\u05d3\u05d0\u05de",
+      "url": "https://open.spotify.com/track/7AlqKFiOM5X7nJdtbwvsi6"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8"
-      },
-      "artists": [
-        {
-          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
-          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
-        }
-      ],
-      "duration_ms": 193278,
-      "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "\u05e1\u05d5\u05e4\u05e8\u05de\u05df",
         "url": "https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 217000,
       "name": "\u05dc\u05ea\u05ea \u05dc\u05d7\u05d9\u05d9\u05dd \u05dc\u05e8\u05e7\u05d5\u05d3",
       "url": "https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d5\u05d3\u05d9\u05d4",
+          "url": "https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "\u05d1\u05df \u05d0\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05dc\u05d4\u05ea\u05d7\u05ea\u05df \u05d0\u05d9\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/0j28xwE1gMIBRsDHGlVK9u"
-      },
-      "artists": [
-        {
-          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
-          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
-        },
-        {
-          "name": "\u05e0\u05d5\u05e2\u05dd \u05e7\u05dc\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
-          "url": "https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "\u05dc\u05d4\u05ea\u05d7\u05ea\u05df \u05d0\u05d9\u05ea\u05d9",
-      "url": "https://open.spotify.com/track/1YgeLm7V5s6BlIrALkqDjj"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
         "url": "https://open.spotify.com/album/6wI63Cyq2GddBiACSov0jB"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 174000,
       "name": "\u05e0\u05d4\u05e8 \u05d4\u05d3\u05de\u05e2\u05d5\u05ea",
       "url": "https://open.spotify.com/track/0LqFPyHVwoYxJnZsa3Ji8x"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
+        "name": "\u05dc\u05d4\u05ea\u05d7\u05ea\u05df \u05d0\u05d9\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/0j28xwE1gMIBRsDHGlVK9u"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        },
+        {
+          "name": "\u05e0\u05d5\u05e2\u05dd \u05e7\u05dc\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df",
+          "url": "https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "\u05dc\u05d4\u05ea\u05d7\u05ea\u05df \u05d0\u05d9\u05ea\u05d9",
+      "url": "https://open.spotify.com/track/1YgeLm7V5s6BlIrALkqDjj"
     },
     {
       "added_at": "2025-09-12 12:35:53",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
-        "name": "\u05d4\u05d9\u05d9, \u05d6\u05d4 \u05e9\u05d7\u05e8",
-        "url": "https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi"
-      },
-      "artists": [
-        {
-          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
-          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
-        },
-        {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-        }
-      ],
-      "duration_ms": 150420,
-      "name": "\u05e0\u05d0\u05d3\u05d9 \u05d1\u05d0\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
         "name": "\u05d0\u05d4 \u05d5\u05d5\u05d0\u05d5",
         "url": "https://open.spotify.com/album/4CTHpPBeE6Fvx8uSYh98gs"
       },
@@ -1699,6 +1679,26 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
+        "name": "\u05d4\u05d9\u05d9, \u05d6\u05d4 \u05e9\u05d7\u05e8",
+        "url": "https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d7\u05e8 \u05d8\u05d1\u05d5\u05da",
+          "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+        },
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "duration_ms": 150420,
+      "name": "\u05e0\u05d0\u05d3\u05d9 \u05d1\u05d0\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
         "name": "\u05d1\u05dc\u05e2\u05d3\u05d9\u05da",
         "url": "https://open.spotify.com/album/0zG75x12uR6CIbmE6RL81r"
       },
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2025-09-12 12:35:53",
       "album": {
+        "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
+        "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 232284,
+      "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
+      "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
+    },
+    {
+      "added_at": "2025-09-12 12:35:53",
+      "album": {
         "name": "\u05d4\u05d3\u05e8\u05da \u05dc\u05e9\u05d1\u05d9\u05dc \u05d4\u05d6\u05d4\u05d1",
         "url": "https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy"
       },
@@ -1735,22 +1751,6 @@
       "duration_ms": 212285,
       "name": "\u05e2\u05ea \u05d4\u05dc\u05d1\u05e0\u05d4",
       "url": "https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w"
-    },
-    {
-      "added_at": "2025-09-12 12:35:53",
-      "album": {
-        "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
-        "url": "https://open.spotify.com/album/3hWlgKqZUnCC38e1FuGZSU"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 232284,
-      "name": "\u05d1\u05d9\u05df \u05d4\u05e2\u05d9\u05e8 \u05dc\u05e4\u05e8\u05d3\u05e1",
-      "url": "https://open.spotify.com/track/5rqeYyQ1EpbEJKkH4cgncs"
     }
   ],
   "unique_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367243,
+  "num_followers": 367239,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAABYVMglI7IJz5OsjK8K+ysS",
+  "snapshot_id": "aM3ugAAAAABnUZqZTQ44IxoDCzyGtNQp",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desperate",
-        "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2"
       },
       "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 210785,
-      "name": "Desperate (with Lauren Daigle)",
-      "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
+      "duration_ms": 185346,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp"
     },
     {
       "added_at": null,
@@ -127,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On To Me",
-        "url": "https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2"
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
       },
       "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 185346,
-      "name": "Hold On To Me",
-      "url": "https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp"
+      "duration_ms": 210785,
+      "name": "Desperate (with Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
     },
     {
       "added_at": null,

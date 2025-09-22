@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 3511,
+  "num_followers": 3575,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Harlem Shake",
+        "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 196664,
+      "name": "Harlem Shake",
+      "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Midnight City (Eric Prydz Private Remix)",
         "url": "https://open.spotify.com/album/7lOidIGDpO6imOl4zDGQ9p"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 361740,
       "name": "Midnight City - Eric Prydz Private Remix",
       "url": "https://open.spotify.com/track/0FoSiffuAmaJ3VyPaebY6I"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "Harlem Shake",
-        "url": "https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 196664,
-      "name": "Harlem Shake",
-      "url": "https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml"
     },
     {
       "added_at": "2022-10-14 00:00:00",

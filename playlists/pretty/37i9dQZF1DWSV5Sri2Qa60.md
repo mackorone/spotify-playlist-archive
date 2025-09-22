@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Ebbb
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,165 likes - 52 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,153 likes - 52 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 | 51 | [Your Fantasy](https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM) | [Girl Group](https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4) | [Your Fantasy](https://open.spotify.com/album/53Jqh6cjJL9jAVaN3alBDB) | 2:19 |
 | 52 | [Heat Of The Summer](https://open.spotify.com/track/0q7FGknqGU4TQ54U8QBAOu) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Heat Of The Summer](https://open.spotify.com/album/7kIMB282kj8yCSLEataOyB) | 2:36 |
 
-Snapshot ID: `AAAAADlzsTTmcWyCfUJe7JFB/CGzVMp3`
+Snapshot ID: `AAAAAAcW0TJQ5TU6ByRXE83KfIn3Lzts`

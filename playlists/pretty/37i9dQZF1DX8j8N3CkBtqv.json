@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Ritviz, Ramya Pothuri and other exciting artists.\n",
-  "num_followers": 96541,
+  "num_followers": 96534,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,30 @@
     {
       "added_at": "2025-09-19 05:02:38",
       "album": {
+        "name": "Bulaye Naina",
+        "url": "https://open.spotify.com/album/3hCtDZO0CHDFa2xNwzJhR2"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Chris Jo Matt",
+          "url": "https://open.spotify.com/artist/65Et6HHRSQfKkzLbzn6CyK"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Bulaye Naina",
+      "url": "https://open.spotify.com/track/3l3IcXZuuiyDHWb5AgmrlV"
+    },
+    {
+      "added_at": "2025-09-19 05:02:38",
+      "album": {
         "name": "Saawariya",
         "url": "https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 185142,
       "name": "Tere Tere",
       "url": "https://open.spotify.com/track/2EJNQ7ohS5GIxV3utYDLtk"
-    },
-    {
-      "added_at": "2025-09-19 05:02:38",
-      "album": {
-        "name": "Bulaye Naina",
-        "url": "https://open.spotify.com/album/3hCtDZO0CHDFa2xNwzJhR2"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        },
-        {
-          "name": "Chris Jo Matt",
-          "url": "https://open.spotify.com/artist/65Et6HHRSQfKkzLbzn6CyK"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Bulaye Naina",
-      "url": "https://open.spotify.com/track/3l3IcXZuuiyDHWb5AgmrlV"
     },
     {
       "added_at": "2025-09-19 05:02:38",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-19 05:02:38",
       "album": {
-        "name": "Sab Sahi",
-        "url": "https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE"
-      },
-      "artists": [
-        {
-          "name": "Dream Note",
-          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sab Sahi",
-      "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
-    },
-    {
-      "added_at": "2025-09-19 05:02:38",
-      "album": {
         "name": "Adhoora",
         "url": "https://open.spotify.com/album/6KIDpkkH6CT3bNNYwbAD0G"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 184875,
       "name": "Adhoora",
       "url": "https://open.spotify.com/track/2WCVskDkODHmUpvYG8xdzl"
+    },
+    {
+      "added_at": "2025-09-19 05:02:38",
+      "album": {
+        "name": "Sab Sahi",
+        "url": "https://open.spotify.com/album/30AyjP4Xn6eRrEV58cB4AE"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sab Sahi",
+      "url": "https://open.spotify.com/track/6u1pJ2UZvR1ZqMO0qtGw8T"
     },
     {
       "added_at": "2025-09-19 05:02:38",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-09-19 05:02:38",
       "album": {
+        "name": "Khud Ko Miloon",
+        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
+      },
+      "artists": [
+        {
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
+        }
+      ],
+      "duration_ms": 213724,
+      "name": "Jee Le",
+      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
+    },
+    {
+      "added_at": "2025-09-19 05:02:38",
+      "album": {
         "name": "Jaane Do Mujhe",
         "url": "https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE"
       },
@@ -739,6 +755,26 @@
     {
       "added_at": "2025-09-19 05:02:38",
       "album": {
+        "name": "Safar",
+        "url": "https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY"
+      },
+      "artists": [
+        {
+          "name": "Prateeksha Srivastava",
+          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+        },
+        {
+          "name": "Akarsh Shetty",
+          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Safar",
+      "url": "https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x"
+    },
+    {
+      "added_at": "2025-09-19 05:02:38",
+      "album": {
         "name": "Intezaar",
         "url": "https://open.spotify.com/album/5dz42ayxujCHStVTj10rzW"
       },
@@ -751,6 +787,26 @@
       "duration_ms": 228240,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/565ILtHtx2CG2RTM2m5kvF"
+    },
+    {
+      "added_at": "2025-09-19 05:02:38",
+      "album": {
+        "name": "Love & Limerence",
+        "url": "https://open.spotify.com/album/13PKuzINirCBhssbAslKp9"
+      },
+      "artists": [
+        {
+          "name": "Rudy",
+          "url": "https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Love & Limerence",
+      "url": "https://open.spotify.com/track/2d83P9vmxC8Mc39vv7RtWY"
     },
     {
       "added_at": "2025-09-19 05:02:38",
@@ -779,22 +835,50 @@
     {
       "added_at": "2025-09-19 05:02:38",
       "album": {
-        "name": "Safar",
-        "url": "https://open.spotify.com/album/1L8LP2ANpB8HpY8a75WbaY"
+        "name": "Boondon Mein Ghar",
+        "url": "https://open.spotify.com/album/2sPoThMSpEfj8LTcduf8hS"
       },
       "artists": [
         {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         },
         {
-          "name": "Akarsh Shetty",
-          "url": "https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0"
+          "name": "Pritom Gohain",
+          "url": "https://open.spotify.com/artist/0W2ogjcaUYDeER4oiu2emz"
+        },
+        {
+          "name": "Anubhav Gogoi",
+          "url": "https://open.spotify.com/artist/6oqh70qVkQOGNh2MgBeelh"
+        },
+        {
+          "name": "Swaraj Priyo",
+          "url": "https://open.spotify.com/artist/34pfrauuP9OSysDkLgdEwW"
         }
       ],
-      "duration_ms": 207413,
-      "name": "Safar",
-      "url": "https://open.spotify.com/track/3JcSKPJ9vxMPtDS34jTI3x"
+      "duration_ms": 235058,
+      "name": "Boondon Mein Ghar",
+      "url": "https://open.spotify.com/track/0jvLLqtGskP5SmkzG7rZeU"
+    },
+    {
+      "added_at": "2025-09-19 05:02:38",
+      "album": {
+        "name": "Faza",
+        "url": "https://open.spotify.com/album/2VKSUMvPriwzKyOGcsbG0w"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Crustacean",
+          "url": "https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2"
+        }
+      ],
+      "duration_ms": 182771,
+      "name": "Faza",
+      "url": "https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q"
     },
     {
       "added_at": "2025-09-19 05:02:38",
@@ -831,90 +915,6 @@
       "duration_ms": 139333,
       "name": "Matcha",
       "url": "https://open.spotify.com/track/2YvtNkRSU8Lo5wdAUwWmQ5"
-    },
-    {
-      "added_at": "2025-09-19 05:02:38",
-      "album": {
-        "name": "Boondon Mein Ghar",
-        "url": "https://open.spotify.com/album/2sPoThMSpEfj8LTcduf8hS"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "Pritom Gohain",
-          "url": "https://open.spotify.com/artist/0W2ogjcaUYDeER4oiu2emz"
-        },
-        {
-          "name": "Anubhav Gogoi",
-          "url": "https://open.spotify.com/artist/6oqh70qVkQOGNh2MgBeelh"
-        },
-        {
-          "name": "Swaraj Priyo",
-          "url": "https://open.spotify.com/artist/34pfrauuP9OSysDkLgdEwW"
-        }
-      ],
-      "duration_ms": 235058,
-      "name": "Boondon Mein Ghar",
-      "url": "https://open.spotify.com/track/0jvLLqtGskP5SmkzG7rZeU"
-    },
-    {
-      "added_at": "2025-09-19 05:02:38",
-      "album": {
-        "name": "Khud Ko Miloon",
-        "url": "https://open.spotify.com/album/4a8jBar9By0bgZnzgsKp29"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 213724,
-      "name": "Jee Le",
-      "url": "https://open.spotify.com/track/1lnqjp37JJOHsrjCCJ3UJy"
-    },
-    {
-      "added_at": "2025-09-19 05:02:38",
-      "album": {
-        "name": "Faza",
-        "url": "https://open.spotify.com/album/2VKSUMvPriwzKyOGcsbG0w"
-      },
-      "artists": [
-        {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
-        },
-        {
-          "name": "Crustacean",
-          "url": "https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2"
-        }
-      ],
-      "duration_ms": 182771,
-      "name": "Faza",
-      "url": "https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q"
-    },
-    {
-      "added_at": "2025-09-19 05:02:38",
-      "album": {
-        "name": "Love & Limerence",
-        "url": "https://open.spotify.com/album/13PKuzINirCBhssbAslKp9"
-      },
-      "artists": [
-        {
-          "name": "Rudy",
-          "url": "https://open.spotify.com/artist/5u5YWSbUXrkan2dIMVPyV5"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Love & Limerence",
-      "url": "https://open.spotify.com/track/2d83P9vmxC8Mc39vv7RtWY"
     },
     {
       "added_at": "2025-09-19 05:02:38",

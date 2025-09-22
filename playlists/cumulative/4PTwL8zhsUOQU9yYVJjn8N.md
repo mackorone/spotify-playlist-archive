@@ -2,7 +2,7 @@
 
 ### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
-> YAYAY 303 SAVESSS
+> yes every kitty dog song :33,, almost 2 year anni of this playlist
 
 190 songs - 6 hr 14 min
 

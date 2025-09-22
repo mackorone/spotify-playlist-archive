@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,271 likes - 100 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,270 likes - 100 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 99 | [Yule Tide](https://open.spotify.com/track/0WRloctZv2KVQDA3NvVSHq) | [iluvu, Lazy Tree Records](https://open.spotify.com/artist/2K3jQRQLEyB3AzhBAOyvYe) | [A Lofi Christmas](https://open.spotify.com/album/6TRZqtG48tlSbwat2dzg3J) | 2:11 |
 | 100 | [Holiday Mood Lofi \- Instrumental](https://open.spotify.com/track/0p9ihhlziFCYfNrRPZCJkF) | [vatto Lofi](https://open.spotify.com/artist/1Axzw0JFLOkd1fADgbEJGt) | [Holiday Mood Lofi \(Instrumental\)](https://open.spotify.com/album/3LEaUqcC5i6DisMEEEtdTH) | 2:30 |
 
-Snapshot ID: `AAAAAC1jY5VszOjM06iUcgxihaAuqluw`
+Snapshot ID: `AAAAAPTh5pUVwuJhEpg0atItFBYLHPR+`

@@ -955,6 +955,28 @@
     },
     {
       "album": {
+        "name": "La Bruta (En Vivo)",
+        "url": "https://open.spotify.com/album/1NQCMMZnRZkqTMX0QpLTvn"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256105,
+      "name": "La Bruta (En Vivo)",
+      "url": "https://open.spotify.com/track/72sUhaR3zbNJI1He6EW9TC"
+    },
+    {
+      "album": {
         "name": "No La Hagas Sufrir",
         "url": "https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As"
       },
@@ -2660,7 +2682,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 191071,
       "name": "Un Amor Como El M\u00edo",
       "url": "https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE"

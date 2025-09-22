@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown, GeezLy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,764 likes - 130 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,760 likes - 130 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 129 | [Darkest Hour](https://open.spotify.com/track/1mN0hFdSPXQU9YJarxH03N) | [Spektre](https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT), [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Darkest Hour](https://open.spotify.com/album/4fo7uqhq7jNyL2DtpSMTg1) | 3:24 |
 | 130 | [Melodia](https://open.spotify.com/track/78dLyf8klcyrmgpwgmRQlE) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Melodia](https://open.spotify.com/album/4LntPSMGgRAOym8Yj684Gw) | 3:42 |
 
-Snapshot ID: `AAAAAPtiNanyKVNV6jsK4FDL6Iz64VCB`
+Snapshot ID: `AAAAAHSaoRrN06p/m75IvQ8DxNbHlW/p`

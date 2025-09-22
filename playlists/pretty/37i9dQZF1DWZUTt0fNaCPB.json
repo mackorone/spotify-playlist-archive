@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1085189,
+  "num_followers": 1085337,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-06-26 10:09:38",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 172573,
-      "name": "Word Up!",
-      "url": "https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI"
-    },
-    {
-      "added_at": "2025-06-26 10:09:38",
-      "album": {
         "name": "Against The Grain",
         "url": "https://open.spotify.com/album/3T2Hq3PpqBroi2CcnmcUUH"
       },
@@ -963,22 +947,6 @@
     {
       "added_at": "2025-06-26 10:09:38",
       "album": {
-        "name": "Sham Pain",
-        "url": "https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 209703,
-      "name": "Sham Pain",
-      "url": "https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC"
-    },
-    {
-      "added_at": "2025-06-26 10:09:38",
-      "album": {
         "name": "Bird On A Chain",
         "url": "https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 172571,
       "name": "Bird On A Chain",
       "url": "https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P"
+    },
+    {
+      "added_at": "2025-06-26 10:09:38",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/7aC5SxTBOl3FNl3pdqZV4T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Word Up!",
+      "url": "https://open.spotify.com/track/6oaCwukRHvb3Q0eBfa9wiI"
+    },
+    {
+      "added_at": "2025-06-26 10:09:38",
+      "album": {
+        "name": "Sham Pain",
+        "url": "https://open.spotify.com/album/44udkZDmo8afuEnu0nTgUY"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 209703,
+      "name": "Sham Pain",
+      "url": "https://open.spotify.com/track/03HyPRDdAwvkovBE6XubBC"
     },
     {
       "added_at": "2025-06-26 10:09:38",

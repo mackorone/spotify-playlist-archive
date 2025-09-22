@@ -753,6 +753,24 @@
     },
     {
       "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343770,
+      "name": "Bob - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6hMDMgqttllnWrN6g4vq9F"
+    },
+    {
+      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -764,7 +782,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 121858,
       "name": "BOILED PEANUTS",
       "url": "https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb"
@@ -1286,6 +1304,36 @@
       "duration_ms": 299626,
       "name": "Deep Fried Frenz",
       "url": "https://open.spotify.com/track/12Lemsk6c6ohm9afZxYUBz"
+    },
+    {
+      "album": {
+        "name": "Bonny Light Horseman",
+        "url": "https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G"
+      },
+      "artists": [
+        {
+          "name": "Bonny Light Horseman",
+          "url": "https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb"
+        },
+        {
+          "name": "Eric D. Johnson",
+          "url": "https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6"
+        },
+        {
+          "name": "Josh Kaufman",
+          "url": "https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309072,
+      "name": "Deep In Love",
+      "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
     },
     {
       "album": {
@@ -1889,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "All at Once",
+        "url": "https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL"
+      },
+      "artists": [
+        {
+          "name": "Screaming Females",
+          "url": "https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Glass House",
+      "url": "https://open.spotify.com/track/65MAh0uBZ9PNlWM1Oay7hA"
+    },
+    {
+      "album": {
         "name": "Horses (Legacy Edition)",
         "url": "https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6"
       },
@@ -1940,6 +2006,24 @@
       "duration_ms": 224166,
       "name": "Good At Losing",
       "url": "https://open.spotify.com/track/4cXVSNUh0LCNLhezN5Oc8J"
+    },
+    {
+      "album": {
+        "name": "Winds Of Change",
+        "url": "https://open.spotify.com/album/0aeV2p7ZUhm9Q2PJAizF7a"
+      },
+      "artists": [
+        {
+          "name": "Eric Burdon & the Animals",
+          "url": "https://open.spotify.com/artist/70tMW5bZT3TJUa1CWtfVkq"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/57pP3LvnId3txetLeBaTmV"
     },
     {
       "album": {
@@ -2064,6 +2148,24 @@
       "duration_ms": 128840,
       "name": "Hate the Police",
       "url": "https://open.spotify.com/track/17lJiJ6NuBY6VHeEUVL2be"
+    },
+    {
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/7BhjOA08mb0ui3Kw7iDIxY"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "He's Fine",
+      "url": "https://open.spotify.com/track/5sou92yX82KNizKCdOWJDw"
     },
     {
       "album": {
@@ -2302,7 +2404,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 162973,
       "name": "I Never Had No One",
       "url": "https://open.spotify.com/track/3LvQFv9OQpyL24IqUBCws3"
@@ -2338,7 +2440,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 258959,
       "name": "I Wanna Fall in Love",
       "url": "https://open.spotify.com/track/544ucpaazW5uxznuwVM7Am"
@@ -2746,7 +2848,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -3010,7 +3112,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 222573,
       "name": "Madison",
       "url": "https://open.spotify.com/track/10WDCU0ey0CJXE43aaJVcm"
@@ -3393,6 +3495,24 @@
     },
     {
       "album": {
+        "name": "Forever and Then Some",
+        "url": "https://open.spotify.com/album/6FtDjbQ3un5sAv9VFUFyL0"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218786,
+      "name": "Nearing Home",
+      "url": "https://open.spotify.com/track/2boSnGZWqD6efIo0e1rx1v"
+    },
+    {
+      "album": {
         "name": "Music for the Masses (Deluxe)",
         "url": "https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2"
       },
@@ -3645,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219340,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
+    },
+    {
+      "album": {
         "name": "Future Present Past",
         "url": "https://open.spotify.com/album/2OkdkfVKqje8mj7g1iLroV"
       },
@@ -3858,7 +3996,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 181373,
       "name": "Paraphrased",
       "url": "https://open.spotify.com/track/4gKYVByx8MeUJNyK1Hucvj"
@@ -3946,6 +4084,24 @@
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "album": {
+        "name": "Zen Arcade",
+        "url": "https://open.spotify.com/album/0J1DP5GvKrzWumwzlcFhLc"
+      },
+      "artists": [
+        {
+          "name": "H\u00fcsker D\u00fc",
+          "url": "https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "Pink Turns to Blue",
+      "url": "https://open.spotify.com/track/1icyef1nNmLusODA03FLGf"
     },
     {
       "album": {
@@ -4264,7 +4420,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 213525,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/6JBePQo5cw6z7PvCbkQ09t"
@@ -4394,6 +4550,24 @@
       "duration_ms": 194813,
       "name": "Round The Bend",
       "url": "https://open.spotify.com/track/3pYEOC4YluYylx12kstL5L"
+    },
+    {
+      "album": {
+        "name": "TANGK",
+        "url": "https://open.spotify.com/album/13fXtIpIyvz4D5Ny3TSHym"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249853,
+      "name": "Roy",
+      "url": "https://open.spotify.com/track/1IwpNoNWNUqIxsfvUptHzB"
     },
     {
       "album": {
@@ -4751,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0mvXH32wQdtXKqXlKd7vUY"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "Spanish Girl",
+      "url": "https://open.spotify.com/track/15T2Fk5WwgAxszxyHD7gJV"
+    },
+    {
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
       },
@@ -4784,6 +4976,24 @@
       "duration_ms": 232653,
       "name": "Stop and Go",
       "url": "https://open.spotify.com/track/0goZTq1b5mxPoYbyXUhvR8"
+    },
+    {
+      "album": {
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278626,
+      "name": "Strasbourg / St. Denis",
+      "url": "https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh"
     },
     {
       "album": {
@@ -5054,7 +5264,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 562066,
       "name": "That's the Joint",
       "url": "https://open.spotify.com/track/1sby5Tqlj9BjJKBl27e7Ie"
@@ -5368,7 +5578,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 227092,
       "name": "To the Boys",
       "url": "https://open.spotify.com/track/4km3aB077ieI1Gli9XapiV"
@@ -5592,7 +5802,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 263573,
       "name": "Voices Carry",
       "url": "https://open.spotify.com/track/0ZYf6N5eBeXStMri0mf3DZ"
@@ -5776,7 +5986,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 293813,
       "name": "What Goes On",
       "url": "https://open.spotify.com/track/2OBD9njSRa8QrFZr2hjyAz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Uol5MpckMS.md) - [plain]
 
 > Le meilleur des années 60 en 60 titres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,930 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,932 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

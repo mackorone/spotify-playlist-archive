@@ -4,7 +4,7 @@
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-385 songs - 20 hr 31 min
+386 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Crush!](https://open.spotify.com/track/6lZrMteR4f7nHrNW4ot3H1) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Crush!](https://open.spotify.com/album/0clcYq3eLhpPzTF4TCp8XB) | 2:08 | 2023-12-04 | 2023-12-14 |
 | [Ctrl + Esc](https://open.spotify.com/track/5pH3quHteOINNWgxAJeWUO) | [Project Orange](https://open.spotify.com/artist/49hXOL1GCkpxGUVNtV4ke8) | [Ctrl + Esc](https://open.spotify.com/album/0w2b2v1VW3OdwbGc35Mxlo) | 3:18 | 2022-06-06 | 2022-07-28 |
 | [Cups \(Pitch Perfect’s “When I’m Gone”\) \- Pop Version](https://open.spotify.com/track/6mH3qVIeOsnQIAho5eWwhH) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:08 | 2024-04-08 | 2024-04-19 |
-| [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 | 2025-09-14 |  |
+| [Daisy](https://open.spotify.com/track/4nGH9TgCC3Ebz3WzOGdrgs) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Daisy](https://open.spotify.com/album/2ex1SdB7QepUqe5bqCWhPI) | 2:44 | 2025-09-14 | 2025-09-22 |
 | [Dance With My Mistakes](https://open.spotify.com/track/7jd9wJQLGgaXPjPXPJiiMB) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Dance With My Mistakes](https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO) | 2:57 | 2025-04-07 | 2025-04-14 |
 | [dandelions](https://open.spotify.com/track/692Q0Ry0X0BV1C9XhORcVF) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [dandelions](https://open.spotify.com/album/4yWnb5waN424BvaVNA7N50) | 3:12 | 2025-07-20 | 2025-07-28 |
 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 | 2022-07-25 | 2024-04-19 |
@@ -151,6 +151,7 @@
 | [Holiday](https://open.spotify.com/track/5IlPh2lpknbaVoB7pytO6t) | [Summer Will End](https://open.spotify.com/artist/44choK7c5Uf5GKBzwZ7cQY) | [Holiday](https://open.spotify.com/album/2xIW65knjZO5DBlsTBFiHl) | 2:47 | 2023-12-25 | 2024-01-01 |
 | [Humbug Mountain Song](https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:04 | 2024-04-08 |  |
 | [Hummingbird](https://open.spotify.com/track/04zm59nqWppXo4pRinteog) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Hummingbird](https://open.spotify.com/album/6ltZwUZ7rv6vtdhGV60sIq) | 3:06 | 2025-07-20 | 2025-07-28 |
+| [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 | 2025-09-21 |  |
 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 | 2023-03-06 |  |
 | [I Choose You](https://open.spotify.com/track/7jJH8F3PHlNvxfqEAAfFDl) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [The Blessed Unrest](https://open.spotify.com/album/7lpbyGc4fHsQkBTsfWVBhp) | 3:38 | 2024-04-08 |  |
 | [I Feel Good](https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [I Feel Good](https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO) | 2:16 | 2022-06-06 |  |

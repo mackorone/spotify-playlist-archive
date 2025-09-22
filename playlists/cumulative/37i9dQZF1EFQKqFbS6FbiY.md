@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-690 songs - 1 day 9 hr 38 min
+691 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Passa Esse Modão \- Ao Vivo](https://open.spotify.com/track/5q8IPEwjJrrF5Zq4Z6Rigs) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [A Hora É Agora \(Ao Vivo Em Jurerê\)](https://open.spotify.com/album/0Pz2s3BtUdMlf8K7MQ1OmN) | 2:48 | 2023-12-30 |  |
 | [Pedra E Água](https://open.spotify.com/track/0pN7UDsCwLGkaa8w2K6wuM) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:57 | 2023-12-30 |  |
 | [Pega Na Mão Da Festa \- Ao Vivo](https://open.spotify.com/track/1vkZW4rMrnYtkmyWzfENu0) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Praiou \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/1FLBaYOIAuCqsCQo9TUR79) | 2:46 | 2025-05-31 |  |
+| [Pegante](https://open.spotify.com/track/25n9NYTWUddEG2W9sewRwc) | [Priscila Ribeiro](https://open.spotify.com/artist/7hz7OYTzHgYBIMcFQ5YJmH) | [Chama no Gole, Pt\. 2](https://open.spotify.com/album/4NtFIOOmx21KkRuBnjdcqy) | 2:50 | 2025-09-21 |  |
 | [Pensando No Léo \- Ao Vivo Em São Paulo / 2019](https://open.spotify.com/track/0Sd5liVKoE1gvPJlcaCGmw) | [Léo Pain](https://open.spotify.com/artist/2e2qYzuAyLZOlO0NUU4mFT) | [Perdido E Apaixonado \(Ao Vivo Em São Paulo / 2019 / Vol\. 2\)](https://open.spotify.com/album/7G9ARHkxLBKMScmeJmBw6S) | 2:56 | 2023-12-30 |  |
 | [Perdeu a Razão](https://open.spotify.com/track/3ZHdUJiBaGkA26PyadneRk) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Perdeu a Razão](https://open.spotify.com/album/7mkkYXb7zlqlA5qi4khdUV) | 2:45 | 2023-12-30 |  |
 | [Perdeu Ela e Me Perdeu \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/track/0zmIEykTxy1JB4JOC9634W) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Perdeu Ela e Me Perdeu \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/2krlGrYDq9NsiqBa9eMTvc) | 2:34 | 2023-12-30 |  |

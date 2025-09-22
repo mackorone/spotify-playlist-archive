@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-885 songs - 1 day 21 hr 30 min
+887 songs - 1 day 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Bubble Wrap](https://open.spotify.com/track/18FE77kJAwPMcuCnBLUciS) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Bubble Wrap](https://open.spotify.com/album/78WrvGD9hVnhpcNGp0GTuP) | 2:51 | 2023-12-06 | 2024-04-20 |
 | [Bullets in the Dark \(feat\. MOD SUN\)](https://open.spotify.com/track/2FwhZ9LriLQ3oiRF4h1vJ1) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Bullets in the Dark \(feat\. MOD SUN\)](https://open.spotify.com/album/7xlzTiOeRBSaprkz1YoKid) | 3:01 | 2022-03-17 | 2022-07-28 |
 | [Bury Us](https://open.spotify.com/track/4lOVXhEtawEzHtYE9exnoK) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Bury Us / Sunseeker](https://open.spotify.com/album/35DlFe93HNKF9WLsZ9rd0F) | 3:09 | 2022-03-24 | 2022-04-11 |
+| [Butterflies](https://open.spotify.com/track/0XtIdZsfxDc9Q3Lrr2RuGF) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Butterflies](https://open.spotify.com/album/69DJ3dd7CZtfaKToG3DXd5) | 3:09 | 2025-09-19 |  |
 | [butterflies \(From Barbie The Album\)](https://open.spotify.com/track/0awsZaKWdHDpbayAdfYY0p) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [butterflies \(From Barbie The Album\)](https://open.spotify.com/album/6vrh5MHwmmqW4WYZr4wWfg) | 2:16 | 2023-07-28 | 2023-12-11 |
 | [C'MON \(feat\. Travis Barker\)](https://open.spotify.com/track/1EXNyTN6Ux1sIuea1R8GqE) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [C'MON \(feat\. Travis Barker\)](https://open.spotify.com/album/3i16WXOYEYO0v6kA1KfeAb) | 3:40 | 2022-03-24 | 2022-04-02 |
 | [California Girl](https://open.spotify.com/track/4NSvVWoMswmJpMpSbgipYX) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [California Girl](https://open.spotify.com/album/7tT8MODPGpzEShsgFUBA6q) | 2:53 | 2023-03-17 |  |
@@ -184,6 +185,7 @@
 | [Couldn't Help Myself](https://open.spotify.com/track/77zvSNmIShZWtLllpF1hI0) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Couldn't Help Myself](https://open.spotify.com/album/0GaNbEb7S6JUqeYl0VKcU4) | 2:32 | 2022-05-26 | 2022-06-04 |
 | [Counting Down](https://open.spotify.com/track/36E5LDs4HPJwAJNGVYbLs8) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Counting Down](https://open.spotify.com/album/1CUQDgSlBNj44AHhBjg4bn) | 3:21 | 2022-03-24 | 2022-04-14 |
 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2022-03-17 | 2023-03-25 |
+| [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 | 2025-09-19 |  |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-12-15 |  |
 | [Crazy Devotion](https://open.spotify.com/track/2OODxPE3suTBpTHQbV9kDG) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Crazy Devotion](https://open.spotify.com/album/0gJZBBUadhYyf79kY5pI2y) | 3:03 | 2022-03-17 | 2024-04-20 |
 | [Cruel Intentions](https://open.spotify.com/track/6uvy49KT5k1wgtqF26eIMC) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Cruel Intentions](https://open.spotify.com/album/0vPMFpVHNSj9JtxgQWINLN) | 2:46 | 2024-08-23 | 2024-10-28 |
@@ -545,7 +547,7 @@
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-03-17 | 2023-05-23 |
 | [Moments](https://open.spotify.com/track/1jQl9VPQjB3FsEQAUnPgWU) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [Moments](https://open.spotify.com/album/70IiZhyldR4WR88Nyudi3P) | 3:35 | 2022-03-24 | 2022-04-21 |
 | [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-23 |  |
-| [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2024-03-08 |  |
+| [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2024-03-08 | 2025-09-22 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-06-17 |
 | [Monster](https://open.spotify.com/track/6Wl7eKrZdQtobWOYbLI47J) | [Casey Lowry](https://open.spotify.com/artist/6g01TPprAdALKCjAwBYPH1) | [Nervous](https://open.spotify.com/album/7gK6jXAO3V7f3nDcQM2Wlf) | 3:01 | 2022-03-24 | 2022-04-18 |
 | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/track/50DMJJpAeQv4fIpxZvQz2e) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Monsters \(feat\. Demi Lovato and blackbear\)](https://open.spotify.com/album/1EGlv1JGCUPolWU4qv7bsK) | 2:54 | 2022-03-17 | 2023-03-18 |
@@ -846,7 +848,7 @@
 | [Want You Like That](https://open.spotify.com/track/4VhiUBbGZd374klScom1cp) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9) | 2:54 | 2022-03-17 | 2022-07-29 |
 | [Wasting Time](https://open.spotify.com/track/5xTObgZhZ8WaKy0Zb0yCwZ) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Dizzyonatightrope](https://open.spotify.com/album/1uYnR6GP38pTjEOIMccjcF) | 3:43 | 2022-03-24 | 2022-04-17 |
 | [Watershed](https://open.spotify.com/track/205M9RkLKErmy1vMcXm3RO) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Watershed](https://open.spotify.com/album/2A0aoSJq66kKCsoguXd6WJ) | 3:38 | 2022-03-24 | 2022-04-12 |
-| [WDYK](https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [WDYK](https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37) | 3:11 | 2025-02-14 |  |
+| [WDYK](https://open.spotify.com/track/4YyCXnv5MWo9XNUQmuvAbb) | [Jordan Harvey](https://open.spotify.com/artist/5WKa7xY2Y4Lko2cQjkj1iW) | [WDYK](https://open.spotify.com/album/4noogkQJAT1Y8RMs5KFJ37) | 3:11 | 2025-02-14 | 2025-09-22 |
 | [We Have To Move On](https://open.spotify.com/track/7LZlKjgyS1IG6BniUx9MOX) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [We Have To Move On](https://open.spotify.com/album/3Vwuh7l6MvX8tnn8Li2Lf2) | 4:12 | 2022-03-24 | 2022-04-14 |
 | [WebMD](https://open.spotify.com/track/0TybJvIlsxCXrAhxpEXC4U) | [PONY](https://open.spotify.com/artist/31kZNy2FQoUD4V8LUr9exv) | [WebMD](https://open.spotify.com/album/1uXwPpxRNTNOGfNdgqfTTV) | 2:17 | 2022-03-24 | 2022-04-06 |
 | [weird!](https://open.spotify.com/track/0mCR06PzcuMFPAFz4V4lOB) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/34H8ixOb4n9M8gKCx5SGRn) | 3:04 | 2022-03-24 | 2022-04-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18m1EYRUeh9.md) - [plain]
 
 > Smooth indie jazz joints from around the globe\. Cover: El Michels Affair
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,819 likes - 101 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,911 likes - 101 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

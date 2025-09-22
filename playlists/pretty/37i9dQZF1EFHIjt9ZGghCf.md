@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 800 likes - 135 songs - 15 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 801 likes - 135 songs - 15 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 118 | [Campeón](https://open.spotify.com/track/3f85ozbzhf4wq7Vl7yxid7) | [Legado Music](https://open.spotify.com/artist/6NAa9sLEguLPdExVYn9tSW) | [Selah](https://open.spotify.com/album/17BYwDcMdfSMhOk9vfsiwy) | 5:48 |
 | 119 | [Move Your Heart / Worthy](https://open.spotify.com/track/1zy5SRJL5RuM5ygzFXCWDh) | [Jesus Co.](https://open.spotify.com/artist/6Ll7sTNN0NeJHoB0bmCKZ1), [WorshipMob](https://open.spotify.com/artist/2gVSazqKUYYYS645CEhrcL) | [Mountains Move](https://open.spotify.com/album/16Y2cLHtfQOOZ6lpkYjE1J) | 4:33 |
 | 120 | [Hidden Forest Spicy Trail Mix](https://open.spotify.com/track/1Q7Ed9mLOBmxHj3sZ8eJCh) | [LAEL](https://open.spotify.com/artist/6u0N8dav5uO0AdKr6l9EFp), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [My Grocery List \(EP\)](https://open.spotify.com/album/3coSLKO5HdvpgdXN18eSXY) | 2:39 |
-| 121 | [Grace Wouldn't Leave Me](https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz) | 3:07 |
-| 122 | [No One Like the Lord / King of Glory \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
+| 121 | [No One Like the Lord / King of Glory \- Live](https://open.spotify.com/track/2LH8ERukxzWeqNaxoHhJXo) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Eniola Abioye](https://open.spotify.com/artist/0vUp0HrA2d7mcExuf5Wbo6) | [One Night: Volume 1 \(Live\)](https://open.spotify.com/album/3eevYwiiAUO3oZY0rEhAwL) | 16:54 |
+| 122 | [Grace Wouldn't Leave Me](https://open.spotify.com/track/2q4z8ulvADTrObvdRRLzWu) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/1i1RMxpn37I5CzQlbuQeDz) | 3:07 |
 | 123 | [A Better Word \- Live](https://open.spotify.com/track/6r3Mznc8z5AcSWJ2aJvIZF) | [Benita Jones](https://open.spotify.com/artist/6qBjK1dD3p6ZDBaG52FT1S) | [The Entreating](https://open.spotify.com/album/7zJChADYcuBdZgDjv0jKjR) | 6:24 |
 | 124 | [Kid Again \- Live](https://open.spotify.com/track/6cXtuwdMH2aEcWgtwIfNZV) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Welcome Home \(Live\)](https://open.spotify.com/album/1shUHRfZDbzz0UfdTRwP9l) | 7:26 |
 | 125 | [na na eh oh](https://open.spotify.com/track/64A3IHMcMbD9JB3eDDXvQU) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [na na eh oh](https://open.spotify.com/album/6tmZjUhTS98AtqbSQQ9tWX) | 4:24 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 134 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 135 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `Ab8w0gAAAADuvyTMpQypuTl730jUq6oV`
+Snapshot ID: `Ab82kAAAAADayMFW615aP4ozyT4/W1Ou`

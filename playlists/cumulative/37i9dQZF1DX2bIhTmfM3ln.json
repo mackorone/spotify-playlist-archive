@@ -3757,6 +3757,28 @@
     },
     {
       "album": {
+        "name": "DIANA",
+        "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140481,
+      "name": "DIANA",
+      "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
+    },
+    {
+      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/53NocW08O1TII5VuaUT0vS"
       },
@@ -4048,7 +4070,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 214736,
       "name": "Don't Run",
       "url": "https://open.spotify.com/track/0FODu62RBuyngvchl8H7w3"
@@ -6462,7 +6484,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 175257,
       "name": "Hold Me Down",
       "url": "https://open.spotify.com/track/4FkDBM4l0NSox3DbuCI82u"
@@ -13342,7 +13364,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 235752,
       "name": "Repay Your Part",
       "url": "https://open.spotify.com/track/0bos4KHIefjCBFT9qcMSu1"
@@ -16663,6 +16685,24 @@
     },
     {
       "album": {
+        "name": "Wife Material",
+        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177421,
+      "name": "Wife Material",
+      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
+    },
+    {
+      "album": {
         "name": "LCV3: Sweet Surrender.",
         "url": "https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M"
       },
@@ -17170,6 +17210,24 @@
       "duration_ms": 135000,
       "name": "You",
       "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
     },
     {
       "album": {

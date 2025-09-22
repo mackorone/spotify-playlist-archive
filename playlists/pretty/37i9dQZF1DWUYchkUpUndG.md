@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,536 likes - 96 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,864 likes - 96 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 7 | [Serving A God \- Energize Version](https://open.spotify.com/track/6R7FZf8xbSiI6ubbXsuyxq) | [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Serving A God \(Energize Version\)](https://open.spotify.com/album/37MjDtf3Fzn5VEZ2tocwsi) | 4:08 |
 | 8 | [Hallelujah](https://open.spotify.com/track/1bxY6erFDE2a6pIzp0sSNj) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Esther Chungu](https://open.spotify.com/artist/2wMANrJhcgffus0NQNcBhm) | [Faith Hope Love](https://open.spotify.com/album/7BacxfVRnXzfcv2LqfaHuN) | 2:38 |
 | 9 | [How Great You Are](https://open.spotify.com/track/2uNdZjm6wWzLap2asj1f1S) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g) | [How Great You Are](https://open.spotify.com/album/0jJ8AgkTxfZIyJIVyrdMkc) | 5:18 |
-| 10 | [Se Bębę](https://open.spotify.com/track/6h3SIM1JXtfeMqLoFzjk7R) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Se Bębę](https://open.spotify.com/album/3AEvRjl43zhrEseUH3kyt2) | 3:17 |
+| 10 | [Se Bebe](https://open.spotify.com/track/6h3SIM1JXtfeMqLoFzjk7R) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Se Bebe](https://open.spotify.com/album/3AEvRjl43zhrEseUH3kyt2) | 3:17 |
 | 11 | [Moyo Wanga](https://open.spotify.com/track/3mYapvHCLZ9udtGPiQfSyU) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Tobi Jeff Richards](https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP) | [Moyo Wanga](https://open.spotify.com/album/1MDz8Ruc8nq72ZQh5IAjO0) | 6:21 |
 | 12 | [No Boundaries](https://open.spotify.com/track/7C3TDSd6vowi1Q99F9Ny3Y) | [Aaron Sledge](https://open.spotify.com/artist/0CEz3mmGL98Lk35wsqGpf2), [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [No Boundaries](https://open.spotify.com/album/3PdjLcfzsjzBt1UTjeMGv1) | 7:24 |
 | 13 | [Bayede Yeshua \- Long Edit](https://open.spotify.com/track/1jeTylSNFMbrrjNsOurwoC) | [TK Goodman](https://open.spotify.com/artist/6Mhd9XMD4BEPmdKmoi1yz1), [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s) | [Bayede Yeshua \(Long Edit\)](https://open.spotify.com/album/7yeu2Xy7oMv7y68sobYdFI) | 11:37 |

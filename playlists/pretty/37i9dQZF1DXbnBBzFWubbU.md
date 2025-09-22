@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,589 likes - 117 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,607 likes - 117 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 5 | [Samadhi](https://open.spotify.com/track/551ERD7f1t97rlc0DDBmdv) | [DJ Mass](https://open.spotify.com/artist/7DDdKIvTMJoVym9n4UOKYA) | [Samadhi](https://open.spotify.com/album/1ExjtWBDMkAVjxakI4GBaD) | 1:42 |
 | 6 | [Kaise](https://open.spotify.com/track/6a1S5sL9K0ojF4mQJ4LOsL) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Sutra](https://open.spotify.com/album/1jKZVS3Ako1DTTVXTZVrX3) | 2:40 |
 | 7 | [My Haveli Is Your Haveli](https://open.spotify.com/track/1M3z94SVanSbjbGBykuWee) | [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [Duniya Kya Hai](https://open.spotify.com/album/7uuSE8TYWTQysDt2KaGSso) | 1:21 |
-| 8 | [Akhri Raat](https://open.spotify.com/track/3m5s3CNvrg5nX6C60eRfD3) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2), [Arul Seth](https://open.spotify.com/artist/2GHxhIZLapwD1R5nltITFL) | [Akhri Raat](https://open.spotify.com/album/7BchUV4Xjjw6qbmeYotZws) | 6:13 |
+| 8 | [Akhri Raat](https://open.spotify.com/track/3m5s3CNvrg5nX6C60eRfD3) | [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ), [Arul Seth](https://open.spotify.com/artist/2GHxhIZLapwD1R5nltITFL), [Indo Warehouse](https://open.spotify.com/artist/0NSnLQRiWg2ZgnfrXaQ9P2) | [Akhri Raat](https://open.spotify.com/album/7BchUV4Xjjw6qbmeYotZws) | 6:13 |
 | 9 | [Bad Karma \- Sickflip Remix](https://open.spotify.com/track/3DsEIkq0OM7qcKjFHJ1hZL) | [Axel Thesleff](https://open.spotify.com/artist/1OpHMC7Qo3lY1sVYaTUQrG), [Sickflip](https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ) | [Bad Karma \(Sickflip Remix\)](https://open.spotify.com/album/74ZQszVJTqOt6xFy0zqa3A) | 2:53 |
 | 10 | [Chalo Chalo](https://open.spotify.com/track/2SGstv7MXy37wAuK82jLmr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8), [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN), [Stunt Doubles](https://open.spotify.com/artist/1ahVS2kBsugjETX6enVfPH) | [Stunt Doubles \(Pt\. 1\)](https://open.spotify.com/album/5IojwjmyW2P4khwkyMmHlA) | 4:00 |
 | 11 | [Kiun Na](https://open.spotify.com/track/5ycN85kxxqArzAXrxQADeA) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Kiun Na](https://open.spotify.com/album/0UJUULwPJzSfbwrj8UySH2) | 4:06 |

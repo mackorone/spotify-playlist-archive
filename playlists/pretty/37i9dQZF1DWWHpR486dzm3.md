@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,130 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,136 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 30 | [He Said](https://open.spotify.com/track/7ee1NHmz8X13di7LffpAFh) | [Katri O](https://open.spotify.com/artist/1sTkp2XHuNufsVG0I8EHG2) | [He Said](https://open.spotify.com/album/2dRWRZRKtNQL375aSEA6v7) | 3:29 |
 | 31 | [Ei Rakkauslaulu](https://open.spotify.com/track/2Fn2YyfaC98obA0JR2Lxz7) | [Juha\-Matti Paska](https://open.spotify.com/artist/2RxxwYRUZZFbnPftjUwwJE) | [Ei Rakkauslaulu](https://open.spotify.com/album/5yIQGxaiyU7DVyRqkuVhRS) | 3:42 |
 | 32 | [Special Ones \- Original Version](https://open.spotify.com/track/7N0Mi6PpNcgDpnOezcLDXT) | [Astrid Swan](https://open.spotify.com/artist/48sENAvlUyRRoh4yKKzIRN) | [Poverina \(20th Anniversary Edition\)](https://open.spotify.com/album/3olNgE00r8HJUWWkS0l9DP) | 3:51 |
-| 33 | [Oot Mun Jumala](https://open.spotify.com/track/7McealEBGSiDW8eGdNBJBT) | [Lydian](https://open.spotify.com/artist/1FDg8DDyMpcdo9jMdBuU97) | [Oot Mun Jumala](https://open.spotify.com/album/7xQR1QgeLetfmcHXA0hPS5) | 3:40 |
+| 33 | [Oot mun Jumala](https://open.spotify.com/track/7McealEBGSiDW8eGdNBJBT) | [Lydian](https://open.spotify.com/artist/1FDg8DDyMpcdo9jMdBuU97) | [Oot mun Jumala](https://open.spotify.com/album/7xQR1QgeLetfmcHXA0hPS5) | 3:40 |
 | 34 | [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 |
 | 35 | [Let's Get Naked \(And Monkey Around\)](https://open.spotify.com/track/0bfKTrgYABtLMUmurJKg5r) | [God Given Ass](https://open.spotify.com/artist/3YYiamegMtewnR6PjpzoGx) | [God Given Ass](https://open.spotify.com/album/5HkbodFH9lXnKToqvASJf2) | 2:10 |
 | 36 | [Koodaa ku oot kotona](https://open.spotify.com/track/4MzVXYPEy0oQmDZMtGWKmn) | [Efka Crush](https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF), [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4) | [Koodaa ku oot kotona](https://open.spotify.com/album/6lFUBQkqkwLYOaG85bQNVH) | 3:05 |

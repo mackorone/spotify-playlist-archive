@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 ### [^\_^ All kittydog songs](https://open.spotify.com/playlist/4PTwL8zhsUOQU9yYVJjn8N)
 
-> YAYAY 303 SAVESSS
+> yes every kitty dog song :33,, almost 2 year anni of this playlist
 
 [beanspace](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 339 likes - 189 songs - 6 hr 13 min
 
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 188 | [w](https://open.spotify.com/track/6qZglgzWHfGbyXODLz2x8l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 1:34 |
 | 189 | [BOARD GAME](https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [BOARD GAME](https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7) | 1:57 |
 
-Snapshot ID: `AAAAioYoG1Q1sL3ncewS7sxsBkl+k0Aw`
+Snapshot ID: `AAAAjNyK1JaIiCH0pIJN3jz4x0aKddKU`

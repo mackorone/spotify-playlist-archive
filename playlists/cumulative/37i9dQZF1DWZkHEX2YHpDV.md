@@ -4,7 +4,7 @@
 
 > pop punk, alt, emo, post\-hardcore & more\. Cover: Yellowcard
 
-1,409 songs - 3 day 2 hr 23 min
+1,410 songs - 3 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [again&again](https://open.spotify.com/track/2UuZvR0nsKZt1OtncgzPMY) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [again&again](https://open.spotify.com/album/0gX23OOIPmeY54BdDOjIZ5) | 3:16 | 2021-12-10 | 2022-05-20 |
 | [Alaina](https://open.spotify.com/track/3Eoagt0ij670tloVT4FVId) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Alaina](https://open.spotify.com/album/5GAqYNRErpA63WXO6UHgfp) | 2:46 | 2021-12-10 | 2022-07-29 |
 | [Alaina](https://open.spotify.com/track/702Hp5evNiNQkK4ToupjF2) | [John Harvie](https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h) | [Alaina](https://open.spotify.com/album/1uCkROQ25UpVXzDvroyGAN) | 2:46 | 2022-07-08 | 2022-08-03 |
-| [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-14 |  |
+| [Alameda County Fair](https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt) | [Mom Jeans.](https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h) | [Alameda County Fair](https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P) | 2:27 | 2023-07-14 | 2025-09-22 |
 | [ALEXITHYMIA](https://open.spotify.com/track/5JCMJlSM7i2C39lSxu1HFe) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [GROWING UP ON THE INTERNET](https://open.spotify.com/album/6aFJQtL04OsqLPKVzGjqC8) | 3:15 | 2024-03-08 | 2024-04-13 |
 | [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 | 2025-04-18 |  |
 | [ALL I EVER WANTED](https://open.spotify.com/track/6DEE4Ym6b3rfJjKdPjRz0D) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ALL I EVER WANTED](https://open.spotify.com/album/11SFPa99Fx9dGYs4XW2UfJ) | 2:27 | 2022-03-25 | 2022-05-21 |
@@ -269,6 +269,7 @@
 | [Crash Course](https://open.spotify.com/track/2oFf6cTGdZesNk4TxSpuJe) | [Dear Youth](https://open.spotify.com/artist/2agcmBxvoowsOAvwSbvLxG) | [Heirloom](https://open.spotify.com/album/0JsLMP8FHcwICqNdCgyw5C) | 3:16 | 2022-02-04 | 2022-04-21 |
 | [crash my car](https://open.spotify.com/track/4Rrl4ep3FRVuF2OZ40LQl6) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [crash my car/devil on my shoulder](https://open.spotify.com/album/0QjEeDfF38YVsbb9Bv92NC) | 2:44 | 2022-04-15 | 2022-07-12 |
 | [crash my car](https://open.spotify.com/track/51kkiW6zF66YKuwyPPUU9o) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [heartbreak highway](https://open.spotify.com/album/0d9Eey60jByinESVUbC2Uk) | 2:44 | 2023-04-10 | 2023-04-12 |
+| [Crashing Out](https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Crashing Out](https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA) | 3:35 | 2025-09-19 |  |
 | [Crawl II](https://open.spotify.com/track/5lriyhkDRZvtl8fKD9JU0T) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/1Suln1akGBpyDrKZENbsX9) | 3:15 | 2024-03-22 | 2024-04-13 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-04-23 | 2024-03-30 |
 | [Crazy](https://open.spotify.com/track/7ox7u0VHZRTb2OJetuYF7n) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [Crazy](https://open.spotify.com/album/4iM4umvgxKL38p0SGZRtaz) | 3:01 | 2022-03-25 | 2022-04-20 |

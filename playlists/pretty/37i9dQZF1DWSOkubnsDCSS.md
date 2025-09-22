@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Scorcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,199 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,171 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 34 | [On Toppa Dat](https://open.spotify.com/track/6xILImJGF1bi9UuY6nkdGD) | [Mayhem NODB](https://open.spotify.com/artist/4OvtTdyyTQJhVPiagIiSah) | [On Toppa Dat](https://open.spotify.com/album/2THmfSCYjtagtgaRiwl3yq) | 3:34 |
 | 35 | [What You On](https://open.spotify.com/track/3zM6Swn0q56emGCIkrYm0w) | [Kamakaze](https://open.spotify.com/artist/6C0Tazx8fb7cJIhm2s2Ttm), [Maniscooler](https://open.spotify.com/artist/2xHR1bhEOLzQI6gV7msLbh), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo), [Morgan Munroe](https://open.spotify.com/artist/41K03x2QpJG4rJJ84LceST) | [What You On](https://open.spotify.com/album/7lJmlXpeXn2rOQSaAMYgRU) | 2:17 |
 | 36 | [Check Dis](https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Check Dis](https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m) | 2:29 |
-| 37 | [Geronimo](https://open.spotify.com/track/6096p5PPlkSoyyB95Gksab) | [Koder](https://open.spotify.com/artist/0LEWB6r1NeRpb4N84BlYXj) | [Geronimo](https://open.spotify.com/album/0Daj0Y9haEcNweE0AnAgxc) | 2:52 |
-| 38 | [Always](https://open.spotify.com/track/1qKFKUlr1RTmcwJkIxemv2) | [Ferrenzo](https://open.spotify.com/artist/1vLtMvP47FxY9Z7rptx2FJ), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p) | [Always](https://open.spotify.com/album/4Y3vUk3MmlqPFNzrYicR6Q) | 2:05 |
+| 37 | [Always](https://open.spotify.com/track/1qKFKUlr1RTmcwJkIxemv2) | [Ferrenzo](https://open.spotify.com/artist/1vLtMvP47FxY9Z7rptx2FJ), [DeeRiginal](https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p) | [Always](https://open.spotify.com/album/4Y3vUk3MmlqPFNzrYicR6Q) | 2:05 |
+| 38 | [Geronimo](https://open.spotify.com/track/6096p5PPlkSoyyB95Gksab) | [Koder](https://open.spotify.com/artist/0LEWB6r1NeRpb4N84BlYXj) | [Geronimo](https://open.spotify.com/album/0Daj0Y9haEcNweE0AnAgxc) | 2:52 |
 | 39 | [Watch the Ride](https://open.spotify.com/track/1XtObqji9kF7IbXN1IdMai) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Watch the Ride](https://open.spotify.com/album/2GcfSVz2I2Y4Ck3XOTddLa) | 3:14 |
 | 40 | [Hyperfocus](https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [3 3 3 3](https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe) | 2:34 |
 | 41 | [Somebody Help?](https://open.spotify.com/track/4nVlovvJ5GnA7JgSBhNs7e) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Somebody Help?](https://open.spotify.com/album/5sUHs8jEOc4nwJkeWgfssW) | 2:44 |

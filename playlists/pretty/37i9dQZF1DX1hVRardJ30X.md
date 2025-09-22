@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Mon Laferte & NATHY PELUSO, Junior H,  Alejandro Sanz & Rels B and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,329 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,309 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

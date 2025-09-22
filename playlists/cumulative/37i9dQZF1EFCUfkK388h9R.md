@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 2 hr 59 min
+59 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Unwind](https://open.spotify.com/track/1S50rRkenPLDU9TARWjxoY) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA), [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [Pilot](https://open.spotify.com/album/24K6FQs2L43tUVIeuFATl6) | 3:11 | 2024-03-21 |  |
 | [Ur Bdy](https://open.spotify.com/track/0RS2H42hwZHgyI5nYk1ayI) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ur Bdy](https://open.spotify.com/album/0d34EVx3buHCiD5Z4CnUGq) | 3:25 | 2024-03-21 |  |
 | [Virtus Domum](https://open.spotify.com/track/3lyvQABdNuoxG6jFr3AttY) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Project Peach](https://open.spotify.com/album/6Xdt5esdxMePGPkHn4g7cI) | 3:03 | 2024-03-21 |  |
+| [Voodoo](https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Voodoo](https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM) | 2:49 | 2025-09-21 |  |
 | [Watching Her Heartbreak](https://open.spotify.com/track/0PUUGNXMaLZBH6t6yaXamS) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Watching Her Heartbreak](https://open.spotify.com/album/1WEBLiRsDq6bStgx7fxLG1) | 3:03 | 2024-03-21 |  |
 | [WATR](https://open.spotify.com/track/0a4BrUFx3UGrK5LYiWfSHr) | [REGN](https://open.spotify.com/artist/6Wis87yBDzJkmiRxsqRNIL) | [WATR](https://open.spotify.com/album/4HB2HMHQoVw9py2VLy7Ke9) | 2:56 | 2024-03-21 |  |
 | [What I Know Now](https://open.spotify.com/track/4TdvTst17a1sB4nFgEgMC1) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [What I Know Now](https://open.spotify.com/album/6CEcy25megcuYifhqxgzkn) | 3:04 | 2024-03-21 |  |

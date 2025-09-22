@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,914 likes - 125 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,191,724 likes - 125 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Hotel Room](https://open.spotify.com/track/5p5bK3qF9ttryVxpxJvZYF) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Hotel Room](https://open.spotify.com/album/1p87jgTln9WLXBpA7RIaUr) | 2:28 |
 | 125 | [Slow & Easy \(feat\. Dirty Heads\)](https://open.spotify.com/track/0uhVQo0ErzBQ7uzSYaCeVj) | [ROME](https://open.spotify.com/artist/7hlcwaLWsbcwOkPtdxRoCa), [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Slow & Easy \(feat\. Dirty Heads\)](https://open.spotify.com/album/5CIQzhdWPTeV5BhIX3S65E) | 3:01 |
 
-Snapshot ID: `AAAAAH3ux9LWwYTiFWy703iytSrP6ot9`
+Snapshot ID: `AAAAAM8aXka7unN+CRrreZX4eKgqdPVI`

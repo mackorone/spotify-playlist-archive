@@ -1875,6 +1875,28 @@
     },
     {
       "album": {
+        "name": "Darba Darba",
+        "url": "https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        },
+        {
+          "name": "badr ouabi",
+          "url": "https://open.spotify.com/artist/2JYV7Jmi2njyq5FxTK6NFQ"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234078,
+      "name": "Darba Darba",
+      "url": "https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf"
+    },
+    {
+      "album": {
         "name": "Dawini",
         "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
       },
@@ -7374,7 +7396,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 170172,
       "name": "Sarini",
       "url": "https://open.spotify.com/track/60fjrgy5EwyWmN8PhQVBKY"

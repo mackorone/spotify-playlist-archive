@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 94 songs - 5 hr 25 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 95 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 92 | [Crush, TX](https://open.spotify.com/track/1FiwhDc9M96wCkIGLdTXkY) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Crush, TX](https://open.spotify.com/album/24ufWBsYoWRNu4jvMHIcMV) | 2:18 |
 | 93 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 |
 | 94 | [What Will You Do \(When The Money Goes\)?](https://open.spotify.com/track/1gnVTNttw3HN7tMYeU2dEh) | [Milburn](https://open.spotify.com/artist/1KlihEB7FggW8e9cMbPXAz) | [These Are The Facts](https://open.spotify.com/album/2vS6cs06CitxnzkWSfOLHg) | 3:53 |
+| 95 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
 
-Snapshot ID: `AAAAyedxMoGBN3Ah6W5cW2FlQSGSlVY8`
+Snapshot ID: `AAAAytpaywkC4ce/v6+WxF1vfZvdP0Yf`

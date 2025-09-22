@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,968 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,833 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Mi Fe](https://open.spotify.com/track/43IlvFKHsBbMcKCINJaPoa) | [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7), [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu) | [Mi Fe](https://open.spotify.com/album/0VPJ1W9Et8WNq1rS6WeuUC) | 3:24 |
 | 50 | [World of Walker: Rise of the Drones](https://open.spotify.com/track/1TKw1hYnvbe2i55er8Oc9X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [World of Walker: Rise of the Drones](https://open.spotify.com/album/0PHq0BdCCbKN12Ps1JGzK8) | 3:31 |
 
-Snapshot ID: `aMydAAAAAADYL2yBBLx1KpJrPc+0Yuia`
+Snapshot ID: `aM3ugAAAAACL3G7QR/QEGUPudqfMr0f2`

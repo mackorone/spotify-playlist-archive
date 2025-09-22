@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Latest Hindi songs, fresh from the recording studios to your ears\. Cover: Sunny Sanskari Ki Tulsi Kumari
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,269 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,295 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

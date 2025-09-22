@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAADYzo/TX8Ai7n74Pshxl+Dz",
+  "snapshot_id": "aM3ugAAAAADHz7SNksIGB6PM5iGfcd+N",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 260600,
-      "name": "Built to Last",
-      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
+      "duration_ms": 164866,
+      "name": "No Honour Among Thieves",
+      "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 220573,
-      "name": "The Diary",
-      "url": "https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO"
+      "duration_ms": 206800,
+      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
+      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 164866,
-      "name": "No Honour Among Thieves",
-      "url": "https://open.spotify.com/track/4ALq38AjjMixTna7WTidZn"
+      "duration_ms": 260600,
+      "name": "Built to Last",
+      "url": "https://open.spotify.com/track/2vKd8WXBClYs5TqFg1VcCd"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 206800,
-      "name": "All Hands on Deck, Pt. 1: Raise the Sail",
-      "url": "https://open.spotify.com/track/69OUP9n8fk8Y6bmHeSGHQB"
+      "duration_ms": 220573,
+      "name": "The Diary",
+      "url": "https://open.spotify.com/track/47KSg94NVnpiPBKHV5IiDO"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seven Ways To Scream Your Name",
         "url": "https://open.spotify.com/album/3rZ1lsw6PjMvggxPtQyviS"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 153333,
       "name": "Art Of American Football",
       "url": "https://open.spotify.com/track/7HbHEmWb14Jj7bfzcEanwL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 146786,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome Home Armageddon",
-        "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/3VKTPd7PLTsRSqrwIjcF5c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Conduit",
         "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
       },
@@ -596,25 +580,9 @@
           "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
         }
       ],
-      "duration_ms": 165573,
-      "name": "Best Friends and Hospital Beds",
-      "url": "https://open.spotify.com/track/0S5SfIu6UOfEdZqPqWNtWf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memory and Humanity",
-        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 202813,
-      "name": "To Die Like Mouchette",
-      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
+      "duration_ms": 146786,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0VhnzOzkZk4QOsdQjV9DLL"
     },
     {
       "added_at": null,
@@ -635,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conduit",
-        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 137906,
-      "name": "Conduit",
-      "url": "https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Memory and Humanity",
         "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
       },
@@ -667,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Best Friends and Hospital Beds",
+      "url": "https://open.spotify.com/track/0S5SfIu6UOfEdZqPqWNtWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome Home Armageddon",
         "url": "https://open.spotify.com/album/1M3wItLuBL9ZFvTiR5UewU"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 152280,
       "name": "Old Hymns",
       "url": "https://open.spotify.com/track/7dbHDlGVMtdvcXhM5L6Ytf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memory and Humanity",
+        "url": "https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 202813,
+      "name": "To Die Like Mouchette",
+      "url": "https://open.spotify.com/track/6W6kmdPB97xdr2ODedZKpa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conduit",
+        "url": "https://open.spotify.com/album/5MgwGycRjdT0RXLp3lgSyJ"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 137906,
+      "name": "Conduit",
+      "url": "https://open.spotify.com/track/1QnrECRRvGWw6bs5Z2761W"
     },
     {
       "added_at": null,

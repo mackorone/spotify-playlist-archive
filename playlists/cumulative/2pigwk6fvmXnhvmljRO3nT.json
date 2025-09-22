@@ -74021,6 +74021,24 @@
     },
     {
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/03lwJBajNLNBIq4jrWo1YK"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2025-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/3WD2cic9S2VrGIb6h114MM"
+    },
+    {
+      "album": {
         "name": "Project E.T.",
         "url": "https://open.spotify.com/album/3C3RvTGChyw9k6A2uaa2B3"
       },
@@ -130422,7 +130440,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 256533,
       "name": "White Iverson",
       "url": "https://open.spotify.com/track/1Bi5t0q9j3nYXIZuZgSGvr"
@@ -146150,7 +146168,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 291340,
       "name": "\uadf8\ub300\ub294 \uc5b4\ub514\uc5d0",
       "url": "https://open.spotify.com/track/50DVz42iHD4qmMmhDfm54M"
@@ -148690,7 +148708,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 270001,
       "name": "\ube44\uc0c1",
       "url": "https://open.spotify.com/track/6YZQnBMOVFYsUERkP1BjsM"
@@ -148964,7 +148982,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 266518,
       "name": "\uc0ac\ub791\ubcf4\ub2e4 \uae4a\uc740 \uc0c1\ucc98",
       "url": "https://open.spotify.com/track/4Y4yf4f2ndNOmHRvPtl5PJ"
@@ -149846,7 +149864,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 244181,
       "name": "\uc544\ub984\ub2e4\uc6b4 \uc624\ud574",
       "url": "https://open.spotify.com/track/77kzQDQXcy1nw5j9JF9no5"
@@ -151500,7 +151518,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-22",
       "duration_ms": 282006,
       "name": "\ucd5c\uc120\uc758 \uace0\ubc31",
       "url": "https://open.spotify.com/track/4K43bjV6fxfdAzuEPjKdyl"

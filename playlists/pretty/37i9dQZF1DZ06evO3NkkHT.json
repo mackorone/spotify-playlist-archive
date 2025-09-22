@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 65825,
+  "num_followers": 65917,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aMydAAAAAABTUzgFJnyvztq3HNFYoGON",
+  "snapshot_id": "aM3ugAAAAADDKJqeGnSEww1jSy8Hn0Hb",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orange Tape",
-        "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
-      },
-      "artists": [
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 107520,
-      "name": "Microwave",
-      "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Truth",
         "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 226063,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Orange Tape",
+        "url": "https://open.spotify.com/album/3mpkdo7GWwzFfqhIBQNhHU"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 107520,
+      "name": "Microwave",
+      "url": "https://open.spotify.com/track/6EZ6hE4t5rUGbmyRQGexAF"
     },
     {
       "added_at": null,
@@ -927,18 +927,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Active",
-        "url": "https://open.spotify.com/album/412QPcWdln144o2W4RZRDV"
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/1ZTCGhCvCLoDdU1ndwX7Kp"
       },
       "artists": [
+        {
+          "name": "MO3",
+          "url": "https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 174857,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/1WqidYIhCu5g01r3E36zR1"
+      "duration_ms": 196029,
+      "name": "AR (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/4PlgNSQcOWM2wjb11eREvB"
     }
   ],
   "unique_name": "This Is BigXthaPlug",
