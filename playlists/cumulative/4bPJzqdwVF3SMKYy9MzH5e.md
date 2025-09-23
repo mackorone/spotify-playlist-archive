@@ -4,7 +4,7 @@
 
 > 
 
-2,263 songs - 5 day 1 hr 31 min
+2,265 songs - 5 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l) | 2:55 | 2021-08-05 |  |
 | [DICTATOR](https://open.spotify.com/track/1i5fRXLDQmiNf878YdAUjk) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [DICTATOR](https://open.spotify.com/album/1XeOpCq4J5bEsC7KGOINx2) | 3:01 | 2021-08-05 |  |
 | [Die fetten Kinder](https://open.spotify.com/track/5XXbEAwNVRzXOsOLQgHlc1) | [Pisse](https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3) | [Pisse](https://open.spotify.com/album/1opnpoXoDZ8cuCvmag2wda) | 2:03 | 2022-05-23 |  |
+| [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/2quJCirmxL0onIdjhmX5ml) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 3:26 | 2025-09-22 |  |
 | [Dies Irae](https://open.spotify.com/track/3By9jCy6b4dv5XnlhvIWwx) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Carmen Giannattasio](https://open.spotify.com/artist/4245Z5ECeAD9TymolukrZI), [Veronica Simeoni](https://open.spotify.com/artist/1dKtl7ETdymS2rZJk9LH2j), [Alxander Timchenko](https://open.spotify.com/artist/0Yneqgh45Jmn0kuyjE7Zfl), [Carlo Colombara](https://open.spotify.com/artist/7qR8JpbvBYbqViPWD6tyHz), [Yuri Temirkanov](https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu), [St\. Petersburg Philharmonic Orchestra](https://open.spotify.com/artist/1Xw28dK9PzkDagTyuRRnGd) | [Verdi Requiem](https://open.spotify.com/album/7CQrqiAhWcFfu9abqPHQgQ) | 2:14 | 2022-10-31 |  |
 | [Diet Mountain Dew](https://open.spotify.com/track/4O9dZs2B0ilk4PEfX2bPEv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:42 | 2021-08-05 |  |
 | [Different State of Mind](https://open.spotify.com/track/0ZA43HPPeTVV7hPoFlLeR2) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Different State of Mind](https://open.spotify.com/album/3HZNi3qWzDGjm4FZgfFY9S) | 3:45 | 2022-05-10 |  |
@@ -1771,6 +1772,7 @@
 | [Sick Feeling](https://open.spotify.com/track/7zxLkZbUxITHabPzGN8Xgc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 2:35 | 2021-08-05 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2021-08-05 |  |
 | [SIDE2SIDE](https://open.spotify.com/track/4Kz5S3KljoJMlLtCDDVqCN) | [nikko](https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq) | [RED RAVE](https://open.spotify.com/album/0PZtxlib1VInBCoz4TVijP) | 2:51 | 2025-06-27 |  |
+| [sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 1:18 | 2025-09-22 |  |
 | [Sidelines](https://open.spotify.com/track/3gar285uWggoxHwOwO7Ng9) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:00 | 2021-08-05 |  |
 | [Sientate en Ese Deo](https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 3:41 | 2024-10-30 |  |
 | [Silhouette](https://open.spotify.com/track/403EjoWwYSX37paKSySxs1) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/1wU3MS8trhxKeTvrQXIXzI) | 3:59 | 2022-04-03 |  |

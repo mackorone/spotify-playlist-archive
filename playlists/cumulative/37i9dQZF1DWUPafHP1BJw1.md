@@ -4,13 +4,14 @@
 
 > Your favorite pop songs, classically reimagined.
 
-273 songs - 15 hr 50 min
+274 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Just\) Died In Your Arms \- Symphony Orchestra Version](https://open.spotify.com/track/1QW9fdfmKQbbEWKpxwcToS) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [\(I Just\) Died In Your Arms \[Symphony Orchestra Version\]](https://open.spotify.com/album/4Oe8mCQe5va5ItLsvJtvnq) | 3:10 | 2024-08-09 | 2025-05-17 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/7lz548Cc4yXHl2shw1C7oo) | [Unsecret String Quartet](https://open.spotify.com/artist/3dhWjAIYXpdGhApvNixEKw), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/2ybMUQuyia7YtgEjyFHIxi) | 2:52 | 2024-11-08 |  |
 | [A Sky Full of Stars](https://open.spotify.com/track/7k0KOplnvXm5GUkw7RXYg0) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Uncharted](https://open.spotify.com/album/6nNCnm0zCnx2CF033KpEVd) | 4:08 | 2021-11-19 |  |
+| [A Thousand Years](https://open.spotify.com/track/4eYaDRhiL5iesFp2EuoODr) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [The Piano Guys](https://open.spotify.com/album/1gIuyEXICtt24CEKrYSOw8) | 4:35 | 2025-09-22 |  |
 | [A Thousand Years \- Piano Version](https://open.spotify.com/track/06Jd4TVGvexfQTnTjq9P9Y) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [A Thousand Years \(Piano Version\)](https://open.spotify.com/album/41rka4Cv7m2IOgg0pmXhBO) | 4:13 | 2024-11-15 | 2025-08-09 |
 | [abcdefu \(arr\. piano\)](https://open.spotify.com/track/0u8AsjbVra5aT2QNqYUEtu) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [abcdefu \(arr\. piano\)](https://open.spotify.com/album/66vBDdWzw9v5GuK928maT2) | 2:41 | 2022-02-11 |  |
 | [Abracadabra \- Symphony Orchestra Version](https://open.spotify.com/track/1JNHhHqI0KOPDzRJ3ym0OK) | [Zymphonica](https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC) | [Abracadabra \(Symphony Orchestra Version\)](https://open.spotify.com/album/2nXMuHtK3XMMaqykf3YfCf) | 3:13 | 2025-03-21 | 2025-08-09 |

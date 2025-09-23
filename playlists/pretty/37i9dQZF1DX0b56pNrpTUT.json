@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: Eve Fairley-Chickwe",
-  "num_followers": 18092,
+  "num_followers": 18101,
   "original_name": "Eve Fairley-Chickwe's Taste ",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-07-18 18:13:51",
       "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl"
+    },
+    {
+      "added_at": "2023-07-18 18:13:51",
+      "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 202448,
       "name": "Case",
       "url": "https://open.spotify.com/track/5HqngsF3BE19077Ilnw7N5"
-    },
-    {
-      "added_at": "2023-07-18 18:13:51",
-      "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl"
     },
     {
       "added_at": "2023-07-18 18:13:51",

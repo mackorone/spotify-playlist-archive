@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: Davido",
+  "description": "The hottest tracks in Ghana. Cover: Black Sherif",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 192000,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/2Yi3XIg9MQAwAlTDCoSumI"
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 167457,
       "name": "Body",
       "url": "https://open.spotify.com/track/4UCJEzg9a32xJzplvN1NYU"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 140508,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED"
@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 137727,
       "name": "Eye Open",
       "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+    },
+    {
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -3024,7 +3042,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/6zZixF6uYbtG8uiNzDO2LH"
@@ -3054,6 +3072,24 @@
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/7LZkMeX1k8PXQJ0SVYn1A5"
+    },
+    {
+      "album": {
+        "name": "THE TORCHER",
+        "url": "https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Gidi Gidi (Fire)",
+      "url": "https://open.spotify.com/track/0YLPRdCGijKvQZwIcNQz5k"
     },
     {
       "album": {
@@ -3295,6 +3331,28 @@
     },
     {
       "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -3332,7 +3390,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 213348,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/2G6OdggLpTjbKu8qsdiwBI"
@@ -3569,6 +3627,24 @@
     },
     {
       "album": {
+        "name": "It Is Finished",
+        "url": "https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "It Is Finished",
+      "url": "https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -3765,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Olayemi",
+        "url": "https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Joy is Coming",
+      "url": "https://open.spotify.com/track/3XCB0kXFhGFgbZrfpAQGML"
+    },
+    {
+      "album": {
         "name": "Joy is Coming",
         "url": "https://open.spotify.com/album/7lD2tdR4j3v24wl6iSr85q"
       },
@@ -3944,6 +4038,24 @@
       "duration_ms": 163376,
       "name": "Killa Ji Mi",
       "url": "https://open.spotify.com/track/0VCyasPlRLFaGjFSSEeoWf"
+    },
+    {
+      "album": {
+        "name": "SAFA",
+        "url": "https://open.spotify.com/album/4hY1NBroE5DijT1XbAX85n"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163376,
+      "name": "KILLA JI MI",
+      "url": "https://open.spotify.com/track/5OypUWwk0Q0404YXjIeRQf"
     },
     {
       "album": {
@@ -4378,7 +4490,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 157714,
       "name": "Lonely At The Top",
       "url": "https://open.spotify.com/track/5ZtK8XAVnoaGdBXZWCEVCY"
@@ -4440,7 +4552,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 146776,
       "name": "Lord I'm Amazed",
       "url": "https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O"
@@ -5514,7 +5626,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 149537,
       "name": "Oil in my Head",
       "url": "https://open.spotify.com/track/5zNWfIlGEVQ72uzVOGgAiZ"
@@ -6118,7 +6230,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 172486,
       "name": "Puul",
       "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
@@ -6617,6 +6729,24 @@
     },
     {
       "album": {
+        "name": "THE TORCHER",
+        "url": "https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "Send Dem A Prayer",
+      "url": "https://open.spotify.com/track/7HnodmlRRGTVfbmw6jdUsC"
+    },
+    {
+      "album": {
         "name": "Shake It To The Max (FLY)",
         "url": "https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG"
       },
@@ -6950,10 +7080,32 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 223585,
       "name": "So it Goes",
       "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
+    },
+    {
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223585,
+      "name": "So it Goes",
+      "url": "https://open.spotify.com/track/6CSbf15NZhlB39CAjDU16b"
     },
     {
       "album": {
@@ -7242,10 +7394,28 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 175716,
       "name": "Street Crown",
       "url": "https://open.spotify.com/track/1x2L6Dy8l2jQoLElEHqmDY"
+    },
+    {
+      "album": {
+        "name": "VOICE OF THE CROWN (African Dancehall)",
+        "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175682,
+      "name": "STREET CROWN (African Dancehall)",
+      "url": "https://open.spotify.com/track/0CrxD7ki46tFH3OzEgLJCK"
     },
     {
       "album": {
@@ -7485,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "The Matter",
+        "url": "https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp"
+      },
+      "artists": [
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181968,
+      "name": "The Matter",
+      "url": "https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0"
+    },
+    {
+      "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
@@ -7496,7 +7684,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 175449,
       "name": "The Victory Song",
       "url": "https://open.spotify.com/track/3C5s6DTIhYRmCzgm8yfJlm"
@@ -7637,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+    },
+    {
+      "album": {
         "name": "IRON BOY",
         "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
       },
@@ -7652,6 +7858,24 @@
       "duration_ms": 136153,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7C2ld7CGhCilI6w07NG3jZ"
+    },
+    {
+      "album": {
+        "name": "THE TORCHER",
+        "url": "https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153819,
+      "name": "Torcher",
+      "url": "https://open.spotify.com/track/6wwazcApg6C49jXx8iDGru"
     },
     {
       "album": {
@@ -7728,6 +7952,24 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "album": {
+        "name": "Tracking You",
+        "url": "https://open.spotify.com/album/796ArCT8MVsMRDZ0qGHnu6"
+      },
+      "artists": [
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183719,
+      "name": "Tracking You",
+      "url": "https://open.spotify.com/track/03l6Kj3GCCp0kxnzJXrUVw"
     },
     {
       "album": {
@@ -7988,7 +8230,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
@@ -8126,7 +8368,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 169134,
       "name": "Which One (feat. Central Cee)",
       "url": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"

@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 386993,
+  "num_followers": 387092,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -119,18 +119,26 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "I Thank God",
-        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
+        "name": "Still Waters (Psalm 23) [Acoustic]",
+        "url": "https://open.spotify.com/album/2ow282yox2uRtgZgktAeZJ"
       },
       "artists": [
         {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 221739,
-      "name": "I Thank God",
-      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
+      "duration_ms": 250101,
+      "name": "Still Waters (Psalm 23) - Acoustic",
+      "url": "https://open.spotify.com/track/3Q9W1stYm98AVSNKbw7iGQ"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -159,26 +167,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Still Waters (Psalm 23) [Acoustic]",
-        "url": "https://open.spotify.com/album/2ow282yox2uRtgZgktAeZJ"
+        "name": "I Thank God",
+        "url": "https://open.spotify.com/album/5WM4v69Mjz5u9aqT5bFpcU"
       },
       "artists": [
         {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        },
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
         }
       ],
-      "duration_ms": 250101,
-      "name": "Still Waters (Psalm 23) - Acoustic",
-      "url": "https://open.spotify.com/track/3Q9W1stYm98AVSNKbw7iGQ"
+      "duration_ms": 221739,
+      "name": "I Thank God",
+      "url": "https://open.spotify.com/track/7ImIqqZ1Fmz0hMo5cu298d"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Happily Hidden",
-        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
-      },
-      "artists": [
-        {
-          "name": "Pat Barrett",
-          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
-        },
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 233129,
-      "name": "Happily Hidden (with John Mark McMillan)",
-      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Trust In God / Blessed Assurance",
         "url": "https://open.spotify.com/album/76Lrnk0xOjrXIr8ZlmVNrE"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 231182,
       "name": "Trust In God / Blessed Assurance",
       "url": "https://open.spotify.com/track/3V4YXdFvGT2ycg1JIcLwFR"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Happily Hidden",
+        "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 233129,
+      "name": "Happily Hidden (with John Mark McMillan)",
+      "url": "https://open.spotify.com/track/1KSbEDEuafGfz2fuioe5uK"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -847,26 +847,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "L E P E R S",
-        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
-      },
-      "artists": [
-        {
-          "name": "Joshua Leventhal",
-          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
-        },
-        {
-          "name": "Atmos One",
-          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
-        }
-      ],
-      "duration_ms": 250555,
-      "name": "L E P E R S",
-      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Calling Me Home",
         "url": "https://open.spotify.com/album/1Q8ZPBPyPK1Kz3jDVb04Ru"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 277565,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "L E P E R S",
+        "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
+      },
+      "artists": [
+        {
+          "name": "Joshua Leventhal",
+          "url": "https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5"
+        },
+        {
+          "name": "Atmos One",
+          "url": "https://open.spotify.com/artist/2hUBrOilKr0a6llHEBvuSu"
+        }
+      ],
+      "duration_ms": 250555,
+      "name": "L E P E R S",
+      "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Just As I Am (Nothing to Prove)",
-        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Tripodi",
-          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Just As I Am (Nothing to Prove)",
-      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "The Invitation",
         "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 244213,
       "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
       "url": "https://open.spotify.com/track/6DMNym6nYxh5VuymM6kGyW"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "Just As I Am (Nothing to Prove)",
+        "url": "https://open.spotify.com/album/0u1NOPtFwXeaedBEGjvkSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Tripodi",
+          "url": "https://open.spotify.com/artist/4c0Gzsz4JC8OHMN9y5Fw9s"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Just As I Am (Nothing to Prove)",
+      "url": "https://open.spotify.com/track/070P8Q3dqNHak5FxNiMP4x"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Teach Me",
         "url": "https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
-      },
-      "artists": [
-        {
-          "name": "Lion of Judah",
-          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Open My Eyes",
-      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Songs About Jesus",
         "url": "https://open.spotify.com/album/2L0thC4nvrQ4yVRLxFzgCG"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 219091,
       "name": "Wildflowers (Seek Ye First)",
       "url": "https://open.spotify.com/track/51027qMz6tsxVKiNfObYae"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
+      },
+      "artists": [
+        {
+          "name": "Lion of Judah",
+          "url": "https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Open My Eyes",
+      "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "on Christ the solid rock i stand.",
-        "url": "https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r"
-      },
-      "artists": [
-        {
-          "name": "Spencer Boliou",
-          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
-        },
-        {
-          "name": "Lofi Hymns.",
-          "url": "https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "on Christ the solid rock i stand.",
-      "url": "https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
         "name": "Better Plan",
         "url": "https://open.spotify.com/album/2alhNi8t8Mhg2vwxAtxq9i"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 238152,
       "name": "Better Plan",
       "url": "https://open.spotify.com/track/16eY64ru0RQCsbpuahFUxu"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
+        "name": "on Christ the solid rock i stand.",
+        "url": "https://open.spotify.com/album/1ZRO38QdmEVALJHT7MYb7r"
+      },
+      "artists": [
+        {
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
+        },
+        {
+          "name": "Lofi Hymns.",
+          "url": "https://open.spotify.com/artist/20ZyjUv8IineeYzi9PfLcW"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "on Christ the solid rock i stand.",
+      "url": "https://open.spotify.com/track/6fP3NjTunAImDXulVyQsJ4"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
+        "name": "You Never Break a Promise",
+        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
+      },
+      "artists": [
+        {
+          "name": "Mountaintops",
+          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+        }
+      ],
+      "duration_ms": 337760,
+      "name": "You Never Break a Promise",
+      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+    },
+    {
+      "added_at": "2025-08-06 07:25:48",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/24yRBhQPXjdpBY3ehksRvA"
       },
@@ -1759,18 +1775,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "You Never Break a Promise",
-        "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
+        "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
       },
       "artists": [
         {
-          "name": "Mountaintops",
-          "url": "https://open.spotify.com/artist/7d4GxDYKKKb6wzu3tQIBrW"
+          "name": "In the Wild",
+          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
         }
       ],
-      "duration_ms": 337760,
-      "name": "You Never Break a Promise",
-      "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+      "duration_ms": 284545,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1811,18 +1827,18 @@
     {
       "added_at": "2025-08-06 07:25:48",
       "album": {
-        "name": "Come Thou Fount",
-        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+        "name": "I Trust You",
+        "url": "https://open.spotify.com/album/56nxYWU99mGNr0nSlOQhzR"
       },
       "artists": [
         {
-          "name": "In the Wild",
-          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+          "name": "Michael Gabriel Monroe",
+          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
         }
       ],
-      "duration_ms": 284545,
-      "name": "Come Thou Fount",
-      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+      "duration_ms": 257260,
+      "name": "I Trust You",
+      "url": "https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r"
     },
     {
       "added_at": "2025-08-06 07:25:48",
@@ -1867,22 +1883,6 @@
       "duration_ms": 408430,
       "name": "King of Eternity",
       "url": "https://open.spotify.com/track/0SFAQWGYFruMwwDfYfHXde"
-    },
-    {
-      "added_at": "2025-08-06 07:25:48",
-      "album": {
-        "name": "I Trust You",
-        "url": "https://open.spotify.com/album/56nxYWU99mGNr0nSlOQhzR"
-      },
-      "artists": [
-        {
-          "name": "Michael Gabriel Monroe",
-          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
-        }
-      ],
-      "duration_ms": 257260,
-      "name": "I Trust You",
-      "url": "https://open.spotify.com/track/1FAKkyhwJUiKbCQTAn9y9r"
     },
     {
       "added_at": "2025-08-06 07:25:48",

@@ -687,22 +687,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Can I Call You in the Morning?",
-        "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 172402,
-      "name": "Can I Call You in the Morning?",
-      "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Purple Gas",
         "url": "https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 180152,
       "name": "Purple Gas",
       "url": "https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Can I Call You in the Morning?",
+        "url": "https://open.spotify.com/album/0gXpSB96t4TichIngTEPeU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 172402,
+      "name": "Can I Call You in the Morning?",
+      "url": "https://open.spotify.com/track/6xNDstLohLwOsLk78cygMr"
     },
     {
       "added_at": "2025-09-19 17:19:45",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-09-19 17:19:45",
       "album": {
-        "name": "Stay Wild",
-        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 285653,
-      "name": "Stay Wild",
-      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
-    },
-    {
-      "added_at": "2025-09-19 17:19:45",
-      "album": {
         "name": "Emptiness",
         "url": "https://open.spotify.com/album/7GVUQX0koyq6iu1qu4RmnO"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 246410,
       "name": "Emptiness",
       "url": "https://open.spotify.com/track/3OAG78OqCzfS6JpEeYquAN"
+    },
+    {
+      "added_at": "2025-09-19 17:19:45",
+      "album": {
+        "name": "Stay Wild",
+        "url": "https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "Stay Wild",
+      "url": "https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR"
     },
     {
       "added_at": "2025-09-19 17:19:45",

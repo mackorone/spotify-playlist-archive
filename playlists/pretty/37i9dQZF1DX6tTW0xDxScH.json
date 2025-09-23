@@ -1,6 +1,6 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 749935,
+  "num_followers": 749800,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5cPHT4yMCfETLRYAoBFcOZ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 371320,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/54KFQB6N4pn926IUUYZGzK"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Hidden Vagenda",
-        "url": "https://open.spotify.com/album/12025laJ05m1gjmZVLNv2B"
-      },
-      "artists": [
-        {
-          "name": "Kimya Dawson",
-          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
-        }
-      ],
-      "duration_ms": 159106,
-      "name": "You Love Me",
-      "url": "https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 196133,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Hidden Vagenda",
+        "url": "https://open.spotify.com/album/12025laJ05m1gjmZVLNv2B"
+      },
+      "artists": [
+        {
+          "name": "Kimya Dawson",
+          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
+        }
+      ],
+      "duration_ms": 159106,
+      "name": "You Love Me",
+      "url": "https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Whipped Cream & Other Delights",
-        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Ladyfingers",
-      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "Songs from the Valley",
         "url": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 256519,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Whipped Cream & Other Delights",
+        "url": "https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 164546,
+      "name": "Ladyfingers",
+      "url": "https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "And Then Nothing Turned Itself Inside-Out",
-        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 258426,
-      "name": "Our Way to Fall",
-      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 246573,
       "name": "Honey Dove",
       "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 258426,
+      "name": "Our Way to Fall",
+      "url": "https://open.spotify.com/track/5CSWXnKRzx7vI4S4JFAunl"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 170013,
-      "name": "Ayayai",
-      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "to be held",
         "url": "https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 234742,
       "name": "to be held",
       "url": "https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Boy With The Blues",
-        "url": "https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T"
-      },
-      "artists": [
-        {
-          "name": "Delacey",
-          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Boy With The Blues",
-      "url": "https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "Sugar For Bugs",
         "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 214548,
       "name": "Curse The Man",
       "url": "https://open.spotify.com/track/5rLh6WWpAbDcJrT9qwmSM3"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Boy With The Blues",
+        "url": "https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Boy With The Blues",
+      "url": "https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE"
     },
     {
       "added_at": "2025-01-08 17:31:38",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-01-08 17:31:38",
       "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 382493,
-      "name": "Shit I'm Dreaming",
-      "url": "https://open.spotify.com/track/1gNPP8TazAPuvq6R8oxxnU"
-    },
-    {
-      "added_at": "2025-01-08 17:31:38",
-      "album": {
         "name": "Lightning Of July",
         "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 176666,
       "name": "Lightning Of July",
       "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
+    },
+    {
+      "added_at": "2025-01-08 17:31:38",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 382493,
+      "name": "Shit I'm Dreaming",
+      "url": "https://open.spotify.com/track/1gNPP8TazAPuvq6R8oxxnU"
     },
     {
       "added_at": "2025-01-08 17:31:38",

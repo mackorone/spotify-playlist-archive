@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,214 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,216 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 21 | [Forgotten Memories](https://open.spotify.com/track/4TVtXw28cKW0qT8aNM2ODh) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 1:07 |
 | 22 | [I Will Wait](https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO) | [Benjamin Lovett](https://open.spotify.com/artist/2Gus4xBrtOyuunRjNDIlV8), [Winston Marshall](https://open.spotify.com/artist/17QwpKEew3b7k2PE4VOhFM), [Marcus Mumford](https://open.spotify.com/artist/0r15OuzJ85q0gaMJivB2im), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE), [Joe Matthews](https://open.spotify.com/artist/4K7V2xUTGryDePccU54D3u), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 1:55 |
 | 23 | [It Can't Last](https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:19 |
-| 24 | [Alma](https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:34 |
-| 25 | [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 |
+| 24 | [Deportation/Iguazu](https://open.spotify.com/track/5FT4zvyKeap0uZZmF84nOl) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Babel \- Music From And Inspired By The Motion Picture](https://open.spotify.com/album/3oHysLqzr30LVkciv5idom) | 4:49 |
+| 25 | [Alma](https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Camino](https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN) | 2:34 |
 | 26 | [Chichina](https://open.spotify.com/track/2LvMK31iQVKDoRZ9QeHHvW) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Don Markese](https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1), [Braulio Barrera](https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz), [Javier Casalla](https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo), [Anibal Kerpel](https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh) | [Motorcycle Diaries with additional Music](https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je) | 1:31 |
 | 27 | [Del Pago \- 2024 Remaster](https://open.spotify.com/track/5KsGluEh4MblJ078mjzbcB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco \(2024 Remaster\)](https://open.spotify.com/album/7F6NXrhiawGgkkRrItLOxB) | 3:02 |
 | 28 | [Haven](https://open.spotify.com/track/1LT4QUpKPE9Y7oTD1uYT0A) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Juan Luqui](https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Hope](https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 0:41 |
 | 50 | [Yarará](https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [SUR](https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA) | 2:50 |
 
-Snapshot ID: `aM3ugAAAAAAP3IVUeHE+dhblb8Ot79v0`
+Snapshot ID: `aM9AAAAAAADWg+oCE+vQ3Nx5Vi2njMAM`

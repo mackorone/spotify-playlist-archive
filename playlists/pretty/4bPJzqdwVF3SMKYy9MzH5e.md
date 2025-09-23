@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,237 songs - 4 day 23 hr 52 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,239 songs - 4 day 23 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2245,5 +2245,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2235 | [4c1d](https://open.spotify.com/track/3TsjTZLJbnVzLY9HEq0JlS) | [drenchrome](https://open.spotify.com/artist/4CZGDoISuyPBiQ2s6dwwYM) | [4c1d](https://open.spotify.com/album/1AH5zxDjbUYmMI3YOOLa5I) | 1:00 |
 | 2236 | [Raid Boss](https://open.spotify.com/track/1QWe23QoFAIWI7iDZhGM0A) | [DR\. GABBA](https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R) | [ACID REFLUX](https://open.spotify.com/album/4u7dPlaVhMP137ISVgroAd) | 4:11 |
 | 2237 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
+| 2238 | [sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 1:18 |
+| 2239 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/2quJCirmxL0onIdjhmX5ml) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 3:26 |
 
-Snapshot ID: `AAAErwMTqvlGxT+1lpJM3/Th4ASnQmAY`
+Snapshot ID: `AAAEs7qUYeJlgHn2zFCnPLU3xK0HLCe5`

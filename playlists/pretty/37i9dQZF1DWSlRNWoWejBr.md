@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,322 likes - 80 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,735 likes - 80 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 2 | [Fica de Quatão](https://open.spotify.com/track/17gBJOuwAuQ98vmQaW0Rfk) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Fica de Quatão](https://open.spotify.com/album/2pmXmv1sVOAp0DYgvXBYkk) | 2:13 |
 | 3 | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/track/7Ff0mR8ETS2QpL20dirwmj) | [DJ PH DE CAMPOS](https://open.spotify.com/artist/2R83mRnOb2ftzr4DUIARTr) | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/album/2OHhdbLZZBCC97Of1AchXA) | 1:52 |
 | 4 | [Sequência da Botação](https://open.spotify.com/track/6XX6DTK8eugxgZqmlwcvkG) | [DJ Ryder](https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K), [Dj Dudu Coupper](https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Sequência da Botação](https://open.spotify.com/album/0eDfhfCaR8VMozqzVj5Jkm) | 2:25 |
-| 5 | [Senta Olhando Pra Mim](https://open.spotify.com/track/64dVFcA71XYsuqTYgIWzqf) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Mc Diguinho](https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8), [Mc Buret](https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu) | [M.B.D.T](https://open.spotify.com/album/0vMwwYJAjFjeeZHPCtA2eq) | 1:59 |
+| 5 | [Senta Olhando Pra Mim](https://open.spotify.com/track/64dVFcA71XYsuqTYgIWzqf) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [Mc Diguinho](https://open.spotify.com/artist/47JFb3g3HWWr0xsyMvUKc8), [Mc Buret](https://open.spotify.com/artist/2gcXNPBcTK2no0RRXNsFnu), [MC D2 DA BAIXADA](https://open.spotify.com/artist/27Hj7YAhXPOBFAUn8TbCMG) | [M.B.D.T](https://open.spotify.com/album/0vMwwYJAjFjeeZHPCtA2eq) | 1:59 |
 | 6 | [MEGA YOU WILL SEE](https://open.spotify.com/track/4s14VIfzOjS6Xb8L35QfUf) | [DJ MUCA](https://open.spotify.com/artist/061YVIddkipbpHlr8vGzpn), [LUIZERA DJ](https://open.spotify.com/artist/4GVW0eYK97LAI3HVbo8A6c), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [MEGA YOU WILL SEE](https://open.spotify.com/album/63scaYIxdS1laUfhlbHPxH) | 3:31 |
 | 7 | [Construção de Amor](https://open.spotify.com/track/5HE0pAUxO6poQvNVtCFd06) | [DJ CZ](https://open.spotify.com/artist/52xstrfqEahsQREdysdsgr), [DJ Katrip](https://open.spotify.com/artist/4Ley0K7c2keTiOW0Jpam5g), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [MC Nito](https://open.spotify.com/artist/0EOOwVUWdPElrXOJyKOiBw) | [Construção de Amor](https://open.spotify.com/album/0al4w2vl7X2CBOVfwRdjAj) | 2:09 |
 | 8 | [Sobe Na Moto Roubadona](https://open.spotify.com/track/55X6DSZ3CEWeIQrVxMOR9h) | [DJ KELVINHO DA ZS](https://open.spotify.com/artist/5RvyQxggVkuBridsJFiMzs), [Iraqui ZL](https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS) | [Sobe Na Moto Roubadona](https://open.spotify.com/album/61sD9EqJr7Mfty0G0Hj5HA) | 2:08 |

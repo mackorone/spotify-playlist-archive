@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,677 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,679 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 5 | [Native Love \(Step By Step\)](https://open.spotify.com/track/08z4YUOPIc6nS0nAUC5uDU) | [Divine](https://open.spotify.com/artist/1wASklF2AQfIVhSBWnUHwz) | [My First Album](https://open.spotify.com/album/5O6UW3T8pR37aosytoTLcC) | 4:01 |
 | 6 | [Lucky](https://open.spotify.com/track/3C3jcnDl4fbX05x67Jp4B6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 13](https://open.spotify.com/artist/4hBZXuGcH9E94jD3A0Bn3r) | [Lucky](https://open.spotify.com/album/254Ri8NToEgWzwZvu8VB2q) | 3:44 |
 | 7 | [I'm That Bitch](https://open.spotify.com/track/1f2cBGbsFTyMH1LwlrE4kB) | [The Cast of RuPaul's Drag Race, Season 12](https://open.spotify.com/artist/082jBeu8MzgcpEAYU56yJt) | [I'm That Bitch](https://open.spotify.com/album/7kRlARoaczAjQoVxOEV37b) | 4:10 |
-| 8 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |
-| 9 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 |
+| 8 | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/track/5IsdA6g8IFKGmC1xl37OG1) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj), [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK) | [Purse First \(feat\. DJ Mitch Ferrino\)](https://open.spotify.com/album/0IzVRHJVmE4ftTJ8z4uyhS) | 3:49 |
+| 9 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |
 | 10 | [Your Makeup Is Terrible](https://open.spotify.com/track/55EINX1PxT45s5rpO8UIQw) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Anus](https://open.spotify.com/album/5IMcfR6mVlC4eLOzDSmIk1) | 3:58 |
 | 11 | [Queens Everywhere \- Cast Version](https://open.spotify.com/track/2zbCUcfKcM9RDsnDcuybvV) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [The Cast of RuPaul's Drag Race, Season 11](https://open.spotify.com/artist/66HGzvDigC8CCp6ZGfEC6i), [Markaholic](https://open.spotify.com/artist/0ZUGTZ3ItqNjAtQUVjNKnu) | [Queens Everywhere \(Cast Version\)](https://open.spotify.com/album/4qRdeAlRbk0LfK6IHgNf5n) | 3:17 |
 | 12 | [Hello Hello](https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [The Blonde & Pink Albums](https://open.spotify.com/album/2Ggu5GAKTDpd3PcekYnZWe) | 2:36 |

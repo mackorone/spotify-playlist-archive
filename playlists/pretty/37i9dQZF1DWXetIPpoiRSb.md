@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > hiiiii smoochie girls 💋 cover: ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,030 likes - 77 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,947 likes - 77 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

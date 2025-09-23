@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44675,
+  "num_followers": 44686,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAACZAGTg8GFIAm/tjuPUwoUy",
+  "snapshot_id": "aM9AAAAAAABabZAyh/pEpo8cIDoDLqAN",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Rencor Ni Mal De Amores",
-        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
-      },
-      "artists": [
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 198591,
-      "name": "Sin Rencor Ni Mal De Amores",
-      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Ruego a Dios",
-        "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "Le Ruego a Dios",
-      "url": "https://open.spotify.com/track/1g7kOe2a27074bzgZiXast"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chip S (Metal Version)",
         "url": "https://open.spotify.com/album/5NvCktcLMOIlYHK8lnK7De"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193846,
       "name": "Chip S (Metal Version)",
       "url": "https://open.spotify.com/track/0Cqw1Dj3R5LdRWtq1obbye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Ruego a Dios",
+        "url": "https://open.spotify.com/album/2iDUeErcSvIoFKtjVGej9n"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Le Ruego a Dios",
+      "url": "https://open.spotify.com/track/1g7kOe2a27074bzgZiXast"
     },
     {
       "added_at": null,
@@ -971,6 +971,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Roll",
         "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Qued\u00f3",
-        "url": "https://open.spotify.com/album/1rSjJvh3GZ9c4xjAdS2LkN"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 207464,
-      "name": "Lo Que Qued\u00f3",
-      "url": "https://open.spotify.com/track/1SU9MrVBKY2CZXWZP1F3BC"
     },
     {
       "added_at": null,
@@ -1123,6 +1123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cheque En Blanco",
+        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
     },
     {
       "added_at": null,

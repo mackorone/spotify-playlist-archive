@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Lokah",
-  "num_followers": 531162,
+  "num_followers": 531724,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALh2zcFvJhveiZJs1q+pnODKblX3",
+  "snapshot_id": "AAAAAKoIGz0bRTIDgGWurSXMWAalYHij",
   "tracks": [
     {
       "added_at": "2025-09-15 05:02:11",
@@ -139,6 +139,30 @@
       "duration_ms": 191020,
       "name": "SHERIYA",
       "url": "https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd"
+    },
+    {
+      "added_at": "2025-09-22 12:46:38",
+      "album": {
+        "name": "Jaalakaari (From \"Balti\")",
+        "url": "https://open.spotify.com/album/5zyr4y12Rn3B204mU2aamV"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 238730,
+      "name": "Jaalakaari - From \"Balti\"",
+      "url": "https://open.spotify.com/track/0aMi5DHyTwYrlOcxp1AM3v"
     },
     {
       "added_at": "2025-08-25 07:38:47",

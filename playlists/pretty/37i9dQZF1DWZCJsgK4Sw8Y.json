@@ -1,6 +1,6 @@
 {
   "description": "Leave no rock undiscovered and explore the essential foundations of Christian rock.",
-  "num_followers": 198893,
+  "num_followers": 198882,
   "original_name": "Cornerstones",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-09-14 08:46:36",
       "album": {
+        "name": "BarlowGirl",
+        "url": "https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr"
+      },
+      "artists": [
+        {
+          "name": "BarlowGirl",
+          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
+        }
+      ],
+      "duration_ms": 270213,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL"
+    },
+    {
+      "added_at": "2025-09-14 08:46:36",
+      "album": {
         "name": "We As Human",
         "url": "https://open.spotify.com/album/79dn7GARLrAgKx28cwvLea"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 211186,
       "name": "Take the Bullets Away (feat. Lacey Sturm)",
       "url": "https://open.spotify.com/track/1FgFXxPsmUmiJMoJNi8idR"
-    },
-    {
-      "added_at": "2025-09-14 08:46:36",
-      "album": {
-        "name": "BarlowGirl",
-        "url": "https://open.spotify.com/album/4V1yueAEbtS4K2ZvIjvSXr"
-      },
-      "artists": [
-        {
-          "name": "BarlowGirl",
-          "url": "https://open.spotify.com/artist/3VMSmJURVM7s6LkrIaPZvi"
-        }
-      ],
-      "duration_ms": 270213,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/6kKIcMRhwxJ1XTnfapaqhL"
     },
     {
       "added_at": "2025-09-14 08:46:36",
@@ -711,18 +711,18 @@
     {
       "added_at": "2025-09-14 08:46:36",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU"
+        "name": "Flying",
+        "url": "https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P"
       },
       "artists": [
         {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
+          "name": "Grammatrain",
+          "url": "https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Super Good Feeling - Static Album Version",
-      "url": "https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI"
+      "duration_ms": 161693,
+      "name": "Jonah - Flying Album Version",
+      "url": "https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV"
     },
     {
       "added_at": "2025-09-14 08:46:36",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-09-14 08:46:36",
       "album": {
-        "name": "Flying",
-        "url": "https://open.spotify.com/album/69Ww8L7uMR6JxnmmIaly5P"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/5QAcLf7DEB5OnTDgbCr1pU"
       },
       "artists": [
         {
-          "name": "Grammatrain",
-          "url": "https://open.spotify.com/artist/5xFgYvWejLOS3wTdMoJjCn"
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/6VLj1qK2dmR3P2yMNTSn2Y"
         }
       ],
-      "duration_ms": 161693,
-      "name": "Jonah - Flying Album Version",
-      "url": "https://open.spotify.com/track/3dPZqflDdEbIzs9GGWHXxV"
+      "duration_ms": 199226,
+      "name": "Super Good Feeling - Static Album Version",
+      "url": "https://open.spotify.com/track/0kZQnBXiQDpoAaCDwCfPXI"
     },
     {
       "added_at": "2025-09-14 08:46:36",

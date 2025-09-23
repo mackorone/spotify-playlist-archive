@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5baU2nNxC8ag8XzlHNsANg.md) - [plain]
 
 > All your favorite hits from the decade you love most!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,448 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,449 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

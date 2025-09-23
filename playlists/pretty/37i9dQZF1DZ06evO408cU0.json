@@ -1,29 +1,13 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 62069,
+  "num_followers": 62082,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAADLbbtSY242MCvOpxyPZNVT",
+  "snapshot_id": "aM9AAAAAAADyuQuz/QyaztYo/P4q31Ys",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 230440,
-      "name": "Olvidarte, \u00bfC\u00f3mo?",
-      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 232333,
       "name": "La Historia De Mis Manos",
       "url": "https://open.spotify.com/track/1lAfPGUKAQ0tW1TZeRBLkp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 230440,
+      "name": "Olvidarte, \u00bfC\u00f3mo?",
+      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Vas A Estar Bien",
-      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 180826,
       "name": "Encontrarte",
       "url": "https://open.spotify.com/track/54MQccz1gOXQDrHP0hR6AV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Vas A Estar Bien",
+      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1ximo Nivel",
         "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 180200,
       "name": "As\u00ed Te Necesito",
       "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Ella Es Mi Mujer",
-      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hombre De Trabajo",
         "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 173600,
       "name": "En Qu\u00e9 Cabeza Cabe",
       "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Ella Es Mi Mujer",
+      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Cardi B\)
 
-3,056 songs - 6 day 10 hr 15 min
+3,057 songs - 6 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1322,6 +1322,7 @@
 | [Is It The Way](https://open.spotify.com/track/4aY0JD0iHm1VIAQelgYkw7) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Is It The Way](https://open.spotify.com/album/4yvcCQ6riOr6XvigkpItWN) | 2:32 | 2024-09-27 | 2024-11-01 |
 | [IS MY MIC ON?](https://open.spotify.com/track/1cNXgfdJXQ94n8rs860x5r) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [IS MY MIC ON?](https://open.spotify.com/album/4rgZ66dfJJ17VUyzNCLtUv) | 2:40 | 2025-03-20 | 2025-05-09 |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-04 | 2022-09-30 |
+| [Is You Coo](https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Is You Coo](https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu) | 2:31 | 2025-09-19 |  |
 | [Island Glow \(feat\. Monsieur Periné\)](https://open.spotify.com/track/3Fcm3UGMza7pxVyWt49eWZ) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Island Glow \(feat\. Monsieur Periné\)](https://open.spotify.com/album/18p2pSPK5bNviXAtu09Vhl) | 3:40 | 2023-06-08 | 2023-06-18 |
 | [Island Glow \(feat\. Monsieur Periné\)](https://open.spotify.com/track/7487i9U9tmze9VCExAZA7U) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Island Glow \(feat\. Monsieur Periné\)](https://open.spotify.com/album/3HkMpt8ncmNFXplZHLjoL6) | 3:40 | 2023-06-15 | 2023-07-14 |
 | [Isley Money](https://open.spotify.com/track/52IhqMGqUaGxsiRYfLFbU2) | [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [Isley Money](https://open.spotify.com/album/70eFEmX0qHE1fMcxdAvghS) | 3:26 | 2024-11-28 | 2025-01-17 |

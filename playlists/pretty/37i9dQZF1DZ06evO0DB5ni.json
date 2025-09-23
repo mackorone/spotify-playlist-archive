@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 874524,
+  "num_followers": 874677,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAADiyPVHDit6IHnASVT2qnCL",
+  "snapshot_id": "aM9AAAAAAADX3Hw+7Gq4Qf4X59KgPaQ+",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n?",
-        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 167103,
-      "name": "Noches Amargas",
-      "url": "https://open.spotify.com/track/3RdIoywt4oDQgMf3L5rsDc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tesoro",
         "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 144945,
       "name": "Tesoro",
       "url": "https://open.spotify.com/track/31P3j9wpYX6e7eB2P95dyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00bfQui\u00e9n?",
+        "url": "https://open.spotify.com/album/12gF2dVVtalHzmn5z9wNiy"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Noches Amargas",
+      "url": "https://open.spotify.com/track/3RdIoywt4oDQgMf3L5rsDc"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoro",
-        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 151787,
-      "name": "Due\u00f1a De Mis Besos",
-      "url": "https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 143853,
       "name": "Te Dije",
       "url": "https://open.spotify.com/track/7nqb9Lio1yARXuEdlkNOJW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tesoro",
+        "url": "https://open.spotify.com/album/5kWW35ejO2Q9hai9umiLna"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 151787,
+      "name": "Due\u00f1a De Mis Besos",
+      "url": "https://open.spotify.com/track/1iDozyFuuBMIQ1u6ASwWvM"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 46513,
+  "num_followers": 46517,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAADeoLRyManUh+zoOcuZaYjj",
+  "snapshot_id": "aM9AAAAAAAAa0QXX1OaoR65KjwGOgs7/",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+        "name": "La Trampa",
+        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
       },
       "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 281440,
-      "name": "Capullo Y Sorullo",
-      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
+      "duration_ms": 160440,
+      "name": "Me Asusta Pero Me Gusta",
+      "url": "https://open.spotify.com/track/3oQJqw3WEIoPw319xNd6V8"
     },
     {
       "added_at": null,
@@ -599,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trampa",
-        "url": "https://open.spotify.com/album/41LNC8lKIULgtaDWJMNfbN"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
       },
       "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 160440,
-      "name": "Me Asusta Pero Me Gusta",
-      "url": "https://open.spotify.com/track/3oQJqw3WEIoPw319xNd6V8"
+      "duration_ms": 281440,
+      "name": "Capullo Y Sorullo",
+      "url": "https://open.spotify.com/track/7bLdwOQ7kLW7sWCIiewffp"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bienvenida La Vida",
         "url": "https://open.spotify.com/album/5mcWT0gHRYtncD9jCT3f6E"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/1l7InHBt3P5CgQtTfhwQrU"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
-      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vozes",
         "url": "https://open.spotify.com/album/2oIKM0oZ45eySf4VUiOSPR"
       },
@@ -851,26 +851,6 @@
       "duration_ms": 213173,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/7iOdfDA960q7Y4TQhaN3eA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mi Me Respetas",
-        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 150148,
-      "name": "A Mi Me Respetas",
-      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
     },
     {
       "added_at": null,
@@ -900,29 +880,29 @@
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 271466,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/4qqYfXGXSpXuKaYAa5qXt6"
+      "duration_ms": 212666,
+      "name": "No S\u00e9 Qu\u00e9 Voy A Hacer",
+      "url": "https://open.spotify.com/track/6dO6WZpobtvRNsvHuOfRRH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "De Vez En Cuando",
-        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         },
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 213329,
-      "name": "De Vez En Cuando",
-      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
     },
     {
       "added_at": null,
@@ -943,6 +923,26 @@
       "duration_ms": 192680,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Vez En Cuando",
+        "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 213329,
+      "name": "De Vez En Cuando",
+      "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
     },
     {
       "added_at": null,

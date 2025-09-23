@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,600 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,610 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 8 | [Irrenhaus](https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Irrenhaus](https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif) | 3:23 |
 | 9 | [Ruinen Dieser Welt](https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Ruinen Dieser Welt](https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J) | 3:10 |
 | 10 | [Weisse Nase](https://open.spotify.com/track/67yvRQRFMWcpI4er0um39H) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Weisse Nase](https://open.spotify.com/album/3SJNpachDVJrceoODWyxMc) | 3:03 |
-| 11 | [Huisje Op Wielen \- Outsiders Remix](https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Huisje Op Wielen \(Outsiders Remix\)](https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz) | 3:59 |
-| 12 | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL) | 2:27 |
+| 11 | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL) | 2:27 |
+| 12 | [Huisje Op Wielen \- Outsiders Remix](https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Huisje Op Wielen \(Outsiders Remix\)](https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz) | 3:59 |
 | 13 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
 | 14 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
 | 15 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebel Baby](https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebel Baby](https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne) | 4:12 |
 | 50 | [Dubbel Zo Hard \(Weet Je Nog?\)](https://open.spotify.com/track/0CH8thpsIg9MH1dZfha5EJ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Dubbel Zo Hard \(Weet Je Nog?\)](https://open.spotify.com/album/2RpiHlolipt2Toep6JQ738) | 4:02 |
 
-Snapshot ID: `aM3ugAAAAAAQMMeuVYXsdpM0lDnMszYQ`
+Snapshot ID: `aM9AAAAAAAC83Og+P6ANYEetPYzF2ryk`

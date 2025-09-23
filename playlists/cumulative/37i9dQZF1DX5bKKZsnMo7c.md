@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Paris Paloma
 
-510 songs - 1 day 3 hr 40 min
+511 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Brain Damage](https://open.spotify.com/track/0HKnAO33C9ScjOzTZzqEVb) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Brain Damage](https://open.spotify.com/album/6mOOrpYBo204Mkki7UadkF) | 3:13 | 2024-03-05 | 2024-03-20 |
 | [Brand New](https://open.spotify.com/track/06JHQjM86D4IvdwIIksdls) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [CHILDSTAR](https://open.spotify.com/album/6mFk7NdiRWLRVSX784kyfS) | 2:51 | 2025-04-04 | 2025-07-19 |
 | [Bread Butter Tea Sugar](https://open.spotify.com/track/32cXaJseha1gHpL0YAF828) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:28 | 2025-08-22 |  |
-| [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 | 2022-05-17 |  |
+| [Bruno is Orange](https://open.spotify.com/track/4pY1okPrJvIPBQM0t4i28v) | [Hop Along, Queen Ansleis](https://open.spotify.com/artist/7hDLm8O99kRfpY3DjFHQAP), [Frances Quinlan](https://open.spotify.com/artist/5yO8MmDV2hnMbiIoZGZMGr) | [Freshman Year](https://open.spotify.com/album/3ctenyhN6B5SQhRXy9Q5ux) | 3:22 | 2022-05-17 | 2025-09-23 |
 | [Brutus](https://open.spotify.com/track/5nUISKMcKG5KbWRDQx1Bvm) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Brutus](https://open.spotify.com/album/0alrjw1UQpZ2Ct5XWfnEjS) | 2:28 | 2025-07-18 |  |
 | [Bug Like an Angel](https://open.spotify.com/track/45KMdPDdZTxcXW3lw10R70) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:32 | 2023-10-27 | 2024-04-19 |
 | [Bug Like an Angel](https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bug Like an Angel](https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A) | 3:32 | 2023-07-28 | 2024-05-15 |
@@ -217,6 +217,7 @@
 | [hide n seek](https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [luna park](https://open.spotify.com/album/3JszvFwSmbe6kPv15wbnq9) | 2:56 | 2024-02-16 | 2025-02-15 |
 | [High In Brighton](https://open.spotify.com/track/2Y8nigywBusiNvZMuwL0v3) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/5CvoTuFxsWLLPhOp73RAtG) | 2:51 | 2023-06-15 | 2023-06-21 |
 | [High In Brighton](https://open.spotify.com/track/60t6F04UjEMkIi3h4pTw5k) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [High In Brighton](https://open.spotify.com/album/0p100gwUicAWbcnVMIWvhl) | 2:51 | 2023-06-15 | 2023-09-23 |
+| [Holy Water](https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Holy Water](https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744) | 3:28 | 2025-09-22 |  |
 | [Hot Goblin](https://open.spotify.com/track/1AQlvpcPh79BKnoKe1E6Nw) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Hot Goblin](https://open.spotify.com/album/3ehPg84etRc980Up4eqY93) | 2:38 | 2025-09-05 |  |
 | [HOT TO GO!](https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:04 | 2024-04-26 | 2025-05-28 |
 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-02-02 |  |

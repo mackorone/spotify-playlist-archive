@@ -4,7 +4,7 @@
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-379 songs - 20 hr 21 min
+381 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Intro](https://open.spotify.com/track/3EfkxwXdP8dJJB7OLT33eX) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Intro](https://open.spotify.com/album/7rYZqMPpU0Ng95S9ijPmJz) | 1:04 | 2023-10-13 | 2024-12-19 |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/4OFoyHpH2MToUApSKpP3OL) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jean\-Michel Bernard](https://open.spotify.com/artist/5MTEeanu1d3pEbBauZ9srY) | [Piano Noël II](https://open.spotify.com/album/3rkdFMmbbpkGJ8bHXpuZU2) | 2:29 | 2024-12-06 |  |
 | [Italian Rêverie](https://open.spotify.com/track/3GY8tgmS8X3ZwYcRqSJ6Zq) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Italian Rêverie](https://open.spotify.com/album/0yZwMgMV5BzTluFxCJXBW3) | 3:34 | 2024-08-09 |  |
+| [Ithaca Suite: IV\. Penelopeia](https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ithaca Suite/IV\. Penelopeia](https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC) | 3:48 | 2025-09-22 |  |
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 | 2023-04-14 | 2024-12-19 |
 | [Jeux de balles](https://open.spotify.com/track/5CrHdwYa004XKwRAYIdDde) | [Mille Milles](https://open.spotify.com/artist/4l7wcYWX5EDgbOtnPNQDdx) | [Jeux de balles](https://open.spotify.com/album/6zF4LwBfyX3lvNoSFisj8I) | 3:58 | 2022-08-23 | 2024-09-28 |
 | [June](https://open.spotify.com/track/2bzLfNA9atcNfObhm1ddxq) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [June](https://open.spotify.com/album/1HAfUeXEBWD48mLsCaUjb8) | 2:41 | 2025-07-08 |  |
@@ -272,6 +273,7 @@
 | [Prayer](https://open.spotify.com/track/7LgljzzT4CGyJ7Fv8qwWJO) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/1jtleXgBwqCJGqWBPorJgX) | 2:38 | 2025-04-25 |  |
 | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/track/5TMxqAA2kfj9BpDFKbvpwl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prelude in B Minor, BWV 855a \(Transcribed by Alexander Siloti\)](https://open.spotify.com/album/4Bz7EaaTAu89637GXU2h44) | 1:39 | 2023-11-10 | 2024-12-19 |
 | [Prelude in Lodz](https://open.spotify.com/track/617wKmpcrnVGdvce7drZAy) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ), [Julia Kotarba](https://open.spotify.com/artist/2lx9raTcn0VcuURpecfa0L) | [Prelude in Lodz](https://open.spotify.com/album/1jhJAVLgGXABBxrPEriK15) | 3:14 | 2023-10-13 | 2024-12-19 |
+| [Prelude No\. 5](https://open.spotify.com/track/2Pdl3GWx6v3D9SIqRlv5hn) | [Federico Mompou](https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prelude No\. 5](https://open.spotify.com/album/4ZoDkxHH5gIvNDk5p8hOQC) | 2:29 | 2025-09-22 |  |
 | [Prelude Piano Variation \(After Prelude from Violin Sonata in F Major, Op\. 5, No\. 10\)](https://open.spotify.com/track/778Yq1brkZsJPZxMMb7BcS) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Corelli: Prelude Piano Variation \(After Prelude from Violin Sonata in F Major, Op\. 5, No\. 10\)](https://open.spotify.com/album/1k6Dz7SK6Ppme9VOmlSpCa) | 1:51 | 2023-09-14 | 2024-12-19 |
 | [Promenade](https://open.spotify.com/track/3D3hrxyqYC8D10YneCf8RD) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Promenade](https://open.spotify.com/album/7ui0yJFEaDdQLvvOHKgtNz) | 2:33 | 2024-04-15 | 2024-09-04 |
 | [Prélude, M\. 65](https://open.spotify.com/track/0ryPaNXmcXz5NrTBRhlEKY) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Prélude, M\. 65](https://open.spotify.com/album/64rpiqfuHPuMstI1mxpfBU) | 1:17 | 2025-08-18 |  |

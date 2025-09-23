@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: 41
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,292 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,222 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 38 | [Hoes Be Mad](https://open.spotify.com/track/4Eon806kqIVQCbq7ULjpKg) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Hoes Be Mad](https://open.spotify.com/album/6x7qZPUUne0i7EvTV4ENvL) | 1:46 |
 | 39 | [Baddie Galore](https://open.spotify.com/track/0z2ufnWUpYzQQSZgkjj5md) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [M Row](https://open.spotify.com/artist/2HJMjrjAQfFCJ41EoLX9VG) | [Blood, Sweat & Billz](https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK) | 2:12 |
 | 40 | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/track/6FPZlhHqrtCi3C4IBCHAy6) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Tree On The Hill \(Lunch Break Freestyle\)](https://open.spotify.com/album/52xvSVWdjkBlJbctNBiH5q) | 1:40 |
-| 41 | [KEEPIN IT XOOL](https://open.spotify.com/track/6hQRMRWD7JkxctzemK6ioz) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p) | [KEEPIN IT XOOL](https://open.spotify.com/album/5OihQv00wm0c7A4FgGHqSb) | 2:05 |
+| 41 | [KEEPIN IT XOOL](https://open.spotify.com/track/6hQRMRWD7JkxctzemK6ioz) | [FLEE](https://open.spotify.com/artist/0kvDb0sP1IM6XSQ8ZBi20p), [StoopidXool](https://open.spotify.com/artist/6ufMjaOmZOf0WCMgE7nR8i) | [KEEPIN IT XOOL](https://open.spotify.com/album/5OihQv00wm0c7A4FgGHqSb) | 2:05 |
 | 42 | [BRIKOLAI VOLKOFF](https://open.spotify.com/track/75d7vV4yywOeJSWF4kzssm) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [HEELS HAVE EYES 2](https://open.spotify.com/album/7oXDJH6q9NOxB0QyOiG4ko) | 3:37 |
 | 43 | [MOCO](https://open.spotify.com/track/4OAh0EVh2KuaocVscSxKyZ) | [Matt McGhee](https://open.spotify.com/artist/40Viqfc5ZdF69hIKjktCZN) | [METRO MEDIA](https://open.spotify.com/album/6U6yOL1gtsG7KeTV1JBsut) | 2:31 |
 | 44 | [Get Jiggy](https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Get Jiggy](https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu) | 1:58 |

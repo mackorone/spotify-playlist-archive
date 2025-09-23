@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: Babasha
 
-217 songs - 10 hr 25 min
+218 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Cu Tălpile Goale](https://open.spotify.com/track/5eMX92EXE1FFV0JCixVkXD) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Cu Tălpile Goale](https://open.spotify.com/album/0R7eK1bGzwk5UBJ7IKoZWE) | 2:33 | 2025-07-07 |  |
 | [Cât vrei tu](https://open.spotify.com/track/1yEqRiWmIaETc2FRHn7Jnr) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [ATIPIC](https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0) | 2:41 | 2025-06-16 |  |
 | [CĂPITAN](https://open.spotify.com/track/00vWmTHP6E63KXqIdbgsm9) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [CĂPITAN](https://open.spotify.com/album/36tJXOX1DLnVvDRoLfcBpM) | 3:21 | 2024-07-29 | 2024-08-13 |
+| [Dacă dragostea era pe bani](https://open.spotify.com/track/5Cmg8c4WWohkaXwIYGL20n) | [Leo de la Izvoare](https://open.spotify.com/artist/4GKftOQvdMcVHwDHqfnfos), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Dacă dragostea era pe bani](https://open.spotify.com/album/6hJRyeeyMKH06OZd38Zvdb) | 2:10 | 2025-09-22 |  |
 | [Dame La Mano](https://open.spotify.com/track/1IF9KwFc9CzUUlLtVSK4Sx) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [El Pasado](https://open.spotify.com/album/6Khaxo5eONr9En7sT8Fvjn) | 2:54 | 2024-07-01 | 2024-11-12 |
 | [Dame Tu Cosita Mamacita](https://open.spotify.com/track/3PUUZ3f8MAdEGTKoyK9Igf) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM), [Adrian Norocel](https://open.spotify.com/artist/3f9Hi0GeiHT8XF7OCBGPpU) | [Dame Tu Cosita Mamacita](https://open.spotify.com/album/1zpcQXVGpdqWi45gv160PS) | 3:12 | 2025-07-07 |  |
 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 | 2025-04-28 |  |
@@ -102,7 +103,7 @@
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-05 | 2024-10-15 |
 | [Guli Guli \- From "Buzz House" The Movie](https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Guli Guli \(From "Buzz House" The Movie\)](https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V) | 2:28 | 2024-07-01 | 2024-11-06 |
 | [Habibi](https://open.spotify.com/track/4EBATplQoU295eNOeONlAP) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Habibi](https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy) | 2:10 | 2024-07-01 | 2025-01-21 |
-| [Hai sa ne iubim ca nemtii](https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Hai sa ne iubim ca nemtii](https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften) | 2:30 | 2024-07-15 |  |
+| [Hai sa ne iubim ca nemtii](https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Hai sa ne iubim ca nemtii](https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften) | 2:30 | 2024-07-15 | 2025-09-23 |
 | [Hai tu Maria](https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Hai tu Maria](https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k) | 2:19 | 2025-09-15 |  |
 | [HONEY](https://open.spotify.com/track/0Pm9kcvU60oxwVndjcnQ1f) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [HONEY](https://open.spotify.com/album/5gu7kZwSWpk7IgcnMcit1b) | 1:51 | 2025-04-07 | 2025-06-17 |
 | [Hora fetelor](https://open.spotify.com/track/4axfTALAQ2kM35X35fCnc7) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Hora fetelor](https://open.spotify.com/album/580phVNDwAGjBZvhc19gwO) | 2:24 | 2025-09-15 |  |

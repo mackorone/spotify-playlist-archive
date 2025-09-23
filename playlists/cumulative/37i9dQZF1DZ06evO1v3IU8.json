@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL"
+    },
+    {
+      "album": {
         "name": "El Candidato",
         "url": "https://open.spotify.com/album/4kfjtm9i1lYuIcVnGSdvgI"
       },
@@ -312,7 +330,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 168480,
       "name": "Est\u00e1s Cancelada",
       "url": "https://open.spotify.com/track/2AmgtgMbKtLszGa4Xgh6I0"

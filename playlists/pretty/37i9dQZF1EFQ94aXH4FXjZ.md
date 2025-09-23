@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 75 | [One for the Money](https://open.spotify.com/track/2ELEvgKVUXg2A1qHelo8kZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:04 |
 | 76 | [Hitting Close to Home \- Demo](https://open.spotify.com/track/3TyfyjltEtQaB7JVRDuOHR) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:35 |
 | 77 | [Fallen Woman \- Demo](https://open.spotify.com/track/5ndGmj5IQaGeKOolO2t4VU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Demos](https://open.spotify.com/album/7peGj09hLs4kVjmLkqBJUo) | 2:40 |
-| 78 | [Stairway to the Bottom](https://open.spotify.com/track/0wTQWX5F5CJK1vjqR96QAz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:25 |
-| 79 | [Rock and Roll Time](https://open.spotify.com/track/42abbf5DDY1dYyGGGYfO9X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 4:55 |
+| 78 | [Rock and Roll Time](https://open.spotify.com/track/42abbf5DDY1dYyGGGYfO9X) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 4:55 |
+| 79 | [Stairway to the Bottom](https://open.spotify.com/track/0wTQWX5F5CJK1vjqR96QAz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/0XwRrify4gVHbkoKbouUq1) | 3:25 |
 | 80 | [Breakdown](https://open.spotify.com/track/5kF6Hk6XsRZfWH7AgEGRS3) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Stories We Could Tell](https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0) | 3:12 |
 | 81 | [Stallion](https://open.spotify.com/track/0dt8k5OJrol9oHCURFiTbO) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 4:45 |
 | 82 | [The Year 2000 Minus 25](https://open.spotify.com/track/4fYJxgMcvqNdwAaXyftGdZ) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:38 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
 | 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `Ab82fAAAAADuEwVsrmNYnKugFYDCmzh1`
+Snapshot ID: `Ab88CAAAAABr9wNTc3IzVqkkmXJuX9Zz`

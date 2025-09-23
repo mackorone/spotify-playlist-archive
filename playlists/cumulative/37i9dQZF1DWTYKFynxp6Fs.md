@@ -4,7 +4,7 @@
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Lokah
 
-97 songs - 5 hr 40 min
+98 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Illuminati \- From "Aavesham"](https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Illuminati \(From "Aavesham"\)](https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE) | 3:32 | 2024-04-08 | 2025-06-24 |
 | [Ithale Nee](https://open.spotify.com/track/6XRzFosRlKVzYU9UD1kkZN) | [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Hi Nanna](https://open.spotify.com/album/0VQiq7x7I0e3EVlFr0NrKf) | 3:30 | 2024-02-26 | 2025-03-25 |
 | [Jaada \- From "Aavesham"](https://open.spotify.com/track/3b38fvc4ky0er6WEBruHMf) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Sreenath Bhasi](https://open.spotify.com/artist/5LcSNp7wOf6h5Lvhv23hF9), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Jaada \(From "Aavesham"\)](https://open.spotify.com/album/2i0rwB9IgecxcaRYeeGAas) | 2:42 | 2024-03-19 | 2025-07-25 |
+| [Jaalakaari \- From "Balti"](https://open.spotify.com/track/0aMi5DHyTwYrlOcxp1AM3v) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Jaalakaari \(From "Balti"\)](https://open.spotify.com/album/5zyr4y12Rn3B204mU2aamV) | 3:58 | 2025-09-22 |  |
 | [Jupiter Mazha](https://open.spotify.com/track/4Rvo7kWVZJCst0cOS7Md3p) | [Dhanwin K B](https://open.spotify.com/artist/02JO25StRNoFFNmw3tfHxR), [Apoorva Sandhya](https://open.spotify.com/artist/5Z0ti5Y3Ount3E7Oysc8cl) | [Jupiter Mazha](https://open.spotify.com/album/17GrpHqQKY5MmMyqyP9LOO) | 3:41 | 2023-09-26 | 2025-01-07 |
 | [K For Krishna](https://open.spotify.com/track/5t827RiIkACZPzMFxB26Hr) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Aju Varghese](https://open.spotify.com/artist/42d9KSmYSpFPoeIcEaQYpz) | [Guruvayoorambala Nadayil](https://open.spotify.com/album/19RRSzy72cqWRoAa74qsK3) | 3:03 | 2024-06-03 | 2025-04-29 |
 | [Kaathal Maari](https://open.spotify.com/track/3tnaBKfA1AjFMS6P5vTI95) | [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi), [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Manas Krishna](https://open.spotify.com/artist/0yWITsEN8nik0wQA5BoxVU) | [Kaathal Maari](https://open.spotify.com/album/3qus9fEFuqdeDVATJuiEnQ) | 3:16 | 2025-06-09 | 2025-08-26 |

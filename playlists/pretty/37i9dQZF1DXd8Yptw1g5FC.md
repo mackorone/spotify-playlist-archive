@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sakiler ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,467 likes - 137 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,456 likes - 137 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 84 | [Hain](https://open.spotify.com/track/0RtJCjLOZ6dKz11Ypunbeb) | [SEMİ](https://open.spotify.com/artist/6RshzXhUXUS3fUolvlnqos) | [Hain](https://open.spotify.com/album/6D71E9sKNq9uNUydqyPVpW) | 2:31 |
 | 85 | [Ayrılığın Şarkısı](https://open.spotify.com/track/08CbK1TtRxMHk0loFe2lHx) | [Xentix](https://open.spotify.com/artist/1RltulqsGXX8jN82sxZHpp) | [LUES](https://open.spotify.com/album/51dxsotdZHkjSdt5wAmIxs) | 2:43 |
 | 86 | [Unutma Beni \- Acoustic](https://open.spotify.com/track/2kBnU9L1TOCqqQIYwRFAIh) | [Ozan Buğra Kaya](https://open.spotify.com/artist/2ojjkWS7CBgLd9UIHdjG1l) | [Unutma Beni \(Acoustic\)](https://open.spotify.com/album/3LvRkMEDcwMZewb5fDfRra) | 3:04 |
-| 87 | [Yol üstünde karakol](https://open.spotify.com/track/0kaoq73VQiq9QIWpZAcbWU) | [Taylan Özgür Ölmez](https://open.spotify.com/artist/1M4zAzzBF2XotLbP6CWeJY) | [Yol üstünde karakol](https://open.spotify.com/album/1Lp0wyE6g1Jv8HJzcIY6aD) | 4:14 |
+| 87 | [Yol üstünde karakol](https://open.spotify.com/track/0kaoq73VQiq9QIWpZAcbWU) | [Taylan Özgür Ölmez](https://open.spotify.com/artist/1M4zAzzBF2XotLbP6CWeJY), [Mutlu kızılgedik](https://open.spotify.com/artist/0BHcBBrF9BjXIphrX3rHjE) | [Yol üstünde karakol](https://open.spotify.com/album/1Lp0wyE6g1Jv8HJzcIY6aD) | 4:14 |
 | 88 | [Alışamadım Yokluğuna](https://open.spotify.com/track/6L0xiIMpwxbUZRMTrYZ0ji) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Alışamadım Yokluğuna](https://open.spotify.com/album/0ttwaSqJ4v4qVDUsHkyeQX) | 3:19 |
 | 89 | [Sanki](https://open.spotify.com/track/3tDx2S9Gv3NkVITTcb7wx6) | [Oğuz Kaan Ünsal](https://open.spotify.com/artist/76L6JCPtSdRh1X0cX0UQGI) | [Sanki](https://open.spotify.com/album/3rBVyC1WevtGIceXccxvIg) | 2:42 |
 | 90 | [Bakarız](https://open.spotify.com/track/2xakO9vBrhiD3kH4cPlvWO) | [Ozan Soylu](https://open.spotify.com/artist/04l2nThHoiW5afNWouVRWZ) | [Bakarız](https://open.spotify.com/album/3ZRFtEcJVzxyWAS0lju5H5) | 3:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring G Herbo, Cardi B, Lil Yachty and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,513 likes - 58 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,548 likes - 58 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

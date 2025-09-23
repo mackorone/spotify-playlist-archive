@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jackie Hill Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,658 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,674 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 43 | [Year To The Day](https://open.spotify.com/track/1Q28zWOnqEop3oAUfl9cxo) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Year To The Day](https://open.spotify.com/album/5QSGUiGY6qAgDgBgIqcbrp) | 4:03 |
 | 44 | [The Master's on the Roam](https://open.spotify.com/track/09lF08yulne2dqGRQeRVGe) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [The Master's on the Roam](https://open.spotify.com/album/3ZP5ZUA0pvirT8d3YBOXzs) | 4:15 |
 | 45 | [abundant life](https://open.spotify.com/track/2XLOqOErZ5fLwBSmTSelqv) | [Ian Austin](https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd) | [abundant life](https://open.spotify.com/album/3bmvdIubWYfE1XTAmcdrmv) | 4:10 |
-| 46 | [Washed](https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Washed](https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn) | 4:04 |
+| 46 | [WASHED](https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WASHED](https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn) | 4:04 |
 | 47 | [Never Run Out \(Live\)](https://open.spotify.com/track/4ZbOiw3QXILlG9LtGK3Pdr) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [Never Run Out \(Live\)](https://open.spotify.com/album/4ffNoYd6UQqtBhZaC9sorM) | 3:43 |
 | 48 | [How Great Thou Art \- Live](https://open.spotify.com/track/2Qie9Sz3nvgRWmqqKAolDE) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [How Great Thou Art \(Live\)](https://open.spotify.com/album/2sMovJU5DW6HqGjeqfHCzo) | 8:29 |
 | 49 | [Garment Of Praise](https://open.spotify.com/track/7qoBxBqlfuaUeX5joR78J1) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [Garment Of Praise](https://open.spotify.com/album/4MJ9SGbwctoqWTaSZyWG0V) | 4:59 |

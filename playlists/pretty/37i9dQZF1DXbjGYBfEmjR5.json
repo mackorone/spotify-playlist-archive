@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 353705,
+  "num_followers": 353766,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "PopSlinger (Original Videogame Soundtrack)",
         "url": "https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 208000,
       "name": "Static Startup",
       "url": "https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -903,7 +903,7 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Sessions: Star Guardian Taliyah",
+        "name": "Sessions: Star Guardian Taliyah (OST from Sessions: Star Guardian Taliyah)",
         "url": "https://open.spotify.com/album/5a3R3wxx4SURufgfrgxwdV"
       },
       "artists": [
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Stellae",
-        "url": "https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Rhodes Rodosu",
-          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
-        }
-      ],
-      "duration_ms": 230163,
-      "name": "Stellae",
-      "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Slowed Midnight",
         "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Stellae",
+        "url": "https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "duration_ms": 230163,
+      "name": "Stellae",
+      "url": "https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "At the End of the Day",
+        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Electroptysis",
+      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "At the End of the Day",
-        "url": "https://open.spotify.com/album/7Lb31BHTAcVO4bsiqyBEUv"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Electroptysis",
-      "url": "https://open.spotify.com/track/5S0RLQ2BlIdDtWrRk0b4qz"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Showa",
         "url": "https://open.spotify.com/album/5qOV4JCW6SC2cR9eZU5Hgv"
       },
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Delicate",
         "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 251151,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     },
     {
       "added_at": "2023-07-18 02:21:29",

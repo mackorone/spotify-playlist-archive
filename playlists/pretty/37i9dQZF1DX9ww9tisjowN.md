@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: POLYESTER & POLYURETHANE from New PANTY & STOCKING with GARTERBELT ©TRIGGER・今石洋之／NPSG製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,056 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,262 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 62 | [空](https://open.spotify.com/track/2v99oKRqNh53YIeJmHyRts) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 3:39 |
 | 63 | [THUNDA](https://open.spotify.com/track/1BEyOBT9L7Sl9oXJiJgryS) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS) | [THUNDA](https://open.spotify.com/album/7Lw4duprv7ZTxEBm1Hj87H) | 2:41 |
 | 64 | [Orpheus](https://open.spotify.com/track/5tROXAnQQpTJNkC44M2F8c) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [Orpheus](https://open.spotify.com/album/6QqPIWXYmYG8vMWDObUf2b) | 3:03 |
-| 65 | [光](https://open.spotify.com/track/6FBj38HvATJbaI0jZRoUBR) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [光](https://open.spotify.com/album/5ssEvdycaj6hwndNCrYZtF) | 3:02 |
+| 65 | [KUROMI♡Profile \- English Version](https://open.spotify.com/track/2LDQJNHHwXLRAX56lwmEtf) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [KUROMI♡Profile \(English Version\)](https://open.spotify.com/album/7doVTHuq8Q5JjZvYh3ASeR) | 3:13 |
 | 66 | [カルチャー](https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [カルチャー](https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv) | 2:58 |
 | 67 | [Hold Me Tight](https://open.spotify.com/track/1i1sx05NaNlIJOTVhBCKf5) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Hold Me Tight](https://open.spotify.com/album/08TNzA6PN5t63FZGBZfhLz) | 3:10 |
 | 68 | [TYPEWRITE LESSON](https://open.spotify.com/track/3SSIE7ScKKBLtA7y1ZBhVu) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Fantasma Bonus Tracks](https://open.spotify.com/album/2TXHTCQKxZwQOtdzu0vvhe) | 5:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 75 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
 
-Snapshot ID: `AAAAAL8qG8GaNBQy7UlvyBbpAmww/u8f`
+Snapshot ID: `AAAAACTJCqpZxMBMgBjHGCoceW2vs1wl`

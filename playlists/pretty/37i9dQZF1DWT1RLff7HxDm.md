@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,482 likes - 100 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,520 likes - 100 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Peace Machine \(Live in L.a\. at The Baked Potato\)](https://open.spotify.com/track/01vW1dzOkXaISWwBe0MOsx) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine \(Live in L.a\. at The Baked Potato\)](https://open.spotify.com/album/6gXu4Xk2P6CfCGJLu54t9w) | 9:30 |
+| 1 | [Peace Machine \(Live in L.A\. at The Baked Potato\)](https://open.spotify.com/track/01vW1dzOkXaISWwBe0MOsx) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Peace Machine \(Live in L.A\. at The Baked Potato\)](https://open.spotify.com/album/6gXu4Xk2P6CfCGJLu54t9w) | 9:30 |
 | 2 | [I Put A Spell On You](https://open.spotify.com/track/1MjrAbIA1Uhq1gURgMV36C) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [I Put A Spell On You](https://open.spotify.com/album/3FgscaFSKt1FekwGFw4FNQ) | 7:53 |
 | 3 | [I'm Gonna Move To The Outskirts Of Town \- Remastered 2024](https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 23:22 |
 | 4 | [Prisoner \(Live At The Hollywood Bowl With Orchestra\)](https://open.spotify.com/track/0lJaKtdseCtmsSsYHXptfC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live At The Hollywood Bowl With Orchestra](https://open.spotify.com/album/1nnUD5cVKlnc0wSsIQY4lG) | 8:35 |

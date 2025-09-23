@@ -10340,7 +10340,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 405782,
       "name": "Bom Perdedor / Bijuteria / Aus\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/7kAuqHebk22DpiTPUUt8Qj"
@@ -39472,7 +39472,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -78325,6 +78325,24 @@
     },
     {
       "album": {
+        "name": "Vidigal",
+        "url": "https://open.spotify.com/album/0JSUJSKzRjTjh50a0V8sW7"
+      },
+      "artists": [
+        {
+          "name": "Lipe Gama",
+          "url": "https://open.spotify.com/artist/50h1dVya3vi6X0CWMYb7ZO"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162123,
+      "name": "Vidigal",
+      "url": "https://open.spotify.com/track/6FWgdsug0D3MrYtGqSh1Yd"
+    },
+    {
+      "album": {
         "name": "Vagabundo de Luxo",
         "url": "https://open.spotify.com/album/4xemDx7QFi5hUSETm5auUv"
       },
@@ -82352,6 +82370,24 @@
     {
       "album": {
         "name": "Mil Coisas Invis\u00edveis",
+        "url": "https://open.spotify.com/album/0icYpEwVxogZ6mCERLIVpa"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322822,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/0yhD6nDWj55d8t7LonWeXo"
+    },
+    {
+      "album": {
+        "name": "Mil Coisas Invis\u00edveis",
         "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
       },
       "artists": [
@@ -82362,7 +82398,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 322822,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/6chduBrTJGUrIGXV8K0nSJ"
@@ -82500,7 +82536,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-17",
+      "date_removed": null,
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

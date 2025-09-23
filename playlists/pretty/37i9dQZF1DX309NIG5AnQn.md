@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 NOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,337 likes - 109 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,345 likes - 109 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

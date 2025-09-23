@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-435 songs - 1 day 2 hr 27 min
+437 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Everest](https://open.spotify.com/track/49oueTCRWHRAsgTL2Or5IG) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:42 | 2025-04-07 |  |
 | [Evermore](https://open.spotify.com/track/0ZSLQqw4B8NnCOLSqjpT80) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/0VbtPM7aoO66CmmxJQyvqE) | 3:43 | 2022-03-25 | 2022-07-29 |
 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 | 2022-06-17 | 2024-04-12 |
+| [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 | 2025-09-22 |  |
 | [Everything Is Free](https://open.spotify.com/track/09kqBDUB4VbAkjEEqPWgjI) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Everything Is Free](https://open.spotify.com/album/3DnPE3fxfRASFPsyJga5WV) | 4:17 | 2022-03-25 | 2023-02-14 |
 | [Everything Is Free](https://open.spotify.com/track/5lQzwaSn22jWxLPvrlSO0z) | [Lisa Mitchell](https://open.spotify.com/artist/53f2OKMfVLTsHFkGyA5dnz) | [Everything Is Free](https://open.spotify.com/album/75B0IhdJSK38pIcrhe4tTk) | 4:17 | 2023-01-27 | 2023-09-23 |
 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:45 | 2022-03-25 | 2024-04-19 |
@@ -247,7 +248,7 @@
 | [Long Way Home](https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN) | 4:01 | 2024-07-02 |  |
 | [Lotta Love](https://open.spotify.com/track/2n9y3UtCDmRUD94jlPTJCz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Lotta Love](https://open.spotify.com/album/0oVhAs8HZP3UE1G3ptBBa0) | 2:49 | 2025-02-25 |  |
 | [Louise \(feat\. Teitur\)](https://open.spotify.com/track/1ZeVc8ZvZsCzVZ532nr14a) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN), [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Louise \(feat\. Teitur\)](https://open.spotify.com/album/5JQlz2FPLZqgm4b0AgxRXS) | 3:29 | 2024-04-02 | 2025-02-04 |
-| [Lover's Lullaby](https://open.spotify.com/track/2LpKZKvmzdMxqq8wqEETM4) | [ChaiChester](https://open.spotify.com/artist/2Pd6KDm45ZRvK1o8UQ9xbA) | [Lansdowne](https://open.spotify.com/album/23mcjrlfU9BVriT3ZRPIOG) | 3:14 | 2024-09-22 |  |
+| [Lover's Lullaby](https://open.spotify.com/track/2LpKZKvmzdMxqq8wqEETM4) | [ChaiChester](https://open.spotify.com/artist/2Pd6KDm45ZRvK1o8UQ9xbA) | [Lansdowne](https://open.spotify.com/album/23mcjrlfU9BVriT3ZRPIOG) | 3:14 | 2024-09-22 | 2025-09-23 |
 | [Madeleine](https://open.spotify.com/track/7CTVIpoQqwCki0Lprz0ez6) | [Alexander Biggs](https://open.spotify.com/artist/0ecqKW5XAse2iABt1eDvvo) | [Madeleine](https://open.spotify.com/album/5R0aWhBYvDZmR3bdvEaVtf) | 3:00 | 2022-03-25 | 2024-02-17 |
 | [Magnets](https://open.spotify.com/track/2sB8dT3Y4UhbUgfW77X6k1) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [Magnets](https://open.spotify.com/album/2BMRZ0ekWWbPNWDtlKdvKt) | 2:57 | 2025-04-07 |  |
 | [Majuy](https://open.spotify.com/track/57AagUYydzbo7sh6Cho7ol) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Majuy](https://open.spotify.com/album/0H5sutuG8SxzzXub3Qmtfd) | 3:55 | 2024-03-21 | 2024-06-05 |
@@ -324,7 +325,7 @@
 | [Small Enough](https://open.spotify.com/track/6tdjd2bhX43k5svZfymkDR) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Small Enough](https://open.spotify.com/album/7lQGdUNm0dB2u5d1oD7Os9) | 3:32 | 2024-02-16 | 2024-05-17 |
 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 | 2022-03-25 | 2024-04-03 |
 | [Smile At The Party](https://open.spotify.com/track/6fwipwQY4OF3qGbvUtByiy) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/65s5nzkC6FW6UUQcxpHdxE) | 4:26 | 2022-06-17 | 2022-09-24 |
-| [Smokescreen \(Shadow King\)](https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [Smokescreen \(Shadow King\)](https://open.spotify.com/album/7o9byyS21lszKBYZ3X0h4U) | 3:29 | 2024-08-26 |  |
+| [Smokescreen \(Shadow King\)](https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [Smokescreen \(Shadow King\)](https://open.spotify.com/album/7o9byyS21lszKBYZ3X0h4U) | 3:29 | 2024-08-26 | 2025-09-23 |
 | [Some Things Distinct & Some Things Whole](https://open.spotify.com/track/35yUrXoiylgFOca4BZzV7E) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Some Things Distinct & Some Things Whole](https://open.spotify.com/album/02n2TUl1uJvtVb16eup0jS) | 3:55 | 2025-06-16 | 2025-09-09 |
 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 | 2024-03-21 | 2024-06-27 |
 | [Soon](https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:43 | 2022-06-17 | 2023-09-23 |
@@ -432,6 +433,7 @@
 | [With You](https://open.spotify.com/track/0Bq1REhXXSEvKwH91K3nWc) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2Q3BIgHqKOmCz0gSeaLnr6) | 3:36 | 2022-03-25 | 2022-07-29 |
 | [With You](https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/4bONIjnWMhvhJlgGHqTgY7) | 3:36 | 2022-06-17 | 2023-05-10 |
 | [Wolves](https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [Running With The Wolves](https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je) | 2:43 | 2022-03-25 | 2024-04-05 |
+| [Wooden Floors](https://open.spotify.com/track/5qpfPjWZJFUAZ5cWn1tdXA) | [Ally Row](https://open.spotify.com/artist/6gLauhibvHS5NORxI3wY1x) | [Something More](https://open.spotify.com/album/2YGPWf7kQYSQ4d53fqgZUo) | 4:16 | 2025-09-22 |  |
 | [World Between Us](https://open.spotify.com/track/4mztIZ7zshqZtFyexrv0zY) | [Chris Lanzon](https://open.spotify.com/artist/42fTI1VyX5axJX1ZlPi7dS) | [Angel Litany](https://open.spotify.com/album/5brBvN6x5ZBxWUp5vmLvAg) | 2:54 | 2024-09-22 |  |
 | [World on a String](https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe) | 3:09 | 2024-04-02 | 2024-04-19 |
 | [World on a String](https://open.spotify.com/track/2DrvOkDbR6GEzBdMTnYBqg) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/6jA0g1Eoa6rRidu501dcJb) | 3:09 | 2024-04-02 | 2024-07-13 |

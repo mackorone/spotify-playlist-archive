@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "All Hits At the House of Blues",
+        "url": "https://open.spotify.com/album/4TiRuR4PBDntV78q3a4hcr"
+      },
+      "artists": [
+        {
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112013,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/0pLRTql7JrVXVlYVQoGZvj"
+    },
+    {
+      "album": {
         "name": "Boyz N The Hood",
         "url": "https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep"
       },

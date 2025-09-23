@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,685 likes - 114 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,673 likes - 114 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 3 | [VEM VET?](https://open.spotify.com/track/5ukPTFMAIoEq6AOmRHZFRk) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc) | [RUSHEN TAR ALDRIG SLUT](https://open.spotify.com/album/3ZtvMVD8asywOMHIbix1nS) | 2:05 |
 | 4 | [GET IT](https://open.spotify.com/track/4sWn1B6dgtvoNEFQxkwma7) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [GET IT](https://open.spotify.com/album/6Qtv6pUXCkQVuDmqyWOE5L) | 2:30 |
 | 5 | [Genom Allt \(Kokaina\)](https://open.spotify.com/track/66tr1YOCZpFODFI3Bc0B0i) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Genom Allt \(Kokaina\)](https://open.spotify.com/album/2XEayTsZw7TbUuh5rZ2xDq) | 2:48 |
-| 6 | [Turn Up](https://open.spotify.com/track/6QQRwucjZ87vZKEWwzJSSt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Turn Up](https://open.spotify.com/album/4Two3vx9kFzg7akNFxd2UK) | 2:16 |
-| 7 | [Genom Livet](https://open.spotify.com/track/68z4nDnQabrnULlTyAvaCK) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Genom Livet](https://open.spotify.com/album/0ct8ntphMdMigKb79CkPlA) | 2:18 |
-| 8 | [FALLA \(La La La\)](https://open.spotify.com/track/7ohvTpNLUcrXl4G7lVGuKz) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Nordiste](https://open.spotify.com/artist/7MnhvO5Zr1GIlQWsI3KC5c) | [FALLA \(La La La\)](https://open.spotify.com/album/5cjwMz5O2SiWQ1xVOEfPK1) | 2:45 |
-| 9 | [KLIVA](https://open.spotify.com/track/2cODYcmgbhzszlVg2mJO4K) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [KLIVA](https://open.spotify.com/album/03GmRlAXQuQsyxPeD7o2Zj) | 2:03 |
-| 10 | [Bodyscore](https://open.spotify.com/track/4KUKXNmn2wWQiRLbsVjbsY) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Bodyscore](https://open.spotify.com/album/2IPmE54jzizI43XssgKDbv) | 2:00 |
-| 11 | [Why](https://open.spotify.com/track/5czp7NeSQ3L8N4LLlRfqpR) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Why](https://open.spotify.com/album/3RdeTYZ8N1ulW4Pf1KmkSD) | 2:20 |
-| 12 | [DU O JAG](https://open.spotify.com/track/7oHQLi0Owrh1oWcf65rZXQ) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [DU O JAG](https://open.spotify.com/album/3PsdcjxF0m936yEUPfRtmD) | 2:16 |
-| 13 | [2 Hundra Papp](https://open.spotify.com/track/3uNQackev8CMqzR1Oz5NGO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [BAKOM MASKEN](https://open.spotify.com/album/3000lYiVtAOXGZG57Zeq5c) | 2:05 |
-| 14 | [Sväva](https://open.spotify.com/track/1FNDSRs6QVeFbeglIXn86r) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Sväva](https://open.spotify.com/album/13HuYOpHGWLhyxcVRiTJjU) | 2:27 |
+| 6 | [KLIVA](https://open.spotify.com/track/2cODYcmgbhzszlVg2mJO4K) | [LB](https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv) | [KLIVA](https://open.spotify.com/album/03GmRlAXQuQsyxPeD7o2Zj) | 2:03 |
+| 7 | [Turn Up](https://open.spotify.com/track/6QQRwucjZ87vZKEWwzJSSt) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Turn Up](https://open.spotify.com/album/4Two3vx9kFzg7akNFxd2UK) | 2:16 |
+| 8 | [Genom Livet](https://open.spotify.com/track/68z4nDnQabrnULlTyAvaCK) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Genom Livet](https://open.spotify.com/album/0ct8ntphMdMigKb79CkPlA) | 2:18 |
+| 9 | [FALLA \(La La La\)](https://open.spotify.com/track/7ohvTpNLUcrXl4G7lVGuKz) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Nordiste](https://open.spotify.com/artist/7MnhvO5Zr1GIlQWsI3KC5c) | [FALLA \(La La La\)](https://open.spotify.com/album/5cjwMz5O2SiWQ1xVOEfPK1) | 2:45 |
+| 10 | [Sväva](https://open.spotify.com/track/1FNDSRs6QVeFbeglIXn86r) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Sväva](https://open.spotify.com/album/13HuYOpHGWLhyxcVRiTJjU) | 2:27 |
+| 11 | [Bodyscore](https://open.spotify.com/track/4KUKXNmn2wWQiRLbsVjbsY) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Bodyscore](https://open.spotify.com/album/2IPmE54jzizI43XssgKDbv) | 2:00 |
+| 12 | [Why](https://open.spotify.com/track/5czp7NeSQ3L8N4LLlRfqpR) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Why](https://open.spotify.com/album/3RdeTYZ8N1ulW4Pf1KmkSD) | 2:20 |
+| 13 | [DU O JAG](https://open.spotify.com/track/7oHQLi0Owrh1oWcf65rZXQ) | [GINOO](https://open.spotify.com/artist/233kPTE6hirA7nL4cfLnQM), [saucedupfr](https://open.spotify.com/artist/6Ul8A1WjPDjuvCAeEwepri) | [DU O JAG](https://open.spotify.com/album/3PsdcjxF0m936yEUPfRtmD) | 2:16 |
+| 14 | [2 Hundra Papp](https://open.spotify.com/track/3uNQackev8CMqzR1Oz5NGO) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [BAKOM MASKEN](https://open.spotify.com/album/3000lYiVtAOXGZG57Zeq5c) | 2:05 |
 | 15 | [HIGHLIFE](https://open.spotify.com/track/5LZHyInfEfvBrRYvApfCP9) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [HIGHLIFE](https://open.spotify.com/album/0JKQMoMJzbYQRHdI5lKQpw) | 2:20 |
 | 16 | [Kiss N Tell](https://open.spotify.com/track/2bK0IFKQWY19cNzHObywZ9) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Kiss N Tell](https://open.spotify.com/album/66MvGuaIYRRyhTN4WitjiW) | 2:39 |
 | 17 | [Balotelli](https://open.spotify.com/track/0tplJv504n1xNyq4TrprZG) | [Roman](https://open.spotify.com/artist/6nSyvCv3zRnxU9Q3QUNBrZ), [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Balotelli](https://open.spotify.com/album/0aItpOzSQT4GNqqPvT6lpb) | 2:19 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 113 | [Real Life](https://open.spotify.com/track/3rnU46eWn3eXkKNzVz5Jzq) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Real Life](https://open.spotify.com/album/6IhbtsWYjwBQ9YwM5ouDeS) | 2:40 |
 | 114 | [OBAMA](https://open.spotify.com/track/31ozexiE5T5lWeEly3XWzG) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [OBAMA](https://open.spotify.com/album/0rXPLDNVlxhpW3rBLQiysp) | 2:10 |
 
-Snapshot ID: `AAAAADQ+Hz0Jaic2wPPySnAv1HK6hX9g`
+Snapshot ID: `AAAAAEjrXjKzLRHyU60WMueGl+xlBXBY`

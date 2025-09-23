@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Thundercat, Remi Wolf and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,495 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,494 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 57 | [Lessons](https://open.spotify.com/track/7dcNsaYCgtycbQYYPj5bao) | [Loaded Honey](https://open.spotify.com/artist/2vTfPvhJkpW1DTjmMvHjOB), [Lydia Kitto](https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA), [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Lessons](https://open.spotify.com/album/4C2gEjnKmczLeeYsPRGNzR) | 3:38 |
 | 58 | [one pillow](https://open.spotify.com/track/7tOLgvowU2OcA1gx44mpxz) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Dream Manifest](https://open.spotify.com/album/4NRmmJqFrnn3tM6aI5xwQq) | 3:43 |
 | 59 | [Lovely Day](https://open.spotify.com/track/0H29EISjFfGF44DIZ0lPXk) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [Lovely Day](https://open.spotify.com/album/6ZZoA5zWCLRxPyZeODvfyb) | 3:25 |
-| 60 | [Good Love](https://open.spotify.com/track/30GQHEEu8WLEyCcPM0QuTL) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Nonso Amadi](https://open.spotify.com/artist/0h9yqGVohKpPxKmjNKWEoH) | [Good Love](https://open.spotify.com/album/0RpbdimwKYoFufFXi5VvCk) | 3:43 |
+| 60 | [Good Love](https://open.spotify.com/track/30GQHEEu8WLEyCcPM0QuTL) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Good Love](https://open.spotify.com/album/0RpbdimwKYoFufFXi5VvCk) | 3:43 |
 | 61 | [KOFFEE](https://open.spotify.com/track/0dWKOf4DweFGtwUvSmbdbj) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [KOFFEE](https://open.spotify.com/album/5L4jCtM0ZxghguzR7pQ81S) | 2:27 |
 | 62 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 63 | [Carolina Honey](https://open.spotify.com/track/7frjJZJQYBkL8gbs3udaew) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Carolina Honey](https://open.spotify.com/album/5iq5NAPyvNDUB6gdJD6LSb) | 4:10 |

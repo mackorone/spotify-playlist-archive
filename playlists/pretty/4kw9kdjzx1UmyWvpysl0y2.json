@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124959,
+  "num_followers": 124949,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUmYvuiStiJLqwc/+JUXXaXOr2+SHM",
+  "snapshot_id": "AAAUmnT4rotQL658mmiMxYdtDsm5p1hV",
   "tracks": [
+    {
+      "added_at": "2025-09-22 14:32:13",
+      "album": {
+        "name": "sans. (Tokyo Machine Remix)",
+        "url": "https://open.spotify.com/album/3n1Jnvr5XC6BENwC7cFdrl"
+      },
+      "artists": [
+        {
+          "name": "Toby Fox",
+          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
+        },
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "sans. - Tokyo Machine Remix",
+      "url": "https://open.spotify.com/track/5aEAfolOxYJjqvNlbqIOqT"
+    },
     {
       "added_at": "2025-09-19 14:33:37",
       "album": {

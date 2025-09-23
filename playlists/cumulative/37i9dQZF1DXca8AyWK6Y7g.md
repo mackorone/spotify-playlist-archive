@@ -4,7 +4,7 @@
 
 > when the ‘that boy is corrupt’ line feels… oddly specific
 
-2,552 songs - 5 day 8 hr 18 min
+2,553 songs - 5 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1578,7 +1578,7 @@
 | [next door \(feat\. ASTN\)](https://open.spotify.com/track/08HGey7e94Ez3ZurG1IXTP) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [next door \(feat\. ASTN\)](https://open.spotify.com/album/74hbTOydyddGuDuVfGGrdv) | 3:28 | 2022-09-23 | 2023-04-23 |
 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 | 2025-04-04 | 2025-07-05 |
 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 | 2023-05-26 | 2023-06-03 |
-| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-30 |  |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-30 | 2025-09-23 |
 | [Nice To Meet Me](https://open.spotify.com/track/5xA9Y5MQ3UdHOthViOVg2K) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Nice To Meet Me](https://open.spotify.com/album/0UkpkkacCX6qmSNsAEOZrv) | 3:04 | 2024-10-25 | 2025-01-25 |
 | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa) | 3:03 | 2024-07-12 | 2025-01-25 |
 | [Nightmare](https://open.spotify.com/track/2QZkYNacaOPF4nks16VXKv) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/5yww0Dfv2PDy2DWmxFsUzv) | 3:35 | 2023-04-22 | 2023-04-29 |
@@ -1952,6 +1952,7 @@
 | [Sex, Drugs & Existential Dread](https://open.spotify.com/track/6QNvGDyclysWjq7QQcWHAk) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sex, Drugs & Existential Dread](https://open.spotify.com/album/0Syfp5gxI3H1IAVPBBx4O0) | 2:35 | 2025-03-07 | 2025-05-17 |
 | [Sexy Goodbye](https://open.spotify.com/track/5UHepEU0zMnz5sx1V9idJ5) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Sexy Goodbye](https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK) | 3:26 | 2024-10-11 | 2025-01-25 |
 | [SH!TSHOW](https://open.spotify.com/track/44BLCiHna5WuziLINWZhYb) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [SH!TSHOW](https://open.spotify.com/album/22yKdIPMgsXi5SsbiCe3Pn) | 3:05 | 2022-11-11 | 2023-04-23 |
+| [SH!TTALKING](https://open.spotify.com/track/4AzdPZYpsJzc4FxD1o7dJX) | [Dafna](https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP) | [SH!TTALKING](https://open.spotify.com/album/7CL2kz8rcwWbzJh8zSPUxd) | 3:26 | 2025-09-22 |  |
 | [Sh\*t People](https://open.spotify.com/track/2o5waDrBvUvW0vmZWQ7DtS) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sh\*t People](https://open.spotify.com/album/2kWbl4QeZsNbCdLAPeV6cR) | 3:16 | 2021-08-13 | 2022-01-29 |
 | [SHADES ON](https://open.spotify.com/track/0o7t39Y0zDTrqqcJx5CbZ8) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [SHADES ON](https://open.spotify.com/album/40BvwgCFswCvzMltktVPtV) | 2:20 | 2021-02-24 | 2021-08-20 |
 | [Shambles.](https://open.spotify.com/track/1oiE058vSvyqpo36OAiRPL) | [Ben Zaidi](https://open.spotify.com/artist/5gpdr2m2nOvvKrEgtbD16W), [Budo](https://open.spotify.com/artist/4OGqq1ay5l8z1sFK8sMlOR) | [Shambles.](https://open.spotify.com/album/6tYdWcHyxtbpWuZiR2mlHc) | 3:20 | 2019-05-26\* | 2019-09-14 |

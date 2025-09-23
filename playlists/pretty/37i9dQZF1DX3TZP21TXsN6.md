@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: JR, Defano Holwijn, Vensly en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,433 likes - 64 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,420 likes - 64 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

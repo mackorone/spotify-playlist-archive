@@ -4,10 +4,11 @@
 
 > anything by adrianne lenker on repeat
 
-257 songs - 16 hr 48 min
+258 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [' Cello Song](https://open.spotify.com/track/42yexCY4dCftowtAZXuAIj) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:44 | 2025-09-22 |  |
 | [A Dream I Had in My Past Life](https://open.spotify.com/track/01nLwmCA68K6rqlVQwV6bs) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/6TZ0b8gl6YLKGYGaeMGbRO) | 1:32 | 2022-09-21 | 2023-06-29 |
 | [A Dream I Had in My Past Life](https://open.spotify.com/track/5ressNYvOIWP7ofL9iYCoW) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/0QmuKbsoNn6GUxMJBTaQon) | 1:32 | 2022-09-21 | 2022-10-22 |
 | [A Dream I Had in My Past Life](https://open.spotify.com/track/63umB3lJqNwWyGUV7PaFUv) | [Francisco Sola](https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu) | [A Dream I Had in My Past Life](https://open.spotify.com/album/2Yp9WilrLmcvqRtYC9JLbX) | 1:32 | 2022-10-24 | 2023-08-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 23214,
+  "num_followers": 23220,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "GLC",
+          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+        },
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        }
+      ],
+      "duration_ms": 324226,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -199,30 +223,6 @@
       "duration_ms": 305280,
       "name": "UMI Says",
       "url": "https://open.spotify.com/track/5Ru9OjtEw5htfnVKpYsIcv"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "GLC",
-          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
-        },
-        {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
-        }
-      ],
-      "duration_ms": 324226,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        },
-        {
-          "name": "Carl Thomas",
-          "url": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Can't Believe (feat. Carl Thomas)",
-      "url": "https://open.spotify.com/track/2423gyT9B3zNqC9ZD8QfSu"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 174253,
       "name": "The Waters (feat. BJ the Chicago Kid)",
       "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Carl Thomas",
+          "url": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Can't Believe (feat. Carl Thomas)",
+      "url": "https://open.spotify.com/track/2423gyT9B3zNqC9ZD8QfSu"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -491,6 +491,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "J. Ivy",
+          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
+        }
+      ],
+      "duration_ms": 324440,
+      "name": "Never Let Me Down",
+      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "New Orleans Bounce Essentials, Vol. 1",
         "url": "https://open.spotify.com/album/1ErFP5RZYuAr6OcwyYPmqn"
       },
@@ -523,30 +547,6 @@
       "duration_ms": 252973,
       "name": "You'll Never Find (a Better Woman)",
       "url": "https://open.spotify.com/track/2aJzN2dhjqBrBzMuNYMkiG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "J. Ivy",
-          "url": "https://open.spotify.com/artist/0hKpvarswO34Ks5iPNmEXn"
-        }
-      ],
-      "duration_ms": 324440,
-      "name": "Never Let Me Down",
-      "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Middle America",
-        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
-      },
-      "artists": [
-        {
-          "name": "Project Mayhem",
-          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
-        }
-      ],
-      "duration_ms": 230948,
-      "name": "No Room in the Limo",
-      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Tawk Tomahawk",
         "url": "https://open.spotify.com/album/54UDcBALhfyaQ67fsSZrkQ"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Middle America",
+        "url": "https://open.spotify.com/album/2OtKj14wexL3GezWDdbro6"
+      },
+      "artists": [
+        {
+          "name": "Project Mayhem",
+          "url": "https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl"
+        }
+      ],
+      "duration_ms": 230948,
+      "name": "No Room in the Limo",
+      "url": "https://open.spotify.com/track/4WbK3e9uLSFXuZSUzzsDMn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "ALL NIGHT (Goodlife)",
         "url": "https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v"
       },
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Jassbusters",
+        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
+      },
+      "artists": [
+        {
+          "name": "Connan Mockasin",
+          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
+        }
+      ],
+      "duration_ms": 536254,
+      "name": "Charlotte's Thong",
+      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Catching Dreams",
         "url": "https://open.spotify.com/album/6k2MHYTdkGM5Mgmo0dwDtu"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 374849,
       "name": "Finding Home in Rwanda",
       "url": "https://open.spotify.com/track/3B8VmjKKdmkT2XByRT6Kq4"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Jassbusters",
-        "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
-      },
-      "artists": [
-        {
-          "name": "Connan Mockasin",
-          "url": "https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA"
-        }
-      ],
-      "duration_ms": 536254,
-      "name": "Charlotte's Thong",
-      "url": "https://open.spotify.com/track/4sNygl4IX9iMZ7nV3XTUJe"
     }
   ],
   "unique_name": "Coodie & Chike's Taste",

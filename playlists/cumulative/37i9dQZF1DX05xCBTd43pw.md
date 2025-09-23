@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Nemo
 
-407 songs - 20 hr 59 min
+408 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Lakers](https://open.spotify.com/track/0351Q9c4ETLOlr34NGQyEN) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 3:23 | 2025-04-24 | 2025-05-02 |
 | [last dance](https://open.spotify.com/track/59423EvuZmpZIyzMM2ii9F) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [last dance](https://open.spotify.com/album/6JkLYZkwucyZOLo7058LmX) | 3:07 | 2024-11-22 | 2024-12-21 |
 | [Le vent nous portera](https://open.spotify.com/track/0UC6CJgTFCikxLJZMNw8Xu) | [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [1983](https://open.spotify.com/album/2vZVdy9Me7olnm2GEbhPYv) | 3:46 | 2025-04-17 | 2025-04-25 |
+| [LEAVE ME ALONE](https://open.spotify.com/track/7jCDiKF2pGrNKIKrftGG39) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [LEAVE ME ALONE](https://open.spotify.com/album/0C2Kz65h6LfO5guBrCzViy) | 3:17 | 2025-09-19 |  |
 | [Leave The Light On](https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Leave The Light On](https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA) | 3:40 | 2025-01-10 |  |
 | [Let It Be Me](https://open.spotify.com/track/6ez6TPLn67qFCftaeIUiC5) | [Lucky Wüthrich](https://open.spotify.com/artist/3r5b8sR23b8sYZFwE3kxmD) | [Steady](https://open.spotify.com/album/2O0k1r51y7KQLZ0sT6CezC) | 5:39 | 2025-05-01 | 2025-05-09 |
 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 | 2024-06-27 | 2024-10-04 |
@@ -340,7 +341,7 @@
 | [Stabhochspringe](https://open.spotify.com/track/3sz6jUYOTT3hhYO2iG3vUJ) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Stabhochspringe](https://open.spotify.com/album/6druqWQ7NJiOMmjS6Ez6Cc) | 3:32 | 2025-05-15 | 2025-05-23 |
 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 | 2025-03-21 |  |
 | [Stay With Me](https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [Stay With Me](https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73) | 2:57 | 2024-06-27 | 2025-06-27 |
-| [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-11-01 |  |
+| [Stranger](https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Stranger](https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL) | 2:42 | 2024-11-01 | 2025-09-23 |
 | [SucieriaZH](https://open.spotify.com/track/1n5vXSrZ0xbFRG1JFi1L7t) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [SucieriaZH](https://open.spotify.com/album/0HOt4Q0nybLug5MreioV5j) | 2:54 | 2024-06-27 | 2024-10-04 |
 | [Sunday Service](https://open.spotify.com/track/06R8rfdCxvNg42Cn43PImw) | [Vernisage](https://open.spotify.com/artist/4leNLJ04hEVBqGEUZneALa), [Z The Freshman](https://open.spotify.com/artist/3YshwEx2EoJtYkJILG1Bl0), [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Sunday Service](https://open.spotify.com/album/6hc1wiRYsqUFifBOmCV5ki) | 2:26 | 2025-04-24 | 2025-05-02 |
 | [Superpower](https://open.spotify.com/track/3km0TRpKgO2YKtL6emfxqp) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Superpower](https://open.spotify.com/album/2fclAXbuvFGnRmJZFXaK3n) | 4:44 | 2025-09-05 |  |

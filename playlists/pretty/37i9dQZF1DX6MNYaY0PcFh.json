@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: JayaHadADream",
-  "num_followers": 95823,
+  "num_followers": 95858,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Bad Vibe",
-        "url": "https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm"
-      },
-      "artists": [
-        {
-          "name": "JKAY",
-          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
-        }
-      ],
-      "duration_ms": 142471,
-      "name": "Bad Vibe",
-      "url": "https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "GETAWAY",
         "url": "https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt"
       },
@@ -891,7 +875,23 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "i couldn't hold back",
+        "name": "Bad Vibe",
+        "url": "https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm"
+      },
+      "artists": [
+        {
+          "name": "JKAY",
+          "url": "https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO"
+        }
+      ],
+      "duration_ms": 142471,
+      "name": "Bad Vibe",
+      "url": "https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "i couldn't hold back (feat. George Riley)",
         "url": "https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa"
       },
       "artists": [
@@ -905,7 +905,7 @@
         }
       ],
       "duration_ms": 170316,
-      "name": "i couldn't hold back",
+      "name": "i couldn't hold back (feat. George Riley)",
       "url": "https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy"
     },
     {
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-09-18 23:00:15",
       "album": {
-        "name": "Move Your Body",
-        "url": "https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX"
-      },
-      "artists": [
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        },
-        {
-          "name": "Xpansions",
-          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
-        }
-      ],
-      "duration_ms": 150477,
-      "name": "Move Your Body feat. Xpansions",
-      "url": "https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA"
-    },
-    {
-      "added_at": "2025-09-18 23:00:15",
-      "album": {
         "name": "Jump Higher",
         "url": "https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 176842,
       "name": "Jump Higher",
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
+    },
+    {
+      "added_at": "2025-09-18 23:00:15",
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        },
+        {
+          "name": "Xpansions",
+          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
+        }
+      ],
+      "duration_ms": 150477,
+      "name": "Move Your Body feat. Xpansions",
+      "url": "https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA"
     },
     {
       "added_at": "2025-09-18 23:00:15",

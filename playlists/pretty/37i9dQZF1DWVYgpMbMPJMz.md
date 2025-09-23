@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,033,496 likes - 95 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,033,426 likes - 95 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 12 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 13 | [A Forgiving God](https://open.spotify.com/track/2P7JwpF4NdKjoNYSrVLrjU) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Ashton Hage](https://open.spotify.com/artist/3rYGsqNL97zjO7mru5Zefg), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [A Forgiving God](https://open.spotify.com/album/03qQZpsdCV4kS3yIWIu5Ud) | 7:50 |
 | 14 | [Shout To The Lord \- Live](https://open.spotify.com/track/6tMrS4MKYSV7koiPr4a4F9) | [House of Worship](https://open.spotify.com/artist/1Ej0ecY99HT6WiwAn6aB24), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Darlene Zschech](https://open.spotify.com/artist/6ZLy8YFk7VbamsI5qbYXtw) | [Shout To The Lord \(Live\)](https://open.spotify.com/album/3mrYDbbw7fr7HzYEnJZgli) | 7:08 |
-| 15 | [Washed](https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Washed](https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn) | 4:04 |
+| 15 | [WASHED](https://open.spotify.com/track/1w7teeq2bQ0N3JzIUUrvV0) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [WASHED](https://open.spotify.com/album/0aAvDYoVGC7FjtZ16oiYqn) | 4:04 |
 | 16 | [The God We Love \(Nicene Creed\) \- Live](https://open.spotify.com/track/2LU91DsCfLhZo1omJBOHqe) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The God We Love \(Nicene Creed\) \[Live\]](https://open.spotify.com/album/12Yg6iqB7okzg4SbYMTZaM) | 4:58 |
 | 17 | [Worthy Of It All / I Exalt Thee \- Jeremy And Adrienne Camp Version](https://open.spotify.com/track/3F03CcIJ1pRXXEiub9h65d) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Adrienne Camp](https://open.spotify.com/artist/336Pq8Mzm8a8of9wkZWePp) | [Worthy Of It All / I Exalt Thee \(Jeremy And Adrienne Camp Version\)](https://open.spotify.com/album/3iGbU4fZHlxUNEXosoCO8g) | 5:01 |
 | 18 | [Yahweh](https://open.spotify.com/track/7jXpCa8bZphQ5D9Q4JCBuF) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2), [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD) | [Yahweh](https://open.spotify.com/album/5nwgy3NavasYzcUxrjkf4V) | 2:19 |

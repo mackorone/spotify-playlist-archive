@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-607 songs - 1 day 9 hr 2 min
+608 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 | 2025-07-10 |  |
 | [Main Title](https://open.spotify.com/track/0AGEG5WMr1nVVe6MNlSVib) | [Cole Porter \(composer\), The MGM Studio Orchestra](https://open.spotify.com/artist/10DmwGZhrgdeAaxPIx4y2O) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:59 | 2025-06-27 |  |
 | [Main Titles](https://open.spotify.com/track/0EC669zWXQlHL4Sa6GR1Qh) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:56 | 2025-05-31 |  |
-| [Make It Another Old\-Fashioned, Please](https://open.spotify.com/track/2accKEqCtiNZS6uMKbbpUs) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Sophisticated Lady](https://open.spotify.com/album/3m3cJ61R7CdFR9wG3vUyhH) | 2:31 | 2025-06-27 |  |
+| [Make It Another Old Fashioned, Please](https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Bitter Orange](https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO) | 2:52 | 2025-09-22 |  |
+| [Make It Another Old\-Fashioned, Please](https://open.spotify.com/track/2accKEqCtiNZS6uMKbbpUs) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Sophisticated Lady](https://open.spotify.com/album/3m3cJ61R7CdFR9wG3vUyhH) | 2:31 | 2025-06-27 | 2025-09-23 |
 | [Make Way](https://open.spotify.com/track/1xrXbwbejM3xTdUDUeCUIe) | [George Hal](https://open.spotify.com/artist/5wK3mhMYT20X2P7bCYXvRN) | [Cole Porter's Aladdin](https://open.spotify.com/album/33nD6TAu9nI4y3bO7HjX6h) | 2:30 | 2025-06-27 |  |
 | [Many A New Day](https://open.spotify.com/track/4iBV8yv0eSLizbsgHheqkF) | [Daryl Sherman](https://open.spotify.com/artist/2qcz1Aug3UsjpWyizGOP3Q) | [Look What I Found](https://open.spotify.com/album/0p2j4p50OqENNhQox5ea8A) | 2:55 | 2024-07-24 | 2025-06-28 |
 | [Maria \(I Like It Loud\) \- R.I.O\. Radio Edit](https://open.spotify.com/track/6GkvsgwXg0kk4SyouS2QdI) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA) | [20 Years Of Hardcore \(Remastered\)](https://open.spotify.com/album/4aH3BmTBLaDZYj37AE2Doy) | 3:18 | 2024-07-24 | 2025-06-28 |

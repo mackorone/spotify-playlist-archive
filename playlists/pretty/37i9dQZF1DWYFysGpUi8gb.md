@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring dove ellis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,350 likes - 112 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,333 likes - 112 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

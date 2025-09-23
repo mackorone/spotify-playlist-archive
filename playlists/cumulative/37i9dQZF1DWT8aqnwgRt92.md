@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,158 songs - 5 day 13 hr 40 min
+2,159 songs - 5 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-17 | 2024-01-17 |
 | [Bitter end](https://open.spotify.com/track/3fdJXEe9CL4hcGCH2YE0Dc) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Bitter end](https://open.spotify.com/album/4b7PGdXNIxHJz6wvZuy0aW) | 2:46 | 2025-09-16 |  |
 | [Black Crack](https://open.spotify.com/track/50YCh8wL8YVI0W18apljDC) | [葛葉](https://open.spotify.com/artist/2U6KmGMil4ClWZB9vHEwSb) | [Black Crack](https://open.spotify.com/album/2Cmm7oVYSSjY2rsQozUu3b) | 3:04 | 2023-10-12 | 2024-01-05 |
-| [BLADE](https://open.spotify.com/track/0xiLLuDMFgFoUbJX2EHHcd) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [BLADE](https://open.spotify.com/album/4loNGWqbtqewau1O9IK6QB) | 3:44 | 2025-07-15 |  |
+| [BLADE](https://open.spotify.com/track/0xiLLuDMFgFoUbJX2EHHcd) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [BLADE](https://open.spotify.com/album/4loNGWqbtqewau1O9IK6QB) | 3:44 | 2025-07-15 | 2025-09-23 |
 | [BLADE \-運命ver.\-\(TV size\)](https://open.spotify.com/track/71HRE9oP16G2SPpWge7EmU) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [BLADE \-運命ver.\-\(TV size\)](https://open.spotify.com/album/1xlrDxc877yTd4myBZfGkf) | 1:32 | 2025-04-04 | 2025-04-25 |
 | [blan\_](https://open.spotify.com/track/1BsTgQEYtZwW3pQveJU08A) | [Arika](https://open.spotify.com/artist/11vy8Mhrk3WUPzr8ZuS2vT) | [blan\_](https://open.spotify.com/album/2Zt8wgL6PMPWTQ4VIPAu9j) | 4:26 | 2024-04-10 | 2024-07-06 |
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-28 | 2022-06-08 |
@@ -522,6 +522,7 @@
 | [IとU](https://open.spotify.com/track/2IuFm6VisPRCcBWAf0YpQi) | [杉本琢弥](https://open.spotify.com/artist/0cskwVqF25J07PVLTB2cuq) | [IとU](https://open.spotify.com/album/7GSiUjFGKfe4B1m8U6D6MP) | 3:05 | 2024-10-03 | 2024-10-23 |
 | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Anime ver.\)](https://open.spotify.com/track/6RtBwg8n4d3a8HRQMibQ9b) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj) | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Anime ver.\)](https://open.spotify.com/album/5uqmbPuWKENxyB9vL8VSRq) | 1:32 | 2024-12-03 | 2025-02-07 |
 | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Full Length\)](https://open.spotify.com/track/1aC2oUiR4Ans2kQp84zvaO) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [C&K](https://open.spotify.com/artist/3eR0Jeo212WCF0Yyi46Pzj) | [Jaka Jaan feat\. C&K \(Dragon Ball DAIMA Opening Theme \- Full Length\)](https://open.spotify.com/album/2Jkjeky9Wczh29B2ufDqFR) | 3:01 | 2025-02-06 | 2025-04-09 |
+| [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 | 2025-09-23 |  |
 | [Jekyll & Hyde](https://open.spotify.com/track/1xqLx7C2oORUpuadeubRc0) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [Jekyll & Hyde](https://open.spotify.com/album/01lFH8SjZi0IFP7qwaanut) | 4:18 | 2023-10-03 | 2024-01-10 |
 | [JEOPARDY](https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [JEOPARDY](https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL) | 3:57 | 2025-04-29 | 2025-07-09 |
 | [JOY!!](https://open.spotify.com/track/5jc5lzeYJHXX9QEzh3IHza) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [JOY!!](https://open.spotify.com/album/3t79dOxTADtvd5le5TmuDq) | 3:21 | 2025-01-07 | 2025-01-17 |

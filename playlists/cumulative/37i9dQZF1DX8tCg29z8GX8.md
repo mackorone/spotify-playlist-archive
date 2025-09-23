@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-687 songs - 1 day 11 hr 41 min
+688 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,7 @@
 | [Hot Topic](https://open.spotify.com/track/3MpNAvXaU9awyBXnVTJi5O) | [A\-Star](https://open.spotify.com/artist/1fPa3fXJDNiSCfF9U8uvaT), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Hot Topic](https://open.spotify.com/album/3naCf1TqximOxSi71EyBMc) | 3:09 | 2024-02-16 | 2024-02-23 |
 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-14 | 2023-09-28 |
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2022-08-12 | 2024-09-29 |
-| [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 | 2022-11-18 |  |
+| [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 | 2022-11-18 | 2025-09-23 |
 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 | 2023-04-27 | 2024-10-26 |
 | [I Want](https://open.spotify.com/track/3D2zP0zJA2GbpMlxBPfQWy) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [I Want](https://open.spotify.com/album/2Ij6kBFCbkv5u0U9xDqoNg) | 3:28 | 2024-12-16 | 2025-03-01 |
 | [I Want You](https://open.spotify.com/track/77LZE9iAKy6KDWTBl7vRwm) | [Bien](https://open.spotify.com/artist/5SwlCdVrvwU99EWa6VjIWw) | [Alusa Why Are You Topless?](https://open.spotify.com/album/6AB8x99F5MUrnSHSbUdLBD) | 3:43 | 2023-11-17 | 2023-12-23 |
@@ -608,6 +608,7 @@
 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 | 2023-08-03 | 2023-09-28 |
 | [Thank You](https://open.spotify.com/track/0ddHaqvtaq7tVFiIeUo8jS) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Thank You](https://open.spotify.com/album/1EMXcQR3uuFepCADgtQYsT) | 3:10 | 2025-05-23 | 2025-07-18 |
 | [The Call](https://open.spotify.com/track/0YcNAQLi2z4Eifeco4qrqg) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [The Call](https://open.spotify.com/album/0lylqz9E2pEiKC6gHMHVU4) | 2:51 | 2024-04-26 | 2024-05-17 |
+| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 |  |
 | [The Weekend](https://open.spotify.com/track/1r16zpUZ2nH44uOXlBGrbm) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Weekend](https://open.spotify.com/album/1NDf6Vtl4F6HJ3mziFQpZx) | 3:26 | 2023-07-20 | 2023-09-28 |
 | [Thy Grace](https://open.spotify.com/track/5mr9USRpDKJdryweH8mBFy) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Day & Night Nonstop](https://open.spotify.com/album/1kh4dliJ5soTkDpUN7kxup) | 2:35 | 2024-07-12 | 2024-08-30 |
 | [TIENS MA MONEY \(feat\. Stonebwoy\)](https://open.spotify.com/track/6S46LxjNxiMLQLS352CFib) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:49 | 2025-08-22 | 2025-09-19 |

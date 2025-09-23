@@ -1,12 +1,12 @@
 {
   "description": "This is RAYE. The essential tracks, all in one playlist.",
-  "num_followers": 132217,
+  "num_followers": 133213,
   "original_name": "This Is RAYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAABSbNqo0TUGxMJVrvFwx+80",
+  "snapshot_id": "aM9AAAAAAAA57rExDNYJETy06PI1B3Ii",
   "tracks": [
     {
       "added_at": null,
@@ -583,26 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Don't Want You",
-        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I Don't Want You",
-      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Make It To Heaven (with Raye)",
         "url": "https://open.spotify.com/album/3YgpLKWG2xfjEe8vVfcn13"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 172380,
       "name": "Make It to Heaven (with Raye)",
       "url": "https://open.spotify.com/track/5dS2dvXVPe7AR6UwBpnomW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Don't Know Me (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "You Don't Know Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Check (with RAYE)",
         "url": "https://open.spotify.com/album/0CoVa5cPLOwxR8Z3XeflhR"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 215573,
       "name": "Check (with RAYE)",
       "url": "https://open.spotify.com/track/4i8ObH2xPP4DSNniUJlgar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Don't Know Me (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3YHoJsSAzBoaDDPWzLc6iA"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "You Don't Know Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/1OJP62SC1v9V1AcQjBQF5q"
     },
     {
       "added_at": null,
@@ -855,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoric Sad Songs",
+        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Line",
         "url": "https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG"
       },
@@ -871,18 +887,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoric Sad Songs",
-        "url": "https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB"
+        "name": "Side Tape",
+        "url": "https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL"
       },
       "artists": [
         {
           "name": "RAYE",
           "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Nana Rogues",
+          "url": "https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9"
         }
       ],
-      "duration_ms": 240800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/4dcyfUcAnFXTzJdvFTDCTG"
+      "duration_ms": 170666,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU"
     },
     {
       "added_at": null,
@@ -911,30 +935,6 @@
       "duration_ms": 210967,
       "name": "Tequila - Jax Jones & Martin Solveig Present Europa",
       "url": "https://open.spotify.com/track/6fU55C7VdMSSkJ0ZGmX2Kg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Side Tape",
-        "url": "https://open.spotify.com/album/6VpSHPH5y0YyCajycHp6PL"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        },
-        {
-          "name": "Nana Rogues",
-          "url": "https://open.spotify.com/artist/24HNTbd7Y2qVOCyzIosYi9"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/5nhG9nkIXaPA89Yd9BLOZU"
     },
     {
       "added_at": null,

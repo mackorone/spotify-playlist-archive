@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 452212,
+  "num_followers": 452262,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 342093,
+      "name": "Shades Of Cool",
+      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 189040,
       "name": "Sea, Swallow Me",
       "url": "https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 342093,
-      "name": "Shades Of Cool",
-      "url": "https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 110820,
+      "name": "Slither",
+      "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
         "name": "Double Negative",
         "url": "https://open.spotify.com/album/0fWKkkVCj14CllpjPLjU9P"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 216853,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 110820,
-      "name": "Slither",
-      "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "The Waves Pt. 1",
-        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
-      },
-      "artists": [
-        {
-          "name": "Kele",
-          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
-        }
-      ],
-      "duration_ms": 262040,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Exposed to Some Light",
         "url": "https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Watch This Liquid Pour Itself",
-        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
+        "name": "The Waves Pt. 1",
+        "url": "https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW"
       },
       "artists": [
         {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+          "name": "Kele",
+          "url": "https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Guttural Sounds",
-      "url": "https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM"
+      "duration_ms": 262040,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1019,6 +1003,22 @@
       "duration_ms": 304291,
       "name": "teeth",
       "url": "https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Watch This Liquid Pour Itself",
+        "url": "https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 194252,
+      "name": "Guttural Sounds",
+      "url": "https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "...and she's still listening",
-        "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        }
-      ],
-      "duration_ms": 189260,
-      "name": "anything at all",
-      "url": "https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "So Medieval",
         "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 200281,
       "name": "Darp 2 / Exorcism",
       "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "...and she's still listening",
+        "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        }
+      ],
+      "duration_ms": 189260,
+      "name": "anything at all",
+      "url": "https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "Tears In The Typing Pool [Demo]",
-        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 127832,
-      "name": "Tears In The Typing Pool [Demo]",
-      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "a wonderful thing vomits",
         "url": "https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 256810,
       "name": "zi oi \u81ea\u7231",
       "url": "https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "Tears In The Typing Pool [Demo]",
+        "url": "https://open.spotify.com/album/68w71VR1Kdxxe7ZKFsFz34"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 127832,
+      "name": "Tears In The Typing Pool [Demo]",
+      "url": "https://open.spotify.com/track/4cFJWQsjExGHzy72SU7LBI"
     },
     {
       "added_at": "2024-11-04 12:56:32",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-04 12:56:32",
       "album": {
-        "name": "ahhh",
-        "url": "https://open.spotify.com/album/29RF0bLY5JiHMZsOcMvfF2"
-      },
-      "artists": [
-        {
-          "name": "Chakra Efendi",
-          "url": "https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "ahhh",
-      "url": "https://open.spotify.com/track/4viqaCQX1jMEDmTPKT1Bry"
-    },
-    {
-      "added_at": "2024-11-04 12:56:32",
-      "album": {
         "name": "Swampy & Sombre Two",
         "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 136653,
       "name": "Sombre Two",
       "url": "https://open.spotify.com/track/5nWz8hDOfQ9p4VagLZ4wxS"
+    },
+    {
+      "added_at": "2024-11-04 12:56:32",
+      "album": {
+        "name": "ahhh",
+        "url": "https://open.spotify.com/album/29RF0bLY5JiHMZsOcMvfF2"
+      },
+      "artists": [
+        {
+          "name": "Chakra Efendi",
+          "url": "https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "ahhh",
+      "url": "https://open.spotify.com/track/4viqaCQX1jMEDmTPKT1Bry"
     }
   ],
   "unique_name": "Spooky",

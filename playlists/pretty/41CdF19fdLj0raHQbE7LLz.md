@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 
 > &\#x27;Spektre&\#x27;s Selection&\#x27; is a weekly updated playlist of the freshest techno straight from their crate! Get following! \#respekt
 
-[spektrelive](https://open.spotify.com/user/spektrelive) - 1,409 likes - 97 songs - 7 hr 58 min
+[spektrelive](https://open.spotify.com/user/spektrelive) - 1,410 likes - 97 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/41CdF19fdLj0raHQbE7LLz.md) - [plain]
 | 4 | [Non\-Human Animal](https://open.spotify.com/track/47EXp85QU17eZudgCmjfl2) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4) | [On Growth and Form](https://open.spotify.com/album/54AAhypphRXCns1VcHmSiw) | 6:02 |
 | 5 | [Check This Out](https://open.spotify.com/track/1BclOj1D38KuKSJeb6ALpc) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX), [Javi Colina](https://open.spotify.com/artist/3e9HfE9Ad9kXFg54w8Wt3x) | [Check This Out](https://open.spotify.com/album/0YCsZ3jzLW4HiP645EopqF) | 7:06 |
 | 6 | [Glow](https://open.spotify.com/track/5Y0ScAmXTMdwiZkBUgnX92) | [Alex Di Stefano](https://open.spotify.com/artist/6xFAz0ZOb2UOkMJCCUHkcv) | [Glow](https://open.spotify.com/album/2W2lHtYB8CMIlh32UBf6ux) | 6:10 |
-| 7 | [In The Dark](https://open.spotify.com/track/23oABUbNVXYKjErFgWiIeT) | [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [In The Dark EP](https://open.spotify.com/album/2kMJ1yF7VAh1dHx2sNCuSM) | 6:44 |
+| 7 | [In The Dark](https://open.spotify.com/track/23oABUbNVXYKjErFgWiIeT) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ), [JackRock](https://open.spotify.com/artist/12I3G1CHajkcoO8QiZTFC2) | [In The Dark EP](https://open.spotify.com/album/2kMJ1yF7VAh1dHx2sNCuSM) | 6:44 |
 | 8 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
 | 9 | [Escape](https://open.spotify.com/track/4zVwoDnBMVYT2DGMlqUwDB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:40 |
 | 10 | [Climax](https://open.spotify.com/track/2jbNi1IR23YtHh6KukzNDk) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Stoked](https://open.spotify.com/artist/3p7fzDBhVlfoYrpM2p5n0T) | [Climax](https://open.spotify.com/album/2EsASjGU0TlCRfyj6KWwQr) | 4:03 |

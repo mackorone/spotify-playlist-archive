@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop<br/>Cover: Perrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272,260 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,272,200 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 99 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 |
 | 100 | [Wet & Wild](https://open.spotify.com/track/7bumwccn1j5e52UmdYZ7fG) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Wet & Wild](https://open.spotify.com/album/5ZPDn7ez0CHHEQGaqQFDuH) | 3:02 |
 
-Snapshot ID: `AAAAAIFDP5hlq9PIfq7EcaPRPWZfOOla`
+Snapshot ID: `AAAAAFWsun9SGXKa650eVg+NTSl0AogX`

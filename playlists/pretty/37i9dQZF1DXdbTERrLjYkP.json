@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Karly Bowman",
-  "num_followers": 219197,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Baby Bugs",
+  "num_followers": 219206,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBZV5ZC/w10iMQVgDyZUurHfsLe",
+  "snapshot_id": "AAAAAECLfTIhZwWRCKyWzooXz7fVKDlF",
   "tracks": [
+    {
+      "added_at": "2025-09-22 16:41:57",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/3UUq8mwAJrBQ9NiiFRq744"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 208880,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3"
+    },
     {
       "added_at": "2025-09-12 04:20:00",
       "album": {
@@ -1019,22 +1035,6 @@
       "duration_ms": 226779,
       "name": "Choke (feat. SleazyWorld Go)",
       "url": "https://open.spotify.com/track/0khebDDIF7nC8mzV1MFpfo"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
-        "name": "Bug",
-        "url": "https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w"
-      },
-      "artists": [
-        {
-          "name": "Lottie McLeod",
-          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
-        }
-      ],
-      "duration_ms": 199163,
-      "name": "Ruin A Good Thing",
-      "url": "https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25"
     },
     {
       "added_at": "2025-05-09 04:00:04",

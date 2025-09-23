@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sultaan, Navaan Sandhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,402 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,419 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 34 | [Bicep](https://open.spotify.com/track/2jRWVoOQDZJmXmUQJWnHqi) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Bicep](https://open.spotify.com/album/1efcXsOLzlbqHSQPMdwh7G) | 2:44 |
 | 35 | [Bacch Kude](https://open.spotify.com/track/0FezvBlbAiItJbB0NS3Kpd) | [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Bacch Kude](https://open.spotify.com/album/1i5ZZju7UalgZMdyl2RyWi) | 1:50 |
 | 36 | [Move Aside](https://open.spotify.com/track/0KX2qm5Fz03nfMXqLZ2SDF) | [Jassi Banipal](https://open.spotify.com/artist/31B8RqMwbHeHYxo2O4kzv0), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Move Aside](https://open.spotify.com/album/5J0vpEbx7IgwUvZ9KhpLT8) | 2:32 |
-| 37 | [Fairy Tale](https://open.spotify.com/track/53wh33zgtUGMEHAmsR44HS) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Fairy Tale](https://open.spotify.com/album/6BfbV6JIvO2NN83etDCOQn) | 2:37 |
+| 37 | [Fairy Tale](https://open.spotify.com/track/53wh33zgtUGMEHAmsR44HS) | [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa), [QM](https://open.spotify.com/artist/5lnqOvChSbiV4Upx5Pa6bP) | [Fairy Tale](https://open.spotify.com/album/6BfbV6JIvO2NN83etDCOQn) | 2:37 |
 | 38 | [Nobody But You](https://open.spotify.com/track/735t7TsPefpKH5itz1Tvsz) | [Harmeet Janjua](https://open.spotify.com/artist/4C0lPcJKsE9X6sIbg0WMJB), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [KYTN](https://open.spotify.com/artist/2FKc1uowavgaImAxvwf6u0) | [Nobody But You](https://open.spotify.com/album/2HvIoLAHS8xFcitBFOREhd) | 3:28 |
 | 39 | [Botal Argi](https://open.spotify.com/track/1y2SFOhvBYqe6bE6E5BWrY) | [SNXRE](https://open.spotify.com/artist/63mpHVYZrAefPyV62M2Prl), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Botal Argi](https://open.spotify.com/album/4ZVmDdZM1BHWwOzzf4Mzil) | 2:59 |
 | 40 | [Thaapi](https://open.spotify.com/track/6CYUm0BYIkhY1KO1d0JuFw) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Thaapi](https://open.spotify.com/album/5OKBJ2waZdITplxdgSuyh9) | 2:48 |

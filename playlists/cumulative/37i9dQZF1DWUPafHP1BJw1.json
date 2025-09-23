@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "The Piano Guys",
+        "url": "https://open.spotify.com/album/1gIuyEXICtt24CEKrYSOw8"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275973,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/4eYaDRhiL5iesFp2EuoODr"
+    },
+    {
+      "album": {
         "name": "A Thousand Years (Piano Version)",
         "url": "https://open.spotify.com/album/41rka4Cv7m2IOgg0pmXhBO"
       },

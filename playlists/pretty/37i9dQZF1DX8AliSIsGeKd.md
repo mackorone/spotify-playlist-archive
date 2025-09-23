@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Adriatique, Argy
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,509 likes - 90 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,567 likes - 90 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

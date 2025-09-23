@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4iHnLagnnmgiIwMSm1wuTq">Giorgia Angiuli</a>'s favorite tracks\. Updated regularly\. Curated by Giorgia Angiuli\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-158 songs - 14 hr 55 min
+159 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ayala](https://open.spotify.com/track/3OawekkjFR1Z3WFzJoAqI3) | [Mobitex](https://open.spotify.com/artist/31RFaRcMJF7Uv4BoeZBPEP) | [Deep Resonance \(Compiled by Kalifer\)](https://open.spotify.com/album/6vOSG9k9cIK3ldl5QCjwBB) | 10:47 | 2023-08-10 | 2023-09-07 |
 | [Ayse](https://open.spotify.com/track/67dEahq24d0GdzoawwdOps) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v) | [ENTER MY SIMULATION](https://open.spotify.com/album/0DjIjay4fyIWthmdsRTqBM) | 4:11 | 2025-01-10 | 2025-04-25 |
 | [B2](https://open.spotify.com/track/5Qu22Kw7QfF6Q46mcEI2uI) | [Shkoon](https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv) | [Rima](https://open.spotify.com/album/2iNpATlgsWqrd1BF7dTcAj) | 6:41 | 2023-08-10 | 2023-11-07 |
-| [Bam Bam Bam](https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc) | 5:25 | 2023-08-10 |  |
+| [Bam Bam Bam](https://open.spotify.com/track/0CocMPzPz9t5bEQZI6sTH8) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/4jHm21WJUVm9ti6jVCc8dc) | 5:25 | 2023-08-10 | 2025-09-23 |
 | [Bam Bam Bam](https://open.spotify.com/track/6eqETh5hUY97kVWmX9LQuU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Bam Bam Bam](https://open.spotify.com/album/309YqMFysiuxHcOJppcCme) | 5:25 | 2023-10-13 | 2024-04-19 |
 | [Battles](https://open.spotify.com/track/2utNme0G9OtUVqq7wYUOf3) | [Emika](https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S) | [DREI](https://open.spotify.com/album/7jNBAhp5DxAPFhkkLkuxeG) | 3:33 | 2023-08-10 | 2024-06-21 |
 | [Before Us](https://open.spotify.com/track/35nQObHeEnyN9j2HQ6CbrB) | [Boston 168](https://open.spotify.com/artist/2C5ZMi6drXQAbj9LNhzZo0) | [Gigantia EP](https://open.spotify.com/album/5QxDIWuPMNGi941SRjktS2) | 5:26 | 2023-11-24 | 2024-08-15 |
@@ -103,6 +103,7 @@
 | [Outside World \- Bart Skils & Weska Remix](https://open.spotify.com/track/1hNuuUPJWU7c7gZCrNiMYs) | [Sunbeam](https://open.spotify.com/artist/1ZXarwne5gA98pXsbC7vph), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT), [Weska](https://open.spotify.com/artist/0tE5uhIK2tSierQTyLi9ci) | [Outside World \(Bart Skils & Weska Remix\)](https://open.spotify.com/album/4rogCzyAHLJp4hYu6W4TKl) | 4:00 | 2023-09-06 |  |
 | [Overdrive](https://open.spotify.com/track/5NW5U1T845XTEVkjIFqLkW) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 6:48 | 2023-08-10 | 2023-09-07 |
 | [Pale Light](https://open.spotify.com/track/64F0tid5vwapfuC4ERAHyA) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Pale Light](https://open.spotify.com/album/6maZwUHv4hHHJl4Bzh4Q9k) | 3:45 | 2024-12-20 |  |
+| [Pluto \- Live](https://open.spotify.com/track/6rRIi4fwSDHXYPGsMID3ez) | [BalQeis Live](https://open.spotify.com/artist/3QrfETcrieJh4g5rH352Vq) | [Planetary\_4.2 \(Live\)](https://open.spotify.com/album/5dSuaG8t4m7y3lefnuMF3M) | 2:45 | 2025-09-22 |  |
 | [Raag Bhairavi](https://open.spotify.com/track/03MK4ZqPXi5zhblvE5PNqj) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Shruti Singh](https://open.spotify.com/artist/3ez3pRLzrPuiEhfwqJfWNn), [Navinder Singh](https://open.spotify.com/artist/4ckBtARZbKz0zNyewp9aoU), [Gurdev Singh](https://open.spotify.com/artist/3gsyCBPp33pNMK8P5iJNm3) | [Gurdev Singh: Art of the Indian Sarod](https://open.spotify.com/album/6oYggY5iPuUPXXx4lOWPNQ) | 9:13 | 2024-10-25 | 2025-01-11 |
 | [Racos](https://open.spotify.com/track/5dRF9o0qHnXWcjwL01H7yj) | [Corpino](https://open.spotify.com/artist/3aZMsfIeWGsIacqszip923), [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe) | [Racos](https://open.spotify.com/album/5PSU21vZRXiUoArUwTHKIf) | 7:21 | 2023-08-10 | 2024-10-02 |
 | [Radiance](https://open.spotify.com/track/7h26agLOPUr05uhxm3qeUC) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [Radiance](https://open.spotify.com/album/5c19YIY72XTdtNU8012KoF) | 4:33 | 2024-09-16 | 2024-12-21 |

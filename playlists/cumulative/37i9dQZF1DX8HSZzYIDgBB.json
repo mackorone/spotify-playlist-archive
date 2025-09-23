@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Mundos",
+        "url": "https://open.spotify.com/album/66AvzyLo1w8c1EsejEY4Oj"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "date_added": "2025-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Agua Que Quema",
+      "url": "https://open.spotify.com/track/4ZycfilbjT0c4s9p4qFuO6"
+    },
+    {
+      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW"
       },
@@ -7290,7 +7308,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 158780,
       "name": "Volver\u00e1s a Llamar",
       "url": "https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5"

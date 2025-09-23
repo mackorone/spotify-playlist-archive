@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,089 likes - 136 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,137 likes - 136 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 135 | [Beauty All Around](https://open.spotify.com/track/2V3e85TFbCq7pHA1HkGgoS) | [Lawrence Libert](https://open.spotify.com/artist/4bdis3Cw3TaQPyW8pps6vE), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [Beauty All Around](https://open.spotify.com/album/2rVZLYLmA2RFhvrF7YO1Uk) | 3:26 |
 | 136 | [Spiritual Sun](https://open.spotify.com/track/5yymAuaDio9g5b5Dm7NYd9) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Spiritual Sun](https://open.spotify.com/album/0pjDKIxgtOCfIZgpuMBJ2W) | 3:21 |
 
-Snapshot ID: `AAAAAJ9I8wWKVIzeIDXwFC05rBzWO8Nb`
+Snapshot ID: `AAAAAIGU0+4GxI4SIsa0WwAYo/yDogL7`

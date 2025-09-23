@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-422 songs - 1 day 0 hr 14 min
+423 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [El Sitio de Mi Recreo](https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep) | [Alba Molina](https://open.spotify.com/artist/3cQX4iryDhE8MpwGv9AqD1), [Mayte Martin](https://open.spotify.com/artist/3sDu0EmS1aAWSsRwn1ZcQd), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [El Sitio de Mi Recreo](https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME) | 3:31 | 2025-06-26 |  |
 | [el sur](https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD) | [el sur](https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH) | 2:40 | 2025-06-02 |  |
 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 | 2024-10-01 | 2024-12-24 |
-| [em plou a dins](https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [em plou a dins](https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0) | 2:56 | 2025-09-18 |  |
+| [em plou a dins](https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [em plou a dins](https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0) | 2:56 | 2025-09-18 | 2025-09-23 |
 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 | 2022-11-11 | 2024-04-19 |
 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-11-11 | 2024-04-19 |
 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 | 2024-05-02 |  |
@@ -310,6 +310,7 @@
 | [podría ser peor](https://open.spotify.com/track/0qoh3liuosnhbSW4kXeuCt) | [BETTO](https://open.spotify.com/artist/46DWAlMe8Lb5IvUkvyLNHO) | [podría ser peor](https://open.spotify.com/album/4RxERCRdu06M7oZGpXtjGc) | 3:14 | 2024-08-02 | 2024-08-14 |
 | [Polvo de hadas](https://open.spotify.com/track/7i2UKZeWhrjrFmRLclSF3g) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Polvo de hadas](https://open.spotify.com/album/0xv7yb9tmjA53jQLgUk8bF) | 4:28 | 2025-07-04 |  |
 | [Pon Pón](https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Pon Pón](https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl) | 2:58 | 2024-03-22 | 2024-06-22 |
+| [Por Ti](https://open.spotify.com/track/5af0LkK9IMmgEheywAYC2A) | [John Squalo](https://open.spotify.com/artist/41SYQuLxha31k5NGMaPhdJ), [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Por Ti](https://open.spotify.com/album/4dad4EzAlxM1ehmwTTEUVS) | 2:15 | 2025-09-18 |  |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-09-24 | 2025-06-27 |
 | [Pudo haber sido](https://open.spotify.com/track/4p1PnNtNZvlYS3M6SWyWlQ) | [Lucas Marcos](https://open.spotify.com/artist/0d7Dgfm3cIasHiSuFmUtjO) | [Pudo haber sido](https://open.spotify.com/album/34xxhD59LjVcZbWspxCCwK) | 3:04 | 2024-10-24 | 2025-01-10 |
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-12-23 | 2025-03-07 |

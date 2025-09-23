@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Malibu",
-  "num_followers": 131303,
+  "num_followers": 131359,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "Mt Baker",
-      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Leave It",
         "url": "https://open.spotify.com/album/3ApfRuo0QxOtf5so9VZCXK"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 326878,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/6gdByDB178DwDJvlwouoGZ"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "Mt Baker",
+      "url": "https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -515,22 +515,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "become the sky",
-        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Hutchings",
-          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
-        }
-      ],
-      "duration_ms": 183192,
-      "name": "Holding Moments",
-      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2GlDx3myOwcCARNtUTJkXr"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 167125,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/4oDNWNDEQIVvwyadCsf2oH"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "become the sky",
+        "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Hutchings",
+          "url": "https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0"
+        }
+      ],
+      "duration_ms": 183192,
+      "name": "Holding Moments",
+      "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "let\u2019s walk down to the swamp together",
-        "url": "https://open.spotify.com/album/17clCx63LzpWSIhW08dikI"
-      },
-      "artists": [
-        {
-          "name": "Okkyung Lee",
-          "url": "https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "let\u2019s walk down to the swamp together",
-      "url": "https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
         "name": "Virga (feat. Darlingside)",
         "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 243921,
       "name": "Atlantic Diva",
       "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
+        "name": "let\u2019s walk down to the swamp together",
+        "url": "https://open.spotify.com/album/17clCx63LzpWSIhW08dikI"
+      },
+      "artists": [
+        {
+          "name": "Okkyung Lee",
+          "url": "https://open.spotify.com/artist/0fVfcPcdnLfSeH0ZAAEeCQ"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "let\u2019s walk down to the swamp together",
+      "url": "https://open.spotify.com/track/4IwCet2b9lJHU5UsXN1Zx5"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "\u0100tam\u014dn",
-        "url": "https://open.spotify.com/album/6v6Oe5kfd0IZuHLSZjnBvl"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
       "artists": [
         {
-          "name": "Amina Hocine",
-          "url": "https://open.spotify.com/artist/6X41Zeam6qLK4tgAbIuzX4"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
         }
       ],
-      "duration_ms": 1769471,
-      "name": "\u0100tam\u014dn I",
-      "url": "https://open.spotify.com/track/5q62iQdn61S0aXSbOuCeHa"
+      "duration_ms": 437059,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
+        "name": "\u0100tam\u014dn",
+        "url": "https://open.spotify.com/album/6v6Oe5kfd0IZuHLSZjnBvl"
       },
       "artists": [
         {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+          "name": "Amina Hocine",
+          "url": "https://open.spotify.com/artist/6X41Zeam6qLK4tgAbIuzX4"
         }
       ],
-      "duration_ms": 437059,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI"
+      "duration_ms": 1769471,
+      "name": "\u0100tam\u014dn I",
+      "url": "https://open.spotify.com/track/5q62iQdn61S0aXSbOuCeHa"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "duration_ms": 344491,
+      "name": "Only Wish",
+      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
         "name": "A Requiem",
         "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "PLEASE COME TO ME",
-        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+        "name": "Axis Of Light",
+        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
         }
       ],
-      "duration_ms": 344491,
-      "name": "Only Wish",
-      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
+      "duration_ms": 217960,
+      "name": "Drip In The Cave",
+      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1463,22 +1479,6 @@
       "duration_ms": 366000,
       "name": "Body in the shadows, face in the light",
       "url": "https://open.spotify.com/track/0dYB5Ug2CBarhW4Zs7xjRK"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "Axis Of Light",
-        "url": "https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Drip In The Cave",
-      "url": "https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "Kumquat",
-        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
       "artists": [
         {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 196296,
-      "name": "Kumquat",
-      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+        "name": "Kumquat",
+        "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
         }
       ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+      "duration_ms": 196296,
+      "name": "Kumquat",
+      "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
     },
     {
       "added_at": "2025-09-04 09:36:25",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-09-04 09:36:25",
       "album": {
+        "name": "Possessed (Original Score)",
+        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
+      },
+      "artists": [
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 387268,
+      "name": "Hyphae",
+      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2025-09-04 09:36:25",
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 335402,
       "name": "A Woman Escapes Cue 4",
       "url": "https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz"
-    },
-    {
-      "added_at": "2025-09-04 09:36:25",
-      "album": {
-        "name": "Possessed (Original Score)",
-        "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
-      },
-      "artists": [
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 387268,
-      "name": "Hyphae",
-      "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
     },
     {
       "added_at": "2025-09-04 09:36:25",

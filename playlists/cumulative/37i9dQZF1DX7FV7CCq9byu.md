@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,133 songs - 2 day 9 hr 46 min
+1,134 songs - 2 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -733,6 +733,7 @@
 | [Om tiden hade stannat](https://open.spotify.com/track/36Ynfvm2Mwq2shd0LRfTML) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Kollage](https://open.spotify.com/album/5vAOzXtg6NFTxjRxOY27zp) | 3:00 | 2024-07-25 | 2024-09-06 |
 | [On and On and On](https://open.spotify.com/track/7aLXAoR6RB5qQmBRvKE2kO) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [On and On and On](https://open.spotify.com/album/5WVwKAUf52Lo1QxZLOYTFj) | 2:59 | 2025-02-07 | 2025-03-25 |
 | [On My Mind](https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [On My Mind](https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun) | 3:09 | 2025-06-26 | 2025-08-22 |
+| [On My Mind](https://open.spotify.com/track/1pAPnfETKcrMg7DOdHwLs2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [On My Mind](https://open.spotify.com/album/3PTZ6UE74oA2x6kO6HG4eF) | 2:22 | 2025-09-22 |  |
 | [On My Way](https://open.spotify.com/track/1UYnuxsScsS2INJyb55HgT) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [On My Way](https://open.spotify.com/album/5EZYTYYPCY0rfxkC53M0pn) | 2:38 | 2024-11-21 | 2025-01-24 |
 | [Once In A While](https://open.spotify.com/track/2xbmTi62KcY75WLK5AAJOB) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Josh Breaks](https://open.spotify.com/artist/5ux7zNd22iNHOAUypzsSLi) | [Once In A While](https://open.spotify.com/album/7BRJJiHj0QY7tJdUmf5vIn) | 2:47 | 2025-03-13 | 2025-04-04 |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-24 | 2024-12-20 |

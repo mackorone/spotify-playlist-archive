@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of today's best bluegrass instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,945 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,964 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 31 | [Eternal Blues](https://open.spotify.com/track/4HitPhJOcrzOSmk7FyqkE6) | [Aubrey Haynie](https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S) | [A Man Must Carry On](https://open.spotify.com/album/01Fru9pmsJY6eahTSxAf6c) | 5:29 |
 | 32 | [Thousand Dollar Holler](https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB) | [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk) | [Lovin' Of The Game](https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg) | 3:08 |
 | 33 | [City Of New Orleans \- Instrumental](https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE) | [Mark Howard](https://open.spotify.com/artist/7xn0dNayS3daHN5MrgmIrc), [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Lonesome Whistle](https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz) | 2:46 |
-| 34 | [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 |
-| 35 | [30 Turkeys](https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [30 Turkeys](https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a) | 2:20 |
-| 36 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 |
-| 37 | [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 |
+| 34 | [30 Turkeys](https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [30 Turkeys](https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a) | 2:20 |
+| 35 | [Going Out…](https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:04 |
+| 36 | [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 |
+| 37 | [It's A String Thing](https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm) | [Up All Night](https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ) | 3:53 |
 | 38 | [Stinkhorn](https://open.spotify.com/track/3Cqwayt6tSnlow0cp3pUbg) | [Hannah Read](https://open.spotify.com/artist/3ffIal1i0EioO2cZE9oLa9) | [Stinkhorn](https://open.spotify.com/album/4Y4x4xVwbjhp2f0Zt0dT67) | 2:25 |
 | 39 | [Spider on the Banjo](https://open.spotify.com/track/55OXI7lLQRoS9FhSw54CHC) | [The Steve Pettit Band](https://open.spotify.com/artist/6LheT9oG6ZhkIAduxoijGV), [Andy Leftwich](https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa), [Cody Kilby](https://open.spotify.com/artist/128a425UwZIlWs3LTWeRpP) | [Spider on the Banjo](https://open.spotify.com/album/5e7OPZmIzZVQO7xiFWD9W3) | 4:32 |
 | 40 | [The Majestic Swan \- Instrumental](https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6) | [Cadillac Sky](https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8) | [Gravity's Our Enemy](https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684) | 4:11 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 84 | [Bozeman \- Clawhammer Version](https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM) | [Nick Dumas](https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab) | [Bozeman \(Clawhammer Version\)](https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2) | 4:16 |
 | 85 | [Bluegrass Ben](https://open.spotify.com/track/5tdtneO3Sd5mLyIy7AMScq) | [The OK Factor](https://open.spotify.com/artist/0qPvnnO0TLLOwFRjFZbIlv) | [OKX](https://open.spotify.com/album/7FOnj5usctKvI2Y6H3Knrb) | 4:04 |
 | 86 | [Winnipeg](https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ) | [Chris Pandolfi](https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI) | [Looking Glass](https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV) | 4:33 |
-| 87 | [Dillsboro Blues](https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ) | [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Dillsboro Blues](https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD) | 4:05 |
-| 88 | [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 |
+| 87 | [Golden](https://open.spotify.com/track/4UvzGgR2uGRwqq6QDGQzl8) | [Ethan Setiawan](https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn) | [Golden](https://open.spotify.com/album/4BSggug7Bz1IigGofkmIAv) | 6:12 |
+| 88 | [Dillsboro Blues](https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ) | [Darren Nicholson](https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f) | [Dillsboro Blues](https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD) | 4:05 |
 | 89 | [Whiskey In The Jar](https://open.spotify.com/track/61SDTSAmKlCqgAqSrvXadM) | [Josep Traver](https://open.spotify.com/artist/3wOF1yzaF6k4qVr5VMkS2D), [Tom Corbett](https://open.spotify.com/artist/2Q4oe8BUjskk1xLJI6KORE) | [Whiskey in the Jar](https://open.spotify.com/album/4Mo5PNFWTgo4RDkEVyip6Q) | 2:15 |
 | 90 | [And Then, And Then, And Then](https://open.spotify.com/track/4EmclhN9TTg1r2dRNCpGtk) | [Ethan Sherman](https://open.spotify.com/artist/4A9CvXWfWvRnIoLhOMRxse), [Thomas Cassell](https://open.spotify.com/artist/7g2xzGFWspvuNWyd7Raepa), [Matthew Davis](https://open.spotify.com/artist/1GM51GqX3LgTP0uHq6Od26), [Avery Merritt](https://open.spotify.com/artist/4VQPvJjZ1eeFtIXSDNb4Ku), [Tim McNalley](https://open.spotify.com/artist/4Ia7vccNwNdMBDyBNAajLD) | [Indoor Vistas](https://open.spotify.com/album/5fOYNNqYU23pUMlPMfuJU6) | 3:57 |
 | 91 | [Whiskerhead Goes to Leningrad](https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 3:46 |

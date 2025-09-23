@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,075 songs - 2 day 12 hr 10 min
+1,076 songs - 2 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -801,6 +801,7 @@
 | [Sailor's Cry \- djimboh Remix](https://open.spotify.com/track/7mx7kAWl6N5R7D243wCIJC) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [A Place For Everything \(The Remixes\)](https://open.spotify.com/album/51aOQOP4DhqzNkXtVCa8RR) | 3:51 | 2022-12-16 | 2023-03-18 |
 | [Sakura \- Misc.Inc Remix](https://open.spotify.com/track/60iuDxgNcrAPXtLBCfmP4f) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [Familiar Faces \(Deluxe\)](https://open.spotify.com/album/5ahWGbaQe5qDr1CKJCWOJ5) | 3:07 | 2023-12-12 | 2024-03-26 |
 | [Same Thing](https://open.spotify.com/track/14jeV71SdC9avzYP9MsrhR) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Same Thing](https://open.spotify.com/album/2erULkeRVJ8bYVqF2tTmYZ) | 3:41 | 2023-02-07 | 2023-04-27 |
+| [sans\. \- Tokyo Machine Remix](https://open.spotify.com/track/5aEAfolOxYJjqvNlbqIOqT) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [sans\. \(Tokyo Machine Remix\)](https://open.spotify.com/album/3n1Jnvr5XC6BENwC7cFdrl) | 2:40 | 2025-09-22 |  |
 | [Sapphire](https://open.spotify.com/track/5eit9qX0tK8uLfz3PtGV3l) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Sapphire](https://open.spotify.com/album/7yjFesZrS1IuDwEfs2qe56) | 3:13 | 2023-01-11 | 2023-03-25 |
 | [Save Me](https://open.spotify.com/track/57qREwXYYpVtANx4Vldnux) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Save Me](https://open.spotify.com/album/0BzcyBDEuFW1q3fR8gSf7G) | 3:24 | 2022-08-15 | 2022-10-28 |
 | [Save Me Now](https://open.spotify.com/track/58Kp1bn21XaEkZY2C42Atk) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu), [Why So Low](https://open.spotify.com/artist/4udkcJD4btZYw9AOlCBDMK) | [Save Me Now / On Fire](https://open.spotify.com/album/3wePhn0VEJJY7e0fB3QvZ4) | 2:58 | 2025-04-03 | 2025-07-03 |

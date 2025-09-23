@@ -1,12 +1,12 @@
 {
   "description": "All <a href=\"http://www.rammstein.com\">RAMMSTEIN</a>, all the time.",
-  "num_followers": 306351,
+  "num_followers": 306332,
   "original_name": "Rammstein Complete",
   "owner": {
     "name": "Rammstein",
     "url": "https://open.spotify.com/user/rammsteinofficial"
   },
-  "snapshot_id": "AAAAWuDFUmnzDaYj008A7ZREfRLcbYpY",
+  "snapshot_id": "AAAAXh+G+4yK5NEhvCqvdXQqVikcByM4",
   "tracks": [
     {
       "added_at": "2022-04-28 22:00:28",
@@ -1875,6 +1875,46 @@
       "duration_ms": 270453,
       "name": "Mein Land - Mogwai Mix",
       "url": "https://open.spotify.com/track/1OyMwfLfPOYucLMl4JQ2s8"
+    },
+    {
+      "added_at": "2025-09-22 09:58:48",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "RICHARD Z. KRUSPE",
+          "url": "https://open.spotify.com/artist/3Fu4HcdXhfgaXrL1IEtvNE"
+        }
+      ],
+      "duration_ms": 280830,
+      "name": "Adieu - RMX by Richard Z. Kruspe",
+      "url": "https://open.spotify.com/track/2ollapxirnu4KZ1SMcg3Ds"
+    },
+    {
+      "added_at": "2025-09-22 09:58:55",
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "Andrea Marino",
+          "url": "https://open.spotify.com/artist/3DuG56Wukk4WUH80GyVGED"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "Adieu - RMX by Andrea Marino",
+      "url": "https://open.spotify.com/track/3Uj4vREz90OHSmr9jkWEGC"
     },
     {
       "added_at": "2019-05-16 22:09:46",

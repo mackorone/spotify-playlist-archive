@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving those vibes\. Cover: Kaya Imani, Yssi SB & ADF Samski
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,805 likes - 95 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,787 likes - 95 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 13 | [SPEED DEMON](https://open.spotify.com/track/4YmS7BALpAU0h4EAF4fYuh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 3:31 |
 | 14 | [Fersteri](https://open.spotify.com/track/45pXZ2l3wGs6WDzoohtx3s) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F) | [88](https://open.spotify.com/album/3UqophSkJ9MIEPdGIucF20) | 3:26 |
 | 15 | [AAN JE DENK](https://open.spotify.com/track/7IKfJxyYqBptxmc8vZ0JmI) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK) | [AAN JE DENK](https://open.spotify.com/album/1HSi7BDC3J1w63sQRgP2OW) | 2:40 |
-| 16 | [Anything](https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR) | [Anything](https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV) | 2:54 |
+| 16 | [Anything](https://open.spotify.com/track/3cfAU26S3unXxHX7Pu0171) | [Nelson Clark](https://open.spotify.com/artist/14ChRRXZS3JYGWEurCWjBR) | [Anything](https://open.spotify.com/album/3GsMcFluyo0t8Bt7godgzV) | 2:53 |
 | 17 | [Laat me zien](https://open.spotify.com/track/6ckmOfisQCSN7ftG1xt5IL) | [Amy\-Grace](https://open.spotify.com/artist/6GTdbF6guNLWinUGyxfygi), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8) | [Laat me zien](https://open.spotify.com/album/0ovwpTGzack6NFcxAS4AYU) | 2:52 |
 | 18 | [Pity \(feat\. Tanya Stephens\)](https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Tanya Stephens](https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ) | [Luvergirl](https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF) | 2:05 |
 | 19 | [I THINK YOU'RE SPECIAL](https://open.spotify.com/track/0mQLFm42be28X8yKBTiHP3) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:45 |

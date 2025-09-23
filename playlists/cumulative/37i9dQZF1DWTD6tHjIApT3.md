@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: ヒグチアイ Ai Higuchi
 
-3,331 songs - 8 day 20 hr 36 min
+3,332 songs - 8 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -660,6 +660,7 @@
 | [Head up!](https://open.spotify.com/track/3n0g8ymrTbQ4NEH04K4MUG) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Head up!](https://open.spotify.com/album/3AWLesXuAFHP1YCrOLOoSl) | 4:20 | 2023-07-11 | 2023-07-13 |
 | [Heart](https://open.spotify.com/track/0A1zyQkMLZqETVisk1a2Mv) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Heart](https://open.spotify.com/album/0k1jeFWtwtUvwGRDVVc3BJ) | 4:31 | 2022-08-16 | 2022-08-20 |
 | [Heart](https://open.spotify.com/track/5Telaq6UCXw3kG6nepeLp1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 4:31 | 2022-08-18 | 2023-04-26 |
+| [HEART](https://open.spotify.com/track/7Dsjb5W7ffV0Kc4fohXzRV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HEART](https://open.spotify.com/album/5xdFcnfl7eG8uGWqxnCN6L) | 5:06 | 2025-09-16 |  |
 | [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-26 | 2025-07-09 |
 | [HEART BEAT](https://open.spotify.com/track/6YtwZfRChtusWTO5lAzhTw) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [HEART BEAT](https://open.spotify.com/album/1kG2S3SMYAeLSmZnmHu9L5) | 3:01 | 2025-07-15 | 2025-07-30 |
 | [heart notes](https://open.spotify.com/track/5hn89LKkZfekgMUA1NPzq0) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [heart notes](https://open.spotify.com/album/1YRSs91sqZnHtRAqongeBJ) | 4:17 | 2023-01-05 | 2023-05-10 |
@@ -1830,7 +1831,7 @@
 | [Wedding Day](https://open.spotify.com/track/26nJDSHlB0xWTccvL2icjU) | [平原綾香](https://open.spotify.com/artist/2dG2McYlq4NOdcDSsDhzPQ) | [Wedding Day](https://open.spotify.com/album/7D12WuEP2z05yqK5hgnAO3) | 3:27 | 2023-06-06 | 2023-06-08 |
 | [week by week](https://open.spotify.com/track/0QVLNhGF8DhiR2a0uUIJ29) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [MOMENT](https://open.spotify.com/album/2OEsoLGGkvkAt0gThjpO7t) | 3:19 | 2025-04-01 | 2025-04-09 |
 | [WEEKEND](https://open.spotify.com/track/2AJNDcXp8IwJ48IL868i92) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [WEEKEND](https://open.spotify.com/album/6itx7fTirph9qbUKidhIoQ) | 3:28 | 2022-06-02 | 2022-07-20 |
-| [weekly](https://open.spotify.com/track/6DeyonC0kWc9WmHo5PilOA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [weekly](https://open.spotify.com/album/6cc8K3u6TSuN2gOWGFGNpf) | 2:38 | 2025-04-29 |  |
+| [weekly](https://open.spotify.com/track/6DeyonC0kWc9WmHo5PilOA) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [weekly](https://open.spotify.com/album/6cc8K3u6TSuN2gOWGFGNpf) | 2:38 | 2025-04-29 | 2025-09-23 |
 | [Wellmade](https://open.spotify.com/track/4c3w3gcinYMP7NiAGr9o30) | [CRCK/LCKS](https://open.spotify.com/artist/1iCsnjNikUpDDGDAxBalTs) | [Wellmade](https://open.spotify.com/album/3hfhcnGgl5jypAv4eKxkOK) | 4:21 | 2022-11-29 | 2022-12-07 |
 | [What a View](https://open.spotify.com/track/4xeDgkZZMm7e42KRhgynhe) | [矢野顕子・野口聡一](https://open.spotify.com/artist/0s9VF8HEatPXDb8V9hFgIS), [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns) | [I Want to See You So Badly](https://open.spotify.com/album/5AvOgLo5tbPdTxwO1OYB00) | 2:04 | 2023-02-28 | 2023-03-08 |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-11-28 | 2023-12-06 |

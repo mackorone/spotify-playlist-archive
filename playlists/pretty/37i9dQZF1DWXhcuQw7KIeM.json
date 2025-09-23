@@ -1,6 +1,6 @@
 {
   "description": "From the very deep spirit of the almighty North. ",
-  "num_followers": 555437,
+  "num_followers": 555604,
   "original_name": "Northern Spirits",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,26 @@
     {
       "added_at": "2025-09-05 04:00:02",
       "album": {
+        "name": "Galdr",
+        "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
+      },
+      "artists": [
+        {
+          "name": "Asynje",
+          "url": "https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ"
+        },
+        {
+          "name": "Nanna Barslev",
+          "url": "https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI"
+        }
+      ],
+      "duration_ms": 318213,
+      "name": "Vindr",
+      "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
+    },
+    {
+      "added_at": "2025-09-05 04:00:02",
+      "album": {
         "name": "Shieldmaiden",
         "url": "https://open.spotify.com/album/2pEGtKClaD7eYWnzQgyWo2"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 195514,
       "name": "Shieldmaiden",
       "url": "https://open.spotify.com/track/3GMwtVxonfUVbd9DnAUqFP"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Galdr",
-        "url": "https://open.spotify.com/album/5EIujAPdoMNJepCWvKA6Tn"
-      },
-      "artists": [
-        {
-          "name": "Asynje",
-          "url": "https://open.spotify.com/artist/42mveNsBgkZr7J2aMZQouQ"
-        },
-        {
-          "name": "Nanna Barslev",
-          "url": "https://open.spotify.com/artist/5icXwn4kNVG6IZz7TmaaFI"
-        }
-      ],
-      "duration_ms": 318213,
-      "name": "Vindr",
-      "url": "https://open.spotify.com/track/6zcPcvIJ1pf9eAdrWFHdgR"
     },
     {
       "added_at": "2025-09-05 04:00:02",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-09-05 04:00:02",
       "album": {
+        "name": "Runaljod \u2013 Yggdrasil",
+        "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
+      },
+      "artists": [
+        {
+          "name": "Wardruna",
+          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
+        }
+      ],
+      "duration_ms": 431866,
+      "name": "Helvegen",
+      "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
+    },
+    {
+      "added_at": "2025-09-05 04:00:02",
+      "album": {
         "name": "Snake Pit Poetry",
         "url": "https://open.spotify.com/album/0Yc1J017Kb0vwAZiak3w4Z"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 428077,
       "name": "Snake Pit Poetry",
       "url": "https://open.spotify.com/track/3HLTjYKY7P2O35QyPr70Xz"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
-        "name": "Runaljod \u2013 Yggdrasil",
-        "url": "https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1"
-      },
-      "artists": [
-        {
-          "name": "Wardruna",
-          "url": "https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA"
-        }
-      ],
-      "duration_ms": 431866,
-      "name": "Helvegen",
-      "url": "https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C"
     },
     {
       "added_at": "2025-09-05 04:00:02",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-09-05 04:00:02",
       "album": {
-        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
-      },
-      "artists": [
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        }
-      ],
-      "duration_ms": 315880,
-      "name": "Hausbrj\u00f3tr - Skullcrusher",
-      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
-    },
-    {
-      "added_at": "2025-09-05 04:00:02",
-      "album": {
         "name": "Tr\u00e4",
         "url": "https://open.spotify.com/album/6Z6a2CiJqcvq3WXfLgjqfJ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 292773,
       "name": "R\u00e4ven",
       "url": "https://open.spotify.com/track/6RWqj44MynFix4pFyhI9t9"
+    },
+    {
+      "added_at": "2025-09-05 04:00:02",
+      "album": {
+        "name": "Assassin's Creed Valhalla: The Ravens Saga (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K"
+      },
+      "artists": [
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
+        }
+      ],
+      "duration_ms": 315880,
+      "name": "Hausbrj\u00f3tr - Skullcrusher",
+      "url": "https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt"
     },
     {
       "added_at": "2025-09-05 04:00:02",

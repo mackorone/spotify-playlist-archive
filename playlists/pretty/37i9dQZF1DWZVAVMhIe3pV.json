@@ -1,6 +1,6 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 386233,
+  "num_followers": 386335,
   "original_name": "Energy Booster Rock",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Chocolate Starfish And The Hot Dog Flavored Water",
         "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
       },
@@ -335,6 +351,22 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -363,38 +395,6 @@
       "duration_ms": 187560,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Lullabies To Paralyze",
-        "url": "https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 174026,
-      "name": "Little Sister",
-      "url": "https://open.spotify.com/track/1rzYrkxgRuLLJDqWdB32pK"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Hydrograd",
         "url": "https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 256533,
       "name": "Song #3",
       "url": "https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/1rzYrkxgRuLLJDqWdB32pK"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Royal Blood",
-        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 212309,
-      "name": "Little Monster",
-      "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire (Bonus Track)",
       "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Royal Blood",
+        "url": "https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 212309,
+      "name": "Little Monster",
+      "url": "https://open.spotify.com/track/5fpj84RsT9cOTfWUCxBTXu"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -683,22 +683,6 @@
       "duration_ms": 116453,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -763,6 +747,22 @@
       "duration_ms": 234466,
       "name": "Death By Rock And Roll",
       "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Aghori Mhori Mei",
-        "url": "https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 174557,
-      "name": "Sighommi",
-      "url": "https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Old Crows / Young Cardinals",
         "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217826,
       "name": "Young Cardinals",
       "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Aghori Mhori Mei",
+        "url": "https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 174557,
+      "name": "Sighommi",
+      "url": "https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Superhero",
-      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 209183,
       "name": "Gushin' Blood",
       "url": "https://open.spotify.com/track/3AQzefqzIKZFzzIZEtBXIj"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/6z4CTIToU7a03Rq07F9FF4"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Opposites (Deluxe)",
-        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "The Joke's on Us",
-      "url": "https://open.spotify.com/track/0VQPaFVOiUWGlYDL1tUewi"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Spiralling Out",
         "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 224444,
       "name": "Spiralling Out",
       "url": "https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 214040,
+      "name": "The Joke's on Us",
+      "url": "https://open.spotify.com/track/0VQPaFVOiUWGlYDL1tUewi"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "waste",
-        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 231911,
-      "name": "waste",
-      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 191290,
       "name": "Haven",
       "url": "https://open.spotify.com/track/4aMH5OK4BFr8UW0xtt3AVB"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "waste",
+        "url": "https://open.spotify.com/album/65d9dRcNkRh5PSDy4Buuxy"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 231911,
+      "name": "waste",
+      "url": "https://open.spotify.com/track/0Rs9oXTRtpOJZMe7guExYP"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
-        }
-      ],
-      "duration_ms": 229490,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Sans Soleil",
         "url": "https://open.spotify.com/album/2shJxfcLuYX65dmpEoU0re"
       },
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Dad\u2019Algorhythm",
-        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ"
       },
       "artists": [
         {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
         }
       ],
-      "duration_ms": 158720,
-      "name": "Dad\u2019Algorhythm",
-      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
+      "duration_ms": 229490,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1391,6 +1375,22 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Dad\u2019Algorhythm",
+        "url": "https://open.spotify.com/album/3b4XGfpUQmrqrtzN95sKLj"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "Dad\u2019Algorhythm",
+      "url": "https://open.spotify.com/track/3BiY7K7qzbJ5VWZz2qgULg"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Upright Animals",
-        "url": "https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3"
-      },
-      "artists": [
-        {
-          "name": "Dragged Under",
-          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
-        }
-      ],
-      "duration_ms": 203290,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Blood In The Water",
         "url": "https://open.spotify.com/album/3I9e3fgZ3IaR2K7NLRxVy2"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 214830,
       "name": "Blood In The Water",
       "url": "https://open.spotify.com/track/1eFtuUsdNIh7vTyyG6mwIo"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Upright Animals",
+        "url": "https://open.spotify.com/album/4azfM2hspLuUo7yk4AQKG3"
+      },
+      "artists": [
+        {
+          "name": "Dragged Under",
+          "url": "https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH"
+        }
+      ],
+      "duration_ms": 203290,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/5Q6SSsB53WpRJS2umerkIB"
     },
     {
       "added_at": "2024-11-14 18:42:17",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-14 18:42:17",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL"
-      },
-      "artists": [
-        {
-          "name": "Shake Shake Go",
-          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY"
-    },
-    {
-      "added_at": "2024-11-14 18:42:17",
-      "album": {
         "name": "Ideas Above Our Station",
         "url": "https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 161851,
       "name": "Mood Ring",
       "url": "https://open.spotify.com/track/1G8801Xjv5DtBzmOn5yUjV"
+    },
+    {
+      "added_at": "2024-11-14 18:42:17",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL"
+      },
+      "artists": [
+        {
+          "name": "Shake Shake Go",
+          "url": "https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/57okMoH9ZaiQemzwaMy8AY"
     },
     {
       "added_at": "2024-11-14 18:42:17",

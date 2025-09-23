@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37675,
+  "num_followers": 37673,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAACAnRvqmK4i3TPkJhtx55Z8",
+  "snapshot_id": "aM9AAAAAAACWMtwAoz7ukXyGp0twLpKM",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
       "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Kiss Me (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
+      "duration_ms": 221880,
+      "name": "Cyber Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Kiss Me (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
       },
       "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
         {
           "name": "Rina Sawayama",
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 221880,
-      "name": "Cyber Stockholm Syndrome",
-      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
+      "duration_ms": 201733,
+      "name": "Kiss Me (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,
@@ -560,9 +560,25 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valentine (What's It Gonna Be)",
+        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 207355,
+      "name": "Valentine (What's It Gonna Be)",
+      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 106832,
       "name": "Bees & Honey (Bonus Track)",
       "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Valentine (What's It Gonna Be)",
-        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 207355,
-      "name": "Valentine (What's It Gonna Be)",
-      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
     },
     {
       "added_at": null,

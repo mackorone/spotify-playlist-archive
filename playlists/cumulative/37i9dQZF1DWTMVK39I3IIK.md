@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Rosa
 
-308 songs - 15 hr 38 min
+309 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 | 2024-06-27 | 2024-09-13 |
 | [Die For You](https://open.spotify.com/track/12ShYQUzYZel1n5f4icThX) | [CARLLO YABOY](https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie) | [Die For You](https://open.spotify.com/album/0fv5gmYtBNyd5yANUN0ASo) | 2:45 | 2025-07-03 | 2025-08-24 |
 | [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 | 2025-02-11 |
-| [Diskosnav](https://open.spotify.com/track/1rc40ngp3eY9POSvsfftYP) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Diskosnav](https://open.spotify.com/album/4NU6Dmiwn4tgGi42FFsakA) | 2:50 | 2025-09-04 |  |
+| [Diskosnav](https://open.spotify.com/track/1rc40ngp3eY9POSvsfftYP) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN) | [Diskosnav](https://open.spotify.com/album/4NU6Dmiwn4tgGi42FFsakA) | 2:50 | 2025-09-04 | 2025-09-23 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2024-11-16 |
 | [Don't Go](https://open.spotify.com/track/5GSCJ1hB5WziiebrCLixp8) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Don't Go](https://open.spotify.com/album/7mSxEwgm8OdwnOjv8urJlD) | 3:09 | 2025-01-30 | 2025-05-02 |
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-23 |
@@ -206,6 +206,7 @@
 | [Nærmest en ven](https://open.spotify.com/track/0InIYe8cvUQ5TWopZKBsgO) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Regnvåde sale](https://open.spotify.com/album/39MIeSjYinvOiTFxmURm0h) | 3:16 | 2025-01-30 | 2025-09-12 |
 | [NØGEN \(feat\. Lord Siva\)](https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [ALTERDETSAMME](https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI) | 2:26 | 2025-06-19 | 2025-06-28 |
 | [Oktobernat](https://open.spotify.com/track/1Ibke8wIUBCJbHdPjsaUDc) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Oktobernat](https://open.spotify.com/album/6SW2DY4K9Ull8aEDinXEqV) | 2:55 | 2024-10-18 | 2025-08-01 |
+| [Orbit](https://open.spotify.com/track/4x7YiQYxBpt6RemIT6372c) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Orbit](https://open.spotify.com/album/25qf6Zr2SvpWVMK8MJTXb1) | 3:01 | 2025-09-18 |  |
 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 | 2024-08-23 | 2024-09-20 |
 | [oslo til københavn](https://open.spotify.com/track/4FFE1XM8TPBwG0C6kUkBdg) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [ENGLE & BLAA MAERKER](https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x) | 2:54 | 2024-06-27 | 2025-04-13 |
 | [Over Broen](https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Over Broen](https://open.spotify.com/album/4yepsianA44yEssCzMhOW1) | 3:05 | 2025-05-15 |  |

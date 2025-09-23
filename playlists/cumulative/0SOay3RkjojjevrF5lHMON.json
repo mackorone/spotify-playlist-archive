@@ -41,6 +41,50 @@
     },
     {
       "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "Andrea Marino",
+          "url": "https://open.spotify.com/artist/3DuG56Wukk4WUH80GyVGED"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244173,
+      "name": "Adieu - RMX by Andrea Marino",
+      "url": "https://open.spotify.com/track/3Uj4vREz90OHSmr9jkWEGC"
+    },
+    {
+      "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        },
+        {
+          "name": "RICHARD Z. KRUSPE",
+          "url": "https://open.spotify.com/artist/3Fu4HcdXhfgaXrL1IEtvNE"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280830,
+      "name": "Adieu - RMX by Richard Z. Kruspe",
+      "url": "https://open.spotify.com/track/2ollapxirnu4KZ1SMcg3Ds"
+    },
+    {
+      "album": {
         "name": "Mutter",
         "url": "https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv"
       },

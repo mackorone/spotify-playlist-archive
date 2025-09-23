@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 32959,
+  "num_followers": 32988,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2025-09-15 06:36:19",
       "album": {
-        "name": "Jau Dya Na Balasaheb (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK"
-      },
-      "artists": [
-        {
-          "name": "Nagesh Morwekar",
-          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
-        },
-        {
-          "name": "Earl Edgar",
-          "url": "https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS"
-        }
-      ],
-      "duration_ms": 335658,
-      "name": "Dolby Walya",
-      "url": "https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR"
-    },
-    {
-      "added_at": "2025-09-15 06:36:19",
-      "album": {
         "name": "Ved (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
       },
@@ -151,6 +131,26 @@
       "duration_ms": 231165,
       "name": "Ved Lavlay",
       "url": "https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn"
+    },
+    {
+      "added_at": "2025-09-15 06:36:19",
+      "album": {
+        "name": "Jau Dya Na Balasaheb (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK"
+      },
+      "artists": [
+        {
+          "name": "Nagesh Morwekar",
+          "url": "https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz"
+        },
+        {
+          "name": "Earl Edgar",
+          "url": "https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS"
+        }
+      ],
+      "duration_ms": 335658,
+      "name": "Dolby Walya",
+      "url": "https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR"
     },
     {
       "added_at": "2025-09-15 06:36:19",

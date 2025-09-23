@@ -1491,6 +1491,24 @@
     },
     {
       "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201798,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/6QBESGYjXGRl8Kml65tWNQ"
+    },
+    {
+      "album": {
         "name": "Love Me To Life",
         "url": "https://open.spotify.com/album/2u6oiZH2s25dZlhrJ2J8n9"
       },
@@ -1520,7 +1538,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 183558,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd"
@@ -1691,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Deeper Waters",
+        "url": "https://open.spotify.com/album/6UsQegGmzA4l3CGihGaWRo"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "No Survivors",
+      "url": "https://open.spotify.com/track/14OspenVFI42NxSwtLFWyF"
+    },
+    {
+      "album": {
         "name": "Nothin' Sweeter",
         "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
       },
@@ -1724,7 +1760,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 491653,
       "name": "Oceans (Where Feet May Fail) - Redux",
       "url": "https://open.spotify.com/track/1Thwp0rS6FT5BJyqU6N125"
@@ -2104,6 +2140,28 @@
       "duration_ms": 198346,
       "name": "Stay Strong",
       "url": "https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B"
+    },
+    {
+      "album": {
+        "name": "STILL (with Zach Williams)",
+        "url": "https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "STILL (with Zach Williams)",
+      "url": "https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq"
     },
     {
       "album": {

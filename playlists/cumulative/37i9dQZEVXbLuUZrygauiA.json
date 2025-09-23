@@ -13580,7 +13580,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
@@ -22698,7 +22698,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-02",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -31390,7 +31390,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -42944,7 +42944,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 141333,
       "name": "Orula",
       "url": "https://open.spotify.com/track/2BFY6af0xKPlLpjAzkfZni"
@@ -42984,6 +42984,28 @@
       "duration_ms": 141535,
       "name": "Orula",
       "url": "https://open.spotify.com/track/701CRzd2iWBSImPgmSHq8Y"
+    },
+    {
+      "album": {
+        "name": "Orula Capitambo",
+        "url": "https://open.spotify.com/album/7oFYGsqEZ0wlt6yqv9uGyv"
+      },
+      "artists": [
+        {
+          "name": "Yiro shishigang",
+          "url": "https://open.spotify.com/artist/6x8Hrdvwax8JN1U8rgyQaC"
+        },
+        {
+          "name": "yahir con H",
+          "url": "https://open.spotify.com/artist/2tQoV9cu5k72gEg9aBR5j3"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141558,
+      "name": "Orula Capitambo",
+      "url": "https://open.spotify.com/track/748rL9PxQ6KWvSwEDTHpmH"
     },
     {
       "album": {
@@ -54176,7 +54198,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Son De La Negra",
       "url": "https://open.spotify.com/track/14mPMMwXf9GHp1Tw435f2d"
@@ -55930,7 +55952,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 181053,
       "name": "S\u00f3n De La Negra",
       "url": "https://open.spotify.com/track/3yyV7ZKH2e1IaFOb1Qbfxy"
@@ -62444,7 +62466,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 195586,
       "name": "Viva Mexico",
       "url": "https://open.spotify.com/track/6Ax9ldRfQH3RDAmBZGBkiA"

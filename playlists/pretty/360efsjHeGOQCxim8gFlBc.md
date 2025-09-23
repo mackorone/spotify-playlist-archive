@@ -326,10 +326,10 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 316 | [Two Years](https://open.spotify.com/track/5OXimoxINUI6lvCAGQqPDY) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [Two Years](https://open.spotify.com/album/7Cpo5iK9QckXMTGdGhs0DD) | 2:08 |
 | 317 | [as the wind dances through the forest](https://open.spotify.com/track/58rT93fl1bbt6J4TvTVzJO) | [Cauzy](https://open.spotify.com/artist/2gA4dVQbXci5FwTVlqgphl) | [as the wind dances through the forest](https://open.spotify.com/album/12weKSiYCtIQQqLDWFAIig) | 3:05 |
 | 318 | [Glimpse Of Yesterday](https://open.spotify.com/track/4JNZ6kxPjSSYrKTuCH6AmE) | [Mr\. Kensington](https://open.spotify.com/artist/1LR4518CxOuuUY9nRfIhIZ) | [Glimpse Of Yesterday](https://open.spotify.com/album/7yufvtsgYbEpi9v8y436OT) | 2:01 |
-| 319 | [Osomi](https://open.spotify.com/track/48cqAqEDj1jur3m4lB79pp) | [Allen Tando](https://open.spotify.com/artist/56yauq6SV97pFLOzLlRCh2) | [Osomi](https://open.spotify.com/album/6H5ce94u4568qLVSouNzL8) | 1:55 |
+| 319 | [Osomi](https://open.spotify.com/track/2ZLydOR6w7YAedwTU6cXfS) | [Allen Tando](https://open.spotify.com/artist/56yauq6SV97pFLOzLlRCh2) | [Osomi](https://open.spotify.com/album/3NZF95aqznM7S1Pr6XZpQb) | 1:55 |
 | 320 | [tales of hope](https://open.spotify.com/track/2cSY1J8gukDf1gsKlk3nqc) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [tales of hope](https://open.spotify.com/album/0cVyKh4p0xcF3KKTecu3eh) | 1:30 |
 | 321 | [simple things](https://open.spotify.com/track/0PlOrYHjbVudDVMMqczJsG) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [simple things](https://open.spotify.com/album/4fN5gDs3BXWdDnMNMBC9Pz) | 2:45 |
 | 322 | [For My Love](https://open.spotify.com/track/02bplJwSJ3EXQuIGypAmyM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [For My Love](https://open.spotify.com/album/0VbOp7fj3Xix4kZbDmrERb) | 1:49 |
 | 323 | [Idea 7](https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 2:30 |
 
-Snapshot ID: `AAAHBi1rp/myBJ7/dGhYIe7qXZhQ3A54`
+Snapshot ID: `AAAHDWeoh1PvgmnbRulamHWVDB1MdBgV`

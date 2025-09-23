@@ -1,29 +1,13 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: FREDRIK",
-  "num_followers": 461092,
+  "num_followers": 461055,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGaX506g9KpyunZN1bvERalYALo5",
+  "snapshot_id": "AAAAAEQa/aJm5ZJGGLnNUVQgGvlIE1gr",
   "tracks": [
-    {
-      "added_at": "2025-09-18 22:00:22",
-      "album": {
-        "name": "Verlernt zu f\u00fchlen",
-        "url": "https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN"
-      },
-      "artists": [
-        {
-          "name": "FREDRIK",
-          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
-        }
-      ],
-      "duration_ms": 176806,
-      "name": "Alle meine Lieder",
-      "url": "https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D"
-    },
     {
       "added_at": "2025-09-18 22:00:22",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 144007,
       "name": "Kreise",
       "url": "https://open.spotify.com/track/6KfWdQ15gSsuNKNmTxhXRa"
-    },
-    {
-      "added_at": "2025-09-18 22:00:22",
-      "album": {
-        "name": "Fliegengewicht",
-        "url": "https://open.spotify.com/album/2WqZ6ViQJSfKtVhdg0sDuA"
-      },
-      "artists": [
-        {
-          "name": "frytz",
-          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Fliegengewicht",
-      "url": "https://open.spotify.com/track/03ADpV2GfahBPHyFvD5hfB"
     },
     {
       "added_at": "2025-09-18 22:00:22",
@@ -75,22 +43,34 @@
     {
       "added_at": "2025-09-18 22:00:22",
       "album": {
-        "name": "FREI",
-        "url": "https://open.spotify.com/album/7aG4f5cCMrcpCVxPztPZP2"
+        "name": "Verlernt zu f\u00fchlen",
+        "url": "https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN"
       },
       "artists": [
         {
-          "name": "Elias",
-          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
-        },
-        {
-          "name": "Luis Domingo",
-          "url": "https://open.spotify.com/artist/5ZlX3MkuP2qTnp8QF77Mw8"
+          "name": "FREDRIK",
+          "url": "https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT"
         }
       ],
-      "duration_ms": 198400,
-      "name": "FREI",
-      "url": "https://open.spotify.com/track/55YVndHkb7QoAv3yU2dYgV"
+      "duration_ms": 176806,
+      "name": "Alle meine Lieder",
+      "url": "https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D"
+    },
+    {
+      "added_at": "2025-09-18 22:00:22",
+      "album": {
+        "name": "Fliegengewicht",
+        "url": "https://open.spotify.com/album/2WqZ6ViQJSfKtVhdg0sDuA"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Fliegengewicht",
+      "url": "https://open.spotify.com/track/03ADpV2GfahBPHyFvD5hfB"
     },
     {
       "added_at": "2025-09-18 22:00:22",
@@ -107,6 +87,42 @@
       "duration_ms": 165012,
       "name": "Wie sehr tut es weh?",
       "url": "https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk"
+    },
+    {
+      "added_at": "2025-09-18 22:00:22",
+      "album": {
+        "name": "wo & wann",
+        "url": "https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E"
+      },
+      "artists": [
+        {
+          "name": "taal",
+          "url": "https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "wo & wann",
+      "url": "https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F"
+    },
+    {
+      "added_at": "2025-09-18 22:00:22",
+      "album": {
+        "name": "FREI",
+        "url": "https://open.spotify.com/album/7aG4f5cCMrcpCVxPztPZP2"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        },
+        {
+          "name": "Luis Domingo",
+          "url": "https://open.spotify.com/artist/5ZlX3MkuP2qTnp8QF77Mw8"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "FREI",
+      "url": "https://open.spotify.com/track/55YVndHkb7QoAv3yU2dYgV"
     },
     {
       "added_at": "2025-09-18 22:00:22",
@@ -155,22 +171,6 @@
       "duration_ms": 177262,
       "name": "Pflaster",
       "url": "https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt"
-    },
-    {
-      "added_at": "2025-09-18 22:00:22",
-      "album": {
-        "name": "wo & wann",
-        "url": "https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E"
-      },
-      "artists": [
-        {
-          "name": "taal",
-          "url": "https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "wo & wann",
-      "url": "https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F"
     },
     {
       "added_at": "2025-09-18 22:00:22",

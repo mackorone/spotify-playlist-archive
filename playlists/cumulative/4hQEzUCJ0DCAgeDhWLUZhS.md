@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-525 songs - 1 day 6 hr 47 min
+526 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 | 2021-12-17 | 2025-05-28 |
 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 | 2020-10-10\* | 2021-02-25 |
 | [Deleter](https://open.spotify.com/track/1r8e3HtZOP65v2uiWd17dF) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Deleter](https://open.spotify.com/album/4daspdXy4FtNb0GkxtdV3A) | 3:54 | 2020-10-10\* | 2021-05-13 |
+| [Destroy Me](https://open.spotify.com/track/5sdqwzp1kSHHqTFsyfhrZW) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Destroy Me](https://open.spotify.com/album/6M1XaMPbxRZZcmM38GwUQc) | 2:42 | 2025-09-23 |  |
 | [DESTRUCTION](https://open.spotify.com/track/2PUdwSaySDli3XLtHpnuBj) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Destruction](https://open.spotify.com/album/4P3PkLlYaGzBdpbCX8O0vS) | 2:40 | 2020-10-10\* | 2021-02-25 |
 | [Dinosaur](https://open.spotify.com/track/5oGACsJ9GXJlWVdyC7vvI0) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Dinosaur](https://open.spotify.com/album/6GbEynYvLcantK7mmVAynD) | 3:38 | 2021-03-16 | 2022-03-18 |
 | [Do U Connect?](https://open.spotify.com/track/74gGE4jJOIBdTZTDdn57KN) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [I Just Do What God Tells Me To Do](https://open.spotify.com/album/0op8vjTkaatdmpqIjm46Ix) | 2:27 | 2020-10-10\* | 2021-05-13 |

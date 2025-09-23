@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,259 likes - 115 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,253 likes - 115 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deja vu](https://open.spotify.com/track/6XBXt3FFVznJ1IDRa0fOdc) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Deja vu](https://open.spotify.com/album/3C28scm6lummbH9Ztel5X7) | 2:30 |
-| 2 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
-| 3 | [Nachspiel](https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU) | [Swingklubben](https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Nachspiel](https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE) | 2:37 |
-| 4 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 |
-| 5 | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY) | 2:02 |
-| 6 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
-| 7 | [BUBBEL](https://open.spotify.com/track/3qkMysp3aCh7zc9126F9Df) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [BUBBEL](https://open.spotify.com/album/25QLKqY6jUG6W1rxtDTeoR) | 2:06 |
+| 1 | [BUBBEL](https://open.spotify.com/track/3qkMysp3aCh7zc9126F9Df) | [Kaptenen](https://open.spotify.com/artist/6DSprS2EbPUhzEly95Ptvl) | [BUBBEL](https://open.spotify.com/album/25QLKqY6jUG6W1rxtDTeoR) | 2:06 |
+| 2 | [Deja vu](https://open.spotify.com/track/6XBXt3FFVznJ1IDRa0fOdc) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Deja vu](https://open.spotify.com/album/3C28scm6lummbH9Ztel5X7) | 2:30 |
+| 3 | [Sluta.](https://open.spotify.com/track/7dFdNSV05JBZu71mEDAdnx) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Sluta.](https://open.spotify.com/album/4oT81ZodJJHe60BECu9o0P) | 2:30 |
+| 4 | [Nachspiel](https://open.spotify.com/track/6LGZTgf2BWIL4rT5luKAyU) | [Swingklubben](https://open.spotify.com/artist/1N6yMzPtvz09r7oiOmLhuz), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Nachspiel](https://open.spotify.com/album/6xGaQNvJydJViYIFqjesaE) | 2:37 |
+| 5 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 |
+| 6 | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/track/5FN2WmM6V4vR8kas4KqckJ) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev), [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Lever Som Aldrig Før \(feat\. Soppgirobygget\)](https://open.spotify.com/album/2Kek5X3lagfrxLqT49uIZY) | 2:02 |
+| 7 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
 | 8 | [Ångest med vodka](https://open.spotify.com/track/1Sd185JUV29fh6AYHgJcYw) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Barsebäckz](https://open.spotify.com/artist/7BssnPHoq2UviwEEpE1Dej) | [Ångest med vodka](https://open.spotify.com/album/7Aav4eSDYc79iXkc71IRbW) | 3:05 |
 | 9 | [On One](https://open.spotify.com/track/3fn6702K3cgeHDNqtMFtSW) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [On One](https://open.spotify.com/album/0piWOK8MKvsOxL3FNYOLFY) | 2:43 |
 | 10 | [UPPENBART](https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [UPPENBART](https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85) | 2:21 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 114 | [113](https://open.spotify.com/track/0Vec54m9ABwhKGVHG5rkQF) | [Drittsekk](https://open.spotify.com/artist/2AWNiSdDhYAqQDpRvtfLtM), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Richie Holm](https://open.spotify.com/artist/6extXLs8CgAuChKJuMaFyt) | [113](https://open.spotify.com/album/4O6efjOGwx7nhYQ5KPJKfK) | 2:01 |
 | 115 | [E45](https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [E45](https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f) | 2:16 |
 
-Snapshot ID: `AAAAANDg9wn5fCnAVyNnozBnk1JGTPR1`
+Snapshot ID: `AAAAAAP785BjQB3nM4pzKJ7QTvbNz0h/`

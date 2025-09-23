@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Cardi B, Antoon, RAYE, Lola Young en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,147 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,115 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 92 | [Leave Your Side Of The Floor](https://open.spotify.com/track/63I6OgJxr5GYqDBUYv6PQw) | [Kasper Nova](https://open.spotify.com/artist/17T3U2ihxdKfhoL9wyf7mg), [ParHasard](https://open.spotify.com/artist/1o1TefZeFfaPOawy5qAuKx) | [Leave Your Side Of The Floor](https://open.spotify.com/album/6RBouLQ1dj7WIF6PksWp5y) | 3:20 |
 | 93 | [Haunted House \- Short version](https://open.spotify.com/track/7ac0apOF15NoQHaWIOr2PS) | [Chipz](https://open.spotify.com/artist/770rU18or2uAGT21xyvpzp), [Bram Krikke](https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk) | [Haunted House](https://open.spotify.com/album/1PNFYOLS98nZBE0SOFnPCB) | 3:02 |
 | 94 | [Van boer tot zigeuner](https://open.spotify.com/track/4wNi9oHhYPMJhRXyhLvjA9) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Van boer tot zigeuner](https://open.spotify.com/album/0VWAPDqAoACO131G8GcTW1) | 2:54 |
-| 95 | [Meer Dan Ik Dacht](https://open.spotify.com/track/4nTJvyQo3od13dFnUyulka) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp) | [Loen X Baas B](https://open.spotify.com/album/3rmOir8JD5yf6XHpXEXsWj) | 2:54 |
+| 95 | [Meer Dan Ik Dacht \(with Nouri\)](https://open.spotify.com/track/4nTJvyQo3od13dFnUyulka) | [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14), [Loen](https://open.spotify.com/artist/4xz8GW1ZE8go3EZKeT5ZHp), [Nouri](https://open.spotify.com/artist/6k7cmSyTY44n7JeLGVJeRa) | [Loen X Baas B](https://open.spotify.com/album/3rmOir8JD5yf6XHpXEXsWj) | 2:54 |
 | 96 | [Bitterbal](https://open.spotify.com/track/0FmiEhYHOdiPBNV7PW87i2) | [Edo Barends](https://open.spotify.com/artist/7AnNU4xr4GSDqjrf9sl534) | [Bitterbal](https://open.spotify.com/album/1EDjyvGMh0XPKFqzN3UEPU) | 2:53 |
 | 97 | [Alles Goud](https://open.spotify.com/track/49iEJuWSHsK0O4HENW8qJR) | [Iwan Esajas](https://open.spotify.com/artist/0rexY8WTinI4l79RM2zjWI), [Jeroen Russchen](https://open.spotify.com/artist/4PlFxEuFahcttvLUHAplvP) | [Alles Goud](https://open.spotify.com/album/3rtA6PkTnJpvqjowYjmSd4) | 2:22 |
 | 98 | [DADDY ISSUES](https://open.spotify.com/track/2XISMV8u6i7ejQcDf1JDEu) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l), [Lèlèman](https://open.spotify.com/artist/4MazrrmZL1GVNV5fkwblkB) | [DADDY ISSUES](https://open.spotify.com/album/0e9ts8rQpsYNHs2Sw3HScj) | 1:53 |

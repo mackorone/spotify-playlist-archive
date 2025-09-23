@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Fit For An Autopsy",
-  "num_followers": 270749,
+  "num_followers": 270862,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Crossing Nails",
-        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Crossing Nails",
-      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Murder8",
         "url": "https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G"
       },
@@ -1011,18 +995,34 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c"
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
       },
       "artists": [
         {
-          "name": "Brand of Sacrifice",
-          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
         }
       ],
-      "duration_ms": 258986,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I"
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Imperium Delirium",
+        "url": "https://open.spotify.com/album/73dNfnRABJZt3zIhEifUgv"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 454548,
+      "name": "Imperium Delirium",
+      "url": "https://open.spotify.com/track/0ykvLQPvtbiiAU3o1XQRYA"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Imperium Delirium",
-        "url": "https://open.spotify.com/album/73dNfnRABJZt3zIhEifUgv"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/3hVNt9cc7pMdICNEevVS8c"
       },
       "artists": [
         {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+          "name": "Brand of Sacrifice",
+          "url": "https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod"
         }
       ],
-      "duration_ms": 454548,
-      "name": "Imperium Delirium",
-      "url": "https://open.spotify.com/track/0ykvLQPvtbiiAU3o1XQRYA"
+      "duration_ms": 258986,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/23ZCrmvUGs6jS5qu6aXn5I"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "The Nothing That Is",
-        "url": "https://open.spotify.com/album/4ZYfWm41dWgewV1yMV4zmU"
-      },
-      "artists": [
-        {
-          "name": "Fit For An Autopsy",
-          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
-        }
-      ],
-      "duration_ms": 304493,
-      "name": "Red Horizon",
-      "url": "https://open.spotify.com/track/7Hrr1Setc3WFBICOm5kEgn"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/1JIvBVblvE64QjDzPrPM5b"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 123730,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/1t08G2BpPU2Ti72oqSJpzO"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "The Nothing That Is",
+        "url": "https://open.spotify.com/album/4ZYfWm41dWgewV1yMV4zmU"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 304493,
+      "name": "Red Horizon",
+      "url": "https://open.spotify.com/track/7Hrr1Setc3WFBICOm5kEgn"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "NO REVIVES",
+      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "Nihilus",
         "url": "https://open.spotify.com/album/45QoTiIMPyNXb2tHkxex6T"
       },
@@ -1347,6 +1363,22 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "Infinity Of Horrors",
+        "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
+      },
+      "artists": [
+        {
+          "name": "Shadow of Intent",
+          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+        }
+      ],
+      "duration_ms": 254446,
+      "name": "Infinity Of Horrors",
+      "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit"
       },
@@ -1359,22 +1391,6 @@
       "duration_ms": 266000,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
-        "name": "FEED",
-        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        }
-      ],
-      "duration_ms": 206857,
-      "name": "NO REVIVES",
-      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Scars Upon Scars",
-        "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
-      },
-      "artists": [
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Scars Upon Scars",
-      "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "FUHAI",
         "url": "https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Infinity Of Horrors",
-        "url": "https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB"
+        "name": "Scars Upon Scars",
+        "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
       },
       "artists": [
         {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 254446,
-      "name": "Infinity Of Horrors",
-      "url": "https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv"
+      "duration_ms": 180500,
+      "name": "Scars Upon Scars",
+      "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        },
-        {
-          "name": "Tim Lambesis",
-          "url": "https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "In Dying Days",
         "url": "https://open.spotify.com/album/3sCRkXKFnu5rvkB4LYmVGC"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 228444,
       "name": "Righteous Man",
       "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        },
+        {
+          "name": "Tim Lambesis",
+          "url": "https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9"
+        }
+      ],
+      "duration_ms": 269142,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "A Hill to Die Upon",
+        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
+      },
+      "artists": [
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "King Ov Fire",
+      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "The Orphan",
         "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "A Hill to Die Upon",
-        "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
-      },
-      "artists": [
-        {
-          "name": "Mental Cruelty",
-          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "King Ov Fire",
-      "url": "https://open.spotify.com/track/79Tk6FAVdwYretxYFbT9wk"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Sing to the Grave",
         "url": "https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o"
       },
@@ -1755,22 +1755,6 @@
       "duration_ms": 159417,
       "name": "Sing to the Grave",
       "url": "https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
-        "name": "Love Burns",
-        "url": "https://open.spotify.com/album/0lzXhCQvgW1sw7V5CeWpZL"
-      },
-      "artists": [
-        {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
-        }
-      ],
-      "duration_ms": 255858,
-      "name": "Love Burns",
-      "url": "https://open.spotify.com/track/3qybm3xmYoAg7vETamsmZv"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1791,6 +1775,22 @@
       "duration_ms": 384824,
       "name": "Hivemind (feat. Mental Cruelty)",
       "url": "https://open.spotify.com/track/68m6nXeQLEUYDdlvikMdHU"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Keres",
+        "url": "https://open.spotify.com/album/1luPoswLxtIRfoZAI4m513"
+      },
+      "artists": [
+        {
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Keres",
+      "url": "https://open.spotify.com/track/3OZopVlrXlZzhy9Inwin9C"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Keres",
-        "url": "https://open.spotify.com/album/1luPoswLxtIRfoZAI4m513"
-      },
-      "artists": [
-        {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Keres",
-      "url": "https://open.spotify.com/track/3OZopVlrXlZzhy9Inwin9C"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 230517,
       "name": "Mechanical Chaos",
       "url": "https://open.spotify.com/track/5Ooe9BRVaQfdc8o2WA7xO5"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Love Burns",
+        "url": "https://open.spotify.com/album/0lzXhCQvgW1sw7V5CeWpZL"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 255858,
+      "name": "Love Burns",
+      "url": "https://open.spotify.com/track/3qybm3xmYoAg7vETamsmZv"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "A Bloodsoaked Symphony",
-        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
-      },
-      "artists": [
-        {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
-        }
-      ],
-      "duration_ms": 268283,
-      "name": "A Bloodsoaked Symphony",
-      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Moments of Misery",
         "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 177428,
       "name": "Heaven's Gate",
       "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "A Bloodsoaked Symphony",
+        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "duration_ms": 268283,
+      "name": "A Bloodsoaked Symphony",
+      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "BLUEPRINTS FOR IDOL GENOCIDE",
-        "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        }
-      ],
-      "duration_ms": 220514,
-      "name": "BLUEPRINTS FOR IDOL GENOCIDE",
-      "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "snuff.tape",
         "url": "https://open.spotify.com/album/2meSOoWheq34KsHdEmPQ4y"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 219360,
       "name": "snuff.tape",
       "url": "https://open.spotify.com/track/3DawDzCphRbthASL0BHNQa"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "BLUEPRINTS FOR IDOL GENOCIDE",
+        "url": "https://open.spotify.com/album/2YCZtOSfnNefFFun4RYwKO"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 220514,
+      "name": "BLUEPRINTS FOR IDOL GENOCIDE",
+      "url": "https://open.spotify.com/track/1Jr9NlooITJqwUd8aJdmYB"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "THE FINAL GATE",
-        "url": "https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N"
-      },
-      "artists": [
-        {
-          "name": "The Archaic Epidemic",
-          "url": "https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l"
-        }
-      ],
-      "duration_ms": 184606,
-      "name": "THE FINAL GATE",
-      "url": "https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Extraction",
         "url": "https://open.spotify.com/album/2UYMVHDDn7kwm8YQy40ndu"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 264463,
       "name": "Calcium Closet",
       "url": "https://open.spotify.com/track/1bygSIvHzKkDtfYLVNSiGd"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "THE FINAL GATE",
+        "url": "https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N"
+      },
+      "artists": [
+        {
+          "name": "The Archaic Epidemic",
+          "url": "https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l"
+        }
+      ],
+      "duration_ms": 184606,
+      "name": "THE FINAL GATE",
+      "url": "https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2171,26 +2171,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "BLACK_WAVE II",
-        "url": "https://open.spotify.com/album/6CBFQRJUXYUAT7PqbTdSud"
-      },
-      "artists": [
-        {
-          "name": "PSYCHO-FRAME",
-          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
-        },
-        {
-          "name": "Moodring",
-          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
-        }
-      ],
-      "duration_ms": 236263,
-      "name": "BLACK_WAVE II",
-      "url": "https://open.spotify.com/track/5PCKkrp4Wgrl2ukORKVaVm"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "kill.me_please",
         "url": "https://open.spotify.com/album/0vUsd9UcsBbKxrjsA5toto"
       },
@@ -2203,6 +2183,22 @@
       "duration_ms": 174214,
       "name": "kill.me_please",
       "url": "https://open.spotify.com/track/0jfGdeggNXcgvLIv1nHp8j"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Fury",
+        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
+      },
+      "artists": [
+        {
+          "name": "Upon A Burning Body",
+          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
+        }
+      ],
+      "duration_ms": 186358,
+      "name": "Code of Honor",
+      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2235,22 +2231,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Fury",
-        "url": "https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl"
-      },
-      "artists": [
-        {
-          "name": "Upon A Burning Body",
-          "url": "https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7"
-        }
-      ],
-      "duration_ms": 186358,
-      "name": "Code of Honor",
-      "url": "https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/39q3NuRHTAQmPTBZRRhoRB"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 191909,
       "name": "Dead Pacifist",
       "url": "https://open.spotify.com/track/6XQwdcU1l90Q57jPbOMyhb"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "BLACK_WAVE II",
+        "url": "https://open.spotify.com/album/6CBFQRJUXYUAT7PqbTdSud"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        },
+        {
+          "name": "Moodring",
+          "url": "https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0"
+        }
+      ],
+      "duration_ms": 236263,
+      "name": "BLACK_WAVE II",
+      "url": "https://open.spotify.com/track/5PCKkrp4Wgrl2ukORKVaVm"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "Bleed the Future",
+        "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
+      },
+      "artists": [
+        {
+          "name": "Archspire",
+          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Bleed the Future",
+      "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "Death Below",
         "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 274826,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
-        "name": "Bleed the Future",
-        "url": "https://open.spotify.com/album/3voN4heYWAWr2uxYlcL3pc"
-      },
-      "artists": [
-        {
-          "name": "Archspire",
-          "url": "https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Bleed the Future",
-      "url": "https://open.spotify.com/track/4DgVZwzoF2dENlLTvhWjr0"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2351,6 +2351,26 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "The Bleeding Machine",
+        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
+      },
+      "artists": [
+        {
+          "name": "Tactosa",
+          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
+        },
+        {
+          "name": "Elysia",
+          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
+        }
+      ],
+      "duration_ms": 223381,
+      "name": "The Bleeding Machine",
+      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2KhJHoqOjdylN8vCMyMEqr"
       },
@@ -2375,6 +2395,22 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
+        "name": "The Isnis",
+        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+        }
+      ],
+      "duration_ms": 197614,
+      "name": "The Isnis",
+      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn"
       },
@@ -2391,42 +2427,6 @@
       "duration_ms": 237400,
       "name": "Demon King",
       "url": "https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
-        "name": "The Bleeding Machine",
-        "url": "https://open.spotify.com/album/6IvlaLnCiZLiswjRNcBSIo"
-      },
-      "artists": [
-        {
-          "name": "Tactosa",
-          "url": "https://open.spotify.com/artist/1maC5DWQKBAQqmjfp3qCpI"
-        },
-        {
-          "name": "Elysia",
-          "url": "https://open.spotify.com/artist/3aUFKf9vTLJKkHcKB0BcMS"
-        }
-      ],
-      "duration_ms": 223381,
-      "name": "The Bleeding Machine",
-      "url": "https://open.spotify.com/track/4kenHcFgIL3wdmIeC1wKZ6"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
-        "name": "The Isnis",
-        "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
-        }
-      ],
-      "duration_ms": 197614,
-      "name": "The Isnis",
-      "url": "https://open.spotify.com/track/61hyN4WD3KyJ8adCThANGr"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Force-Fed",
-        "url": "https://open.spotify.com/album/19NMbDDHWIRc7ekDxHzZQx"
-      },
-      "artists": [
-        {
-          "name": "Immortal Disfigurement",
-          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
-        }
-      ],
-      "duration_ms": 350293,
-      "name": "Force-Fed",
-      "url": "https://open.spotify.com/track/4KsvHa2Tr4mOYlnxFcQubp"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Rot With Me",
         "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 286735,
       "name": "Rot With Me",
       "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Force-Fed",
+        "url": "https://open.spotify.com/album/19NMbDDHWIRc7ekDxHzZQx"
+      },
+      "artists": [
+        {
+          "name": "Immortal Disfigurement",
+          "url": "https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK"
+        }
+      ],
+      "duration_ms": 350293,
+      "name": "Force-Fed",
+      "url": "https://open.spotify.com/track/4KsvHa2Tr4mOYlnxFcQubp"
     },
     {
       "added_at": "2025-09-19 04:00:10",
@@ -2547,22 +2547,6 @@
     {
       "added_at": "2025-09-19 04:00:10",
       "album": {
-        "name": "Wounds Never Healed",
-        "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
-      },
-      "artists": [
-        {
-          "name": "Oceano",
-          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Wounds Never Healed",
-      "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
-    },
-    {
-      "added_at": "2025-09-19 04:00:10",
-      "album": {
         "name": "Under the Weight of Things I Couldn't Change",
         "url": "https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU"
       },
@@ -2575,6 +2559,22 @@
       "duration_ms": 216500,
       "name": "Coffin of Pain",
       "url": "https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60"
+    },
+    {
+      "added_at": "2025-09-19 04:00:10",
+      "album": {
+        "name": "Wounds Never Healed",
+        "url": "https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4"
+      },
+      "artists": [
+        {
+          "name": "Oceano",
+          "url": "https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Wounds Never Healed",
+      "url": "https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2"
     }
   ],
   "unique_name": "Deathcore",

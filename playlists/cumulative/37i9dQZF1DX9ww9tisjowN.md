@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: POLYESTER & POLYURETHANE from New PANTY & STOCKING with GARTERBELT ©TRIGGER・今石洋之／NPSG製作委員会
 
-916 songs - 2 day 4 hr 29 min
+917 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 | 2023-10-12 | 2023-10-20 |
 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-05 | 2024-02-09 |
 | [KUROMI♡Profile](https://open.spotify.com/track/5MwkkFl5kXumjhkoXfFxA1) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [KUROMI♡Profile](https://open.spotify.com/album/3mwXXzEumvOyd015KnkmYu) | 3:13 | 2025-09-11 | 2025-09-19 |
+| [KUROMI♡Profile \- English Version](https://open.spotify.com/track/2LDQJNHHwXLRAX56lwmEtf) | [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [KUROMI♡Profile \(English Version\)](https://open.spotify.com/album/7doVTHuq8Q5JjZvYh3ASeR) | 3:13 | 2025-09-22 |  |
 | [KURU KURU HARAJUKU](https://open.spotify.com/track/1xxDroHAay4TicZmGoo0sU) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [KURU KURU HARAJUKU](https://open.spotify.com/album/6ecY6bUbr5ajCf62xRuVvY) | 4:17 | 2025-07-17 | 2025-07-25 |
 | [KWBR Kuwabara](https://open.spotify.com/track/0GrQH6Lx3x2V81njLGLVBb) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 5:38 | 2024-08-08 | 2024-09-13 |
 | [Kyoufuu All Back](https://open.spotify.com/track/3rO7YwtuTzCGssxvDS4xK2) | [ゆこぴ](https://open.spotify.com/artist/2VFuqA3nVl2UqhhthXNF3K) | [ALBUM No,1](https://open.spotify.com/album/5J64EHN7hMo5sGTlRfC6bo) | 2:17 | 2023-12-12 | 2025-01-17 |
@@ -736,7 +737,7 @@
 | [僕は頑張るよっ feat\. ano](https://open.spotify.com/track/6HTt0UBXjddAblVhEVT5Lj) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [僕は頑張るよっ feat\. ano](https://open.spotify.com/album/7eUAgP5PIKzqzHYquOpmfe) | 5:03 | 2023-09-26 | 2023-10-06 |
 | [僕らしさ](https://open.spotify.com/track/2ZwS4OtnNImLucRnYQRMH6) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [僕らしさ](https://open.spotify.com/album/3CKYnctlDRNi4XqHGSfSqL) | 4:08 | 2024-10-17 | 2024-12-05 |
 | [光](https://open.spotify.com/track/1F7A10m9NPJLuJXAvcpFer) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [光](https://open.spotify.com/album/3aPJyKnY7geM2oM1RSxPYx) | 2:13 | 2024-02-27 | 2024-03-13 |
-| [光](https://open.spotify.com/track/6FBj38HvATJbaI0jZRoUBR) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [光](https://open.spotify.com/album/5ssEvdycaj6hwndNCrYZtF) | 3:02 | 2025-09-04 |  |
+| [光](https://open.spotify.com/track/6FBj38HvATJbaI0jZRoUBR) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [光](https://open.spotify.com/album/5ssEvdycaj6hwndNCrYZtF) | 3:02 | 2025-09-04 | 2025-09-23 |
 | [光の跡](https://open.spotify.com/track/4QOTrPksb0oe1d7iJ8VZ89) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [光の跡／生命体](https://open.spotify.com/album/1qd76WUID0SKeblbTivCHb) | 4:10 | 2023-12-26 | 2023-12-30 |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-01-04 | 2025-01-17 |
 | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/4yhuShHeIeTJYKmQcMAYJC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/1Bnpg0kRAWkmCkxIN1aEwU) | 2:56 | 2024-04-18 | 2024-04-26 |

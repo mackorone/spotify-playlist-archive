@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Triflouride Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,341 likes - 250 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,352 likes - 250 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 39 | [laruan](https://open.spotify.com/track/3BaT0ZBkJOCKH9ve5u10P0) | [days of jean](https://open.spotify.com/artist/0vETTlB91jyW6YksquO5tq) | [laruan](https://open.spotify.com/album/5wGuOZaySMNdd8Xy6n8uco) | 4:24 |
 | 40 | [Palagi](https://open.spotify.com/track/6HVZVsqyIXYC7na1M7pFoq) | [sunburn!](https://open.spotify.com/artist/7fDCpSlcnPhFWGgKV9vDK2) | [Palagi](https://open.spotify.com/album/4YtodPmqwh27hIm0ojwDyx) | 5:03 |
 | 41 | [Gising ba ako?](https://open.spotify.com/track/4C5TWKDAClM2LlUkFLAvlr) | [DMZM](https://open.spotify.com/artist/0wo4AstNfLwK0EhWdfM094) | [Gising ba ako?](https://open.spotify.com/album/28hbtk9yP2SDZldbwHOvI7) | 3:00 |
-| 42 | [if](https://open.spotify.com/track/1v1gis6BL0yheZwSbj5v9v) | [KRT](https://open.spotify.com/artist/5VZjChYDtaSkKRkXpymYHF), ['Tell](https://open.spotify.com/artist/0Vvf3c3kjAPF0TDApwqOZl) | [if](https://open.spotify.com/album/6NvWYpI8IaWEjrftVE1DOn) | 3:16 |
+| 42 | [if](https://open.spotify.com/track/1v1gis6BL0yheZwSbj5v9v) | [KRT](https://open.spotify.com/artist/5VZjChYDtaSkKRkXpymYHF), ['Tell](https://open.spotify.com/artist/0aHPyvOPGgYeBE6MPO18og) | [if](https://open.spotify.com/album/6NvWYpI8IaWEjrftVE1DOn) | 3:16 |
 | 43 | [i promise](https://open.spotify.com/track/1def8UR7jLl4LmSHdauPUH) | [geo](https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd) | [i promise](https://open.spotify.com/album/3soZFF4KGDfOBzAIDShOsk) | 4:16 |
 | 44 | [What's Up?](https://open.spotify.com/track/3IjvWk2nCyxH8IqYOIOVD5) | [Daz Cue](https://open.spotify.com/artist/15ObU3lzom807WiHf0BU72) | [What's Up?](https://open.spotify.com/album/0IGTQs4Ge5Sl2F2Ece3U17) | 2:41 |
 | 45 | [Don't Close Your Eyes](https://open.spotify.com/track/4rlNMI7ZJ7pnX1FhcMuhPp) | [above velvet air](https://open.spotify.com/artist/5sgL6TpSBvXPqXnM17CYQT) | [Don't Close Your Eyes](https://open.spotify.com/album/0YbdEBZ9KNLK1qaGTNEX6c) | 2:31 |

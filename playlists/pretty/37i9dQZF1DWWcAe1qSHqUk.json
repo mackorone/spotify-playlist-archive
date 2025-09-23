@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 62087,
+  "num_followers": 62092,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -479,18 +479,18 @@
     {
       "added_at": "2025-09-07 16:00:01",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
       },
       "artists": [
         {
-          "name": "Kevin Mahogany",
-          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
+          "name": "Erin Boheme",
+          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
         }
       ],
-      "duration_ms": 253283,
-      "name": "Don't Let Me Be Lonely Tonight",
-      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+      "duration_ms": 279853,
+      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
+      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
     },
     {
       "added_at": "2025-09-07 16:00:01",
@@ -511,18 +511,18 @@
     {
       "added_at": "2025-09-07 16:00:01",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/0hEwSReR8W9NMlL8uMrklp"
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
       },
       "artists": [
         {
-          "name": "Erin Boheme",
-          "url": "https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw"
+          "name": "Kevin Mahogany",
+          "url": "https://open.spotify.com/artist/7sJEt4QPDYhjJ9tcHSlhhN"
         }
       ],
-      "duration_ms": 279853,
-      "name": "Let\u2019s Make The Most Of A Beautiful Thing",
-      "url": "https://open.spotify.com/track/187NSXSWDou7TqG1AtLVLW"
+      "duration_ms": 253283,
+      "name": "Don't Let Me Be Lonely Tonight",
+      "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
     },
     {
       "added_at": "2025-09-07 16:00:01",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-09-07 16:00:01",
       "album": {
+        "name": "Homefree",
+        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
+      },
+      "artists": [
+        {
+          "name": "Nnenna Freelon",
+          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
+        }
+      ],
+      "duration_ms": 361253,
+      "name": "The Very Thought of You",
+      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
+    },
+    {
+      "added_at": "2025-09-07 16:00:01",
+      "album": {
         "name": "Jazz and Essentials",
         "url": "https://open.spotify.com/album/3xdxSXdYCpmndfRGC1OZTY"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 231013,
       "name": "To Have & To Hold",
       "url": "https://open.spotify.com/track/7HOyzeUeL7QUX0siA5T7FV"
-    },
-    {
-      "added_at": "2025-09-07 16:00:01",
-      "album": {
-        "name": "Homefree",
-        "url": "https://open.spotify.com/album/3Ausiihxo4ch3UYjYxvUqD"
-      },
-      "artists": [
-        {
-          "name": "Nnenna Freelon",
-          "url": "https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS"
-        }
-      ],
-      "duration_ms": 361253,
-      "name": "The Very Thought of You",
-      "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"
     },
     {
       "added_at": "2025-09-07 16:00:01",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-09-07 16:00:01",
       "album": {
+        "name": "My Mood Is You",
+        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
+      },
+      "artists": [
+        {
+          "name": "Freddy Cole",
+          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
+        }
+      ],
+      "duration_ms": 345821,
+      "name": "My Mood Is You",
+      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
+    },
+    {
+      "added_at": "2025-09-07 16:00:01",
+      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 310106,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
-    },
-    {
-      "added_at": "2025-09-07 16:00:01",
-      "album": {
-        "name": "My Mood Is You",
-        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
-      },
-      "artists": [
-        {
-          "name": "Freddy Cole",
-          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
-        }
-      ],
-      "duration_ms": 345821,
-      "name": "My Mood Is You",
-      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
     },
     {
       "added_at": "2025-09-07 16:00:01",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-09-07 16:00:01",
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2025-09-07 16:00:01",
+      "album": {
         "name": "A Wonderful World",
         "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2025-09-07 16:00:01",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2025-09-07 16:00:01",
-      "album": {
         "name": "Jazz And 80s",
         "url": "https://open.spotify.com/album/0E3NKNhm72KqrGNNBx1sB0"
       },
@@ -1079,6 +1079,26 @@
       "duration_ms": 243933,
       "name": "Hungry Like The Wolf",
       "url": "https://open.spotify.com/track/3zsLiaqjQR7CDURvq8o4W7"
+    },
+    {
+      "added_at": "2025-09-07 16:00:01",
+      "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
+      },
+      "artists": [
+        {
+          "name": "OVN",
+          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
+        },
+        {
+          "name": "chrln",
+          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
+        }
+      ],
+      "duration_ms": 121385,
+      "name": "Full Moon",
+      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     },
     {
       "added_at": "2025-09-07 16:00:01",
@@ -1111,26 +1131,6 @@
       "duration_ms": 260874,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn"
-    },
-    {
-      "added_at": "2025-09-07 16:00:01",
-      "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/6IFHK7RBdfloqcLW53wroM"
-      },
-      "artists": [
-        {
-          "name": "OVN",
-          "url": "https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304"
-        },
-        {
-          "name": "chrln",
-          "url": "https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg"
-        }
-      ],
-      "duration_ms": 121385,
-      "name": "Full Moon",
-      "url": "https://open.spotify.com/track/6KWqDGRYrY4T7sRdDhTnOX"
     },
     {
       "added_at": "2025-09-07 16:00:01",

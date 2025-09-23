@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 金音獎進入第 16 年了！Spotify 當然全力支持！火速呈獻這些最令人驚喜與回味的好作品 ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,481 likes - 90 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,542 likes - 90 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 89 | [blueberries](https://open.spotify.com/track/6COPKBGBpm4sDkcTWEEd66) | [Aiko Tomi](https://open.spotify.com/artist/24jBJ64cYnyWF53EKv6K9t) | [Everything Sparks Joy](https://open.spotify.com/album/6esLCiJnvM26mhqN1EAcPe) | 2:36 |
 | 90 | [累累](https://open.spotify.com/track/5u7nTFYOiowljp5UGphYTR) | [YILE LIN 林以樂](https://open.spotify.com/artist/5Cl6jhwcV4OjIj3TgiegKQ) | [素顏的樣子](https://open.spotify.com/album/1qNoXKUFJaFhTdpVrDydl4) | 4:21 |
 
-Snapshot ID: `AAAAADtEhFri5BYexlW2++Scl56c1P4j`
+Snapshot ID: `AAAAAC/YGI+/mwC2sA5dZgL9pYZHBP2J`

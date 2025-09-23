@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Tobias Rahim, Tessa, Rasmus Seebach & Artigeardit og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,202 likes - 103 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,184 likes - 103 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

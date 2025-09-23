@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoGbayjhEGv.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST"!  ©荒川弘／スクウェアエニックス・毎日放送・アニプレックス・ボンズ・電通 2003 \(C\)HIROMU ARAKAWA / SQUARE ENIX, MBS, ANX, BONES, dentsu 2004
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,858 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,864 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

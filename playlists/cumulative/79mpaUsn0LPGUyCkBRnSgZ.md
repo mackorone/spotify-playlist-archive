@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-914 songs - 2 day 12 hr 34 min
+916 songs - 2 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Disorder \- 2019 Digital Master](https://open.spotify.com/track/2OPmhk5vO4qiYE4LEAC9hs) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures](https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s) | 3:32 | 2022-04-04 |  |
 | [Divine Fault Line](https://open.spotify.com/track/0quhypMAHswXpRBXAqxS4G) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Light, Dark, Light Again](https://open.spotify.com/album/7kGXsZHSwblgzytzITVbLg) | 4:18 | 2024-03-31 |  |
 | [DO IT](https://open.spotify.com/track/73IdeGI8Gt1XxcaQ6vBsyD) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 2:12 | 2024-01-08 |  |
+| [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 | 2025-09-23 |  |
 | [Do Not Fire! \(demo\)](https://open.spotify.com/track/2tPzKfP7wGlXGPOSUBDHql) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy Demos](https://open.spotify.com/album/0i05SUICZ5jsvfvImWXlIJ) | 0:52 | 2025-02-01 |  |
 | [do u c](https://open.spotify.com/track/6nAmgIbPY6NdjWAWtOu7lz) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [abc](https://open.spotify.com/album/6FtMqIlKhwju50LBpFXs20) | 0:35 | 2024-05-22 | 2025-07-27 |
 | [Dodecahedron](https://open.spotify.com/track/0rbBNWwPxwXUSlqUmlh4JK) | [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr) | [I Don't Give a Fuck About This Rap Shit, Imma Just Drop Until I Don't Feel Like It Anymore](https://open.spotify.com/album/1JfbPIbBc0wMHgl5zmwm9x) | 2:42 | 2022-11-24 |  |
@@ -231,6 +232,7 @@
 | [Donkey Show](https://open.spotify.com/track/2QvOY8Vsy4ZOvV2id0QmTP) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:10 | 2023-09-17 |  |
 | [Doris](https://open.spotify.com/track/01psXbOBykOM12RHATPCjr) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:50 | 2022-07-04 |  |
 | [DOWN BY LAW](https://open.spotify.com/track/6KlvybbokGa63tRS4J3Uqh) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [MICHAEL](https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ) | 3:31 | 2023-06-22 | 2023-06-27 |
+| [Down on the Street](https://open.spotify.com/track/77cNhikwSwGJdls6slQy7k) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Funhouse](https://open.spotify.com/album/5qhXaVIC5BdE4a5Kq1FMZG) | 3:42 | 2025-09-22 |  |
 | [Down to the Waterline](https://open.spotify.com/track/0NnuQYRXNIzncgftfbTV3P) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 4:02 | 2023-08-03 |  |
 | [Downhill](https://open.spotify.com/track/2DkJKUMgylaBK5H5GXPaNc) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Mirror Starts Moving Without Me](https://open.spotify.com/album/0D1VuKK2MQA5d25Nn2gyEK) | 3:06 | 2024-12-30 |  |
 | [drake era](https://open.spotify.com/track/2lHu8kPlCkYID8BeU3EAwz) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [black ben carson](https://open.spotify.com/album/1oDgCslpzVA6zATNLPFo7f) | 3:57 | 2022-01-17 | 2023-07-31 |

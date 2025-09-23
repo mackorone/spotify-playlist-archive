@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 176939,
+  "num_followers": 176974,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAACi2VUmsW0Jh3dNeRCj3MfV",
+  "snapshot_id": "aM9AAAAAAACLekF6fmaz9z0zIYCN02rO",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The New Classic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 199938,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything is romantic featuring caroline polachek",
         "url": "https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The New Classic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WUe1HRgE7qoUQ3oejofGf"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 199938,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3W3KtDwAIg3mAruSpnfG3Q"
     },
     {
       "added_at": null,

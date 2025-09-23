@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: RUBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,472 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,520 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 | 4 | [When In Rome](https://open.spotify.com/track/6gMQzn0SHgN2TKDwkJWShl) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [When In Rome](https://open.spotify.com/album/7MRkwU9BQrDoHYCLmbckKh) | 3:08 |
 | 5 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
 | 6 | [Class A](https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Symptoms of Me](https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs) | 2:29 |
-| 7 | [Sum'n Serious \- SLIZZY MIX](https://open.spotify.com/track/0J3kISGKt7eTppkNUxhYUn) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Sum'n Serious \(SLIZZY MIX\)](https://open.spotify.com/album/3K6Da0mqmR1NOlj4RkRFs2) | 2:35 |
+| 7 | [Sum'n Serious \- SLIZZY MIX](https://open.spotify.com/track/0J3kISGKt7eTppkNUxhYUn) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Sum'n Serious](https://open.spotify.com/album/3K6Da0mqmR1NOlj4RkRFs2) | 2:35 |
 | 8 | [Teal Dreams](https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Teal Dreams](https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2) | 3:14 |
 | 9 | [skip!](https://open.spotify.com/track/4ncEJ67Xn1yjaURi2X7aTy) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [skip!](https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81) | 2:32 |
 | 10 | [Sunshine](https://open.spotify.com/track/1yQVv5jxjHfx2hP8VUfyiA) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Sunshine](https://open.spotify.com/album/3trzDDxRglGCjR0QVnR3zd) | 3:11 |

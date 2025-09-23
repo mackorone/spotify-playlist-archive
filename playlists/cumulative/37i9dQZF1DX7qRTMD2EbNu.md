@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: O'Kenneth
 
-805 songs - 1 day 16 hr 46 min
+806 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Bleoo](https://open.spotify.com/track/5lpB817qUW3TU1zMetNvxG) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [B4 Da Album](https://open.spotify.com/album/2BtWAjt4wIw5KLsZycCohr) | 1:49 | 2025-05-09 | 2025-08-31 |
 | [Blessed](https://open.spotify.com/track/3qBGf7ZlkiT9FRgxigUYOT) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Blessed](https://open.spotify.com/album/6zjTiaL3Q1WdSmDhJtXPxg) | 3:24 | 2022-12-18 | 2023-01-20 |
 | [BM Cypher](https://open.spotify.com/track/7mmXF6WLlwODvvSfI6qizw) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg), [Obibini](https://open.spotify.com/artist/5m5vLxJjEdfEqw5xcK5KHi), [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [BM Cypher](https://open.spotify.com/album/7jEw7VCdx6sKdRLcsExm4i) | 6:17 | 2025-05-16 | 2025-09-19 |
-| [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 |  |
+| [BOA ME](https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [HOPE PACK](https://open.spotify.com/album/0H8MXFqWkeKnPIWuB3qR1B) | 2:48 | 2024-07-19 | 2025-09-23 |
 | [BOA ME \(Remix\) \[feat\. Stonebwoy\]](https://open.spotify.com/track/4t3Y8144CHXVlZKpkS5E1e) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [BOA ME \(Remix\) \[feat\. Stonebwoy\]](https://open.spotify.com/album/1oooj58qIV0kL7pthD21gf) | 2:50 | 2024-10-04 |  |
 | [Bobo Shanti](https://open.spotify.com/track/5uu7YY4nUXdT4YT9yuj6Av) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Bobo Shanti](https://open.spotify.com/album/1Q6gcuBL0JZGuwp2T320wA) | 2:10 | 2023-10-13 | 2023-10-27 |
 | [Bold](https://open.spotify.com/track/7EV85CdWqL34mgvFLJ0Jwt) | [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Bold](https://open.spotify.com/album/5lqlfdb1DBDqf9ARtrf0tY) | 3:26 | 2024-03-15 | 2024-05-03 |
@@ -713,6 +713,7 @@
 | [The Don](https://open.spotify.com/track/0YhOztwDtfp66kMmYEooXE) | [Kid Kwesi](https://open.spotify.com/artist/2k5bJbEP7zZz1vK1p7jRPj) | [The Don](https://open.spotify.com/album/1AtACdeXSJcQVkfwMdAg6n) | 2:51 | 2024-03-22 | 2024-04-04 |
 | [The Hardest](https://open.spotify.com/track/0dutl7EuXLQ6KIVRkJz8E8) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [The Hardest](https://open.spotify.com/album/7n6JWdcY6kfxiExe7PBv3Y) | 7:01 | 2023-06-16 | 2023-07-01 |
 | [The Harvest \- Ghanaian Stallion Remix](https://open.spotify.com/track/5LMnl5fGGfgoMl59aRFMXu) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT), [Ghanaian Stallion](https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF) | [The Harvest \(Ghanaian Stallion Remix\)](https://open.spotify.com/album/1sr6iSnAPGTWsNEGce6VtS) | 2:24 | 2023-11-17 | 2023-12-08 |
+| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 |  |
 | [The One that Got Away](https://open.spotify.com/track/6fClsr0nie6TaR58GcMGov) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [The One that Got Away](https://open.spotify.com/album/5keaD9M9G1AOoQgGn2FgYe) | 2:56 | 2024-04-19 | 2024-05-03 |
 | [This Ain't Funny](https://open.spotify.com/track/00nMzwM34zJSGoOuIF1CxJ) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [This Ain't Funny](https://open.spotify.com/album/2mNikobJYopTqzZUM05SOg) | 3:28 | 2024-03-08 | 2024-04-04 |
 | [Thy kingdom come](https://open.spotify.com/track/0p87iz4WW0OSnmnwNgy8Py) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI), [Yaa Pono](https://open.spotify.com/artist/1oqHoNJGPx78BetdO5jMFs), [DJ Perbi](https://open.spotify.com/artist/4BHBk6MMG2PhCNpCsN039M) | [Thy kingdom come](https://open.spotify.com/album/1MUk32NQn10YWlFPYWym1T) | 3:17 | 2025-09-19 |  |

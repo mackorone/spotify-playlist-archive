@@ -4,12 +4,14 @@
 
 > All <a href="http://www.rammstein.com">RAMMSTEIN</a>, all the time.
 
-252 songs - 19 hr 15 min
+254 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5/4](https://open.spotify.com/track/21RdoTffmkHJ3JXqL1Pcxe) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [RARE TRACKS 1994 \- 2012](https://open.spotify.com/album/1Ov22UoSJHCam2IMwT6h7X) | 5:30 | 2015-04-28 |  |
 | [Adieu](https://open.spotify.com/track/56SLMIzWKrEOWIQ5LCzKXV) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 4:38 | 2022-04-28 |  |
+| [Adieu \- RMX by Andrea Marino](https://open.spotify.com/track/3Uj4vREz90OHSmr9jkWEGC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [Andrea Marino](https://open.spotify.com/artist/3DuG56Wukk4WUH80GyVGED) | [Remixes](https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X) | 4:04 | 2025-09-22 |  |
+| [Adieu \- RMX by Richard Z\. Kruspe](https://open.spotify.com/track/2ollapxirnu4KZ1SMcg3Ds) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP), [RICHARD Z\. KRUSPE](https://open.spotify.com/artist/3Fu4HcdXhfgaXrL1IEtvNE) | [Remixes](https://open.spotify.com/album/0KpFFHOKe1rz9V7KVO2T2X) | 4:40 | 2025-09-22 |  |
 | [Adios](https://open.spotify.com/track/3zPvL6ZCSVAHvSZXNoAbkl) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Mutter](https://open.spotify.com/album/1CtTTpKbHU8KbHRB4LmBbv) | 3:48 | 2021-11-30 |  |
 | [Alter Mann](https://open.spotify.com/track/076PFJLxSpuW8RBg8ub4Qj) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/6f4dhaPfZqf2JXewAvE4gq) | 4:22 | 2015-04-22 |  |
 | [AMERIKA](https://open.spotify.com/track/0HpMvhmhBnRBJ9iocNl16t) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [REISE, REISE](https://open.spotify.com/album/1mQhLUn2iLZuQQICaBc1q4) | 3:46 | 2015-04-22 |  |

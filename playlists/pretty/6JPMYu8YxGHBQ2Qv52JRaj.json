@@ -1,30 +1,138 @@
 {
-  "description": "Cover image - https:&#x2F;&#x2F;bit.ly&#x2F;3uiJD6B ",
+  "description": "",
   "num_followers": 0,
-  "original_name": "Mac's Mixtape",
+  "original_name": "Radio Check",
   "owner": {
-    "name": "macindahaus",
+    "name": "maciejpedzich",
     "url": "https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2"
   },
-  "snapshot_id": "AAADhSdZ2xkBREgKtCGqMPxRDPQW83bo",
+  "snapshot_id": "AAADkUfEXmGuoNWwup8tDvKOxtF4e0vk",
   "tracks": [
     {
-      "added_at": "2025-05-30 18:45:14",
+      "added_at": "2025-09-22 16:12:59",
       "album": {
-        "name": "Skyfall EP",
-        "url": "https://open.spotify.com/album/6FuBq5D1BLYQscnb4uRTgR"
+        "name": "Bumps",
+        "url": "https://open.spotify.com/album/3ZVegs4pC6a49fAQYtqb8x"
       },
       "artists": [
         {
-          "name": "Dustycloud",
-          "url": "https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d"
+          "name": "Codes",
+          "url": "https://open.spotify.com/artist/3FBxzgzGPs9XUfSYZgG1vX"
         }
       ],
-      "duration_ms": 189821,
-      "name": "Find A New Direction",
-      "url": "https://open.spotify.com/track/6wY8J3EHpq7s4kjEIYdZpD"
+      "duration_ms": 341280,
+      "name": "Boom Bapps",
+      "url": "https://open.spotify.com/track/2h0yez7HjyYAYBdb7kxzMU"
+    },
+    {
+      "added_at": "2025-09-22 16:13:16",
+      "album": {
+        "name": "MY STYLE",
+        "url": "https://open.spotify.com/album/2ehl1BwGaLViAZGNTa35An"
+      },
+      "artists": [
+        {
+          "name": "nuphory",
+          "url": "https://open.spotify.com/artist/2K0uRwlc2VKeRoWS8Iuija"
+        },
+        {
+          "name": "SAM WAITIN",
+          "url": "https://open.spotify.com/artist/4fUt1H64XAKDyYNRqUYzPG"
+        }
+      ],
+      "duration_ms": 128399,
+      "name": "MY STYLE",
+      "url": "https://open.spotify.com/track/2lfIdIClvCvH7aL1NcWapx"
+    },
+    {
+      "added_at": "2025-09-22 16:13:27",
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/7C4EF6v2yK5XRigNC8D8fC"
+      },
+      "artists": [
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Outta Nothing",
+      "url": "https://open.spotify.com/track/1CNKVBJdbQEVRWoUmpzrWX"
+    },
+    {
+      "added_at": "2025-09-22 16:14:38",
+      "album": {
+        "name": "Dreams (Bleu Clair Remix)",
+        "url": "https://open.spotify.com/album/2IRiDJ0P6xZcEpXZUpIvTL"
+      },
+      "artists": [
+        {
+          "name": "Smokin Beats",
+          "url": "https://open.spotify.com/artist/25KE5ZwChQizbTmJzg3Lob"
+        },
+        {
+          "name": "Lyn Eden",
+          "url": "https://open.spotify.com/artist/0pt4O98Bo1vxjqZnjttafk"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 184915,
+      "name": "Dreams - Bleu Clair Remix",
+      "url": "https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp"
+    },
+    {
+      "added_at": "2025-09-22 16:15:04",
+      "album": {
+        "name": "Pick Ya Poison",
+        "url": "https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 178299,
+      "name": "Pick Ya Poison",
+      "url": "https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S"
+    },
+    {
+      "added_at": "2025-09-22 16:15:15",
+      "album": {
+        "name": "Don't Touch",
+        "url": "https://open.spotify.com/album/6CkdzZUFSS7TuhgbT1koT9"
+      },
+      "artists": [
+        {
+          "name": "HeyDoc!",
+          "url": "https://open.spotify.com/artist/5EwW7fH1tpfaLhv54OgneB"
+        }
+      ],
+      "duration_ms": 188307,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/0o0gyBmKHpzibd45c4KmGR"
+    },
+    {
+      "added_at": "2025-09-22 16:15:25",
+      "album": {
+        "name": "Miami Underground 2017",
+        "url": "https://open.spotify.com/album/7B9iXN9knJj2Xgo5DSLosA"
+      },
+      "artists": [
+        {
+          "name": "rrotik",
+          "url": "https://open.spotify.com/artist/5SCkoSOpnE0detaaoPvOJd"
+        }
+      ],
+      "duration_ms": 310613,
+      "name": "In Between - Original Mix",
+      "url": "https://open.spotify.com/track/79pDKipm4Tlzf8WxjiAuAy"
     }
   ],
-  "unique_name": "Mac's Mixtape",
+  "unique_name": "Radio Check",
   "url": "https://open.spotify.com/playlist/6JPMYu8YxGHBQ2Qv52JRaj"
 }

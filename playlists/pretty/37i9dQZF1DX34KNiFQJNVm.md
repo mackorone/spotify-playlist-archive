@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem IZA, ANAVITÓRIA, AJULIACOSTA e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,162,535 likes - 77 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,162,092 likes - 77 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 9 | [Oh Bebê Se Senta](https://open.spotify.com/track/3aNayElioMIkcT4l69HZYg) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [Oh Bebê Se Senta](https://open.spotify.com/album/5q4rgR2oeWFFP8o261FO7r) | 3:28 |
 | 10 | [Seu Telefone](https://open.spotify.com/track/4tJRy1ODDkckEcvu5lS5tw) | [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Melodia&Barulho](https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR) | 3:00 |
 | 11 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
-| 12 | [Me Desculpa](https://open.spotify.com/track/73RtZG3zJEZLOSG2fNLmOX) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [tal do dias](https://open.spotify.com/artist/6xUCvdceFa7JnChIapZDWS), [Mvt](https://open.spotify.com/artist/7i1znQtMSa0lKSU7A6MVEP) | [Me Desculpa](https://open.spotify.com/album/3u64AZcP7BHDDL3owTEPym) | 2:07 |
+| 12 | [Me Desculpa](https://open.spotify.com/track/73RtZG3zJEZLOSG2fNLmOX) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD), [Mvt](https://open.spotify.com/artist/6Kl9FDZ096aIBZr7Qq6bcZ) | [Me Desculpa](https://open.spotify.com/album/3u64AZcP7BHDDL3owTEPym) | 2:07 |
 | 13 | [Ciúme](https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ciúme](https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy) | 3:20 |
 | 14 | [Só Não Deixa](https://open.spotify.com/track/0hEhyupo0Da7Vyxrn7qWOy) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Só Não Deixa](https://open.spotify.com/album/2d5ZeSq3Wu0zx7Il4pMJGV) | 3:02 |
 | 15 | [Eu Te Seguro \- Ao Vivo](https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Eu Te Seguro \(Ao Vivo\)](https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg) | 2:28 |

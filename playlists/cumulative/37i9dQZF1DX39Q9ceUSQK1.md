@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: Glitterpaard
 
-581 songs - 1 day 9 hr 46 min
+582 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-21 | 2025-04-26 |
 | [Comic Trip](https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi) | 3:32 | 2024-06-24 | 2024-09-14 |
 | [Compass Will Fracture](https://open.spotify.com/track/63IqeRT97jGa1zIORhXCM2) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Compass Will Fracture](https://open.spotify.com/album/6ikCfDF0BVgXEUvJPNvrwR) | 3:12 | 2025-04-17 | 2025-07-05 |
+| [Cool Bottle Water Park](https://open.spotify.com/track/67FL1EHWD8xLfcd21j4kky) | [Long Fling](https://open.spotify.com/artist/65R6SYInZyAejg0WNniLhC) | [Cool Bottle Water Park](https://open.spotify.com/album/3T2AH9XZ6Cv7iq3eBFUnzA) | 2:47 | 2025-09-22 |  |
 | [Covet](https://open.spotify.com/track/0r1tBm32CH1t7WBlAoWYk5) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Thirst](https://open.spotify.com/album/0cOYdWEHdVU3gM2hShzOdb) | 3:22 | 2025-08-29 | 2025-09-19 |
 | [Coyote](https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Coyote](https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8) | 4:04 | 2025-03-21 | 2025-06-06 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-06-02 | 2025-08-15 |

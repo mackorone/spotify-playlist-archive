@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3918675,
+  "num_followers": 3918192,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,6 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Flying Away With You",
-        "url": "https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua"
-      },
-      "artists": [
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        },
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        }
-      ],
-      "duration_ms": 249120,
-      "name": "Flying Away With You",
-      "url": "https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 331935,
       "name": "The Deep",
       "url": "https://open.spotify.com/track/71RUnMMD5MX4ew96dMDCl4"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Flying Away With You",
+        "url": "https://open.spotify.com/album/7lj5Qju9iEiIOG7RlNK7Ua"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 249120,
+      "name": "Flying Away With You",
+      "url": "https://open.spotify.com/track/2hLOgEXMKytPei6kfgnzzL"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Beside You",
-        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Beside You",
-      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
         "name": "Maitri",
         "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+        "name": "Beside You",
+        "url": "https://open.spotify.com/album/5DsgwQLhj3D4vGCPAjkbSS"
       },
       "artists": [
         {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+      "duration_ms": 281826,
+      "name": "Beside You",
+      "url": "https://open.spotify.com/track/2WfIJfd9wigShyjbYUtdVD"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1371,6 +1355,22 @@
       "duration_ms": 215435,
       "name": "Memories",
       "url": "https://open.spotify.com/track/6BiBQjBIl8ozwqRihm4hTV"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1531,54 +1511,22 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
         }
       ],
-      "duration_ms": 234492,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
-        "name": "Senses of Comfort",
-        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Senses of Comfort",
-      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
-        "name": "Care 4 U",
-        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Care 4 U",
-      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1599,6 +1547,22 @@
       "duration_ms": 225301,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Senses of Comfort",
+        "url": "https://open.spotify.com/album/4KBjfUHKSE2p1wMSJYwIn6"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Senses of Comfort",
+      "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1643,6 +1607,26 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3EqUaFhMPsAIE8WyBgtZsa"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 234492,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5jkzcYe3UjM7VyrlZyiXax"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
       },
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Call You Mine",
-        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
+        "name": "Care 4 U",
+        "url": "https://open.spotify.com/album/1Tgs6XBRjJZwsxhon8yDXl"
       },
       "artists": [
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
         }
       ],
-      "duration_ms": 209696,
-      "name": "Call You Mine",
-      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
+      "duration_ms": 230945,
+      "name": "Care 4 U",
+      "url": "https://open.spotify.com/track/0HyeHFftm2QGWsp3yuF0Bp"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "together (we are more)",
+        "url": "https://open.spotify.com/album/1e7y7ATfvcyV3uU40giIuz"
+      },
+      "artists": [
+        {
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "together (we are more)",
+      "url": "https://open.spotify.com/track/3HEOKmWHkZctt9iyaiqMSI"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1711,34 +1711,18 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+        "name": "Call You Mine",
+        "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
         }
       ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
-        "name": "together (we are more)",
-        "url": "https://open.spotify.com/album/1e7y7ATfvcyV3uU40giIuz"
-      },
-      "artists": [
-        {
-          "name": "Leaving Laurel",
-          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "together (we are more)",
-      "url": "https://open.spotify.com/track/3HEOKmWHkZctt9iyaiqMSI"
+      "duration_ms": 209696,
+      "name": "Call You Mine",
+      "url": "https://open.spotify.com/track/6qG5GRLvLtpT7uajaQO8UO"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1759,6 +1743,22 @@
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
     },
     {
       "added_at": "2025-09-19 04:00:25",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2025-09-19 04:00:25",
       "album": {
+        "name": "Teahupoo",
+        "url": "https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 202926,
+      "name": "Teahupoo",
+      "url": "https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR"
+    },
+    {
+      "added_at": "2025-09-19 04:00:25",
+      "album": {
         "name": "Say You Want To Fly",
         "url": "https://open.spotify.com/album/2YXYd4ZoEjEPIwAuGQlTce"
       },
@@ -1903,26 +1919,6 @@
       "duration_ms": 158000,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/4Iz4rZPxjWYQCeVtksopKv"
-    },
-    {
-      "added_at": "2025-09-19 04:00:25",
-      "album": {
-        "name": "The Thought of You",
-        "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
-      },
-      "artists": [
-        {
-          "name": "Blonde Maze",
-          "url": "https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 262008,
-      "name": "The Thought of You",
-      "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
     }
   ],
   "unique_name": "Chill Tracks",

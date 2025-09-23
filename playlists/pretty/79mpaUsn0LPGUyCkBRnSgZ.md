@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 588 songs - 1 day 14 hr 35 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 590 songs - 1 day 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -596,5 +596,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 586 | [Like a Prayer](https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Prayer](https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV) | 5:40 |
 | 587 | [Stupid Dumb Illiterate](https://open.spotify.com/track/3V8KGh982XNNMdk0xy17xN) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [LAFANDAR](https://open.spotify.com/album/0txwScooV6S8rd8uhWfUGe) | 2:17 |
 | 588 | [VEENA](https://open.spotify.com/track/7pBbcjmlVvyHRF4DpJX1CU) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [RAM DULARI](https://open.spotify.com/artist/7bMzC3UZKxukjTnTAWA19t), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P) | [VEENA](https://open.spotify.com/album/6AUvshZi7wXvnfnzCsm1u9) | 2:26 |
+| 589 | [Down on the Street](https://open.spotify.com/track/77cNhikwSwGJdls6slQy7k) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Funhouse](https://open.spotify.com/album/5qhXaVIC5BdE4a5Kq1FMZG) | 3:42 |
+| 590 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
 
-Snapshot ID: `AAAHuDnuqxfH2dfB9OXVHqo02UWQF2DB`
+Snapshot ID: `AAAHuiwCxhaoU//RyNi48s0AEaWjV/WJ`

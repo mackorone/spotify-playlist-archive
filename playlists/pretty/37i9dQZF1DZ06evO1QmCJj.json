@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 46867,
+  "num_followers": 46881,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAABV2UE3Y3wOuJQulyP8YgXp",
+  "snapshot_id": "aM9AAAAAAAAD4A7Xjn/5moS0pkVp0YMr",
   "tracks": [
     {
       "added_at": null,
@@ -239,46 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LAGRIMAS DE UN MALEANTE",
-        "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Las Chuches",
-          "url": "https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR"
-        }
-      ],
-      "duration_ms": 193066,
-      "name": "EL PANTALON - RUMBAS",
-      "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 128136,
-      "name": "POBRE DIABLA - Spotify Singles",
-      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M.A (Remix)",
         "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
       },
@@ -303,6 +263,46 @@
       "duration_ms": 272727,
       "name": "M.A - Remix",
       "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 128136,
+      "name": "POBRE DIABLA - Spotify Singles",
+      "url": "https://open.spotify.com/track/2bpaNIytZDt6slUUYZM9Pk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LAGRIMAS DE UN MALEANTE",
+        "url": "https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Las Chuches",
+          "url": "https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR"
+        }
+      ],
+      "duration_ms": 193066,
+      "name": "EL PANTALON - RUMBAS",
+      "url": "https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA"
     },
     {
       "added_at": null,

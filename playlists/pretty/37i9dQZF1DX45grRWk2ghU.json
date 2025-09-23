@@ -1,12 +1,12 @@
 {
   "description": "My name is pink ",
-  "num_followers": 777729,
+  "num_followers": 777929,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMuLl+acgpspHAzDkC3nVkmBvK1",
+  "snapshot_id": "AAAAAA5YG+fUJZMJ+UIbfMfVnZ38LNSY",
   "tracks": [
     {
       "added_at": "2025-05-30 04:00:19",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/799HHc8eTnRsHCFqXTwVRa"
     },
     {
+      "added_at": "2025-09-22 15:06:08",
+      "album": {
+        "name": "AMERICAN GIRL",
+        "url": "https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Day",
+          "url": "https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "AMERICAN GIRL",
+      "url": "https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj"
+    },
+    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "Lover",
@@ -91,22 +107,6 @@
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2025-08-22 04:48:25",
-      "album": {
-        "name": "HOT PEOPLE MAKE HOT MUSIC",
-        "url": "https://open.spotify.com/album/5XXUWs8q10wMrfpQle0f2W"
-      },
-      "artists": [
-        {
-          "name": "samxemma",
-          "url": "https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "HOT BOYS MAKE HOT MUSIC",
-      "url": "https://open.spotify.com/track/6YG2dmPEqcOA9ctHqhFbd4"
     },
     {
       "added_at": "2025-07-25 04:00:38",
@@ -125,6 +125,22 @@
       "url": "https://open.spotify.com/track/78e6hprIgJm3rMWjOmeXbA"
     },
     {
+      "added_at": "2025-08-22 04:48:25",
+      "album": {
+        "name": "HOT PEOPLE MAKE HOT MUSIC",
+        "url": "https://open.spotify.com/album/5XXUWs8q10wMrfpQle0f2W"
+      },
+      "artists": [
+        {
+          "name": "samxemma",
+          "url": "https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "HOT BOYS MAKE HOT MUSIC",
+      "url": "https://open.spotify.com/track/6YG2dmPEqcOA9ctHqhFbd4"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Touch",
@@ -141,38 +157,6 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2025-08-29 04:00:28",
-      "album": {
-        "name": "Confetti",
-        "url": "https://open.spotify.com/album/6SV8Z9EJQaUAU2OdUzriHo"
-      },
-      "artists": [
-        {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Confetti",
-      "url": "https://open.spotify.com/track/4XvXxozhqYuOxWMs4tdK1I"
-    },
-    {
-      "added_at": "2025-08-22 04:48:25",
-      "album": {
-        "name": "MISS INDEPENDENT",
-        "url": "https://open.spotify.com/album/3h1zysAEVlD1KngTxuZYAR"
-      },
-      "artists": [
-        {
-          "name": "vi0let",
-          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
-        }
-      ],
-      "duration_ms": 118613,
-      "name": "MISS INDEPENDENT",
-      "url": "https://open.spotify.com/track/6iO5k57KyJbeJnRxJFbpsI"
-    },
-    {
       "added_at": "2024-08-03 15:31:45",
       "album": {
         "name": "emails i can't send",
@@ -187,6 +171,22 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "7 rings",
+      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
       "added_at": "2025-08-29 04:00:28",
@@ -227,34 +227,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 178626,
-      "name": "7 rings",
-      "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
-    },
-    {
-      "added_at": "2025-08-29 04:00:28",
-      "album": {
-        "name": "Pretty Poison",
-        "url": "https://open.spotify.com/album/30kd0zsWPmZX52ImIlOawx"
-      },
-      "artists": [
-        {
-          "name": "Summer Davis",
-          "url": "https://open.spotify.com/artist/4PdIr6mcRRryO5vUUHvlpb"
-        }
-      ],
-      "duration_ms": 140571,
-      "name": "Pretty Poison",
-      "url": "https://open.spotify.com/track/4Vf2kHjHvLPqSJ02H3IFrN"
+      "duration_ms": 251240,
+      "name": "Gimme More",
+      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -271,38 +255,6 @@
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 251240,
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH"
-    },
-    {
-      "added_at": "2025-03-21 04:00:47",
-      "album": {
-        "name": "POP GIRL",
-        "url": "https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d"
-      },
-      "artists": [
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        }
-      ],
-      "duration_ms": 154790,
-      "name": "POP GIRL",
-      "url": "https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -337,20 +289,20 @@
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
     },
     {
-      "added_at": "2024-08-03 15:31:45",
+      "added_at": "2025-03-21 04:00:47",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+        "name": "POP GIRL",
+        "url": "https://open.spotify.com/album/794FeYrpWfWp4eDcWHuu5d"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Lexie Liu",
+          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
         }
       ],
-      "duration_ms": 187133,
-      "name": "Your Love Is My Drug",
-      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
+      "duration_ms": 154790,
+      "name": "POP GIRL",
+      "url": "https://open.spotify.com/track/1diiLBOnInnwZjMnRyKWQT"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -371,18 +323,18 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+      "duration_ms": 187133,
+      "name": "Your Love Is My Drug",
+      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -399,6 +351,22 @@
       "duration_ms": 207320,
       "name": "thank u, next",
       "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2024-08-03 15:31:45",
@@ -1295,6 +1263,38 @@
       "duration_ms": 166299,
       "name": "Pink Friday Girls",
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN"
     }
   ],
   "unique_name": "Hot Pink",

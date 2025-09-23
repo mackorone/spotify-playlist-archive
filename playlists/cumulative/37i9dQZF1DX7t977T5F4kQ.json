@@ -4500,7 +4500,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 140204,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/2thpkCc0YtkCVn88jou50k"
@@ -7010,7 +7010,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 193469,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/2QhQuFmG6k3tpsrTyuHgaL"
@@ -8999,6 +8999,24 @@
     },
     {
       "album": {
+        "name": "THE TORCHER",
+        "url": "https://open.spotify.com/album/0qkEheVRbwNHB4KIGDOpLT"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215257,
+      "name": "Send Dem A Prayer",
+      "url": "https://open.spotify.com/track/7HnodmlRRGTVfbmw6jdUsC"
+    },
+    {
+      "album": {
         "name": "Sex",
         "url": "https://open.spotify.com/album/7rgMsOvr1GZHI84teicBfE"
       },
@@ -10062,6 +10080,28 @@
       "duration_ms": 155476,
       "name": "The End (Nicotine)",
       "url": "https://open.spotify.com/track/5l1DdcMPmSbN3qfTDbArj8"
+    },
+    {
+      "album": {
+        "name": "The Matter (Remix)",
+        "url": "https://open.spotify.com/album/3IE0To3pknSPzlnYY6OdF6"
+      },
+      "artists": [
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/1GkDOlQU3LvNDsWe2mx4uM"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181968,
+      "name": "The Matter - Remix",
+      "url": "https://open.spotify.com/track/2ts0q5y3aJYT4zXAqjzBxe"
     },
     {
       "album": {

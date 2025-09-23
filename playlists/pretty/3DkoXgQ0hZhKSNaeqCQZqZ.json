@@ -1,13 +1,29 @@
 {
   "description": "Made for furs, by furs.  Check out FurryRadio.com",
-  "num_followers": 705,
+  "num_followers": 708,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEBT6/o6IXnzyTX5bs1aMLKsmSUEdS",
+  "snapshot_id": "AAAEBlZtcNwYKJ91ImWymwaxlrbcTa3o",
   "tracks": [
+    {
+      "added_at": "2025-09-22 20:12:06",
+      "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26"
+      },
+      "artists": [
+        {
+          "name": "ivycomb",
+          "url": "https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo"
+        }
+      ],
+      "duration_ms": 215802,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy"
+    },
     {
       "added_at": "2025-09-15 07:12:32",
       "album": {

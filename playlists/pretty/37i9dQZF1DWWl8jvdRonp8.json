@@ -1,6 +1,6 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 281751,
+  "num_followers": 281848,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-01-23 17:30:18",
       "album": {
+        "name": "La Mina Verde",
+        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
+      },
+      "artists": [
+        {
+          "name": "Los Sembradores",
+          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
+        }
+      ],
+      "duration_ms": 204019,
+      "name": "El Celoso",
+      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
+    },
+    {
+      "added_at": "2025-01-23 17:30:18",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 257413,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/5sM1kj3CIc5ZMHE49WPSK7"
-    },
-    {
-      "added_at": "2025-01-23 17:30:18",
-      "album": {
-        "name": "La Mina Verde",
-        "url": "https://open.spotify.com/album/0eg7jZirIdHq0Ra3wfZHhG"
-      },
-      "artists": [
-        {
-          "name": "Los Sembradores",
-          "url": "https://open.spotify.com/artist/1JVfORNBW6NGm0tJPKdvnm"
-        }
-      ],
-      "duration_ms": 204019,
-      "name": "El Celoso",
-      "url": "https://open.spotify.com/track/58PlhLYOXl1aOLDHzbIpDA"
     },
     {
       "added_at": "2025-01-23 17:30:18",

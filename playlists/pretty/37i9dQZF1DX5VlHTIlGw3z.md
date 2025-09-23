@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,902 likes - 41 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,002 likes - 41 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 40 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 |
 | 41 | [誘惑](https://open.spotify.com/track/2GlOmBRGlF9B2ylosoYRim) | [GLAY](https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1) | [THE GREAT VACATION VOL.2 ～SUPER BEST OF GLAY～](https://open.spotify.com/album/1YqYsMDvB1CBGgDo3VYK80) | 4:21 |
 
-Snapshot ID: `AAAAAKSEeeAP3sLSWHv/4U76eRfdbx1l`
+Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`

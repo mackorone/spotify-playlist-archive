@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: IDEMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,860 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,851 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 49 | [The Shiver](https://open.spotify.com/track/0ouWOf4W8331O6dt2GCW7A) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [The Shiver](https://open.spotify.com/album/1d8Jpk53Ue4Vi7joBNFSvB) | 2:47 |
 | 50 | [the one](https://open.spotify.com/track/6uBOGvxsHEn9rJyzwQSc1Z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [the one](https://open.spotify.com/album/6LntWVFC7jAmt6zIfFNFm1) | 3:38 |
 | 51 | [Scab](https://open.spotify.com/track/1XFigUzRNrgLh8NCNpfiVV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU), [TYSON](https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn) | [Scab](https://open.spotify.com/album/2Bo2U2dfyHghzQkNrrPslK) | 4:19 |
-| 52 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
+| 52 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 53 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/0Pr6mooJDSPrUJDwP8ZXUW) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/album/0kZqWs6NFg0w3xY2yMD0YQ) | 2:45 |
 | 54 | [CHROMA 010 BRILLO](https://open.spotify.com/track/7kDzjUYcQ1Gi1u2zWeXwY0) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 010](https://open.spotify.com/album/3Ny8QJii9zz7d3Qs4I8WmB) | 4:31 |
 | 55 | [Resurge](https://open.spotify.com/track/6a1tJFmwr2R3mThLUWxvHs) | [NIGHT manoeuvres](https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h) | [Resurge / Genesis](https://open.spotify.com/album/6IpJ5zO1adtncJdyP4ZBU3) | 2:58 |

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。XG, Lola Young, The Chainsmokers, Miley Cyrus and more!
 
-11,064 songs - 25 day 17 hr 5 min
+11,065 songs - 25 day 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4395,6 +4395,7 @@
 | [ICONIK](https://open.spotify.com/track/3b7ejK9HytsRwa1Wne277w) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [NEVER SAY NEVER](https://open.spotify.com/album/5IW8xxg85CGHRAMsiW0VLJ) | 3:13 | 2025-09-04 | 2025-09-13 |
 | [iconoclasm](https://open.spotify.com/track/4W7mp8YAVrS2Y6B997yVF0) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [iconoclasm](https://open.spotify.com/album/0a5DWiA2nEcK4XnfDlEW6M) | 4:50 | 2025-07-17 | 2025-07-25 |
 | [ICY ON MY NECK](https://open.spotify.com/track/2qPctjZaZrvUerBoLVs7b1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [ICY ON MY NECK](https://open.spotify.com/album/6kXVpohyMzlhoEgoBTlBHk) | 2:59 | 2024-08-23 | 2024-08-30 |
+| [Icy Tale](https://open.spotify.com/track/466snzkO84cnoC6b9DnrgQ) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Bose x NME: C25](https://open.spotify.com/album/6OWuJ6OIKG1axWobbTd16D) | 2:48 | 2025-09-22 |  |
 | [Id](https://open.spotify.com/track/206hEpl6fdBjoAZ3VBCHWW) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9), [Yem Gel](https://open.spotify.com/artist/3U8LJFgGqaFC6mzqawoHA6) | [Id](https://open.spotify.com/album/4IdtxIE3kPlb2SFtubenou) | 2:22 | 2025-08-14 | 2025-08-22 |
 | [idgaf](https://open.spotify.com/track/1c17WXb6bzMrrvaN7O1c2Y) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [idgaf](https://open.spotify.com/album/78Vni3er0eUxLVI52aDCgg) | 2:13 | 2025-02-27 | 2025-03-07 |
 | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/track/19Bk7ulfjk4Vg4PMS38UGc) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [IDGAF \(feat\. Chris Brown and Mariah the Scientist\)](https://open.spotify.com/album/4ogUgGWylS4Z0DBDSIpoxE) | 3:15 | 2023-09-07 | 2023-09-15 |

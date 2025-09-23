@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,831 likes - 208 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,022 likes - 208 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -217,4 +217,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 207 | [Limoncello](https://open.spotify.com/track/3hiMfIXRuD4OAjD6F5VLQb) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Limoncello](https://open.spotify.com/album/1mUX9DSCKssZvL9SAJiaR3) | 2:26 |
 | 208 | [MYSA](https://open.spotify.com/track/69ylUPLusue7f4Q1fyiEdr) | [Anitek](https://open.spotify.com/artist/0Idi5CuVXznxRkxzdUtdcQ) | [MYSA](https://open.spotify.com/album/5JJ4qtCv1tbWT1cp6jWac6) | 2:30 |
 
-Snapshot ID: `AAAAAPBoUbeVzV7kgziB5+TSXZ5vMNpi`
+Snapshot ID: `AAAAAEHhrcNaOm8xdCMBn9aspu8jLH4G`

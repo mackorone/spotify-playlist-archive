@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 
 > Neverland, your queens are here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,421 likes - 120 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,415 likes - 120 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRupnl9NVKn.md) - [plain]
 | 108 | [Idle song](https://open.spotify.com/track/1P7zwuGNeGWehpKVavukRe) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Idle song](https://open.spotify.com/album/6RasD9dt49odO6D3VkhD1z) | 3:08 |
 | 109 | [POP/STARS](https://open.spotify.com/track/5sbooPcNgIE22DwO0VNGUJ) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [POP/STARS](https://open.spotify.com/album/0UnBZ8laFgLUq5Ty5vbikQ) | 3:11 |
 | 110 | [$$$](https://open.spotify.com/track/68yUIRmUq0cZN19DnbgKSX) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I am](https://open.spotify.com/album/1GtPnOiHxCnoZPCiLcKj22) | 3:31 |
-| 111 | [GIANTS](https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [SOYEON](https://open.spotify.com/artist/4mIiwf0HEfxYXZ44af2lBx), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [GIANTS](https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO) | 3:11 |
+| 111 | [GIANTS](https://open.spotify.com/track/5C0ivQMxes2lWuOANhvVAm) | [True Damage](https://open.spotify.com/artist/7xX15v6ahAkcT14kHfB9wB), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [GIANTS](https://open.spotify.com/album/1hK1lKNTYUM4wYRIY19CRO) | 3:11 |
 | 112 | [EMPIRE](https://open.spotify.com/track/6DfcCK3nYr7Fxl2af3iqRB) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [EMPIRE](https://open.spotify.com/album/2I8zuxlL9KuFAGRsSq9mTT) | 3:02 |
 | 113 | [Put It Straight](https://open.spotify.com/track/2G0wbwTsTN0HJeQp3BDc4D) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:56 |
 | 114 | [Jelly](https://open.spotify.com/track/0MsE73sXgfqOpgzCATa0Wt) | [SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [Jelly](https://open.spotify.com/album/7iTA4T8A4tDU77Dt6y3f9m) | 2:59 |

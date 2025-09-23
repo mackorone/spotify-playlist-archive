@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: oskar med k & Khalid
 
-282 songs - 14 hr 4 min
+283 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Born To Be Lonely](https://open.spotify.com/track/64jxrtV3U1jWXAleUxlIIx) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Born To Be Lonely](https://open.spotify.com/album/2bo04wJjiFwDR4g7n1tBr3) | 2:23 | 2025-07-17 | 2025-08-29 |
 | [BOY \(ZACARIA\)](https://open.spotify.com/track/04sAktFgPACZPDeiXV09PL) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [BOY \(ZACARIA\)](https://open.spotify.com/album/14QU74vfV7yRVvdZ0pPQhy) | 2:00 | 2025-07-17 | 2025-08-09 |
 | [Breakin' Dishes](https://open.spotify.com/track/3z8nmj82E1YT7PZWvkRIb3) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/4qTvGhK4j6kVuyHRItYMlP) | 2:13 | 2025-09-11 |  |
+| [Butterfly](https://open.spotify.com/track/1tInwP3gnFnUFGSjy1pjuD) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Komb](https://open.spotify.com/artist/3O5f9vEgwXavGPnB0dQUQc), [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP), [Giin](https://open.spotify.com/artist/0sESxrO3UuQaknGbiuJ7tB) | [Butterfly](https://open.spotify.com/album/4IJXLpAgLGDrNo6D8opNVS) | 2:55 | 2025-09-22 |  |
 | [Call Me](https://open.spotify.com/track/0K8dtxzngSMEiO1jCjDiZV) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Call Me](https://open.spotify.com/album/5wLErUxHjDaYkQF9t8e542) | 2:51 | 2025-07-17 | 2025-08-07 |
 | [Campeón](https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Campeón](https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy) | 2:53 | 2025-07-17 | 2025-08-07 |
 | [Can You Fix Your Heart?](https://open.spotify.com/track/5TgnPAEtz84lYjljbcu8MG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Can You Fix Your Heart](https://open.spotify.com/album/2f1YeI2ufkpylmc6WmSqmJ) | 3:00 | 2025-07-17 | 2025-08-29 |

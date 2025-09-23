@@ -240,7 +240,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 87200,
       "name": "Depression",
       "url": "https://open.spotify.com/track/0wYA5p0Px0APnNoV9M4lhK"
@@ -886,6 +886,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37186,
+      "name": "Great Zoos of the World",
+      "url": "https://open.spotify.com/track/1018Sk9nhJHMYJHAkLokpf"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/5rFygT08cfNXjvjiQpEFtu"
       },
       "artists": [
@@ -914,7 +932,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 37186,
       "name": "Great Zoos of the World",
       "url": "https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 66080,
       "name": "Hannett and Delia synth exchanges track 20",
       "url": "https://open.spotify.com/track/2pd6AauSghzEWC3YYicPCK"
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 47506,
       "name": "Hannett and Delia synth exchanges track 8",
       "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
@@ -2002,7 +2020,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 126200,
       "name": "The Wizard's Laboratory",
       "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"

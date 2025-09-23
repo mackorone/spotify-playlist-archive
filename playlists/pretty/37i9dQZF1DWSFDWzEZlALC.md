@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: FREDRIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,092 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,055 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alle meine Lieder](https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Verlernt zu fühlen](https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN) | 2:56 |
-| 2 | [Kreise](https://open.spotify.com/track/6KfWdQ15gSsuNKNmTxhXRa) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Kreise](https://open.spotify.com/album/4xpl7dnHx7Dh6Y3ekKZ40y) | 2:24 |
-| 3 | [Fliegengewicht](https://open.spotify.com/track/03ADpV2GfahBPHyFvD5hfB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Fliegengewicht](https://open.spotify.com/album/2WqZ6ViQJSfKtVhdg0sDuA) | 3:06 |
-| 4 | [Arsenalplatz](https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Arsenalplatz](https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh) | 2:55 |
-| 5 | [FREI](https://open.spotify.com/track/55YVndHkb7QoAv3yU2dYgV) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku), [Luis Domingo](https://open.spotify.com/artist/5ZlX3MkuP2qTnp8QF77Mw8) | [FREI](https://open.spotify.com/album/7aG4f5cCMrcpCVxPztPZP2) | 3:18 |
-| 6 | [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wie sehr tut es weh?](https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK) | 2:45 |
-| 7 | [viel fühlen](https://open.spotify.com/track/3D7al5Uo2IznWA9yvGBcYq) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [viel fühlen](https://open.spotify.com/album/5V7ySLMEWjVzMXSXqZ2tvA) | 3:20 |
-| 8 | [4000 Grad](https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [4000 Grad](https://open.spotify.com/album/2lkXbUhpicIypWig96Sa4P) | 2:23 |
-| 9 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
-| 10 | [wo & wann](https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [wo & wann](https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E) | 2:32 |
+| 1 | [Kreise](https://open.spotify.com/track/6KfWdQ15gSsuNKNmTxhXRa) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Kreise](https://open.spotify.com/album/4xpl7dnHx7Dh6Y3ekKZ40y) | 2:24 |
+| 2 | [Arsenalplatz](https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Arsenalplatz](https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh) | 2:55 |
+| 3 | [Alle meine Lieder](https://open.spotify.com/track/0AtGWdT1GbC6zdvcLAtS6D) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Verlernt zu fühlen](https://open.spotify.com/album/6HxLz7XvffS2rsQX6I83EN) | 2:56 |
+| 4 | [Fliegengewicht](https://open.spotify.com/track/03ADpV2GfahBPHyFvD5hfB) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [Fliegengewicht](https://open.spotify.com/album/2WqZ6ViQJSfKtVhdg0sDuA) | 3:06 |
+| 5 | [Wie sehr tut es weh?](https://open.spotify.com/track/0dV6EKEZ0CciVlmbuokbdk) | [Edwin Rosen](https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J) | [Wie sehr tut es weh?](https://open.spotify.com/album/1Jg8mEexQQyUYKdizzRnRK) | 2:45 |
+| 6 | [wo & wann](https://open.spotify.com/track/7rAEucGJHqT7YLoIppfg4F) | [taal](https://open.spotify.com/artist/7njUAoCB1JJsEGHc7UoHKs) | [wo & wann](https://open.spotify.com/album/0brmZ8AwConnQLjQxmxF6E) | 2:32 |
+| 7 | [FREI](https://open.spotify.com/track/55YVndHkb7QoAv3yU2dYgV) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku), [Luis Domingo](https://open.spotify.com/artist/5ZlX3MkuP2qTnp8QF77Mw8) | [FREI](https://open.spotify.com/album/7aG4f5cCMrcpCVxPztPZP2) | 3:18 |
+| 8 | [viel fühlen](https://open.spotify.com/track/3D7al5Uo2IznWA9yvGBcYq) | [COSIE](https://open.spotify.com/artist/38avRTtNnh5J7jNRgEsLhF) | [viel fühlen](https://open.spotify.com/album/5V7ySLMEWjVzMXSXqZ2tvA) | 3:20 |
+| 9 | [4000 Grad](https://open.spotify.com/track/072I9eZXzqc4FTcihvofjR) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [4000 Grad](https://open.spotify.com/album/2lkXbUhpicIypWig96Sa4P) | 2:23 |
+| 10 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
 | 11 | [siriusstern](https://open.spotify.com/track/2nFfjUbdHsmgt7bszzqXOE) | [TOBIAS](https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC) | [siriusstern](https://open.spotify.com/album/0LfbdxND1TtRf0EVzeyyR8) | 3:03 |
 | 12 | [langeher](https://open.spotify.com/track/2dwFcTa9PuN6w03DWdWJPx) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [langeher](https://open.spotify.com/album/28us0TybhZwN1XawPpYZvm) | 2:38 |
 | 13 | [Luftschloss](https://open.spotify.com/track/1NJ1BkSyT0PAcbCPOQmtmJ) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Erinnerst du dich](https://open.spotify.com/album/6HGoY1yJ9SvuXzbZz5k037) | 2:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Himmel für Atheisten](https://open.spotify.com/track/1a6dMtpjUiViD6aLAH7UaU) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Himmel für Atheisten](https://open.spotify.com/album/4k7DyOo8qqdUcq3WCMUAdq) | 2:54 |
 | 75 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
 
-Snapshot ID: `AAAAAGaX506g9KpyunZN1bvERalYALo5`
+Snapshot ID: `AAAAAEQa/aJm5ZJGGLnNUVQgGvlIE1gr`

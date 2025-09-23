@@ -4,7 +4,7 @@
 
 > This is The O'Jays\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 14 min
+79 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Brandy](https://open.spotify.com/track/4FgHURAh8kHbMCQJJ37Etc) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:11 | 2022-05-25 |  |
 | [Buddy's Business](https://open.spotify.com/track/3UfvMIFT0CPElwKqxOew07) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT), [Eddie Levert](https://open.spotify.com/artist/2IvCFI40bNhf40fRPO7cA0), [Walter Williams](https://open.spotify.com/artist/7l643twfn8Rq1l4iON1aKp) | [Brawl in Cell Block 99 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6K96xGtU1rfAcKfnrKr09U) | 4:47 | 2022-05-25 | 2022-10-13 |
 | [Cause I Want You Back Again](https://open.spotify.com/track/4iTZ9oHsZkErLDjmSiSymH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 4:46 | 2022-05-25 |  |
-| [Crossroads of Life](https://open.spotify.com/track/2HgnJM3AUGszNRPTnbyWOE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Super Bad](https://open.spotify.com/album/32JJSl2dK1v6F2bzoDwmJP) | 2:48 | 2025-01-27 |  |
+| [Crossroads of Life](https://open.spotify.com/track/2HgnJM3AUGszNRPTnbyWOE) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Super Bad](https://open.spotify.com/album/32JJSl2dK1v6F2bzoDwmJP) | 2:48 | 2025-01-27 | 2025-09-23 |
 | [Cry Together](https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 5:33 | 2022-05-25 |  |
 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 | 2022-05-25 |  |
 | [Deeper \(In Love with You\)](https://open.spotify.com/track/1PSfY3lSwBD888PZW0s5JH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 2:39 | 2022-05-25 | 2022-10-13 |
@@ -84,6 +84,7 @@
 | [You and Me](https://open.spotify.com/track/4FGYePPcvd3yuxyDR3BsCJ) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 5:39 | 2022-05-25 |  |
 | [You Got Your Hooks in Me](https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 5:33 | 2022-05-25 |  |
 | [You Won't Fail](https://open.spotify.com/track/4EMwieymtOOg9Etmykn1GO) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Year 2000](https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot) | 5:18 | 2022-05-26 |  |
+| [You'll Never Know \(All There Is to Know 'bout My Love\)](https://open.spotify.com/track/6sw1l9ehTdbqNbP6r5itmk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Year 2000](https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot) | 4:31 | 2025-09-23 |  |
 | [Your Body's Here with Me \(But Your Mind's on the Other Side of Town\)](https://open.spotify.com/track/17I6vlUf2z1747kHsGmEF0) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:46 | 2022-05-25 |  |
 | [Your True Heart \(And Shining Star\)](https://open.spotify.com/track/5tJQbWlusbXJkCnSRTTRfH) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 5:49 | 2022-07-23 |  |
 

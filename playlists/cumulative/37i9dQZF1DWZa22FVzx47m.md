@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZa22FVzx47m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZa22FVzx47m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZa22FVzx47m)
 
-### [7 de Septiembre El Romance Continúa](https://open.spotify.com/playlist/37i9dQZF1DWZa22FVzx47m)
+### [Las Románticas de Mamá](https://open.spotify.com/playlist/37i9dQZF1DWZa22FVzx47m)
 
-> ya es nuestro aniversario 🤍
+> Canciones te inspiran a ti y a todas las mamás.
 
 211 songs - 14 hr 15 min
 
@@ -37,7 +37,7 @@
 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 | 2021-12-07 |  |
 | [Creo En Mí \- Versión: ANTOLOGÍA 20 AÑOS](https://open.spotify.com/track/20kACW3Sxoi4Lmq7E8wH48) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo En Mí \(Versión: ANTOLOGÍA 20 AÑOS\)](https://open.spotify.com/album/1zFYAdhfPwLHEEHGGsoBwz) | 4:08 | 2023-08-18 | 2023-09-28 |
 | [Cruz de Navajas](https://open.spotify.com/track/5laT2a6iEq4IxgEDV9dSCr) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1vDYLED9bQwm3FzIdXs5H9) | 5:02 | 2023-09-27 | 2024-04-19 |
-| [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2021-12-07 |  |
+| [Cruz de navajas](https://open.spotify.com/track/6VWWU8EFSS7Xx1TZ830Paz) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 5:02 | 2021-12-07 | 2025-09-23 |
 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/1OebRQ9wy5wqLv21wSXjcT) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Soy Latino Vol\. 5](https://open.spotify.com/album/5fTHQyRre5vfWqCJflr7sM) | 3:56 | 2022-05-09 | 2022-11-13 |
 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/6PGxt5a6I6G0tZhZTaupTj) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [La Casa Del Amor](https://open.spotify.com/album/3wOUvW0p0XQrFnM3X9l5us) | 3:56 | 2022-05-09 | 2023-04-11 |
 | [Cuando Mueres Por Alguien](https://open.spotify.com/track/48SAHpItleqbcc4Kar7eIG) | [Erik Rubin](https://open.spotify.com/artist/43hb5av90CTCWFldaaTp7n) | [Simplemente Amor \(CD2\)](https://open.spotify.com/album/3bJ6YfNbaZ2u2AuwHHQJHx) | 3:56 | 2022-05-09 | 2022-07-29 |
@@ -146,7 +146,7 @@
 | [Para Amarnos Más](https://open.spotify.com/track/4Kjh2Yot6QjyebFqfLaoMm) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Celebridades\- Mijares](https://open.spotify.com/album/754knedaR3meZPGrnCf1Hf) | 3:29 | 2021-12-07 | 2023-02-12 |
 | [Paris](https://open.spotify.com/track/5ByvJeBlrYISiwy7AVEAmP) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 3:46 | 2023-04-11 |  |
 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 | 2021-12-07 |  |
-| [Piel de Azúcar](https://open.spotify.com/track/4yQYtOS4WKsemq83DEj8ie) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Que Es El Amor](https://open.spotify.com/album/7mepVwtZ3nem33S25OZdol) | 3:37 | 2024-02-23 | 2025-05-31 |
+| [Piel de Azúcar](https://open.spotify.com/track/4yQYtOS4WKsemq83DEj8ie) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Que Es El Amor](https://open.spotify.com/album/7mepVwtZ3nem33S25OZdol) | 3:37 | 2024-02-23 |  |
 | [Por Amarte](https://open.spotify.com/track/2Om6rNxZBUXZ1beo3U38rD) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/7DS5eAaSqaPRercZMkxVeL) | 4:04 | 2021-12-07 | 2022-05-10 |
 | [Por Amarte](https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 | 2022-03-08 |  |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2022-05-09 | 2023-04-11 |

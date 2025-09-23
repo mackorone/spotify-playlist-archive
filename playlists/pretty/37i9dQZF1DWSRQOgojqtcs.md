@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 
 > Love, sex, and heartbreak\. Listen to the official playlist for Heartbreak High, now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,476 likes - 225 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,470 likes - 225 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,7 +176,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRQOgojqtcs.md) - [plain]
 | 166 | [Rude Gyal](https://open.spotify.com/track/0FsOI2cYxB2a3dCKUu0y6q) | [Mkada](https://open.spotify.com/artist/6f5pg2rPhGYYmZJkhvZrNf), [Adrian Swish](https://open.spotify.com/artist/7BVbyQxv5u5jJ0lYjoElYD), [Slicker 1](https://open.spotify.com/artist/3zijNhgLVtJXWto8klJc6O) | [Already on Iii: Millennium Music](https://open.spotify.com/album/0BKKv32T5Mj7LxknOuNG1R) | 3:12 |
 | 167 | [Tear the House Up \- Edit](https://open.spotify.com/track/5mrDwQ85b5WGRsyub91Jn9) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear The House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 3:15 |
 | 168 | [Double Dip](https://open.spotify.com/track/2qLM9dbsAbjCE9N3fPagG2) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Double Dip](https://open.spotify.com/album/5FID5KjP1a0xptUHQZkIVL) | 3:18 |
-| 169 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
+| 169 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 | 170 | [Stingray](https://open.spotify.com/track/1olZjpFdirMqGxb4sOHaPG) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt) | [Water Gun / Stingray](https://open.spotify.com/album/6SlfMCIV2Jd20Tnhu78QA4) | 3:33 |
 | 171 | [BIG](https://open.spotify.com/track/2Vbl3bHFd4vlc6WSgMbfbX) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [BIG](https://open.spotify.com/album/78UBl7rvKtr1BMdKT7Rfnb) | 3:38 |
 | 172 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |

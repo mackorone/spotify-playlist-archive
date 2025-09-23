@@ -12658,7 +12658,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -19220,7 +19220,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 198957,
       "name": "En Tu Boca El Humo Me Sabe Mejor",
       "url": "https://open.spotify.com/track/53wSngFr6eC0yazPNJQmtg"
@@ -21756,7 +21756,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -22708,7 +22708,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -30990,7 +30990,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -34170,7 +34170,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -36776,7 +36776,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 226035,
       "name": "MIENTRAS DUERMES",
       "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
@@ -38062,7 +38062,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 101928,
       "name": "MONTAGEM VOZES TALENTINHO - Super Slowed",
       "url": "https://open.spotify.com/track/4gtz0OTJdBWZReh77LgBJT"
@@ -42834,7 +42834,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 141333,
       "name": "Orula",
       "url": "https://open.spotify.com/track/2BFY6af0xKPlLpjAzkfZni"
@@ -42856,6 +42856,28 @@
       "duration_ms": 141535,
       "name": "Orula",
       "url": "https://open.spotify.com/track/701CRzd2iWBSImPgmSHq8Y"
+    },
+    {
+      "album": {
+        "name": "Orula Capitambo",
+        "url": "https://open.spotify.com/album/7oFYGsqEZ0wlt6yqv9uGyv"
+      },
+      "artists": [
+        {
+          "name": "Yiro shishigang",
+          "url": "https://open.spotify.com/artist/6x8Hrdvwax8JN1U8rgyQaC"
+        },
+        {
+          "name": "yahir con H",
+          "url": "https://open.spotify.com/artist/2tQoV9cu5k72gEg9aBR5j3"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141558,
+      "name": "Orula Capitambo",
+      "url": "https://open.spotify.com/track/748rL9PxQ6KWvSwEDTHpmH"
     },
     {
       "album": {
@@ -47966,7 +47988,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 128487,
       "name": "Quiero +",
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
@@ -51320,7 +51342,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -51542,7 +51564,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 133979,
       "name": "Seven Minutes in Heaven",
       "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
@@ -65208,7 +65230,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 277532,
       "name": "W\u00e9ndeti Nagaira",
       "url": "https://open.spotify.com/track/1E5vVC8xs3t7L0C4i7nuLu"

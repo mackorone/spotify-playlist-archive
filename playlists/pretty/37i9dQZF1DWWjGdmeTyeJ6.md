@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,228,429 likes - 301 songs - 16 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,228,385 likes - 301 songs - 16 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: MORGXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,872 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,883 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [u\-haul](https://open.spotify.com/track/5VZW1sKSI7EJ5iwKefVZoR) | [audalei](https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP) | [u\-haul](https://open.spotify.com/album/2A7t413liTBl6nxw54L8mA) | 2:33 |
 | 100 | [Barracuda](https://open.spotify.com/track/1yAVqfMY1tya2dh1LTsHG9) | [FIGHTMASTER](https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw) | [Barracuda](https://open.spotify.com/album/4V9Y6iZCIUF51df8mKBrhH) | 4:16 |
 
-Snapshot ID: `AAAAAKUO1/RQv+2XTgA+fdxgDTIxQz6l`
+Snapshot ID: `AAAAAE+ueoto4r94TX4YzA7BMMvWh1Bj`

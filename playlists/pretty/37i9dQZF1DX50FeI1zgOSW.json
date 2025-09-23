@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Kaushik Mahalengam",
-  "num_followers": 16089,
+  "num_followers": 16092,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJWqI+lDUWiO3m492Q/JI3JKiON9",
+  "snapshot_id": "AAAAAPvsb9u0N1OPPjXFfRjA/f8K3KrW",
   "tracks": [
     {
       "added_at": "2025-09-01 08:11:59",
@@ -243,6 +243,22 @@
       "duration_ms": 232584,
       "name": "Peththavale",
       "url": "https://open.spotify.com/track/4AgGxKhxwYk4k8sE2FcTuH"
+    },
+    {
+      "added_at": "2025-09-22 12:57:10",
+      "album": {
+        "name": "Kadhal Idhu Thana (2.0)",
+        "url": "https://open.spotify.com/album/4cyfURIh52RTyptB7Tc7kr"
+      },
+      "artists": [
+        {
+          "name": "nichesluck",
+          "url": "https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln"
+        }
+      ],
+      "duration_ms": 284586,
+      "name": "Kadhal Idhu Thana - 2.0",
+      "url": "https://open.spotify.com/track/69CRLyHOTcmBYAgO9WropC"
     },
     {
       "added_at": "2025-08-18 13:27:19",
@@ -639,22 +655,6 @@
       "duration_ms": 208252,
       "name": "Poi Kadhal",
       "url": "https://open.spotify.com/track/3dLhDLdUwUFeiDquvenigi"
-    },
-    {
-      "added_at": "2025-08-25 13:21:33",
-      "album": {
-        "name": "Un Ninaivugal",
-        "url": "https://open.spotify.com/album/1WGEO3LnSALkPqtSBP8tt8"
-      },
-      "artists": [
-        {
-          "name": "Ravi Kumar",
-          "url": "https://open.spotify.com/artist/6vNENfWSIJLmHJXn6303sQ"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Un Ninaivugal",
-      "url": "https://open.spotify.com/track/5inY3yAOGrjsXZhlJ2a6JV"
     },
     {
       "added_at": "2025-08-18 13:17:44",

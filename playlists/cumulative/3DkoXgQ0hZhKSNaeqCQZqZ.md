@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-392 songs - 20 hr 49 min
+393 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Loner](https://open.spotify.com/track/5pgVEVzfyfpQ6eT9gSLH5m) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [Loner](https://open.spotify.com/album/1mOnhhctC0RjyMeKUfygqh) | 2:48 | 2023-06-14 |  |
 | [long day 2](https://open.spotify.com/track/4PjvvNoOtCZ9u9tJ5fF4XI) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [6 Swords of Mercury](https://open.spotify.com/album/6l3U77QIrjjQj4ZZ5moEAG) | 1:39 | 2024-05-28 |  |
 | [long\_time.MP4](https://open.spotify.com/track/5AKjpH0izAn7ZRK38LUiAR) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [zerofault](https://open.spotify.com/artist/6xMJqWd8jHp0Sos80wQlQc) | [long\_time.MP4](https://open.spotify.com/album/2D2bxVuPyflihXmnDerYUN) | 2:04 | 2025-03-18 |  |
+| [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 | 2025-09-22 |  |
 | [LOVESICK](https://open.spotify.com/track/03JIcQe4Z1te3Ct7gXDYk2) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LOVESICK](https://open.spotify.com/album/6MwQkbIxD6S2H8bB3gTsT0) | 4:10 | 2024-01-01 |  |
 | [lucid dreaming](https://open.spotify.com/track/5T7Wxzl5SqOdt2KUrPdrm5) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [lucid dreaming](https://open.spotify.com/album/2Q7AbsDOy0tshyjnOmqs3n) | 3:30 | 2025-02-22 |  |
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-01-23 |  |

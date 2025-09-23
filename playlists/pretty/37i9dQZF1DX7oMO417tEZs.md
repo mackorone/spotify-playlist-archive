@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > A curated space for the avant\-garde\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,754 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,774 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hazel](https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw) | 3:49 |
 | 100 | [Rush \(Missing Out On Me\)](https://open.spotify.com/track/7MPgC1x3leOFwZelTxYgs9) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Purient](https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh) | [Rush \(Missing Out On Me\)](https://open.spotify.com/album/5zZjFkMGkiYboF20Vlpgfg) | 2:24 |
 
-Snapshot ID: `AAAAAKlY/aidU2MpOcJcLTAgAsCBYV6Y`
+Snapshot ID: `AAAAABf4ml9ccLbSZSJA3RZKCuUOJYdX`

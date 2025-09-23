@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Isadora Pompeo",
-  "num_followers": 1188544,
+  "num_followers": 1188760,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -247,30 +247,6 @@
     {
       "added_at": "2025-09-19 03:01:17",
       "album": {
-        "name": "Por Causa Dele",
-        "url": "https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4"
-      },
-      "artists": [
-        {
-          "name": "Kellen Byanca",
-          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
-        },
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 352396,
-      "name": "Por Causa Dele - Ao Vivo",
-      "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
-    },
-    {
-      "added_at": "2025-09-19 03:01:17",
-      "album": {
         "name": "Clamo Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 437426,
       "name": "Clamo Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2025-09-19 03:01:17",
+      "album": {
+        "name": "Por Causa Dele",
+        "url": "https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 352396,
+      "name": "Por Causa Dele - Ao Vivo",
+      "url": "https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW"
     },
     {
       "added_at": "2025-09-19 03:01:17",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-09-19 03:01:17",
       "album": {
-        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 519000,
-      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
-    },
-    {
-      "added_at": "2025-09-19 03:01:17",
-      "album": {
         "name": "Tetelestai (Ao Vivo)",
         "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 332906,
       "name": "Alian\u00e7a (Ao Vivo)",
       "url": "https://open.spotify.com/track/4cRSit9wzI1XfV0PB7GVSQ"
+    },
+    {
+      "added_at": "2025-09-19 03:01:17",
+      "album": {
+        "name": "Buscar-Me-Eis e Me Achareis (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7g8LWP9eQyiS9YIbziDPV8"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 519000,
+      "name": "Buscar-Me-Eis e Me Achareis - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a5YMnpTVStVqoBwgOhjDi"
     },
     {
       "added_at": "2025-09-19 03:01:17",

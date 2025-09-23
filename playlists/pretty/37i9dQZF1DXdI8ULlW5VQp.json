@@ -1,6 +1,6 @@
 {
   "description": "Sue\u00f1a lindo, coraz\u00f3n... \ud83d\udc96\u2728 Silvana Estrada en portada.",
-  "num_followers": 192239,
+  "num_followers": 192231,
   "original_name": "Pop Folk",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,22 @@
     {
       "added_at": "2025-09-19 06:00:23",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
+        "name": "Pinceles",
+        "url": "https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv"
       },
       "artists": [
         {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+          "name": "Javi Medina",
+          "url": "https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 334893,
-      "name": "Musas en Mi",
-      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
+      "duration_ms": 182999,
+      "name": "Pinceles",
+      "url": "https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz"
     },
     {
       "added_at": "2025-09-19 06:00:23",
@@ -259,22 +263,18 @@
     {
       "added_at": "2025-09-19 06:00:23",
       "album": {
-        "name": "Pinceles",
-        "url": "https://open.spotify.com/album/7McG5klQmerZ48pwuNt3Yv"
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s"
       },
       "artists": [
         {
-          "name": "Javi Medina",
-          "url": "https://open.spotify.com/artist/6dwFgF51JkLBz93ocNJ0Ol"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
         }
       ],
-      "duration_ms": 182999,
-      "name": "Pinceles",
-      "url": "https://open.spotify.com/track/1esQcf1nmd91BZlGm576fz"
+      "duration_ms": 334893,
+      "name": "Musas en Mi",
+      "url": "https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An"
     },
     {
       "added_at": "2025-09-19 06:00:23",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-09-19 06:00:23",
       "album": {
-        "name": "Embeces",
-        "url": "https://open.spotify.com/album/5wrbLnLCWcfkNGKwlT1P2k"
-      },
-      "artists": [
-        {
-          "name": "Meme del Real",
-          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Embeces",
-      "url": "https://open.spotify.com/track/3tfFRiUe2e6FQ6oNNisspM"
-    },
-    {
-      "added_at": "2025-09-19 06:00:23",
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 228904,
       "name": "Quemar Mis Barcos",
       "url": "https://open.spotify.com/track/51GG2OUjCZwam6Ewr1sRQw"
+    },
+    {
+      "added_at": "2025-09-19 06:00:23",
+      "album": {
+        "name": "Embeces",
+        "url": "https://open.spotify.com/album/5wrbLnLCWcfkNGKwlT1P2k"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "Embeces",
+      "url": "https://open.spotify.com/track/3tfFRiUe2e6FQ6oNNisspM"
     },
     {
       "added_at": "2025-09-19 06:00:23",
@@ -887,38 +887,6 @@
     {
       "added_at": "2025-09-19 06:00:23",
       "album": {
-        "name": "tu foto x ah\u00ed",
-        "url": "https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        }
-      ],
-      "duration_ms": 156244,
-      "name": "tu foto x ah\u00ed",
-      "url": "https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ"
-    },
-    {
-      "added_at": "2025-09-19 06:00:23",
-      "album": {
-        "name": "Tofu",
-        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Necios",
-      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
-    },
-    {
-      "added_at": "2025-09-19 06:00:23",
-      "album": {
         "name": "Compa\u00f1era",
         "url": "https://open.spotify.com/album/5h84UO1R50sJvoPpt5EHeR"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
+    },
+    {
+      "added_at": "2025-09-19 06:00:23",
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/5tquufgGqNZBek4qn3Zngj"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Necios",
+      "url": "https://open.spotify.com/track/4yrizFXoIRJQ94QQKiJqIx"
+    },
+    {
+      "added_at": "2025-09-19 06:00:23",
+      "album": {
+        "name": "tu foto x ah\u00ed",
+        "url": "https://open.spotify.com/album/0KoyYy8BP8bTg1UmMQRw2b"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 156244,
+      "name": "tu foto x ah\u00ed",
+      "url": "https://open.spotify.com/track/0iVaOOMUWOOLXJMlExbFxZ"
     },
     {
       "added_at": "2025-09-19 06:00:23",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-09-19 06:00:23",
       "album": {
+        "name": "Escrib\u00ed Esto para Ti",
+        "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
+      },
+      "artists": [
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 180998,
+      "name": "Ya Vali\u00f3",
+      "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
+    },
+    {
+      "added_at": "2025-09-19 06:00:23",
+      "album": {
         "name": "Huella",
         "url": "https://open.spotify.com/album/2RmGhu8m9fSbPuiUKeCNT0"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 180372,
       "name": "Huella",
       "url": "https://open.spotify.com/track/1jGPestjbACKCQzvNL8eJg"
-    },
-    {
-      "added_at": "2025-09-19 06:00:23",
-      "album": {
-        "name": "Escrib\u00ed Esto para Ti",
-        "url": "https://open.spotify.com/album/4IpZUUYdYuMDHQvm4AzA0K"
-      },
-      "artists": [
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
-        }
-      ],
-      "duration_ms": 180998,
-      "name": "Ya Vali\u00f3",
-      "url": "https://open.spotify.com/track/51k1zxWIXXgmsRVBsV3Z5l"
     },
     {
       "added_at": "2025-09-19 06:00:23",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-09-19 06:00:23",
       "album": {
-        "name": "Truco Viejo",
-        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
-      },
-      "artists": [
-        {
-          "name": "Sous-Sol",
-          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "Truco Viejo",
-      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
-    },
-    {
-      "added_at": "2025-09-19 06:00:23",
-      "album": {
         "name": "Buenos Aires",
         "url": "https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 168000,
       "name": "Buenos Aires",
       "url": "https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL"
+    },
+    {
+      "added_at": "2025-09-19 06:00:23",
+      "album": {
+        "name": "Truco Viejo",
+        "url": "https://open.spotify.com/album/0F3iyyLssTDZ3yoXdXsTgY"
+      },
+      "artists": [
+        {
+          "name": "Sous-Sol",
+          "url": "https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "Truco Viejo",
+      "url": "https://open.spotify.com/track/7kiawJqDZFeGdyaknhww6v"
     },
     {
       "added_at": "2025-09-19 06:00:23",

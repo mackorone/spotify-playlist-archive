@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Mariana Nolasco",
-  "num_followers": 437295,
+  "num_followers": 437288,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2025-09-19 03:00:10",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
+    },
+    {
+      "added_at": "2025-09-19 03:00:10",
+      "album": {
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        }
+      ],
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -603,18 +603,22 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
-        "name": "MACIA BAHIA",
-        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 178348,
-      "name": "MACIA BAHIA",
-      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
+      "duration_ms": 175176,
+      "name": "Ombro Amigo",
+      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -635,22 +639,18 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
+        "name": "MACIA BAHIA",
+        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
       },
       "artists": [
         {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 175176,
-      "name": "Ombro Amigo",
-      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
+      "duration_ms": 178348,
+      "name": "MACIA BAHIA",
+      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
-        "name": "Abrigo",
-        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 166692,
-      "name": "Abrigo",
-      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
-    },
-    {
-      "added_at": "2025-09-19 03:00:10",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -711,6 +695,38 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        }
+      ],
+      "duration_ms": 174817,
+      "name": "Poder Amar",
+      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
+    },
+    {
+      "added_at": "2025-09-19 03:00:10",
+      "album": {
+        "name": "Abrigo",
+        "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 166692,
+      "name": "Abrigo",
+      "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
+    },
+    {
+      "added_at": "2025-09-19 03:00:10",
+      "album": {
         "name": "Mar Manso",
         "url": "https://open.spotify.com/album/5Au5HBEVUfC394hbv3ycki"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 189500,
       "name": "Mar Manso",
       "url": "https://open.spotify.com/track/2WWltTw9plq2V2TtRDjRlG"
-    },
-    {
-      "added_at": "2025-09-19 03:00:10",
-      "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Poder Amar",
-      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
-        "name": "livre",
-        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        }
-      ],
-      "duration_ms": 63239,
-      "name": "livre",
-      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
-    },
-    {
-      "added_at": "2025-09-19 03:00:10",
-      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 186223,
       "name": "CHUVA DE VER\u00c3O",
       "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+    },
+    {
+      "added_at": "2025-09-19 03:00:10",
+      "album": {
+        "name": "livre",
+        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        }
+      ],
+      "duration_ms": 63239,
+      "name": "livre",
+      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-09-19 03:00:10",
       "album": {
-        "name": "Eu Gosto Assim",
-        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
-      },
-      "artists": [
-        {
-          "name": "Karol Rib\u00ea",
-          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
-        }
-      ],
-      "duration_ms": 206505,
-      "name": "Eu Gosto Assim",
-      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2025-09-19 03:00:10",
-      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 174000,
       "name": "Sol de S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2025-09-19 03:00:10",
+      "album": {
+        "name": "Eu Gosto Assim",
+        "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
+      },
+      "artists": [
+        {
+          "name": "Karol Rib\u00ea",
+          "url": "https://open.spotify.com/artist/76VXQGPlYrrm63OBg1APlt"
+        }
+      ],
+      "duration_ms": 206505,
+      "name": "Eu Gosto Assim",
+      "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -1071,6 +1071,26 @@
       "duration_ms": 165490,
       "name": "Nosso Carnaval",
       "url": "https://open.spotify.com/track/2K6gasvI6EdOlvqSxJDQf6"
+    },
+    {
+      "added_at": "2025-09-19 03:00:10",
+      "album": {
+        "name": "Cada Linha",
+        "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        },
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 162339,
+      "name": "Cada Linha",
+      "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
     },
     {
       "added_at": "2025-09-19 03:00:10",
@@ -1223,26 +1243,6 @@
       "duration_ms": 209188,
       "name": "O Amor \u00e9 uma Loucura",
       "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
-    },
-    {
-      "added_at": "2025-09-19 03:00:10",
-      "album": {
-        "name": "Cada Linha",
-        "url": "https://open.spotify.com/album/11S0gVsVXpCpSUFYYiLADo"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        },
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 162339,
-      "name": "Cada Linha",
-      "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
     },
     {
       "added_at": "2025-09-19 03:00:10",

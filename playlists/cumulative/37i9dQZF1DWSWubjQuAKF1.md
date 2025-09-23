@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Marek Niedzielski, Ania Szlagowska
 
-584 songs - 1 day 4 hr 31 min
+585 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,7 @@
 | [Wszystko Minie](https://open.spotify.com/track/1pxRlP7Bbiraw3X8XG38kF) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Wszystko Minie](https://open.spotify.com/album/24kue1VX52fHrZA4CnMlEp) | 2:48 | 2024-06-28 | 2024-07-27 |
 | [Wszystko się ułoży](https://open.spotify.com/track/59aqzh41cy5Cg6aSWPjXuJ) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Wszystko się ułoży](https://open.spotify.com/album/3zxROJJfzFpOJEwVM1v0j5) | 2:04 | 2025-02-27 | 2025-04-04 |
 | [Wybacz](https://open.spotify.com/track/0uhhM7tSYivThVeEbDRm7N) | [Magda Drejka](https://open.spotify.com/artist/0pUTemal7XM7uGxiyphELo) | [Wybacz](https://open.spotify.com/album/57RgCyvk7mbVRwQ5ghiqAJ) | 2:40 | 2024-06-28 | 2024-08-02 |
-| [wylosujesz go!](https://open.spotify.com/track/7znQEgOxAQm6h19t5gw79o) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [wylosujesz go!](https://open.spotify.com/album/4P6WGTlXK1WxwhvIiSijwb) | 2:08 | 2025-08-07 |  |
+| [wylosujesz go!](https://open.spotify.com/track/7znQEgOxAQm6h19t5gw79o) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [wylosujesz go!](https://open.spotify.com/album/4P6WGTlXK1WxwhvIiSijwb) | 2:08 | 2025-08-07 | 2025-09-23 |
 | [własnym](https://open.spotify.com/track/2qarKmvoSpSaODKhaE24xh) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [własnym](https://open.spotify.com/album/7le6hp3cumK0u20VUTZlnQ) | 2:33 | 2024-09-27 | 2025-01-24 |
 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-19 |  |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-20 | 2025-02-28 |
@@ -591,6 +591,7 @@
 | [ślad](https://open.spotify.com/track/4HiXJSftCBFKIhXY5UFQUN) | [oda nova](https://open.spotify.com/artist/0H4RGeMvvrlp8zo8T9YEDU), [Filip Solen](https://open.spotify.com/artist/5aQRaG3AJ08Htrqgr4SKJ5) | [ślad](https://open.spotify.com/album/69kc4sFg5UJX8iRMxOrw4x) | 3:17 | 2025-09-04 | 2025-09-21 |
 | [ŻART!?](https://open.spotify.com/track/5dbs7qdEG6oiAmKN4liNSB) | [ROZIE](https://open.spotify.com/artist/59iWoTgpD2176IjqGmNZSo) | [ŻART!?](https://open.spotify.com/album/73IFHogZWsogRGF6Q4nzSH) | 2:51 | 2024-09-13 | 2025-01-24 |
 | [ŻYCZENIE](https://open.spotify.com/track/5NCbw8iGoUGHmUfmfKfgSL) | [LIJA](https://open.spotify.com/artist/46Ke0Gji5QAaMGvsTgBEj5) | [ŻYCZENIE](https://open.spotify.com/album/5uuqDKz4fqciOPrua2DMEP) | 2:53 | 2024-07-25 | 2024-11-22 |
+| [życzenie](https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [życzenie](https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3) | 4:43 | 2025-09-16 |  |
 | [Życzenie](https://open.spotify.com/track/1fQHKxZhGY3uZRVlPqZelN) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Życzenie](https://open.spotify.com/album/3ac0IKoGhbTx4NlJgZvBAL) | 2:47 | 2025-04-10 | 2025-06-20 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

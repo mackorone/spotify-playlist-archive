@@ -743,22 +743,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "XX",
-        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        }
-      ],
-      "duration_ms": 192013,
-      "name": "Kercelak",
-      "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Himalaje",
         "url": "https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 207677,
       "name": "Himalaje",
       "url": "https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        }
+      ],
+      "duration_ms": 192013,
+      "name": "Kercelak",
+      "url": "https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Wsp\u00f3\u0142g\u0142osy",
-        "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
-      },
-      "artists": [
-        {
-          "name": "WSP\u00d3\u0141G\u0141OSY",
-          "url": "https://open.spotify.com/artist/54Qt7Nkw3WSs9B87ThONjK"
-        },
-        {
-          "name": "Marcel Bali\u0144ski",
-          "url": "https://open.spotify.com/artist/2pji5lbpgJtbFUXwGNKsNW"
-        }
-      ],
-      "duration_ms": 91803,
-      "name": "Gospel Song",
-      "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
         "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 865922,
       "name": "Critique of Swing in Two Parts, Pt. 1",
       "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Wsp\u00f3\u0142g\u0142osy",
+        "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
+      },
+      "artists": [
+        {
+          "name": "WSP\u00d3\u0141G\u0141OSY",
+          "url": "https://open.spotify.com/artist/54Qt7Nkw3WSs9B87ThONjK"
+        },
+        {
+          "name": "Marcel Bali\u0144ski",
+          "url": "https://open.spotify.com/artist/2pji5lbpgJtbFUXwGNKsNW"
+        }
+      ],
+      "duration_ms": 91803,
+      "name": "Gospel Song",
+      "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
     },
     {
       "added_at": "2025-04-06 08:27:45",

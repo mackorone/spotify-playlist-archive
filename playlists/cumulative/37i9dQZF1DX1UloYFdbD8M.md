@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Urumi
 
-404 songs - 1 day 1 hr 15 min
+405 songs - 1 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Green Bean](https://open.spotify.com/track/4Fy7zmLbPiGDYhmp6ziHwi) | [Jatayu](https://open.spotify.com/artist/4FRg3iQY9IQNzFiEs29WtK) | [Co Creation Project: Kappa Originals x Bloom In Green '22](https://open.spotify.com/album/12naOKwjLae6Z86tAl6BLL) | 2:31 | 2023-08-05 | 2024-02-19 |
 | [Gulab Jamun](https://open.spotify.com/track/2zlllmweB5NqNGv06OEguE) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Jubair Muhammed](https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0) | [Gulab Jamun](https://open.spotify.com/album/0y82u4WJxCP9qrZbcCK4wB) | 2:06 | 2025-07-07 | 2025-08-20 |
 | [Guru Meets Mastan](https://open.spotify.com/track/2WEp8R52IgXTf7zYVjMZJc) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan](https://open.spotify.com/album/0CQ6xO6ATp0215Eg2OgLHl) | 4:49 | 2024-05-24 | 2024-07-24 |
+| [Guru Meets Mastan \(Aadu Paampe\)](https://open.spotify.com/track/3uC7Isi4QUuj6l4CJwOvL7) | [Shahabaz Aman](https://open.spotify.com/artist/0ef7C50MIK4GSqlk2WnOGk) | [Guru Meets Mastan \(Aadu Paampe\)](https://open.spotify.com/album/3wSOXY2qYT2iAYvoOe1ytq) | 4:39 | 2025-09-22 |  |
 | [GVQ](https://open.spotify.com/track/5ujiob8B2fy0UiLvJWr1cK) | [Thakara](https://open.spotify.com/artist/528QfTIbfkN7BD1AM2I0SC) | [Mojo Sessions Live](https://open.spotify.com/album/6UtfSEfMlTw9h4DKa59Yjn) | 4:50 | 2022-12-22 | 2024-08-17 |
 | [Hey Skibidi](https://open.spotify.com/track/3EPnh0IazV0MZ1oHlzyB7I) | [Gowtham Krish](https://open.spotify.com/artist/0eskApiTwhQgXyraB38BTX) | [Hey Skibidi](https://open.spotify.com/album/5PtoLfyEQsEOKSXQqfUcX3) | 2:51 | 2025-09-03 |  |
 | [Hridayam](https://open.spotify.com/track/3dP8bympjd6bjXnvDp1mVr) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [daszi](https://open.spotify.com/artist/0afiI57tEFIwLFQBZC71sp), [Achayan](https://open.spotify.com/artist/46eo6xKxaZmYnnKNwpyB4C) | [Hridayam](https://open.spotify.com/album/0BNMDoYVh5kJhlD0YeFrqI) | 4:22 | 2025-03-01 |  |

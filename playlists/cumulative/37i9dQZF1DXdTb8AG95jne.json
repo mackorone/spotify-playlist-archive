@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Bad News",
+        "url": "https://open.spotify.com/album/3Ypjq0ayZL9QeSzpc6iyZj"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/62n9pY9ASBu876GnTNESYO"
+    },
+    {
+      "album": {
         "name": "Default",
         "url": "https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u"
       },
@@ -11896,7 +11914,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 244000,
       "name": "Night Walk",
       "url": "https://open.spotify.com/track/0AL9ujUjDLk219ukEZ15xc"
@@ -13126,7 +13144,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 218484,
       "name": "Player 1",
       "url": "https://open.spotify.com/track/6go0riAOZ7nZyDPpRjZ53N"
@@ -13304,7 +13322,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 183629,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/6YBDV5AmmLRWQjpBFdgDyk"
@@ -13420,6 +13438,28 @@
       "duration_ms": 155190,
       "name": "Process",
       "url": "https://open.spotify.com/track/6waS97d1u64uuKTKlCQZUh"
+    },
+    {
+      "album": {
+        "name": "Q.E.D",
+        "url": "https://open.spotify.com/album/72FZiNdajj3s2ZOszERuka"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        },
+        {
+          "name": "the orchard",
+          "url": "https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Proof of the Night (with the orchard)",
+      "url": "https://open.spotify.com/track/4DgXufcByc7zrjx5H6P8ug"
     },
     {
       "album": {
@@ -17522,7 +17562,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 295594,
       "name": "To Be Found",
       "url": "https://open.spotify.com/track/4xLUZsn5d9Io9a0ZDyHo5z"
@@ -19285,6 +19325,24 @@
     },
     {
       "album": {
+        "name": "Worry Monster",
+        "url": "https://open.spotify.com/album/0DxeZn68faBLSdUZeoPLDv"
+      },
+      "artists": [
+        {
+          "name": "Yeon seo",
+          "url": "https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Worry Monster",
+      "url": "https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT"
+    },
+    {
+      "album": {
         "name": "written on a leaf",
         "url": "https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin"
       },
@@ -19788,6 +19846,28 @@
       "duration_ms": 184986,
       "name": "Young People",
       "url": "https://open.spotify.com/track/1T3kSXQGxdY144SzofbEQt"
+    },
+    {
+      "album": {
+        "name": "Your Day without Me (feat. h3hyeon)",
+        "url": "https://open.spotify.com/album/5yYy7EP9DA0mqi7xidMrxC"
+      },
+      "artists": [
+        {
+          "name": "Sukwon Yoon",
+          "url": "https://open.spotify.com/artist/479FJWt17iCfT8B88WWSn2"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174442,
+      "name": "Your Day without Me (feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/6VSGV5Rxqu6Dy5XaIoaJR8"
     },
     {
       "album": {

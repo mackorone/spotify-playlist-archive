@@ -4,7 +4,7 @@
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-352 songs - 19 hr 12 min
+353 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [The Future](https://open.spotify.com/track/4bdtUZWlQTi22F4TLu9NVV) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [The Future](https://open.spotify.com/album/2fV64H3NI4XvL05XVdhoip) | 4:59 | 2025-01-10 | 2025-02-28 |
 | [The Gospel \- Geck\-o's Gabber Confession Remix](https://open.spotify.com/track/1aj0Wx51HvxGj1dnDFNEnm) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl), [Geck\-O](https://open.spotify.com/artist/5TfuDjIGoKIDy1c7l0DBsB) | [The Gospel \(Geck\-o's Gabber Confession Remix\)](https://open.spotify.com/album/0dkaXxnzrtl4qbG53b8nKo) | 3:51 | 2023-09-14 | 2024-03-05 |
 | [The Hood](https://open.spotify.com/track/2fHSUYkVn1dBWeqE2fY3rQ) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [The Hood](https://open.spotify.com/album/35NlVrFFOodmyJ9EWrCL94) | 3:13 | 2022-12-08 | 2022-12-22 |
+| [The Last Airbender \(VIP\)](https://open.spotify.com/track/2UkJVFIbRG9FyqHG4E3Dje) | [SLVL](https://open.spotify.com/artist/2w2F0FNIB80MQPxICKbjqf) | [The Last Airbender \(VIP\)](https://open.spotify.com/album/020oO7QSGs7zx64ryNe67n) | 2:30 | 2025-09-22 |  |
 | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/track/3YbYr7EkUAHk4W2nyIuFiS) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [The Light \(Defqon.1 2024 BLACK OST\)](https://open.spotify.com/album/3U9BcVgKxlElsk8pmLy11e) | 3:35 | 2024-06-21 | 2025-05-30 |
 | [The Mind](https://open.spotify.com/track/2SBih0WVTPSjkvcya5Uwan) | [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [The Mind](https://open.spotify.com/album/48aEQD8boTPPi3jylW9XGc) | 2:49 | 2022-12-08 | 2023-04-14 |
 | [The Next Level](https://open.spotify.com/track/52Da7df3ErcDwprCRADkgS) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [The Next Level](https://open.spotify.com/album/4BIBYeZSRT3z0om94NPXut) | 3:15 | 2022-12-08 | 2023-06-02 |
@@ -333,7 +334,7 @@
 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 | 2025-08-07 |  |
 | [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 | 2025-06-16 | 2025-09-09 |
 | [Trip to Scotland](https://open.spotify.com/track/2HOWJ0NsgkKTnxxKK9NUIr) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv), [Piper.Ally](https://open.spotify.com/artist/7irQApL7q6iOzs8mDY3xDz) | [Trip to Scotland](https://open.spotify.com/album/6lIQTmNrXP4CzwxVhdguDB) | 2:55 | 2024-04-18 | 2025-01-11 |
-| [Trip to USA](https://open.spotify.com/track/1iHzaNUUAq4dAH5drnioPq) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Trip to USA](https://open.spotify.com/album/6PXiP9YTgcag50QtDVUqM7) | 2:33 | 2025-06-02 |  |
+| [Trip to USA](https://open.spotify.com/track/1iHzaNUUAq4dAH5drnioPq) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Trip to USA](https://open.spotify.com/album/6PXiP9YTgcag50QtDVUqM7) | 2:33 | 2025-06-02 | 2025-09-23 |
 | [Trippie naar de klote](https://open.spotify.com/track/4Tz5h4M9dEVTJPk1x2kImp) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Steen](https://open.spotify.com/artist/4sf0XtUsKwVtg6YK72Dx2C) | [Trippie naar de klote](https://open.spotify.com/album/3yey7HNNhu0asuLy02BWuh) | 3:12 | 2023-09-21 | 2024-05-17 |
 | [U Will Be Mine](https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O), [Radium](https://open.spotify.com/artist/5YG7cC1VX7Nh7AjUOf6PcG) | [U Will Be Mine](https://open.spotify.com/album/1Z4SqaLqiOma9BMs8M8MQo) | 3:11 | 2023-03-09 | 2024-12-13 |
 | [Uit M'n Naad!](https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Uit M'n Naad!](https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx) | 3:22 | 2024-02-15 | 2024-11-09 |

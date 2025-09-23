@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: De Saloon",
-  "num_followers": 188395,
+  "num_followers": 188365,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
         "name": "La Cuenta",
         "url": "https://open.spotify.com/album/2TGDNCjdZS6w4oGFzuQMfc"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 237634,
       "name": "La Cuenta",
       "url": "https://open.spotify.com/track/1n5XbZt3DGxj0DjIgPUan2"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
-      },
-      "artists": [
-        {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
-        }
-      ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Si es de morir",
-        "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 224419,
-      "name": "Si es de morir",
-      "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "P\u00e1lida Forma Nocturna",
         "url": "https://open.spotify.com/album/15b1UP34yIQYm87kTc3uB7"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 224235,
       "name": "P\u00e1lida Forma Nocturna",
       "url": "https://open.spotify.com/track/2ptZ7SzUM4PHW7MqhBYV1q"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Si es de morir",
+        "url": "https://open.spotify.com/album/6Xgkr4wbv16obSlh6t5ne9"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 224419,
+      "name": "Si es de morir",
+      "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Punk Para Gatitos",
-        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
-      },
-      "artists": [
-        {
-          "name": "VerDor",
-          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Mech\u00f3n",
-      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
-    },
-    {
-      "added_at": "2025-09-05 03:00:38",
-      "album": {
         "name": "Bien",
         "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 177487,
       "name": "Bien",
       "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
+    },
+    {
+      "added_at": "2025-09-05 03:00:38",
+      "album": {
+        "name": "Punk Para Gatitos",
+        "url": "https://open.spotify.com/album/380arxDGMx4MMOgFZ9PwSn"
+      },
+      "artists": [
+        {
+          "name": "VerDor",
+          "url": "https://open.spotify.com/artist/68oZgpDCBYNeOCncHDrE9o"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Mech\u00f3n",
+      "url": "https://open.spotify.com/track/68PYDFoH55e9euHECfuy8o"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Como es que no gozas",
-        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
+        "name": "SUE\u00d1OS MOJADOS",
+        "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Sir Valen",
+          "url": "https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn"
+        },
+        {
+          "name": "Millonarios Depresivos",
+          "url": "https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn"
         }
       ],
-      "duration_ms": 169384,
-      "name": "Como es que no gozas",
-      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
+      "duration_ms": 144000,
+      "name": "SUE\u00d1OS MOJADOS",
+      "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1139,22 +1143,18 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "SUE\u00d1OS MOJADOS",
-        "url": "https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp"
+        "name": "Como es que no gozas",
+        "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
       },
       "artists": [
         {
-          "name": "Sir Valen",
-          "url": "https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn"
-        },
-        {
-          "name": "Millonarios Depresivos",
-          "url": "https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn"
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
         }
       ],
-      "duration_ms": 144000,
-      "name": "SUE\u00d1OS MOJADOS",
-      "url": "https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD"
+      "duration_ms": 169384,
+      "name": "Como es que no gozas",
+      "url": "https://open.spotify.com/track/6hMwYF9yok533cqZB631MN"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Relatos Falsos De Historias Verdaderas",
-        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
+        "name": "Si Se Me Apaga El Sol",
+        "url": "https://open.spotify.com/album/0Xj5Xf6g1LixZRNkn3hsYS"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 236901,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
+      "duration_ms": 226776,
+      "name": "Si Se Me Apaga El Sol",
+      "url": "https://open.spotify.com/track/7uXcUeqM5UJk6Dgmd8lild"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1447,8 +1447,8 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Mujer Primavera",
-        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
+        "name": "Relatos Falsos De Historias Verdaderas",
+        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
       },
       "artists": [
         {
@@ -1456,9 +1456,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 276431,
-      "name": "Mujer Primavera",
-      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
+      "duration_ms": 236901,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "Cayeron L\u00e1grimas",
-        "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
+        "name": "Mujer Primavera",
+        "url": "https://open.spotify.com/album/4JBPCOkcSLndKUtKDg5JZQ"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 215639,
-      "name": "Cayeron L\u00e1grimas",
-      "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
+      "duration_ms": 276431,
+      "name": "Mujer Primavera",
+      "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
     },
     {
       "added_at": "2025-09-05 03:00:38",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2025-09-05 03:00:38",
       "album": {
-        "name": "LSD",
-        "url": "https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD"
+        "name": "Cayeron L\u00e1grimas",
+        "url": "https://open.spotify.com/album/4OLMOISUPqjvgJFc4SrOak"
       },
       "artists": [
         {
@@ -1628,9 +1628,9 @@
           "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
         }
       ],
-      "duration_ms": 216149,
-      "name": "LSD",
-      "url": "https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv"
+      "duration_ms": 215639,
+      "name": "Cayeron L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3awaeive1cSrGalmCHOFtK"
     },
     {
       "added_at": "2025-09-05 03:00:38",

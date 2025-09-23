@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 148751,
+  "num_followers": 149182,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAAA5Px9ptgRVnkyGE2MIwMPG",
+  "snapshot_id": "aM9AAAAAAACs6+YUlT/4+xFNfBd9a7EG",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD II",
         "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 118000,
       "name": "NOTHING ELSE",
       "url": "https://open.spotify.com/track/10ngdDwCfjLTdFqDnkE2Jg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD II",
+        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 133944,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "California Cowboy",
         "url": "https://open.spotify.com/album/6WbSGtYjhsDT4sMbeONLBn"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 180000,
       "name": "NO LONGER BOUND",
       "url": "https://open.spotify.com/track/7anCH1IPfW8Jsjhw5ZViuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II",
-        "url": "https://open.spotify.com/album/53E5Y0zhUmgDfX7LznfMKs"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 133944,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/7lpxlWJ6GZbHTla59FKHgM"
     },
     {
       "added_at": null,

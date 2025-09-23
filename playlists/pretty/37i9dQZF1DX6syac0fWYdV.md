@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,675 likes - 259 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,702 likes - 259 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 258 | [Cable Run](https://open.spotify.com/track/5Fr2WlmdBGelDYt3IhtebD) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Cable Run](https://open.spotify.com/album/5jkliRULipBWNAsX7Cjckk) | 2:48 |
 | 259 | [Only U](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9) | [LeDorean](https://open.spotify.com/artist/33m7VtP8WxR5FhUKIMOB46) | [Only U](https://open.spotify.com/album/4RyKiSWAAV4uUaLFH0YDsX) | 3:05 |
 
-Snapshot ID: `AAAAAPdYiqtaW4VOYQ6YXLuviNYrMHkX`
+Snapshot ID: `AAAAAD44ObyGrYNEOhWmhaEuyT+v4Edz`

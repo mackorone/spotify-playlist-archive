@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 355 songs - 20 hr 19 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 356 songs - 20 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -363,5 +363,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 353 | [Au Revoir](https://open.spotify.com/track/2iFF3KireK1QxkCvUVJaQv) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Merveilles](https://open.spotify.com/album/32OKDgdDPz4zLf3FY6Fhxj) | 4:52 |
 | 354 | [Cherry Hunt \(feat\. KANON69\)](https://open.spotify.com/track/4sRSZt6c8MBpEuBHxoOmP4) | [Royal Scandal](https://open.spotify.com/artist/74X1MHqkgWa169zirFjTjh), [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [Cherry Hunt \(feat\. KANON69\)](https://open.spotify.com/album/2SSea7KXtKp5S6yOKt1tS0) | 3:50 |
 | 355 | [アイされヒビわれカガミのうた](https://open.spotify.com/track/3KwAPj5ErBvGeFufjjiAA0) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:55 |
+| 356 | [Le ciel](https://open.spotify.com/track/1tZPdST6iW1wik7zbbCUPk) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [\-merveilles\-](https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft) | 4:59 |
 
-Snapshot ID: `AAAJWDf7hdKhsPAD2Ycmtg3ePmI3QeFi`
+Snapshot ID: `AAAJWZwe9/YB7uns9WKBzljabdur9B/3`

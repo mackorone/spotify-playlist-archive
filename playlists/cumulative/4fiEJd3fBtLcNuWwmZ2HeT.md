@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-361 songs - 20 hr 45 min
+362 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 | 2023-03-28 |  |
 | [lapis lazuli](https://open.spotify.com/track/471Ij7ju21628jTjGCQX6U) | [璃依子](https://open.spotify.com/artist/0h9Bctxh6IkFpbsYhIBj07) | [lapis lazuli](https://open.spotify.com/album/5WyyjVnvOkDkTZzD63AxKW) | 4:19 | 2025-05-27 |  |
 | [Last Dance](https://open.spotify.com/track/4gM814NneKElxn37F5Ht7G) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2023-01-29 |  |
+| [Le ciel](https://open.spotify.com/track/1tZPdST6iW1wik7zbbCUPk) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [\-merveilles\-](https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft) | 4:59 | 2025-09-22 |  |
 | [Lepido](https://open.spotify.com/track/480iwKxMnM5sZsP8FjE1Y2) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Etude of clair](https://open.spotify.com/album/15PBs7XGQAByFubUi3cCJV) | 3:39 | 2025-05-20 |  |
 | [like a ghost \(feat\. Kaai Yuki\)](https://open.spotify.com/track/1EHjsmdVXK64z9MFmebp46) | [sato noco](https://open.spotify.com/artist/18VhiGitw1aRTgdMPl49EV), [Kaai Yuki](https://open.spotify.com/artist/71LWbhymyyFoWzzy6tuPGn) | [like a ghost](https://open.spotify.com/album/0x6PunvepjfphMDfuydH2h) | 2:54 | 2025-04-16 |  |
 | [Like an idiot](https://open.spotify.com/track/27j5sGsWlhwNtHz5gY5bMB) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Like an idiot](https://open.spotify.com/album/2jEG6sJvdmgYS4UzSDiE7m) | 2:10 | 2024-01-22 |  |

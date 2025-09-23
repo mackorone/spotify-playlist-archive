@@ -4,7 +4,7 @@
 
 > The future hits of today.
 
-520 songs - 1 day 0 hr 2 min
+521 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Girl on Fya](https://open.spotify.com/track/2pZvgr0hnj3724N21VvlQo) | [Ashidapo](https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Girl On Fya](https://open.spotify.com/album/2HVEcrS3FuXxOLOYAkXVl7) | 2:04 | 2025-07-18 |  |
 | [Give Me Love](https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW) | [Africaine](https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7) | [Give Me Love](https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce) | 2:32 | 2025-08-29 | 2025-09-05 |
 | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Glamorous \(feat\. Mayorkun\)](https://open.spotify.com/album/6FI7fgpszgy8ZZODsis6Pi) | 2:43 | 2025-05-23 |  |
-| [Glass Heart](https://open.spotify.com/track/1FNhsxcVa8o07FFSWCPVTC) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Glass Heart](https://open.spotify.com/album/6wzK9H8bkUJifhE2Gzr0Wu) | 2:39 | 2025-09-05 |  |
+| [Glass Heart](https://open.spotify.com/track/1FNhsxcVa8o07FFSWCPVTC) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq) | [Glass Heart](https://open.spotify.com/album/6wzK9H8bkUJifhE2Gzr0Wu) | 2:39 | 2025-09-05 | 2025-09-23 |
 | [Glory Days](https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [What Would You Do Without Me](https://open.spotify.com/album/3CsU2AsumbGOts16pjeevM) | 2:37 | 2024-06-28 | 2024-08-26 |
 | [Go Harder](https://open.spotify.com/track/1Yiiy90LfO31UDfE5SpU2a) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [Go Harder](https://open.spotify.com/album/3s7mMPvH9b5JPEIWw4esUj) | 2:20 | 2024-06-28 | 2024-07-12 |
 | [GOLIATH](https://open.spotify.com/track/6eXpEvkpwBKtgE1WfD86xV) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [GOLIATH](https://open.spotify.com/album/6D2NHn9yNM8uDrUlnpdjnp) | 2:34 | 2025-07-18 |  |
@@ -452,6 +452,7 @@
 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 | 2024-06-28 | 2024-08-09 |
 | [Tenner](https://open.spotify.com/track/2XQIhPALkOY06FrmirfYIg) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Tenner](https://open.spotify.com/album/1KSmOfVBlPziey4VpNKCyQ) | 2:36 | 2025-07-18 |  |
 | [The Guy](https://open.spotify.com/track/4aYfllHbH1K6BGsdJzwATE) | [Boylumy](https://open.spotify.com/artist/0qsHVlVaLBlhf2XKQ2mqQW) | [The Guy](https://open.spotify.com/album/5eHH4bhustYfQP9lJTPmH7) | 2:23 | 2025-07-18 | 2025-07-25 |
+| [The Matter](https://open.spotify.com/track/6tcy7IvK0ncegksr9YxNz0) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [The Matter](https://open.spotify.com/album/5a0AR2levIpBbG7n9qcvLp) | 3:01 | 2025-09-22 |  |
 | [Therapist](https://open.spotify.com/track/0EHJsg3FsmyksqKx3TOWoI) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF) | [Therapist](https://open.spotify.com/album/2dzJKHfizbfzvq6be269eK) | 2:32 | 2024-06-28 | 2024-07-19 |
 | [TIME](https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A) | [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [TIME](https://open.spotify.com/album/1U6WUqfS0r6nqlqWcwZ9vI) | 2:19 | 2025-06-13 | 2025-08-22 |
 | [Time & Season](https://open.spotify.com/track/7cUlrqnIDAas0HRyy7CWw6) | [Sean Tizzle](https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a) | [Time & Season](https://open.spotify.com/album/2xtgWLYf6ZFIpMZyQZm1JY) | 2:35 | 2024-06-28 | 2024-08-30 |

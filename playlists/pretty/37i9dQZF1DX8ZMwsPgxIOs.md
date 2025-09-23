@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Eli Brown, GeezLy
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,760 likes - 130 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,771 likes - 130 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 64 | [Tambur \- Radio Edit](https://open.spotify.com/track/0URCf0KPujKLPpeakuowNS) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Tambur \(Radio Edit\)](https://open.spotify.com/album/5VxBaoGs0ta7mF8BaC3aTp) | 2:31 |
 | 65 | [Daddy](https://open.spotify.com/track/4a7A0BmJVVk7dFNj9Qkelk) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u), [Teletech](https://open.spotify.com/artist/30tToHC6q3nB7Lious0MZW) | [Daddy](https://open.spotify.com/album/2BXDW1T6kuNHNCpCb0Q2tg) | 2:45 |
 | 66 | [No More](https://open.spotify.com/track/1pegiI6HH4jom1NyA126EV) | [Andrew Nagy](https://open.spotify.com/artist/62gVQJQGs9WNqDjBfuDING), [SKGN](https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN) | [No More](https://open.spotify.com/album/1CWQM2mVnJBN495c9wATwO) | 3:52 |
-| 67 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [8181 Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
+| 67 | [Force](https://open.spotify.com/track/41LFFaUSA9Ni8AJ9veLSEc) | [Enzo](https://open.spotify.com/artist/3yqVGerYiH2wXdwajUy8vR), [Michael Ekow](https://open.spotify.com/artist/2WImvuJ2dUdnyZDT69SROJ) | [Force](https://open.spotify.com/album/1ht2Hcl4IqBuv8EzL4dTdK) | 2:44 |
 | 68 | [Choose Life](https://open.spotify.com/track/2OkOgmVzRjhph4kawX1MHF) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq) | [Choose Life](https://open.spotify.com/album/2KzcNZkZJ7tbBMcizN3e5x) | 3:34 |
 | 69 | [gImmE gImmE](https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [gImmE gImmE](https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82) | 3:17 |
 | 70 | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Hypnotic \(feat\. Kyozo\)](https://open.spotify.com/album/2e8VG70c6hFcOnSbc0wIhD) | 4:09 |

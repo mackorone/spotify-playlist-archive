@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: David Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,933 likes - 79 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,931 likes - 79 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

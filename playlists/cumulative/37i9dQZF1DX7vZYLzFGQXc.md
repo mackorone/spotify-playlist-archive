@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: DADADA\) \(Meet the emerging talents of Korea!\)
 
-1,598 songs - 3 day 17 hr 48 min
+1,600 songs - 3 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -894,7 +894,7 @@
 | [More](https://open.spotify.com/track/0URs0ivr9IZ3cl75OukHEJ) | [BAMSEM](https://open.spotify.com/artist/4DbMJOPKyI9wHlnBO6L492) | [White Carnival : 21](https://open.spotify.com/album/54k7UALVtpbb1uzPM41nzT) | 3:51 | 2021-12-02 | 2022-01-11 |
 | [More \(Feat\. woOnim\)](https://open.spotify.com/track/4PNIDvCgc40KlVWVkNdUwF) | [Daehan](https://open.spotify.com/artist/1OfRPrepoCciCk7oDpIbAO), [WoOnim](https://open.spotify.com/artist/7CGyRLtNG8TvIT8rNmQAL1) | [More](https://open.spotify.com/album/3Px4xcVNPjJtDz4FU2qHm6) | 3:22 | 2024-04-03 | 2024-08-02 |
 | [More and More](https://open.spotify.com/track/7dudDzqxkOs74CED8gXcKO) | [SOIN](https://open.spotify.com/artist/7EOsjIvg3a2dPyMW6XNn4U) | [More and More](https://open.spotify.com/album/0tAgvFyBpDkoTCbAxsu73h) | 3:18 | 2022-08-18 | 2022-10-15 |
-| [More Than Friends \(Feat\. Soo Yeony\)](https://open.spotify.com/track/3RFzd788ves2g2cSSbNrSW) | [PANEB](https://open.spotify.com/artist/3vzT1P9ipDAhyO1hJ3GZ5R), [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [More Than Friends](https://open.spotify.com/album/75X1QOjIiEtmYYVp1u1H3A) | 2:56 | 2025-06-16 |  |
+| [More Than Friends \(Feat\. Soo Yeony\)](https://open.spotify.com/track/3RFzd788ves2g2cSSbNrSW) | [PANEB](https://open.spotify.com/artist/3vzT1P9ipDAhyO1hJ3GZ5R), [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [More Than Friends](https://open.spotify.com/album/75X1QOjIiEtmYYVp1u1H3A) | 2:56 | 2025-06-16 | 2025-09-23 |
 | [Morning](https://open.spotify.com/track/62gf2fft5H9FM4H5s4fPLJ) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Morning](https://open.spotify.com/album/2IXgInYjof7yiyDS5BxBDc) | 3:26 | 2025-05-02 | 2025-07-23 |
 | [Morning Coffee](https://open.spotify.com/track/1KH1fP5NAN04rOqToDCewI) | [Odett](https://open.spotify.com/artist/093wAdPoQ0xBtB5Drjqd63) | [Morning Coffee](https://open.spotify.com/album/0WDC5MXoBXqZW9x1SohHbz) | 3:15 | 2023-05-01 | 2023-07-27 |
 | [MOTEL CALIFORNIA](https://open.spotify.com/track/4ptwR85sZUJghuTezDReht) | [mOOn](https://open.spotify.com/artist/6buvvKH2iRe1lunqlpOJpc), [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [DR.RED](https://open.spotify.com/artist/3xCduQwGgxBE5p1Vg07hc3) | [MOTEL CALIFORNIA](https://open.spotify.com/album/5R7HKqj5L8c7Ot7BlGA4GU) | 3:38 | 2022-07-04 | 2022-09-06 |
@@ -1311,6 +1311,7 @@
 | [The Regret of Yesterday](https://open.spotify.com/track/2eLPb8yBpSTb6LHWWmzUAN) | [SOSEOM](https://open.spotify.com/artist/4y3jFtAJVCGQkFDj5ezM0c) | [22](https://open.spotify.com/album/22R95NSDqjk64OHoqN4TQt) | 4:07 | 2022-09-05 | 2023-01-12 |
 | [The sea](https://open.spotify.com/track/1eDhGNj67wdDftrPhy2A7e) | [Choi](https://open.spotify.com/artist/0mCfY94zBDWy5URZg6cjq0) | [The sea](https://open.spotify.com/album/5LXFBqEZhdcxd4WzfFHIZj) | 3:26 | 2022-02-04 | 2023-01-12 |
 | [The season I meet you](https://open.spotify.com/track/4VCrdd23am0kJMYA77CM8h) | [One Room Romance](https://open.spotify.com/artist/3Swx3mwoDGYx8OrKtHBkLm) | [The season I meet you](https://open.spotify.com/album/4jRN3QISWJkBkPrMMTAJlj) | 4:26 | 2023-01-30 | 2023-02-09 |
+| [The Summer We Shared](https://open.spotify.com/track/0BtqyDF7zslNB6aXx1sQZl) | [TOVE](https://open.spotify.com/artist/0wF5o1LMXTCIFKdPNkCvze) | [Echoes of Summer](https://open.spotify.com/album/5SRvSeWEjPKy2dqBUkUxeb) | 3:03 | 2025-09-22 |  |
 | [The Swing](https://open.spotify.com/track/4hgPMm9DE4CWGc064SsrkL) | [Seo Gi](https://open.spotify.com/artist/41s4WWJTaYrBtw2K1rYPiI) | [Rest](https://open.spotify.com/album/2vBXacSI1cG9JtZRfXDmvC) | 3:12 | 2021-12-02 | 2022-01-11 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-18 | 2022-07-05 |
 | [The things that I couldn't say](https://open.spotify.com/track/1cgEZZHQlt31X70f1PSELf) | [Lim Zian](https://open.spotify.com/artist/6y7rlnP4g02oK4eQw0vJTo) | [The things that I couldn't say](https://open.spotify.com/album/5SvoINehSBdlY2dNiEOpzt) | 3:25 | 2022-09-29 | 2022-12-01 |
@@ -1399,7 +1400,7 @@
 | [Ungodly Hour](https://open.spotify.com/track/3mB2Avm1nBMtxpZumvmdVy) | [Kisnue](https://open.spotify.com/artist/64A4Dn0L0xf7GTreuOgJ1F) | [Ungodly Hour](https://open.spotify.com/album/1HEcdNKpssVwc7L25PTiul) | 2:59 | 2022-07-04 | 2022-08-19 |
 | [UNIVERSE](https://open.spotify.com/track/19GLfqArY51fIMhPKd1b4a) | [Choi Hyebin](https://open.spotify.com/artist/4tStS5DVtaaJZBF34baMJL) | [UNIVERSE](https://open.spotify.com/album/3Rc6DASqFIvy6cDyYGJmyH) | 3:45 | 2022-03-23 | 2022-05-03 |
 | [Until You](https://open.spotify.com/track/1L5JFGfnXeVby01GXRpD22) | [Lim Ji Soo](https://open.spotify.com/artist/1ep5wuvTxwDwBP12DBeM4H) | [Until You](https://open.spotify.com/album/6KEqSI4dlI22hHeWMo9Ulq) | 3:01 | 2024-01-08 | 2025-01-21 |
-| [Untitled](https://open.spotify.com/track/7IZ9Q7X5DhyRpC7r64LNqI) | [heegyu](https://open.spotify.com/artist/7F4ElN9gP2tuyqZ2YIhicX) | [Untitled](https://open.spotify.com/album/2i9tPaIgUtl8Pw8xygrW8G) | 3:03 | 2025-06-16 |  |
+| [Untitled](https://open.spotify.com/track/7IZ9Q7X5DhyRpC7r64LNqI) | [heegyu](https://open.spotify.com/artist/7F4ElN9gP2tuyqZ2YIhicX) | [Untitled](https://open.spotify.com/album/2i9tPaIgUtl8Pw8xygrW8G) | 3:03 | 2025-06-16 | 2025-09-23 |
 | [UNTITLED \(무제\)](https://open.spotify.com/track/4n8GxpqaHvRdTNloha1NdC) | [TOMMY](https://open.spotify.com/artist/5DeeiAyO94Cmt1QUAZcTLx) | [UNTITLED \(무제\)](https://open.spotify.com/album/3UcLTx6iaM7Pxg9RS6MNzb) | 3:20 | 2022-01-10 | 2022-01-28 |
 | [UoU](https://open.spotify.com/track/1Er4Us9efoj7yyAZQ7CNd4) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [UoU](https://open.spotify.com/album/5OuzEfhlKMTT2gAXJZqyGp) | 2:36 | 2024-09-02 | 2025-02-04 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-02 | 2022-01-11 |
@@ -1496,6 +1497,7 @@
 | [Wonderland](https://open.spotify.com/track/1LGiCuNQkpiGT77ufraX82) | [Lym en](https://open.spotify.com/artist/3iezENWrsyQSutsDx3dXD5) | [Wonderland](https://open.spotify.com/album/1vJzcxh4vBSTAg9CpD2f34) | 2:05 | 2021-12-02 | 2022-01-11 |
 | [Wonderland](https://open.spotify.com/track/758pid2Z5zWhM18otoQpWr) | [Silly](https://open.spotify.com/artist/4JXlTN0w1WwcrEu4QCQCjd) | [Silly in Wonderland](https://open.spotify.com/album/68O779NMzU198NV9DsIN6w) | 2:05 | 2022-11-07 | 2023-02-01 |
 | [Woo\~](https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 2:47 | 2022-11-07 | 2023-02-09 |
+| [Worry Monster](https://open.spotify.com/track/5EdaSMC0jEg3h8ByazJmjT) | [Yeon seo](https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl) | [Worry Monster](https://open.spotify.com/album/0DxeZn68faBLSdUZeoPLDv) | 2:47 | 2025-09-22 |  |
 | [Wounded Heart](https://open.spotify.com/track/1XSb5DFDpPLOudodZ8zJ7G) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr) | [Poong, the Joseon Psychiatrist2 \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/4NB44IaxN0aVXyCbP21Tvm) | 4:24 | 2023-02-08 | 2023-05-02 |
 | [WoW!!!](https://open.spotify.com/track/4Tet1FMPZCHkiXNLx6Fq16) | [COOING](https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8) | [Baby Flower](https://open.spotify.com/album/5vWtlYW4MDqhtKdbLOLgYK) | 3:18 | 2021-12-02 | 2022-01-11 |
 | [wowowo](https://open.spotify.com/track/6B9aEDU07XxU20Ge7715TF) | [BRWN](https://open.spotify.com/artist/6pH5e4QpMdXPvvEGCVaHPn) | [Yours Truly](https://open.spotify.com/album/7rd5zxIdosnoSrVqFmIHZT) | 2:54 | 2023-07-27 | 2024-03-06 |

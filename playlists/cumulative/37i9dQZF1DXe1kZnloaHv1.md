@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-113 songs - 6 hr 5 min
+114 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [WHAT](https://open.spotify.com/track/3CPtRIybgrYhldTswmLdtq) | [Plum](https://open.spotify.com/artist/4srsioGBsXTm1SM18U5TeZ) | [WHAT](https://open.spotify.com/album/0UxmZV8hLl69za8DZ4dfVH) | 3:31 | 2023-11-09 | 2025-05-08 |
 | [When do I get that chicken?](https://open.spotify.com/track/2qeNam9eMMKZ5TuFjbDMkF) | [OFF THE TOWN](https://open.spotify.com/artist/51BaBbyJMybOQKMUSYhi0z) | [When do I get that chicken?](https://open.spotify.com/album/3gio8FNEYMEB9CwKyzOtjI) | 3:16 | 2024-10-08 |  |
 | [Why Would I](https://open.spotify.com/track/3eM97YUH843ud44wHHQtjB) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [Why Would I](https://open.spotify.com/album/5B36kfBGZVKH1xC5H0MqGu) | 2:56 | 2023-11-09 |  |
+| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2025-09-22 |  |
 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 | 2024-03-29 |  |
 | [YES MAN](https://open.spotify.com/track/55EwqptSKkVJjdaJG8LlQN) | [MongDoll](https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf) | [YES MAN](https://open.spotify.com/album/7MsumZ5RaI96ToAiBhs36v) | 3:33 | 2025-06-04 |  |
 | [YOLO!!](https://open.spotify.com/track/58ArJNuSY3iTL6SyTVtMhw) | [Hongbi](https://open.spotify.com/artist/7C016qCdmnw6SsBk0D6MlD) | [YOLO!!](https://open.spotify.com/album/5pgMsHengwvJz9vYopbFGj) | 3:29 | 2023-11-09 | 2024-04-19 |

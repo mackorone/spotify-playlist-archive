@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Tame Impala✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,336 likes - 188 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,339 likes - 188 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAAAIskWRiuNFS3bGiFRuFBA4",
+  "snapshot_id": "aM9AAAAAAAC1SQRVvC4ebpmLvWf/0fgu",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enferma Despedida",
-        "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Enferma Despedida",
-      "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Plan B",
         "url": "https://open.spotify.com/album/7h1x794Hla1SRPGMvf2ve1"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 187786,
       "name": "Sin Plan B",
       "url": "https://open.spotify.com/track/0l2UZXjizWAHzdI8w64RV0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enferma Despedida",
+        "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Enferma Despedida",
+      "url": "https://open.spotify.com/track/48WuFR4lmQPfSRpxvvHiGp"
     },
     {
       "added_at": null,

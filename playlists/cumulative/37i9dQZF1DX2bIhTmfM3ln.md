@@ -4,7 +4,7 @@
 
 > Single people dey suffer
 
-842 songs - 1 day 16 hr 47 min
+843 songs - 1 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Suloli](https://open.spotify.com/track/5BrImD8IsViJmOmODTZJTo) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Suloli](https://open.spotify.com/album/3WHNl4napJQ87W8Hxl5bnF) | 2:44 | 2025-03-07 | 2025-04-01 |
 | [Sunflawa](https://open.spotify.com/track/1AwhPCb0PmBTWReUSPzGwS) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Sunflawa](https://open.spotify.com/album/2pNhCqk1IJvwnBjeULmoNz) | 2:33 | 2023-08-03 | 2024-08-31 |
 | [Sunmomi](https://open.spotify.com/track/1Pjyw4lq49jK6TRprYKnze) | [Naka](https://open.spotify.com/artist/52DXXortL8zEG5MqscRQmn), [Demi Mulla](https://open.spotify.com/artist/3sjh5nINlAnwcXW6ugUzVH) | [Sunmomi](https://open.spotify.com/album/2KtvQiuSit87frcTKKtWpN) | 2:59 | 2024-06-14 | 2024-07-21 |
+| [Sunny Ade](https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70) | [STUBBORN](https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Sunny Ade](https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt) | 2:47 | 2025-09-19 |  |
 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 | 2023-02-16 | 2023-02-24 |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-10 | 2023-09-15 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-28 | 2024-08-26 |
@@ -817,7 +818,7 @@
 | [Why](https://open.spotify.com/track/5RnAlrUxLZmBGhgICz5ggZ) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Why](https://open.spotify.com/album/7fkJBL9ScE5npaKTjOTkWm) | 2:45 | 2023-03-17 | 2023-04-21 |
 | [Why?](https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Why?](https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M) | 3:04 | 2023-09-14 | 2023-09-29 |
 | [Wife Material](https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys) | [Wife Material](https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G) | 2:57 | 2025-09-19 |  |
-| [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 | 2025-02-14 |  |
+| [Wifey](https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN) | [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [LCV3: Sweet Surrender.](https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M) | 3:44 | 2025-02-14 | 2025-09-23 |
 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 | 2024-08-25 | 2024-11-24 |
 | [Winner](https://open.spotify.com/track/0VNpGyvGm4x4G78K2htr5Y) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [Winner](https://open.spotify.com/album/5qHcpK4aGNBpAXkxk3XBd0) | 2:53 | 2022-11-04 | 2022-11-12 |
 | [WINNER](https://open.spotify.com/track/14FRaNhhJ0hbgtFdY48Ed1) | [Dr Dolor](https://open.spotify.com/artist/4ydQQWXr6EfZwY2fyDSdJe), [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [WINNER](https://open.spotify.com/album/38OBkuvhiliWmf7N2sllyP) | 2:53 | 2022-11-04 | 2022-11-29 |

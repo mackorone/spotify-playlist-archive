@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,643 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,630 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,28 +45,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 35 | [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 |
 | 36 | [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 |
 | 37 | [Plot Twist](https://open.spotify.com/track/3ZQIzhgJSiNws3xxqDn9oX) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Plot Twist](https://open.spotify.com/album/4x3ao3y5BzmfYgm8pZ76DV) | 2:26 |
-| 38 | [Love Your Flower](https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [Love Your Flower](https://open.spotify.com/album/4DnObuoZoENbimDi6adEZp) | 3:10 |
-| 39 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
+| 38 | [Soap \(feat\. PinkPantheress\)](https://open.spotify.com/track/02gYTLDCIGVM9Y9r4vDb2a) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Soft Error](https://open.spotify.com/album/1FKp8rzndJTPygzxV8rq98) | 2:27 |
+| 39 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 |
 | 40 | [Sky Walking](https://open.spotify.com/track/0SJzs1VTchEROi7Jvf8uEV) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Sky Walking](https://open.spotify.com/album/1G5VpC9ZzdG1jDm1xqjfGy) | 4:12 |
 | 41 | [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 |
 | 42 | [Be Alright](https://open.spotify.com/track/0OnWu3G0i9Kg4Mqha5QvvH) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Be Alright](https://open.spotify.com/album/6DWLBLfRNofRfjgKozFKKV) | 2:51 |
 | 43 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 |
 | 44 | [Crazier](https://open.spotify.com/track/5ZwQd0GrdvqyM0OmUGSEYB) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Crazier \- The 11th Album](https://open.spotify.com/album/7oHYGWTIBkoJLcg0ybZcbj) | 2:41 |
-| 45 | [FAMOUS](https://open.spotify.com/track/598bDTl82CSTSDnZG0XhGK) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [FAMOUS](https://open.spotify.com/album/7qt0DzSQqJOPliOA7Wkb5x) | 3:00 |
-| 46 | [Girls Will Be Girls](https://open.spotify.com/track/6hcT29EF7UYuwu76eqlys9) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/7tf7oSJn5ANhnk6ebP2iFp) | 2:48 |
-| 47 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
-| 48 | [Don't Touch](https://open.spotify.com/track/4oMYjkb2TPjiC01owjrAB0) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Don't Touch](https://open.spotify.com/album/5nMo3OStsZNGqLxtuE0zfr) | 3:21 |
-| 49 | [DOREMI](https://open.spotify.com/track/5sDqhLuWrPyy0HWL4AYMe8) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/6R8YM1EtrlW6mOQTg93k9j) | 3:44 |
-| 50 | [loverboy](https://open.spotify.com/track/4H7mZef7MeCkU2BgsG0lLh) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:32 |
-| 51 | [Sensitive](https://open.spotify.com/track/0ZMgXnTp7LYIRwplJ287Eb) | [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Sensitive](https://open.spotify.com/album/2EIV94ZKTReh9azuzXIznj) | 3:00 |
-| 52 | [Weather Diary](https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Weather Diary](https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL) | 3:04 |
-| 53 | [BBB \(feat\. CHUU\)](https://open.spotify.com/track/7teSwvY24pM0s7UpCm8QkJ) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [BBB](https://open.spotify.com/album/2NR8lgTAAD0RLX6deLR8hR) | 2:58 |
-| 54 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 |
+| 45 | [Girls Will Be Girls](https://open.spotify.com/track/6hcT29EF7UYuwu76eqlys9) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/7tf7oSJn5ANhnk6ebP2iFp) | 2:48 |
+| 46 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 |
+| 47 | [Don't Touch](https://open.spotify.com/track/4oMYjkb2TPjiC01owjrAB0) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Don't Touch](https://open.spotify.com/album/5nMo3OStsZNGqLxtuE0zfr) | 3:21 |
+| 48 | [DOREMI](https://open.spotify.com/track/5sDqhLuWrPyy0HWL4AYMe8) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [I Miss My...](https://open.spotify.com/album/6R8YM1EtrlW6mOQTg93k9j) | 3:44 |
+| 49 | [loverboy](https://open.spotify.com/track/4H7mZef7MeCkU2BgsG0lLh) | [ifeye](https://open.spotify.com/artist/1g971p3BXozVYNCn7JRMNa) | [sweet tang](https://open.spotify.com/album/464og3a6TdySFWC2hEq1TW) | 2:32 |
+| 50 | [Sensitive](https://open.spotify.com/track/0ZMgXnTp7LYIRwplJ287Eb) | [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Sensitive](https://open.spotify.com/album/2EIV94ZKTReh9azuzXIznj) | 3:00 |
+| 51 | [Weather Diary](https://open.spotify.com/track/6wviWs78JSuGTNRtc7Dto3) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Weather Diary](https://open.spotify.com/album/5bOgWbYz7fo86vNSPmX0wL) | 3:04 |
+| 52 | [BBB \(feat\. CHUU\)](https://open.spotify.com/track/7teSwvY24pM0s7UpCm8QkJ) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [BBB](https://open.spotify.com/album/2NR8lgTAAD0RLX6deLR8hR) | 2:58 |
+| 53 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 |
+| 54 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
 | 55 | [Higher](https://open.spotify.com/track/0uQfBXKmq6LEEpgSn42ZdU) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Higher](https://open.spotify.com/album/2eSoUNp5QhPryJ26vPJYbn) | 2:51 |
-| 56 | [RRRUN](https://open.spotify.com/track/1jEWwhaO36A2LTOvbsw9W0) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [RRRUN](https://open.spotify.com/album/4lxvoKGPXxAe22qMLarboC) | 3:18 |
-| 57 | [HANDS UP](https://open.spotify.com/track/4mNPtNfIp4vSlW2z0I7Bgm) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:12 |
-| 58 | [BEEP](https://open.spotify.com/track/0YjIGs3jqdOgJxHCRWvDS1) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/2aZnUsMEZ029MODdnob3ka) | 2:44 |
-| 59 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
+| 56 | [HANDS UP](https://open.spotify.com/track/4mNPtNfIp4vSlW2z0I7Bgm) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [MY EYES OPEN VVIDE](https://open.spotify.com/album/0PdpYy9Pe9vZkiDtCMnXRV) | 3:12 |
+| 57 | [BEEP](https://open.spotify.com/track/0YjIGs3jqdOgJxHCRWvDS1) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/2aZnUsMEZ029MODdnob3ka) | 2:44 |
+| 58 | [Lips Hips Kiss](https://open.spotify.com/track/5Q4DLsIx0Fl0IDCCWHsLlH) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [224](https://open.spotify.com/album/20GxuSxICpXyRYkoqRjthR) | 3:09 |
+| 59 | [RRRUN](https://open.spotify.com/track/1jEWwhaO36A2LTOvbsw9W0) | [X:IN](https://open.spotify.com/artist/2nr8bylnNeelcA9SJvwmuu) | [RRRUN](https://open.spotify.com/album/4lxvoKGPXxAe22qMLarboC) | 3:18 |
 | 60 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 |
 | 61 | [Good Thing](https://open.spotify.com/track/3GFeuIIJQDgCpVHjsLkEgw) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [We are](https://open.spotify.com/album/1t6JFkzuqg7Wb7SzkHkheH) | 2:34 |
 | 62 | [LIKE YOU BETTER](https://open.spotify.com/track/7t4Z19BqZ23ExgdiOP0nf6) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From Our 20's](https://open.spotify.com/album/3jGURiEnUi4OoN879bBz0V) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 79 | [FREESTYLE](https://open.spotify.com/track/2irWsdZn8v8NEzyr08JTTN) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [Growing Pain pt.1 : FREE](https://open.spotify.com/album/5Nfxo1U4jKI13JB4nPimOJ) | 2:20 |
 | 80 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 |
 
-Snapshot ID: `AAAAAPTJYG5hrZYtDAMjGbhWjHxeNiR3`
+Snapshot ID: `AAAAAP4xt/QgMdWgIdOk28oDUF+s9tFP`

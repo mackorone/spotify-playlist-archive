@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 470014,
+  "num_followers": 470016,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Walking On A Dream (BLOND:ISH Remix)",
-        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 191849,
-      "name": "Walking On A Dream - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "More Than A Woman (SG's Paradise Edit)",
         "url": "https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Walking On A Dream (BLOND:ISH Remix)",
+        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 191849,
+      "name": "Walking On A Dream - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Wait So Long (RE\\MIND Remix)",
-        "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "RE\\MIND",
-          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
-        }
-      ],
-      "duration_ms": 289959,
-      "name": "Wait So Long - RE\\MIND Remix",
-      "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "JOY (Back on 74)",
         "url": "https://open.spotify.com/album/4HYWB8dT9bJHIZnVLU2D6z"
       },
@@ -1043,26 +1023,42 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Blessings - The Remixes (Part 1)",
-        "url": "https://open.spotify.com/album/2jKX83sjxv0Jwk35xBR0Us"
+        "name": "Wait So Long (RE\\MIND Remix)",
+        "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+          "name": "RE\\MIND",
+          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
         }
       ],
-      "duration_ms": 226285,
-      "name": "Blessings - CamrinWatsin Remix",
-      "url": "https://open.spotify.com/track/3bErnntUPcW8jLbixhpZmQ"
+      "duration_ms": 289959,
+      "name": "Wait So Long - RE\\MIND Remix",
+      "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     }
   ],
   "unique_name": "Massive Pop Remixes",

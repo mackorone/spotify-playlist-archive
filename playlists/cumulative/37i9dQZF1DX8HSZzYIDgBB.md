@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Simon Grossmann en portada.
 
-386 songs - 23 hr 7 min
+387 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Acuario \- Solo San Remix](https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Acuario \(Solo San Remix\)](https://open.spotify.com/album/17ZVFGoiLYTGmhsRfNdmso) | 2:54 | 2023-04-13 | 2023-12-07 |
 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 | 2021-10-05 | 2022-03-31 |
 | [Agua que Llegó](https://open.spotify.com/track/1WBC4Eg7S6448UzcZP7tYi) | [La Marimba](https://open.spotify.com/artist/7MX1qcF0L9NKjXkXiLtbAx) | [Agua que Llegó](https://open.spotify.com/album/7A2qFodTELKiPiZjcxrMdV) | 4:01 | 2025-09-05 |  |
+| [Agua Que Quema](https://open.spotify.com/track/4ZycfilbjT0c4s9p4qFuO6) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/66AvzyLo1w8c1EsejEY4Oj) | 3:19 | 2025-09-05 |  |
 | [Aguacero](https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Aguacero](https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW) | 3:55 | 2021-10-05 | 2023-04-01 |
 | [Aguaepanela Fantástica](https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt) | [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Aguaepanela Fantástica](https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j) | 4:15 | 2021-11-12 | 2023-03-03 |
 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 | 2023-03-31 |  |
@@ -373,7 +374,7 @@
 | [Vecinos En El Mar](https://open.spotify.com/track/195eYP40HulXbt0kNt3Cnz) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:37 | 2024-10-04 | 2025-07-26 |
 | [Ven Vamos](https://open.spotify.com/track/0cHpCzglPxJodZNGM5DsRD) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Ven Vamos](https://open.spotify.com/album/3E8idq0ECWEwgb8FpbZCdG) | 3:23 | 2022-09-26 | 2023-12-07 |
 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 | 2024-05-30 |  |
-| [Volverás a Llamar](https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Volverás a Llamar](https://open.spotify.com/album/7x98IPmwThfve4z6q4XQhv) | 2:38 | 2025-01-16 |  |
+| [Volverás a Llamar](https://open.spotify.com/track/5EAASyevtYMrgegzHmfuG5) | [Era de Oro](https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7), [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Volverás a Llamar](https://open.spotify.com/album/7x98IPmwThfve4z6q4XQhv) | 2:38 | 2025-01-16 | 2025-09-23 |
 | [Voy a Hacer las Cosas Lento](https://open.spotify.com/track/2giVbMc5SuyJedv7JaWr9o) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Voy a Hacer las Cosas Lento](https://open.spotify.com/album/4is8Xi19Eijn9e16KgaipK) | 3:28 | 2021-10-05 | 2022-03-31 |
 | [Voy Por Ella](https://open.spotify.com/track/3kGLHoG47OkMxwzrxZGOeX) | [Tipa Tipo](https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24) | [Voy Por Ella](https://open.spotify.com/album/7mPcPYrGSlusx5TQYZyHzY) | 3:36 | 2023-02-17 | 2023-12-07 |
 | [Voy Por Ella](https://open.spotify.com/track/53E0EchJuqWr7eDLTeiIrw) | [Tipa Tipo](https://open.spotify.com/artist/0xfUzLC0QSL3SQLrKoud24) | [Voy Por Ella](https://open.spotify.com/album/7lOmrwEBJaJ0Agg5IIZBVY) | 3:36 | 2023-05-05 | 2024-04-19 |

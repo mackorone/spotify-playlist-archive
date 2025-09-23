@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 73958,
+  "num_followers": 73969,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Over & Over",
+        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "In The Shadow",
+      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "How You Feel (Ft. Leven Kali)",
         "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 196853,
       "name": "How You Feel (Ft. Leven Kali)",
       "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "In The Shadow",
-      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
     },
     {
       "added_at": "2024-12-04 12:15:00",

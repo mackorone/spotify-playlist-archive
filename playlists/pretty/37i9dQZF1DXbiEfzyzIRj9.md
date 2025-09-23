@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: Sammy Virji
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,114 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,108 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 91 | [4am](https://open.spotify.com/track/6WbD3aKWfbOQNsrShunW6o) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [NEW SKIN](https://open.spotify.com/album/34cWNhZY4Z8OWtlNoXAbm2) | 2:41 |
 | 92 | [Broken \- Frost Remix](https://open.spotify.com/track/6R0WGHq0jJjXn8UXiuSsgA) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [Twofold \(Deluxe\)](https://open.spotify.com/album/2Z0rXASECi2XP6iSKNuqQB) | 3:48 |
 | 93 | [Echoes feat\. Aile The Shota](https://open.spotify.com/track/1iw02L4YO5K6wlcDM0rAcp) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Echoes feat\. Aile The Shota](https://open.spotify.com/album/3wh9fOOwGxXmjicOYbFKtn) | 5:22 |
-| 94 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
+| 94 | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back \(feat\. George Riley\)](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 |
 | 95 | [DOUBLE C \- From F1® The Movie](https://open.spotify.com/track/7jtFKlVjEgIBNaSOrAivCw) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [DOUBLE C \(From F1® The Movie\)](https://open.spotify.com/album/0O7QslR65hRgv9YO2X4PuM) | 3:46 |
 | 96 | [Weekend](https://open.spotify.com/track/4fv1qeXHQA1gGoA7TKYm3g) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Trip](https://open.spotify.com/artist/0wy1aZ1F0C9LYA49ol6QQW) | [Weekend](https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND) | 3:16 |
 | 97 | [Kiki, I Wanna Dance With You](https://open.spotify.com/track/2ZKSx4bbF4R4JKBaAKyb00) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Kiki, I Wanna Dance With You](https://open.spotify.com/album/4NMcOpDQVEo3pJaUgoicZ5) | 3:04 |

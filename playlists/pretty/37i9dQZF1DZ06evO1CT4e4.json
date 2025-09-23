@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 9581,
+  "num_followers": 9586,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAABUtfRfdP2JmZd4E13xdxjK",
+  "snapshot_id": "aM9AAAAAAADgPCwjh3rTPNg+xLBDYLxO",
   "tracks": [
     {
       "added_at": null,
@@ -111,46 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 706693,
-      "name": "Fratres (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Alina",
-        "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Alexander Malter",
-          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
-        }
-      ],
-      "duration_ms": 647973,
-      "name": "F\u00fcr Alina - Extended Version",
-      "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: The Deer's Cry",
         "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
@@ -175,6 +135,46 @@
       "duration_ms": 152546,
       "name": "Veni creator",
       "url": "https://open.spotify.com/track/7vU6uArKT6ONVogJQ6tl2n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Alina",
+        "url": "https://open.spotify.com/album/69iw6Zy6fh2dSnEgBTZKJE"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alexander Malter",
+          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
+        }
+      ],
+      "duration_ms": 647973,
+      "name": "F\u00fcr Alina - Extended Version",
+      "url": "https://open.spotify.com/track/2Lio4KTzsA8BPLhXmyo4CQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 706693,
+      "name": "Fratres (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/5K3Is3Xgg3jToIvbqBZiTL"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: Mommy\u2019s Kiss",
-        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
       },
       "artists": [
         {
@@ -568,13 +568,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 71613,
-      "name": "Mommy\u2019s Kiss",
-      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
+      "duration_ms": 362613,
+      "name": "Summa",
+      "url": "https://open.spotify.com/track/7a6AlKiNWFSA33WzF2SBi7"
     },
     {
       "added_at": null,
@@ -616,97 +620,29 @@
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 141731,
-      "name": "7 Magnificat-Antiphons: No. 5, O Morgenstern",
-      "url": "https://open.spotify.com/track/3JYiZbWHhodannmHLo2TtF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 362613,
-      "name": "Summa",
-      "url": "https://open.spotify.com/track/7a6AlKiNWFSA33WzF2SBi7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        }
-      ],
-      "duration_ms": 401800,
-      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 128866,
-      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 4, Tanz der Entenk\u00fcken",
-      "url": "https://open.spotify.com/track/3hMBeAS7ahfF0t1iPMtmii"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
       "duration_ms": 141471,
       "name": "7 Magnificat-Antiphons: No. 2, O Adonai",
       "url": "https://open.spotify.com/track/3OwgcVXrVg9jkxEsq3v2hK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Mommy\u2019s Kiss",
+        "url": "https://open.spotify.com/album/4p0C4LlhbMZuxolzE0e9W4"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 71613,
+      "name": "Mommy\u2019s Kiss",
+      "url": "https://open.spotify.com/track/2jlfF9g0EXsJqTIkPeswFo"
     },
     {
       "added_at": null,
@@ -731,6 +667,70 @@
       "duration_ms": 92146,
       "name": "Drei Hirtenkinder aus F\u00e1tima",
       "url": "https://open.spotify.com/track/2Z8H9xYg27MLnviLZ1uMfF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 87173,
+      "name": "F\u00fcr Anna Maria",
+      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 141731,
+      "name": "7 Magnificat-Antiphons: No. 5, O Morgenstern",
+      "url": "https://open.spotify.com/track/3JYiZbWHhodannmHLo2TtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+        "url": "https://open.spotify.com/album/5ehE2GyzuCJOTsTsFFulCH"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        }
+      ],
+      "duration_ms": 401800,
+      "name": "Lamentate: Fragile e conciliante (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/6cuOsovElnIdZLC0d6yF75"
     },
     {
       "added_at": null,
@@ -772,9 +772,33 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         }
       ],
-      "duration_ms": 87173,
-      "name": "F\u00fcr Anna Maria",
-      "url": "https://open.spotify.com/track/4T2SFS1klvR8X4eNrEopBu"
+      "duration_ms": 128866,
+      "name": "Vier leichte Tanzst\u00fccke \u201cMusik f\u00fcr Kindertheater\u201d: No. 4, Tanz der Entenk\u00fcken",
+      "url": "https://open.spotify.com/track/3hMBeAS7ahfF0t1iPMtmii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        },
+        {
+          "name": "Gvantsa Buniatishvili",
+          "url": "https://open.spotify.com/artist/3SlL3lwEbCEA8S8E0VIqKN"
+        }
+      ],
+      "duration_ms": 470106,
+      "name": "Pari intervallo",
+      "url": "https://open.spotify.com/track/1E9UZJsQaI6T5i5kthsgRS"
     },
     {
       "added_at": null,
@@ -827,30 +851,6 @@
       "duration_ms": 238520,
       "name": "Sequentia",
       "url": "https://open.spotify.com/track/6qiehLuElgUdQlxN0CGgYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/5YuoyZkNZRLYISzFh7cS7e"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Khatia Buniatishvili",
-          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
-        },
-        {
-          "name": "Gvantsa Buniatishvili",
-          "url": "https://open.spotify.com/artist/3SlL3lwEbCEA8S8E0VIqKN"
-        }
-      ],
-      "duration_ms": 470106,
-      "name": "Pari intervallo",
-      "url": "https://open.spotify.com/track/1E9UZJsQaI6T5i5kthsgRS"
     },
     {
       "added_at": null,

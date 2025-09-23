@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,814 songs - 5 day 3 hr 25 min
+1,815 songs - 5 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1555,6 +1555,7 @@
 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 | 2023-02-24 | 2024-03-23 |
 | [Tapes & Money](https://open.spotify.com/track/3qAGyTVGWolhufiU4eAvJF) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Trouble](https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP) | 3:40 | 2020-02-29\* | 2020-03-16 |
 | [Targo](https://open.spotify.com/track/2dlVudZxj2ge247S552eHm) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 5:16 | 2022-12-28 | 2023-01-06 |
+| [Teahupoo](https://open.spotify.com/track/5ajDAV7woLiE3fbzjmGJeR) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Teahupoo](https://open.spotify.com/album/7t395XjOwd8MjYHEsI1tgr) | 3:22 | 2025-09-19 |  |
 | [Teardrop \- Mazaruni Dub One](https://open.spotify.com/track/6Tw6hwUBKYo0AyVQdXNyn2) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Teardrop \(Mazaruni Dub One\)](https://open.spotify.com/album/3mcmA1tkUHBHsOCJ5tTTKS) | 6:04 | 2020-05-18 | 2020-11-20 |
 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 | 2020-05-22 | 2022-09-24 |
 | [Tearing Me Up \- Edit](https://open.spotify.com/track/2HBanw3xVQSWrdOtPfjsnK) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Tearing Me Up \(Edit\)](https://open.spotify.com/album/6MOvcfImIVgvz5WVBnZBA7) | 3:43 | 2020-05-24 | 2020-07-18 |
@@ -1603,7 +1604,7 @@
 | [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-12-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 | 2025-05-24 |
-| [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 |  |
+| [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 | 2025-09-23 |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |
 | [The Whistle Song \- Re\-Directed](https://open.spotify.com/track/6wD0LWjn3WZMdLqatEc5vM) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Director's Cut](https://open.spotify.com/artist/0sgCVo8Q7D7zCPZL3TytL0), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Director's Cut Collection](https://open.spotify.com/album/3xVeHKUy4HEdFOH96MeCiG) | 7:57 | 2020-06-12 | 2020-10-09 |

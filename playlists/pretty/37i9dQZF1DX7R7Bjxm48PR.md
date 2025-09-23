@@ -4,32 +4,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 
 > Calming and inspiring piano music for yoga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,648 likes - 82 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,665 likes - 82 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Believe](https://open.spotify.com/track/3PjllqpJS9qF82x1qxaTGv) | [M\. Ljungström](https://open.spotify.com/artist/3DkwuBQlbF81WFD2hhmkPR) | [I Believe](https://open.spotify.com/album/6wZu9uTOMrZM9czfmqrWBz) | 2:18 |
 | 2 | [The Nature of Peace](https://open.spotify.com/track/4FTj02S8T1U4438yq4Vm0B) | [Ethereva](https://open.spotify.com/artist/7ENBky1SWWXNoK9pHt5SUh) | [The Nature of Peace](https://open.spotify.com/album/6IkIeXHQSHFhwhwA6fBFzV) | 2:24 |
-| 3 | [Lost](https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Lost](https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it) | 2:08 |
-| 4 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
-| 5 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
-| 6 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 |
-| 7 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
-| 8 | [Static](https://open.spotify.com/track/7oJF6jlP5RJQbUsLFbgOQm) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Static](https://open.spotify.com/album/0OwS7VG7Wku96N4qN9TgA7) | 2:01 |
-| 9 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
-| 10 | [Bliss](https://open.spotify.com/track/1uUf0oxdIJYfJCJRRIQsRm) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Bliss](https://open.spotify.com/album/7LbRUFAxDaHVjCcvNmsWmV) | 3:31 |
-| 11 | [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 |
-| 12 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
-| 13 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
+| 3 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 |
+| 4 | [Lost](https://open.spotify.com/track/3vVX3isRZBNkNm5MgGXlST) | [Conor Flanagan](https://open.spotify.com/artist/2jWT6fuYQO2r65UmMCN3kA) | [Lost](https://open.spotify.com/album/7qh8ZeENbL9E9E0Ztsv2it) | 2:08 |
+| 5 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 |
+| 6 | [Automne Nordique](https://open.spotify.com/track/2ujxJqOusPaIhbeej7zaXv) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [Automne Nordique](https://open.spotify.com/album/2CJKxKIUE2IxWHIAkVbQEo) | 1:57 |
+| 7 | [For a Moment](https://open.spotify.com/track/3LpE4XPSmS6PoyVbnPb1xh) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [For a Moment](https://open.spotify.com/album/6w8sZ0dY0c8lnkDpIKRCzq) | 2:25 |
+| 8 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 |
+| 9 | [Static](https://open.spotify.com/track/7oJF6jlP5RJQbUsLFbgOQm) | [Orphea Nyx](https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq) | [Static](https://open.spotify.com/album/0OwS7VG7Wku96N4qN9TgA7) | 2:01 |
+| 10 | [Rainy September](https://open.spotify.com/track/4GM77rxiIkWTWFvqumrQ5M) | [Denalia](https://open.spotify.com/artist/6fellCdW40KJyoSmDrapxm) | [Rainy September](https://open.spotify.com/album/2em2EC6sy6nbSluxJC5Elc) | 2:51 |
+| 11 | [Bliss](https://open.spotify.com/track/1uUf0oxdIJYfJCJRRIQsRm) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Bliss](https://open.spotify.com/album/7LbRUFAxDaHVjCcvNmsWmV) | 3:31 |
+| 12 | [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 |
+| 13 | [Quiet and Peaceful](https://open.spotify.com/track/5nigxScnQg8h5b5Wdfngks) | [Leone Adam](https://open.spotify.com/artist/3nerQSvPk6QCfNedqkTDKW) | [Quiet and Peaceful](https://open.spotify.com/album/46D0IP8tuyUqrtj51Whetp) | 2:12 |
 | 14 | [Ember](https://open.spotify.com/track/0UI9vtPrrF4rKVbAyftf6Q) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Ember](https://open.spotify.com/album/6saaWCTWKStjjhJJx3KdMw) | 2:39 |
 | 15 | [The Lighthouse](https://open.spotify.com/track/1SDfGb9Qeu3maDGDBxzQOT) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [The Lighthouse](https://open.spotify.com/album/2dkf5WX3DGaTWbRAx34SX4) | 3:32 |
 | 16 | [Soft Gravity](https://open.spotify.com/track/04L3ysrKJAYm3PbfO6aonO) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Soft Gravity](https://open.spotify.com/album/34v6EsMOGwMJ5mt2sM2OKS) | 2:42 |
 | 17 | [Pale Aurora](https://open.spotify.com/track/0GcX7h88UC3OnQ1dFyQaLU) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Pale Aurora](https://open.spotify.com/album/25Rn3G4zzG5WHBBYglBh5c) | 2:38 |
-| 18 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
-| 19 | [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 |
+| 18 | [Here Again](https://open.spotify.com/track/3bT9gF3tQRVutXoN68wd1B) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Here Again](https://open.spotify.com/album/20XykNXkHhHIlmqg4pFzvi) | 3:46 |
+| 19 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 |
 | 20 | [Sunset From Beyond](https://open.spotify.com/track/3ds1T336lEcCzJw1CClUzQ) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Sunset From Beyond](https://open.spotify.com/album/2DVpfQiCiKQpVsZWHnentg) | 2:30 |
-| 21 | [Oceans of dreams](https://open.spotify.com/track/4nuOT2R4KCUKaSPxWYWr0b) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Oceans of dreams](https://open.spotify.com/album/1S28M9KkO2lyyzMroR4JDW) | 2:14 |
-| 22 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 |
+| 21 | [Physichromie](https://open.spotify.com/track/1YFRuuXsbnVcO5uQPdrJK7) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Physichromie](https://open.spotify.com/album/7MO6O6OmNEN4Wjz6eO9t0g) | 2:30 |
+| 22 | [Oceans of dreams](https://open.spotify.com/track/4nuOT2R4KCUKaSPxWYWr0b) | [Emilio Chiara](https://open.spotify.com/artist/5a48GWM8CpVJtzLvnFn1js) | [Oceans of dreams](https://open.spotify.com/album/1S28M9KkO2lyyzMroR4JDW) | 2:14 |
 | 23 | [Cottagecore Dreams](https://open.spotify.com/track/04JKEOqqKWfxKTPYZBFitt) | [Emil Bodén](https://open.spotify.com/artist/1BFjNsvyM2EWLPwcHoNBUn) | [Cottagecore Dreams](https://open.spotify.com/album/2GrcJ6jG657kaetg31rR4E) | 2:33 |
 | 24 | [Neptuin](https://open.spotify.com/track/2p9xk4nz06Rr18dpLFk9dF) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Neptuin](https://open.spotify.com/album/0i3RcORiqZoArp2gPbjuyT) | 3:36 |
 | 25 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R7Bjxm48PR.md) - [plain]
 | 81 | [Peaceful Sleep](https://open.spotify.com/track/7bmZ6lmNpGRvVWDaQkeZAU) | [EON NOIRE](https://open.spotify.com/artist/6przkhYGYq12sivsheKQ6I) | [Mind Flow](https://open.spotify.com/album/0XeqcbOgWxwY3cYk7MFF1H) | 2:34 |
 | 82 | [The World Within Me](https://open.spotify.com/track/6E1jXkm4vHFnCL43vkXTuM) | [Ruth Watson](https://open.spotify.com/artist/0JdKHUcyeRLXadKsimgTD1) | [The World Within Me](https://open.spotify.com/album/1KhWIRmiIM565Pb5HyY5fj) | 2:10 |
 
-Snapshot ID: `AAAAAGOy0wP9Wr01ExWDRKpkIKGHWLkt`
+Snapshot ID: `AAAAAKp/SSZA0sKnYP9tI22ZHKKs+cqs`

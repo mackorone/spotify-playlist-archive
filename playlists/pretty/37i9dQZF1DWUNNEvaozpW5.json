@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Fito y Fitipaldis.",
-  "num_followers": 600794,
+  "num_followers": 600727,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "El lado oscuro",
+      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
         "name": "Astronom\u00eda Razonable",
         "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 217093,
       "name": "Como un burro amarrado en la puerta del baile",
       "url": "https://open.spotify.com/track/5cjEWYDWMXlTZr8Rehu2bl"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -171,18 +171,18 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
         }
       ],
-      "duration_ms": 288053,
-      "name": "El lado oscuro",
-      "url": "https://open.spotify.com/track/3AR1c3Dssq51WlGGkuYJNj"
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Material defectuoso",
-        "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
+        "name": "Voy A Pasarmelo Bien",
+        "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 516666,
-      "name": "Si te vas...",
-      "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
+      "duration_ms": 235080,
+      "name": "Voy a pas\u00e1rmelo bien",
+      "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Voy A Pasarmelo Bien",
-        "url": "https://open.spotify.com/album/50XOsvW7uGrpaCtzqUm2bv"
-      },
-      "artists": [
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 235080,
-      "name": "Voy a pas\u00e1rmelo bien",
-      "url": "https://open.spotify.com/track/78FJd3BMjDQCA1Hh2QfKqS"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
         "name": "COWBOYS DE LA A3",
         "url": "https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 229876,
       "name": "Los Perros",
       "url": "https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "Material defectuoso",
+        "url": "https://open.spotify.com/album/3JFryzZ2dByJ7Z2Ik2fVua"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 516666,
+      "name": "Si te vas...",
+      "url": "https://open.spotify.com/track/2x59pa3xDf8hHZ4N3f5fGQ"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+        "name": "Arena En Los Bolsillos",
+        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
       "artists": [
         {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+          "name": "Manolo Garcia",
+          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
         }
       ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
+      "duration_ms": 246240,
+      "name": "Pajaros de Barro",
+      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -503,34 +503,18 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Canciones Prohibidas",
-        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
       },
       "artists": [
         {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
         }
       ],
-      "duration_ms": 318986,
-      "name": "Salir",
-      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
-        "name": "Arena En Los Bolsillos",
-        "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
-      },
-      "artists": [
-        {
-          "name": "Manolo Garcia",
-          "url": "https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Pajaros de Barro",
-      "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -551,6 +535,22 @@
       "duration_ms": 234800,
       "name": "Mucho mejor (feat. Coque Malla)",
       "url": "https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "Canciones Prohibidas",
+        "url": "https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 318986,
+      "name": "Salir",
+      "url": "https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "La ley innata",
-        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
-      },
-      "artists": [
-        {
-          "name": "Extremoduro",
-          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
-        }
-      ],
-      "duration_ms": 462013,
-      "name": "Dulce introducci\u00f3n al caos",
-      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
         "name": "Gente Impresentable",
         "url": "https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 146337,
       "name": "Todos los d\u00edas sale el sol",
       "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "La ley innata",
+        "url": "https://open.spotify.com/album/1GYJUlbVr5FuNU7awwMGzu"
+      },
+      "artists": [
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        }
+      ],
+      "duration_ms": 462013,
+      "name": "Dulce introducci\u00f3n al caos",
+      "url": "https://open.spotify.com/track/1aDeaDooAd79p2sdImGG4a"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
+        "name": "Negociando gasolina",
+        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "duration_ms": 208839,
+      "name": "Buscando en la basura",
+      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
         "name": "La Ley Del Desierto",
         "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Negociando gasolina",
-        "url": "https://open.spotify.com/album/1hCwejZJomHEdOP7sZmGUR"
-      },
-      "artists": [
-        {
-          "name": "La Fuga",
-          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
-        }
-      ],
-      "duration_ms": 208839,
-      "name": "Buscando en la basura",
-      "url": "https://open.spotify.com/track/46Yp4JsZIh8ceg5WBqW1ZB"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
         "name": "Devil Came to Me",
         "url": "https://open.spotify.com/album/31cccvot053zKCeLHnnic1"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 234280,
       "name": "Serenade",
       "url": "https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "No te necesito para ser feliz",
+        "url": "https://open.spotify.com/album/2bXPANmjU7Hkse3hz5Csap"
+      },
+      "artists": [
+        {
+          "name": "La Maravillosa Orquesta del Alcohol",
+          "url": "https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq"
+        },
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 232402,
+      "name": "No te necesito para ser feliz",
+      "url": "https://open.spotify.com/track/3X2sHFaJlakwX31ngq88d6"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -959,38 +979,18 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "No te necesito para ser feliz",
-        "url": "https://open.spotify.com/album/2bXPANmjU7Hkse3hz5Csap"
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
       "artists": [
         {
-          "name": "La Maravillosa Orquesta del Alcohol",
-          "url": "https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq"
-        },
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
         }
       ],
-      "duration_ms": 232402,
-      "name": "No te necesito para ser feliz",
-      "url": "https://open.spotify.com/track/3X2sHFaJlakwX31ngq88d6"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
       "artists": [
         {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Rock & Roll Star - 30 a\u00f1os",
-        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Cadillac solitario",
-      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
         "name": "Bajo Presi\u00f3n",
         "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 288146,
       "name": "Me Quedo Contigo (Si Me Das A Elegir) - Live Ba\u00efonarena",
       "url": "https://open.spotify.com/track/6u9GgwXbMs5jJlA29zGHu5"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "Rock & Roll Star - 30 a\u00f1os",
+        "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Cadillac solitario",
+      "url": "https://open.spotify.com/track/3VNxbWlw9oVvxSnSbeiCBb"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Calle Melancol\u00eda",
-        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
-      },
-      "artists": [
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 380973,
-      "name": "Calle Melancol\u00eda",
-      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
         "name": "Cu\u00e1ndo cerrar",
         "url": "https://open.spotify.com/album/5aTPZSzc4kFQcQKwKVRoNp"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 192186,
       "name": "Cu\u00e1ndo cerrar",
       "url": "https://open.spotify.com/track/51Sp09VubhQvP8iUqchTmG"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "Calle Melancol\u00eda",
+        "url": "https://open.spotify.com/album/2RlCfIHnXz8h8sc76B8ACD"
+      },
+      "artists": [
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 380973,
+      "name": "Calle Melancol\u00eda",
+      "url": "https://open.spotify.com/track/3li6qqddV84LgSw9lgh0sG"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
-        "name": "Esencial Estopa",
-        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 203213,
-      "name": "Como Camar\u00f3n",
-      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
         "name": "Lobo hombre en Par\u00eds",
         "url": "https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 249186,
       "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
       "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
+        "name": "Esencial Estopa",
+        "url": "https://open.spotify.com/album/6aYbP8x2bbGRP8Zd0XH4CK"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Como Camar\u00f3n",
+      "url": "https://open.spotify.com/track/3fpS8r0JsVTkCOLnq49lH6"
     },
     {
       "added_at": "2025-09-18 22:00:36",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2025-09-18 22:00:36",
       "album": {
+        "name": "Historia de una Banda (En Directo)",
+        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+        }
+      ],
+      "duration_ms": 230779,
+      "name": "Aviones Plateados - En Directo",
+      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
+    },
+    {
+      "added_at": "2025-09-18 22:00:36",
+      "album": {
         "name": "Otra noche sin dormir",
         "url": "https://open.spotify.com/album/753WFdgyz5M1h3ZQnSSQDL"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 282746,
       "name": "Maneras de vivir - Rosendo, Barricada y Aurora Beltr\u00e1n directo 2008",
       "url": "https://open.spotify.com/track/3zgQxeKX6kj7Yrt5cRMxP3"
-    },
-    {
-      "added_at": "2025-09-18 22:00:36",
-      "album": {
-        "name": "Historia de una Banda (En Directo)",
-        "url": "https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
-        }
-      ],
-      "duration_ms": 230779,
-      "name": "Aviones Plateados - En Directo",
-      "url": "https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5"
     },
     {
       "added_at": "2025-09-18 22:00:36",

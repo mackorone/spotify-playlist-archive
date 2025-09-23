@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-2,091 songs - 4 day 10 hr 53 min
+2,092 songs - 4 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,7 +844,7 @@
 | [i like the way you kiss me \- Marlon Hoffstadt aka DJ Daddy Trance remix](https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 3:19 | 2024-04-23 | 2024-04-28 |
 | [I love you](https://open.spotify.com/track/6jDe94y1dbLDU53Q1NPxLH) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/1iu85lxdKFTb98yP1Vxnfn) | 3:57 | 2024-02-17 | 2024-02-28 |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:58 | 2024-02-11 | 2024-02-14 |
-| [I LOVE YOU SO \- Nvns Edit](https://open.spotify.com/track/6IcDCxtFiJ9aOfhEMlhHXn) | [HUSSVRX](https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW), [Nvns](https://open.spotify.com/artist/7jCaQmifvu4W50tN07fj3P) | [I LOVE YOU SO \(Nvns Edit\)](https://open.spotify.com/album/4w3uI94Jiywoq9WxwthfJC) | 4:12 | 2025-08-19 |  |
+| [I LOVE YOU SO \- Nvns Edit](https://open.spotify.com/track/6IcDCxtFiJ9aOfhEMlhHXn) | [HUSSVRX](https://open.spotify.com/artist/4TgCsF3vsrTJqitJbXhHWW), [Nvns](https://open.spotify.com/artist/7jCaQmifvu4W50tN07fj3P) | [I LOVE YOU SO \(Nvns Edit\)](https://open.spotify.com/album/4w3uI94Jiywoq9WxwthfJC) | 4:12 | 2025-08-19 | 2025-09-23 |
 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 | 2024-08-19 | 2024-08-25 |
 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-09-10 | 2024-11-06 |
 | [I Surrender \(feat\. Lange Frans\) \- Remix](https://open.spotify.com/track/5v9RI8UmSTgDSsZ8cKENc5) | [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [I Surrender \(feat\. Lange Frans\) \[Remix\]](https://open.spotify.com/album/4twXHt2RLp0hMHTmwNQ8JD) | 3:33 | 2025-01-14 | 2025-02-12 |
@@ -2088,6 +2088,7 @@
 | [ÇA VA ALLER](https://open.spotify.com/track/2PR7vOAqVX7ynISxlwt7GD) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [ÇA VA ALLER](https://open.spotify.com/album/6X4svyBGURhtDWxEtTKkDL) | 1:48 | 2024-07-17 | 2024-07-31 |
 | [ГЛАМУР](https://open.spotify.com/track/4bt7RdJMUicjOED9A5Div1) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032), [Wipo](https://open.spotify.com/artist/02cJqU9jxI9t8TfJpWzMMP) | [GLAMOUR](https://open.spotify.com/album/0jPoAA3mBi9IbswX4q4C6p) | 3:08 | 2024-08-22 | 2024-11-11 |
 | [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 | 2024-01-29 | 2024-01-31 |
+| [Камин](https://open.spotify.com/track/5KMQGErDASymjKq0LDa0MN) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX), [JONY](https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq) | [44](https://open.spotify.com/album/1FIp5aFdDk9BSdAZxQwwIE) | 3:07 | 2025-09-22 |  |
 | [ჩუბინა](https://open.spotify.com/track/0s6vEUEL2Ij2tXXGLvgmLi) | [Chub1na.Ge](https://open.spotify.com/artist/0rvNMvAdO6Kcd23ms4RmBC) | [ჩუბინა](https://open.spotify.com/album/0zgnbu4OjPQ0hnou373oX2) | 1:30 | 2024-12-30 | 2025-02-07 |
 | [ჩუბინა](https://open.spotify.com/track/0IigTiSE9oCI3z9JkjbPJP) | [East Duo](https://open.spotify.com/artist/42v0kfdXXwjA3cLRr4DTyY) | [ჩუბინა](https://open.spotify.com/album/44AAz747oznKxZMhJl3PcP) | 1:30 | 2025-02-06 | 2025-02-08 |
 | [ჩუბინა](https://open.spotify.com/track/0YAGCZjsDqw6yud2PTMuvu) | [East Duo](https://open.spotify.com/artist/42v0kfdXXwjA3cLRr4DTyY) | [ჩუბინა](https://open.spotify.com/album/021G1t2uTkq8QW3sy8fWPQ) | 1:30 | 2025-02-07 | 2025-03-17 |

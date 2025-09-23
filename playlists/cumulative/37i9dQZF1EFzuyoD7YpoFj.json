@@ -6013,6 +6013,24 @@
     },
     {
       "album": {
+        "name": "Bitter Orange",
+        "url": "https://open.spotify.com/album/4OxcRSERxxBNur2nH0B5FO"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172080,
+      "name": "Make It Another Old Fashioned, Please",
+      "url": "https://open.spotify.com/track/14tCegE6OxeP8GBTsLbe34"
+    },
+    {
+      "album": {
         "name": "Sophisticated Lady",
         "url": "https://open.spotify.com/album/3m3cJ61R7CdFR9wG3vUyhH"
       },
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 151986,
       "name": "Make It Another Old-Fashioned, Please",
       "url": "https://open.spotify.com/track/2accKEqCtiNZS6uMKbbpUs"

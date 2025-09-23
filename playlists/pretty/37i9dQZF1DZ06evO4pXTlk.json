@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAAAlW6DRYMkt/UlN7qU1xzge",
+  "snapshot_id": "aM9AAAAAAABrFvZptwINVIlBFV+ahuaH",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Complicated (feat. Heights)",
-        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
+        "name": "You Mean Everything",
+        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        },
-        {
-          "name": "HEIGHTS",
-          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 212399,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
+      "duration_ms": 232115,
+      "name": "You Mean Everything",
+      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Mean Everything",
-        "url": "https://open.spotify.com/album/4clkcMkCg0FE8HizG0CE8K"
+        "name": "Complicated (feat. Heights)",
+        "url": "https://open.spotify.com/album/3b5UdO9XkyHFQLFlNaWs01"
       },
       "artists": [
         {
           "name": "The XCERTS",
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        },
+        {
+          "name": "HEIGHTS",
+          "url": "https://open.spotify.com/artist/5EdogtWIzqFv45sdk6ePZH"
         }
       ],
-      "duration_ms": 232115,
-      "name": "You Mean Everything",
-      "url": "https://open.spotify.com/track/5AbVoazHJjVZvRBekq3BhI"
+      "duration_ms": 212399,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/7w7WlXyXPuo0AuuWMSGw98"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Like This",
-        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 230897,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
       },
@@ -595,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So No One Told You Life Was Gonna Be This Way",
-        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
+        "name": "Live Like This",
+        "url": "https://open.spotify.com/album/6aid0JJx7b8qP7kRNejoGd"
       },
       "artists": [
         {
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 171324,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
+      "duration_ms": 230897,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3r5giCeK7AtSByLMbmQgl0"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 250203,
       "name": "Weather Warning",
       "url": "https://open.spotify.com/track/7brYfjNrouDl1WtqLxQP9s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So No One Told You Life Was Gonna Be This Way",
+        "url": "https://open.spotify.com/album/7Dubvhg0cRoqLSb3TVKfHg"
+      },
+      "artists": [
+        {
+          "name": "The XCERTS",
+          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
+        }
+      ],
+      "duration_ms": 171324,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/1nnXpxZyF7ule644vVi1RZ"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 212746,
-      "name": "Tear Me Down",
-      "url": "https://open.spotify.com/track/4RZv3EVH2lebzYec3mSi2Z"
+      "duration_ms": 199266,
+      "name": "Gum",
+      "url": "https://open.spotify.com/track/5cOebVOa8m5nfJOIGvBErB"
     }
   ],
   "unique_name": "This Is The XCERTS",

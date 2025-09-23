@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1078818,
+  "num_followers": 1078730,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,18 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
-        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
+        "name": "MTV Unplugged (Live)",
+        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "10,000 Maniacs",
+          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
         }
       ],
-      "duration_ms": 312442,
-      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
-      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
+      "duration_ms": 223373,
+      "name": "Because the Night - Live Unplugged",
+      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
     },
     {
       "added_at": "2021-02-10 21:16:07",
@@ -319,18 +315,22 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
-        "name": "MTV Unplugged (Live)",
-        "url": "https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg"
+        "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
+        "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
       "artists": [
         {
-          "name": "10,000 Maniacs",
-          "url": "https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 223373,
-      "name": "Because the Night - Live Unplugged",
-      "url": "https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq"
+      "duration_ms": 312442,
+      "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
+      "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
     },
     {
       "added_at": "2021-02-10 21:16:07",

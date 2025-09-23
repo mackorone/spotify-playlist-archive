@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\. Cover: Cardi B
 
-4,148 songs - 8 day 6 hr 4 min
+4,149 songs - 8 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1789,7 +1789,7 @@
 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 | 2023-08-18 | 2023-09-09 |
 | [India Love / No Love](https://open.spotify.com/track/377KJZ7JWVIoChRFlHWAAt) | [Casper TNG](https://open.spotify.com/artist/2YqKOT955onYp7NLWySVZ6) | [India Love / No Love](https://open.spotify.com/album/4D43iNj8HP70pKIrhVwPHG) | 6:30 | 2025-04-04 | 2025-04-12 |
 | [Inevitable](https://open.spotify.com/track/1vzSwBeXpVwDfCoIG65jdd) | [Versvs](https://open.spotify.com/artist/6XUsxNud8j33iC6AS8iHbK), [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [Inevitable](https://open.spotify.com/album/0TdfxCusCSwmfQWM6u95Br) | 2:42 | 2023-10-27 | 2023-11-11 |
-| [Infinite NETIC \- A COLORS SHOW](https://open.spotify.com/track/6sSD6Wgz334lTkVUUx6do0) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Infinite NETIC \- A COLORS SHOW](https://open.spotify.com/album/70xmgpUqRM00bOhmsUmzpn) | 2:26 | 2025-09-12 |  |
+| [Infinite NETIC \- A COLORS SHOW](https://open.spotify.com/track/6sSD6Wgz334lTkVUUx6do0) | [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Infinite NETIC \- A COLORS SHOW](https://open.spotify.com/album/70xmgpUqRM00bOhmsUmzpn) | 2:26 | 2025-09-12 | 2025-09-23 |
 | [Infinity Fill Goose Down](https://open.spotify.com/track/7yTJVke07Gn9xB1nMpACep) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Infinity Fill Goose Down](https://open.spotify.com/album/6ymQ5i6NKoE9dgByrd5cZq) | 3:32 | 2023-10-27 | 2023-11-11 |
 | [Inhale Exale](https://open.spotify.com/track/2lxD7mHyVfEbvZv7Z0oZsP) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw), [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Kyilah](https://open.spotify.com/artist/6Q6pVOoagCVAsnkHOaHBi4) | [Chung Shui II](https://open.spotify.com/album/0UFRwJ6g0EkJKipUxCHKtf) | 3:09 | 2023-06-23 | 2023-07-01 |
 | [Init Gyal](https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Init Gyal](https://open.spotify.com/album/2qpKN28C1BfvGeHVULQ0mI) | 1:05 | 2025-08-15 | 2025-08-30 |
@@ -3134,6 +3134,7 @@
 | [Scope](https://open.spotify.com/track/7dAXNwIYbZLZFWZxFl1N3D) | [Swagger Rite](https://open.spotify.com/artist/3QTjKzRi18DafuSJ1ZQlxR) | [Scope](https://open.spotify.com/album/71b7EvBBSrupUa0avZ6L9T) | 1:29 | 2025-07-04 | 2025-07-12 |
 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 | 2023-04-28 | 2023-05-06 |
 | [Scottie Pippen's Wife](https://open.spotify.com/track/09KlXLRDY8nwPjMPzCxwxa) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Scottie Pippen's Wife](https://open.spotify.com/album/0cE6168g9DvTv4iEAVPMa2) | 2:15 | 2024-02-16 | 2024-02-24 |
+| [screwed up](https://open.spotify.com/track/493FWDdicMcysufpqhuFxJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:33 | 2025-09-22 |  |
 | [Scrolls for Souls](https://open.spotify.com/track/6vD8eM6KxaugMZSoHg1FJ4) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Scrolls for Souls](https://open.spotify.com/album/1RGzyCKMkny1qnA2hhtS8W) | 2:38 | 2024-03-22 | 2024-03-30 |
 | [SCUSE ME](https://open.spotify.com/track/6YfP6sUtilPmBaX5upo6Pz) | [ILOVEMAKONNEN](https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja) | [SCUSE ME](https://open.spotify.com/album/5LKD5rb3Ozqd6z8cJyQwf0) | 2:51 | 2023-03-24 | 2023-04-01 |
 | [Se7enteen5ive](https://open.spotify.com/track/2ZV1uKzSpLxbR9OiyRtkHs) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Se7enteen5ive](https://open.spotify.com/album/3vm08VN8HiSs7rNxePAhit) | 3:01 | 2025-08-01 | 2025-08-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,133 likes - 300 songs - 15 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,101 likes - 300 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 4 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 |
 | 5 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 |
 | 6 | [DIVE IN](https://open.spotify.com/track/4zwGCsh0qWBJYpKCJk2wBl) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [DIVE IN](https://open.spotify.com/album/0wcF2eQIGacMilWO8F3hTM) | 3:02 |
-| 7 | [Sum'n Serious \- SLIZZY MIX](https://open.spotify.com/track/0J3kISGKt7eTppkNUxhYUn) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Sum'n Serious \(SLIZZY MIX\)](https://open.spotify.com/album/3K6Da0mqmR1NOlj4RkRFs2) | 2:35 |
+| 7 | [Sum'n Serious \- SLIZZY MIX](https://open.spotify.com/track/0J3kISGKt7eTppkNUxhYUn) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Sum'n Serious](https://open.spotify.com/album/3K6Da0mqmR1NOlj4RkRFs2) | 2:35 |
 | 8 | [Boo Thang Bootcamp](https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Boo Thang Bootcamp](https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o) | 2:55 |
 | 9 | [LOOSE](https://open.spotify.com/track/7I0OBcIj0vjzSvcGExnI1h) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [LOOSE](https://open.spotify.com/album/7m5SpgptEu0kD2s0a0jh7U) | 3:22 |
 | 10 | [YouAndMe](https://open.spotify.com/track/0VmI6CdAptZsED2B2HLJVB) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [YouAndMe](https://open.spotify.com/album/4us6tJ6JXMCVy8LPzq7dVO) | 2:54 |

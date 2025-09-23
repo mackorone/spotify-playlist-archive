@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 
 > <a href="spotify:artist:27LGatz1m8aJ7ZaVVWEphc">Gui Boratto</a>'s favourite tracks\. Updated regularly\. Curated by Gui Boratto\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,000 likes - 52 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,013 likes - 52 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fgrmoIzHtd.md) - [plain]
 | 17 | [Friends](https://open.spotify.com/track/1zrD9siDiFNYPJ9wQNYhU8) | [Tech Support](https://open.spotify.com/artist/1q9DdIVexjOaCYVpMJnOmq) | [That Record With Friends On It](https://open.spotify.com/album/7BS3DH6pneZw3VwuX1FJuo) | 6:12 |
 | 18 | [Nektar \- Benjamin Fröhlich Remix](https://open.spotify.com/track/0kjiVRFyQDHenoHo4Skm7r) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO), [Benjamin Fröhlich](https://open.spotify.com/artist/3FT44aaqR7vqBzvXCZPjn1) | [Moon II Remixes Pt\. I](https://open.spotify.com/album/3E7mBvJ8YEQIdjPnkbUn9P) | 4:44 |
 | 19 | [The Esel \- Dave Aju Rmx](https://open.spotify.com/track/754ePCk9XvNrQIXuESDnAR) | [Ian Simmonds](https://open.spotify.com/artist/3iRl4yxKVknVOyyFaBTOQn) | [The Burgenland Dubs Reworked](https://open.spotify.com/album/16YD66sAzSBIFqHUf4Xg7e) | 6:47 |
-| 20 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
+| 20 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like \(feat\. yunè pinku\)](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 |
 | 21 | [In The Crowd](https://open.spotify.com/track/06S1wlkIltEgHHZoY0Dl9z) | [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [In The Crowd](https://open.spotify.com/album/0cADXU271uQ0uezv0etR7N) | 4:19 |
 | 22 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 |
 | 23 | [Sophisticated](https://open.spotify.com/track/383wX8zpQKBIWsXCmtrYFd) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Sophisticated](https://open.spotify.com/album/78fHQzjlP6ODm74vxrxA0B) | 3:27 |

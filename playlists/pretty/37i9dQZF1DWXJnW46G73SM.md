@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  عمرو جابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,754 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,800 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [كله قالي اشمعنا هو](https://open.spotify.com/track/1kiMxcAT57ZEzdth98RR5T) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [كله قالي اشمعنا هو](https://open.spotify.com/album/3aOHiwuofbnhWWYw82lv9P) | 2:54 |
 | 2 | [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 |
-| 3 | [Bey Ulu ma y Ulu](https://open.spotify.com/track/3GYulbp28vjI5wpIbHCZZc) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:49 |
-| 4 | [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 |
-| 5 | [ضيّ \- من فيلم سيرة أهل الضيّ](https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [ضيّ \(من فيلم سيرة أهل الضيّ\)](https://open.spotify.com/album/64RVTyZIEphCJygPD5Luhq) | 3:16 |
+| 3 | [ضيّ \- من فيلم سيرة أهل الضيّ](https://open.spotify.com/track/57SkIuSdgMFHGNOtdBN8xO) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [ضيّ \(من فيلم سيرة أهل الضيّ\)](https://open.spotify.com/album/64RVTyZIEphCJygPD5Luhq) | 3:16 |
+| 4 | [Bey Ulu ma y Ulu](https://open.spotify.com/track/3GYulbp28vjI5wpIbHCZZc) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 2:49 |
+| 5 | [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 |
 | 6 | [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 |
 | 7 | [Mosh Safilak](https://open.spotify.com/track/39lSNpu5staspRnapwoB5v) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mosh Safilak](https://open.spotify.com/album/7Cp8WhgogGatlQSzEjq3yh) | 3:30 |
 | 8 | [شايل الحمول](https://open.spotify.com/track/1HzhfAavEbS8CmPmym89Uh) | [احمد عامر](https://open.spotify.com/artist/2ls2fVqFDYpoLyWktYE0V6) | [شايل الحمول](https://open.spotify.com/album/6wCMyN4a9PLrt5zvUzwowB) | 3:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [Hanehky Fe Eih](https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Hanehky Fe Eih](https://open.spotify.com/album/3gLfi17apJkOvkpCR2gIHb) | 3:55 |
 | 60 | [DO RE MI](https://open.spotify.com/track/2vNPtRU2u4fl8MIuXsZnPD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [DO RE MI](https://open.spotify.com/album/2cB3vbiAFJfiNNNSKebUE1) | 2:48 |
 
-Snapshot ID: `AAAAAPgYAAf+obtoxxCWPsM5N5iRZLpR`
+Snapshot ID: `AAAAADblxPpfqFRZG97M4BMNn/40ytXo`

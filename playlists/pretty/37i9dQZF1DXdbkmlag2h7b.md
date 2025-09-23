@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,583 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,633 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 20 | [Ascend](https://open.spotify.com/track/5PnkmU4jieDZwUyES85V6X) | [Cokobi](https://open.spotify.com/artist/3PUoyrYPm3P6HQAPEFwdyg) | [Ascend](https://open.spotify.com/album/62lJZHPyChbfdnZmaHi0jU) | 2:22 |
 | 21 | [Apogee](https://open.spotify.com/track/3nCjMRvyfq0wgR3hDcAcWb) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Apogee](https://open.spotify.com/album/5xrbFlHe5YxRFctRbWyzmq) | 2:47 |
 | 22 | [Abundant](https://open.spotify.com/track/13aO4GXU92PdB37eSOxvrp) | [Glass Dome](https://open.spotify.com/artist/4LWyiymtdWPzhflGcghaKh) | [Abundant](https://open.spotify.com/album/2cdSpHVhpKzp18ioT5tktw) | 2:30 |
-| 23 | [Bother To Care](https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Bother To Care](https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo) | 3:10 |
-| 24 | [Within Light](https://open.spotify.com/track/10UgsXGEFjEMAOYDGmxvZM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Within Light](https://open.spotify.com/album/0llAwfdqzKLSPQlSpeHCEC) | 2:40 |
+| 23 | [Within Light](https://open.spotify.com/track/10UgsXGEFjEMAOYDGmxvZM) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Within Light](https://open.spotify.com/album/0llAwfdqzKLSPQlSpeHCEC) | 2:40 |
+| 24 | [Bother To Care](https://open.spotify.com/track/1SEYMxhjlVR2zB75wBVY4M) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Bother To Care](https://open.spotify.com/album/1of2b3q6UVaE2pYv9cVxHo) | 3:10 |
 | 25 | [Orbital Oasis](https://open.spotify.com/track/6zGZtDSM0FSol4zakv14CS) | [Ruben Ortega](https://open.spotify.com/artist/7orAQsVnGSHS7bsPShdMjl) | [Orbital Oasis](https://open.spotify.com/album/1yspBlFboddEbivYv2VSpu) | 3:07 |
 | 26 | [Elementary](https://open.spotify.com/track/5T3RgzkKqFZCDvKD1COCvG) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Elementary](https://open.spotify.com/album/4ZrhQ6nrneKjveFdTKcpjK) | 3:08 |
 | 27 | [Alya](https://open.spotify.com/track/6lcAqMJXbjrCFwOJV5V1Gy) | [Lóni Alma](https://open.spotify.com/artist/4RHP8exT811Zult13Shp7n) | [Alya](https://open.spotify.com/album/53WAoOHSDwfkFoDWZuZcq2) | 3:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 40 | [Aurora Sky](https://open.spotify.com/track/3zRrJfbjE6HzOyC6IpUgnL) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Aurora Sky](https://open.spotify.com/album/76RszMekO2HnL64AQPF5vL) | 2:56 |
 | 41 | [Red Oak Sapling](https://open.spotify.com/track/3kroc75PKIVClLdz8R6Ohu) | [Palm Reading](https://open.spotify.com/artist/3dCWFraQQTdkvYADXU1b80) | [Red Oak Sapling](https://open.spotify.com/album/4LTtzYRMIzQ7u2bh5cvh22) | 3:14 |
 | 42 | [Breath of Dawn](https://open.spotify.com/track/6ENuIr7vBEGMzz22gEbT99) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Breath of Dawn](https://open.spotify.com/album/52WfzzAyUwkZc4iYTwQYSZ) | 3:01 |
-| 43 | [The Gentle Current](https://open.spotify.com/track/58c5Ei4cJVs3S3jmRizdsQ) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [The Gentle Current](https://open.spotify.com/album/0FkVeieQkuGlqL7Y2Ojqpm) | 3:11 |
-| 44 | [Free of Charge](https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Free of Charge](https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6) | 2:18 |
+| 43 | [Free of Charge](https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI) | [Claddagh Glas](https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi) | [Free of Charge](https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6) | 2:18 |
+| 44 | [The Gentle Current](https://open.spotify.com/track/58c5Ei4cJVs3S3jmRizdsQ) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [The Gentle Current](https://open.spotify.com/album/0FkVeieQkuGlqL7Y2Ojqpm) | 3:11 |
 | 45 | [Nyvälle](https://open.spotify.com/track/39AhLachgMFZNzznsaqBdO) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Nyvälle](https://open.spotify.com/album/2fSbdyf4zNHJ7NhSfC4eke) | 2:42 |
 | 46 | [Spaces](https://open.spotify.com/track/0syqpdhBVg2Kt4j8qhJsQP) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Spaces](https://open.spotify.com/album/7eIDp6qnWDaJstg45CVCy1) | 3:52 |
 | 47 | [Dreamcatcher](https://open.spotify.com/track/45gMeES3VvxZdUey7SYryS) | [Rikkas](https://open.spotify.com/artist/592JIjWn1a5it1yHnV48Us) | [Dreamcatcher](https://open.spotify.com/album/2ZmeAZ258xhc6jPbJysT2o) | 2:59 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 53 | [Willow](https://open.spotify.com/track/6qPbMb9YrB4gYwzvHnbndK) | [Weep Year](https://open.spotify.com/artist/2dY44RNmNsg8vrWHiP7PPq) | [Willow](https://open.spotify.com/album/7dt3AXpHUjGmYpBrbCPVVj) | 3:06 |
 | 54 | [Introspection](https://open.spotify.com/track/3liIip321tJq5GFgFfcGc7) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Introspection](https://open.spotify.com/album/51NBoP5ymYt2sOFaj3F17f) | 2:40 |
 | 55 | [Rivers of Rest](https://open.spotify.com/track/0cIs7K44EpBhTvbMWQTnVq) | [Allness](https://open.spotify.com/artist/0h9JfPVh6xd607lyKYlmPj), [Lightwerx Collective](https://open.spotify.com/artist/2VDnQUqVBg7BlAaNNdbOxp) | [Rivers of Rest](https://open.spotify.com/album/1kAHd7kSITqJmqNNHcj9cn) | 3:08 |
-| 56 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 |
+| 56 | [Infusion](https://open.spotify.com/track/5HIY7NFEpNHBtoEgtpW6Re) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Infusion](https://open.spotify.com/album/6dSISAglhffSmE0kpEzGVL) | 3:56 |
 | 57 | [The Deep Dive In](https://open.spotify.com/track/1GApISdY1RIPkkIkRrFgNa) | [Medtones](https://open.spotify.com/artist/1xLbxyLWA6auvv57HsNFSL) | [The Deep Dive In](https://open.spotify.com/album/0LZ62ayPdeMg6evhUoi9F4) | 2:13 |
-| 58 | [Infusion](https://open.spotify.com/track/5HIY7NFEpNHBtoEgtpW6Re) | [Mont Real](https://open.spotify.com/artist/5M5cSnU5RbCkYcKe1wUMKc) | [Infusion](https://open.spotify.com/album/6dSISAglhffSmE0kpEzGVL) | 3:56 |
-| 59 | [Sunhaven](https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sunhaven](https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX) | 2:50 |
-| 60 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 |
-| 61 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
+| 58 | [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 |
+| 59 | [Niveous](https://open.spotify.com/track/7BUGxPLX6XvKzugRlFTR3j) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Niveous](https://open.spotify.com/album/3qzsqNWbjA8iCRHFQChZeF) | 2:48 |
+| 60 | [Quiet Motions](https://open.spotify.com/track/5G5T4D1uFd2mjhuM5O7bXu) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Quiet Motions](https://open.spotify.com/album/7JycG0PMs6yxJBgSmx1Cmr) | 3:15 |
+| 61 | [Sunhaven](https://open.spotify.com/track/4p5gMX6OcZWHcHkjHVBuIm) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sunhaven](https://open.spotify.com/album/7lJhuVy7ZXXy2p7R233ZDX) | 2:50 |
 | 62 | [Lively Bluebottle](https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS) | [Mari Cafferty](https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU) | [Silk Under Rain](https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV) | 3:12 |
 | 63 | [6 Figures](https://open.spotify.com/track/3iZwmqUWy35ytJI9mSNWG9) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [6 Figures](https://open.spotify.com/album/35ARyGdTF2FCOV6dsjyRYW) | 3:05 |
 | 64 | [Calmide](https://open.spotify.com/track/0eeunnn5H9Z5ftKNRYL0MP) | [Eclectic Elements](https://open.spotify.com/artist/3xlagJKvA0REqZkIGa2sBr) | [Calmide](https://open.spotify.com/album/695DmgQgDDaajkKYULps0e) | 3:13 |
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 67 | [Fusion Dream](https://open.spotify.com/track/5MQIP4uIEs5oECSjj8Fjrb) | [dream index](https://open.spotify.com/artist/4qQhnABlGWb6DvXyTI4bTN) | [Fusion Dream](https://open.spotify.com/album/5v24oFKT1kZmZVYk4ZJJyN) | 3:43 |
 | 68 | [Downing](https://open.spotify.com/track/0eGoaVmfcruvpJmPKoNuLg) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Downing](https://open.spotify.com/album/6Rbe6eULIQSIbQFrkxVxdM) | 3:09 |
 | 69 | [Vila](https://open.spotify.com/track/3v7Wc8Z5Z1HuZPleTT9E0m) | [Amsaga](https://open.spotify.com/artist/2Z4elDEV9RqWpqQT9yxE7o) | [Vila](https://open.spotify.com/album/0AYjEP6XYekv2ghPhe3Fws) | 3:15 |
-| 70 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
-| 71 | [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 |
+| 70 | [Awaken](https://open.spotify.com/track/3q6iH8MHaorAqP4wWXskle) | [Harbours & Oceans](https://open.spotify.com/artist/0k8elyDgYdovh5k0yn9fDX) | [Awaken](https://open.spotify.com/album/4d7vucS2E7TvWsb45xR1dk) | 2:31 |
+| 71 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 |
 | 72 | [arches](https://open.spotify.com/track/27kZcqkjDk78N7yvOi2MJ5) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [arches](https://open.spotify.com/album/1TUCzm7JXD5OSkodobhn1I) | 3:03 |
 | 73 | [Moon Wake](https://open.spotify.com/track/0MDmycrY0Lxs4CUwRTbjT8) | [IRYS BLÜM](https://open.spotify.com/artist/0xTRcF2DC50DxYq2BoPqOp) | [LUNA](https://open.spotify.com/album/3GmFvfQd4M0ogUYLY5BFjJ) | 2:55 |
 | 74 | [Sighflow](https://open.spotify.com/track/4SMiHZ1GLqQn20ANwYDbZm) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Sighflow](https://open.spotify.com/album/1avfK96H7mThKNJaFTfD9L) | 3:50 |
 | 75 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 |
-| 76 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 |
-| 77 | [Radiant Refractor](https://open.spotify.com/track/2vTDJRlpG9YXqphJea4Wwi) | [Roy Grall](https://open.spotify.com/artist/2ZFF1blZGfmGzHvdApJnI2) | [Radiant Refractor](https://open.spotify.com/album/6vHEwJU7RQuGeVosC53Qd8) | 3:12 |
-| 78 | [Aligned](https://open.spotify.com/track/2S7B5c3uMDnvDSnCHqlgPD) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Aligned](https://open.spotify.com/album/7juo6zul1vzrxZqHSPCXQK) | 2:55 |
+| 76 | [Radiant Refractor](https://open.spotify.com/track/2vTDJRlpG9YXqphJea4Wwi) | [Roy Grall](https://open.spotify.com/artist/2ZFF1blZGfmGzHvdApJnI2) | [Radiant Refractor](https://open.spotify.com/album/6vHEwJU7RQuGeVosC53Qd8) | 3:12 |
+| 77 | [Aligned](https://open.spotify.com/track/2S7B5c3uMDnvDSnCHqlgPD) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Aligned](https://open.spotify.com/album/7juo6zul1vzrxZqHSPCXQK) | 2:55 |
+| 78 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 |
 | 79 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 |
 | 80 | [The Code of Love](https://open.spotify.com/track/2XMh8glKFSaJoc1OYO6ndu) | [Lofty Escape](https://open.spotify.com/artist/3VlqOVcIiqnACv20YHvqZe) | [The Code of Love](https://open.spotify.com/album/6lhk0uX5IjPWIPh4KiEKhh) | 2:22 |
 | 81 | [One Sky](https://open.spotify.com/track/39ON6mVu7zBZj16q1WDUqr) | [øchd](https://open.spotify.com/artist/44xr4MsX6T1FB5wUxRRExQ) | [One Sky](https://open.spotify.com/album/6KRRLpyVDi5aXtwKOKYcYL) | 2:30 |

@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 233552,
+  "num_followers": 233714,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
+        "name": "Far Country",
+        "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
         "name": "Shackles (Praise You)",
         "url": "https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 158235,
       "name": "Shackles (Praise You)",
       "url": "https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
-        "name": "Far Country",
-        "url": "https://open.spotify.com/album/27jThL2BVBZJHQSAubMwms"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Wherever I Go",
-      "url": "https://open.spotify.com/track/1JT7bhp6nftlHdW8bKWIwj"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
+        "name": "Twenty Something",
+        "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "duration_ms": 158048,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 175090,
       "name": "I'm So Blessed - Aaron Cole Mix",
       "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
-        "name": "Twenty Something",
-        "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
-      },
-      "artists": [
-        {
-          "name": "Claire Leslie",
-          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/10DMeaEjx6QL346F0PYxn6"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Hope's Gonna Find You",
-        "url": "https://open.spotify.com/album/2X1dvHTNsqJ0poH4K898cE"
-      },
-      "artists": [
-        {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Hope's Gonna Find You",
-      "url": "https://open.spotify.com/track/5Jqklo4srneGCMCLVHaFOX"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "God Showing Out",
         "url": "https://open.spotify.com/album/7xdAUVF3LuOz8FbD7rOlmW"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "STEPPIN in the LIGHT",
-        "url": "https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I"
+        "name": "Hope's Gonna Find You",
+        "url": "https://open.spotify.com/album/2X1dvHTNsqJ0poH4K898cE"
       },
       "artists": [
         {
-          "name": "Anike",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
         }
       ],
-      "duration_ms": 166200,
-      "name": "IN THE LIGHT",
-      "url": "https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv"
+      "duration_ms": 235600,
+      "name": "Hope's Gonna Find You",
+      "url": "https://open.spotify.com/track/5Jqklo4srneGCMCLVHaFOX"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1123,6 +1107,22 @@
       "duration_ms": 165382,
       "name": "Cascade View",
       "url": "https://open.spotify.com/track/6hzt50r5ZdUsQWXwMEsDcR"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "STEPPIN in the LIGHT",
+        "url": "https://open.spotify.com/album/5PmSxoI4vbgq6hWz0EWV5I"
+      },
+      "artists": [
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "IN THE LIGHT",
+      "url": "https://open.spotify.com/track/5GRJci91Qsc14761s6f4Nv"
     },
     {
       "added_at": "2025-09-14 08:34:45",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-09-14 08:34:45",
       "album": {
-        "name": "Crying Out Loud",
-        "url": "https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 200201,
-      "name": "Crying Out Loud",
-      "url": "https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn"
-    },
-    {
-      "added_at": "2025-09-14 08:34:45",
-      "album": {
         "name": "Morning glory, don't you worry.",
         "url": "https://open.spotify.com/album/485K5RKBArRkto27KG5SWT"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 253712,
       "name": "Morning glory, don't you worry.",
       "url": "https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ"
+    },
+    {
+      "added_at": "2025-09-14 08:34:45",
+      "album": {
+        "name": "Crying Out Loud",
+        "url": "https://open.spotify.com/album/4iMTjPySOIJY9dJk4wFGyB"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 200201,
+      "name": "Crying Out Loud",
+      "url": "https://open.spotify.com/track/2q7BXGqVOraGocLXEWk9Dn"
     },
     {
       "added_at": "2025-09-14 08:34:45",

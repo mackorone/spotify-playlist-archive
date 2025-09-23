@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-991 songs - 2 day 2 hr 39 min
+992 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [Momentum \- Lindja Edit](https://open.spotify.com/track/1GnypzQNfpVhWP3OwO3ekl) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl), [Lindja](https://open.spotify.com/artist/12FS78q2foxDejKiUm1BgD) | [Momentum \(Lindja Edit\)](https://open.spotify.com/album/61ujh8qIQMfaev5zPs7yOq) | 3:10 | 2024-12-05 |  |
 | [Monaco \(Live Acoustic\)](https://open.spotify.com/track/0vkHh7wKaMby3vUWwUPWOd) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Monaco \(Live Acoustic\)](https://open.spotify.com/album/1KRdnsgZNQnqDV9Agt4bEG) | 3:09 | 2024-12-05 |  |
 | [Monday \(feat\. Philip Strand\) \[Charlie Ray & CAVALLI Remix\]](https://open.spotify.com/track/1aBQ1BhrF4LCcGsHQz02ad) | [MARF](https://open.spotify.com/artist/4HUuwxRkDNuVovTumMOGFH), [Charlie Ray](https://open.spotify.com/artist/5E0lRlMBtVgbEo3gsn8UuF), [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Monday \(feat\. Philip Strand\) \[Charlie Ray & CAVALLI Remix\]](https://open.spotify.com/album/6btVoeF6HdEVDIzZXRTHKG) | 2:18 | 2023-10-26 | 2024-11-30 |
+| [Moonlight](https://open.spotify.com/track/10vhrlDf7nn1Q9IQ676vcd) | [Benjamin Lloyd](https://open.spotify.com/artist/7qG4MAmZIKEtEKTETLOGob), [ALEOS](https://open.spotify.com/artist/6SyQXYRGYdtev8UfHHMXFI), [Hologram](https://open.spotify.com/artist/7xhVWskPNq5x2ykzqYIaCT) | [Moonlight](https://open.spotify.com/album/0cmTSjd2lMwHgES9nvAe00) | 5:42 | 2025-09-22 |  |
 | [Moonlight](https://open.spotify.com/track/6zSza83er01pHYxOgFyEhz) | [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Markis](https://open.spotify.com/artist/4m1912E02pZ71m0bO9ZEMf) | [Moonlight](https://open.spotify.com/album/3sTaPfBlozA6ICXwdIupDq) | 3:15 | 2024-06-28 | 2024-09-26 |
 | [Moonwalk Season](https://open.spotify.com/track/4VspZ79KeIv7Ls0QYPDMeS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Watermät](https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W) | [Moonwalk Season](https://open.spotify.com/album/6zFZhzZoz1Nn98xYJm0bFo) | 2:41 | 2024-08-01 | 2025-01-09 |
 | [More Passion, More Energy](https://open.spotify.com/track/5M8wUZ15J0yV83tmarHQ28) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF) | [More Passion, More Energy](https://open.spotify.com/album/4tsLAQv2ykjYUAEV2Aaxlj) | 3:06 | 2024-04-05 | 2024-04-26 |

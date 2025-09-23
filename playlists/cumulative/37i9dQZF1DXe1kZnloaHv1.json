@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "work, shit, sleep",
+        "url": "https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "work, shit, sleep",
+      "url": "https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK"
+    },
+    {
+      "album": {
         "name": "Workaholic (feat. ASH ISLAND)",
         "url": "https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu"
       },

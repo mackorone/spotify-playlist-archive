@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 655026,
+  "num_followers": 655047,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack (Geb\u00e4ck in the Days 1992 - 2002)",
+        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
+    },
+    {
+      "added_at": "2025-07-24 13:47:27",
+      "album": {
         "name": "Deluxe Soundsystem",
         "url": "https://open.spotify.com/album/6EhaqP5y9HjAAJHK8G1paL"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 230160,
       "name": "Gr\u00fcne Brille",
       "url": "https://open.spotify.com/track/3TGXkgak9QCwa631dSKwT7"
-    },
-    {
-      "added_at": "2025-07-24 13:47:27",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu"
-      },
-      "artists": [
-        {
-          "name": "Fischmob",
-          "url": "https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Susanne Zur Freiheit",
-      "url": "https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw"
     },
     {
       "added_at": "2025-07-24 13:47:27",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-07-24 13:47:27",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack (Geb\u00e4ck in the Days 1992 - 2002)",
-        "url": "https://open.spotify.com/album/5MQigvNGbzeIAOAq1EOwYy"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu"
       },
       "artists": [
         {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+          "name": "Fischmob",
+          "url": "https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1"
         }
       ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/0llxnKwB2eKrVEUxBWuHgR"
+      "duration_ms": 252013,
+      "name": "Susanne Zur Freiheit",
+      "url": "https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

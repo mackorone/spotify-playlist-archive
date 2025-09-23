@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3pcvm7DiYV.md) - [plain]
 
 > Courez, dansez, sautez avec cette playlist approuvée par les enfants!
 
-[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 56 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 16 likes - 56 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-1,204 songs - 2 day 18 hr 57 min
+1,206 songs - 2 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,9 +578,11 @@
 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 | 2024-01-25 |  |
 | [Judge Judy](https://open.spotify.com/track/6ie0uyyvOKTTuIFBMPiNIl) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-10-30 | 2024-11-14 |
 | [Juju on That Beat \(TZ Anthem\)](https://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd) | [Zay Hilfigerrr](https://open.spotify.com/artist/7nKeLE1toRtW4M279iS26h), [Zayion McCall](https://open.spotify.com/artist/5AsWcQXw4RJFRWBbwa0ti0) | [Juju on That Beat \(TZ Anthem\)](https://open.spotify.com/album/5sQTfUX9uSwfCtPiYGO20V) | 2:24 | 2024-01-25 | 2025-03-28 |
+| [jumanji](https://open.spotify.com/track/64wRr1jBEOB1knhbsNf896) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 2:17 | 2025-09-22 |  |
 | [Jump Around](https://open.spotify.com/track/3TZwjdclvWt7iPJUnMpgcs) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\)](https://open.spotify.com/album/2z37UnazitI7yDEF0IjE0v) | 3:34 | 2024-01-25 | 2025-03-28 |
 | [Jumped Out the Window](https://open.spotify.com/track/0o7Zga5TFy35CcivyPDO5m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:24 | 2024-01-25 |  |
 | [JUMPIN \(with Lil Uzi Vert\)](https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:32 | 2025-03-27 | 2025-04-25 |
+| [just say dat](https://open.spotify.com/track/5sVrb7EJxs2LriI1m3KuX2) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 2:03 | 2025-09-22 |  |
 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:41 | 2024-01-25 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2024-01-25 |  |
 | [Just Wanna Rock](https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:03 | 2024-01-25 |  |

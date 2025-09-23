@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 632968,
+  "num_followers": 632996,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
-        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        },
-        {
-          "name": "Mentissa",
-          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
-        }
-      ],
-      "duration_ms": 200683,
-      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
-      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
+        "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
+        "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "duration_ms": 200683,
+      "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
+      "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
+        "name": "ALL IN (Lieblingslieder)",
+        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 163601,
+      "name": "ALL IN (Lieblingslieder)",
+      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 174545,
       "name": "It's My Life - Techno Remix",
       "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
-        "name": "ALL IN (Lieblingslieder)",
-        "url": "https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 163601,
-      "name": "ALL IN (Lieblingslieder)",
-      "url": "https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "Erinner mich",
-        "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "2 Engel & Charlie",
-          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
-        }
-      ],
-      "duration_ms": 151409,
-      "name": "Erinner mich",
-      "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
         "name": "Fast Cars & Superstars",
         "url": "https://open.spotify.com/album/62rvgbsnTV1ZIcOwqyUYQR"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 118701,
       "name": "Fast Cars & Superstars",
       "url": "https://open.spotify.com/track/4TMczfHTXHSDPHOsxqS1sa"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
+        "name": "Erinner mich",
+        "url": "https://open.spotify.com/album/0jpS7XxChqr5DLtQb2FwFl"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "2 Engel & Charlie",
+          "url": "https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA"
+        }
+      ],
+      "duration_ms": 151409,
+      "name": "Erinner mich",
+      "url": "https://open.spotify.com/track/4lArhqEySHQwMKkWkPXQEK"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -1347,6 +1347,26 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
+        "name": "Man On The Moon: The End Of Day (Int'l Version)",
+        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Day 'N' Nite - Crookers Remix",
+      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "Man On The Moon: The End Of Day (Int'l Version)",
-        "url": "https://open.spotify.com/album/6oPPKtAwNNlkW4wwHfQDfM"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Day 'N' Nite - Crookers Remix",
-      "url": "https://open.spotify.com/track/34sGnIHB3ZthMvHpNX1i7e"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
         "name": "HERZBLATT (AUA AUA)",
         "url": "https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt"
       },
@@ -1411,6 +1411,26 @@
       "duration_ms": 160886,
       "name": "HERZBLATT (AUA AUA)",
       "url": "https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -1435,26 +1455,6 @@
       "duration_ms": 149250,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/6d4o00VKYnYb1DgvZr2xuV"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
-        "name": "KETA UND KRAWALL",
-        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 125492,
-      "name": "KETA UND KRAWALL",
-      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
+        "name": "BLING BLING",
+        "url": "https://open.spotify.com/album/1VU8Yqh6lv2GDJcFxLptn8"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "nocashfromparents",
+          "url": "https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ"
+        }
+      ],
+      "duration_ms": 147019,
+      "name": "BLING BLING",
+      "url": "https://open.spotify.com/track/5QfjKQjACPTsHUFryqh1Fu"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
         "name": "Cooler Than Me",
         "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
       },
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "BLING BLING",
-        "url": "https://open.spotify.com/album/1VU8Yqh6lv2GDJcFxLptn8"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "nocashfromparents",
-          "url": "https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ"
-        }
-      ],
-      "duration_ms": 147019,
-      "name": "BLING BLING",
-      "url": "https://open.spotify.com/track/5QfjKQjACPTsHUFryqh1Fu"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/4QHIneMHTfRSGjk6YZc6kv"
       },
@@ -1623,6 +1623,26 @@
       "duration_ms": 129412,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1wsr7jSHPn3ozDWJUG4UXG"
+    },
+    {
+      "added_at": "2025-09-18 22:00:13",
+      "album": {
+        "name": "FOTZE",
+        "url": "https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "AMENA",
+      "url": "https://open.spotify.com/track/6wPupZx0WFmkj9wnCrCUJU"
     },
     {
       "added_at": "2025-09-18 22:00:13",
@@ -1771,26 +1791,6 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "FOTZE",
-        "url": "https://open.spotify.com/album/5rNQXvHYeexPQHtsz5OJWo"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Barr\u00e9",
-          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "AMENA",
-      "url": "https://open.spotify.com/track/6wPupZx0WFmkj9wnCrCUJU"
-    },
-    {
-      "added_at": "2025-09-18 22:00:13",
-      "album": {
         "name": "Bad Girls",
         "url": "https://open.spotify.com/album/54wKqhFUN5V8lh4tfPTmHH"
       },
@@ -1827,22 +1827,22 @@
     {
       "added_at": "2025-09-18 22:00:13",
       "album": {
-        "name": "MAMA GEHT'S FANTASTISCH",
-        "url": "https://open.spotify.com/album/3qc2mZ7Xb83o3e5yR70GGD"
+        "name": "Zelten auf Kies",
+        "url": "https://open.spotify.com/album/5lJav0t1BmpS0b3sFmTaKY"
       },
       "artists": [
         {
-          "name": "LARI LUKE",
-          "url": "https://open.spotify.com/artist/4CTjrUu7zgqHjGDjFKYTAm"
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
         },
         {
-          "name": "Das Lumpenpack",
-          "url": "https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM"
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
         }
       ],
-      "duration_ms": 135000,
-      "name": "MAMA GEHT'S FANTASTISCH",
-      "url": "https://open.spotify.com/track/1WpzWood5j5iFzoFprHdOP"
+      "duration_ms": 137837,
+      "name": "Zelten auf Kies",
+      "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"
     }
   ],
   "unique_name": "schiebt anders",

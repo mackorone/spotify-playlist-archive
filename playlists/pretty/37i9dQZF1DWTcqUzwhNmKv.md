@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Poppy, Amy Lee and Courtney LaPlante are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,185 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,720 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 12 | [Glenwood](https://open.spotify.com/track/1zMtEW4SE5s3VqrmTicJaY) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [I Feel The Everblack Festering Within Me](https://open.spotify.com/album/07y8y3CSFTq48HwejrTdGw) | 6:43 |
 | 13 | [Still Waiting](https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [FRANK ZUMMO](https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz) | [Still Waiting](https://open.spotify.com/album/0Ha1jsS1Y0BZwiOK1mgWOc) | 2:40 |
 | 14 | [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
-| 15 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
-| 16 | [God Fearing Man](https://open.spotify.com/track/2Uq8o3398JlRbWdpvObYii) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Return of The Black](https://open.spotify.com/album/5WxVgcugX1HZj8ARMfGnmK) | 5:19 |
-| 17 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 |
+| 15 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 |
+| 16 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 |
+| 17 | [God Fearing Man](https://open.spotify.com/track/2Uq8o3398JlRbWdpvObYii) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [The Return of The Black](https://open.spotify.com/album/5WxVgcugX1HZj8ARMfGnmK) | 5:19 |
 | 18 | [Silent Divide](https://open.spotify.com/track/6IoPjy0HGLlNpn7HuhG1kC) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silent Divide](https://open.spotify.com/album/1tLqFsA3Cjx6gzC9vageGW) | 5:03 |
 | 19 | [Lachryma](https://open.spotify.com/track/4TjCaQsPQhGZUk0Hls4O3Y) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Skeletá](https://open.spotify.com/album/2PFJKjBqXpYrRcdClhfcnX) | 4:36 |
 | 20 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [carry on for you](https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [THE WHEEL](https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv) | 4:21 |
 | 80 | [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 |
 
-Snapshot ID: `AAAAAHyjWG9iWc8IR7F7Ith4q/ve7TS7`
+Snapshot ID: `AAAAADY+vVWiX++9rGGuIM44boPJekH6`

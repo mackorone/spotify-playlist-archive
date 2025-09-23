@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "MIRROR",
+        "url": "https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP"
+      },
+      "artists": [
+        {
+          "name": "GENBLUE \u5e7b\u85cd\u5c0f\u718a",
+          "url": "https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "BADASS",
+      "url": "https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm"
+    },
+    {
+      "album": {
         "name": "I'VE MINE",
         "url": "https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp"
       },
@@ -14790,7 +14808,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 190000,
       "name": "Love Your Flower",
       "url": "https://open.spotify.com/track/3YCSEjFJTceJXxzC4gdKei"

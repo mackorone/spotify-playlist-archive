@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Por fin llegó el momento que tanto esperabas ¡música fresca para tus oídos! Enjambre en portada 🐝
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,056,244 likes - 81 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,273 likes - 81 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,943 likes - 166 songs - 9 hr 45 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,939 likes - 156 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,15 +164,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 154 | [Nuthin' To Me](https://open.spotify.com/track/5FMvaP81aYGu43CG2tGM9G) | [K.W.E.E.N.](https://open.spotify.com/artist/0StiwUCBhnELT6Z9eNDoZC), [T\. Hatter](https://open.spotify.com/artist/1tOGv9ZY3ZYRoKQ3UDCyhu) | [Nuthin' To Me](https://open.spotify.com/album/7Mfx86pf3IyI23Dqo04I3a) | 3:28 |
 | 155 | [Stars \- Remix](https://open.spotify.com/track/2j3eqFYIW4AJdjpa94KQFR) | [Stephen.wav](https://open.spotify.com/artist/7p1gE2TuOlSnM9ZYikcT10), [Rehsa](https://open.spotify.com/artist/4LAzTlAerez2KIQhodG2Po) | [Stars \(Remix\)](https://open.spotify.com/album/5thaMAXiikA2N2eLDsLVE4) | 3:03 |
 | 156 | [Don't Waste It](https://open.spotify.com/track/6YEgVSezyB2Ao8S8sTkG3A) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Don't Waste It](https://open.spotify.com/album/3gjgoW5hY1qQc3vQqcXRhq) | 3:14 |
-| 157 | [2077](https://open.spotify.com/track/0KEvHfnLwj2KSx9MvpkH6g) | [Skarlett Smith](https://open.spotify.com/artist/68BxswKUUDjkA1I4Qjcw3m) | [2077](https://open.spotify.com/album/5ffYC62Zm127JijB1qwC8v) | 2:21 |
-| 158 | [Reservations](https://open.spotify.com/track/4zktczR383cj2zFnYIs9WF) | [DJ B Scott](https://open.spotify.com/artist/2YTUV2ClVOXdqxLwplpkJz) | [Midnight Snacks](https://open.spotify.com/album/5DZHvSOVjuRieuxcjfiIHp) | 3:09 |
-| 159 | [Miscalculated](https://open.spotify.com/track/3PGGM3JQ0VIIcrE35sz6Up) | [Aidan Siegel](https://open.spotify.com/artist/37WK7kq2QMzdXZBQjxcavf) | [Miscalculated](https://open.spotify.com/album/6qeR7iTrV0qV7xTbHJgE0r) | 2:36 |
-| 160 | [TEN](https://open.spotify.com/track/2Xz7UzyHr1xuScSMfukmDX) | [V2tuff](https://open.spotify.com/artist/71PMdxbl9jGt0Xobc6I09C) | [TEN](https://open.spotify.com/album/159i71muXIxr02sUA5oUm4) | 2:26 |
-| 161 | [No Better Place](https://open.spotify.com/track/0qQshqZ5aM3vNUyFLxGS2n) | [Ellerruj](https://open.spotify.com/artist/7jn2K6OoPgMW1iwMTYqDPR), [Montage](https://open.spotify.com/artist/6D9mUqgKz3eAVEjRN5K7P5) | [No Better Place](https://open.spotify.com/album/4ewEr2Wd2hfyVKxZIBEFfO) | 2:14 |
-| 162 | [Dahans](https://open.spotify.com/track/0GwdaP2BUObx411KNpSR91) | [El Duo](https://open.spotify.com/artist/6WN6boRgMKH4gPIHPbMoTD) | [Dahans](https://open.spotify.com/album/2EBMsU0oNCwEixcDO6HsOu) | 4:34 |
-| 163 | [Choices](https://open.spotify.com/track/64Nf3YMqdpHSFKneGTJY9y) | [Emmanuel Marquel](https://open.spotify.com/artist/0K95GRfGsVmHNBpcsACClv) | [Choices](https://open.spotify.com/album/4bEaGamGMzmFLUnzqmHiwa) | 2:52 |
-| 164 | [LOVE AGAIN](https://open.spotify.com/track/6JCoMXDubg7gtNTHEzNLTc) | [Howard Lakins\-Graves](https://open.spotify.com/artist/6Y4NJQHiRQ7W1YrOpUv1oq), [Brian McKnight Jr.](https://open.spotify.com/artist/3kMMoBYpbDgdN3zvQedA8U) | [STILL LOVIN'](https://open.spotify.com/album/7kNeDFIMAUS63x0gsZLeAx) | 3:58 |
-| 165 | [Loved By You](https://open.spotify.com/track/48ME3EOHqCtCxgTJ7sfWUA) | [Kathy Jenneh](https://open.spotify.com/artist/6If2vDhq1gmfdeXAoQ4oyH) | [Conversation](https://open.spotify.com/album/7FN6oDaPW5yJqZJHTdZjlX) | 3:05 |
-| 166 | [Buffalo Road](https://open.spotify.com/track/2T4SooBrjDN65je9dGioDi) | [Marty O'Neill](https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz) | [Buffalo Road](https://open.spotify.com/album/1aKMxBgbmpHOS3Geuc6QIt) | 3:21 |
 
-Snapshot ID: `AAA0lGGoznQf6BIo9PM2VdcqQoOnC5J3`
+Snapshot ID: `AAA0lSHv6WFx6oAshIhjm5ouDHO0Kf9h`

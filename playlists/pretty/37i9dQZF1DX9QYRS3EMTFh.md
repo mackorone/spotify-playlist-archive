@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,900 likes - 52 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,922 likes - 52 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 |
-| 2 | [Many men](https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc) | [Josh](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Many men](https://open.spotify.com/album/4yjmENCAsHDxhF5fZbUAVt) | 2:39 |
-| 3 | [Like That](https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/0XF5pY3GW1x5DASvQE0aPK) | 2:25 |
-| 4 | [Tourelle](https://open.spotify.com/track/4Io3ibXSdVWchJrlnfhGWq) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Tourelle](https://open.spotify.com/album/7BOrNl5kFJpPoBTR306aS7) | 1:51 |
-| 5 | [Anlè'y](https://open.spotify.com/track/2UkEK08bKc2nElzOBTJlhm) | [Goldn.B](https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn), [DJ Sown](https://open.spotify.com/artist/54WyjrEzRfxtF0fEAg3uqT) | [Anlè'y](https://open.spotify.com/album/0mrbqpzNvnlharvcCv6vIx) | 2:15 |
-| 6 | [Be So Bad](https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d) | [Jane Macgizmo](https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn) | [Be So Bad](https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD) | 1:55 |
-| 7 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
+| 1 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 |
+| 2 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 |
+| 3 | [Many men](https://open.spotify.com/track/7zwNOwAg7mhUSidOudjsbc) | [Josh](https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm), [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Many men](https://open.spotify.com/album/4yjmENCAsHDxhF5fZbUAVt) | 2:39 |
+| 4 | [Like That](https://open.spotify.com/track/4df0O8eGWBUvW73DPVCoqY) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Like That](https://open.spotify.com/album/0XF5pY3GW1x5DASvQE0aPK) | 2:25 |
+| 5 | [Tourelle](https://open.spotify.com/track/4Io3ibXSdVWchJrlnfhGWq) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Tourelle](https://open.spotify.com/album/7BOrNl5kFJpPoBTR306aS7) | 1:51 |
+| 6 | [Anlè'y](https://open.spotify.com/track/2UkEK08bKc2nElzOBTJlhm) | [Goldn.B](https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn), [DJ Sown](https://open.spotify.com/artist/54WyjrEzRfxtF0fEAg3uqT) | [Anlè'y](https://open.spotify.com/album/0mrbqpzNvnlharvcCv6vIx) | 2:15 |
+| 7 | [Be So Bad](https://open.spotify.com/track/6BRBW3sMYOHoyfUNXhyQ5d) | [Jane Macgizmo](https://open.spotify.com/artist/4plzsAuxRehTrEn92axavn) | [Be So Bad](https://open.spotify.com/album/6Hi4bhaRpO4EVb6y1zd6ZD) | 1:55 |
 | 8 | [Soum Soum](https://open.spotify.com/track/59TPSkY5yVmw0kvbPa9uV3) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [Soum Soum](https://open.spotify.com/album/6f4IyHaKqP6tIcW6ltXiEw) | 2:19 |
 | 9 | [Shatta Confessions](https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [Shatta Confessions](https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP) | 2:01 |
 | 10 | [La Belette](https://open.spotify.com/track/2MUVuW834R2Ep08eyXFAZx) | [Kamelon Officiel](https://open.spotify.com/artist/0k3C7u1fCchhNMHbcBy9xN), [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [La Belette](https://open.spotify.com/album/4K0F2zMCMwMYRNT2tEqvqO) | 1:41 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 51 | [No Long Talk](https://open.spotify.com/track/7hLfMab65joMK7EB25EFVf) | [El Génah](https://open.spotify.com/artist/00WhHFfWSNGuF8utj6mBcL) | [No Long Talk](https://open.spotify.com/album/2otJJIhWUjYmlnuxP6I3MG) | 2:50 |
 | 52 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 |
 
-Snapshot ID: `AAAAAHCDi1UqSERGdkWGfl4jwVnPQ70c`
+Snapshot ID: `AAAAALb2XDnbU3dGXBwZRPOgkTWVf8TV`

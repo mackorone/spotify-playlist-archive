@@ -351,8 +351,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 341 | [Fim de Namoro](https://open.spotify.com/track/3G9DccUI57pY6720LShoHm) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Diferentinho Não, Diferentão! 4.0](https://open.spotify.com/album/0UAXEHz4IeBjnRJZkw1pvv) | 3:02 |
 | 342 | [Cê Me Prendeu na Cama \- Ao Vivo](https://open.spotify.com/track/0APerQqyoRKPTugPRf4iJn) | [Mateus Ferraz e Thiago](https://open.spotify.com/artist/3LuxckbxBRl9PvTTz6oxp5) | [Na Raça \(Ao Vivo\)](https://open.spotify.com/album/6wjbRR7sb5KEkL0ojhiNBv) | 2:13 |
 | 343 | [Tô Pronto pra Falar Te Amo](https://open.spotify.com/track/3cyYa1bzfbFM7DWhFBWOlq) | [Fabrício & Henrique](https://open.spotify.com/artist/37KhHt9AiI1rVk6eydGafz) | [Tô Pronto pra Falar Te Amo](https://open.spotify.com/album/5oVKRfONxZH2S64V5zEqFV) | 3:04 |
-| 344 | [Cerveja Salgada \- Ao Vivo](https://open.spotify.com/track/4keRjwsjQNgx0pqQqI3KTy) | [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Luau do Israel \(Ao Vivo\)](https://open.spotify.com/album/4jVBOCHVKA40lTYKYYSAgJ) | 2:34 |
-| 345 | [Resenha do Goiás](https://open.spotify.com/track/4h2GTPBvKFMDbep1P7Ete5) | [Rodrigo Morais](https://open.spotify.com/artist/1yscJv8FhnitzrLXPXocLT) | [Resenha do Goiás](https://open.spotify.com/album/6yCBr6f9wvhx1wsMA77agV) | 2:53 |
+| 344 | [Resenha do Goiás](https://open.spotify.com/track/4h2GTPBvKFMDbep1P7Ete5) | [Rodrigo Morais](https://open.spotify.com/artist/1yscJv8FhnitzrLXPXocLT) | [Resenha do Goiás](https://open.spotify.com/album/6yCBr6f9wvhx1wsMA77agV) | 2:53 |
+| 345 | [Cerveja Salgada \- Ao Vivo](https://open.spotify.com/track/4keRjwsjQNgx0pqQqI3KTy) | [Israel Novaes](https://open.spotify.com/artist/3hWuWrOOgSCDkP5iqEHxMy) | [Luau do Israel \(Ao Vivo\)](https://open.spotify.com/album/4jVBOCHVKA40lTYKYYSAgJ) | 2:34 |
 | 346 | [Cinema Mudo \- Ao Vivo](https://open.spotify.com/track/55bOfB3zPl66lIkmZDvJLB) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Ao Vivo em Goiânia](https://open.spotify.com/album/7uZwmYIgR8SficVzYekvT0) | 2:33 |
 | 347 | [Motivo \- Ao Vivo](https://open.spotify.com/track/6B3WQUzBhn8sF894bed1LD) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:48 |
 | 348 | [Por Entre a Multidão](https://open.spotify.com/track/7tx6En8pHolpfIOrCkYYYF) | [Alan e Aladim](https://open.spotify.com/artist/6lrgtZI2qTutbZMppO9NJd) | [Sol e Lua](https://open.spotify.com/album/03s2BAuRk2zXWLXaiqj3Sg) | 3:24 |
@@ -482,4 +482,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 472 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 | 473 | [Alvo do Momento](https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b) | [Alan Leone](https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J) | [Alvo do Momento](https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg) | 3:32 |
 
-Snapshot ID: `Ab82fAAAAABY7SADMYrMiXvbR4SPs34b`
+Snapshot ID: `Ab88CAAAAAA/PC2RIsLDTrqCfd2ejxKC`

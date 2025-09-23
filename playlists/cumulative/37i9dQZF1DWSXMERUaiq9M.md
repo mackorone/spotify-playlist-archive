@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-560 songs - 1 day 10 hr 39 min
+561 songs - 1 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [Pain in my Heart](https://open.spotify.com/track/2cxlyCk4NZZDDaq7TDcsSs) | [Schrotthagen](https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94) | [Sturm und Drang](https://open.spotify.com/album/3OT6k1ifjAOirGAlpQCkNK) | 3:44 | 2024-06-13 |  |
 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 | 2025-08-07 |  |
 | [Papi](https://open.spotify.com/track/58uQz5X3NinstpE6HSY3lk) | [NOVAH](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Papi](https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr) | 3:36 | 2025-07-11 |  |
-| [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-09-15 |  |
+| [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-09-15 | 2025-09-23 |
 | [Party People](https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Nik Sitz](https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Party People](https://open.spotify.com/album/1iTxUzn9DqvScz3SJVjdgz) | 3:15 | 2024-08-12 |  |
 | [Patience](https://open.spotify.com/track/5CteVFkxiW0XfzCbTyh4Pc) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Patience](https://open.spotify.com/album/4OX5yUMOuU4w1DCcmXtEpy) | 3:28 | 2024-08-22 | 2024-09-17 |
 | [Pensiero Energia](https://open.spotify.com/track/2ivsdYNQIo0qFNBuM22kl2) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [WAXTAPE 2](https://open.spotify.com/album/1uHpC5qOXH6SYPXYEW1Jbh) | 3:29 | 2023-11-09 | 2023-11-17 |
@@ -508,6 +508,7 @@
 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 | 2023-03-10 | 2024-03-08 |
 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 | 2023-03-22 | 2024-10-14 |
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-10-17 |  |
+| [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-09-18 |  |
 | [Touch My Body](https://open.spotify.com/track/0iUwIi7QYV7ecwiwx5pCgd) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Touch My Body](https://open.spotify.com/album/2sFc58O2JuDvjGT11Gzgli) | 2:45 | 2024-08-29 | 2024-09-17 |
 | [Touch My Body](https://open.spotify.com/track/4phMw5RRSbWpVWCBvOwsoO) | [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [IGDA](https://open.spotify.com/artist/0ak1kXL9XCay4yQq9ha2U8) | [Touch My Body](https://open.spotify.com/album/22tKTbDZGkrXRp4VDUZmDH) | 4:01 | 2024-06-13 | 2024-10-26 |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2025-08-16 |

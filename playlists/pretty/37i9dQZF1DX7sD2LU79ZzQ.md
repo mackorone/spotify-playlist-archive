@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Kenriz
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,804 likes - 118 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,814 likes - 118 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

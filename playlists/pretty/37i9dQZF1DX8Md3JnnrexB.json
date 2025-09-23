@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 213828,
+  "num_followers": 213813,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 333133,
+      "name": "New York State Of Mind",
+      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
         "name": "Bring it on Home to Me (feat. Charlie Bereal)",
         "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 201600,
       "name": "Bring it on Home to Me (feat. Charlie Bereal)",
       "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 333133,
-      "name": "New York State Of Mind",
-      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
     },
     {
       "added_at": "2025-06-06 13:10:13",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-06-06 13:10:13",
       "album": {
+        "name": "Reachin' Back",
+        "url": "https://open.spotify.com/album/1ECSHlpISo7TsVMsbEdiuT"
+      },
+      "artists": [
+        {
+          "name": "Regina Belle",
+          "url": "https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Just Don't Want To Be Lonely",
+      "url": "https://open.spotify.com/track/15moIwvRD6cUWrDUIB6tJo"
+    },
+    {
+      "added_at": "2025-06-06 13:10:13",
+      "album": {
         "name": "Lunch Money",
         "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 205868,
       "name": "Changes",
       "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
-    },
-    {
-      "added_at": "2025-06-06 13:10:13",
-      "album": {
-        "name": "Reachin' Back",
-        "url": "https://open.spotify.com/album/1ECSHlpISo7TsVMsbEdiuT"
-      },
-      "artists": [
-        {
-          "name": "Regina Belle",
-          "url": "https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Just Don't Want To Be Lonely",
-      "url": "https://open.spotify.com/track/15moIwvRD6cUWrDUIB6tJo"
     },
     {
       "added_at": "2025-06-06 13:10:13",

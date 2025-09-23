@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 333653,
+  "num_followers": 333516,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Me 4 U",
         "url": "https://open.spotify.com/album/7cVXH4slEYzGjDh498OFyL"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 180565,
       "name": "Cheerleader (Felix Jaehn Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -283,26 +283,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 177933,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 216706,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -671,6 +671,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
+      },
+      "artists": [
+        {
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "Dragostea din tei",
+      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
         "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "DiscO-Zone",
-        "url": "https://open.spotify.com/album/0LUnPpNFYk72u29RAW2aLJ"
-      },
-      "artists": [
-        {
-          "name": "O-Zone",
-          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "Dragostea din tei",
-      "url": "https://open.spotify.com/track/52Zr0sinhWTCRrQhRRY4EP"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
+        "name": "Ese d\u00eda piensa en m\u00ed",
+        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Dolores se llamaba Lola",
+      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
-        "name": "Ese d\u00eda piensa en m\u00ed",
-        "url": "https://open.spotify.com/album/6MXM5OM3TjFsYtOQJVBxtu"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Dolores se llamaba Lola",
-      "url": "https://open.spotify.com/track/5kQb5n1sMy5CmYTSoB5p6M"
     },
     {
       "added_at": "2025-07-02 10:54:22",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2025-07-02 10:54:22",
       "album": {
-        "name": "Tomalacate",
-        "url": "https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2"
-      },
-      "artists": [
-        {
-          "name": "Pap\u00e1 Levante",
-          "url": "https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Me Pongo Colorada",
-      "url": "https://open.spotify.com/track/4AA1JmBpy3Bx5ZLAnJxOto"
-    },
-    {
-      "added_at": "2025-07-02 10:54:22",
-      "album": {
         "name": "70s los Anos Jovenes - la Coleccion",
         "url": "https://open.spotify.com/album/7JFT8yBfrCYgoVo5tBtbQf"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 213413,
       "name": "Un Rayo de Sol",
       "url": "https://open.spotify.com/track/6mUQ6NW9WRcCuSsi4kzdlf"
+    },
+    {
+      "added_at": "2025-07-02 10:54:22",
+      "album": {
+        "name": "Tomalacate",
+        "url": "https://open.spotify.com/album/0tp5aBBT7GRafCQt0Nvgi2"
+      },
+      "artists": [
+        {
+          "name": "Pap\u00e1 Levante",
+          "url": "https://open.spotify.com/artist/4gb13Uvpvz0EFEHtmYdgDf"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Me Pongo Colorada",
+      "url": "https://open.spotify.com/track/4AA1JmBpy3Bx5ZLAnJxOto"
     },
     {
       "added_at": "2025-07-02 10:54:22",

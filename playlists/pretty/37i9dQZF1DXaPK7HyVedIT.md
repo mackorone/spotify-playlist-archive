@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: illusionize
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,731 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,178 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 64 | [Beggin' \- ZAC Remix](https://open.spotify.com/track/1NpBHGPBlC191Nx40nWAU4) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Beggin' \(ZAC Remix\)](https://open.spotify.com/album/33YxPl0rbDdi1tp4yQBmXE) | 3:06 |
 | 65 | [JACK'S BODY...](https://open.spotify.com/track/126cfFarS5uhy7blJKkJHT) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [JACK'S BODY...](https://open.spotify.com/album/2clkMIuAkkraL3w9nMP937) | 3:15 |
 | 66 | [Se Que Quiere](https://open.spotify.com/track/6lG1GtM6FvL18EvOVQELC8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [Se Que Quiere](https://open.spotify.com/album/1rzZR3P22ciSYWLJWz541Z) | 3:40 |
-| 67 | [The Way I Love You \- TS7 Remix](https://open.spotify.com/track/3nF3JwFwqbo0Zj1P8GPQp5) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [The Way I Love You \(TS7 remix\)](https://open.spotify.com/album/0NKRazsMS147STNqnWWhzA) | 3:21 |
+| 67 | [The Way I Love You \- TS7 Remix](https://open.spotify.com/track/3nF3JwFwqbo0Zj1P8GPQp5) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [The Way I Love You \(TS7 Remix\)](https://open.spotify.com/album/0NKRazsMS147STNqnWWhzA) | 3:21 |
 | 68 | [Tussi Blinder \(feat\. Nick Cave\)](https://open.spotify.com/track/54MofiLlcf5oEhBm0kAl33) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p) | [TOOLS 4 HARDWORKERS 003](https://open.spotify.com/album/2pnyfQZDaMjZkxz3qvFn2V) | 3:47 |
 | 69 | [Eu Te Entendo](https://open.spotify.com/track/1RZC681xBe8FurrhayqK0W) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Eu Te Entendo](https://open.spotify.com/album/2hkdC0W3mt3FCSLendbnev) | 2:37 |
 | 70 | [Let U Go](https://open.spotify.com/track/7D8fKd93Cn4Tfo60UyrINZ) | [Future Skies](https://open.spotify.com/artist/2QsiOG21qF7v7rmQUqt3gB), [RaizenX](https://open.spotify.com/artist/1kNZUnKgbrJRnJs1WrcFhn), [Lowisa](https://open.spotify.com/artist/7qUCkgqoTHxAUSUb70LA1n) | [Let U Go](https://open.spotify.com/album/49JuBJqoPzqufV6oaXeWo6) | 3:23 |

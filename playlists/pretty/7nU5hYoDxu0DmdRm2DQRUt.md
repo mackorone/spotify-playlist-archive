@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,728 likes - 248 songs - 1 day 0 hr 29 min
+[Kompakt Records](https://open.spotify.com/user/kompaktrecords) - 7,730 likes - 248 songs - 1 day 0 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/7nU5hYoDxu0DmdRm2DQRUt.md) - [plain]
 | 111 | [Harbour Launch](https://open.spotify.com/track/2Nd2ePCQFX6GZi2vYPGKDw) | [Tammo Hesselink](https://open.spotify.com/artist/476UnBjd8dIwacvae4WSDz) | [Mantis 16](https://open.spotify.com/album/4Uj0seS6OWobosGLy1VZCW) | 5:33 |
 | 112 | [What's a Girl To Do \(Remix\)](https://open.spotify.com/track/74Cpvp7cPBKQLby2tzSEYl) | [Housepainters](https://open.spotify.com/artist/42RX9RBkomkMBf7wY8BeIK), [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [I Wanna Sleep In Your Arms / What's a Girl To Do](https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA) | 3:53 |
 | 113 | [Three 'O Three \- Remastered 2021](https://open.spotify.com/track/3LYJw5E4lY8wNpS8Ozbv3T) | [Public Energy](https://open.spotify.com/artist/4QJutd2DcjF4VzfNXKbgkY) | [Three 'O Three \(Remastered 2021\)](https://open.spotify.com/album/7mzFQ76d8mSQC1JtjhOei0) | 5:12 |
-| 114 | [010X \- Hardspace Mix](https://open.spotify.com/track/0P27b4XO8H7MjB3ffBEj4O) | [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT) | [H006](https://open.spotify.com/album/7FaevgQRCVztlAlBKREeTZ) | 5:58 |
+| 114 | [010X \- Hardspace Mix](https://open.spotify.com/track/0P27b4XO8H7MjB3ffBEj4O) | [Benjamin Damage](https://open.spotify.com/artist/4erUkZEVS1jXi5kwEtNvjT), [Len Faki](https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4), [Hardspace](https://open.spotify.com/artist/5oI2WY5wdZNuEl7mKOxqPz) | [H006](https://open.spotify.com/album/7FaevgQRCVztlAlBKREeTZ) | 5:58 |
 | 115 | [x\-plor01](https://open.spotify.com/track/7Dq3aE3DzNciqcaKNARrmm) | [Sam Goku](https://open.spotify.com/artist/2phu8EHvQpvoHG5BivWr0l) | [Explorations 01](https://open.spotify.com/album/0ge7hu2xyxBdtzN69LGgdl) | 6:03 |
 | 116 | [Ag Penthouse \( 2\. Epoche \) \- Remastered 2025](https://open.spotify.com/track/6AGMLrzETR6PurCZLiaLDF) | [Triola](https://open.spotify.com/artist/4SpBNXtuURDoPjtIRvGyqi) | [Triola Im Fünftonraum \(Remastered 2025\)](https://open.spotify.com/album/6giexPf1c0KvrFv1FgTOzv) | 5:16 |
 | 117 | [Permanent \(Robag Wruhme Ruinalta Forli Remix\)](https://open.spotify.com/track/6SMjnUmiVXscXUxiZSgd1X) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Gespona](https://open.spotify.com/artist/59ewWwEHhZ0yq7SKXxUj0d), [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Permanent EP](https://open.spotify.com/album/3WmPAlw6JPnxuCqWokSrDo) | 7:18 |

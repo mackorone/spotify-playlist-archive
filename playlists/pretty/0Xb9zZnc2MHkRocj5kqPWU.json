@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 61412,
+  "num_followers": 61390,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIHdQz4E1I6MpyY1Vu9b5iKxKCbx3m",
+  "snapshot_id": "AAAIH1OymRaZeCE206u68E+PBIYtEEun",
   "tracks": [
+    {
+      "added_at": "2025-09-22 13:27:47",
+      "album": {
+        "name": "Ithaca Suite/IV. Penelopeia",
+        "url": "https://open.spotify.com/album/0F5yKT6K8NbuXm1KPnPfnC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Ithaca Suite: IV. Penelopeia",
+      "url": "https://open.spotify.com/track/6Qw6T3l4tyQReC1CkvAhql"
+    },
     {
       "added_at": "2025-09-17 12:58:50",
       "album": {
@@ -35,6 +51,26 @@
       "duration_ms": 113666,
       "name": "Sonata for Viola da Gamba in D Major, BWV 1028: I. Adagio",
       "url": "https://open.spotify.com/track/6Vm3S4KUmQPRm0NmRz4ZZp"
+    },
+    {
+      "added_at": "2025-09-22 13:28:32",
+      "album": {
+        "name": "Prelude No. 5",
+        "url": "https://open.spotify.com/album/4ZoDkxHH5gIvNDk5p8hOQC"
+      },
+      "artists": [
+        {
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
+        },
+        {
+          "name": "Mao Fujita",
+          "url": "https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl"
+        }
+      ],
+      "duration_ms": 149040,
+      "name": "Prelude No. 5",
+      "url": "https://open.spotify.com/track/2Pdl3GWx6v3D9SIqRlv5hn"
     },
     {
       "added_at": "2025-09-17 13:00:53",

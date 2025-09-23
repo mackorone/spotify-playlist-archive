@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 160509,
       "name": "HANDICAP",
       "url": "https://open.spotify.com/track/1gl6s2ND3ykl2u6quYARm3"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 159000,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/7K9hPmzDGuo9WxKG5B1X1Y"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-23",
       "duration_ms": 191250,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R"
@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "SI JE*LA",
+        "url": "https://open.spotify.com/album/0fEpaeEzonkGKyK7v5ROMq"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "SI JE*LA",
+      "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
+    },
+    {
+      "album": {
         "name": "Drive By",
         "url": "https://open.spotify.com/album/5VO7ksbvagitZYZArtxl33"
       },
@@ -2518,6 +2536,28 @@
       "duration_ms": 190173,
       "name": "Sm\u011bj se te\u010f",
       "url": "https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g"
+    },
+    {
+      "album": {
+        "name": "Co je te\u010f v\u00edc",
+        "url": "https://open.spotify.com/album/3TPwbdgBbj01IMoYypmn80"
+      },
+      "artists": [
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        },
+        {
+          "name": "Robin Zoot",
+          "url": "https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Son\u00e1ta (feat. Robin Zoot)",
+      "url": "https://open.spotify.com/track/7dIAJCXkTp2hhfBiN4UByB"
     },
     {
       "album": {
@@ -3106,6 +3146,32 @@
       "duration_ms": 193548,
       "name": "V\u00edtej mezi n\u00e1ma (feat. STEIN27)",
       "url": "https://open.spotify.com/track/4oLJGn19J4OWAPC7fV5b5E"
+    },
+    {
+      "album": {
+        "name": "WAGWAN",
+        "url": "https://open.spotify.com/album/5bMBiptclUjKLfEDRyBIna"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        },
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102226,
+      "name": "WAGWAN",
+      "url": "https://open.spotify.com/track/3uuVaRYdplEzu9akDjXPSX"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Sep 22:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Sep 22:04 UTC.
 
-5,547 songs - 12 day 21 hr 4 min
+5,549 songs - 12 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2503,7 +2503,7 @@
 | [iris](https://open.spotify.com/track/5NnHfx430GU4gpG7Q285hZ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [iris](https://open.spotify.com/album/3zPK1g3Cctift1J1G8EHBs) | 3:16 | 2025-05-14 | 2025-05-22 |
 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-16 |  |
 | [Ironic](https://open.spotify.com/track/36gwEZRF9Z2EeG3FYkbbmO) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Ironic](https://open.spotify.com/album/3JEizfDyZUx4Qb18AK4v1f) | 2:08 | 2025-05-18 | 2025-05-24 |
-| [Is Anybody Out There?](https://open.spotify.com/track/6eZHTf3YOMmlaxeOLoMC6R) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Is Anybody Out There?](https://open.spotify.com/album/2P2lvrYnmVPRWD15JREeLY) | 3:48 | 2025-09-12 |  |
+| [Is Anybody Out There?](https://open.spotify.com/track/6eZHTf3YOMmlaxeOLoMC6R) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Is Anybody Out There?](https://open.spotify.com/album/2P2lvrYnmVPRWD15JREeLY) | 3:48 | 2025-09-12 | 2025-09-23 |
 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 | 2025-07-11 | 2025-07-19 |
 | [IS THIS LOVE](https://open.spotify.com/track/7HfDulyv4KLZAD170lF8at) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IS THIS LOVE](https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt) | 2:35 | 2025-03-11 | 2025-03-19 |
 | [Is This Love To You](https://open.spotify.com/track/2ncHgB3JjvnY4YcoMo8tGl) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Is This Love To You](https://open.spotify.com/album/5wEwgDkXxpWYoa18RjS85V) | 2:55 | 2024-10-25 | 2024-10-30 |
@@ -3754,7 +3754,7 @@
 | [Pray To That](https://open.spotify.com/track/00FPHiKX0CAJ767v58xmhO) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Pray To That](https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo) | 3:06 | 2025-07-31 | 2025-08-09 |
 | [Premonition](https://open.spotify.com/track/3lkxMoHjbpl0fJEYKAiMY1) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Premonition](https://open.spotify.com/album/2b48mggsy2bQQgHJ7296hV) | 5:12 | 2024-12-05 | 2024-12-07 |
 | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 | 2024-05-31 | 2024-06-02 |
-| [PRESS + DELETE](https://open.spotify.com/track/5l3dbOAZpjGR14bxQ3F00a) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [PRESS + DELETE](https://open.spotify.com/album/2tWpQ1C6DzSnCJjGbQfoVi) | 1:53 | 2025-09-13 |  |
+| [PRESS + DELETE](https://open.spotify.com/track/5l3dbOAZpjGR14bxQ3F00a) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [PRESS + DELETE](https://open.spotify.com/album/2tWpQ1C6DzSnCJjGbQfoVi) | 1:53 | 2025-09-13 | 2025-09-23 |
 | [Pretend](https://open.spotify.com/track/3pTCy3GDllLC0wHXtMSVZh) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Pretend](https://open.spotify.com/album/4xohbt8vyQmpeq9ULNxMl6) | 3:05 | 2024-09-27 | 2024-10-01 |
 | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/track/7sGQ4jAOUs3YG1CFyjDxdc) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pretrial \(Let Her Go Home\)](https://open.spotify.com/album/6oJAjOS2cydCmNmBmmqNQU) | 3:58 | 2025-05-08 | 2025-05-17 |
 | [Pretty](https://open.spotify.com/track/4HQjjJIZnysvN2lxSj1oOt) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pretty](https://open.spotify.com/album/0p0uvSSSnejW1Dpv94bE1c) | 3:26 | 2024-06-12 | 2024-06-14 |
@@ -4677,6 +4677,7 @@
 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 | 2024-09-27 | 2024-10-02 |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-14 | 2025-04-25 |
 | [The 360 remix with robyn and yung lean](https://open.spotify.com/track/0VYJseZYvfVP3YOsQZ1tzS) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [The 360 remix with robyn and yung lean](https://open.spotify.com/album/0xi6xSPqjepsvd0eSiHh1h) | 2:09 | 2024-05-31 | 2024-06-03 |
+| [THE 6 7 SONG](https://open.spotify.com/track/7IHPd4eNBC32TypcewoxMl) | [Lil Godd](https://open.spotify.com/artist/23bALH5mAJqFVkFJ6oXjZd) | [THE 6 7 SONG](https://open.spotify.com/album/09vTesrDKBkKrjnrdnu7tH) | 1:50 | 2025-09-22 |  |
 | [The 8th Of October \(To August 17th\)](https://open.spotify.com/track/5fCBlvLLFWvVz77TYQgDJq) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The 8th of October \(To August 17th\)](https://open.spotify.com/album/6lYrkx584iCFXeP5NdMOLH) | 5:59 | 2024-07-09 | 2024-07-11 |
 | [The Adventures of Cocaine Larry](https://open.spotify.com/track/3DgPs41AXYyH951ZdrnPeu) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [The Adventures of Cocaine Larry](https://open.spotify.com/album/3UQGAcqllwtEjtd4GfHG0M) | 2:05 | 2025-07-04 | 2025-07-13 |
 | [The Angel And The Saint](https://open.spotify.com/track/4JATzwy5FXaVytfAXlNwt8) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [The Angel And The Saint](https://open.spotify.com/album/2PASgP6RCyjLjFzW574iKX) | 3:43 | 2024-07-11 | 2024-07-13 |
@@ -5283,6 +5284,7 @@
 | [Where or When](https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Where or When](https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR) | 3:23 | 2024-07-19 | 2024-07-20 |
 | [Where That Came From](https://open.spotify.com/track/6vNJDp8znmaQp2vAXHRPGd) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Where That Came From](https://open.spotify.com/album/0ijAqKhMaahw0WCyuntRlB) | 3:11 | 2024-05-04 | 2024-05-08 |
 | [Where the Flowers Never Grow](https://open.spotify.com/track/4cFI7k2rfpnxNKxUhHmANB) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Where The Flowers Never Grow](https://open.spotify.com/album/44cgztHaaoJh5taG0n0PG0) | 4:24 | 2025-08-21 | 2025-09-03 |
+| [Where The Light Leaves Us](https://open.spotify.com/track/1lLA4faE2GArVSJt3WcYnj) | [Greyhaven](https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL) | [Where The Light Leaves Us](https://open.spotify.com/album/1HR5sY9V7Tb8u2wyO5Th1o) | 3:47 | 2025-09-22 |  |
 | [Where To Look](https://open.spotify.com/track/6fp01DAoqsZNyTwZidZ74I) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Where To Look](https://open.spotify.com/album/4fwjQarLnKj466NhmGtlgc) | 4:50 | 2025-06-03 | 2025-06-12 |
 | [Where To Start](https://open.spotify.com/track/260EW8FU6e45oZ6sylXrfS) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Where To Start](https://open.spotify.com/album/55wb82Be19wprPto18OIX6) | 3:34 | 2025-06-22 | 2025-06-30 |
 | [Where You At\. \(WYA\)](https://open.spotify.com/track/6OxMTvs5GBQihsZ5mHP7Wm) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO), [Key Nyata](https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5) | [Where You At\. \(WYA\)](https://open.spotify.com/album/06J0lyjs4CFDxqrQ0aUJmF) | 3:08 | 2024-07-24 | 2024-07-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Girl Group.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,902 likes - 210 songs - 12 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,911 likes - 210 songs - 12 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-41 songs - 3 hr 16 min
+42 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Let's Get Down](https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:59 | 2025-03-11 |  |
 | [Little Walter](https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:53 | 2025-03-11 |  |
 | [Lovin' You](https://open.spotify.com/track/7M4CRFWgCuqYOuh5Kz1hm5) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:53 | 2025-03-11 |  |
+| [Loving You](https://open.spotify.com/track/0pLRTql7JrVXVlYVQoGZvj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [All Hits At the House of Blues](https://open.spotify.com/album/4TiRuR4PBDntV78q3a4hcr) | 1:52 | 2025-09-23 |  |
 | [Me And You](https://open.spotify.com/track/2hcyCCIcnqkZUN85MwXvaY) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Boyz N The Hood](https://open.spotify.com/album/7KTu7Fg01AgY8UdPvbjIep) | 4:10 | 2025-03-11 |  |
 | [More than Flowers](https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [More than Flowers](https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9) | 3:07 | 2025-03-11 |  |
 | [My Ex\-Girlfriend](https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:52 | 2025-03-11 |  |

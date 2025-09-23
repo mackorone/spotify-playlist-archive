@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Zimmer90, Nina Chuba, Lewis Capaldi, RAYE und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,518 likes - 84 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,414 likes - 84 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Sarah Toscano e Mida in cover
 
-380 songs - 19 hr 23 min
+381 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Hooligans](https://open.spotify.com/track/5xYtSKU6Fz2ZwY491faFIs) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Hooligans](https://open.spotify.com/album/1XoGxiGWfdPCHH2ItOz3SM) | 2:53 | 2025-07-17 | 2025-09-05 |
 | [Iconica](https://open.spotify.com/track/4aexKxJ2PjkmYW9sq0xgva) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [Iconica](https://open.spotify.com/album/7BWU1JvhZUtGvXxwA0jzl5) | 2:25 | 2025-06-19 | 2025-07-11 |
 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 | 2024-10-17 | 2025-05-02 |
+| [IL GIOCO DEL SILENZIO](https://open.spotify.com/track/4d2d57V0NYORXRGylmLY7R) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:56 | 2025-09-22 |  |
 | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/track/57bACDRjkVmyFVjYPGRkY3) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/album/6sJp75vw3Cp5p2GX5t6VQr) | 2:32 | 2024-09-19 | 2025-01-17 |
 | [Il mio giorno preferito](https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:26 | 2025-08-21 |  |
 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 | 2024-11-14 | 2025-01-10 |
@@ -199,7 +200,7 @@
 | [Lunarossa \(feat\. Mahmood\)](https://open.spotify.com/track/1AtoFMtluLDiW0nZd7skxp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Canerandagio](https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR) | 2:58 | 2025-08-28 |  |
 | [Lunedì blu](https://open.spotify.com/track/23WMdJgRYnVZpxPNUamXa8) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lunedì blu](https://open.spotify.com/album/3o217jWs0rLnkC1bj48RAw) | 3:09 | 2025-09-18 |  |
 | [L’ANTIDOTO](https://open.spotify.com/track/3LoF82vdIovbNRhhye7MVu) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [L’ANTIDOTO](https://open.spotify.com/album/7kcfPADNgBevXaUV3H9u4Q) | 2:28 | 2025-03-20 | 2025-04-25 |
-| [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-08-28 |  |
+| [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 | 2025-08-28 | 2025-09-23 |
 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-20 | 2025-01-17 |
 | [MAI PIÙ](https://open.spotify.com/track/7EQBu1WZmTq24SXIpUIpTn) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq), [Longo](https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI) | [MAI PIÙ](https://open.spotify.com/album/2b3n7jKsXTfEkREiKejVWJ) | 2:52 | 2025-07-17 | 2025-08-29 |
 | [MAIMAI](https://open.spotify.com/track/1JPEVvnCZWSOlw9XG24Ih2) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [MAIMAI](https://open.spotify.com/album/2oRIjNDhxfCmwG56jFV8nq) | 2:55 | 2025-06-05 | 2025-06-27 |

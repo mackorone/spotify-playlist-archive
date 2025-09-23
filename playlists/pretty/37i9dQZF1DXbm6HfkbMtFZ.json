@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 824182,
+  "num_followers": 824253,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Los Belkings (Ayer y Hoy)",
-        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
-      },
-      "artists": [
-        {
-          "name": "Los Belkings",
-          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Sabor Dulce",
-      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "HEART OF THE MATTER",
         "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 226779,
       "name": "HEART OF THE MATTER",
       "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Los Belkings (Ayer y Hoy)",
+        "url": "https://open.spotify.com/album/3vvNY1JAizDCAnMnxUTZie"
+      },
+      "artists": [
+        {
+          "name": "Los Belkings",
+          "url": "https://open.spotify.com/artist/6bI3v3BkqFwEbXQfB081Dn"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Sabor Dulce",
+      "url": "https://open.spotify.com/track/2Xlx1ATkGYjYjmNn0w7O59"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "All I Really Wanna Do",
-        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 303871,
       "name": "RISE",
       "url": "https://open.spotify.com/track/2pOEcXFeoDdS7RAsrACVTn"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "All I Really Wanna Do",
+        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "The Way That I Do",
-        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 210329,
-      "name": "The Way That I Do",
-      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1363,18 +1343,22 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Bismillah",
-        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+        "name": "The Way That I Do",
+        "url": "https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz"
       },
       "artists": [
         {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 227293,
-      "name": "Soulless Friends",
-      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+      "duration_ms": 210329,
+      "name": "The Way That I Do",
+      "url": "https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1407,6 +1391,22 @@
       "duration_ms": 275746,
       "name": "Canta",
       "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Bismillah",
+        "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 227293,
+      "name": "Soulless Friends",
+      "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1583,42 +1583,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Laurence",
-        "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
-      },
-      "artists": [
-        {
-          "name": "Ed Mount",
-          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
-        },
-        {
-          "name": "David Numwami",
-          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Laurence",
-      "url": "https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
-        "name": "Quadron",
-        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
-      },
-      "artists": [
-        {
-          "name": "Quadron",
-          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Slippin",
-      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Kathy and Paul",
         "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
       },
@@ -1639,6 +1603,42 @@
       "duration_ms": 174311,
       "name": "Kathy and Paul",
       "url": "https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Quadron",
+        "url": "https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ"
+      },
+      "artists": [
+        {
+          "name": "Quadron",
+          "url": "https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Slippin",
+      "url": "https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Laurence",
+        "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
+      },
+      "artists": [
+        {
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "David Numwami",
+          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Laurence",
+      "url": "https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL"
     },
     {
       "added_at": "2025-08-29 04:23:56",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-08-29 04:23:56",
       "album": {
-        "name": "Favorite Kind of People",
-        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
-      },
-      "artists": [
-        {
-          "name": "Jaco Jaco",
-          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
-        }
-      ],
-      "duration_ms": 184776,
-      "name": "Favorite Kind of People",
-      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
-    },
-    {
-      "added_at": "2025-08-29 04:23:56",
-      "album": {
         "name": "Freedom to Talk",
         "url": "https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 233500,
       "name": "Lament for the Sky",
       "url": "https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy"
+    },
+    {
+      "added_at": "2025-08-29 04:23:56",
+      "album": {
+        "name": "Favorite Kind of People",
+        "url": "https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm"
+      },
+      "artists": [
+        {
+          "name": "Jaco Jaco",
+          "url": "https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL"
+        }
+      ],
+      "duration_ms": 184776,
+      "name": "Favorite Kind of People",
+      "url": "https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz"
     },
     {
       "added_at": "2025-08-29 04:23:56",

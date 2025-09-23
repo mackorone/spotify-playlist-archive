@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 46115,
+  "num_followers": 46165,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 185880,
       "name": "Control (with Joeboy & Bella Shmurda)",
       "url": "https://open.spotify.com/track/4wdWoMwW8W4HfKj49XQm0S"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 159294,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "i think i love you 2",
         "url": "https://open.spotify.com/album/2P3HUjiMqIuzFNFUaGSIQ9"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 164400,
       "name": "i think i love you 2",
       "url": "https://open.spotify.com/track/3u5Q23spNntDZdPwhjnWq5"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 159294,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "K.O.K",
-        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
-      },
-      "artists": [
-        {
-          "name": "Brown Joel",
-          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "K.O.K",
-      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
         "name": "DID I LIE",
         "url": "https://open.spotify.com/album/7DBv2Kav5WcnKlrBvEo2Xm"
       },
@@ -1151,6 +1131,26 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "K.O.K",
+        "url": "https://open.spotify.com/album/1P5BXDSNnqjkPpUMGcmjtt"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        },
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "K.O.K",
+      "url": "https://open.spotify.com/track/1jS5C5fntvTGsoq3khJ8Pa"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "France Feeling",
         "url": "https://open.spotify.com/album/47fgj8CFJdyZiaPgUqpmcG"
       },
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "Lemme Know",
+        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 173571,
+      "name": "Lemme Know",
+      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "ODABO",
         "url": "https://open.spotify.com/album/4RHU8YObN5ELcnHs4IVeXR"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Lemme Know",
-        "url": "https://open.spotify.com/album/0Ju3LStL4uh8YqHCnJ53yf"
+        "name": "You",
+        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
         }
       ],
-      "duration_ms": 173571,
-      "name": "Lemme Know",
-      "url": "https://open.spotify.com/track/75zq5BZ67Hp1o8x6w3HQDY"
+      "duration_ms": 152307,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1227,6 +1243,26 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "DIANA",
+        "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        },
+        {
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+        }
+      ],
+      "duration_ms": 140481,
+      "name": "DIANA",
+      "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "Give Me Love",
         "url": "https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce"
       },
@@ -1243,18 +1279,18 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
+        "name": "Wife Material",
+        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
       },
       "artists": [
         {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
         }
       ],
-      "duration_ms": 152307,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
+      "duration_ms": 177421,
+      "name": "Wife Material",
+      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1275,22 +1311,6 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
         "name": "From The Soil",
         "url": "https://open.spotify.com/album/7Fg63uNtYiTRMrJjMsHhTI"
       },
@@ -1307,6 +1327,22 @@
       "duration_ms": 181176,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4KEBHEiQve5RAIgX1LPYzw"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/0JnOKecWNZfS56QQMYYp5k"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/11jGNXZHEsZfknf2fNUNXg"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1387,42 +1423,6 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "DIANA",
-        "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        },
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
-        }
-      ],
-      "duration_ms": 140481,
-      "name": "DIANA",
-      "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "Wife Material",
-        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 177421,
-      "name": "Wife Material",
-      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
         "name": "Check & Balance",
         "url": "https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx"
       },
@@ -1439,6 +1439,26 @@
       "duration_ms": 156786,
       "name": "Check & Balance",
       "url": "https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
+      },
+      "artists": [
+        {
+          "name": "STUBBORN",
+          "url": "https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 167198,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1507,26 +1527,6 @@
       "duration_ms": 169411,
       "name": "Sexy Roma",
       "url": "https://open.spotify.com/track/3yTgd6eflmtQUr7QYXTS3g"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "LCV3: Sweet Surrender.",
-        "url": "https://open.spotify.com/album/4mNAKHeQjbQ59K12lgcB4M"
-      },
-      "artists": [
-        {
-          "name": "WANI",
-          "url": "https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt"
-        },
-        {
-          "name": "Azanti",
-          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
-        }
-      ],
-      "duration_ms": 224954,
-      "name": "Wifey",
-      "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"
     }
   ],
   "unique_name": "AfroBae",

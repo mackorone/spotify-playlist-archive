@@ -1,12 +1,12 @@
 {
   "description": "This is The Kid LAROI. The essential tracks, all in one playlist.",
-  "num_followers": 246220,
+  "num_followers": 246325,
   "original_name": "This Is The Kid LAROI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM3ugAAAAACcwr+Xn6gp7hhPcich1TfW",
+  "snapshot_id": "aM9AAAAAAADLrH/9YtxdywS+6wyvlWUz",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 161948,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crL6Uy4ghQGJiuUHNJIqK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
         "url": "https://open.spotify.com/album/1cwp5FEVGQaKoBV1WPbIdJ"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 165000,
       "name": "Distant Strangers (feat. The Kid LAROI & Imogen Heap)",
       "url": "https://open.spotify.com/track/7oa9VKcTKyWIYTnaz5V6xI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 161948,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crL6Uy4ghQGJiuUHNJIqK"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Her Go",
-        "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 122112,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Love Letter To You 5",
         "url": "https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 170053,
       "name": "Wind",
       "url": "https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let Her Go",
+        "url": "https://open.spotify.com/album/2PMhID6CzdaI8t4dlPSodY"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 122112,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/0c6SqvH32BMgbEFvpHc2gs"
     },
     {
       "added_at": null,
