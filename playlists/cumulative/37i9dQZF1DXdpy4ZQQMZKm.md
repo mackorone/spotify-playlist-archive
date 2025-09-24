@@ -2,7 +2,7 @@
 
 ### [Top Viral Throwbacks ](https://open.spotify.com/playlist/37i9dQZF1DXdpy4ZQQMZKm)
 
-> The songs with the biggest throwback moments\. Cover: Black Eyed Peas
+> The songs with the biggest throwback moments\. Cover: Rihanna
 
 160 songs - 10 hr 2 min
 

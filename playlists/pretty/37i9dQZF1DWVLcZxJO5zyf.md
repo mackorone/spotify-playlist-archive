@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Os Garotin
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,850 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,543 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 19 | [Imaginando Aquele Dia](https://open.spotify.com/track/6WVzOH9YzOPJg6Q9BAEMVb) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW), [DMAX](https://open.spotify.com/artist/7hRbhxODHE4tKYSiH912RQ) | [Imaginando Aquele Dia](https://open.spotify.com/album/20XHwLB5MwITbzqQ6ITZpR) | 2:33 |
 | 20 | [Numa Ilha](https://open.spotify.com/track/2MitriRScA3ZKpVd1lXAbm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Numa Ilha](https://open.spotify.com/album/3iWRG01i6PWGpA7cADfovj) | 4:09 |
 | 21 | [viciado em mim](https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [viciado em mim](https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg) | 3:14 |
-| 22 | [Me Pede](https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw) | [Me Pede](https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5) | 2:36 |
+| 22 | [Me Pede](https://open.spotify.com/track/5XZeb44ubop1TqtpZy6tlc) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [LKAHH](https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw), [PL](https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1) | [Me Pede](https://open.spotify.com/album/4ocTbAztiGLSzyZzFHHkq5) | 2:36 |
 | 23 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
 | 24 | [Carta Marcada](https://open.spotify.com/track/1Ts6QC1fpuzULRbhFP4rCz) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [As Pequenas Grandes Coisas](https://open.spotify.com/album/2NHq83Hm0jiwfxe4M6yvHL) | 2:34 |
 | 25 | [TE AMO SEM CULPA](https://open.spotify.com/track/74g5gz1MusuqwDliRLaHBB) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [TE AMO SEM CULPA](https://open.spotify.com/album/3piwEDU4YDP5yPJjsavx9g) | 2:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Rahmania Astrini
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,155 likes - 113 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,154 likes - 113 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 3 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 |
 | 4 | [Love, Again](https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Love, Again](https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD) | 3:13 |
 | 5 | [forevermore](https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [forevermore](https://open.spotify.com/album/7rbZZAHxa3yL17Gt6eXSjX) | 3:48 |
-| 6 | [Mother Angels \(Feat\. Gloria Jessica\)](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
+| 6 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
 | 7 | [Ordinary Day](https://open.spotify.com/track/1cvtW4ZA6Tfmap44lhb5GG) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Ordinary Day](https://open.spotify.com/album/37OQK1sKHnUDkFWFnsbX1V) | 3:26 |
 | 8 | [Elevator Music](https://open.spotify.com/track/3JPlpg1N3G4wv5QrTOSjvR) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Elevator Music](https://open.spotify.com/album/5AjKa0nb3p4CSPOpICdWNu) | 2:52 |
 | 9 | [ragebait!](https://open.spotify.com/track/1agtREeSQBAZWgZqMJN7me) | [Father Koi](https://open.spotify.com/artist/3TiCUxDWDi4qSDLITpkziT), [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [ragebait!](https://open.spotify.com/album/1XAqhHKsw7tlS1ZnOes3Sr) | 2:20 |

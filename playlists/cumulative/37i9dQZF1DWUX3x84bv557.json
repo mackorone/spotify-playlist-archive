@@ -4350,7 +4350,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 180000,
       "name": "De Lieve Jongen",
       "url": "https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum"
@@ -12724,6 +12724,28 @@
       "duration_ms": 167512,
       "name": "Niemand Die Ons Ziet",
       "url": "https://open.spotify.com/track/1ZfHgxaPfhlAdYiFLE4LMw"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2025 (Bente)",
+        "url": "https://open.spotify.com/album/2oR3Tc7y4IwkG7SgymbRUd"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210112,
+      "name": "Niemand Kan Blijven",
+      "url": "https://open.spotify.com/track/0mtgMC6QSzemU5fTImXU6R"
     },
     {
       "album": {

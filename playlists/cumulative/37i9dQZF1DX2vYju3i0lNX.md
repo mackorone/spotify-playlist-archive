@@ -4,7 +4,7 @@
 
 > Mellow jazz to stay focused or unwind.
 
-1,249 songs - 3 day 1 hr 30 min
+1,251 songs - 3 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,7 +470,9 @@
 | [I Remember You](https://open.spotify.com/track/1k2KhAnHidiCUsTyOiJtr2) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [I Remember You](https://open.spotify.com/album/1fRZ3SYAcAoTeiK2h7SNE0) | 3:02 | 2022-10-13 | 2025-08-02 |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-11-24 |  |
 | [I Should Care](https://open.spotify.com/track/0Fuv0sclTFK36rSTMhklUi) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [I Should Care](https://open.spotify.com/album/3FHi9xLPL0jYEcz1c6it1A) | 2:54 | 2022-10-27 | 2024-06-18 |
+| [I still hear your voice](https://open.spotify.com/track/0xem0NbddWGyPE3crPyn1e) | [Trio in Transit](https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1) | [I still hear your voice](https://open.spotify.com/album/34a4pBS2njnk6XJxyUc1BC) | 3:13 | 2025-09-23 |  |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-06-28 | 2025-03-19 |
+| [I Try Not To Worry](https://open.spotify.com/track/6i78FMOtR7auXQ15mWyYjE) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [I Try Not To Worry](https://open.spotify.com/album/2nCIZTSeCZQs5dNsG88NlW) | 3:49 | 2025-09-23 |  |
 | [I Waited For You](https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [I Waited For You](https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8) | 3:24 | 2024-01-19 |  |
 | [I Want to Fall in Love Again](https://open.spotify.com/track/6qMwBXtzsJSIjvcvU4XM4h) | [Jonah Anderson](https://open.spotify.com/artist/5Pb7mQGBSkDqTrQKTKeSZa) | [I Want to Fall in Love Again](https://open.spotify.com/album/4IaSuN6KaIscea9oy98UN3) | 3:52 | 2024-12-09 |  |
 | [I Will](https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [I Will](https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5) | 2:48 | 2023-06-15 | 2024-12-17 |
@@ -602,7 +604,7 @@
 | [Late At Night](https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Late At Night](https://open.spotify.com/album/5TuHXCf4FxpKGBtrdibi9m) | 3:50 | 2023-08-10 |  |
 | [Late At Night](https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz) | [Wildflower Trio](https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6) | [Late At Night](https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl) | 3:08 | 2024-05-23 |  |
 | [Late Bagatelle](https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Late Bagatelle](https://open.spotify.com/album/1rn3qFrQqF1w4uKBU0mnhW) | 3:59 | 2023-08-17 | 2024-04-11 |
-| [Late Night](https://open.spotify.com/track/3PTxiKGQyyaPVug10VZdxM) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Late Night](https://open.spotify.com/album/44gOVNI3sSaD2PUJCR5fYT) | 3:41 | 2025-04-23 |  |
+| [Late Night](https://open.spotify.com/track/3PTxiKGQyyaPVug10VZdxM) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Late Night](https://open.spotify.com/album/44gOVNI3sSaD2PUJCR5fYT) | 3:41 | 2025-04-23 | 2025-09-24 |
 | [Late Night](https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Late Night](https://open.spotify.com/album/4xhU21k5nDS4D0V1RpL1JB) | 4:52 | 2024-04-23 | 2024-09-03 |
 | [Late Night Serenade](https://open.spotify.com/track/335m1wcXqBuTOnGkHvQLKE) | [Devon Crouch](https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ) | [Late Night Serenade](https://open.spotify.com/album/0vgWnvmrW0MKhqM0x47EoG) | 3:15 | 2023-03-30 | 2025-05-20 |
 | [Late Nocturne](https://open.spotify.com/track/3aIvfacaZq4AUlXcebMnrp) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Late Nocturne](https://open.spotify.com/album/6LJBIF7JqtPzQFAgVN6bTK) | 3:55 | 2024-02-02 | 2025-02-04 |
@@ -1217,7 +1219,7 @@
 | [Windfall](https://open.spotify.com/track/56Vf0MpwUNFrkNkwSxHJyA) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Windfall](https://open.spotify.com/album/2tlBn0cUQfFlV2YUx2tOhM) | 3:48 | 2022-08-30 | 2023-03-31 |
 | [Windless Days](https://open.spotify.com/track/0Bybo3KobzGTREyK3gndqc) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Straight Forward](https://open.spotify.com/album/6KR1QN0SNpmZZ0swzHR8ZZ) | 2:48 | 2021-12-07 | 2023-05-05 |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 |  |
-| [Wish You Saw Me Now](https://open.spotify.com/track/5HsJIS4za8q98TQA0K1cGW) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Wish You Saw Me Now](https://open.spotify.com/album/2wZmi9lDeK4jYz6cpeaZku) | 4:07 | 2025-04-15 |  |
+| [Wish You Saw Me Now](https://open.spotify.com/track/5HsJIS4za8q98TQA0K1cGW) | [Brilliant Supervision](https://open.spotify.com/artist/4l67wBSXU77P21X5o2dyUo) | [Wish You Saw Me Now](https://open.spotify.com/album/2wZmi9lDeK4jYz6cpeaZku) | 4:07 | 2025-04-15 | 2025-09-24 |
 | [Wistman's Wood](https://open.spotify.com/track/3Ws7oJ00Pku52b7jBzs5uC) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Wistman's Wood](https://open.spotify.com/album/5xu7vGp7JG9PMbUq3ljfS1) | 3:29 | 2025-02-24 |  |
 | [Witchcraft](https://open.spotify.com/track/66aAqXbtPixOM1WDoEuhHb) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Witchcraft](https://open.spotify.com/album/37mjWYjc42OJuWa65ZyFBQ) | 3:02 | 2022-11-10 | 2023-09-01 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-09-06 |  |

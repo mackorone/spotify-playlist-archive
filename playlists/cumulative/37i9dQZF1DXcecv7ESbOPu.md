@@ -2,7 +2,7 @@
 
 ### [New Music Friday Sweden](https://open.spotify.com/playlist/37i9dQZF1DXcecv7ESbOPu)
 
-> Äntligen fredag och ny musik från Molly Sandén, Tjuvjakt, Drake med flera\. Happy New Music Friday!
+> Äntligen fredag och ny musik från Molly Sandén, Tjuvjakt, FELICIA med flera\. Happy New Music Friday!
 
 20,922 songs - 45 day 3 hr 11 min
 

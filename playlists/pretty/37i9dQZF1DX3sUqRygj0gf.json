@@ -43,22 +43,6 @@
     {
       "added_at": "2025-09-04 12:42:33",
       "album": {
-        "name": "Frosty",
-        "url": "https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "Frosty",
-      "url": "https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP"
-    },
-    {
-      "added_at": "2025-09-04 12:42:33",
-      "album": {
         "name": "Christmas (Baby Please Come Home) [Acoustic]",
         "url": "https://open.spotify.com/album/6F9QQItaqltAOrDhzWZT8a"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 128808,
       "name": "Christmas (Baby Please Come Home) - Acoustic",
       "url": "https://open.spotify.com/track/6beE2TbUK19qeOCBQUjqRF"
+    },
+    {
+      "added_at": "2025-09-04 12:42:33",
+      "album": {
+        "name": "Frosty",
+        "url": "https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "Frosty",
+      "url": "https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP"
     },
     {
       "added_at": "2025-09-04 12:42:33",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-09-04 12:42:33",
       "album": {
-        "name": "My Grown-Up Christmas List (Acoustic)",
-        "url": "https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "My Grown-Up Christmas List - Acoustic",
-      "url": "https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak"
-    },
-    {
-      "added_at": "2025-09-04 12:42:33",
-      "album": {
         "name": "We Three Kings",
         "url": "https://open.spotify.com/album/1NZWpPv9ATEef2q7UaS5hc"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 161538,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/5dT77tyFweHSHC8V0lrDFH"
+    },
+    {
+      "added_at": "2025-09-04 12:42:33",
+      "album": {
+        "name": "My Grown-Up Christmas List (Acoustic)",
+        "url": "https://open.spotify.com/album/7DZUNrDWRLi5FF9Vf2qD7V"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "My Grown-Up Christmas List - Acoustic",
+      "url": "https://open.spotify.com/track/7ssaj3OghFAI8gMvTRbdak"
     },
     {
       "added_at": "2025-09-04 12:42:33",

@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  ARJN, KDS
 
-452 songs - 23 hr 8 min
+453 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [AMBAMBO](https://open.spotify.com/track/2sDFXeDMFuNzvPuLAwoN6f) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [HRISHI](https://open.spotify.com/artist/7kKoRxgfmSO6FeY8iuUO3O) | [ARGA](https://open.spotify.com/album/0sZCipEOkwl9VfD32Q7FyV) | 3:05 | 2025-01-09 | 2025-03-04 |
 | [Amen](https://open.spotify.com/track/0CMOlt3vM21drQLqhrVxmh) | [The Ray](https://open.spotify.com/artist/7n1Ew2dYaHBPGdDVcmxbFF) | [Amen](https://open.spotify.com/album/4ofKnzUE1kNJkUql4IQv8Z) | 1:39 | 2025-04-16 | 2025-05-14 |
 | [Andale!](https://open.spotify.com/track/6o0JMl7xewXAXL0J6UltIL) | [lil.Beelzebub](https://open.spotify.com/artist/2yUeYx7aax8s6U9GlYPRIj), [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K) | [Andale!](https://open.spotify.com/album/2iE7PgxskRO0OBWeIZFMeh) | 2:57 | 2025-05-30 | 2025-07-29 |
-| [Anthakkum](https://open.spotify.com/track/3MlarDz7CAzaWLwwWiqj5L) | [Jalal Magnus](https://open.spotify.com/artist/5L72CcMRU3srar3TP7dne1) | [Anthakkum](https://open.spotify.com/album/4Sdsvt83sBS9W2IzhI1a8f) | 4:38 | 2025-07-15 |  |
+| [Anthakkum](https://open.spotify.com/track/3MlarDz7CAzaWLwwWiqj5L) | [Jalal Magnus](https://open.spotify.com/artist/5L72CcMRU3srar3TP7dne1) | [Anthakkum](https://open.spotify.com/album/4Sdsvt83sBS9W2IzhI1a8f) | 4:38 | 2025-07-15 | 2025-09-24 |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/2sngiZAoGkAyXocp4ycegn) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila](https://open.spotify.com/album/2lA7PI7Z1VioAJnlARl6mF) | 2:35 | 2022-12-23 | 2023-04-01 |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/6wRQXidgQSSd4tXtl3S7qB) | [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lTCLlF8ulRo1Cfu1Y9aY1) | 2:36 | 2022-12-23 | 2023-08-29 |
 | [Aparaada Panka](https://open.spotify.com/track/6UrEu6rwdoHsULeFFWdTFq) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aparaada Panka \(From "Maradona" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fxqH4tL9geSj3V3c6bTxo) | 3:36 | 2022-06-23 | 2023-07-24 |
@@ -284,6 +284,7 @@
 | [No Regret](https://open.spotify.com/track/50VIE8nJRXx7ZEDX1cPvkd) | [Noidsensi](https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K), [Slaya](https://open.spotify.com/artist/1gHrrXq8gRv3gBIxOgOdcD), [Sweezy Trip](https://open.spotify.com/artist/5v61kr8mEQuzSocL9c0DTl) | [No Regret](https://open.spotify.com/album/1areWTR8k3YiBD6qNhPhcQ) | 3:35 | 2025-07-25 |  |
 | [Non stop \- Original Mix](https://open.spotify.com/track/4WrjJnmBcZP8LoSAEs9FV0) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN), [Dopeboyghost](https://open.spotify.com/artist/0kgftNbtoiZeiPFYNfmv6C) | [Non Stop](https://open.spotify.com/album/2PJdMazq1OXwWkl8TLvaMw) | 2:48 | 2025-06-09 | 2025-08-02 |
 | [NOOR](https://open.spotify.com/track/5F3AGUDGd6aolSQAvr5Rao) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [NOOR](https://open.spotify.com/album/5qSkWadQGiYygLIS74i3A8) | 3:16 | 2025-08-01 |  |
+| [Not Like This \- Original mix](https://open.spotify.com/track/1Ri8LSjMUtTeKW9Of3OjAb) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN), [Lostix](https://open.spotify.com/artist/51J9B31DKYbV5PHMJMNp2r) | [Not Like This](https://open.spotify.com/album/3677Ht91id901Sa153vjo2) | 2:37 | 2025-09-23 |  |
 | [Off Beat](https://open.spotify.com/track/0VfJ3oN2pLfbNEOhDWHSVW) | [Mc Nasrani](https://open.spotify.com/artist/5aFSicJRS8LVWngpNLh4DB) | [Off Beat](https://open.spotify.com/album/79uOviJWVAKFpWRFtPPL3U) | 3:44 | 2025-05-23 | 2025-07-19 |
 | [Old School Lady](https://open.spotify.com/track/3W4wKsqx5gNHAyQG7LGHVd) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Arcado](https://open.spotify.com/artist/5zmWaSsrRerKIj3Fk8nGlq) | [Old School Lady](https://open.spotify.com/album/0c3Bfxk1nrXU9tA2xtVodR) | 2:38 | 2025-03-21 | 2025-05-17 |
 | [Omalaale \- From "Not so Hip\-Hop"](https://open.spotify.com/track/6w98geVbyM9CfkWrcEBd9o) | [Hatsmyth](https://open.spotify.com/artist/1TnWgtL7dTSCAsBpYvCzbQ), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [EKAN](https://open.spotify.com/artist/5qljCniMsqgTU5K4as7ISP) | [Omalaale \(From "Not so Hip\-Hop"\)](https://open.spotify.com/album/07DeSRIz4C8UQa2GLdiSPU) | 3:51 | 2025-09-02 |  |

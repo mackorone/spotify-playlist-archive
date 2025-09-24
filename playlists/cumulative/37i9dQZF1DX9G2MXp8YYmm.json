@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Ah Yar",
+        "url": "https://open.spotify.com/album/4mwo62Bd37GCXFST365dwI"
+      },
+      "artists": [
+        {
+          "name": "Demet \u00d6zdemir",
+          "url": "https://open.spotify.com/artist/5RT8kelYwxEFA2udosMx6Q"
+        }
+      ],
+      "date_added": "2025-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131854,
+      "name": "Ah Yar",
+      "url": "https://open.spotify.com/track/2bO2ECvjWpbCy64fOpIDTc"
+    },
+    {
+      "album": {
         "name": "Ahde Vefa",
         "url": "https://open.spotify.com/album/21KSHDfmvZjU8vlL72JJFI"
       },
@@ -4649,6 +4667,24 @@
     },
     {
       "album": {
+        "name": "Ne G\u00fczel",
+        "url": "https://open.spotify.com/album/53mJVJzgF3hso0VqW1A9Ur"
+      },
+      "artists": [
+        {
+          "name": "Fettah Can",
+          "url": "https://open.spotify.com/artist/17fJCykpa2EqIioh0zamN9"
+        }
+      ],
+      "date_added": "2025-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197240,
+      "name": "Ne G\u00fczel",
+      "url": "https://open.spotify.com/track/0Vu3Qi8DdS7lQGgy7v0QR2"
+    },
+    {
+      "album": {
         "name": "Ne Olur",
         "url": "https://open.spotify.com/album/1tJGZnDCmzMhNpLfjnyvxg"
       },
@@ -4878,7 +4914,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 128766,
       "name": "Panzehir",
       "url": "https://open.spotify.com/track/0c7DbeZAQlYnqBCIf0T9Hx"
@@ -5056,7 +5092,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 156372,
       "name": "Sakin Ol",
       "url": "https://open.spotify.com/track/1TsqyCcGctVZpyLraRRt2i"

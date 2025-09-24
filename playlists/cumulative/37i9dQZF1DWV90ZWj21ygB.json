@@ -185,6 +185,42 @@
     },
     {
       "album": {
+        "name": "Atlantic Sunrise VII",
+        "url": "https://open.spotify.com/album/6yICH1GmlLCOUjNj0vGoRp"
+      },
+      "artists": [
+        {
+          "name": "Broadsand",
+          "url": "https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Atlantic Sunrise VII",
+      "url": "https://open.spotify.com/track/4XOu6EbqQrdNxjeV6EgwEp"
+    },
+    {
+      "album": {
+        "name": "Atlantic Sunrise VIII",
+        "url": "https://open.spotify.com/album/3pqsA5Knby1DYDi63luO7g"
+      },
+      "artists": [
+        {
+          "name": "Broadsand",
+          "url": "https://open.spotify.com/artist/2oZ8sTbWytiKHRBSGcajWv"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Atlantic Sunrise VIII",
+      "url": "https://open.spotify.com/track/4YbjzBacCqUZ1sDyf8u8JA"
+    },
+    {
+      "album": {
         "name": "Atlantic Waves",
         "url": "https://open.spotify.com/album/5XiJuA5yautJlZ3J0wrhK1"
       },
@@ -599,6 +635,28 @@
     },
     {
       "album": {
+        "name": "Oceanic Waves",
+        "url": "https://open.spotify.com/album/19i4ruKGMinAqkj0RUer6O"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197133,
+      "name": "Capbreton Heavy Waves",
+      "url": "https://open.spotify.com/track/0TdqsOcAEwOsSDMJx2mRIc"
+    },
+    {
+      "album": {
         "name": "Coastal Clifftop Waves",
         "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
       },
@@ -874,7 +932,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 147109,
       "name": "Conwy Bay Ocean Rhythms",
       "url": "https://open.spotify.com/track/2Gv1chr2aDnDxATCvIPUNK"
@@ -932,7 +990,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 187624,
       "name": "Crossing The Ocean",
       "url": "https://open.spotify.com/track/4O8lOmcW7R6CRtRoqU3ImI"
@@ -986,7 +1044,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 163785,
       "name": "Dark Winds And Stormy Ocean",
       "url": "https://open.spotify.com/track/5bJFDUtTqtkDMgDjklrC9J"
@@ -2200,7 +2258,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 190976,
       "name": "Pacific Ocean Sounds",
       "url": "https://open.spotify.com/track/3iGS45wQqNsRuUSPPrgbpx"
@@ -2330,7 +2388,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 202310,
       "name": "Peaceful Sai Noi Waves",
       "url": "https://open.spotify.com/track/7IMsutgZHVZucpdpZg4xIz"
@@ -2701,6 +2759,28 @@
     },
     {
       "album": {
+        "name": "Oceanic Waves",
+        "url": "https://open.spotify.com/album/19i4ruKGMinAqkj0RUer6O"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Seignosse Morning Waves",
+      "url": "https://open.spotify.com/track/5BOrzDMFJNN26H2m76Cy1f"
+    },
+    {
+      "album": {
         "name": "Soothing Ocean Waves",
         "url": "https://open.spotify.com/album/6TnGaEvEH21v6glgB7X467"
       },
@@ -2806,6 +2886,24 @@
       "duration_ms": 137434,
       "name": "Siren's Serenade of the Waves",
       "url": "https://open.spotify.com/track/5KISLXFzxeHLhE71oGug0g"
+    },
+    {
+      "album": {
+        "name": "Newborn White Noise Sleep",
+        "url": "https://open.spotify.com/album/2P7bEn1nhweHHfriPuPtWq"
+      },
+      "artists": [
+        {
+          "name": "Deepnoum",
+          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169313,
+      "name": "Sleep Miracle",
+      "url": "https://open.spotify.com/track/1Z1Gb8CdPzokH1k2toeMlP"
     },
     {
       "album": {
@@ -3367,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "Oceanic Waves",
+        "url": "https://open.spotify.com/album/19i4ruKGMinAqkj0RUer6O"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182764,
+      "name": "Stormy Sea of Kauai",
+      "url": "https://open.spotify.com/track/6qhH5jBOs9CK4mIXZkh3WM"
+    },
+    {
+      "album": {
         "name": "Stormy Beach Waves",
         "url": "https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc"
       },
@@ -3637,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Tide Me Over",
+        "url": "https://open.spotify.com/album/7s2k2hNjpBK2s7lDYzEGY1"
+      },
+      "artists": [
+        {
+          "name": "Instant Recuperate",
+          "url": "https://open.spotify.com/artist/38y9kFWR4BFY9lhR6dXMBV"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Tide Me Over",
+      "url": "https://open.spotify.com/track/1BEvf3f2seDpUWuBqvPxUi"
+    },
+    {
+      "album": {
         "name": "Tide Relax",
         "url": "https://open.spotify.com/album/1Ne3nuH5b3j8TWgbSR4mkt"
       },
@@ -3846,7 +3984,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 206283,
       "name": "Wave Sounds For Relaxing",
       "url": "https://open.spotify.com/track/0MP9WzkvFrUN7eja22ssTm"

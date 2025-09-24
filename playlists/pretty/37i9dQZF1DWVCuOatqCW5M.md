@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Arijit Singh, Salim\-Sulaiman, Dhvani Bhanushali and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,799 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,817 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 27 | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 |
 | 28 | [Shringaar \(From “Bhoomi 2025”\)](https://open.spotify.com/track/4yY6SRse3iDtY0QROJmBXa) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Shringaar \(From “Bhoomi 2025”\)](https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa) | 6:35 |
 | 29 | [O Meri Suwa](https://open.spotify.com/track/13LrRlUHvmSYhD6MT0h7I4) | [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd) | [O Meri Suwa](https://open.spotify.com/album/7wU063piSsDI8TraiAsN22) | 3:28 |
-| 30 | [Kaari](https://open.spotify.com/track/3IZHUKvcOxLve5IDFoT8KX) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Kaari](https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS) | 2:25 |
+| 30 | [Kaari](https://open.spotify.com/track/3IZHUKvcOxLve5IDFoT8KX) | [ShNik](https://open.spotify.com/artist/0ruaaxBe1WnNfu8iPykb0Y) | [Kaari](https://open.spotify.com/album/6daQiMjPyMjA91IpMW4UDS) | 2:25 |
 | 31 | [Oh Mama! TETEMA](https://open.spotify.com/track/6LWd4TAkJt6kfHIQatolHP) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo), [The Plugz Europe](https://open.spotify.com/artist/63qgmJRhJ07e8O9ez4IYql) | [Oh Mama! TETEMA](https://open.spotify.com/album/4G9k7MbNWjUNT6Zlr4p6HA) | 3:14 |
 | 32 | [Resham Ki Dor](https://open.spotify.com/track/0gnUcv3ZvRuW4McbtUw2wl) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Resham Ki Dor](https://open.spotify.com/album/5WajFYo8cctUuWxTk29rSU) | 2:26 |
 | 33 | [Harr Subah](https://open.spotify.com/track/6Lryse8mv3TmmUsMCWBTXU) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Shashi Bhushan](https://open.spotify.com/artist/1kSFHRqydnDOSYTgFnFZbz) | [Harr Subah](https://open.spotify.com/album/4AmQZnXub9cBNsl0RPL4xu) | 3:48 |

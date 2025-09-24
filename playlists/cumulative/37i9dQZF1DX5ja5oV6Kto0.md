@@ -2,9 +2,9 @@
 
 ### [Alté Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
 
-> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Zhus Jdo & Solis4eva
+> The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Azekel
 
-940 songs - 1 day 21 hr 43 min
+941 songs - 1 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Ethiopia](https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Panther in Mode](https://open.spotify.com/album/23J7otrnhFa80hs2xCpKw1) | 3:05 | 2021-11-18 | 2022-01-14 |
 | [Eventually](https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Eventually](https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE) | 4:03 | 2024-08-09 | 2025-04-11 |
 | [Everyday](https://open.spotify.com/track/3hM1x8CJ6a8wT81J6z5d2T) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG), [Gafacci](https://open.spotify.com/artist/72qc1S2CYJyPc1vpTBDJfG) | [Everyday](https://open.spotify.com/album/60OPQRWInY5VulEy78o3rk) | 2:51 | 2025-02-14 | 2025-07-18 |
+| [Everyday People](https://open.spotify.com/track/5yPU55tsZtLrMHdLrNQ7c1) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU), [Worlasi](https://open.spotify.com/artist/55LVJSLOfFssxvLWKb6gt9) | [Everyday People](https://open.spotify.com/album/1j6CF3Pq0Vuobo1rRYgpyH) | 3:37 | 2025-09-23 |  |
 | [Explorations: Hi\-Life Structures](https://open.spotify.com/track/1oEy9stoertlM96G53of97) | [The Pan African Orchestra](https://open.spotify.com/artist/5c5lIOHtmRngks5hLH18wp) | [Opus 1](https://open.spotify.com/album/5vcJmN5GCsyIsJ5dlRBO5a) | 4:05 | 2024-03-21 | 2024-03-25 |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 | 2022-10-29 |
 | [F\*ck Luv](https://open.spotify.com/track/6LQvSixZUaJjTnFHBdZwgG) | [Wavy The Creator](https://open.spotify.com/artist/5kr136hLeeKJznp60ieWdC) | [P.S\. Thank You for Waiting](https://open.spotify.com/album/51LUoIXs5uyiGkuQ9ExJtM) | 3:22 | 2021-09-16 | 2022-02-11 |
@@ -947,6 +948,6 @@
 | [You Got It](https://open.spotify.com/track/6jV4SMVLo4pIFif38q7mI4) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124), [mwami](https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq) | [You Got It](https://open.spotify.com/album/08UekIFugezDczFaJR9tjJ) | 3:25 | 2022-07-07 | 2022-07-23 |
 | [Your Turn](https://open.spotify.com/track/17RkBa8mTYvRgI52res7Eu) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Your Turn](https://open.spotify.com/album/1D7WjiRRPQqKDvDLY0Jh0e) | 3:54 | 2022-11-18 | 2023-04-15 |
 | [Zero Gravity / Fuck Your Boyfriend](https://open.spotify.com/track/6aGNLkgOW5GyYmyVo1QArZ) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR) | [Timeline](https://open.spotify.com/album/3lS3KVaV1xFz7YLV7FSIMj) | 3:12 | 2023-02-16 | 2023-08-11 |
-| [Zhusssssss](https://open.spotify.com/track/1TuqXPmAG2ifMrhr0ozPmX) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms) | [Zhusssssss](https://open.spotify.com/album/066Vuat7zeM8akKFcD1Qvl) | 2:14 | 2025-09-19 |  |
+| [Zhusssssss](https://open.spotify.com/track/1TuqXPmAG2ifMrhr0ozPmX) | [Zhus Jdo](https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv), [SOLIS4EVR](https://open.spotify.com/artist/3ZbW5RPoVdTdsR7JmRtoms) | [Zhusssssss](https://open.spotify.com/album/066Vuat7zeM8akKFcD1Qvl) | 2:14 | 2025-09-19 | 2025-09-24 |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

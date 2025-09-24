@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq?si=zhik2VomQAK71HE2Nw\-MHA">Hunter Rose</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx?si=vxoX6el8QEC1ARX9Ol2Tfw">James Deacon</a>\. Artwork: Isu Kim.
 
 1,368 songs - 2 day 20 hr 30 min
 

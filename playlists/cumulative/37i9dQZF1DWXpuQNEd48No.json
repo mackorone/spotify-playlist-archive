@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 197150,
       "name": "Damn Jaat",
       "url": "https://open.spotify.com/track/6W78ArC0TjQ5IpSByHGqL0"
@@ -3498,7 +3498,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 124166,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1DAc8QCWssjO2wBsRgbb7W"
@@ -7699,6 +7699,24 @@
     },
     {
       "album": {
+        "name": "Online Gundey",
+        "url": "https://open.spotify.com/album/4RXq1v2ELXeINl6Ax3wgjT"
+      },
+      "artists": [
+        {
+          "name": "The LeKhak",
+          "url": "https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189109,
+      "name": "Online Gundey",
+      "url": "https://open.spotify.com/track/6iAP8Gko9Xwq5Xi4upU3kB"
+    },
+    {
+      "album": {
         "name": "Original Gangster",
         "url": "https://open.spotify.com/album/0eBL64eE3sRzvRNDqOH8UE"
       },
@@ -8432,6 +8450,28 @@
       "duration_ms": 149977,
       "name": "Rare",
       "url": "https://open.spotify.com/track/3Kz1mkAM5pnbRtg7GN0NmC"
+    },
+    {
+      "album": {
+        "name": "RAWSCRIPT",
+        "url": "https://open.spotify.com/album/2KmacdA9lL3A77zmQZgqZU"
+      },
+      "artists": [
+        {
+          "name": "Prince Jamba",
+          "url": "https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy"
+        },
+        {
+          "name": "Brown Beats",
+          "url": "https://open.spotify.com/artist/5oWrsQDyCV8GKaWikhwPfk"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "RAWSCRIPT",
+      "url": "https://open.spotify.com/track/54We6PCeSO2nRakYyrkrpo"
     },
     {
       "album": {

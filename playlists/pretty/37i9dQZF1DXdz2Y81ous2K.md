@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 
 > The iconic anime composer shares his favorite tracks and musical inspirations ahead of the 2025 Anime Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,813 likes - 25 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,848 likes - 25 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdz2Y81ous2K.md) - [plain]
 | 6 | [FAKEit](https://open.spotify.com/track/5kYBXE7SNFaWe5VCz9Uh8O) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [V](https://open.spotify.com/album/57gUMsNaEyRTFWuKufAizA) | 2:54 |
 | 7 | [WALK](https://open.spotify.com/track/1mOWCDFeAWVBvrGcIe3uL6) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/0YjSzINPmJHPtWhul76lHh) | 5:59 |
 | 8 | [トルキア](https://open.spotify.com/track/498qK0pKI5Q148HyV8bqli) | [Gabriela Robin](https://open.spotify.com/artist/1KvNXSn0FKGELFRpfm3ONi) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 6:08 |
-| 9 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
+| 9 | [Merry Christmas Mr\. Lawrence \- Version for Piano Trio](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
 | 10 | [The Legend of Ashitaka \(Ending\)](https://open.spotify.com/track/3CLgIwptrXVh7oYmuexqVD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 5:01 |
 | 11 | [マドモアゼル･モーツァルトのテーマ](https://open.spotify.com/track/34lkPejT9pnFBkei2owgXb) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [マドモアゼル･モーツァルト](https://open.spotify.com/album/00X0Ko6gn4j0jiShPRmPbm) | 6:33 |
 | 12 | [Main Titles \- Instrumental](https://open.spotify.com/track/0FMAI5TE9s39QbslK7LmJk) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Planet of the Apes \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FNHwyJGfLStBRDqhRMIp7) | 3:49 |

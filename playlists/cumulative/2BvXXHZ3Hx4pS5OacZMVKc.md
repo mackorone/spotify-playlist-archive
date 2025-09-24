@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-416 songs - 21 hr 33 min
+417 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Rise](https://open.spotify.com/track/5URM12vdsiM1xNtFrPikBT) | [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Rise](https://open.spotify.com/album/401nTlpVat5qfYmeFHHWEs) | 3:04 | 2022-02-03 | 2022-09-15 |
 | [ROCK PAPER SCISSORS!](https://open.spotify.com/track/0Cqj9gGL6ZB1gP1eKu14qp) | [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [ROCK PAPER SCISSORS!](https://open.spotify.com/album/6WLQiWzfSkntkJ10KhaRpH) | 1:37 | 2025-07-03 |  |
 | [Ropes](https://open.spotify.com/track/1t2qKa8K72IBC8yQlhD9bU) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [Ropes](https://open.spotify.com/album/0cgpcZCPvGGXOCpXVqPrvJ) | 3:08 | 2022-02-03 | 2023-08-11 |
+| [Round Around](https://open.spotify.com/track/2b1rSSkF3Gi1ggHuBqj1xN) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [Round Around](https://open.spotify.com/album/0Ff7cvHGwOiafsJrliFP3n) | 2:55 | 2025-09-23 |  |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-02-03 | 2022-09-15 |
 | [Royalty \- Wiguez & Alltair Remix](https://open.spotify.com/track/58A0GOp6jVOwvOFY8QpB1S) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Royalty \(Wiguez & Alltair Remix\)](https://open.spotify.com/album/5sNcv31njio0AJVl8XtceF) | 3:32 | 2022-02-03 | 2023-08-11 |
 | [Royalty Funk](https://open.spotify.com/track/50y5VdjFgPlB9lFmxIubpL) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs) | [Royalty Funk](https://open.spotify.com/album/2g60Hy7fXxHvuHaiiq78Bj) | 2:57 | 2025-05-02 |  |

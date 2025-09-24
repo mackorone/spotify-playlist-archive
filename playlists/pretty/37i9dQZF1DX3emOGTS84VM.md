@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 
 > 二日酔いに効くサウンド…そんなものがあるのだろうか？でもコレなら確かに効くかも！をテーマに、Spotifyとblock.fmがお届けするチルアウトでスロウなコラボプレイリスト。毎週土曜日更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,377 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,375 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3emOGTS84VM.md) - [plain]
 | 54 | [Inspiration Comes and Goes, Record It Straight onto My Phone](https://open.spotify.com/track/2Tm4mDUHYF2slfeEPfEfs8) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Inspiration Comes and Goes, Record It Straight onto My Phone](https://open.spotify.com/album/58B6M4f8LnqcxocHQrKXkD) | 2:38 |
 | 55 | [Knock Knock](https://open.spotify.com/track/5eBbfcBM2kjfKM4xTdQOqo) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Knock Knock](https://open.spotify.com/album/3fhGIuNWBwn2Z9PJPUVG0z) | 3:09 |
 | 56 | [Let Her Shine](https://open.spotify.com/track/6qT6YkmjCN2i8YRFAdwCYK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT), [Shng.](https://open.spotify.com/artist/3558wNwANBlMFEGZpyGZwo) | [Let Her Shine](https://open.spotify.com/album/3w6IxJsttV1vrf5UC5jqFp) | 2:57 |
-| 57 | [husk](https://open.spotify.com/track/1ywn7msGhrLRqLIGxbyph3) | [Low.bō](https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y) | [husk](https://open.spotify.com/album/4F1umIY4hA97LdQV1cXlbS) | 2:04 |
-| 58 | [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 |
-| 59 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
-| 60 | [Please Don't Talk To Me](https://open.spotify.com/track/0uU9rnZxlXWi8chK2buYTe) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Please Don't Talk To Me](https://open.spotify.com/album/0Yi9RyDt6GQYM5xFOG4Rxs) | 3:04 |
+| 57 | [Inefficient Love](https://open.spotify.com/track/5Bf91qvflBGAAyCChcvO8o) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Inefficient Love](https://open.spotify.com/album/3nrboAgmwjsaYkhhubeX2c) | 3:43 |
+| 58 | [I Know \(A Little\)](https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [I Know \(A Little\)](https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E) | 3:40 |
+| 59 | [Please Don't Talk To Me](https://open.spotify.com/track/0uU9rnZxlXWi8chK2buYTe) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ) | [Please Don't Talk To Me](https://open.spotify.com/album/0Yi9RyDt6GQYM5xFOG4Rxs) | 3:04 |
 
-Snapshot ID: `AAAAAF1OXibGia7SAAevGJvuoTRCdsgm`
+Snapshot ID: `AAAAAENVqosjFFg7Degv2ysFwQDeB+sR`

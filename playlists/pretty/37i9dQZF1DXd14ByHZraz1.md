@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Vem com as tracks dos maiores nomes da música eletrônica nacional\. Foto: Alok, Gui Boratto, House of EL
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,467 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,966 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 49 | [Inner Wars](https://open.spotify.com/track/2rHIFv8iIZCpPPTqUkHrgs) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8), [Miguel Ante](https://open.spotify.com/artist/0yLnk8vkyAvMHmEqAsmPKR), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P) | [Inner Wars](https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW) | 3:36 |
 | 50 | [My Mind](https://open.spotify.com/track/0KWLQWjOKpyCziaEpb1nbi) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [Avsten](https://open.spotify.com/artist/3Q7ITfAujief9tMSciw9rq) | [My Mind](https://open.spotify.com/album/1kY5pJbnsqMO1rN8DTdOhI) | 3:44 |
 
-Snapshot ID: `AAAAAJXkNvFZPkspXhlzYgfjcxVh9S+I`
+Snapshot ID: `AAAAAIGHM63rd6tHLBuJxWvZy7ifOtl3`

@@ -1579,6 +1579,28 @@
     },
     {
       "album": {
+        "name": "Cyber Love",
+        "url": "https://open.spotify.com/album/2fNwOhZdzwJC6hZFcBCx2Z"
+      },
+      "artists": [
+        {
+          "name": "Scruscru",
+          "url": "https://open.spotify.com/artist/1NUvSIBsDRPoLWeGgzkEkn"
+        },
+        {
+          "name": "Mike Fot",
+          "url": "https://open.spotify.com/artist/1Hy0kVxCiERTP4RO2sGs9T"
+        }
+      ],
+      "date_added": "2025-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358153,
+      "name": "Cyber Love",
+      "url": "https://open.spotify.com/track/29SyuoxdeUHjdQLDvHyE4S"
+    },
+    {
+      "album": {
         "name": "Heartbeats",
         "url": "https://open.spotify.com/album/3cQCmeFgYCIWlbR5z3eegJ"
       },
@@ -2028,7 +2050,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 197000,
       "name": "Disco on the Baltic Sea",
       "url": "https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACoy51VSkRN6nY37HBP7e7qY0lxU",
+  "snapshot_id": "AAAAADxG9UCdffe+Htkpd1DV5vzizyjO",
   "tracks": [
     {
       "added_at": "2025-09-04 12:33:45",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "I Heard the Bells on Christmas Day",
-        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 149940,
-      "name": "I Heard the Bells on Christmas Day",
-      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "God Rest Ye Merry Gentlemen",
         "url": "https://open.spotify.com/album/4tuj6Cm5lyYS223SGEpgeC"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 175217,
       "name": "Hard Candy Christmas",
       "url": "https://open.spotify.com/track/3VHpv7iHs0PHfXns1ZfpNA"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "I Heard the Bells on Christmas Day",
+        "url": "https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 149940,
+      "name": "I Heard the Bells on Christmas Day",
+      "url": "https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx"
     },
     {
       "added_at": "2025-09-04 12:33:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "Where Are You Christmas",
-        "url": "https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj"
-      },
-      "artists": [
-        {
-          "name": "Swinging Renegades",
-          "url": "https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k"
-        }
-      ],
-      "duration_ms": 210682,
-      "name": "Where Are You Christmas",
-      "url": "https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "The Gift of Joy",
         "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 177215,
       "name": "The Gift of Joy",
       "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "Where Are You Christmas",
+        "url": "https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj"
+      },
+      "artists": [
+        {
+          "name": "Swinging Renegades",
+          "url": "https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k"
+        }
+      ],
+      "duration_ms": 210682,
+      "name": "Where Are You Christmas",
+      "url": "https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F"
     },
     {
       "added_at": "2025-09-04 12:33:45",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "That Christmas Feel",
-        "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
-      },
-      "artists": [
-        {
-          "name": "Grayville Trio",
-          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
-        }
-      ],
-      "duration_ms": 234263,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "Angels from the Realms of Glory",
         "url": "https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 105235,
       "name": "Angels from the Realms of Glory",
       "url": "https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "That Christmas Feel",
+        "url": "https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ"
+      },
+      "artists": [
+        {
+          "name": "Grayville Trio",
+          "url": "https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk"
+        }
+      ],
+      "duration_ms": 234263,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29"
     },
     {
       "added_at": "2025-09-04 12:33:45",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-09-04 12:33:45",
       "album": {
-        "name": "Christmas Mood",
-        "url": "https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm"
-      },
-      "artists": [
-        {
-          "name": "Christopher Colman",
-          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
-        }
-      ],
-      "duration_ms": 206552,
-      "name": "The Ultimate Gift",
-      "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
-    },
-    {
-      "added_at": "2025-09-04 12:33:45",
-      "album": {
         "name": "Christmas Time",
         "url": "https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 73034,
       "name": "Up on the Housetop",
       "url": "https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9"
+    },
+    {
+      "added_at": "2025-09-04 12:33:45",
+      "album": {
+        "name": "Christmas Mood",
+        "url": "https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm"
+      },
+      "artists": [
+        {
+          "name": "Christopher Colman",
+          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
+        }
+      ],
+      "duration_ms": 206552,
+      "name": "The Ultimate Gift",
+      "url": "https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0"
     },
     {
       "added_at": "2025-09-04 12:33:45",

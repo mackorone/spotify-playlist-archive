@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Massaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,367 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,871 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Eu Tive um Sonho](https://open.spotify.com/track/1lfR1duLXBfwgJAZ3dCitC) | [Massaru](https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU), [EF](https://open.spotify.com/artist/31zD0TKiTJ0OlcW3I6JI27) | [Eu Tive um Sonho](https://open.spotify.com/album/7xtSangtPAilLTeKKEZoVP) | 2:00 |
 | 2 | [Me Desculpa](https://open.spotify.com/track/4YFZBqiBgu9MI8fJeKh0lb) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee), [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [tal do dias](https://open.spotify.com/artist/5xog2iECFYb8pe1FtgliW6), [Mvt](https://open.spotify.com/artist/1ayO1yQuvuXyI1ahqNqG3M) | [Me Desculpa](https://open.spotify.com/album/3pQ6HKNObJQS2VIPCosW1w) | 2:07 |
-| 3 | [“TO GANHANDO BEM”](https://open.spotify.com/track/4KSZPcjsANLFTCwvAdbr4P) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [432Hz](https://open.spotify.com/album/76sEhw4amrPVy88oSXf5Un) | 2:01 |
+| 3 | [“TO GANHANDO BEM”](https://open.spotify.com/track/4KSZPcjsANLFTCwvAdbr4P) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [432Hz](https://open.spotify.com/album/76sEhw4amrPVy88oSXf5Un) | 2:01 |
 | 4 | [Yeezy Slide "REMIX"](https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ), [ANTCONSTANTINO](https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Yeezy Slide "REMIX"](https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD) | 2:18 |
 | 5 | [Teto Solar](https://open.spotify.com/track/2amY3wgTCYnJyIPJFuzV2R) | [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [Romano](https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6), [Deluca](https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7) | [Teto Solar](https://open.spotify.com/album/3I6YYiTWAfdVy07s9L8AY1) | 2:44 |
 | 6 | [Diaba](https://open.spotify.com/track/6OL1PIjTZoCEA4NA1yVUPj) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Cachorro Sincero](https://open.spotify.com/album/0PWbgeNtP3j5bR7QhZ8suc) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Menor Quente](https://open.spotify.com/track/3b6TBSzy8D20v7i9eV9Ecu) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ) | [Menor Quente](https://open.spotify.com/album/1STv9KELC4CnmXbk2oOSZH) | 3:00 |
 | 75 | [4AM](https://open.spotify.com/track/7G6wkitbUYwifUNxWglmxR) | [Reid](https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo) | [4AM](https://open.spotify.com/album/20dtIlr9uvhNd7X1Ltk8DN) | 2:22 |
 
-Snapshot ID: `AAAAAC8TZcgfIu6WDnLLWFNmjrYdh0WR`
+Snapshot ID: `AAAAAKyPBRTM8h/epxiMl+f2muh2hYCG`

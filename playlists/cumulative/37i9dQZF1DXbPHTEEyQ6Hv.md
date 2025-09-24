@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-248 songs - 9 hr 43 min
+249 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [To Us Is Given](https://open.spotify.com/track/33hWpBOw3qZwyT9sE6OV6B) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/5T2hscHPXLF86mRk8VjumS) | 3:32 | 2021-12-14 | 2022-07-29 |
 | [To Us Is Given](https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 3:32 | 2022-07-01 | 2022-10-15 |
 | [Underneath The Tree](https://open.spotify.com/track/0dOlDq6KeqVjXK28GUfxYh) | [Julia Tide](https://open.spotify.com/artist/2in6cp2GcdrkLqaY19ciPb) | [Underneath The Tree](https://open.spotify.com/album/5EHrHsuHIfJuwlzXdtgSQr) | 3:51 | 2023-11-08 | 2025-09-03 |
+| [We Three Kings](https://open.spotify.com/track/7FDHfTdbx22RIUjNmj6j8p) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [We Three Kings](https://open.spotify.com/album/2FM695LGS0NUZYD8OrmGDf) | 2:28 | 2025-09-23 |  |
 | [We wish you a Merry Christmas](https://open.spotify.com/track/24Wk61p0OEfaPdcw9xhxtY) | [Amélie Blumenthal](https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo) | [We wish you a Merry Christmas](https://open.spotify.com/album/7MJieq6b8XhytSlNwETQLO) | 1:52 | 2023-11-08 | 2025-09-17 |
 | [We Wish You A Merry Christmas](https://open.spotify.com/track/33oWrOSdm08XaAUAjexoQB) | [Hidden Natúr](https://open.spotify.com/artist/1r3WsPkeb5nKMaRza1SBX3) | [We Wish You A Merry Christmas](https://open.spotify.com/album/4eLVHkM1ou5ynSKdBtXu82) | 2:12 | 2024-11-06 |  |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/625f1LxHYvd5ZU5gzq6cSO) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [We Wish You a Merry Christmas](https://open.spotify.com/album/42t7HKc7aXEIvrC0X0T5O8) | 1:28 | 2021-12-14 | 2023-09-27 |

@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-348 songs - 22 hr 30 min
+349 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Hold On To You \- Ryan Davis Revisit](https://open.spotify.com/track/1qgnqE3a6314MTYyiq2hLr) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Hold On To You \(Ryan Davis Revisit\)](https://open.spotify.com/album/1b0ZUmsLKfYcgEyNOVbxof) | 4:40 | 2023-12-08 |  |
 | [Holding Me Back \- The Kite String Tangle's Stripped Back Version](https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Holding Me Back \(The Kite String Tangle's Stripped Back Version\)](https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja) | 3:08 | 2024-05-17 | 2025-02-22 |
 | [Hologram](https://open.spotify.com/track/0yHNtaJ9DQyfMTgNoi2f1Q) | [Stelios Vassiloudis](https://open.spotify.com/artist/1rXevGVPZv1czKVpdO9wWn) | [Hologram](https://open.spotify.com/album/1scL7gL8q1pWYHAKxHSbo4) | 4:16 | 2024-02-12 | 2024-02-17 |
+| [Home](https://open.spotify.com/track/229RklqAOL6322ovZPLDoT) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Home](https://open.spotify.com/album/7y3ZuHaObQVI0gMJwqQJrH) | 4:32 | 2025-09-23 |  |
 | [Hope In Balance \- Jody Wisternoff & James Grant Remix](https://open.spotify.com/track/2MFAVCuzyIU9vHIFNJmpAs) | [São Miguel](https://open.spotify.com/artist/1iVxCBBr46gznMxUBnnuMq), [Sebastian Reynoso](https://open.spotify.com/artist/4TYYLNG592TpKs4mfyQCFX), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Hope In Balance \(Jody Wisternoff & James Grant Remix\)](https://open.spotify.com/album/6CZnFBesc5aGszpfAWbdQZ) | 5:34 | 2025-01-13 |  |
 | [How It Feels](https://open.spotify.com/track/3NZz7DWeVQesSOn6mO39F7) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 2:18 | 2025-01-13 | 2025-01-18 |
 | [How To Forget](https://open.spotify.com/track/3uVbMPqILJGZO1ZrlcKRuv) | [Laurel Violet](https://open.spotify.com/artist/0QfXg8WlqAIegmbvsVLpUA) | [Reflections 09](https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5) | 3:16 | 2024-07-19 | 2024-12-14 |
@@ -211,7 +212,7 @@
 | [Magnolia](https://open.spotify.com/track/5sa8RhxrOzLUOuCgwpGpWb) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Magnolia](https://open.spotify.com/album/5WyNgwQ9DQ1GPPGquKmj5F) | 2:33 | 2024-02-02 | 2024-06-15 |
 | [Mali Spirit](https://open.spotify.com/track/4cEQJAGKi0ToNEqBs60Kpd) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe) | [Mali Spirit](https://open.spotify.com/album/1I2XSrjEHR8vZ60fqIdBlW) | 3:36 | 2025-02-21 | 2025-08-16 |
 | [Maybe It Was Already Here](https://open.spotify.com/track/4Om2YCCAQedz29TCRK2PwQ) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 2:18 | 2025-01-13 | 2025-05-24 |
-| [maybe we’re different and everything is still the same](https://open.spotify.com/track/2iLbKE6M5c1S8X6pUXQXUx) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 2:38 | 2025-01-13 |  |
+| [maybe we’re different and everything is still the same](https://open.spotify.com/track/2iLbKE6M5c1S8X6pUXQXUx) | [Leaving Laurel](https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t) | [Leaving Laurel](https://open.spotify.com/album/7JdHbGAS2cIjeMww8hlKcE) | 2:38 | 2025-01-13 | 2025-09-24 |
 | [Medi](https://open.spotify.com/track/5qlRBDvAOo7QjNjG3o5aMf) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 4:31 | 2024-03-01 | 2024-05-24 |
 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 | 2025-01-17 |  |
 | [Mellowness Of The Heart](https://open.spotify.com/track/3ihuiqzWNyixSqftwLcL0q) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:28 | 2024-11-01 | 2025-08-16 |

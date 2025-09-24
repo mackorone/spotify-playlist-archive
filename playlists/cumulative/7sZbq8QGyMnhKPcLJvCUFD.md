@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-763 songs - 1 day 14 hr 20 min
+764 songs - 1 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -570,6 +570,7 @@
 | [River](https://open.spotify.com/track/0fTzH8uabtFLBIx3eGxrKf) | [NAYM](https://open.spotify.com/artist/1FVe6ZI0XiRnwRzylggPtc) | [Signs](https://open.spotify.com/album/1QVAxYd4fdoeNnJc7ECecj) | 2:35 | 2025-03-28 |  |
 | [ROCK PAPER SCISSORS!](https://open.spotify.com/track/0Cqj9gGL6ZB1gP1eKu14qp) | [Dyolow](https://open.spotify.com/artist/1lVN3ysg7IblYuk27iDPre) | [ROCK PAPER SCISSORS!](https://open.spotify.com/album/6WLQiWzfSkntkJ10KhaRpH) | 1:37 | 2025-07-03 |  |
 | [Romeo and Juliet](https://open.spotify.com/track/2W9h6WvwD97C2DR8gbgwtu) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Manno](https://open.spotify.com/artist/2SxgKTZK8e3ZREG1OuzIf2) | [Romeo and Juliet](https://open.spotify.com/album/1plkjTkXuOTRBX3tIiL5TW) | 3:12 | 2024-02-22 | 2024-09-29 |
+| [Round Around](https://open.spotify.com/track/2b1rSSkF3Gi1ggHuBqj1xN) | [HXI](https://open.spotify.com/artist/3yRqd6IO6SamMAmnXwZKeU), [Nateki](https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1) | [Round Around](https://open.spotify.com/album/0Ff7cvHGwOiafsJrliFP3n) | 2:55 | 2025-09-23 |  |
 | [Round n' Round](https://open.spotify.com/track/3hWiZ3HbvygE8GSjVZklhw) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Round n' Round](https://open.spotify.com/album/5TYEdOgG9hs13w8x7tPjab) | 2:58 | 2024-03-22 | 2024-09-29 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-03-03 | 2024-04-17 |
 | [Royalty](https://open.spotify.com/track/7kUljt0NM5sISL3OGNVxYd) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/5fNgtPuw6QFGW7M9FdOX5x) | 3:43 | 2023-12-13 |  |

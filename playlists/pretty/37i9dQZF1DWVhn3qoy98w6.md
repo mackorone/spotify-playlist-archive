@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: Lina de Sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,421 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,423 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Ahora Sí](https://open.spotify.com/track/3AR5aHCoEcsk3WbZSu82Xn) | [.bd.](https://open.spotify.com/artist/7L8I75i7XhFQJ8SGqdW8RS) | [Economato Textil](https://open.spotify.com/album/6Tjk2mKJxogVU45AIoTqBk) | 6:09 |
 | 50 | [Avivando el fuego](https://open.spotify.com/track/0rhGARLb1CkpXUk9YA4XfQ) | [Neon Vampire](https://open.spotify.com/artist/79VAFDUOE03nJjFnRKhgza) | [Avivando el fuego](https://open.spotify.com/album/2OetK51rk55sS2HxXfINMX) | 4:44 |
 
-Snapshot ID: `AAAAAGccye6iOwNq5org3TJrkSbEbT36`
+Snapshot ID: `AAAAAD+NYhlFOrRpP1x7KCXzyrxxml0T`

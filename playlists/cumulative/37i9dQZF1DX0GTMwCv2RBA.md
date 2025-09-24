@@ -2,7 +2,7 @@
 
 ### [Superman Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX0GTMwCv2RBA)
 
-> Your music taste matches the character on the playlist cover! Listen to the playlist and discover music curated by director James Gunn for each character in Superman\. In theaters now.
+> Listen to the soundtrack and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
 198 songs - 12 hr 20 min
 

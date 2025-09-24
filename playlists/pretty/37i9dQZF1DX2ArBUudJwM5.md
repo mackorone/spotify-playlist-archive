@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. Curada por Sol Ortega.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,696 likes - 23 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,700 likes - 23 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Soul Of The Dancefloor](https://open.spotify.com/track/6LnOJX5jwxuVbzpMRxWqX0) | [Sol Ortega](https://open.spotify.com/artist/1a8L1wFGuk1SDOmAXhnvmO) | [Soul Of The Dancefloor](https://open.spotify.com/album/2j1AMCdefkiEw5ndH7UKcx) | 5:33 |
-| 2 | [Interior Harmony](https://open.spotify.com/track/4nEPWzooLD2m0vZ9aozfut) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1) | [Affair](https://open.spotify.com/album/3fAj2gX9jD6vIRIF0ib6J2) | 5:00 |
-| 3 | [Acid Rain](https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR) | [Ludmila Di Pasquale](https://open.spotify.com/artist/7hDe40AlwF450fQo0LndgG) | [Acid Rain](https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT) | 5:32 |
+| 2 | [Acid Rain](https://open.spotify.com/track/5EM8jyVuk8uCyBvS0X4elR) | [Ludmila Di Pasquale](https://open.spotify.com/artist/7hDe40AlwF450fQo0LndgG) | [Acid Rain](https://open.spotify.com/album/5ozI69yBdbUpdxmyR8y9CT) | 5:32 |
+| 3 | [Interior Harmony](https://open.spotify.com/track/4nEPWzooLD2m0vZ9aozfut) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS), [VICTORIA WHYNOT](https://open.spotify.com/artist/5oUxjY3ot5OwSBPbz8q4N1) | [Affair](https://open.spotify.com/album/3fAj2gX9jD6vIRIF0ib6J2) | 5:00 |
 | 4 | [dime k lo que pasa](https://open.spotify.com/track/6dfWtd8hIzwJgV3eoy89Z3) | [Valentina Spirito](https://open.spotify.com/artist/36lIv4oUB7UoPytPXg66HJ) | [CAMBIO DE PIEL](https://open.spotify.com/album/4BhObzou8AYFeLp9IYezk5) | 4:37 |
 | 5 | [Fiesta Gay](https://open.spotify.com/track/6f9KXtKxhAywscYmiCgx0k) | [Franzizca](https://open.spotify.com/artist/0Mgj6yf5sMHjzpFBfPHe2m) | [VIDA NOCTURNA](https://open.spotify.com/album/3lQGtbbjeHxl1JbHrhEsa2) | 3:12 |
 | 6 | [Fluctuating Consciousness](https://open.spotify.com/track/1QU34oSGR7fkUk8zVTL5Pm) | [Victoria Engel](https://open.spotify.com/artist/2yNhH2Dks4MsBo79ozjpDa) | [Fluctuating Consciousness](https://open.spotify.com/album/3wl8lHdP1NQSoUCZTYvxuM) | 7:08 |
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 8 | [Gatekeeper](https://open.spotify.com/track/2N82rmvgNW6ApPIeR3uJ0C) | [TINKERHELL](https://open.spotify.com/artist/0Y1HdImRNp7q0Qfw8dhmWF) | [Gatekeeper](https://open.spotify.com/album/7Ibyl4ZQcPOvJBlxtM3f5Q) | 6:33 |
 | 9 | [Sicaria](https://open.spotify.com/track/4ukKTac13xGAB27uHnOBT9) | [Milena Adamis](https://open.spotify.com/artist/2Bgl8dbmtHRYbgeDtWq4Yy) | [Tranzas Del Swing Vol.2](https://open.spotify.com/album/6as1rvZnLlajz5Wr4Q68Zs) | 5:32 |
 | 10 | [Lost at 9pm](https://open.spotify.com/track/3rxfxCbXfNWIn2rwFxPdn8) | [Erika Halliday](https://open.spotify.com/artist/5HlRz2Fo1ZBzTt4RJrFlzv) | [Lost at 9pm](https://open.spotify.com/album/5gqWklcCpjfqWzc9w4rJUf) | 5:49 |
-| 11 | [Queen Of Swords](https://open.spotify.com/track/2PSjplBcb9xHYgZdTurg88) | [Desirée Falessi](https://open.spotify.com/artist/3YPJmqPLtlrRR4oiJquoNF) | [Queen Of Swords](https://open.spotify.com/album/7eHRGdkgXkVP8nVkxLrCa0) | 6:41 |
-| 12 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |
-| 13 | [Hit Me](https://open.spotify.com/track/3LcWadS1j2rfrcOVcS6vjc) | [Romina Cohn](https://open.spotify.com/artist/2IZzBDyzXaUQ7pu9gbmXI8) | [Hit Me](https://open.spotify.com/album/3OA4trUNkErSGCuQ9XdRyS) | 6:59 |
+| 11 | [Hit Me](https://open.spotify.com/track/3LcWadS1j2rfrcOVcS6vjc) | [Romina Cohn](https://open.spotify.com/artist/2IZzBDyzXaUQ7pu9gbmXI8) | [Hit Me](https://open.spotify.com/album/3OA4trUNkErSGCuQ9XdRyS) | 6:59 |
+| 12 | [Queen Of Swords](https://open.spotify.com/track/2PSjplBcb9xHYgZdTurg88) | [Desirée Falessi](https://open.spotify.com/artist/3YPJmqPLtlrRR4oiJquoNF) | [Queen Of Swords](https://open.spotify.com/album/7eHRGdkgXkVP8nVkxLrCa0) | 6:41 |
+| 13 | [The labyrinth trapped you](https://open.spotify.com/track/3sO1Vc43sVbprXnpRpv0rr) | [Cia Rebeck](https://open.spotify.com/artist/6xUdgbtLYC7vFdAKr5nP44) | [The labyrinth trapped you \[DK004\]](https://open.spotify.com/album/1VUSzqXDKRCfX5o8mpC9dp) | 5:31 |
 | 14 | [Máquina De Experiencias](https://open.spotify.com/track/4H3ahu5ghqt7PwKr2ff2TA) | [PAMPA](https://open.spotify.com/artist/5tWAMlHCmAZl5gJQJjFwmS) | [Barreras Mentales](https://open.spotify.com/album/7yGaBonx8PctSKnPlf4mmY) | 5:00 |
 | 15 | [Randomshape](https://open.spotify.com/track/1E9kknrc1pYDRn37pbcsLc) | [Mai iachetti](https://open.spotify.com/artist/575TgodOOhMtSqhGYNWAeh) | [90s Trip](https://open.spotify.com/album/0KUyW9SX1sc2zdnQ2YbLyr) | 6:26 |
 | 16 | [Maniac Girl](https://open.spotify.com/track/5tQXuFK64dK0sQ7j5oHRsm) | [Gina Demarchi](https://open.spotify.com/artist/7hqmhjZKJeV1zIxWcpBKNY) | [Lady Tazz presents Hermanas \(Part Two\)](https://open.spotify.com/album/48Sgw03L7rcXljlwKMhlWG) | 5:24 |

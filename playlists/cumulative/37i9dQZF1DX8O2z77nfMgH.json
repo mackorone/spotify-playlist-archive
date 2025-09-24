@@ -14251,28 +14251,6 @@
     },
     {
       "album": {
-        "name": "Climax",
-        "url": "https://open.spotify.com/album/2JeoqA3fB2EBZNWcyALLP7"
-      },
-      "artists": [
-        {
-          "name": "Treizy",
-          "url": "https://open.spotify.com/artist/1hxGvEoB2l6htd4hXkflLA"
-        },
-        {
-          "name": "DBC",
-          "url": "https://open.spotify.com/artist/0ba5xVGDTOG9qe78QF9krh"
-        }
-      ],
-      "date_added": "2025-09-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202000,
-      "name": "Amor Oscuro",
-      "url": "https://open.spotify.com/track/1YLfRs39bvOxHYyc96hh2y"
-    },
-    {
-      "album": {
         "name": "Amor ou Esquema",
         "url": "https://open.spotify.com/album/7I7mi38g3dxLVRiiCpLqfp"
       },
@@ -53434,6 +53412,28 @@
       "duration_ms": 170346,
       "name": "Darar\u00ed",
       "url": "https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X"
+    },
+    {
+      "album": {
+        "name": "Climax",
+        "url": "https://open.spotify.com/album/2JeoqA3fB2EBZNWcyALLP7"
+      },
+      "artists": [
+        {
+          "name": "Treizy",
+          "url": "https://open.spotify.com/artist/1hxGvEoB2l6htd4hXkflLA"
+        },
+        {
+          "name": "DBC",
+          "url": "https://open.spotify.com/artist/0ba5xVGDTOG9qe78QF9krh"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Dark Love",
+      "url": "https://open.spotify.com/track/1YLfRs39bvOxHYyc96hh2y"
     },
     {
       "album": {
@@ -142006,6 +142006,10 @@
         {
           "name": "Marilia Monz\u00f3n",
           "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        },
+        {
+          "name": "+M\u00fasicas",
+          "url": "https://open.spotify.com/artist/06x3WF50a38L93KIFOpSaO"
         }
       ],
       "date_added": "2025-09-19",

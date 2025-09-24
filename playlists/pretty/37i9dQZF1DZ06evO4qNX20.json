@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 337336,
+  "num_followers": 337374,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAACzsDHyME8SAMbkwS64XcBY",
+  "snapshot_id": "aNCRgAAAAACMcfR93tQVKNxj9wthQ/gC",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colecci\u00f3n De Oro: Mis Mejores Corridos, Vol. 1",
+        "url": "https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 161343,
+      "name": "Corrido De Rosalino",
+      "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 270535,
       "name": "Prajedes F\u00e9lix",
       "url": "https://open.spotify.com/track/1u2zuqcikdm9WCRb2hfjtt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colecci\u00f3n De Oro: Mis Mejores Corridos, Vol. 1",
-        "url": "https://open.spotify.com/album/36jCcEa1q6XBthTOu2sCYu"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 161343,
-      "name": "Corrido De Rosalino",
-      "url": "https://open.spotify.com/track/0mX2ojHdBx6nhOzDnB9BuM"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
+        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "La Loba Del Mal",
+      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos De Los F\u00e9lix Y Los Quintero",
         "url": "https://open.spotify.com/album/0UoFhcatSN6tPV20Df2mrc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 279486,
       "name": "Eladio F\u00e9lix",
       "url": "https://open.spotify.com/track/4a2GA2x6dwdI8jy2YaWZ3j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
-        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "La Loba Del Mal",
-      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-322 songs - 19 hr 36 min
+323 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Ready To Fly \- Sub Focus & Dimension](https://open.spotify.com/track/0a2cA9H6KuOsoHLCnjl6YL) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [Ready To Fly \(Sub Focus & Dimension\)](https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc) | 3:24 | 2022-11-25 | 2024-05-17 |
 | [Really Happy Aliens](https://open.spotify.com/track/5ypOQL3PMZJoBkS2HMPCXO) | [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Proximity](https://open.spotify.com/album/09cXZdn2Z0adhctQyNJzV8) | 4:04 | 2021-12-21 | 2022-03-19 |
 | [Reason \- Single Version](https://open.spotify.com/track/7HAw8d7GV2d2PHbnQctXi8) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [LOWES](https://open.spotify.com/artist/1mbybf2CrAiwWiznqA8R3g) | [Reason](https://open.spotify.com/album/1RPY9dv9P4QXSb5IVVz64E) | 3:13 | 2021-12-21 | 2022-06-30 |
+| [ReBirth](https://open.spotify.com/track/00hnBmq8Wj0Pv1c8UD4PtI) | [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [ReBirth](https://open.spotify.com/album/2MvjqVF0AA2vgoFy5BWtSU) | 3:11 | 2025-07-03 |  |
 | [Refuge](https://open.spotify.com/track/5QG6YBeZTUYSA1eY7XrxCD) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Refuge](https://open.spotify.com/album/7IaQaAMCu3qu2Dzmyt5Up3) | 4:22 | 2021-12-21 | 2022-07-24 |
 | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/track/1Ojk0XlwKxvqByaHq6Uviz) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [TS Graye](https://open.spotify.com/artist/5qB8VZFvQcnDIrsj4jBMU9) | [Remedy \(feat\. TS Graye\)](https://open.spotify.com/album/54Ulib16eKnja2K1oXKD5p) | 3:20 | 2021-12-21 | 2022-07-29 |
 | [Remind Me](https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:01 | 2022-07-05 | 2023-11-06 |
@@ -278,7 +279,7 @@
 | [Spend The Night](https://open.spotify.com/track/4OoNi7RLLVKGlDcLgWPyKX) | [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Spend The Night](https://open.spotify.com/album/78JrRQCZ8HppWoAXBkHBe7) | 3:07 | 2024-05-17 | 2024-10-29 |
 | [Stampede](https://open.spotify.com/track/13wc1JCW2FmxT1niR2LrXc) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Stampede](https://open.spotify.com/album/0AgVq85MSX0QDbsppdDe8l) | 3:48 | 2025-05-16 | 2025-06-16 |
 | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-04-11 | 2024-09-13 |
-| [Step Into The Rave \(feat\. shadxwgirl\)](https://open.spotify.com/track/02N9lZqNGAXimcros1zSwm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Step Into The Rave \(feat\. shadxwgirl\)](https://open.spotify.com/album/4ubmhjBFf0VaYpbTIrl64b) | 2:40 | 2025-07-03 |  |
+| [Step Into The Rave \(feat\. shadxwgirl\)](https://open.spotify.com/track/02N9lZqNGAXimcros1zSwm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Step Into The Rave \(feat\. shadxwgirl\)](https://open.spotify.com/album/4ubmhjBFf0VaYpbTIrl64b) | 2:40 | 2025-07-03 | 2025-09-24 |
 | [Step Into Your Power](https://open.spotify.com/track/214dCanCpdq643MCUShfwX) | [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Step Into Your Power](https://open.spotify.com/album/5qZVnalqfY93hK9YTHTjTz) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [Step It Up](https://open.spotify.com/track/608TATD49stSCcojEMTwmX) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Step It Up / Lights](https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj) | 4:30 | 2022-06-20 | 2023-04-12 |
 | [Sticks and Stones](https://open.spotify.com/track/5sPntn8ccDJdR5yUZ7rLiY) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Mac 19 \- EP](https://open.spotify.com/album/2WSWXuihumHxdmviKKqqmo) | 3:40 | 2021-12-21 | 2022-07-28 |

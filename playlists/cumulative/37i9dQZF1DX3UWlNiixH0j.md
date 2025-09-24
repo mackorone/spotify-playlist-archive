@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: mei ehara
 
-2,700 songs - 7 day 0 hr 31 min
+2,701 songs - 7 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Kiss](https://open.spotify.com/track/00wP8zw7YmpEmPFwKHtto7) | [ササキコウジ](https://open.spotify.com/artist/11AahWyGlXddJRlMSGLRlC) | [心奥の森で](https://open.spotify.com/album/63GVPAM5TTAbSXxEYPZHZJ) | 2:19 | 2023-08-08 | 2023-08-16 |
 | [Kiss me](https://open.spotify.com/track/4R42jF26ll4ZC8XcUmS1ET) | [DANCING COSMO PLAXMA](https://open.spotify.com/artist/6claF53oHrkkwkfxVvGi01) | [Kiss me](https://open.spotify.com/album/1pYGDSSjCAGma5egHDvkVW) | 4:33 | 2025-05-21 | 2025-06-04 |
 | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/track/3tn8Ib0AHdX2HPQPbO4NHk) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [KissKissKiss \(feat.Maika Loubté\)](https://open.spotify.com/album/6uT6RXXUOBY1uepgsJ1pO4) | 3:20 | 2024-11-13 | 2025-01-04 |
+| [Kitsunebi](https://open.spotify.com/track/63JMnAjfEAAmVADp0ilDoE) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Kitsunebi](https://open.spotify.com/album/7IGwPtCpb7VSBAei4zJQzo) | 4:15 | 2025-09-23 |  |
 | [kodoku gokko](https://open.spotify.com/track/5N73VJc4Q3fJhEV8E7pvDC) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [kodoku gokko](https://open.spotify.com/album/3KlWkxlUSwUzrunfRuTrLi) | 1:45 | 2024-02-27 | 2024-03-06 |
 | [Kohaku](https://open.spotify.com/track/16OedAwrCLAUctyBCgO45o) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Kohaku](https://open.spotify.com/album/2ISxhwPjPjLKNyow9Eg5dU) | 4:03 | 2023-06-06 | 2023-07-05 |
 | [koi](https://open.spotify.com/track/21Og0stzmuY2nEXlsuHdYQ) | [Marnie](https://open.spotify.com/artist/0fus7lFXtQqg9GussL4eu5) | [koi](https://open.spotify.com/album/0BxfVOINTCVtc2KSZ6M7P6) | 3:16 | 2025-05-06 | 2025-05-21 |
@@ -1800,7 +1801,7 @@
 | [かかってこいよバッドエンド](https://open.spotify.com/track/2eEenDTP3qIQjc1eHQYzpY) | [鈴木実貴子ズ](https://open.spotify.com/artist/68EAsONs8fA8C8e3I4qcV0) | [あばら](https://open.spotify.com/album/0Ar9gmzTOhV7VUYwQag6ue) | 2:27 | 2025-01-28 | 2025-03-26 |
 | [かぜ薫る](https://open.spotify.com/track/0W0beAnzs1zMt82GfSBKHJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [かぜ薫る](https://open.spotify.com/album/1yuEpahsy5IPJIPjeCRucE) | 3:39 | 2024-07-30 | 2024-08-07 |
 | [かまわない](https://open.spotify.com/track/7hRWSEnpjQ9RMBca6tJ3Tc) | [しんきろうのまち](https://open.spotify.com/artist/4fbq9ZbNik4Qze3IgCtHBR) | [かまわない](https://open.spotify.com/album/3XQeHt5XvoX6AuT4B1yUNu) | 3:51 | 2024-01-16 | 2024-01-24 |
-| [かみんち](https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [かみんち](https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs) | 3:53 | 2025-07-08 |  |
+| [かみんち](https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [かみんち](https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs) | 3:53 | 2025-07-08 | 2025-09-24 |
 | [かむかもしかもにどもかも！ \- imai remix](https://open.spotify.com/track/3R6a6LaMhUO3hWt04YMm3D) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR), [imai](https://open.spotify.com/artist/7KuezP7qjUEdOhIDj1hrG4) | [かむかもしかもにどもかも！ \(imai remix\)](https://open.spotify.com/album/6KQJJfutW8v182eIWZpO2E) | 2:15 | 2024-07-30 | 2024-08-07 |
 | [がらくたの飛行](https://open.spotify.com/track/1dColMg9ofvHhdhZpuksa4) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [がらくたの飛行](https://open.spotify.com/album/40pzUPXsiSkdZAMkYU1cyy) | 5:02 | 2025-03-25 | 2025-04-02 |
 | [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 | 2024-11-19 | 2024-12-11 |

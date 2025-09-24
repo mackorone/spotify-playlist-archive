@@ -1,12 +1,12 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX381fOnFlO78.md) - [plain](/playlists/plain/37i9dQZF1DX381fOnFlO78) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX381fOnFlO78)
 
-### [Classics for Kids](https://open.spotify.com/playlist/37i9dQZF1DX381fOnFlO78)
+### [Classics for Kids & Families](https://open.spotify.com/playlist/37i9dQZF1DX381fOnFlO78)
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 894 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAFyDw2K+EAzLCswpyBm2BE/JbA2h`
+Snapshot ID: `AAAAAD3GLX7BSuPzMCZc9H1Te1xtIC5y`

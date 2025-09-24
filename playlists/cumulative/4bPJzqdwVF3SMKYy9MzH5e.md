@@ -4,7 +4,7 @@
 
 > 
 
-2,265 songs - 5 day 1 hr 36 min
+2,269 songs - 5 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [All My Friends Are Turning Blue](https://open.spotify.com/track/77xjaND0eyUHUK1zkBY3DQ) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [All My Friends Are Turning Blue](https://open.spotify.com/album/3J3UxKYc8Nsp8p9ysbNlvO) | 3:39 | 2021-11-30 |  |
 | [All My Friends Know](https://open.spotify.com/track/3ZpqeV6u8cheGopIXQlHfH) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 1:58 | 2021-11-14 |  |
 | [All My Love](https://open.spotify.com/track/4Y5ZrS25Ia8FYip7SnpWBu) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Why Don't We Just](https://open.spotify.com/album/7ehrhLf5mBp7eYQgfhZHMn) | 2:31 | 2021-08-05 |  |
+| [All Night](https://open.spotify.com/track/1ce82XLJP9RbCCzlug0g7A) | [SHFTR](https://open.spotify.com/artist/0yw1drC4wSupncABpmkH98) | [All Night](https://open.spotify.com/album/5jL2jAx306LhT8FkIwrIfh) | 3:53 | 2025-09-23 |  |
 | [All or Nothing at All](https://open.spotify.com/track/290Hwi5fTlIPTAymzadZti) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 3:59 | 2021-08-05 |  |
 | [All That Glitters Is Not Gold, but It's Still Damn Beautiful](https://open.spotify.com/track/23A29DEDxMZdwpl0ZRrMOk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel \(III\)](https://open.spotify.com/album/3WEiXCyMnt06uLuJ6GqizD) | 2:17 | 2024-01-14 |  |
 | [all the good girls go to hell](https://open.spotify.com/track/6IRdLKIyS4p7XNiP8r6rsx) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:48 | 2021-08-05 |  |
@@ -1476,6 +1477,7 @@
 | [Oxygen](https://open.spotify.com/track/08TvXzt1TIVVQyIoQphndN) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [NoRedeemingQualities](https://open.spotify.com/album/1hlFht5cBS8MEeLvNGTN1W) | 2:22 | 2021-08-05 |  |
 | [Pa' Que Retozen](https://open.spotify.com/track/5YJ4BVvTFmVCxUyhKejHfR) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [El Abayarde](https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY) | 2:31 | 2024-10-30 |  |
 | [Pacify Her](https://open.spotify.com/track/360Wr96ywrCQq4kTAJ8Pq6) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:40 | 2021-08-05 |  |
+| [pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [pack up ya bags](https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC) | 2:12 | 2025-09-23 |  |
 | [Paganini: 24 Caprices, Op\. 1: No\. 24 in A Minor](https://open.spotify.com/track/6cC6h5E351deEGFd7Kh9uy) | [Niccolò Paganini](https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q), [Itzhak Perlman](https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA) | [Paganini: 24 Caprices](https://open.spotify.com/album/2wo9DP5JxxAVlGl9qc2jEf) | 4:28 | 2022-11-13 |  |
 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 | 2021-08-05 |  |
 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 | 2021-08-05 |  |
@@ -1727,6 +1729,7 @@
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2022-10-08 |  |
 | [Self Love \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Coi Leray\)](https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:09 | 2023-07-24 |  |
 | [Self\-Destruct](https://open.spotify.com/track/2eqjpko1AQuTdxkBFhAcRG) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Absolute](https://open.spotify.com/album/38mLnAiZLCLqUjs4DzOZdG) | 2:19 | 2024-10-29 |  |
+| [Sensação Sacode](https://open.spotify.com/track/0Az3EKYURfSBiDXNWegELF) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [DJ Dedé](https://open.spotify.com/artist/65pfxB1XLYKdtd6rKYJGDO) | [Furacão 2000 Sensação Sacode](https://open.spotify.com/album/1IVFLiIrxMGAJiweorO5ZR) | 2:43 | 2025-09-23 |  |
 | [Separation Anxiety](https://open.spotify.com/track/2XycvTajCfgJFNYDY1JVTG) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Manila Ice](https://open.spotify.com/album/1KkpoRciTIH31x5ZiSb1UP) | 3:47 | 2022-07-10 |  |
 | [Serenade for Strings in E Major, Op\. 22, B\. 52: II\. Tempo di valse](https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [Prague Chamber Orchestra](https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL), [Petr Skvor](https://open.spotify.com/artist/3X4vtZfo29CzvenatIDhf1) | [Dvořák: Serenade for Strings, Czech Suite](https://open.spotify.com/album/41RV3g6Fjyzfe31bEXtMNT) | 7:12 | 2023-04-24 |  |
 | [Serial Killer](https://open.spotify.com/track/5u9rE1tUbut2sZqdwBTmp8) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 3:57 | 2022-11-07 |  |
@@ -1776,6 +1779,7 @@
 | [Sidelines](https://open.spotify.com/track/3gar285uWggoxHwOwO7Ng9) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 3:00 | 2021-08-05 |  |
 | [Sientate en Ese Deo](https://open.spotify.com/track/4o9DRmcnHX2V4aPHinhfrP) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [El Hombre](https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF) | 3:41 | 2024-10-30 |  |
 | [Silhouette](https://open.spotify.com/track/403EjoWwYSX37paKSySxs1) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Silhouette](https://open.spotify.com/album/1wU3MS8trhxKeTvrQXIXzI) | 3:59 | 2022-04-03 |  |
+| [Silverlining](https://open.spotify.com/track/1xCNKflmCjPfOV6ihH15Cc) | [SHFTR](https://open.spotify.com/artist/0yw1drC4wSupncABpmkH98) | [Silverlining](https://open.spotify.com/album/1cCUkyZLP4W09EyVejFdLl) | 3:30 | 2025-09-23 |  |
 | [Sin](https://open.spotify.com/track/603q8qCfQVX7uRVnDpRpqb) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Pretty Hate Machine](https://open.spotify.com/album/3umFHeEpc4yLXtrRcv9gLN) | 4:06 | 2022-12-30 |  |
 | [SING](https://open.spotify.com/track/1mX6SYJ1ZpcoxQUiER8wOI) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Danger Days: The True Lives of the Fabulous Killjoys](https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr) | 4:30 | 2021-08-05 |  |
 | [Sing To Me](https://open.spotify.com/track/44oCGRuPFy7Uz6w4KliMBS) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Sing To Me](https://open.spotify.com/album/5XdXw120Se7gs2kCDfIh3Z) | 3:09 | 2022-06-27 |  |

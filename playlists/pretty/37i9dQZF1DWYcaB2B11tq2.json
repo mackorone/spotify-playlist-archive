@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Christine D'Clario",
-  "num_followers": 481210,
+  "num_followers": 481416,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -135,42 +135,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Vuelve a Casa",
-        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
-      },
-      "artists": [
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
-        },
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 343746,
-      "name": "Ven, Te Necesito",
-      "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
-      },
-      "artists": [
-        {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
-        }
-      ],
-      "duration_ms": 310961,
-      "name": "Alaba A Dios",
-      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/47J2ZFBFAynjWuc7vrFBZo"
       },
@@ -191,6 +155,42 @@
       "duration_ms": 252456,
       "name": "1000 Pedazos",
       "url": "https://open.spotify.com/track/0BJbrz72CTsOG6wqwEKxTa"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 310961,
+      "name": "Alaba A Dios",
+      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Vuelve a Casa",
+        "url": "https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ"
+      },
+      "artists": [
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 343746,
+      "name": "Ven, Te Necesito",
+      "url": "https://open.spotify.com/track/45eHVUfCCQgcxSZ0EO1bZq"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Pa' Que Viva Feliz",
-        "url": "https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 189278,
-      "name": "Pa' Que Viva Feliz",
-      "url": "https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Homenaje a Jes\u00fas",
         "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 321619,
       "name": "Somos el pueblo de Dios",
       "url": "https://open.spotify.com/track/3MF7cqKTCqQ6Xm8Pe2igJh"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Pa' Que Viva Feliz",
+        "url": "https://open.spotify.com/album/3wnUpvSigI8iyFGebeLJjz"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 189278,
+      "name": "Pa' Que Viva Feliz",
+      "url": "https://open.spotify.com/track/55FyD4opL5CO7Nb80Z7Mx7"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "CONXSI\u00d3N",
-        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Lo Que Se Va",
-      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Danzando (Live)",
         "url": "https://open.spotify.com/album/5gIeEB6jPv3t9tj5z5RBcJ"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 488927,
       "name": "Danzando - Live",
       "url": "https://open.spotify.com/track/2XjDhJaZnBT2G2a08Gtbky"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "CONXSI\u00d3N",
+        "url": "https://open.spotify.com/album/6oQl9Ftvzp1AipCRy23nOW"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Lo Que Se Va",
+      "url": "https://open.spotify.com/track/3QSHINmN675HLLksiQ8Onm"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Laberinto",
+        "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
+      },
+      "artists": [
+        {
+          "name": "Veinte Veinte",
+          "url": "https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf"
+        }
+      ],
+      "duration_ms": 271178,
+      "name": "Cara a Cara",
+      "url": "https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "No Lo Has Visto A\u00fan",
         "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Laberinto",
-        "url": "https://open.spotify.com/album/14rxyyOhgm9hgYnxSk74eE"
-      },
-      "artists": [
-        {
-          "name": "Veinte Veinte",
-          "url": "https://open.spotify.com/artist/0Yu8Y1leAD10YLyRhWnqwf"
-        }
-      ],
-      "duration_ms": 271178,
-      "name": "Cara a Cara",
-      "url": "https://open.spotify.com/track/2Z7IlhEqve1X8EvD7AIzWy"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Mujer Frente a la Cruz",
+        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 367773,
+      "name": "Que Baje la Nube",
+      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "Vives en M\u00ed",
         "url": "https://open.spotify.com/album/7fEfG5MeVROYWby5dnAlI4"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 248651,
       "name": "Vives en M\u00ed",
       "url": "https://open.spotify.com/track/1X56o48bRC91kiEY4X4faS"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Mujer Frente a la Cruz",
-        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
-      },
-      "artists": [
-        {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
-        }
-      ],
-      "duration_ms": 367773,
-      "name": "Que Baje la Nube",
-      "url": "https://open.spotify.com/track/2GmA6k2d3GtaymGaCt7Pt7"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Amor Real",
-        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "Amor Real",
-      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Dios de Lo Imposible",
         "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 472946,
       "name": "Dios de Lo Imposible",
       "url": "https://open.spotify.com/track/39BnqwYj7f8hzrbVP7GZ5L"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Amor Real",
+        "url": "https://open.spotify.com/album/4OPPnlefSRGfeI0WkI8xCo"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "Amor Real",
+      "url": "https://open.spotify.com/track/69KmU0fC0eWkiWgvpw8B5q"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Todos Mis Mejores Amigos",
-        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 305573,
-      "name": "M\u00e1s All\u00e1 De Tu Ventana",
-      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Me enamor\u00e9",
         "url": "https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5"
       },
@@ -1267,22 +1247,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Raised to Deliver (Live)",
-        "url": "https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j"
-      },
-      "artists": [
-        {
-          "name": "HungryGen Worship",
-          "url": "https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9"
-        }
-      ],
-      "duration_ms": 119958,
-      "name": "Eres Todopoderoso (Live)",
-      "url": "https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "S\u00f3lo a Ti Jes\u00fas",
         "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
       },
@@ -1295,6 +1259,42 @@
       "duration_ms": 216794,
       "name": "S\u00f3lo a Ti Jes\u00fas",
       "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Todos Mis Mejores Amigos",
+        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "M\u00e1s All\u00e1 De Tu Ventana",
+      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Raised to Deliver (Live)",
+        "url": "https://open.spotify.com/album/6waoOAWwzaxb5IYWRnb34j"
+      },
+      "artists": [
+        {
+          "name": "HungryGen Worship",
+          "url": "https://open.spotify.com/artist/4XFBmphGA0K39ZcuzqMLs9"
+        }
+      ],
+      "duration_ms": 119958,
+      "name": "Eres Todopoderoso (Live)",
+      "url": "https://open.spotify.com/track/1lt8qEybEeJuZRuDCULGvt"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Me Sumerjo en Ti",
-        "url": "https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4"
-      },
-      "artists": [
-        {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Me Sumerjo en Ti",
-      "url": "https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Mareas",
         "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 233437,
       "name": "Mareas (todo a su tiempo)",
       "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Me Sumerjo en Ti",
+        "url": "https://open.spotify.com/album/1Pd0TEOaJJ4L76IWhDCac4"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Me Sumerjo en Ti",
+      "url": "https://open.spotify.com/track/41haenUzFaS84ClvAEJxYA"
     },
     {
       "added_at": "2025-09-14 09:46:53",

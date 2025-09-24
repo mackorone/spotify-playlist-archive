@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 765,
+  "num_followers": 764,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAAD5J5xGK1f9va+p+FJsngfy",
+  "snapshot_id": "aNCRgAAAAADb0PjnunADRwYPKFcQm7Lb",
   "tracks": [
     {
       "added_at": null,
@@ -92,9 +92,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 137454,
-      "name": "Ceiling Games",
-      "url": "https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep"
+      "duration_ms": 66447,
+      "name": "You're Gloating",
+      "url": "https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 66447,
-      "name": "You're Gloating",
-      "url": "https://open.spotify.com/track/6DiFE5a3ApjWhMGhMmKO9r"
+      "duration_ms": 137454,
+      "name": "Ceiling Games",
+      "url": "https://open.spotify.com/track/3ATRPvWFMu2F1U8b1Bh7ep"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Department Q (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+        "name": "Hacks: Season 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 93482,
-      "name": "William",
-      "url": "https://open.spotify.com/track/2hCn5FZS3a0RgCSyNVqYxo"
+      "duration_ms": 77822,
+      "name": "Unhoused Residents - Ava's Theme - Alternate",
+      "url": "https://open.spotify.com/track/4cWL6iAoBFVMcjBBdzFXEu"
     },
     {
       "added_at": null,
@@ -335,6 +335,22 @@
       "duration_ms": 184293,
       "name": "Training With Mr. Schaibel",
       "url": "https://open.spotify.com/track/1GZgxiTmZPfeYKsWQddxWV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Department Q (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1e5HzQzwRsdWNh2m5kDOUy"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 93482,
+      "name": "William",
+      "url": "https://open.spotify.com/track/2hCn5FZS3a0RgCSyNVqYxo"
     },
     {
       "added_at": null,

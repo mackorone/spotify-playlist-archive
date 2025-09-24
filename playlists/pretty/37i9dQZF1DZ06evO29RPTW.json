@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 131941,
+  "num_followers": 131974,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAACK7ymOMGPXHHo+/ytHLP3w",
+  "snapshot_id": "aNCRgAAAAABtZ1REllHCs9pe6xM83oK1",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 252693,
       "name": "Hands Of Death (Burn Baby Burn)",
       "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
     },
     {
       "added_at": null,

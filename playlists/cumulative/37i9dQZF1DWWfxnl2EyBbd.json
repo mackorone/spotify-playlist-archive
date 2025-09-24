@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 165461,
       "name": "California Sunsets",
       "url": "https://open.spotify.com/track/6P7tVXzv3aJ0R5yDSAody8"
@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 187964,
       "name": "Closer and Closer",
       "url": "https://open.spotify.com/track/2HcCeSsTlpgR2OKq57pIZZ"
@@ -4216,7 +4216,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 176341,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/6yGZttEiKNuSlim8guXSl3"
@@ -4382,7 +4382,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 148800,
       "name": "How Can I Know",
       "url": "https://open.spotify.com/track/7oe8RKHi8M73ylvglQQ607"
@@ -8623,6 +8623,24 @@
     },
     {
       "album": {
+        "name": "Peace is overrated",
+        "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172573,
+      "name": "Peace is overrated",
+      "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
+    },
+    {
+      "album": {
         "name": "Places To Write",
         "url": "https://open.spotify.com/album/0wCUJgr4Y0j6floashhhYC"
       },
@@ -10033,6 +10051,24 @@
     },
     {
       "album": {
+        "name": "Something Together",
+        "url": "https://open.spotify.com/album/06YCoRHgr6ELtFWEvAmRe8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129786,
+      "name": "Something Together",
+      "url": "https://open.spotify.com/track/3XM6cWuevb7PGBEZSiQfEx"
+    },
+    {
+      "album": {
         "name": "Sometime Ago",
         "url": "https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q"
       },
@@ -11318,6 +11354,24 @@
       "duration_ms": 156362,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9"
+    },
+    {
+      "album": {
+        "name": "The Opposite Corner",
+        "url": "https://open.spotify.com/album/3wjvtmCqr1rEHAOfyUgls0"
+      },
+      "artists": [
+        {
+          "name": "Hveiti Brauo",
+          "url": "https://open.spotify.com/artist/2O2JMN24QaUJRR2UlnjULK"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158878,
+      "name": "The Opposite Corner",
+      "url": "https://open.spotify.com/track/676hef7iLF9stIZAYifYfz"
     },
     {
       "album": {
@@ -13082,6 +13136,24 @@
       "duration_ms": 255143,
       "name": "You're A Rainbow",
       "url": "https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz"
+    },
+    {
+      "album": {
+        "name": "You're glowing",
+        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161950,
+      "name": "You're glowing",
+      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
     },
     {
       "album": {

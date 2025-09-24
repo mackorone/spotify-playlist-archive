@@ -1,12 +1,12 @@
 {
   "description": "This is Black Sabbath. The essential tracks, all in one playlist.",
-  "num_followers": 490143,
+  "num_followers": 490219,
   "original_name": "This Is Black Sabbath",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAAA75YZivWrXmZ38EFJlDC4j",
+  "snapshot_id": "aNCRgAAAAADKURM9v+8Qcu1og8bvRkMG",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Supernaut - 2009 Remaster",
-      "url": "https://open.spotify.com/track/03qx2RKyfJ4gPXMYvYN8Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 282240,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/5DcCUdxmc2qlTFglfxLStT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 281960,
+      "name": "Supernaut - 2009 Remaster",
+      "url": "https://open.spotify.com/track/03qx2RKyfJ4gPXMYvYN8Pt"
     },
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black Sabbath",
-        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "Sleeping Village - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/46gHYWaRr052RGEiL5Dg7T"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 231693,
       "name": "Neon Knights",
       "url": "https://open.spotify.com/track/7r2QK941qra9MDQIllJdZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sabbath",
+        "url": "https://open.spotify.com/album/3OmnatFgQ8o1DlYLp9EpNJ"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "Sleeping Village - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1K8N1137M0cVuKEzLTBmLg"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Say Die!",
-        "url": "https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw"
+        "name": "Mob Rules",
+        "url": "https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 401693,
-      "name": "Junior's Eyes - 2009 Remaster",
-      "url": "https://open.spotify.com/track/0hDOC0xEIdIlNCpqEFntqq"
+      "duration_ms": 467840,
+      "name": "The Sign of the Southern Cross",
+      "url": "https://open.spotify.com/track/778byl7ugZPdNhASJv9o6b"
     }
   ],
   "unique_name": "This Is Black Sabbath",

@@ -4,7 +4,7 @@
 
 > 
 
-875 songs - 2 day 20 hr 51 min
+876 songs - 2 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Il giudizio](https://open.spotify.com/track/17SWZoEaEg3S50drmyEoFB) | [Il Quadro di Troisi](https://open.spotify.com/artist/56aveFmMjth9yuDxLjUoEb) | [Il Quadro di Troisi](https://open.spotify.com/album/4jSXeII5Vv1ODLIbk2ksCZ) | 4:14 | 2023-04-11 |  |
 | [Il n'est jamais trop tard](https://open.spotify.com/track/2YEs2mLzFu8RcdAHFQghhv) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/4sh5kAaYaucu6sFbAakF2y) | 4:30 | 2019-09-07 |  |
 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 | 2021-12-07 |  |
+| [Il viaggio \- 2025 Remaster](https://open.spotify.com/track/0SHOHUVfpxbhgl3zx0v0BR) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Mimì \(2025 Remaster\)](https://open.spotify.com/album/5hVZb9HoNko35C9RThh52J) | 5:14 | 2025-09-23 |  |
 | [Il volo](https://open.spotify.com/track/1EQBXYxcRsUnymzLN8nxwT) | [Capinera](https://open.spotify.com/artist/0aS3d5fd7GrmApv4p7nho8) | [Il volo](https://open.spotify.com/album/5FmADjA3XSsqFx5iSJc27H) | 4:07 | 2022-12-06 |  |
 | [Ilando Gima Onge](https://open.spotify.com/track/2T3O5MAjlafYsRVfyNQG6D) | [Extra Golden](https://open.spotify.com/artist/4LeVaL7Sv7POzswXsHd6p5) | [Ok\-Oyot System](https://open.spotify.com/album/1DYyJU0nweT1a29o3td5dE) | 11:06 | 2022-12-26 |  |
 | [Imarhan](https://open.spotify.com/track/6HmhxRcJNEXaJyr6UO3h5m) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Imarhan](https://open.spotify.com/album/6mAPkmhCqPeEjVWOL74U3l) | 4:04 | 2021-06-10 |  |

@@ -2679,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Facing Atlas",
+        "url": "https://open.spotify.com/album/3gfEp3bCySjOJ1vCIFINCi"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406093,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/6IxRRIh4IcRL5bspf2uP8g"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0cFmJ71HYR4QUFmg2XLLEi"
       },

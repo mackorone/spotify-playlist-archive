@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 513083,
+  "num_followers": 513173,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAAAWxX6Ti8zJIJ54n/InP8W6",
+  "snapshot_id": "aNCRgAAAAADboFVl3vn/Gffo8PHPAmCA",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "No Me Pregunten por \u00c9l",
+      "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 267080,
       "name": "Taquito De Ojo",
       "url": "https://open.spotify.com/track/0sVjpJLaiJfDeqnMNwIu0v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "No Me Pregunten por \u00c9l",
-      "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 192004,
-      "name": "Tu Camisa Puesta",
-      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parrandera, Rebelde y Atrevida",
         "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 244200,
       "name": "Cuando Muere una Dama",
       "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 192004,
+      "name": "Tu Camisa Puesta",
+      "url": "https://open.spotify.com/track/6u0aeqk6AA0p010nw2wh7T"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 245967,
-      "name": "Chuper Amigos",
-      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se las Voy a Dar a Otro",
         "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215038,
       "name": "Se Las Voy a Dar a Otro",
       "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
+        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "La Mentada Contestada",
+      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Primer Lugar",
         "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 278453,
       "name": "El Destino",
       "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
-        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "La Mentada Contestada",
-      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857,389 likes - 313 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,857,104 likes - 313 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 312 | [I'll Be Right Here](https://open.spotify.com/track/31UmrBFlgzUM2iLM0GtJln) | [Stellanova](https://open.spotify.com/artist/29isfMEaWmykULDpeyBXlk) | [I'll Be Right Here](https://open.spotify.com/album/4qb8UF7g7UPi0P1WHeOtbV) | 2:32 |
 | 313 | [Invisible](https://open.spotify.com/track/6aQ6sWhgfxfVOEL1wIsLFA) | [Jeff Birma](https://open.spotify.com/artist/3fxSwAHp7NQsGYVj13iwu6) | [Invisible](https://open.spotify.com/album/2Wwk3drx26O3zV0B9rr7RK) | 3:11 |
 
-Snapshot ID: `AAAAAGCtSKpE335PBEKX+D1yGK+kqZEE`
+Snapshot ID: `AAAAAJoIfj9jOp40FdQ0JwZtMrDK07uy`

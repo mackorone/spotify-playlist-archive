@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz & Rels B, Yan Block, María Becerra & TINI, Miley Cyrus y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,189 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,186 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 19 | [Best Friend](https://open.spotify.com/track/0vd2nq63P1NcwQMwt2ThZH) | [Wos LasPalmas](https://open.spotify.com/artist/2Z3hX6FBCtTfjx8chQ6Mer), [La Pantera](https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL), [Yanez](https://open.spotify.com/artist/6XbVogsJ1r4DH9VIFIYxPE), [JuniorGC](https://open.spotify.com/artist/5j1mZ3MM0ddfYjqv0aTrbE) | [Best Friend](https://open.spotify.com/album/5QbJmQgDGcpKJVm1szk8yX) | 2:44 |
 | 20 | [Disparas](https://open.spotify.com/track/7h9qrPZWin8ZPYojsoNabV) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Disparas](https://open.spotify.com/album/1KYIrxH5ML2Al9bdW7qM8t) | 2:58 |
 | 21 | [Lo que queda](https://open.spotify.com/track/7mgpKk8GtIJhI5FcAK9K40) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Lo que queda](https://open.spotify.com/album/5VPDmYqaB2kA6B4rqRE5pq) | 3:26 |
-| 22 | [MOMENTO](https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [MOMENTO](https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR) | 2:56 |
+| 22 | [MOMENTO](https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93), [+Músicas](https://open.spotify.com/artist/06x3WF50a38L93KIFOpSaO) | [MOMENTO](https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR) | 2:56 |
 | 23 | [Temporada 3, Episodio 1](https://open.spotify.com/track/2rPtVtTa1lTUU2VT9V4yPl) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Temporada 3, Episodio 1](https://open.spotify.com/album/2zlY1ahB4QiL1H8iTqrP51) | 3:07 |
 | 24 | [Los días que vendrán \(feat\. Nina de Juan\)](https://open.spotify.com/track/3K7KiXKqojCNjsCbcLXnqb) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [Nina de Juan](https://open.spotify.com/artist/4c21TuhwIqBZLEpwVRWrgZ) | [Los días que vendrán \(feat\. Nina de Juan\)](https://open.spotify.com/album/20FSdro9Imsg6sDt4zpDHo) | 3:43 |
 | 25 | [Esto es Murcia](https://open.spotify.com/track/5qVLIUIcBwebRTkiY0onnW) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Varry Brava](https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb), [Ruth Lorenzo](https://open.spotify.com/artist/24EtVHju2o9Zm5P39iKosx), [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4), [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Kuve](https://open.spotify.com/artist/7vHKCt7yOiBg1Hci7izDLh) | [Esto es Murcia](https://open.spotify.com/album/3GzAIOge3x1LYvSRKPM1nr) | 3:35 |

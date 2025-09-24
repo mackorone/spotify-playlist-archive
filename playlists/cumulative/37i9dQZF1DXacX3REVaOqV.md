@@ -4,7 +4,7 @@
 
 > The best in house music
 
-675 songs - 1 day 20 hr 7 min
+676 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Automatic](https://open.spotify.com/track/29BkVH95RgsaXHBnx4F4BG) | [AstroHertz](https://open.spotify.com/artist/5vaObyIjKlwnyb9PVTtn6c), [Hotinga](https://open.spotify.com/artist/0UKxzPGay2En9BDF9LEtF6) | [Automatic](https://open.spotify.com/album/54oAoS1aEqeTCFAlY6Q0LH) | 4:02 | 2025-07-17 | 2025-09-09 |
 | [Ba:sen \- Pool Party Dub Mix](https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5) | [In Deep We Trust](https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc) | [The Lost Grooves EP](https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El) | 5:49 | 2022-04-14 | 2024-03-01 |
 | [Baby](https://open.spotify.com/track/5CkqQX3UXxgWW5RJ1Kus2o) | [Old Hermit Crab](https://open.spotify.com/artist/04xdmP44NY4yb14rEgjFm5) | [Baby](https://open.spotify.com/album/3gZ0u7KZCj0WNVMyg6MsJl) | 5:26 | 2025-01-30 | 2025-07-11 |
-| [Baby Voque](https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Baby Voque](https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683) | 5:16 | 2024-09-12 |  |
+| [Baby Voque](https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ) | [Ghostbusterz](https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4) | [Baby Voque](https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683) | 5:16 | 2024-09-12 | 2025-09-24 |
 | [Back To Love](https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Back To Love](https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN) | 2:45 | 2023-07-14 | 2024-07-02 |
 | [Back To The 00s](https://open.spotify.com/track/5v0YaYtm8CCdyhBuv3tOBi) | [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7), [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt) | [Back To The 00s EP](https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a) | 3:15 | 2023-12-01 | 2024-09-13 |
 | [Back To The Old \- Joeski Remix](https://open.spotify.com/track/5X3p1qsoCgxATEnWsqDSbS) | [Dario D'Attis](https://open.spotify.com/artist/0BSNfFPlI0efsuZljJtknX), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [Back To The Old](https://open.spotify.com/album/5RdANBW2sritjPOVUhrW3N) | 6:45 | 2025-04-17 |  |
@@ -297,6 +297,7 @@
 | [ILLUSIONS](https://open.spotify.com/track/4auvJ0GGuAiw4bQF9gOF2S) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [ILLUSIONS](https://open.spotify.com/album/4Mph2Eu08tbmHW4orMGDJi) | 2:41 | 2025-09-15 |  |
 | [In Arms](https://open.spotify.com/track/0mqDNdnkSOTKqsUIsAEfW2) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Robosonic](https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l) | [In Arms](https://open.spotify.com/album/2vh3bKINYS3kbVVqbJ3Nf7) | 3:26 | 2022-07-28 | 2022-09-16 |
 | [In Da House](https://open.spotify.com/track/3TqQKlQS8jjBCQenh0jRhS) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [In Da House](https://open.spotify.com/album/0zTGtc0HuqblFuXpBLZXyc) | 5:03 | 2024-04-04 | 2024-12-08 |
+| [In It](https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [In It](https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w) | 3:10 | 2025-09-22 |  |
 | [In My Heart](https://open.spotify.com/track/0YvqZxNJYloBhCZy51lLrd) | [Jesse Bru](https://open.spotify.com/artist/3TQ2taKTip3uFICbu5aIJq) | [Happiness Therapy LP01 : The Coast](https://open.spotify.com/album/4rde1PzuPvIf5kwBRuIFyW) | 8:54 | 2022-04-14 | 2022-07-29 |
 | [In My House \- Edit](https://open.spotify.com/track/5hsMcCPuRjzg1ldTuHBmpV) | [Andrea Tomei](https://open.spotify.com/artist/08jZEe5VirUXa0CnlXh8ZB) | [In My House \(Edit\)](https://open.spotify.com/album/1yii9F8xIJzgYjJRnZKCtr) | 3:08 | 2024-09-12 |  |
 | [In My Soul](https://open.spotify.com/track/1JlBLihKGyUccTPallnKj6) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [In My Soul](https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl) | 4:42 | 2022-04-14 | 2024-03-21 |

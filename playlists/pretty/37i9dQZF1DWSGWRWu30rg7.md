@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: DNANDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,282 likes - 69 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,286 likes - 69 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 2 | [Ingin Mencintai & Dicintai](https://open.spotify.com/track/5l4g0R0SsOmkCmnsQz4DHz) | [Leya Princy](https://open.spotify.com/artist/2O3HjLfKHefXk85dOpAr9x) | [Ingin Mencintai & Dicintai](https://open.spotify.com/album/25HMMZyrb6ivb9C2Th9MCc) | 3:05 |
 | 3 | [Masih Seperti Dulu](https://open.spotify.com/track/7C7MCnfVKAVEEYVk2HLqmG) | [Kenriz](https://open.spotify.com/artist/0KNqyNkuttIabEfX3lSUuT) | [Masih Seperti Dulu](https://open.spotify.com/album/21w2qKSnq2WQ6qwhWAx96b) | 3:33 |
 | 4 | [Back 2 You](https://open.spotify.com/track/5io7Qe2zh7px5elpRJk5oC) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Back 2 You](https://open.spotify.com/album/3XR3yBBYAP8Kq5q1Vh6j7p) | 2:37 |
-| 5 | [Mother Angels \(Feat\. Gloria Jessica\)](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
+| 5 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
 | 6 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
 | 7 | [Suluh](https://open.spotify.com/track/19pjc3lJEHuFibzJdsa83e) | [Rafika Nurhadi](https://open.spotify.com/artist/1nZuZljknMxF94v9RvZgoP) | [Suluh](https://open.spotify.com/album/5Xf1mGHNfQH4KlPxTzPa2W) | 4:38 |
 | 8 | [Lagi Lagi Lagi](https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db), [Kafin Sulthan](https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq) | [Lagi Lagi Lagi](https://open.spotify.com/album/2CzW3RNkzaPxuKfTyEMgTP) | 3:51 |

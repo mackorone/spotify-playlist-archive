@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Bobby Bazini
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,228 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,237 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 45 | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Choisi \(feat\. Alonzo\)](https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc) | 2:50 |
 | 46 | [Extraordinaire](https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Extraordinaire](https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H) | 2:45 |
 | 47 | [Kappa](https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Nahir](https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E) | [En Attendant Paphos](https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G) | 2:40 |
-| 48 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
-| 49 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
+| 48 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
+| 49 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
 | 50 | [Tana](https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Insomnia](https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU) | 2:36 |
 
 Snapshot ID: `AAAAAHhfbo7z1SQDYNeWsB6EhnO56q9/`

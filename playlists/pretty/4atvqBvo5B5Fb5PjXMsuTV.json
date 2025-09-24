@@ -1,13 +1,65 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Sep 22:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Sep 22:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAU73/1olNJQ3R1ky5fxXJtLOHvF2H9",
+  "snapshot_id": "AAAU82nngjmirc2BBcb/ddNZpNSXDhp2",
   "tracks": [
+    {
+      "added_at": "2025-09-23 22:04:51",
+      "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "added_at": "2025-09-23 18:04:40",
+      "album": {
+        "name": "yezzir",
+        "url": "https://open.spotify.com/album/4bnx218mT9gJOQILkqDo1t"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 106814,
+      "name": "yezzir",
+      "url": "https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga"
+    },
+    {
+      "added_at": "2025-09-23 22:04:51",
+      "album": {
+        "name": "Head Shoulders Knees Toes",
+        "url": "https://open.spotify.com/album/3D8vj2pQwvS2tIzgmgAuZN"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Head Shoulders Knees Toes",
+      "url": "https://open.spotify.com/track/6fE9fRsnxRx9TqWFiq6OAy"
+    },
     {
       "added_at": "2025-09-19 18:05:28",
       "album": {
@@ -771,54 +823,6 @@
       "duration_ms": 249048,
       "name": "Making Love to Morgan Wallen",
       "url": "https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z"
-    },
-    {
-      "added_at": "2025-09-12 18:04:04",
-      "album": {
-        "name": "Chrome Jets",
-        "url": "https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 216747,
-      "name": "Chrome Jets",
-      "url": "https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ"
-    },
-    {
-      "added_at": "2025-09-13 03:03:37",
-      "album": {
-        "name": "Rainbow Gal",
-        "url": "https://open.spotify.com/album/32MEZOAewxpH43adsG0yGS"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 142333,
-      "name": "Rainbow Gal",
-      "url": "https://open.spotify.com/track/7FZxZL2arm9wNi5G8owCgo"
-    },
-    {
-      "added_at": "2025-09-12 13:05:33",
-      "album": {
-        "name": "Against The World",
-        "url": "https://open.spotify.com/album/7ownkOd8hdu03qJjPNtS3Q"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Against The World",
-      "url": "https://open.spotify.com/track/0xz7ixGInfMaVBUphFymj4"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-438 songs - 19 hr 42 min
+441 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acidity Rain](https://open.spotify.com/track/3l30IZUBWUfh3MGvCaGFrv) | [Vanessa Storm](https://open.spotify.com/artist/6TsgwupeJtUQbUQFDXNlvu) | [Rainband](https://open.spotify.com/album/2jh2el08okb2KSgy9sKrew) | 2:07 | 2021-11-10 | 2024-03-23 |
 | [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-02-13 |  |
 | [Always Raining](https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0) | [Tono](https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7) | [Always Raining](https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F) | 3:36 | 2021-11-10 |  |
-| [Archipelago Rain & Thunder](https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Stormy Seasons](https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x) | 2:22 | 2023-02-13 |  |
+| [Archipelago Rain & Thunder](https://open.spotify.com/track/6TxDMAKrOapQFF4MBsf4UV) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Stormy Seasons](https://open.spotify.com/album/3Ms2VW0VJri8JHjSuJKh9x) | 2:22 | 2023-02-13 | 2025-09-24 |
 | [Atmospheric Storm](https://open.spotify.com/track/0iXS67ozXexCqznTYzSQEv) | [Temporale X](https://open.spotify.com/artist/7IATXQ7L0uEHgk99h2dKaf) | [Electricity Storm](https://open.spotify.com/album/4zbJ3PnYeEyNNv6rEN8O8X) | 1:30 | 2021-11-10 | 2023-06-16 |
 | [Atmosphère Nord](https://open.spotify.com/track/12YwouliX4zdxGoI9jArlO) | [Thibaut Lozé](https://open.spotify.com/artist/6xcbQLZPMTSqeZ46TU9ihv) | [Histoires Sur Le Flash](https://open.spotify.com/album/0gN2h9IwwX05KBG8xH7P33) | 1:50 | 2023-02-13 | 2023-06-16 |
 | [Bajo Refugio Tormenta](https://open.spotify.com/track/5cZTwGEeGbZhObrDxCWL4y) | [Mia Paleta](https://open.spotify.com/artist/74lAHgwfFrDoZG6IKRmH9I) | [Tormenta de la selva](https://open.spotify.com/album/18u0aMfE6Ubx0Vi4GsYC2u) | 2:19 | 2021-11-10 | 2024-12-08 |
@@ -37,6 +37,7 @@
 | [Calming Rain Sounds](https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE) | [Capital Rain Sounds](https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA) | [Capital Rain Sounds](https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V) | 2:02 | 2021-11-10 |  |
 | [Calming Rain Sounds](https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6) | [Sound FX of Nature](https://open.spotify.com/artist/27nw1ldFoK3yTpcm3BGKcs) | [New Sounds Of Nature](https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy) | 2:22 | 2021-11-10 |  |
 | [Calming Rain Sounds](https://open.spotify.com/track/4Tx8wbiny4HLw62K9hppp8) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Calming Rain Sounds](https://open.spotify.com/album/3Qe0XajKgl7aX74dJUNsne) | 2:57 | 2021-11-10 |  |
+| [Calming Thunder and Rainstorm in Arinsal](https://open.spotify.com/track/4wUGdHb1ewmxXEpDyK92rs) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Thunderstorm Crescendo](https://open.spotify.com/album/2Bg6xzoXwnHskRczt5qDJX) | 3:29 | 2025-09-23 |  |
 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 | 2021-11-10 |  |
 | [City Thunderstorm](https://open.spotify.com/track/7fTAkwHYIRSZmjOBi2hZnr) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 2:34 | 2021-11-10 |  |
 | [Clarity](https://open.spotify.com/track/0MAlsJSQfEgP9VjUtNQL8Q) | [Relaxcation](https://open.spotify.com/artist/1Iww3Y4gDbNvjkqnjUzIZu) | [Drizzle & Shower](https://open.spotify.com/album/4oQiUHa2cBZiio6H7ONJXE) | 2:19 | 2021-11-10 |  |
@@ -75,7 +76,7 @@
 | [Dream Rain](https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M) | [24H Rain Sounds](https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW) | [Dream Rain](https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R) | 2:47 | 2021-11-10 |  |
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2021-11-10 |  |
 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 | 2021-11-10 |  |
-| [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-02-13 |  |
+| [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-02-13 | 2025-09-24 |
 | [Drizzling Down](https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV) | [Liquid Dance](https://open.spotify.com/artist/5trjp6hXOHtTlaRSR8MEFL) | [Magic Sky](https://open.spotify.com/album/3NL617iuOV8yw2boaIDbLN) | 2:17 | 2021-11-10 |  |
 | [Drop from the cloud](https://open.spotify.com/track/7ANIqzLUgOlYvDjsMFi5Qu) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Droplet](https://open.spotify.com/album/34d9oMxfXLOAcvo3PH5PxW) | 3:32 | 2021-11-10 | 2023-02-14 |
 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 | 2021-11-10 |  |
@@ -203,7 +204,7 @@
 | [Night Storm](https://open.spotify.com/track/1SirUENsOpONVZ7DKCg0VU) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [The Sound Of Thunder](https://open.spotify.com/album/7w7vj19z0QzYlqkdAQYLGR) | 2:17 | 2023-06-15 |  |
 | [Night Storm](https://open.spotify.com/track/1I6QdR3AsN37JMBaoqsbEn) | [Lush Waves Creators](https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE) | [Night Rain](https://open.spotify.com/album/4r2Q2dqJDccNG92ocD3EtY) | 2:32 | 2021-11-10 |  |
 | [Nighttime Rain In Hyde Park \- Seamless](https://open.spotify.com/track/166a8OgRfj3GTf4frIb39E) | [Sounds Of The Royal Parks](https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX) | [Hyde Park Rain](https://open.spotify.com/album/6pdnloswEEFq9U5sbMc3g8) | 2:44 | 2021-11-10 | 2024-03-09 |
-| [No Irrigation Needed \- Seamless](https://open.spotify.com/track/0Z7TLSV354yKvLrmbMJf8g) | [The Outdoorian](https://open.spotify.com/artist/5gD9iCJzxLCPPIdWNLnKh2) | [No Irrigation Needed](https://open.spotify.com/album/19vWL9OZPlxsCdoJRNY2t8) | 2:47 | 2023-02-13 |  |
+| [No Irrigation Needed \- Seamless](https://open.spotify.com/track/0Z7TLSV354yKvLrmbMJf8g) | [The Outdoorian](https://open.spotify.com/artist/5gD9iCJzxLCPPIdWNLnKh2) | [No Irrigation Needed](https://open.spotify.com/album/19vWL9OZPlxsCdoJRNY2t8) | 2:47 | 2023-02-13 | 2025-09-24 |
 | [Noise Rain](https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu) | [Natures Orchestra](https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep) | [Noise Rain](https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy) | 2:44 | 2021-11-10 |  |
 | [Non Stop Rain Sounds](https://open.spotify.com/track/1cgb4yVuDdTfaatFq6xhgD) | [Raning Spot](https://open.spotify.com/artist/1L6FHdVeI2MvaYCAMS1yQl) | [Raning Spot](https://open.spotify.com/album/537EhlekNxtPA37kkOeobY) | 3:02 | 2021-11-10 |  |
 | [Nonstop Rain](https://open.spotify.com/track/2pWeiW8PnZ6W7ThO9UKDFT) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Rainy Weather](https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF) | 2:16 | 2021-11-10 |  |
@@ -406,6 +407,8 @@
 | [Thunderstorm In the Forest](https://open.spotify.com/track/3D97oOZdpxItVqFoAwBfYC) | [Dieter Esther](https://open.spotify.com/artist/6z0YBDZwZIxUzf0rO3WMFB) | [Weather Watcher](https://open.spotify.com/album/2Xm7W3aJDAsQPYQD7eDcgC) | 2:34 | 2021-11-10 |  |
 | [Thunderstorm Lullaby](https://open.spotify.com/track/2Bk7dbzRy1TDNsL4mdH6dg) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Thunderstorm Lullaby](https://open.spotify.com/album/6zQCoBm1SdOdM2tEBAx07e) | 2:54 | 2023-02-13 |  |
 | [Thunderstorms In Italy \- Seamless](https://open.spotify.com/track/4usbGXSHEFUs8W9lXvGRw5) | [Pluvious](https://open.spotify.com/artist/5m8Ny76aXScYfB1HkcjzB6) | [Thunderstorms In Italy](https://open.spotify.com/album/59SfFs0fby6KmMp9A6hnPu) | 2:17 | 2023-02-13 |  |
+| [Thunderstorms in the Pyrenees](https://open.spotify.com/track/2nmTcjhiym7iZl5PHMsRuD) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Thunderstorm Crescendo](https://open.spotify.com/album/2Bg6xzoXwnHskRczt5qDJX) | 3:03 | 2025-09-23 |  |
+| [Thunderstorms on Coma Pedrosa](https://open.spotify.com/track/7zep8cZB1YOfEjuT2hhnfs) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Chill Palm](https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE) | [Thunderstorm Crescendo](https://open.spotify.com/album/2Bg6xzoXwnHskRczt5qDJX) | 3:11 | 2025-09-23 |  |
 | [Thunderstruck](https://open.spotify.com/track/1xNNHG4PheCFA1pNllWAQ7) | [Snore Patrol](https://open.spotify.com/artist/07csNjxjo7yYEOCdpNlIMu) | [Seek Shelter](https://open.spotify.com/album/67JYm6xm9Y0Dz0fuua4H8D) | 3:24 | 2023-02-13 |  |
 | [Tonnerre au printemps](https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS) | [Linata Ebow](https://open.spotify.com/artist/11gO4yNtiNZ8xajSwSjjWw) | [Tonnerre au printemps](https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF) | 2:55 | 2023-02-13 |  |
 | [Tonnerre Tropical](https://open.spotify.com/track/4g8Uwb4iR9NVsQA4zpixt5) | [Christophe Frédérique](https://open.spotify.com/artist/1tFG73IXT0OVdkSJ5qwTcA) | [Tonnerre Tropical](https://open.spotify.com/album/1gT4wCpiinP8wfbn9F91tF) | 2:18 | 2021-11-10 | 2024-03-15 |

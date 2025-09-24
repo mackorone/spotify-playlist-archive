@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3390,
+  "num_followers": 3391,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAACEyZ/rrserMXg3a6sc370Y",
+  "snapshot_id": "aNCRgAAAAAC08jiJo7HnttQdCwcwltcw",
   "tracks": [
     {
       "added_at": null,
@@ -236,7 +236,7 @@
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
+        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 191213,
-      "name": "Murder Me",
-      "url": "https://open.spotify.com/track/1FS3D8JxrnCSkn20AvvleK"
+      "duration_ms": 211613,
+      "name": "Further From The Few",
+      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 211613,
-      "name": "Further From The Few",
-      "url": "https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+      "duration_ms": 191213,
+      "name": "Murder Me",
+      "url": "https://open.spotify.com/track/1slqH3FT3xgwr4oBQm5kyY"
     }
   ],
   "unique_name": "This Is Finch",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,178 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,181 likes - 40 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 39 | [Aud Lang Syne](https://open.spotify.com/track/6dTnaFiYUyIedK1HruGkd3) | [Elijah Shepherd](https://open.spotify.com/artist/3g1YRMovikK5MHYJJ1KuMh) | [Aud Lang Syne](https://open.spotify.com/album/2T39fk4I0OJW5htvra8Jlw) | 2:34 |
 | 40 | [O Come All Ye Faithful \(Bornlöf Piano Version\)](https://open.spotify.com/track/2xHCs5TFxAmOCo3lR6r7D3) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Christmas Cheer](https://open.spotify.com/album/4YT1l7sAjsWq86iZLyEef0) | 2:41 |
 
-Snapshot ID: `AAAAACeYl9Bkl/k57+lxyFznblUUyzor`
+Snapshot ID: `AAAAACfmPXSOiOnqz3nRh+b/G3e08ccH`

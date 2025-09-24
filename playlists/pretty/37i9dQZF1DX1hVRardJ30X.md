@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Mon Laferte & NATHY PELUSO, Junior H,  Alejandro Sanz & Rels B and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,294 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,304 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 30 | [AYAYAY](https://open.spotify.com/track/5sgiII50vpD4GB9GAgGTPn) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [AYAYAY](https://open.spotify.com/album/0mLIQbOqSQJoSU3jMIFK9f) | 2:48 |
 | 31 | [Corazones Desechables](https://open.spotify.com/track/68XmEEQOo5NY4XqxNIKMIE) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Corazones Desechables](https://open.spotify.com/album/1pXRSlf95dCVBrXYGbi2B4) | 2:50 |
 | 32 | [Pa' Mi Gente](https://open.spotify.com/track/2h9OZbgUVBaeHfUNOlkPa1) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pa' Mi Gente](https://open.spotify.com/album/1HX8Su85pSlP9o26NkLgPQ) | 2:53 |
-| 33 | [MOMENTO](https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [MOMENTO](https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR) | 2:56 |
+| 33 | [MOMENTO](https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93), [+Músicas](https://open.spotify.com/artist/06x3WF50a38L93KIFOpSaO) | [MOMENTO](https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR) | 2:56 |
 | 34 | [El Mundo Delante De Ti](https://open.spotify.com/track/6BXu2OtgRrVN4UHf2PKAUp) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [El Mundo Delante De Ti](https://open.spotify.com/album/5wyycKkfemxHq3D90pDh2t) | 5:07 |
 | 35 | [Pensándote](https://open.spotify.com/track/6LSwTnRYt9LNyupRrYt39j) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Pensándote](https://open.spotify.com/album/74fSvufLuv9OJRR5tvdYVK) | 3:01 |
 | 36 | [Tinguili](https://open.spotify.com/track/5HjttwIbxEEuyz4xQCIgXq) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [Harryson](https://open.spotify.com/artist/1x9Om8FmNPwwRjRFPnVVgm), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Tinguili](https://open.spotify.com/album/4MWL6tpnBjaUvS0CWpgvH2) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > when the ‘that boy is corrupt’ line feels… oddly specific
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577,479 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,577,227 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 24 | [Favor](https://open.spotify.com/track/2ZmeaRA2ZYyJqbt4b01HPd) | [Maeve](https://open.spotify.com/artist/3L2wM9IcPsk8BRRGkMk5tI) | [Favor](https://open.spotify.com/album/2J6kQ1BLuL53h2oNtztItL) | 2:37 |
 | 25 | [What A Life](https://open.spotify.com/track/66xmLhmV816GIJxq9mjUl5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Little House](https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y) | 4:06 |
 | 26 | [Sunny in London](https://open.spotify.com/track/3fNUY2bjHvsddPdOt5iV6A) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Sunny in London](https://open.spotify.com/album/1NV9aMqgGmqLdbVEdUewLI) | 3:09 |
-| 27 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
+| 27 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East of the Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
 | 28 | [God Damn Baby](https://open.spotify.com/track/75yGJrcOyZon1q5xn6NR7t) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [God Damn Baby](https://open.spotify.com/album/16B9iKwLj2CT7Rq6LiNMTR) | 3:12 |
 | 29 | [Shapeshifter](https://open.spotify.com/track/1QtTacL4mYK42Y8nYkKY83) | [Haven Madison](https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ) | [Shapeshifter](https://open.spotify.com/album/3RYk2xBbRzb2ioIyH41mun) | 3:20 |
 | 30 | [Rebel](https://open.spotify.com/track/5DHVH6B3OcjuuURuVV4eKV) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [Rebel](https://open.spotify.com/album/5XoefP34nhwCwVI6dBpZ4E) | 3:00 |

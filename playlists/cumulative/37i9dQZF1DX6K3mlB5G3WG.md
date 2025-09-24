@@ -4,7 +4,7 @@
 
 > Giorgia in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-2,003 songs - 4 day 6 hr 28 min
+2,005 songs - 4 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Body](https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Body](https://open.spotify.com/album/77lRJx359HvAd8fcFqbbO8) | 3:14 | 2025-08-28 |  |
 | [BOILER ROOM \(What Is Love\) \[feat\. Nashley\]](https://open.spotify.com/track/2EvmooUcliGMajcRtw8jRK) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [BOILER ROOM \(What Is Love\) \[feat\. Nashley\]](https://open.spotify.com/album/0ZUxvGA32g7klGMevlWCA9) | 2:41 | 2025-06-12 | 2025-07-11 |
 | [BOLLENTE](https://open.spotify.com/track/6rT5YhZMtXcxKTs0vAuw7Z) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71), [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [BOLLENTE](https://open.spotify.com/album/58ImoQwfNUPLRk6QegR6Dz) | 3:20 | 2025-06-12 | 2025-07-11 |
+| [bollicine](https://open.spotify.com/track/01SWo42ZIDViMJXB6Hbws7) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [bollicine](https://open.spotify.com/album/7csXUKUPccgkQL1H6FAYDB) | 2:40 | 2025-09-23 |  |
 | [BOMBER](https://open.spotify.com/track/2WKfA9JCidi3MKvS7v178d) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc) | [BOMBER](https://open.spotify.com/album/6dE6Q4Oz7o2GC5J4UeaIvH) | 2:54 | 2025-01-23 | 2025-02-14 |
 | [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 | 2025-06-20 | 2025-07-18 |
 | [BONSAI \(feat\. Fasma\)](https://open.spotify.com/track/7fCQMAv6ZjAbvofRdSFrbV) | [Wayne](https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY), [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk) | [UNA NOTTE A MILANO](https://open.spotify.com/album/7udLQVcyNzgeA5wHfENxcM) | 2:22 | 2024-09-05 | 2024-09-27 |
@@ -1215,6 +1216,7 @@
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-29 | 2025-06-27 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-08 | 2024-12-06 |
 | [niente](https://open.spotify.com/track/4jsFobVLotgBfwt668zjw1) | [nora lang](https://open.spotify.com/artist/1dl2ZT5IwLGsyKrOf2SSkh) | [quel che resta](https://open.spotify.com/album/1nJLGimuFDWndkY2IfscSj) | 2:18 | 2025-03-20 | 2025-04-11 |
+| [NIENTE DA DIRE](https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [NIENTE DA DIRE](https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby) | 3:23 | 2025-09-23 |  |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2024-10-17 | 2024-11-15 |
 | [Niente Panico](https://open.spotify.com/track/1GVDt0vn0wJ1QemPfMEWTU) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Niente Panico](https://open.spotify.com/album/1zjDLM4aRsRa4Z1TwkXr0d) | 3:01 | 2024-10-10 | 2024-11-08 |
 | [Night Or Day](https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Night Or Day](https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ) | 3:21 | 2024-11-21 | 2024-12-20 |

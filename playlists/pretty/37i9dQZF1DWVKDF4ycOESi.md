@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Ernia, 333 Mob, Giorgia, Frah Quintale, Miley Cyrus, Lewis Capaldi, Cardi B, Lola Young  e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,068 likes - 87 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,082 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 74 | [Milkshake](https://open.spotify.com/track/0Pzic5KmO1qGipl2HuPZeE) | [KISME](https://open.spotify.com/artist/4Q43UcD41lfyVsZ7oh4Q1a) | [Milkshake](https://open.spotify.com/album/532u2j48Vx0qGP8u0myqXW) | 3:22 |
 | 75 | [CRYPTO CELL](https://open.spotify.com/track/0gv5kcsSE1XAXEtBh47bNY) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [CRYPTO CELL](https://open.spotify.com/album/4o7B0KKZfqnE2NcmUWymd4) | 3:01 |
 | 76 | [NEL BENE E NEL MALE \(feat\. Silent Bob\)](https://open.spotify.com/track/6GOyPV5EYObpYcy6r0BNSn) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [MALINQUORE](https://open.spotify.com/album/4Z3kfPf6zxJhI5CAoaESqO) | 2:31 |
-| 77 | [KAMIKAZE](https://open.spotify.com/track/1h0yAA3yZ2WcGzwEH78RL0) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [29giulio](https://open.spotify.com/artist/58rXDdI5AZmDWPB1CJALzD), [Murray](https://open.spotify.com/artist/5vCM8O3LYLrcx4QRyKzoQo) | [KAMIKAZE](https://open.spotify.com/album/3srFSB7dHqjb49Lvg8r2mN) | 2:30 |
+| 77 | [KAMIKAZE](https://open.spotify.com/track/1h0yAA3yZ2WcGzwEH78RL0) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [29giulio](https://open.spotify.com/artist/58rXDdI5AZmDWPB1CJALzD) | [KAMIKAZE](https://open.spotify.com/album/3srFSB7dHqjb49Lvg8r2mN) | 2:30 |
 | 78 | [Senza le ali](https://open.spotify.com/track/1rxdV2Tgct9dPGlr6eNyRZ) | [millepaure](https://open.spotify.com/artist/7Ch7MLfFSiVCLWYnX7a7sH), [steee](https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Senza le ali](https://open.spotify.com/album/5aUwXsNqggDeMhyMpFBd7e) | 2:15 |
 | 79 | [f u r b a](https://open.spotify.com/track/1qMfrD54s3OxsTvxe6n5b6) | [Brokenkidzz](https://open.spotify.com/artist/5YoIT0p6aIAuLfxbK4D6mb) | [sale grezzo](https://open.spotify.com/album/5tToCf6hc3ALEM2207fXDV) | 1:29 |
 | 80 | [Uno Come Me](https://open.spotify.com/track/7gPE0NCEyHOsqbMkkTNefD) | [WhyTrevxr](https://open.spotify.com/artist/644fFvMFDTe89XjvV4u0kR) | [Uno Come Me](https://open.spotify.com/album/2GfJV6hFCKk5L6B1XLt7br) | 2:55 |

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Streaming Waters",
+        "url": "https://open.spotify.com/album/2S1r91o8tF7X2mxaT8DV4A"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201429,
+      "name": "Andorran Forest River",
+      "url": "https://open.spotify.com/track/6RybNJHwhOCOWUfih3xIek"
+    },
+    {
+      "album": {
         "name": "Rain Awakening",
         "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
@@ -438,7 +460,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 146000,
       "name": "Light Forest Rain 2",
       "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
@@ -705,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Soothing Rain Songs",
+        "url": "https://open.spotify.com/album/15CC9woREqBQPmVNOIfoQg"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Chill Palm",
+          "url": "https://open.spotify.com/artist/5bUGPaWS2tccpbiid4MSNE"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Rain in the Andorran Forest",
+      "url": "https://open.spotify.com/track/7BOmtKLiQX5yqk2Qji1X03"
+    },
+    {
+      "album": {
         "name": "Nature Living",
         "url": "https://open.spotify.com/album/7v6f0Qzdn4U2kLXX43D0fW"
       },
@@ -968,10 +1012,28 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 243919,
       "name": "Summmer Forest",
       "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
+    },
+    {
+      "album": {
+        "name": "Sunny Windy Day",
+        "url": "https://open.spotify.com/album/573klMlAI4BNEDicxHqZ9g"
+      },
+      "artists": [
+        {
+          "name": "Natural Song",
+          "url": "https://open.spotify.com/artist/3ztSSZCBD8e03TBMqPTQF3"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Sunny Windy Day",
+      "url": "https://open.spotify.com/track/2Eej9iJAvO0Ar1RYrwfTl5"
     },
     {
       "album": {
@@ -1152,7 +1214,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"

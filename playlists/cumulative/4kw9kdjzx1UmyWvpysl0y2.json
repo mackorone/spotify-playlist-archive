@@ -680,6 +680,28 @@
     {
       "album": {
         "name": "Afterlife",
+        "url": "https://open.spotify.com/album/4hGsAaQq40bBBBD9DWk6tS"
+      },
+      "artists": [
+        {
+          "name": "Banyan",
+          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1gdxDPqrfDsEEJgGoDyEYk"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
         "url": "https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ"
       },
       "artists": [
@@ -1986,7 +2008,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 160000,
       "name": "Balloon",
       "url": "https://open.spotify.com/track/5csIQAH93KyFTJpltszzXo"
@@ -5514,7 +5536,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 173023,
       "name": "EARTHQUAKE",
       "url": "https://open.spotify.com/track/5LHd02ccyYe90VI9lHhDDN"
@@ -18348,7 +18370,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 197142,
       "name": "Stop Drop Roll",
       "url": "https://open.spotify.com/track/6g7z70RaH57ZUbYz32ITKy"

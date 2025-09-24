@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 
 > John Mulaney's 50 most beloved tracks\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,049 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,060 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSmYGAKTUJn.md) - [plain]
 | 43 | [My Isle Of Golden Dreams](https://open.spotify.com/track/5Dj3zCSv8GOQbgu8qrq1Tr) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Sea Of Dreams](https://open.spotify.com/album/4R4yM10DY7jkO4w4D6k210) | 3:27 |
 | 44 | [Remember Where You Are](https://open.spotify.com/track/1GiY7oCNQh4W7DMMTXRKb2) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure? \(The Platinum Pleasure Edition\)](https://open.spotify.com/album/2SfZNW7y0r8ZcUpcxwMQwX) | 5:34 |
 | 45 | [Reba \- Live](https://open.spotify.com/track/5SyUbxivEZICWSEkdBrX5k) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [The Gorge '98](https://open.spotify.com/album/2lCNMTbwN2kPwy4MKy0OV3) | 17:03 |
-| 46 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
+| 46 | [Merry Christmas Mr\. Lawrence \- Version for Piano Trio](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 |
 | 47 | [TVC 15 \- Live; 2017 Remaster](https://open.spotify.com/track/2OnYe5PJf2AsdcWQ2sQVFO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Stage \(2017\) \[Live\]](https://open.spotify.com/album/1m4J3FQcxlHIsPeYfCpbHA) | 4:36 |
 | 48 | ['Til I Die \- Remastered 2009](https://open.spotify.com/track/2Uup75DRkJ03P91XyITXGC) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surf's Up](https://open.spotify.com/album/5NJHGcHNdLURknY2LfzjZg) | 2:33 |
 | 49 | [Ninna Nanna per adulteri \- Remastered](https://open.spotify.com/track/0p6pIexL8DXGPy5qxfc8jF) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cuore di Mamma \- Mother's Heart \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/354OTWPlr0SbFKnZJsNu8K) | 3:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from the Philippines!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,015 likes - 69 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,038 likes - 69 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 68 | [Trash](https://open.spotify.com/track/2eNd3TxM4dTBbVXPaiaOhm) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Trash](https://open.spotify.com/album/5OLrKVbEIEC1XLpgXhnCaq) | 2:20 |
 | 69 | [Mailap](https://open.spotify.com/track/19qY0adCmXoYTRfZoA0P2f) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Mailap](https://open.spotify.com/album/2B0dFSFQiQYxQPVrNHzyIV) | 3:08 |
 
-Snapshot ID: `AAAAAD9su2Cpz5pAB7WymejQxP1CNMhs`
+Snapshot ID: `AAAAAPD4qYi4K1HTat9V9hEBbevBUlV0`

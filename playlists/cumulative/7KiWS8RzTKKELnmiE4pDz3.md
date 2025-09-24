@@ -4,7 +4,7 @@
 
 > 
 
-1,174 songs - 2 day 11 hr 49 min
+1,175 songs - 2 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,6 +772,7 @@
 | [Oye Mi Canción](https://open.spotify.com/track/1Eyll8ZpAU2U6rD3Yfos9q) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:35 | 2024-02-14 | 2024-11-06 |
 | [P's & Q's](https://open.spotify.com/track/1z3sZrbZfgIpICkFDeSurB) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 2:33 | 2025-07-25 |  |
 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 | 2025-06-03 |  |
+| [Pack The Pipe](https://open.spotify.com/track/3jE1ffzfKtnALJVGlXgl7D) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 | 2025-09-23 |  |
 | [Paid In Full \(Outro\)](https://open.spotify.com/track/2CqHAcs1lgrxEmLdRK64Zu) | [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le) | [Crazy But It's True](https://open.spotify.com/album/5Am6t47OynK0Ft1qF6UjbX) | 4:07 | 2023-11-27 | 2024-04-24 |
 | [Palisades, CA](https://open.spotify.com/track/70wd1fE44Rb9mnZMaApmkc) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:14 | 2023-04-04 | 2024-03-05 |
 | [Paperview](https://open.spotify.com/track/6BwlKypzGNKfRPTNY9nVT1) | [Mosez Jones](https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp) | [Paperview](https://open.spotify.com/album/7paJXHRhDYBs46wEhGjNzV) | 2:32 | 2025-07-03 |  |

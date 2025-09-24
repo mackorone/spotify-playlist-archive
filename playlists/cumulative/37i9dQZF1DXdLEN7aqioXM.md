@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-486 songs - 1 day 10 hr 41 min
+487 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Crystal Waves \(From "Wave Break"\)](https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Crystal Waves \(From "Wave Break"\)](https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5) | 4:40 | 2021-10-15 |  |
 | [Cumulus](https://open.spotify.com/track/3P9XCHsK1MSdadVihWNrxU) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Cloud Symphonies](https://open.spotify.com/album/0VHuxj8iQY8TWISQvTqtCg) | 4:22 | 2022-06-10 | 2022-07-29 |
 | [Cumulus](https://open.spotify.com/track/6cSCZIDvMUysb1RtXWOIrd) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Cloud Symphonies](https://open.spotify.com/album/6fqYtdrZNm9nWU7ILgjnth) | 4:22 | 2023-06-30 | 2024-04-19 |
+| [Cyber Love](https://open.spotify.com/track/29SyuoxdeUHjdQLDvHyE4S) | [Scruscru](https://open.spotify.com/artist/1NUvSIBsDRPoLWeGgzkEkn), [Mike Fot](https://open.spotify.com/artist/1Hy0kVxCiERTP4RO2sGs9T) | [Cyber Love](https://open.spotify.com/album/2fNwOhZdzwJC6hZFcBCx2Z) | 5:58 | 2025-02-14 |  |
 | [Cybernetic](https://open.spotify.com/track/40Fr9OOtLGLwvRNHALKBuj) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Heartbeats](https://open.spotify.com/album/3cQCmeFgYCIWlbR5z3eegJ) | 4:15 | 2022-04-01 | 2022-04-21 |
 | [D.I.V.I.N.E](https://open.spotify.com/track/2h5zgTg4wfn7UR1mzFrDZK) | [DEPARTURE](https://open.spotify.com/artist/1hKMcEF7YVRkjXMRpl6aqN) | [D.I.V.I.N.E](https://open.spotify.com/album/43qAcL5ZxeONy7X5yZbDBh) | 3:46 | 2023-10-23 |  |
 | [Dance or Die](https://open.spotify.com/track/7k6a58ZGLCWG7dCpptHPbq) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Saturdaze](https://open.spotify.com/album/2s793dkklgAgVqra7Ax1fg) | 3:50 | 2021-10-15 | 2022-04-02 |
@@ -114,7 +115,7 @@
 | [Delusive Bunker \- Live Version](https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Delusive Bunker \(Live Version\)](https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0) | 6:11 | 2021-10-15 | 2023-09-20 |
 | [Diabolic](https://open.spotify.com/track/68ngtC3pGiTjXcFwxYCJ7Z) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [The Shape](https://open.spotify.com/album/6FrmsWgHEf8JGco0YPFOjJ) | 4:19 | 2021-10-15 | 2022-04-08 |
 | [Disco Hunt](https://open.spotify.com/track/0nfaoATlkfTA6NtPP5uYmB) | [Vincenzo Salvia](https://open.spotify.com/artist/0B1OIGHmTqq2gEn4IMaEci) | [Nightdrive to the Disco](https://open.spotify.com/album/70kLDT2qPMhkTBqvzmjw5W) | 4:22 | 2022-04-01 | 2022-04-19 |
-| [Disco on the Baltic Sea](https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Disco on the Baltic Sea](https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z) | 3:17 | 2022-08-19 |  |
+| [Disco on the Baltic Sea](https://open.spotify.com/track/4SW73Oo8NMYmCRYsHABgRs) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Disco on the Baltic Sea](https://open.spotify.com/album/2dttamIBvuU7pyMmR89V0z) | 3:17 | 2022-08-19 | 2025-09-24 |
 | [Dissolve](https://open.spotify.com/track/4Ikfp3eIvSzztTVNZO1Mez) | [evansgleb](https://open.spotify.com/artist/2uQJ5MCru45vAUm7fpwjer), [Forhill](https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze) | [Dissolve](https://open.spotify.com/album/2n36QdpXHLs96pWGV9TwOP) | 4:56 | 2022-07-22 |  |
 | [Distance](https://open.spotify.com/track/1CYWKpLRAdtM4b8pWV0Cq7) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Distance](https://open.spotify.com/album/4aNTV9h7g8p3ZgFMtqzgO8) | 3:27 | 2023-04-07 | 2023-10-24 |
 | [Distance](https://open.spotify.com/track/1uPgXM9EoySFF0RBaYV2zI) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Distance](https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS) | 3:27 | 2021-10-15 | 2023-05-20 |

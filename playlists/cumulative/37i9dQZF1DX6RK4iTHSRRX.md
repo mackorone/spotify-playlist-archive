@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-141 songs - 5 hr 45 min
+144 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Angels We Have Heard on High \(Instrumental Version\)](https://open.spotify.com/track/3C8XP7qT206OMKCDeQqfcw) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Instrumental Guitar Christmas: My Favorite Things](https://open.spotify.com/album/6OA9nToeEzQoPRaCSsG1zl) | 3:23 | 2021-12-22 | 2022-07-29 |
 | [As With Gladness, Men of Old](https://open.spotify.com/track/4yNTeRykWyZ1hWMdOe4Bte) | [William Chatterton Dix](https://open.spotify.com/artist/2IwHgG8anIJ3bbgGAii8ip), [Conrad Kocher](https://open.spotify.com/artist/1asseq1Wwf4J4wrXW9rhmw), [Don Latarski](https://open.spotify.com/artist/18XXuKLx7w4kSDD1w2AFct) | [Guitars on Holiday](https://open.spotify.com/album/7Muq0oRBrXjCwc2CUlSket) | 3:23 | 2021-12-22 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/4QXYi1FykH0IS7EzSMiZjP) | [Al McCain](https://open.spotify.com/artist/1oyb8StNAS9nsBNHOKlqpN) | [Auld Lang Syne](https://open.spotify.com/album/0117x9jVfJF94hR3QPTfkc) | 2:20 | 2021-12-22 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/6PIA6RsYHAu8maxlyCU7ky) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Auld Lang Syne](https://open.spotify.com/album/54SSEn7VAmqCBSh94pMH1T) | 1:54 | 2025-09-23 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/17gGsDRMXtLr0At51RMSMa) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Auld Lang Syne](https://open.spotify.com/album/76QTcSq6gmc4VnilZLoBvQ) | 1:50 | 2024-11-06 | 2025-09-03 |
 | [Away in a Manger](https://open.spotify.com/track/1A4J7RKNdJaIelW5wKTNAi) | [Holiday Guitar](https://open.spotify.com/artist/3k870ZizPxSR9UtSDH8Ana) | [Holiday Guitar \- The Christmas Song](https://open.spotify.com/album/2sWZwYz3Wn48pEwHcUOW2K) | 2:03 | 2021-12-22 | 2022-11-18 |
 | [Away in a Manger](https://open.spotify.com/track/2N33YR9NGL3nOBCEerRtee) | [Holiday Guitar Music](https://open.spotify.com/artist/6mfctThAqQpelIVZTpVpz3) | [Holiday Guitar Music \- Go Tell It On a Mountain](https://open.spotify.com/album/4vVq5TODq2b00lsnibiNDQ) | 2:03 | 2021-12-22 | 2022-11-13 |
@@ -38,11 +39,13 @@
 | [Deck The Halls](https://open.spotify.com/track/6BtuV4fSCgieGeNWPMqRMf) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/4kLp6CqCmDy7CeengHFpJK) | 1:52 | 2023-12-19 | 2024-04-19 |
 | [Deck The Halls](https://open.spotify.com/track/1t9YioEXydKP5SPNgPahqD) | [Tarragona Heights](https://open.spotify.com/artist/4AuwVtWa7s61M7ryOo4Nq2) | [Deck The Halls](https://open.spotify.com/album/38jc0zVg0GY0ImfhjWwoqV) | 1:50 | 2024-11-20 |  |
 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 | 2021-12-22 | 2025-09-03 |
-| [Ding Dong Merrily on High](https://open.spotify.com/track/4ocYQc887Mb8mtv378OiNP) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Ding Dong Merrily on High](https://open.spotify.com/album/4NLtEjzjdEzL0ZIjnjlhob) | 2:07 | 2025-09-12 |  |
+| [Ding Dong Merrily on High](https://open.spotify.com/track/6zMioPSHDwfVYw3jHwzZTz) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Ding Dong Merrily on High](https://open.spotify.com/album/7CHkaSKtPnXZUYuI7ArHWV) | 3:10 | 2025-09-23 |  |
+| [Ding Dong Merrily on High](https://open.spotify.com/track/4ocYQc887Mb8mtv378OiNP) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Ding Dong Merrily on High](https://open.spotify.com/album/4NLtEjzjdEzL0ZIjnjlhob) | 2:07 | 2025-09-12 | 2025-09-24 |
 | [Do You Want to Build a Snowman](https://open.spotify.com/track/25RqCzdrL6O6OFahC1sFqk) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 1:46 | 2023-10-13 | 2023-10-14 |
 | [Do You Want To Build A Snowman](https://open.spotify.com/track/2EtcEa7S0RO3Kxp5L3CnWJ) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Do You Want To Build A Snowman](https://open.spotify.com/album/2IpgZTkBoc4vHXZ48BZlC2) | 1:46 | 2023-10-13 |  |
-| [Fairytale of New York](https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Fairytale of New York](https://open.spotify.com/album/6pvMnOZo7wxTyY5C9npWng) | 2:39 | 2025-09-12 |  |
+| [Fairytale of New York](https://open.spotify.com/track/0fJUaPpv1uciNMANFHvTND) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Fairytale of New York](https://open.spotify.com/album/6pvMnOZo7wxTyY5C9npWng) | 2:39 | 2025-09-12 | 2025-09-24 |
 | [Fairytale of New York](https://open.spotify.com/track/08YmAqEDTXRBoxYfkxqMYE) | [Manuel Boltano](https://open.spotify.com/artist/1VPn9LztA72am356jYFyMH) | [Fairytale of New York](https://open.spotify.com/album/58CgzG5yqqtNrdcbp3TmaA) | 3:07 | 2021-12-22 | 2025-09-03 |
+| [Fairytale of New York](https://open.spotify.com/track/4i9PDb4PZYhf2mHZWdlVxx) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Fairytale of New York](https://open.spotify.com/album/0zkA461981Si9kYb1qfBCN) | 2:25 | 2025-09-23 |  |
 | [Feliz Navidad](https://open.spotify.com/track/1vWVGELREX5WZKcjMNZaa6) | [Chris Richter](https://open.spotify.com/artist/2Salm1AJWZ4jsIX2SLLZDi) | [Acoustic Christmas Songs: 40 Holiday Favorites Arranged for Instrumental Classical Guitar](https://open.spotify.com/album/32ba7omgonaVctekBdymyH) | 2:29 | 2021-12-22 | 2023-09-14 |
 | [Feliz Navidad](https://open.spotify.com/track/3xvRbdVCBPoOD1q0381Hbr) | [Denis Raum](https://open.spotify.com/artist/04326aFqeHuCMcdFVI66EZ) | [Christmas Guitar](https://open.spotify.com/album/7FetKTnSUViylCu4GCi79T) | 2:59 | 2022-11-11 | 2025-09-03 |
 | [Feliz Navidad](https://open.spotify.com/track/5IHQrWbmD7w75yUaWB3A8k) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Feliz Navidad](https://open.spotify.com/album/5gByMQ7J4bjCXjZ3HuCwZJ) | 2:24 | 2025-09-12 |  |

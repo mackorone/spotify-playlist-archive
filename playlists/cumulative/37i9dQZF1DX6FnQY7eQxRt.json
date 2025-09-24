@@ -1109,6 +1109,28 @@
     },
     {
       "album": {
+        "name": "Christmas Lullaby",
+        "url": "https://open.spotify.com/album/5cG6NPQe3VVT4RiL6SgYrq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Hewitt Jones",
+          "url": "https://open.spotify.com/artist/6YsinAkM0jBHU6umepGAaZ"
+        },
+        {
+          "name": "Vivum Singers",
+          "url": "https://open.spotify.com/artist/4CZj74AVBEXGK21JxbJqcg"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232237,
+      "name": "Christmas Lullaby",
+      "url": "https://open.spotify.com/track/5sI1RslAQoTXLymJ2s1jR8"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Christmas Oratorio, BWV 248, Pt. 1: No. 1, Jauchzet, frohlocket, auf, preiset die Tage",
         "url": "https://open.spotify.com/album/4qFT71u7Sgji4jJVsAOOaW"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Sebastian Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2112,
+  "num_followers": 2114,
   "original_name": "This Is Sebastian Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAACZePUguhb3Vcl05pznpnzq",
+  "snapshot_id": "aNCRgAAAAADxOz4lKKbgeb5jCH9ZDY2w",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "6AM",
+        "url": "https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1"
+      },
+      "artists": [
+        {
+          "name": "Los comandos",
+          "url": "https://open.spotify.com/artist/3RAAVsS7QjNsiLkRe083Ay"
+        },
+        {
+          "name": "Alejandrosoy",
+          "url": "https://open.spotify.com/artist/4ZTVKldtGZcSr3pz1sw5ja"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "6AM",
+      "url": "https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mafioso Americano",
         "url": "https://open.spotify.com/album/2pxl6UJE5CseR9RAY9iBZ8"
       },
@@ -211,38 +243,6 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "6AM",
-        "url": "https://open.spotify.com/album/5T8BE0bIWYbJo8r5lNhoC1"
-      },
-      "artists": [
-        {
-          "name": "Los comandos",
-          "url": "https://open.spotify.com/artist/3RAAVsS7QjNsiLkRe083Ay"
-        },
-        {
-          "name": "Alejandrosoy",
-          "url": "https://open.spotify.com/artist/4ZTVKldtGZcSr3pz1sw5ja"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Los Esquivel",
-          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "6AM",
-      "url": "https://open.spotify.com/track/584QtvdD4qgocm4RMZGaXA"
     },
     {
       "added_at": null,

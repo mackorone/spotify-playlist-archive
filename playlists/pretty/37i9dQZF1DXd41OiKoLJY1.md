@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Triflouride Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,352 likes - 250 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,362 likes - 250 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

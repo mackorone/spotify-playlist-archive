@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Dareyes de la Sierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,639 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,697 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 4 | [El Viejo Es un Gallazo](https://open.spotify.com/track/3QtIyGdGKyoaz15Ise3j9k) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [El Viejo Es un Gallazo](https://open.spotify.com/album/4BYuBaTJcS9HvFJULar5lU) | 3:36 |
 | 5 | [La Mejor De Todas](https://open.spotify.com/track/2zhEYcAP0ZMAsi9aolXcM5) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Mejor De Todas](https://open.spotify.com/album/1qhSPExqjpIKrbOkyuW1Ei) | 3:43 |
 | 6 | [El Troquero](https://open.spotify.com/track/2xTVWD3VQ2EYmvDx8iEFb7) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Troquero](https://open.spotify.com/album/0nItB24GBHy9KPJiDRA9Mc) | 3:06 |
-| 7 | [Arriba la Barbiza](https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Arriba la Barbiza](https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR) | 2:48 |
+| 7 | [Arriba la Barbiza](https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Arriba la Barbiza](https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR) | 2:49 |
 | 8 | [NO SE ME RAJE](https://open.spotify.com/track/7cxgfa1qeumz1zHLIMXDN2) | [Hector Vargas](https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq) | [CERO MIEDO](https://open.spotify.com/album/1haYUGKyZ79gGcSFjBTyCg) | 2:51 |
 | 9 | [De Qué Sirve](https://open.spotify.com/track/6lWQm511X7Eb9ZKMMeU3Pd) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [De Qué Sirve](https://open.spotify.com/album/1j9fEBEgDSEwclQigJp93B) | 3:34 |
 | 10 | [De lo Demás Me Encargo Yo](https://open.spotify.com/track/30pKKP4XA60CduoaJ3UqvC) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [De Lo Demás Me Encargo Yo](https://open.spotify.com/album/48wSCwjZDHpYTCsXbO9PRc) | 3:25 |

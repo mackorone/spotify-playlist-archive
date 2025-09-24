@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 196169,
       "name": "Amabile",
       "url": "https://open.spotify.com/track/3145XZiKmaE34sybk99dWc"
@@ -4679,6 +4679,24 @@
     },
     {
       "album": {
+        "name": "Farther Fields",
+        "url": "https://open.spotify.com/album/5OFpxCA86MILEobmMC8K7R"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173976,
+      "name": "Farther Fields",
+      "url": "https://open.spotify.com/track/3t50k3r7KDzv422h9rS4zw"
+    },
+    {
+      "album": {
         "name": "Feathers",
         "url": "https://open.spotify.com/album/5oe3BBpC7dNUNu8RDdo5XB"
       },
@@ -5126,6 +5144,24 @@
       "duration_ms": 212000,
       "name": "Forgive Us",
       "url": "https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p"
+    },
+    {
+      "album": {
+        "name": "Forgotten Path",
+        "url": "https://open.spotify.com/album/0jPoNGwd7OG2OZHPUbSWo8"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175906,
+      "name": "Forgotten Path",
+      "url": "https://open.spotify.com/track/5PmXRuVkFiQidQfqTSZXyY"
     },
     {
       "album": {
@@ -11737,6 +11773,24 @@
     },
     {
       "album": {
+        "name": "Sera",
+        "url": "https://open.spotify.com/album/5STux5QksAMliCuHlSXvWh"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157281,
+      "name": "Sera",
+      "url": "https://open.spotify.com/track/3G8YNE4beFXS7xPts5qsZ0"
+    },
+    {
+      "album": {
         "name": "Serenade",
         "url": "https://open.spotify.com/album/2Y8wMNppPqzJcntikfChbK"
       },
@@ -13732,7 +13786,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 170750,
       "name": "The Winds Know My Name",
       "url": "https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT"

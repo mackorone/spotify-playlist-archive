@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  عمرو جابر
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,800 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,858 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 9 | [ثانيتين](https://open.spotify.com/track/36vkM6K9je1e7zv0xWUcAs) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [ثانيتين](https://open.spotify.com/album/0lEuBINrKloO9z5fEwwRcW) | 3:05 |
 | 10 | [Heseeny](https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:33 |
 | 11 | [Qarar Shakhsy Rakam 1](https://open.spotify.com/track/6KsBc7L2kqaihR3CmEUNAy) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 4:07 |
-| 12 | [Bad Days](https://open.spotify.com/track/1Q1BtmfMhRbzZ6uPV3Xk1r) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 3:15 |
-| 13 | [Ana Wel Amar](https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana Wel Amar](https://open.spotify.com/album/3OFebAR7SW8jFbBSHwd0oA) | 4:34 |
-| 14 | [shaklekmagnona](https://open.spotify.com/track/4Sh8H0ONFKZRjPwJyrSFzG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [MATADOR](https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2) | 2:29 |
-| 15 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 |
-| 16 | [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 |
-| 17 | [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 |
-| 18 | [Shams W Hawa](https://open.spotify.com/track/5KUBjmdPpamovUuXEit9z2) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 3:24 |
-| 19 | [El Ayam](https://open.spotify.com/track/51kGELPBM8tjGrNyiINolN) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayam](https://open.spotify.com/album/4HOCPn72fyE24btiYrQjQw) | 2:34 |
-| 20 | [تعمل ليه كده](https://open.spotify.com/track/68cdaOZn06OfIppRKIlbPo) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [تعمل ليه كده](https://open.spotify.com/album/5obiqukLHyM31fZFjuxuSu) | 3:04 |
-| 21 | [انا بحبك انت](https://open.spotify.com/track/4aFWkLd1yFDudW8F2Q0aMv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/1tbZsz097ZtRJwVERGqqQg) | 3:09 |
-| 22 | [ERMINI](https://open.spotify.com/track/3mCRXThJ3oSg8YFhzlkMqO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [ERMINI](https://open.spotify.com/album/68j8cOZav552lFL94UC9Fp) | 2:38 |
-| 23 | [من السبت للخميس](https://open.spotify.com/track/2Y946QiOiau9fPlaSQfjKi) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [وريني](https://open.spotify.com/album/2ZEJ2zD91Vu5Cw4JVlXvWm) | 2:43 |
-| 24 | [Ya Mtaneshna](https://open.spotify.com/track/16mwwSZvysLqGf38E6nO4h) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ya Mtaneshna](https://open.spotify.com/album/3gbNw1gl70MSjgUDoi2hik) | 2:57 |
+| 12 | [LAMA AB’A MAAK](https://open.spotify.com/track/18yDdNv2MAESMMpr2Kp1Jw) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/6lmUVtdwiCYtp8UzIlVByN) | 2:59 |
+| 13 | [Bad Days](https://open.spotify.com/track/1Q1BtmfMhRbzZ6uPV3Xk1r) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Aqareb](https://open.spotify.com/album/0GaffqvjUTs1g9vDLAKFeV) | 3:15 |
+| 14 | [Ana Wel Amar](https://open.spotify.com/track/3ugRZ02LY4JuNeISmv4bv3) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ana Wel Amar](https://open.spotify.com/album/3OFebAR7SW8jFbBSHwd0oA) | 4:34 |
+| 15 | [shaklekmagnona](https://open.spotify.com/track/4Sh8H0ONFKZRjPwJyrSFzG) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW) | [MATADOR](https://open.spotify.com/album/4p50wCLmX3dorhUIDFIYF2) | 2:29 |
+| 16 | [تاني](https://open.spotify.com/track/3rV9uAALyaUifbNZQPpGen) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [بيستهبل "الوش الاول"](https://open.spotify.com/album/6R6Mt6nS9EOMUwbxi5FADY) | 2:38 |
+| 17 | [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 |
+| 18 | [محسبتهاش](https://open.spotify.com/track/5XdqlGhKKzvUANYjDI6wsB) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [محسبتهاش](https://open.spotify.com/album/1khkjhzj8oxKeYQqKgXplb) | 4:14 |
+| 19 | [Shams W Hawa](https://open.spotify.com/track/5KUBjmdPpamovUuXEit9z2) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Qarar Shakhsy](https://open.spotify.com/album/3srmGnh3GV4nnxyo6UgB5n) | 3:24 |
+| 20 | [El Ayam](https://open.spotify.com/track/51kGELPBM8tjGrNyiINolN) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Ayam](https://open.spotify.com/album/4HOCPn72fyE24btiYrQjQw) | 2:34 |
+| 21 | [تعمل ليه كده](https://open.spotify.com/track/68cdaOZn06OfIppRKIlbPo) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [تعمل ليه كده](https://open.spotify.com/album/5obiqukLHyM31fZFjuxuSu) | 3:04 |
+| 22 | [انا بحبك انت](https://open.spotify.com/track/4aFWkLd1yFDudW8F2Q0aMv) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/1tbZsz097ZtRJwVERGqqQg) | 3:09 |
+| 23 | [ERMINI](https://open.spotify.com/track/3mCRXThJ3oSg8YFhzlkMqO) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [ERMINI](https://open.spotify.com/album/68j8cOZav552lFL94UC9Fp) | 2:38 |
+| 24 | [من السبت للخميس](https://open.spotify.com/track/2Y946QiOiau9fPlaSQfjKi) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [وريني](https://open.spotify.com/album/2ZEJ2zD91Vu5Cw4JVlXvWm) | 2:43 |
 | 25 | [Dalmaa](https://open.spotify.com/track/1earbnSWzUIxE2wSTD1Z5R) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:44 |
 | 26 | [Fe Waqt Qeyasi](https://open.spotify.com/track/5UejQxeTY00g0kcJOw3ty7) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Fe Waqt Qeyasi](https://open.spotify.com/album/7yFPppI7ObyWkTTzbJCWbw) | 3:38 |
 | 27 | [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 59 | [Hanehky Fe Eih](https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Hanehky Fe Eih](https://open.spotify.com/album/3gLfi17apJkOvkpCR2gIHb) | 3:55 |
 | 60 | [DO RE MI](https://open.spotify.com/track/2vNPtRU2u4fl8MIuXsZnPD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [DO RE MI](https://open.spotify.com/album/2cB3vbiAFJfiNNNSKebUE1) | 2:48 |
 
-Snapshot ID: `AAAAADblxPpfqFRZG97M4BMNn/40ytXo`
+Snapshot ID: `AAAAALox15Iufzj1uIVRfbO4AQ5feqgf`

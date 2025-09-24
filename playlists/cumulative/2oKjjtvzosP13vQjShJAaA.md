@@ -4,7 +4,7 @@
 
 > wöchentliche handverlesene empfehlungen des archivs\. no industry bs
 
-54 songs - 2 hr 26 min
+55 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Nichts wie bisher](https://open.spotify.com/track/7qyi4kQiqwtYMNqsdBSDiS) | [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Oga Beats](https://open.spotify.com/artist/3igQRzdkWRLAPjYe1aFVE5) | [Nichts wie bisher / Wo die Wölfe wohnen](https://open.spotify.com/album/3Cd9Ta0N03ko98gJoDaWfq) | 3:02 | 2025-08-29 | 2025-09-05 |
 | [Niemand kann uns](https://open.spotify.com/track/0a7W80tDN9ktYCZuvXRkgD) | [Audio88](https://open.spotify.com/artist/4YlBDllKcEFrLtby1mqaEK), [Yassin](https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3) | [Niemand kann uns](https://open.spotify.com/album/301uqkNVDqD9BLJ7gy3FaE) | 2:21 | 2025-09-12 | 2025-09-20 |
 | [NOCHMAL](https://open.spotify.com/track/3szqiB5y3lcV2tOELWtLEb) | [Tom Hengst](https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc), [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Ein Leben reicht nicht EP](https://open.spotify.com/album/2ilMnKmOArZqjuD64eWrn8) | 2:24 | 2025-09-12 | 2025-09-20 |
+| [Ozean im Cup](https://open.spotify.com/track/7wierJUd6Khkyzld6ZRUZy) | [Da Playaz](https://open.spotify.com/artist/7c4KTyZM7icu8bSlWHRhPL), [Pierre Sonality](https://open.spotify.com/artist/0niBEgx0rRNWoTXgiJIiwA), [Young Krillin](https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ) | [Ozean im Cup](https://open.spotify.com/album/32u9puiTAyO9O9KEReH5Po) | 2:43 | 2025-09-23 |  |
 | [Papagei 4](https://open.spotify.com/track/63Y13JEs090m8PIGpD5WHg) | [Crack Ignaz](https://open.spotify.com/artist/1RzvREvTenKGPYk6laaGdD), [Fid Mella](https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp) | [Papagei 4](https://open.spotify.com/album/4GH9XYxzYpza7bipNXixAb) | 1:57 | 2025-09-19 |  |
 | [Pathos](https://open.spotify.com/track/0bLmcb1paswwGWNmAMwn7Q) | [Dea Bbz](https://open.spotify.com/artist/0Iu4geqSaPZ1orALyRr6MB) | [Pathos](https://open.spotify.com/album/1gSiTvJpcNcnwWP6ep4xkQ) | 2:01 | 2025-09-19 |  |
 | [Peter Pan Freestyle](https://open.spotify.com/track/7EN1a8XLlnb0NcH2EEW8lZ) | [Yaw Herra](https://open.spotify.com/artist/0fXGcMbfHhutkOn5CFtD97), [JACE](https://open.spotify.com/artist/3MEdIhw0C1WCzoIPxtifZ2), [DJ PhilHeat](https://open.spotify.com/artist/1UuU2SmtMBxsbv7ri5deRU) | [Peter Pan Freestyle](https://open.spotify.com/album/1a2vixgIxG8dWkTK3uDMlE) | 3:05 | 2025-08-28 | 2025-09-12 |

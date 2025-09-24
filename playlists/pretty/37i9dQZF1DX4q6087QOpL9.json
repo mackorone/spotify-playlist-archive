@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 123956,
+  "num_followers": 123989,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
+        "name": "I Never Knew Love",
+        "url": "https://open.spotify.com/album/2aM94wMc9dYKR1cRoPRG76"
+      },
+      "artists": [
+        {
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
+        },
+        {
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+        }
+      ],
+      "duration_ms": 203448,
+      "name": "I Never Knew Love",
+      "url": "https://open.spotify.com/track/4VqUkCI0LwAe5DiF6bJ03Q"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
         "name": "Everything Is Within You",
         "url": "https://open.spotify.com/album/3DSDsTdzZvx7aFIeBXxCfm"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 363945,
       "name": "Lilac's Cloud",
       "url": "https://open.spotify.com/track/6bIF8vBFSZiRE3mTeROnUo"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
-        "name": "I Never Knew Love",
-        "url": "https://open.spotify.com/album/2aM94wMc9dYKR1cRoPRG76"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 203448,
-      "name": "I Never Knew Love",
-      "url": "https://open.spotify.com/track/4VqUkCI0LwAe5DiF6bJ03Q"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -1291,18 +1291,26 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Reach Up",
-        "url": "https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN"
+        "name": "Karizma Remixed",
+        "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
       },
       "artists": [
         {
-          "name": "Luis Radio",
-          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        },
+        {
+          "name": "Nicholas Ryan Gant",
+          "url": "https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS"
+        },
+        {
+          "name": "Coflo",
+          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
         }
       ],
-      "duration_ms": 319060,
-      "name": "Reach Up - Original Mix",
-      "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
+      "duration_ms": 476097,
+      "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
+      "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -1327,26 +1335,18 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Karizma Remixed",
-        "url": "https://open.spotify.com/album/1jqwtVXVinpV8HVCpdiK00"
+        "name": "Reach Up",
+        "url": "https://open.spotify.com/album/0nIUCZYTx2DB6acEsp0paN"
       },
       "artists": [
         {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        },
-        {
-          "name": "Nicholas Ryan Gant",
-          "url": "https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS"
-        },
-        {
-          "name": "Coflo",
-          "url": "https://open.spotify.com/artist/5cyFgv39M8BX9gjW2czyMk"
+          "name": "Luis Radio",
+          "url": "https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS"
         }
       ],
-      "duration_ms": 476097,
-      "name": "Gypsy Woman (She's Homeless) - Coflo Soulful Mix",
-      "url": "https://open.spotify.com/track/0U35iCBlT3ZPBDH9QrHobs"
+      "duration_ms": 319060,
+      "name": "Reach Up - Original Mix",
+      "url": "https://open.spotify.com/track/7AB802Sv78ZnmkgfSj8YdN"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Wrap Me Up",
-        "url": "https://open.spotify.com/album/55mGNYMTpPNn7LDgnDZxBi"
-      },
-      "artists": [
-        {
-          "name": "Lovebirds",
-          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
-        }
-      ],
-      "duration_ms": 491438,
-      "name": "Wrap Me Up - Extended Mix",
-      "url": "https://open.spotify.com/track/5MWEWl4Kmiy71Tn7RBB0Mj"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "Sentindo Muito Bem",
         "url": "https://open.spotify.com/album/7joJVEYGXsGUSyNGfvaWou"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 420983,
       "name": "& Forever - DJ Spen & Reelsoul Original Mix",
       "url": "https://open.spotify.com/track/4VrGX8I5hiZ9fgAHcjyONt"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/55mGNYMTpPNn7LDgnDZxBi"
+      },
+      "artists": [
+        {
+          "name": "Lovebirds",
+          "url": "https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui"
+        }
+      ],
+      "duration_ms": 491438,
+      "name": "Wrap Me Up - Extended Mix",
+      "url": "https://open.spotify.com/track/5MWEWl4Kmiy71Tn7RBB0Mj"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -1579,30 +1579,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Elevation (Remixes)",
-        "url": "https://open.spotify.com/album/5wyokoiTQExPiQmE6FCKrD"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Laville",
-          "url": "https://open.spotify.com/artist/0Yozms4JXzD67amL5nv3eV"
-        },
-        {
-          "name": "Louie Vega",
-          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
-        }
-      ],
-      "duration_ms": 545333,
-      "name": "Elevation - Louie Vega Remix",
-      "url": "https://open.spotify.com/track/0HLJdFt3AEqPRXcn80oYkZ"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "I Want You All Tonight (DJ Spen & Michele Chiavarini Radio Edit)",
         "url": "https://open.spotify.com/album/4ZW7ttigriDm9QadYCVbYN"
       },
@@ -1623,6 +1599,30 @@
       "duration_ms": 244918,
       "name": "I Want You All Tonight - DJ Spen & Michele Chiavarini Radio Edit",
       "url": "https://open.spotify.com/track/1P0w0QbvPaoWiPVJw6EeOe"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "Elevation (Remixes)",
+        "url": "https://open.spotify.com/album/5wyokoiTQExPiQmE6FCKrD"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Laville",
+          "url": "https://open.spotify.com/artist/0Yozms4JXzD67amL5nv3eV"
+        },
+        {
+          "name": "Louie Vega",
+          "url": "https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg"
+        }
+      ],
+      "duration_ms": 545333,
+      "name": "Elevation - Louie Vega Remix",
+      "url": "https://open.spotify.com/track/0HLJdFt3AEqPRXcn80oYkZ"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -2087,6 +2087,26 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
+        "name": "Betcha Wouldn't Hurt Me",
+        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
+      },
+      "artists": [
+        {
+          "name": "Teddy Douglas",
+          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
+        },
+        {
+          "name": "Sharon Brown Adams",
+          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
+        }
+      ],
+      "duration_ms": 350431,
+      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
+      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
         "name": "We Move (Kg Sunset Remix)",
         "url": "https://open.spotify.com/album/1DS5DDY6ER9Jyd63FctyEj"
       },
@@ -2107,26 +2127,6 @@
       "duration_ms": 468292,
       "name": "We Move - Kg Sunset Remix",
       "url": "https://open.spotify.com/track/5s9pOfZbBu7NXAtcCn9Xc2"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
-        "name": "Betcha Wouldn't Hurt Me",
-        "url": "https://open.spotify.com/album/0kpPKhMy5OHxSZ0ohmxVQt"
-      },
-      "artists": [
-        {
-          "name": "Teddy Douglas",
-          "url": "https://open.spotify.com/artist/35UGEVPSCcrS0sdLjALMBj"
-        },
-        {
-          "name": "Sharon Brown Adams",
-          "url": "https://open.spotify.com/artist/7HW6vJ0W3rGNLAFJ0orZjW"
-        }
-      ],
-      "duration_ms": 350431,
-      "name": "Betcha Wouldn't Hurt Me (Vocal Mix)",
-      "url": "https://open.spotify.com/track/1bZKtZDLahZfdvPleIoCmZ"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -2207,22 +2207,22 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Good Inside",
-        "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
+        "name": "Beautifull",
+        "url": "https://open.spotify.com/album/4JnFpyALSYA6Tlfbwl4uUP"
       },
       "artists": [
         {
-          "name": "Sonic Soul Orchestra",
-          "url": "https://open.spotify.com/artist/4UyUyxpppUEMHh0uUy1O2t"
+          "name": "Devon Miles",
+          "url": "https://open.spotify.com/artist/4PdjujFNWfXyeCHGo2Uhv3"
         },
         {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
         }
       ],
-      "duration_ms": 376565,
-      "name": "Good Inside",
-      "url": "https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg"
+      "duration_ms": 370000,
+      "name": "Beautifull - Kerri Chandler Vocal Mix",
+      "url": "https://open.spotify.com/track/0emR0YB9BPQpkcto54KKfR"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -2247,22 +2247,22 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Beautifull",
-        "url": "https://open.spotify.com/album/4JnFpyALSYA6Tlfbwl4uUP"
+        "name": "Good Inside",
+        "url": "https://open.spotify.com/album/1AWrBTbrVDAnyqxfro2Fi0"
       },
       "artists": [
         {
-          "name": "Devon Miles",
-          "url": "https://open.spotify.com/artist/4PdjujFNWfXyeCHGo2Uhv3"
+          "name": "Sonic Soul Orchestra",
+          "url": "https://open.spotify.com/artist/4UyUyxpppUEMHh0uUy1O2t"
         },
         {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
         }
       ],
-      "duration_ms": 370000,
-      "name": "Beautifull - Kerri Chandler Vocal Mix",
-      "url": "https://open.spotify.com/track/0emR0YB9BPQpkcto54KKfR"
+      "duration_ms": 376565,
+      "name": "Good Inside",
+      "url": "https://open.spotify.com/track/4Wg5xrNoixLwpVtghEDczg"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -2387,70 +2387,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
-      },
-      "artists": [
-        {
-          "name": "Ezel",
-          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        },
-        {
-          "name": "John Beltran",
-          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Beautiful - John Beltran Remix",
-      "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
-        "name": "If Luvin You Is Wrong",
-        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
-      },
-      "artists": [
-        {
-          "name": "Arnaud D",
-          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
-        },
-        {
-          "name": "Earl W. Green",
-          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
-        }
-      ],
-      "duration_ms": 476097,
-      "name": "If Luvin You Is Wrong - Main Mix",
-      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/5LTYoWYUxSdFe2IxxG6KbD"
-      },
-      "artists": [
-        {
-          "name": "Martina Budde",
-          "url": "https://open.spotify.com/artist/59ERTANtJkiNqj0LPFAC4T"
-        },
-        {
-          "name": "Lee Wilson",
-          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Flowers - Radio Edit",
-      "url": "https://open.spotify.com/track/2juLuNWnLXbIw0SPuMFQrW"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "I Don't Mind (ReelSoul & DJ Spen Remix)",
         "url": "https://open.spotify.com/album/0ut2ljbZcJdgj8jwu7H18D"
       },
@@ -2487,6 +2423,70 @@
       "duration_ms": 198347,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/5YFYLl0Ndu2kPCQFJUbdBD"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/6hpQ6Ve3E6uyn0OAkJpPv9"
+      },
+      "artists": [
+        {
+          "name": "Ezel",
+          "url": "https://open.spotify.com/artist/3QABEE2hggcdeYHN7K8an5"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        },
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Beautiful - John Beltran Remix",
+      "url": "https://open.spotify.com/track/7Mhq9EfVly0iAymWLr9Zsr"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/5LTYoWYUxSdFe2IxxG6KbD"
+      },
+      "artists": [
+        {
+          "name": "Martina Budde",
+          "url": "https://open.spotify.com/artist/59ERTANtJkiNqj0LPFAC4T"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Flowers - Radio Edit",
+      "url": "https://open.spotify.com/track/2juLuNWnLXbIw0SPuMFQrW"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "If Luvin You Is Wrong",
+        "url": "https://open.spotify.com/album/2Du3u4Ctd80ClmYOKvbnt3"
+      },
+      "artists": [
+        {
+          "name": "Arnaud D",
+          "url": "https://open.spotify.com/artist/3Wyoij5XcjfMcEhkhBiHkt"
+        },
+        {
+          "name": "Earl W. Green",
+          "url": "https://open.spotify.com/artist/3ycMWKEvLBwpFB7kQo9nOM"
+        }
+      ],
+      "duration_ms": 476097,
+      "name": "If Luvin You Is Wrong - Main Mix",
+      "url": "https://open.spotify.com/track/5lxa9N28yb0cZQipbdk43x"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -2639,6 +2639,26 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
+        "name": "Got It Bad",
+        "url": "https://open.spotify.com/album/4ghx4eGElyUK0Z1z945Lwl"
+      },
+      "artists": [
+        {
+          "name": "Ellis Aaron",
+          "url": "https://open.spotify.com/artist/4Iqe22PsHueVV08Fk3o8kQ"
+        },
+        {
+          "name": "Sean McCabe",
+          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
+        }
+      ],
+      "duration_ms": 411287,
+      "name": "Got It Bad - Sean McCabe Vocal Mix",
+      "url": "https://open.spotify.com/track/3yufEDjvuDQvXPepliRdjf"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
         "name": "AWA (Atjazz Remixes)",
         "url": "https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin"
       },
@@ -2659,26 +2679,6 @@
       "duration_ms": 220689,
       "name": "AWA - Atjazz Love Soul Mix Edit",
       "url": "https://open.spotify.com/track/3czgfERZJodqLcbk11lGVo"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
-        "name": "Got It Bad",
-        "url": "https://open.spotify.com/album/4ghx4eGElyUK0Z1z945Lwl"
-      },
-      "artists": [
-        {
-          "name": "Ellis Aaron",
-          "url": "https://open.spotify.com/artist/4Iqe22PsHueVV08Fk3o8kQ"
-        },
-        {
-          "name": "Sean McCabe",
-          "url": "https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN"
-        }
-      ],
-      "duration_ms": 411287,
-      "name": "Got It Bad - Sean McCabe Vocal Mix",
-      "url": "https://open.spotify.com/track/3yufEDjvuDQvXPepliRdjf"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -2783,26 +2783,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/6muhgHXi8PjHQ9TnBt0Kkt"
-      },
-      "artists": [
-        {
-          "name": "Franck Roger",
-          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
-        },
-        {
-          "name": "Rona Ray",
-          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
-        }
-      ],
-      "duration_ms": 435714,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "African Spirits / Tribes (Fred P Interpretation)",
         "url": "https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh"
       },
@@ -2827,6 +2807,26 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/6muhgHXi8PjHQ9TnBt0Kkt"
+      },
+      "artists": [
+        {
+          "name": "Franck Roger",
+          "url": "https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 435714,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/4kg0OerpECR4Qbg0nfLfdN"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
         "name": "This Place",
         "url": "https://open.spotify.com/album/3ARLZdIYzM4HRVeC7e2x1G"
       },
@@ -2847,22 +2847,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Power in Harmony",
-        "url": "https://open.spotify.com/album/76YijZwQb0pPfarXLibw3p"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Power in Harmony - Original Edit",
-      "url": "https://open.spotify.com/track/3tV6MB2SQR5Wbg8Ngn6OTi"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "My Joy",
         "url": "https://open.spotify.com/album/27rIANFRAOW510xsZQa0wO"
       },
@@ -2879,6 +2863,22 @@
       "duration_ms": 424320,
       "name": "My Joy - DJ Beloved & Reggie Steele Remix Vocal",
       "url": "https://open.spotify.com/track/1Nblgxqhj82fdNDwvj9sDn"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "Power in Harmony",
+        "url": "https://open.spotify.com/album/76YijZwQb0pPfarXLibw3p"
+      },
+      "artists": [
+        {
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Power in Harmony - Original Edit",
+      "url": "https://open.spotify.com/track/3tV6MB2SQR5Wbg8Ngn6OTi"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -3047,22 +3047,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "Renegade (Frankie Feliciano Remix)",
-        "url": "https://open.spotify.com/album/7ku8StLCZhXs8NguBDMlSS"
-      },
-      "artists": [
-        {
-          "name": "Terry Dexter",
-          "url": "https://open.spotify.com/artist/0tcTyQkSJfYkSk8cZPEZxj"
-        }
-      ],
-      "duration_ms": 409756,
-      "name": "Renegade (Feliciano Vocal Remix)",
-      "url": "https://open.spotify.com/track/4l0ymPSrB7GFKUEKSUItoo"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "The Child In My Heart",
         "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
       },
@@ -3075,6 +3059,22 @@
       "duration_ms": 377419,
       "name": "Child In My Heart - Original Mix",
       "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "Renegade (Frankie Feliciano Remix)",
+        "url": "https://open.spotify.com/album/7ku8StLCZhXs8NguBDMlSS"
+      },
+      "artists": [
+        {
+          "name": "Terry Dexter",
+          "url": "https://open.spotify.com/artist/0tcTyQkSJfYkSk8cZPEZxj"
+        }
+      ],
+      "duration_ms": 409756,
+      "name": "Renegade (Feliciano Vocal Remix)",
+      "url": "https://open.spotify.com/track/4l0ymPSrB7GFKUEKSUItoo"
     },
     {
       "added_at": "2025-09-22 09:28:15",
@@ -3127,30 +3127,6 @@
     {
       "added_at": "2025-09-22 09:28:15",
       "album": {
-        "name": "The Symington Avenue - EP",
-        "url": "https://open.spotify.com/album/5RleuE8mFVMXpItaHauJa4"
-      },
-      "artists": [
-        {
-          "name": "Toronto Hustle",
-          "url": "https://open.spotify.com/artist/5wL7XFCAk4Q1MR6lRHaaL4"
-        },
-        {
-          "name": "Sean Roman",
-          "url": "https://open.spotify.com/artist/3v4eFdI9pxt9UdfwqDRe4c"
-        },
-        {
-          "name": "Kai Alce",
-          "url": "https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi"
-        }
-      ],
-      "duration_ms": 371722,
-      "name": "Not Now, Not Ever - Kai Alc\u00e9 Ndatl Remix",
-      "url": "https://open.spotify.com/track/4umvVURU9faJ8qICTMwmIa"
-    },
-    {
-      "added_at": "2025-09-22 09:28:15",
-      "album": {
         "name": "Finesse Me",
         "url": "https://open.spotify.com/album/54YYEj5sQE1M5PtLUfGhmw"
       },
@@ -3167,6 +3143,26 @@
       "duration_ms": 296347,
       "name": "Finesse Me - Ancestral Soul Mix",
       "url": "https://open.spotify.com/track/6nsms79M8ntBTXm3BRxWxX"
+    },
+    {
+      "added_at": "2025-09-22 09:28:15",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/7uVcj7Vdj5Z8nbanL6dS5j"
+      },
+      "artists": [
+        {
+          "name": "Wipe The Needle",
+          "url": "https://open.spotify.com/artist/6gEdcNCCqpeMDMX6Qldchw"
+        },
+        {
+          "name": "Syren Rivers",
+          "url": "https://open.spotify.com/artist/3AqS9Lfs7nH8jm6KuT3A1T"
+        }
+      ],
+      "duration_ms": 423736,
+      "name": "The Way - RBL Edit",
+      "url": "https://open.spotify.com/track/14lAZzxyO8VhjZLBLmzSv6"
     }
   ],
   "unique_name": "Soulful House",

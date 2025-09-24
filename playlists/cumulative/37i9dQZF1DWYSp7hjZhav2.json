@@ -155,6 +155,28 @@
     },
     {
       "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "braev",
+          "url": "https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324285,
+      "name": "All Of The Lights (Extended Mix)",
+      "url": "https://open.spotify.com/track/60iF1pHsFh1t9mkJFKucXi"
+    },
+    {
+      "album": {
         "name": "Alone (Four Tet Remix)",
         "url": "https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp"
       },
@@ -200,7 +222,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 305806,
       "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
       "url": "https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7"
@@ -296,7 +318,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 199335,
       "name": "Angel In The Dark",
       "url": "https://open.spotify.com/track/5GRJ5mXnz8dalhWY14HZcV"
@@ -508,7 +530,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 223242,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/2RKcBKql2uxI11EvC2uMi3"
@@ -1512,7 +1534,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 194881,
       "name": "Digital Dream",
       "url": "https://open.spotify.com/track/5DRrrh8TWc0jgGrzIE44HI"
@@ -1688,7 +1710,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 211384,
       "name": "Dreamin (feat. Daya) - Anyma Remix",
       "url": "https://open.spotify.com/track/7MtmQJPiZiyNbp8Pnjv5e5"
@@ -1918,7 +1940,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 198808,
       "name": "Eusexua - Anyma Remix",
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
@@ -2323,6 +2345,28 @@
     },
     {
       "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Fuel",
+      "url": "https://open.spotify.com/track/5JNHMsnjSkx7LUiHuD1RZY"
+    },
+    {
+      "album": {
         "name": "Galactic Highways",
         "url": "https://open.spotify.com/album/3IlDESZPdk0kEjBM72O90E"
       },
@@ -2418,6 +2462,50 @@
       "duration_ms": 402818,
       "name": "Ghosts Again - Massano Remix",
       "url": "https://open.spotify.com/track/2sQLabj3BSALTq2FmTrDXC"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        },
+        {
+          "name": "Carly Gibert",
+          "url": "https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133848,
+      "name": "Girls MIA",
+      "url": "https://open.spotify.com/track/0WHINYuRlFPt4WrXPBeCvo"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235183,
+      "name": "Give You My All",
+      "url": "https://open.spotify.com/track/2QjNW22Y9WEonQkJjIOVV8"
     },
     {
       "album": {
@@ -2599,6 +2687,24 @@
     },
     {
       "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206663,
+      "name": "HIDE",
+      "url": "https://open.spotify.com/track/0Y7EeiWe7JsEHsLs0Lpn1I"
+    },
+    {
+      "album": {
         "name": "High Street Remixes EP",
         "url": "https://open.spotify.com/album/4PaScJ9nWTATvbOHpYYMRQ"
       },
@@ -2614,7 +2720,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 504347,
       "name": "High Street - Astrix Remix",
       "url": "https://open.spotify.com/track/2aXisW2ZScuxitKImCxk3A"
@@ -2802,7 +2908,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 170625,
       "name": "Hypnotized (feat. Ellie Goulding) - John Summit Remix",
       "url": "https://open.spotify.com/track/1VAVEYZlzBp7d8UlWJvaDD"
@@ -3088,7 +3194,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 273170,
       "name": "JETLAGGED",
       "url": "https://open.spotify.com/track/3eaS4ny5qSJC2LzzVJT8V4"
@@ -3304,7 +3410,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 255966,
       "name": "Leave A Mark",
       "url": "https://open.spotify.com/track/2b6nVetZ3mWPUf6qjwDJJB"
@@ -3381,6 +3487,72 @@
     },
     {
       "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/0R6E19xuHfcWBuUX5VC5rg"
+      },
+      "artists": [
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        },
+        {
+          "name": "DAMEN",
+          "url": "https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/6DJc0UvXBsVJpvK3XwQgQq"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306885,
+      "name": "Lost Echoes",
+      "url": "https://open.spotify.com/track/6bU4EhvU6pBGibBCVFaVjv"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "YOTTO",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206308,
+      "name": "Love Parade",
+      "url": "https://open.spotify.com/track/0LwKAX0JzRSYvOreNvSQzN"
+    },
+    {
+      "album": {
         "name": "The End Of Genesys",
         "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
@@ -3392,7 +3564,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 113093,
       "name": "Lucente",
       "url": "https://open.spotify.com/track/7LXOit8joEZPT4WWyRymS9"
@@ -3586,7 +3758,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 175748,
       "name": "Miss You - Argy Remix",
       "url": "https://open.spotify.com/track/7sNSLpiSJrNYWc0XLgFEBn"
@@ -3689,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Jast",
+          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197261,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/6UJsvbg4RCKRuk8dOg1t0E"
+    },
+    {
+      "album": {
         "name": "My City's On Fire (Anyma & Cassian Remix)",
         "url": "https://open.spotify.com/album/7CrZ3IMVHng3uOXib7KFNU"
       },
@@ -3738,6 +3928,28 @@
       "duration_ms": 199047,
       "name": "My City's On Fire - Anyma & Cassian Remix",
       "url": "https://open.spotify.com/track/5ncvfF5zykGdBMsfOKGkhi"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Add-us",
+          "url": "https://open.spotify.com/artist/2LjaWk8PYlB8M4Cz6MLHGJ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252063,
+      "name": "Nami",
+      "url": "https://open.spotify.com/track/3eXH9a9Hxb4GiQXXUygxvy"
     },
     {
       "album": {
@@ -3873,6 +4085,50 @@
     },
     {
       "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        },
+        {
+          "name": "Tone Depth",
+          "url": "https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf"
+        },
+        {
+          "name": "Wasiu",
+          "url": "https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203947,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/3bg8n2lUulign7pUIJ5EVg"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "PACS",
+          "url": "https://open.spotify.com/artist/0JQQmVsckc2tcIfzyaIoMc"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217507,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/6CuUo1BS7kHR880ioZA4kB"
+    },
+    {
+      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -3892,7 +4148,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
@@ -3970,6 +4226,28 @@
       "duration_ms": 218709,
       "name": "No One\u2019s Coming",
       "url": "https://open.spotify.com/track/5yKh1r5JXYKjUS4QHeoixs"
+    },
+    {
+      "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/7N1fOXXxOvxMXq4Gn1xjZC"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270967,
+      "name": "Nobody (Extended Mix)",
+      "url": "https://open.spotify.com/track/3osBSgwcOSvcFhUE1SBztt"
     },
     {
       "album": {
@@ -4238,7 +4516,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 171006,
       "name": "Out Of Context",
       "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
@@ -4278,6 +4556,24 @@
       "duration_ms": 322172,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/7L5IwfKB6W0tadcSh9wlyH"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238154,
+      "name": "Over Control",
+      "url": "https://open.spotify.com/track/1xlVlX0gmyJlKBVVj5mmTy"
     },
     {
       "album": {
@@ -4500,7 +4796,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 243838,
       "name": "Pictures Of You - Cassian Remix",
       "url": "https://open.spotify.com/track/7KxCyR3pCUqH136EvCDMun"
@@ -4584,6 +4880,50 @@
       "duration_ms": 221106,
       "name": "Pure Smile Snake Venom",
       "url": "https://open.spotify.com/track/3tbIgRlbQ9s0MYkJTv8ued"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Quantum",
+      "url": "https://open.spotify.com/track/6fPkKnzWCeAM6O7XQ6UYPQ"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/0nxkp7rYH6d9aJnEIGQesL"
     },
     {
       "album": {
@@ -5063,6 +5403,24 @@
     },
     {
       "album": {
+        "name": "Smoke",
+        "url": "https://open.spotify.com/album/2qUTOlPGREFMWzFjPY0qzZ"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353280,
+      "name": "Smoke (Extended Mix)",
+      "url": "https://open.spotify.com/track/1yaub000yK6ERyH5FqTl9p"
+    },
+    {
+      "album": {
         "name": "So Good (GENESI Remix)",
         "url": "https://open.spotify.com/album/7viGWiOQfiq8KXYlKgGQtu"
       },
@@ -5078,7 +5436,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 182178,
       "name": "So Good (GENESI Remix)",
       "url": "https://open.spotify.com/track/6Vmw2zW2cchWRSySsljAUo"
@@ -5216,7 +5574,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 197822,
       "name": "Syren",
       "url": "https://open.spotify.com/track/3hGXZKj3lYKKRQtKE8XN55"
@@ -5286,6 +5644,24 @@
       "duration_ms": 418479,
       "name": "System Failure",
       "url": "https://open.spotify.com/track/4wqODsXdZXMykBJ8xLfZO4"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Joshlane",
+          "url": "https://open.spotify.com/artist/1FoIjRlwZYcqNjwZCh7d6P"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194464,
+      "name": "System Overload",
+      "url": "https://open.spotify.com/track/1zlxe6aLcK8bIrPvFkYdMN"
     },
     {
       "album": {
@@ -5450,7 +5826,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 201302,
       "name": "The End Of Genesys",
       "url": "https://open.spotify.com/track/5WJhBV5ZHOWaRtZwnfYurJ"
@@ -6008,7 +6384,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 146308,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/05y9EYjVL7lcxesRLAKkvb"
@@ -6038,6 +6414,32 @@
       "duration_ms": 146308,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/7pS1ts9rfwuSOMu2kZkBZ7"
+    },
+    {
+      "album": {
+        "name": "Quantum Echoes, Pt. 1",
+        "url": "https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "Tharat",
+          "url": "https://open.spotify.com/artist/2NcecTLKPtoGV6xzyTz3yx"
+        },
+        {
+          "name": "shel\u00b7ly",
+          "url": "https://open.spotify.com/artist/3SIRUdFx4iJQ4aj81r2f39"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Wagon",
+      "url": "https://open.spotify.com/track/51CnKfYUwtRjNqviaoJatO"
     },
     {
       "album": {
@@ -6218,7 +6620,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-31",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
@@ -6284,7 +6686,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 174314,
       "name": "Work (feat. Yeat)",
       "url": "https://open.spotify.com/track/4KAhwWsczSfEaafQHl32hZ"

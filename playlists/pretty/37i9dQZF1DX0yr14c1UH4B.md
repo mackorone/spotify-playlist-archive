@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > storytelling songwriting ✨ Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,200 likes - 120 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,208 likes - 120 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 16 | [u must be famous](https://open.spotify.com/track/0yVbaRwUuIaE0yj5uEVuwa) | [Jordan Lee](https://open.spotify.com/artist/43Ew9lncWtcNtaXkvh4YOE) | [u must be famous / youniverse](https://open.spotify.com/album/3QKnFTT40WBdSdZ7ZKh6Tp) | 2:57 |
 | 17 | [i'm scared you're falling out of love with me](https://open.spotify.com/track/1lCXR23TUPPcesMLH5NkXp) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [i'm scared you're falling out of love with me](https://open.spotify.com/album/6Fh7pGzRoEzdnIgEKalXek) | 1:35 |
 | 18 | [Another Body](https://open.spotify.com/track/5r19E26jFldVMw9EOt6wl9) | [Celia Babini](https://open.spotify.com/artist/2wCyYQ7ZZm89ylc7Ryryyl) | [Another Body](https://open.spotify.com/album/60O5lTmaXrZMaWuKwqDrJD) | 2:54 |
-| 19 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East Of The Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
+| 19 | [I Wonder](https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [East of the Sun](https://open.spotify.com/album/0RNYfTahQ9qXuVoEm1CFIL) | 2:55 |
 | 20 | [The Valley](https://open.spotify.com/track/1TKjOHN1FDNcClMQyKQRgw) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [The Valley](https://open.spotify.com/album/4S2932lDiFz0RbLvNlHwWu) | 2:39 |
 | 21 | [Something to Say](https://open.spotify.com/track/2ZZP27kh5hf4yl3JJhlf4V) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Something to Say](https://open.spotify.com/album/1EgA5STWtP2nbY4kBGcre2) | 2:26 |
 | 22 | [Swim Between Trees \(Eleni Drake Version\)](https://open.spotify.com/track/0NMgsLGFCjLIxjq9N8IVYI) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH), [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Swim Between Trees \(Eleni Drake Version\)](https://open.spotify.com/album/1rOmQ5jqLEEKwI3yQ35wS4) | 3:41 |

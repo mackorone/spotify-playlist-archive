@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319162,
+  "num_followers": 319174,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -90,6 +90,10 @@
         {
           "name": "LKAHH",
           "url": "https://open.spotify.com/artist/4btsBxPXtPIdiCvajntmMw"
+        },
+        {
+          "name": "PL",
+          "url": "https://open.spotify.com/artist/2IWSQjDY5SXgnSyiCRUiP1"
         }
       ],
       "duration_ms": 156090,
@@ -523,6 +527,22 @@
     {
       "added_at": "2025-09-19 22:16:33",
       "album": {
+        "name": "Ci\u00fame",
+        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 200522,
+      "name": "Ci\u00fame",
+      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
+    },
+    {
+      "added_at": "2025-09-19 22:16:33",
+      "album": {
         "name": "S",
         "url": "https://open.spotify.com/album/4d4AHMB5JSbeYRfRSd2AO8"
       },
@@ -559,22 +579,6 @@
       "duration_ms": 130169,
       "name": "Talvez N\u00e3o Seja",
       "url": "https://open.spotify.com/track/5mtEGUGPJwDHgo92pHY3Tu"
-    },
-    {
-      "added_at": "2025-09-19 22:16:33",
-      "album": {
-        "name": "Ci\u00fame",
-        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 200522,
-      "name": "Ci\u00fame",
-      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
     },
     {
       "added_at": "2025-09-19 22:16:33",
@@ -671,22 +675,6 @@
     {
       "added_at": "2025-09-19 22:16:33",
       "album": {
-        "name": "Mais Que os Olhos Podem Ver",
-        "url": "https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "n\u00f3s 2",
-      "url": "https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh"
-    },
-    {
-      "added_at": "2025-09-19 22:16:33",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
@@ -699,6 +687,22 @@
       "duration_ms": 145185,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2025-09-19 22:16:33",
+      "album": {
+        "name": "Mais Que os Olhos Podem Ver",
+        "url": "https://open.spotify.com/album/5T9bHYvkePyb0WkBA6Wduz"
+      },
+      "artists": [
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "n\u00f3s 2",
+      "url": "https://open.spotify.com/track/7vuxXAyqByxkVdM2jqu0Jh"
     },
     {
       "added_at": "2025-09-19 22:16:33",
@@ -723,22 +727,6 @@
     {
       "added_at": "2025-09-19 22:16:33",
       "album": {
-        "name": "FLOW",
-        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "FLOW",
-      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
-    },
-    {
-      "added_at": "2025-09-19 22:16:33",
-      "album": {
         "name": "Jogo Sujo",
         "url": "https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY"
       },
@@ -759,6 +747,22 @@
       "duration_ms": 205718,
       "name": "Jogo Sujo",
       "url": "https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq"
+    },
+    {
+      "added_at": "2025-09-19 22:16:33",
+      "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "FLOW",
+      "url": "https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr"
     },
     {
       "added_at": "2025-09-19 22:16:33",
@@ -1175,22 +1179,6 @@
     {
       "added_at": "2025-09-19 22:16:33",
       "album": {
-        "name": "temporal",
-        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 216299,
-      "name": "temporal",
-      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
-    },
-    {
-      "added_at": "2025-09-19 22:16:33",
-      "album": {
         "name": "Faz A Posi\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG"
       },
@@ -1207,6 +1195,22 @@
       "duration_ms": 179877,
       "name": "Faz A Posi\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg"
+    },
+    {
+      "added_at": "2025-09-19 22:16:33",
+      "album": {
+        "name": "temporal",
+        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 216299,
+      "name": "temporal",
+      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
     }
   ],
   "unique_name": "Rala e Rola",

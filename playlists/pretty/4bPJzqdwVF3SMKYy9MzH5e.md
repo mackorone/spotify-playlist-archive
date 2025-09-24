@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,239 songs - 4 day 23 hr 57 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,243 songs - 5 day 0 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2247,5 +2247,9 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2237 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
 | 2238 | [sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 1:18 |
 | 2239 | [DIE LIEBE KOMMT NICHT AUS BERLIN](https://open.spotify.com/track/2quJCirmxL0onIdjhmX5ml) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 3:26 |
+| 2240 | [All Night](https://open.spotify.com/track/1ce82XLJP9RbCCzlug0g7A) | [SHFTR](https://open.spotify.com/artist/0yw1drC4wSupncABpmkH98) | [All Night](https://open.spotify.com/album/5jL2jAx306LhT8FkIwrIfh) | 3:53 |
+| 2241 | [Silverlining](https://open.spotify.com/track/1xCNKflmCjPfOV6ihH15Cc) | [SHFTR](https://open.spotify.com/artist/0yw1drC4wSupncABpmkH98) | [Silverlining](https://open.spotify.com/album/1cCUkyZLP4W09EyVejFdLl) | 3:30 |
+| 2242 | [Sensação Sacode](https://open.spotify.com/track/0Az3EKYURfSBiDXNWegELF) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [DJ Dedé](https://open.spotify.com/artist/65pfxB1XLYKdtd6rKYJGDO) | [Furacão 2000 Sensação Sacode](https://open.spotify.com/album/1IVFLiIrxMGAJiweorO5ZR) | 2:43 |
+| 2243 | [pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [pack up ya bags](https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC) | 2:12 |
 
-Snapshot ID: `AAAEs7qUYeJlgHn2zFCnPLU3xK0HLCe5`
+Snapshot ID: `AAAEt2aW3otYHaJr9hcAg3Gbw1nLvLNe`

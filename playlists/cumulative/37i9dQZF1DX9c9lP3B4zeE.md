@@ -4,7 +4,7 @@
 
 > The soundtrack to Spotify House at SXSW Sydney 2023
 
-213 songs - 12 hr 22 min
+213 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2023-04-19 | 2023-08-10 |
 | [Fortress](https://open.spotify.com/track/2LtcQvCo1gFwEcCXDHjdYv) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Summer in Abaddon](https://open.spotify.com/album/22ekvUciiQ3yUOcwCJ4JVR) | 4:10 | 2023-08-09 | 2023-10-17 |
 | [Getting Hit on at the Bank](https://open.spotify.com/track/3pBHQpU8WULfR54JFXFMop) | [The Briefs](https://open.spotify.com/artist/52FjGy6x2rxunrgiRdOnUt) | [Steal Yer Heart](https://open.spotify.com/album/3I8Pq1mMo7CmlcDoSBXxqb) | 2:37 | 2023-08-09 | 2023-10-17 |
-| [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2023-10-16 |  |
+| [Gimme Love \(Reasonable Woman Version\)](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love \(Reasonable Woman Version\)](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 3:34 | 2023-10-16 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4) | 2:33 | 2023-04-19 | 2023-08-10 |
 | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Give You Love \(feat\. Jason Derulo\)](https://open.spotify.com/album/19F2dOW0JWTAuK941khqsA) | 2:54 | 2023-10-16 |  |
 | [Go Sadness](https://open.spotify.com/track/48w4LBH31FTvoy9gSn5o7g) | [Shout Out Louds](https://open.spotify.com/artist/0UOrN3LNaKApiOSdvJiETl) | [Howl Howl Gaff Gaff](https://open.spotify.com/album/1jO9fwvlqWgjCazjIWvOl7) | 4:04 | 2023-08-09 | 2023-10-17 |

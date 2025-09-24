@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,307 songs - 12 day 8 hr 40 min
+5,313 songs - 12 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Close To Me](https://open.spotify.com/track/3Cnm6nlYa1lbkPbkEsIYlu) | [Sabira Evans](https://open.spotify.com/artist/4rjYcbrgZ9f4fBliPC4kcC) | [Close To Me](https://open.spotify.com/album/5OQK3UbEg6COPyWjFZAWwO) | 3:04 | 2024-11-03 | 2024-12-04 |
 | [Closer](https://open.spotify.com/track/3njSzp0s3j9NKaBeCkkxve) | [Adam Michael Allison](https://open.spotify.com/artist/5F5FM7Cv8afXu2uIHCXHjB) | [Details](https://open.spotify.com/album/14F9NlM4MywcAVWmr6duoJ) | 3:06 | 2023-12-29 | 2024-01-16 |
 | [Closer](https://open.spotify.com/track/1povXjJAZZbtMuQiDvJL3s) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Wild Blue Yonder](https://open.spotify.com/album/3gckwZpXnsNoH1dIhLeiud) | 3:32 | 2022-07-08 | 2022-07-27 |
+| [Closer](https://open.spotify.com/track/48sXOZXdKt62isQ5hz6gxh) | [Joseph Nevels](https://open.spotify.com/artist/6gXOSQ7WdaujwyIgb2p0O0) | [Closer](https://open.spotify.com/album/1o6Q1HzJDkZgiQFzVZliVQ) | 2:45 | 2025-09-23 |  |
 | [Closer](https://open.spotify.com/track/4OEnccrWAJMICjZB2krgk6) | [Sayat Nokerban](https://open.spotify.com/artist/1H0RdxNCiUN1sx9DK9Jsez) | [Can't Get Over You](https://open.spotify.com/album/0pKgL30XtMo76hBNL02U0E) | 2:37 | 2024-08-16 | 2024-08-28 |
 | [Closer \(feat\. Chromeo\)](https://open.spotify.com/track/7rPtsNELDBM7AWrJwmwIIh) | [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Closer \(feat\. Chromeo\)](https://open.spotify.com/album/3Faki8wp8JRFsgZGsS1VvQ) | 3:08 | 2021-07-31 | 2021-08-15 |
 | [Closer to Myself](https://open.spotify.com/track/1Om1oe5CW2Kkzd3LFIfJ2b) | [Rachel Angel](https://open.spotify.com/artist/788y49XFzpTv06Dw9athN1) | [Closer to Myself](https://open.spotify.com/album/1NRZYUrqlO5JuUhADLh4sc) | 4:25 | 2022-10-14 | 2022-11-05 |
@@ -1259,6 +1260,7 @@
 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 | 2019-09-29\* | 2020-09-01 |
 | [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 | 2021-07-12 | 2021-11-19 |
 | [Done Believing](https://open.spotify.com/track/5vM7eam9gfUXqqnKs4WKYN) | [Snapdibz](https://open.spotify.com/artist/6oF5Y5JgNMSBfZR93mhKlK) | [Done Believing](https://open.spotify.com/album/1mOdL5EWP7nn8JbbYcq2yb) | 3:24 | 2025-01-13 | 2025-01-25 |
+| [Done Sailing](https://open.spotify.com/track/093dzjKrQ5RCLF4Hpykpzc) | [Sleepers Club](https://open.spotify.com/artist/4PHzHvZnYFeg15NF0LEkOm) | [Done Sailing](https://open.spotify.com/album/4lKMLlJlnG5LLAIkVBGEat) | 3:29 | 2025-09-23 |  |
 | [Dont You Want It](https://open.spotify.com/track/1RK4YUFkrfBT9ywBD3Ga2i) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Don't You Want It?](https://open.spotify.com/album/3aiUMxJFEI2Awlmq1i8QgA) | 2:48 | 2025-05-14 | 2025-07-19 |
 | [DON’T STOP ME](https://open.spotify.com/track/5w6Wfxy37r4tS7vn9GK5Ls) | [RAKOVICKY](https://open.spotify.com/artist/5J2xJrZgjcWM3nQLyLsDyZ) | [DON’T STOP ME](https://open.spotify.com/album/4hSRG678m00lMqiSNozls5) | 3:08 | 2024-02-23 | 2024-03-08 |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-09-29\* | 2024-08-13 |
@@ -2331,6 +2333,7 @@
 | [Incendio](https://open.spotify.com/track/7neP1B0gGOBbdZn6FIOhzf) | [Nnoa](https://open.spotify.com/artist/3Z7Krgq3i3qzMf6aaXb2Ft) | [Incendio](https://open.spotify.com/album/1tNN81G4UTH5T2JCkEiXTp) | 2:23 | 2023-09-18 | 2023-12-14 |
 | [Indica](https://open.spotify.com/track/2FwSKXajeyAX1pjKRVGNIZ) | [Ke'Ante](https://open.spotify.com/artist/2lUqakCNohFQqxHkVkYysP) | [Indica](https://open.spotify.com/album/3aWhFa14zR7NKmqyiXMJmC) | 3:23 | 2025-07-01 | 2025-07-14 |
 | [Infidelidad](https://open.spotify.com/track/1sCPTrzvqgHHVVcXswPvF5) | [El Baron La Perfeccion](https://open.spotify.com/artist/51JTD1mlGA6OZFpTXGRvJX), [Poeta Callejero](https://open.spotify.com/artist/1m82A2YUjBaQnLAFi9vjJv) | [Exulansis](https://open.spotify.com/album/3JmumjBgev6X4Bw0YJKUW0) | 4:21 | 2024-01-03 | 2024-01-11 |
+| [Infinite Sea](https://open.spotify.com/track/41kMbABv5slYIt4MkJ1knN) | [Ushio](https://open.spotify.com/artist/7k87a1gW3of6EgtvM5uo42) | [Under Alien Sky](https://open.spotify.com/album/5Ij1D4fra6YR5tdpO4q8T3) | 3:56 | 2025-09-23 |  |
 | [Infinitude](https://open.spotify.com/track/5skbihhycQ4XRA1aJ2XTEK) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Infinitude](https://open.spotify.com/album/6emecHkGnlhPFojBiRnLvs) | 3:30 | 2022-11-12 | 2022-12-05 |
 | [Ink](https://open.spotify.com/track/6PfX88vurg9grHwsVPsXPS) | [Lynndigo](https://open.spotify.com/artist/1AFlJFCgGkFiqjZBtRuZvY) | [Ink](https://open.spotify.com/album/6HJPt9U5y7EoFpiJQk29eJ) | 4:13 | 2025-06-20 | 2025-07-08 |
 | [Inner City Blues \(Make Me Wanna Holler\)](https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 5:27 | 2023-07-20 |  |
@@ -3468,6 +3471,7 @@
 | [PANDEMONIUM](https://open.spotify.com/track/3rcI91F8xBUyLn3a1jauNp) | [Luh C Benji](https://open.spotify.com/artist/6Ojy8YYosEL8xrDRu8Zf53) | [PANDEMONIUM](https://open.spotify.com/album/5BhMFGc6wqUQQSoi0LhmzO) | 2:10 | 2025-05-29 | 2025-06-10 |
 | [panic attacks](https://open.spotify.com/track/2k1lmCxTWyhIYHKwO6CN1u) | [Matt Mogg](https://open.spotify.com/artist/31fJNUd6geSIqAfoUFITwp), [Cole Tindal](https://open.spotify.com/artist/3WmPrhjsSrzIm5DEwOiwAN) | [panic attacks](https://open.spotify.com/album/1zlImVYEORxNBip4EEOlnS) | 2:21 | 2023-04-14 | 2023-05-06 |
 | [Papaya](https://open.spotify.com/track/5hXouhu1m3vzr1Pa3jjosd) | [Laura Rizzotto](https://open.spotify.com/artist/6gmtrXZBLAFrYUzVxcYCUg) | [Papaya](https://open.spotify.com/album/6YPNsKrdZnr2OJMioG75BB) | 2:38 | 2023-05-26 | 2023-06-17 |
+| [Par 5](https://open.spotify.com/track/1FBEnYsjuL5pjKyjLtgtf4) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Beats and Breaks from the Flower Patch](https://open.spotify.com/album/5CPcCM0t4qynEtcKvtGWKj) | 3:57 | 2025-09-23 |  |
 | [Para Sa'yo](https://open.spotify.com/track/2S51IPfFtCnAcIW4hFEijf) | [Tomboyce Avenue](https://open.spotify.com/artist/6ADlYQDO43pr1Zrmn0r6UX) | [Para Sa'yo](https://open.spotify.com/album/0TsgBbj1gzSJtKbyz8dHaE) | 4:45 | 2025-05-20 | 2025-06-01 |
 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 | 2023-07-20 |  |
 | [Paradise](https://open.spotify.com/track/5HkY9KLkbmznc12MEH1D7q) | [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ), [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs) | [Paradise](https://open.spotify.com/album/3246zVCquJgyAOOZMDmTpV) | 3:06 | 2021-08-13 | 2021-08-29 |
@@ -3899,6 +3903,7 @@
 | [Same Old Story](https://open.spotify.com/track/2Rw6rrxjnmO5SCslCuDCGb) | [Diving Birds](https://open.spotify.com/artist/0NQvhlpJIw8HXFElLX7tOj) | [Touch the Bottom \- EP](https://open.spotify.com/album/2gBiMMdcjjrZp9AHRbDVQ3) | 2:05 | 2022-12-23 | 2023-01-14 |
 | [Same Thing](https://open.spotify.com/track/7kGdKpfC5GvgpEh393TNIL) | [REID B2WN](https://open.spotify.com/artist/3lajj3bO93QJEh2vlyUYJw) | [Same Thing](https://open.spotify.com/album/4sHrosEuePPYuApxrnqzgm) | 2:14 | 2023-02-03 | 2023-02-25 |
 | [Sample](https://open.spotify.com/track/3Q6xkTdZyZeIFxHXXi15sc) | [Chelzzz](https://open.spotify.com/artist/5ShTj0KNdpRFwBZqtrnp2p) | [Sample](https://open.spotify.com/album/7lSHOFSp9AJxOsO4ZrcI0t) | 2:42 | 2024-10-11 | 2024-10-23 |
+| [Sand in my Jeans](https://open.spotify.com/track/6JGAl4F9mKUAoEe64SDDLV) | [Kamran Feiz](https://open.spotify.com/artist/2263xkqdUuWWkPTE9nlNx4) | [Sand In My Jeans](https://open.spotify.com/album/7kuXcXbEtY3peRO1orerTK) | 2:36 | 2025-09-23 |  |
 | [Sandalwood](https://open.spotify.com/track/6DrGoTpeDWLCqAQhZu00U8) | [Corner Booth](https://open.spotify.com/artist/5jYtzQRbrCxGPBwGkcd6lV) | [Sandalwood](https://open.spotify.com/album/0EpIUOLztVpy8znJ39CSbX) | 2:00 | 2022-12-16 | 2023-01-07 |
 | [Sane](https://open.spotify.com/track/0FBgkwLxutVS5lMtQtWlDp) | [Lilou](https://open.spotify.com/artist/61g7c2T0RXuYhlmcp2IsTM) | [Sane](https://open.spotify.com/album/53mWXp5331eqw4tTO3X9Xz) | 2:51 | 2021-05-13 | 2021-06-10 |
 | [Sangria](https://open.spotify.com/track/47IgSDN8Geml7rIpFfoaaT) | [H.MIL](https://open.spotify.com/artist/3DDL8chhP6vNMIqngs4VBr), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Sangria](https://open.spotify.com/album/072CH1UWkglrS6ZBNiZvqU) | 2:54 | 2022-05-19 | 2022-06-05 |
@@ -4994,6 +4999,7 @@
 | [Water](https://open.spotify.com/track/1hxrlhsmGbzeGTkT0G9HgL) | [Charlotte Lansman](https://open.spotify.com/artist/6Pd9ZD8S1T1wJ2xa1lko8X) | [Water](https://open.spotify.com/album/58AGCzkdzo1AAuuNwFScyz) | 3:44 | 2020-08-30 | 2020-10-05 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-12-29 | 2024-08-13 |
 | [watercolor sky](https://open.spotify.com/track/7u2gxJGW7w98bGAEu8xtpl) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [watercolor sky](https://open.spotify.com/album/6EtNyUmbNrQl38faOL7GSg) | 3:32 | 2024-03-02 | 2024-03-16 |
+| [Waterloo Sunset](https://open.spotify.com/track/6jTVMGAAOEqDO2eqJikgvX) | [Sputnik the Band](https://open.spotify.com/artist/3MaFGebgJgCzfmARDrImrI) | [Waterloo Sunset](https://open.spotify.com/album/77o5Z8B1sjOK0jhckJOBhG) | 3:05 | 2025-09-23 |  |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2020-07-12 | 2020-08-20 |
 | [Wave Goodbye](https://open.spotify.com/track/63YOcp327SRGNAOcBwv8a1) | [LXT](https://open.spotify.com/artist/7fh3TukN4ir7P2HTLXdpNk) | [Wave Goodbye](https://open.spotify.com/album/5ieaYy2TyPhEXnfLlcczCR) | 3:34 | 2021-04-03 | 2021-04-18 |
 | [Waves](https://open.spotify.com/track/3zv9Irm79dy4A0bj8tYGl1) | [Millxpressionz](https://open.spotify.com/artist/0gkQ2OE2rvw0VbAR9KxdX6) | [Waves](https://open.spotify.com/album/4aQPd8UStjF8SPrT9hpucY) | 3:21 | 2023-12-16 | 2023-12-24 |

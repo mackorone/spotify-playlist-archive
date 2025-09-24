@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Antoon
 
-1,062 songs - 2 day 2 hr 42 min
+1,063 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [De Laatste Keer](https://open.spotify.com/track/2MLtLy4GkNDWzYE01yKdA8) | [DAVE](https://open.spotify.com/artist/1b8Wn3xSquDw84o7yJI6Jk) | [De Laatste Keer](https://open.spotify.com/album/5EFiDReWmoIkvCGLvVLwvZ) | 2:13 | 2023-03-30 | 2023-05-12 |
 | [De Laatste Keer Dat Ik Huil](https://open.spotify.com/track/1IFzQTzO3M8TFkGEX8NxtR) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [De Laatste Keer Dat Ik Huil](https://open.spotify.com/album/15iLSYMaBjgL0PxcO6DIxS) | 2:54 | 2024-10-03 | 2025-01-07 |
 | [De Liefde Van Je Vrienden](https://open.spotify.com/track/31wUbSt7LSWYXI2by6PQxx) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [De Liefde Van Je Vrienden](https://open.spotify.com/album/3qcZqPV8HeQeL0VhJ3bXgV) | 3:12 | 2024-02-08 | 2024-03-08 |
-| [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [MYMI](https://open.spotify.com/artist/0nO0wj4l9DNwoPEqbrPGMp) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 | 2025-05-08 |  |
+| [De Lieve Jongen](https://open.spotify.com/track/4abBs6DIk89PJKl3wXOwum) | [MYMI](https://open.spotify.com/artist/0nO0wj4l9DNwoPEqbrPGMp) | [De Lieve Jongen](https://open.spotify.com/album/4ecm0EqGoKQsvdOMe2pwzN) | 3:00 | 2025-05-08 | 2025-09-24 |
 | [De Melodie](https://open.spotify.com/track/5KL7gog3nmUwG5q3fBGMsi) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [Melodie](https://open.spotify.com/album/3kAKyM2R2msmtss0IXzbbD) | 2:31 | 2024-07-11 | 2024-09-27 |
 | [De Nacht](https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII) | 2:30 | 2023-03-30 | 2023-08-18 |
 | [De Nacht](https://open.spotify.com/track/7KZpi0GsInoUQAtQu2952J) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [De Nacht](https://open.spotify.com/album/3dv4RT0OXHymMM3CdTgbTn) | 2:30 | 2023-03-23 | 2023-04-02 |
@@ -681,6 +681,7 @@
 | [Niemand \(De Enige\)](https://open.spotify.com/track/7wehFRahb9PMsYai1jHv1y) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd) | [Niemand \(De Enige\)](https://open.spotify.com/album/4PUj0odPADosM9F8G8vanL) | 3:39 | 2023-02-23 | 2023-03-31 |
 | [Niemand Anders](https://open.spotify.com/track/6pRAF99tQ6bJXYkkYhFB1G) | [Irene Hin](https://open.spotify.com/artist/1nn5bv6HhgES2y2qXam8ej) | [Niemand Anders](https://open.spotify.com/album/68AAkMDMZPQMEqR9elVSwX) | 2:37 | 2023-05-25 | 2023-09-08 |
 | [Niemand Die Ons Ziet](https://open.spotify.com/track/1ZfHgxaPfhlAdYiFLE4LMw) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Niemand Die Ons Ziet](https://open.spotify.com/album/5DiLcbA53ww7UU6QNSt81j) | 2:47 | 2024-10-18 | 2025-01-07 |
+| [Niemand Kan Blijven](https://open.spotify.com/track/0mtgMC6QSzemU5fTImXU6R) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(Bente\)](https://open.spotify.com/album/2oR3Tc7y4IwkG7SgymbRUd) | 3:30 | 2025-09-23 |  |
 | [Niemand voor Elkaar](https://open.spotify.com/track/5M4k2zgIC4lO7W94GD0nWv) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Sereen \(Deluxe\)](https://open.spotify.com/album/3tj7xLvpZRJ7AoEHv6GAAz) | 2:00 | 2024-07-11 | 2024-11-05 |
 | [Niemand Zijn](https://open.spotify.com/track/13yhctWhqjE3HHWGnlXIkc) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Niemand Zijn](https://open.spotify.com/album/0wxdbS9KKnDCh9HncVMUJg) | 2:47 | 2025-04-03 | 2025-06-13 |
 | [Niet Alleen](https://open.spotify.com/track/6yzyosFCPny55uVpzvYJZD) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta) | [Niet Alleen](https://open.spotify.com/album/4JYgA4oW437SVYr6k6f8eX) | 2:54 | 2024-01-04 | 2024-04-03 |

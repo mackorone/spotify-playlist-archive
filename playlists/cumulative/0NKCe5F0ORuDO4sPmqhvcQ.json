@@ -3669,6 +3669,24 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/2t0tzhydw5GN4WiYmqNBts"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0VM4421vCWFJaLeLq1C33b"
+    },
+    {
+      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/4cVCweGWAjAiQXk8ploVGQ"
       },
@@ -4002,7 +4020,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 251612,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/09mSBiAXZ6QMktNUMC3H1q"
@@ -5462,6 +5480,28 @@
       "duration_ms": 221614,
       "name": "Heart To The Night",
       "url": "https://open.spotify.com/track/3QWKVDXzHpjAoAWe1kfoxe"
+    },
+    {
+      "album": {
+        "name": "heart/scars",
+        "url": "https://open.spotify.com/album/6mmuDcZeQaGLl4LMtYFDbJ"
+      },
+      "artists": [
+        {
+          "name": "Slow Magic",
+          "url": "https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT"
+        },
+        {
+          "name": "Kenneth Takanami",
+          "url": "https://open.spotify.com/artist/3X2IBRuHkUlqC1mcMglSpa"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206694,
+      "name": "heart/scars",
+      "url": "https://open.spotify.com/track/4WD2DEiE15If4JuttSWCl2"
     },
     {
       "album": {

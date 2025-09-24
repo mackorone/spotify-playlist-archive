@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,310 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,355 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 11 | [Levels & Graphs](https://open.spotify.com/track/69AjrdgNtObkjqZEsMh15B) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 4:22 |
 | 12 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
 | 13 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 |
-| 14 | [A Day In Merc](https://open.spotify.com/track/3k4O6pWyMt7kF60VT5Ww78) | [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Santali](https://open.spotify.com/artist/0TDpko4t3LQLlGuiG3mzwq) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:56 |
-| 15 | [Gangsta Poetry \- Intro](https://open.spotify.com/track/6y7nHk9421NrUHTTGMUuDu) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Gangsta Poetry](https://open.spotify.com/album/3lEzTY3tK5oAygWMalSb8S) | 2:32 |
-| 16 | [Non Stop](https://open.spotify.com/track/6M8xk0zbXFbAkLwfVyN7T3) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Non Stop](https://open.spotify.com/album/3vpikp9NDP0lnWM15cc51b) | 3:15 |
-| 17 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
+| 14 | [Gangsta Poetry \- Intro](https://open.spotify.com/track/6y7nHk9421NrUHTTGMUuDu) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Gangsta Poetry](https://open.spotify.com/album/3lEzTY3tK5oAygWMalSb8S) | 2:32 |
+| 15 | [A Day In Merc](https://open.spotify.com/track/3k4O6pWyMt7kF60VT5Ww78) | [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Santali](https://open.spotify.com/artist/0TDpko4t3LQLlGuiG3mzwq) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:56 |
+| 16 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
+| 17 | [Proof](https://open.spotify.com/track/0k1hZaIiMaPPKqHFPxWmNz) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Brown Maan](https://open.spotify.com/artist/6WFyfNCIvHGxfjiR1LwrAZ), [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5) | [Balanced Bars](https://open.spotify.com/album/67XGDIBavSev4ZV2u0LiqI) | 2:47 |
 | 18 | [Supreme](https://open.spotify.com/track/5UGrftqh9U3zKQUt3vs7Ob) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Supreme](https://open.spotify.com/album/6iiWP9JKpNOzLxStNG5EKs) | 2:58 |
 | 19 | [Street Talk](https://open.spotify.com/track/3PZjsRjRArMSKYcbUJm8fq) | [G MAG](https://open.spotify.com/artist/5hxSCytCHDded72ghiUG0m), [RAGE 24](https://open.spotify.com/artist/6PMpAHsdTywd7MnW7X1pfh), [Dev Ocean](https://open.spotify.com/artist/0m6PgLqa6qgmEzKk1FS6eX) | [Lehar Chandigarh Mixtape](https://open.spotify.com/album/1oxwF8cjAC7wXjKTQmDxmF) | 3:00 |
-| 20 | [Don Julio](https://open.spotify.com/track/68utzFIsoaOfqUuaRBTWlf) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Don Julio](https://open.spotify.com/album/17wVVLvVuS8RAhbEnMlFyA) | 3:03 |
+| 20 | [BIG DAWGS](https://open.spotify.com/track/5TiI3cq8nitnngjT65jAH1) | [Savage](https://open.spotify.com/artist/5sQaJs2VoBxaLeaWQXlYr5), [Raw](https://open.spotify.com/artist/0NR08riH8j4lmCGXOmeEml) | [BIG DAWGS](https://open.spotify.com/album/7fbLQB6vqdMWTVrRqlXpSU) | 2:35 |
 | 21 | [Wzr Tank](https://open.spotify.com/track/7mElRKzovHlGtMzdzbB1N0) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:22 |
 | 22 | [Jugni](https://open.spotify.com/track/0AvlSSm420INCV2uL1YGxP) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy) | [From The Streets](https://open.spotify.com/album/5tQkmGEKfc0rvGnKzqj8XE) | 2:58 |
 | 23 | [P\-POP CULTURE](https://open.spotify.com/track/5uXge1cK24monr2woxAZ7F) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Young G.O.A.T](https://open.spotify.com/track/6xHPBEvcG0RQDfyTq7jc8P) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 3:45 |
 | 100 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 |
 
-Snapshot ID: `AAAAAK2uOFz2yhRVK4Pb3ZTJpSpuVOFN`
+Snapshot ID: `AAAAAGAArDm+S7N+ICQ+Qq7xs8/PZz4T`

@@ -1,13 +1,37 @@
 {
   "description": "w\u00f6chentliche handverlesene empfehlungen des archivs. no industry bs",
-  "num_followers": 1233,
+  "num_followers": 1241,
   "original_name": "die hip hop empfehlung",
   "owner": {
     "name": "hiphoparchiv",
     "url": "https://open.spotify.com/user/31kxwkf6wpyxxr2lxdsndxes7d3q"
   },
-  "snapshot_id": "AAAA25nXpQ59kyM7ZheNwu9DAQCaNAwR",
+  "snapshot_id": "AAAA3g5zjjV+v6cojHnYdp1KUA6ST97a",
   "tracks": [
+    {
+      "added_at": "2025-09-23 13:18:35",
+      "album": {
+        "name": "Ozean im Cup",
+        "url": "https://open.spotify.com/album/32u9puiTAyO9O9KEReH5Po"
+      },
+      "artists": [
+        {
+          "name": "Da Playaz",
+          "url": "https://open.spotify.com/artist/7c4KTyZM7icu8bSlWHRhPL"
+        },
+        {
+          "name": "Pierre Sonality",
+          "url": "https://open.spotify.com/artist/0niBEgx0rRNWoTXgiJIiwA"
+        },
+        {
+          "name": "Young Krillin",
+          "url": "https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ"
+        }
+      ],
+      "duration_ms": 163806,
+      "name": "Ozean im Cup",
+      "url": "https://open.spotify.com/track/7wierJUd6Khkyzld6ZRUZy"
+    },
     {
       "added_at": "2025-09-19 07:32:40",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 40628,
+  "num_followers": 40654,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "This Is How I Feel About Jazz",
-        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 340773,
-      "name": "Stockholm Sweetnin'",
-      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Harold In The Land Of Jazz",
         "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 426533,
       "name": "Grooveyard",
       "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "This Is How I Feel About Jazz",
+        "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 340773,
+      "name": "Stockholm Sweetnin'",
+      "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "I Had the Craziest Dream (Remastered)",
-        "url": "https://open.spotify.com/album/1CnSldoLRIMUGSuXSUxdPK"
-      },
-      "artists": [
-        {
-          "name": "Dave Pell Octet",
-          "url": "https://open.spotify.com/artist/6fbtge4JEsPumaSPaZtM7x"
-        }
-      ],
-      "duration_ms": 313573,
-      "name": "Nap's Dream (I Had the Craziest Dream) [Remastered]",
-      "url": "https://open.spotify.com/track/5Ky8Al2TGETBozs8xJ6L25"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "The Quartet and the Quintet",
         "url": "https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 195546,
       "name": "Ahmoore",
       "url": "https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "I Had the Craziest Dream (Remastered)",
+        "url": "https://open.spotify.com/album/1CnSldoLRIMUGSuXSUxdPK"
+      },
+      "artists": [
+        {
+          "name": "Dave Pell Octet",
+          "url": "https://open.spotify.com/artist/6fbtge4JEsPumaSPaZtM7x"
+        }
+      ],
+      "duration_ms": 313573,
+      "name": "Nap's Dream (I Had the Craziest Dream) [Remastered]",
+      "url": "https://open.spotify.com/track/5Ky8Al2TGETBozs8xJ6L25"
     }
   ],
   "unique_name": "West Coast Jazz",

@@ -10437,6 +10437,24 @@
     },
     {
       "album": {
+        "name": "LAMA AB\u2019A MAAK",
+        "url": "https://open.spotify.com/album/6lmUVtdwiCYtp8UzIlVByN"
+      },
+      "artists": [
+        {
+          "name": "ESS",
+          "url": "https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "LAMA AB\u2019A MAAK",
+      "url": "https://open.spotify.com/track/18yDdNv2MAESMMpr2Kp1Jw"
+    },
+    {
+      "album": {
         "name": "Lama El Waat Yekhlas - \u0644\u0645\u0627 \u0627\u0644\u0648\u0642\u062a \u064a\u062e\u0644\u0635",
         "url": "https://open.spotify.com/album/0PDM2uTkZjylHhBcCuG0Zs"
       },
@@ -18086,7 +18104,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 177300,
       "name": "Ya Mtaneshna",
       "url": "https://open.spotify.com/track/16mwwSZvysLqGf38E6nO4h"

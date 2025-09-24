@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,850 likes - 103 songs - 5 hr 46 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,849 likes - 103 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 48 | [El Mundo Delante De Ti](https://open.spotify.com/track/6BXu2OtgRrVN4UHf2PKAUp) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [El Mundo Delante De Ti](https://open.spotify.com/album/5wyycKkfemxHq3D90pDh2t) | 5:07 |
 | 49 | [Baila](https://open.spotify.com/track/20PKnCiyAUVZVpHwHYnLka) | [Carmen Avilés](https://open.spotify.com/artist/2ZZ46TnM83bLtbVwP7XPYW), [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [Baila](https://open.spotify.com/album/70SynIMqzc6hglIEQgt0at) | 3:44 |
 | 50 | [Lo que queda](https://open.spotify.com/track/7mgpKk8GtIJhI5FcAK9K40) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Lo que queda](https://open.spotify.com/album/5VPDmYqaB2kA6B4rqRE5pq) | 3:26 |
-| 51 | [MOMENTO](https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [MOMENTO](https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR) | 2:56 |
+| 51 | [MOMENTO](https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93), [+Músicas](https://open.spotify.com/artist/06x3WF50a38L93KIFOpSaO) | [MOMENTO](https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR) | 2:56 |
 | 52 | [Los días que vendrán \(feat\. Nina de Juan\)](https://open.spotify.com/track/3K7KiXKqojCNjsCbcLXnqb) | [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO), [Nina de Juan](https://open.spotify.com/artist/4c21TuhwIqBZLEpwVRWrgZ) | [Los días que vendrán \(feat\. Nina de Juan\)](https://open.spotify.com/album/20FSdro9Imsg6sDt4zpDHo) | 3:43 |
 | 53 | [Esto es Murcia](https://open.spotify.com/track/5qVLIUIcBwebRTkiY0onnW) | [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Varry Brava](https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb), [Ruth Lorenzo](https://open.spotify.com/artist/24EtVHju2o9Zm5P39iKosx), [MADBEL](https://open.spotify.com/artist/5HsY1lIUqA7N54Gpk3iea4), [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Kuve](https://open.spotify.com/artist/7vHKCt7yOiBg1Hci7izDLh) | [Esto es Murcia](https://open.spotify.com/album/3GzAIOge3x1LYvSRKPM1nr) | 3:35 |
 | 54 | [Celos](https://open.spotify.com/track/68saIv0Vvv5pucS6Busnaw) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Celos](https://open.spotify.com/album/6j3NgQQr7kFht7Ihnrn99P) | 3:04 |

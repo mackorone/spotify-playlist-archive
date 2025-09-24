@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 172918,
       "name": "Allucinazione",
       "url": "https://open.spotify.com/track/6s42fEwCHQsW2KbTb58abU"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 188041,
       "name": "ancora (feat. Geolier)",
       "url": "https://open.spotify.com/track/7dOicN7jFw9HSdorxASiPu"
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "bollicine",
+        "url": "https://open.spotify.com/album/7csXUKUPccgkQL1H6FAYDB"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160151,
+      "name": "bollicine",
+      "url": "https://open.spotify.com/track/01SWo42ZIDViMJXB6Hbws7"
+    },
+    {
+      "album": {
         "name": "CALMOCOBRA",
         "url": "https://open.spotify.com/album/5Lxs0AM3WPdKzWxYhrYYgv"
       },
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 157500,
       "name": "brutti ricordi. (con Bresh)",
       "url": "https://open.spotify.com/track/2TVcSNKvETspMwQq24K9hR"
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 135692,
       "name": "Chill",
       "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 172013,
       "name": "DA QUANDO CI SEI TU (feat. Alfa)",
       "url": "https://open.spotify.com/track/4tIDe4F2wXQByJ1kpYjfnI"
@@ -4444,6 +4462,24 @@
       "duration_ms": 193184,
       "name": "NEXT",
       "url": "https://open.spotify.com/track/0RcyTmiVTIN7Fvv7bLkJYx"
+    },
+    {
+      "album": {
+        "name": "NIENTE DA DIRE",
+        "url": "https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203170,
+      "name": "NIENTE DA DIRE",
+      "url": "https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC"
     },
     {
       "album": {

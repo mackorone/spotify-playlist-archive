@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org</a>\.  Cover: Rainbow Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,204 likes - 164 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,212 likes - 164 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9x9vqRxMigR.md) - [plain]
 | 22 | [Helpless](https://open.spotify.com/track/1AHudfKf0erELXOppD3DKW) | [Robbie Cavanagh](https://open.spotify.com/artist/2aSvubvDZbff4J9jYbQj5k) | [Tough Love](https://open.spotify.com/album/5oQFdazEXRvagGYBNPlvX7) | 5:23 |
 | 23 | [King Brewster](https://open.spotify.com/track/0hpDuI1fnzN56YKXzyCasu) | [Paula Boggs Band](https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv), [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Janus](https://open.spotify.com/album/4EVW0pVOwwPd5Koc1QHjLe) | 3:09 |
 | 24 | [O Land](https://open.spotify.com/track/0nXcrvLHgPz2CrvBAjDqJJ) | [Phyllis Sinclair](https://open.spotify.com/artist/55KT2XpDNQJxMGmjbH5Mi8) | [Ghost Bones](https://open.spotify.com/album/2AHx2KlPX3QqcqcAH2y515) | 4:17 |
-| 25 | [Maamu](https://open.spotify.com/track/38Rnv18CuI7C6W5MTsbZ4w) | [Naxx Bitota](https://open.spotify.com/artist/4RE1cbM7QrwxStzXrOCkJv) | [Kuetu](https://open.spotify.com/album/5zR12lUd1lLmj8ISD1S9uz) | 4:01 |
+| 25 | [Maamu](https://open.spotify.com/track/38Rnv18CuI7C6W5MTsbZ4w) | [NAXX BITOTA](https://open.spotify.com/artist/4RE1cbM7QrwxStzXrOCkJv) | [Kuetu](https://open.spotify.com/album/5zR12lUd1lLmj8ISD1S9uz) | 4:01 |
 | 26 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 |
 | 27 | [You Are My Favorite](https://open.spotify.com/track/7A600yswfzZ2BgOx6ctidv) | [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Glimmer](https://open.spotify.com/album/5O0CvrPCjrdVD5lccOwu0K) | 3:16 |
 | 28 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |

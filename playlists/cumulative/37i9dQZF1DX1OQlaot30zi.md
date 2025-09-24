@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Ernia, 333 Mob, 18K, Sick Budd, IvanBi, Saco e molti altri.
 
-6,091 songs - 11 day 6 hr 43 min
+6,092 songs - 11 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2696,7 +2696,7 @@
 | [KAIOKEN X2](https://open.spotify.com/track/162UZDRBITYlWJRh4nEzI5) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [KAIOKEN X2](https://open.spotify.com/album/4LG23M9ncO84CmaY8QsUTZ) | 2:28 | 2025-03-20 | 2025-04-18 |
 | [KALASH](https://open.spotify.com/track/6IUe8UkEVZp6PAYbxkjdxH) | [Daxter](https://open.spotify.com/artist/7ml77C26I1LupIH1R4pEYa), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [KALASH](https://open.spotify.com/album/5HyymSC87OuytDuZJxbIs7) | 3:40 | 2025-04-11 | 2025-05-09 |
 | [KALASH](https://open.spotify.com/track/35FTD83taz3YO6WdAWkVWM) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [KALASH](https://open.spotify.com/album/1DFuiB3gVxDfUvs9VrFAYV) | 2:29 | 2025-06-06 | 2025-06-27 |
-| [KAMIKAZE](https://open.spotify.com/track/1h0yAA3yZ2WcGzwEH78RL0) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [29giulio](https://open.spotify.com/artist/58rXDdI5AZmDWPB1CJALzD), [Murray](https://open.spotify.com/artist/5vCM8O3LYLrcx4QRyKzoQo) | [KAMIKAZE](https://open.spotify.com/album/3srFSB7dHqjb49Lvg8r2mN) | 2:30 | 2025-09-18 |  |
+| [KAMIKAZE](https://open.spotify.com/track/1h0yAA3yZ2WcGzwEH78RL0) | [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [2Rari](https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf), [29giulio](https://open.spotify.com/artist/58rXDdI5AZmDWPB1CJALzD) | [KAMIKAZE](https://open.spotify.com/album/3srFSB7dHqjb49Lvg8r2mN) | 2:30 | 2025-09-18 |  |
 | [KANDINSKIJ](https://open.spotify.com/track/6fB6AOA4Uz3AGNJNp22zAv) | [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD), [Garelli](https://open.spotify.com/artist/5appupCr1pI8I1k3AWstc6) | [KANDINSKIJ](https://open.spotify.com/album/4Vdh9HXFhi7w09JQZ9oqu8) | 4:13 | 2023-06-22 | 2023-07-07 |
 | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/track/54ZrCUiyU8xpRp0tr5EQ30) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [KANGAL \(feat\. Emanuelino\)](https://open.spotify.com/album/1mBYnGk6aLbtxkfoh8kFcp) | 1:52 | 2024-10-03 | 2024-11-01 |
 | [Karate](https://open.spotify.com/track/2oECUzb3Mq1iNhHHJQdGVY) | [Mudimbi](https://open.spotify.com/artist/0pmgwPGqkEVI0zPABTxPVR), [Nibbius](https://open.spotify.com/artist/03cqvZxrpwB7v7fyVVy9Jy) | [Karate](https://open.spotify.com/album/1Pcn2r3AFBINEYoKejKzO3) | 2:23 | 2023-06-08 | 2023-06-16 |
@@ -2802,6 +2802,7 @@
 | [La citè](https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [La citè](https://open.spotify.com/album/4yPMwt7qWlahYoM2oirc2e) | 2:51 | 2023-07-13 | 2023-09-08 |
 | [La cosa](https://open.spotify.com/track/2tn4Vk6FeMlTbV7wSSr8m2) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [LaMagieDuTiel](https://open.spotify.com/artist/654NFDDfEoyiwCwbycKIl3) | [La Cosa](https://open.spotify.com/album/4H25CjHcqmKZbsWNypEFEZ) | 2:30 | 2025-01-10 | 2025-01-31 |
 | [La crème freestyle \#1](https://open.spotify.com/track/150ng5lmt8k0emiiKZbnLH) | [Maruego](https://open.spotify.com/artist/26Db0VeiqD1i5GRFjUww3I), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [La crème freestyle \#1](https://open.spotify.com/album/7zCuOfLSQ16KKYZPoeuAij) | 2:49 | 2022-09-15 | 2022-10-14 |
+| [La Cura](https://open.spotify.com/track/24lMpSDWvI4iZ5h1ZDB7Lx) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [La Cura](https://open.spotify.com/album/00McN06J1SBCnck2lW9ftZ) | 1:40 | 2025-09-23 |  |
 | [La Cura 2](https://open.spotify.com/track/1qMoV1mDd9ak6yePpgnIXJ) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T) | [La Cura 2](https://open.spotify.com/album/2mmZYcJ6P3bKZCh13OQVO9) | 2:34 | 2024-11-28 | 2024-12-13 |
 | [La cura, non sei te](https://open.spotify.com/track/17Du1OmQ0VSdmj0euyyCIT) | [Chanoir Hdn](https://open.spotify.com/artist/78CahxlxFuaIv0gSZLaU7O) | [La cura, non sei te](https://open.spotify.com/album/666vPcaVGbptgWYnv5kHQz) | 2:08 | 2022-12-01 | 2022-12-24 |
 | [LA DANZA DELLA PIOGGIA](https://open.spotify.com/track/1RE8TQtYWjrmneYXghV7MM) | [Occhiaia 47](https://open.spotify.com/artist/1yERvIWJ5NqsRf5Mu1GNtm) | [LA DANZA DELLA PIOGGIA](https://open.spotify.com/album/6dWPYygp0lxLaumgEFxvoE) | 2:17 | 2025-07-31 | 2025-09-05 |

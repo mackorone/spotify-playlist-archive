@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros",
-  "num_followers": 234001,
+  "num_followers": 234038,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,26 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "Lei 14",
+        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
+      },
+      "artists": [
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Lei 14",
+      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "Lei 14",
-        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
-      },
-      "artists": [
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Lei 14",
-      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/6ytjJo8hEyctTUFRjlHQHH"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 186898,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/3jyfrKAkc6ly4zGt0zvnQB"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "Aurea",
         "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 171828,
       "name": "Tropa",
       "url": "https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/6ytjJo8hEyctTUFRjlHQHH"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 186898,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/3jyfrKAkc6ly4zGt0zvnQB"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "Tentason",
         "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 166913,
       "name": "Tentason",
       "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "\u00c9 MEMO ESSE",
         "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 209280,
       "name": "\u00c9 MEMO ESSE",
       "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "KANORMAL",
+        "url": "https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "KANORMAL",
+      "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "Nossas Coisas (feat. Ary)",
         "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 200005,
       "name": "Nossas Coisas (feat. Ary)",
       "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "KANORMAL",
-        "url": "https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "KANORMAL",
-      "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Longe Daqui",
-        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
-      },
-      "artists": [
-        {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Longe Daqui",
-      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "We Good",
         "url": "https://open.spotify.com/album/6aWHLkqbbcJu3qEbrYiZr8"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 169732,
       "name": "We Good",
       "url": "https://open.spotify.com/track/6io1fSL5CzJzMJl0yGuZ6q"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Longe Daqui",
+        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
+      },
+      "artists": [
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Longe Daqui",
+      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "Sentimento",
+        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
+      },
+      "artists": [
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        },
+        {
+          "name": "Filho do Zua",
+          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
+        }
+      ],
+      "duration_ms": 192702,
+      "name": "Sentimento",
+      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "Kannot Compare",
         "url": "https://open.spotify.com/album/2q1zSpU894PXQLVZCB87iz"
       },
@@ -1803,26 +1823,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Sentimento",
-        "url": "https://open.spotify.com/album/29sQkBIBvtYMcrvbVLlNZ3"
-      },
-      "artists": [
-        {
-          "name": "Kizomba da Boa",
-          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
-        },
-        {
-          "name": "Filho do Zua",
-          "url": "https://open.spotify.com/artist/08HE59FnzdSLSYWuesN8hm"
-        }
-      ],
-      "duration_ms": 192702,
-      "name": "Sentimento",
-      "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "MAZ UM BEIJO",
         "url": "https://open.spotify.com/album/0FpmtHrC2cjAp44hVMTeDq"
       },
@@ -1835,22 +1835,6 @@
       "duration_ms": 181409,
       "name": "MAZ UM BEIJO",
       "url": "https://open.spotify.com/track/5jm17DxeJ0u5wgqpBOrweD"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "Evitar",
-        "url": "https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 169393,
-      "name": "Evitar",
-      "url": "https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1895,18 +1879,18 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Bo \u00e9 B\u00fassola",
-        "url": "https://open.spotify.com/album/0zeDZ5EjLnbJPURo7vM0gJ"
+        "name": "Evitar",
+        "url": "https://open.spotify.com/album/5IEnBR36E4CYTsWaL6uELG"
       },
       "artists": [
         {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 219710,
-      "name": "Bo \u00e9 B\u00fassola",
-      "url": "https://open.spotify.com/track/7s03RKJG1XXrwqITY0u81f"
+      "duration_ms": 169393,
+      "name": "Evitar",
+      "url": "https://open.spotify.com/track/2O9qpNmYYW1j15ATU3Z07M"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1931,18 +1915,34 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Je T\u2019Aime",
-        "url": "https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh"
+        "name": "Bo \u00e9 B\u00fassola",
+        "url": "https://open.spotify.com/album/0zeDZ5EjLnbJPURo7vM0gJ"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
         }
       ],
-      "duration_ms": 214512,
-      "name": "Je T\u2019Aime",
-      "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
+      "duration_ms": 219710,
+      "name": "Bo \u00e9 B\u00fassola",
+      "url": "https://open.spotify.com/track/7s03RKJG1XXrwqITY0u81f"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Buqu\u00ea",
+        "url": "https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX"
+      },
+      "artists": [
+        {
+          "name": "Deejay Telio",
+          "url": "https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n"
+        }
+      ],
+      "duration_ms": 211584,
+      "name": "Buqu\u00ea",
+      "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
     }
   ],
   "unique_name": "Dancing Kizomba",

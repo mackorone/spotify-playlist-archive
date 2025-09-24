@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Mimì
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,228 likes - 67 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,227 likes - 67 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 66 | [Hollywood Hills](https://open.spotify.com/track/4SUIFd6aootCSZpBcXcdx1) | [FENICE](https://open.spotify.com/artist/4c7S5SAfW8xtGnn8qi4d8D) | [Hollywood Hills](https://open.spotify.com/album/5RFRDBc5C7deo3p1Lt0JSS) | 2:44 |
 | 67 | [opposti](https://open.spotify.com/track/2HxbLGJ3T22BX172w1PXpo) | [Najma](https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk) | [opposti](https://open.spotify.com/album/2vjOdEDv9y3u8Kt2Gy06T9) | 2:59 |
 
-Snapshot ID: `AAAAAD2D90sQqG9ZXKEgEeD1thLidse3`
+Snapshot ID: `AAAAABRzHEhfT4KIq2vQoCHhMu5JwEvR`

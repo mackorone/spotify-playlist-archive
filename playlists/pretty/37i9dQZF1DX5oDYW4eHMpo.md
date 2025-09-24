@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5oDYW4eHMpo.md) - [plain]
 
 > OPN takes us on a magical journey with the release of his new album "Again".
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,596 likes - 46 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,606 likes - 46 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

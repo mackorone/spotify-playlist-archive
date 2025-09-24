@@ -8357,6 +8357,24 @@
     },
     {
       "album": {
+        "name": "I still hear your voice",
+        "url": "https://open.spotify.com/album/34a4pBS2njnk6XJxyUc1BC"
+      },
+      "artists": [
+        {
+          "name": "Trio in Transit",
+          "url": "https://open.spotify.com/artist/5N4Y1kGWdM70gOzO41lvk1"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193478,
+      "name": "I still hear your voice",
+      "url": "https://open.spotify.com/track/0xem0NbddWGyPE3crPyn1e"
+    },
+    {
+      "album": {
         "name": "I Thought About Us",
         "url": "https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN"
       },
@@ -8372,6 +8390,24 @@
       "duration_ms": 237983,
       "name": "I Thought About Us",
       "url": "https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v"
+    },
+    {
+      "album": {
+        "name": "I Try Not To Worry",
+        "url": "https://open.spotify.com/album/2nCIZTSeCZQs5dNsG88NlW"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229022,
+      "name": "I Try Not To Worry",
+      "url": "https://open.spotify.com/track/6i78FMOtR7auXQ15mWyYjE"
     },
     {
       "album": {
@@ -10744,7 +10780,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 221902,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/3PTxiKGQyyaPVug10VZdxM"
@@ -21830,7 +21866,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 247277,
       "name": "Wish You Saw Me Now",
       "url": "https://open.spotify.com/track/5HsJIS4za8q98TQA0K1cGW"

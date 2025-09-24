@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Dance",
+        "url": "https://open.spotify.com/album/7pHSVI92ueYjhSvgrMwbVW"
+      },
+      "artists": [
+        {
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164450,
+      "name": "Cosmic Dance",
+      "url": "https://open.spotify.com/track/1oMatzw8UlXeirPYtqb2Wn"
+    },
+    {
+      "album": {
         "name": "Cosmic Major",
         "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
       },
@@ -3868,7 +3886,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 188500,
       "name": "Stolen Stream Moments",
       "url": "https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR"

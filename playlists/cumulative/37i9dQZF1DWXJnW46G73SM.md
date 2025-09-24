@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:  عمرو جابر
 
-1,573 songs - 3 day 15 hr 44 min
+1,574 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Laffa](https://open.spotify.com/track/4UPZ2F7yeBUbw4kEFMCA1c) | [Sofia](https://open.spotify.com/artist/7ncftXJdwJT8ByPI1qD4r6) | [Laffa](https://open.spotify.com/album/5ZsXpXXL8QHFi9IS6jxvj5) | 2:50 | 2024-10-24 | 2024-12-06 |
 | [Lahzet Taesh](https://open.spotify.com/track/1879cavFDS9NiumLOMXoOw) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Lahzet Taesh](https://open.spotify.com/album/26rMLm4bvNIp5wdUqVcVqe) | 2:53 | 2025-01-30 | 2025-04-18 |
 | [Lahzet Wesalak](https://open.spotify.com/track/60OPfafa7dDfmEV9idhTLs) | [Myrna Christo](https://open.spotify.com/artist/0bfiJ0xOniO3aHdwruQuqM) | [Lahzet Wesalak](https://open.spotify.com/album/5fI2NHnKbCPd24fs3I6M7B) | 7:05 | 2024-10-18 | 2024-12-06 |
+| [LAMA AB’A MAAK](https://open.spotify.com/track/18yDdNv2MAESMMpr2Kp1Jw) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/6lmUVtdwiCYtp8UzIlVByN) | 2:59 | 2025-09-23 |  |
 | [Lama El Waat Yekhlas \- لما الوقت يخلص](https://open.spotify.com/track/71hKEpvELYUmzgMWXuv18Q) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Lama El Waat Yekhlas \- لما الوقت يخلص](https://open.spotify.com/album/0PDM2uTkZjylHhBcCuG0Zs) | 2:48 | 2023-08-01 | 2023-08-25 |
 | [Lama kont soghayer](https://open.spotify.com/track/4Ub9lUKMl4ae0tLDMpqCBx) | [Shady Shamel](https://open.spotify.com/artist/1vJHplJeBXGKfMzvQrldkb) | [Lama kont soghayer](https://open.spotify.com/album/4nqKCa79eGrrz2CwfIfvcs) | 3:53 | 2022-03-03 | 2022-06-21 |
 | [Lama Lama](https://open.spotify.com/track/38S0fH9jnwtYUpMXd28fNU) | [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Lama Lama](https://open.spotify.com/album/7Dx9UZUcqKeOyakfB84Bxw) | 3:15 | 2022-09-20 | 2022-09-22 |
@@ -961,7 +962,7 @@
 | [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 | 2023-07-18 | 2023-08-21 |
 | [Ya Leil Ya Ein](https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Leil Ya Ein](https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL) | 3:31 | 2023-03-03 | 2023-05-05 |
 | [Ya Mawlana](https://open.spotify.com/track/1puamrYWE2cSMKqM2x02j0) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [Ya Mawlana](https://open.spotify.com/album/1azCb4UB8DYaqMT2zUnnwS) | 3:53 | 2024-03-07 | 2024-04-26 |
-| [Ya Mtaneshna](https://open.spotify.com/track/16mwwSZvysLqGf38E6nO4h) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ya Mtaneshna](https://open.spotify.com/album/3gbNw1gl70MSjgUDoi2hik) | 2:57 | 2025-08-07 |  |
+| [Ya Mtaneshna](https://open.spotify.com/track/16mwwSZvysLqGf38E6nO4h) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ya Mtaneshna](https://open.spotify.com/album/3gbNw1gl70MSjgUDoi2hik) | 2:57 | 2025-08-07 | 2025-09-24 |
 | [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 | 2024-05-06 | 2024-07-06 |
 | [Ya Naseeni](https://open.spotify.com/track/22d2S7bEi30u4TIyfBn6UD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Ya Naseeni](https://open.spotify.com/album/5dUFJ8fT2qtwrRcNenJoGy) | 2:45 | 2024-02-05 | 2024-03-11 |
 | [Ya Nogoum](https://open.spotify.com/track/6u5rJxk1iUEtETfc6e4vi0) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ) | [Ya Nogoum](https://open.spotify.com/album/1tkLpHsACKO2C0wvkCEpAq) | 3:31 | 2025-04-10 | 2025-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: fhop music
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,582 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,233 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Incendeia](https://open.spotify.com/track/7uHYW82Gr73y7kn9drpAPt) | [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Incendeia](https://open.spotify.com/album/5Pka6OkrpHYSanRm2g1jPW) | 4:38 |
 | 50 | [São Miguel Arcanjo \- Ao Vivo](https://open.spotify.com/track/0hEsKMgRT8Zey7kbhka1Jc) | [Eros Biondini](https://open.spotify.com/artist/2wIQqBYBvYkpvgZZNAXhOP), [FINO TOM](https://open.spotify.com/artist/3prjTKOIm5AfaNkRywaQ5k) | [São Miguel Arcanjo \(Ao Vivo\)](https://open.spotify.com/album/7pTVHoLnZu8ylRXc48c03J) | 2:57 |
 
-Snapshot ID: `AAAAAIzojRB3XWSXT5VDfYaLBXL7GUxF`
+Snapshot ID: `AAAAAI9RlX4KwX7IZ5P1dx+K4zMFJDmH`

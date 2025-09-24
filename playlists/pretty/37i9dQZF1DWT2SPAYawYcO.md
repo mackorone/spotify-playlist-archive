@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ocean Alley, Larissa Lambert, Sammy Virji, Lola Young  + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,069 likes - 86 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,060 likes - 86 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 60 | [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 |
 | 61 | [Play It Out \(Live\) \- Spotify Live Room](https://open.spotify.com/track/44cYxPKYAv0TEsVSScm0ua) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Wolf Alice \- Spotify Live Room](https://open.spotify.com/album/67jG99DKNpyBkD2AN0cCJm) | 3:58 |
 | 62 | [Side Eye \(feat\. Anieszka\)](https://open.spotify.com/track/02yvX7R9mgOqnOfNmwy2S6) | [True Vibenation](https://open.spotify.com/artist/7IIPHRMkGSu8GidRs2N7GG), [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [Side Eye \(feat\. Anieszka\)](https://open.spotify.com/album/7ox57gE2PS76uS4jMHtFB6) | 3:46 |
-| 63 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:04 |
+| 63 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
 | 64 | [how i feel?](https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [okay\. again?](https://open.spotify.com/album/3X8hQPPIipP1KbYV4ENqVd) | 3:48 |
 | 65 | [Body Over Here](https://open.spotify.com/track/53apPgrnpFAtIsUwWTKbv3) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Body Over Here](https://open.spotify.com/album/1rjEOqtI2JV6Qm7AIrxLdZ) | 2:39 |
 | 66 | [Repeat Offender](https://open.spotify.com/track/4kiDRYHVcFZMdRJ4vWJ4fn) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Tomorrow Is A Mystery To Me](https://open.spotify.com/album/7anCuSONRXmcKzmnHGDtVu) | 2:10 |

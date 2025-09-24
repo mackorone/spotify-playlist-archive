@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Sol Ortega
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,805 likes - 111 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,847 likes - 111 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6723,
+  "num_followers": 6728,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAAAf+LVGeAHWWJhDghsx/hIr",
+  "snapshot_id": "aNCRgAAAAADLGDtspfc82QcZh2fVA1YZ",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
+        "name": "Adura",
+        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
       },
       "artists": [
-        {
-          "name": "TMP Offisial",
-          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 190769,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
+      "duration_ms": 174863,
+      "name": "Adura",
+      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adura",
-        "url": "https://open.spotify.com/album/57sE5bGhj3qMxm5Ms8VJiy"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4C8j7K4ehmB0YLpEeMmehG"
       },
       "artists": [
+        {
+          "name": "TMP Offisial",
+          "url": "https://open.spotify.com/artist/52jKSXLfV0wNVqXrGWhtUi"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 174863,
-      "name": "Adura",
-      "url": "https://open.spotify.com/track/7McaoCgUSV8v50fp0hN14P"
+      "duration_ms": 190769,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4Yj0vmMOII0gSmE51jy3wk"
     },
     {
       "added_at": null,

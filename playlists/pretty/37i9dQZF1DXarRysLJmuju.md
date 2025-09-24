@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest in pop\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,383 likes - 104 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,270 likes - 104 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-24",
-  "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002cover: \u85e4\u4e95 \u98a8",
+  "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
   "name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 212939,
       "name": "39 Minutes",
       "url": "https://open.spotify.com/track/0JIjfO9NM6HDv4MsqsPi3W"
+    },
+    {
+      "album": {
+        "name": "All About McGuffin",
+        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+      },
+      "artists": [
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209521,
+      "name": "After that...",
+      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
     },
     {
       "album": {
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 208902,
       "name": "Flower",
       "url": "https://open.spotify.com/track/0VK4xyJXNWuWaeFQZaRZtJ"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
@@ -2234,7 +2252,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 182321,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84"
@@ -2426,7 +2444,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 141145,
       "name": "MINT",
       "url": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
@@ -2543,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "munasawagi",
+        "url": "https://open.spotify.com/album/3Ela3PqIlOWWchjJbbJi0x"
+      },
+      "artists": [
+        {
+          "name": "E.scene",
+          "url": "https://open.spotify.com/artist/3Gij27vfnbyoFhJ78ZFco5"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207472,
+      "name": "munasawagi",
+      "url": "https://open.spotify.com/track/3X89N0OmGkTzA0Uh7tlOE1"
+    },
+    {
+      "album": {
         "name": "my own life",
         "url": "https://open.spotify.com/album/7lb93fcshTHAMArHyJlSZH"
       },
@@ -2638,6 +2674,24 @@
       "duration_ms": 241034,
       "name": "Odorimasyoka",
       "url": "https://open.spotify.com/track/0YqYH7GBWkaO7xuX9Xf7QK"
+    },
+    {
+      "album": {
+        "name": "Oh",
+        "url": "https://open.spotify.com/album/2qHLv0U8pxGV7nAHinJiuU"
+      },
+      "artists": [
+        {
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245613,
+      "name": "Oh",
+      "url": "https://open.spotify.com/track/4fWRIQBUH9VaWpz9E5ZFc7"
     },
     {
       "album": {
@@ -2886,6 +2940,24 @@
       "duration_ms": 222058,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/2TRdlT1pZaARZBh6rBOVuC"
+    },
+    {
+      "album": {
+        "name": "NICO",
+        "url": "https://open.spotify.com/album/7hEUaGpVKEw5HA5XLCVj2U"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106206,
+      "name": "Puff/Pass",
+      "url": "https://open.spotify.com/track/69dxGbipWP3zLo5tmCrfNt"
     },
     {
       "album": {
@@ -5220,7 +5292,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 158888,
       "name": "\u30ab\u30bf\u30b3\u30c8",
       "url": "https://open.spotify.com/track/3ck6DbwKM4maTik8s7j3s4"
@@ -7056,7 +7128,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 262660,
       "name": "\u8cb4\u65b9\u306b\u6674\u308c",
       "url": "https://open.spotify.com/track/0a9RMOhvRn08ntMP3ndQXu"

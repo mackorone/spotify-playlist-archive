@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487484,
+  "num_followers": 487470,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/1ZvzQq578WQgPyzCQrMaVA"
     },
     {
+      "added_at": "2025-02-07 17:00:04",
+      "album": {
+        "name": "Just Give In / Never Going Home",
+        "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
+      },
+      "artists": [
+        {
+          "name": "Hazel English",
+          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "Never Going Home",
+      "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "Bees",
@@ -1055,22 +1071,6 @@
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
-    },
-    {
-      "added_at": "2025-02-07 17:00:04",
-      "album": {
-        "name": "Just Give In / Never Going Home",
-        "url": "https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C"
-      },
-      "artists": [
-        {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
-        }
-      ],
-      "duration_ms": 236666,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN"
     },
     {
       "added_at": "2024-10-11 04:00:00",

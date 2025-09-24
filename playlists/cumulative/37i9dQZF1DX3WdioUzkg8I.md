@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3WdioUzkg8I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3WdioUzkg8I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3WdioUzkg8I)
 
-### [Fall Asleep](https://open.spotify.com/playlist/37i9dQZF1DX3WdioUzkg8I)
+### [Fall Asleep Instantly💤](https://open.spotify.com/playlist/37i9dQZF1DX3WdioUzkg8I)
 
 > Relaxing music and sounds for sleeping.
 
-331 songs - 15 hr 39 min
+334 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-01-04 | 2024-10-16 |
 | [Aliento](https://open.spotify.com/track/0uCqOaNbiUbJvRX5UJ6i3V) | [Cosmic Clarity](https://open.spotify.com/artist/0mS4iUHnCGTarpY6K87QJm) | [Aliento](https://open.spotify.com/album/5H81D7yNapaXIH3UP2pIK6) | 3:07 | 2025-03-05 |  |
 | [All is Well](https://open.spotify.com/track/54CaH6uUMYy4EqgjuRoCeX) | [Stellar Voyager](https://open.spotify.com/artist/3yO4gt9FGhJNeaeLbxIVTQ) | [All is Well](https://open.spotify.com/album/4URKXwjmqLntTA2fuwHJOV) | 2:30 | 2025-09-15 |  |
+| [All That Is Quiet](https://open.spotify.com/track/5zWkmOsEVePRSxpON43Wkm) | [Biolume](https://open.spotify.com/artist/398RKZCqh8iuD1nKlZWTZl) | [All That Is Quiet](https://open.spotify.com/album/0L9jU4no9x9WJkQ6WMO4RM) | 2:43 | 2025-09-23 |  |
 | [All We Shared](https://open.spotify.com/track/2VIqbLiw40FESThOqVcUtr) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [All We Shared](https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl) | 2:04 | 2022-01-04 |  |
 | [Altai](https://open.spotify.com/track/2Vd91FjcKOHXn8kiFv0gnV) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Altai](https://open.spotify.com/album/3xbZExB6U4whgGNV1OP5LW) | 3:17 | 2022-01-04 | 2024-10-16 |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2022-01-04 |  |
@@ -135,6 +136,7 @@
 | [Hazel Eyes](https://open.spotify.com/track/2mcNmyIwa0n0dTsaHclEZd) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Hazel Eyes](https://open.spotify.com/album/141aYM5oB1j4Ch75e1qiIF) | 3:10 | 2025-03-05 |  |
 | [Heinamaa](https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx) | [Eyla Calmes](https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X) | [Heinamaa](https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q) | 2:32 | 2022-01-04 |  |
 | [Herz gebrochen](https://open.spotify.com/track/2x6qK1oorFfWjIZ9bRf1MZ) | [Frida Frisk](https://open.spotify.com/artist/7xLTHxwZlyswxyMpdZzI8C) | [Herz gebrochen](https://open.spotify.com/album/6MMQUxAJVvAbp1Vi3Rx2oL) | 2:14 | 2022-01-04 |  |
+| [Hidden Haven](https://open.spotify.com/track/28ITxu6IQPaK5R2PtLMX2x) | [Hillside Dreams](https://open.spotify.com/artist/28ARkny6d5xO2f45bbhwJr) | [Hidden Haven](https://open.spotify.com/album/10c3eVT3mhqp46vKUmI7Sf) | 2:48 | 2025-09-23 |  |
 | [hidden in the heather](https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [hidden in the heather](https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ) | 2:15 | 2025-01-31 |  |
 | [Hiding Place](https://open.spotify.com/track/1FuXj0Pb8eOW7PQTzzsJ3z) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Hiding Place](https://open.spotify.com/album/4s98ZZEUEgQ2xOK4O63kHH) | 2:36 | 2025-03-05 |  |
 | [Higher Peace](https://open.spotify.com/track/3GYRuKfzGkYko5nOkZObCt) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Higher Peace](https://open.spotify.com/album/1LRQNeQLGJgGq2rDfA6qUz) | 3:28 | 2025-04-01 |  |
@@ -228,6 +230,7 @@
 | [Oyasumi Nasai](https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 2:44 | 2022-01-04 | 2022-04-29 |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2022-01-04 |  |
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2022-01-04 | 2022-11-15 |
+| [Perigee](https://open.spotify.com/track/2CV6zDTlGVEUpfb1cImCy5) | [Ursae Minoris](https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo) | [Perigee](https://open.spotify.com/album/7jZ2IufAYbLk63ONCgJk6s) | 2:36 | 2025-09-23 |  |
 | [Photograph](https://open.spotify.com/track/19qQLskmsiVPAGspwfwGGd) | [Gianluca Piacenza](https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS) | [Photograph](https://open.spotify.com/album/32L7KIzzmOAmcg2slINDlK) | 4:36 | 2022-01-04 | 2022-04-02 |
 | [Pioggia Eterna](https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Pioggia Eterna](https://open.spotify.com/album/03XIBRIbVxPRGYqzaoHwsT) | 2:50 | 2022-01-04 |  |
 | [Preludium](https://open.spotify.com/track/5V1fERRi9CKUG4lkeAP9Ue) | [Karin Borg](https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W) | [Preludium](https://open.spotify.com/album/6sh07Iqq3mgx76srlNA0Za) | 2:09 | 2022-02-01 |  |

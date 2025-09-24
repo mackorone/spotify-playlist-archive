@@ -5295,6 +5295,28 @@
     },
     {
       "album": {
+        "name": "ReBirth",
+        "url": "https://open.spotify.com/album/2MvjqVF0AA2vgoFy5BWtSU"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "date_added": "2025-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191465,
+      "name": "ReBirth",
+      "url": "https://open.spotify.com/track/00hnBmq8Wj0Pv1c8UD4PtI"
+    },
+    {
+      "album": {
         "name": "Refuge",
         "url": "https://open.spotify.com/album/7IaQaAMCu3qu2Dzmyt5Up3"
       },
@@ -5936,7 +5958,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 160500,
       "name": "Step Into The Rave (feat. shadxwgirl)",
       "url": "https://open.spotify.com/track/02N9lZqNGAXimcros1zSwm"

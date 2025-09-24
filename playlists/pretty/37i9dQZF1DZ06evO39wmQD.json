@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aM9AAAAAAABqbY3h+vFqE/nCWPVfgpHU",
+  "snapshot_id": "aNCRgAAAAABRloXAFd5oq28NSC2dUEbp",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
-        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Lulu Is a Rhinoceros",
-          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
-        }
-      ],
-      "duration_ms": 175612,
-      "name": "Good Morning, Beautiful You",
-      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Little Mermaid Live!",
         "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
@@ -463,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
+        "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Lulu Is a Rhinoceros",
+          "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
+        }
+      ],
+      "duration_ms": 175612,
+      "name": "Good Morning, Beautiful You",
+      "url": "https://open.spotify.com/track/3aqlTxMid4dpJoGjwS6TY8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scars To Your Beautiful (Rise Cast Version)",
         "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 258933,
       "name": "Scars To Your Beautiful - Rise Cast Version",
       "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 167590,
+      "name": "Born for This",
+      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
     },
     {
       "added_at": null,
@@ -507,42 +523,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 167590,
-      "name": "Born for This",
-      "url": "https://open.spotify.com/track/79ifABR18J1kNepjRhWeCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
       "artists": [
         {
-          "name": "Alex Newell",
-          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Utkarsh Ambudkar",
+          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
         },
         {
           "name": "Lulu Is a Rhinoceros",
           "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
         }
       ],
-      "duration_ms": 131682,
-      "name": "Start the Day Again",
-      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
+      "duration_ms": 148557,
+      "name": "Rhino Proof",
+      "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
     },
     {
       "added_at": null,
@@ -563,6 +563,22 @@
       "duration_ms": 120960,
       "name": "Mama Who Bore Me - Rise Cast Version",
       "url": "https://open.spotify.com/track/4AxvU1vUh19aQk9aA7QGCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
+      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
     },
     {
       "added_at": null,
@@ -591,42 +607,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "The Future's in My Hands - Theme from \"Hailey's On It!\"",
-      "url": "https://open.spotify.com/track/2EDhyd2FMEeV1P0iwA1eWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
       "artists": [
         {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+          "name": "Alex Newell",
+          "url": "https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN"
         },
         {
-          "name": "Utkarsh Ambudkar",
-          "url": "https://open.spotify.com/artist/3AXr1YNxrLplk3tRwOrLlN"
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
           "name": "Lulu Is a Rhinoceros",
           "url": "https://open.spotify.com/artist/7ziXN3fiGL8vDIk9X0q8y8"
         }
       ],
-      "duration_ms": 148557,
-      "name": "Rhino Proof",
-      "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
+      "duration_ms": 131682,
+      "name": "Start the Day Again",
+      "url": "https://open.spotify.com/track/2p2lugLsOBbCAq9lTMzp6f"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
       "duration_ms": 211013,
       "name": "Whispering - Rise Cast Version",
       "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+        }
+      ],
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,
@@ -675,26 +695,6 @@
       "duration_ms": 207000,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
-        }
-      ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,

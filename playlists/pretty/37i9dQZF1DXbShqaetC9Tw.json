@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 150112,
+  "num_followers": 150094,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-09-16 08:20:34",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
-    },
-    {
-      "added_at": "2025-09-16 08:20:34",
-      "album": {
         "name": "Fishtank",
         "url": "https://open.spotify.com/album/5G3wdVrYfbkdIi6C0PkVtt"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 218000,
       "name": "Our FIlm",
       "url": "https://open.spotify.com/track/0YcrevMPRQzfxX0I0Q9efv"
+    },
+    {
+      "added_at": "2025-09-16 08:20:34",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "added_at": "2025-09-16 08:20:34",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-09-16 08:20:34",
       "album": {
+        "name": "Motel California OST Part.5",
+        "url": "https://open.spotify.com/album/0M5gdfhPsi2g6FAoBWludH"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "duration_ms": 215653,
+      "name": "Smile for me",
+      "url": "https://open.spotify.com/track/6xDaCAazC3QiKNj2hpr4yM"
+    },
+    {
+      "added_at": "2025-09-16 08:20:34",
+      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 227353,
       "name": "CALL ME BACK",
       "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
-    },
-    {
-      "added_at": "2025-09-16 08:20:34",
-      "album": {
-        "name": "Motel California OST Part.5",
-        "url": "https://open.spotify.com/album/0M5gdfhPsi2g6FAoBWludH"
-      },
-      "artists": [
-        {
-          "name": "Nerd Connection",
-          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
-        }
-      ],
-      "duration_ms": 215653,
-      "name": "Smile for me",
-      "url": "https://open.spotify.com/track/6xDaCAazC3QiKNj2hpr4yM"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

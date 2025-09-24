@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,915 likes - 160 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,917 likes - 160 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdY6dvv5ZN6.md) - [plain]
 | 87 | [Boundaries](https://open.spotify.com/track/3RfOdEin0kyn9Y5Bul49Om) | [Alexis Lombre](https://open.spotify.com/artist/346WuT9dqvhPwxyZOLR2IH) | [Boundaries](https://open.spotify.com/album/3txX9WCGi8LEUxhG3VLIUV) | 2:56 |
 | 88 | [SWEET TREAT](https://open.spotify.com/track/0XC3gYdzvNtZS8FP6corfV) | [SNACKTIME](https://open.spotify.com/artist/4WdKwazXyV5Hc2YtWc2IDr) | [SOUNDS FROM THE STREET: LIVE](https://open.spotify.com/album/7pV9eJkOmSHIeUp2531JCk) | 5:30 |
 | 89 | [I´m Paciència](https://open.spotify.com/track/3zhK5Ux4IJX1NQgQITXP3w) | [Balkan Paradise Orchestra](https://open.spotify.com/artist/5tWhPlOVHAdgPbtzTR95Hs) | [Nèctar](https://open.spotify.com/album/3Q34Va49lK5ZclCiVQHeOw) | 2:46 |
-| 90 | [Maamu](https://open.spotify.com/track/38Rnv18CuI7C6W5MTsbZ4w) | [Naxx Bitota](https://open.spotify.com/artist/4RE1cbM7QrwxStzXrOCkJv) | [Kuetu](https://open.spotify.com/album/5zR12lUd1lLmj8ISD1S9uz) | 4:01 |
+| 90 | [Maamu](https://open.spotify.com/track/38Rnv18CuI7C6W5MTsbZ4w) | [NAXX BITOTA](https://open.spotify.com/artist/4RE1cbM7QrwxStzXrOCkJv) | [Kuetu](https://open.spotify.com/album/5zR12lUd1lLmj8ISD1S9uz) | 4:01 |
 | 91 | [A Love That Will Last](https://open.spotify.com/track/29wPq9QKI7oNxyef6RUmaV) | [GEMINICRAB](https://open.spotify.com/artist/7zzkfKZg08f83OyFzJKgTI) | [Gen Y Lens](https://open.spotify.com/album/6gcNjzoejfSBw8HsIJIDKB) | 3:31 |
 | 92 | [Megaphone](https://open.spotify.com/track/3bvpJ9jN8pWJJ2UA8EyrUm) | [Annarella and Django](https://open.spotify.com/artist/2CHYjxkHZ0mz1gFKNhVQpy) | [Jouer](https://open.spotify.com/album/3KDHTGRgtOIb42LMwHJVKq) | 2:22 |
 | 93 | [Cantarle un Son](https://open.spotify.com/track/7y15j9IewioGn8tVKqRLSr) | [Andy Rubal](https://open.spotify.com/artist/4nRoe1vDJD1os7rUJE3Xko), [Alexander Abreu](https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu), [Manolito Simonet y su Trabuco](https://open.spotify.com/artist/0Wd6h9C5ZYMexAYGM7BKwR) | [Cantarle un Son](https://open.spotify.com/album/48SotM1jsjMgpxJbuWKVkV) | 5:25 |

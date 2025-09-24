@@ -781,6 +781,32 @@
     },
     {
       "album": {
+        "name": "Ozean im Cup",
+        "url": "https://open.spotify.com/album/32u9puiTAyO9O9KEReH5Po"
+      },
+      "artists": [
+        {
+          "name": "Da Playaz",
+          "url": "https://open.spotify.com/artist/7c4KTyZM7icu8bSlWHRhPL"
+        },
+        {
+          "name": "Pierre Sonality",
+          "url": "https://open.spotify.com/artist/0niBEgx0rRNWoTXgiJIiwA"
+        },
+        {
+          "name": "Young Krillin",
+          "url": "https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163806,
+      "name": "Ozean im Cup",
+      "url": "https://open.spotify.com/track/7wierJUd6Khkyzld6ZRUZy"
+    },
+    {
+      "album": {
         "name": "Papagei 4",
         "url": "https://open.spotify.com/album/4GH9XYxzYpza7bipNXixAb"
       },

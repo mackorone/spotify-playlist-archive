@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,109 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,136 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 42 | [Cosmo e Wanda](https://open.spotify.com/track/4yC4hyptMVCJekxnHCck3y) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Artilheira](https://open.spotify.com/album/57vseSG0QgBscoazMP2JQd) | 2:12 |
 | 43 | [Ten Commandments](https://open.spotify.com/track/3LAxDA234GrviAl7DeSHzi) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 5:02 |
 | 44 | [12 de Junho](https://open.spotify.com/track/3vFK2T4ygQHos5deK4HYME) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:10 |
-| 45 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
-| 46 | [Bandida \- Remix](https://open.spotify.com/track/3uCaGqSBKi5ujNvPqZosnl) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Bandida \(Remix\)](https://open.spotify.com/album/3sQFnb3L4I1I590EYYT6u6) | 4:16 |
+| 45 | [Bandida \- Remix](https://open.spotify.com/track/3uCaGqSBKi5ujNvPqZosnl) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Bandida \(Remix\)](https://open.spotify.com/album/3sQFnb3L4I1I590EYYT6u6) | 4:16 |
+| 46 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
 
 Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

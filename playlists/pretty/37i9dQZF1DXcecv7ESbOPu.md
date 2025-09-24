@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 ### [New Music Friday Sweden](https://open.spotify.com/playlist/37i9dQZF1DXcecv7ESbOPu)
 
-> Äntligen fredag och ny musik från Molly Sandén, Tjuvjakt, Drake med flera\. Happy New Music Friday!
+> Äntligen fredag och ny musik från Molly Sandén, Tjuvjakt, FELICIA med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,552 likes - 111 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,546 likes - 111 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 110 | [Asteroid](https://open.spotify.com/track/0XlhEr9biwhXhBaRK9q3wX) | [Maybe](https://open.spotify.com/artist/03N63H9bvlxWJUunz5Vc32) | [Asteroid](https://open.spotify.com/album/6uw5iIVFC46BmET0YFzyDI) | 3:12 |
 | 111 | [You Only Miss Me Drunk](https://open.spotify.com/track/6P6wsBMBAUCGfbbS3xTRqO) | [Zac Kael](https://open.spotify.com/artist/6wR0TwScPN8hR3kIDYj507) | [You Only Miss Me Drunk](https://open.spotify.com/album/0Mol2w9PkhKLK4xz0KSR85) | 3:07 |
 
-Snapshot ID: `AAAAAJEt2Z7K5ufsLfEVSW/lD5ful9Zm`
+Snapshot ID: `AAAAAH+6WsVLGxKBrjHw9bw0WmYAcBE0`

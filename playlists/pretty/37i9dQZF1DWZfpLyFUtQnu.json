@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles ballades de la chanson fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 105956,
+  "num_followers": 105984,
   "original_name": "Douce France",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Superflu",
-        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
+        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
+        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
       },
       "artists": [
         {
-          "name": "Pascal Obispo",
-          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 255573,
-      "name": "Lucie",
-      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
+      "duration_ms": 137160,
+      "name": "Mon amie la rose",
+      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -431,34 +431,18 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Mon amie la rose)",
-        "url": "https://open.spotify.com/album/00r4Bh9aFIb7yHux1Kg0ub"
+        "name": "Superflu",
+        "url": "https://open.spotify.com/album/5bkQ6M2RXukXeF9NEHwgUY"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
         }
       ],
-      "duration_ms": 137160,
-      "name": "Mon amie la rose",
-      "url": "https://open.spotify.com/track/1rMX4XuW4KzgYlAyEaDmpO"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Ta main",
-      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
+      "duration_ms": 255573,
+      "name": "Lucie",
+      "url": "https://open.spotify.com/track/5lgjlZSujTErTw7FUoCxj9"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -475,6 +459,22 @@
       "duration_ms": 206626,
       "name": "Evidemment - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Ta main",
+      "url": "https://open.spotify.com/track/7vPyLb2HzPaZxv1egWvWMo"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
-        "name": "L'Heure D'Et\u00e9",
-        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Toi mon amour",
-      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
+        "name": "L'Heure D'Et\u00e9",
+        "url": "https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Toi mon amour",
+      "url": "https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "Ferrat chante Aragon, l'int\u00e9grale",
+        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "duration_ms": 141106,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 238746,
       "name": "Je ne veux qu'elle",
       "url": "https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "Ferrat chante Aragon, l'int\u00e9grale",
-        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
-      },
-      "artists": [
-        {
-          "name": "Jean Ferrat",
-          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
-        }
-      ],
-      "duration_ms": 141106,
-      "name": "Aimer \u00e0 perdre la raison",
-      "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
     },
     {
       "added_at": "2024-10-03 14:22:43",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-03 14:22:43",
       "album": {
+        "name": "En amont",
+        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
+      },
+      "artists": [
+        {
+          "name": "Alain Bashung",
+          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Immortels",
+      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
+    },
+    {
+      "added_at": "2024-10-03 14:22:43",
+      "album": {
         "name": "C\u0153ur",
         "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 201280,
       "name": "Sad & Slow (avec Julien Dor\u00e9)",
       "url": "https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh"
-    },
-    {
-      "added_at": "2024-10-03 14:22:43",
-      "album": {
-        "name": "En amont",
-        "url": "https://open.spotify.com/album/3zr5AVUYkVkezcHSqBfrxH"
-      },
-      "artists": [
-        {
-          "name": "Alain Bashung",
-          "url": "https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Immortels",
-      "url": "https://open.spotify.com/track/64XJOksESduPbepHxmW2rT"
     },
     {
       "added_at": "2024-10-03 14:22:43",

@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,809 songs - 3 day 8 hr 17 min
+1,812 songs - 3 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Das Versprechen](https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Das Versprechen](https://open.spotify.com/album/0LgaZhljzonHcCWXVV8zF5) | 2:26 | 2021-09-24 | 2022-05-21 |
 | [day by day](https://open.spotify.com/track/50G6irpZApduau5QFZhicP) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [day by day](https://open.spotify.com/album/3s3vBEGWENJESmsyeDpl4s) | 2:17 | 2024-12-03 | 2025-08-28 |
 | [Daybreak](https://open.spotify.com/track/0xOPyF2d1FC6xuBRj3JJxN) | [Francie Stooge](https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7) | [Daybreak](https://open.spotify.com/album/63G9tWahtvcvfMbJplDofw) | 2:10 | 2019-10-22 | 2021-10-20 |
+| [Daydream](https://open.spotify.com/track/5LAptbUhdbsbUUhoV3Q1Oy) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Daydream](https://open.spotify.com/album/0JHgCYQ3U5OoLfiDC6Pjib) | 2:21 | 2025-09-23 |  |
 | [Daydreamer](https://open.spotify.com/track/5VWbXmisFDNGzh1kcXouTR) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Daydreamer](https://open.spotify.com/album/4z9N0nfrR9TvL7ycpAxwqb) | 2:36 | 2024-03-04 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2020-12-15 | 2022-06-04 |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2021-02-03 | 2021-04-22 |
@@ -482,6 +483,7 @@
 | [Familiar Grounds](https://open.spotify.com/track/0XmzqchrogvmI01Bo7xtLG) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Familiar Grounds](https://open.spotify.com/album/1mnr05Zq0I3QtYuxziqGjj) | 3:57 | 2020-08-04 | 2021-04-14 |
 | [Far and Beyond](https://open.spotify.com/track/3tbVwFLSct63LhbI2mU50s) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Charles Bolt](https://open.spotify.com/album/3j0aL8TLtJ43y0Yd2gGz7O) | 3:17 | 2019-05-26\* | 2020-05-26 |
 | [Far away fields](https://open.spotify.com/track/1oDHRSJcxyZa2yKcxUtNX3) | [Alto Fernando](https://open.spotify.com/artist/0KQn5sR0L1mcSUicDjMtiK) | [Far away fields](https://open.spotify.com/album/4DWu8Gy5UQ4OhuPT6eN9oX) | 2:29 | 2025-01-14 | 2025-04-09 |
+| [Farther Fields](https://open.spotify.com/track/3t50k3r7KDzv422h9rS4zw) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Farther Fields](https://open.spotify.com/album/5OFpxCA86MILEobmMC8K7R) | 2:53 | 2025-09-23 |  |
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-02-02 | 2022-09-24 |
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2021-12-08 | 2022-08-27 |
 | [Felt Improv No\. 3](https://open.spotify.com/track/4mUEjeo70EeAq2ARJySrj6) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 3](https://open.spotify.com/album/1cseVonhcrCKoxuNDGY6T8) | 3:01 | 2020-06-16 | 2021-08-12 |
@@ -1021,6 +1023,7 @@
 | [Nel bisogno si riconosce il vero amico](https://open.spotify.com/track/1rUG0qJbwGySkGj9yd1GuJ) | [Fioretta Rizzo](https://open.spotify.com/artist/3aG2UYHfqXOYEJ9YzHCBqZ) | [Nel bisogno si riconosce il vero amico](https://open.spotify.com/album/5krn1guXFubnzkCvu1b1FX) | 1:50 | 2019-10-22 | 2021-06-18 |
 | [Never Let You Go](https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8) | [Junie Graziano](https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT) | [Never Let You Go](https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT) | 1:54 | 2023-04-03 | 2023-11-21 |
 | [New Dawn](https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw) | 2:54 | 2021-01-26 | 2021-08-05 |
+| [Next Chapter](https://open.spotify.com/track/11cs7GCNODxUDGhmw4SVGa) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Next Chapter](https://open.spotify.com/album/30oeJ3QUVbYUdZXC1zA0u4) | 2:32 | 2025-09-23 |  |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2021-05-22 | 2022-05-13 |
 | [Nibiru](https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 2:39 | 2020-08-04 | 2021-02-17 |
 | [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 | 2023-04-11 | 2024-12-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Firdhaus, Aisha Retno & Ade Govinda , Lewis Capaldi, Pamungkas and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,377 likes - 109 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,374 likes - 109 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 
 > Work and study to the sound of soft electronic music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,412 likes - 210 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,493 likes - 210 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wMD4IoQ5aJ.md) - [plain]
 | 209 | [Futuristic](https://open.spotify.com/track/1KH8pNMx5vEFaKBJ3BGrtA) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Futuristic](https://open.spotify.com/album/1SRiesxh26igFvJRRELjeB) | 3:20 |
 | 210 | [Meia](https://open.spotify.com/track/1G6EfETRr0lUPuTcJPlBiY) | [Miriamy](https://open.spotify.com/artist/4GRc7Ci5nEs8ZEr2dm6cUz) | [Meia](https://open.spotify.com/album/2IfD8qk6bCxCuQmtraOZRs) | 2:29 |
 
-Snapshot ID: `AAAAAABF3IPJqRxnR3kv8uNLM31Jo2ZH`
+Snapshot ID: `AAAAACqjZwRVV/adT67VSCp8sFc+FuK6`

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 6875,
+  "num_followers": 6876,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
@@ -815,8 +815,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Usain Bolt Presents: Clockwork Riddim",
-        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
+        "name": "Need Your Love",
+        "url": "https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf"
       },
       "artists": [
         {
@@ -824,13 +824,17 @@
           "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
         },
         {
+          "name": "Jae Xo",
+          "url": "https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM"
+        },
+        {
           "name": "Nj",
           "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
         }
       ],
-      "duration_ms": 189473,
-      "name": "Timing",
-      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
+      "duration_ms": 185097,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -907,8 +911,8 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Need Your Love",
-        "url": "https://open.spotify.com/album/5kz0klHGG1LrTDdcQxuxyf"
+        "name": "Usain Bolt Presents: Clockwork Riddim",
+        "url": "https://open.spotify.com/album/1DwPjiZIEfx2jkaZjoS8IY"
       },
       "artists": [
         {
@@ -916,17 +920,13 @@
           "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
         },
         {
-          "name": "Jae Xo",
-          "url": "https://open.spotify.com/artist/6rsxtEBge43PfF3FU9BMdM"
-        },
-        {
           "name": "Nj",
           "url": "https://open.spotify.com/artist/3KNcuLUfY5AqiRXASRFWjC"
         }
       ],
-      "duration_ms": 185097,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/0raznvhKo5fzYqZKCp7wzA"
+      "duration_ms": 189473,
+      "name": "Timing",
+      "url": "https://open.spotify.com/track/3DWw2xtPBpv4fmp6MtGSrT"
     }
   ],
   "unique_name": "Usain Bolt's Taste",

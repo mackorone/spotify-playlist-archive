@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 白安 \(Ann Bai\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,631 likes - 128 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,632 likes - 128 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,6 +135,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 125 | [ANSWER ME](https://open.spotify.com/track/3vdxW27XnUG6aQ3Uqwi1Vl) | [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [ANSWER ME](https://open.spotify.com/album/51c4psjvjdjDoKX20XhCOT) | 2:23 |
 | 126 | [Struggle](https://open.spotify.com/track/6JKwOTcSJLMSHo6ZujbUip) | [K!ddingboi](https://open.spotify.com/artist/0aMb32AbyiEHs6q7t5d1gC) | [Struggle](https://open.spotify.com/album/5l9q06HYuVIa3VRXkHqP7s) | 3:00 |
 | 127 | [暴風](https://open.spotify.com/track/029fl4ynAaDlMithHccHuU) | [莉莉周她說 Lily Chou\-Chou Lied](https://open.spotify.com/artist/5UfZ1oU7ItOTwb2AUqOfDK) | [暴風](https://open.spotify.com/album/37RxWQfBsqcEnQjCuPeDFl) | 3:07 |
-| 128 | [代替雞蛋共你捽](https://open.spotify.com/track/3IDDEIQJrTnZXna8c9CWae) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [芮鯊 RapShark](https://open.spotify.com/artist/7AE76qHA80HDxXfqGCKbJZ) | [代替雞蛋共你捽](https://open.spotify.com/album/4jEKXPFJEbT2lpEK7FNWLj) | 3:13 |
+| 128 | [代替雞蛋共你捽](https://open.spotify.com/track/3IDDEIQJrTnZXna8c9CWae) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD), [芮鯊 RapShark](https://open.spotify.com/artist/7AE76qHA80HDxXfqGCKbJZ) | [代替雞蛋共你捽](https://open.spotify.com/album/4jEKXPFJEbT2lpEK7FNWLj) | 3:11 |
 
 Snapshot ID: `AAAAAMs5oTzwkM/lisbhMKEjergU1B31`

@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  CLARA in cover
 
-819 songs - 1 day 14 hr 37 min
+820 songs - 1 day 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [BOGOTÀ](https://open.spotify.com/track/0pamvlplMuoJYYdWjx40F8) | [Cioffi](https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa) | [BOGOTÀ](https://open.spotify.com/album/3iisQ3Y79XKrLu3Osh36g4) | 2:50 | 2025-01-13 | 2025-02-28 |
 | [BOILER ROOM \(What Is Love\) \[feat\. Nashley\]](https://open.spotify.com/track/2EvmooUcliGMajcRtw8jRK) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [BOILER ROOM \(What Is Love\) \[feat\. Nashley\]](https://open.spotify.com/album/0ZUxvGA32g7klGMevlWCA9) | 2:41 | 2025-06-12 | 2025-08-15 |
 | [bolle blu](https://open.spotify.com/track/6FyBnsN9tiaAJKOcQZDcyV) | [Femme](https://open.spotify.com/artist/1Wv02rPDQANubNqrSqNcZW), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [bolle blu](https://open.spotify.com/album/1MCyQ5a7rlznH3tVZQKgJP) | 1:38 | 2024-06-27 | 2024-07-05 |
+| [bollicine](https://open.spotify.com/track/01SWo42ZIDViMJXB6Hbws7) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [bollicine](https://open.spotify.com/album/7csXUKUPccgkQL1H6FAYDB) | 2:40 | 2025-09-23 |  |
 | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/track/0ZUMp2xPOsuWUbzapU8uef) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Bonjour Adieu \(balla e piangi\)](https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7) | 3:22 | 2024-06-27 | 2024-07-19 |
 | [BORDERLINE](https://open.spotify.com/track/10jI5EtnWFqSkWQGoTVBYC) | [Anelie](https://open.spotify.com/artist/58oZhOpjpxETOI5AORvQUF), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [BORDERLINE](https://open.spotify.com/album/549uTF8kBD17JjJGh9yW3q) | 2:43 | 2025-05-01 | 2025-06-13 |
 | [Boreale](https://open.spotify.com/track/6wVn5OSM5I6vk0iTKtOskI) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Boreale](https://open.spotify.com/album/2ysGxpE2JN6QtKGduR9qUM) | 2:44 | 2025-02-27 | 2025-05-09 |

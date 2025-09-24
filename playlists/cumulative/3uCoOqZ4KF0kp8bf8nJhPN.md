@@ -4,7 +4,7 @@
 
 > 
 
-289 songs - 11 hr 22 min
+291 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [ON A TREE!](https://open.spotify.com/track/3y5ywnLJb9EzlbcnJZRBDV) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [MWAH!](https://open.spotify.com/album/0bLqOyNF2wpsNLOMsRNbXW) | 2:10 | 2025-03-24 |  |
 | [One Beer](https://open.spotify.com/track/4BnrGx9tWNF8aiXl1UhDBa) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:18 | 2025-03-07 |  |
 | [OPPER STOPPER!](https://open.spotify.com/track/1TMM3EMVNc5pP6TLrSxpnE) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [OPPER STOPPER!](https://open.spotify.com/album/1XHhZKb7PTtFCM9IGCow3v) | 1:38 | 2025-01-08 |  |
+| [OUT DA WINDOW!](https://open.spotify.com/track/5NwM3ke4m98veSAsFIu2Ri) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [SSJ Daki](https://open.spotify.com/artist/3LQGKxbHBSjkqT11IpByEb) | [OUT DA WINDOW!](https://open.spotify.com/album/26gnm7YiTOij2H9ksIxzDT) | 2:28 | 2025-09-23 |  |
 | [OVERSTIMULATED!](https://open.spotify.com/track/4g6LvjzWCOFWXgBfzhI5RA) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [CALDER](https://open.spotify.com/artist/3rfH5SRk6ekMfiBZ5KVYw9) | [OVERSTIMULATED!](https://open.spotify.com/album/5uAN66FDbbJHggn1hMk1A2) | 2:01 | 2025-01-11 | 2025-04-10 |
 | [P3T](https://open.spotify.com/track/1w0AFg23E67l57A3RMiXjC) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [P3T](https://open.spotify.com/album/7lO82d2FOdRqUNo2aEyWIi) | 1:42 | 2025-04-18 |  |
 | [PAPER STACKER!](https://open.spotify.com/track/5THE5pkJjYkrWQpYPWUUap) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [PAPER STACKER!](https://open.spotify.com/album/1CnNCecCRn8dnHfhUVtse8) | 1:42 | 2025-03-02 | 2025-04-10 |
@@ -211,6 +212,7 @@
 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 | 2025-03-11 |  |
 | [sunroof.](https://open.spotify.com/track/2Y352bwEe4jbupCj94lbbD) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:26 | 2025-04-12 |  |
 | [Super Smash Bros.](https://open.spotify.com/track/3SQ7A39UtrUO61jnICPImu) | [BABY GRAVY](https://open.spotify.com/artist/46VgqDxDEn45y1t0zBS7Do), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Baby Gravy 3](https://open.spotify.com/album/0mDeN57X1YtJHfXNdYlJbw) | 2:33 | 2025-07-25 |  |
+| [SWAGGERHAVERZ!](https://open.spotify.com/track/59x4RSunThhSyLg4sG4mxk) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Jarv](https://open.spotify.com/artist/0GzsRlVbRZ1j4rkTlRNRXW) | [SWAGGERHAVERZ!](https://open.spotify.com/album/6nOZ2tvGeeWVb3u7Hj0A9a) | 2:15 | 2025-09-23 |  |
 | [TAP DAT!](https://open.spotify.com/track/4gNALFfkBwikNddA0WvLeX) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI), [Cacity](https://open.spotify.com/artist/3HOEqAUeNKys5WJEsjkCph) | [TAP DAT!](https://open.spotify.com/album/3TnlD72ac0W89zHgWJ09Yl) | 2:22 | 2024-11-23 |  |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2025-05-19 |  |
 | [Telephones](https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Changes](https://open.spotify.com/album/3Ull45eHLzGXtElhKHFJ7C) | 3:32 | 2025-05-20 |  |

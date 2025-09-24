@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lola Young, RAYE, Lewis Capaldi and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,745 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,696 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 41 | [Explain](https://open.spotify.com/track/6vIA3IooRH2w6F7Un2aPcT) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Explain](https://open.spotify.com/album/2Q00V913LlQXDIlmAj18Hi) | 1:45 |
 | 42 | [Sum'n Serious \- SLIZZY MIX](https://open.spotify.com/track/0J3kISGKt7eTppkNUxhYUn) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Sum'n Serious](https://open.spotify.com/album/3K6Da0mqmR1NOlj4RkRFs2) | 2:35 |
 | 43 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 |
-| 44 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:04 |
+| 44 | [Diamonds](https://open.spotify.com/track/4me9zDEParfetwhlguxvHp) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Diamonds](https://open.spotify.com/album/7rybIiBcDPQ2Y4nOp8w13G) | 3:12 |
 | 45 | [Jump Higher](https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Danny P](https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd) | [Jump Higher](https://open.spotify.com/album/3dpGcHNwIkkcC0Ead79yzw) | 2:56 |
 | 46 | [I Want You](https://open.spotify.com/track/0POZcZCXYeUF7fC4EnRlVp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [I Want You](https://open.spotify.com/album/5zWogd3YFW9oUU2fQHZdWQ) | 2:18 |
 | 47 | [Disappear](https://open.spotify.com/track/09ofXA1JKT4UhRDIhRkOpE) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Disappear](https://open.spotify.com/album/2E2M2jt9rsdOMycC5hOaV9) | 3:51 |

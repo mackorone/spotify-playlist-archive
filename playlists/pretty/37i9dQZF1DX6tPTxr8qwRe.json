@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Ella Red",
-  "num_followers": 426200,
+  "num_followers": 426254,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIpnX06OfyN5QCJoPtJJ6dIoibNL",
+  "snapshot_id": "AAAAAGDQg2VwZYi8Univ7l3YiOnyTY3F",
   "tracks": [
     {
       "added_at": "2025-09-12 04:00:24",
@@ -75,6 +75,38 @@
     {
       "added_at": "2025-09-19 04:00:31",
       "album": {
+        "name": "Good Girl Bad Dreams",
+        "url": "https://open.spotify.com/album/48R9mXpiOmqdLzdqTOOXM6"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "duration_ms": 156788,
+      "name": "Good Girl Bad Dreams",
+      "url": "https://open.spotify.com/track/41Z5PmYNGNvm9yHyuaWOaW"
+    },
+    {
+      "added_at": "2025-09-23 19:07:34",
+      "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
+    {
+      "added_at": "2025-09-19 04:00:31",
+      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/3TBvK353HDQDDNfScJ8QaD"
       },
@@ -91,22 +123,6 @@
       "duration_ms": 194888,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/7gqcQg5BexFAhj848x2Nni"
-    },
-    {
-      "added_at": "2025-09-19 04:00:31",
-      "album": {
-        "name": "Good Girl Bad Dreams",
-        "url": "https://open.spotify.com/album/48R9mXpiOmqdLzdqTOOXM6"
-      },
-      "artists": [
-        {
-          "name": "Bruklin",
-          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
-        }
-      ],
-      "duration_ms": 156788,
-      "name": "Good Girl Bad Dreams",
-      "url": "https://open.spotify.com/track/41Z5PmYNGNvm9yHyuaWOaW"
     },
     {
       "added_at": "2025-09-22 15:05:23",
@@ -1171,22 +1187,6 @@
       "duration_ms": 128319,
       "name": "pretty little thing",
       "url": "https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu"
-    },
-    {
-      "added_at": "2025-06-06 04:00:31",
-      "album": {
-        "name": "WITHOUT YOU",
-        "url": "https://open.spotify.com/album/2oOTz2LrAq3zbBCsRbHhi0"
-      },
-      "artists": [
-        {
-          "name": "Maya Wasserman",
-          "url": "https://open.spotify.com/artist/0vXZJkCe3eRPiUExSOVrKU"
-        }
-      ],
-      "duration_ms": 130263,
-      "name": "WITHOUT YOU",
-      "url": "https://open.spotify.com/track/71m5UAl8ImCsCIUmB6BebA"
     },
     {
       "added_at": "2025-05-16 04:00:11",

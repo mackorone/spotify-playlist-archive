@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124949,
+  "num_followers": 124941,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUmnT4rotQL658mmiMxYdtDsm5p1hV",
+  "snapshot_id": "AAAUnM2dbaeJAa5z0fXSndt6TeYfwu8Y",
   "tracks": [
+    {
+      "added_at": "2025-09-23 14:44:46",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/4hGsAaQq40bBBBD9DWk6tS"
+      },
+      "artists": [
+        {
+          "name": "Banyan",
+          "url": "https://open.spotify.com/artist/7tAaeOOFJ3i5EGaiacyDei"
+        },
+        {
+          "name": "Holochrome",
+          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/1gdxDPqrfDsEEJgGoDyEYk"
+    },
     {
       "added_at": "2025-09-22 14:32:13",
       "album": {
@@ -1119,62 +1139,6 @@
       "duration_ms": 185457,
       "name": "Eden",
       "url": "https://open.spotify.com/track/24yo0cq77Buu7pcaba93Ue"
-    },
-    {
-      "added_at": "2025-07-02 15:36:25",
-      "album": {
-        "name": "EARTHQUAKE",
-        "url": "https://open.spotify.com/album/2du1PXwCvH3VsVRU1EAvIR"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        },
-        {
-          "name": "PAID!NFULL",
-          "url": "https://open.spotify.com/artist/7B37NUWYcRkxnAc0YO84ue"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "EARTHQUAKE",
-      "url": "https://open.spotify.com/track/5LHd02ccyYe90VI9lHhDDN"
-    },
-    {
-      "added_at": "2025-07-02 14:58:00",
-      "album": {
-        "name": "Balloon",
-        "url": "https://open.spotify.com/album/54v8pU06m0p6mAEyspipUB"
-      },
-      "artists": [
-        {
-          "name": "Modd",
-          "url": "https://open.spotify.com/artist/57aX19q7mKEOq5Y6FrHoh2"
-        },
-        {
-          "name": "Lisandro (AR)",
-          "url": "https://open.spotify.com/artist/4g3giOQcTBZbuUvyMh7Ksm"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Balloon",
-      "url": "https://open.spotify.com/track/5csIQAH93KyFTJpltszzXo"
-    },
-    {
-      "added_at": "2025-07-02 14:57:19",
-      "album": {
-        "name": "USB.1",
-        "url": "https://open.spotify.com/album/1qGC1Yd4FSwUsLjSf1PjUy"
-      },
-      "artists": [
-        {
-          "name": "Afinity",
-          "url": "https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Stop Drop Roll",
-      "url": "https://open.spotify.com/track/6g7z70RaH57ZUbYz32ITKy"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

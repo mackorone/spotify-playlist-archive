@@ -4,7 +4,7 @@
 
 > This is our playground 🪩  Cover: Keinemusik
 
-561 songs - 1 day 22 hr 35 min
+562 songs - 1 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-14 |  |
 | [Shinsetsu](https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shinsetsu](https://open.spotify.com/album/6UqkzKbzEYtSYUtcA0Z2ED) | 8:03 | 2022-04-15 | 2022-07-29 |
 | [Shiver \- Cassian Remix](https://open.spotify.com/track/3wPPekju1lN3XgdtYCWmOS) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Shiver \(Cassian Remix\)](https://open.spotify.com/album/2TUxf9Z7J0Mxhm8jgpKAtv) | 4:05 | 2024-06-06 |  |
+| [Shook Ones, PT\. III](https://open.spotify.com/track/1pZVr0g2zWmsCXoUjFqNZZ) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU) | [Shook Ones, PT\. III](https://open.spotify.com/album/3O9VVRJeKfnT0XBTZIhRVb) | 3:38 | 2025-09-17 |  |
 | [Si Soy Fuego](https://open.spotify.com/track/6oa8rEFHMIrYpHh3AmsaMa) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Si Soy Fuego](https://open.spotify.com/album/4kqAFegAsBLlAr9mWWOqOE) | 5:20 | 2022-04-15 | 2024-01-23 |
 | [Siente \(el Ritmo\)](https://open.spotify.com/track/4V8VKDe62ZdGZAn551JdTz) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual](https://open.spotify.com/album/7gRQwhJTbAl6qHXz2efLCF) | 4:54 | 2024-10-10 | 2025-04-27 |
 | [Sierra](https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl) | [Sierra](https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX) | 3:21 | 2024-04-25 |  |
@@ -484,7 +485,7 @@
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-03-07 | 2025-08-21 |
 | [Symbiosis](https://open.spotify.com/track/1wHryy89PY492h8PH0Bezo) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Symbiosis](https://open.spotify.com/album/3SUKFfe6l0sutYY1FI9mx6) | 6:12 | 2022-04-15 | 2022-07-29 |
 | [Symmetry \- Club Remix](https://open.spotify.com/track/3R3OYD2T8IR3BAYfCpBgdP) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [Symmetry \(Club Remix\)](https://open.spotify.com/album/4GVfCLvZDmDhjGgqrpxyby) | 6:06 | 2022-04-15 | 2022-08-23 |
-| [Talking](https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Talking](https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS) | 4:04 | 2024-04-25 |  |
+| [Talking](https://open.spotify.com/track/53pGJNOTQbGhDSgETn8h1K) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Talking](https://open.spotify.com/album/1dqG1NTAKPqwAvBp3VFlXS) | 4:04 | 2024-04-25 | 2025-09-24 |
 | [Tasi](https://open.spotify.com/track/2ydBAmSGC32VDh34Libi1G) | [REYSIS](https://open.spotify.com/artist/19lIvmbu4jVhIIFhtbV2LC), [SIS](https://open.spotify.com/artist/4wzvXCxUnFdUjNgTwqPOf3), [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Tasi Lua](https://open.spotify.com/album/2bg07HDf5MxkkeNcnXgzul) | 8:43 | 2022-05-20 | 2022-06-18 |
 | [Tears \(with Paige Cavell\) \- Max Styler Remix](https://open.spotify.com/track/26JxMzGSXgSludf9rD7yuY) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Tears \(with Paige Cavell\) \[Max Styler Remix\]](https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr) | 4:13 | 2024-10-10 | 2025-05-16 |
 | [Tears of Bliss](https://open.spotify.com/track/2GH24tjaDXuxjJ21vDzU8k) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Tears Of Bliss](https://open.spotify.com/album/3meejxAKMVKjFbYS6yogxD) | 4:56 | 2022-04-15 | 2022-07-28 |

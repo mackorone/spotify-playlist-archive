@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Pamungkas & Dipha Barus, Cardi B & Kehlani, raissa anggiani dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,881 likes - 103 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,908 likes - 103 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 39 | [forevermore](https://open.spotify.com/track/5V5Ap2hQE1TziFozK3VNm6) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [forevermore](https://open.spotify.com/album/7rbZZAHxa3yL17Gt6eXSjX) | 3:48 |
 | 40 | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/track/5dvIK269hL3eZXQMG4Vc2C) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Lihat Kebunku \(Taman Bunga\)](https://open.spotify.com/album/1K1gVX9mqTJuCaLvxL7AIq) | 3:09 |
 | 41 | [Bola Mata Sayu](https://open.spotify.com/track/5nMAuxzQxAb4k5FYFKkSYt) | [DNANDA](https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti) | [Bola Mata Sayu](https://open.spotify.com/album/7bn897QnFkuEBJDv3IF73s) | 3:43 |
-| 42 | [Mother Angels \(Feat\. Gloria Jessica\)](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
+| 42 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 |
 | 43 | [Suluh](https://open.spotify.com/track/19pjc3lJEHuFibzJdsa83e) | [Rafika Nurhadi](https://open.spotify.com/artist/1nZuZljknMxF94v9RvZgoP) | [Suluh](https://open.spotify.com/album/5Xf1mGHNfQH4KlPxTzPa2W) | 4:38 |
 | 44 | [Duh, Macet](https://open.spotify.com/track/2bEkEOcYHkVxECXDubRHtN) | [Benny Ciko](https://open.spotify.com/artist/1HhDSDNcf9DDfZIlE8hH3L) | [Duh, Macet](https://open.spotify.com/album/4tk592GyECF4sDZHpN1HB0) | 3:20 |
 | 45 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 197655,
       "name": "21st Century Cool Girl",
       "url": "https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt"
@@ -4461,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "IRIS OUT",
+        "url": "https://open.spotify.com/album/06re45NBDCPah74jnVOISQ"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "IRIS OUT",
+      "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
+    {
+      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
       },
@@ -4512,6 +4530,32 @@
       "duration_ms": 185890,
       "name": "it's ok!",
       "url": "https://open.spotify.com/track/65QnKbugRDVJK6MBdwkKBo"
+    },
+    {
+      "album": {
+        "name": "Jax Toy",
+        "url": "https://open.spotify.com/album/5yakoQrEoihDmhCpftx7pU"
+      },
+      "artists": [
+        {
+          "name": "Jakeneutron",
+          "url": "https://open.spotify.com/artist/7kk9WfnMdCB0K2oEz1ISYD"
+        },
+        {
+          "name": "Michael Kovach",
+          "url": "https://open.spotify.com/artist/7Gz9xqvzDYD8G3LnlolOdZ"
+        },
+        {
+          "name": "Amanda Hufford",
+          "url": "https://open.spotify.com/artist/69BxTUnWd8ujTo7GUdGFdA"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212791,
+      "name": "Jax Toy",
+      "url": "https://open.spotify.com/track/2VQdlLE28peS0ZxTu2fakd"
     },
     {
       "album": {
@@ -5352,7 +5396,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-24",
       "duration_ms": 118000,
       "name": "lucy~",
       "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"

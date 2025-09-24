@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Ella Red
 
-990 songs - 1 day 21 hr 40 min
+991 songs - 1 day 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,6 +481,7 @@
 | [Into My Body](https://open.spotify.com/track/40HSFJpsSRNDkuxA0IaL34) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Into My Body](https://open.spotify.com/album/0fFbuKhFl6pk44s5mETFz6) | 2:24 | 2022-10-28 | 2022-12-16 |
 | [Into My Body](https://open.spotify.com/track/6Idi0H5TS4PwVW91ReBK7z) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:24 | 2022-10-28 | 2023-05-06 |
 | [Invasion](https://open.spotify.com/track/4Zzm3yLTEPa2gaiJw0uPNF) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Invasion](https://open.spotify.com/album/3YxxHFu1LsbhfZabdegMm4) | 3:37 | 2024-07-26 | 2024-11-12 |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-23 |  |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 | 2023-08-19 |
 | [It Wasn't Me](https://open.spotify.com/track/2Y8aKLQSTd5BCIMMmPzdPG) | [Caleigh](https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1) | [It Wasn't Me](https://open.spotify.com/album/66MJakKrxiqewpKIu7O1h6) | 2:17 | 2025-05-02 | 2025-08-23 |
 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 | 2025-08-29 |  |
@@ -976,7 +977,7 @@
 | [Wish You the Worst](https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Wish You the Worst](https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We) | 2:23 | 2022-05-20 | 2022-10-22 |
 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 | 2022-10-28 | 2023-04-01 |
 | [With A Smile](https://open.spotify.com/track/26VCyPfEWFecgJSq3SrF4o) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [With A Smile](https://open.spotify.com/album/0GHIWxvJmJOYTSBrvUK5jp) | 2:56 | 2023-10-06 | 2024-01-20 |
-| [WITHOUT YOU](https://open.spotify.com/track/71m5UAl8ImCsCIUmB6BebA) | [Maya Wasserman](https://open.spotify.com/artist/0vXZJkCe3eRPiUExSOVrKU) | [WITHOUT YOU](https://open.spotify.com/album/2oOTz2LrAq3zbBCsRbHhi0) | 2:10 | 2025-06-06 |  |
+| [WITHOUT YOU](https://open.spotify.com/track/71m5UAl8ImCsCIUmB6BebA) | [Maya Wasserman](https://open.spotify.com/artist/0vXZJkCe3eRPiUExSOVrKU) | [WITHOUT YOU](https://open.spotify.com/album/2oOTz2LrAq3zbBCsRbHhi0) | 2:10 | 2025-06-06 | 2025-09-24 |
 | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/track/3EgRznELSayrCj19aGYRic) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG) | [Woah!! \(feat\. kets4eki\)](https://open.spotify.com/album/0vCm9yXPMOX7BpLtuB0YjC) | 2:57 | 2024-05-10 | 2024-06-29 |
 | [Women Don't Owe You Sh\*t](https://open.spotify.com/track/6HoZUmprRfFWO1CaqkiBUP) | [ASTON](https://open.spotify.com/artist/6z4NUKuKEzIzo28BPOjVof) | [Women Don't Owe You Sh\*t](https://open.spotify.com/album/2S1oHdSgzillUEO1juCGaX) | 3:32 | 2022-01-28 | 2022-10-08 |
 | [Worship](https://open.spotify.com/track/6TURPlJoVlJBtTwFZo0RUr) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Worship](https://open.spotify.com/album/6vX3fRpUBbJ5KD9ipuiIeZ) | 3:07 | 2023-06-30 | 2023-09-16 |

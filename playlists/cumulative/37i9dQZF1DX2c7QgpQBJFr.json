@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "bollicine",
+        "url": "https://open.spotify.com/album/7csXUKUPccgkQL1H6FAYDB"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160151,
+      "name": "bollicine",
+      "url": "https://open.spotify.com/track/01SWo42ZIDViMJXB6Hbws7"
+    },
+    {
+      "album": {
         "name": "Bonjour Adieu (balla e piangi)",
         "url": "https://open.spotify.com/album/5SWDp3JOGK60WK6aYe4qz7"
       },
