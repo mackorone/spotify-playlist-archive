@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Cristian D",
-  "num_followers": 140171,
+  "num_followers": 140177,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-09-23 12:11:54",
       "album": {
+        "name": "Reset The Levels IV",
+        "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
+      },
+      "artists": [
+        {
+          "name": "SFB",
+          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
+        }
+      ],
+      "duration_ms": 196389,
+      "name": "100 BOTTLES",
+      "url": "https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr"
+    },
+    {
+      "added_at": "2025-09-23 12:11:54",
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 130615,
       "name": "Damage",
       "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
-    },
-    {
-      "added_at": "2025-09-23 12:11:54",
-      "album": {
-        "name": "Reset The Levels IV",
-        "url": "https://open.spotify.com/album/3dEZIui3bc00F6i1naifeE"
-      },
-      "artists": [
-        {
-          "name": "SFB",
-          "url": "https://open.spotify.com/artist/50mdotNCJ2PcoZiAgsh8dY"
-        }
-      ],
-      "duration_ms": 196389,
-      "name": "100 BOTTLES",
-      "url": "https://open.spotify.com/track/3VAke2ytnjRHsOymqBfhbr"
     },
     {
       "added_at": "2025-09-23 12:11:54",
@@ -811,18 +811,46 @@
     {
       "added_at": "2025-09-23 12:11:54",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
+        "name": "GIOVANNI II",
+        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
         }
       ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
+      "duration_ms": 190387,
+      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
+      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
+    },
+    {
+      "added_at": "2025-09-23 12:11:54",
+      "album": {
+        "name": "Love Doesn't Exist",
+        "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Lusho",
+          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 170269,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
     },
     {
       "added_at": "2025-09-23 12:11:54",
@@ -855,46 +883,18 @@
     {
       "added_at": "2025-09-23 12:11:54",
       "album": {
-        "name": "Love Doesn't Exist",
-        "url": "https://open.spotify.com/album/0TlTVRoWCe48EuS8o5bEYT"
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "Lusho",
-          "url": "https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 170269,
-      "name": "Tiffany",
-      "url": "https://open.spotify.com/track/1Jidj5J8iTH9LdePcv8iDo"
-    },
-    {
-      "added_at": "2025-09-23 12:11:54",
-      "album": {
-        "name": "GIOVANNI II",
-        "url": "https://open.spotify.com/album/54TRy2dAPI0J6Og5seK2MA"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        },
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "TE LAAT (feat. Zo\u00eb Tauran)",
-      "url": "https://open.spotify.com/track/6OVv8zhgdtLhghoX3Jd96H"
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2025-09-23 12:11:54",
@@ -1199,30 +1199,6 @@
     {
       "added_at": "2025-09-23 12:11:54",
       "album": {
-        "name": "Noncha",
-        "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
-      },
-      "artists": [
-        {
-          "name": "Dubbel R",
-          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
-        },
-        {
-          "name": "Jinho 9",
-          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
-        },
-        {
-          "name": "GEM-Z",
-          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Noncha",
-      "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
-    },
-    {
-      "added_at": "2025-09-23 12:11:54",
-      "album": {
         "name": "Baddie",
         "url": "https://open.spotify.com/album/0u9XpTRBvmMooQZokHW7il"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 158927,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/4mgYtnnm01NgTKLlMpF10h"
+    },
+    {
+      "added_at": "2025-09-23 12:11:54",
+      "album": {
+        "name": "Noncha",
+        "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
+      },
+      "artists": [
+        {
+          "name": "Dubbel R",
+          "url": "https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR"
+        },
+        {
+          "name": "Jinho 9",
+          "url": "https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk"
+        },
+        {
+          "name": "GEM-Z",
+          "url": "https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Noncha",
+      "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
     },
     {
       "added_at": "2025-09-23 12:11:54",
@@ -1423,6 +1423,30 @@
     {
       "added_at": "2025-09-23 12:11:54",
       "album": {
+        "name": "Your Season",
+        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Your Season",
+      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
+    },
+    {
+      "added_at": "2025-09-23 12:11:54",
+      "album": {
         "name": "Herinnering",
         "url": "https://open.spotify.com/album/38WasMmT3lcq0EhDJqh9JV"
       },
@@ -1467,30 +1491,6 @@
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
-    },
-    {
-      "added_at": "2025-09-23 12:11:54",
-      "album": {
-        "name": "Your Season",
-        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Your Season",
-      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
     },
     {
       "added_at": "2025-09-23 12:11:54",

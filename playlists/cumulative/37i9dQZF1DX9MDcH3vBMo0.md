@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-842 songs - 1 day 12 hr 34 min
+844 songs - 1 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-04-21 | 2022-09-24 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-21 | 2023-01-21 |
 | [Aurskog](https://open.spotify.com/track/4Xy7g0dikhYyNhdHyzBBr6) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Aurskog](https://open.spotify.com/album/1NdMcghLOelX6u0Mz8smaG) | 2:05 | 2022-04-21 | 2025-03-06 |
+| [Autumn](https://open.spotify.com/track/1xe1wWVugI7TiMcWJ9UZGX) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Autumn](https://open.spotify.com/album/6uRpVcUuIyLvp4ajEkrySG) | 2:26 | 2025-09-24 |  |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-13 | 2025-08-21 |
 | [Avalanche](https://open.spotify.com/track/1kQFxgqG3KcKErQlvH66lz) | [Lucién](https://open.spotify.com/artist/76OnsMFi0V8EsscskTGEch) | [Avalanche](https://open.spotify.com/album/0VG2I88bspS6L3rgcTC3Dm) | 2:16 | 2022-04-21 | 2023-05-04 |
 | [Avignon](https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Avignon](https://open.spotify.com/album/6y7OWImxz4xSyspxzKsLvl) | 2:43 | 2023-09-11 |  |
@@ -580,6 +581,7 @@
 | [Reverence](https://open.spotify.com/track/5q2VSybNASfP0KNdAQRDY8) | [Fouad Elalamy](https://open.spotify.com/artist/6Or9xpEuw1FBRFX6BrVmqQ) | [Reverence](https://open.spotify.com/album/2TjufIYzYzKd17aScCxQMc) | 1:59 | 2022-04-21 | 2022-07-21 |
 | [Reverie](https://open.spotify.com/track/5IifgRe4ed99fgkCbuUIQU) | [R\. York](https://open.spotify.com/artist/4CqaNfV0FxkPOMcQAiyw71) | [Reverie](https://open.spotify.com/album/6PZ32yJJXZk1aPBB6367lf) | 2:16 | 2023-08-14 |  |
 | [Reverie of the Plains](https://open.spotify.com/track/6Jm87c63XEWFJqKrzaArV8) | [Shreyas Murali](https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS) | [Reverie of the Plains](https://open.spotify.com/album/6XERKnx3XcIgMsbgYkGgx9) | 3:21 | 2024-12-11 |  |
+| [Rhodonite](https://open.spotify.com/track/1d12NcFHsjUTkdms3r3xxq) | [alsterdalen](https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06) | [Rhodonite](https://open.spotify.com/album/0Uz6QiIIOBBmLuo5UQil8j) | 2:09 | 2025-09-24 |  |
 | [Ricordarsi](https://open.spotify.com/track/3RuTCzfsjBoat5ZliUAC4a) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ricordarsi](https://open.spotify.com/album/63LrcK9pRwS6QE63iCVurd) | 2:30 | 2022-04-21 | 2022-10-13 |
 | [Riding the wind](https://open.spotify.com/track/4msrNRwWXkGX3qdgOgD0nJ) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Riding the wind](https://open.spotify.com/album/7n2aLPN7oTJNDQ01UexRBn) | 3:21 | 2023-08-29 | 2025-05-31 |
 | [Ripples](https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [Ripples](https://open.spotify.com/album/67aW2j0JJHUh72ixyNytgg) | 2:12 | 2022-04-21 | 2024-02-14 |

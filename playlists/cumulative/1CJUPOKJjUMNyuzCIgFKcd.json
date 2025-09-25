@@ -588,7 +588,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 184309,
       "name": "Are You Still You?",
       "url": "https://open.spotify.com/track/2ez7tCmjZ8p80NmcKofILZ"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 148373,
       "name": "Big Dumb",
       "url": "https://open.spotify.com/track/5FKBPPm9ygxRuzlQhZeVdp"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 209000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto"
@@ -1636,7 +1636,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 225708,
       "name": "Cartel Music",
       "url": "https://open.spotify.com/track/1BQYoHVHCGNZulLyj7yIEP"
@@ -1690,7 +1690,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 126315,
       "name": "Catch Me Outside 2",
       "url": "https://open.spotify.com/track/000zYgBirXxgFkpAXOt0EB"
@@ -2312,7 +2312,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 149711,
       "name": "Diamond Stitching",
       "url": "https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i"
@@ -2428,7 +2428,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 161369,
       "name": "DMV",
       "url": "https://open.spotify.com/track/3wMZYBpKvIOoqPhMfknUoJ"
@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 222236,
       "name": "Do Sum With It - Acoustic",
       "url": "https://open.spotify.com/track/1piFQcpwMnUUEGODTtNm57"
@@ -3223,6 +3223,28 @@
     },
     {
       "album": {
+        "name": "Futurama",
+        "url": "https://open.spotify.com/album/5Mss6W09JmN7SJ9s2N2nDT"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "FSDaBender",
+          "url": "https://open.spotify.com/artist/5pwVPiBR9ywH7eq68QYhr2"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138527,
+      "name": "Futurama",
+      "url": "https://open.spotify.com/track/78XcyzK9SZIy4ptdCxmIRY"
+    },
+    {
+      "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
       },
@@ -3688,7 +3710,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 156277,
       "name": "Great Day",
       "url": "https://open.spotify.com/track/7zGjLN0J7xotEWjri2cqb3"
@@ -3804,7 +3826,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 167181,
       "name": "Havin Or Not",
       "url": "https://open.spotify.com/track/4Ym4cbJ00tor6Ux1zeV4Rl"
@@ -4456,7 +4478,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 202440,
       "name": "I WANNA WIN - from the Short Film \"Red Clay\"",
       "url": "https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi"
@@ -4518,6 +4540,24 @@
       "duration_ms": 126000,
       "name": "ICU",
       "url": "https://open.spotify.com/track/2cmqjBlFLJebc2OUzweGVP"
+    },
+    {
+      "album": {
+        "name": "If Not Me Then Who",
+        "url": "https://open.spotify.com/album/6y6GXxqwsAT6JfiAI3nnLg"
+      },
+      "artists": [
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "If Not Me Then Who",
+      "url": "https://open.spotify.com/track/6R0qahC9Qq3FcaWEvrntbd"
     },
     {
       "album": {
@@ -5100,7 +5140,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 162350,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/56FWrhg5xGC7SmhkdOlCzs"
@@ -5118,7 +5158,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 135944,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/4WqqEI17dnY2UhKrckXyfc"
@@ -5220,6 +5260,28 @@
       "duration_ms": 154174,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/4YjmENUNJrqYe7e8SjX11L"
+    },
+    {
+      "album": {
+        "name": "Locked In",
+        "url": "https://open.spotify.com/album/0TqfAbXE7QPa2mqtaUhKeJ"
+      },
+      "artists": [
+        {
+          "name": "Gavin Magnus",
+          "url": "https://open.spotify.com/artist/2R111dG82I23SltNvwEdeQ"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198787,
+      "name": "Locked In",
+      "url": "https://open.spotify.com/track/4Wl1LMhGKji6GWY9nfP1iq"
     },
     {
       "album": {
@@ -5718,7 +5780,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 215225,
       "name": "Michigander",
       "url": "https://open.spotify.com/track/4pCxraYjIRBL2y0scZQYzj"
@@ -5842,6 +5904,28 @@
       "duration_ms": 163633,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
+    },
+    {
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/46kMFHuPM7lebSmP47lGfA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Powers",
+          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+        },
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/2jo7RsXd2f4TCA7N3mbMZC"
     },
     {
       "album": {
@@ -6030,7 +6114,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 177828,
       "name": "Newly",
       "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
@@ -7176,7 +7260,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 143791,
       "name": "Rucci, I Luv U",
       "url": "https://open.spotify.com/track/7lVmH2y2WwudeVeqSZYd6C"
@@ -7198,6 +7282,28 @@
       "duration_ms": 147547,
       "name": "Runnin' Out",
       "url": "https://open.spotify.com/track/1ZHFRdoknRywefniSsZTWN"
+    },
+    {
+      "album": {
+        "name": "Sake",
+        "url": "https://open.spotify.com/album/6iBmxRTG2X3MmeeyvfA06X"
+      },
+      "artists": [
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176202,
+      "name": "Sake",
+      "url": "https://open.spotify.com/track/11Rny6gcS3koCDu6gKqd6h"
     },
     {
       "album": {
@@ -7398,7 +7504,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 232498,
       "name": "SINS (with Sueco & WesGhost)",
       "url": "https://open.spotify.com/track/2YUrjNtdRSDVR35IBiyLlq"
@@ -7424,7 +7530,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 232498,
       "name": "SINS (with Sueco & WesGhost)",
       "url": "https://open.spotify.com/track/4Uz0FQiuSILrxnDHRcoqun"
@@ -7446,6 +7552,28 @@
       "duration_ms": 161044,
       "name": "Sit Across",
       "url": "https://open.spotify.com/track/5ZUNwltHRjcIBEDV9ulode"
+    },
+    {
+      "album": {
+        "name": "STILL F.L.I.N.T. (Feeling Like I'm Not Through)",
+        "url": "https://open.spotify.com/album/01oWvWv3EpWPyZxrydvdUD"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186818,
+      "name": "Skittle Head",
+      "url": "https://open.spotify.com/track/5MgTt3qjGUhQYS1OPWhnas"
     },
     {
       "album": {
@@ -7958,6 +8086,24 @@
       "duration_ms": 151304,
       "name": "Switchin Lanes (feat. 03 Greedo)",
       "url": "https://open.spotify.com/track/0wgCFCnXaemV1FtCXzwOIf"
+    },
+    {
+      "album": {
+        "name": "Take From You",
+        "url": "https://open.spotify.com/album/5VNxe8Mw9QrFzqXjhO5QUe"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152180,
+      "name": "Take From You",
+      "url": "https://open.spotify.com/track/555PH3Gqv2vWsKIG6KSW81"
     },
     {
       "album": {
@@ -8929,6 +9075,24 @@
     },
     {
       "album": {
+        "name": "WAVES",
+        "url": "https://open.spotify.com/album/3Maum0B9owTJwvKc6JRdSy"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "WAVES",
+      "url": "https://open.spotify.com/track/7vXYRLM5UxGt9s06NOQDlo"
+    },
+    {
+      "album": {
         "name": "Wavy Crete",
         "url": "https://open.spotify.com/album/3DVkH8mqscQXvXizos3RcW"
       },
@@ -9204,7 +9368,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 196341,
       "name": "whoa (mind in awe) - Remix",
       "url": "https://open.spotify.com/track/4lkpfY2wfmHj958Fr32kHS"
@@ -9336,7 +9500,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 224750,
       "name": "Ya Feel Me",
       "url": "https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa"

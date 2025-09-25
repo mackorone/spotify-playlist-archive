@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Angelina Victoria, Alana Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,942 likes - 200 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,930 likes - 200 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,9 +182,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 172 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 |
 | 173 | [Quizás Mañana](https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Quizás Mañana](https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw) | 4:35 |
 | 174 | [3 Consejos](https://open.spotify.com/track/5Vbg1vjwEUpXe81Rs50Ste) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [3 Consejos](https://open.spotify.com/album/0n3NogLDNZRwsU22lD7Q0c) | 3:42 |
-| 175 | [¿Qué Pasó Ayer?](https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Pasó Ayer?](https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy) | 2:55 |
-| 176 | [Te Deseo Mala Suerte](https://open.spotify.com/track/2f2BWdmWveUL1xenbDWnBS) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Te Deseo Mala Suerte](https://open.spotify.com/album/06W9BdP1Ak2N2PljqJwppJ) | 3:31 |
-| 177 | [Malandrona](https://open.spotify.com/track/29OKkDB5pIV90ZMFED3yf6) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH) | [Malandrona](https://open.spotify.com/album/6UGzuaZvX0FnOgaLtpGIMP) | 3:27 |
+| 175 | [Te Deseo Mala Suerte](https://open.spotify.com/track/2f2BWdmWveUL1xenbDWnBS) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Te Deseo Mala Suerte](https://open.spotify.com/album/06W9BdP1Ak2N2PljqJwppJ) | 3:31 |
+| 176 | [Malandrona](https://open.spotify.com/track/29OKkDB5pIV90ZMFED3yf6) | [Karina Sofia](https://open.spotify.com/artist/3WXv6pmtZ28uU298xhTgUH) | [Malandrona](https://open.spotify.com/album/6UGzuaZvX0FnOgaLtpGIMP) | 3:27 |
+| 177 | [¿Qué Pasó Ayer?](https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Pasó Ayer?](https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy) | 2:55 |
 | 178 | [Estoy De Buenas](https://open.spotify.com/track/3ahvUUFTrNI5zNMmLfgHJQ) | [Designo Celestial](https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb) | [Estoy De Buenas](https://open.spotify.com/album/2vX4qKAp8Ha34dG46dbC9v) | 2:15 |
 | 179 | [Un Amor en el Olvido](https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Un Amor en el Olvido](https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R) | 3:02 |
 | 180 | [JGL \(En Vivo\)](https://open.spotify.com/track/4FzRo5Y4DbzFR0fLS8yUj4) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [JGL \(En Vivo\)](https://open.spotify.com/album/4PLBipDpht78qYtb1j7msz) | 2:46 |

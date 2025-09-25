@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,327 likes - 84 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,577 likes - 84 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 |
-| 2 | [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 |
-| 3 | [THE DAY](https://open.spotify.com/track/3iEksEyKQsOGlNfGrLE1wW) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE DAY](https://open.spotify.com/album/50QDgI0tuD3OAZf6MLxBmv) | 4:03 |
-| 4 | [ぼくらの](https://open.spotify.com/track/5GTccPE0uhQz7nN0R1LN0Q) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/2anxMOkcVjThYJI6pSNbUs) | 3:32 |
-| 5 | [Might⁺U](https://open.spotify.com/track/4GNr4odsXMosM24zTfGfJU) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング」オリジナルサウンドトラック](https://open.spotify.com/album/4fjerhn0bTIL7kLJC6nmlP) | 6:29 |
-| 6 | [ピースサイン](https://open.spotify.com/track/5d0vOwEXKjlcb0RWy0EIt6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 |
+| 2 | [THE DAY](https://open.spotify.com/track/3iEksEyKQsOGlNfGrLE1wW) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [THE DAY](https://open.spotify.com/album/50QDgI0tuD3OAZf6MLxBmv) | 4:03 |
+| 3 | [ピースサイン](https://open.spotify.com/track/5d0vOwEXKjlcb0RWy0EIt6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 |
+| 4 | [けっかおーらい \- Kekka Orai](https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [けっかおーらい \- Kekka Orai \- My Hero Academia: Vigilantes Opening Theme Song](https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0) | 2:52 |
+| 5 | [ぼくらの](https://open.spotify.com/track/5GTccPE0uhQz7nN0R1LN0Q) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/2anxMOkcVjThYJI6pSNbUs) | 3:32 |
+| 6 | [Might⁺U](https://open.spotify.com/track/4GNr4odsXMosM24zTfGfJU) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [「僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング」オリジナルサウンドトラック](https://open.spotify.com/album/4fjerhn0bTIL7kLJC6nmlP) | 6:29 |
 | 7 | [Hero too](https://open.spotify.com/track/4TBAgoDz942GFHBVWcapWQ) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/1fHKbCIjvS02qewJqPON44) | 4:18 |
 | 8 | [ポラリス](https://open.spotify.com/track/6drUY5MlA6NpZcpotC7aQP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ポラリス \(Special Edition\)](https://open.spotify.com/album/3DDZz3ervHrqqw5cIb71eF) | 3:44 |
 | 9 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 83 | [Chris takes the world by storm](https://open.spotify.com/track/30sI2fCouCG9RMnDicqpqj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [CC鳴羽田漢気応援団](https://open.spotify.com/artist/1j2RJIb2DyBKbssxMjyqUl) | [Chris takes the world by storm](https://open.spotify.com/album/2bTnTBLJbXFHcjykhk8Bcr) | 1:25 |
 | 84 | [マルカネ百貨店のうた](https://open.spotify.com/track/5kDKh8yFSyrgdw0HrAz2NW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [マルカネキッズ](https://open.spotify.com/artist/1KuRBxi1hTfuWnbx6I0NpL) | [マルカネ百貨店のうた](https://open.spotify.com/album/2wHkMOVhhbwgJDfQhBv8qu) | 0:47 |
 
-Snapshot ID: `AAAAANOIQ0xtJCUzEOspHzAez83p1Euv`
+Snapshot ID: `AAAAAEtw0EqRYHKzoDkL5HP3QtyKtg/J`

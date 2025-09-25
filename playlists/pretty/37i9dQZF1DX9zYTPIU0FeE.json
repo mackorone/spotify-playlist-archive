@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Kujenga",
-  "num_followers": 11910,
+  "num_followers": 11918,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -54,6 +54,10 @@
         {
           "name": "Metropole Orkest",
           "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
         }
       ],
       "duration_ms": 416493,
@@ -535,6 +539,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
+        "name": "The Waters",
+        "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
+      },
+      "artists": [
+        {
+          "name": "Bokang Ramatlapeng",
+          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+        }
+      ],
+      "duration_ms": 302022,
+      "name": "The Waters",
+      "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
         "name": "People of the South",
         "url": "https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd"
       },
@@ -559,18 +579,22 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "The Waters",
-        "url": "https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU"
+        "name": "kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
       },
       "artists": [
         {
-          "name": "Bokang Ramatlapeng",
-          "url": "https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
         }
       ],
-      "duration_ms": 302022,
-      "name": "The Waters",
-      "url": "https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW"
+      "duration_ms": 346924,
+      "name": "kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
     },
     {
       "added_at": "2025-08-29 10:19:41",
@@ -603,26 +627,6 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "kulungile",
-        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        }
-      ],
-      "duration_ms": 346924,
-      "name": "kulungile",
-      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
         "name": "When We Love",
         "url": "https://open.spotify.com/album/6Unyfiu2vf5ylGeSOuQm4S"
       },
@@ -634,6 +638,10 @@
         {
           "name": "Metropole Orkest",
           "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
         }
       ],
       "duration_ms": 338800,
@@ -775,22 +783,6 @@
     {
       "added_at": "2025-08-29 10:19:41",
       "album": {
-        "name": "Sinamanga (uMagebhula)",
-        "url": "https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl"
-      },
-      "artists": [
-        {
-          "name": "Letta Mbulu",
-          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
-        }
-      ],
-      "duration_ms": 245546,
-      "name": "Sinamanga (uMagebhula)",
-      "url": "https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC"
-    },
-    {
-      "added_at": "2025-08-29 10:19:41",
-      "album": {
         "name": "Lullaby for Khayoyo",
         "url": "https://open.spotify.com/album/1DHnHcZeohhtUCN67IOxiB"
       },
@@ -803,6 +795,22 @@
       "duration_ms": 491192,
       "name": "Ezilalini",
       "url": "https://open.spotify.com/track/09hp2WoNDK4HmVL7kTzrHy"
+    },
+    {
+      "added_at": "2025-08-29 10:19:41",
+      "album": {
+        "name": "Sinamanga (uMagebhula)",
+        "url": "https://open.spotify.com/album/3YPdyUJ9F9TJBA9Njlmkjl"
+      },
+      "artists": [
+        {
+          "name": "Letta Mbulu",
+          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
+        }
+      ],
+      "duration_ms": 245546,
+      "name": "Sinamanga (uMagebhula)",
+      "url": "https://open.spotify.com/track/4fZe1x4UfOPqNIZcmtzrAC"
     },
     {
       "added_at": "2025-08-29 10:19:41",

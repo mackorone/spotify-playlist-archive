@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Junior H
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,602,069 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,599,569 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10zKzsJ2jva.md) - [plain]
 | 16 | [POR SUS BESOS](https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [POR SUS BESOS](https://open.spotify.com/album/4cSbE15ekeLLRncLno6AJI) | 3:06 |
 | 17 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |
 | 18 | [Me Mareo](https://open.spotify.com/track/0F1svfSx95E3qDBySn719G) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Me Mareo](https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc) | 2:48 |
-| 19 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 19 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 20 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 |
 | 21 | [OJITOS MENTIROSOS](https://open.spotify.com/track/1MPs1qa830QkHuyAOnaRqe) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [CRISTIAN](https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F) | 2:48 |
 | 22 | [3 AM](https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M) | [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [3 AM](https://open.spotify.com/album/4OxSfLwWBT6u53mD0OeNGw) | 3:16 |

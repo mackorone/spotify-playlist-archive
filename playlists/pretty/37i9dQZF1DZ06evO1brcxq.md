@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 
 > This is Charli xcx\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,015 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,071 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1brcxq.md) - [plain]
 | 49 | [Dirty Sexy Money \(feat\. Charli XCX & French Montana\)](https://open.spotify.com/track/0tPQPaOKM32WgMSbPCYyRH) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Dirty Sexy Money \(feat\. Charli XCX & French Montana\)](https://open.spotify.com/album/613u1KxcevDq5Kd8j0zD2U) | 2:52 |
 | 50 | [You \- Ha Ha Ha](https://open.spotify.com/track/6Eiu7cflRNm6pCSSo1XeE1) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [True Romance](https://open.spotify.com/album/4NUyHY8HwmpjGDdYGpiBtu) | 3:08 |
 
-Snapshot ID: `aNCRgAAAAAD/Ny0PsshIy7SxgcW3CgxB`
+Snapshot ID: `aNHjAAAAAABOR3ux3BT9SB/7JNqUprmi`

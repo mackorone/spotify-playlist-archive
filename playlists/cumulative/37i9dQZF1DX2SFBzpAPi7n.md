@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 국카스텐\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: WOODZ\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,045 songs - 2 day 15 hr 50 min
+1,046 songs - 2 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-19 |  |
 | [DRACULAGIRL](https://open.spotify.com/track/7GbVHPxzSf6exEgkuOaHan) | [Wussami](https://open.spotify.com/artist/5Pvtm8orj8G3ZpQQ3My3mi) | [DRACULAGIRL](https://open.spotify.com/album/4TS8IjpBrSsmDMIoBjOyWC) | 3:39 | 2024-05-28 | 2024-06-06 |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
-| [Dream Bus](https://open.spotify.com/track/46SiQnMkzPXPgnxnr1t5Lr) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv) | 2:41 | 2025-09-18 | 2025-09-24 |
+| [Dream Bus](https://open.spotify.com/track/46SiQnMkzPXPgnxnr1t5Lr) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The DECADE](https://open.spotify.com/album/6X6qxxLabrBzjZZwnUGAiv) | 2:41 | 2025-09-18 |  |
 | [Dream is Beautiful](https://open.spotify.com/track/2JfxzjkeipBe5eik3ExS40) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Dream is Beautiful](https://open.spotify.com/album/6D5YjTjMOZHf9WwVbhekiZ) | 2:14 | 2025-05-07 | 2025-05-09 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 | 2022-06-18 | 2022-06-21 |
@@ -409,7 +409,7 @@
 | [I Guess](https://open.spotify.com/track/0UoSl0jx4wFUEhnXTuTMKM) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [I Guess](https://open.spotify.com/album/7r62nzSWNE1csFdkbeutfz) | 3:38 | 2024-04-22 | 2024-05-10 |
 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-05-11 | 2024-11-07 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2023-01-05 |
-| [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 | 2023-06-13 |  |
+| [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 | 2023-06-13 | 2025-09-25 |
 | [I Loved You](https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG) | 3:54 | 2022-04-22 | 2023-06-07 |
 | [I Need Somebody](https://open.spotify.com/track/0CEPvV1cNMy96bQnPTS3n8) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:38 | 2023-06-13 | 2024-03-21 |
 | [I need you\. Period.](https://open.spotify.com/track/15VRd7FjAd5PVfNp4PRCVR) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [I need you\. Period.](https://open.spotify.com/album/5G1OAVXCe8zYd3Ola0Sfdj) | 3:03 | 2022-04-12 | 2022-07-28 |
@@ -422,6 +422,7 @@
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-01-09 | 2025-05-20 |
 | [I'll Find You](https://open.spotify.com/track/3GHSrN23rQc5qntnr6PtZO) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Snap and Spark \(Original Soundtrack\) Part.1](https://open.spotify.com/album/4xle0IjB9CUNbG9NW8xnWz) | 3:22 | 2024-03-21 | 2024-05-10 |
 | [I'll Love You All The Time](https://open.spotify.com/track/1BOYINiqYpWhrKSbMFen5Q) | [Park So Eun](https://open.spotify.com/artist/20gFWTh2tofhLIjyn2fHeG) | [I'll Love You All The Time \(Art by Tae Hyunyoung\)](https://open.spotify.com/album/3mp2QXg2VvlNSflsQbULAQ) | 2:48 | 2024-04-09 | 2024-05-10 |
+| [I'll Never Love Again](https://open.spotify.com/track/1L00vG2kGAmaAw47GQUNNI) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [I’ll Never Love Again](https://open.spotify.com/album/5DOrTTLwOPyxhwo3AyCRwN) | 3:45 | 2025-09-24 |  |
 | [i'm broken](https://open.spotify.com/track/02XrPzjCjFSY7JHcr0CYfz) | [MEMI](https://open.spotify.com/artist/2IJQZNh2eIR9a21uq494UA) | [i'm broken](https://open.spotify.com/album/4utd1b21BTalR8eHvsfBPL) | 2:34 | 2024-07-30 | 2024-08-13 |
 | [I'MMORTAL \(feat\. sogumm\)](https://open.spotify.com/track/7lNm1tvWp2EEKE6293Iuj8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [I'MMORTAL](https://open.spotify.com/album/6yuKLd2o2NAdlHe7EIRiiM) | 3:55 | 2022-07-04 | 2022-07-09 |
 | [I.L.Y.](https://open.spotify.com/track/3XE1R53gdbfHjLNa8hJ8hr) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/58njxSTVkyBNIuCpAmmAJc) | 3:33 | 2022-07-22 | 2023-01-04 |
@@ -1027,7 +1028,7 @@
 | [zombie pop](https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [DPR ARCHIVES](https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw) | 1:54 | 2024-06-05 | 2024-11-07 |
 | [‎Good Night Good Dream](https://open.spotify.com/track/3s761CQaziQ0GEN1yUkIsG) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [‎Good Night Good Dream](https://open.spotify.com/album/4VLZnvJ9dnuEnF57Pbashc) | 4:25 | 2025-03-17 | 2025-09-10 |
 | [그녀가 날 깨웠다](https://open.spotify.com/track/0ZiqukZrA8LLP4CTA7VSsS) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [독수리 5형제를 부탁해! \(Original Television Soundtrack\) Pt.1](https://open.spotify.com/album/38HdDPMgvczUFfSddkW9R3) | 3:02 | 2025-02-18 | 2025-03-18 |
-| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 |  |
+| [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 | 2022-04-21 | 2025-09-25 |
 | [날 버리지 마요](https://open.spotify.com/track/5NZLKa0BTaxTtIkmeK2Jjs) | [JUROKEY](https://open.spotify.com/artist/59TnLHZJYHwrk51oo4bbVC) | [날 버리지 마요](https://open.spotify.com/album/3l25IElZW7jIlbTD7obUAr) | 4:01 | 2022-04-12 | 2022-04-29 |
 | [낡은 괴담 Cumulus](https://open.spotify.com/track/6SGISb2p5ebnvpRUtIaXlr) | [JUNGWOO](https://open.spotify.com/artist/3tvnuk98r2VOv9ygTK8cjs) | [클라우드 쿠쿠 랜드 Cloud Cuckoo Land](https://open.spotify.com/album/1JsmKt5IsgxgqkIVNsjuuz) | 4:02 | 2023-11-10 | 2023-11-24 |
 | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/track/3iNKeoWEHeOiggDyDUoQ1Z) | [SAGA](https://open.spotify.com/artist/2ZRfFuLggOblc7VecpyL7l) | [내 인생은 영화가 아니니깐 Even if it's not a movie](https://open.spotify.com/album/7HVbI46GN8Aka3KJbJwhVj) | 3:45 | 2022-04-12 | 2022-07-01 |

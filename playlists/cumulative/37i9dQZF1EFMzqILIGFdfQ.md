@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6usZxRd8e7TQwcksnohR1U">Denisia "Blu June" Andrews</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-113 songs - 6 hr 33 min
+114 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [SUMMER RENAISSANCE](https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:33 | 2025-08-02 |  |
 | [Sunday Morning](https://open.spotify.com/track/1bO3GYFQ1ZPXHa1EUtKJlt) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Restoration](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H) | 4:01 | 2025-08-02 |  |
 | [Talk with Your Body](https://open.spotify.com/track/7yPcAO4F6ozQi6lTi3n3Ai) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [2Sides \(Side 1\)](https://open.spotify.com/album/1RaqQTAjpuj7N5GEIA87OC) | 3:08 | 2025-08-02 |  |
+| [Tarantino](https://open.spotify.com/track/3eS2V7HeofOeTXtxfDQbfb) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [NOVA WAV](https://open.spotify.com/artist/0jpR7qZMbdtF352G2icmtM) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:57 | 2025-09-24 |  |
 | [Tattoo \(feat\. Jeremih\)](https://open.spotify.com/track/2A6ToOoGwznmWMhTM64Gud) | [Gillie Da Kid](https://open.spotify.com/artist/467NioAq9fvSiEnANCOGzE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Welcome To Gilladelphia](https://open.spotify.com/album/0AH03qFsdih3raMGNMEpF2) | 3:36 | 2025-08-02 |  |
 | [THANKFUL \(feat\. Lil Wayne & Jeremih\)](https://open.spotify.com/track/5suOUHDyRxvWDYF5GA6dly) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 5:38 | 2025-08-02 |  |
 | [Thriving \(with Nas\)](https://open.spotify.com/track/2c3yj3P8LNuWURaainoOVm) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Thriving](https://open.spotify.com/album/1ogys7HfFlajcpQvNyKFGD) | 3:42 | 2025-08-02 |  |

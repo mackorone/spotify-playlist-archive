@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 852,693 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 852,693 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 97 | [Hold On](https://open.spotify.com/track/5lXbZUPAC0ZPJ2zHRXGEIs) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold On](https://open.spotify.com/album/5rbn4SQx7JVldqUVFqyKBX) | 3:49 |
 | 98 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
 | 99 | [Beggin For Thread](https://open.spotify.com/track/0aPM4KDF9pYJSV2obIDTrk) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Beggin For Thread](https://open.spotify.com/album/01M8H0qhr6KX78GZKtpHeg) | 4:09 |
-| 100 | [Recite Remorse](https://open.spotify.com/track/1lcHu7OTXCRQrlBV4XJiOW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Out in the Storm](https://open.spotify.com/album/66XOr2J6gjRe5vtAxrPPli) | 4:38 |
+| 100 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 |
 
 Snapshot ID: `AAAAAFrIUVkg9VCgTCvBxExtVpI3D064`

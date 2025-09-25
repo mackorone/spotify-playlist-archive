@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > The best in folk & acoustic today featuring music from The Favors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,747,126 likes - 106 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,746,254 likes - 106 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

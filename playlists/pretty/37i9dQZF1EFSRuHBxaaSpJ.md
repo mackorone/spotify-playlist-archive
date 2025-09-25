@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 78 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 78 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 28 | [T'es un marrant \(feat\. Sofiane\)](https://open.spotify.com/track/68mVd6a9VJhCSIjgwB76nK) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Nous\-mêmes](https://open.spotify.com/album/72H8WHsPCwc9MJHLwFRLYk) | 3:22 |
 | 29 | [Calabre](https://open.spotify.com/track/5rI8frugOtlg4W7IqkPTJx) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:00 |
 | 30 | [Juste une minute](https://open.spotify.com/track/2yiIfIO1JYMiXebaBEodWD) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Juste une minute](https://open.spotify.com/album/5qAeplYmzvfI5RQ1Jv0pNf) | 2:57 |
-| 31 | [Corbeau](https://open.spotify.com/track/6peUg2QpVEhwdHigO0i0rS) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 2:36 |
-| 32 | [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 |
+| 31 | [A QUOI TU JOUES](https://open.spotify.com/track/2fAymB6lhuXEQOhIrJZERU) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [MEC DE CITÉ SIMPLE](https://open.spotify.com/album/1VF9TOozMuDyuFU5maRA6M) | 3:03 |
+| 32 | [Corbeau](https://open.spotify.com/track/6peUg2QpVEhwdHigO0i0rS) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Vintage](https://open.spotify.com/album/6tGI9MGbLjbxyzcxYkMXPJ) | 2:36 |
 | 33 | [J'fais la passe](https://open.spotify.com/track/2cQmTZu1GAd89HtnXduE5o) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Les mains faites pour l'or](https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM) | 2:15 |
 | 34 | [Windsor](https://open.spotify.com/track/5etPiS4XnXVIWG4FcRLMgi) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [La Direction](https://open.spotify.com/album/65q2W2g3nvvVN5dGoll3sP) | 3:22 |
 | 35 | [VHR](https://open.spotify.com/track/0YgPC4UQhot3W5WkC1o2jM) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:33 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 77 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 | 78 | [fade up](https://open.spotify.com/track/6VhmOw8lERbTRs1Al7iy2z) | [Eliias](https://open.spotify.com/artist/36hWlixqFk1ZWlJQYaB5To) | [march 29](https://open.spotify.com/album/1DpoTfAnZAEEIqJ4zqcpJG) | 6:32 |
 
-Snapshot ID: `Ab9BngAAAACQzQUvRwwQDmRP1bY/RITe`
+Snapshot ID: `Ab9HKgAAAAAuRKzY1Dqvvpn2cddEgOQC`

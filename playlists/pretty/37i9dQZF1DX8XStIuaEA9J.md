@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Leina
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,966 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,193 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 31 | [カルチャー](https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [カルチャー](https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv) | 2:58 |
 | 32 | [イノセントブルー](https://open.spotify.com/track/5vy2GU5ypxi4DTt8ImfDAP) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [イノセントブルー](https://open.spotify.com/album/1kWmrfi2SEltqcsJ200N44) | 3:23 |
 | 33 | [非常口 逃げてみた](https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [非常口 逃げてみた](https://open.spotify.com/album/59TRLFMumqYTvUagnwi6Zh) | 3:03 |
-| 34 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/6rOuSPIaGpXumNQx1DdM7A), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 |
+| 34 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 |
 | 35 | [Toki Yo Tomare](https://open.spotify.com/track/6VedlO2MtaEjAITax6vQyg) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Toki Yo Tomare](https://open.spotify.com/album/34XoGWHnpRwZZieuoUN6sP) | 3:08 |
 | 36 | [JAM](https://open.spotify.com/track/3UniPj0kRP679t7ubdH95j) | [FRUITS ZIPPER](https://open.spotify.com/artist/4v5IVXt3oH0iNuxW9O36BV) | [JAM](https://open.spotify.com/album/0DC87uyVVeWUdkSiWy60vW) | 4:12 |
 | 37 | [Carrying Happiness](https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Carrying Happiness](https://open.spotify.com/album/3WQY51GZX8ppESRJzWZydP) | 3:42 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 55 | [八月の花火](https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [八月の花火](https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr) | 4:06 |
 | 56 | [I LOVE ME](https://open.spotify.com/track/4EygjytIPL7ZxzgOrBDLQ9) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [I LOVE ME](https://open.spotify.com/album/31rpiuUsAVvAmdQedB9i13) | 3:31 |
 | 57 | [イオ](https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [イオ](https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV) | 3:03 |
-| 58 | [delulu](https://open.spotify.com/track/3zhCjzd8GO8vy4724tLTk7) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [delulu](https://open.spotify.com/album/7kJLxc5uuoBEJIGrijIpSA) | 2:45 |
+| 58 | [delulu](https://open.spotify.com/track/3zhCjzd8GO8vy4724tLTk7) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [delulu](https://open.spotify.com/album/7kJLxc5uuoBEJIGrijIpSA) | 2:45 |
 | 59 | [君がいない夏](https://open.spotify.com/track/0qeYpnxFl8W5mnLDh4bc1K) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd) | [君がいない夏](https://open.spotify.com/album/0d5ads9pTO5nhZKTxegmGX) | 2:38 |
 | 60 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
 | 61 | [君がいたから](https://open.spotify.com/track/28wjCqjicbFcgfMNGA7EsB) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [君がいたから](https://open.spotify.com/album/4TwakbcNQbU01GtBcnHobj) | 4:00 |

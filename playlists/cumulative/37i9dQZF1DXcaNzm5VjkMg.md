@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-179 songs - 12 hr 3 min
+180 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,9 +54,9 @@
 | [Cintanya Aku](https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Cintanya Aku](https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4) | 3:54 | 2023-05-05 |  |
 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 | 2023-02-03 |  |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2023-02-03 |  |
-| [Denganmu Saja](https://open.spotify.com/track/4omzwua07r446XUkL5wWZd) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Denganmu Saja](https://open.spotify.com/album/75j86bk7gv09xfjMk0vbxS) | 3:32 | 2025-06-30 |  |
+| [Denganmu Saja](https://open.spotify.com/track/4omzwua07r446XUkL5wWZd) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Denganmu Saja](https://open.spotify.com/album/75j86bk7gv09xfjMk0vbxS) | 3:32 | 2025-06-30 | 2025-09-25 |
 | [Dermaga](https://open.spotify.com/track/4oHgB9OGBdQ0uVmWKQmiQh) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 2:52 | 2024-02-13 | 2024-09-28 |
-| [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 | 2023-02-03 |  |
+| [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 | 2023-02-03 | 2025-09-25 |
 | [Dia Dia Dia](https://open.spotify.com/track/7htWuazarn407jLZTQZp8P) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 4:26 | 2024-09-09 |  |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2023-02-03 | 2025-01-08 |
 | [Film Favorit](https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Film Favorit](https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI) | 3:43 | 2023-02-03 | 2025-07-01 |
@@ -134,6 +134,7 @@
 | [Pesona Sederhana](https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Rahasia Pertama](https://open.spotify.com/album/46Vu60ForvCqH8L7l9X6BP) | 4:15 | 2025-05-23 |  |
 | [Pilihanku](https://open.spotify.com/track/3puYuuZ7lmlTjIgXBOT01k) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Mata Hati Telinga](https://open.spotify.com/album/1DynZXJq0QLlWT4LYLBDxC) | 3:26 | 2023-02-03 |  |
 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 | 2025-02-18 | 2025-07-28 |
+| [Rangga Cinta \- Theme Song ‘Rangga & Cinta’](https://open.spotify.com/track/0GiGo39NNQJQF4JoMCSR0L) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Rangga Cinta \(Theme Song ‘Rangga & Cinta’\)](https://open.spotify.com/album/4kOgoaeUZgZ3QqpxKDB10g) | 3:58 | 2025-09-24 |  |
 | [Rasa Cinta Ini](https://open.spotify.com/track/14MjoIPXq5fzD842t0JoW7) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/61WF65JIOXqQiYelyDttH6) | 4:01 | 2023-02-03 |  |
 | [Rasa Cinta Ini](https://open.spotify.com/track/6zxacya3lkUHMT7wmbIioe) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Rasa Cinta Ini](https://open.spotify.com/album/7G0jQf7djccY6OsKIPu3Df) | 4:01 | 2023-09-20 | 2024-04-19 |
 | [Remaja](https://open.spotify.com/track/1SaQZoFXNu7ZAxxKImzFgf) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4JJsEIGWQzfjAgWiUEkuot) | 3:38 | 2024-03-05 |  |

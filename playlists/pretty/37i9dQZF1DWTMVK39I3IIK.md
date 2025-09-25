@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Rosa
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,015 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,017 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 33 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
 | 34 | [Mig Og Min Mund](https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Mig Og Min Mund](https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q) | 2:39 |
 | 35 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 |
-| 36 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
-| 37 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 |
+| 36 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 |
+| 37 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
 | 38 | [Hvad Med Mig](https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [August](https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb) | 3:15 |
-| 39 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 |
-| 40 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 |
-| 41 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
+| 39 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 |
+| 40 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
+| 41 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 |
 | 42 | [Alt hvad jeg vil](https://open.spotify.com/track/7LXkZBJYXjXIYCV9sUpNNk) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Alt hvad jeg vil](https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF) | 3:44 |
 | 43 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
 | 44 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
@@ -60,21 +60,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 50 | [shout pillow](https://open.spotify.com/track/6LIx9hdE9SszNPuKTKbMZ5) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [shout pillow](https://open.spotify.com/album/6yi8WNTeuH4sIPH8uC01YG) | 2:21 |
 | 51 | [Fanget I En Drøm](https://open.spotify.com/track/5Rcg7mmHGUOWkamTtNPcqF) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [Fanget I En Drøm](https://open.spotify.com/album/2pOjJniIhmpX8ykHxphdq4) | 2:52 |
 | 52 | [Møntvask](https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP) | [Magnus Ø](https://open.spotify.com/artist/6Nnv81bjs2w1KkRv4eTTnM) | [Møntvask](https://open.spotify.com/album/08bOXvVbQVvTeKEx5Wk1Ts) | 3:06 |
-| 53 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
-| 54 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 |
+| 53 | [Orbit](https://open.spotify.com/track/4x7YiQYxBpt6RemIT6372c) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Orbit](https://open.spotify.com/album/25qf6Zr2SvpWVMK8MJTXb1) | 3:01 |
+| 54 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
 | 55 | [Deep Waters](https://open.spotify.com/track/747c4oOEq9CG037CUWnz0x) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Deep Waters](https://open.spotify.com/album/137GJAREvB0f5PFfqz4V4V) | 2:36 |
-| 56 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
-| 57 | [Orbit](https://open.spotify.com/track/4x7YiQYxBpt6RemIT6372c) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Orbit](https://open.spotify.com/album/25qf6Zr2SvpWVMK8MJTXb1) | 3:01 |
+| 56 | [Sang Til Min Far](https://open.spotify.com/track/2kdls3MvCeKeFPPoUbiYeJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 3:02 |
+| 57 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 58 | [Waiting For You](https://open.spotify.com/track/3wpw0J3SJBAKsmqyXKOPuF) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Waiting For You](https://open.spotify.com/album/1HATJl1qtSHJlHv6W4QGUf) | 2:48 |
 | 59 | [Mi Amor](https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx) | [Sira Jovina](https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat) | [Før Jeg Falder](https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9) | 3:16 |
-| 60 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 |
+| 60 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
 | 61 | [Words for Myself](https://open.spotify.com/track/0n0iTPcp4RMXnVN6ZdEEGe) | [Anna Frank](https://open.spotify.com/artist/1RCtH6n7rYymOrMvbX84xg) | [Words for Myself](https://open.spotify.com/album/4YDcP1HZt5vETOWs765m3Z) | 2:10 |
-| 62 | [Lige så fucked som mig](https://open.spotify.com/track/4UFwMCiQUEgF9JgKSsa0Mu) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Lige så fucked som mig](https://open.spotify.com/album/6hVpbms2YycDjkvHTSagOk) | 2:30 |
+| 62 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 |
 | 63 | [Umuligt](https://open.spotify.com/track/6GvrPOSi3CY8KheFJUDut1) | [Patrick Walshe](https://open.spotify.com/artist/6VsOjOgVAXMu9fSW0dfOcK) | [Umuligt](https://open.spotify.com/album/3TPz2AgCsz93zXpiuNKeiI) | 3:06 |
-| 64 | [Bottle Up This Feeling](https://open.spotify.com/track/7pw1Ujw5bjKTbUDD78NkpO) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Bottle Up This Feeling](https://open.spotify.com/album/5mwtSY7y89IMj7GucE6wvv) | 3:01 |
-| 65 | [Rødt Flag](https://open.spotify.com/track/1VjZ7NI007heu9eEIJmSpC) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Rødt Flag](https://open.spotify.com/album/53PoYW0S0j9fmhcMiRixwP) | 2:27 |
+| 64 | [Playthings](https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Playthings](https://open.spotify.com/album/6oGQ1rRG79hWXJefN2CaEJ) | 3:09 |
+| 65 | [Fri](https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Fri](https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy) | 2:47 |
 | 66 | [Den Lykkelige Ungdom](https://open.spotify.com/track/1AL7r6OKkjW77eRDaTZsSI) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Den Lykkelige Ungdom](https://open.spotify.com/album/3fJ3oOrnnde9HHFCzu0xfo) | 2:43 |
-| 67 | [Fri](https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Fri](https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy) | 2:47 |
+| 67 | [Bottle Up This Feeling](https://open.spotify.com/track/7pw1Ujw5bjKTbUDD78NkpO) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Bottle Up This Feeling](https://open.spotify.com/album/5mwtSY7y89IMj7GucE6wvv) | 3:01 |
 | 68 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 |
 | 69 | [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 |
 | 70 | [Telescope](https://open.spotify.com/track/4yLfFqD4kOleS79GibMyhj) | [Sophia Fredskild](https://open.spotify.com/artist/15edqA39JeSpGB7skxqcNz) | [Telescope](https://open.spotify.com/album/1HfHyICQbF212PG2cdPj6d) | 3:17 |

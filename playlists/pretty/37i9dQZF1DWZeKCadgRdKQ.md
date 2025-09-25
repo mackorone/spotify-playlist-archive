@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,819,915 likes - 173 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,819,906 likes - 173 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 172 | [fall deeply](https://open.spotify.com/track/43SiqHE5XFhQxAwcVOZi6v) | [Harry Bloom](https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja) | [fall deeply](https://open.spotify.com/album/1svuLX2RUD1PBzLzIVwHj5) | 2:48 |
 | 173 | [Etherea](https://open.spotify.com/track/0DGp9OO9aUgYtBrmpSTewL) | [Lumen Atlas](https://open.spotify.com/artist/0vDZe8eJxdzdC8EbJRjbKx) | [Etherea](https://open.spotify.com/album/3BkxwKuNs5yZ23c8KTNXqy) | 1:58 |
 
-Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`
+Snapshot ID: `AAAAABA//46Qu8TiGsyy7XplEYLohHPN`

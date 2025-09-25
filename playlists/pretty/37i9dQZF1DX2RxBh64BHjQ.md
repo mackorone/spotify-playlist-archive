@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1alf4P7GDe5aNpALBzWIGf">Zeddy Will</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,777,368 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,776,590 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

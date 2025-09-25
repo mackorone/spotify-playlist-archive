@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,299 likes - 579 songs - 1 day 16 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,301 likes - 579 songs - 1 day 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 118 | [When Your Eyes Say It](https://open.spotify.com/track/30hSG0Is8yOGkFQtF20Lxu) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 4:29 |
 | 119 | [The Time Alone With You](https://open.spotify.com/track/4qVzqyB11x7Rsk2hAs5dgj) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [BACKLASH](https://open.spotify.com/album/0AoG5TUFJKiWG8JNhOTIw0) | 4:40 |
 | 120 | [Don't Take Away My Heaven](https://open.spotify.com/track/1cn5Mwu4U4b7JFxIVFWlKj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Grand Tour](https://open.spotify.com/album/244kealm5K00bfuRFlolwF) | 4:40 |
-| 121 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
-| 122 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
+| 121 | [All I Want Is Forever](https://open.spotify.com/track/6lUfWjM1Gw4dWt5Ro2rHE0) | [Regina Belle](https://open.spotify.com/artist/3J9tQvcK0bY3CcVcgRELxH) | [Stay With Me](https://open.spotify.com/album/3rQZT5l3PZVv100H8zH32U) | 4:31 |
+| 122 | [Bruised But Not Broken](https://open.spotify.com/track/5mxBzblbenmVm7C6wh5ulc) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Introducing Joss Stone](https://open.spotify.com/album/3VD9HPEpnbbNMIg05avkIk) | 4:15 |
 | 123 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
 | 124 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 125 | [Rocket](https://open.spotify.com/track/36dvcjzeono5E1n2hqRJpZ) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:15 |
@@ -200,7 +200,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 190 | [Cuando Seas Mia \- Balada Version](https://open.spotify.com/track/0YOnVfmFFSQ1jcIMD0Oszw) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Purest of Pain](https://open.spotify.com/album/27K2So5UHlOBnCPzrPDN2j) | 3:35 |
 | 191 | [No Living Without Loving You](https://open.spotify.com/track/5lRALu97xWoZws3ZUl84wx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:22 |
 | 192 | [What We Leave Behind](https://open.spotify.com/track/1hSC6vWh3Rzkn9JSWicerC) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Miss You Already \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OJEishIRloK73nEQ5y8Eh) | 3:12 |
-| 193 | [Emotional Fire](https://open.spotify.com/track/4kQrlvq96vwdZx1OwOTaNS) | [Denise](https://open.spotify.com/artist/0c2b43v45DAQa34Xbzbx7H) | [Emotional Fire](https://open.spotify.com/album/3lyRFZvFmRFxMfAoiYyz1S) | 5:36 |
+| 193 | [Emotional Fire \- Extended Remastered](https://open.spotify.com/track/45piW5hgUmj0wQJRxmzgFM) | [Denise](https://open.spotify.com/artist/4IhfYc5fG1itC02swMmUpo) | [Eurobeat Masters \- Remastered Vol.1](https://open.spotify.com/album/2c0ZSguh39wwivjEpim3gV) | 5:36 |
 | 194 | [Refugio De Amor \(You Are My Home\) \- Salsa](https://open.spotify.com/track/1RqKtxUtUC7niG3ob60jkV) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne Fan's Pack \- Tiempo De Vals/Volver A Nacer/Atado A Tu Amor](https://open.spotify.com/album/4Uq8uQ70aZEXmyn4a3EnDZ) | 5:28 |
 | 195 | [You Pulled Me Through](https://open.spotify.com/track/20wlQCBAmNzKw7hRJ7eQR1) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/2keYz2u0j1QdnZw2z88kXp) | 3:39 |
 | 196 | [I Bow Out](https://open.spotify.com/track/2VgaALs0kKa9EG76A7T7uB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:29 |
@@ -573,8 +573,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 563 | [Why Did You Stop Loving Me](https://open.spotify.com/track/2HibyaLoexsEzWr94mmp6Z) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Friday Night Forever](https://open.spotify.com/album/16LeE3kIE3aocqAp8aVxZH) | 3:28 |
 | 564 | [Saddest Song \- Leigh Bros Remix](https://open.spotify.com/track/1Spc7zWfB3hEumoxMoxnRy) | [Cherry](https://open.spotify.com/artist/2Wmsee5wZmPkrf9UEhYWwf), [The Leigh Brothers](https://open.spotify.com/artist/6H0oPL7VK46FUy3FuIOuP4) | [Saddest Song](https://open.spotify.com/album/7MybEbWCjSKVKPt2TSymYL) | 3:49 |
 | 565 | [Stand in the Fire](https://open.spotify.com/track/2yO7ZmuxCUsRlFt4KFKyAZ) | [Eric Thomas](https://open.spotify.com/artist/5URFLvsIMbJIqmQL36FmvW) | [Varnell Road](https://open.spotify.com/album/0aMt1oxaPk8NRkxWXknRzW) | 5:34 |
-| 566 | [You Already Did](https://open.spotify.com/track/1Mi40Eqg8WPLBIlO0bJewF) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 3:34 |
-| 567 | [S'aimer encore une fois](https://open.spotify.com/track/4esy8ec098swSvnaD4NaOM) | [Katee Julien](https://open.spotify.com/artist/79W4oQHcr998HPwQgh2vKo) | [Avec un peu d'amour](https://open.spotify.com/album/1YCBKHSg10udpZh6m8rb6p) | 3:49 |
+| 566 | [S'aimer encore une fois](https://open.spotify.com/track/4esy8ec098swSvnaD4NaOM) | [Katee Julien](https://open.spotify.com/artist/79W4oQHcr998HPwQgh2vKo) | [Avec un peu d'amour](https://open.spotify.com/album/1YCBKHSg10udpZh6m8rb6p) | 3:49 |
+| 567 | [You Already Did](https://open.spotify.com/track/1Mi40Eqg8WPLBIlO0bJewF) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 3:34 |
 | 568 | [U Can't Touch Me](https://open.spotify.com/track/0P27OQSKL8qb9PYnLOlWoJ) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Makin' My Way](https://open.spotify.com/album/4I2owAJAzxjTlCSQe7R8DP) | 3:33 |
 | 569 | [Don't Let My Heart Know](https://open.spotify.com/track/5rXmlyAvnaiWXbpesEHfMQ) | [Francisca](https://open.spotify.com/artist/5sVP7wbwGugD3vMykfphvR) | [Don't Let My Heart Know](https://open.spotify.com/album/15BrMsfVWURifTllaooGm0) | 4:02 |
 | 570 | [Near Tears](https://open.spotify.com/track/3BckixWt4C5JzkQDwiuCWF) | [Shonagh Daly](https://open.spotify.com/artist/6wqDlvHjAeY7c2xcicYtOW) | [Beautiful View](https://open.spotify.com/album/5EV44TP5xKl5FcjU54O9Te) | 4:15 |
@@ -588,4 +588,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 578 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 579 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab9BngAAAADpeW6zFpg47c2nv82bK29p`
+Snapshot ID: `Ab9HKgAAAABpm4+EAIws/0Ey9yAOHH+V`

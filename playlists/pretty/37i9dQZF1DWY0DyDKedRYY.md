@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > Celebrate 1000 RADAR artists by listening to some of the top most streamed RADAR artists from the USA! Cover: Doechii
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,468 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,372 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 69 | [Blow My High](https://open.spotify.com/track/0ggZa32DkUm36cMBAW2Gsy) | [Dee Mula](https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY) | [Blow My High](https://open.spotify.com/album/6mdhlpDi9DJPNnJnJaWO0z) | 2:29 |
 | 70 | [Young Black & Rich](https://open.spotify.com/track/2QWin1zM9hxG9zsApuIvso) | [Melly Mike](https://open.spotify.com/artist/16eXn6niv96hqDHgmK6E1M) | [Young Black & Rich](https://open.spotify.com/album/4So2lxknlUUwSVMaPuU1XV) | 2:35 |
 
-Snapshot ID: `AAAAAJt9qKm53ZxL7cTbUXm0g2I0Yawx`
+Snapshot ID: `AAAAAH27JtM1o7WMxh3Y9+Uzv1N1UdU2`

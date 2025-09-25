@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847 likes - 128 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 128 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 81 | [Dreams](https://open.spotify.com/track/7gBGGzKWbtmV7IsyFSPVBj) | [MARC](https://open.spotify.com/artist/7tRXG934ruoJ3SAKzCa5ap) | [Dreams](https://open.spotify.com/album/3eQbaZi6NMNuThITpVfC9r) | 3:20 |
 | 82 | [phones in heaven](https://open.spotify.com/track/7vGaC9ntTMniIqdBeu1h6m) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:17 |
 | 83 | [Lifted](https://open.spotify.com/track/55sYZhDj9Ty9PTSLt3Ul9I) | [Joy Club](https://open.spotify.com/artist/2pl0xmKbMZHncAxBcYUs79), [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45) | [Lifted](https://open.spotify.com/album/31QmA5V5UbFNiiurEKoaCY) | 2:47 |
-| 84 | [you wore it better](https://open.spotify.com/track/487GiEQ1NhLnAVSMcEzfdu) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 1:56 |
-| 85 | [Melody](https://open.spotify.com/track/6cTXUjWG4QUUSivqrthXRc) | [Basic Tape](https://open.spotify.com/artist/6EzGm3fYBR8QcdIZ0xvHsl) | [Melody](https://open.spotify.com/album/1BwYTc2Gh3MLmoPjIQwid8) | 3:04 |
-| 86 | [Mileage](https://open.spotify.com/track/383mModrtYVJGJATvHUBgw) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:37 |
-| 87 | [Before You Break My Heart](https://open.spotify.com/track/0atnyfHKI3hGD75pts9FCY) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:16 |
+| 84 | [Before You Break My Heart](https://open.spotify.com/track/0atnyfHKI3hGD75pts9FCY) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:16 |
+| 85 | [you wore it better](https://open.spotify.com/track/487GiEQ1NhLnAVSMcEzfdu) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 1:56 |
+| 86 | [Melody](https://open.spotify.com/track/6cTXUjWG4QUUSivqrthXRc) | [Basic Tape](https://open.spotify.com/artist/6EzGm3fYBR8QcdIZ0xvHsl) | [Melody](https://open.spotify.com/album/1BwYTc2Gh3MLmoPjIQwid8) | 3:04 |
+| 87 | [Mileage](https://open.spotify.com/track/383mModrtYVJGJATvHUBgw) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:37 |
 | 88 | [Catching Feelings](https://open.spotify.com/track/3T43QRIbWVeheG5PK1qRU7) | [Sam Sure](https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd) | [Catching Feelings \- EP](https://open.spotify.com/album/2fWdTO8Pv4UY5vu6zQP85e) | 3:22 |
 | 89 | [Autopilot](https://open.spotify.com/track/5LnfaCLBIPBtf8qECZbBaR) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 3:02 |
 | 90 | [Off Days](https://open.spotify.com/track/3cyTJ6e9s2JLuOgL3nY8Fb) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Off Days](https://open.spotify.com/album/3ExLiwDPx664c2RqWJbqNr) | 2:49 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 127 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 128 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Ab9BngAAAACWu7RxkhDcsx/ywjKkUJNh`
+Snapshot ID: `Ab9HSAAAAADWH6xtG9fiIg3fJflbQBb9`

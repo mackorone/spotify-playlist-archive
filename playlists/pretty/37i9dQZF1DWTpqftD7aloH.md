@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,594 likes - 120 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,765 likes - 120 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 91 | [Tu És Tudo o Que Tenho \(Pérola\) \- Ao Vivo](https://open.spotify.com/track/7q6CvkclvT3rSlWXca7LQs) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Tu És Tudo o Que Tenho \(Pérola\) \[Ao Vivo\]](https://open.spotify.com/album/5B1d2x08IoqTMFB1dv714z) | 6:54 |
 | 92 | [Tua Presença](https://open.spotify.com/track/5S60Kq1JeWRuIit3tLQHdM) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Tua Presença](https://open.spotify.com/album/1imz0t2ampTGxZRKCLTmFc) | 4:01 |
 | 93 | [Fogo em Teus Olhos \- Ao Vivo em São Paulo](https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Fogo em Teus Olhos \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0) | 6:18 |
-| 94 | [Teus Altares \- Ao Vivo](https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT) | [Poiema Music](https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf), [André Brisa](https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Teus Altares \(Ao Vivo\)](https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH) | 8:17 |
-| 95 | [Verdadeira Adoração \- Ao Vivo](https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE) | [Vitória Lima](https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Verdadeira Adoração \(Ao Vivo\)](https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek) | 6:07 |
+| 94 | [Verdadeira Adoração \- Ao Vivo](https://open.spotify.com/track/6NiC5J44xmSx5khpYTs0pE) | [Vitória Lima](https://open.spotify.com/artist/3gLt37xxZ7gMhLeoymcJeW), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Verdadeira Adoração \(Ao Vivo\)](https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek) | 6:07 |
+| 95 | [Teus Altares \- Ao Vivo](https://open.spotify.com/track/0iN5UdqsMdOV1ODLrTYyLT) | [Poiema Music](https://open.spotify.com/artist/3J1DPzxFle820jJFvkSrvf), [André Brisa](https://open.spotify.com/artist/4g9ah8x2P5IsRUHCcLAoun), [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Teus Altares \(Ao Vivo\)](https://open.spotify.com/album/4VUyhWsEBtbEWYLLoYDLRH) | 8:17 |
 | 96 | [Deus de Milagres \- Ao Vivo](https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Deus de Milagres \(Ao Vivo\)](https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9) | 5:48 |
 | 97 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 |
 | 98 | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn) | 4:40 |

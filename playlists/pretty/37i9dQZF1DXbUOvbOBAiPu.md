@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Cardi B, RAYE, Lola Young, RORI and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,975 likes - 89 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,973 likes - 89 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

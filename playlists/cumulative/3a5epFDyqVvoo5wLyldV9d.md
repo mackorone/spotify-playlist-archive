@@ -4,7 +4,7 @@
 
 > 
 
-876 songs - 2 day 20 hr 56 min
+877 songs - 2 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 | 2021-04-03 |  |
 | [Esperanca](https://open.spotify.com/track/4UnwCd0Oesil0d0znEEcc9) | [Sun of Cap](https://open.spotify.com/artist/4LTf9gyGhSEQIkQOQWq6RM) | [Maldita](https://open.spotify.com/album/6x8roNzupHGF8tJvcINqhT) | 5:47 | 2023-02-23 |  |
 | [Esperar Pra Ver](https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 | 2022-12-12 |  |
+| [Estar Contigo](https://open.spotify.com/track/0Ojk6tqu4lfyi0nHRiBOc0) | [Grupo Old Memories](https://open.spotify.com/artist/0Z8t8k8S05sNuHoJLCMyiS) | [Old Memories Vol.10](https://open.spotify.com/album/7ETTlr6Gc7waoujn9t3uRT) | 2:28 | 2025-09-24 |  |
 | [Estate](https://open.spotify.com/track/55mCj2LMr3csP88djkFpPN) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 6:27 | 2023-06-20 |  |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2018-01-07 |  |
 | [Estrelar](https://open.spotify.com/track/1yGT0xQgQrX28HGdDxAljo) | [Os Flippers](https://open.spotify.com/artist/3DBxwSzgvdADCcI9SjxtWp) | [Mr\. Bongo Record Club, Vol\. 3 \(Compiled by Mr\. Bongo\)](https://open.spotify.com/album/2W50X23ZpQrRbclikWVrdK) | 2:01 | 2021-03-09 |  |

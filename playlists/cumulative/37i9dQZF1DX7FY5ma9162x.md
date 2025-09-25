@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: kwn
 
-666 songs - 1 day 13 hr 6 min
+667 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [gold fronts \(feat\. Lil Wayne\)](https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub) | 3:55 | 2022-04-01 | 2022-04-26 |
 | [Gonna Love Me](https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 2:46 | 2023-04-27 |  |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2022-03-11 |  |
-| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2024-02-02 |  |
+| [Good Good](https://open.spotify.com/track/0J1YRLYhTG1MBosjidD7OI) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Good Good](https://open.spotify.com/album/42dnGUpj3OEU4anDNW69j3) | 4:07 | 2024-02-02 | 2025-09-25 |
 | [Good Love \(feat\. Tory Lanez\)](https://open.spotify.com/track/0MET90crciVlxlE07ub7Rn) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Good Love](https://open.spotify.com/album/7pzJo7BRoSanlNNHUWHU0M) | 3:12 | 2022-04-01 | 2022-04-20 |
 | [Good Morning Gorgeous](https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc) | 2:54 | 2022-04-01 | 2022-04-21 |
 | [Goodbyes \(Feat\. Young Thug\)](https://open.spotify.com/track/6vBdBCoOhKHiYDDOcorfNo) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Goodbyes \(Feat\. Young Thug\)](https://open.spotify.com/album/4FFBjcmX06VmazABtpRMyv) | 2:54 | 2022-04-01 | 2022-04-16 |
@@ -301,6 +301,7 @@
 | [Insecure](https://open.spotify.com/track/5ChrCVSERccPyn3p2Clsum) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Insecure](https://open.spotify.com/album/6x4dhOka4HVr9hmXgQhWA9) | 3:08 | 2022-07-15 | 2022-07-29 |
 | [Intimidated \(feat\. H.E.R.\)](https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Intimidated](https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g) | 3:27 | 2022-09-16 | 2024-04-19 |
 | [Irrational \(feat\. Adekunle Gold\) \- Remix](https://open.spotify.com/track/5gCImzpv57IJp9oEFrCKQf) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Irrational \(feat\. Adekunle Gold\) \[Remix\]](https://open.spotify.com/album/33poJ8nmV0JbkmgmzTL6sC) | 3:50 | 2022-04-01 | 2022-04-20 |
+| [Is It a Crime](https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Is It a Crime](https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci) | 3:01 | 2025-09-24 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-04-29 |  |
 | [Island](https://open.spotify.com/track/0MixyrdAgx7kW8bRMgNlf8) | [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Island](https://open.spotify.com/album/6LCDzwjkua6GHdt9niRW3k) | 3:29 | 2022-04-01 | 2022-04-21 |
 | [JACKIE BROWN](https://open.spotify.com/track/2IlT65thKQQw248mhk2PjQ) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:49 | 2023-08-25 |  |

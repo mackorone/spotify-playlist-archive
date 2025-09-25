@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 153966,
+  "num_followers": 153997,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-09-02 20:18:55",
       "album": {
+        "name": "Nothing We Say - EP",
+        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
+      },
+      "artists": [
+        {
+          "name": "Courtney Hartman",
+          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Nothing We Say",
+      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
+    },
+    {
+      "added_at": "2025-09-02 20:18:55",
+      "album": {
         "name": "California Calling",
         "url": "https://open.spotify.com/album/1RR6o1mYDjmZDZZvE75KFi"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 241373,
       "name": "The Low Hum",
       "url": "https://open.spotify.com/track/2VnR0EzbyFApMflT0xrcuD"
-    },
-    {
-      "added_at": "2025-09-02 20:18:55",
-      "album": {
-        "name": "Nothing We Say - EP",
-        "url": "https://open.spotify.com/album/5iHIUbynfBik6g0Ik3zhl7"
-      },
-      "artists": [
-        {
-          "name": "Courtney Hartman",
-          "url": "https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Nothing We Say",
-      "url": "https://open.spotify.com/track/2IoUZxXF26o9NIiYmfw34d"
     },
     {
       "added_at": "2025-09-02 20:18:55",

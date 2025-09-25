@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 17 | [Thought About That](https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Thought About That](https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL) | 3:19 |
 | 18 | [Fire](https://open.spotify.com/track/1XTzKHCFNpATrGfOrWDDDn) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [The Arrival](https://open.spotify.com/album/1OTee7Y96zHrodzEmflRVe) | 2:28 |
 | 19 | [How Many](https://open.spotify.com/track/440pK11VCjuuMYcXKBIbHE) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [How Many](https://open.spotify.com/album/5sLmAqE2kT2AUi695gy8g6) | 2:49 |
-| 20 | [Backfire](https://open.spotify.com/track/4cMBFU3ZjlbscquikM8sM7) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Backfire](https://open.spotify.com/album/71OOJwnxEHDkb1JYVUp3js) | 3:04 |
-| 21 | [CLEO](https://open.spotify.com/track/6K7f7IQm4shmQVtvizFTFw) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [CLEO](https://open.spotify.com/album/2gRjWGznX1WuVOynDvsrXS) | 2:38 |
+| 20 | [CLEO](https://open.spotify.com/track/6K7f7IQm4shmQVtvizFTFw) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [CLEO](https://open.spotify.com/album/2gRjWGznX1WuVOynDvsrXS) | 2:38 |
+| 21 | [Backfire](https://open.spotify.com/track/4cMBFU3ZjlbscquikM8sM7) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Backfire](https://open.spotify.com/album/71OOJwnxEHDkb1JYVUp3js) | 3:04 |
 | 22 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
 | 23 | [Honestly](https://open.spotify.com/track/19gGwhwaQUK2aQbJ03YMOo) | [Madison Bailey](https://open.spotify.com/artist/6zKQkyAftzejXrwviDjz1S) | [Honestly](https://open.spotify.com/album/3QJXbQQdY1lGrbrDfTMlJF) | 2:53 |
 | 24 | [Sun Maahi \(English Version\)](https://open.spotify.com/track/6NS5xZR94aGMVIw3MEmclz) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Sun Maahi \- The EP](https://open.spotify.com/album/4KjwbIbL7Wjcx1IiNDMRbh) | 2:51 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 130 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 131 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab9BngAAAAB72jdm3gCvXZ5al7/bzqUB`
+Snapshot ID: `Ab9HKgAAAACCWPC2+8vnkv8xduc/jFy4`

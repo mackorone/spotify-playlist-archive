@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "1.5 Degrees Celsius",
+        "url": "https://open.spotify.com/album/3XawO2TcYzEu4DNjaCVp8P"
+      },
+      "artists": [
+        {
+          "name": "Arun VT",
+          "url": "https://open.spotify.com/artist/1CJDeOUBqGYcXK9SFarXLf"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "1.5 Degrees Celsius",
+      "url": "https://open.spotify.com/track/7KS0KVnkBTKuchxom6qHcE"
+    },
+    {
+      "album": {
         "name": "170CM from Think Indie",
         "url": "https://open.spotify.com/album/0qi3yuIvmsXAQr2V5GBr7H"
       },
@@ -2096,6 +2114,10 @@
         {
           "name": "RXZOR",
           "url": "https://open.spotify.com/artist/4DTx9MmllDgeeNCuydfRH9"
+        },
+        {
+          "name": "Khonsabeats",
+          "url": "https://open.spotify.com/artist/3kNNrcpmTBx7LTsBe1Xgoq"
         }
       ],
       "date_added": "2025-09-18",
@@ -3126,7 +3148,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 184615,
       "name": "OCB",
       "url": "https://open.spotify.com/track/6YkExZc1NrbT2nLnyhmqcc"
@@ -3790,7 +3812,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 146400,
       "name": "RIGHTA",
       "url": "https://open.spotify.com/track/3aCAZ1BG3Arw9vr4BS9bH4"

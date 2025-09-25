@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,892 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,916 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 42 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 43 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
 | 44 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 |
-| 45 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
-| 46 | [Cada um tem o seu Deus](https://open.spotify.com/track/1fZhMTdpB6Ty0B92RMQUjy) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Cada um tem o seu Deus](https://open.spotify.com/album/1bzMVyBIZgeJv22zdkR5gl) | 3:44 |
+| 45 | [Cada um tem o seu Deus](https://open.spotify.com/track/1fZhMTdpB6Ty0B92RMQUjy) | [Túlio](https://open.spotify.com/artist/1hQUeaDm4mZ5lMHlg82TiD), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [Cada um tem o seu Deus](https://open.spotify.com/album/1bzMVyBIZgeJv22zdkR5gl) | 3:44 |
+| 46 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |
 | 47 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
 | 48 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
-| 49 | [íris colorida](https://open.spotify.com/track/0NUPGDS544fTq9QDv815bV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [íris colorida](https://open.spotify.com/album/4Rcswr1Ppmv4rfQDIKPrX9) | 2:37 |
-| 50 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
+| 49 | [Juízo e Responsabilidade](https://open.spotify.com/track/7p01taFUjX5boi9yIiOgEK) | [Flerte Flamingo](https://open.spotify.com/artist/7zdaWFrCzl1h0jmDGt9Qih) | [Juízo e Responsabilidade](https://open.spotify.com/album/08CY5RDd32Yyd92rOA4uVa) | 2:37 |
+| 50 | [íris colorida](https://open.spotify.com/track/0NUPGDS544fTq9QDv815bV) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [íris colorida](https://open.spotify.com/album/4Rcswr1Ppmv4rfQDIKPrX9) | 2:37 |
 | 51 | [Rainha da Minha Bateria](https://open.spotify.com/track/64OwpI7W3UF4IKWOmPhji7) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL) | [Rainha da Minha Bateria](https://open.spotify.com/album/4K1kQ0sCisJeVB6rGTgPMu) | 4:03 |
 | 52 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
 | 53 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |

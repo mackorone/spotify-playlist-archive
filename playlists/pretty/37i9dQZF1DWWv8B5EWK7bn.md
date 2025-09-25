@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,187 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,203 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 65 | [Big Appetite](https://open.spotify.com/track/4XPlKxzm2My7efFgFbsomR) | [Liars](https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z) | [The Apple Drop](https://open.spotify.com/album/0jlrYQZy6lkuIN0mYgxLfS) | 5:16 |
 | 66 | [Art Today](https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Modern Meta Physic](https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN) | 5:21 |
 | 67 | [Dividual Individual](https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 5:00 |
-| 68 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 |
-| 69 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
+| 68 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 |
+| 69 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 |
 | 70 | [NIGHT CRAWLING](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NIGHT CRAWLING](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 |
 | 71 | [The Path](https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Path](https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey) | 4:22 |
 | 72 | [Makkuroi Mizu \(まっくろい水）](https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2) | 6:03 |
-| 73 | [I'VE BEEN EVIL](https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [SOMETHING'S ENDING / I'VE BEEN EVIL](https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P) | 2:34 |
-| 74 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
+| 73 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
+| 74 | [I'VE BEEN EVIL](https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq) | [SPIRIT OF THE BEEHIVE](https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR) | [SOMETHING'S ENDING / I'VE BEEN EVIL](https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P) | 2:34 |
 | 75 | [MERCY](https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW), [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [MERCY](https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0) | 7:00 |
 | 76 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 77 | [Jolene From Her Own Perspective](https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb), [zannie](https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd) | [Jolene From Her Own Perspective](https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj) | 3:27 |
-| 78 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 |
-| 79 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
+| 78 | [True Luck](https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [True Luck](https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ) | 3:20 |
+| 79 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 |
 | 80 | [Windows Open](https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs) | 5:18 |
 | 81 | [Where To Put The Pain](https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Where To Put The Pain](https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai) | 3:54 |
 | 82 | [Nothing's Wrong](https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli) | 3:49 |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,077 songs - 2 day 12 hr 15 min
+1,078 songs - 2 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [I Walk This Earth All By Myself](https://open.spotify.com/track/0yjG7B98B9AtigGIbjIG8g) | [Throttle](https://open.spotify.com/artist/6mPZJXtFVaakznkRxdgWtC) | [I Walk This Earth All By Myself](https://open.spotify.com/album/1cBQtXJCMyMK5fTLt9jdSo) | 4:31 | 2023-07-14 | 2023-12-14 |
 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 | 2023-04-26 | 2023-07-22 |
 | [I'll Be Waiting](https://open.spotify.com/track/1qadEGAXKdavfGokWUaVzL) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [I'll Be Waiting](https://open.spotify.com/album/2HFkHwcSgULeBwn78FapIh) | 4:08 | 2023-04-12 | 2023-07-06 |
+| [I'm Back](https://open.spotify.com/track/2UgtH2EbKpGNMTat5z70OL) | [Dodge & Fuski](https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m) | [I'm Back](https://open.spotify.com/album/6yBawDUWNs7bHfj4lwBQFe) | 3:20 | 2025-09-24 |  |
 | [IBTFY](https://open.spotify.com/track/09b31KaJfkzpPGNDsihd4t) | [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [IBTFY](https://open.spotify.com/album/6OFi8jTH03PDyQni2LVACn) | 2:32 | 2024-02-09 | 2024-05-01 |
 | [IDGAF](https://open.spotify.com/track/5VEFvinD436JLHYunYwv0p) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [IDGAF](https://open.spotify.com/album/7HVmjL6BNGQcasnOZxfBio) | 3:36 | 2025-01-29 | 2025-05-01 |
 | [If I Lost You](https://open.spotify.com/track/6h0dzH10dHzzNglwUCldO5) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [If I Lost You](https://open.spotify.com/album/4TTslMeoouMV3x6uDh0TT5) | 3:31 | 2024-10-31 | 2025-02-07 |

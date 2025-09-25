@@ -4,7 +4,7 @@
 
 > 
 
-271 songs - 17 hr 6 min
+272 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Deeper Love](https://open.spotify.com/track/2LgCE2RDlkqxXmJzdJx6lw) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Valntna](https://open.spotify.com/artist/2MRXJHWrV72Bd35kawjirn) | [Deeper Love](https://open.spotify.com/album/3xXEPcM9asl2xphtVKiDKa) | 2:15 | 2023-06-14 |  |
 | [DEEPFAKE](https://open.spotify.com/track/67CSegLhAnL2RHPOnaakRs) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mihalis Safras](https://open.spotify.com/artist/3m5g6NUg2akZ9Vv9D8GYBf) | [DEEPFAKE](https://open.spotify.com/album/1nDCAZDIObiigIXZVE82nn) | 2:46 | 2023-03-20 |  |
 | [Detach](https://open.spotify.com/track/3VL59wXraLl3o5WhIy2PSU) | [Lowdown](https://open.spotify.com/artist/1KCG15gBLwpaEK8eymaqOO), [Latour](https://open.spotify.com/artist/2DtfdK4QWxre8RDwL0j8Y7) | [Detach](https://open.spotify.com/album/7bst5IAlL9BVI3dUHCePL8) | 4:01 | 2024-03-12 |  |
+| [Diamonds](https://open.spotify.com/track/6GNuSKmHQEDdIgQYLyLJWZ) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Diamonds](https://open.spotify.com/album/1qYVyMhvMYcMnR1KfM2AYi) | 2:38 | 2025-09-24 |  |
 | [Die Hard \(with Ghostface Killah & A\-Trak\)](https://open.spotify.com/track/0AjeEIFvdzjn4AtAtzzwBH) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Don Malaa](https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP) | 2:30 | 2022-10-03 |  |
 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 | 2023-03-08 |  |
 | [Diptyque \- Original Mix](https://open.spotify.com/track/4sUKxTQ8zDSumLc6PszOq3) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [Thalasso](https://open.spotify.com/album/42Mhw6cVuq6uRi9BDlqTED) | 3:44 | 2024-01-19 |  |

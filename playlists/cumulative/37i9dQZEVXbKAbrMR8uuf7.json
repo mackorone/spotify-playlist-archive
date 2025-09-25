@@ -2686,7 +2686,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 116540,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/2ZzUhGrS7YrR9YVVxC4ZMg"
@@ -8628,8 +8628,12 @@
           "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
         },
         {
-          "name": "Nando Boom",
-          "url": "https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko"
+          "name": "Nando Bloom",
+          "url": "https://open.spotify.com/artist/19sdQzUyQNoEwkKEN4vcf4"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
       "date_added": "2025-09-20",
@@ -16806,7 +16810,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 206066,
       "name": "Kh\u00e9?",
       "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
@@ -19780,7 +19784,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "LIPO",
       "url": "https://open.spotify.com/track/3AMrnVEKtrp9lOS1AWuU0J"
@@ -22246,7 +22250,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -26346,7 +26350,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 133669,
       "name": "PA TRIPEA \" HUAN62",
       "url": "https://open.spotify.com/track/1cQ7ErDwwKNqFzPo9L3uKI"
@@ -32738,6 +32742,28 @@
       "duration_ms": 124870,
       "name": "Se Puede Repet\u00ed",
       "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
+    },
+    {
+      "album": {
+        "name": "Se Riega",
+        "url": "https://open.spotify.com/album/2F9NvZEkq2lHSeTSLWpnMs"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160178,
+      "name": "Se Riega",
+      "url": "https://open.spotify.com/track/7EOiQ1TeeA4eMgkCl4gUGY"
     },
     {
       "album": {
@@ -39362,7 +39388,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"

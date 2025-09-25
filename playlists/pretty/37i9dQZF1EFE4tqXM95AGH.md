@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348 likes - 179 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,350 likes - 179 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 95 | [Workin On It](https://open.spotify.com/track/4iDPpvvYBnuM5U89cBvWvZ) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:34 |
 | 96 | [Cruel](https://open.spotify.com/track/3ZxtQyBPlRDQmffv7KfKCP) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Snacks \(Supersize\)](https://open.spotify.com/album/7amY1CW9j5LtD2Bbsx1FJO) | 4:26 |
 | 97 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
-| 98 | [Vintage](https://open.spotify.com/track/2t8MNKWuCNh8eZFZ4ANZRR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:39 |
-| 99 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
+| 98 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 |
+| 99 | [Vintage](https://open.spotify.com/track/2t8MNKWuCNh8eZFZ4ANZRR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:39 |
 | 100 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
 | 101 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
 | 102 | [Kid Wonder](https://open.spotify.com/track/3UlnJciJMXFgnIubWkoghm) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:47 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 117 | [Open Book](https://open.spotify.com/track/0qHcXbKygBssRpTYHxzJ2W) | [Jacob Whitesides](https://open.spotify.com/artist/05tyvnDgYMhgagYbUx9td4) | [Why](https://open.spotify.com/album/76y1pCBvDEZeIPtS4gHJ9e) | 4:48 |
 | 118 | [Warmer](https://open.spotify.com/track/0J1dghZvW89xWai1COnPdT) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:05 |
 | 119 | [Heaven Is a Hand to Hold](https://open.spotify.com/track/5z2aQl5Kn9N2B6mwOfdXlx) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:41 |
-| 120 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
-| 121 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
+| 120 | [midsummer pipe dream](https://open.spotify.com/track/6nkQrHvWMu0vSse3nQGSPV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [midsummer pipe dream](https://open.spotify.com/album/6HQsc7j2EyHMh5ph8tNbfH) | 2:36 |
+| 121 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
 | 122 | [Everybody Says They’re Fine](https://open.spotify.com/track/3u08t7MEgvueIBfUe7M3O4) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go \(Special Edition\)](https://open.spotify.com/album/08zkdPR1WBr2vGKhp575H4) | 2:31 |
 | 123 | [Whole Heart](https://open.spotify.com/track/4gbTxDPmg2KOUpfp727PGT) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Waves](https://open.spotify.com/album/1mH4ntQRUk1akxx6WNST8q) | 3:11 |
 | 124 | [Mood](https://open.spotify.com/track/5Z4O3TSZu69elcy61uTKWC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Mood](https://open.spotify.com/album/67h8coitqvalWbijNr6z7a) | 3:09 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 178 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 179 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Ab9BlAAAAABgaKfzqdcnHN/Y+r5IuIrT`
+Snapshot ID: `Ab9HXAAAAABnZESwuHlzY0MvnZOUPdgu`

@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 392977,
+  "num_followers": 393000,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Like It Always Was",
-        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 200113,
-      "name": "Like It Always Was",
-      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "The Ones We Seek",
         "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 274955,
       "name": "The Ones We Seek",
       "url": "https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "Like It Always Was",
+        "url": "https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Like It Always Was",
+      "url": "https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "It's The First Time 2021",
-        "url": "https://open.spotify.com/album/7hVeYFdAOQpmueUQwrL95t"
-      },
-      "artists": [
-        {
-          "name": "Lois Lane",
-          "url": "https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt"
-        }
-      ],
-      "duration_ms": 235159,
-      "name": "It's The First Time 2021",
-      "url": "https://open.spotify.com/track/6Daq4m0QeSWUPBIsI0jNCM"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Coffee Shop Boy",
         "url": "https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ"
       },
@@ -699,18 +683,34 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
+        "name": "It's The First Time 2021",
+        "url": "https://open.spotify.com/album/7hVeYFdAOQpmueUQwrL95t"
       },
       "artists": [
         {
-          "name": "Opera Alaska",
-          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
+          "name": "Lois Lane",
+          "url": "https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt"
         }
       ],
-      "duration_ms": 172852,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
+      "duration_ms": 235159,
+      "name": "It's The First Time 2021",
+      "url": "https://open.spotify.com/track/6Daq4m0QeSWUPBIsI0jNCM"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "When She\u2019s Around",
+        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
+      },
+      "artists": [
+        {
+          "name": "Milo Meskens",
+          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "When She\u2019s Around",
+      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/40MhYwYTMstZyaocPa5KPH"
+      },
+      "artists": [
+        {
+          "name": "Opera Alaska",
+          "url": "https://open.spotify.com/artist/26FEbVE7yfOSAEymfCkiPx"
+        }
+      ],
+      "duration_ms": 172852,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/711tUDHrYFzB8joyMp9jRv"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
         "name": "Old Summers",
         "url": "https://open.spotify.com/album/3tRCgORe1F5ilqUzRPKudV"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 219968,
       "name": "Old Summers (feat. philine)",
       "url": "https://open.spotify.com/track/2jjknDW4cIC8d9C3kv5zrS"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "When She\u2019s Around",
-        "url": "https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy"
-      },
-      "artists": [
-        {
-          "name": "Milo Meskens",
-          "url": "https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "When She\u2019s Around",
-      "url": "https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Do You Want To Be Honest?",
-        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 212565,
-      "name": "Do You Want To Be Honest?",
-      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "One More Try",
         "url": "https://open.spotify.com/album/3RekhTEhQfdXOKlOAgjJiO"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 216058,
       "name": "Beginners",
       "url": "https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "Do You Want To Be Honest?",
+        "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 212565,
+      "name": "Do You Want To Be Honest?",
+      "url": "https://open.spotify.com/track/2jbacqyhvUFTEQN0M6y63p"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "I Believe In Life",
-        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 216519,
-      "name": "I Believe In Life",
-      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 225000,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
+        "name": "I Believe In Life",
+        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 216519,
+      "name": "I Believe In Life",
+      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
+        "name": "Every Town",
+        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Every Town",
+      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
         "name": "Queen Of My Castle",
         "url": "https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 179054,
       "name": "Company Store",
       "url": "https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "Never Fall In Love Again",
-        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
-      },
-      "artists": [
-        {
-          "name": "Lucas Hamming",
-          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
-        }
-      ],
-      "duration_ms": 168991,
-      "name": "Never Fall In Love Again",
-      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
+        "name": "Never Fall In Love Again",
+        "url": "https://open.spotify.com/album/2XGXw8RTtA2vqFZgPmgH1o"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/3pJRl0wFfczrK4lr1au7QA"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
         "name": "Pray",
         "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 234226,
       "name": "The Door",
       "url": "https://open.spotify.com/track/2nOtHnLmdE2OBjk2BpGa6W"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
-        "name": "Every Town",
-        "url": "https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Every Town",
-      "url": "https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Whatever Comes For Me",
-        "url": "https://open.spotify.com/album/5KzE93UOmY9Wic1cTGHfxB"
-      },
-      "artists": [
-        {
-          "name": "DINAND",
-          "url": "https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv"
-        }
-      ],
-      "duration_ms": 237583,
-      "name": "Whatever Comes For Me",
-      "url": "https://open.spotify.com/track/7vJvFY16EOhTGZ0BwHRtFE"
-    },
-    {
-      "added_at": "2025-09-20 13:39:43",
-      "album": {
         "name": "Anything To Feel Alive",
         "url": "https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
+        "name": "the moment (acoustic)",
+        "url": "https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "the moment - acoustic",
+      "url": "https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i"
+    },
+    {
+      "added_at": "2025-09-20 13:39:43",
+      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/6G4ZRThLjEGsYALCxy4xgp"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "the moment (acoustic)",
-        "url": "https://open.spotify.com/album/66D5NgsCMW3RJXGYqAIkRQ"
+        "name": "Whatever Comes For Me",
+        "url": "https://open.spotify.com/album/5KzE93UOmY9Wic1cTGHfxB"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+          "name": "DINAND",
+          "url": "https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv"
         }
       ],
-      "duration_ms": 190266,
-      "name": "the moment - acoustic",
-      "url": "https://open.spotify.com/track/4b9V2ARN8RJxGDrGAoXR8i"
+      "duration_ms": 237583,
+      "name": "Whatever Comes For Me",
+      "url": "https://open.spotify.com/track/7vJvFY16EOhTGZ0BwHRtFE"
     },
     {
       "added_at": "2025-09-20 13:39:43",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-09-20 13:39:43",
       "album": {
-        "name": "Kind Of Love",
-        "url": "https://open.spotify.com/album/0DAoXzBMrgwUt84tXqkKyJ"
+        "name": "I'm In Heaven",
+        "url": "https://open.spotify.com/album/4g68SKo4DiuPYlpRdblVme"
       },
       "artists": [
         {
-          "name": "Kris Berry",
-          "url": "https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv"
+          "name": "Goldkimono",
+          "url": "https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk"
         }
       ],
-      "duration_ms": 234183,
-      "name": "Kind Of Love",
-      "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
+      "duration_ms": 205671,
+      "name": "I'm In Heaven",
+      "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
     }
   ],
   "unique_name": "'t Koffiehuis",

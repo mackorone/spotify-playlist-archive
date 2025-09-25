@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,743 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,775 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,14 +97,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 87 | [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 |
 | 88 | [Vamos A Bailar](https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:27 |
 | 89 | [Voy a Olvidarme de Mí](https://open.spotify.com/track/2YCQpCXM0ebgdFLql30VDh) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Solo](https://open.spotify.com/album/3KHwSLop7v3T5egeuXjL9n) | 3:16 |
-| 90 | [Sabrosón](https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:54 |
-| 91 | [Hoy Te Vi](https://open.spotify.com/track/5AGrNSSyacwJQXp62xYOh0) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/2WJPmMdGAvoXwP0PVueIQN) | 3:37 |
+| 90 | [Hoy Te Vi](https://open.spotify.com/track/5AGrNSSyacwJQXp62xYOh0) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Gracia Divina](https://open.spotify.com/album/2WJPmMdGAvoXwP0PVueIQN) | 3:37 |
+| 91 | [Sabrosón](https://open.spotify.com/track/4LY1GUwkUJD8PotaMUrqtE) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:54 |
 | 92 | [Una Wacha Piola](https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF) | 2:35 |
 | 93 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
 | 94 | [Hasta Que Salga El Sol](https://open.spotify.com/track/7Hbg7BL2h2To2jVJwSnFVD) | [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB) | [En Este Futuro Brillante, No Puedes Olvidar Tu Pasado](https://open.spotify.com/album/2uJigYIPQFe3xg5btbHhRn) | 2:59 |
 | 95 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 |
-| 96 | [Noche de Estrellas](https://open.spotify.com/track/5wMQvQ2DAzyQpMAID2ccGB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:35 |
-| 97 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 |
+| 96 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 |
+| 97 | [Noche de Estrellas](https://open.spotify.com/track/5wMQvQ2DAzyQpMAID2ccGB) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Lo mejor de Ráfaga](https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T) | 3:35 |
 | 98 | [Naty Boom Boom](https://open.spotify.com/track/25fMrkiXPFrNgwYPZqDzqR) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 2:10 |
 | 99 | [Yo Soy Tu Maestro](https://open.spotify.com/track/6iUzbEwZnm9NuXdWvuoNem) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [El Bombazo](https://open.spotify.com/album/6g4bKWae6itYgu4gysKLH2) | 4:29 |
 | 100 | [Hoy Acá en el Baile \(Cara de Gitana\) \- Versión el Pepo](https://open.spotify.com/track/74onbSJ49kgKFGrwUwY9oC) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Libre](https://open.spotify.com/album/3oeLFcOpYbiDTjJ4UNfEjD) | 2:14 |

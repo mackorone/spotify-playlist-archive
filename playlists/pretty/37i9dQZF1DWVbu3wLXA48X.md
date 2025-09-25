@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,981 likes - 114 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,977 likes - 114 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

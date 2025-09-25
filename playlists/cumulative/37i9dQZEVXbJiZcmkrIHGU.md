@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Germany.
 
-3,667 songs - 7 day 10 hr 7 min
+3,668 songs - 7 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -656,7 +656,7 @@
 | [Casanova](https://open.spotify.com/track/4WLSIubHJ6qPZC46ia61AJ) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Matador](https://open.spotify.com/album/2pEXPJWLSkZFEW7dOXa2pu) | 3:03 | 2024-01-13 | 2024-01-15 |
 | [Casualty](https://open.spotify.com/track/7BkzAHnNW7WfrT4NcLaUDx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 2:20 | 2024-11-16 | 2024-11-24 |
 | [Cavani](https://open.spotify.com/track/6XrOj0Hdo3eI1s4Pln0ZgV) | [Ego](https://open.spotify.com/artist/1m1Z3TrGetTWWB8CiQN4S8), [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [Cavani](https://open.spotify.com/album/4FCZoeeMzBtzRIGBXBL1xN) | 2:55 | 2025-06-21 | 2025-06-23 |
-| [CC&MO](https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CC&MO](https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge) | 2:35 | 2025-08-23 |  |
+| [CC&MO](https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [CC&MO](https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge) | 2:35 | 2025-08-23 | 2025-09-25 |
 | [CCN](https://open.spotify.com/track/77P5XeaMFmuAkrH3R81CXM) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [CCN](https://open.spotify.com/album/1v6GVEQHlyeZfEKUaIJ4Kd) | 3:03 | 2025-09-20 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-03-13 | 2023-03-18 |
 | [CENT'ANNI](https://open.spotify.com/track/3sLGANjytghyOmfRnY54tq) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CENT'ANNI](https://open.spotify.com/album/0lfRae3gk4uRJfzn6TPW09) | 2:05 | 2023-05-20 | 2023-05-28 |
@@ -3527,6 +3527,7 @@
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-04-13 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2021-08-19 | 2022-09-07 |
 | [Where Did You Go? \(feat\. MNEK\)](https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go \(feat\. MNEK\)](https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL) | 2:57 | 2022-04-10 | 2022-07-24 |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-24 |  |
 | [Where The Lights Are Low](https://open.spotify.com/track/0Cnb8XdGDMHAmIRBUJMkIS) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Where The Lights Are Low](https://open.spotify.com/album/5ymCqifRmYTEyN4dlZf7Vq) | 2:16 | 2021-03-27\* | 2021-04-14 |
 | [WHERE WAS YOU](https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 | 2025-07-14 | 2025-07-16 |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-08-02 | 2025-08-04 |

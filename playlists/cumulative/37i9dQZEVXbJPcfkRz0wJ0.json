@@ -11178,7 +11178,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -23228,7 +23228,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -27288,6 +27288,24 @@
       "duration_ms": 231546,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/49x8Zp5wDjoquBE1THLLCV"
+    },
+    {
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/6p9eMHBHyvHDGK1WIerBfh"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/1jUkHIMc7UaJQuzWe5Iop2"
     },
     {
       "album": {
@@ -31664,7 +31682,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 184517,
       "name": "What I Want (feat. Tate McRae)",
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"

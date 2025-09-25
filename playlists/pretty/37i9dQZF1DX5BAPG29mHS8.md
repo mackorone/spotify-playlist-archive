@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5BAPG29mHS8.md) - [plain]
 
 > Los hits de ahora en la playlist más grande de México\. Junior H en portada 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,113,607 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,112,520 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Culpable](https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Culpable](https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h) | 4:21 |
 | 2 | [No Capea](https://open.spotify.com/track/3IcaWsnVb6NOsjtcuedsM8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Capea](https://open.spotify.com/album/3fsVOb8vnAjEaxfuh5Kqdd) | 3:14 |
 | 3 | [Seguro Le Dolió](https://open.spotify.com/track/6KslzTHpbnoFGcRUkVgRXc) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Seguro Le Dolió](https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX) | 2:29 |
-| 4 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 4 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 5 | [CHINGON 2](https://open.spotify.com/track/54gJmxMx9Ea5zRaAKNodqp) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [NEMJ](https://open.spotify.com/artist/1djP5LHPEF9KvmoKJI0QPX) | [WORLDWAI](https://open.spotify.com/album/2StJ33v839ZM3y7yWpG7fg) | 3:00 |
 | 6 | [2 pa 1](https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ) | [Sayuri](https://open.spotify.com/artist/5I7CLVc8zfo3FvdFn7Nc2n), [Sopholov](https://open.spotify.com/artist/5YPbRfy2YxNs2rWJc63gdE), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [2 pa 1](https://open.spotify.com/album/7skQPB9PUxafPYhjfOEaQP) | 2:13 |
 | 7 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |

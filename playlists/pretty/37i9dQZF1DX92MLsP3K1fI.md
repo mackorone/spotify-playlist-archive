@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Alexia Mariel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,406 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,410 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 32 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 33 | [El Vuelo](https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:11 |
 | 34 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
-| 35 | [no voy a estar mañana](https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [no voy a estar mañana](https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX) | 2:57 |
-| 36 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 35 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 36 | [no voy a estar mañana](https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [no voy a estar mañana](https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX) | 2:57 |
 | 37 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |
 | 38 | [Contigo](https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Contigo](https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt) | 2:37 |
 | 39 | [claroqno](https://open.spotify.com/track/5kEYcU75XZeEebiPy3XpcT) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [claroqno](https://open.spotify.com/album/63hfVh7t6qaeyBKYO8wbI7) | 2:34 |

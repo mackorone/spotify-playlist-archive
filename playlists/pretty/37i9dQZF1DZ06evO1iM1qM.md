@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 
 > This is John Coltrane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,929 likes - 50 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,920 likes - 50 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iM1qM.md) - [plain]
 | 29 | [Violets For Your Furs \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane \[Rudy Van Gelder Remaster\]](https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg) | 6:15 |
 | 30 | [Like Someone In Love](https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Lush Life](https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y) | 4:57 |
 | 31 | [Stevie](https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:22 |
-| 32 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
-| 33 | [Mr\. Syms](https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Plays the Blues](https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv) | 5:19 |
+| 32 | [Mr\. Syms](https://open.spotify.com/track/0zqdzQsIvZXRRpbujjhvg5) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Coltrane Plays the Blues](https://open.spotify.com/album/37i2cYpaPCjBVKQX8xszqv) | 5:19 |
+| 33 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
 | 34 | [A Love Supreme, Pt\. I – Acknowledgement](https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [A Love Supreme](https://open.spotify.com/album/7Eoz7hJvaX1eFkbpQxC5PA) | 7:42 |
 | 35 | [Autumn Serenade](https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 4:19 |
 | 36 | [Take The Coltrane](https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 4:42 |

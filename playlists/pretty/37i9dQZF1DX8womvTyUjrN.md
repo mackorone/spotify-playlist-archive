@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Zulia & Alex Ponce
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,687 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,698 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 29 | [Lo dejo fluir](https://open.spotify.com/track/659DjhTaWZQ8hLw4P0btxl) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Lo dejo fluir](https://open.spotify.com/album/7C8OWv6blryxBy838ukCfX) | 2:42 |
 | 30 | [beibi](https://open.spotify.com/track/3h0gfCs5SzVvBzesYH4gGi) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [beibi](https://open.spotify.com/album/4PWQSzPf0qHH0PUshlypcH) | 2:51 |
 | 31 | [Tal Vez](https://open.spotify.com/track/2N4d07CyiFh3sZzPiEwlVv) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Tal Vez](https://open.spotify.com/album/7At6m4xM5O5fY6q7wqo1LP) | 3:24 |
-| 32 | [Quisiera Ella](https://open.spotify.com/track/6CQESuaBPKDj1G294RMJrE) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Quisiera Ella](https://open.spotify.com/album/6lJyQyuD6HftIbpPYIYm9c) | 3:36 |
+| 32 | [Quisiera Ella](https://open.spotify.com/track/6CQESuaBPKDj1G294RMJrE) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Quisiera Ella](https://open.spotify.com/album/6lJyQyuD6HftIbpPYIYm9c) | 3:36 |
 | 33 | [Nicole](https://open.spotify.com/track/4SVqVfRj8G5ekh2HqobV0o) | [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy), [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [Nicole](https://open.spotify.com/album/1Emercc6tSRhNo13uQkyMI) | 2:34 |
 | 34 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 35 | [Ese Verano \(Que Sí, Que No\)](https://open.spotify.com/track/5y2HaGntrgumTcml3ERrDG) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [Ese Verano \(Que Sí, Que No\)](https://open.spotify.com/album/1UhwHQbTRyZnWnPswyG6Fy) | 3:15 |

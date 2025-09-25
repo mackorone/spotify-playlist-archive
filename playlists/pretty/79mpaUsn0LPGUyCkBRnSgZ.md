@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 592 songs - 1 day 14 hr 49 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 593 songs - 1 day 14 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -600,5 +600,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 590 | [Reality TV Argument Bleeds](https://open.spotify.com/track/50RLmAQv8YOGDi5iexOjH3) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:02 |
 | 591 | [Girl Violence](https://open.spotify.com/track/5Lt4PFFgZWoaWTQrWie9wP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:15 |
 | 592 | [Motion Sickness](https://open.spotify.com/track/3G7mNgJKJaOfIIYrcQJJyT) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [In Our Heads](https://open.spotify.com/album/5GDNKEug3ME9sCAtCU0vu7) | 5:20 |
+| 593 | [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 |
 
-Snapshot ID: `AAAHwub+OJ00SK9eOIkc/g1C7j/iadMi`
+Snapshot ID: `AAAHw8LBgDctgwimnuNwJ1I3u9/XrMB/`

@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 738250,
+  "num_followers": 737987,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 146711,
       "name": "Big City Life",
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7zRVJ1xwyE3udvxmPKhV3T"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/59zH1gO9Ky2xPUEdrUrgcC"
     },
     {
       "added_at": "2025-09-04 23:00:13",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2025-09-04 23:00:13",
       "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
+    },
+    {
+      "added_at": "2025-09-04 23:00:13",
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/0xq1Ug8C06g4znM3QizelQ"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 152571,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/2uxRNIseE14NHEh38SaEeZ"
-    },
-    {
-      "added_at": "2025-09-04 23:00:13",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/1PvEp0qeU6o2rm0i2qUC2N"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6y1UtRcHQU07aUs3oxZ8Yn"
     },
     {
       "added_at": "2025-09-04 23:00:13",

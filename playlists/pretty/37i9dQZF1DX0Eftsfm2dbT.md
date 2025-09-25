@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: MFS
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,840 likes - 90 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,841 likes - 90 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 4 | [I Like It \- Remix](https://open.spotify.com/track/1DUB3yI7yBwlgyuLvNjWRb) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs), [R\-Shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb), [BACHLOGIC](https://open.spotify.com/artist/2ywZEDFSCGI0zuycGdCwQ9) | [I Like It \(Remix\)](https://open.spotify.com/album/6OFYq75Tj0U11rvguNSnfT) | 2:40 |
 | 5 | [Spotlight \(feat\. Kohjiya & Tete\) \- Remix](https://open.spotify.com/track/2u7wFuH9V0xyhuj4h0yi9T) | [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw), [Kork](https://open.spotify.com/artist/2cpo3RddMwhU6Ga9EpX8Wt) | [Spotlight \(feat\. Kohjiya & Tete\) \[Remix\]](https://open.spotify.com/album/6f9nNiYqfhoi7OgGtxde0W) | 2:58 |
 | 6 | [ICON](https://open.spotify.com/track/12khuGTjbGk471Kw7UY7Ha) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [ICON](https://open.spotify.com/album/1h77vx0kLglmfzDEqYRXe1) | 2:07 |
-| 7 | [Bible \(feat\. guca owl\)](https://open.spotify.com/track/2cIj4DLyyvQj7r6CKBorWl) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [](https://open.spotify.com/album/null) | 2:10 |
+| 7 | [Bible \(feat\. guca owl\)](https://open.spotify.com/track/2cIj4DLyyvQj7r6CKBorWl) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [guca owl](https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf) | [It Was All A Dream](https://open.spotify.com/album/3cpzRTPAPXsacbJ6j1Kats) | 2:10 |
 | 8 | [終わりの始まり](https://open.spotify.com/track/04F3lrLDj359seQX3AeBZt) | [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [花里舞](https://open.spotify.com/album/6RK8c4AHkEXwNrypnGajqr) | 2:22 |
 | 9 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
 | 10 | [Not Your Mama](https://open.spotify.com/track/3WxH7aG8DmX0ADK2DSOlsz) | [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Not Your Mama](https://open.spotify.com/album/2sQc3lirxt9fRSmk24jAhd) | 3:10 |

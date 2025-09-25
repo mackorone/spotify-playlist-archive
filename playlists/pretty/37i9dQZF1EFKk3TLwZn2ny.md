@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 63 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 64 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 11 | [Party No Dey Stop \(with JayO & Byron Messia\) \- JayO & Byron Messia Remix](https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Party No Dey Stop \(JayO & Byron Messia Remix\)](https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk) | 2:32 |
 | 12 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 |
 | 13 | [Gucci Frames](https://open.spotify.com/track/0JmsEJ3fNVcSmahgSVLYrl) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs), [Grandmaster Vic](https://open.spotify.com/artist/6ntwG5UXVV6LCfXY2NbhuP) | [Gucci Frames](https://open.spotify.com/album/3lqJAawlvaMUHqpzu2CCyh) | 2:11 |
-| 14 | [Outro](https://open.spotify.com/track/3dl4BReGC1noYe4tdKuF9e) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 2:39 |
-| 15 | [Focus](https://open.spotify.com/track/4NS6CJXfOgTT7INXPEwOQM) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
+| 14 | [Focus](https://open.spotify.com/track/4NS6CJXfOgTT7INXPEwOQM) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
+| 15 | [Outro](https://open.spotify.com/track/3dl4BReGC1noYe4tdKuF9e) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 2:39 |
 | 16 | [All That You Are](https://open.spotify.com/track/1BMOylkmZXBLDChFm7Wqq9) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:37 |
 | 17 | [I Literally Never Think About You](https://open.spotify.com/track/2HMxow43AQQGcsMoi0YEcq) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [I Literally Never Think About You](https://open.spotify.com/album/3dSrqg19hoTFp8AeI7MEeX) | 2:55 |
 | 18 | [Don't Think](https://open.spotify.com/track/1N9OZZ3p3qCquH3MkfhRRG) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 3:26 |
@@ -71,5 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 61 | [Tempo](https://open.spotify.com/track/68Dp3Ha2XlXoX3jM3mc00M) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Tempo](https://open.spotify.com/album/3cHeKy1rYx7jySSS09uQ22) | 1:56 |
 | 62 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
 | 63 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
+| 64 | [Loose](https://open.spotify.com/track/3PvL3oyt1EWMPlK7GoxzcH) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [These Things Take Time](https://open.spotify.com/album/6UGGX9D1WyEgpyhVctghWP) | 2:58 |
 
-Snapshot ID: `Ab9BlAAAAABptg6ohvf3MgU00dD54kaJ`
+Snapshot ID: `Ab9HSAAAAAB9wmS0YDsP/hPhj2lKsEgd`

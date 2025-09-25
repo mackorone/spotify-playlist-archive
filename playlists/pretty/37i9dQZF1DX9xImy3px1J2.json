@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 339717,
+  "num_followers": 339658,
   "original_name": "Party 2025",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
         "name": "Kriminal (Prod. by Roberto Ferrante)",
         "url": "https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 189275,
       "name": "Kriminal - Prod. by Roberto Ferrante",
       "url": "https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
-      },
-      "artists": [
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        },
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
-      },
-      "artists": [
-        {
-          "name": "Samurai Jay",
-          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
-        },
-        {
-          "name": "Vito Salamanca",
-          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
-        }
-      ],
-      "duration_ms": 137952,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
+        }
+      ],
+      "duration_ms": 137952,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "El Farsante",
+      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
         "name": "una noche con hugel",
         "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 191475,
       "name": "una noche con hugel",
       "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "El Farsante",
-      "url": "https://open.spotify.com/track/5EId1m4DNwTf3at31w8bPJ"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 169523,
       "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Maschio",
-        "url": "https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy"
-      },
-      "artists": [
-        {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
-        }
-      ],
-      "duration_ms": 204738,
-      "name": "Maschio",
-      "url": "https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Ivy To Roses (Mixtape)",
         "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 178480,
       "name": "Don't Call Me Up",
       "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Maschio",
+        "url": "https://open.spotify.com/album/226WGnFxk9frinhGY4Uhwy"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 204738,
+      "name": "Maschio",
+      "url": "https://open.spotify.com/track/1gIahX2xZu1ir2qLmALtUc"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Get Busy (Odd Mob Club Mix)",
-        "url": "https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 165909,
-      "name": "Get Busy - Odd Mob Club Mix",
-      "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Tu Me Quieres",
         "url": "https://open.spotify.com/album/7DCQMEasHZn2y5VHAmSlBF"
       },
@@ -1783,22 +1763,22 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Iko Iko (My Bestie)",
-        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+        "name": "Get Busy (Odd Mob Club Mix)",
+        "url": "https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy"
       },
       "artists": [
         {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Iko Iko (My Bestie)",
-      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
+      "duration_ms": 165909,
+      "name": "Get Busy - Odd Mob Club Mix",
+      "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -1823,6 +1803,26 @@
       "duration_ms": 178087,
       "name": "BED",
       "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+      },
+      "artists": [
+        {
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
+        {
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
       "added_at": "2025-09-12 13:56:10",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2025-09-12 13:56:10",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2025-09-12 13:56:10",
-      "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 158571,
       "name": "Pump It Louder",
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2025-09-12 13:56:10",
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2025-09-12 13:56:10",

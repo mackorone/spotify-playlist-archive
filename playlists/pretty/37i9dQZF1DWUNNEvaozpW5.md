@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Fito y Fitipaldis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,619 likes - 120 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,510 likes - 120 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

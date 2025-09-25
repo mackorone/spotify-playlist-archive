@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,005 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,020 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 20 | [Activo De Guayaba](https://open.spotify.com/track/6dmMJruFIptrKqtaeBMuAm) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 6:06 |
 | 21 | [Jazztepec](https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [El Patio](https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31) | 3:58 |
 | 22 | [Charleston](https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [15 Éxitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta](https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1) | 2:28 |
-| 23 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 |
-| 24 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
+| 23 | [The Pink Panther](https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at) | [Pavel Loaria Big Band](https://open.spotify.com/artist/2JrCiD3IZIa2ds3vl6bqkX) | [Pavel Loaria Big Band, Vol\. 1](https://open.spotify.com/album/0nQiE3rJ7zfl10ki3mM7Ff) | 3:53 |
+| 24 | [Quién Eres Tú?](https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N) | [Iraida Noriega](https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi), [Enrique Nery](https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi), [Aarón Cruz](https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv) | [Quién Eres Tú?](https://open.spotify.com/album/6627kcDKivQe10EdHUDmok) | 5:50 |
 | 25 | [Fuego](https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF) | [Hilvana](https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG) | [Para Ser Libre](https://open.spotify.com/album/640scYqIfRaues9fUETg8p) | 3:13 |
 | 26 | [La Iguana](https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY) | [Mexkla](https://open.spotify.com/artist/0HbMViY5BXuI41PlC3UM5u) | [Bernalejo](https://open.spotify.com/album/1VOZpjDfViAEiNwDPNSs1G) | 4:24 |
 | 27 | [No Se que Pasa Entre Tú y Yo](https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO) | [Ernesto Riestra Y Su Orquesta](https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE) | [Las Puntadas de Ernesto Riesta](https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ) | 2:58 |

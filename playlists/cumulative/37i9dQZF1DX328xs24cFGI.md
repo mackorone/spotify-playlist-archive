@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-468 songs - 1 day 5 hr 30 min
+469 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Baby, with u](https://open.spotify.com/track/5EeLVUwIXCVHRSewdL06of) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [my dream box](https://open.spotify.com/album/5clVHepj7jpIQlRMsOuYAg) | 3:39 | 2024-10-08 | 2025-03-26 |
 | [BAD LOVE](https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [BAD LOVE](https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB) | 3:05 | 2025-09-09 |  |
 | [bae](https://open.spotify.com/track/6SO9pHllv1xLlWhrbxuaWl) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [bae](https://open.spotify.com/album/3pBhnkO9IYlIeJPsd4OnqL) | 2:58 | 2024-02-20 | 2024-03-20 |
+| [Bassist](https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Bassist](https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs) | 3:11 | 2025-09-23 |  |
 | [Beautiful Things](https://open.spotify.com/track/5oeEb3HMHvDMmty7wAxEcS) | [Takuya Kimura](https://open.spotify.com/artist/7jZnmNs4rkoMqljfgaXxF9) | [Next Destination](https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO) | 3:51 | 2023-07-02 | 2023-07-14 |
 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2025-07-15 |  |
 | [Budo Juice](https://open.spotify.com/track/6mUCPz6VnyA62upkWEbYNA) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:09 | 2023-03-28 | 2023-04-05 |
@@ -96,7 +97,7 @@
 | [I still](https://open.spotify.com/track/7zqLwCQC5bHfkftlkOaLtd) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [I still](https://open.spotify.com/album/0hlxF4vy9CmGLliY9pvFbR) | 4:27 | 2025-02-25 | 2025-05-27 |
 | [I wish](https://open.spotify.com/track/7lhCMNcxl4cESmwsXQT5LK) | [Misako Uno](https://open.spotify.com/artist/7GZ4sfSqYerIzoy01IiBBI) | [I wish](https://open.spotify.com/album/4rkp4NwmGk3rD7RFEiQp1f) | 3:25 | 2024-02-13 | 2024-02-21 |
 | [It’s all good](https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [It’s all good](https://open.spotify.com/album/2oD3JIzBpBCdWmEGVfg2F0) | 4:10 | 2023-09-21 | 2023-09-29 |
-| [Kanaimasenkane](https://open.spotify.com/track/626Gdtfm2RgScpMKKKTMNH) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Kanaimasenkane](https://open.spotify.com/album/5RooSsSfxYYJ29F6navtyA) | 4:41 | 2025-09-16 |  |
+| [Kanaimasenkane](https://open.spotify.com/track/626Gdtfm2RgScpMKKKTMNH) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Kanaimasenkane](https://open.spotify.com/album/5RooSsSfxYYJ29F6navtyA) | 4:41 | 2025-09-16 | 2025-09-25 |
 | [Kanpaku Sengen](https://open.spotify.com/track/0uuaYmRMQkmqXywMCanpBz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Kanpaku Sengen](https://open.spotify.com/album/0to3DAagBzCHvlfv1IyrQP) | 3:05 | 2025-04-22 | 2025-07-09 |
 | [Karen no Life](https://open.spotify.com/track/0KE7g8ZJ93bTNWQk9BOuIB) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Karen no Life](https://open.spotify.com/album/7L3LEup3oO8Kf7LAJmfDhy) | 5:03 | 2023-03-28 | 2023-04-02 |
 | [Karen no Life](https://open.spotify.com/track/3Mt2KYnAFIW1jH3u1DJgE5) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 5:07 | 2023-03-28 | 2023-04-05 |
@@ -139,7 +140,7 @@
 | [My best love!](https://open.spotify.com/track/4F7HpyZBYY2NU4YxKaKn3m) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [My best love!](https://open.spotify.com/album/3yfwQt9HuQunyMnozW7Sim) | 3:34 | 2024-01-10 | 2024-04-19 |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-06-01 | 2025-09-14 |
 | [napori](https://open.spotify.com/track/7LPL74iMxXZ4hEjCwmLMae) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy) | 3:23 | 2023-02-09 | 2023-10-06 |
-| [Near Pin Romance](https://open.spotify.com/track/2uWy0KHw5LZmnlBPUU55r4) | [Niina](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Near Pin Romance](https://open.spotify.com/album/2o3z0YEdacUCfnVVaPyDVV) | 3:34 | 2025-08-19 |  |
+| [Near Pin Romance](https://open.spotify.com/track/2uWy0KHw5LZmnlBPUU55r4) | [Niina](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Near Pin Romance](https://open.spotify.com/album/2o3z0YEdacUCfnVVaPyDVV) | 3:34 | 2025-08-19 | 2025-09-25 |
 | [Negau Yoru](https://open.spotify.com/track/5nqjG5L7wOc6PQDY2L1kl0) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Negau Yoru](https://open.spotify.com/album/5YYC8jf3QNZzBzw1YdpiIF) | 3:55 | 2023-03-28 | 2023-04-01 |
 | [Negau Yoru](https://open.spotify.com/track/0EkZthPot9kiQ1roxjD80n) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 3:56 | 2023-03-28 | 2023-04-28 |
 | [Nerd and Angel](https://open.spotify.com/track/6l9faWYYWmzhi6GwstLygb) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nerd and Angel](https://open.spotify.com/album/2pxLQEKMnLKY2zq5o6GsBh) | 2:23 | 2025-07-29 | 2025-08-06 |
@@ -372,7 +373,7 @@
 | [恋する \- 10YEARS THANK YOU](https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋する \(10YEARS THANK YOU\)](https://open.spotify.com/album/5xJYHjTq2m8BkRvi5JDBgo) | 6:09 | 2023-02-09 | 2023-03-03 |
 | [恋するもののあはれ](https://open.spotify.com/track/3rWcWii8DDL4hO68IEFThP) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [恋するもののあはれ](https://open.spotify.com/album/1p7B1jLCom7PTx0ptCqtgH) | 3:46 | 2024-02-06 | 2024-02-14 |
 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 | 2024-02-13 | 2025-01-21 |
-| [恋だろ](https://open.spotify.com/track/0ir7DGXo3hxaPa82h1vrOj) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [恋だろ](https://open.spotify.com/album/0WkjisVaB4pwRf521uF6Qa) | 4:42 | 2023-02-09 | 2023-03-18 |
+| [恋だろ](https://open.spotify.com/track/0ir7DGXo3hxaPa82h1vrOj) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [恋だろ](https://open.spotify.com/album/0WkjisVaB4pwRf521uF6Qa) | 4:42 | 2023-02-09 |  |
 | [恋と呼ばないで](https://open.spotify.com/track/0yOM3ZxlUWynKBTeTvVYtH) | [ほのかりん](https://open.spotify.com/artist/2gNQP8hLHUGMdSzUb7vgXJ) | [恋と呼ばないで](https://open.spotify.com/album/64R2Rx4DErXusAVOigtXtu) | 4:04 | 2024-02-13 | 2024-02-21 |
 | [恋の8秒ルール](https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [恋の8秒ルール](https://open.spotify.com/album/4xveKS1fmSQAFotuTEaM76) | 3:28 | 2024-11-26 | 2025-01-29 |
 | [恋のディスマッチン](https://open.spotify.com/track/0Zciqrsv1JDOXWD5vYmY7F) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [恋のディスマッチン](https://open.spotify.com/album/67ShhE4c7V44stYppmwvgd) | 2:48 | 2023-05-30 | 2023-06-01 |
@@ -401,12 +402,12 @@
 | [愛とか恋とか](https://open.spotify.com/track/4McP7SOTK2NWkydOcDCajC) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [愛とか恋とか](https://open.spotify.com/album/4z3h8ucXGzCkhEWhIlkvTZ) | 3:52 | 2023-02-09 | 2023-08-13 |
 | [愛に恋よ](https://open.spotify.com/track/24AG8p0Yz6eUXVmiACOyw8) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [愛に恋よ](https://open.spotify.com/album/1Q4sstUQZ2Uq9fhJX2TRuI) | 3:26 | 2025-05-13 | 2025-06-11 |
 | [愛の理](https://open.spotify.com/track/4gE87R2Q0COLyin2WkG8vP) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [愛の理](https://open.spotify.com/album/04doVQsj3eowt5CY1KBFvL) | 4:31 | 2025-01-07 | 2025-03-26 |
-| [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:01 | 2023-04-05 | 2024-12-05 |
+| [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:01 | 2023-04-05 |  |
 | [愛の言葉](https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [愛の言葉](https://open.spotify.com/album/2riMQYgiw2Octvqe808il3) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 | 2023-06-13 | 2023-06-28 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-03-16 |  |
 | [愛トワ？](https://open.spotify.com/track/1GbEjjCBYzH5nUX5XoOJr2) | [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB) | [i my PINK](https://open.spotify.com/album/2Cqh7XcfPeDkLJf7jVhGR0) | 3:07 | 2024-12-17 | 2025-01-15 |
-| [愛不足](https://open.spotify.com/track/0EbZgYhcmmAferyvVQPDQw) | [RêRA](https://open.spotify.com/artist/6CRszti7lLAhMJb8HPocg5) | [Lovesoku](https://open.spotify.com/album/5M2uvhEDfCbvxz4dhte1bW) | 2:40 | 2025-02-18 |  |
+| [愛不足](https://open.spotify.com/track/0EbZgYhcmmAferyvVQPDQw) | [RêRA](https://open.spotify.com/artist/6CRszti7lLAhMJb8HPocg5) | [Lovesoku](https://open.spotify.com/album/5M2uvhEDfCbvxz4dhte1bW) | 2:40 | 2025-02-18 | 2025-09-25 |
 | [愛言葉](https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:46 | 2024-04-16 | 2025-01-11 |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-05-31 |
 | [挿入歌](https://open.spotify.com/track/1fVv4ryroKX1SjibfjdwQn) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [挿入歌](https://open.spotify.com/album/59CltZlhPEnyJDJzL9sUL2) | 2:57 | 2025-03-25 |  |

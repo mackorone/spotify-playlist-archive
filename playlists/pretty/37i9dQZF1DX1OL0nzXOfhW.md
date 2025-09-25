@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 49 | [Let go](https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Let go](https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO) | 3:50 |
 | 50 | [Cardigan](https://open.spotify.com/track/4LsjTHKqcBJOifEcwGGtmA) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Cardigan](https://open.spotify.com/album/0wEn3maDNRTOSrHSKczgIP) | 3:51 |
 
-Snapshot ID: `AAAAAB/5TU4Z+77OTiBh2brzGd+s1kpC`
+Snapshot ID: `AAAAAEmtwbVI8kfa0O8HFtfyK4OvrF+B`

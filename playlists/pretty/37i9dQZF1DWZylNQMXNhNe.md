@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Mia Badgyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,022 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,135 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 54 | [10 Minutos \- Remix](https://open.spotify.com/track/0dR7WzzTPGipMCiErNxgPh) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Amaríssima V2 \(Remix\)](https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm) | 2:31 |
 | 55 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
 | 56 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
-| 57 | [Falo Demais](https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Falo Demais](https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy) | 2:51 |
+| 57 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 |
 | 58 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
-| 59 | [PROFANO](https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar) | [Gabriel Nandes](https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77) | [PROFANO](https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb) | 2:51 |
-| 60 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
-| 61 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
+| 59 | [Falo Demais](https://open.spotify.com/track/4bqoWiI9AM0rrpbR1lrHIJ) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Falo Demais](https://open.spotify.com/album/2oslS4Mp2tK5UC79hIHOzy) | 2:51 |
+| 60 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
+| 61 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |
 | 62 | [Menino Pele Cor de Jambo](https://open.spotify.com/track/4aJmFKqNoJssmygH1WmeQG) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 3:42 |
-| 63 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
-| 64 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
-| 65 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
-| 66 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
+| 63 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
+| 64 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
+| 65 | ["bb, que tal?"](https://open.spotify.com/track/1JuDwpr7FHzVIePuQ6U9wj) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | ["bb, que tal?"](https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN) | 2:41 |
+| 66 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
 | 67 | [ÁGUA DE COCO](https://open.spotify.com/track/5zXwCrQhzWLMblT0jr7tyY) | [MARTTE](https://open.spotify.com/artist/2B0FJId7rVXaLQTAo4T35d), [Heddy Beats](https://open.spotify.com/artist/5uH8pXSGKaASumKHZA8PCS) | [ÁGUA DE COCO](https://open.spotify.com/album/5KUlNz5IscYnoUk8upQxyE) | 2:14 |
 | 68 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
 | 69 | [Perigosa](https://open.spotify.com/track/3CpZ0pZ79sPHE1oxrmGPhS) | [AMANDONA!](https://open.spotify.com/artist/3QsIywlgq5eS0jprFxuDmd) | [Perigosa](https://open.spotify.com/album/2VLa74bSqlJA1CS4gEhzQe) | 3:06 |

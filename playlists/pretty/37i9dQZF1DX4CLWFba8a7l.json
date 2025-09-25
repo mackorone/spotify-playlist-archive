@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Hazlett",
-  "num_followers": 131344,
+  "num_followers": 131409,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-09-18 14:01:04",
       "album": {
-        "name": "Yougotmefeeling",
-        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 183462,
-      "name": "Yougotmefeeling",
-      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
-    },
-    {
-      "added_at": "2025-09-18 14:01:04",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 189806,
       "name": "With You",
       "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "added_at": "2025-09-18 14:01:04",
+      "album": {
+        "name": "Yougotmefeeling",
+        "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 183462,
+      "name": "Yougotmefeeling",
+      "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"
     },
     {
       "added_at": "2025-09-18 14:01:04",
@@ -787,18 +787,22 @@
     {
       "added_at": "2025-09-18 14:01:04",
       "album": {
-        "name": "Fall From The Light",
-        "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
       "artists": [
         {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
-      "duration_ms": 206870,
-      "name": "Rage Against The Fatigue",
-      "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
       "added_at": "2025-09-18 14:01:04",
@@ -819,22 +823,18 @@
     {
       "added_at": "2025-09-18 14:01:04",
       "album": {
-        "name": "iluv",
-        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
+        "name": "Fall From The Light",
+        "url": "https://open.spotify.com/album/1djGELF1UPU0WaaG8ChI7m"
       },
       "artists": [
         {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
         }
       ],
-      "duration_ms": 257798,
-      "name": "iluv",
-      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+      "duration_ms": 206870,
+      "name": "Rage Against The Fatigue",
+      "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
     },
     {
       "added_at": "2025-09-18 14:01:04",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-09-18 14:01:04",
       "album": {
+        "name": "mountain of a memory",
+        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 145134,
+      "name": "mountain of a memory",
+      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
+    },
+    {
+      "added_at": "2025-09-18 14:01:04",
+      "album": {
         "name": "Easy Goodbye",
         "url": "https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 254296,
       "name": "Easy Goodbye",
       "url": "https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN"
-    },
-    {
-      "added_at": "2025-09-18 14:01:04",
-      "album": {
-        "name": "mountain of a memory",
-        "url": "https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 145134,
-      "name": "mountain of a memory",
-      "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
     },
     {
       "added_at": "2025-09-18 14:01:04",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-09-18 14:01:04",
       "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
-    },
-    {
-      "added_at": "2025-09-18 14:01:04",
-      "album": {
         "name": "Ooo",
         "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
       },
@@ -1159,22 +1143,6 @@
       "duration_ms": 239823,
       "name": "Ooo",
       "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
-    },
-    {
-      "added_at": "2025-09-18 14:01:04",
-      "album": {
-        "name": "SONS",
-        "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 154835,
-      "name": "It\u2019s Alright",
-      "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
     },
     {
       "added_at": "2025-09-18 14:01:04",
@@ -1199,6 +1167,38 @@
       "duration_ms": 221602,
       "name": "Give Thanks, Give Praise",
       "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "added_at": "2025-09-18 14:01:04",
+      "album": {
+        "name": "SONS",
+        "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 154835,
+      "name": "It\u2019s Alright",
+      "url": "https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC"
+    },
+    {
+      "added_at": "2025-09-18 14:01:04",
+      "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2025-09-18 14:01:04",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-09-18 14:01:04",
       "album": {
-        "name": "Shine, Glow, Glisten",
-        "url": "https://open.spotify.com/album/40QvMD3aV70QyngklC3d5h"
-      },
-      "artists": [
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 190219,
-      "name": "Shine, Glow, Glisten",
-      "url": "https://open.spotify.com/track/5MTaywYh6VyGvSV2urrzoB"
-    },
-    {
-      "added_at": "2025-09-18 14:01:04",
-      "album": {
         "name": "The Suburbs",
         "url": "https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw"
       },
@@ -1267,6 +1247,30 @@
       "duration_ms": 188712,
       "name": "The Suburbs",
       "url": "https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU"
+    },
+    {
+      "added_at": "2025-09-18 14:01:04",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 156302,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
     }
   ],
   "unique_name": "Turn Up Aus",

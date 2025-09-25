@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,546 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,559 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 38 | [Black Water \- Full Strings Vocal Mix](https://open.spotify.com/track/4GGjMkxZiV3Z7KqxcIMZJQ) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH), [Ann Saunderson](https://open.spotify.com/artist/7IItD0N1A3unbTmcIzsCEK) | [Space Ibiza 2014 \(25th Anniversary\) \[Unmixed DJ Version\]](https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf) | 8:38 |
 | 39 | [Starz](https://open.spotify.com/track/0tbtAd8TDRmHKbuPTolInF) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 8:04 |
 | 40 | [Strings Of Life](https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 6:02 |
-| 41 | [Elements](https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/505rV6smETxuNFTgRphph7) | 6:51 |
-| 42 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
+| 41 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
+| 42 | [Elements](https://open.spotify.com/track/4aZXoNpqXVZ8tAyoaLNrPh) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/505rV6smETxuNFTgRphph7) | 6:51 |
 | 43 | [Desire](https://open.spotify.com/track/0oe3RsEJZRr7XeofKjgvTq) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [Legendary Adventures Of A Filter King](https://open.spotify.com/album/6oZag0We7gLZWfWTn6gVW6) | 6:27 |
 | 44 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 | 45 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 |

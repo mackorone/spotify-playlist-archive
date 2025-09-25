@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros",
-  "num_followers": 234038,
+  "num_followers": 234073,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -377,7 +377,7 @@
         },
         {
           "name": "Motion Boyz",
-          "url": "https://open.spotify.com/artist/0djTxVAS7f03XrIsC3WE4t"
+          "url": "https://open.spotify.com/artist/4QP9ap4a6R1krf7uSlntJX"
         }
       ],
       "duration_ms": 209580,
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Vem Ser Feliz",
-        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
-      },
-      "artists": [
-        {
-          "name": "Lurhany",
-          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "Vem Ser Feliz",
-      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "Com Quem Ser\u00e1",
         "url": "https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 268314,
       "name": "Com Quem Ser\u00e1",
       "url": "https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Vem Ser Feliz",
+        "url": "https://open.spotify.com/album/5I3p9Ahmt2eLYivBrjKVLK"
+      },
+      "artists": [
+        {
+          "name": "Lurhany",
+          "url": "https://open.spotify.com/artist/3ohRcZusOEIJxhbEiFkDIi"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Vem Ser Feliz",
+      "url": "https://open.spotify.com/track/6i3jg8knbFP7BzxtO5FOsO"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Lei 14",
-        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
-      },
-      "artists": [
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
-        }
-      ],
-      "duration_ms": 195239,
-      "name": "Lei 14",
-      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -867,6 +847,30 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Aurea",
+        "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
+      },
+      "artists": [
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Smash Midas",
+          "url": "https://open.spotify.com/artist/4Vp4kayLyCZwqJZDBsaRks"
+        }
+      ],
+      "duration_ms": 171828,
+      "name": "Tropa",
+      "url": "https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -927,30 +931,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Aurea",
-        "url": "https://open.spotify.com/album/50lSvWEPv6qPl3GfFJK5ME"
-      },
-      "artists": [
-        {
-          "name": "CEF Tanzy",
-          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
-        },
-        {
-          "name": "Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "Smash Midas",
-          "url": "https://open.spotify.com/artist/4Vp4kayLyCZwqJZDBsaRks"
-        }
-      ],
-      "duration_ms": 171828,
-      "name": "Tropa",
-      "url": "https://open.spotify.com/track/1KaTHUUHdLUjIuycG8dOaI"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/6ytjJo8hEyctTUFRjlHQHH"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 186898,
       "name": "Lua",
       "url": "https://open.spotify.com/track/3jyfrKAkc6ly4zGt0zvnQB"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Lei 14",
+        "url": "https://open.spotify.com/album/3Vismvbrwae1A8YrhbTciO"
+      },
+      "artists": [
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 195239,
+      "name": "Lei 14",
+      "url": "https://open.spotify.com/track/1M6WPpdJZSnvZcuXXVfodu"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "Tentason",
+        "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 166913,
+      "name": "Tentason",
+      "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 175346,
       "name": "Vida Linda",
       "url": "https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "Tentason",
-        "url": "https://open.spotify.com/album/60h79pB92rRHM2u1lFrCUp"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 166913,
-      "name": "Tentason",
-      "url": "https://open.spotify.com/track/6eLqJZ7VHTHTxJWPWkZQdd"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "Ado\u00e7are",
-        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 218229,
-      "name": "Ado\u00e7are",
-      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "Bom Dia",
         "url": "https://open.spotify.com/album/5yMkVXNyaa2AA9RqDuAqzX"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 195529,
       "name": "Bom Dia",
       "url": "https://open.spotify.com/track/0I2KjbYEBm2mE8Dc9KbIYB"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "Ado\u00e7are",
+        "url": "https://open.spotify.com/album/2NlRRJjh24MTvK4OTCuCAy"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 218229,
+      "name": "Ado\u00e7are",
+      "url": "https://open.spotify.com/track/19R7zhkc3pex8XOGXPWo06"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "KANORMAL",
+        "url": "https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "KANORMAL",
+      "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
         "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 237717,
       "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) - Remix",
       "url": "https://open.spotify.com/track/2soAp2kfNmLbb22JJIc96y"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "KANORMAL",
-        "url": "https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "KANORMAL",
-      "url": "https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
+        "name": "Jungle Fever",
+        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
+      },
+      "artists": [
+        {
+          "name": "Nelson Freitas",
+          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
+        }
+      ],
+      "duration_ms": 195350,
+      "name": "Jungle Fever",
+      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
         "name": "PAM PAM PAM",
         "url": "https://open.spotify.com/album/7tMDrcifyZBzg4OHNMT8pQ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 162580,
       "name": "PAM PAM PAM",
       "url": "https://open.spotify.com/track/7HV51rFNRhOsdXRNH8iAkZ"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
-        "name": "Jungle Fever",
-        "url": "https://open.spotify.com/album/4ZofQ8oaS2vhphaEJKEWdh"
-      },
-      "artists": [
-        {
-          "name": "Nelson Freitas",
-          "url": "https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB"
-        }
-      ],
-      "duration_ms": 195350,
-      "name": "Jungle Fever",
-      "url": "https://open.spotify.com/track/4GLJD3Rgy9Dmzy2Ies61Ca"
     },
     {
       "added_at": "2025-09-18 23:00:13",
@@ -1399,30 +1399,6 @@
     {
       "added_at": "2025-09-18 23:00:13",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
-        },
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        }
-      ],
-      "duration_ms": 200598,
-      "name": "Suleban",
-      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
-    },
-    {
-      "added_at": "2025-09-18 23:00:13",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/1cCpht9GFIIXxs8eZ5nZrg"
       },
@@ -1443,6 +1419,30 @@
       "duration_ms": 227843,
       "name": "S\u00f3 Sodadi",
       "url": "https://open.spotify.com/track/0DVyY8f6620VYX5lH35l9Q"
+    },
+    {
+      "added_at": "2025-09-18 23:00:13",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/5wNjW2Z5HwxBy8ljV6BKff"
+      },
+      "artists": [
+        {
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 200598,
+      "name": "Suleban",
+      "url": "https://open.spotify.com/track/6nDSopKJiyH5XfhwNSsKYG"
     },
     {
       "added_at": "2025-09-18 23:00:13",

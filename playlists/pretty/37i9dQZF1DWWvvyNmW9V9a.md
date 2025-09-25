@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > ‼️ secret moments in a crowded room ‼️
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,108,068 likes - 104 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,108,173 likes - 104 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

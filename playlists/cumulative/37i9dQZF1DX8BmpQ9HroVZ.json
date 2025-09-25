@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan. Cover: Omar Mukhtar",
+  "description": "The hottest tracks trending in Pakistan \ud83d\udd25 Cover: Ali Sethi, Shae Gill",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -239,6 +239,36 @@
     },
     {
       "album": {
+        "name": "90-90 Nabbe Nabbe (From \"Jatt Nuu Chudail Takri\")",
+        "url": "https://open.spotify.com/album/3rs4PslN9COSxH2LiPBoqk"
+      },
+      "artists": [
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Sagar",
+          "url": "https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN"
+        },
+        {
+          "name": "Hunny Bunny",
+          "url": "https://open.spotify.com/artist/5TycGY5mrvD4Fi1P0SS3rw"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194550,
+      "name": "90-90 Nabbe Nabbe (From \"Jatt Nuu Chudail Takri\")",
+      "url": "https://open.spotify.com/track/6zFbh6AuEFcJqqCxipeg0Q"
+    },
+    {
+      "album": {
         "name": "9:45",
         "url": "https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR"
       },
@@ -310,6 +340,36 @@
       "duration_ms": 212912,
       "name": "Aadat",
       "url": "https://open.spotify.com/track/5EsooZeqyyqi3P1KhSKmoo"
+    },
+    {
+      "album": {
+        "name": "Stree 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rkpg1IvjxuGhvcfceIfVW"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228620,
+      "name": "Aaj Ki Raat",
+      "url": "https://open.spotify.com/track/7w781Nnk4MnRsZrZ4TO2XY"
     },
     {
       "album": {
@@ -4210,7 +4270,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 146001,
       "name": "Ishq Hai (This is Love) - From \"Mismatched, Season 3\"",
       "url": "https://open.spotify.com/track/53PHY7P6XrgX6YdPxJAhvO"
@@ -5302,7 +5362,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-03",
+      "date_removed": null,
       "duration_ms": 256148,
       "name": "Laal Pari (From \"Housefull 5\")",
       "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"
@@ -5510,6 +5570,32 @@
       "duration_ms": 196250,
       "name": "Left Right",
       "url": "https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp"
+    },
+    {
+      "album": {
+        "name": "Lehnga (From \"Jatt & Juliet 3\")",
+        "url": "https://open.spotify.com/album/1K7LHl1gSXekQiV08hbeAd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Bunny",
+          "url": "https://open.spotify.com/artist/6EquCONlKAoTp4MEunvsVq"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189762,
+      "name": "Lehnga (From \"Jatt & Juliet 3\")",
+      "url": "https://open.spotify.com/track/1xJRsUJZoL6LvBpBGWks8L"
     },
     {
       "album": {
@@ -7166,7 +7252,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 666000,
       "name": "Par Chanaa De (Coke Studio Season 9)",
       "url": "https://open.spotify.com/track/7292h5pidNaLfrse63T3dQ"
@@ -7239,6 +7325,32 @@
     },
     {
       "album": {
+        "name": "Parindey (From \"Jatt Nuu Chudail Takri\")",
+        "url": "https://open.spotify.com/album/416V9hPUHyM30URol93F8M"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Harmanjeet",
+          "url": "https://open.spotify.com/artist/2FRg6CIXD61xyvxUOzhYy5"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243035,
+      "name": "Parindey (From \"Jatt Nuu Chudail Takri\")",
+      "url": "https://open.spotify.com/track/4zD5IxK0MBPZ0ET58Ihhpm"
+    },
+    {
+      "album": {
         "name": "Paro",
         "url": "https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl"
       },
@@ -7266,17 +7378,17 @@
       },
       "artists": [
         {
-          "name": "Shae Gill",
-          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
-        },
-        {
           "name": "Ali Sethi",
           "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
         }
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-07",
+      "date_removed": null,
       "duration_ms": 224146,
       "name": "Pasoori",
       "url": "https://open.spotify.com/track/7lvDsmTRXFE3dK4OjvRiWB"
@@ -8360,7 +8472,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 179082,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
@@ -9089,6 +9201,28 @@
     },
     {
       "album": {
+        "name": "Day 5",
+        "url": "https://open.spotify.com/album/0i6ojSzvOTKDj9u7jgwzeg"
+      },
+      "artists": [
+        {
+          "name": "Hassan & Roshaan",
+          "url": "https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255764,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA"
+    },
+    {
+      "album": {
         "name": "Sukoon",
         "url": "https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB"
       },
@@ -9428,6 +9562,32 @@
       "duration_ms": 168200,
       "name": "Tension",
       "url": "https://open.spotify.com/track/0BlESrrPor7TRRpRz3nRZ5"
+    },
+    {
+      "album": {
+        "name": "Tera Kasoor",
+        "url": "https://open.spotify.com/album/6AoRPYCFmW2Y9VxmDKXY6U"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208039,
+      "name": "Tera Kasoor",
+      "url": "https://open.spotify.com/track/3i0NJapaxroNdrS4ffFbDY"
     },
     {
       "album": {

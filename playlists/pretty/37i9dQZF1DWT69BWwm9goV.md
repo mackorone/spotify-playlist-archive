@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 
 > A collection of songs from Spotify's original video series OUTSIDE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,098 likes - 23 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,099 likes - 23 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT69BWwm9goV.md) - [plain]
 | 20 | [Flip a Coin \- Spotify OUTSIDE Version \- Live from Burnet, TX](https://open.spotify.com/track/2Hc0gzPRXrmUleRpUwX0sb) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Flip a Coin \(Spotify OUTSIDE Version \- Live from Burnet, TX\)](https://open.spotify.com/album/3SLqSzzUoodKo22UfEOGUd) | 3:32 |
 | 21 | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/track/2PRuqeZxJNYdnSdPym47kF) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Cash Kidd](https://open.spotify.com/artist/26qmuJTgE3g67pPClBQ3Iu) | [GEEKALEEK \(feat\. Cash Kidd\) \[Spotify OUTSIDE Version\]](https://open.spotify.com/album/2AcsiMcYpsiL3wsZytd14m) | 2:26 |
 | 22 | [Burn \(Spotify OUTSIDE Version\) \- Live from Nashville](https://open.spotify.com/track/7sbC0OC0HQZRzRkzdwi2pe) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [OUTSIDE](https://open.spotify.com/album/5QCncBR19XVNeTeIyGJijz) | 3:25 |
-| 23 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [SPOTIFY OUTSIDE](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 |
+| 23 | [Still In Shocc \(Spotify OUTSIDE Version\) \- Live from Watts, CA](https://open.spotify.com/track/0zivr0gI6MPlcy2apSKMA7) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Still In Shocc \(Spotify OUTSIDE Version\) \[Live from Watts, CA\]](https://open.spotify.com/album/0RG860dF0cxd5ODJOYJlOX) | 2:35 |
 
 Snapshot ID: `AAAAAIAT4WcfaJqJTyROk75cVGG1HA1u`

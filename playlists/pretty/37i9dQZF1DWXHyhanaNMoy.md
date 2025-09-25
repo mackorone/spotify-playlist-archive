@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Langa ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,995 likes - 70 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,054 likes - 70 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

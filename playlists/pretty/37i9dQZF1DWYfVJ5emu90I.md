@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,884 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,889 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 43 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 44 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 |
 | 45 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
-| 46 | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
-| 47 | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m) | 3:17 |
+| 46 | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [Villains feat\. edhiii boi, Novel Core](https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m) | 3:17 |
+| 47 | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/track/7j6oAHpOU0k0sszlMK8ioQ) | [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SUSUME \(feat\. NENE & JP THE WAVY\)](https://open.spotify.com/album/4zUGmG0XwbpEw67ArG1oFh) | 3:18 |
 | 48 | [FEEL THE RAIN \(feat\. Ralph\)](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
-| 49 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
-| 50 | [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 |
+| 49 | [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 |
+| 50 | [DEATH NOTE](https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie), [NEMLAND](https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j) | [DEATH NOTE](https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW) | 2:54 |
 
-Snapshot ID: `AAAAAJOD6KlwSIuaPvTOQ3zdwdeoBwtI`
+Snapshot ID: `AAAAADYi2UNAU0qckiTLj231H7xWBa4A`

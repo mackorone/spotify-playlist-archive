@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > lo mejor nunca se sube
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407,153 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407,096 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 27 | [Si Tú Me Quisieras](https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:22 |
 | 28 | [Rodillas](https://open.spotify.com/track/3V0dDAgNdQod4YwoqrPMZP) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Hate](https://open.spotify.com/artist/0CE9Pp45uCrBkCsL4COjfS) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 3:31 |
 | 29 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
-| 30 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 30 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 31 | [Take Me Away \- From "Freakier Friday"](https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP) | [Christina Vidal Mitchell](https://open.spotify.com/artist/0677ffAmURcLIn4qC5lYMk), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Take Me Away \(From "Freakier Friday"\)](https://open.spotify.com/album/18KERjxjpMewx9J7hKVEQE) | 3:06 |
 | 32 | [Bonde do Brunão](https://open.spotify.com/track/4mOWnjz30frv1pKMM6DNfv) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Bonde do Brunão](https://open.spotify.com/album/49avguRc9qHbWv5Gjmj4nQ) | 0:57 |
 | 33 | [FUNK MI CAMINO](https://open.spotify.com/track/4ALBjCoOOGRYCrBElu0eVr) | [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [Junior RCE](https://open.spotify.com/artist/5T8hdXoLNcWcnZ3OE3CRGP) | [FUNK MI CAMINO](https://open.spotify.com/album/7xkREs7H4s3FluEODbsJEI) | 1:20 |

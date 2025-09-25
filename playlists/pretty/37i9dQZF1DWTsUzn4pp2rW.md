@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,393 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,449 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 92 | [Take Me Off to Dreamland](https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Take Me Off to Dreamland](https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC) | 4:48 |
 | 93 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |
 | 94 | [You Are My Everything](https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x) | [Oliver Nosaczynski Bohovič](https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum) | [You Are My Everything](https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4) | 4:10 |
-| 95 | [You Can't Hide Away From Love](https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller](https://open.spotify.com/album/5SRbo9fLmQzZqInna05WyM) | 3:08 |
-| 96 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
+| 95 | [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 |
+| 96 | [You Can't Hide Away From Love](https://open.spotify.com/track/73gYqDCBbnFjp3CWkpuwTK) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller](https://open.spotify.com/album/5SRbo9fLmQzZqInna05WyM) | 3:08 |
 | 97 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
-| 98 | [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 |
+| 98 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 99 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
 | 100 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
 

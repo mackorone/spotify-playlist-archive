@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,907 likes - 130 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,973 likes - 130 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 32 | [Delaylay](https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt) | [Stage Kids](https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU) | [Intra Mental](https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al) | 3:45 |
 | 33 | [When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.](https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [More Skin With Milk\-Mouth](https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV) | 3:52 |
 | 34 | [firebird](https://open.spotify.com/track/1MYCp8HhMJfQuYqiHruJ7N) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV) | [catharsis](https://open.spotify.com/album/3DIA7RA1Ga6aYw7qdjU88m) | 4:40 |
-| 35 | [Fire Back About Your New Baby's Sex](https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [American Don](https://open.spotify.com/album/3y1aPtqR1BkUXAaOUoDCRo) | 4:43 |
-| 36 | [Whatever, Whenever](https://open.spotify.com/track/4IPJGhEfmcmpUl2uz4mr6U) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Disappointment Island](https://open.spotify.com/album/4mhni2BF52EZlZQlvvGaHx) | 5:37 |
+| 35 | [Whatever, Whenever](https://open.spotify.com/track/4IPJGhEfmcmpUl2uz4mr6U) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Disappointment Island](https://open.spotify.com/album/4mhni2BF52EZlZQlvvGaHx) | 5:37 |
+| 36 | [Fire Back About Your New Baby's Sex](https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [American Don](https://open.spotify.com/album/3y1aPtqR1BkUXAaOUoDCRo) | 4:43 |
 | 37 | [Sultans of Ping](https://open.spotify.com/track/4F89IseMV1ILFfE8d9coyR) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Ghost City](https://open.spotify.com/album/63PgGSb6ZkwPVfMZVOhObO) | 4:46 |
 | 38 | [Natural Light](https://open.spotify.com/track/0iPyZ5pGwkxllI4LmqmkBF) | [Of Two Minds](https://open.spotify.com/artist/0rtQWH4Rk1eqXt0hih66sL) | [Natural Light](https://open.spotify.com/album/5qCQglnOmuu5RSLtyReSko) | 3:57 |
 | 39 | [Little Bubble, Where You Going?](https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx) | [Piglet](https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU) | [Lava Land](https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM) | 4:57 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 59 | [Cramm](https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2) | [Three Trapped Tigers](https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT) | [Route One or Die](https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH) | 4:58 |
 | 60 | [Bambú](https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o) | [Puerto Austral](https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o) | [51°31'47"S 58°07'44"W](https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O) | 3:33 |
 | 61 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
-| 62 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
-| 63 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
-| 64 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
+| 62 | […But the Pants Stay On](https://open.spotify.com/track/6yyIt97DsuLaPeGt4hlCH1) | [A Minor Forest](https://open.spotify.com/artist/4ABTeyDAbK3iv09CHSsoW0) | [Flemish Altruism \(Constituent Parts 1993\-1996\) \[Remaster\]](https://open.spotify.com/album/0V8uE11hFKvBpRkWockq70) | 6:42 |
+| 63 | [Baile Amargo](https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5) | [Wanderlust](https://open.spotify.com/artist/3hacWq1eA8akZcZmmUNbOY) | [Naufragio](https://open.spotify.com/album/6RneXac3NVeZFsjPfd9I9Z) | 2:54 |
+| 64 | [Not To Follow](https://open.spotify.com/track/4BtSV1NPe5gFX24IwiAHVw) | [Thingy](https://open.spotify.com/artist/2yW7ALxCYqJMTBFLxGbs3g) | [Morbid Curiosity](https://open.spotify.com/album/4JlMkyYC15UyfYmTRSIw71) | 2:06 |
 | 65 | [Beow](https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab) | [Suffer Like G Did](https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf) | [Beow](https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl) | 3:28 |
 | 66 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 |
 | 67 | [You Eat Houmous, of Course You Listen to Genesis](https://open.spotify.com/track/1o4JR1GCZv5neEl6Djs71B) | [Alpha Male Tea Party](https://open.spotify.com/artist/2JVPwr6UNZIdsdl8rjTD7S) | [Droids](https://open.spotify.com/album/2ZW4OKLdMjp53HgVckgOv0) | 3:40 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 78 | [Una Historia para Acabar Con Todas las Historias](https://open.spotify.com/track/4Hz9fhs2GgLBMIkyjDf4ND) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Propulsor](https://open.spotify.com/album/5vuM8yklTf8nA3wU9q85hI) | 6:21 |
 | 79 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
 | 80 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
-| 81 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 |
-| 82 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |
+| 81 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |
+| 82 | [Ruth Leslie \(Cigregrets Pt\. 1\)](https://open.spotify.com/track/6W9yjiuIczOUQlp1jG3FwE) | [Narrow / Arrow](https://open.spotify.com/artist/7al8a2jU7x4H9AcA7TeyqE) | [Asbestos Weak Hood](https://open.spotify.com/album/4g3y6JrQ6Jr065jNCoWPo1) | 3:02 |
 | 83 | [Torino](https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio y la Última Vuelta al Palejonú](https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH) | 4:11 |
 | 84 | [Alexander Supertramp](https://open.spotify.com/track/0EMVbySv8ObWdQwBLfqRis) | [Bangladesh](https://open.spotify.com/artist/3z8lWUpLUM0Z4b2184qpQF) | [Alexander Supertramp](https://open.spotify.com/album/1zxkyKlgkOYdNGMu1JKeoj) | 4:37 |
 | 85 | [Kelly](https://open.spotify.com/track/1lCNGICdfBgQXCV2Xq9nIR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 1:21 |

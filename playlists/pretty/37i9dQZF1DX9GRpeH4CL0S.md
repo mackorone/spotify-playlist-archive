@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest alternative rock songs through the decades\. Cover: Weezer
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,580 likes - 200 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,762 likes - 200 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 173 | [Glycerine \- 2014 Remastered](https://open.spotify.com/track/7wpYSigAhQeZp3cdsMQ3Af) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(2014 Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:26 |
 | 174 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 175 | [Sugar, We're Goin Down](https://open.spotify.com/track/4zjFqN9fXAw91GNgJOCYX6) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/0L0mzP8RGm5SNlwgZfBuxW) | 3:49 |
-| 176 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
-| 177 | [Banquet](https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp) | 3:20 |
+| 176 | [Banquet](https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/4KeTvCYCel3Ky58FirciWp) | 3:20 |
+| 177 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
 | 178 | [Closer](https://open.spotify.com/track/39tLc4Xp58Lu4KcWHggeE2) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3i13RcPnJ0AkHEamweLGhq) | 6:13 |
 | 179 | [Two Weeks](https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk) | 4:03 |
 | 180 | [New Slang](https://open.spotify.com/track/5oUV6yWdDM0R9Q2CizRhIt) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World](https://open.spotify.com/album/34XlrJGfsDhvRDeJ8a6lie) | 3:51 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. Cover: Soli
+> The best new music by independent artists and labels\. Cover: Loretta
 
 4,268 songs - 9 day 19 hr 7 min
 

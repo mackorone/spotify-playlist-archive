@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Azekel
 
-941 songs - 1 day 21 hr 46 min
+942 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Check It](https://open.spotify.com/track/7yxDY4iSzYHdTY926xhEGs) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Check It](https://open.spotify.com/album/2kUbBBPDfAzMMpAFIeL9eK) | 2:14 | 2025-07-11 | 2025-09-19 |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-28 | 2023-06-17 |
 | [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 | 2022-03-17 | 2022-11-19 |
-| [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 | 2025-08-26 |  |
+| [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 | 2025-08-26 | 2025-09-25 |
 | [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 | 2022-11-04 |
 | [Church](https://open.spotify.com/track/0IttfgbYxRk29Gm9cfAUlD) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz), [Questo](https://open.spotify.com/artist/5REZEArOcBsnAhxxRfTu3r) | [Church](https://open.spotify.com/album/0V5I3gahutfxogCBzwiXht) | 2:54 | 2022-03-24 | 2022-04-22 |
 | [Cigarette](https://open.spotify.com/track/5NLPsDXx7q3zZFbFv5pdeQ) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Cigarette](https://open.spotify.com/album/7lVfpqQNDnvujR82cyXFOd) | 4:13 | 2021-05-28 | 2022-06-04 |
@@ -375,6 +375,7 @@
 | [Hrtbeat](https://open.spotify.com/track/5FQRYQP9Q3hbon5AHHVSGj) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Hrtbeat](https://open.spotify.com/album/3U2ZI65KLHy2tNYs1r5ymD) | 2:07 | 2025-08-15 | 2025-08-31 |
 | [Hubris](https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx), [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [Hubris](https://open.spotify.com/album/5Bsfvg0Xbe7FXhTz0yfsmZ) | 3:26 | 2022-02-10 | 2022-05-20 |
 | [HURTS LIKE HEAVEN](https://open.spotify.com/track/12X4xWpq0wNgHNDtyJhI2E) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [For The Love of R&B Vol 1](https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ) | 4:09 | 2024-10-04 | 2025-06-06 |
+| [Hustle](https://open.spotify.com/track/5xduHtDm8OyJ697Dv57Wjj) | [SAMI OMOH](https://open.spotify.com/artist/7jkxdRqCyXDA2YsOB71ZUe) | [Lagos / Hustle](https://open.spotify.com/album/1Cfltw1ZdUGZ7gWr0lEGFZ) | 1:44 | 2025-09-23 |  |
 | [Hyperlove](https://open.spotify.com/track/6EJO9st8JcVyLMVzdCe6ER) | [KiD JET](https://open.spotify.com/artist/0flZt1TurT6T8OujnfC9EF) | [Hyperlove](https://open.spotify.com/album/6HwYTnri4ryi1620cSNlvF) | 2:09 | 2023-04-20 | 2023-04-29 |
 | [I Do](https://open.spotify.com/track/5CPU6T60J0pUBjmIAHEeGT) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [I Do](https://open.spotify.com/album/6cXdoVKMPADTGNsg0FiORj) | 3:08 | 2022-07-22 | 2022-09-02 |
 | [I Don't Fkn Like You](https://open.spotify.com/track/3uVXbFRTwIZ8wKk0NF7G59) | [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [I Don't Fkn Like You](https://open.spotify.com/album/4p1NJZkxCMA5fU5SCwT7F2) | 1:44 | 2023-09-14 | 2023-09-22 |

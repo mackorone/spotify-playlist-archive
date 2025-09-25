@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-205 songs - 9 hr 57 min
+206 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Dishhh!](https://open.spotify.com/track/6xEYN6QXI1SIpWgNcSSpp8) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/1o3AaUlBFhw0sM5euTgU2P) | 2:51 | 2022-12-06 | 2023-05-24 |
 | [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 | 2025-01-15 |  |
 | [Do this shit 4 me](https://open.spotify.com/track/2jOiXhcWIAC3Vf1BsIyiwS) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5QQop5JtIhXGjH1W3w1cEF) | 2:31 | 2023-05-23 | 2024-04-19 |
-| [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 | 2024-02-27 |  |
+| [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 | 2024-02-27 | 2025-09-25 |
 | [Don Julio \- Shin Andrew Remix](https://open.spotify.com/track/4u0AqqE77aqCTrnkBTp9TX) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP), [Shin Andrew](https://open.spotify.com/artist/35GFNpxXqLW4KbjBMEmJZO) | [Don Julio \(Shin Andrew Remix\)](https://open.spotify.com/album/337FweeAlBDwp7rNrbykAN) | 3:00 | 2024-04-24 | 2024-08-21 |
 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 | 2024-07-12 |  |
 | [DOSHABURI](https://open.spotify.com/track/3mYO2S7o4kpIXVnhtYHhLL) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [DOSHABURI](https://open.spotify.com/album/61bA17oFLiO0GB2hVLJnUp) | 2:41 | 2023-06-21 | 2023-08-22 |
@@ -119,6 +119,7 @@
 | [Move Up](https://open.spotify.com/track/3LNZ1bU1WdBkoLzbBVb2Ps) | [Diva Wisteria](https://open.spotify.com/artist/1pULTdGy91pturvFKAbhBn) | [Move Up](https://open.spotify.com/album/2dFozDdhNAGV8pjll0ztay) | 3:07 | 2024-02-27 | 2024-08-21 |
 | [MUJI TEE](https://open.spotify.com/track/0ektvubmcjCJVjHZ4kEwLJ) | [Lil’Yukichi](https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA), [FULLMATIC](https://open.spotify.com/artist/2QQLXRKZTRHWgbzfCz5ZSU), [DSXTX](https://open.spotify.com/artist/73TwGzLgB0TwVcEBbKd4Hw) | [MUJI TEE](https://open.spotify.com/album/0wcf67hoX2dWUYz1Xbp4ZG) | 3:02 | 2022-12-22 | 2023-05-24 |
 | [Nakamura \- Remix](https://open.spotify.com/track/3js6AKGtNyfmR2eMG5lKdZ) | [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [ghostpops](https://open.spotify.com/artist/6zFpstOqy3dPfdqsOmaZcI), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [Kraftykid](https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord) | [Nakamura \(Remix\)](https://open.spotify.com/album/3HssFlV7CUvmzjPa4yv93k) | 3:27 | 2022-11-19 | 2022-12-07 |
+| [NANI?](https://open.spotify.com/track/1y33kshjDNRnUoIKM7Cd8R) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [NANI?](https://open.spotify.com/album/4WC3me8swIsMvAXBhXiROD) | 2:17 | 2025-09-24 |  |
 | [New Balance](https://open.spotify.com/track/1WqTLTA1e1oeAMkPq6bqgg) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/1AkoAGBaL8rdGdf21KwiTO) | 2:17 | 2024-02-06 | 2024-07-07 |
 | [New Balance](https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru) | [18scott](https://open.spotify.com/artist/5nXbqfx9TdDW8rM0etcd33) | [New Balance](https://open.spotify.com/album/0sOlU9sNpco1MqShnwHaWo) | 2:17 | 2024-02-06 | 2024-04-19 |
 | [NEW REAL](https://open.spotify.com/track/6XDPT5hDzyCibE904EpNx2) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [NEW REAL](https://open.spotify.com/album/3soVw5GCfP8alGAzFYdhfN) | 3:15 | 2022-11-19 | 2024-01-24 |

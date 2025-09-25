@@ -889,6 +889,32 @@
     },
     {
       "album": {
+        "name": "Baddie galning",
+        "url": "https://open.spotify.com/album/6AkgMXAVFdZ4xK8u6bf0Dl"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Wallner",
+          "url": "https://open.spotify.com/artist/5mtcdc3AISdIoSg8blvfIQ"
+        },
+        {
+          "name": "Anton Agony",
+          "url": "https://open.spotify.com/artist/3U5DQMSyhJCMchw4Zbhrrr"
+        },
+        {
+          "name": "Antebror",
+          "url": "https://open.spotify.com/artist/1wZq6NYf8EvSVakxE2gvZn"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109918,
+      "name": "Baddie galning",
+      "url": "https://open.spotify.com/track/3hbiurYlHlLTj4Nc5LnDmF"
+    },
+    {
+      "album": {
         "name": "Bailar (feat. Elvis Crespo) [Radio Edit]",
         "url": "https://open.spotify.com/album/1tAISk8OvvhU8V5QGuXyJS"
       },
@@ -4234,7 +4260,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 201800,
       "name": "High Life",
       "url": "https://open.spotify.com/track/098ttCNmncrO4YvqWUNMvn"

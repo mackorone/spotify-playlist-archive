@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,699 likes - 150 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,704 likes - 150 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,8 +124,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 114 | [It Ain't Over Yet](https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [It Ain't Over Yet](https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL) | 5:14 |
 | 115 | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/track/727Ric7BCNuahIETyOALEU) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Who's Gonna Take the Garbage Out \(feat\. Iris Dement\)](https://open.spotify.com/album/78B8UFzhXSTF7aCbwyDmbt) | 2:41 |
 | 116 | [Just To Watch Maria Dance](https://open.spotify.com/track/71JN9WNpdHwbr22XSAbwRP) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Just To Watch Maria Dance](https://open.spotify.com/album/7065TFrbGtfx5TCIBXpmtY) | 2:16 |
-| 117 | [16 Days](https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac \[Deluxe Edition\]](https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX) | 3:54 |
-| 118 | [High Hopes](https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [High Hopes](https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2) | 4:56 |
+| 117 | [High Hopes](https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [High Hopes](https://open.spotify.com/album/3oipPyr0mkTo3ombQlufj2) | 4:56 |
+| 118 | [16 Days](https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac \[Deluxe Edition\]](https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX) | 3:54 |
 | 119 | [Down To The River To Pray \- From “O Brother, Where Art Thou” Soundtrack](https://open.spotify.com/track/5HVHKtP234OzwCSrZlVS30) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7mNWca5S6eg21krZzHAoZt) | 2:56 |
 | 120 | [I Have Met My Love Today \- Recorded at RCA Studio a, Nashville](https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Spotify Singles](https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr) | 2:29 |
 | 121 | [Stranger to My Happiness](https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Give the People What They Want](https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf) | 3:31 |

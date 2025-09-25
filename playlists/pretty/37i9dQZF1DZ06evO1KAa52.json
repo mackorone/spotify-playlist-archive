@@ -1,6 +1,6 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 661343,
+  "num_followers": 661353,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "aNCRgAAAAAB1AKAgcCsniTLbdfp6dOaj",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The 20/20 Experience (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 484146,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 242733,
       "name": "SexyBack (feat. Timbaland)",
       "url": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The 20/20 Experience (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0O82niJ0NpcptYRxogeEZu"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 484146,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV"
     },
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FutureSex/LoveSounds Deluxe Edition",
         "url": "https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 276160,
       "name": "My Love (feat. T.I.)",
       "url": "https://open.spotify.com/track/4NeOWqHmlrGRuBvsLJC9rL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FutureSex/LoveSounds",
-        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 252973,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
     },
     {
       "added_at": null,
@@ -564,13 +564,17 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 81666,
-      "name": "BroZone's Back",
-      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
     },
     {
       "added_at": null,
@@ -652,17 +656,13 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
     },
     {
       "added_at": null,

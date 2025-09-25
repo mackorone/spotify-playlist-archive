@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-179 songs - 9 hr 5 min
+180 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Only In Memories](https://open.spotify.com/track/5BRMKBITG2JK0nND2yvsX4) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [Only In Memories](https://open.spotify.com/album/6LZlNo3LZBsWIbdFmfFMlp) | 2:56 | 2024-12-22 |  |
 | [Orion](https://open.spotify.com/track/44pz5LCYYGKHrkwyP3AX9u) | [Protocols](https://open.spotify.com/artist/3Xi9NGRGPDLOUHt03WMZJx) | [2 A.M Chill Session](https://open.spotify.com/album/3PZmQxxLUZwyyMgXWUpmuw) | 2:57 | 2024-06-06 |  |
 | [Out in the Rain](https://open.spotify.com/track/79m4ZOoOIAlhCtADrWqDqN) | [Forever Sunset](https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG) | [The Night Is Mine](https://open.spotify.com/album/0OR0YcdVqUaNzFWkL6XeTb) | 3:37 | 2024-07-04 |  |
-| [Outrunners](https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH) | [Beta Beta Beta](https://open.spotify.com/artist/3Q6xEwdxfXL8lTgj1KbXkU) | [Outrunners](https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU) | 3:30 | 2024-06-06 |  |
+| [Outrunners](https://open.spotify.com/track/3dbEGEBl2UlFHhxSPHsQrH) | [Beta Beta Beta](https://open.spotify.com/artist/3Q6xEwdxfXL8lTgj1KbXkU) | [Outrunners](https://open.spotify.com/album/1lHAsQQl2cVbrsuhKdpqdU) | 3:30 | 2024-06-06 | 2025-09-25 |
 | [Paralyzed](https://open.spotify.com/track/0gX3h8VLzb5pjFf4ghqRHm) | [auroratønes](https://open.spotify.com/artist/25xv3luiiLhzEWDSk0SOmy), [Vilaxxs](https://open.spotify.com/artist/2uahqz51pzezhpMsqZvk2j) | [Paralyzed](https://open.spotify.com/album/1Gj2W2ezyr059sa2fmrPlv) | 2:53 | 2025-01-31 | 2025-04-26 |
 | [Passenger](https://open.spotify.com/track/5ch9iI5XU2klyaypR0jgbP) | [Virtua](https://open.spotify.com/artist/4ZiZ0nrOQfILe9wua4Q86k), [Akraa](https://open.spotify.com/artist/4LlBzEZ8alrrhSbYW10gVW) | [Aether](https://open.spotify.com/album/5h8q1XHfapza8Dso5L9rnd) | 2:31 | 2024-09-05 |  |
 | [Past Life Limbo](https://open.spotify.com/track/4LCa5OgLfwGfI2THC2q2rU) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Daytona Dystopia](https://open.spotify.com/album/5JUfGko6YzunuWbYYnRwZK) | 2:36 | 2024-06-06 | 2025-08-28 |
@@ -168,6 +168,7 @@
 | [Teal Dream](https://open.spotify.com/track/5OMyeEC3s9mJt2cnJIpKaN) | [Mindserver Unlimited](https://open.spotify.com/artist/17JyFyLOwrYivBM7HjOyZN) | [Teal Dream](https://open.spotify.com/album/4CGCLBgGLmKQS0ur1L5V3w) | 3:41 | 2024-06-06 | 2025-02-21 |
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |
 | [Textures](https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS) | [DeSantiis](https://open.spotify.com/artist/3nxb4AVWKD3ccJcW858gZt) | [Textures](https://open.spotify.com/album/4d0id8b3ltwYcT4vTtM0gv) | 2:51 | 2024-06-06 |  |
+| [The Air Between](https://open.spotify.com/track/5t8MQzbfpiAanCd0PdyEiX) | [Ghost in Delay](https://open.spotify.com/artist/3sCPjqofyWElqBsicU6DVh) | [The Air Between](https://open.spotify.com/album/5D8b27HDwKMUSnSOgt9FF7) | 2:41 | 2025-09-24 |  |
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 | 2025-03-29 |
 | [The Endless Night](https://open.spotify.com/track/79qEYqYk0SXxhJfYvPTmAM) | [Outpacer](https://open.spotify.com/artist/2pXpbFaKzEWvKfrynEehou) | [The Endless Night](https://open.spotify.com/album/7HFKPgwHICJc4i2dokwirG) | 2:06 | 2025-08-27 |  |
 | [The Mirage Syndicate](https://open.spotify.com/track/3Fl3Twi9Anar9g7faE9bgo) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [Battle for Black Hole Base Pt\. 2](https://open.spotify.com/album/3WZ134pjBqabVf6QduWxvi) | 2:40 | 2024-12-03 | 2025-09-23 |

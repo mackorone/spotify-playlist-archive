@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: The Juans",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: TJ Monterde",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -158,6 +158,24 @@
       "duration_ms": 210044,
       "name": "A to Z (Drop It)",
       "url": "https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU"
+    },
+    {
+      "album": {
+        "name": "KOLORCOASTER",
+        "url": "https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197608,
+      "name": "Abelyana",
+      "url": "https://open.spotify.com/track/6WujrK4x2Bk8zx8rdcAqhT"
     },
     {
       "album": {
@@ -1671,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Filipina Queen",
+        "url": "https://open.spotify.com/album/3FyqqGezafiSyZDA7BJvTu"
+      },
+      "artists": [
+        {
+          "name": "G22",
+          "url": "https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189691,
+      "name": "Filipina Queen",
+      "url": "https://open.spotify.com/track/2Svd6sWbcaj63h5JHEvEyg"
+    },
+    {
+      "album": {
         "name": "FLYING KISS",
         "url": "https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA"
       },
@@ -2549,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Ikaw Sana",
+        "url": "https://open.spotify.com/album/0QEX4myyLGNddWabjawOJW"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387148,
+      "name": "Ikaw Sana",
+      "url": "https://open.spotify.com/track/1RtiAzLeYtfJN6VOi2LkxW"
+    },
+    {
+      "album": {
         "name": "ikaw, ikaw, ikaw",
         "url": "https://open.spotify.com/album/7FxiQz4Hk6ihjr7ypYnEtP"
       },
@@ -2586,7 +2640,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 245729,
       "name": "Ikigai (feat. Loonie)",
       "url": "https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs"
@@ -4894,7 +4948,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 234625,
       "name": "Pa-Pa-Pa-Palaban",
       "url": "https://open.spotify.com/track/7rc6O0BMzWJv96ZCMYA9dN"
@@ -5817,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/6NdbN7a1rHRikiaCORR40S"
+      },
+      "artists": [
+        {
+          "name": "ONE CLICK STRAIGHT",
+          "url": "https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212432,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/7kzbzi1LYrwRLyfynDnRDs"
+    },
+    {
+      "album": {
         "name": "Right Now (Na Na Na)",
         "url": "https://open.spotify.com/album/2AKhjyyZ6iLqpgoq1cjAXL"
       },
@@ -6256,7 +6328,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 170181,
       "name": "seasons",
       "url": "https://open.spotify.com/track/6VBM8Yzy0MWs2x3dH6rxsv"
@@ -7374,7 +7446,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 213000,
       "name": "With You",
       "url": "https://open.spotify.com/track/5nyFhl7uOBzQ7cY2AMCwzt"

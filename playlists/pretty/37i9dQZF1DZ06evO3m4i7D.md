@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3m4i7D.md) - [plain]
 
 > This is Eugenio Esquivel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 29 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 29 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3m4i7D.md) - [plain]
 | 28 | [El Rápido \- En Vivo](https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 3:34 |
 | 29 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 2:27 |
 
-Snapshot ID: `aNCRgAAAAADMh7+C7NAhgzluqB4ALFAI`
+Snapshot ID: `aNHjAAAAAAAfYZttVTriD01VCY8UUwaV`

@@ -414,7 +414,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 338000,
       "name": "Bodhisattva",
       "url": "https://open.spotify.com/track/5dzhXwTjMkVhsHfPYk3OYr"
@@ -450,7 +450,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 366942,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/3hS7bI9vIRu1kflLaqj61a"
@@ -570,6 +570,24 @@
       "duration_ms": 274545,
       "name": "C\u0153ur Noir",
       "url": "https://open.spotify.com/track/0zbaWzgpzP1gFpEvgwI8YI"
+    },
+    {
+      "album": {
+        "name": "Deep in Fear",
+        "url": "https://open.spotify.com/album/7piVU3jBHKLHYS9PYONaQ1"
+      },
+      "artists": [
+        {
+          "name": "Nightwhisper",
+          "url": "https://open.spotify.com/artist/01CKNofaWoejTw9J0WMkOa"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131733,
+      "name": "Deep in Fear",
+      "url": "https://open.spotify.com/track/0vxJ563j2MOSGDDQYsUopv"
     },
     {
       "album": {
@@ -914,7 +932,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 366512,
       "name": "Ghost (Find Me Again)",
       "url": "https://open.spotify.com/track/1JEOBzcJF3S95RInzWvs4P"
@@ -1178,7 +1196,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 130203,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/4EfQBE1xUSen1EOHps2etR"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 140485,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn"
@@ -1986,7 +2004,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 282464,
       "name": "Space Race",
       "url": "https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 232679,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/5kNraerCQo5v4pIhPcyddH"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-05",
+      "date_removed": null,
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
@@ -2303,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/2usXKM2hr7IxOnkaVQ2Veb"
+      },
+      "artists": [
+        {
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Veritas",
+      "url": "https://open.spotify.com/track/7jqtScy6IEE7hh6rjqgzXp"
+    },
+    {
+      "album": {
         "name": "Void Loop",
         "url": "https://open.spotify.com/album/2TI6ms20lvR3twg0HT8cJl"
       },
@@ -2318,6 +2354,24 @@
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
+    },
+    {
+      "album": {
+        "name": "Wadi Dana",
+        "url": "https://open.spotify.com/album/45NYhmGO76k8GWRpxYSJQN"
+      },
+      "artists": [
+        {
+          "name": "Corren Cavini",
+          "url": "https://open.spotify.com/artist/2UgCkNOjEjL0uKDwewjet8"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Wadi Dana",
+      "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
     },
     {
       "album": {
@@ -2372,7 +2426,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 191026,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3HnWv0RHxCHGxqSqbZmJjT"
@@ -2408,7 +2462,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 245542,
       "name": "Wheels",
       "url": "https://open.spotify.com/track/1lNTfEMk9nF29c8S9lpKxY"
@@ -2520,7 +2574,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

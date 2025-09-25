@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 
 > Hypnotic bliss.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,587 likes - 200 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,595 likes - 200 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiZVO2J6WeI.md) - [plain]
 | 199 | [Frozen In Time](https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP) | [Jin Eun\-Kyung](https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y) | [Obelus](https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b) | 3:23 |
 | 200 | [Velvet Dreams](https://open.spotify.com/track/2pfXGJVBVLaaSkVYh1Y6Yu) | [stardust enclave](https://open.spotify.com/artist/7MV6xf792jJ7pxsxalrTqM) | [Velvet Dreams](https://open.spotify.com/album/7vWHJIG1NKOfjOYJMB56L5) | 3:51 |
 
-Snapshot ID: `AAAAAF0G0F6Wgn/gZG02iXMAqbfNFtQP`
+Snapshot ID: `AAAAAHltcYgAQDVLMhCIV0eAISWcsdOC`

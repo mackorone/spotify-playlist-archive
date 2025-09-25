@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,244 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,251 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 40 | [Er det lov å leva](https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Er det lov å leva](https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU) | 2:11 |
 | 41 | [Nå er det freda'n igjen](https://open.spotify.com/track/096d1z40MQXAEZALorCnC4) | [Rune Rudberg](https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY) | [Tro](https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY) | 2:50 |
 | 42 | [Født i nord](https://open.spotify.com/track/7mrXev5OYtn2FQz9R6U7ja) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Han Helge & Han Håkon](https://open.spotify.com/artist/1bIbltluV9bXeETPkdhDKI) | [Født i nord](https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K) | 2:36 |
-| 43 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
-| 44 | [GUT OG KAR](https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF) | [Skei & PT](https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV), [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [GUT OG KAR](https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e) | 3:07 |
+| 43 | [GUT OG KAR](https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF) | [Skei & PT](https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV), [BEIST](https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC) | [GUT OG KAR](https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e) | 3:07 |
+| 44 | [En gammal Amazon](https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va) | [Strög1](https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF) | [En gammal Amazon](https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa) | 2:46 |
 | 45 | [Ola](https://open.spotify.com/track/4xjEz1oESbKlbge5czJUa6) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ola](https://open.spotify.com/album/6aSofv0Ux8UAd2d9SLjgFG) | 3:24 |
 | 46 | [Hopp inn i kjerra](https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf) | [Hopp inn i kjerra](https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH) | 2:20 |
 | 47 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |

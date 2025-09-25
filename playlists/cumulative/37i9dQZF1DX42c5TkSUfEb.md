@@ -4,7 +4,7 @@
 
 > La playlist idéale pour se détendre en musique.
 
-430 songs - 1 day 2 hr 18 min
+431 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Backseat Driver](https://open.spotify.com/track/1q7n24GkKj9TOTApqsTZwS) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/3TeYGYUni8e0VCg16j6XkG) | 3:16 | 2024-07-25 | 2024-10-05 |
 | [Banana Pancakes](https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/2B9q4KPjOEYu885Keo9dfX) | 3:11 | 2024-04-15 |  |
 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 | 2022-11-25 | 2024-04-19 |
-| [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-05-02 |  |
+| [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-05-02 | 2025-09-25 |
 | [Beautiful Thingz](https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Beautiful Thingz](https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ) | 3:28 | 2025-02-06 |  |
 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 | 2022-11-25 | 2023-02-22 |
 | [Better Believe It](https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Better Believe It](https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh) | 2:22 | 2025-08-01 | 2025-09-13 |
@@ -128,6 +128,7 @@
 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 | 2022-11-25 |  |
 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-25 |  |
 | [Feeling Good Today](https://open.spotify.com/track/5AmBayKvA8e1HdhintEELx) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Feeling Good Today](https://open.spotify.com/album/0iQLhH3cu8txsiJOTt3bzR) | 1:26 | 2024-02-08 | 2024-03-28 |
+| [Ferris Wheel](https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Ferris Wheel](https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp) | 3:25 | 2025-09-18 |  |
 | [Floating On A Moment](https://open.spotify.com/track/5ZBjVFfYDwj3TeIfDHLWLN) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo) | [Floating On A Moment](https://open.spotify.com/album/6WnQZyGXl3oKTsWmRLMqgY) | 5:26 | 2024-02-15 | 2024-07-27 |
 | [flower](https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [flower](https://open.spotify.com/album/380qbbdehm3cixP1ijJPIH) | 2:28 | 2025-08-01 |  |
 | [For Better and For Worse](https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [For Better and For Worse](https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F) | 3:32 | 2024-04-15 | 2025-01-24 |

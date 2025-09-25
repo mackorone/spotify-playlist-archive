@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,674 likes - 200 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,070 likes - 200 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Drowsy Delight](https://open.spotify.com/track/7BxIPN6c4yp0aM9BPGDwsq) | [Young Coyotes](https://open.spotify.com/artist/5OnbbH7EDelgJCRQO9BRov) | [Drowsy Delight](https://open.spotify.com/album/3w8L1yP27kRt2j3ccsFnd0) | 2:21 |
 | 200 | [ethereal](https://open.spotify.com/track/4fC9s3NtmRHeK1B3xJC45M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [ethereal](https://open.spotify.com/album/0UZKU872aVTdCf71eDHLkH) | 2:26 |
 
-Snapshot ID: `AAAAAPyopX+MhgBtDhK6Fl2DnL4BY8DA`
+Snapshot ID: `AAAAAAVv/Gi68VHOUqpbcQLbzXLlNslh`

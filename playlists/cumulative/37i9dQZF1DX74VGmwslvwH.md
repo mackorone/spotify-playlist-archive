@@ -4,7 +4,7 @@
 
 > Energy flow from root to crown\. Balance your doshas with gentle sounds inspired by India.
 
-202 songs - 12 hr 47 min
+205 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Chote Hiran](https://open.spotify.com/track/6FTbsYAksvLXAvNf3hQ2JR) | [Kapila Upsani](https://open.spotify.com/artist/1I8JjaC5qvXYmY4vRT3x1W) | [Chote Hiran](https://open.spotify.com/album/5Ks9dlzmU0BGfoqZYDP7gc) | 5:00 | 2022-05-13 | 2024-03-09 |
 | [Conscious Journey](https://open.spotify.com/track/2ETuChyJUeHa3qeLqm0bOW) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Conscious Journey](https://open.spotify.com/album/4bxQH9hlcLBBa92bGXVFqb) | 2:16 | 2022-09-30 |  |
 | [Constant Growth](https://open.spotify.com/track/7aDJfX6l3NW4qtGsxbAeIN) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Constant Growth](https://open.spotify.com/album/516FHVo3zP4TXqGlRdx5wx) | 2:55 | 2025-05-16 |  |
+| [Coralia](https://open.spotify.com/track/3F7e8baVdbwd8jwQRO37oB) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Coralia](https://open.spotify.com/album/2UgtQjkqg5zIYVoyplWfVN) | 2:29 | 2025-09-24 |  |
 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 | 2023-02-10 |  |
 | [Cosmic Wind](https://open.spotify.com/track/7M6Oo8FUfnOzmv9QlINuOb) | [Eon Weaver](https://open.spotify.com/artist/0HI0efkGlLzkrq0z3l2k2c) | [Cosmic Wind](https://open.spotify.com/album/7Ekok52CQNbNCsyU6LDdUq) | 2:31 | 2025-04-01 |  |
 | [Cosmos](https://open.spotify.com/track/2ZJhL2pkytU1udly94xV7j) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Bansuri \- The Bamboo Flute of India](https://open.spotify.com/album/7l6MK2rackkPHiHhCINSxI) | 4:56 | 2022-05-13 | 2024-03-09 |
@@ -56,7 +57,9 @@
 | [Dhinchak](https://open.spotify.com/track/0WJ9kpcHXyVBPeMiKsou01) | [Indra Jamal](https://open.spotify.com/artist/093uaz0ncoUvd9mN3jKF3E) | [Dhinchak](https://open.spotify.com/album/0Qg98DxDTVhdw3yT5imxHN) | 3:32 | 2022-07-14 | 2024-03-09 |
 | [Distance](https://open.spotify.com/track/4cXRe000LxbchXggA2TlrU) | [Oceans Cry](https://open.spotify.com/artist/174Q4UvaXNdNt4KSRrglKi) | [Distance](https://open.spotify.com/album/6idMBEpMSoVX44nJb5jtIW) | 3:56 | 2022-05-13 |  |
 | [Dreamlike](https://open.spotify.com/track/1wBtIlZCG7Y40MNKaklcxe) | [Narmada Shore](https://open.spotify.com/artist/3560FDhIsM3cOYJufizogC) | [Dreamlike](https://open.spotify.com/album/4NBNmYGPv5YK3a8paxryDu) | 3:15 | 2022-09-30 |  |
+| [Drifting Thoughts](https://open.spotify.com/track/0Tda7ARaRsJYojle2QmZba) | [aven](https://open.spotify.com/artist/1f7TWcAfw56PclD1aEM8hz) | [Drifting Thoughts](https://open.spotify.com/album/0erQBurT61PnxlIiLzEzEU) | 3:01 | 2025-09-24 |  |
 | [Dunagiri](https://open.spotify.com/track/7f6Qq4dxlcIhvkZFa4HL5o) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [Dunagiri](https://open.spotify.com/album/5Um8qhDnnbS8AVUcowu02b) | 3:08 | 2022-07-14 | 2024-12-21 |
+| [Earthly Winds](https://open.spotify.com/track/4WB73cv747SK2iIvcSaOdE) | [Ember Rivera](https://open.spotify.com/artist/7uaOI3LlQMP255X8hMQeYS) | [Earthly Winds](https://open.spotify.com/album/75RbIvNSggP8fHEru2UsDg) | 2:35 | 2025-09-24 |  |
 | [Ekant Ki Yatra](https://open.spotify.com/track/2jEYDA7LW1fp9IU6ykZdwm) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Ekant Ki Yatra](https://open.spotify.com/album/0DGupzwuawS9kMzilfSteW) | 4:29 | 2024-03-08 | 2024-03-27 |
 | [Empire](https://open.spotify.com/track/1yzxtY3hYi6RJNQNLsomhm) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Majestica](https://open.spotify.com/album/4QlLsa23L21oa7V84sjj0K) | 3:00 | 2023-08-16 |  |
 | [Evening Flute](https://open.spotify.com/track/2larHmB7pBReS5LlOVBvxY) | [Buddha's Flute](https://open.spotify.com/artist/1j6Futx8f5ywiHqPnX32bl) | [Evening Flute](https://open.spotify.com/album/4t8KPqvIKnEPQinKRjrAdt) | 7:21 | 2022-09-06 | 2022-12-17 |

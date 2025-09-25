@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Jere Klein & Katteyes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,004,756 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,004,749 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 2 | [Me Mareo](https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 2:48 |
 | 3 | [Comando Estelar](https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N) | [Germanini](https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Comando Estelar](https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH) | 3:40 |
 | 4 | [Qué Será](https://open.spotify.com/track/1Ms2WIZyWzz1Z3RhX7WZRO) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [Qué Será](https://open.spotify.com/album/50z9qlI7EkD3HqIXVyI2Vq) | 2:22 |
-| 5 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 5 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 6 | [Destello...](https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 3:58 |
 | 7 | [Zona](https://open.spotify.com/track/40ITk1Q3t8QTGgtzK8KPZE) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Zona](https://open.spotify.com/album/5mRlWuw2hyef5f7DHwwXfK) | 3:00 |
 | 8 | [Ángel Para Un Final](https://open.spotify.com/track/7sxLQlUBVukfdMPAtm7WXU) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [SATIROLOGÍA \(DELUXE EDITION\)](https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE) | 2:56 |

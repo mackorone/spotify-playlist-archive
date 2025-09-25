@@ -427,22 +427,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "Mocatriz",
-        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 237228,
-      "name": "Mocatriz",
-      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "Deber\u00eda estar brillando",
         "url": "https://open.spotify.com/album/4oQAG06BSfX9P0qcVSnfJq"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 152650,
       "name": "Deber\u00eda estar brillando",
       "url": "https://open.spotify.com/track/4454W7eg7cvvIlRJwhctfK"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
+        "name": "Mocatriz",
+        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 237228,
+      "name": "Mocatriz",
+      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
+        "name": "Top Hits, Ballads, etc...",
+        "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
+      },
+      "artists": [
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 182373,
       "name": "Castigo",
       "url": "https://open.spotify.com/track/4j0v9wfwKoR7g5hCffrVJZ"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
-        "name": "Top Hits, Ballads, etc...",
-        "url": "https://open.spotify.com/album/7qDMO5AzXFbnBt8DhaX4A5"
-      },
-      "artists": [
-        {
-          "name": "AMORE",
-          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "Delirio",
-      "url": "https://open.spotify.com/track/4D1zZkiizVMPLY0qQHbb8y"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "Vida Quemada",
-        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
-      },
-      "artists": [
-        {
-          "name": "BR\u00dcNNE ROMEO",
-          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Vida Quemada",
-      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "TANTO POR HACER",
         "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 202560,
       "name": "MEDUSA",
       "url": "https://open.spotify.com/track/5o9EBcEKdASGyQCIa1wi7V"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
+        "name": "Vida Quemada",
+        "url": "https://open.spotify.com/album/42DTEPGjOaYsXlUtG0lYP9"
+      },
+      "artists": [
+        {
+          "name": "BR\u00dcNNE ROMEO",
+          "url": "https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Vida Quemada",
+      "url": "https://open.spotify.com/track/3VdYBYLvXzvyfFol1Fxz0h"
     },
     {
       "added_at": "2025-09-02 22:00:28",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-09-02 22:00:28",
       "album": {
-        "name": "Dec\u00edrtelo",
-        "url": "https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ"
-      },
-      "artists": [
-        {
-          "name": "MAYO",
-          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
-        },
-        {
-          "name": "Mar Lucas",
-          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
-        }
-      ],
-      "duration_ms": 156460,
-      "name": "Dec\u00edrtelo",
-      "url": "https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6"
-    },
-    {
-      "added_at": "2025-09-02 22:00:28",
-      "album": {
         "name": "Full Lace y el Tuck",
         "url": "https://open.spotify.com/album/22CPf2eEYMEPz2zm1BRVbw"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 173793,
       "name": "Full Lace y el Tuck",
       "url": "https://open.spotify.com/track/4zfg7OC2mJDe6OXyKqjWtd"
+    },
+    {
+      "added_at": "2025-09-02 22:00:28",
+      "album": {
+        "name": "Dec\u00edrtelo",
+        "url": "https://open.spotify.com/album/2vS5dK5yyr0YAwS6wokCQZ"
+      },
+      "artists": [
+        {
+          "name": "MAYO",
+          "url": "https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0"
+        },
+        {
+          "name": "Mar Lucas",
+          "url": "https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI"
+        }
+      ],
+      "duration_ms": 156460,
+      "name": "Dec\u00edrtelo",
+      "url": "https://open.spotify.com/track/7dBlz3dfeVZPmvbPm419N6"
     },
     {
       "added_at": "2025-09-02 22:00:28",

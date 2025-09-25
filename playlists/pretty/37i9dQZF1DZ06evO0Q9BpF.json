@@ -1,6 +1,6 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 48745,
+  "num_followers": 48755,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 97747,
+      "name": "Cu\u00e1n Grande Es \u00c9l",
+      "url": "https://open.spotify.com/track/539s79Pt9Ax6LUiANayZPy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seamos Luz",
         "url": "https://open.spotify.com/album/7bqSmn95rOqnWQL3H5xJ4Z"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 424546,
       "name": "Hay Poder",
       "url": "https://open.spotify.com/track/3BYSqC25f995dg4Uqwzi9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 97747,
-      "name": "Cu\u00e1n Grande Es \u00c9l",
-      "url": "https://open.spotify.com/track/539s79Pt9Ax6LUiANayZPy"
     },
     {
       "added_at": null,
@@ -860,21 +860,17 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Daniela Quintero",
-          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
-        },
-        {
           "name": "Johan Manjarr\u00e9s",
           "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
         }
       ],
-      "duration_ms": 276493,
-      "name": "Cantar de Tu Amor",
-      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
+      "duration_ms": 487160,
+      "name": "Jes\u00fas, Eres el Centro",
+      "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
     },
     {
       "added_at": null,
@@ -948,17 +944,21 @@
           "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
         },
         {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
         },
         {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+          "name": "Daniela Quintero",
+          "url": "https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 487160,
-      "name": "Jes\u00fas, Eres el Centro",
-      "url": "https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ"
+      "duration_ms": 276493,
+      "name": "Cantar de Tu Amor",
+      "url": "https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV"
     },
     {
       "added_at": null,

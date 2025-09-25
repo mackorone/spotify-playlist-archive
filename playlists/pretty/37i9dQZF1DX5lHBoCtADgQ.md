@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,521 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,554 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 44 | [Laung Gawacha](https://open.spotify.com/track/3li9nyEtElQe78EScNYAN2) | [Japleen Kaur](https://open.spotify.com/artist/010fm02ajeSECswkJeEGMK), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Laung Gawacha](https://open.spotify.com/album/6eciLqlcTTkfXU6p9gB8wa) | 3:00 |
 | 45 | [Jagga](https://open.spotify.com/track/3FPP8CPjv5Show7rV5xQKN) | [Sarbjit Cheema](https://open.spotify.com/artist/67MuCsoVbUNiltSTIzIq9E) | [Haani](https://open.spotify.com/album/08EO8tk0m8op720sdfinOQ) | 4:03 |
 | 46 | [Ambarsare Di](https://open.spotify.com/track/0cuHoVfzNqehCcphBZCp0w) | [Madan Bala Sindhu](https://open.spotify.com/artist/6dZqrn5IBirS8HA3tCPQMv) | [Wedding Songs Of Punjab Volume 2](https://open.spotify.com/album/7Dvz3aKaHGcrfRu761tfd2) | 4:19 |
-| 47 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
-| 48 | [Sohni Mahiwal](https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Jassar 47](https://open.spotify.com/artist/203piuZhrCkjJDvGAi6f3d), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Sohni Mahiwal](https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz) | 4:45 |
+| 47 | [Sohni Mahiwal](https://open.spotify.com/track/6sqD6HhnJacKXQQfziyTWB) | [Arash Riaz](https://open.spotify.com/artist/42fD5qdpYX9oe3MD7wByhf), [Jassar 47](https://open.spotify.com/artist/203piuZhrCkjJDvGAi6f3d), [Parwaaz Gill](https://open.spotify.com/artist/5jmBUt1mJQmrCriEgOJSFM), [Karanvir Klair](https://open.spotify.com/artist/7eCmvzU59pXo2zmjAlcRFz) | [Sohni Mahiwal](https://open.spotify.com/album/2HpGttLBxp1R7Hvy0mmGZz) | 4:45 |
+| 48 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
 | 49 | [Sehreyan Wala](https://open.spotify.com/track/1aAxE9RbR70oMFXa1JDi8P) | [Pallavi Ishpuniyani](https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf), [Avijeet Satapathy](https://open.spotify.com/artist/1Odsf0ejphk7o2GEViymZv) | [Sehreyan Wala](https://open.spotify.com/album/7BH5M3s2ziaUQBm5R9PCrJ) | 4:27 |
 | 50 | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/track/5Sx2TlFNMbIyzyFmIX7LJU) | [Mann Taneja](https://open.spotify.com/artist/4nrzV0KNK93wplq40UzfkW), [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Prakash Kaur](https://open.spotify.com/artist/51te2iwubcXb5dKxUxpWkh) | [Suhe Ve Cheere Waliya Chill Flip](https://open.spotify.com/album/5l0fLlwvB0trfAhLW9oJPY) | 2:27 |
 

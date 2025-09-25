@@ -2,9 +2,9 @@
 
 ### [RAP 91 Malayalam](https://open.spotify.com/playlist/37i9dQZF1DX8OdFBus1U8c)
 
-> Best of Malayalam Hip\-Hop! <br/>Cover :  ARJN, KDS
+> Best of Malayalam Hip\-Hop! <br/>Cover :  The Imbachi, Gabri
 
-453 songs - 23 hr 10 min
+454 songs - 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [PARATTA SONG](https://open.spotify.com/track/0ocgMbg427kQwsyjmKNTBe) | [BG BLACKGOAT](https://open.spotify.com/artist/4P6OHqlLgbb2JmlqMt3gQd) | [PARATTA SONG](https://open.spotify.com/album/1QcDIFDIzuJvCpJMA5TZBH) | 2:32 | 2025-06-25 | 2025-06-27 |
 | [Parotta & Beef \(From "Loopd"\)](https://open.spotify.com/track/3mGCnv2BBiTXMuM4r56qup) | [Yestey](https://open.spotify.com/artist/61GIgF63J9NtPTJabXY1id), [Tuhin](https://open.spotify.com/artist/1z4Jw5qcAlfAgu0ZVMKRMB) | [Parotta & Beef \(From "Loopd"\)](https://open.spotify.com/album/6wmPuMeUMMLBJbUi4ihjC4) | 3:06 | 2025-08-29 |  |
 | [Pathanam](https://open.spotify.com/track/7J1LLA1CxdLgP7wrM7slun) | [Ashbin](https://open.spotify.com/artist/28LkhTNiL3kC1wprEPgaQy), [Adz](https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc) | [Ethir](https://open.spotify.com/album/3yhqspJcACvqD8hXXredEf) | 1:47 | 2025-02-03 | 2025-03-27 |
-| [Pathavi](https://open.spotify.com/track/5MEzlxLvDPc6gkJgJG9DNc) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN) | [Pathavi](https://open.spotify.com/album/4KuHuibE09VLY5KwizbypZ) | 2:38 | 2025-07-21 |  |
+| [Pathavi](https://open.spotify.com/track/5MEzlxLvDPc6gkJgJG9DNc) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN) | [Pathavi](https://open.spotify.com/album/4KuHuibE09VLY5KwizbypZ) | 2:38 | 2025-07-21 | 2025-09-25 |
 | [Pattom Signal](https://open.spotify.com/track/1061bDjOwCySYJhaFLKVAj) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq) | [Pattom Signal](https://open.spotify.com/album/1SJnEWxDS1X5sEE0VMjBwk) | 3:13 | 2025-06-20 | 2025-08-12 |
 | [Pattuduthu Vannathum \(From "Kumari"\)](https://open.spotify.com/track/5m5Ns63z7A2QGSqL3QghqL) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Athul Narukara](https://open.spotify.com/artist/7d6mBwW3zN59r4vm8TnrWR), [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sreehari](https://open.spotify.com/artist/7JoyE37sAJF5iZod0sNBhr) | [Pattuduthu Vannathum \(From "Kumari"\) \- Single](https://open.spotify.com/album/7FPwLr3yhBPyGrlBPpSWul) | 4:09 | 2022-11-04 | 2023-07-24 |
 | [Payye Payye Thinnanda](https://open.spotify.com/track/3TijOEnNGG9jKkNpt0a2WO) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Payye Payye Thinnanda](https://open.spotify.com/album/6jhnLuH31gqeu44mrFubf0) | 2:56 | 2024-04-15 | 2024-05-22 |
@@ -349,6 +349,7 @@
 | [Rap Scene](https://open.spotify.com/track/0yqdDhyVprEB0o2L9pwmRF) | [riPz](https://open.spotify.com/artist/371uEcwtjldtDNJ8J7j7LA) | [Rap Scene](https://open.spotify.com/album/0SjSyYXqVnGx9UWI7DqoE7) | 3:31 | 2023-09-13 | 2024-02-13 |
 | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/track/5Xev3pFAWixBYsC7yACDL0) | [Vikaas Alphonse](https://open.spotify.com/artist/04zBR4pYFN5uXURipTEWM1) | [RentalRap \(Parkkaan Idamille\)](https://open.spotify.com/album/3APjpLizzOkMJqvI6xZnin) | 2:59 | 2025-06-30 |  |
 | [RNK](https://open.spotify.com/track/3D91bBMXurJaqQ1CyOirsg) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [Chris Shine](https://open.spotify.com/artist/2I3e7n860MnUTmTl3ROKCz) | [RNK](https://open.spotify.com/album/0f81SGFVyHxotNUv9vlAeb) | 2:40 | 2025-04-28 | 2025-06-10 |
+| [Run](https://open.spotify.com/track/39EeXaRJFxtQIHfgAUCsHR) | [Maneesh Madhusudhan](https://open.spotify.com/artist/2dPPSQfDQW440IQQUe1212), [Vishnu Soman](https://open.spotify.com/artist/35oUhEYSUVPRySRWyHARUV), [jithin kunjumon](https://open.spotify.com/artist/55xTx4OxE9FHduK3GqtKrn) | [Run](https://open.spotify.com/album/0l8u5LvvPoTCDmrYLoJRly) | 3:22 | 2025-09-24 |  |
 | [Saavadhaanam](https://open.spotify.com/track/0naYPixoWCVoKdUAcpIJYG) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe) | [Minni](https://open.spotify.com/album/6ZdyxuQBpOHPpspL33AMTU) | 3:54 | 2022-06-23 | 2024-03-27 |
 | [Sadiq](https://open.spotify.com/track/6zcYsvGcVRyNa5aQMYXIax) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Sadiq](https://open.spotify.com/album/5I2PWHcQSTIXZ1NkEoa7B5) | 2:40 | 2025-05-16 | 2025-07-08 |
 | [SAMBAR](https://open.spotify.com/track/4fGVuqgcERFN92zNeUbvAp) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp), [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [SAMBAR](https://open.spotify.com/album/2hmXetO6cB2A8UtYctz1ul) | 3:44 | 2023-12-01 | 2025-07-08 |

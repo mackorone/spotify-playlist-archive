@@ -4,7 +4,7 @@
 
 > A delicious mix of new songs in high rotation\. Cover: Samia
 
-2,942 songs - 7 day 9 hr 57 min
+2,943 songs - 7 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [4runner](https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7HI6B7UBPjpK0I4PoTfsVu) | 4:25 | 2023-07-07 | 2023-10-06 |
 | [4runner](https://open.spotify.com/track/6ofFq0aQ8aXG73pjfFKwFv) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [4runner](https://open.spotify.com/album/7xWDRktAtZiSLeI7LBPFJD) | 4:25 | 2023-07-07 | 2023-11-25 |
 | [4Runner](https://open.spotify.com/track/6fHORDEAnP4POdVZB9kO9V) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [4Runner](https://open.spotify.com/album/4pK1F2rM5omfZyrv4FEPQZ) | 3:49 | 2021-03-10 | 2021-09-03 |
+| [5](https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [lucre](https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4) | 2:00 | 2025-09-25 |  |
 | [50 Souls and a Discobowl \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4HL64eE6Tg7DOHRLZ1Wgd3) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Spotify Singles](https://open.spotify.com/album/7GK8op4PSztyNeaCjcstmF) | 3:14 | 2019-05-31 | 2019-06-21 |
 | [5g](https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 3:29 | 2022-12-09 | 2023-02-11 |
 | [757](https://open.spotify.com/track/4vwHBxN5OGtUqqUWvWClGd) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:06 | 2023-07-13 | 2023-08-12 |
@@ -1543,7 +1544,7 @@
 | [Looking For Something](https://open.spotify.com/track/3mwUT3bzPAfUlrmOEpkzof) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Looking For Something](https://open.spotify.com/album/3xz0bN9WajSRfvXnm7F9qy) | 3:09 | 2022-05-19 | 2022-07-29 |
 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 | 2024-03-21 | 2024-08-03 |
 | [Los Angeles](https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Los Angeles / Grandmother](https://open.spotify.com/album/1JL1uKzGz5VGfmguM9owtj) | 3:57 | 2025-08-22 | 2025-09-06 |
-| [Lose It Again](https://open.spotify.com/track/7uQlIPk7eQuEgURhpOP7u3) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lose It Again](https://open.spotify.com/album/4xFVcQc8UCUCVzJvBMTPLf) | 3:30 | 2025-09-12 |  |
+| [Lose It Again](https://open.spotify.com/track/7uQlIPk7eQuEgURhpOP7u3) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Lose It Again](https://open.spotify.com/album/4xFVcQc8UCUCVzJvBMTPLf) | 3:30 | 2025-09-12 | 2025-09-25 |
 | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ), [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Lose You \(feat\. Soccer Mommy\)](https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf) | 2:55 | 2023-02-24 | 2023-05-06 |
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-12 |  |
 | [Loser at Best](https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Loser at Best](https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk) | 3:10 | 2023-05-26 | 2023-06-02 |

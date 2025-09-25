@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,313 songs - 12 day 9 hr 0 min
+5,316 songs - 12 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,6 +807,7 @@
 | [cc'd in A PRAYER](https://open.spotify.com/track/1AmotkkZlI0nhOhWGmo2Fh) | [SVRHVT SVLVÆR](https://open.spotify.com/artist/3sD1y0eyjlWbk9lHSYVtKq), [G∞D NΣSS](https://open.spotify.com/artist/3YETJkltpozTKrYKPrWGlP) | [cc'd in A PRAYER](https://open.spotify.com/album/60hM9GtV5AMnBhJ7O1mKRg) | 4:18 | 2024-03-07 | 2024-03-16 |
 | [Celebrate](https://open.spotify.com/track/1FK8IoeJXZs9nhd1581l4i) | [Alan J](https://open.spotify.com/artist/4iVIoFwLhcfhtW4kaWLOf6) | [Celebrate](https://open.spotify.com/album/4KhbVWJJ9U8A4Vg9EzPBOM) | 3:18 | 2023-06-17 | 2023-07-09 |
 | [Celebrate](https://open.spotify.com/track/2pQNSIzZNcdtNLDpzWTHaB) | [The Billy David Band](https://open.spotify.com/artist/6u9z7gzBaTh5teJlnEhTns) | [Turning Corners](https://open.spotify.com/album/4HpdCU3Wv6Kvv9xavabg5J) | 3:13 | 2024-02-03 | 2024-02-11 |
+| [Celebration](https://open.spotify.com/track/4SjrlXiPI6Q9WuVSjQa7XJ) | [MAKO Girls](https://open.spotify.com/artist/3Yu9eG3yuqEgw2I7SlP8QW) | [Celebration](https://open.spotify.com/album/3BCEM3bafQito9zekguTNM) | 2:10 | 2025-09-24 |  |
 | [Celestials](https://open.spotify.com/track/5DibC4NHEYNdk2SuFYy3j8) | [Jubilee](https://open.spotify.com/artist/7zKQ5oAIpVJVatbxtxcTBe) | [Celestials](https://open.spotify.com/album/1oWIABkbDlEJZLBSEUdCyi) | 3:05 | 2019-12-15 | 2019-12-27 |
 | [Centerfold \(Cory Enemy Remix\)](https://open.spotify.com/track/3sQxuF2rSIXkLpTm4zu101) | [Jordan Bolch](https://open.spotify.com/artist/5W50j5JKTlmNOMh6ndEUji), [Cory Enemy](https://open.spotify.com/artist/4dJlBSxhy0VNbtPt5qsFHO) | [Worldwide Remixes](https://open.spotify.com/album/0OPI7jp6zKwHR6TeHyOsKO) | 2:32 | 2020-07-21 | 2020-08-02 |
 | [Central Park](https://open.spotify.com/track/4rX700EH3qpPEkQvUgEdkh) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [She](https://open.spotify.com/album/4DGFbLTRx4lTGycQoXKGA3) | 3:52 | 2023-12-01 | 2024-05-01 |
@@ -1442,6 +1443,7 @@
 | [Everything Moves](https://open.spotify.com/track/1jee7Mh2U6wyml1Fw3ZgoT) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Everything Moves](https://open.spotify.com/album/4JI3FfdoUcV0kIuvtRxT3B) | 3:45 | 2025-02-15 | 2025-04-16 |
 | [Everything We Know](https://open.spotify.com/track/5gMXhRsYttCSc04PQTUlmS) | [Eliyanah](https://open.spotify.com/artist/4Fy9ktzHsOjSuaaOECXtaC) | [Everything We Know](https://open.spotify.com/album/6TXB9Ix1LXaTfxznJ6eZIh) | 3:24 | 2023-03-15 | 2023-04-03 |
 | [EVERYTIME](https://open.spotify.com/track/2XLsgAOjPepRaWPGPPvwJZ) | [1NFFERNO](https://open.spotify.com/artist/6DaaaXa0AGLGjRVn5wfH3C) | [INT'L NFFERNO II](https://open.spotify.com/album/6AZd8509Sv3jdTtGPddubG) | 3:31 | 2023-12-31 | 2024-01-08 |
+| [evil \(feat\. Rexx Life Raj\)](https://open.spotify.com/track/29qwVCNKXapIxEtbmCK2mc) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy), [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [evil \(feat\. Rexx Life Raj\)](https://open.spotify.com/album/4uvBugFIdjrUB7X4CeCCfK) | 2:38 | 2025-09-24 |  |
 | [Evilin](https://open.spotify.com/track/1wp8SjUIXCdP4RTXyagKfY) | [Zoe Graham](https://open.spotify.com/artist/2jXXoNionydJ3CT1ml119B) | [Even Though I'm Scared](https://open.spotify.com/album/5vnlhYUNJEmcqbNBPqoVbi) | 3:23 | 2024-10-12 | 2024-11-02 |
 | [exemptions](https://open.spotify.com/track/14n0K6nyP9advH13yqmYRJ) | [Betriu](https://open.spotify.com/artist/3gBioiOIJH53IaoFEssBvQ) | [exemptions](https://open.spotify.com/album/3ZJ6wyEfU4smOwD7VCvVio) | 2:19 | 2023-04-06 | 2023-04-30 |
 | [Exodus](https://open.spotify.com/track/5MRQvbpvXejJJy0OWciP8G) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 7:39 | 2021-07-11 | 2024-04-21 |
@@ -4570,6 +4572,7 @@
 | [The Local](https://open.spotify.com/track/3onJ6ztBx5RI9BzdKW0kez) | [Jody Glenham](https://open.spotify.com/artist/4yC5LRKMoOFedYvLJKhiYW) | [The Local](https://open.spotify.com/album/6trJOo0qr91FVN7GLa8SzL) | 2:31 | 2024-11-05 | 2024-11-18 |
 | [The Loft](https://open.spotify.com/track/024wFPk5RAlh1aAtEctfsU) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [The Loft](https://open.spotify.com/album/5G228p2GsBMEZmweyxib7e) | 2:37 | 2024-11-08 | 2024-11-20 |
 | [The Long Goodbye](https://open.spotify.com/track/6abVxlgspK7F8JKp1isuzB) | [Focus Your Audio](https://open.spotify.com/artist/6w3jlOmjXGUk2GgNUYW5By) | [The Long Goodbye](https://open.spotify.com/album/5OYCtn1kRULdoQUNww8DnM) | 2:51 | 2025-02-24 | 2025-03-08 |
+| [The Makings Of A Man](https://open.spotify.com/track/4iFq4m6L0NbLf7osUQB1qZ) | [JASON MADE](https://open.spotify.com/artist/6YIPePfcIWGBLFqICgmHYv) | [The Makings Of A Man](https://open.spotify.com/album/2mDucYMPBARNFgYb0UMC6C) | 4:22 | 2025-09-24 |  |
 | [The Middle](https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u) | [Stone Jets](https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx) | [The Middle](https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn) | 3:12 | 2022-01-28 | 2022-02-13 |
 | [The Mighty Have Fallen](https://open.spotify.com/track/0XmMLSrXne8U8PoWLhIRpp) | [David Vaters](https://open.spotify.com/artist/42zvXH27ceRmSxYCik5rtO) | [The Mighty Have Fallen](https://open.spotify.com/album/6l8MrHv4hDckqx2bGuq0T3) | 3:42 | 2024-11-15 | 2024-11-27 |
 | [The Minimum](https://open.spotify.com/track/2RTVPS12vdUvnPREaYANV5) | [Neon Legion](https://open.spotify.com/artist/2nyYXAOSd7dGY5eqop0eeC) | [The Minimum](https://open.spotify.com/album/6XFMQy8W3vbrC9QMvLIiUp) | 3:52 | 2024-08-18 | 2024-08-30 |

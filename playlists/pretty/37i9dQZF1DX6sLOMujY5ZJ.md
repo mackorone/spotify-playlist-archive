@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLOMujY5ZJ.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36?si=fe7dc91ae92c41b3">Teezo Touchdown's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,836 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,839 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

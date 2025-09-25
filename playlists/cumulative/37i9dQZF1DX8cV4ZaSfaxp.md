@@ -4,7 +4,7 @@
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-390 songs - 23 hr 59 min
+392 songs - 1 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Any Call \(Call Me Any Time\)](https://open.spotify.com/track/2pDBR4VKRNFmwUCj7zQmC8) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Any Call \(Call Me Any Time\)](https://open.spotify.com/album/2XuLnqS5yuSXq0tydgUD2u) | 3:28 | 2022-05-11 | 2022-07-26 |
 | [Apologize](https://open.spotify.com/track/5a8Cw8cj9j3lSIQ21i72p0) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [COSMOS](https://open.spotify.com/album/6z8ufyHFN5J1EKG6wiAMLu) | 4:12 | 2022-05-11 | 2022-07-29 |
 | [Aqua \(feat\. Muzie\)](https://open.spotify.com/track/2wxvPuX2kCTVBRn42Ez6fC) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [AQUA CITY](https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2) | 4:59 | 2022-05-11 |  |
-| [Asteroid](https://open.spotify.com/track/6mQ30ewPGJlJpex3sawe3h) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:35 | 2025-06-12 |  |
+| [Asteroid](https://open.spotify.com/track/6mQ30ewPGJlJpex3sawe3h) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:35 | 2025-06-12 | 2025-09-25 |
 | [Asteroid 소행성](https://open.spotify.com/track/4vODFC2HQEVCJABkba6eKM) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Asteroid 소행성](https://open.spotify.com/album/7ytsVClk3q5bbVFVM5hyBM) | 3:35 | 2022-05-11 | 2022-07-27 |
 | [Awake But Dreaming \(Feat\. KIMMUSEUM\)](https://open.spotify.com/track/0fWD1NsspeuahId2EktTBG) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [New Edition 27](https://open.spotify.com/album/7mE6Va4hXeo6UNPn01tu19) | 3:23 | 2022-05-11 | 2022-07-28 |
 | [Baby Don't Play](https://open.spotify.com/track/0fscOpcaHzivo321QxAfAo) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/3in3RzViPTp3fZo51rmJoB) | 3:31 | 2023-07-13 | 2024-04-19 |
@@ -196,7 +196,7 @@
 | [Line](https://open.spotify.com/track/0cDFJrzqAHigqpxRQH4Inq) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Line](https://open.spotify.com/album/1th3Qqi0o1gFS22ArZTOt2) | 3:55 | 2022-05-11 | 2022-07-17 |
 | [Line 1](https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:17 | 2022-05-11 |  |
 | [Live In Sunset](https://open.spotify.com/track/70cXtcSahvPBsnGZ4pj5m1) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Let Me Dive Into This Moment](https://open.spotify.com/album/2fjEagdPnRw9CpjStW75y1) | 3:24 | 2022-05-11 | 2022-07-24 |
-| [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 | 2024-04-19 |  |
+| [LOL \(LOUDNESS OF LOVE\)](https://open.spotify.com/track/68oGZsNcspRJ3NCeTgUGVy) | [LEE HONG GI](https://open.spotify.com/artist/6sLiM3MFm3Yzd0JwELsAG4) | [FM302](https://open.spotify.com/album/3qVTzOxtlpYOTkLAdN9XJY) | 3:46 | 2024-04-19 | 2025-09-25 |
 | [Lonely Night](https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1) | [JuJu Secret](https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9) | [Lonely Night](https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg) | 3:14 | 2023-03-28 |  |
 | [Lonesome](https://open.spotify.com/track/0QSVJ6VrjlEY7iw6jOEnBv) | [zai.ro](https://open.spotify.com/artist/6HbvERy3ULYCot6g8Sp2ol) | [Lonesome](https://open.spotify.com/album/3Yz8zD0Uw4x3PfvCeLhAYC) | 4:51 | 2022-05-11 | 2022-07-29 |
 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 | 2022-05-11 | 2025-05-09 |
@@ -205,6 +205,7 @@
 | [LOVE GAME](https://open.spotify.com/track/5Wa52f7Nem1sQSmpGylpsL) | [Iris 아이리스](https://open.spotify.com/artist/5qPEsDaKe3GFxuTXckfAad) | [LOVE GAME](https://open.spotify.com/album/0WCVzEaKrHPONMERGDE7Ui) | 3:02 | 2022-05-11 | 2022-07-25 |
 | [Love in TV World](https://open.spotify.com/track/71gxvSj62Daqer8F57b22C) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Love in TV World](https://open.spotify.com/album/0xlWI9eLVuAkMEZqMpklOZ) | 4:03 | 2022-05-11 |  |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-07-13 | 2024-09-27 |
+| [Love Poison](https://open.spotify.com/track/0wt5AcwmWf9woYfRIVHXsW) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [<Love Poison>](https://open.spotify.com/album/01xDFuamcPJOW7Olu7g3FT) | 3:30 | 2025-09-24 |  |
 | [LOVE SEEKER](https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [LOVE SEEKER](https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb) | 3:26 | 2022-05-11 | 2025-04-18 |
 | [Love Story](https://open.spotify.com/track/4BtcmECLsMxurQobTp932q) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [WINTER CITY](https://open.spotify.com/album/34684YNjQKgceU3s6D9bx9) | 4:01 | 2022-05-11 | 2022-07-14 |
 | [Love visible](https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl) | [Love visible](https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg) | 3:05 | 2023-07-13 |  |
@@ -230,6 +231,7 @@
 | [midnight sun](https://open.spotify.com/track/1tqUzxik2ooGA5HI0gIUPd) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [midnight sun](https://open.spotify.com/album/4SR44954mdbfI5tSIwE7a9) | 3:54 | 2022-06-09 | 2022-07-20 |
 | [Milky Way](https://open.spotify.com/track/5v81RNETwfvEPgBrelkGIz) | [KOYO](https://open.spotify.com/artist/14eB522leOXARuY6M8Gxcz) | [Milky Way](https://open.spotify.com/album/3pnTb0TWtG4NcFRu5Qe1r5) | 4:02 | 2025-06-19 | 2025-08-17 |
 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 | 2025-04-17 |  |
+| [Moments Like This](https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Tricycle](https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU) | 4:43 | 2025-09-24 |  |
 | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/track/34uOAAJfVatmKdVHdtCqgk) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Monthly Project 2019 May Yoon Jong Shin \- A train to chuncheon](https://open.spotify.com/album/4LrtYx1fJuZYkGbusjaphJ) | 4:54 | 2022-07-22 | 2024-04-19 |
 | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 | 2024-04-19 | 2025-05-16 |
 | [MOOD FOR LOVE](https://open.spotify.com/track/3GMGmY27u0T21gKMk3vYrT) | [THE SOLUTIONS](https://open.spotify.com/artist/5fwYrHN92VR90PJQ11ybJ8) | [MOOD FOR LOVE](https://open.spotify.com/album/0nKbziXfbMXqB18pE1Z8Ls) | 3:24 | 2022-07-22 | 2024-04-19 |

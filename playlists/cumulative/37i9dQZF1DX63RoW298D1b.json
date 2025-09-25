@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Emberline",
+        "url": "https://open.spotify.com/album/2SR68CyFVSf66b8JTGU65f"
+      },
+      "artists": [
+        {
+          "name": "Nivellea",
+          "url": "https://open.spotify.com/artist/6fV1zumElkmOdLFGwBLr7f"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152524,
+      "name": "Emberline",
+      "url": "https://open.spotify.com/track/6NG7PoE0dcstZY4cdM7McF"
+    },
+    {
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc"
       },

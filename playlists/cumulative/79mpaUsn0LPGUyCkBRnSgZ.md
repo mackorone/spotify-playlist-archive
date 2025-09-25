@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-921 songs - 2 day 13 hr 1 min
+922 songs - 2 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [Otherside](https://open.spotify.com/track/2Iqdun0CJawDkc3NBUrbdA) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/4XUbE270OEh8WacgMyamyF) | 2:40 | 2022-06-28 |  |
 | [Outer Body](https://open.spotify.com/track/7s116fYbWa8JjEoi6jxaZQ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:02 | 2023-05-21 | 2023-12-14 |
 | [Outside](https://open.spotify.com/track/5s0oWj51ttqiINWWJynNPz) | [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [By the Time I Get to Phoenix](https://open.spotify.com/album/7L7oMPboBCeyGLJVsHSWM2) | 6:14 | 2023-02-18 | 2024-01-10 |
+| [Over & Over \- 2015 Remaster](https://open.spotify.com/track/4SUF4kyuSX9siVjzpjEibr) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tusk \(2015 Remaster\)](https://open.spotify.com/album/5FIN8pyPVx8ggNs5jQ86Re) | 4:34 | 2025-09-24 |  |
 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 | 2023-10-30 |  |
 | [Overdrive](https://open.spotify.com/track/5WjKzP0MY4COScm6VPrLqU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:14 | 2022-07-30 |  |
 | [Overflow](https://open.spotify.com/track/5kgCqrcWdh2ENYrEBpKzqr) | [Pat and the Pissers](https://open.spotify.com/artist/6Djxo4G9K55aRE1Nd2d62K) | [How It's Done](https://open.spotify.com/album/7J9T5PCqq9HzcgnuT5szHG) | 1:48 | 2025-07-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Collect 200 are our new fave duo ❤️ 2️⃣0️⃣0️⃣ ❤️  it's all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,726 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,498 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

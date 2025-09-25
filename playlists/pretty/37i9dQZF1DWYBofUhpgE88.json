@@ -1,6 +1,6 @@
 {
   "description": "Mattia Furlani, il pi\u00f9 giovane atleta di sempre a vincere l'oro nel salto in lungo \ud83e\udd47",
-  "num_followers": 363816,
+  "num_followers": 363810,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-09-19 14:30:22",
       "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+    },
+    {
+      "added_at": "2025-09-19 14:30:22",
+      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
-    },
-    {
-      "added_at": "2025-09-19 14:30:22",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2025-09-19 14:30:22",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-09-19 14:30:22",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
-    },
-    {
-      "added_at": "2025-09-19 14:30:22",
-      "album": {
         "name": "Something To Give Each Other",
         "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 156391,
       "name": "Rush",
       "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+    },
+    {
+      "added_at": "2025-09-19 14:30:22",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE"
     },
     {
       "added_at": "2025-09-19 14:30:22",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-09-19 14:30:22",
       "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 250702,
-      "name": "Delilah (pull me out of this)",
-      "url": "https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2"
-    },
-    {
-      "added_at": "2025-09-19 14:30:22",
-      "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
       },
@@ -1427,22 +1407,22 @@
     {
       "added_at": "2025-09-19 14:30:22",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Greg Taro",
-          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
         }
       ],
-      "duration_ms": 121417,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
+      "duration_ms": 250702,
+      "name": "Delilah (pull me out of this)",
+      "url": "https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2"
     },
     {
       "added_at": "2025-09-19 14:30:22",
@@ -1459,6 +1439,26 @@
       "duration_ms": 132780,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
+    },
+    {
+      "added_at": "2025-09-19 14:30:22",
+      "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Greg Taro",
+          "url": "https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U"
+        }
+      ],
+      "duration_ms": 121417,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {
       "added_at": "2025-09-19 14:30:22",
@@ -1855,26 +1855,6 @@
     {
       "added_at": "2025-09-19 14:30:22",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
-    },
-    {
-      "added_at": "2025-09-19 14:30:22",
-      "album": {
         "name": "Money Made Me A Savage (Calabria)",
         "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 123854,
       "name": "Money Made Me A Savage - Calabria",
       "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
+    },
+    {
+      "added_at": "2025-09-19 14:30:22",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2025-09-19 14:30:22",

@@ -10044,7 +10044,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 186003,
       "name": "Caballito de Metal",
       "url": "https://open.spotify.com/track/6kJgNhXUD92yG9BaBZmXTe"
@@ -19076,7 +19076,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -19094,7 +19094,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 151440,
       "name": "El Curanto",
       "url": "https://open.spotify.com/track/0diEXcRHWm7zg3k4WBC89c"
@@ -19246,7 +19246,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 198066,
       "name": "El Gorro de Lana",
       "url": "https://open.spotify.com/track/3jiSagSREEgX9xrMkg1e8h"
@@ -24396,7 +24396,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 191078,
       "name": "Furia Loca",
       "url": "https://open.spotify.com/track/39GSVNKMHGzg9peffRlVxj"
@@ -31372,7 +31372,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 117533,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/6WBAwTrUIwWJTlS8e3v5Zx"
@@ -36116,7 +36116,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 140307,
       "name": "MAL PORTA",
       "url": "https://open.spotify.com/track/0Fb8RH9cZJtUsbSE6HM01G"
@@ -53150,7 +53150,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -55438,6 +55438,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "date_added": "2025-07-01",
@@ -55926,6 +55930,24 @@
       "duration_ms": 189512,
       "name": "Si T\u00fa Me Vieras",
       "url": "https://open.spotify.com/track/46964wQT31RrX0XJ6ML62I"
+    },
+    {
+      "album": {
+        "name": "Grandes de la Canci\u00f3n Chilena Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6seFSAqZLaNT4tlSSDIXV2"
+      },
+      "artists": [
+        {
+          "name": "Los Huasos Quincheros",
+          "url": "https://open.spotify.com/artist/4y2njzlk64o4wUdX8Ph8aM"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "Si Vas para Chile",
+      "url": "https://open.spotify.com/track/5aVeTIHlEEe5sdPsvu0xVO"
     },
     {
       "album": {
@@ -63082,7 +63104,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 161933,
       "name": "Trote Tarapaque\u00f1o",
       "url": "https://open.spotify.com/track/0Jljgxg8hz5Fd1fggqSACU"

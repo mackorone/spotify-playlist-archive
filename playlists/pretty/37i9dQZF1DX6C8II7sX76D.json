@@ -1,6 +1,6 @@
 {
   "description": "pov: u hand the internet the aux",
-  "num_followers": 229288,
+  "num_followers": 229333,
   "original_name": "Viral Dance",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,30 @@
     {
       "added_at": "2025-09-19 04:00:38",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "added_at": "2025-09-19 04:00:38",
+      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
-    },
-    {
-      "added_at": "2025-09-19 04:00:38",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Ink",
-          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
     }
   ],
   "unique_name": "Viral Dance",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 926,707 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 926,781 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3K21mU.md) - [plain]
 | 49 | [Lights Please](https://open.spotify.com/track/6sZv0ECT8cEW3oZtoCuVg4) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:28 |
 | 50 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 |
 
-Snapshot ID: `aNCRgAAAAAC+M6JlOPa91DVEzTxaCVf0`
+Snapshot ID: `aNHjAAAAAACShjHpK9YTjmrLlCO6dcB2`

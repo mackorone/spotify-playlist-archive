@@ -4,7 +4,7 @@
 
 > Scarf season is upon us\. Crunchy leaves, pumpkin spice, and all the cozy Fall feels.
 
-869 songs - 2 day 2 hr 48 min
+870 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Jumpin Out The Face](https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Jumpin Out The Face](https://open.spotify.com/album/0VVV8k3utS3P1PJlIVK0aj) | 2:50 | 2021-07-02 | 2022-09-13 |
 | [Just Dance](https://open.spotify.com/track/1dzQoRqT5ucxXVaAhTcT0J) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 4:01 | 2024-08-21 | 2024-08-29 |
 | [Just Know It \- Felix Cartal's Sunset Remix](https://open.spotify.com/track/6g1nZGJA20gADqQYbM6JWX) | [Dan Mangan](https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Just Know It \(Felix Cartal's Sunset Mix\)](https://open.spotify.com/album/5l73wrV4OW4r208bPaiCjq) | 3:58 | 2023-02-14 | 2023-04-11 |
+| [Just Wait A Minute](https://open.spotify.com/track/2XBcAlAlbXsx13Q4Czs6cG) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Just Wait A Minute](https://open.spotify.com/album/05pfw7Rs7dirnwvQc8LnxQ) | 3:22 | 2025-09-24 |  |
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2023-09-28 | 2023-10-31 |
 | [Keep Me In Mind](https://open.spotify.com/track/7aOBOmonwIGcQGK4AeIuXy) | [Jimmy DoGood](https://open.spotify.com/artist/43bZWHj37B7AEZPKTPA3sT), [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Keep Me In Mind](https://open.spotify.com/album/6x0kCfPCAFkiIlWkP6RGzH) | 2:32 | 2023-07-24 | 2023-08-08 |
 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 | 2023-11-07 | 2024-06-27 |

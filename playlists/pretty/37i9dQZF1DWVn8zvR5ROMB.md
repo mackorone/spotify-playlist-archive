@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Dasha, Josh Ross, HARDY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,154 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,249 likes - 74 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 73 | [Mistakes That I've Made](https://open.spotify.com/track/46yrYx00PGyRicWCdUzvP1) | [Sophia Zamani](https://open.spotify.com/artist/49z973wIznANzIfgGwKpJF) | [Mistakes That I've Made](https://open.spotify.com/album/5Noro6UaUCeQT4Ex4qL3Nl) | 2:49 |
 | 74 | [Fight Fire With A Flame](https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB) | [Christian John](https://open.spotify.com/artist/5n3HIoI0nArjxKAhQcrSNY) | [Fight Fire With A Flame](https://open.spotify.com/album/0e6roXxtOt0WL0s1pVQJd4) | 4:23 |
 
-Snapshot ID: `AAAAAHJn4lE3QCtBRxdPwynPCbNc5890`
+Snapshot ID: `AAAAAENc8DUkSONi6fNh71ZNvf84QpI3`

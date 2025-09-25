@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Omoinotake
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,089 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,135 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [イノセントブルー](https://open.spotify.com/track/5vy2GU5ypxi4DTt8ImfDAP) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [イノセントブルー](https://open.spotify.com/album/1kWmrfi2SEltqcsJ200N44) | 3:23 |
 | 2 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
-| 3 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/6rOuSPIaGpXumNQx1DdM7A), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 |
-| 4 | [Track 1](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [UPDATE](https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [Deu](https://open.spotify.com/artist/2MGRaPy6kwzQjFEcH24eYt), [Ito](https://open.spotify.com/artist/2JSOr3G2S5sYCvLhY6QS4x), [Moto](https://open.spotify.com/artist/5U1pobjYB1fAg553UQGwvF) | [UPDATE](https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs) | 2:37 |
+| 4 | [SCARY MONSTER](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SCARY MONSTERS EP](https://open.spotify.com/album/3mWJos5NX3yC9QnpdCjvxD) | 3:04 |
 | 5 | [1000日間](https://open.spotify.com/track/3HGHvxci8vnRg7RZ5E6lzi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000日間](https://open.spotify.com/album/760cJy3lGdx6BZqtFPkow1) | 3:23 |
 | 6 | [Talent](https://open.spotify.com/track/0QGIuyCNcGzxPegBlNKygP) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [Talent](https://open.spotify.com/album/39TLbfYOTZkBahz2E5MOuX) | 4:22 |
 | 7 | [Rashisa](https://open.spotify.com/track/69A1xOqqOvm387J32Ps32R) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Rashisa](https://open.spotify.com/album/4XOkiHZhn0dnTGgFgAnNzV) | 5:02 |
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 21 | [Bassist](https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Bassist](https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs) | 3:11 |
 | 22 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 23 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 |
-| 24 | [Track 1](https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [](https://open.spotify.com/album/null) | 0:00 |
-| 25 | [moonlit](https://open.spotify.com/track/61812KfVWT9RURx4idulmo) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [](https://open.spotify.com/album/null) | 3:03 |
+| 24 | [カ ミ ナ リ](https://open.spotify.com/track/1zFY4oOz58ps2Eeztu12S3) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [カ ミ ナ リ](https://open.spotify.com/album/2zqIBWA4EAuPPNqeznO68y) | 3:33 |
+| 25 | [moonlit](https://open.spotify.com/track/61812KfVWT9RURx4idulmo) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/5LagsrycSYRRWlxea4l9yt) | 3:03 |
 | 26 | [るてん](https://open.spotify.com/track/6nnlidVjXQpOVS8cfnr82o) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [るてん](https://open.spotify.com/album/43S0B2hwGw5F3BLjKAf3f1) | 3:33 |
-| 27 | [over](https://open.spotify.com/track/0sRn0jlhMjuUVarwx6plEH) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [](https://open.spotify.com/album/null) | 3:50 |
+| 27 | [over](https://open.spotify.com/track/0sRn0jlhMjuUVarwx6plEH) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [overturn](https://open.spotify.com/album/60USi3blMEiaExFVOPYOjS) | 3:50 |
 | 28 | [朝凪](https://open.spotify.com/track/6CUbPRA9vVWqBc7ncQ8sfY) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝凪](https://open.spotify.com/album/0u6ouRVyJKDRASyr2CflFY) | 3:20 |
 | 29 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 |
 | 30 | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/track/2rwkaFdBNUlYHEpInYEeM0) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Action \(VS\. 稲葉浩志\)](https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs) | 3:48 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 93 | [アイデンティティ](https://open.spotify.com/track/6ipEoWmRD7abKrklCCrmFK) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [FANDOM](https://open.spotify.com/album/6dOmJy6sAyiRfLnPIGyxAp) | 4:02 |
 | 94 | [メタセコイアと月](https://open.spotify.com/track/6Ev71sjnlTuGHF8Vdki7rX) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [メタセコイアと月](https://open.spotify.com/album/1njVjBvUnPyIkhgjnq2fV8) | 5:12 |
 | 95 | [ピース](https://open.spotify.com/track/2sahnAls0P9Jpywavnx2QD) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ピース](https://open.spotify.com/album/1Bz8FCrxi5dU6sp61oJNPn) | 3:09 |
-| 96 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [](https://open.spotify.com/album/null) | 5:14 |
+| 96 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
 | 97 | [Wandering](https://open.spotify.com/track/76AsVFk0KOGzpnlDcrSj0O) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Wandering](https://open.spotify.com/album/2MEbniyfZJNeCSzFtleDTE) | 3:33 |
 | 98 | [Baby Don't Cry \-Baby Love Ver.\-](https://open.spotify.com/track/0l7yV6QIiKaZ8DFxcPbjCx) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [東京初期衝動](https://open.spotify.com/album/5zvJxI0cIom9MdSXTgSVDU) | 3:23 |
 | 99 | [FLY OUT](https://open.spotify.com/track/2D2jnsZ7v6c3BQ330jwJdF) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Attention](https://open.spotify.com/album/6tNWDnOy3WwR5KjAxnRSmi) | 3:28 |

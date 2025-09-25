@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Lola Young
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,188,813 likes - 176 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,188,665 likes - 176 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 175 | [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 |
 | 176 | [Long Sardine](https://open.spotify.com/track/7DeppqAvyRBMFyvbGL7Gqp) | [Oxis](https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb) | [Long Sardine](https://open.spotify.com/album/3bcaVoQfjwuDmsYoWAgvaJ) | 1:52 |
 
-Snapshot ID: `AAAAAMBw43o8aRb8ZSFXr9eUPBkqp0M9`
+Snapshot ID: `AAAAAP/nfTYMjZkVtg+QMK0PPrhLF+k9`

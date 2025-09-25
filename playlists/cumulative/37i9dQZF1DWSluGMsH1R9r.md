@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-768 songs - 1 day 8 hr 53 min
+770 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-12-07 | 2022-12-24 |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 | 2022-04-08 |
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2021-12-07 | 2024-01-06 |
+| [Daydream](https://open.spotify.com/track/5LAptbUhdbsbUUhoV3Q1Oy) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [Daydream](https://open.spotify.com/album/0JHgCYQ3U5OoLfiDC6Pjib) | 2:21 | 2025-09-24 |  |
 | [Days](https://open.spotify.com/track/75mVGk9NnVwI1hC42MrvcG) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Poems](https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH) | 2:23 | 2022-12-22 | 2025-05-31 |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-01-04 | 2025-05-14 |
 | [Deep Blue](https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Deep Blue](https://open.spotify.com/album/6BYs44BM5V0a4neWaQ5u1l) | 2:37 | 2025-03-21 |  |
@@ -461,6 +462,7 @@
 | [Nordanvind](https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj) | [Malmkvist](https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l) | [Nordanvind](https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze) | 2:07 | 2023-02-06 |  |
 | [Nordic Dream](https://open.spotify.com/track/6MvXF1lmeCrBpG75Tz8l9W) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Nordic Dream](https://open.spotify.com/album/78BOpLaVvh5eA8jjH5dzQJ) | 2:22 | 2021-12-07 | 2025-02-19 |
 | [Normandy](https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0) | [Frerick Den Haan](https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5) | [Normandy](https://open.spotify.com/album/6ViCKz30p0TBntZVTR7WPr) | 3:04 | 2021-12-07 | 2024-11-06 |
+| [Nostrella](https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS) | [Henry Diamante](https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7) | [Nostrella](https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB) | 2:36 | 2025-09-24 |  |
 | [Nothingness Began Slowly](https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2) | [Jean\-Marie Bussiere](https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF) | [Nothingness Began Slowly](https://open.spotify.com/album/35HuYT7YxzpZUeCSOaLzac) | 1:59 | 2022-02-01 | 2023-07-25 |
 | [Notre terre](https://open.spotify.com/track/5kHdX3qzFelWIDOiUAs96C) | [Mattéo Roussel](https://open.spotify.com/artist/5cWYlySCjG96BxyPDRdT9J) | [Notre terre](https://open.spotify.com/album/285DJvpqFwBzxXopSOd2ML) | 2:38 | 2022-03-01 | 2022-09-15 |
 | [Nowhere](https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I) | [Aubrey Lo](https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5) | [Nowhere](https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ) | 2:16 | 2025-01-06 |  |

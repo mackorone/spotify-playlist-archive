@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,956 likes - 52 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,986 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 43 | [TAMBOU](https://open.spotify.com/track/1c7i0QliKMH9SSpgPSTHDo) | [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe), [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv) | [TAMBOU](https://open.spotify.com/album/1rfmcQhSMXujxmIPNKspxz) | 2:11 |
 | 44 | [Swipe](https://open.spotify.com/track/0ASXXXCxdvzPAdpH6pKFNk) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Swipe](https://open.spotify.com/album/2khxHsYSTnnyKkQKOL67I1) | 2:34 |
 | 45 | [Hot Gyal Time](https://open.spotify.com/track/0clwSel3mX5KAh4E8SZrhb) | [DJ Doubi](https://open.spotify.com/artist/055YpL4p0xPQCv8JEcylw3), [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq), [BiMax](https://open.spotify.com/artist/4C0kmM5JNVEneA1kZRcc6X) | [Hot Gyal Time](https://open.spotify.com/album/4ULDqzLNUFZxDMNFw3g9O4) | 2:22 |
-| 46 | [I ja ni](https://open.spotify.com/track/1DqQSNC57l4LxsR7XHDf2m) | [Lijay](https://open.spotify.com/artist/0fEd76ZuO65826Q6ilZIuO), [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [I ja ni](https://open.spotify.com/album/7cGlmlcpOeXTJpzd1KEHHt) | 2:52 |
-| 47 | [Coconut](https://open.spotify.com/track/51DwuwPiBHlxGQUixns7mh) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Attachingboy](https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL), [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg) | [Coconut](https://open.spotify.com/album/7L1PQoKOx0h63gY1yeL3Bp) | 2:16 |
-| 48 | [Parè Ba\-Y](https://open.spotify.com/track/0Rbm7NmOFuUqkT9Nqyzgcr) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Parè Ba\-Y](https://open.spotify.com/album/0Qa5oDlrRY368UhsAL0KqU) | 2:19 |
-| 49 | [SHATTA CRIMINEL](https://open.spotify.com/track/5dQZMgCDgq0CeQ76s8vPPS) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [SHATTA CRIMINEL](https://open.spotify.com/album/5pGAZuxkyjTa78ZRJBkkLT) | 2:29 |
-| 50 | [L'or](https://open.spotify.com/track/0EZ1oWS6NsjHqIjfXdALw2) | [Chani Man](https://open.spotify.com/artist/3c06xbau4OgBytTvM6bXXg) | [L'or](https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT) | 2:57 |
-| 51 | [No Long Talk](https://open.spotify.com/track/7hLfMab65joMK7EB25EFVf) | [El Génah](https://open.spotify.com/artist/00WhHFfWSNGuF8utj6mBcL) | [No Long Talk](https://open.spotify.com/album/2otJJIhWUjYmlnuxP6I3MG) | 2:50 |
-| 52 | [Tout Koté](https://open.spotify.com/track/5DLNMwPxp2kpgzT6RMyDLe) | [Cocotteland](https://open.spotify.com/artist/16KiWnLK09KYEBwztGTMF7), [Natoxie](https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5), [MJTX](https://open.spotify.com/artist/5oYrabnj98r8zzsTsD5PbP) | [Tout Koté](https://open.spotify.com/album/1h8jKCAibB11m46mbcFPCN) | 2:06 |
+| 46 | [Coconut](https://open.spotify.com/track/51DwuwPiBHlxGQUixns7mh) | [Shaz](https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9), [Attachingboy](https://open.spotify.com/artist/6tB8V9mp5QW1yla5SVorpL), [Aknose](https://open.spotify.com/artist/1Lqc2Oqyciyq6uvTSNHlwg) | [Coconut](https://open.spotify.com/album/7L1PQoKOx0h63gY1yeL3Bp) | 2:16 |
+| 47 | [Parè Ba\-Y](https://open.spotify.com/track/0Rbm7NmOFuUqkT9Nqyzgcr) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52), [LeJuh](https://open.spotify.com/artist/65UTbF7a4NYGfMAZwe279i) | [Parè Ba\-Y](https://open.spotify.com/album/0Qa5oDlrRY368UhsAL0KqU) | 2:19 |
+| 48 | [SHATTA CRIMINEL](https://open.spotify.com/track/5dQZMgCDgq0CeQ76s8vPPS) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd), [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [SHATTA CRIMINEL](https://open.spotify.com/album/5pGAZuxkyjTa78ZRJBkkLT) | 2:29 |
+| 49 | [L'or](https://open.spotify.com/track/0EZ1oWS6NsjHqIjfXdALw2) | [Chani Man](https://open.spotify.com/artist/3c06xbau4OgBytTvM6bXXg) | [L'or](https://open.spotify.com/album/6y9JbOuSe9uzd5B7UwVmJT) | 2:57 |
+| 50 | [No Long Talk](https://open.spotify.com/track/7hLfMab65joMK7EB25EFVf) | [El Génah](https://open.spotify.com/artist/00WhHFfWSNGuF8utj6mBcL) | [No Long Talk](https://open.spotify.com/album/2otJJIhWUjYmlnuxP6I3MG) | 2:50 |
 
-Snapshot ID: `AAAAALb2XDnbU3dGXBwZRPOgkTWVf8TV`
+Snapshot ID: `AAAAAAOU4BsHF61ncYE1nYzlmntqYUZy`

@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. ",
-  "num_followers": 4377708,
+  "num_followers": 4378971,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -3839,6 +3839,22 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
+        "name": "You Must Believe In Spring",
+        "url": "https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "Gary's Theme - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd"
+    },
+    {
+      "added_at": "2025-01-07 13:20:15",
+      "album": {
         "name": "The Blues and the Abstract Truth",
         "url": "https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ"
       },
@@ -3851,22 +3867,6 @@
       "duration_ms": 525613,
       "name": "Stolen Moments",
       "url": "https://open.spotify.com/track/4ow1XH4hwe3yOGXG2eTTTY"
-    },
-    {
-      "added_at": "2025-01-07 13:20:15",
-      "album": {
-        "name": "Ptah The El Daoud",
-        "url": "https://open.spotify.com/album/62RMymUs9Cb4rDqYqXfTCf"
-      },
-      "artists": [
-        {
-          "name": "Alice Coltrane",
-          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
-        }
-      ],
-      "duration_ms": 498106,
-      "name": "Turiya & Ramakrishna",
-      "url": "https://open.spotify.com/track/7tQ7e28gdQNhLcIbqc1PXY"
     },
     {
       "added_at": "2025-01-07 13:20:15",
@@ -3887,18 +3887,18 @@
     {
       "added_at": "2025-01-07 13:20:15",
       "album": {
-        "name": "You Must Believe In Spring",
-        "url": "https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX"
+        "name": "Ptah The El Daoud",
+        "url": "https://open.spotify.com/album/62RMymUs9Cb4rDqYqXfTCf"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
         }
       ],
-      "duration_ms": 257693,
-      "name": "Gary's Theme - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd"
+      "duration_ms": 498106,
+      "name": "Turiya & Ramakrishna",
+      "url": "https://open.spotify.com/track/7tQ7e28gdQNhLcIbqc1PXY"
     },
     {
       "added_at": "2025-01-07 13:20:15",

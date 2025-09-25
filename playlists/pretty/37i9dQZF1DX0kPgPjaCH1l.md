@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 
 > Baba God, run am 🙏\. <br/>Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,503 likes - 80 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,613 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,14 +78,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0kPgPjaCH1l.md) - [plain]
 | 68 | [Wetin We Gain](https://open.spotify.com/track/5faqpitzDhJKv3huL8nJhp) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N) | [Wetin We Gain](https://open.spotify.com/album/6vHdAinF14WKw2vIpXDAiC) | 3:34 |
 | 69 | [Amdallah](https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Vibe Till Thy Kingdom Come](https://open.spotify.com/album/5sXH36sWuho5Xei85Ru5sj) | 3:00 |
 | 70 | [Money Must Drop](https://open.spotify.com/track/5Ryse1pa8SEKCt80MHOcJY) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Effizy](https://open.spotify.com/artist/6xx8uwM0k7VMnmZC1nOgoY) | [Money Must Drop](https://open.spotify.com/album/45WqqtUFXM2EsJVcpF8k0C) | 4:08 |
-| 71 | [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 |
-| 72 | [High Spirit](https://open.spotify.com/track/0a9d4i1ofGnyW1BLCdLl7m) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [High Spirit](https://open.spotify.com/album/6edSCrtfTQ8dgZb87yq2GQ) | 2:29 |
+| 71 | [High Spirit](https://open.spotify.com/track/0a9d4i1ofGnyW1BLCdLl7m) | [Dopestiks](https://open.spotify.com/artist/1f3wHhb84x7tkNHUq7fIxL) | [High Spirit](https://open.spotify.com/album/6edSCrtfTQ8dgZb87yq2GQ) | 2:29 |
+| 72 | [Fire](https://open.spotify.com/track/16uuguJjHf7d7gyxpnGwOn) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Fire](https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O) | 3:58 |
 | 73 | [Upgrade](https://open.spotify.com/track/4B8slHZUcFHu8ikY7EIvDt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/2tHeMvMbLAJnUWanq02jUV) | 2:59 |
 | 74 | [Majẹkajá](https://open.spotify.com/track/55pTjtdEONZz5e4la7WmBV) | [Kunmie](https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF) | [Before We Became Strangers](https://open.spotify.com/album/4eUmsqNGSbpaCJWnpQzCte) | 3:30 |
 | 75 | [Pity Me](https://open.spotify.com/track/2RVUFIMYxs6HeebK7i2Ff3) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Pity Me](https://open.spotify.com/album/2ZFUvGdlMsY949oyKZdcXW) | 2:09 |
-| 76 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
-| 77 | [Pressure, Pt.2](https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC) | [Pressure, Pt.2](https://open.spotify.com/album/7JGxxRfF3lQVfP8nrpkUUC) | 2:44 |
-| 78 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
+| 76 | [Pressure, Pt.2](https://open.spotify.com/track/57i2zCUPJCGaLwH2cPsimu) | [Hotkeed](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [Reehaa](https://open.spotify.com/artist/3uEftX1neotPP4BkfvFJHC) | [Pressure, Pt.2](https://open.spotify.com/album/7JGxxRfF3lQVfP8nrpkUUC) | 2:44 |
+| 77 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
+| 78 | [FAMILY](https://open.spotify.com/track/65aQ76660Dd6rn40UwQVgM) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [KURIMA](https://open.spotify.com/album/5maRefSgf0qSSkTMB4lmTR) | 2:33 |
 | 79 | [Vision 2020](https://open.spotify.com/track/19qcOFIW6mYHwKYSfY2HWo) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension](https://open.spotify.com/album/2tHeMvMbLAJnUWanq02jUV) | 3:41 |
 | 80 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
 

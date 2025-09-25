@@ -1,12 +1,12 @@
 {
   "description": "This is Kittydog. The essential tracks, all in one playlist.",
-  "num_followers": 691,
+  "num_followers": 692,
   "original_name": "This Is Kittydog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAAA0u1R2cGVrvhXy+OVzwuUc",
+  "snapshot_id": "aNHjAAAAAAAZSxqEmUOzFAF9uRMvwTld",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 121874,
       "name": "no response",
       "url": "https://open.spotify.com/track/3H4LJY6nN7dkufYO6BbDBU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "deteriorating (Remastered)",
+        "url": "https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 105531,
+      "name": "deteriorating - Remastered",
+      "url": "https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN"
     },
     {
       "added_at": null,
@@ -111,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "deteriorating (Remastered)",
-        "url": "https://open.spotify.com/album/6dzPxokLm3XkvcsWQMQrU5"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 105531,
-      "name": "deteriorating - Remastered",
-      "url": "https://open.spotify.com/track/4oMrqoMHYjZeWEpar8hREN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ppl go blush",
         "url": "https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd"
       },
@@ -175,38 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRECTIONS",
-        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 137299,
-      "name": "I NEED THAT",
-      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BOARD GAME",
-        "url": "https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 117931,
-      "name": "BOARD GAME",
-      "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "no inbetween",
         "url": "https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp"
       },
@@ -219,6 +187,22 @@
       "duration_ms": 111494,
       "name": "no inbetween",
       "url": "https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIRECTIONS",
+        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 137299,
+      "name": "I NEED THAT",
+      "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
       "duration_ms": 65901,
       "name": "LIES",
       "url": "https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BOARD GAME",
+        "url": "https://open.spotify.com/album/0G6qS6tzPs9b8x6syT81l7"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 117931,
+      "name": "BOARD GAME",
+      "url": "https://open.spotify.com/track/1Igt5ktZquhARK8upr7UOx"
     },
     {
       "added_at": null,
@@ -400,9 +400,25 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 176000,
-      "name": "stagnant waters",
-      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
+      "duration_ms": 159000,
+      "name": "cursed2all4s",
+      "url": "https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "outcast (they all hate me)",
+        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 182624,
+      "name": "outcast",
+      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
     },
     {
       "added_at": null,
@@ -439,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "outcast (they all hate me)",
-        "url": "https://open.spotify.com/album/5rlkspTW5YrreKCQH1Sb62"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 182624,
-      "name": "outcast",
-      "url": "https://open.spotify.com/track/7uIVNtueVeY9WjFzBmZB5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRECTIONS",
         "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
       },
@@ -464,41 +464,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 159000,
-      "name": "cursed2all4s",
-      "url": "https://open.spotify.com/track/268Q8ZqFfUo3tGThTeEnbL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "jus make it go boom remake",
-        "url": "https://open.spotify.com/album/6QewYZxJeZJT1kYQ74fQtV"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 92322,
-      "name": "jus make it go boom remake",
-      "url": "https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "freeze up",
-        "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "freeze up",
-      "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
+      "duration_ms": 176000,
+      "name": "stagnant waters",
+      "url": "https://open.spotify.com/track/2I7Bm4iroSTgKbc2Cz4Qyu"
     },
     {
       "added_at": null,
@@ -519,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DIRECTIONS",
-        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
+        "name": "jus make it go boom remake",
+        "url": "https://open.spotify.com/album/6QewYZxJeZJT1kYQ74fQtV"
       },
       "artists": [
         {
@@ -528,25 +496,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Directions",
-      "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LFG",
-        "url": "https://open.spotify.com/album/4mXKmWhpnjnEl3K3ltodyU"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 166750,
-      "name": "LFG",
-      "url": "https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA"
+      "duration_ms": 92322,
+      "name": "jus make it go boom remake",
+      "url": "https://open.spotify.com/track/5uvFhFuHy9sI9ZXf05mOn9"
     },
     {
       "added_at": null,
@@ -563,6 +515,38 @@
       "duration_ms": 71623,
       "name": "intergalactic fractal",
       "url": "https://open.spotify.com/track/5cWLlJafnB5ALhSUmS72mi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DIRECTIONS",
+        "url": "https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Directions",
+      "url": "https://open.spotify.com/track/1O0bYizbSQ8u7JOwvLFU3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "freeze up",
+        "url": "https://open.spotify.com/album/2ksgqQFp3aogxxyfmhtYeN"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "freeze up",
+      "url": "https://open.spotify.com/track/2AcVmJdkcBv6OWIiSyW35a"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "im part of the PAWblem\u200b!\u200b!",
+        "url": "https://open.spotify.com/album/660oyPv15JOys26fZXNdE7"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 100005,
+      "name": "im part of the PAWblem\u200b!\u200b!",
+      "url": "https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RIP Creativity",
         "url": "https://open.spotify.com/album/4daDA6ersDkffX8BC46lAM"
       },
@@ -683,22 +683,6 @@
       "duration_ms": 101668,
       "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
       "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "im part of the PAWblem\u200b!\u200b!",
-        "url": "https://open.spotify.com/album/660oyPv15JOys26fZXNdE7"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 100005,
-      "name": "im part of the PAWblem\u200b!\u200b!",
-      "url": "https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l"
     },
     {
       "added_at": null,
@@ -759,6 +743,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "LFG",
+        "url": "https://open.spotify.com/album/4mXKmWhpnjnEl3K3ltodyU"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 166750,
+      "name": "LFG",
+      "url": "https://open.spotify.com/track/4v0LYAYKIfl66eNmKz6pXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "pastpresentfuture + instrumentals",
+        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "duration_ms": 64066,
+      "name": "before i explode",
+      "url": "https://open.spotify.com/track/3k8Ft1GlaoMSK0gX535vA2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TALK SHIT!!",
         "url": "https://open.spotify.com/album/5RefZe6Wj5M9KHLZoXZAZB"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 166400,
       "name": "TALK SHIT!!",
       "url": "https://open.spotify.com/track/5aYP4yt655ZTqsQ2sAeEk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "pastpresentfuture + instrumentals",
-        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
-      },
-      "artists": [
-        {
-          "name": "Kittydog",
-          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
-        }
-      ],
-      "duration_ms": 64066,
-      "name": "before i explode",
-      "url": "https://open.spotify.com/track/3k8Ft1GlaoMSK0gX535vA2"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "crying in the club",
-        "url": "https://open.spotify.com/album/7HnucOoLxbhgFNyDfmjDDS"
+        "name": "pastpresentfuture + instrumentals",
+        "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
         }
       ],
-      "duration_ms": 123724,
-      "name": "crying in the club",
-      "url": "https://open.spotify.com/track/2Pgjsp9gZpxUnE9FuENVjg"
+      "duration_ms": 84654,
+      "name": "inhuman",
+      "url": "https://open.spotify.com/track/3n30RfCNebeSTEcj08kkx4"
     }
   ],
   "unique_name": "This Is Kittydog",

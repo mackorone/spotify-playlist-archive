@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Alexia Mariel en portada.",
-  "num_followers": 93406,
+  "num_followers": 93410,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-09-19 06:00:26",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2025-09-19 06:00:26",
+      "album": {
         "name": "no voy a estar ma\u00f1ana",
         "url": "https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 177773,
       "name": "no voy a estar ma\u00f1ana",
       "url": "https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c"
-    },
-    {
-      "added_at": "2025-09-19 06:00:26",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2025-09-19 06:00:26",

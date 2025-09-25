@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,961,184 likes - 101 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,960,277 likes - 101 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

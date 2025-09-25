@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass 🛸 with ILLENIUM and HAYLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,159 likes - 150 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,147 likes - 150 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 73 | [XE3 \(Whethan Turn\)](https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx) | [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [XE3 \(Whethan Turn\)](https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr) | 3:53 |
 | 74 | [Keep U Safe](https://open.spotify.com/track/7zRTdxHSAQx0CuknlLxf16) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Keep U Safe](https://open.spotify.com/album/1idqhaddxvgIdnNktKy5Mv) | 3:13 |
 | 75 | [Not Enough](https://open.spotify.com/track/7q3vuEjw42Q1hdGQVqRKkx) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Not Enough](https://open.spotify.com/album/4EyjrQZHAoHovJOvFqn7BN) | 3:26 |
-| 76 | [New Home](https://open.spotify.com/track/3uPFySAkcHJY3CxCFGNWd8) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [She Was Silver](https://open.spotify.com/artist/5SdiaMr2awZyAZJsIuo7jg) | [New Home](https://open.spotify.com/album/5MvTO7p2JuX9TP7xOaVRWa) | 4:04 |
+| 76 | [New Home](https://open.spotify.com/track/3uPFySAkcHJY3CxCFGNWd8) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [She Was Silver](https://open.spotify.com/artist/5SdiaMr2awZyAZJsIuo7jg), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [New Home](https://open.spotify.com/album/5MvTO7p2JuX9TP7xOaVRWa) | 4:04 |
 | 77 | [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 |
 | 78 | [STARLIGHT](https://open.spotify.com/track/1pq0fjYwWtYhWrTNjkVCs7) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [STARLIGHT](https://open.spotify.com/album/5U6PxNsoaS3WTKYcUl0XJq) | 3:12 |
 | 79 | [Better Now](https://open.spotify.com/track/20M8mlTMntyirnjCmJCp0M) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Heartstrings](https://open.spotify.com/album/43mjmOoq791fU75qQOjQBL) | 3:08 |

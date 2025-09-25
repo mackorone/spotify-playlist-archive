@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "We introduce exciting artists to you from the Benelux: <a href=\"spotify:artist:7Iff7uMHGSpOygBkCsdcHq\">Hiqpy</a> (cover)",
+  "description": "We introduce exciting artists to you from the Benelux: <a href=\"sspotify:artist:67Hs92fNnRAgFBfL6EePwb\">Aaron Blommaert</a> (cover)",
   "name": "RADAR BNLX",
   "tracks": [
     {
@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "EGOTRIP",
+        "url": "https://open.spotify.com/album/51KPkUzPehz3oPihuwAlJL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158736,
+      "name": "EGOTRIP",
+      "url": "https://open.spotify.com/track/6figbpzScXtzzlc4lYTLNw"
+    },
+    {
+      "album": {
         "name": "Emotional",
         "url": "https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM"
       },
@@ -1579,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Hoe Zit Het Met Ons?",
+        "url": "https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Hoe Zit Het Met Ons?",
+      "url": "https://open.spotify.com/track/1rN5JHM21poaueaK01se6P"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni"
       },
@@ -1854,7 +1890,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 220843,
       "name": "It's Never Easy (Leaving Someone Behind)",
       "url": "https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw"
@@ -3856,6 +3892,24 @@
       "duration_ms": 164739,
       "name": "Who\u2019s Gonna Be The GOAT?",
       "url": "https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz"
+    },
+    {
+      "album": {
+        "name": "WIE?",
+        "url": "https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Blommaert",
+          "url": "https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166840,
+      "name": "WIE?",
+      "url": "https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr"
     },
     {
       "album": {

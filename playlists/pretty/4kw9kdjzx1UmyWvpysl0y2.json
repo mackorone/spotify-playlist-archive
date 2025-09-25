@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124941,
+  "num_followers": 124944,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUnM2dbaeJAa5z0fXSndt6TeYfwu8Y",
+  "snapshot_id": "AAAUnX6yRh44J8Fzy90dAiK5S2ZSU8UZ",
   "tracks": [
+    {
+      "added_at": "2025-09-24 14:59:48",
+      "album": {
+        "name": "I'm Back",
+        "url": "https://open.spotify.com/album/6yBawDUWNs7bHfj4lwBQFe"
+      },
+      "artists": [
+        {
+          "name": "Dodge & Fuski",
+          "url": "https://open.spotify.com/artist/6SJnjpekgnONgNtxKeMP8m"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/2UgtH2EbKpGNMTat5z70OL"
+    },
     {
       "added_at": "2025-09-23 14:44:46",
       "album": {

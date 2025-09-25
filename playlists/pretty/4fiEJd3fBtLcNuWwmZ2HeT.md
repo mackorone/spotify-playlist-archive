@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 356 songs - 20 hr 24 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 358 songs - 20 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -364,5 +364,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 354 | [Cherry Hunt \(feat\. KANON69\)](https://open.spotify.com/track/4sRSZt6c8MBpEuBHxoOmP4) | [Royal Scandal](https://open.spotify.com/artist/74X1MHqkgWa169zirFjTjh), [KANON69](https://open.spotify.com/artist/5aKVkaAP4dYG7zQeM4z25h) | [Cherry Hunt \(feat\. KANON69\)](https://open.spotify.com/album/2SSea7KXtKp5S6yOKt1tS0) | 3:50 |
 | 355 | [アイされヒビわれカガミのうた](https://open.spotify.com/track/3KwAPj5ErBvGeFufjjiAA0) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:55 |
 | 356 | [Le ciel](https://open.spotify.com/track/1tZPdST6iW1wik7zbbCUPk) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [\-merveilles\-](https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft) | 4:59 |
+| 357 | [Ghost](https://open.spotify.com/track/2rd5IVJbcm3lcu6xdoFGIa) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Ghost](https://open.spotify.com/album/2Vwmswd4JdOJK0prjybCIM) | 2:51 |
+| 358 | [Kubiwa Kyouiku no Susume](https://open.spotify.com/track/454m8n2FSYs4jOxJz49REC) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Kubiwa Kyouiku no Susume](https://open.spotify.com/album/0zH8j5cGtsFW4G0Yb1hEdq) | 3:50 |
 
-Snapshot ID: `AAAJWZwe9/YB7uns9WKBzljabdur9B/3`
+Snapshot ID: `AAAJWxkkraBEnIIsvT01gwSnLzAPFe+0`

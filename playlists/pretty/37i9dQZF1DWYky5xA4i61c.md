@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2024! \(WONDERLIVET 2024의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,477 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,485 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 26 | [Aitaiwa](https://open.spotify.com/track/0xCoccbGkD9nSzoETag2bz) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [2016\-2020](https://open.spotify.com/album/7ohVuXCwopL0tulQkGbeyF) | 4:31 |
 | 27 | [Night View](https://open.spotify.com/track/5ikI8psesN1ZFPR3w5W1Jy) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Yellow Supernova Remnant](https://open.spotify.com/album/2SQXTRKitqUk6sHNcv9GQk) | 3:52 |
 | 28 | [Love is Dangerous](https://open.spotify.com/track/7Cn8T3Mhx1HPRF1xIBlO7P) | [TOUCHED](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Purple](https://open.spotify.com/album/2vCvybjj710CSzDo3EdzHY) | 3:32 |
-| 29 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
-| 30 | [Koi suru wakusei "Anata"](https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Koi suru wakusei "Anata"](https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx) | 3:28 |
+| 29 | [Good bye\-bye](https://open.spotify.com/track/6yrSg5ltrGVOoha4TtUBZ3) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Good bye\-bye](https://open.spotify.com/album/2YC9hK5eHUSenvXUP2pezq) | 3:21 |
+| 30 | [Koi suru wakusei "Anata"](https://open.spotify.com/track/5yA1bHk3IcTLnBBl2JYX6u) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Koi suru wakusei "Anata"](https://open.spotify.com/album/5TNZnI8zAugK1q0hdhjSvx) | 3:28 |
 | 31 | [BAN](https://open.spotify.com/track/441EFeoBiG2o7wdaypPICJ) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [BAN \(Special Edition\)](https://open.spotify.com/album/74oBBYbpxNZLcwprLNjUFB) | 3:39 |
 | 32 | [Start over!](https://open.spotify.com/track/0lIgXSxKgRUjF0SiN19MmJ) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [Start over! \(Special Edition\)](https://open.spotify.com/album/3LFKZgxC04M8uSRTc3QySo) | 4:18 |
 | 33 | [Flowering](https://open.spotify.com/track/1ygmHMAn6HYtCrQ4fHqD0x) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [DEAR.](https://open.spotify.com/album/70J3PvQ7lVT5YWswgcSwWt) | 4:11 |

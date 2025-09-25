@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73EtbU4jEcn.md) - [plain]
 
 > Hits om je helemaal mee in het zweet te werken.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,540 likes - 65 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,598 likes - 65 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie twang fall bby 🍂 Frog on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,387 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,416 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

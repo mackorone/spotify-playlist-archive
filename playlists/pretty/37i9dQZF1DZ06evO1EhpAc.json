@@ -1,13 +1,37 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9588,
+  "num_followers": 9589,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAAD5qUkd/QBiQXxKQBEmUyec",
+  "snapshot_id": "aNHjAAAAAAAbt6WIcZm1vMBXH9KMwzN7",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "booboo2",
+        "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "booboo2",
+      "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
+    },
     {
       "added_at": null,
       "album": {
@@ -167,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 201239,
-      "name": "WAKING UP DOWN",
-      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More",
         "url": "https://open.spotify.com/album/0UDppr3BotMNXgIGmXddGt"
       },
@@ -195,6 +203,22 @@
       "duration_ms": 202537,
       "name": "One More",
       "url": "https://open.spotify.com/track/6KngJ7ZEPy9o4zlg6fyh5N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 201239,
+      "name": "WAKING UP DOWN",
+      "url": "https://open.spotify.com/track/0YnbUCbW8viWWikWXoVzB1"
     },
     {
       "added_at": null,
@@ -267,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pondeggi",
-        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
       "artists": [
         {
@@ -276,13 +300,13 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         },
         {
-          "name": "E Wata",
-          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
         }
       ],
-      "duration_ms": 279400,
-      "name": "Pondeggi",
-      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
+      "duration_ms": 228872,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
     },
     {
       "added_at": null,
@@ -303,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+        "name": "Pondeggi",
+        "url": "https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT"
       },
       "artists": [
         {
@@ -312,13 +336,13 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         },
         {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+          "name": "E Wata",
+          "url": "https://open.spotify.com/artist/2me33xonIRaOkg980kntBy"
         }
       ],
-      "duration_ms": 228872,
-      "name": "29",
-      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
+      "duration_ms": 279400,
+      "name": "Pondeggi",
+      "url": "https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj"
     },
     {
       "added_at": null,
@@ -435,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 229848,
+      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New York 93 (Baba Stiltz Remix)",
         "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
       },
@@ -451,22 +491,6 @@
       "duration_ms": 355121,
       "name": "New York 93 (Baba Stiltz Remix)",
       "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 229848,
-      "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-      "url": "https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf"
     },
     {
       "added_at": null,
@@ -503,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
+        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 197343,
+      "name": "When in Summer, I Forget About the Winter - Bonus Track",
+      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
@@ -519,22 +559,6 @@
       "duration_ms": 127487,
       "name": "Do You See Me",
       "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
-        "url": "https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 197343,
-      "name": "When in Summer, I Forget About the Winter - Bonus Track",
-      "url": "https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2"
     },
     {
       "added_at": null,
@@ -575,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -603,6 +611,22 @@
       "duration_ms": 162459,
       "name": "WHEN I GROW UP",
       "url": "https://open.spotify.com/track/3ROrNVOrcH68Hh2EbLffxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/1ko2yfNSFmSLnxfYwtWtKU"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/5agra2lmQHwABCYO8LULz7"
     },
     {
       "added_at": null,
@@ -643,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
-      },
-      "artists": [
-        {
-          "name": "Teddy Geiger",
-          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 185366,
-      "name": "Pink Ponies",
-      "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -679,6 +683,26 @@
       "duration_ms": 170424,
       "name": "MONEY CAN'T BUY",
       "url": "https://open.spotify.com/track/0laCQVl49u92SxgJYwbcNX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+      },
+      "artists": [
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 185366,
+      "name": "Pink Ponies",
+      "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
     },
     {
       "added_at": null,

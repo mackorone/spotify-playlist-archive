@@ -4,7 +4,7 @@
 
 > Cover: Shaw
 
-436 songs - 22 hr 58 min
+438 songs - 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 | 2023-04-07 | 2024-01-26 |
 | [BIZZARE!!!](https://open.spotify.com/track/1LQNypuhK9eZQGMgHsTY27) | [BLUDINËRO](https://open.spotify.com/artist/4jzdkE8UNVOot8iHpU7QsD), [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [BIZZARE!!!](https://open.spotify.com/album/4IVGfwdkJJruJ8ZGMWQ4e8) | 3:26 | 2025-07-24 | 2025-08-06 |
 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 | 2025-08-01 | 2025-08-29 |
-| [BlackBerry](https://open.spotify.com/track/0HILtKSUfXinAWDnGSuJre) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [BlackBerry](https://open.spotify.com/album/6WJfe5N7rppndgC0Hz007S) | 2:33 | 2025-07-24 |  |
+| [BlackBerry](https://open.spotify.com/track/0HILtKSUfXinAWDnGSuJre) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [BlackBerry](https://open.spotify.com/album/6WJfe5N7rppndgC0Hz007S) | 2:33 | 2025-07-24 | 2025-09-25 |
 | [BLACKLIST](https://open.spotify.com/track/7iFPpFyRIErmhqslTbHlCl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [BLACKLIST](https://open.spotify.com/album/2wQW5jfshfC2TidcqSGYkr) | 2:52 | 2025-06-27 | 2025-07-25 |
 | [Blood](https://open.spotify.com/track/5H7Q8TFW1rWURc99JysBiW) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Blood](https://open.spotify.com/album/46Z5x4VAEiqhZyXekglUya) | 4:10 | 2022-12-31 | 2023-03-16 |
 | [BLUE LOVE](https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC) | 3:07 | 2024-08-01 | 2024-09-18 |
@@ -81,6 +81,7 @@
 | [Camarade](https://open.spotify.com/track/7y9xAKHxH4dHxmF1XKRtRe) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Camarade](https://open.spotify.com/album/1JKkwn8aDnHWVtXnFQGaKy) | 2:34 | 2024-12-21 | 2025-02-04 |
 | [Capitaine](https://open.spotify.com/track/33wWROHqj5ffAYKq7rzFDM) | [Loun](https://open.spotify.com/artist/7owHrEghIYMf5fTVPPwkVB) | [Therapy](https://open.spotify.com/album/7lpHxatfVtKuYAvxYdzeUZ) | 2:46 | 2025-09-17 |  |
 | [Casablanca](https://open.spotify.com/track/5rXsQFfmIDaUtRpyoPpxLM) | [Demi Portion](https://open.spotify.com/artist/3xQiLcsmj0KCiFtconY6Dz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Casablanca](https://open.spotify.com/album/39TxiVIpZwVtntKtxdenwr) | 3:13 | 2022-11-14 | 2023-02-07 |
+| [Casadream](https://open.spotify.com/track/1o7QXcVqkza8Ssml6vbme0) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY), [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Casadream](https://open.spotify.com/album/1ImQKybUH6thgYXNxKkxWV) | 4:15 | 2025-09-24 |  |
 | [Chabiba](https://open.spotify.com/track/1BYBQKiPt5Nn2Qr9voSabo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [Chabiba](https://open.spotify.com/album/6qQNLM5mRSFkjucuy8ghvn) | 2:28 | 2023-10-26 | 2023-11-16 |
 | [CHAINSOMNIA](https://open.spotify.com/track/2oHeNtYUMzxvNstwht8bri) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [CHAINSOMNIA](https://open.spotify.com/album/04PJqCbNrq3miYRMclUjA9) | 2:48 | 2023-12-16 | 2024-05-26 |
 | [Chanel](https://open.spotify.com/track/3nkZHzCyxc1Eyg3L14Vb0m) | [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [Chanel](https://open.spotify.com/album/2RSrMxoMzrWtjFl7BWBSm2) | 2:02 | 2024-02-23 | 2024-04-08 |
@@ -350,6 +351,7 @@
 | [Skhoon](https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Skhoon](https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2) | 2:59 | 2023-11-15 | 2024-12-22 |
 | [SLOWLY](https://open.spotify.com/track/65SmL7YPV13heKT147Fosp) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SBITAR](https://open.spotify.com/album/0EbC0buOp9FhVK3iT9XmZp) | 2:49 | 2023-12-28 | 2024-01-11 |
 | [SME3NI](https://open.spotify.com/track/5ovEmtHmbmWmmN1jeoJAyP) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [SME3NI](https://open.spotify.com/album/1rkTH3xM85MYdRXI9FDRGb) | 3:02 | 2023-02-06 | 2023-09-30 |
+| [Sobba d Légumes](https://open.spotify.com/track/03PJKbsQkf48Tn3JVhXoUb) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [MC3](https://open.spotify.com/album/4adJ7R9LtergjKVJJUYUmH) | 2:35 | 2025-09-24 |  |
 | [Sociopath](https://open.spotify.com/track/0UOGIvX0NKZKFwrvIAwdL9) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Sociopath](https://open.spotify.com/album/7bHaIDfBfqYkEhy361w3yB) | 3:28 | 2022-11-25 | 2023-03-03 |
 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2023-08-17 | 2024-05-03 |
 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 | 2025-07-04 |  |

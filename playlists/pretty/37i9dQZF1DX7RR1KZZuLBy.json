@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 63330,
+  "num_followers": 63349,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
+        "name": "Cover The Earth (Live In New York)",
+        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 713409,
+      "name": "The Story I'll Tell - Live",
+      "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 657912,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Cover The Earth (Live In New York)",
-        "url": "https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9"
-      },
-      "artists": [
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 713409,
-      "name": "The Story I'll Tell - Live",
-      "url": "https://open.spotify.com/track/71za9Fyjl9BlyTB3mKvn3A"
     },
     {
       "added_at": "2023-12-01 00:01:00",

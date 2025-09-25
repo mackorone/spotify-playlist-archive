@@ -4,7 +4,7 @@
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-563 songs - 1 day 6 hr 38 min
+564 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Pasarela](https://open.spotify.com/track/7uUYUy2qLfev9ppNvFBHpX) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Prestige](https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg) | 3:13 | 2023-06-30 | 2023-09-01 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-12-08 | 2024-03-02 |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-01 | 2024-06-26 |
-| [Pelotero A La Bola](https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X) | [Pelotero A La Bola](https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6) | 2:36 | 2025-07-19 |  |
+| [Pelotero A La Bola](https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X) | [Pelotero A La Bola](https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6) | 2:36 | 2025-07-19 | 2025-09-25 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-12-14 | 2022-01-28 |
 | [Perlas Negras](https://open.spotify.com/track/3piSbt4J3UElNC2d5jhjJr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Perlas Negras](https://open.spotify.com/album/5IPuOgZp4wLcGprLrfjSy0) | 3:23 | 2025-08-14 |  |
 | [PERRO NEGRO](https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 2:42 | 2023-10-17 | 2024-04-24 |
@@ -396,6 +396,7 @@
 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 | 2023-04-19 | 2023-06-01 |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-04-08 | 2022-05-07 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2022-12-27 | 2023-02-15 |
+| [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 | 2025-09-24 |  |
 | [PLEBADA](https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [PLEBADA](https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2) | 3:41 | 2023-06-14 | 2023-09-09 |
 | [Poblado](https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado](https://open.spotify.com/album/4VZz15JGgc4DT0TTI9pPaz) | 3:21 | 2021-12-14 | 2022-03-08 |
 | [Pongámonos De Acuerdo](https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:41 | 2022-06-30 | 2022-07-26 |

@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 61835,
+  "num_followers": 61838,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABv5eCCdu2S10PGv6/ePU8Pqg2AJ",
+  "snapshot_id": "AAAAAFXMeelVZKvq5JmVR+TbUDS4LQJI",
   "tracks": [
     {
       "added_at": "2025-09-08 03:52:33",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
+      },
+      "artists": [
+        {
+          "name": "Jacky Terrasson",
+          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Sous Le Ciel De Paris",
+      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
         "name": "Royal Flush",
         "url": "https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72"
       },
@@ -423,18 +439,18 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh"
+        "name": "Stardust: The Music Of Hoagy Carmichael",
+        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
       },
       "artists": [
         {
-          "name": "Jacky Terrasson",
-          "url": "https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr"
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Sous Le Ciel De Paris",
-      "url": "https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB"
+      "duration_ms": 447280,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
     },
     {
       "added_at": "2025-09-08 03:52:33",
@@ -463,22 +479,6 @@
       "duration_ms": 285969,
       "name": "A Flower Is a Lovesome Thing",
       "url": "https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
-        "name": "Stardust: The Music Of Hoagy Carmichael",
-        "url": "https://open.spotify.com/album/13m4PuHeRYI7FyfSGmnTiT"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
-        }
-      ],
-      "duration_ms": 447280,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4vuoL9ldmpmZcXm7RkhQvx"
     },
     {
       "added_at": "2025-09-08 03:52:33",
@@ -615,6 +615,22 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
+        "name": "The Original Quartet With Chet Baker",
+        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
         "name": "At Ease",
         "url": "https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 451155,
       "name": "Does The Sun Really Shine On The Moon",
       "url": "https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
-        "name": "The Original Quartet With Chet Baker",
-        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
     },
     {
       "added_at": "2025-09-08 03:52:33",
@@ -819,6 +819,58 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
+        "name": "Playing The Room",
+        "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
+        },
+        {
+          "name": "Yonathan Avishai",
+          "url": "https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
+        "name": "A Hundred Dreams from Now",
+        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
+      },
+      "artists": [
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "A Hundred Dreams from Now",
+      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -843,58 +895,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
-        "name": "Playing The Room",
-        "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
-      },
-      "artists": [
-        {
-          "name": "Avishai Cohen",
-          "url": "https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG"
-        },
-        {
-          "name": "Yonathan Avishai",
-          "url": "https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Azalea",
-      "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
-        "name": "A Hundred Dreams from Now",
-        "url": "https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L"
-      },
-      "artists": [
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "A Hundred Dreams from Now",
-      "url": "https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2025-09-08 03:52:33",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
-        "name": "Romaria",
-        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
-      },
-      "artists": [
-        {
-          "name": "Andy Sheppard Quartet",
-          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "Romaria",
-      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
         "name": "Remembering Billie",
         "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/7s6ExEC25Hy8JirFPrghQY"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Andy Sheppard Quartet",
+          "url": "https://open.spotify.com/artist/57LkmRYAzvaq7lt1JI6oZb"
         }
       ],
-      "duration_ms": 187866,
-      "name": "Self-Portrait in Three Colors",
-      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
+      "duration_ms": 311480,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/6BMmyctJWWdbTHKpXkrja0"
     },
     {
       "added_at": "2025-09-08 03:52:33",
@@ -1039,6 +1023,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Self-Portrait in Three Colors",
+      "url": "https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z"
     },
     {
       "added_at": "2025-09-08 03:52:33",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-09-08 03:52:33",
       "album": {
-        "name": "return to casual",
-        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
-      },
-      "artists": [
-        {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Mother Stands for Comfort",
-      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
-    },
-    {
-      "added_at": "2025-09-08 03:52:33",
-      "album": {
         "name": "My New Old Friend",
         "url": "https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 333346,
       "name": "Smile",
       "url": "https://open.spotify.com/track/7xLZGhRR2jTUtaPewAmacY"
+    },
+    {
+      "added_at": "2025-09-08 03:52:33",
+      "album": {
+        "name": "return to casual",
+        "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Mother Stands for Comfort",
+      "url": "https://open.spotify.com/track/45Rc2Z9zoTsu2LhLum6GrP"
     },
     {
       "added_at": "2025-09-08 03:52:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Ukl34WbJXmU9VM3WeAYMS">Tessa Violet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 716 likes - 22 songs - 1 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 22 songs - 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSardi42BNXh.md) - [plain]
 | 21 | [Cash Cash Money](https://open.spotify.com/track/40oNJzLG2AJsqruLVQYw6V) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [The Matchbreaker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7CrPovvBM0B6Ksf5LpBbEl) | 2:23 |
 | 22 | [I Like \(the idea of\) You \- Viceroy Remix](https://open.spotify.com/track/4O51wvfqAA5TJ1AmabHzjN) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C) | [Bad Ideas \- THE REMIXES](https://open.spotify.com/album/4CbwvCybB8QqbbFpFF3jmP) | 3:40 |
 
-Snapshot ID: `Ab9BigAAAACX5Oha2LM/FYrndt5SwItx`
+Snapshot ID: `Ab9HSAAAAABMNg1xF5n8r194b54xImp2`

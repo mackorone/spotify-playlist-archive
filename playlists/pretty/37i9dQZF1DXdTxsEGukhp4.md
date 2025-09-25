@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: MON7A
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,042 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,067 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 8 | [明日の私に幸あれ](https://open.spotify.com/track/0ZnvQc8Ql8foFq4aprS3ke) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [明日の私に幸あれ](https://open.spotify.com/album/4Ux2KbDwOZ4hkrzC3etcyn) | 3:34 |
 | 9 | [だけど僕は](https://open.spotify.com/track/3kenAyozcSKh83nRsaGqru) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [猟奇的なキスを私にして](https://open.spotify.com/album/5Qy4KEySDLkh5xnRK325D5) | 3:07 |
 | 10 | [medicine](https://open.spotify.com/track/72SOp62ne2tErJqwlGEHQj) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [medicine](https://open.spotify.com/album/4zJib3YlaVcLh9NLRpg8MV) | 2:42 |
-| 11 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
+| 11 | [恋する惑星「アナタ」](https://open.spotify.com/track/6CzuquhI7EV1ft0gHmJhRg) | [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [恋する惑星「アナタ」](https://open.spotify.com/album/0ySLWHZ2XMLLIbKGEN9Rft) | 3:28 |
 | 12 | [come again](https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 5:54 |
 | 13 | [ウワサのあの子](https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [ウワサのあの子](https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI) | 3:13 |
 | 14 | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/track/3MDuA12HzorT65LovtOMKr) | [吉本おじさん](https://open.spotify.com/artist/4MIxktyK7yU1k2cKcER5t0), [雨衣](https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK) | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/album/2Coxc7T3PLMWJlBXy9as2h) | 3:04 |

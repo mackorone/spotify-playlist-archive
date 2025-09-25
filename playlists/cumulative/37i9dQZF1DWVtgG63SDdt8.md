@@ -4,7 +4,7 @@
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jackie Hill Perry
 
-10,277 songs - 28 day 1 hr 26 min
+10,277 songs - 28 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2287,7 +2287,7 @@
 | [Faithful](https://open.spotify.com/track/6yh7P61gOCHqOeJLNxajj4) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [John Marc Kohl](https://open.spotify.com/artist/1VB1PYfo6aOs53Vs65t4hA) | [Kingdom Kids, Vol\. 1](https://open.spotify.com/album/4SUfNd6uDNZzL4ehozjv2P) | 3:26 | 2022-05-20 | 2022-06-04 |
 | [Faithful](https://open.spotify.com/track/7uUizQAu3eHl44PpItltAo) | [Nofsky](https://open.spotify.com/artist/1rTx9efgWiiMtsEravkbKC), [Lukas Goss](https://open.spotify.com/artist/0TSgxjF6V9u9Cjhz5CBh0X) | [Faithful](https://open.spotify.com/album/3hsngKyIdcpGMMTnriYB0o) | 2:22 | 2025-07-25 | 2025-08-02 |
 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 | 2024-03-22 | 2024-04-13 |
-| [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/album/4wSVHTNFbT90u4d4OYQpIS) | 2:44 | 2025-09-19 |  |
+| [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/track/2fZgk2MUlflD730GN6gLyT) | [Serayah](https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod) | [Faithful \(from the Netflix Film "Ruth & Boaz"\)](https://open.spotify.com/album/4wSVHTNFbT90u4d4OYQpIS) | 3:33 | 2025-09-19 |  |
 | [Faithful \(You Are\) \- Live](https://open.spotify.com/track/0KQpvNTTNfSQmcH0oe00ek) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Clean Heart + Faithful \(You Are\) \[Live\]](https://open.spotify.com/album/4NgFC73Iibiu3dhVb6c16x) | 3:57 | 2023-05-12 | 2023-05-27 |
 | [Faithful \- Demo](https://open.spotify.com/track/2QMADwyP22IyJIRkTKAAhO) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Faithful \(Demo\)](https://open.spotify.com/album/24oCcqn0qLS29STWZ9s7KJ) | 3:58 | 2023-01-27 | 2023-02-11 |
 | [Faithful \- Live](https://open.spotify.com/track/00PkmYYjvoW65IOugNPOo2) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh), [Callie Nieder](https://open.spotify.com/artist/7JWwmKLRkLKtNoUzkWahRm) | [Faithful \(Live\)](https://open.spotify.com/album/0JksexuD9BI66xKatp6x6k) | 4:14 | 2023-08-11 | 2023-08-26 |

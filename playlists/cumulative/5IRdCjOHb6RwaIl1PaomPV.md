@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5IRdCjOHb6RwaIl1PaomPV.md) - cumulative - [plain](/playlists/plain/5IRdCjOHb6RwaIl1PaomPV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5IRdCjOHb6RwaIl1PaomPV)
 
-### [ATRIP \- Sinai Ray](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
+### [Mad Decent Weekly](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
 
 > The latest tracks from Mad Decent and friends\. Featuring new music from ATRIP, Major Lazer and ear, plus the latest cuts from Bennett Coast, inter alia, and more.
 

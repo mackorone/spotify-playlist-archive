@@ -4,7 +4,7 @@
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 43 min
+49 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Believe In Ya](https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Believe In Ya](https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ) | 2:59 | 2025-01-18 |  |
 | [Believe In Ya \(Max Tundra Remix\)](https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Max Tundra](https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb) | [Believe In Ya \(Max Tundra Remix\)](https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6) | 4:44 | 2025-02-16 |  |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-24 |  |
+| [booboo2](https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7), [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [booboo2](https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF) | 3:39 | 2025-09-25 |  |
 | [Do You See Me](https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 2:07 | 2025-02-05 |  |
 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 | 2023-05-02 |  |
 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 | 2023-05-02 |  |

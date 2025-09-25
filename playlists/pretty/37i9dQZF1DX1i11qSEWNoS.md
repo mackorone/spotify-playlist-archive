@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i11qSEWNoS.md) - [plain]
 
 > und macht laune
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,050 likes - 90 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,103 likes - 90 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

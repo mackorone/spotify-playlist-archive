@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: 프림로즈\(PRIMROSE\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. \(Cover: Hearts2Hearts \(하츠투하츠\)\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-503 songs - 1 day 3 hr 31 min
+504 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/track/7wb12ZFRhL9Tmt2GedW1RS) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB), [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid? \(feat\. KIXO\)](https://open.spotify.com/album/217BpIDe2TpUsAGbCzuFIk) | 2:04 | 2025-03-27 | 2025-04-10 |
 | [BEEP](https://open.spotify.com/track/21LesVOMCk5j8LqsFBvCc5) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [BEEP](https://open.spotify.com/album/29pYd9dV0UpmOmeoYGuj4e) | 2:44 | 2025-06-10 |  |
 | [Being a Good Girl Hurts](https://open.spotify.com/track/1NfnlTT4fpkaxmhzxWJqCj) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [Blooming Wings](https://open.spotify.com/album/6gXzhQ5MYvl2Fvept2LjhP) | 2:47 | 2025-07-30 |  |
-| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 |  |
+| [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 | 2023-08-18 | 2025-09-25 |
 | [Between Us Two](https://open.spotify.com/track/1Y1SDO0lOoqQyKdyXshPEy) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [MIRACLE \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1sbxBftngSZNdq9ZM6aV1W) | 3:11 | 2022-06-09 | 2022-07-26 |
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-16 |  |
 | [Birthday](https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB) | [Nody Cika](https://open.spotify.com/artist/2pETIGvbFcdUF0CnODpycj) | [Birthday](https://open.spotify.com/album/3sOAX8284RnBctv1fPJ0Cl) | 2:53 | 2021-11-29 | 2022-07-28 |
@@ -196,7 +196,7 @@
 | [I Like That](https://open.spotify.com/track/7yAYYeeXf7ip8bK4GYDo2F) | [YuA](https://open.spotify.com/artist/3maet9vdK6Hbp6ZczQtkS6) | [I Like That](https://open.spotify.com/album/1urAHAMdbuZukBXnUG04Se) | 3:23 | 2022-04-13 | 2022-07-24 |
 | [I Like U Too Much](https://open.spotify.com/track/4h4qpoI8wWMQNYcr3Li4Yd) | [SONAMOO](https://open.spotify.com/artist/2MY1GcYSTw3QH2C1Umzsq0) | [I Like U Too Much](https://open.spotify.com/album/2udU7pnOygUDxkOth4gYcJ) | 3:24 | 2021-11-29 | 2022-07-07 |
 | [I Like You](https://open.spotify.com/track/6RX842AkuW01Sb15Mcix6l) | [ODD YOUTH](https://open.spotify.com/artist/6SG8IvJiwNEHdiubaCUFTi) | [ODD YOUTH 1st MINI ALBUM \[I Like You\]](https://open.spotify.com/album/1l7d3Od3i2xjxU3AnkSXxH) | 2:51 | 2025-04-15 | 2025-05-06 |
-| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-23 |  |
+| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-23 | 2025-09-25 |
 | [I Want You Every Day](https://open.spotify.com/track/4H12mDiB75kAZolrHjMjza) | [JUDY](https://open.spotify.com/artist/37VjCKfHNYyumIW88jZW7T) | [Cookie Run: Ovenbreak OST](https://open.spotify.com/album/6ljytTmVpZfg1XFI08prgK) | 3:19 | 2022-03-29 | 2022-03-31 |
 | [I Wish](https://open.spotify.com/track/6WhZjnG6CTfE1J9f7vZ8sk) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [From\. WJSN](https://open.spotify.com/album/5662dhD6LraFCUIzKujPej) | 3:38 | 2021-11-29 | 2022-07-25 |
 | [ICE CHU](https://open.spotify.com/track/7ucHQ2HqTl2nO5Eyd5jfft) | [OGUOGU](https://open.spotify.com/artist/0zMyf4jK7R5v4E1qitQAZS) | [ICE CHU](https://open.spotify.com/album/3uANATuTqvsbIBcAAhhMia) | 3:15 | 2022-03-29 | 2022-06-03 |
@@ -336,6 +336,7 @@
 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 | 2021-11-29 | 2024-09-21 |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-06 |
 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 | 2021-11-29 | 2022-04-20 |
+| [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-24 |  |
 | [PROMISE \(for UNICEF Promise Campaign\)](https://open.spotify.com/track/2Gceplet3jzhweUib54mhf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [EVERGLOW FOR UNICEF PROMISE CAMPAIGN](https://open.spotify.com/album/1Sp9Cm6n0ZzTAuwAKCS0Wd) | 3:34 | 2021-11-29 | 2022-07-29 |
 | [Pure Love](https://open.spotify.com/track/5pjRQhcBP1fJkJt1lIluWK) | [Seorina](https://open.spotify.com/artist/3f4E62TgaTD5ZYX5MMXxjP) | [MARHEN.J : SUSTAIN](https://open.spotify.com/album/5E2gfnDgVuApKHVnmyswjB) | 3:13 | 2022-07-08 | 2022-07-29 |
 | [Que Sera Sera](https://open.spotify.com/track/4b9jE3ZlUCKhyg2Rd0ZjHp) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Que Sera Sera](https://open.spotify.com/album/6uavSIfdJQuxSRkoqwq5IF) | 3:05 | 2022-07-19 | 2022-07-29 |
@@ -394,7 +395,7 @@
 | [STARLIGHT](https://open.spotify.com/track/69jrdIrRPKGi8WZUHbOQY0) | [Jun Hyo Seong](https://open.spotify.com/artist/73RRzEpK7IQexOhC0CuTRZ) | [STARLIGHT](https://open.spotify.com/album/5LONanyDV4Voa5uQt9SAdw) | 3:25 | 2021-11-29 | 2022-07-22 |
 | [Starry Night](https://open.spotify.com/track/0guoHdAofMWLQELiKSZfsf) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Starry Night](https://open.spotify.com/album/78apBBu1uPlG87Da0InFhr) | 3:04 | 2024-08-30 | 2025-03-27 |
 | [Starry Night](https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Starry Night](https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N) | 3:11 | 2021-11-29 | 2022-04-15 |
-| [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-11-29 | 2025-09-18 |
+| [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 | 2021-11-29 |  |
 | [Sting](https://open.spotify.com/track/0ULq4YEtDWHBOJTeoOR2jt) | [Stellar](https://open.spotify.com/artist/1rTwKjYcA7diHAD2c8ZozT) | [Sting](https://open.spotify.com/album/1IKfObkLtxkeFC5yUcQcf8) | 3:32 | 2022-03-29 | 2022-04-16 |
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9) | 3:21 | 2024-12-06 | 2025-05-19 |
 | [Strawberry Rush](https://open.spotify.com/track/1gq1gf44tZ9cyTdlcyoJd1) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Strawberry Rush](https://open.spotify.com/album/4NIAziT2P8n5MkVeYYLCd2) | 2:56 | 2024-06-25 | 2025-05-19 |

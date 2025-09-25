@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: 4batz
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,545 likes - 165 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,588 likes - 165 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

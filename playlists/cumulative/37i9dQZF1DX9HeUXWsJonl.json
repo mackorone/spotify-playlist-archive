@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 140733,
       "name": "BAND4BAND (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
@@ -2667,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Maktoub",
+        "url": "https://open.spotify.com/album/3uGzrde07ughO8GvBgiBKO"
+      },
+      "artists": [
+        {
+          "name": "NORDO",
+          "url": "https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185662,
+      "name": "Maktoub",
+      "url": "https://open.spotify.com/track/0eAEBwMO3L6NyDkbWTf4PD"
+    },
+    {
+      "album": {
         "name": "Manansech (\u0645\u0646\u0646\u0633\u0627\u0634)",
         "url": "https://open.spotify.com/album/1uTvUDzsXMJlFuIbeNyvKp"
       },
@@ -3648,6 +3666,24 @@
       "duration_ms": 211387,
       "name": "Sada9tha",
       "url": "https://open.spotify.com/track/7DM7AOqoEAouQ6ChSTAxaD"
+    },
+    {
+      "album": {
+        "name": "Sahak Isho2",
+        "url": "https://open.spotify.com/album/0Z3zSzfMUnG8CyKJOQjWkD"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204615,
+      "name": "Sahak Isho2",
+      "url": "https://open.spotify.com/track/3zlKK9XIKHfKgNE1NDTw65"
     },
     {
       "album": {

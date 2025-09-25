@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Babas\u00f3nicos.",
-  "num_followers": 278192,
+  "num_followers": 278205,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -531,42 +531,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 165275,
-      "name": "Mi\u00e9nteme",
-      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -603,6 +567,42 @@
       "duration_ms": 219520,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 165275,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Una Noche Contigo",
-        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 193154,
-      "name": "Una Noche Contigo",
-      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "Todo Contigo",
         "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 165527,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "Una Noche Contigo",
+        "url": "https://open.spotify.com/album/5x3u3eFvoRgFP0Y65iOgw3"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 193154,
+      "name": "Una Noche Contigo",
+      "url": "https://open.spotify.com/track/5RfW6BJyGPnwUJgqcGh5KB"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 188501,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 232655,
       "name": "Lo siento (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 188501,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7j2KGu5tIRjWfOb2LxPoFR"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "Desastres Fabulosos",
         "url": "https://open.spotify.com/album/2OGrbIbMpKM9mZiIY95F09"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 163546,
       "name": "Desastres Fabulosos",
       "url": "https://open.spotify.com/track/2YqZAHrkZm0VQJNQfNRWdl"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
         "name": "Te Quise Tanto",
         "url": "https://open.spotify.com/album/56ZCaH9J7ZcU2bWtk6yr7k"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 152275,
       "name": "Te Quise Tanto",
       "url": "https://open.spotify.com/track/0AtlvKnsA1bUsupXEcze0S"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
+        "name": "Todo el D\u00eda As\u00ed",
+        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 215492,
+      "name": "Todo el D\u00eda As\u00ed",
+      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
         "name": "Baloncito Viejo",
         "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
       },
@@ -1663,38 +1679,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Todo el D\u00eda As\u00ed",
-        "url": "https://open.spotify.com/album/1hM9onmRwyME8M8E1X0OgR"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 215492,
-      "name": "Todo el D\u00eda As\u00ed",
-      "url": "https://open.spotify.com/track/1EAOYGRgF3eUJLZMSfin7P"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 147943,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "Uno los Dos",
         "url": "https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 215426,
       "name": "Uno los Dos",
       "url": "https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 147943,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
         "name": "ENCHASTRE",
         "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
@@ -1839,22 +1823,18 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1871,6 +1851,26 @@
       "duration_ms": 211935,
       "name": "No Hay M\u00e1s Que Hablar",
       "url": "https://open.spotify.com/track/4gC0IUJBZ6HQBy4SezYNgq"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     }
   ],
   "unique_name": "Radio Pop",

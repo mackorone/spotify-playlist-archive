@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMOVAIsOBIW.md) - [plain]
 
 > dreamy, sparkly pop \- for  junk journals, and iced matcha lattes
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,177 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,266 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

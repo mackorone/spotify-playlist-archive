@@ -12067,6 +12067,24 @@
     },
     {
       "album": {
+        "name": "Lick It",
+        "url": "https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204695,
+      "name": "Lick It",
+      "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
+    },
+    {
+      "album": {
         "name": "LIE 2 ME",
         "url": "https://open.spotify.com/album/4MLPLqyMOYDYsS8gN1atmy"
       },
@@ -14446,7 +14464,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 181300,
       "name": "Nite Mode",
       "url": "https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii"

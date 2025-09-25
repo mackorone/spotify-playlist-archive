@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,479 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,486 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [TODO KE VER](https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [TODO KE VER](https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC) | 2:38 |
-| 2 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 2 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 3 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 |
 | 4 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
 | 5 | [Comando Estelar](https://open.spotify.com/track/4j5ZSTHkXQbV0c8EassD0N) | [Germanini](https://open.spotify.com/artist/4k2i4lShsNm6Ebsb5sg8kR), [Lyon la f](https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye), [JhonAlex](https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [Comando Estelar](https://open.spotify.com/album/4mv9P6vEf6fh0iLYC0WhlH) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [El Guatón Loyola](https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y) | [Los Hermanos Campos](https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6) | [30 Cuecas](https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK) | 2:15 |
 | 50 | [A la Bandera Chilena](https://open.spotify.com/track/2Heehws5NehsQBYWgEupCj) | [Los Hermanos Campo](https://open.spotify.com/artist/1ir9cTFFYoQ2D7idPpAJIm) | [30 Cuecas de Oro](https://open.spotify.com/album/1LE7JulcmjpnnbQZSMgR4T) | 1:46 |
 
-Snapshot ID: `MGYNIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGdeoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

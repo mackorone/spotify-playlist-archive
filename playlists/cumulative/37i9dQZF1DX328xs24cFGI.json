@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Bassist",
+        "url": "https://open.spotify.com/album/1HOYHSTo3KTyFK3ZudeSGs"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191347,
+      "name": "Bassist",
+      "url": "https://open.spotify.com/track/7GeDYKAkry82mtSv9J13AG"
+    },
+    {
+      "album": {
         "name": "Next Destination",
         "url": "https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO"
       },
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 281766,
       "name": "Kanaimasenkane",
       "url": "https://open.spotify.com/track/626Gdtfm2RgScpMKKKTMNH"
@@ -2434,7 +2452,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 214843,
       "name": "Near Pin Romance",
       "url": "https://open.spotify.com/track/2uWy0KHw5LZmnlBPUU55r4"
@@ -6688,7 +6706,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 282426,
       "name": "\u604b\u3060\u308d",
       "url": "https://open.spotify.com/track/0ir7DGXo3hxaPa82h1vrOj"
@@ -7210,7 +7228,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 241481,
       "name": "\u611b\u306e\u82b1",
       "url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3"
@@ -7300,7 +7318,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 160177,
       "name": "\u611b\u4e0d\u8db3",
       "url": "https://open.spotify.com/track/0EbZgYhcmmAferyvVQPDQw"

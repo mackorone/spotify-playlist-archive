@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,090 likes - 170 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,091 likes - 170 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 54 | [Spit It Out \(feat\. Rochelle Jordan\)](https://open.spotify.com/track/3sc1W8OHwAFoPe6mS7AJUT) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:39 |
 | 55 | [Caution](https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Caution](https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ) | 2:35 |
 | 56 | [Your Love](https://open.spotify.com/track/3ETuqR9uCVMAlqdNk6dhB3) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 3:14 |
-| 57 | [Lavender](https://open.spotify.com/track/4nSc3L3mCE4E6uPH8gweQ8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [IV](https://open.spotify.com/album/5Dgfrxiz3M0SLosVnVoLEu) | 3:20 |
-| 58 | [Dance Dance Dance Dance](https://open.spotify.com/track/6qNA4oi603Kluq2CiTszvP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:42 |
+| 57 | [Dance Dance Dance Dance](https://open.spotify.com/track/6qNA4oi603Kluq2CiTszvP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:42 |
+| 58 | [Lavender](https://open.spotify.com/track/4nSc3L3mCE4E6uPH8gweQ8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [IV](https://open.spotify.com/album/5Dgfrxiz3M0SLosVnVoLEu) | 3:20 |
 | 59 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 |
 | 60 | [Questions](https://open.spotify.com/track/2rGAASBrTG770g8wx5NJOV) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 3:13 |
 | 61 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 95 | [Stepped On](https://open.spotify.com/track/4KRbbNR117zPRlwZa7oKyN) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:01 |
 | 96 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 |
 | 97 | [The Code \(feat\. Mike Dimes\)](https://open.spotify.com/track/635uKiAjKNwDJKvVQT0o3c) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:25 |
-| 98 | [Seemingly](https://open.spotify.com/track/1BqjVBfqdUclV4rUYmdpE4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:17 |
-| 99 | [Please Babe](https://open.spotify.com/track/2rAbrVnPBp6TcqdY8vRQbF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:46 |
+| 98 | [Please Babe](https://open.spotify.com/track/2rAbrVnPBp6TcqdY8vRQbF) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 2:46 |
+| 99 | [Seemingly](https://open.spotify.com/track/1BqjVBfqdUclV4rUYmdpE4) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:17 |
 | 100 | [Wasted Words \(feat\. Thundercat\)](https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 1:27 |
 | 101 | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \- KAYTRANADA Remix](https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Better Than I Imagined \[Feat\. H.E.R\. & Meshell Ndegeocello\] \(KAYTRANADA Remix\)](https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH) | 3:47 |
 | 102 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 131 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 |
 | 132 | [LIES WILL SET YOU FREE](https://open.spotify.com/track/1ntp9QhwKYmikKLiOKrARR) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 4:44 |
 | 133 | [AVENTADOR](https://open.spotify.com/track/1HfRUONTeuX9dwOdgLFCe0) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [ENOCH](https://open.spotify.com/album/6iosJzmbhMPivxtY4Wd3bX) | 1:29 |
-| 134 | [I Know It](https://open.spotify.com/track/4TD1gwKRuP4HOWuijLapui) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 2:32 |
-| 135 | [THINGS](https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
+| 134 | [THINGS](https://open.spotify.com/track/0EWe1VeEWz6K34qDFgQW5L) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:12 |
+| 135 | [I Know It](https://open.spotify.com/track/4TD1gwKRuP4HOWuijLapui) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/3ZrhMXlyekQsEDYQ45QVO8) | 2:32 |
 | 136 | [backstABS](https://open.spotify.com/track/0c5m787GdMeqAXhzgao6ZI) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 3:21 |
 | 137 | [GOODBYE BITCH!](https://open.spotify.com/track/6CTnLPc0KLaumnvPBEztdO) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/2ThDVXsGeZahogahzHAIw6) | 2:46 |
 | 138 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 169 | [Dance \- Gigamesh Remix](https://open.spotify.com/track/5aA3iJtIF26q6PCYXiB7Wo) | [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [Dance \(Gigamesh Remix\)](https://open.spotify.com/album/1KhX94lec8OsWgZ8G5aZSL) | 4:09 |
 | 170 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Ab9BlAAAAAD1Syzpsb+nWfSbiKVZO/Qr`
+Snapshot ID: `Ab9HKgAAAADC4MRcMdUBDcVL/2QT0NFf`

@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 30684,
+  "num_followers": 30698,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+      },
+      "artists": [
+        {
+          "name": "Flor Paz",
+          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
+        }
+      ],
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Formose\u00f1a",
         "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
-      },
-      "artists": [
-        {
-          "name": "Flor Paz",
-          "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
-        }
-      ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Pasaje al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 211040,
       "name": "Volver\u00e8 Siempre a San Juan",
       "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170562,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1167,6 +1151,22 @@
       "duration_ms": 211200,
       "name": "Viene Clareando",
       "url": "https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170562,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Soy Semilla",
         "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 220941,
       "name": "Algo de M\u00ed",
       "url": "https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
       "added_at": "2025-08-21 21:06:28",

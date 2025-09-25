@@ -5257,6 +5257,24 @@
     },
     {
       "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/6uGNQgs7iiKY8nS9p8Z1BG"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/4EVJkMkeEXOpvHBRe3JO6E"
+    },
+    {
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,877 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,884 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 13 | [Forgotten](https://open.spotify.com/track/69L3zcmAXAW09qTz7HoQlX) | [DJ FLP](https://open.spotify.com/artist/7mcrgPUbytCnGDjt7PYXCA) | [Intuition](https://open.spotify.com/album/7rgcAQIrNsHCPRp8p7CWpM) | 6:03 |
 | 14 | [Keep the Drug$](https://open.spotify.com/track/7tzfOnSTtrr8Gzl00240Ik) | [Stayhigh](https://open.spotify.com/artist/2d51ltzSq7hB3viB1DTBEn) | [Kush, Rhodes & 808's](https://open.spotify.com/album/4xW3MYeu3Gwc224UHhNAfV) | 3:30 |
 | 15 | [Footworkin On Air](https://open.spotify.com/track/5YyTiraUCPWYDke6iwkMaz) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Da Mind Of Traxman](https://open.spotify.com/album/20gJfqZovoaiO5AmN1hoSV) | 4:01 |
-| 16 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
-| 17 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
+| 16 | [Bring It Back](https://open.spotify.com/track/0NesKGMUOHjOoPI6KWNLKT) | [DJ Orange Julius](https://open.spotify.com/artist/4DiPpabfaBSsHYvjlPkazH) | [The Grove](https://open.spotify.com/album/0KRdcfl8C4iPEhmw0Qgwce) | 3:37 |
+| 17 | [Hip Thruster](https://open.spotify.com/track/2lsLDBItN7XZ1e92K5mzBc) | [NameBrandSound](https://open.spotify.com/artist/65kgJ8N0DY3S5XcMAtOSmD) | [Nowadays Pressure](https://open.spotify.com/album/2iM9f33JfLhqJofIu2K1mD) | 3:48 |
 | 18 | [Samba Focused](https://open.spotify.com/track/2AusXnxTndZvmYz5ygFXo8) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [Strictly 4 My Cdjz 7](https://open.spotify.com/album/2rYIMDR48AbLrkbZ78ly6M) | 3:15 |
 | 19 | [WE GON DANCE](https://open.spotify.com/track/3MI20cDoa9zWn0c70ikDq4) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [ON LIFE](https://open.spotify.com/album/3NYdL4BxJhHiA0IjBK9NbR) | 3:39 |
 | 20 | [Nycfw](https://open.spotify.com/track/3EQA4h2oX2HsqUXwmb9EMs) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 4:06 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 29 | [fucK iT uP](https://open.spotify.com/track/5mZa0ucjIfMPpa2XFhdF16) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Manny](https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 2:42 |
 | 30 | [Overture of Spaldin](https://open.spotify.com/track/764tyXjLix45eNDYsWIFxw) | [Dj Spaldin](https://open.spotify.com/artist/2TWLvBrhwsGGnd10vmtIBj) | [Heavy on DA Footwork](https://open.spotify.com/album/3cwJ07tqWWspBoeWQvWBYJ) | 3:52 |
 | 31 | [Heavy Heat](https://open.spotify.com/track/0EoOfrsL0YyA0DIbkBlk0M) | [RP Boo](https://open.spotify.com/artist/678aHai0twQ5ZJcqO1KYWl) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:43 |
-| 32 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
-| 33 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
+| 32 | [Wouldn't Get Far](https://open.spotify.com/track/24GUxWledUuwzCm4XEUatd) | [Young Smoke](https://open.spotify.com/artist/0ehqzJzgBzhTRcOd0BqgCs) | [Bangs & Works Vol\. 2 \(The Best Of Chicago Footwork\)](https://open.spotify.com/album/6EShA1FkOyix9LWx3Qnupt) | 3:00 |
+| 33 | [8 Bit Shit](https://open.spotify.com/track/1Fugmy42LXbsW0IsJJcr0m) | [Heavee](https://open.spotify.com/artist/3bTrwZAKTLYI9zozCH6zxw) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 4:37 |
 | 34 | [Animosty](https://open.spotify.com/track/2uO6V4OOr08LfU5DSQDchL) | [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Earl](https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y) | [ON LIFE, Vol\. 2](https://open.spotify.com/album/6PUO9tb1HaXV7uzka0VtMu) | 3:28 |
 | 35 | [Dnb Spaceout](https://open.spotify.com/track/6nAOS8cst8SYqzMAyrRtMv) | [DJ Tre](https://open.spotify.com/artist/6so1AgXg57ZYwyhe9dhhYS) | [Next Life](https://open.spotify.com/album/2OVxb7gOjFHj7vN7oAt7qC) | 3:13 |
 | 36 | [Below Zero](https://open.spotify.com/track/3I4bWAn64bYRlNankRD511) | [DJ Nate](https://open.spotify.com/artist/5tefnddMVyra0vGqyFVEjM) | [Da Trak Genious](https://open.spotify.com/album/08fSEliSx03pGtS0C9RMkl) | 2:49 |

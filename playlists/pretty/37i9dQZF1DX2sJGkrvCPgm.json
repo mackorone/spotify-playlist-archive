@@ -331,38 +331,6 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
-        "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 224527,
-      "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
-        "name": "A Drummer Boy Christmas (LIVE) [The Cinematic Concert Album]",
-        "url": "https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 250415,
-      "name": "O Come, O Come Emmanuel - (LIVE)",
-      "url": "https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
         "name": "Silent Night",
         "url": "https://open.spotify.com/album/6qIpmmge0GlUTpeIgHXPnL"
       },
@@ -391,22 +359,34 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "How Many Kings",
-        "url": "https://open.spotify.com/album/4KxkQd9j649pGqvbMwVo7h"
+        "name": "A Drummer Boy Christmas (LIVE) [The Cinematic Concert Album]",
+        "url": "https://open.spotify.com/album/21WSbTkFweBSY9F6rCblFd"
       },
       "artists": [
         {
-          "name": "Chosen Road",
-          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
-        },
-        {
-          "name": "Emily Ann Roberts",
-          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 261265,
-      "name": "How Many Kings",
-      "url": "https://open.spotify.com/track/2Ocerq7QbsmSaS1HKXmgWt"
+      "duration_ms": 250415,
+      "name": "O Come, O Come Emmanuel - (LIVE)",
+      "url": "https://open.spotify.com/track/1JTeFxmkEddzZEphSzJJzF"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
+        "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
+        "url": "https://open.spotify.com/album/60RYE09w9rWq0qg6IT9rha"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 224527,
+      "name": "O Come All Ye Faithful - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/6Yr2cyWPpdHeWVsOwu9rzg"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -423,6 +403,26 @@
       "duration_ms": 203544,
       "name": "O Come (Let Us Adore)",
       "url": "https://open.spotify.com/track/0VlobtAI0AS2Zgk5KPFJbz"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
+        "name": "How Many Kings",
+        "url": "https://open.spotify.com/album/4KxkQd9j649pGqvbMwVo7h"
+      },
+      "artists": [
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        },
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "How Many Kings",
+      "url": "https://open.spotify.com/track/2Ocerq7QbsmSaS1HKXmgWt"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "I Don't Want Christmas to End",
-        "url": "https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "I Don't Want Christmas to End",
-      "url": "https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
         "name": "Wake Up It's Christmas",
         "url": "https://open.spotify.com/album/3Tvx6q5RXXpio14c8XvmUP"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 211985,
       "name": "Wake Up It's Christmas",
       "url": "https://open.spotify.com/track/6z5z0g5iouMvwYmhzsmAqI"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
+        "name": "I Don't Want Christmas to End",
+        "url": "https://open.spotify.com/album/76Vw1t2n6PBb0GiQK7p5aj"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "I Don't Want Christmas to End",
+      "url": "https://open.spotify.com/track/2bc79MDIi1VULLU3KqyMoB"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
+        "name": "This is Emmanuel",
+        "url": "https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA"
+      },
+      "artists": [
+        {
+          "name": "KingsPorch",
+          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "This is Emmanuel",
+      "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
         "name": "Hear Feel Play Christmas",
         "url": "https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "This is Emmanuel",
-        "url": "https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA"
+        "name": "Heart and Soul of Christmas",
+        "url": "https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q"
       },
       "artists": [
         {
-          "name": "KingsPorch",
-          "url": "https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
         }
       ],
-      "duration_ms": 235853,
-      "name": "This is Emmanuel",
-      "url": "https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh"
+      "duration_ms": 216058,
+      "name": "Heart and Soul of Christmas",
+      "url": "https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -1247,22 +1263,6 @@
       "duration_ms": 230000,
       "name": "Sounding Joy",
       "url": "https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
-        "name": "Heart and Soul of Christmas",
-        "url": "https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 216058,
-      "name": "Heart and Soul of Christmas",
-      "url": "https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
+        "name": "A Christmas Celebration",
+        "url": "https://open.spotify.com/album/7ejb2BSCizWHSdviEYN1f4"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "The Gift - 2020 Version",
+      "url": "https://open.spotify.com/track/6tbfDq2OgviVZLCr2CsMto"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
         "name": "All Is Well (with Michael W. Smith)",
         "url": "https://open.spotify.com/album/4Hd5EtKExeJkfTnlRzvQF7"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "A Christmas Celebration",
-        "url": "https://open.spotify.com/album/7ejb2BSCizWHSdviEYN1f4"
-      },
-      "artists": [
-        {
-          "name": "Jim Brickman",
-          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "The Gift - 2020 Version",
-      "url": "https://open.spotify.com/track/6tbfDq2OgviVZLCr2CsMto"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
         "name": "No Time Like Christmas",
         "url": "https://open.spotify.com/album/4TXYrrc2xV3w1R3Xhbb4b8"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "The King Has Come",
-        "url": "https://open.spotify.com/album/1i10S6o2MVwvFrfvKLF8oL"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 223714,
-      "name": "The King Has Come",
-      "url": "https://open.spotify.com/track/4CdnzeMRbM72LL82HgMGhk"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
         "name": "Emmanuel: Christmas Songs Of Worship (Deluxe)",
         "url": "https://open.spotify.com/album/4mNQ4Jm87KEl2HXAQdF0al"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 217549,
       "name": "Gloria - Live",
       "url": "https://open.spotify.com/track/3l4f4bD5JePEYHv4mMAOgw"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
+        "name": "The King Has Come",
+        "url": "https://open.spotify.com/album/1i10S6o2MVwvFrfvKLF8oL"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 223714,
+      "name": "The King Has Come",
+      "url": "https://open.spotify.com/track/4CdnzeMRbM72LL82HgMGhk"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
+        "name": "This Is Christmas",
+        "url": "https://open.spotify.com/album/7KTrKAVMqIlNV3fVmj47hl"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "It Came Upon A Midnight Clear",
+      "url": "https://open.spotify.com/track/3Sffhn79iVVjfgogafj3ZY"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
         "name": "Every Christmas",
         "url": "https://open.spotify.com/album/417JYo0idxISlugwKE4fsb"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 166124,
       "name": "One Star",
       "url": "https://open.spotify.com/track/061rInV3JahtzBKknjgSmd"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
-        "name": "This Is Christmas",
-        "url": "https://open.spotify.com/album/7KTrKAVMqIlNV3fVmj47hl"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "It Came Upon A Midnight Clear",
-      "url": "https://open.spotify.com/track/3Sffhn79iVVjfgogafj3ZY"
     },
     {
       "added_at": "2024-12-13 04:50:58",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2024-12-13 04:50:58",
       "album": {
-        "name": "Christmas at Home",
-        "url": "https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF"
-      },
-      "artists": [
-        {
-          "name": "Michael W. Smith",
-          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
-        }
-      ],
-      "duration_ms": 181143,
-      "name": "Christmas Is Here - Radio Edit",
-      "url": "https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV"
-    },
-    {
-      "added_at": "2024-12-13 04:50:58",
-      "album": {
         "name": "Go Tell 'Em",
         "url": "https://open.spotify.com/album/1TIJr6PcQbLxWohrL2cbER"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 148745,
       "name": "Go Tell 'Em",
       "url": "https://open.spotify.com/track/2s3D0fcZr4mVagNppwjiCG"
+    },
+    {
+      "added_at": "2024-12-13 04:50:58",
+      "album": {
+        "name": "Christmas at Home",
+        "url": "https://open.spotify.com/album/4KKfJWr1DHk7eM50RzyxQF"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "duration_ms": 181143,
+      "name": "Christmas Is Here - Radio Edit",
+      "url": "https://open.spotify.com/track/0Z6NbNX43bPaHylvR2yvCV"
     },
     {
       "added_at": "2024-12-13 04:50:58",

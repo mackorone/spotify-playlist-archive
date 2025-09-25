@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,377,708 likes - 250 songs - 21 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,378,971 likes - 250 songs - 21 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,10 +230,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 220 | [What A Wonderful World](https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 2:17 |
 | 221 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 |
 | 222 | [Love Theme From Spartacus \- Rudy Van Gelder Remaster / 2006](https://open.spotify.com/track/7yzM0pEseQUpb6BMViOPEA) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:11 |
-| 223 | [Stolen Moments](https://open.spotify.com/track/4ow1XH4hwe3yOGXG2eTTTY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues and the Abstract Truth](https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ) | 8:45 |
-| 224 | [Turiya & Ramakrishna](https://open.spotify.com/track/7tQ7e28gdQNhLcIbqc1PXY) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/62RMymUs9Cb4rDqYqXfTCf) | 8:18 |
+| 223 | [Gary's Theme \- 2003 Remastered Version](https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring](https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX) | 4:17 |
+| 224 | [Stolen Moments](https://open.spotify.com/track/4ow1XH4hwe3yOGXG2eTTTY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues and the Abstract Truth](https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ) | 8:45 |
 | 225 | [La vie en rose](https://open.spotify.com/track/5IIybI1oiOCY3DRUrpQ7zA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:26 |
-| 226 | [Gary's Theme \- 2003 Remastered Version](https://open.spotify.com/track/4G3EKvGtqcUSZqPQIWJFxd) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring](https://open.spotify.com/album/6vYvLfw8EOf9OlLgc3IwaX) | 4:17 |
+| 226 | [Turiya & Ramakrishna](https://open.spotify.com/track/7tQ7e28gdQNhLcIbqc1PXY) | [Alice Coltrane](https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr) | [Ptah The El Daoud](https://open.spotify.com/album/62RMymUs9Cb4rDqYqXfTCf) | 8:18 |
 | 227 | [The Plum Blossom \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4HL2XUimEYLv0KDxD3Xpqz) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:55 |
 | 228 | [The Girl From Ipanema](https://open.spotify.com/track/4xGFcQEIjtmbPD6Jsxq14M) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Stan Getz: The Bossa Nova Albums](https://open.spotify.com/album/4TcCL29jgD69v38woQX85i) | 5:17 |
 | 229 | [Sunday](https://open.spotify.com/track/0iEtT7O43pat2fu6jdaCKl) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ben Webster Meets Oscar Peterson](https://open.spotify.com/album/20nUe1jHLgvuPnaTkL0uSA) | 3:57 |

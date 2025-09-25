@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> We introduce exciting artists to you from the Benelux: <a href="spotify:artist:7Iff7uMHGSpOygBkCsdcHq">Hiqpy</a> \(cover\)
+> We introduce exciting artists to you from the Benelux: <a href="sspotify:artist:67Hs92fNnRAgFBfL6EePwb">Aaron Blommaert</a> \(cover\)
 
-216 songs - 11 hr 37 min
+219 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Early Hours](https://open.spotify.com/track/3NWzA0reKxIRyXPZtBHTDB) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:46 | 2022-03-18 | 2022-08-26 |
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-06-12 |  |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2021-12-10 | 2022-03-19 |
+| [EGOTRIP](https://open.spotify.com/track/6figbpzScXtzzlc4lYTLNw) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [EGOTRIP](https://open.spotify.com/album/51KPkUzPehz3oPihuwAlJL) | 2:38 | 2025-09-24 |  |
 | [Emotional](https://open.spotify.com/track/5KhKUkTD4F14DWQGdYtEn3) | [Glowe](https://open.spotify.com/artist/2RZUpkLcPheIJuXLexerK0) | [Emotional](https://open.spotify.com/album/4lXgI0aIpChKJEZtzS0RJM) | 3:00 | 2022-02-25 | 2022-06-17 |
 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 | 2023-04-05 | 2024-01-19 |
 | [Erop Of Eronder](https://open.spotify.com/track/1dCSj3mSC1mulxiBoWgDNV) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:41 | 2023-06-23 | 2024-01-19 |
@@ -91,6 +92,7 @@
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-01-27 | 2023-05-10 |
 | [Hijos De La Noche](https://open.spotify.com/track/1XgsBtX1glXMrclgp6JBb5) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Roots EP, Pt\. 1](https://open.spotify.com/album/2WWgsiqIgoEURvWaYZaiK2) | 3:36 | 2023-09-14 | 2024-01-19 |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-07-01 | 2024-10-25 |
+| [Hoe Zit Het Met Ons?](https://open.spotify.com/track/1rN5JHM21poaueaK01se6P) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Hoe Zit Het Met Ons?](https://open.spotify.com/album/7zEz4lybKXy6PDwnBRTxis) | 3:06 | 2025-09-24 |  |
 | [Home](https://open.spotify.com/track/5bCYPHUQ6kaAUN51DijF5I) | [IBE](https://open.spotify.com/artist/3azm1qf9DUaUiYfWpPRjUT), [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Home](https://open.spotify.com/album/2yvil8dH6U3hzXK96yUpni) | 3:43 | 2022-08-25 | 2023-06-24 |
 | [Hou Me Vast](https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:36 | 2023-01-27 |  |
 | [how bad could it be](https://open.spotify.com/track/5R85xX9Vl6GAvNkaCIDARF) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [how bad could it be](https://open.spotify.com/album/5IerYtedPaWMjgMNb4qdpM) | 3:08 | 2023-08-31 | 2024-04-11 |
@@ -105,7 +107,7 @@
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2021-12-10 | 2022-08-26 |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-19 | 2025-01-10 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-02-03 | 2023-09-15 |
-| [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 | 2025-05-08 |  |
+| [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/track/4RJkbFy6hwiyR28GmoF1zw) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [It's Never Easy \(Leaving Someone Behind\)](https://open.spotify.com/album/5QCFHU0gNSvX1ZabLJ0zRY) | 3:40 | 2025-05-08 | 2025-09-25 |
 | [Jabula](https://open.spotify.com/track/6Kb5zYN5rUlBAZC3EqAB0T) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Verseless](https://open.spotify.com/artist/2kXwMFHdIbk3FVjJe9XOXM), [King Her](https://open.spotify.com/artist/6acKJrfjda2y2rbJ9lKLm5) | [Roots EP](https://open.spotify.com/album/6ZAcM29Ot4yCMlsRTmA7ze) | 3:38 | 2023-09-28 | 2024-04-11 |
 | [Just for me](https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Just for me](https://open.spotify.com/album/00fcDjvEq4elj756TESO0c) | 1:55 | 2021-12-10 | 2022-08-26 |
 | [Kissing Strangers](https://open.spotify.com/track/0wSk8yQjGDc3quozeuf2TU) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier](https://open.spotify.com/album/37RugGOzghoVQRVz6FbZfL) | 2:27 | 2024-04-10 | 2024-09-27 |
@@ -213,6 +215,7 @@
 | [What Goes, Let Go](https://open.spotify.com/track/21jath1y9BcbV3tZKUXFw4) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/1YqDdcokv3cDe2819uRPrw) | 4:34 | 2022-07-12 | 2023-01-28 |
 | [What Goes, Let Go](https://open.spotify.com/track/4iFIEGT8UYsRYDYwK8HSTS) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/50wSrf8RWs8yiJyHJY2KhA) | 4:34 | 2022-11-03 | 2022-11-13 |
 | [Who’s Gonna Be The GOAT?](https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [\(yellow\)](https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu) | 2:44 | 2022-02-10 | 2023-01-28 |
+| [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 | 2025-09-24 |  |
 | [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 | 2024-01-18 | 2024-05-03 |
 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 | 2022-06-16 | 2022-08-26 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-12-10 | 2022-10-18 |

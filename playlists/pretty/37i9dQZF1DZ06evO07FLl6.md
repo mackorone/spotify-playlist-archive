@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,350 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,305 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 36 | [Intoit](https://open.spotify.com/track/1zrYb4Y8KowyXmbzoHGh7L) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Conception](https://open.spotify.com/album/6Y0n5LeEbECbMcPxS1fyJe) | 3:19 |
 | 37 | [Moose The Mooche](https://open.spotify.com/track/5M6mJfaNbWIrBjjy8AVf77) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Complete Savoy & Dial Master Takes](https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT) | 3:03 |
 | 38 | [Tutu](https://open.spotify.com/track/5nZnAVUt0w7UO8Wma9GabV) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Tutu](https://open.spotify.com/album/0toDuabaPv8Pa2KGI88eB7) | 5:16 |
-| 39 | [What's New](https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [A Day In Paris](https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU) | 3:39 |
-| 40 | [Blue Haze \- Remastered 2024](https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '54: The Prestige Recordings \(Remastered 2024\)](https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg) | 6:12 |
+| 39 | [Blue Haze \- Remastered 2024](https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles '54: The Prestige Recordings \(Remastered 2024\)](https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg) | 6:12 |
+| 40 | [What's New](https://open.spotify.com/track/4OtXw7fTLV53s7kYlhqUDP) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [A Day In Paris](https://open.spotify.com/album/7hVkQzpMwyDTTTvYjkKVeU) | 3:39 |
 | 41 | [The Doo\-Bop Song](https://open.spotify.com/track/6lbzLUoma85KVbQqBpvBrw) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Doo\-Bop](https://open.spotify.com/album/28IDISyL4r5E5PXP0aQMnl) | 4:57 |
 | 42 | [Airegin \- RVG Remaster](https://open.spotify.com/track/6KvK5mvFIx4JjfVU0gjl7j) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5), [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa), [Percy Heath](https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb) | [Bags' Groove \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo) | 4:59 |
 | 43 | [Blue Room \- Take 2](https://open.spotify.com/track/1ueS3LNe63cdkK0boxwEJQ) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Miles Davis And Horns](https://open.spotify.com/album/2EVuUPzrGCa5NvPD3h2SBA) | 3:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 46 | [Human Nature \(2022 Remaster\)](https://open.spotify.com/track/25e6EHX8YyC5hsaipxdHCz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [You're Under Arrest \(2022 Remaster\)](https://open.spotify.com/album/5ITQ0X0gnSOo89AASdHV2o) | 4:29 |
 | 47 | [I Loves You, Porgy \(From "Porgy & Bess"\)](https://open.spotify.com/track/4udO0OrgJ1Z4CtL9GiOYw9) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 4:13 |
 | 48 | [Studio Discussion \- One](https://open.spotify.com/track/2XKlsf6SUUiGQJ5sGU7cum) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Gil Evans](https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ) | [The Complete Columbia Studio Recordings](https://open.spotify.com/album/6KyD1Yj3FfMVCie7WVMTSz) | 0:30 |
-| 49 | [My Funny Valentine \- Remastered](https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Only One and Fantastic..\. Miles Davis \(Remastered\)](https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6) | 5:57 |
-| 50 | [Dune Mosse](https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Zu & Co.](https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt) | 5:44 |
+| 49 | [Dune Mosse](https://open.spotify.com/track/60K0AWXWecDmbmQgCjz7y6) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Zu & Co.](https://open.spotify.com/album/0akSxAQhZEZ0zicFaYKGpt) | 5:44 |
+| 50 | [My Funny Valentine \- Remastered](https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Only One and Fantastic..\. Miles Davis \(Remastered\)](https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6) | 5:57 |
 
 Snapshot ID: `aNCRgAAAAABW2iKOpRV3rt84ot6ntxVm`

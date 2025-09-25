@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,660 likes - 84 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,691 likes - 84 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 77 | [My Life in Art](https://open.spotify.com/track/6kh7ySeueeG6ojSbChAAo2) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Excuses for Travellers](https://open.spotify.com/album/3v7tUWRIJsQ0BaYGntOJbZ) | 7:21 |
 | 78 | [Emp\. Man's Blues](https://open.spotify.com/track/08AaYagr9AUBTcjwyYxNfV) | [The For Carnation](https://open.spotify.com/artist/7LMO4vkA2xYpGYbzsggPbk) | [The For Carnation](https://open.spotify.com/album/76jj5JVBFyQZqKvtVTJiFC) | 8:12 |
 | 79 | [New Partner](https://open.spotify.com/track/3tn91waXROHff9S1ARlYl8) | [Palace Music](https://open.spotify.com/artist/2l7DkzVuYJW700mR7r43un) | [Viva Last Blues](https://open.spotify.com/album/2spOqnVm8xI2koT8HQxsFW) | 3:54 |
-| 80 | [The End's Not Near](https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb) | [The New Year](https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy) | [The End Is Near](https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS) | 3:43 |
-| 81 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 |
+| 80 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 |
+| 81 | [The End's Not Near](https://open.spotify.com/track/1AgvhVeIile1724nDOZbgb) | [The New Year](https://open.spotify.com/artist/58bGdoz5bUtPMOTzueTBOy) | [The End Is Near](https://open.spotify.com/album/5FZnZleJX967mKT6ljJjSS) | 3:43 |
 | 82 | [The Black Crow](https://open.spotify.com/track/3dqmRMwJaCymso6NXGPnyi) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [The Lioness](https://open.spotify.com/album/0rCkgwhPyKJqoDkmxkFHTn) | 7:16 |
 | 83 | [Lie In The Sound](https://open.spotify.com/track/4DPJgYReY3KMPPzR1jQ2VP) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/0FYhVNeOcfTLgtHISgpsb5) | 5:42 |
 | 84 | [Good morning \(red\)](https://open.spotify.com/track/5SQrKo2846AcYSt0YFOTJf) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [Good morning \(red\)](https://open.spotify.com/album/5Eg3oUty6ZMa6vkgb0zolB) | 5:47 |

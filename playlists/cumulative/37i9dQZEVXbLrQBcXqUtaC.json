@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Aez Ya Belady",
+        "url": "https://open.spotify.com/album/3lbLTYaZ9S6sNCNsbTqXa1"
+      },
+      "artists": [
+        {
+          "name": "Abdulaziz Elmuanna",
+          "url": "https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108741,
+      "name": "Aez Ya Belady",
+      "url": "https://open.spotify.com/track/6jzotHvMoSkdSvqEY2AYLh"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
@@ -1776,7 +1794,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 219307,
       "name": "Anta Malek.",
       "url": "https://open.spotify.com/track/3mYaoPqSczv15QcyVoQTSd"
@@ -6356,7 +6374,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 75461,
       "name": "DIA DEL\u00cdCIA",
       "url": "https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj"
@@ -7722,10 +7740,28 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 210651,
       "name": "Enta Malek Takht Sharqy",
       "url": "https://open.spotify.com/track/7iI9wUWKXydI5Q0M2qmxxp"
+    },
+    {
+      "album": {
+        "name": "envy",
+        "url": "https://open.spotify.com/album/4KtkPcD2WUXZUW7ibEI25d"
+      },
+      "artists": [
+        {
+          "name": "slxughter",
+          "url": "https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126401,
+      "name": "envy - slowed",
+      "url": "https://open.spotify.com/track/57Ju5lrvYBZJvmxKFrtzSt"
     },
     {
       "album": {
@@ -10530,7 +10566,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 201943,
       "name": "Hay El Zalayl",
       "url": "https://open.spotify.com/track/5gNAluu4a5nDClPI5pDAoV"
@@ -21546,7 +21582,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -24364,7 +24400,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -25758,7 +25794,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -30632,7 +30668,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 285693,
       "name": "\u062d\u0646\u0627 \u062c\u0646\u0648\u062f \u0627\u0644\u0645\u0645\u0644\u0643\u0629",
       "url": "https://open.spotify.com/track/2DrBGxB4SHENJOB8UDvB7K"
@@ -30668,7 +30704,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-26",
+      "date_removed": null,
       "duration_ms": 246946,
       "name": "\u062d\u064a\u0648 \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
       "url": "https://open.spotify.com/track/5muynzN7ghpU7UmS0fPelB"
@@ -32322,7 +32358,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 371258,
       "name": "\u0645\u0627\u062e\u0633\u0631\u062a\u0643",
       "url": "https://open.spotify.com/track/77HQd3SxG4dsHkFB6hwG9E"

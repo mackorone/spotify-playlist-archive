@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3638923,
+  "num_followers": 3638347,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -2291,6 +2291,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Songs In The Key Of Life",
         "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 243760,
       "name": "How Long Do I Have to Wait for You?",
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Golden Moments",
-        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/4ZrbWwFHHjPoe7cfUBJ9WQ"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
       },
@@ -2439,18 +2423,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Half the City",
-        "url": "https://open.spotify.com/album/6s7QZPmc8m8s2TJGg1cyXQ"
+        "name": "20 All-Time Greatest Hits!",
+        "url": "https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0W5qBuHbbBfCzszFxrQWMc"
+      "duration_ms": 250200,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/0nyrltZrQGAJMBZc1bYvuQ"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2467,6 +2451,26 @@
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up In Flames)",
+      "url": "https://open.spotify.com/track/4u2KDCwcj8WGcFXDhy1aKL"
     }
   ],
   "unique_name": "Feelin' Good",

@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 124718,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/7csJh6rDbBhV6WFFrxoYyB"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 150617,
       "name": "Flamingo",
       "url": "https://open.spotify.com/track/5hUBEW72nvmwnibrFUFemr"
@@ -8123,6 +8123,24 @@
     },
     {
       "album": {
+        "name": "Peace is overrated",
+        "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172573,
+      "name": "Peace is overrated",
+      "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
+    },
+    {
+      "album": {
         "name": "Pennies From Heaven",
         "url": "https://open.spotify.com/album/75bRjjsmOtXqoSHeziafj0"
       },
@@ -9383,6 +9401,24 @@
     },
     {
       "album": {
+        "name": "Something Together",
+        "url": "https://open.spotify.com/album/06YCoRHgr6ELtFWEvAmRe8"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129786,
+      "name": "Something Together",
+      "url": "https://open.spotify.com/track/3XM6cWuevb7PGBEZSiQfEx"
+    },
+    {
+      "album": {
         "name": "Sometime Ago",
         "url": "https://open.spotify.com/album/4fKCHxdIRftSRH8A4uauwW"
       },
@@ -10312,7 +10348,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 125450,
       "name": "The last chance saloon",
       "url": "https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv"
@@ -12296,6 +12332,24 @@
       "duration_ms": 180022,
       "name": "You Will Know",
       "url": "https://open.spotify.com/track/2ZngRv9BqllWISiBPcHdr4"
+    },
+    {
+      "album": {
+        "name": "You're glowing",
+        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161950,
+      "name": "You're glowing",
+      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
     },
     {
       "album": {

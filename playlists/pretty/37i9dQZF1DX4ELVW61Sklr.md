@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,543 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,531 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 53 | [Favorite Time of Year](https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Christmas in Baltimore](https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r) | 3:36 |
 | 54 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 | 55 | [Secret Santa](https://open.spotify.com/track/47V1W4jo5cKR0bLEY3f9ET) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Secret Santa](https://open.spotify.com/album/1fJejxgB7258DWBWlqXCNk) | 2:59 |
-| 56 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
-| 57 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 |
+| 56 | [Glory To The King \- His Gift Version](https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [His Gift](https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd) | 4:10 |
+| 57 | [Give Love On Christmas Day](https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:54 |
 | 58 | [Jingle Bells](https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu) | [Bebe & Cece Winans](https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs) | [First Christmas](https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl) | 4:23 |
 | 59 | [Forever Mistletoe](https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Red & Green](https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2) | 3:55 |
 | 60 | [What Christmas Means To Me](https://open.spotify.com/track/4pI7CEVufQCp9WAssZLecU) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [What Christmas Means To Me](https://open.spotify.com/album/38BJrTD8PU57VC6El3FTrI) | 2:53 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 97 | [My Only Christmas Wish](https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Christmas 3 Pack](https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2) | 3:33 |
 | 98 | [O Come All Ye Faithful](https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [A Faithful Christmas](https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX) | 3:37 |
 | 99 | [Greatest Gift](https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [A Legacy Christmas](https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA) | 4:25 |
-| 100 | [Jesus What A Wonderful Child](https://open.spotify.com/track/6wxKZGJPphOUm6p4JpIEIr) | [Stevie Mackey](https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia), [THE ELEVEN](https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk), [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [The Most Wonderful Time](https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz) | 4:07 |
+| 100 | [Messiah Has Come](https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [One Family](https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd) | 4:33 |
 
 Snapshot ID: `AAAAAMhSzi9GdzfsKKMeNm2ArAC9N0RD`

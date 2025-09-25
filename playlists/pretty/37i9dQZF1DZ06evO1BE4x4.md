@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 
 > This is Violent Soho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,717 likes - 33 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,719 likes - 33 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "All Rights Reserved",
+        "url": "https://open.spotify.com/album/5jgRsnXzQCf4XV6Kkr1VDh"
+      },
+      "artists": [
+        {
+          "name": "Lover's Skit",
+          "url": "https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210004,
+      "name": "Poor Business Man",
+      "url": "https://open.spotify.com/track/3LfxeB0bMo2fcJCmdHib5f"
+    },
+    {
+      "album": {
         "name": "Prettier Than You",
         "url": "https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg"
       },
@@ -4384,6 +4402,40 @@
       "duration_ms": 218740,
       "name": "U",
       "url": "https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG"
+    },
+    {
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C"
+      },
+      "artists": [
+        {
+          "name": "UFOs",
+          "url": "https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd"
+        },
+        {
+          "name": "Braxe + Falcon",
+          "url": "https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA"
+        },
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "DJ Falcon",
+          "url": "https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273971,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx"
     },
     {
       "album": {

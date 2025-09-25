@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ashir Wajahat",
+  "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Rabi Ahmed, Syed Hamza, Aalehaider Gillani",
   "name": "New Pakistani Pop",
   "tracks": [
     {
@@ -122,6 +122,24 @@
       "duration_ms": 191020,
       "name": "Aankhon Mein Aansu",
       "url": "https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR"
+    },
+    {
+      "album": {
+        "name": "Aap Ki Yaad",
+        "url": "https://open.spotify.com/album/3UWhmzPxb02fJl65JxoEFB"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Jahanzeb",
+          "url": "https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321227,
+      "name": "Aap Ki Yaad",
+      "url": "https://open.spotify.com/track/4HbnrDaNkW6CDwdHfYEGr8"
     },
     {
       "album": {
@@ -268,6 +286,28 @@
       "duration_ms": 175000,
       "name": "Andheron Mein",
       "url": "https://open.spotify.com/track/0UzKyVyttN8GClScxoWIe9"
+    },
+    {
+      "album": {
+        "name": "Andron Kha Jana",
+        "url": "https://open.spotify.com/album/3itDznY2ISWHZlSR1GxzJQ"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Urwa Hocane",
+          "url": "https://open.spotify.com/artist/7H0QXNstDns4zx2672UtZm"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225253,
+      "name": "Andron Kha Jana",
+      "url": "https://open.spotify.com/track/7gYeTJvcN7X8T6I6i8J5hV"
     },
     {
       "album": {
@@ -512,7 +552,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 155292,
       "name": "Barkha",
       "url": "https://open.spotify.com/track/6BMbCzRYRjPq2hm8W7XQNI"
@@ -1470,7 +1510,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 227200,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/1kVDIxmgLdMv4tZ6GhWQJ5"
@@ -1798,7 +1838,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 180000,
       "name": "Global Zakham",
       "url": "https://open.spotify.com/track/7LPLckhk6ygQgcvHntw1gT"
@@ -2124,7 +2164,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 172941,
       "name": "Hum Adhooray",
       "url": "https://open.spotify.com/track/2720FG3rJlddmhKMpPcOFK"
@@ -4338,7 +4378,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 181463,
       "name": "Pyar",
       "url": "https://open.spotify.com/track/7ievkd8Nr5VG5JL6pVvOUS"
@@ -5094,7 +5134,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 177499,
       "name": "savera",
       "url": "https://open.spotify.com/track/57wyw9LmTBrbg0r8ruF8zV"
@@ -5368,6 +5408,28 @@
       "duration_ms": 200727,
       "name": "Talab",
       "url": "https://open.spotify.com/track/7trCcRZrkFLQOdb9JO4vS3"
+    },
+    {
+      "album": {
+        "name": "Talk Sick",
+        "url": "https://open.spotify.com/album/2KTC4gP1CvF5Fke3ZncRH9"
+      },
+      "artists": [
+        {
+          "name": "Ehwah",
+          "url": "https://open.spotify.com/artist/1GjuWtr10bolcISuN1Ly2c"
+        },
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146399,
+      "name": "Talk Sick",
+      "url": "https://open.spotify.com/track/4FAp3ZEZtJzj10BydmeVyZ"
     },
     {
       "album": {
@@ -5729,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "Tu Bewafa",
+        "url": "https://open.spotify.com/album/4SMeLI7591bqXkyYYKBLKV"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/442S2QDgRqpcQACrMIXVGM"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221425,
+      "name": "Tu Bewafa",
+      "url": "https://open.spotify.com/track/1wpWgERe3WPG1oFkQ1ye06"
+    },
+    {
+      "album": {
         "name": "Tu hai kahan",
         "url": "https://open.spotify.com/album/5V2IsZkQDhgRrgNhyCOJHf"
       },
@@ -5762,6 +5842,32 @@
       "duration_ms": 208484,
       "name": "tu mila",
       "url": "https://open.spotify.com/track/2o0qrukiIFbiGUSQBhYeKT"
+    },
+    {
+      "album": {
+        "name": "Tu Nai Aya",
+        "url": "https://open.spotify.com/album/3bpenAPH5AkkLBbDiGafp5"
+      },
+      "artists": [
+        {
+          "name": "Rabi Ahmed",
+          "url": "https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn"
+        },
+        {
+          "name": "Syed Hamza",
+          "url": "https://open.spotify.com/artist/4aszTEWKdtIPcvzJjlfnoQ"
+        },
+        {
+          "name": "Aalehaider Gillani",
+          "url": "https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tu Nai Aya",
+      "url": "https://open.spotify.com/track/5i2IjyeSasLTFqU6xlmVA4"
     },
     {
       "album": {
@@ -6090,6 +6196,28 @@
       "duration_ms": 191142,
       "name": "when i took a pill",
       "url": "https://open.spotify.com/track/1JIW92EAv9SRMiAeuN9YcZ"
+    },
+    {
+      "album": {
+        "name": "HOW DOES IT MATTER",
+        "url": "https://open.spotify.com/album/2pBgewM1rgAaYh1MDdoKnA"
+      },
+      "artists": [
+        {
+          "name": "Umar.",
+          "url": "https://open.spotify.com/artist/4INRTjmbOR0tkPGC3ySXIm"
+        },
+        {
+          "name": "Arshman Naeem",
+          "url": "https://open.spotify.com/artist/2WF847myArLiNE7Cjs9kgD"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172586,
+      "name": "WHY ME",
+      "url": "https://open.spotify.com/track/52a978RE0uwVfovfCWdQDP"
     },
     {
       "album": {

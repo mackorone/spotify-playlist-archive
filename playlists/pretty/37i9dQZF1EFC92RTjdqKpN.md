@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,087 likes - 191 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088 likes - 191 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,9 +152,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 142 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 |
 | 143 | [Feel Something](https://open.spotify.com/track/4asjjfwB4ioZm1JHWARyPa) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Feel Something](https://open.spotify.com/album/5Snr4L26gHmVIIYcg7oSMM) | 2:59 |
 | 144 | [Thankful](https://open.spotify.com/track/5eVNpfTi4H5h12p3LGFyWD) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Thankful \(Unwrapped\)](https://open.spotify.com/album/7vZ0uemkoDmG7tGC5qQ6uQ) | 3:35 |
-| 145 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
-| 146 | [I See You](https://open.spotify.com/track/3CtXyZcmgrff9szb6o9cRZ) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 3:06 |
-| 147 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
+| 145 | [Overqualified](https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:18 |
+| 146 | [Infinity](https://open.spotify.com/track/6bE0Y8d0xTaXrrRUVkyD8u) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 3:10 |
+| 147 | [I See You](https://open.spotify.com/track/3CtXyZcmgrff9szb6o9cRZ) | [Kalin and Myles](https://open.spotify.com/artist/2BL5VxhQadpc4v2VlZyKY5) | [Kalin And Myles](https://open.spotify.com/album/643h7mtzQNXbMEH3CptYEb) | 3:06 |
 | 148 | [Where We Left](https://open.spotify.com/track/3z9yT94FvmgWOgXZHuE0b6) | [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Where We Left](https://open.spotify.com/album/5a5ywLo0LuBmnOO1hb28P7) | 3:40 |
 | 149 | [Baby Don't Dance](https://open.spotify.com/track/1fZ5HV5Qv5aQSV9dXWZ1vy) | [Fleur East](https://open.spotify.com/artist/37mtx80nMDETlbsq2eFCzc) | [Love, Sax & Flashbacks \(Track by Track\)](https://open.spotify.com/album/1nFgJpjh2doGfve56uADlm) | 3:24 |
 | 150 | [Why Does It Hurt](https://open.spotify.com/track/3Vr2LVreIKr9aHy0x7Swmz) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Why Does It Hurt](https://open.spotify.com/album/3Zbab5E4YrBcBZPgcXpE05) | 3:18 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 190 | [Tonight](https://open.spotify.com/track/4aTAQCJIGLU5RRcnZNPftn) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/6ohDfN4WqQolD87G6s3j3U) | 3:53 |
 | 191 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `Ab9BngAAAACAn/kh7mWe6SuXZICQNdHp`
+Snapshot ID: `Ab9HIAAAAABkoum4i9L/uf6E6anL67Xy`

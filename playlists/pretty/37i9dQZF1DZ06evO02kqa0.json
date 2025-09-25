@@ -1,6 +1,6 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 39690,
+  "num_followers": 39692,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
@@ -412,25 +412,25 @@
       },
       "artists": [
         {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Gabriele Santini",
-          "url": "https://open.spotify.com/artist/4C8Cmg4pufBGtbDGGTGbkL"
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         },
         {
-          "name": "Orchestra Sinfonica Di Torino Della Rai",
-          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
         }
       ],
-      "duration_ms": 187080,
-      "name": "Verdi: La traviata, Act 1: \"Ah fors'e lui\" (Violetta)",
-      "url": "https://open.spotify.com/track/0tTxV5lgzchLGmbRYQSYZU"
+      "duration_ms": 182120,
+      "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
+      "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
     },
     {
       "added_at": null,
@@ -512,25 +512,25 @@
       },
       "artists": [
         {
-          "name": "Gaetano Donizetti",
-          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+          "name": "Gabriele Santini",
+          "url": "https://open.spotify.com/artist/4C8Cmg4pufBGtbDGGTGbkL"
         },
         {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+          "name": "Orchestra Sinfonica Di Torino Della Rai",
+          "url": "https://open.spotify.com/artist/6r9Z05svhqtOdMOOIr0Kjy"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Il dolce suono\" (Lucia)",
-      "url": "https://open.spotify.com/track/3nVFZo0bZx9gHRXzWTnL2o"
+      "duration_ms": 187080,
+      "name": "Verdi: La traviata, Act 1: \"Ah fors'e lui\" (Violetta)",
+      "url": "https://open.spotify.com/track/0tTxV5lgzchLGmbRYQSYZU"
     },
     {
       "added_at": null,
@@ -999,30 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra of the San Carlos Opera House, Lisbon",
-          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
-        },
-        {
-          "name": "Franco Ghione",
-          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
-        }
-      ],
-      "duration_ms": 204226,
-      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
-      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
         "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 348693,
       "name": "Norma, Act I Scene 1: \"Casta Diva\"",
       "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maria by Callas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xaUzONuVZ28q4dpkKvktc"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra of the San Carlos Opera House, Lisbon",
+          "url": "https://open.spotify.com/artist/6sbBdQ4IdyKtzYfLkKZWj7"
+        },
+        {
+          "name": "Franco Ghione",
+          "url": "https://open.spotify.com/artist/3qOlbb0x5LJsXZZ4iXI5Ir"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "La traviata, Act III Scene 4: No. 8c. \"Addio, del passato\" (Violetta) [Recorded in Lisbon, 1958]",
+      "url": "https://open.spotify.com/track/5efDz32sTEFyvcTjqB8jLY"
     },
     {
       "added_at": null,
@@ -1167,34 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Antonino Votto",
-          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        }
-      ],
-      "duration_ms": 205826,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donizetti: Lucia di Lammermoor",
         "url": "https://open.spotify.com/album/2H4FxKz0voZ5JrYomDFH16"
       },
@@ -1231,6 +1203,34 @@
       "duration_ms": 228426,
       "name": "Donizetti: Lucia di Lammermoor, Act 3: \"Spargi d'amaro pianto\" (Lucia, Raimondo, Coro, Enrico)",
       "url": "https://open.spotify.com/track/6h35q7vz00ReemKGYykyKt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Antonino Votto",
+          "url": "https://open.spotify.com/artist/1cJYZCqOPzIhYf3VekKtGW"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
     },
     {
       "added_at": null,

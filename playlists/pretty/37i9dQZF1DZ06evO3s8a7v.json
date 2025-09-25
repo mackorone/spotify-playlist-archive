@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 43946,
+  "num_followers": 43943,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAAC5KxWZpS9yuzClyzRR0GxH",
+  "snapshot_id": "aNHjAAAAAACmQQ5kF8Ta3rxvo1SRP8Go",
   "tracks": [
     {
       "added_at": null,
@@ -443,30 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Agus Bernasconi",
-          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
-        },
-        {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
-        }
-      ],
-      "duration_ms": 170020,
-      "name": "BLANCO Y NEGRO",
-      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
       },
@@ -491,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "250X",
-        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
       "artists": [
         {
@@ -500,13 +476,17 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+          "name": "Agus Bernasconi",
+          "url": "https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS"
+        },
+        {
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 137293,
-      "name": "250X",
-      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
+      "duration_ms": 170020,
+      "name": "BLANCO Y NEGRO",
+      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
     },
     {
       "added_at": null,
@@ -531,6 +511,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "250X",
+        "url": "https://open.spotify.com/album/31QqeBtjSFCLwjNFGgxmUS"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        }
+      ],
+      "duration_ms": 137293,
+      "name": "250X",
+      "url": "https://open.spotify.com/track/3NjhlsNhvSEjg4BA2AJKJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -547,26 +547,6 @@
       "duration_ms": 197600,
       "name": "4 Meses",
       "url": "https://open.spotify.com/track/1hsy09WbfLFq21OVS4FaMe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendaria",
-        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 179349,
-      "name": "Legendaria",
-      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
     },
     {
       "added_at": null,
@@ -591,6 +571,26 @@
       "duration_ms": 186787,
       "name": "LUNAR",
       "url": "https://open.spotify.com/track/23D1x2HJbnNEXrkWhxRoB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendaria",
+        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 179349,
+      "name": "Legendaria",
+      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una y Mil Veces",
-        "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Una y Mil Veces",
-      "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 171504,
       "name": "SI PUDIERA",
       "url": "https://open.spotify.com/track/4kUvzZDRjf8rCbZZ9ieoGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una y Mil Veces",
+        "url": "https://open.spotify.com/album/6lOhEec0gHybly7uWWCRWa"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Una y Mil Veces",
+      "url": "https://open.spotify.com/track/4s0BDnatQJ5uL4BcrOfMG6"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 204069,
+      "name": "ME HACES FALTA",
+      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 191573,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/1diR6HzZqvxxeXjgMfoY1c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 204069,
-      "name": "ME HACES FALTA",
-      "url": "https://open.spotify.com/track/1x9h7goaKtNPfB8CXZ8zqb"
     },
     {
       "added_at": null,
@@ -811,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como + Nadie",
-        "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "Como + Nadie",
-      "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLANCO Y NEGRO",
         "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 156812,
       "name": "EL PROCESO",
       "url": "https://open.spotify.com/track/08wWsajr5heXuF9vFYX92f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como + Nadie",
+        "url": "https://open.spotify.com/album/4XRO8YfOaX2SxrjiYnnS8C"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "Como + Nadie",
+      "url": "https://open.spotify.com/track/3TSB6v3t9nmizD5PzyiiFv"
     },
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLANCO Y NEGRO",
+        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 142405,
+      "name": "MIL NOCHES",
+      "url": "https://open.spotify.com/track/4RxI0IC11Ab1R3yVb3pv1z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desbloqueo",
         "url": "https://open.spotify.com/album/7HbweJj6G9SCy6oQQy314d"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 192732,
       "name": "Desbloqueo",
       "url": "https://open.spotify.com/track/0Rr3a98X7aP1sADDsfm16w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BLANCO Y NEGRO",
-        "url": "https://open.spotify.com/album/6GS2pDfs1fyss0jZ1YA2jB"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 142405,
-      "name": "MIL NOCHES",
-      "url": "https://open.spotify.com/track/4RxI0IC11Ab1R3yVb3pv1z"
     },
     {
       "added_at": null,

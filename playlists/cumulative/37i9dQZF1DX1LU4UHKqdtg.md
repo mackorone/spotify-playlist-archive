@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: HANA
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: XG
 
-1,576 songs - 3 day 11 hr 39 min
+1,578 songs - 3 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-31 | 2023-05-17 |
 | [AZALEA](https://open.spotify.com/track/44t2jRqGiSDmxTCexAbboI) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [Love in Bloom](https://open.spotify.com/album/68BCbpqHiKG7G2iuqAmWgi) | 3:58 | 2022-04-04 | 2022-04-08 |
 | [Baby, Not Baby](https://open.spotify.com/track/6nabHsqIYAKS6Nnfuqauw9) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Accidentally On Purpose \- The 2nd Mini Album](https://open.spotify.com/album/70RduzYb3gbtmVs88CpAHV) | 3:13 | 2025-03-09 | 2025-07-24 |
-| [BabyDon'tCry=BreakingTheLove](https://open.spotify.com/track/5UXgOXtxhpZjTtCdLvdnug) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [BabyDon'tCry=BreakingTheLove](https://open.spotify.com/album/2FdhfXyTN2nqyWvsDnceuc) | 2:34 | 2025-07-15 |  |
+| [BabyDon'tCry=BreakingTheLove](https://open.spotify.com/track/5UXgOXtxhpZjTtCdLvdnug) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [BabyDon'tCry=BreakingTheLove](https://open.spotify.com/album/2FdhfXyTN2nqyWvsDnceuc) | 2:34 | 2025-07-15 | 2025-09-25 |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2023-09-14 | 2024-01-16 |
 | [Back to ZEROBASE](https://open.spotify.com/track/1nAgnxTViNsKC1kFyKiyrd) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 2:45 | 2023-07-11 | 2023-08-19 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-11-30 |
@@ -594,6 +594,7 @@
 | [Hiding Words](https://open.spotify.com/track/7b6KnSrleI0lSZseL9GE50) | [RYEOWOOK](https://open.spotify.com/artist/0fwfMuz3AmWRy2pyM5fDRo) | [A Wild Rose \- The 3rd Mini Album](https://open.spotify.com/album/6LjFZETsA9xj5mctbgLeW5) | 3:36 | 2022-05-10 | 2022-06-29 |
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2025-03-07 |
 | [High Horse](https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [High Horse](https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo) | 3:23 | 2025-03-04 | 2025-03-18 |
+| [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 |  |
 | [Higher](https://open.spotify.com/track/0uQfBXKmq6LEEpgSn42ZdU) | [moxymill](https://open.spotify.com/artist/2TEFTOBYMLd63UPAs5eacq) | [Higher](https://open.spotify.com/album/2eSoUNp5QhPryJ26vPJYbn) | 2:51 | 2025-07-30 |  |
 | [Hit the Floor](https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Visionary Vision <Performante>](https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs) | 2:57 | 2024-10-23 | 2025-02-01 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-06-20 | 2022-09-05 |
@@ -1008,6 +1009,7 @@
 | [POPPY \- Japanese Ver.](https://open.spotify.com/track/2gpwaAJnSDTevgZa4uyM0H) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [POPPY \(Japanese Ver.\)](https://open.spotify.com/album/2nei1QXcpDotdoMz3IQxr4) | 2:59 | 2022-11-15 | 2023-02-15 |
 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 | 2024-10-31 | 2025-02-07 |
 | [PRESENT](https://open.spotify.com/track/4aHFpcusnNCEfwZLiItfrt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [The Present](https://open.spotify.com/album/5ZHr2d9elKGljFZiKN5H9j) | 3:42 | 2022-12-22 | 2023-01-18 |
+| [Pretty Please](https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [Pretty Please](https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt) | 3:24 | 2025-09-24 |  |
 | [Priceless \(feat\. LISA\)](https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Priceless \(feat\. LISA\)](https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ) | 2:43 | 2025-05-02 | 2025-05-07 |
 | [PRIMROSE](https://open.spotify.com/track/75uoSZNM8jX7p1Uyj4m3zT) | [PRIMROSE](https://open.spotify.com/artist/1nE2Iu4qK1fzslPJcLGq66) | [RED MOON](https://open.spotify.com/album/44bwRjSjY6otPdQDMNWTey) | 3:38 | 2023-01-12 | 2023-03-08 |
 | [prologue～the deepest blue](https://open.spotify.com/track/6ge4uZOlJSWLGi5phzC4Qx) | [KJRGL](https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX) | [prologue～the deepest blue](https://open.spotify.com/album/2VTQSXk3clYbVD434fLVZn) | 1:41 | 2024-09-03 | 2024-09-20 |
@@ -1234,7 +1236,7 @@
 | [Stupid Cupid](https://open.spotify.com/track/28A3n0uK5LvBTLq5aX0oCO) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Moonlight](https://open.spotify.com/album/4Yn7eVRGi34P0oksBwfMSq) | 3:25 | 2024-06-05 | 2024-08-21 |
 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/album/2JvE7wdlDjKxadK7Y95xpQ) | 2:53 | 2024-02-08 | 2024-05-24 |
 | [Stupid O'clock](https://open.spotify.com/track/01ef1c362EzKpoTNLwI5Eb) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Chaos](https://open.spotify.com/album/7bCJBM9raTjf0vyiCwfiqO) | 3:05 | 2022-05-31 | 2022-07-29 |
-| [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-17 |  |
+| [STYLE](https://open.spotify.com/track/5EoV2HmAlkqN1XvsIjOBZZ) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [STYLE](https://open.spotify.com/album/2bCF7O4JPKcxtlOw7AtphB) | 3:29 | 2025-06-17 | 2025-09-25 |
 | [STYLE](https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc) | 3:03 | 2023-10-17 | 2024-01-26 |
 | [Sugar](https://open.spotify.com/track/7GvWR4mvfvzvWtVXBcU23t) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-HIGH> \- Special Edition \-](https://open.spotify.com/album/48HXlZ0LviGDHnGon1gyTm) | 2:34 | 2023-11-22 | 2023-12-15 |
 | [SUGAR](https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [SUGAR](https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef) | 3:06 | 2022-06-21 | 2022-08-04 |

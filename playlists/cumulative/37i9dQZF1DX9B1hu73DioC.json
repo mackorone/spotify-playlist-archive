@@ -4937,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
+    },
+    {
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -14794,7 +14812,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"

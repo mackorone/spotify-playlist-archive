@@ -4,10 +4,11 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 37 min
+118 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A la antigua](https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [A la antigua](https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG) | 2:42 | 2025-09-25 |  |
 | [Alcatraz](https://open.spotify.com/track/3z5eBMaMIJHF7JNDCA1RGB) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Rocketman](https://open.spotify.com/album/6mrbpYQQijgtoxyF472JEJ) | 3:39 | 2024-07-02 | 2025-01-02 |
 | [Alcatraz](https://open.spotify.com/track/4SvYTCLX6aQWWrK3wTJ2QN) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Alcatraz](https://open.spotify.com/album/2NEQkPwH58q77gdlzODUWD) | 3:39 | 2023-12-30 | 2024-04-19 |
 | [Alcatraz](https://open.spotify.com/track/76XjcqjKTyZcuAeRGP1Svr) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Alcatraz](https://open.spotify.com/album/0mZcpftskXcLvpn1JBhese) | 3:39 | 2024-04-19 | 2024-04-28 |
@@ -53,7 +54,7 @@
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-21 | 2025-01-12 |
 | [Hasta Aquí Llegué](https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Duelo](https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl) | 3:08 | 2025-01-12 |  |
 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-12-30 | 2024-01-11 |
-| [Inevitable](https://open.spotify.com/track/48OteOzReG65pz9ThLAksY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Las Que No Estaban](https://open.spotify.com/album/3rnCF5ImzbY6ngyeoaKg8t) | 2:52 | 2025-09-11 |  |
+| [Inevitable](https://open.spotify.com/track/48OteOzReG65pz9ThLAksY) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Las Que No Estaban](https://open.spotify.com/album/3rnCF5ImzbY6ngyeoaKg8t) | 2:52 | 2025-09-11 | 2025-09-25 |
 | [Invisibles](https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 3:52 | 2023-12-30 |  |
 | [La Última](https://open.spotify.com/track/322r3kTVgJv9RCxcoG854x) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/6V3S0KF8E2DAylBIEN0EiO) | 3:07 | 2023-12-30 | 2024-12-21 |
 | [La Última](https://open.spotify.com/track/3Zuh5YCdc1DnQz3UeB8VnG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Última](https://open.spotify.com/album/0RJJF71dyzRRzP795uNh0W) | 3:07 | 2024-12-21 |  |

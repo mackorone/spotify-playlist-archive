@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,618 likes - 162 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,682 likes - 162 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 | 161 | [Celestial Silence](https://open.spotify.com/track/2OWiBK2O9955a9eVM2SeZJ) | [Adirenne Lushara](https://open.spotify.com/artist/4Bq0flYhY0O3Tl8qMZsaO4) | [Celestial Silence](https://open.spotify.com/album/2nFYyCovKTvAkft9F9Gbwm) | 3:14 |
 | 162 | [Fading](https://open.spotify.com/track/2pZ3K8qHHflxXkBqSVbunE) | [Withered Sun](https://open.spotify.com/artist/0XMQ7yeLJih2CAJVQi4vsc) | [Fading](https://open.spotify.com/album/4C5P60I5WeNo48Qrzql73t) | 3:13 |
 
-Snapshot ID: `AAAAAPq5xHHqrlGdcdOV1aSEng119UGk`
+Snapshot ID: `AAAAAFiVgL5hZSbNrGbS+IfQsnDP5nBb`

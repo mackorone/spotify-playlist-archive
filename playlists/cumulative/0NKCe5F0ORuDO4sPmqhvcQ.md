@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-690 songs - 1 day 14 hr 44 min
+691 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Grid Lines](https://open.spotify.com/track/7i4HvCVazy9piUZwumS44x) | [Shae District](https://open.spotify.com/artist/7h9Pbr7lcfxk8TyOXe8uCX) | [Grid Lines](https://open.spotify.com/album/2145oDTM1FqcH51ieqtfSd) | 6:17 | 2023-01-19 | 2023-07-20 |
 | [Growing Pains](https://open.spotify.com/track/094tCgchiXY2srShd51TvA) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Growing Pains](https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv) | 4:24 | 2024-01-08 | 2024-03-23 |
 | [Haircut](https://open.spotify.com/track/3vJ7IorxIUTETdUYc8Wmif) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Haircut](https://open.spotify.com/album/6MpnYFXkjVgmzpDwlvofou) | 2:58 | 2022-03-30 | 2022-04-19 |
+| [Half Alive](https://open.spotify.com/track/4EVJkMkeEXOpvHBRe3JO6E) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [Half Alive](https://open.spotify.com/album/6uGNQgs7iiKY8nS9p8Z1BG) | 3:12 | 2025-09-24 |  |
 | [Halo](https://open.spotify.com/track/5CvVWD27KlJNkvzDLU1zPS) | [Hotel Garuda](https://open.spotify.com/artist/73tITL3u5T35u309PLpN6K) | [Halo](https://open.spotify.com/album/1aY0os7oA39KJiT4cfWf6x) | 3:46 | 2022-06-30 | 2023-10-06 |
 | [Handyman](https://open.spotify.com/track/4wykWbZswhsDAhiCaSdN9F) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Handyman](https://open.spotify.com/album/583KpgaKbGKj6XqMjhfE4h) | 3:06 | 2022-02-28 | 2022-03-31 |
 | [Happy Days In Happy Weather](https://open.spotify.com/track/28lCdfM7o2ZrT6EkZNDd3A) | [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Happy Days In Happy Weather](https://open.spotify.com/album/4ztz1tyse71PSaomFWkvox) | 3:04 | 2023-12-15 | 2024-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol 🌺☀️🌴🎶 Simon Grossmann en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,702 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,706 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 35 | [¡Oh, Algoritmo! \(feat\. Noga Erez\)](https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 3:04 |
 | 36 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 |
 | 37 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |
-| 38 | [Mood Swing \- Radio Edit](https://open.spotify.com/track/76DwMrwpAY9El8AZXlWxyW) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mood Swing \(Sinego Remix\)](https://open.spotify.com/album/6LSJZ1zDqxWhVL3hDydSFB) | 4:05 |
-| 39 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 |
+| 38 | [Nunca Paran](https://open.spotify.com/track/19o5QsrxcPEgTqVIokkfcc) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Aguas](https://open.spotify.com/album/33pADJx4IypA4nlgrpllNy) | 3:04 |
+| 39 | [Mood Swing \- Radio Edit](https://open.spotify.com/track/76DwMrwpAY9El8AZXlWxyW) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mood Swing \(Sinego Remix\)](https://open.spotify.com/album/6LSJZ1zDqxWhVL3hDydSFB) | 4:05 |
 | 40 | [traguito](https://open.spotify.com/track/523LPmnALvNfHfmxRXkVw6) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nacarile](https://open.spotify.com/album/0pRdkDSMZds1G61wXr2U6i) | 3:56 |
 | 41 | [Negro Santo](https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V) | [Negro Santo](https://open.spotify.com/album/7gY74f6iO834wnj0Pf2wZW) | 4:27 |
 | 42 | [La Número Uno](https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [La Número Uno](https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW) | 4:04 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 51 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
 | 52 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 |
 | 53 | [Mayagüez](https://open.spotify.com/track/63UyxCwQAk7Uzpiw6nZxtl) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Isla Disco](https://open.spotify.com/album/3MGE8NyRqx5lbGIWEAGF6K) | 3:34 |
-| 54 | [Comadre](https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:32 |
-| 55 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
+| 54 | [Ñe Ñe Ñé](https://open.spotify.com/track/4SjRyukjcdc095b8UfXHea) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Almadura](https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT) | 3:07 |
+| 55 | [Comadre](https://open.spotify.com/track/3Dw2wGorKeviZOLkJrI4Fm) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:32 |
 | 56 | [Gritar](https://open.spotify.com/track/5r1JdY6MDonNCHvv8cUS9g) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Gritar](https://open.spotify.com/album/0yPQu50ZdM0TGGwSa8tHy8) | 3:00 |
 | 57 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 |
 | 58 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Norah Jones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,480 likes - 195 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,491 likes - 195 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,12 +184,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 174 | [The walker – Recorded at RAK Studios, London](https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Spotify Singles](https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR) | 4:08 |
 | 175 | [Coloring Outside The Lines \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:48 |
 | 176 | [Spoonful \- Spotify Singles](https://open.spotify.com/track/2g3tvzbWHcrP2I1IH4TDaC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Spotify Singles](https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR) | 2:25 |
-| 177 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
-| 178 | [Fuck They \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/39fzx9j370ejpus9l3OiYw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 2:33 |
+| 177 | [Fuck They \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/39fzx9j370ejpus9l3OiYw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 2:33 |
+| 178 | [Monster \- Spotify Singles](https://open.spotify.com/track/2EYDqen8Pftl3ENvqOs6fE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Monster \(Spotify Singles\)](https://open.spotify.com/album/62iTVhERPubeRu59a3HRqF) | 3:57 |
 | 179 | [Come Clean \- Spotify Singles](https://open.spotify.com/track/2gsWt9FOHIq4Z7p5CXUD9j) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Spotify Singles](https://open.spotify.com/album/3QmFCfJVhXpTDwNL5ozNug) | 2:39 |
 | 180 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 |
-| 181 | [Frozen \- Spotify Singles](https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 4:23 |
-| 182 | [Hate myself \- Spotify Singles](https://open.spotify.com/track/79KrPknij8FGaflUga6YII) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [Hate myself \- Spotify Singles](https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP) | 2:35 |
+| 181 | [Hate myself \- Spotify Singles](https://open.spotify.com/track/79KrPknij8FGaflUga6YII) | [林潔心](https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx) | [Hate myself \- Spotify Singles](https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP) | 2:35 |
+| 182 | [Frozen \- Spotify Singles](https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 4:23 |
 | 183 | [Starboy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 3:31 |
 | 184 | [Friends \- Spotify Singles](https://open.spotify.com/track/2KGVkBbgimzFotFamGtD2a) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 2:20 |
 | 185 | [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 |

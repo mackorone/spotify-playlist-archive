@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 
 > This is Evanescence\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,223 likes - 45 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,313 likes - 45 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 15 | [Lacrymosa](https://open.spotify.com/track/1M8YN6ekSgCnjc5UckHYpq) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
 | 16 | [Made Of Stone](https://open.spotify.com/track/28FTCznKZRfYwJVA9OmPif) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:33 |
 | 17 | [Tourniquet](https://open.spotify.com/track/46fyLy4W9HhAkcb67kLaAV) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 4:38 |
-| 18 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
+| 18 | [Farther Away](https://open.spotify.com/track/63Yk0ZcjJSv37O8Vy7PFZi) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:59 |
 | 19 | [All That I Am Living For](https://open.spotify.com/track/4iDQezFTnOwgnrPYiqQ6TP) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:48 |
 | 20 | [Lost In Paradise](https://open.spotify.com/track/7c8unZeNL9gI6Go9DgGYpb) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 4:42 |
 | 21 | [Haunted](https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:05 |
-| 22 | [Farther Away](https://open.spotify.com/track/63Yk0ZcjJSv37O8Vy7PFZi) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Lost Whispers](https://open.spotify.com/album/55VNOaV0zcQqGSrjOBHKVG) | 3:59 |
+| 22 | [Wasted On You](https://open.spotify.com/track/4aKT05gqcKBw2q6mnvzIzM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/5KbvYEF5b17V0ofM46iOVY) | 4:24 |
 | 23 | [Weight Of The World](https://open.spotify.com/track/1UfCIFhRr8Bci9LUJ68dvp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:37 |
 | 24 | [The End Of The Dream](https://open.spotify.com/track/39UzUACTcDknfjc7umPcuM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence](https://open.spotify.com/album/3U85Q4GtR0I3VwgDOKHttO) | 3:49 |
 | 25 | [A New Way To Bleed](https://open.spotify.com/track/3UkDyGtriDY7NzOJbF0rIH) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Evanescence \(Deluxe Version\)](https://open.spotify.com/album/0CHgu3JbE3Y0XQSejmQqLU) | 3:46 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3aj2q4.md) - [plain]
 | 44 | [Haunted \- Live From Le Zénith,France/2004](https://open.spotify.com/track/4CJGuGDU0Uf3Z9amdY5bji) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Anywhere But Home \(Live\)](https://open.spotify.com/album/5SpQ4sf9sXFWHgUKYCZSDF) | 4:04 |
 | 45 | [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 |
 
-Snapshot ID: `aNCRgAAAAAB2S5hN7ewYnQ9n43R6JE6t`
+Snapshot ID: `aNHjAAAAAACA+Yib2ojjHUuQBeJcu1Qr`

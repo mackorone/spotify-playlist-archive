@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Rodrigo Ogi, nill
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,567 likes - 74 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,568 likes - 74 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

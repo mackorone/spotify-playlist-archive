@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > Nyashinski steps up and takes the reins — 254 Flow in full Yariasu mode\. His sound, his picks, his vision of the game\. All Kenyan\. All Hip\-hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,687 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,842 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

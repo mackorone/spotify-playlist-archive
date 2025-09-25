@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: 우기 \(YUQI\)\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: cosmosy\)
 
-581 songs - 1 day 6 hr 11 min
+582 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 | 2025-01-21 | 2025-04-01 |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2021-02-28 | 2021-03-02 |
 | [High Horse](https://open.spotify.com/track/2YUUYGB1kMtXKTQ6ajAjTA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [High Horse](https://open.spotify.com/album/5XkpNffqz7WdtM1RrAQOvo) | 3:23 | 2025-03-04 | 2025-03-25 |
+| [HIGH=LOVE](https://open.spotify.com/track/00aGNVAvuz7BbTfXyqIu2E) | [cosmosy](https://open.spotify.com/artist/2tWtaN38sQRfSWij1d43tn) | [the a\(e\)nd](https://open.spotify.com/album/20AadKt47X13wv79tS33Yv) | 3:11 | 2025-09-24 |  |
 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2020-10-20 | 2023-08-08 |
 | [Hit the Floor](https://open.spotify.com/track/5DQc9DipgMf8sTBmW20rb7) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Visionary Vision <Performante>](https://open.spotify.com/album/7EyiFZBHva4Ra9vZVFuljs) | 2:57 | 2024-10-25 | 2024-11-02 |
 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 | 2022-07-04 | 2022-07-26 |
@@ -477,7 +478,7 @@
 | [Sticky](https://open.spotify.com/track/4e1aewX6ATPcdfQIqr7gqO) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Sticky](https://open.spotify.com/album/3p68B7ZhETVmNbOov8JcF5) | 2:37 | 2024-07-01 | 2025-09-10 |
 | [STRANGER](https://open.spotify.com/track/3SifPlW12FRs8OQP2VkXSi) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [STRANGER](https://open.spotify.com/album/5QUzffclUFjjFFZ1HmaB6X) | 2:46 | 2023-10-17 | 2023-11-23 |
 | [STRESS](https://open.spotify.com/track/0PYJrdwnsSDtk3G76yV1dj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Alivio](https://open.spotify.com/album/5NzrdLdqF0ZuAt51eSIORo) | 3:24 | 2025-02-12 | 2025-03-11 |
-| [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 | 2025-09-10 |  |
+| [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 | 2025-09-10 | 2025-09-25 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
 | [Super Shy](https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:34 | 2023-07-25 | 2023-10-30 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-25 | 2025-07-04 |

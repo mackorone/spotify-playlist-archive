@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3omIq8ziEt6.md) - [plain]
 
 > Timeless Latin hits\. A 5 años de 'Hawái'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,927,368 likes - 150 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,927,554 likes - 150 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: go!go!vanillas
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,405 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,439 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
-| 2 | [Track 1](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [SCARY MONSTER](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SCARY MONSTERS EP](https://open.spotify.com/album/3mWJos5NX3yC9QnpdCjvxD) | 3:04 |
 | 3 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 |
-| 4 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [](https://open.spotify.com/album/null) | 5:14 |
+| 4 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
 | 5 | [SO BAD](https://open.spotify.com/track/3Qa1rG4kSuGnmVHChIJUtU) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SO BAD](https://open.spotify.com/album/4Qln8io3Qbczk1OSHVTTtG) | 3:59 |
 | 6 | [未知](https://open.spotify.com/track/69crEVTaxE8QzYsI5brJzd) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [SILVER](https://open.spotify.com/album/2lsPukvTQoecJl3WKcS0kY) | 4:01 |
 | 7 | [朝凪](https://open.spotify.com/track/6CUbPRA9vVWqBc7ncQ8sfY) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [朝凪](https://open.spotify.com/album/0u6ouRVyJKDRASyr2CflFY) | 3:20 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 25 | [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 |
 | 26 | [怪獣](https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [怪獣](https://open.spotify.com/album/6ZdDbRk0av6Sm2E1auhWjT) | 4:12 |
 | 27 | [それしか言えない](https://open.spotify.com/track/4pGMj1OT9QPyQV5C5BlcEV) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [それしか言えない](https://open.spotify.com/album/479WTy9v0d0wWC960eTawU) | 4:24 |
-| 28 | [moonlit](https://open.spotify.com/track/61812KfVWT9RURx4idulmo) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [](https://open.spotify.com/album/null) | 3:03 |
+| 28 | [moonlit](https://open.spotify.com/track/61812KfVWT9RURx4idulmo) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/5LagsrycSYRRWlxea4l9yt) | 3:03 |
 | 29 | [Wandering](https://open.spotify.com/track/76AsVFk0KOGzpnlDcrSj0O) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Wandering](https://open.spotify.com/album/2MEbniyfZJNeCSzFtleDTE) | 3:33 |
 | 30 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
-| 31 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [](https://open.spotify.com/album/null) | 2:54 |
+| 31 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
 | 32 | [JOOOOKE](https://open.spotify.com/track/6XdHXowM9CEZICEQPu71F2) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [JOOOOKE](https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor) | 3:03 |
 | 33 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 34 | [SUNSET \- feat\. Yvette Young](https://open.spotify.com/track/0O6OWDBSCvVS3MHOYAfujL) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [SUNSET \(feat\. Yvette Young\)](https://open.spotify.com/album/0VIdKN62Kw7V0o7FdKK07p) | 4:13 |

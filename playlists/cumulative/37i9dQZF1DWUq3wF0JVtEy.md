@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-553 songs - 1 day 2 hr 54 min
+554 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Grimestar](https://open.spotify.com/track/2dJbz9Q2X33c7l9uCRxoy5) | [Starjunk 95](https://open.spotify.com/artist/523iXWyHL26prJR3GKjRhx) | [Grimestar](https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt) | 2:48 | 2022-12-02 | 2023-08-12 |
 | [Gucci Fendi Prada \- BYOR Remix](https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Gucci Fendi Prada \(BYOR Remix\)](https://open.spotify.com/album/34qSP54lisomdVGxqaDy08) | 2:07 | 2021-10-29 | 2022-06-24 |
 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 | 2023-01-06 | 2024-08-31 |
+| [Gwan](https://open.spotify.com/track/0gdRO9lOttSuGgk0MFxQ2C) | [Sam Collins](https://open.spotify.com/artist/60OCVcCxsNKT3VgR0hnDKx), [Sly Phil](https://open.spotify.com/artist/06SYIS4XW5dAf8BQYuOM48) | [Gwan](https://open.spotify.com/album/6MyVi0T4CyZkSjAlC29Isd) | 2:48 | 2025-09-12 |  |
 | [Hallucinate](https://open.spotify.com/track/1mpChy2KY9BMiIrimM3cXV) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [Eyes On You EP](https://open.spotify.com/album/4Kkj9lMLAjmrSOlETzGafy) | 2:52 | 2023-10-06 | 2023-11-25 |
 | [Hardcore](https://open.spotify.com/track/0mi7aK49tdp8ES22clJWAB) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [Hardcore](https://open.spotify.com/album/4SqFoofJnq03YWLgcz5YQS) | 2:08 | 2025-07-25 |  |
 | [Hardcore Vibes \- Radio Edit](https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Hardcore Vibes](https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2) | 2:41 | 2022-01-28 | 2022-08-06 |
@@ -223,7 +224,7 @@
 | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jelita](https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr) | [Have Me All \(feat\. Jelita\)](https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR) | 2:50 | 2021-10-29 | 2023-02-25 |
 | [Heartbeat](https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Diskover](https://open.spotify.com/artist/3YbWcfZCP1MPYvMzLxkvSI), [Willemijn May](https://open.spotify.com/artist/3HqQXlVVvoBiSiYRmyi1qV) | [Heartbeat](https://open.spotify.com/album/0MVgMaCm6Mw31VnAoliGiY) | 2:50 | 2021-10-29 | 2022-03-21 |
 | [Hello](https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Hello](https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh) | 2:21 | 2023-07-07 | 2025-05-26 |
-| [Hey You](https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Hey You](https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5) | 2:21 | 2025-08-22 |  |
+| [Hey You](https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93) | [Hey You](https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5) | 2:21 | 2025-08-22 | 2025-09-25 |
 | [High](https://open.spotify.com/track/0a6fl7K59Exm2hx0RKPJeE) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [High](https://open.spotify.com/album/7Jy8pNJlP3oWDeKIsFMquQ) | 3:12 | 2022-02-18 | 2023-02-26 |
 | [HIGH AGAIN](https://open.spotify.com/track/3EwmYpKAiJP0fNtUPBCdTQ) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5ZKIzX3mYYmiqZk6Izi3ZT) | 3:05 | 2023-12-08 | 2023-12-10 |
 | [HIGH AGAIN](https://open.spotify.com/track/5q0HCtQ07Vw2PoQtki30sW) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [RUMBLE IN THE DISCO](https://open.spotify.com/album/5lWro0c8Rek7HBvXeRKI46) | 3:05 | 2023-12-08 | 2024-04-19 |

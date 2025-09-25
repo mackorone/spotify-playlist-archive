@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,370 likes - 200 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,448 likes - 200 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

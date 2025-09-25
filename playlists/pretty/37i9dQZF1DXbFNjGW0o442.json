@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Marilina Bertoldi.",
-  "num_followers": 42861,
+  "num_followers": 42859,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-06-26 15:52:01",
       "album": {
-        "name": "Esquizofrenia",
-        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
-      },
-      "artists": [
-        {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
-        }
-      ],
-      "duration_ms": 188330,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
-    },
-    {
-      "added_at": "2025-06-26 15:52:01",
-      "album": {
         "name": "El Ataque de Zorrita",
         "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 158200,
       "name": "Est\u00e1s Borracho",
       "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
+    },
+    {
+      "added_at": "2025-06-26 15:52:01",
+      "album": {
+        "name": "Esquizofrenia",
+        "url": "https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 188330,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t"
     },
     {
       "added_at": "2025-06-26 15:52:01",

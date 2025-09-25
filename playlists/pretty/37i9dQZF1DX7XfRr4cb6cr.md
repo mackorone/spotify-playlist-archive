@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,721 likes - 150 songs - 12 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,840 likes - 150 songs - 12 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 55 | [A Small Pool of Water by the Graves](https://open.spotify.com/track/0tgkSqnkwivFFGmun3jkWh) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 4:41 |
 | 56 | [RITUAL \(evocation\)](https://open.spotify.com/track/7lBIa2pIbyIngZZQkaPjAK) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn), [7RAYS](https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx), [Ishq](https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F), [Cherif Hashizume](https://open.spotify.com/artist/7lZE7MhAkIglYSnJJB1nYj) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:51 |
 | 57 | [Tårlös sorg](https://open.spotify.com/track/2CqZDbBIDZ6mfEBU68gw5f) | [Isorinne](https://open.spotify.com/artist/60vRsBhM3tcwfKTkEUBAIc) | [Stumhetens toner](https://open.spotify.com/album/3sCyd3rTOvCmHUBAqt6cfd) | 5:04 |
-| 58 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
+| 58 | [Atlas](https://open.spotify.com/track/6i7i1fNug2GXwJXKbLTUDr) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/54yPuui7BKEJsys2JgMs7w) | 6:53 |
 | 59 | [Luna](https://open.spotify.com/track/2MEhiY4t1uYcq1MpkNzvWd) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [Luna](https://open.spotify.com/album/03VL92zMZKklDDcd5Js06l) | 6:06 |
 | 60 | [Norduris](https://open.spotify.com/track/4yrVOvpavSaPoD3MRRvx19) | [Wayai](https://open.spotify.com/artist/0xhgrV69CjEHK5pyK1iMAJ), [Johan Famaey](https://open.spotify.com/artist/3AxGH0DTPTiF54fxkXyjXV) | [Norduris](https://open.spotify.com/album/0ZE5abEJEESte7CMbOdnNR) | 4:11 |
 | 61 | [Ghostlore](https://open.spotify.com/track/4fYhvLW1p5inttamdBxDUC) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 6:49 |

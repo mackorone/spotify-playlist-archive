@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,090 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,131 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Sexy Chick \(feat\. Akon\)](https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [One More Love](https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI) | 3:14 |
 | 50 | [Never Really Mattered](https://open.spotify.com/track/2ZcimQZ0Kpv4gcU2HUyOms) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [SIMIEN](https://open.spotify.com/artist/0IzBfoIbXMYXpBFV7oCsCm) | [Never Really Mattered](https://open.spotify.com/album/1R3wN06RH7P3nqAloY0f4U) | 3:19 |
 
-Snapshot ID: `aNCRgAAAAAA0I6DTZ6uZ9IPmcpwaT8ML`
+Snapshot ID: `aNHjAAAAAABHtg8Zw9fA5iLyYejH34Nj`

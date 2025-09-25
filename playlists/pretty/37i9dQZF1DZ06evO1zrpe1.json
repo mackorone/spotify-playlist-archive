@@ -1,6 +1,6 @@
 {
   "description": "This is Adriana R\u00edos. The essential tracks, all in one playlist.",
-  "num_followers": 509,
+  "num_followers": 510,
   "original_name": "This Is Adriana R\u00edos",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 223883,
-      "name": "Ya No Me Importa",
-      "url": "https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Este Coraz\u00f3n",
         "url": "https://open.spotify.com/album/38nAVrZCvLZG6gGas28yd2"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 227605,
       "name": "Este Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2J1DaejaydbQARqL1sj3sr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 223883,
+      "name": "Ya No Me Importa",
+      "url": "https://open.spotify.com/track/6T684u0tL0gliUK6Wb0z3X"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Qu\u00e9 No Me Esperaste?",
+        "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 200095,
+      "name": "Por Qu\u00e9 No Me Esperaste?",
+      "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contundente",
         "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 No Me Esperaste?",
-        "url": "https://open.spotify.com/album/1hWml9piZCciySPV41eXkR"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 200095,
-      "name": "Por Qu\u00e9 No Me Esperaste?",
-      "url": "https://open.spotify.com/track/3KZfQdJfUntlGLmPlMHg0q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm"
       },
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "La Catedral",
-      "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre la Guerra y el Amor",
         "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 178826,
       "name": "Entre la Guerra y el Amor",
       "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "La Catedral",
+      "url": "https://open.spotify.com/track/1EZ8KQkKTZlAKVGKJGgfaS"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contundente",
-        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
+        "name": "Asi Suena con Tequila",
+        "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
+      "duration_ms": 164272,
+      "name": "El que Quiero que Me Quiera",
+      "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cigarra",
-        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+        "name": "Contundente",
+        "url": "https://open.spotify.com/album/3rTyeuM7gwK5W9kVKimkdm"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 241726,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Asi Suena con Tequila",
-        "url": "https://open.spotify.com/album/6wQ8UntXURhCMqbXqdPKEW"
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/54PHqFPXNjmvnoGKsuN6r8"
       },
       "artists": [
         {
@@ -364,9 +364,25 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 164272,
-      "name": "El que Quiero que Me Quiera",
-      "url": "https://open.spotify.com/track/0U3ByQq0hGY3gdmBphT8oe"
+      "duration_ms": 182122,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/7ebYaUMVJCLVtD4SB16Mum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cigarra",
+        "url": "https://open.spotify.com/album/1tLktQp93a09iikH7GVb5t"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 241726,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/7Bf08fFrNYt08PjCD3xsxb"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uno de los Buenos",
-        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 176768,
-      "name": "Uno de los Buenos",
-      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
       },
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Acab\u00f3",
-        "url": "https://open.spotify.com/album/54PHqFPXNjmvnoGKsuN6r8"
+        "name": "Uno de los Buenos",
+        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 182122,
-      "name": "Se Acab\u00f3",
-      "url": "https://open.spotify.com/track/7ebYaUMVJCLVtD4SB16Mum"
+      "duration_ms": 176768,
+      "name": "Uno de los Buenos",
+      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
     },
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Tijuana",
-        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
       },
       "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 186986,
-      "name": "Le\u00f1a De Pirul",
-      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
     },
     {
       "added_at": null,
@@ -623,18 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+        "name": "En Vivo Desde Tijuana",
+        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
       },
       "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
+      "duration_ms": 186986,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/0lEyhGy7iaERlW7CdQ1zYj"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 251147,
-      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00f3nde Est\u00e1n?",
         "url": "https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 253147,
       "name": "D\u00f3nde Est\u00e1n?",
       "url": "https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Est\u00e1 en Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2i8JdiTs4GglQzJoNvtLCH"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 251147,
+      "name": "Est\u00e1 en Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4JAYKgGPdfLn6UOdkEAGDE"
     },
     {
       "added_at": null,

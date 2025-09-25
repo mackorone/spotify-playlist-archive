@@ -2331,6 +2331,24 @@
     },
     {
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/0JHgCYQ3U5OoLfiDC6Pjib"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141863,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/5LAptbUhdbsbUUhoV3Q1Oy"
+    },
+    {
+      "album": {
         "name": "Poems",
         "url": "https://open.spotify.com/album/6VYkb4InDz4hHgarKcC8LH"
       },
@@ -7322,6 +7340,24 @@
       "duration_ms": 184000,
       "name": "Normandy",
       "url": "https://open.spotify.com/track/1YNaLcWs5k4sEZ8qmROYg0"
+    },
+    {
+      "album": {
+        "name": "Nostrella",
+        "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
+      },
+      "artists": [
+        {
+          "name": "Henry Diamante",
+          "url": "https://open.spotify.com/artist/3bBg4n36HaffB9ZolP3pl7"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156321,
+      "name": "Nostrella",
+      "url": "https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS"
     },
     {
       "album": {

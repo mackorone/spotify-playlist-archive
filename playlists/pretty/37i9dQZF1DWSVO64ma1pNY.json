@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 299318,
+  "num_followers": 299346,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Getting Away With Murder",
-        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 191372,
-      "name": "Getting Away With Murder",
-      "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "The Strange Case of...",
         "url": "https://open.spotify.com/album/1d9fNpMEICkIPnJ3r6EG3A"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 191333,
       "name": "Love Bites (So Do I)",
       "url": "https://open.spotify.com/track/0hKLGoFtQiMHUzmquTyzpS"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Getting Away With Murder",
+        "url": "https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 191372,
+      "name": "Getting Away With Murder",
+      "url": "https://open.spotify.com/track/40dHZ1HyySmu9FmTINRbqM"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Overcome",
-        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Life Support / Ms. Supernova",
         "url": "https://open.spotify.com/album/7F8VcXy0BU3Q02MEQjE5jy"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 191493,
       "name": "Life Support",
       "url": "https://open.spotify.com/track/3lZPoo1ZChb1CtEPtWQlhQ"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Overcome",
+        "url": "https://open.spotify.com/album/24nlaQLa3nx87nBaS9j35W"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/18q5OmlDTbSm8w9J1i17dT"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Freak Show",
-        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
-      },
-      "artists": [
-        {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Learn to Hate",
-      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Spiralling Out",
         "url": "https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Money (Hope Ain\u2019t Gone)",
-        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "Silverchair",
+          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
         }
       ],
-      "duration_ms": 246139,
-      "name": "Money (Hope Ain\u2019t Gone)",
-      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+      "duration_ms": 258466,
+      "name": "Learn to Hate",
+      "url": "https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1303,6 +1287,22 @@
       "duration_ms": 178804,
       "name": "Got It Bad",
       "url": "https://open.spotify.com/track/5xpFAhYwM5ITYFEW5y5BER"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Money (Hope Ain\u2019t Gone)",
+        "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 246139,
+      "name": "Money (Hope Ain\u2019t Gone)",
+      "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/2VXqjyaaqRellg8cw99QVy"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 207620,
       "name": "Fuct",
       "url": "https://open.spotify.com/track/75yrIKGSnzJxnmNgGqv5nF"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Fail You",
-        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "Fail You",
-      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+        "name": "Fail You",
+        "url": "https://open.spotify.com/album/61vbfezZOW5EoWGZjQFqur"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 211321,
-      "name": "Uzumaki",
-      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
+      "duration_ms": 186052,
+      "name": "Fail You",
+      "url": "https://open.spotify.com/track/5TJY2hDoYeTjUrOlXFwK8c"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Circling the Drain",
-        "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
-      },
-      "artists": [
-        {
-          "name": "Microwave",
-          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
-        }
-      ],
-      "duration_ms": 229192,
-      "name": "Circling the Drain",
-      "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 345133,
       "name": "Buddha For Mary",
       "url": "https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Circling the Drain",
+        "url": "https://open.spotify.com/album/4qX60Bh8duOt4rWkZ3oK2g"
+      },
+      "artists": [
+        {
+          "name": "Microwave",
+          "url": "https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD"
+        }
+      ],
+      "duration_ms": 229192,
+      "name": "Circling the Drain",
+      "url": "https://open.spotify.com/track/5HNNu02Psy9WwWNuNlLlie"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Never Ending Moment",
-        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 257946,
-      "name": "Never Ending Moment",
-      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Cheap Grills",
         "url": "https://open.spotify.com/album/3OicTD14V4nO5N1lLvcKRz"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 233146,
       "name": "California King",
       "url": "https://open.spotify.com/track/2Outc4FsFTt0k1W1qO1fV5"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Never Ending Moment",
+        "url": "https://open.spotify.com/album/313xyg9CxQWvoeOvih1QOW"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Never Ending Moment",
+      "url": "https://open.spotify.com/track/4LltjSEOq80cOSFeIM6LOz"
     },
     {
       "added_at": "2024-12-03 09:27:47",

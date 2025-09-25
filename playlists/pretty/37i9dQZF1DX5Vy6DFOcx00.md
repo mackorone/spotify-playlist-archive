@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,185,335 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,184,883 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 31 | [Diet Mountain Dew](https://open.spotify.com/track/4O9dZs2B0ilk4PEfX2bPEv) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 3:42 |
 | 32 | [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 |
 | 33 | [New Computers](https://open.spotify.com/track/7aIahgucbPyoQldWIQYiUe) | [Girlfriends](https://open.spotify.com/artist/02eZaSqr4w3FTDeabE8KjG) | [Girlfriends](https://open.spotify.com/album/2VH5Js2qDL1A4wZbAy5JDW) | 2:10 |
-| 34 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 34 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 35 | [Puppet](https://open.spotify.com/track/5EphWkRuqee9EE3Ubm1XCy) | [John Michael Howell](https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP) | [Puppet](https://open.spotify.com/album/1WnVA6pu7yWWKDysSpzGW8) | 2:14 |
 | 36 | [Unlike Me](https://open.spotify.com/track/2wMFYDBxpzEzx7oaprQOjA) | [Kate Havnevik](https://open.spotify.com/artist/6lb32Pf1I52GnEfnDlu9FR) | [Melankton](https://open.spotify.com/album/2NzMudtTNLFDvocuGWUKIX) | 4:43 |
 | 37 | [under the mat](https://open.spotify.com/track/3t6vhRYuIpX4zlHCTC2h1d) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:44 |

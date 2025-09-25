@@ -4,7 +4,7 @@
 
 > Instrumental beats to lock\-in.
 
-1,085 songs - 1 day 17 hr 56 min
+1,087 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [city lights](https://open.spotify.com/track/40wyi0mBN9iJWvdYUnYbUI) | [flwrz](https://open.spotify.com/artist/1e6Ke7g6UOnYMqXt4Da9kU) | [city lights](https://open.spotify.com/album/09BvRWVWRBNQ471rGLMXeE) | 2:36 | 2022-12-09 | 2023-10-20 |
 | [City Lights](https://open.spotify.com/track/6MyvaNGQdY1j36y7yRWpUn) | [Ghostrifter Official](https://open.spotify.com/artist/1mIePRs1ixMW0gTaTSbX2p) | [City Lights](https://open.spotify.com/album/6v2B9nnoNASOyxxM9RW339) | 2:36 | 2022-07-22 | 2023-01-20 |
 | [City Park](https://open.spotify.com/track/4lqEtgytnO3H4tDwLV3Tj3) | [Fleet Francis](https://open.spotify.com/artist/0USAl4ZgyskdW7gADLZkdn) | [City Park](https://open.spotify.com/album/6f5JLzj6RhOYa15xlLAlFX) | 2:30 | 2022-04-15 | 2022-05-20 |
-| [City Street Lights](https://open.spotify.com/track/1decUBYIaNKNnM3wsglx9L) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [City Street Lights](https://open.spotify.com/album/1eG90XHoCRt8GvAeR8UYQg) | 2:56 | 2025-08-22 |  |
+| [City Street Lights](https://open.spotify.com/track/1decUBYIaNKNnM3wsglx9L) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [City Street Lights](https://open.spotify.com/album/1eG90XHoCRt8GvAeR8UYQg) | 2:56 | 2025-08-22 | 2025-09-25 |
 | [City Walks at 4am](https://open.spotify.com/track/3QNjS4n8aWfE8zCH3cGpLR) | [BKLYN SoundScapes](https://open.spotify.com/artist/3MMMx0i7Oy2aJgML2Y8cMP) | [City Walks at 4am](https://open.spotify.com/album/57i8K8SOoIaEeEfeDBKtKC) | 1:54 | 2025-06-07 | 2025-06-09 |
 | [clear my mind](https://open.spotify.com/track/7rP9HuRgLcz174Kvh3RDwS) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [clear my mind](https://open.spotify.com/album/77b3Tv4gmHGz7kMOZQmaH4) | 2:20 | 2024-10-25 | 2024-12-11 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-08 |  |
@@ -664,6 +664,7 @@
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-04-03 | 2023-10-06 |
 | [Papa Knows Best](https://open.spotify.com/track/2TLIc551287wxILT6GOeou) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Papa Knows Best](https://open.spotify.com/album/3aSXNNj8XoYJZ5tOPPsH2w) | 2:12 | 2024-02-09 |  |
 | [Paper Bag](https://open.spotify.com/track/0feI2qZLlaapheeJeznYwZ) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Paper Bag](https://open.spotify.com/album/05czxzdMeLHHvWUfar0Fbz) | 2:34 | 2022-12-16 | 2023-09-08 |
+| [Paper Rain](https://open.spotify.com/track/5HaQk2gd9i7WMxhXgMCFne) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Paper Rain](https://open.spotify.com/album/2S06ohAN90qkXMJxlG5AZU) | 1:56 | 2025-09-24 |  |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 | 2025-07-26 |
 | [Part of a Major Thing](https://open.spotify.com/track/0TKb90PdBwdfm2zef0dWcT) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Part of a Major Thing](https://open.spotify.com/album/2qyXoY0yDcre1E03jg7AYF) | 2:46 | 2022-04-15 | 2022-10-14 |
 | [Passing Through](https://open.spotify.com/track/7ttge778TfRLBn7Rk7WlJr) | [dreams of saola](https://open.spotify.com/artist/1GT8FB8O4CQEgEKKZ4TUvA) | [Passing Through](https://open.spotify.com/album/0ZaC7BkXJC8bQ5rUgcZctj) | 2:58 | 2022-04-15 | 2022-06-03 |
@@ -672,7 +673,7 @@
 | [Pastel Colors](https://open.spotify.com/track/3adHiNQiJy8aYFVAfIDcS5) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Celebrate You](https://open.spotify.com/album/6mur5z1CltJszyCwJFjLJx) | 2:31 | 2022-04-15 | 2022-10-14 |
 | [Pause](https://open.spotify.com/track/1c1d4vCj0radiOiVMb4VYF) | [Mi Ka](https://open.spotify.com/artist/7rbh86THQLpEnUvTQ9lAL4) | [Pause](https://open.spotify.com/album/6WgFSUiSPTpY35ajZfLNFI) | 2:54 | 2022-07-22 | 2022-11-20 |
 | [Pause](https://open.spotify.com/track/1wbCJkX2qff7wTqVHou8Ow) | [Mi Ka](https://open.spotify.com/artist/7rbh86THQLpEnUvTQ9lAL4) | [Pause](https://open.spotify.com/album/4YkSDC2P672kF8PfVpMeXY) | 2:54 | 2022-11-11 | 2023-07-20 |
-| [Pavement](https://open.spotify.com/track/68bDTt4iNSpb0FH2gugH9w) | [Velvet Static](https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1) | [Pavement](https://open.spotify.com/album/0NclXGKk4PoMhcMpBXzreC) | 2:16 | 2025-09-12 |  |
+| [Pavement](https://open.spotify.com/track/68bDTt4iNSpb0FH2gugH9w) | [Velvet Static](https://open.spotify.com/artist/0gvY5ddNmoAw3UdKk4pUE1) | [Pavement](https://open.spotify.com/album/0NclXGKk4PoMhcMpBXzreC) | 2:16 | 2025-09-12 | 2025-09-25 |
 | [Peaceful Ghost](https://open.spotify.com/track/0xHlJoGrK2vxMT4rBOGqy5) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Peaceful Ghost](https://open.spotify.com/album/0F5PTu1lq5AbjV8ZSr7Qzx) | 2:21 | 2023-09-22 | 2025-07-19 |
 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 | 2022-04-15 | 2025-07-10 |
 | [Peck](https://open.spotify.com/track/3xgFr4QwSRmIVqllKr6xkX) | [Le Pug](https://open.spotify.com/artist/6yZmHLd4W5wktJ1J690SSL) | [Peck](https://open.spotify.com/album/3DhrVEfaXbnnScAh2FIVRO) | 1:50 | 2022-04-15 | 2025-07-10 |
@@ -1038,6 +1039,7 @@
 | [want ya](https://open.spotify.com/track/6HV10yCjxRNOM0prvTdfhj) | [jelaquest](https://open.spotify.com/artist/2vkUei6EdRcTOJtsH5hJeX) | [want ya](https://open.spotify.com/album/4d75yP2t7jB1gBRsPNt7S9) | 2:18 | 2022-04-15 | 2022-07-29 |
 | [warm & orange](https://open.spotify.com/track/6wXSZsRZ1vxooWZ4W9yWHG) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [warm & orange](https://open.spotify.com/album/4jvL1JGNrNs90TPPvE6iXW) | 3:06 | 2023-01-20 |  |
 | [Warm Breeze](https://open.spotify.com/track/5728OBye3peeIkv9qlps0H) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Warm Breeze](https://open.spotify.com/album/0Bm5guq2GPsGYGhfGo5PJu) | 2:24 | 2022-04-15 | 2022-07-08 |
+| [Warm Light, Cold Rain](https://open.spotify.com/track/52Bud0dXCjqlbzxp32yjYu) | [Moonloop](https://open.spotify.com/artist/4mHQKN5WYx4x5Ynwx91ZGg) | [Warm Light, Cold Rain](https://open.spotify.com/album/6ONqrZvrFKU9wWaPi9ITV3) | 2:20 | 2025-09-24 |  |
 | [Wasser Light](https://open.spotify.com/track/0UOf1ZcsrHG2GHpCuOaWwh) | [Wyl](https://open.spotify.com/artist/0WfdC8rfPxrkSrNSCaC4xU), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Lukas Wilmsmeyer](https://open.spotify.com/artist/3LYMmlImII8FtmGZvZxdvv) | [Wasser Light & Oceania](https://open.spotify.com/album/2cELdSNVgZS5OygdU1xjUx) | 3:09 | 2022-04-15 | 2022-05-20 |
 | [Watanabe](https://open.spotify.com/track/7vIxfxNI94g3qeGJ6xoJBA) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Watanabe](https://open.spotify.com/album/0qobFyLAWz1SHcc8vmlQaK) | 1:59 | 2022-04-15 | 2022-07-22 |
 | [Water under the Bridge](https://open.spotify.com/track/2hkWgVbqRizZklKGPInc5x) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Rare Breed](https://open.spotify.com/album/7qVNP2v7tcpoOnEEnObYej) | 3:27 | 2022-04-15 | 2023-07-20 |

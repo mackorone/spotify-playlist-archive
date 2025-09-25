@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,227 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,231 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [The Devil's Daughter](https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 5:14 |
 | 50 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
 
-Snapshot ID: `aNCRgAAAAADJpkmkZ5y6NXyQuEEfMN3T`
+Snapshot ID: `aNHjAAAAAAD4Luu/uMqSz66CdzExmub/`

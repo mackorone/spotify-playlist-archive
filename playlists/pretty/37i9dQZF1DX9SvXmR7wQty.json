@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Bobby Bazini",
-  "num_followers": 46237,
+  "num_followers": 46243,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 186506,
+      "name": "Restes d'averses",
+      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "En Attendant Paphos",
         "url": "https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 160891,
       "name": "Kappa",
       "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Coeur maladroit",
-        "url": "https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 186506,
-      "name": "Restes d'averses",
-      "url": "https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx"
     },
     {
       "added_at": "2025-08-01 04:00:28",

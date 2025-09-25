@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Kirnbauer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,533 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,547 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 39 | [Lagrimas derramadas](https://open.spotify.com/track/7FGduSCJxpdDSsDlJmXflr) | [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [HAT](https://open.spotify.com/artist/5TsAOFIiXfD0fTJF2wscJI), [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718) | [Lagrimas derramadas](https://open.spotify.com/album/396hukAGIHUkc06vZsoVdA) | 3:20 |
 | 40 | [Lenguaje Universal](https://open.spotify.com/track/7pwWmrmWNK1QBTypB8Fyit) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Lenguaje Universal](https://open.spotify.com/album/6hAmWesJ6RymjaRafBBpwO) | 3:00 |
 | 41 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
-| 42 | [La distancia se reduce](https://open.spotify.com/track/33RZJL7nkjOLtCch8VpJCS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [La distancia se reduce](https://open.spotify.com/album/4M09EtSfmbcwfeWcUDd80n) | 4:39 |
-| 43 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
+| 42 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
+| 43 | [La distancia se reduce](https://open.spotify.com/track/33RZJL7nkjOLtCch8VpJCS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [La distancia se reduce](https://open.spotify.com/album/4M09EtSfmbcwfeWcUDd80n) | 4:39 |
 | 44 | [En Cualquier Lugar](https://open.spotify.com/track/58vJuilqgm3folaBEx12ac) | [Antuan.](https://open.spotify.com/artist/1DqhnQn8VUtJiNtENJ520y) | [En Cualquier Lugar](https://open.spotify.com/album/0xOHml2OgwfR8DqTiWlr2r) | 3:29 |
 | 45 | [Matarte](https://open.spotify.com/track/4VWrc4ef7OzTaebkQ97KqG) | [KINKY LOVER](https://open.spotify.com/artist/6atnQAeriB4Ql9r9MuVlIm) | [Matarte](https://open.spotify.com/album/5OyTh8zezlofXY4p5rq1Al) | 3:31 |
 | 46 | [En Todas Partes](https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL) | [Micaela Salaverry](https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [En Todas Partes](https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof) | 3:37 |

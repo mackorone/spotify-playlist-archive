@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
-| 2 | [Live My Life](https://open.spotify.com/track/71lnolmea3IZeG90Gj7jHg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4) | 2:39 |
-| 3 | [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 |
+| 2 | [M.I.A](https://open.spotify.com/track/4vyQ2NdodXhtMGsaaMBqSt) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 2:09 |
+| 3 | [Live My Life](https://open.spotify.com/track/71lnolmea3IZeG90Gj7jHg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/3vk3MR4IL2EMC4ksN5pCo4) | 2:39 |
 | 4 | [Sarkaare](https://open.spotify.com/track/2o9flwCy1QzBc6VEwcPooM) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [NEW LIFE](https://open.spotify.com/album/1ERhZcW27LyJkW1w0hy8Tt) | 2:43 |
 | 5 | [Miracle](https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:43 |
 | 6 | [Blue Blood](https://open.spotify.com/track/2avdbiswb0d5AFmyyz68xP) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:47 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 15 | [Tell My Momma](https://open.spotify.com/track/1LlDCKs0Ep6Gmc2HNa7WUI) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [Where To Now? \(Part.1 : Yellow Light\)](https://open.spotify.com/album/31YiGSZjVbycG39MBWVecK) | 3:35 |
 | 16 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 |
 | 17 | [Red](https://open.spotify.com/track/2yZDl0edy9OfH2a8W9ynbK) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Red](https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2) | 3:26 |
-| 18 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
-| 19 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
+| 18 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
+| 19 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 |
 | 20 | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/track/0rwaGvuSd4rCKuCt9w82Nm) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [It Isn't Me \(with KSHMR\)](https://open.spotify.com/album/5at4UMpAW5bTh8d4jLeUmz) | 3:36 |
 | 21 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
 | 22 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 62 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 | 63 | [Disappointed](https://open.spotify.com/track/6mqw63eipmNwS74xCslQDi) | [Sophia Brenan](https://open.spotify.com/artist/0VEeqX29DGzL9KKwqacHtb) | [Deutsche Pop / United Pop: Campus Compilation 4th Edition](https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4) | 3:06 |
 
-Snapshot ID: `Ab9BngAAAACCkfXIczKLKlBdu6kQrHhp`
+Snapshot ID: `Ab9HXAAAAAC5BXjlsQsaOM4XCG6KeM5Q`

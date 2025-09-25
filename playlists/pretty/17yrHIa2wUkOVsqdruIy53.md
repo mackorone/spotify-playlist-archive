@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/17yrHIa2wUkOVsqdruIy53.md) - [plain]
 
 > Die erfolgreichsten in einer Woche gestreamten Songs \- alle Genres, alle Plattformen.
 
-[GfK Entertainment](https://open.spotify.com/user/1130224284) - 4,007 likes - 100 songs - 5 hr 6 min
+[GfK Entertainment](https://open.spotify.com/user/1130224284) - 4,005 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

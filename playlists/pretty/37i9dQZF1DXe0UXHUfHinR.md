@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,453 likes - 500 songs - 1 day 16 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,596 likes - 500 songs - 1 day 16 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

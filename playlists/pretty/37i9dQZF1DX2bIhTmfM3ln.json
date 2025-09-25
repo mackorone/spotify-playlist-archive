@@ -1,6 +1,6 @@
 {
   "description": "Single people dey suffer",
-  "num_followers": 46250,
+  "num_followers": 46775,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,42 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "numero",
+        "url": "https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "duration_ms": 147878,
+      "name": "numero",
+      "url": "https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
+        "name": "Screaming Beauty",
+        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "Screaming Beauty",
+      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "Control (with Joeboy & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3Uw9jJDZqTVdE0JAl7Za1a"
       },
@@ -519,42 +555,6 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "numero",
-        "url": "https://open.spotify.com/album/6VbnEZlNrGnRD3Jml0UyPV"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        }
-      ],
-      "duration_ms": 147878,
-      "name": "numero",
-      "url": "https://open.spotify.com/track/06CMmOHVZXX6zJoZBZcBE6"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
         "name": "Oh No",
         "url": "https://open.spotify.com/album/6KvaVWRLV9UA9fc8xy5sEb"
       },
@@ -575,22 +575,22 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Screaming Beauty",
-        "url": "https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP"
+        "name": "Mwah!",
+        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
       "artists": [
         {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         },
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Screaming Beauty",
-      "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
+      "duration_ms": 128000,
+      "name": "Mwah!",
+      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -635,22 +635,22 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Mwah!",
-        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
+        "name": "Over The Moon",
+        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
       },
       "artists": [
         {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         },
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Mwah!",
-      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+      "duration_ms": 165714,
+      "name": "Over The Moon",
+      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Who Is Big Banju",
-        "url": "https://open.spotify.com/album/7yIj6m5wHxmHxk2Lmgue2m"
+        "name": "DIANA",
+        "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
       },
       "artists": [
         {
-          "name": "BIG BANJU",
-          "url": "https://open.spotify.com/artist/5SiinrhJnoLQv6buf3IQwp"
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Friyie",
+          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
         }
       ],
-      "duration_ms": 172427,
-      "name": "In Love with You",
-      "url": "https://open.spotify.com/track/22ChegU5K3Yv2BOE5Il3QO"
+      "duration_ms": 140481,
+      "name": "DIANA",
+      "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
+        "name": "Who Is Big Banju",
+        "url": "https://open.spotify.com/album/7yIj6m5wHxmHxk2Lmgue2m"
+      },
+      "artists": [
+        {
+          "name": "BIG BANJU",
+          "url": "https://open.spotify.com/artist/5SiinrhJnoLQv6buf3IQwp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "In Love with You",
+      "url": "https://open.spotify.com/track/22ChegU5K3Yv2BOE5Il3QO"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
         "name": "A KID WITH A DREAM (AKWAD)",
         "url": "https://open.spotify.com/album/0SDU4FpbAxUz2LrdXwyS7S"
       },
@@ -1127,6 +1147,22 @@
       "duration_ms": 155141,
       "name": "IFEOMA",
       "url": "https://open.spotify.com/track/3E6EHZ4a2n5zP7eNK45lfZ"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
+      },
+      "artists": [
+        {
+          "name": "Morravey",
+          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "You",
+      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1151,38 +1187,18 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "DIANA",
-        "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
+        "name": "Wife Material",
+        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
       },
       "artists": [
         {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        },
-        {
-          "name": "Friyie",
-          "url": "https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08"
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
         }
       ],
-      "duration_ms": 140481,
-      "name": "DIANA",
-      "url": "https://open.spotify.com/track/4pnYLkRARBdbJsN5Fd3lkE"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/5fX4wJj1nC4s3JBYt3Kgos"
-      },
-      "artists": [
-        {
-          "name": "Morravey",
-          "url": "https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "You",
-      "url": "https://open.spotify.com/track/1h8z2YMLIVEKxGqrALyjx2"
+      "duration_ms": 177421,
+      "name": "Wife Material",
+      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Wife Material",
-        "url": "https://open.spotify.com/album/4hH5VeAbU4y9AHqYKA8G3G"
+        "name": "Give Me Love",
+        "url": "https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce"
       },
       "artists": [
         {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+          "name": "Africaine",
+          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
         }
       ],
-      "duration_ms": 177421,
-      "name": "Wife Material",
-      "url": "https://open.spotify.com/track/1bmj7lWyUHD9vhtS50WXyC"
+      "duration_ms": 152258,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 153803,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
-        "name": "Give Me Love",
-        "url": "https://open.spotify.com/album/3jvJ4pNR7g5dx8lMpOapce"
-      },
-      "artists": [
-        {
-          "name": "Africaine",
-          "url": "https://open.spotify.com/artist/1zS57YVtuOi5HChrk22mT7"
-        }
-      ],
-      "duration_ms": 152258,
-      "name": "Give Me Love",
-      "url": "https://open.spotify.com/track/6cY0fjp5NovZyTKdaEivYW"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1327,6 +1327,26 @@
       "duration_ms": 181176,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4KEBHEiQve5RAIgX1LPYzw"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
+        "name": "Sunny Ade",
+        "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
+      },
+      "artists": [
+        {
+          "name": "STUBBORN",
+          "url": "https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM"
+        },
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 167198,
+      "name": "Sunny Ade",
+      "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
     },
     {
       "added_at": "2025-09-19 08:58:00",
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Sunny Ade",
-        "url": "https://open.spotify.com/album/5hROBIPqx6GVuD3VBJXomt"
-      },
-      "artists": [
-        {
-          "name": "STUBBORN",
-          "url": "https://open.spotify.com/artist/5AXtD0IaCzg0nR89emFxFM"
-        },
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        }
-      ],
-      "duration_ms": 167198,
-      "name": "Sunny Ade",
-      "url": "https://open.spotify.com/track/5P8ieVB0mCFuSAEHvvml70"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
         "name": "131 (EP)",
         "url": "https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO"
       },
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2025-09-19 08:58:00",
       "album": {
-        "name": "Check & Balance",
-        "url": "https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx"
-      },
-      "artists": [
-        {
-          "name": "Synnex Music",
-          "url": "https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB"
-        },
-        {
-          "name": "Musta4a",
-          "url": "https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9"
-        }
-      ],
-      "duration_ms": 156786,
-      "name": "Check & Balance",
-      "url": "https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5"
-    },
-    {
-      "added_at": "2025-09-19 08:58:00",
-      "album": {
         "name": "BIRDS OF A FEATHER (B.O.A.F)",
         "url": "https://open.spotify.com/album/5npAPJDHjIVCoTypP4TP7G"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 136202,
       "name": "Ogologo",
       "url": "https://open.spotify.com/track/6qmFmnzZb0SkKoqO2p4oHg"
+    },
+    {
+      "added_at": "2025-09-19 08:58:00",
+      "album": {
+        "name": "Check & Balance",
+        "url": "https://open.spotify.com/album/0uUfej33gYq7PBysLcmBBx"
+      },
+      "artists": [
+        {
+          "name": "Synnex Music",
+          "url": "https://open.spotify.com/artist/1wOg4RKiG4cS1EcELL7gdB"
+        },
+        {
+          "name": "Musta4a",
+          "url": "https://open.spotify.com/artist/4if5dwAkHl7FZNCJTIB5e9"
+        }
+      ],
+      "duration_ms": 156786,
+      "name": "Check & Balance",
+      "url": "https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5"
     },
     {
       "added_at": "2025-09-19 08:58:00",

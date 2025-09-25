@@ -1,6 +1,6 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 47665,
+  "num_followers": 47705,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arriba Guasave (Chapito Isidro)",
         "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 171200,
       "name": "Arriba Guasave (Chapito Isidro)",
       "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/2xrbCG92PwLpKWUAWD4Wv3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
     },
     {
       "added_at": null,

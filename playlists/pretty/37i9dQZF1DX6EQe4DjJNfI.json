@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
-  "num_followers": 183361,
+  "num_followers": 183382,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
+        "name": "Ci\u00fame",
+        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 200522,
+      "name": "Ci\u00fame",
+      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
         "name": "Que Confus\u00e3o, Amor - Spotify Singles",
         "url": "https://open.spotify.com/album/0EWMAQNKdQnyvlumh8GOEF"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "Ci\u00fame",
-        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 200522,
-      "name": "Ci\u00fame",
-      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -343,18 +343,22 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "De Lua",
-        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
       "artists": [
         {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 192573,
-      "name": "De Lua",
-      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -383,22 +387,18 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
+        "name": "De Lua",
+        "url": "https://open.spotify.com/album/3MvCq8E1mKvvBr0fvjFmCY"
       },
       "artists": [
         {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
         }
       ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+      "duration_ms": 192573,
+      "name": "De Lua",
+      "url": "https://open.spotify.com/track/2pnhhyzxoMArmMcsDUTIi8"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/0uVLNBvgHwsZ9hZdJiVOD9"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 147321,
       "name": "Fim do Mundo",
       "url": "https://open.spotify.com/track/20tCRW9BLgyBXSdiprQ6bB"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -507,30 +507,6 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Tira minha paz",
-      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
         "name": "Melodia&Barulho",
         "url": "https://open.spotify.com/album/1WWKBiKHbBKpuPjI6rvKYR"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 177468,
       "name": "Inoc\u00eancia",
       "url": "https://open.spotify.com/track/37s9yWpkR1G0s4U37KMxzL"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Tira minha paz",
+      "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -751,6 +751,30 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
+        "name": "Auge",
+        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "iceton",
+          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
+        }
+      ],
+      "duration_ms": 190286,
+      "name": "Auge",
+      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
         "name": "Brincando De Amor",
         "url": "https://open.spotify.com/album/60nE5JzmHem9RGHRBRAzhv"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
-        "name": "Auge",
-        "url": "https://open.spotify.com/album/3VeBQmFmne7gU4xU6jqlGu"
-      },
-      "artists": [
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "iceton",
-          "url": "https://open.spotify.com/artist/4YdNIaHjaCJJLynr1SP6Bj"
-        }
-      ],
-      "duration_ms": 190286,
-      "name": "Auge",
-      "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 181514,
       "name": "Daqui pra Frente - Dread Session, Vol. 1",
       "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
         "name": "REAL R&B, Vol. 2",
         "url": "https://open.spotify.com/album/4CDQVOBaMeTZRfO5yM33us"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
         "name": "UNHA DE FOGUINHO",
         "url": "https://open.spotify.com/album/4Snh5BuDdaYJPJ0Fl2H1Uz"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "Vestido Vermelho",
-        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
-      },
-      "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        }
-      ],
-      "duration_ms": 170588,
-      "name": "Vestido Vermelho",
-      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
-    },
-    {
-      "added_at": "2025-09-19 22:17:07",
-      "album": {
         "name": "Tenho Tanto de Voc\u00ea em Mim",
         "url": "https://open.spotify.com/album/5TeKABn6knV7MhIq2owAZO"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 168053,
       "name": "Tenho Tanto de Voc\u00ea em Mim",
       "url": "https://open.spotify.com/track/3IrZFpw7o2O149tSCDcx7g"
+    },
+    {
+      "added_at": "2025-09-19 22:17:07",
+      "album": {
+        "name": "Vestido Vermelho",
+        "url": "https://open.spotify.com/album/06vVPATP7xd4AvQzeevpss"
+      },
+      "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        }
+      ],
+      "duration_ms": 170588,
+      "name": "Vestido Vermelho",
+      "url": "https://open.spotify.com/track/11xqJp6dCzVm3PxEroeVih"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "ESCOLHAS",
-        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
       "artists": [
         {
-          "name": "V\u00c9RTICE",
-          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
         }
       ],
-      "duration_ms": 221775,
-      "name": "ESCOLHAS",
-      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2025-09-19 22:17:07",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-09-19 22:17:07",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+        "name": "ESCOLHAS",
+        "url": "https://open.spotify.com/album/03pGiKAx5rT7nBELKTZ7Ot"
       },
       "artists": [
         {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+      "duration_ms": 221775,
+      "name": "ESCOLHAS",
+      "url": "https://open.spotify.com/track/5l4yvhKkTcosuRuOaF5Kcx"
     },
     {
       "added_at": "2025-09-19 22:17:07",

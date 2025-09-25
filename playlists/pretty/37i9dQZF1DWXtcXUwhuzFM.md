@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat emma & matilda, william & BIZI, Ilta ja KAUKUA & AHTI  – mukana myös uunituoreet Vain elämää \-biisit! 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,317 likes - 123 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,313 likes - 123 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYSAr0E5dRA.md) - [plain](/playlists/plain/37i9dQZF1DWTYSAr0E5dRA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTYSAr0E5dRA)
 
-### [API Kids Stories](https://open.spotify.com/playlist/37i9dQZF1DWTYSAr0E5dRA)
+### [API Kids & Families Stories](https://open.spotify.com/playlist/37i9dQZF1DWTYSAr0E5dRA)
 
 > 
 
@@ -9,4 +9,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYSAr0E5dRA.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAABa92u0svPkcE0a1didft9jcESFL`
+Snapshot ID: `AAAAAGhkDRyHtMpaZkFXf3/yOhu3N7PB`

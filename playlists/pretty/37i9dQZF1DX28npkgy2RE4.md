@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,777 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,747 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,15 +132,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 122 | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3), [Luke Krutzke](https://open.spotify.com/artist/6t9hzWxvuXL8ReWPxOJSCL) | [Mouth \(feat\. Luke Krutzke\)](https://open.spotify.com/album/5gB9ZVjB13bC5jheVAEOtg) | 3:56 |
 | 123 | [It Is What It Is](https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Green to Gold](https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo) | 3:57 |
 | 124 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 |
-| 125 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
-| 126 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 |
+| 125 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 |
+| 126 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 127 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 |
-| 128 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
-| 129 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
+| 128 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
+| 129 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
 | 130 | [The Weakness in Me](https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:42 |
 | 131 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 |
-| 132 | [Magic](https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 3:50 |
-| 133 | [Big Star \- Alt](https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Big Star \(Alt\)](https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW) | 4:04 |
+| 132 | [Big Star \- Alt](https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Big Star \(Alt\)](https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW) | 4:04 |
+| 133 | [Magic](https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 3:50 |
 | 134 | [Growin' Down](https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Growin' Down](https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9) | 4:16 |
 | 135 | [Home Truths](https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3) | [Lucie Silvas](https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju) | [Home Truths](https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7) | 3:37 |
 | 136 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 |

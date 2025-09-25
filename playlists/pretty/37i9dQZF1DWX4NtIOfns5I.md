@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > where folk flowers bloom 🌼 cover: Hudson Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,587 likes - 135 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,612 likes - 135 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

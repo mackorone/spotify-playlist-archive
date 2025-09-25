@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Dardan, Azet, Dhurata Dora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,971,127 likes - 51 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,887 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 48 | [Planufer](https://open.spotify.com/track/2pzuTdm3xjArM282QRTd1G) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Planufer](https://open.spotify.com/album/793ncmuxf7YZPi8PFwXhgD) | 2:00 |
 | 49 | [Sauvage](https://open.spotify.com/track/2Ed0ve2x6FVzEVKYVbPfGq) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Banditorinho 2](https://open.spotify.com/album/1MRdWNh2d1HGfayGvHdaip) | 1:49 |
 | 50 | [PRIVILEG](https://open.spotify.com/track/6FBjOetu1LzrfZ9bM5Ko6E) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [PRIVILEG](https://open.spotify.com/album/0H9FLEBrGN0itLpO1PIE6Q) | 1:55 |
-| 51 | [OCEAN](https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl) | [OCEAN](https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE) | 2:25 |
 
-Snapshot ID: `AAAAAKA84pEf/YpgThuD2syYmqJnwyrP`
+Snapshot ID: `AAAAAP/xFxJ/sEb5YtbGhYzeXes8zCld`

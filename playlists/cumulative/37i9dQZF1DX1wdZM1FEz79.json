@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-08",
+      "date_removed": null,
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
@@ -3716,6 +3716,28 @@
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
+    },
+    {
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/3iYH8OOOyP1cvZFcIOHrO0"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        },
+        {
+          "name": "John OFA Rhee",
+          "url": "https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161641,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/56xHqA7d3JQ42tcRwTSrmY"
     },
     {
       "album": {
@@ -4582,7 +4604,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 231917,
       "name": "Isle in Waves",
       "url": "https://open.spotify.com/track/3WCqOxhcu9aqdYaIT8RpZP"
@@ -5237,6 +5259,24 @@
     },
     {
       "album": {
+        "name": "Little I",
+        "url": "https://open.spotify.com/album/3zQR7DxfY3i7hy7Z9uhNOk"
+      },
+      "artists": [
+        {
+          "name": "Motte",
+          "url": "https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Little I",
+      "url": "https://open.spotify.com/track/2AKCk3WnpK5nidRfD5fQSE"
+    },
+    {
+      "album": {
         "name": "Little Star",
         "url": "https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO"
       },
@@ -5508,7 +5548,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 208000,
       "name": "love was",
       "url": "https://open.spotify.com/track/2v4bYDSLpmPTKESwL2lOh3"
@@ -7144,7 +7184,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 198000,
       "name": "RE: love you, too!",
       "url": "https://open.spotify.com/track/4AUaQEi0Clz2Gvw0WVVSOZ"

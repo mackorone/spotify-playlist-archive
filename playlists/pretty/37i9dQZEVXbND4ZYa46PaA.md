@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,811 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,812 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [TU ME RENDS BÊTE](https://open.spotify.com/track/7n1H7Rh5aLAmQIAyotb4fm) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:45 |
 | 50 | [CIEL](https://open.spotify.com/track/1RiCNSkK4AfT1j8ZM4JnVs) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/0T5ku9aLMwF95KFYViOY6d) | 3:06 |
 
-Snapshot ID: `MGYNIAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGdeoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

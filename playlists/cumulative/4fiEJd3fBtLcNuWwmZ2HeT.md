@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-362 songs - 20 hr 50 min
+364 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Gaikotsu Gakudan To Riria](https://open.spotify.com/track/1joOPSOAwgGOHZxUSaK9rC) | [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Seitou No Marche \(Standard Edition\)](https://open.spotify.com/album/5bjcGpvKfRk4ai8cJEcvbZ) | 3:21 | 2025-01-02 |  |
 | [GAME](https://open.spotify.com/track/3fp4ozT7rzn1Vax1OUOMtJ) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [DOLL](https://open.spotify.com/album/5JxQndpUT8K1ySB3EbFGhA) | 2:50 | 2024-06-03 |  |
 | [Gekka No Yasoukyoku](https://open.spotify.com/track/721KUzd7jt8eUV1Xp25N5l) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Gekka No Yasoukyoku](https://open.spotify.com/album/6WxenSfRkZvHBclA99ZnMp) | 3:52 | 2025-09-09 |  |
+| [Ghost](https://open.spotify.com/track/2rd5IVJbcm3lcu6xdoFGIa) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Ghost](https://open.spotify.com/album/2Vwmswd4JdOJK0prjybCIM) | 2:51 | 2025-09-24 |  |
 | [Go Go Wonderland](https://open.spotify.com/track/5WIuky12ctllWM8lAGFfVo) | [noiseless\-world](https://open.spotify.com/artist/1fzPkOEEMTM3S2RWteQjTj) | [2018](https://open.spotify.com/album/4j6gQbX2DOnPnP4gi5FdBu) | 3:55 | 2023-12-24 |  |
 | [Good Night](https://open.spotify.com/track/2Aeq6X8PmiZrzdC5WptzIL) | [Rico Sasaki](https://open.spotify.com/artist/32vntVlDOsm1HGm9Xe0FSz) | [Play the world](https://open.spotify.com/album/4mnu3y4nJjpnT24fRUPlMD) | 3:57 | 2024-02-06 |  |
 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 | 2025-05-27 |  |
@@ -120,6 +121,7 @@
 | [killer\-tune](https://open.spotify.com/track/7aFxDKk3jUfimCNX9mF36l) | [Lady Mellow.](https://open.spotify.com/artist/55qCSOkDiqf4njLqj0JSiD) | [Smoking hot](https://open.spotify.com/album/3YyoL3YnNQKkLAafWkzDix) | 3:12 | 2025-05-27 |  |
 | [Knife of Love](https://open.spotify.com/track/3uA8nw4Jwgdcq6Q8JXTMYx) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [Knife of Love](https://open.spotify.com/album/579EA2TK9INZyfuJ1mH7Y9) | 2:42 | 2025-04-06 |  |
 | [koi \(feat\. 9Lana\)](https://open.spotify.com/track/3QhD3w9JDGsVm18ypnkHEP) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [koi \(feat\. 9Lana\)](https://open.spotify.com/album/4RaGX5JF1XBkHCeysp0Rnn) | 2:42 | 2025-05-27 |  |
+| [Kubiwa Kyouiku no Susume](https://open.spotify.com/track/454m8n2FSYs4jOxJz49REC) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Kubiwa Kyouiku no Susume](https://open.spotify.com/album/0zH8j5cGtsFW4G0Yb1hEdq) | 3:50 | 2025-09-25 |  |
 | [kyu\-kurarin](https://open.spotify.com/track/2DH3aIhZH7sD9XSLKwSusd) | [Iyowa](https://open.spotify.com/artist/0gox2jF74UUFl8bDQYyTFr) | [kyu\-kurarin](https://open.spotify.com/album/5pqafuysvNgetlr7tZKTZk) | 3:37 | 2025-08-30 |  |
 | [L'Étoile D'afrique \- \#18](https://open.spotify.com/track/1xHDxvqZduPRMqOCdiAKNZ) | [VDYCD](https://open.spotify.com/artist/6ZtfvZofStC4xF34rNriyY) | [L'Étoile D'afrique \- \#18](https://open.spotify.com/album/6FTxbDk1yg57rx0hLnAgx0) | 1:45 | 2023-04-01 |  |
 | [L.L.L.](https://open.spotify.com/track/44MCNFwV5AuEpm7iaTLTCA) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/2VFEPv8gs1mSj67hEDbRMO) | 3:36 | 2023-03-28 |  |

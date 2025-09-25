@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCQbOdQV38g.md) - [plain]
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,028 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,030 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

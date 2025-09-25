@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Lucho RK
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,986 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,938 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [PREÑÁ](https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [GIO](https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH) | [PREÑÁ](https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6) | 3:28 |
 | 2 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |
-| 3 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 3 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 4 | [FAYA](https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs) | [FAYA](https://open.spotify.com/album/7iZyITUW27dx2NUzOzU4j4) | 3:37 |
 | 5 | [DONDE TE ESCONDES? 2.0](https://open.spotify.com/track/4l6Mq0db5Qoi97nhNlEey4) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [DONDE TE ESCONDES? 2.0](https://open.spotify.com/album/1obdhRgr52J2lFgbPlxb40) | 2:49 |
 | 6 | [El Del Flavor](https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [El Del Flavor](https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q) | 2:20 |

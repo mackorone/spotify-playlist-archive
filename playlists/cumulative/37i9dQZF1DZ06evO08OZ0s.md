@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 16 min
+83 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2024-05-14 |  |
 | [Motherland \(Women's Six Nations Anthem\)](https://open.spotify.com/track/2qCpOVndPKJNyxA1162ztO) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Motherland \(Women's Six Nations Anthem\)](https://open.spotify.com/album/0nhc9acyraBcrWvNq3ICyo) | 2:55 | 2024-05-14 | 2025-05-15 |
 | [Never Be](https://open.spotify.com/track/7JJGKSAOyyewFxFnqvrX7D) | [Tim Mason](https://open.spotify.com/artist/5GehdPjguGOCZifnKNrXi9), [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Be](https://open.spotify.com/album/0dKWkIUNQvqI3KOT0D8PcA) | 3:45 | 2024-05-14 | 2025-09-05 |
-| [Never Dance Again](https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38) | 3:12 | 2025-08-19 |  |
+| [Never Dance Again](https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38) | 3:12 | 2025-08-19 | 2025-09-25 |
 | [Never Dance Again](https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh) | 3:12 | 2024-05-14 | 2025-08-19 |
 | [New Chic](https://open.spotify.com/track/4V69w339JdXeJqkxzhvhhY) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/6Ihk1ZxI4q045l0qLo9uo8) | 2:59 | 2025-08-25 |  |
 | [New Chic](https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy) | 2:59 | 2024-05-14 | 2025-08-25 |
@@ -59,6 +59,7 @@
 | [Oh No You Didn't \(Clear Six Remix\)](https://open.spotify.com/track/7LHpkmMCScjJAwVFTRKy0X) | [Hix](https://open.spotify.com/artist/5aPDZDLHc63XbN7YbLdTIO), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Clear Six](https://open.spotify.com/artist/7v4uoBQXCgUEbtHuvDfNce) | [Oh No You Didn't \(Clear Six Remix\)](https://open.spotify.com/album/2Y9Fdmwh08DX07uquHbuH5) | 2:38 | 2024-05-14 |  |
 | [On Repeat](https://open.spotify.com/track/560XM9FI9xl5H6RK8S1LqH) | [Mike Mago](https://open.spotify.com/artist/5lwT6gFdwV3Wcol07KUiJx), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [On Repeat](https://open.spotify.com/album/0ezmC8VHRQijLPVBPIri2S) | 3:03 | 2024-05-14 |  |
 | [On Top Of Mine \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/4YwOxXdhqzvgglya1LBExq) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [On Top Of Mine \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/2mNHYkd1vO5w9sbAvHRDWE) | 2:23 | 2024-05-14 |  |
+| [Pulse](https://open.spotify.com/track/7yw3aTLXNcxC2gdkeV8hWE) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [LEGACY](https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP) | 2:55 | 2025-09-25 |  |
 | [Real Love](https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Real Love](https://open.spotify.com/album/6XU17Ta3KWa045AfQV0mLM) | 2:53 | 2024-05-14 |  |
 | [Release I Need \(feat\. Kelli\-Leigh\)](https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Release I Need \(feat\. Kelli\-Leigh\)](https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z) | 3:23 | 2024-05-14 |  |
 | [Runnin'](https://open.spotify.com/track/5pWPw4q8b9fMxnAii10mpQ) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Boiling Point](https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65) | 2:18 | 2024-05-14 |  |

@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 26.
 
-235 songs - 13 hr 2 min
+237 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [People Need People](https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [People Need People](https://open.spotify.com/album/3zAyNQMIfYDCTpm5PYapi8) | 2:45 | 2025-09-15 |  |
 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 | 2022-09-22 | 2025-09-16 |
 | [pond song](https://open.spotify.com/track/7uX75Chj1OWg2rMZNaDIT8) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 2:58 | 2025-09-15 |  |
+| [Poor Business Man](https://open.spotify.com/track/3LfxeB0bMo2fcJCmdHib5f) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/5jgRsnXzQCf4XV6Kkr1VDh) | 3:30 | 2025-09-24 |  |
 | [Prettier Than You](https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Prettier Than You](https://open.spotify.com/album/1KoPn0GTKiL2UdC7AUtwkg) | 3:22 | 2022-09-26 | 2025-09-16 |
 | [Pull Up](https://open.spotify.com/track/6VZc5PlI7bLmgCYjODYLnG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Gifted](https://open.spotify.com/album/4Ch605EjDQIZowlcaArlLP) | 2:51 | 2023-01-25 | 2024-04-19 |
 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 | 2022-09-22 | 2025-09-16 |
@@ -223,6 +224,7 @@
 | [Times Change \(Feat\. Novelist and D Double E\)](https://open.spotify.com/track/1Th7Q0JOG8cea1u6JrHptk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Times Change](https://open.spotify.com/album/7ywHN1M5ILQJflRE4X1qnn) | 3:04 | 2023-01-25 | 2025-09-16 |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-22 | 2025-09-16 |
 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 | 2025-09-15 |  |
+| [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 | 2025-09-24 |  |
 | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/track/5XMsLJ0CXP2h8qfFi7so7m) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [iDA HAWK](https://open.spotify.com/artist/5hrtcI0g197yJxmyAU6VYv) | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/album/2pdWephmuNIPKFh6ZSzWap) | 4:54 | 2025-09-15 |  |
 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2025-09-15 |  |
 | [UYUNI](https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:37 | 2025-09-15 |  |

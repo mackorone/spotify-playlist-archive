@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-245 songs - 13 hr 11 min
+246 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Oh Why](https://open.spotify.com/track/6CeG3pbRAjcv78ca1ONW7K) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Oh Why](https://open.spotify.com/album/5voNr92YRmiItz5FnU3fAW) | 3:06 | 2024-09-02 | 2025-01-24 |
 | [On the Level](https://open.spotify.com/track/4RpwQDPnn1GhWpZooUcCzd) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [This Old Dog](https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7) | 3:47 | 2025-02-13 |  |
 | [ONE CALL](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [ONE CALL](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 | 2024-09-02 |  |
-| [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-09-17 |  |
+| [One in a Million](https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [One in a Million](https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd) | 4:17 | 2025-09-17 | 2025-09-25 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-28 | 2024-07-23 |
 | [One More Step](https://open.spotify.com/track/5ah0lStBk74Qb8pgSeLupG) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [One More Step](https://open.spotify.com/album/5wUg4CIGGVX89ra1OLqAuG) | 3:19 | 2024-11-07 | 2024-12-20 |
 | [Only](https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Only](https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE) | 2:49 | 2024-03-28 | 2024-09-03 |
@@ -209,6 +209,7 @@
 | [Suffice](https://open.spotify.com/track/2gy2UTbkgMVai4uB2oqeqh) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Suffice](https://open.spotify.com/album/0QGs0Fg2Ao50fFxetJuhyq) | 2:42 | 2024-03-28 | 2025-02-14 |
 | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Sugar Sweet \(feat\. Shenseea & Kehlani\)](https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0) | 3:39 | 2025-08-20 |  |
 | [Summerinlove](https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Summerinlove](https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4) | 4:31 | 2025-08-20 |  |
+| [SUPERMODEL](https://open.spotify.com/track/2kL8ODCljqnpCs5uBKYbWs) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [SUPERMODEL](https://open.spotify.com/album/6YUofntZAwZ6Zyciwggnb1) | 2:56 | 2025-09-20 |  |
 | [Supersonic](https://open.spotify.com/track/129cytWHUXigQl9qTnWvLG) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Supersonic](https://open.spotify.com/album/6J84lfu9RS98ryQKJlvLfK) | 2:41 | 2024-09-02 | 2025-02-14 |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2024-03-28 | 2025-02-14 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-17 |  |

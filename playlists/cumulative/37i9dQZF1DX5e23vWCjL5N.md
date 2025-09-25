@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Cover: Salmo
 
-303 songs - 15 hr 39 min
+304 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Fare presto](https://open.spotify.com/track/5eUqIQCxlZ20Xa02G6NH2Z) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:28 | 2024-12-06 | 2025-04-11 |
 | [FEBBRE DELL'ORO \(feat\. Ele A\)](https://open.spotify.com/track/3LXTuGn1b170DuUnr2FLBv) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [IDUA](https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof) | [VITE SGRAMMATE](https://open.spotify.com/album/3S0Lghs0zeHRNDclNlW8FN) | 2:41 | 2025-04-10 |  |
 | [Federico](https://open.spotify.com/track/6QuHvSa8ZOA3nZsuFaHbXS) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:11 | 2022-04-15 | 2022-06-10 |
+| [FELLINI \(feat\. Kid Yugi\)](https://open.spotify.com/track/0rjVRGqVuNwnGCxwBkBZXd) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 2:45 | 2025-09-24 |  |
 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 | 2024-02-29 | 2025-09-12 |
 | [Foto di gruppo](https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Foto di gruppo](https://open.spotify.com/album/65crQxE8LGQADwbTCILqRu) | 3:30 | 2024-12-17 |  |
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-04-15 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB7GKDYW7V3.md) - [plain]
 
 > 30 tips van de Spotify editors én de Lowlands klassiekers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,750 likes - 125 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,749 likes - 125 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

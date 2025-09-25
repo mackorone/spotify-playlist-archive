@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Raye
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,300 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,331 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 9 | [MARIA \(BFFWSA\)](https://open.spotify.com/track/7dP95WcTBwVJTGaV71VpYa) | [Eric Alexander](https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu) | [MARIA \(BFFWSA\)](https://open.spotify.com/album/00PoSClcDp6AdNG3OJ05jW) | 3:59 |
 | 10 | [dijon](https://open.spotify.com/track/4H4EmkuWdkaNcdzGyA0hzf) | [daoud](https://open.spotify.com/artist/3e76yvk1gLZQhKZiUHkMsP) | [dijon](https://open.spotify.com/album/3dBnhzlDUC8TcCSEvUoopc) | 4:14 |
 | 11 | [I\. The Cakewalk Dilemma](https://open.spotify.com/track/0lXpOJk3QrAIuDW0pUqRQM) | [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9) | [The Book of Isaiah: Modern Jazz Ministry](https://open.spotify.com/album/3Ef6ZoiXdtfXxDrn9UGQyG) | 5:24 |
-| 12 | [Stories](https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI) | [Stories](https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU) | 6:56 |
+| 12 | [Stories](https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jacomo Bairos](https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3) | [Stories](https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU) | 6:56 |
 | 13 | [BIG MONEY](https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/6pOJaihjrHalPcX6SeuEuH) | 2:34 |
 | 14 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
 | 15 | [Tegucigalpa 72](https://open.spotify.com/track/5Dsxl7aOX1Z2w4fWqfJkoV) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7) | [Tegucigalpa 72](https://open.spotify.com/album/6XwZdlGJn1M84r7uVQ7xXU) | 3:03 |

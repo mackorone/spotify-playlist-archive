@@ -1,6 +1,6 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 342343,
+  "num_followers": 342394,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Claro y Recio",
         "url": "https://open.spotify.com/album/64kBABukozvsMCIJlr17BH"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 165820,
       "name": "\u2060Claro y Recio",
       "url": "https://open.spotify.com/track/2dkH0M3yNXMws83joTlFxL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dio Vuelta la Moneda (En Vivo)",
+        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 157107,
+      "name": "El Mismo - En Vivo",
+      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dio Vuelta la Moneda (En Vivo)",
-        "url": "https://open.spotify.com/album/2voNK949lqZy11l6U52x58"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 157107,
-      "name": "El Mismo - En Vivo",
-      "url": "https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,621 likes - 243 songs - 16 hr 8 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,620 likes - 243 songs - 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 50 | [Pretty Little Baby \- Stereo Mix](https://open.spotify.com/track/6c8CdiWueTEQAXCPhcR6mq) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Pretty Little Baby \(International Versions\)](https://open.spotify.com/album/2DKvJzWgA3I5Np9872Iozh) | 2:22 |
 | 51 | [Future Days](https://open.spotify.com/track/5P9FjMjAArYqL7YF3Ry4AN) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [The Last of Us](https://open.spotify.com/album/5IlWoFOA7aaouBEniaR7oJ) | 4:22 |
 | 52 | [Endsong \- Orbital Remix](https://open.spotify.com/track/0tFdxLhgh3KJubwOCKo3Y6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Endsong \(Orbital Remix\)](https://open.spotify.com/album/44AYABVfrU96YXOxhtVRjp) | 6:23 |
-| 53 | [The Showman \- Stories Of Surrender Version](https://open.spotify.com/track/3gLXrIvMPuomkpzZ3DHWW3) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Showman \(Stories Of Surrender Version\)](https://open.spotify.com/album/11e7rgEntll0BwbR585Eb7) | 3:10 |
+| 53 | [The Showman \- Stories Of Surrender Version](https://open.spotify.com/track/3gLXrIvMPuomkpzZ3DHWW3) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Jacknife Lee Ensemble](https://open.spotify.com/artist/5TFevh7tjVANSYbiFHv0aP) | [The Showman \(Stories Of Surrender Version\)](https://open.spotify.com/album/11e7rgEntll0BwbR585Eb7) | 3:10 |
 | 54 | [Little Richard’s Bible](https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o) | 2:59 |
 | 55 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 |
 | 56 | [Time Will Heal](https://open.spotify.com/track/3C8X7PC4W4m53X5d1JIy0F) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Time Will Heal](https://open.spotify.com/album/1mr05IUQRaVE911V1uru3g) | 4:45 |

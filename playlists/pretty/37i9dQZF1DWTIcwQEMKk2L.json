@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71920,
+  "num_followers": 71926,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Never Blame The Young Ones",
-        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
-      },
-      "artists": [
-        {
-          "name": "Alan Leon",
-          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
-        }
-      ],
-      "duration_ms": 138823,
-      "name": "Never Blame The Young Ones",
-      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Never Blame The Young Ones",
+        "url": "https://open.spotify.com/album/57of76S9lNXzIClZYOU16R"
+      },
+      "artists": [
+        {
+          "name": "Alan Leon",
+          "url": "https://open.spotify.com/artist/64YeifkkN8ncQBE7RsQJDU"
+        }
+      ],
+      "duration_ms": 138823,
+      "name": "Never Blame The Young Ones",
+      "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -347,22 +347,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "5th Avenue",
-        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
-      },
-      "artists": [
-        {
-          "name": "Kyrie Barnes",
-          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
-        }
-      ],
-      "duration_ms": 146006,
-      "name": "5th Avenue",
-      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Astral",
         "url": "https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 179562,
       "name": "Astral",
       "url": "https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "5th Avenue",
+        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
+      },
+      "artists": [
+        {
+          "name": "Kyrie Barnes",
+          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
+        }
+      ],
+      "duration_ms": 146006,
+      "name": "5th Avenue",
+      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -635,18 +635,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Cherokee",
-        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
       },
       "artists": [
         {
-          "name": "Andy Luma",
-          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
         }
       ],
-      "duration_ms": 143869,
-      "name": "Love For Sale",
-      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -667,34 +667,34 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+        "name": "Cherokee",
+        "url": "https://open.spotify.com/album/5tlafy4PFxdDv5vxuXNlDR"
       },
       "artists": [
         {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+          "name": "Andy Luma",
+          "url": "https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof"
         }
       ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
+      "duration_ms": 143869,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/3lW5Ck2tvHZPQwOWEF0GF8"
     },
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Yours Is My Heart Alone",
-        "url": "https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3"
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
       },
       "artists": [
         {
-          "name": "Luca Armone",
-          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Yours Is My Heart Alone",
-      "url": "https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61"
+      "duration_ms": 221093,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -715,18 +715,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
+        "name": "Yours Is My Heart Alone",
+        "url": "https://open.spotify.com/album/5t3Bi41QottgJFkQf5EXr3"
       },
       "artists": [
         {
-          "name": "Jacob Baron",
-          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+          "name": "Luca Armone",
+          "url": "https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
+      "duration_ms": 201493,
+      "name": "Yours Is My Heart Alone",
+      "url": "https://open.spotify.com/track/1fj7I1goPnCIsAF3SxGh61"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "You Stepped Out Of A Dream",
-        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
-      },
-      "artists": [
-        {
-          "name": "Bill Walton",
-          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "You Stepped Out Of A Dream",
-      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Rest Well, My Good Friend",
         "url": "https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 161250,
       "name": "Rest Well, My Good Friend",
       "url": "https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
+      },
+      "artists": [
+        {
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Too Young To Go Steady",
-        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
+        "name": "Kiss the Rain",
+        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
       },
       "artists": [
         {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "Chris Snelling",
+          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
         }
       ],
-      "duration_ms": 219562,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
+      "duration_ms": 170783,
+      "name": "Kiss the Rain",
+      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1099,22 +1103,18 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Kiss the Rain",
-        "url": "https://open.spotify.com/album/0YpyLH1IOBmPmEaf7A9pQp"
+        "name": "Too Young To Go Steady",
+        "url": "https://open.spotify.com/album/656H32hHkOEd6tMClG0FQe"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        },
-        {
-          "name": "Chris Snelling",
-          "url": "https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp"
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
         }
       ],
-      "duration_ms": 170783,
-      "name": "Kiss the Rain",
-      "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
+      "duration_ms": 219562,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/0aTEP8PXAqDkVXE1KTnPIh"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "See you in the morning",
-        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "See you in the morning",
-      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 148407,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "See you in the morning",
+        "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
+      },
+      "artists": [
+        {
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "See you in the morning",
+      "url": "https://open.spotify.com/track/4ujJJwrejs0lGkVU23ls5j"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Maybe under some other sky",
-        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
-      },
-      "artists": [
-        {
-          "name": "Shaunta Coburn",
-          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Maybe under some other sky",
-      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "L\u2019herbe verte",
         "url": "https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 141374,
       "name": "L\u2019herbe verte",
       "url": "https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Maybe under some other sky",
+        "url": "https://open.spotify.com/album/0OnhOVXcsZ1yvx5gso1hsq"
+      },
+      "artists": [
+        {
+          "name": "Shaunta Coburn",
+          "url": "https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Maybe under some other sky",
+      "url": "https://open.spotify.com/track/2sTXVgqhs4uTZSoZ5QvlLz"
     },
     {
       "added_at": "2025-09-08 03:56:11",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-09-08 03:56:11",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pour Vous",
-      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
-    },
-    {
-      "added_at": "2025-09-08 03:56:11",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2025-09-08 03:56:11",
+      "album": {
+        "name": "Qu\u00e9rete a ti mesmo",
+        "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165511,
+      "name": "Qu\u00e9rete a ti mesmo",
+      "url": "https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

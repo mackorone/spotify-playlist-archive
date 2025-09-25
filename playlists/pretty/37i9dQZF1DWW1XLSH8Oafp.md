@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Ninajirachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,223 likes - 149 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,437 likes - 149 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 122 | [HIGHER](https://open.spotify.com/track/2bSwV9e11V7rE2tXT2ka1y) | [Marlus](https://open.spotify.com/artist/6KZ0uwdg2CfmlADa1rkUmJ) | [HIGHER](https://open.spotify.com/album/1alwGF6CHQD76eWuEioStj) | 3:03 |
 | 123 | [Runnin'](https://open.spotify.com/track/1PcJZFKTbgVjIozoJufyJy) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [Runnin'](https://open.spotify.com/album/3sXeRvShh6kRd8E61X5icn) | 3:09 |
 | 124 | [fruit machine](https://open.spotify.com/track/4HkM0WDGGmdDRDx5MRpGHZ) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [fruit machine](https://open.spotify.com/album/6Db83GXGxNuhXnMoYnM3Lj) | 3:00 |
-| 125 | [Word Vomit \- Night Remix](https://open.spotify.com/track/7w3RVHVvkmTfUIWgC1Zs5e) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Word Vomit \(Night Remix\)](https://open.spotify.com/album/2kuKJ1hQ0Tv6pro78tz5md) | 2:40 |
+| 125 | [Word Vomit \- night remix](https://open.spotify.com/track/7w3RVHVvkmTfUIWgC1Zs5e) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Word Vomit \(Night Remix\)](https://open.spotify.com/album/2kuKJ1hQ0Tv6pro78tz5md) | 2:40 |
 | 126 | [All I Need](https://open.spotify.com/track/72OjaVZQZt9Hmm7lD3BCpc) | [Josh & Jenny](https://open.spotify.com/artist/1J4nxOBXgUqcnQ7nGeobJZ) | [All I Need](https://open.spotify.com/album/6MGr8eP7goPLjOA28q4Z7g) | 2:50 |
 | 127 | [hello?](https://open.spotify.com/track/6EcwFyzW49XlOmmhWfy00D) | [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [hello?](https://open.spotify.com/album/3QJ346KqNTPRSiSazjqQh4) | 5:12 |
 | 128 | [Frou](https://open.spotify.com/track/2sinvAMG1upORnP6xqqXrM) | [t e s t p r e s s](https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u) | [Frou](https://open.spotify.com/album/0BQpJ6rmMTXerqMi1RLJF1) | 3:03 |

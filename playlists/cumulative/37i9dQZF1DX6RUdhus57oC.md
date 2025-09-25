@@ -4,7 +4,7 @@
 
 > Le sommeil, c'est la santé, alors laissez\-vous bercer\. Photo : Alain Roche
 
-122 songs - 5 hr 21 min
+123 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [But A Whisper](https://open.spotify.com/track/2t9nX7l0xqCmAXML9ozYuw) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [But A Whisper](https://open.spotify.com/album/1nazJLFi9baUjfgtEza55r) | 2:27 | 2024-06-03 |  |
 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2024-06-03 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2024-06-03 | 2025-03-26 |
-| [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2024-06-03 |  |
+| [Chuchotement](https://open.spotify.com/track/2NWOoi4HoSZFX0sySYIqVi) | [Derina Berger](https://open.spotify.com/artist/2WLjhCbRQU05hDnmU7DeIQ) | [Chuchotement](https://open.spotify.com/album/291s2oBqqd2yA0AmII2KTy) | 2:14 | 2024-06-03 | 2025-09-25 |
 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 | 2024-08-12 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2024-06-03 | 2024-10-07 |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-09-29 | 2024-06-04 |
@@ -86,6 +86,7 @@
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-09-29 | 2024-06-04 |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2024-06-03 |  |
 | [Reframe](https://open.spotify.com/track/1sINJB2tVaHV5r3iKCACHv) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Reframe](https://open.spotify.com/album/3XJLsmXh2yyehGaUn0FWDC) | 2:07 | 2023-09-29 | 2024-06-04 |
+| [Refreshing](https://open.spotify.com/track/6d4hQC6SMrJQayOCwxffSn) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Flourishing](https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8) | 2:27 | 2025-09-12 |  |
 | [Returning](https://open.spotify.com/track/0yccHAlypw9zM9Pf33lLjd) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Returning](https://open.spotify.com/album/3hZ1OaonuWlr1NO4zsTxmj) | 2:20 | 2023-09-29 | 2024-06-04 |
 | [Romanze](https://open.spotify.com/track/3voEoccU1Hg1QdE0j4qxw1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Romanze](https://open.spotify.com/album/5h6IMQWryeG5cqZepQdKSn) | 2:11 | 2024-06-03 |  |
 | [Sakteligen](https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Sakteligen](https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2) | 2:11 | 2023-09-29 | 2024-06-04 |

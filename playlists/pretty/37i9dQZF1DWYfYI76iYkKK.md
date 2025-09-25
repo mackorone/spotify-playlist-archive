@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,187 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,183 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 14 | [最後一根稻草](https://open.spotify.com/track/6NGAGgLTGxrWDQ53xra6Bb) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [最後一根稻草](https://open.spotify.com/album/7ivVAyNQMDiTMfE1RDp9oy) | 3:44 |
 | 15 | [這條小魚在乎](https://open.spotify.com/track/6oakdtkmSLIvpurMVU0q5x) | [Wang OK](https://open.spotify.com/artist/21QQNTzqULHjiaDKaZepRP), [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [這條小魚在乎](https://open.spotify.com/album/0dpedZx4halLI4OQZLdj2j) | 4:31 |
 | 16 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
-| 17 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
-| 18 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
+| 17 | [Hai Cheng](https://open.spotify.com/track/3kBfE92drjZEgYffx22zbl) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Hai Cheng](https://open.spotify.com/album/0pvUzcbKZAlIQYrbaVRLXb) | 3:52 |
+| 18 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
 | 19 | [幾乎是愛情](https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [Almost 幾乎是愛情](https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O) | 4:13 |
 | 20 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 |
 | 21 | [在這個清晨](https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [在這個清晨](https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ) | 3:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,541 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,551 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,17 +89,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [Amores Como el Nuestro](https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [corazon de papel](https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4) | 3:16 |
 | 80 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 |
 | 81 | [Vamos A Bailar](https://open.spotify.com/track/53hzmIPjhWhFaxewzpgG1O) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 4:27 |
-| 82 | [Una Wacha Piola](https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF) | 2:35 |
+| 82 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 |
 | 83 | [Amigos en la Distancia](https://open.spotify.com/track/0mFnciDvQCEHGChYFAYsST) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 2:47 |
 | 84 | [La Pollera Colorada](https://open.spotify.com/track/0v1f1x1F0ktGyX1sNfhHq7) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Imbatibles](https://open.spotify.com/album/4K2hBLfgSLYfJowi58zWCb) | 2:50 |
-| 85 | [La Cumbita](https://open.spotify.com/track/4De1d3fqH4Pnb6K20sRVBa) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Grandes Exitos](https://open.spotify.com/album/2wmLRAy98OUv8l5OXFSE2L) | 3:14 |
+| 85 | [Una Wacha Piola](https://open.spotify.com/track/7D6KI3vUblWWhXgyPNMHVe) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/5Jq2IHMwbqtHPkvTD7iSHF) | 2:35 |
 | 86 | [Pibe Cantina](https://open.spotify.com/track/5KaHTwUkmynaHqs3GuDIVe) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [20 Grandes Exitos](https://open.spotify.com/album/3T7lpBIg7KxF3yVucAXsUj) | 3:38 |
-| 87 | [Después De Ti](https://open.spotify.com/track/6xXaikT6ok8RahSgnrJOqu) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:19 |
+| 87 | [La Cumbita](https://open.spotify.com/track/4De1d3fqH4Pnb6K20sRVBa) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Grandes Exitos](https://open.spotify.com/album/2wmLRAy98OUv8l5OXFSE2L) | 3:14 |
 | 88 | [Violeta](https://open.spotify.com/track/44ZRUhwJopErgSsvJ8iH7I) | [Alcides](https://open.spotify.com/artist/2ao7Jx5TiinWuCtz6Lig4g) | [20 Grandes Exitos](https://open.spotify.com/album/2m6gFPx1GNwcVNsjNSPQ6C) | 3:09 |
-| 89 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 |
-| 90 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
-| 91 | [De Regreso al Penal](https://open.spotify.com/track/4pc9OASQNxBkBrC521AeNE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0SA9ksH5xCYE71t8GAN47S) | 4:03 |
-| 92 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 |
+| 89 | [Tramposa Y Mentirosa](https://open.spotify.com/track/6KzeUBu1BE8q24CblG6oku) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje Al Cielo](https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2) | 3:32 |
+| 90 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 |
+| 91 | [El Polvito del Amor](https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 3:06 |
+| 92 | [De Regreso al Penal](https://open.spotify.com/track/4pc9OASQNxBkBrC521AeNE) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/0SA9ksH5xCYE71t8GAN47S) | 4:03 |
 | 93 | [Corazón Mentiroso](https://open.spotify.com/track/01SnHysswq8z4jBzH6BiCs) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2Oirk4RSW6xnESkeEFMxNA) | 2:59 |
 | 94 | [Yo No Sé Mañana](https://open.spotify.com/track/7Jc5cs4yNzpD8FUAB8h9zN) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/1Lh2BtpyYo6DaS58a13gaD) | 2:50 |
 | 95 | [Alcen las Manos](https://open.spotify.com/track/0kV8yUTj65F1i2hQfBIlpT) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Sabrosón](https://open.spotify.com/album/7DBUrKeXTQoiqWjwVXvRxt) | 2:14 |

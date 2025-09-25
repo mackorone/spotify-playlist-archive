@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,844 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,336 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y71ufjoyXC.md) - [plain]
 | 22 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 |
 | 23 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 24 | [Bandida Entrenada](https://open.spotify.com/track/3o0nsMGWZMpp3GOEZkVuSR) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:15 |
-| 25 | [Pelotero A La Bola](https://open.spotify.com/track/2HjRqfkjGe33JGlOdTtswE) | [8Uno](https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh), [Airam Paez](https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X) | [Pelotero A La Bola](https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6) | 2:36 |
+| 25 | [PLAYBOY](https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:23 |
 | 26 | [AURORA](https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:12 |
 | 27 | [Qué Motor](https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Qué Motor](https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f) | 3:07 |
 | 28 | [Sabado](https://open.spotify.com/track/4UzaREEr4USyqShcm7Fem4) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Sabado](https://open.spotify.com/album/5Z97FpVRiVLgQrqZ3gQtWK) | 2:07 |
 | 29 | [QLOO\*](https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk) | [QLOO\*](https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L) | 2:28 |
 | 30 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
 
-Snapshot ID: `AAAAAD5051pQDdQdBOL07n0YacnhQsOK`
+Snapshot ID: `AAAAAFYTTq1sh4H288xIqcRKZRM4oB6R`

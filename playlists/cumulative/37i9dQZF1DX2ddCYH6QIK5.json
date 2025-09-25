@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: line rychart, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: SCHLINGSI, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -2562,6 +2562,24 @@
       "duration_ms": 249190,
       "name": "Bird's Life",
       "url": "https://open.spotify.com/track/3MLnJNgMdhx5chY6OSDEXY"
+    },
+    {
+      "album": {
+        "name": "Birthright",
+        "url": "https://open.spotify.com/album/3chG1LGMe8XoOBXjrX03OY"
+      },
+      "artists": [
+        {
+          "name": "NOVICE",
+          "url": "https://open.spotify.com/artist/7dYD2ZuUovdINEl9XRTiwY"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221015,
+      "name": "Birthright",
+      "url": "https://open.spotify.com/track/4htu3kehjV7tkdDuhMpyAb"
     },
     {
       "album": {
@@ -6060,6 +6078,24 @@
       "duration_ms": 199642,
       "name": "Distracted By You",
       "url": "https://open.spotify.com/track/3C0MQUye6TEha1t7V9FAxH"
+    },
+    {
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/0eVsCtQAuxLdQNvnDCcgm9"
+      },
+      "artists": [
+        {
+          "name": "BERTHAJU",
+          "url": "https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285263,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/1dXuxe3An6KGPlItvzPSKw"
     },
     {
       "album": {
@@ -16326,7 +16362,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 271344,
       "name": "m\u00fcde",
       "url": "https://open.spotify.com/track/7gnLCrXx9y27VycLAKWj4R"
@@ -17875,6 +17911,24 @@
     },
     {
       "album": {
+        "name": "over and out",
+        "url": "https://open.spotify.com/album/04qpnbMYmNAg2QF2nzfNkf"
+      },
+      "artists": [
+        {
+          "name": "PAMO",
+          "url": "https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181224,
+      "name": "over and out",
+      "url": "https://open.spotify.com/track/3Ce4r6DdbtD3rD3j8Q34wI"
+    },
+    {
+      "album": {
         "name": "Secret Blue Jeans Society",
         "url": "https://open.spotify.com/album/0dibS5iN58ZLKDCzpx7U0B"
       },
@@ -18208,7 +18262,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 189616,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/4k0C1yyZ1bXAIzaqqJQFva"
@@ -21912,7 +21966,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 194485,
       "name": "Soon I\u2019ll Be Back",
       "url": "https://open.spotify.com/track/3X4RmlCgRuXqaxZKRNxfUB"
@@ -25027,6 +25081,24 @@
     },
     {
       "album": {
+        "name": "Untertauchen",
+        "url": "https://open.spotify.com/album/52BhKXz4YToxO9zPPJXcAh"
+      },
+      "artists": [
+        {
+          "name": "B4MBI",
+          "url": "https://open.spotify.com/artist/1CwTeWTWP6NBXE8f9ojT2L"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186363,
+      "name": "Untertauchen",
+      "url": "https://open.spotify.com/track/1slngzcMkVKQECgMRhKwpR"
+    },
+    {
+      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/4tfcu5MC02QiiC6qbdtmdE"
       },
@@ -25583,6 +25655,24 @@
     },
     {
       "album": {
+        "name": "Vorhang auf",
+        "url": "https://open.spotify.com/album/4YIR4GRK4OLM5Op6ihkeh5"
+      },
+      "artists": [
+        {
+          "name": "SCHLINGSI",
+          "url": "https://open.spotify.com/artist/21rixzBLHE1jMxumhY8Irr"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183035,
+      "name": "Vorhang auf",
+      "url": "https://open.spotify.com/track/4A5RyJnYeFJwxG7muenMlt"
+    },
+    {
+      "album": {
         "name": "Vuka!",
         "url": "https://open.spotify.com/album/4EsJNgGMShrHYhR4BIN13S"
       },
@@ -25652,7 +25742,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 178854,
       "name": "waitingfornothing",
       "url": "https://open.spotify.com/track/1pYJC3qrlFImUj6iC5oYy2"
@@ -27478,7 +27568,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 191546,
       "name": "Zwanzig",
       "url": "https://open.spotify.com/track/1y44G2ZAxPKjmjmIYUfSCq"

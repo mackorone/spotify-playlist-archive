@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 66960,
+  "num_followers": 66980,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAABHM+NbOP0pPJFop1AH1gKf",
+  "snapshot_id": "aNHjAAAAAACcHltlSyBcNDuejChkGyrO",
   "tracks": [
     {
       "added_at": null,
@@ -348,17 +348,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
         }
       ],
-      "duration_ms": 229133,
-      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
+      "duration_ms": 240277,
+      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
     },
     {
       "added_at": null,
@@ -395,6 +395,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
+        "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Ra\u00fal Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Coraz\u00f3n de Oro (En Vivo Desde El Domo Care)",
+      "url": "https://open.spotify.com/track/1z23S5YZhteXztItJpblPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
         "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
       },
@@ -411,46 +451,6 @@
       "duration_ms": 232080,
       "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
       "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PALOMAZO NORTE\u00d1O (En Vivo Desde El Domo Care)",
-        "url": "https://open.spotify.com/album/1BdNEO3z0uF5axyODDHoGX"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Ra\u00fal Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/27eiCnSgvMyOyJAm7sEVOB"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Reproches Del Viento (En Vivo Desde El Domo Care)",
-      "url": "https://open.spotify.com/track/6AZu9krOGsV9spLU4GkA1G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Ojitos a Mi Gusto",
-      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Jefes",
-        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Corrido De Los P\u00e9rez",
-      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Visi\u00f3n 20.20 \u00c9xitos",
         "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 175560,
       "name": "Bonita - Norte\u00f1a Version",
       "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Casita De Adobe",
         "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 191986,
       "name": "La Casita De Adobe",
       "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
     },
     {
       "added_at": null,

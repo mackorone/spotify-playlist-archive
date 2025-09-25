@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,083 likes - 150 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,099 likes - 150 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,11 +152,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 142 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/76qB2ZEZlEJAMqMqUjKusp) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/0RhmLffWf3oRr6ahOS6G47) | 6:33 |
 | 143 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
 | 144 | [Too Good At Goodbyes \- Edit](https://open.spotify.com/track/0mel2N9Ws9r4yLQn5QE21Y) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Too Good At Goodbyes](https://open.spotify.com/album/7oiRNdTfUWmsx6DAjEe7DB) | 3:21 |
-| 145 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/2EnZ9bpgUtLgKkRFehp8xS) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Glenn Medeiros](https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8) | 3:52 |
-| 146 | [Every Time You Go Away](https://open.spotify.com/track/6rZLTGM5UEpjL8Beebg1Vo) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [The Essential](https://open.spotify.com/album/21xc2PMrHv2PyMtLR610Jk) | 4:27 |
-| 147 | [Marry Me](https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS) | 3:25 |
+| 145 | [Marry Me](https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS) | 3:25 |
+| 146 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/2EnZ9bpgUtLgKkRFehp8xS) | [Glenn Medeiros](https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN) | [Glenn Medeiros](https://open.spotify.com/album/65kb5QQ9XBwQmxTdcyF1I8) | 3:52 |
+| 147 | [Every Time You Go Away](https://open.spotify.com/track/6rZLTGM5UEpjL8Beebg1Vo) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [The Essential](https://open.spotify.com/album/21xc2PMrHv2PyMtLR610Jk) | 4:27 |
 | 148 | [I Swear](https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Rhino Hi\-Five: All\-4\-One](https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ) | 4:19 |
 | 149 | [When You Say Nothing At All](https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP) | 4:18 |
-| 150 | [You And Me](https://open.spotify.com/track/4T2SmVJPtDdugk5j5xV1d5) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse \(International Version\)](https://open.spotify.com/album/4mmUYaBXYsLKsuCoAE9UvX) | 3:15 |
+| 150 | [Fallin' All In You](https://open.spotify.com/track/5I8oEqbk2ZBmQfXCrZbUFb) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/6AjREacSERvnQTe6GFTx3c) | 3:55 |
 
 Snapshot ID: `AAAAANPSVfj3IJUeG52DeeWRzCAn2vAD`

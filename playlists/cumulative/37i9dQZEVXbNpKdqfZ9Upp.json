@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-12",
+      "date_removed": null,
       "duration_ms": 177333,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/6uCZqv78d015paeHFUOUlI"
@@ -25156,6 +25156,24 @@
     {
       "album": {
         "name": "Here With Me",
+        "url": "https://open.spotify.com/album/6VGoENqiseiYwmPUQW2oVl"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242484,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
         "url": "https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S"
       },
       "artists": [
@@ -34258,7 +34276,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -36864,7 +36882,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 226035,
       "name": "MIENTRAS DUERMES",
       "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
@@ -42940,7 +42958,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 141333,
       "name": "Orula",
       "url": "https://open.spotify.com/track/2BFY6af0xKPlLpjAzkfZni"
@@ -42980,7 +42998,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 141558,
       "name": "Orula Capitambo",
       "url": "https://open.spotify.com/track/748rL9PxQ6KWvSwEDTHpmH"
@@ -52040,6 +52058,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "date_added": "2025-09-05",
@@ -58808,7 +58830,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"
@@ -59036,6 +59058,24 @@
       "duration_ms": 176186,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/20Vc6KmPFJixmDq9ZkJdcZ"
+    },
+    {
+      "album": {
+        "name": "LIBIME RIDDIM",
+        "url": "https://open.spotify.com/album/3LGMLKS7Z6Cl9hTTDIMsJF"
+      },
+      "artists": [
+        {
+          "name": "KBP",
+          "url": "https://open.spotify.com/artist/6VskZzGMkVIrNHYTQzm5P2"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188487,
+      "name": "Todas Mienten",
+      "url": "https://open.spotify.com/track/3n4WxHTolQrNMxhT5OiGHO"
     },
     {
       "album": {
@@ -64606,7 +64646,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 145398,
       "name": "When Did You Get Hot?",
       "url": "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl"
@@ -67534,7 +67574,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"

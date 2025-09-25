@@ -19715,6 +19715,24 @@
     },
     {
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/0rKDAbuTkGHNX5qSrsOa2e"
+      },
+      "artists": [
+        {
+          "name": "Slim Sinna",
+          "url": "https://open.spotify.com/artist/16PQzIArEPbyu29a63l1pZ"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290232,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/5AACEBhCH579PdVh90ShvC"
+    },
+    {
+      "album": {
         "name": "Stratosphere",
         "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
       },
@@ -26590,6 +26608,28 @@
       "duration_ms": 183924,
       "name": "Nobody Gotta Know",
       "url": "https://open.spotify.com/track/5RKJ0b14LUw5Xvr50fpj83"
+    },
+    {
+      "album": {
+        "name": "Noche Y Dia",
+        "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
+      },
+      "artists": [
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152601,
+      "name": "Noche Y Dia",
+      "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
       "album": {

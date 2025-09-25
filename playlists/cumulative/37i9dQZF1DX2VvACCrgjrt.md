@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-1,154 songs - 2 day 10 hr 43 min
+1,155 songs - 2 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Let's Rock](https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Let's Rock](https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25) | 3:29 | 2024-02-09 | 2025-01-11 |
 | [LET’S GET ILL](https://open.spotify.com/track/0knXaujOspiLITwXr2929i) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl) | [LET'S GET ILL](https://open.spotify.com/album/3mvF7S5tF5mFy4wZAh6oWe) | 2:30 | 2024-04-19 | 2024-05-24 |
 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 | 2025-04-04 |  |
+| [Lick It](https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Lick It](https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD) | 3:24 | 2025-09-19 |  |
 | [LIE 2 ME](https://open.spotify.com/track/47iVnL2naQMNyFAwUOZpay) | [Panda Eyes](https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz) | [LIE 2 ME](https://open.spotify.com/album/4MLPLqyMOYDYsS8gN1atmy) | 3:17 | 2023-05-05 | 2023-05-27 |
 | [Lies](https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT) | [Brandon Mints](https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc) | [Lies](https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC) | 2:47 | 2022-05-27 | 2023-07-08 |
 | [Lies](https://open.spotify.com/track/3Hw3X9x03ygMNG4UvnRwtD) | [G\-POL](https://open.spotify.com/artist/3O5mszIMh6g6Dt7YlhCIPM), [Nkzz](https://open.spotify.com/artist/0ZMJzuOlzlup9qPQ4lFi8Z) | [Lies](https://open.spotify.com/album/5EOqu8PShLD59wX0NADkD8) | 4:01 | 2022-03-18 | 2022-09-05 |
@@ -707,7 +708,7 @@
 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-04 | 2024-03-16 |
 | [Nightcap](https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Nightcap](https://open.spotify.com/album/6V5qLt3QspYLRe9Nz8dZ1K) | 2:38 | 2024-09-13 | 2024-12-09 |
 | [NIGHTMARE](https://open.spotify.com/track/3II25HAiRQ5dGlcFYpVrHy) | [Cody Ko](https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5), [Young Nut](https://open.spotify.com/artist/6Qup2N8UoK6Tn3R8V1HSHC) | [NIGHTMARE](https://open.spotify.com/album/0ckQr4EULt42qIQXxf0N7q) | 2:39 | 2024-04-05 | 2025-01-25 |
-| [Nite Mode](https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Trip Trop](https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Nite Mode](https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz) | 3:01 | 2024-05-03 |  |
+| [Nite Mode](https://open.spotify.com/track/4VZM7lUyMpZOYs218ZmRii) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Trip Trop](https://open.spotify.com/artist/6LmNUSHJnlW7mtrLO4ovKX), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Nite Mode](https://open.spotify.com/album/40Vru2ZPCcWG3ajA1sXxgz) | 3:01 | 2024-05-03 | 2025-09-25 |
 | [No Balance](https://open.spotify.com/track/6uzXzIP0vlNWk4j9rX72Xm) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [No Balance](https://open.spotify.com/album/6E1CcygWnu22e8wNXrovR8) | 2:35 | 2023-12-29 | 2024-01-27 |
 | [No Competition](https://open.spotify.com/track/5jSeCIT2DxHiiuYlBHj5uL) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [No Competition](https://open.spotify.com/album/3lumULelHlXz11q1Vlr5sE) | 3:24 | 2022-09-02 | 2022-11-12 |
 | [No Competition](https://open.spotify.com/track/3MpWDGfX21wKbaRBw0qBH4) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO), [Conor Grant](https://open.spotify.com/artist/6XnqmaX7HOSDoHZYQow9zt) | [No Competition](https://open.spotify.com/album/4kMhXDmECb9Xeup4PGXf4p) | 3:13 | 2024-05-24 | 2024-08-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \uc2e0\uc2b9\ud6c8) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \ud5c8\uac01) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1426,6 +1426,24 @@
       "duration_ms": 199250,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1pQluxiSIs5WLyRWgBma7Y"
+    },
+    {
+      "album": {
+        "name": "To The Moon, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234832,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP"
     },
     {
       "album": {
@@ -7875,6 +7893,24 @@
     },
     {
       "album": {
+        "name": "SINCERELY MELODIES",
+        "url": "https://open.spotify.com/album/3TxzTHwIDN6XFVtIVDDA3o"
+      },
+      "artists": [
+        {
+          "name": "Shin Seung Hun",
+          "url": "https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Gravity of You",
+      "url": "https://open.spotify.com/track/2kbxOrQUGHjDzuFpIs8Hev"
+    },
+    {
+      "album": {
         "name": "haeyo (2022)",
         "url": "https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo"
       },
@@ -9688,7 +9724,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 215741,
       "name": "I live in my heart",
       "url": "https://open.spotify.com/track/73Mwr1U5v0FofFkUsg3T8n"
@@ -9874,6 +9910,24 @@
       "duration_ms": 235197,
       "name": "I LUV U (with Mirani)",
       "url": "https://open.spotify.com/track/2a5u3MX1d7Q8gAw1gYQcGk"
+    },
+    {
+      "album": {
+        "name": "I meet you who are infinitely beautiful",
+        "url": "https://open.spotify.com/album/4tO82fvns6ThsiQvZ1AKNO"
+      },
+      "artists": [
+        {
+          "name": "Solji",
+          "url": "https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "I meet you who are infinitely beautiful",
+      "url": "https://open.spotify.com/track/2XiDJ5LIke4IeosYWZk8rZ"
     },
     {
       "album": {
@@ -19232,7 +19286,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 236240,
       "name": "Sadder Than Yesterday",
       "url": "https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9"
@@ -19528,6 +19582,24 @@
       "duration_ms": 224140,
       "name": "See you in the evening",
       "url": "https://open.spotify.com/track/2lV347jDNzJz2OwCVaDhJi"
+    },
+    {
+      "album": {
+        "name": "September 24th",
+        "url": "https://open.spotify.com/album/2PlJYBYhSJlEgduVylmnv4"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "September 24th",
+      "url": "https://open.spotify.com/track/3js6pmrpvOzpSXSwcilFp3"
     },
     {
       "album": {
@@ -25048,7 +25120,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 189546,
       "name": "What else",
       "url": "https://open.spotify.com/track/489iFTivqvY74tf9LSyTHK"
@@ -27386,7 +27458,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 238040,
       "name": "\uadf8\ub300\ub3c4 \ub098\ucc98\ub7fc",
       "url": "https://open.spotify.com/track/427GFsFVqlktdQThIZfRjI"
@@ -27617,6 +27689,24 @@
     },
     {
       "album": {
+        "name": "HEE'story",
+        "url": "https://open.spotify.com/album/7njjoAr4wE9vNrV62SzM6v"
+      },
+      "artists": [
+        {
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "\ub2e4\uc2e0 \ubcfc \uc218 \uc5c6\ub294 \ub0b4 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/46uG4MQDfAbsKi6Exh9zy5"
+    },
+    {
+      "album": {
         "name": "\uc815\uae00\ud53c\uc26c \uc2dc\uc98c2 (Original Television Soundtrack) Pt.1",
         "url": "https://open.spotify.com/album/44aUSMGHB4j4BjLdokQS3M"
       },
@@ -27646,7 +27736,7 @@
       ],
       "date_added": "2025-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 263320,
       "name": "\ub2f9\uc2e0\uc740 \ub204\uad6c\uc2dc\uae38\ub798",
       "url": "https://open.spotify.com/track/0UlPE1vfDH8SVNfYrF81Zq"

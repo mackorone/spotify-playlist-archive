@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > 🔥 A new mixtape drop every Thursday🔥Esau Ortiz is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,082 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,020 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Olvidándote](https://open.spotify.com/track/0JP1UuIeyF9Sc9iAeMZ7Gf) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ) | [Olvidándote](https://open.spotify.com/album/2gyn6Xb9HHMOhHZssHy3xE) | 2:30 |
 | 2 | [La Ciudad del Sol](https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [La Ciudad del Sol](https://open.spotify.com/album/49pJTurTujrSQA2I5QWRMC) | 3:25 |
 | 3 | [King of Watches](https://open.spotify.com/track/3QJXJACwdZ3EaIqdF5ZiXh) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 2:27 |
-| 4 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 4 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 5 | [6 Veces](https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Meneo](https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp) | 2:13 |
 | 6 | [Lokota](https://open.spotify.com/track/6t6nppgClHgZlwYfwyuiTW) | [Alan Arrieta](https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr) | [Lokota](https://open.spotify.com/album/3VgpuRu1Dh0ir1oUHSR43I) | 2:23 |
 | 7 | [GTO](https://open.spotify.com/track/3h0AYC4XxstxeJ3TGHcLXY) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [CRISTIAN \(Deluxe Version\)](https://open.spotify.com/album/1K7s2ph3qP2lmfe6nH9e9n) | 2:37 |

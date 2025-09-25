@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Jo Black",
-  "num_followers": 133883,
+  "num_followers": 133968,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -123,8 +123,8 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+        "name": "Jannaman",
+        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
+      "duration_ms": 205114,
+      "name": "Jannaman",
+      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -225,22 +225,6 @@
       "url": "https://open.spotify.com/track/5C34K01X7SH8IK19GhnLKG"
     },
     {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Jannaman",
-        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 205114,
-      "name": "Jannaman",
-      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
-    },
-    {
       "added_at": "2025-09-11 22:00:22",
       "album": {
         "name": "Genesis",
@@ -255,6 +239,22 @@
       "duration_ms": 216992,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6Ko5US40P263KBvES0HAdJ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -707,18 +707,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+        "name": "Klein Dingetjies",
+        "url": "https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        },
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
         }
       ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+      "duration_ms": 177983,
+      "name": "Iemand Soos Jy",
+      "url": "https://open.spotify.com/track/298k3iGimVSsClUG9KolBF"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -743,22 +747,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Klein Dingetjies",
-        "url": "https://open.spotify.com/album/6Vr6vWjW8ZZOpqbDrDUSmI"
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
       },
       "artists": [
         {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        },
-        {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
         }
       ],
-      "duration_ms": 177983,
-      "name": "Iemand Soos Jy",
-      "url": "https://open.spotify.com/track/298k3iGimVSsClUG9KolBF"
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Haar Naam Is Afrikaans",
         "url": "https://open.spotify.com/album/0sBybxvusxt9zZiRLRYOJN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 172850,
       "name": "Trek Hom Plat",
       "url": "https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2025-08-21 22:00:39",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Besonders",
-        "url": "https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Besonders",
-      "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Lag",
         "url": "https://open.spotify.com/album/2T2I88ZxUKKddoYiJhLd0k"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 183967,
       "name": "Lag",
       "url": "https://open.spotify.com/track/3R8GgzGMtJ27pDr6OcazYV"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Besonders",
+        "url": "https://open.spotify.com/album/0SfCOXqj6vf7A69fAaJveT"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Besonders",
+      "url": "https://open.spotify.com/track/6vSty2JOrCagay8asSyed8"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Help 'n Bietjie",
-        "url": "https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ"
-      },
-      "artists": [
-        {
-          "name": "Wentzel",
-          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Help 'n Bietjie",
-      "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Dis Raak",
         "url": "https://open.spotify.com/album/6dLkeTp5fa8hwL8GXVqpa1"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "Help 'n Bietjie",
+        "url": "https://open.spotify.com/album/4WLars8ByBjJCieOdg3ZRJ"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Help 'n Bietjie",
+      "url": "https://open.spotify.com/track/7ITFyeRy9nJZQPqKtJvAN4"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Diepseeduiker 17",
         "url": "https://open.spotify.com/album/3f4di9rXmSluZdoknKpgpz"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 165149,
       "name": "Diepseeduiker 17",
       "url": "https://open.spotify.com/track/2gQutDwmbRbdTi23qqBlsu"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "By Die Dam",
-        "url": "https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ"
-      },
-      "artists": [
-        {
-          "name": "Marno van der Merwe",
-          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
-        }
-      ],
-      "duration_ms": 188357,
-      "name": "By Die Dam",
-      "url": "https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
+        "name": "By Die Dam",
+        "url": "https://open.spotify.com/album/4vlClvEqxXba4pYE8E2tSZ"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "duration_ms": 188357,
+      "name": "By Die Dam",
+      "url": "https://open.spotify.com/track/5e7VN92fFQVhndeT1rXGGB"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
         "name": "Nommer Hou",
         "url": "https://open.spotify.com/album/4M4W4MIDgja1IM0aK5u1Mj"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 186241,
       "name": "Nommer Hou",
       "url": "https://open.spotify.com/track/57OTW0AVZzCVowuqFQyryQ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "In Die Bos",
+        "url": "https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "In Die Bos",
+      "url": "https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "In Die Bos",
-        "url": "https://open.spotify.com/album/0E3pQVCPtTf1RBES34o2Ba"
-      },
-      "artists": [
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "In Die Bos",
-      "url": "https://open.spotify.com/track/2W08UPelYpZcUDbscK7jcv"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
         "name": "Ek Hou Van",
         "url": "https://open.spotify.com/album/20qhnlZWxfQHIETLWlu6kD"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 192295,
       "name": "Ek Hou Van",
       "url": "https://open.spotify.com/track/2d0BTAtkxkg31RSDojepYY"
-    },
-    {
-      "added_at": "2025-08-14 22:00:43",
-      "album": {
-        "name": "Pitte",
-        "url": "https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq"
-      },
-      "artists": [
-        {
-          "name": "Ivan Roux",
-          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
-        }
-      ],
-      "duration_ms": 180133,
-      "name": "Pitte",
-      "url": "https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5"
     },
     {
       "added_at": "2025-09-18 22:00:35",
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-08-14 22:00:43",
       "album": {
-        "name": "Asseblief",
-        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
+        "name": "Pitte",
+        "url": "https://open.spotify.com/album/6Rb1q0mdQ31thBPrlO7UQq"
       },
       "artists": [
         {
-          "name": "Elandr\u00e9",
-          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
         }
       ],
-      "duration_ms": 207812,
-      "name": "Asseblief",
-      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
+      "duration_ms": 180133,
+      "name": "Pitte",
+      "url": "https://open.spotify.com/track/6pAA17mpMNN7UfEzEDMTu5"
     },
     {
       "added_at": "2025-08-14 22:00:43",
@@ -1323,6 +1307,22 @@
       "duration_ms": 161589,
       "name": "Wynland",
       "url": "https://open.spotify.com/track/1Jrtl0GAYhGbk23ixM8tqX"
+    },
+    {
+      "added_at": "2025-08-14 22:00:43",
+      "album": {
+        "name": "Asseblief",
+        "url": "https://open.spotify.com/album/1oBeiY0DMloFDZwQqKyReO"
+      },
+      "artists": [
+        {
+          "name": "Elandr\u00e9",
+          "url": "https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "Asseblief",
+      "url": "https://open.spotify.com/track/4u8jDrfDVUIiO5ZHPWC95z"
     },
     {
       "added_at": "2025-08-14 22:00:43",

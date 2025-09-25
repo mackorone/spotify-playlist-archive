@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-443 songs - 23 hr 32 min
+446 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [came here 4 fun](https://open.spotify.com/track/0oSPHFigMEOS67fo6bbo3Y) | [Albader](https://open.spotify.com/artist/1RnDhsfDlMPFJhTOgiKwb0) | [came here 4 fun](https://open.spotify.com/album/5AvFSf697HQ1JvGFM3hurz) | 3:20 | 2024-04-30 | 2024-08-14 |
 | [Can't Imagine](https://open.spotify.com/track/5m45mmeHpiKfhQjgd9xWcm) | [Sizer](https://open.spotify.com/artist/6RW2HOMCsUtTj7YiVdVMQD) | [Can't Imagine](https://open.spotify.com/album/1IfPSY68gmTfFziU03FBlh) | 2:22 | 2022-11-23 | 2023-01-25 |
 | [Caravan Flow](https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX) | [Soof](https://open.spotify.com/artist/2ubCUPUvkTug5bB3vRNrQo) | [Caravan Flow](https://open.spotify.com/album/39S4YTM2k91hwLIBVhIeSI) | 2:43 | 2022-09-20 | 2022-11-02 |
-| [Carlos](https://open.spotify.com/track/6FLCfjtaMnrPEekgs8gXvo) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Ameen](https://open.spotify.com/album/2OUcKfMj7bfT835aMtnfRX) | 2:33 | 2025-01-22 |  |
+| [Carlos](https://open.spotify.com/track/6FLCfjtaMnrPEekgs8gXvo) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Ameen](https://open.spotify.com/album/2OUcKfMj7bfT835aMtnfRX) | 2:33 | 2025-01-22 | 2025-09-25 |
 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 | 2023-05-17 | 2024-01-17 |
 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 | 2023-03-29 | 2023-07-19 |
 | [Chokran](https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B) | [ASSIF](https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7) | [Chokran](https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB) | 1:58 | 2025-04-17 |  |
@@ -197,6 +197,7 @@
 | [Laa](https://open.spotify.com/track/1xyE7A0oSKNdUcRmCau56F) | [Rust](https://open.spotify.com/artist/1XzT6srnxzyGocVsjgrdWR) | [Laa](https://open.spotify.com/album/1AoAHD9U2WcFPt0TTJ9yhu) | 3:16 | 2024-04-30 | 2024-07-10 |
 | [Labne](https://open.spotify.com/track/08cYvT2vMUYghriRJIkzsc) | [TheSaif](https://open.spotify.com/artist/6wE2ow6Lhp2eO5t71wygwA) | [Labne](https://open.spotify.com/album/4ZMgscJJfOnbEqao16afO8) | 3:30 | 2022-12-13 | 2023-01-18 |
 | [Lafena](https://open.spotify.com/track/2nn8d3beF6cbZUOgwFo874) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Lafena](https://open.spotify.com/album/7vJjPvXyxOV7hRb9e3hhhW) | 3:16 | 2024-06-26 | 2024-10-02 |
+| [LAMA AB’A MAAK](https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q) | 2:59 | 2025-09-24 |  |
 | [Last Time That I Saw You](https://open.spotify.com/track/1hspuwdjIRtcmTi7QkC7fM) | [Abra Salem](https://open.spotify.com/artist/5FO7kzy6wVe7lGKOOGZ1y6) | [Last Time That I Saw You](https://open.spotify.com/album/58RWGR3hxvhVELh5hOpFrn) | 3:41 | 2023-09-06 | 2024-05-02 |
 | [Law Tes'aleeny](https://open.spotify.com/track/5ug0O0aWp6ZTNPLwKno7MX) | [Stigma](https://open.spotify.com/artist/19tDakgScrQj3wRGWdj87v) | [Law Tes'aleeny](https://open.spotify.com/album/2ubJvQHuxfAPdbmDpNg5y1) | 3:50 | 2024-02-07 | 2024-06-27 |
 | [Leh \(ليش\)](https://open.spotify.com/track/2jPcIPZC1ib88HgCtCxTlO) | [Norhan](https://open.spotify.com/artist/4GEoaIvEquHnb4yy28scNj) | [Leh \(ليش\)](https://open.spotify.com/album/6BmoWEvQAaZsdhxfnSHuT2) | 3:06 | 2024-04-30 | 2024-08-14 |
@@ -218,7 +219,7 @@
 | [Lvl Up](https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv) | [Ish Akanour](https://open.spotify.com/artist/69JgwhIi9mUCrs93Vgkxv2) | [Lvl Up](https://open.spotify.com/album/37igg8BKQ3Ud3eYJmWnSmf) | 2:24 | 2023-07-05 | 2024-02-21 |
 | [Lwad Wadi](https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE) | [JAMRAH جَمْرَهْ](https://open.spotify.com/artist/0xyOmQLLbfLXZ47KdwjDa4) | [Lwad Wadi](https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT) | 3:42 | 2025-05-15 |  |
 | [Ma Tkhayalt](https://open.spotify.com/track/3ru4PURRYxNQ8tzzHOK3Nr) | [RAMII](https://open.spotify.com/artist/085VeFqXoFk5oonsAD2H3M) | [Ma Tkhayalt](https://open.spotify.com/album/1u4yJ7b6Ip57itMBiJtI1D) | 3:12 | 2024-11-06 | 2025-05-17 |
-| [Ma7atta](https://open.spotify.com/track/0euDvd4QFkYT3l6odgwHM1) | [CØZMIC](https://open.spotify.com/artist/4ryHxFelvcMsJw8yox4M5H), [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [Ma7atta](https://open.spotify.com/album/0LOP57Nq57T9tHNfcQKvbA) | 3:49 | 2025-01-22 |  |
+| [Ma7atta](https://open.spotify.com/track/0euDvd4QFkYT3l6odgwHM1) | [CØZMIC](https://open.spotify.com/artist/4ryHxFelvcMsJw8yox4M5H), [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv) | [Ma7atta](https://open.spotify.com/album/0LOP57Nq57T9tHNfcQKvbA) | 3:49 | 2025-01-22 | 2025-09-25 |
 | [Made For Me](https://open.spotify.com/track/1bOtt0UybwLqlAx8ZIENRp) | [PINS3Y](https://open.spotify.com/artist/3OwkZqr5cHnzGkSvuxWR8u) | [Made For Me](https://open.spotify.com/album/3Y1iiU711siPApv6AgW41S) | 4:39 | 2024-01-16 | 2024-05-23 |
 | [Mademoiselle](https://open.spotify.com/track/6qjU4sZnbaRGOdJ4ikXFck) | [Casa Vince](https://open.spotify.com/artist/4g6yjgUDDKTVTjoPoFpgSb) | [Mademoiselle](https://open.spotify.com/album/1ItCnlUOkiAoyOuDwWo5Kn) | 2:47 | 2024-05-14 | 2024-08-14 |
 | [Magnesium](https://open.spotify.com/track/4eapcfPXRl0kRoFOrJl0On) | [Magnum Ghandour](https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ) | [Magnesium](https://open.spotify.com/album/4EmTcy8IQD4PDLyj5KoUAk) | 2:33 | 2023-08-01 | 2024-01-17 |
@@ -269,6 +270,7 @@
 | [Needless](https://open.spotify.com/track/0jg7Ae67TGs8uDFhsW6Xri) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Needless](https://open.spotify.com/album/2VwLQ9E20MkOMiPFY7DruA) | 2:16 | 2023-09-06 | 2024-05-01 |
 | [New Era](https://open.spotify.com/track/69xWOlbsxXfmnyF6fyISpJ) | [Sara Selina](https://open.spotify.com/artist/1wAuFuBFLTt9xpVGIipLd9) | [Listen](https://open.spotify.com/album/6TGtfvKgb946wuwE6ck16P) | 2:44 | 2024-09-11 | 2024-11-27 |
 | [Night n Day](https://open.spotify.com/track/12GvebbxR0WMf79NwMBphn) | [Chase](https://open.spotify.com/artist/2QGv8ZbI72ZIpY9GUifmbp) | [Night n Day](https://open.spotify.com/album/6GWsijVQIFTc5MKIsazt66) | 1:58 | 2024-04-30 | 2024-08-14 |
+| [Nirvana](https://open.spotify.com/track/30bp5UpQK5wuHSMTLMfbUt) | [Scander X](https://open.spotify.com/artist/5Q5w75TqeQPev9vx2bkvpT) | [Nirvana](https://open.spotify.com/album/3WnvwajqZLvFfi3bdy7OfE) | 2:34 | 2025-09-24 |  |
 | [Nobody but you](https://open.spotify.com/track/67aZFyP1HZYLgDgqphrP6q) | [Dina Stars](https://open.spotify.com/artist/672Rg2Kir00jUgMDP3lafa) | [Nobody but you](https://open.spotify.com/album/2gZPtzWqHtolrCgjvUZHF0) | 2:42 | 2023-03-01 | 2023-03-08 |
 | [Nobody Pass You](https://open.spotify.com/track/1RsJEjWqWK5DfxvxiPIrza) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3), [Weyinmi](https://open.spotify.com/artist/0xf5q9m5lHOBdPh13Kp16c) | [Nobody Pass You](https://open.spotify.com/album/1jat5mK7rOJvKwnlbWH7M3) | 2:39 | 2022-09-20 | 2023-02-15 |
 | [Nocturnal\. 271022](https://open.spotify.com/track/4YvUEU1RrTQesua69Yhpds) | [CaveMannn](https://open.spotify.com/artist/6B0Uagp1PErbaZ8mpky7yY), [CaveMann](https://open.spotify.com/artist/6LEuTJkGGhJ1xBbJkNESJs) | [Nocturnal\. 271022](https://open.spotify.com/album/5CcimGJp9JYkgnLYHMJIKS) | 11:22 | 2022-11-15 | 2023-03-08 |
@@ -334,7 +336,7 @@
 | [Shams](https://open.spotify.com/track/28SXiBx1PK0E8cnpxBuZoq) | [3yooni](https://open.spotify.com/artist/6YoB73qJnT7MgkHcV53x1d) | [Shams](https://open.spotify.com/album/0KeHPXmyhc0OnogTjL0ALf) | 3:41 | 2024-08-13 | 2024-11-07 |
 | [Shams](https://open.spotify.com/track/2cxPQqNhII3kta4S1Wq0ga) | [Nour Harkati](https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ) | [Shams](https://open.spotify.com/album/6ZUBxaMA0lBhepxO0tERaJ) | 2:22 | 2024-06-26 | 2024-10-02 |
 | [Shar](https://open.spotify.com/track/3P2kcZwsngegqgCMyfiEtE) | [Zelci](https://open.spotify.com/artist/0yuuL1bDTmVwdqpKzVAkUx) | [Shar](https://open.spotify.com/album/3RfZOrxXtIjR0aaR7OIsQs) | 2:36 | 2024-09-11 | 2024-11-27 |
-| [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 | 2025-01-22 |  |
+| [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 | 2025-01-22 | 2025-09-25 |
 | [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 | 2025-02-17 |  |
 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 | 2025-08-07 |  |
 | [Shta2tella](https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0) | [Ibby VK](https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS) | [Shta2tella](https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B) | 1:55 | 2023-02-14 | 2023-03-22 |
@@ -435,6 +437,7 @@
 | [دنیا](https://open.spotify.com/track/3DZh4G7frGfIp4z4qRBew9) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [دنیا](https://open.spotify.com/album/3xppr5g8VXteFX9DQGzizx) | 3:39 | 2022-09-20 | 2023-01-18 |
 | [راجع تاني](https://open.spotify.com/track/5e7Cti5SSEva3BQlpkZPyN) | [Ahmed Alaa](https://open.spotify.com/artist/2sbhLUkAWHoLHm7cdePSJt) | [راجع تاني](https://open.spotify.com/album/69KYXrSwaUKjHQcul5o6nQ) | 4:07 | 2025-05-16 |  |
 | [سكر](https://open.spotify.com/track/06AmBlF4cSGYkLJvQ5JSSk) | [ASTRO](https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv), [Yung DrowN](https://open.spotify.com/artist/0SnhNNbdHuHe5ezJ9ztdQT) | [سكر](https://open.spotify.com/album/6te4W3H4rMPEVj1cgR2ZE5) | 4:22 | 2024-05-14 | 2024-09-12 |
+| [شط جديد \(a new shore\)](https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM) | [BOSA](https://open.spotify.com/artist/5QagSMWCwD4XpeGRRQ7AvG) | [شط جديد \(a new shore\)](https://open.spotify.com/album/3KnGdI9DaPzIOSEVO4xTtL) | 2:58 | 2025-09-24 |  |
 | [طوفان](https://open.spotify.com/track/6DzSH06EC0ZHUnlhNkfzup) | [Nagham Saleh](https://open.spotify.com/artist/0wrEkzmsrMABB9Kd3IBuuL), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [طوفان](https://open.spotify.com/album/5MfAP8f8YEshTl5QHN7H4C) | 3:28 | 2025-02-17 |  |
 | [عمل فني](https://open.spotify.com/track/19pRKlcApnYlaRmffunH6j) | [Omar Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv), [Mshakil](https://open.spotify.com/artist/7rEHTsxNUpE6DSntwxhAqL) | [عمل فني](https://open.spotify.com/album/3AsxD44bLyQxefLvLj3cy0) | 2:49 | 2022-09-20 | 2022-11-09 |
 | [عيدلي](https://open.spotify.com/track/3BdZArn7DZxrnaczmAne39) | [Good Company](https://open.spotify.com/artist/3ulWaH4088h2Yeop0R1lh5), [Tararu](https://open.spotify.com/artist/52TAwlnhIQrzlSW4Tsc6dK) | [عيدلي](https://open.spotify.com/album/5b5S0FbQ748DB4XiV9AhYl) | 2:49 | 2023-03-21 | 2023-04-12 |

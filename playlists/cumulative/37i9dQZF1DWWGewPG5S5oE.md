@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: soraya
 
-444 songs - 1 day 11 hr 59 min
+446 songs - 1 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 | 2023-03-21 | 2023-11-22 |
 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 | 2022-09-06 | 2022-11-23 |
 | [9 P.M.](https://open.spotify.com/track/2Gqmm2IOcDwUZCsETTdCd7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [9 P.M.](https://open.spotify.com/album/44wIm9dGMuTJ7Tt1osYmLe) | 3:35 | 2023-10-31 | 2023-12-18 |
+| [A Like Button](https://open.spotify.com/track/35V2QIabOOIYxCKO9pPDBZ) | [Hikari Ichihara](https://open.spotify.com/artist/24yfyKeDTEjTZNiMP3MjQD) | [A Like Button](https://open.spotify.com/album/2K0GGXA7s46AcaYcsRsdBC) | 5:24 | 2025-09-24 |  |
 | [A Midsummer Night's Dream](https://open.spotify.com/track/14Ggh4Zw5ry2N1VJhP5La7) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [A Midsummer Night's Dream](https://open.spotify.com/album/4zrSXhqiZDjPrUEmq924vY) | 4:04 | 2023-08-22 | 2024-02-14 |
 | [A Monk In Ascending And Descending](https://open.spotify.com/track/6zl6yzOjSebyndp1FwzHWV) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [A Monk In Ascending and Descending](https://open.spotify.com/album/7y6OoPAJOs8ddYeWQ6wtFU) | 8:44 | 2023-07-18 | 2023-10-18 |
 | [A moving scenery](https://open.spotify.com/track/12Kde7WQLNBuhRbhYLKsMe) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [A moving scenery](https://open.spotify.com/album/1omDBH79EAdDBFMMS1ZSvH) | 5:43 | 2023-06-13 | 2023-07-08 |
@@ -100,7 +101,7 @@
 | [Departure](https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Moonlit](https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy) | 10:58 | 2023-11-21 | 2024-05-29 |
 | [Deviation](https://open.spotify.com/track/1SowJLvffS3DpdSZSo7Dqp) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Deviation](https://open.spotify.com/album/0yu1Tjyt3bfdxTnwtiyUug) | 6:57 | 2024-11-05 | 2024-11-13 |
 | [Diamond](https://open.spotify.com/track/0arhxnQAkg44kM210Bkcyd) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Diamond](https://open.spotify.com/album/1BXLeznw9Wd14w2PshUVvc) | 5:50 | 2024-04-02 | 2024-05-29 |
-| [Dig Deep \(feat.Jairo）](https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Jairo](https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM) | [Dig Deep \(feat\. Jairo\)](https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85) | 4:30 | 2025-02-26 |  |
+| [Dig Deep \(feat.Jairo）](https://open.spotify.com/track/0Na5bpStCY4VVDshwfBjLm) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Jairo](https://open.spotify.com/artist/7Me7P1y6x4I5xkHkCEkfpM) | [Dig Deep \(feat\. Jairo\)](https://open.spotify.com/album/4QWMRK9NfzqyYKXTkN2Z85) | 4:30 | 2025-02-26 | 2025-09-25 |
 | [dnp](https://open.spotify.com/track/6H43tmO7fAnFGA0MCLHXpl) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [dnp](https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6) | 4:11 | 2023-10-10 | 2023-11-29 |
 | [Dragonwa Noboru \- Live at Tokyo Opera City Concert Hall / 2024](https://open.spotify.com/track/63RFMDC0GwV64toJCsz0ld) | [Akiko Yano](https://open.spotify.com/artist/4edePQHgbrc5h00ChgnQns), [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Step Into Paradise \-LIVE IN TOKYO\-](https://open.spotify.com/album/648R59fQPldVJe9v4mQ2aM) | 6:07 | 2024-12-10 | 2025-03-05 |
 | [Drummer is Dreamer](https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Drummer is Dreamer](https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs) | 2:30 | 2024-12-03 | 2025-02-01 |
@@ -139,6 +140,7 @@
 | [Good Thing Will Happen](https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta) | [Light Music Society](https://open.spotify.com/artist/1uhicIWb5CGO8NLsWX1a5q), [Yu KUga](https://open.spotify.com/artist/6xQwMgylM6kuOlQJ5MW47s) | [From Where The Sun Rises](https://open.spotify.com/album/4Cccfl5EmABNIq7YFedo5z) | 6:45 | 2023-03-28 | 2023-04-19 |
 | [Goreezin'](https://open.spotify.com/track/0EqXbkxKfOpJl6XfqNOkwu) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Goreezin'](https://open.spotify.com/album/2flFBbyybmmy7nB4NTnWWd) | 5:29 | 2022-09-06 | 2022-10-19 |
 | [Gotta Be Happy](https://open.spotify.com/track/5Jdr6tDNTTROnTlE0Itb6Z) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Gotta Be Happy](https://open.spotify.com/album/6ouBUpD5orNd1zWTuwpSMl) | 6:44 | 2024-10-23 | 2024-11-06 |
+| [Gravity](https://open.spotify.com/track/4y91NCwOXl4y3wM9S40N3v) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [Motion](https://open.spotify.com/album/3vvWOj5tFzPWTGMQRfODnX) | 5:49 | 2025-09-24 |  |
 | [Green eyes](https://open.spotify.com/track/0ySyV6a1xo5Gk1PQ0bmiTl) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf), [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr), [守真人](https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Green eyes](https://open.spotify.com/album/7nd4hO2NK4Agm1vdF9rXez) | 4:50 | 2025-07-01 |  |
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
 | [HAGAKURE](https://open.spotify.com/track/1i7mphSVtYRYQq7udj2khv) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [HAGAKURE](https://open.spotify.com/album/2EQ9eVENJbi9FYY9VxTifC) | 3:41 | 2024-07-02 | 2025-07-30 |
@@ -393,7 +395,7 @@
 | [お鶴](https://open.spotify.com/track/7pXOQzssyTtQgg0JEPlJHZ) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [An Airship](https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307) | 4:39 | 2024-12-17 |  |
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 | 2024-11-13 |
 | [さくらんぼの実る頃（紅の豚）](https://open.spotify.com/track/5HaBg5dAjWykVsYAYEYKt9) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:37 | 2024-05-28 | 2024-12-18 |
-| [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 | 2023-05-16 |  |
+| [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 | 2023-05-16 | 2025-09-25 |
 | [ほとり](https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ほとり](https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj) | 5:09 | 2022-09-06 | 2022-11-20 |
 | [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 | 2022-09-06 | 2022-09-21 |
 | [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2023-05-10 |

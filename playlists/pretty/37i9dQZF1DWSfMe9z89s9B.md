@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,126 likes - 150 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,717 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

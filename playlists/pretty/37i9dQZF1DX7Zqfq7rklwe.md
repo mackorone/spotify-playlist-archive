@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. Kannessa Aerosmith ja YUNGBLUD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,588 likes - 87 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,586 likes - 87 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

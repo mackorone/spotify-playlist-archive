@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz & Rels B, Yan Block, María Becerra & TINI, Miley Cyrus y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,186 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,193 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

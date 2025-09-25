@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,243 songs - 5 day 0 hr 9 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,245 songs - 5 day 0 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2251,5 +2251,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2241 | [Silverlining](https://open.spotify.com/track/1xCNKflmCjPfOV6ihH15Cc) | [SHFTR](https://open.spotify.com/artist/0yw1drC4wSupncABpmkH98) | [Silverlining](https://open.spotify.com/album/1cCUkyZLP4W09EyVejFdLl) | 3:30 |
 | 2242 | [Sensação Sacode](https://open.spotify.com/track/0Az3EKYURfSBiDXNWegELF) | [Furacão 2000](https://open.spotify.com/artist/22nkIVS7afh6A7hdd9Lze0), [DJ Dedé](https://open.spotify.com/artist/65pfxB1XLYKdtd6rKYJGDO) | [Furacão 2000 Sensação Sacode](https://open.spotify.com/album/1IVFLiIrxMGAJiweorO5ZR) | 2:43 |
 | 2243 | [pack up ya bags](https://open.spotify.com/track/7w5jefRiOIEs0M5udJxyhd) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [pack up ya bags](https://open.spotify.com/album/0og4mtbbCk4n0oYcqFI3vC) | 2:12 |
+| 2244 | [Noche Y Dia](https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Noche Y Dia](https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs) | 2:32 |
+| 2245 | [Inside](https://open.spotify.com/track/5AACEBhCH579PdVh90ShvC) | [Slim Sinna](https://open.spotify.com/artist/16PQzIArEPbyu29a63l1pZ) | [Come Alive](https://open.spotify.com/album/0rKDAbuTkGHNX5qSrsOa2e) | 4:50 |
 
-Snapshot ID: `AAAEt2aW3otYHaJr9hcAg3Gbw1nLvLNe`
+Snapshot ID: `AAAEuS6wj/63x1tJJ7YUyhys4PqSsWIa`

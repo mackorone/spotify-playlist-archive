@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 > This is Brenda Fassie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,979 likes - 49 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,985 likes - 49 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 23 | [Ag Shame Lovey](https://open.spotify.com/track/2AHfwp6WJIYDVu2ZM4MlMS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey \(Live Remixed\)](https://open.spotify.com/album/0dGDWDL5KogcG3f5DGH744) | 5:19 |
 | 24 | [Nakupenda \(I Love You\)](https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:37 |
 | 25 | [I Can't Stop Loving You](https://open.spotify.com/track/6qhfrCJkCrQsyhqt1tpRIG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 4:05 |
-| 26 | [Wewe \(African Wedding\)](https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:48 |
-| 27 | [Mama](https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mama](https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42) | 4:30 |
+| 26 | [Mama](https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mama](https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42) | 4:30 |
+| 27 | [Wewe \(African Wedding\)](https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:48 |
 | 28 | [Matshidiso](https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Gimme Some Volume](https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO) | 5:01 |
 | 29 | [Ntsware \- Ndibambe](https://open.spotify.com/track/2CbMJFrNNXHFEJ0rfvAg8I) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mali](https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP) | 5:55 |
 | 30 | [Party Time \- Kuya Ngokuthi Ungubani](https://open.spotify.com/track/1BNqCfgKVNePaG8AKR1qzw) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:31 |

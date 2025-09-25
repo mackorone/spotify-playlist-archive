@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: lightcraft, RIMALDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,553 likes - 110 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,560 likes - 110 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con RIXXIA hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,232 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,233 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 5 | [Hecho para ti](https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Hecho para ti](https://open.spotify.com/album/19lPl55GNoCaflIzowXkUC) | 2:32 |
 | 6 | [Deseo](https://open.spotify.com/track/6xjcytPuh26uTqtOPeUf2D) | [Alanis Yuki](https://open.spotify.com/artist/78wDefnHex943QL32ggbx6) | [Deseo](https://open.spotify.com/album/0hjPOLaDHLy1xurF6FBCOB) | 1:48 |
 | 7 | [mwah :3](https://open.spotify.com/track/0OK4Dhc10O8cTXdesihLGL) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Dinamarca](https://open.spotify.com/artist/4YFGNIynoM4Kq6f4VcZ7SX) | [mwah :3](https://open.spotify.com/album/20mHriSaQYEi1ls1NgV3hK) | 2:02 |
-| 8 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 8 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 9 | [cash cash](https://open.spotify.com/track/6EzomjCdOsOBJna2gFxJ6Q) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn) | [T.V ADDICT](https://open.spotify.com/album/6KfTjOfKY3UKBHeonlTH8K) | 2:41 |
 | 10 | [Bellakeras](https://open.spotify.com/track/48X4uznQyqCkklQ9278oj6) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [Jimmy Guzman](https://open.spotify.com/artist/3A4wpNVgD1v07jIbFQBVTr), [DimeloooLexx](https://open.spotify.com/artist/0pQdk4uZKj9CljcSt9jCSO) | [Jokes on me 4](https://open.spotify.com/album/0kZYkpFF3rflVfTOGMjiEz) | 2:45 |
 | 11 | [Super](https://open.spotify.com/track/4u5hMlAk0FpBsgReJ7Rpfy) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [80'z](https://open.spotify.com/album/67YvgeZeleDvyK1sdaxi6G) | 1:43 |

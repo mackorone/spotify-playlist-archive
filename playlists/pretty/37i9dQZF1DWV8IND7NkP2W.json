@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 532051,
+  "num_followers": 532039,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "Muscot",
+        "url": "https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Hotaru",
+      "url": "https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "At\u00e9lier",
         "url": "https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 181880,
       "name": "At\u00e9lier",
       "url": "https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "Muscot",
-        "url": "https://open.spotify.com/album/4SND1sjGy3qhhQYL13UjLI"
-      },
-      "artists": [
-        {
-          "name": "ORANCHA",
-          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Hotaru",
-      "url": "https://open.spotify.com/track/6dOgXIJVo4FPXN1dKaVzeS"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -183,26 +183,6 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Raincoat (Paul Grant Remix)",
-        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Raincoat (Paul Grant Remix)",
-      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
       },
@@ -215,6 +195,22 @@
       "duration_ms": 189902,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -239,18 +235,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "Raincoat (Paul Grant Remix)",
+        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+      "duration_ms": 193125,
+      "name": "Raincoat (Paul Grant Remix)",
+      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "ameagari",
+        "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 252473,
+      "name": "ameagari",
+      "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7cq3zDj5M57yU1otnKnXmp"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 115459,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/1ERwuTx0trzOreb3GcdP8P"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "ameagari",
-        "url": "https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 252473,
-      "name": "ameagari",
-      "url": "https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -419,6 +419,26 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "World's Famous",
+        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
+      },
+      "artists": [
+        {
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+        },
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "duration_ms": 191747,
+      "name": "World's Famous",
+      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "Memories of Furniture",
         "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 228485,
       "name": "On My Way Home - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "World's Famous",
-        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
-      },
-      "artists": [
-        {
-          "name": "DJ KOCO aka SHIMOKITA",
-          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
-        },
-        {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
-        }
-      ],
-      "duration_ms": 191747,
-      "name": "World's Famous",
-      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -623,26 +623,18 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "reminisce",
-        "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
+        "name": "On My Way Home",
+        "url": "https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou"
       },
       "artists": [
         {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        },
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        },
-        {
-          "name": "Kzyboost",
-          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
         }
       ],
-      "duration_ms": 169074,
-      "name": "reminisce",
-      "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
+      "duration_ms": 194337,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -667,18 +659,26 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "On My Way Home",
-        "url": "https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou"
+        "name": "reminisce",
+        "url": "https://open.spotify.com/album/3hgNp3JLIj9YqRo3RuvWeC"
       },
       "artists": [
         {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        },
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        },
+        {
+          "name": "Kzyboost",
+          "url": "https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil"
         }
       ],
-      "duration_ms": 194337,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc"
+      "duration_ms": 169074,
+      "name": "reminisce",
+      "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -811,6 +811,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "The Black Cat",
+        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 112421,
+      "name": "The Black Cat",
+      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "\u6ce2\u7d0b",
         "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 189878,
       "name": "\u6ce2\u7d0b",
       "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "The Black Cat",
-        "url": "https://open.spotify.com/album/7tEUtlosnY6o9TOpwXLo1H"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 112421,
-      "name": "The Black Cat",
-      "url": "https://open.spotify.com/track/2vsmgJtLMx0HiQX9JWzYDe"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
         "name": "Entering the Golden Gai",
         "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 178536,
       "name": "Entering the Golden Gai",
       "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1015,26 +1015,6 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Another Dream",
-        "url": "https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8"
-      },
-      "artists": [
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        },
-        {
-          "name": "Lucid Green",
-          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "Another Dream",
-      "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
         "name": "Smiling World",
         "url": "https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 126076,
       "name": "Smiling World",
       "url": "https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
+        "name": "Another Dream",
+        "url": "https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8"
+      },
+      "artists": [
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        },
+        {
+          "name": "Lucid Green",
+          "url": "https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs"
+        }
+      ],
+      "duration_ms": 171785,
+      "name": "Another Dream",
+      "url": "https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
+      },
+      "artists": [
+        {
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
+        },
+        {
+          "name": "AYG",
+          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "Night Step",
         "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
       },
@@ -1151,38 +1171,18 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
       "artists": [
         {
-          "name": "Akio Watanabe",
-          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
-        },
-        {
-          "name": "AYG",
-          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 160500,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "20250327",
-        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 144498,
-      "name": "20250327",
-      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1231,34 +1231,18 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+        "name": "20250327",
+        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
       },
       "artists": [
         {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+      "duration_ms": 144498,
+      "name": "20250327",
+      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "MAR",
         "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
       },
@@ -1311,22 +1311,6 @@
       "duration_ms": 169894,
       "name": "MAR",
       "url": "https://open.spotify.com/track/38mHYq8J7mGPl7M9S6aGlS"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1355,22 +1339,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Late Summer",
-        "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
+        "name": "Resynthesis (Yellow)",
+        "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
       },
       "artists": [
         {
-          "name": "Dinis",
-          "url": "https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq"
+          "name": "grooveman Spot",
+          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
         },
         {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+          "name": "Kent",
+          "url": "https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7"
         }
       ],
-      "duration_ms": 154520,
-      "name": "Late Summer",
-      "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+      "duration_ms": 249107,
+      "name": "4 Ever",
+      "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1395,38 +1379,38 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Resynthesis (Yellow)",
-        "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
       },
       "artists": [
         {
-          "name": "grooveman Spot",
-          "url": "https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa"
-        },
-        {
-          "name": "Kent",
-          "url": "https://open.spotify.com/artist/1iELyiHmInYvRAXC502Vv7"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 249107,
-      "name": "4 Ever",
-      "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
+      "duration_ms": 171851,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
     },
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Sparkler",
-        "url": "https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB"
+        "name": "Late Summer",
+        "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
       },
       "artists": [
         {
-          "name": "Hiroyuki Kondo",
-          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
+          "name": "Dinis",
+          "url": "https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq"
+        },
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
         }
       ],
-      "duration_ms": 172602,
-      "name": "Sparkler",
-      "url": "https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM"
+      "duration_ms": 154520,
+      "name": "Late Summer",
+      "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1S1AbWfx3pPhpSTvtOd32P"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5K8pVWq3bXCRi5sIna6N3B"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "SPICA",
         "url": "https://open.spotify.com/album/0XBoMYKZ1VNlIuwRE2L9Jt"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1S1AbWfx3pPhpSTvtOd32P"
+        "name": "Sparkler",
+        "url": "https://open.spotify.com/album/06Kr3FDqY6YjzkT40DDggB"
       },
       "artists": [
         {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+          "name": "Hiroyuki Kondo",
+          "url": "https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS"
         }
       ],
-      "duration_ms": 157706,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5K8pVWq3bXCRi5sIna6N3B"
+      "duration_ms": 172602,
+      "name": "Sparkler",
+      "url": "https://open.spotify.com/track/7Hk8r6JTa9O1PU5h0I3QzM"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "TOPANGA",
+        "url": "https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA"
+      },
+      "artists": [
+        {
+          "name": "TANGDEN",
+          "url": "https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi"
+        }
+      ],
+      "duration_ms": 125130,
+      "name": "stricta",
+      "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
       },
@@ -1539,6 +1555,22 @@
       "duration_ms": 200506,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
+        "name": "Sleep Walker",
+        "url": "https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE"
+      },
+      "artists": [
+        {
+          "name": "Zen Miyako",
+          "url": "https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu"
+        }
+      ],
+      "duration_ms": 162705,
+      "name": "Sleep Walker",
+      "url": "https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1579,34 +1611,18 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Sleep Walker",
-        "url": "https://open.spotify.com/album/3yF1gRSDuuNphjWk2Ot6AE"
+        "name": "Silently Beats",
+        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
       },
       "artists": [
         {
-          "name": "Zen Miyako",
-          "url": "https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         }
       ],
-      "duration_ms": 162705,
-      "name": "Sleep Walker",
-      "url": "https://open.spotify.com/track/6SNlNFbDlx8sUNB7HwOSvO"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "TOPANGA",
-        "url": "https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA"
-      },
-      "artists": [
-        {
-          "name": "TANGDEN",
-          "url": "https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi"
-        }
-      ],
-      "duration_ms": 125130,
-      "name": "stricta",
-      "url": "https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c"
+      "duration_ms": 144000,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "Silently Beats",
-        "url": "https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX"
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
       },
       "artists": [
         {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Season",
-      "url": "https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7"
+      "duration_ms": 146014,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1663,22 +1679,6 @@
       "duration_ms": 172124,
       "name": "Yoake",
       "url": "https://open.spotify.com/track/3wvp4cZcmltC12kVjxYh42"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 146014,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
-        "name": "probably",
-        "url": "https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul"
-      },
-      "artists": [
-        {
-          "name": "bird",
-          "url": "https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "probably",
-      "url": "https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
         "name": "oak",
         "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
       },
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2025-09-18 15:00:43",
       "album": {
+        "name": "probably",
+        "url": "https://open.spotify.com/album/3MaaGg4f16MR5qJp6bGaul"
+      },
+      "artists": [
+        {
+          "name": "bird",
+          "url": "https://open.spotify.com/artist/4UYTq2L0l4zfsUKe8BqeNs"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "probably",
+      "url": "https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
         "name": "\u82b1\u706b",
         "url": "https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN"
       },
@@ -1791,6 +1791,26 @@
       "duration_ms": 115975,
       "name": "\u82b1\u706b 01",
       "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"
+    },
+    {
+      "added_at": "2025-09-18 15:00:43",
+      "album": {
+        "name": "Light Breeze EP",
+        "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
+      },
+      "artists": [
+        {
+          "name": "WAZGOGG",
+          "url": "https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5"
+        },
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Light Breeze",
+      "url": "https://open.spotify.com/track/3GQ8N7Rcem6Iu1HOl5jqHg"
     },
     {
       "added_at": "2025-09-18 15:00:43",
@@ -1811,22 +1831,6 @@
       "duration_ms": 155454,
       "name": "chill oil",
       "url": "https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR"
-    },
-    {
-      "added_at": "2025-09-18 15:00:43",
-      "album": {
-        "name": "Afternoon Sadness",
-        "url": "https://open.spotify.com/album/7Ggz41Az7k6v112r6HRHkU"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 130533,
-      "name": "Afternoon Sadness",
-      "url": "https://open.spotify.com/track/5wSrtDbksTDsWaFyFvDIKL"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

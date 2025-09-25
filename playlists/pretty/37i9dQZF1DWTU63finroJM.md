@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Celebrating 1000 RADAR Artists with the Top 100 most streamed RADAR Artists of all time\. Cover: Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,019 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,347 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 99 | [go](https://open.spotify.com/track/5wsa7NPNWf4akemfHQ4u2g) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [early twenties](https://open.spotify.com/album/0rnW4hH24v4j16wUbeR5Tn) | 3:35 |
 | 100 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 |
 
-Snapshot ID: `AAAAAAr3/3BKP2mOaY97aQjc3ECRVbBI`
+Snapshot ID: `AAAAAHC0d+po3FRCzIrTCVoTeAt+yPAf`

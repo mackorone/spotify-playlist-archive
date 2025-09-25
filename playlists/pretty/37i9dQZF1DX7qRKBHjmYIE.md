@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Kali Uchis & Ravyn Lenae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,960 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,940 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 30 | [OTROS LUGARES](https://open.spotify.com/track/2UmxXelTCIFuaUF8TGuaJj) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [UGH / OTROS LUGARES](https://open.spotify.com/album/0XhIxz89H75DGG7ku4T1FU) | 3:21 |
 | 31 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 32 | [talk](https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [talk](https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx) | 2:40 |
-| 33 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
-| 34 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
-| 35 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
-| 36 | [I Won't Go](https://open.spotify.com/track/3MBilTXRLzYt0z5vhGCLd4) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [I Won't Go](https://open.spotify.com/album/57sSWRu3FoOdl5L8EiSBsS) | 2:57 |
+| 33 | [Desvelado](https://open.spotify.com/track/7ocNC8jszuZKlwz7vvgI7R) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Desvelado](https://open.spotify.com/album/6qqLIWRr9XpxuqZiWRM5Zr) | 2:54 |
+| 34 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 |
+| 35 | [I Won't Go](https://open.spotify.com/track/3MBilTXRLzYt0z5vhGCLd4) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [I Won't Go](https://open.spotify.com/album/57sSWRu3FoOdl5L8EiSBsS) | 2:57 |
+| 36 | [BRUJERIA!](https://open.spotify.com/track/5PAyf37gvhLctCiTQfBOO9) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [Bodhiria](https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq) | 2:44 |
 | 37 | [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 |
 | 38 | [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 |
 | 39 | [Simple](https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \(Deluxe\)](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:22 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 70 | [Valió la pena](https://open.spotify.com/track/22uPAzwESHmS4OkGt9hXrE) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [St Woods](https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI) | [PARA QUE TE QUIERAS QUEDAR](https://open.spotify.com/album/3GKQF08kDwWHLjWSYUW1N4) | 3:14 |
 | 71 | [Baby](https://open.spotify.com/track/44o4tDW0hGnrNOM180kM6K) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Ring Ring](https://open.spotify.com/album/0LiTyKtFq29DDgZ1zvMI4j) | 3:42 |
 | 72 | [Destrucción \- Remix](https://open.spotify.com/track/40MuEd09WYnN6ogHFZSFB1) | [MiSHNRZ](https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Destrucción \(Remix\)](https://open.spotify.com/album/0qXAi0Z9RfLIwDADnQ9OUM) | 3:20 |
-| 73 | [Amantes](https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Amantes](https://open.spotify.com/album/5gHluRiuI1E8gmV2fTGCat) | 3:41 |
-| 74 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
+| 73 | [Vida Nueva](https://open.spotify.com/track/6VAJbelG3O5XqnCx1t70wK) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/5HKyL3VlVJtLVrZrbR6Rxp) | 2:49 |
+| 74 | [Amantes](https://open.spotify.com/track/2c4gYuETFB1Uf6gEwblpl5) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Amantes](https://open.spotify.com/album/5gHluRiuI1E8gmV2fTGCat) | 3:41 |
 | 75 | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/track/2g7KRmUgE964Xrzv3g7yeP) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [el vino y el tiempo \(feat\. Willy Rodríguez\)](https://open.spotify.com/album/3E8R0On43aWkW2gVtBxJce) | 3:00 |
 
 Snapshot ID: `AAAAAKFdiJhIyTrxLQ7YBe6xOqZsZN2p`

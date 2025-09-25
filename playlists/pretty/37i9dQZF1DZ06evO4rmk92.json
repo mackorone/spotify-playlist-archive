@@ -1,6 +1,6 @@
 {
   "description": "This is Nat King Cole. The essential tracks, all in one playlist.",
-  "num_followers": 122816,
+  "num_followers": 122846,
   "original_name": "This Is Nat King Cole",
   "owner": {
     "name": "Spotify",
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 113293,
-      "name": "Almost Like Being In Love - Remastered",
-      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+      "duration_ms": 218066,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
     },
     {
       "added_at": null,
@@ -304,9 +304,41 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 218066,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O"
+      "duration_ms": 113293,
+      "name": "Almost Like Being In Love - Remastered",
+      "url": "https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 166160,
+      "name": "When Sunny Gets Blue",
+      "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 156493,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
     },
     {
       "added_at": null,
@@ -331,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
       "artists": [
         {
@@ -340,25 +372,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 156493,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "When Sunny Gets Blue",
-      "url": "https://open.spotify.com/track/1jfTFVypaZFk6saaHaY1KL"
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": null,
@@ -375,22 +391,6 @@
       "duration_ms": 140706,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sings For Two In Love",
+        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sincerely",
         "url": "https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 156906,
       "name": "I Don't Want To See Tomorrow",
       "url": "https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sings For Two In Love",
-        "url": "https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/6Zis3c4TSJHeBkivT2tMzY"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BD Music & Cabu Present Nat King Cole",
         "url": "https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 189560,
       "name": "\u2019Tis Autumn",
       "url": "https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/7HLHKnQzlQK8aOueTdZLUe"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Alec Benjamin
 
-968 songs - 2 day 5 hr 18 min
+969 songs - 2 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [I Tried](https://open.spotify.com/track/4Dhic5lCf3U1nefagM5zwy) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [I Tried](https://open.spotify.com/album/6DVwmuhAq0HAq0k4hntOZH) | 2:16 | 2023-02-03 | 2023-08-19 |
 | [I Tried](https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [I Tried](https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP) | 2:32 | 2025-07-18 |  |
 | [I Wanna Love You \(But I Don't\)](https://open.spotify.com/track/0MSqcBG0MNmyPxXMz0JwDc) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [I Wanna Love You \(But I Don't\) / I hope you die first](https://open.spotify.com/album/6W9bs9ysBRA2CvZKe0kME8) | 4:17 | 2024-08-02 | 2024-09-07 |
-| [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 | 2024-03-08 |  |
+| [i wish i hated you](https://open.spotify.com/track/6ktoQBpMjWdKbfOdHeudpE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 2:33 | 2024-03-08 | 2025-09-25 |
 | [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 | 2022-09-23 |  |
 | [i wish you cheated](https://open.spotify.com/track/6ErCfbbI9BG4bK2djjKUvP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [i wish you cheated](https://open.spotify.com/album/1tf89mHJkN2HVQ4xmdUUqy) | 3:10 | 2023-08-11 |  |
 | [I Would've](https://open.spotify.com/track/54obxWf8kRI8TGtbX52YyJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Would've](https://open.spotify.com/album/3cy5gh8dUmMuzMJNSiNq3U) | 2:30 | 2022-05-20 | 2023-03-03 |
@@ -597,6 +597,7 @@
 | [messier](https://open.spotify.com/track/53H3ajzHjI5M9ZeewvRO3h) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 3:57 | 2024-01-12 | 2024-04-13 |
 | [mexico city](https://open.spotify.com/track/34Y7LIhSelCjmzJUZHBEOn) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear pt\. 3](https://open.spotify.com/album/1betffpzW0aaFTPADWKzaz) | 2:27 | 2022-01-21 | 2022-01-29 |
 | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-02-09 | 2024-02-24 |
+| [Misbehave](https://open.spotify.com/track/0hdCSIDBdRHOg8rPNEaU8b) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Misbehave](https://open.spotify.com/album/1fFxoRIX5lHBkPSqtJKvCF) | 2:25 | 2025-09-19 |  |
 | [Miss Me the Same \(with Anson Seabra\)](https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/album/6trwAd4aAcGduTeXvuVwN3) | 3:36 | 2023-04-28 | 2023-08-01 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-28 | 2022-12-17 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |

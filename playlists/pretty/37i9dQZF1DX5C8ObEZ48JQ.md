@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx?si=vxoX6el8QEC1ARX9Ol2Tfw">James Deacon</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,146 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,149 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OPEN](https://open.spotify.com/track/2r6x1GmYVlqTZ4bJHLMIT2) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [REMEMBER?](https://open.spotify.com/album/0jO0u7Yx0dw3pBagWs9R2a) | 3:12 |
-| 2 | [Peruse](https://open.spotify.com/track/7dF3WmeVHJMNirdKdCFe8j) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [The Plunge](https://open.spotify.com/album/3mGop1gP8tChVajxB4gEZ4) | 3:00 |
-| 3 | [Ekhweni](https://open.spotify.com/track/1Wl1Se2aG6yTplWeZMS4RG) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Umsoco](https://open.spotify.com/album/3jgYcBo6qNi2GM4sNEwZ7a) | 2:39 |
+| 1 | [Peruse](https://open.spotify.com/track/7dF3WmeVHJMNirdKdCFe8j) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [The Plunge](https://open.spotify.com/album/3mGop1gP8tChVajxB4gEZ4) | 3:00 |
+| 2 | [Ekhweni](https://open.spotify.com/track/1Wl1Se2aG6yTplWeZMS4RG) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW), [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Umsoco](https://open.spotify.com/album/3jgYcBo6qNi2GM4sNEwZ7a) | 2:39 |
+| 3 | [OPEN](https://open.spotify.com/track/2r6x1GmYVlqTZ4bJHLMIT2) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI), [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [REMEMBER?](https://open.spotify.com/album/0jO0u7Yx0dw3pBagWs9R2a) | 3:12 |
 | 4 | [Radioactive](https://open.spotify.com/track/0jNUcAH6gXUYhRfnaxe9jt) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Radioactive](https://open.spotify.com/album/5Aufy1EiNfNgWkPZ1dlGhP) | 2:57 |
 | 5 | [The Adults Are Talking](https://open.spotify.com/track/2nTNClRzELryaGpbFBSJHK) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [The Adults Are Talking](https://open.spotify.com/album/5kaGxvecYiURJZ5hW4Mdmk) | 2:25 |
 | 6 | [Falling](https://open.spotify.com/track/2M4YefuMvNtH1Ju20KAVs9) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Falling](https://open.spotify.com/album/388RujVUG7i0xdABpTkn1b) | 3:36 |

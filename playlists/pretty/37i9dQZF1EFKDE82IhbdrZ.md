@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4h9x56qh0Qkr4hTfRGxJgl">Julian Bunetta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,436 likes - 320 songs - 17 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437 likes - 320 songs - 17 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 201 | [Die On The Dancefloor](https://open.spotify.com/track/5cGCTK7q37dgISC1IYQuS1) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part Two](https://open.spotify.com/album/4PQpAZ3UZSuXNDElPQtMNg) | 3:21 |
 | 202 | [If I Could Be Her](https://open.spotify.com/track/2K483oX73QGUKgx1qXVJk3) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Til the Casket Drops](https://open.spotify.com/album/57QGgDgbSf0Ij3QP41jF8D) | 2:49 |
 | 203 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
-| 204 | [Where Have You Been \(All My Night\)](https://open.spotify.com/track/11D6LSl8aDKHcadA5mLszu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:48 |
-| 205 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 204 | [Nothing](https://open.spotify.com/track/3V97CljOzjfQEf00yoSVXg) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather \(5 Year Anniversary Edition\)](https://open.spotify.com/album/1lF6IT0hjkqjJ32o8Jz3P9) | 2:45 |
+| 205 | [Where Have You Been \(All My Night\)](https://open.spotify.com/track/11D6LSl8aDKHcadA5mLszu) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 3:48 |
 | 206 | [Let Me Hold You](https://open.spotify.com/track/5RTYwdNrb6DNwfKrGFNV4G) | [Josh Krajcik](https://open.spotify.com/artist/0ngASMM5dPGOByz9QmIY7C) | [Blindly, Lonely, Lovely](https://open.spotify.com/album/7dugoBUZwtpVqnXo7rMTIh) | 4:05 |
 | 207 | [Touch](https://open.spotify.com/track/2oRua7SgA8ZJy9h4ViBAl5) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Strip Me Away](https://open.spotify.com/album/60bpkeOTwBKKirRSEuGuov) | 3:46 |
 | 208 | [Co\-Pilot](https://open.spotify.com/track/6smZCaAKItX6uxvQUUKVnO) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Kristina Maria](https://open.spotify.com/artist/3owOnUCZD2qFcf5RHbv1Zg) | [Les Inséparables](https://open.spotify.com/album/6nbVBDBL2Uk58p2CL48B0Y) | 3:46 |
@@ -329,4 +329,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKDE82IhbdrZ.md) - [plain]
 | 319 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 320 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab9BlAAAAAAHr1n56D1T8BXhHmR6I86Q`
+Snapshot ID: `Ab9HXAAAAACWLs5Lc1U8UY1inMJyrKTQ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,440 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,442 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 41 | [Cancionera](https://open.spotify.com/track/7AP1sa56qsVnM86g10VRvv) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Cancionera](https://open.spotify.com/album/4gqGuqjdi0io8D0vgMPczu) | 5:36 |
 | 42 | [A natureza das coisas](https://open.spotify.com/track/4zvqkPu8ajJc0Qglca07ZG) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Casa Coração](https://open.spotify.com/album/6vSNBpqihCHJcrCVTstJMv) | 4:01 |
 | 43 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 |
-| 44 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
-| 45 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
+| 44 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
+| 45 | [sol na pele](https://open.spotify.com/track/5DsCl1RVwYK5hgBBDLwlKq) | [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [big buraco](https://open.spotify.com/album/7nFKPgj0vGWz0KMTVynIGN) | 3:00 |
 | 46 | [Volta](https://open.spotify.com/track/7oK2RJCk2cr3lBASlOg3eK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8), [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Do Velho Testamento](https://open.spotify.com/album/48XG3OIWFse7bJXCaOIaRF) | 2:27 |
 | 47 | [Romance de Filme](https://open.spotify.com/track/3CIBtDrCnomSWt4m9ucv3m) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [José & Durval](https://open.spotify.com/album/5mrMvvBNCmK4VWvmTDYzmu) | 4:25 |
 | 48 | [Santo, Santo, Santo \- Ao Vivo](https://open.spotify.com/track/6uQznfXz7xrinjN56u7tbv) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memóri4s \(Ao Vivo\)](https://open.spotify.com/album/6nVfk6R3u1SWg2xsD72zu7) | 4:37 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 55 | [NASCENTE DA PAZ](https://open.spotify.com/track/6A0nMCXdLjWkwLxl5TtMmu) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr) | [Manual Prático Do Novo Samba Tradicional, Vol\. 2: TIA DARCI](https://open.spotify.com/album/3Y3NXwXnPF4pX2HYRShtg7) | 3:53 |
 | 56 | [Melhor Assim](https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav) | [Natascha Falcão](https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh) | [Universo de Paixão](https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y) | 4:01 |
 | 57 | [Deixa Molhar](https://open.spotify.com/track/3yFfbKYMUUGgCcwqZ7s2tL) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 3:01 |
-| 58 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
-| 59 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
+| 58 | [Salto](https://open.spotify.com/track/69doH8g7Bq4ZOBoBrsjXhD) | [Tó Brandileone](https://open.spotify.com/artist/3OUj7Zr7b3853qLZWhQShA), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Reações Adversas / Ao Persistirem os Sintomas](https://open.spotify.com/album/6by7zSKPD4Ah4yF42hdk98) | 3:09 |
+| 59 | [Maravilhosamente Bem](https://open.spotify.com/track/5wQCF8OhRCj747qSsTI23I) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [MARAVILHOSAMENTE BEM](https://open.spotify.com/album/6hKQF3IhyBlr6LE5K2nkYY) | 3:46 |
 | 60 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
 | 61 | [Todo Dia É Um Recomeço](https://open.spotify.com/track/6j96maxkfrAD7Z2wBNIDs7) | [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Hamilton de Holanda Trio \- Live in NYC](https://open.spotify.com/album/3hhYEaJfx4hOOePCxlH3Yr) | 5:15 |
 | 62 | [Feliz e Triste](https://open.spotify.com/track/32fsC0Q4bHACkTOja30D8A) | [Fitti](https://open.spotify.com/artist/4WMPe7u3avpvbGO9wzVdhk) | [Transespacial](https://open.spotify.com/album/5ad60ItCkVWina53xajH4n) | 2:55 |

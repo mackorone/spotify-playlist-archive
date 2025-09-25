@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 167889,
+  "num_followers": 167902,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 199615,
-      "name": "Self",
-      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/2lHcXT4x2UOOQCjHVBftcs"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/60GK9ifHXOrJXJq46lwILc"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 199615,
+      "name": "Self",
+      "url": "https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
         "name": "fue mejor (feat. SZA)",
         "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "Voicenotes",
-      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "Breath From Another",
         "url": "https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 238600,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/2akoq472I49TzrFSJjjf47"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/7KmeUOzgnUS9GvzZTnozaa"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "Voicenotes",
+      "url": "https://open.spotify.com/track/2RBqraa59OrLMVYm7sq7Og"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/3YIwIViTyZ9mcdLaAVeFND"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 294186,
       "name": "Moments Like These",
       "url": "https://open.spotify.com/track/690VYCFMFmzfEwVG2GUEzO"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/29YT1RXwT1qtQFAw5PMmjL"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0rCBbW26RIbOH4i1CHmxP3"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
-      },
-      "artists": [
-        {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/0kwjPVEuW7YoMpeDCpd5Nw"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 158675,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/2HltyHR6c797UOdw42knuC"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
-        "name": "walk but in a garden",
-        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "walk but in a garden (with mxmtoon)",
-      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1531,18 +1511,22 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+        "name": "walk but in a garden",
+        "url": "https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF"
       },
       "artists": [
         {
-          "name": "BV",
-          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 184000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+      "duration_ms": 112500,
+      "name": "walk but in a garden (with mxmtoon)",
+      "url": "https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1559,6 +1543,22 @@
       "duration_ms": 173949,
       "name": "honeymoon - Spotify Singles",
       "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
+      },
+      "artists": [
+        {
+          "name": "BV",
+          "url": "https://open.spotify.com/artist/6ssRZa4xnED0O5uBwEEION"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
+        "name": "Luster",
+        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
+      },
+      "artists": [
+        {
+          "name": "Maria Somerville",
+          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
+        }
+      ],
+      "duration_ms": 214106,
+      "name": "Spring",
+      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
-        "name": "Luster",
-        "url": "https://open.spotify.com/album/6vRCwr31pNFnURP8mj53KP"
-      },
-      "artists": [
-        {
-          "name": "Maria Somerville",
-          "url": "https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd"
-        }
-      ],
-      "duration_ms": 214106,
-      "name": "Spring",
-      "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
     },
     {
       "added_at": "2025-09-15 03:42:19",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-09-15 03:42:19",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
-    },
-    {
-      "added_at": "2025-09-15 03:42:19",
-      "album": {
         "name": "Acchordance",
         "url": "https://open.spotify.com/album/3adRFNS6sAgApn9uuKDXYF"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 276154,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/22W2hL07wNFLxoAceaEJkt"
+    },
+    {
+      "added_at": "2025-09-15 03:42:19",
+      "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

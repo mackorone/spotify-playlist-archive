@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. Cover: Soli
+> The best new music by independent artists and labels\. Cover: Loretta
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,011 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,014 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

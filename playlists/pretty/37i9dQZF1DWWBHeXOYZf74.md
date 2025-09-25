@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: bar italia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,023 likes - 174 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,334,983 likes - 174 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,7 +174,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 164 | [Sweetie](https://open.spotify.com/track/5rffvBl5fCAGCW6hdTZ3q9) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Sweetie](https://open.spotify.com/album/0vDhIEFfkP8uURlzIdBi36) | 4:04 |
 | 165 | [Sexy Boy \- Vegyn Version](https://open.spotify.com/track/4LtgB8Rg2PJXqNuRs97rXl) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Blue Moon Safari](https://open.spotify.com/album/091tPFouQEyjL5Rekipta8) | 4:59 |
 | 166 | [everyone, outside](https://open.spotify.com/track/2YitJnxCvlpZcjasyKqja5) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [everyone, outside](https://open.spotify.com/album/3OTLEJFqyTbgrArD8wYN1S) | 2:58 |
-| 167 | [Caught by a wind \- BFF Remix](https://open.spotify.com/track/3rWhcc83PqPmQhQdYnysW8) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Caught by a wind \(BFF Remix\)](https://open.spotify.com/album/5bc056yR8YXTmZIzioAEz4) | 3:31 |
+| 167 | [Caught by a wind \- BFF remix](https://open.spotify.com/track/3rWhcc83PqPmQhQdYnysW8) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Caught by a wind \(BFF Remix\)](https://open.spotify.com/album/5bc056yR8YXTmZIzioAEz4) | 3:31 |
 | 168 | [Monday, Monday](https://open.spotify.com/track/14joz9oqnhYORgpKOmE0Aj) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 3:33 |
 | 169 | [Sunshine & Rain...](https://open.spotify.com/track/0XNZ6zY9qwJVu9JypWUcvo) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sunshine & Rain...](https://open.spotify.com/album/6sBXKaeFQdGtpDMoW5TAU4) | 3:17 |
 | 170 | [..THUS IS WHY \( I DON’T SPRING 4 LOVE \)](https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 3:29 |

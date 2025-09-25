@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Reggie Becton
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,075 likes - 299 songs - 15 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,077 likes - 299 songs - 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

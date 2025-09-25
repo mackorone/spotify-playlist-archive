@@ -4,7 +4,7 @@
 
 > Vibrez au rythme des morceaux urbains et Afro en feu 🎶
 
-297 songs - 15 hr 5 min
+298 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 | 2024-08-23 | 2024-08-31 |
 | [PELIGROSA](https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [PELIGROSA](https://open.spotify.com/album/6KiPy0AFWwVK4pTIstFbLz) | 2:14 | 2025-06-10 | 2025-08-15 |
 | [PHENOMENAL](https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [PHENOMENAL](https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO) | 3:16 | 2024-12-10 | 2025-01-20 |
-| [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-06-10 |  |
+| [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-06-10 | 2025-09-25 |
 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 | 2025-05-15 |  |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-03-26 |  |
 | [POUR ELLE](https://open.spotify.com/track/5jX61gvbNenSDMldQrbtsU) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 2:59 | 2024-10-11 | 2024-12-11 |
@@ -257,6 +257,7 @@
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-07-23 | 2024-12-11 |
 | [Sokkar](https://open.spotify.com/track/22MZ14wFJ0DQUAaRy50uEW) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Sokkar](https://open.spotify.com/album/6LufOTjtT03JshmT4eT7np) | 3:08 | 2024-03-26 | 2024-10-02 |
 | [SOMNIFERE](https://open.spotify.com/track/6tVgDhCCD1IVzsb7CH3FXv) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [I HATE SUMMER](https://open.spotify.com/album/61vBMIBQl18SkGSUz3zIqt) | 3:08 | 2025-05-24 | 2025-06-11 |
+| [SONGI SONGI](https://open.spotify.com/track/4W3d4USxP8bYXBLMlzT63S) | [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [SONGI SONGI](https://open.spotify.com/album/1bacwDbN0KpmxfTZ6mgQLC) | 2:48 | 2025-09-24 |  |
 | [Sous la lune](https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:51 | 2024-12-10 | 2025-05-25 |
 | [SOUVENIRS](https://open.spotify.com/track/5pNwLjcuTBaEzkAmf02K1O) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9) | 3:10 | 2024-08-27 | 2024-08-31 |
 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-10 | 2024-11-28 |

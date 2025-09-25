@@ -2,7 +2,7 @@
 
 ### [Make Moves](https://open.spotify.com/playlist/37i9dQZF1DX9VqxLqwPHz2)
 
-> Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today? Cover: Nia Archives
+> Spotify & Nike present Make Moves: inspiring girls to get moving through music\. What song will you move to today? Cover: Kesha
 
 62 songs - 3 hr 25 min
 

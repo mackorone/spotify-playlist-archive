@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1753,
+  "num_followers": 1754,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "I Hate YoungBoy",
+        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "I Hate YoungBoy",
+      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Culture III",
         "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 278191,
       "name": "Having Our Way (feat. Drake)",
       "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "I Hate YoungBoy",
-        "url": "https://open.spotify.com/album/1p1IFommrqqNjeNmnbl0Ao"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "I Hate YoungBoy",
-      "url": "https://open.spotify.com/track/3itijJswMR7p7RbfqlYf1Z"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 157480,
       "name": "SRT (feat. BIG30 & Pooh Shiesty)",
       "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar"
     },
     {
       "added_at": "2022-11-01 04:00:00",

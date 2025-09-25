@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 33871,
+  "num_followers": 33869,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Fablernas V\u00e4rld",
-        "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
-      },
-      "artists": [
-        {
-          "name": "Riksv\u00e4g 51",
-          "url": "https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Fablernas V\u00e4rld",
-      "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "N\u00e4r broar br\u00e4nns",
         "url": "https://open.spotify.com/album/1QmuGtosgz3jMsbw4Zhxxh"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 186781,
       "name": "Den dagen \u00e4r inte idag",
       "url": "https://open.spotify.com/track/3bBOmq9ox4bD1jNT1ojsey"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Fablernas V\u00e4rld",
+        "url": "https://open.spotify.com/album/2PCDvwdeY2Iz3FwmmwVeA8"
+      },
+      "artists": [
+        {
+          "name": "Riksv\u00e4g 51",
+          "url": "https://open.spotify.com/artist/6Q2tDhc9HGjZbKR1SrafQv"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Fablernas V\u00e4rld",
+      "url": "https://open.spotify.com/track/6jpKn9kaYlcKsq1XfJLLyu"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "F\u00f6rlorarna",
+        "url": "https://open.spotify.com/album/3KeQBgt24FXOqtzEfpRJxT"
+      },
+      "artists": [
+        {
+          "name": "Hata Som Lejon",
+          "url": "https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw"
+        }
+      ],
+      "duration_ms": 191007,
+      "name": "F\u00f6rlorarna",
+      "url": "https://open.spotify.com/track/6XVXlChzCSbdpMbkPIKFMx"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Att Ni Inte Ser...",
         "url": "https://open.spotify.com/album/0qcE2ZLlJjIELkvLHMpdo1"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 178660,
       "name": "Vem fan \u00e4r liberal?",
       "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "F\u00f6rlorarna",
-        "url": "https://open.spotify.com/album/3KeQBgt24FXOqtzEfpRJxT"
-      },
-      "artists": [
-        {
-          "name": "Hata Som Lejon",
-          "url": "https://open.spotify.com/artist/0Tdayxonpn7TNV0fNq1EMw"
-        }
-      ],
-      "duration_ms": 191007,
-      "name": "F\u00f6rlorarna",
-      "url": "https://open.spotify.com/track/6XVXlChzCSbdpMbkPIKFMx"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Perfektion",
-        "url": "https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR"
-      },
-      "artists": [
-        {
-          "name": "Siken f\u00f6r Helvete",
-          "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
-        }
-      ],
-      "duration_ms": 101006,
-      "name": "Perfektion",
-      "url": "https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Kollektivt sj\u00e4lvmord",
         "url": "https://open.spotify.com/album/4LlnSAm75vQ0hD1PSPLY6L"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 103973,
       "name": "Kollektivt sj\u00e4lvmord",
       "url": "https://open.spotify.com/track/3SYUN0J0uFPMNT0kRwqGjT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Perfektion",
+        "url": "https://open.spotify.com/album/4j9ASlDUrwhNnDU9LVXWXR"
+      },
+      "artists": [
+        {
+          "name": "Siken f\u00f6r Helvete",
+          "url": "https://open.spotify.com/artist/02S9xjQRvXIyEUkmtIfHIw"
+        }
+      ],
+      "duration_ms": 101006,
+      "name": "Perfektion",
+      "url": "https://open.spotify.com/track/2BC87opiqN4nkYnzUdEwzR"
     },
     {
       "added_at": "2024-08-29 22:00:00",

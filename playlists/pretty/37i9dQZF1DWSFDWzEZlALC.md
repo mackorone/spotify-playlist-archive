@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: FREDRIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,010 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,963 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 61 | [Rasendes Herz](https://open.spotify.com/track/29eXnzxpENGrWcMwc36eGN) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Rasendes Herz](https://open.spotify.com/album/5UWi7JLOlx3WUUINhbJTYk) | 4:07 |
 | 62 | [So lang gewartet](https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [So lang gewartet](https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo) | 2:48 |
 | 63 | [nicht gefragt](https://open.spotify.com/track/0JHjZJm015P2Qtj780ddI8) | [Vince](https://open.spotify.com/artist/1xMPDJvoiQdje0jZ88uqzV), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [nicht gefragt](https://open.spotify.com/album/7ILF9Lr0NWZbZiUniwVvRh) | 2:18 |
-| 64 | [Irgendwann](https://open.spotify.com/track/4VOYuJLHh1ud6EgePcymWx) | [Kosta](https://open.spotify.com/artist/1xuEncO5GPghuggYpT74pC) | [Irgendwann](https://open.spotify.com/album/6wbGiiRT2TnNcl1WJAujoe) | 2:38 |
+| 64 | [Irgendwann](https://open.spotify.com/track/4VOYuJLHh1ud6EgePcymWx) | [Kosta](https://open.spotify.com/artist/1xuEncO5GPghuggYpT74pC), [K.F.D](https://open.spotify.com/artist/1mGyuGt7k8pKCOCaKPhJHA) | [Irgendwann](https://open.spotify.com/album/6wbGiiRT2TnNcl1WJAujoe) | 2:38 |
 | 65 | [ed hardy walzer](https://open.spotify.com/track/08pOhi3ERDYUVVSqfyHlq3) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [ed hardy walzer](https://open.spotify.com/album/4oLYzNrkxfXr5zbi2ZTJJ5) | 2:45 |
 | 66 | [Arsch an Arsch.](https://open.spotify.com/track/6d3BPRJsNJuTeRTUwFpyKR) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Arsch an Arsch.](https://open.spotify.com/album/1p5zV40t8D6uyaEQeTwf2j) | 3:17 |
 | 67 | [dumachstmich](https://open.spotify.com/track/3feQGDYKgbP8kJNDMWzRgo) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [dumachstmich](https://open.spotify.com/album/2mMT0mZTAEtuVp82ienABu) | 2:10 |

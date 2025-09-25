@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Big Wreck",
-  "num_followers": 74755,
+  "num_followers": 74766,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Night Visions",
-        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 186813,
-      "name": "Radioactive",
-      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Danger Days: The True Lives of the Fabulous Killjoys",
         "url": "https://open.spotify.com/album/2wPnKggTK3QhYAKL7Q0vvr"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Night Visions",
+        "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 186813,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/4G8gkOterJn0Ywt6uhqbhp"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Unlimited Love",
-        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
-    },
-    {
-      "added_at": "2025-05-01 22:00:00",
-      "album": {
         "name": "Battle Born",
         "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2025-05-01 22:00:00",
       "album": {
-        "name": "Fully Completely",
-        "url": "https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO"
+        "name": "Unlimited Love",
+        "url": "https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6"
       },
       "artists": [
         {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Wheat Kings",
-      "url": "https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo"
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/2a5cbTg2UIi784t9E2wT35"
     },
     {
       "added_at": "2025-05-01 22:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 215693,
       "name": "You're in Love with a Psycho",
       "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
+    },
+    {
+      "added_at": "2025-05-01 22:00:00",
+      "album": {
+        "name": "Fully Completely",
+        "url": "https://open.spotify.com/album/60peDyBYVk0DWanN2GPxhO"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Wheat Kings",
+      "url": "https://open.spotify.com/track/53o05J0uSWOedPwN4Z0oyo"
     },
     {
       "added_at": "2025-05-01 22:00:00",

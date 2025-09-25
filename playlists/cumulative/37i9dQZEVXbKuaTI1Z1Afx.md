@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,376 songs - 9 day 18 hr 36 min
+4,377 songs - 9 day 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1493,6 +1493,7 @@
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-02-14 | 2023-02-17 |
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-02-16 | 2023-03-15 |
 | [Granite](https://open.spotify.com/track/4mxiv6HQfhqgIuN5iOONQd) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 3:45 | 2023-05-24 | 2023-05-30 |
+| [Gratitude](https://open.spotify.com/track/4VI7berVSzuaBt1BGrBksC) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 5:37 | 2025-09-24 |  |
 | [Gravity](https://open.spotify.com/track/3tlw6dqv2qejTGLnVaEsgb) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:53 | 2025-06-03 | 2025-06-11 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-07-06 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
@@ -1784,7 +1785,7 @@
 | [I think about it all the time](https://open.spotify.com/track/3OaFGqHUyxGVkOcSILw8Kx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:15 | 2024-06-26 | 2024-06-28 |
 | [i think about you all the time](https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 | 2025-09-10 | 2025-09-16 |
 | [I Think I Like When It Rains](https://open.spotify.com/track/5S5u0EWtlblH00iTNExZ6X) | [WILLIS](https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk) | [Locals 2](https://open.spotify.com/album/3kWPtRY5FCFhjDFTMNdvP3) | 4:38 | 2022-05-28 | 2022-06-10 |
-| [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-22 |  |
+| [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-22 | 2025-09-25 |
 | [I Think They Call This Love](https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [I Think They Call This Love](https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu) | 3:13 | 2024-11-02 | 2024-11-14 |
 | [I Wait for You](https://open.spotify.com/track/7EDcAz6iuKSkxH4VcC3Oko) | [alex\_g\_offline](https://open.spotify.com/artist/0bC6e2YtIRLbKx2txHFmEo) | [1234](https://open.spotify.com/album/5pbJgYTbGKbZiAkdOuNzam) | 2:38 | 2023-08-31 | 2023-11-16 |
 | [I Wait for You](https://open.spotify.com/track/5NLkhDTNYnUfehEIYjrdMj) | [sobberity](https://open.spotify.com/artist/5FCcnriliXrb9hr0VTpB0y) | [I Wait for You](https://open.spotify.com/album/0RPPi9HrzjJiZmG51BBciZ) | 2:38 | 2023-08-30 | 2023-09-01 |
@@ -3310,7 +3311,7 @@
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-06-18 | 2024-06-26 |
 | [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 | 2023-08-01 | 2023-08-18 |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2022-11-19 | 2023-01-14 |
-| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-18 |  |
+| [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 | 2025-09-18 |  |
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-11-22 | 2022-11-30 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-10 | 2022-12-25 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-03-05 | 2024-03-13 |
@@ -3348,8 +3349,8 @@
 | [Sippin Country](https://open.spotify.com/track/04uX1QLFvK4AnJTiPsh2Jq) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Sippin Country](https://open.spotify.com/album/4tWkV00ldGSxSwCBrCrvZd) | 2:39 | 2025-06-10 | 2025-06-22 |
 | [Sippin Country](https://open.spotify.com/track/2X6eXs557bjt2tSwc395TO) | [Lil Man J](https://open.spotify.com/artist/5zfsO7xEsAQylcNrIdKm9H) | [Sippin Country \(Remix\)](https://open.spotify.com/album/1xSq9k55EMUx1RqjdLJqGV) | 2:39 | 2025-06-21 | 2025-07-01 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-04-02 | 2024-04-24 |
-| [Sir This Is A Cutthroat Fashion](https://open.spotify.com/track/4g4Tbd4GJWod3DqfkiXtgC) | [Her Words Kill](https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd) | [Load My Revolver, Baby](https://open.spotify.com/album/3iSvZtc24vByAVJb1i2IaX) | 5:20 | 2025-08-12 |  |
-| [Sir This Is A Cutthroat Fashion](https://open.spotify.com/track/2jnyri2VkjwjuPy1tH6xwM) | [Her Words Kill](https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd) | [Load My Revolver, Baby](https://open.spotify.com/album/6viXRgbrKVDipeFtpesGfD) | 5:20 | 2025-08-14 | 2025-08-23 |
+| [Sir This Is A Cutthroat Fashion](https://open.spotify.com/track/4g4Tbd4GJWod3DqfkiXtgC) | [Her Words Kill](https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd) | [Load My Revolver, Baby](https://open.spotify.com/album/3iSvZtc24vByAVJb1i2IaX) | 5:20 | 2025-08-12 | 2025-09-25 |
+| [Sir This Is A Cutthroat Fashion](https://open.spotify.com/track/2jnyri2VkjwjuPy1tH6xwM) | [Her Words Kill](https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd) | [Load My Revolver, Baby](https://open.spotify.com/album/6viXRgbrKVDipeFtpesGfD) | 5:20 | 2025-08-14 |  |
 | [Sir This Is A Cutthroat Fashion](https://open.spotify.com/track/4FCmJZ4SaOAzWuLSlHagM8) | [Her Words Kill](https://open.spotify.com/artist/1QywY8Wu8fwOk929Rs4uAd) | [Sir This Is A Cutthroat Fashion](https://open.spotify.com/album/4QXJfvoSpKdQMuSZdNMYdq) | 5:20 | 2025-09-05 | 2025-09-17 |
 | [SkeeYee](https://open.spotify.com/track/7icwQvajsokotDfM3tefW6) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:37 | 2023-07-04 | 2023-10-12 |
 | [Skeleton Sam](https://open.spotify.com/track/0zD8DcXmWQwWC5Bh78dXqY) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [This Is Halloween Volume 1](https://open.spotify.com/album/1c82jQOLgpcnqWluSNZH0l) | 2:54 | 2022-10-25 | 2024-11-06 |

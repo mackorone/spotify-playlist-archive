@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Joanne Robertson
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,314 likes - 145 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,396 likes - 145 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 94 | [Clear Sky Rain](https://open.spotify.com/track/4pXvRTrdLDHIzbtWpY5Vey) | [deer park](https://open.spotify.com/artist/6Lq0JPdh83AUSeMfuMPCjy), [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Terra Infirma](https://open.spotify.com/album/25J99oRYyPzoghasxfHKGp) | 3:47 |
 | 95 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 |
 | 96 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 |
-| 97 | [Digital girl](https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 3:23 |
+| 97 | [Digital Girl](https://open.spotify.com/track/1Qpri6iU1hsI0idf1wUTe1) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 3:23 |
 | 98 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 |
 | 99 | [it was then that i](https://open.spotify.com/track/72B17CydCsTvYGPUKas0Jb) | [feeo](https://open.spotify.com/artist/03aiitie1Nvoq2vvHF3kLR) | [it was then that i](https://open.spotify.com/album/25fXVyzDNeTcamLuAABhvq) | 3:44 |
 | 100 | [Hello Universe](https://open.spotify.com/track/4pmAO0JC3xwsTNlxGWfhde) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Hello Universe](https://open.spotify.com/album/2jXsMO8q6Yfn2s0Uvve0Di) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,808 likes - 27 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811 likes - 27 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ULe02.md) - [plain]
 | 17 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 |
 | 18 | [my funeral](https://open.spotify.com/track/2vtcbNPCrw8CmSbn6MblKx) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:40 |
 | 19 | [I Can't Be Your Friend](https://open.spotify.com/track/5hr4TZitAsEIegzWBXbHph) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [I'm Alright If You're Ok](https://open.spotify.com/album/1oWU2nS60Jn0kQ6WjeCBen) | 2:51 |
-| 20 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 |
-| 21 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 |
+| 20 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 |
+| 21 | [Grocery Store Girl](https://open.spotify.com/track/1xUzY52IQQ5psQnhesko3U) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Grocery Store Girl](https://open.spotify.com/album/4eXLGwqYRvu2GJ0cGcVvNS) | 2:43 |
 | 22 | [are you curious?](https://open.spotify.com/track/5LK1DcgHrVHOU00bQwTQG6) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:14 |
 | 23 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 |
 | 24 | [Worst Girls of All Time](https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Worst Girls Of All Time](https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm) | 2:53 |

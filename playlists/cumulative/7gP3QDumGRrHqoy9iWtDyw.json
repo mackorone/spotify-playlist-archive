@@ -1231,6 +1231,28 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/1qYVyMhvMYcMnR1KfM2AYi"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158507,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6GNuSKmHQEDdIgQYLyLJWZ"
+    },
+    {
+      "album": {
         "name": "Don Malaa",
         "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },

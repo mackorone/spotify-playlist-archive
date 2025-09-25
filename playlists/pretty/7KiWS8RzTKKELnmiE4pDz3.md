@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 326 songs - 18 hr 32 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 330 songs - 18 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -334,5 +334,9 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 324 | [C12H16N2](https://open.spotify.com/track/6r98gO9UiGvhFy5xhM4pC3) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Only For Dolphins](https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k) | 2:38 |
 | 325 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 326 | [Pack The Pipe](https://open.spotify.com/track/3jE1ffzfKtnALJVGlXgl7D) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:03 |
+| 327 | [Hilary $Wank](https://open.spotify.com/track/5OM3RuosTT4YEVsd8w0eV4) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Summer Knights](https://open.spotify.com/album/16KdSB0v7RqYwRjylZCpfn) | 3:22 |
+| 328 | [Black Smif\-n\-Wessun](https://open.spotify.com/track/3SQaG07nuKDVneBJnK9z3U) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:21 |
+| 329 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 |
+| 330 | [Trust Me](https://open.spotify.com/track/41YrEBYeFM6fYf1ygakTlm) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:27 |
 
-Snapshot ID: `AAAfD4NPVSNM/Z8+U8cjLeuBfs4UwBxC`
+Snapshot ID: `AAAfE0nhum6lPN6ptxbC34T1sP/nws4p`

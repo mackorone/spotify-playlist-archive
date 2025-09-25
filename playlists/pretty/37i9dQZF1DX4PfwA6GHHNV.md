@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,980 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,992 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,13 +33,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 23 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 24 | [Baile Em Chamas](https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [DJ 2L da Rocinha](https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP) | [Baile Em Chamas](https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV) | 2:53 |
 | 25 | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Change Your Mind \(feat\. Shaboozey\)](https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M) | 2:28 |
-| 26 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
-| 27 | [Tão Bonito](https://open.spotify.com/track/69td3hK5bXy0HklQhgrbQn) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 3:20 |
+| 26 | [Tão Bonito](https://open.spotify.com/track/69td3hK5bXy0HklQhgrbQn) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Caos e Sal / Tão Bonito](https://open.spotify.com/album/77Y4xJC9iuWj6RncoNSPHD) | 3:20 |
+| 27 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
 | 28 | [PILLOW](https://open.spotify.com/track/73oScKWDZaioc8674JUjRO) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [PILLOW](https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu) | 2:05 |
 | 29 | [1001 Noites](https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [1001 Noites](https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz) | 2:36 |
 | 30 | [Repare](https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R) | [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Repare](https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE) | 3:22 |
-| 31 | [A Mais Linda Canção](https://open.spotify.com/track/1QsTUmRrO2W2vcMVFccxLv) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 3:21 |
-| 32 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 |
+| 31 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 |
+| 32 | [A Mais Linda Canção](https://open.spotify.com/track/1QsTUmRrO2W2vcMVFccxLv) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [BM Ally](https://open.spotify.com/artist/3SRpSeXuXx3FqwmOEV3gKE) | [Decepções de Alguém que Ama](https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk) | 3:21 |
 | 33 | [Repara](https://open.spotify.com/track/7v35WhMHnJr31gQUvU6I1a) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Onda](https://open.spotify.com/album/4Ktc4ceQqsUuy5MAFu8Xva) | 2:09 |
 | 34 | [AYE O](https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo), [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0), [Marcelo de Lamare](https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM), [C\-AFROBRASIL](https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:50 |
 | 35 | [Direito de Amar](https://open.spotify.com/track/1R2iq7PUBIgp2BP0FZSHiu) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [O Silêncio Que Grita](https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254127,
+  "num_followers": 254131,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Butterfly (feat. Dolly Parton) / Give It Away",
         "url": "https://open.spotify.com/album/0w3e2qg8hT0CXRxI8aFT4V"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 244029,
       "name": "Butterfly (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3XoCQ7X59RxqXg3F93DV6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188871,
+      "name": "Two Doors Down",
+      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Words",
         "url": "https://open.spotify.com/album/6pWNv9LbVXV2ZvlK3gvmRp"
       },
@@ -563,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
       },
       "artists": [
         {
@@ -572,9 +588,9 @@
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 188871,
-      "name": "Two Doors Down",
-      "url": "https://open.spotify.com/track/0EWJ1KT2q3RdbdQIUYqZsp"
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 213653,
       "name": "God Only Knows (with Dolly Parton)",
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -831,18 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Dolly Parton",
-        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
       },
       "artists": [
+        {
+          "name": "Sabyn",
+          "url": "https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 180906,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
+      "duration_ms": 231044,
+      "name": "9 to 5 to 9",
+      "url": "https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH"
     },
     {
       "added_at": null,
@@ -867,22 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC"
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
       "artists": [
-        {
-          "name": "Sabyn",
-          "url": "https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 231044,
-      "name": "9 to 5 to 9",
-      "url": "https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH"
+      "duration_ms": 180906,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Harvest...First Gathering",
+        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 315613,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To All The Girls...",
         "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 241880,
       "name": "From Here to the Moon and Back (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Harvest...First Gathering",
-        "url": "https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 315613,
-      "name": "You Are",
-      "url": "https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,034,454 likes - 500 songs - 1 day 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,035,325 likes - 500 songs - 1 day 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 499 | [Lonely as a Cloud](https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [Lonely as a Cloud](https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11) | 2:47 |
 | 500 | [It’s not a novel](https://open.spotify.com/track/2328JsPTUOHvx7eiEaIxJN) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [It’s not a novel](https://open.spotify.com/album/0L5iCQPDWPKVeccKPuclC0) | 3:12 |
 
-Snapshot ID: `AAAAAEvC9Gk01STG8oTbc35e3OkeNM47`
+Snapshot ID: `AAAAAEB5XM6+dYRIgefpn4BwtKHdyb48`

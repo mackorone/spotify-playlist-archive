@@ -4,7 +4,7 @@
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-100 songs - 5 hr 16 min
+102 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Get Up](https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 0:36 | 2025-05-16 |  |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2025-06-26 | 2025-07-10 |
 | [GO BABY](https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:14 | 2025-07-24 |  |
+| [go easy go](https://open.spotify.com/track/0kWqAA7MfCM0BBZAxbMJ6o) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [go easy go](https://open.spotify.com/album/0zsFnowMMRAY4g0ZZuVw4q) | 3:08 | 2025-09-24 |  |
 | [Going Under](https://open.spotify.com/track/6pmSjlslSDwvKrhm2eD49o) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:16 | 2025-07-24 | 2025-08-20 |
 | [H.S.K.T\. \(feat\. Wonstein\)](https://open.spotify.com/track/39382sUtIOwIXftX0i76do) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [4 ONLY](https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt) | 3:24 | 2025-05-16 |  |
 | [happy](https://open.spotify.com/track/6LUwzeiiPlUXQEO6Ke8sEt) | [Miso](https://open.spotify.com/artist/04xEkodoWyFji8icX911jM) | [happy](https://open.spotify.com/album/308X7VnHvLw6VLfWL1jgfD) | 3:15 | 2025-06-19 | 2025-07-03 |
@@ -64,14 +65,14 @@
 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 | 2025-05-16 |  |
 | [Love Affair](https://open.spotify.com/track/4ZaRg5Sf4TKr0YcFRLh7QJ) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Love Language](https://open.spotify.com/album/11SCAGedBEKgapd6mCZNZ5) | 3:10 | 2025-06-12 |  |
 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 | 2025-05-16 |  |
-| [Love Poison](https://open.spotify.com/track/0wt5AcwmWf9woYfRIVHXsW) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [<Love Poison>](https://open.spotify.com/album/01xDFuamcPJOW7Olu7g3FT) | 3:30 | 2025-09-22 |  |
+| [Love Poison](https://open.spotify.com/track/0wt5AcwmWf9woYfRIVHXsW) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [<Love Poison>](https://open.spotify.com/album/01xDFuamcPJOW7Olu7g3FT) | 3:30 | 2025-09-22 | 2025-09-25 |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-05-16 |  |
 | [Mean Girls](https://open.spotify.com/track/6oDFDGaAayXd8HXmynsgPv) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4llrXTk6u4QYI1j7KHIsCx) | 3:36 | 2025-07-03 |  |
 | [Mind Games](https://open.spotify.com/track/7C68wOAArdMX3A9EVfT1cA) | [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Mind Games](https://open.spotify.com/album/6wGP1KJLJ6kXnWf0qnOtyB) | 4:18 | 2025-05-16 | 2025-06-13 |
 | [Mona Lisa](https://open.spotify.com/track/4deGvpcWPn3v0W6D7uTL0g) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [Love is a shade of blue](https://open.spotify.com/album/1qPB8d02aj5YbWjQjvk4Nh) | 3:31 | 2025-08-04 | 2025-09-01 |
 | [Need](https://open.spotify.com/track/51Ge0cFUSzgr3jCCIsurEE) | [Collective Arts](https://open.spotify.com/artist/2wqU6s6XzEQBmbVNvo8HRM), [Damien](https://open.spotify.com/artist/6rY6f9sVehHVXVAOfLrgKf) | [STORY\#33](https://open.spotify.com/album/6DBTjyVMyMhDEIP8gapl0S) | 2:48 | 2025-05-29 | 2025-06-06 |
 | [needalove](https://open.spotify.com/track/1oMUumys2cIeMUeShaXhUy) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [needalove](https://open.spotify.com/album/44E2RLXYSEYXjK0kMD8orQ) | 3:18 | 2025-05-22 | 2025-06-26 |
-| [Out of Love](https://open.spotify.com/track/7uiC3Ce1HoN22WUnFszGo3) | [SCENE](https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C), [IFCHAN](https://open.spotify.com/artist/32ZgfbkvQ2StzCVv8Umkq6) | [Out of Love](https://open.spotify.com/album/1CwmwmPdt0SfRRHTHsje4H) | 2:35 | 2025-09-01 |  |
+| [Out of Love](https://open.spotify.com/track/7uiC3Ce1HoN22WUnFszGo3) | [SCENE](https://open.spotify.com/artist/46154Xyo0gnQW6wRaT185C), [IFCHAN](https://open.spotify.com/artist/32ZgfbkvQ2StzCVv8Umkq6) | [Out of Love](https://open.spotify.com/album/1CwmwmPdt0SfRRHTHsje4H) | 2:35 | 2025-09-01 | 2025-09-25 |
 | [peach eyes](https://open.spotify.com/track/72UVMFjUAL6KJvwi36VBiz) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/5T0Gt5JYXh6gEttuB8ujML) | 3:05 | 2025-05-16 |  |
 | [Popo \(How deep is our love?\)](https://open.spotify.com/track/6hQHOFxszCnn9Fsodazpcn) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/22DH3kdbdLrelnvpkf6VHu) | 4:31 | 2025-05-16 | 2025-06-06 |
 | [Post Sex Clarity](https://open.spotify.com/track/1n4Y7LSSZ38HgEdpPpivpg) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:21 | 2025-09-22 |  |
@@ -87,6 +88,7 @@
 | [Shameful Game](https://open.spotify.com/track/7IwPrc0AZV9uMSPitvJMxx) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [The Celestial Suite](https://open.spotify.com/album/74H9AkTLaEp1YsSlXqsXDN) | 3:05 | 2025-05-16 |  |
 | [shy girl](https://open.spotify.com/track/6eOvHXpQehwYqG3bkhCToP) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [shy girl](https://open.spotify.com/album/61Up3wv22JA9DGTRLj4xZh) | 2:43 | 2025-08-19 | 2025-09-09 |
 | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [GISELLE](https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi) | [Skrr \(feat\. GISELLE\)](https://open.spotify.com/album/3AbzaZmgL010EmQ79G48IG) | 3:39 | 2025-05-16 |  |
+| [Sky Captain \(Feat\. B JYUN., VENOSA\) \- Remix](https://open.spotify.com/track/3CD9qaeg7naRX2j8OqdBSh) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1), [VENOSA](https://open.spotify.com/artist/1BJqjBlI8pSf3PrSZmFeL4) | [RMXtape](https://open.spotify.com/album/0WyTIcXNc9NSKjVkM0tlZU) | 2:31 | 2025-09-24 |  |
 | [Sleep Well](https://open.spotify.com/track/7MGUDGEQpcqf29gWAmJyy4) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/0bTUdnGtHlFackGM0QlmPo) | 2:55 | 2025-09-19 | 2025-09-23 |
 | [Slide](https://open.spotify.com/track/2rTnVB1bvwxHtaIl4uVu7f) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Slide](https://open.spotify.com/album/6b3LhhX9Lt2861Dsh3ZCC2) | 3:58 | 2025-08-04 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2025-05-16 |  |

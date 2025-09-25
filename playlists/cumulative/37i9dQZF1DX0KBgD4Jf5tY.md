@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3RjZIfNhuaISMsbzISGxvA">Emili Kasa</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:5PbGXiwDFSQSMmzQ3pP5Jj">Vanegas</a> in cover.
 
 1,848 songs - 3 day 19 hr 25 min
 

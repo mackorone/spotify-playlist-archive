@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,599 likes - 95 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,623 likes - 95 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 39 | [Moving Up](https://open.spotify.com/track/2TYYqUZF8AnpjlJhCLHXIQ) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 3:52 |
 | 40 | [Jump Up](https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [LD+3](https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj) | 6:37 |
 | 41 | [That Old Black Magic](https://open.spotify.com/track/7hkaJ4CZ3LIDjCVFXAp6N6) | [Denis Solee](https://open.spotify.com/artist/2D90eAxzLfSL7KkvptyUtF), [The Beegie Adair Trio](https://open.spotify.com/artist/7tAni5NIpM2GBzOQMDSgVa) | [That Old Black Magic](https://open.spotify.com/album/21MsGvFf6FdX3HPB0kCqEQ) | 4:25 |
-| 42 | [Rigor Mortez \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 |
+| 42 | [Rigor Mortez \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered 2003/Rudy Van Gelder Edition\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 |
 | 43 | [Three Little Words](https://open.spotify.com/track/15NISV4mN1WTF1vHxdRrAD) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:41 |
 | 44 | [When You're Smiling](https://open.spotify.com/track/25scgTXCu6BVxDoBcz7uLA) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:46 |
 | 45 | [Just Friends](https://open.spotify.com/track/3LaeuU3ARGFpakTK7o06Ue) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Carmelo Leotta](https://open.spotify.com/artist/5XjdbxwJFTIrDkSVQNhn0k), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [Barcode](https://open.spotify.com/album/5dHw1e3fXPa7efFkzAR0V8) | 5:20 |

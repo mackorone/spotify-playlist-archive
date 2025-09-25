@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,102 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,104 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 49 | [Gettin' By, High and Strange](https://open.spotify.com/track/1GJDWrM6Z8YZzrLDeDSo7J) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Border Lord](https://open.spotify.com/album/5WHCZzMjeIu4nFWoUhMEvO) | 2:34 |
 | 50 | [From Here To The Moon and Back](https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jeremy Jordan](https://open.spotify.com/artist/1eAsLHhN9eQnxU446lhCkR) | [Joyful Noise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9) | 4:24 |
 
-Snapshot ID: `aNCRgAAAAADBV26vMk27QCwM08fsZNol`
+Snapshot ID: `aNHjAAAAAAC6HUdbhMWPH36ItTCEc1Az`

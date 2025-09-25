@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,669 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,691 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 44 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
 | 45 | [Firestorm](https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [1991\-2001 \(Forever True\)](https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H) | 3:51 |
 | 46 | [Less Than Zero](https://open.spotify.com/track/0lvsez8oZ7WSRJcmQNj7D4) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Nothing in Vain](https://open.spotify.com/album/2ZoSsqN1TZNcGtT7ImdixK) | 2:45 |
-| 47 | [Save Us](https://open.spotify.com/track/4wFOby3D08M6keJ3FH6roi) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/76VKJEp7KxcdcMapN0H1nJ) | 4:23 |
-| 48 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 |
+| 47 | [Chasing the Dragon](https://open.spotify.com/track/2NaSdkhNfzrCFd0p5vKspk) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/1g3661VmArydCMCXltxVJk) | 3:23 |
+| 48 | [Save Us](https://open.spotify.com/track/4wFOby3D08M6keJ3FH6roi) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/76VKJEp7KxcdcMapN0H1nJ) | 4:23 |
 | 49 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
 | 50 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
 

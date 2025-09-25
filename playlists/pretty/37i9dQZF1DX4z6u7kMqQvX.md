@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,009 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,017 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 72 | [Domingo Escarlata](https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Domingo Escarlata](https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf) | 3:49 |
 | 73 | [Isita Querida](https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida](https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB) | 3:32 |
 | 74 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 |
-| 75 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
-| 76 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
-| 77 | [Corazón](https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Corazón](https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g) | 2:43 |
-| 78 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
-| 79 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 |
+| 75 | [Corazón](https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Corazón](https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g) | 2:43 |
+| 76 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
+| 77 | [NIÑA](https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el) | [NIÑA](https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj) | 3:20 |
+| 78 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 |
+| 79 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
 | 80 | [Vos y Yo :3](https://open.spotify.com/track/27PskjLeAML4aATbWz0b8g) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Vos y Yo :3](https://open.spotify.com/album/5Fqn9d8KrTFajcCOBcDi6i) | 3:13 |
 | 81 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
 | 82 | [Secret Love](https://open.spotify.com/track/4KU2To33B4P5gANKi3P5Nu) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Secret Love](https://open.spotify.com/album/2Xj55Dpq6MKO1GAV3zPmzO) | 3:48 |

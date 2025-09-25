@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,970 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,963,234 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 139 | [Borracho de Amor](https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE) | 3:24 |
 | 140 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
 | 141 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
-| 142 | [La Buena y la Mala](https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV) | 3:24 |
-| 143 | [En Peligro de Extinción](https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [En Peligro de Extinción](https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp) | 3:54 |
+| 142 | [En Peligro de Extinción](https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [En Peligro de Extinción](https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp) | 3:54 |
+| 143 | [La Buena y la Mala](https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV) | 3:24 |
 | 144 | [Cuál Adiós](https://open.spotify.com/track/3WWOgwKCsqi5GCO5eRoen0) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/3GcFU0ICHxdr3rkWoRXcfE) | 3:29 |
 | 145 | [El Que Te Amó](https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Que Te Amó](https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n) | 3:04 |
 | 146 | [Broche de Oro](https://open.spotify.com/track/35oKShiPehjQg7y1iTIQ0E) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/0zo3LNmIZJr5BeQujgCB2Y) | 3:36 |

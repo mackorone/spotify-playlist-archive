@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Victor Monte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,215 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,072 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 10 | [Corazones Desechables](https://open.spotify.com/track/68XmEEQOo5NY4XqxNIKMIE) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Corazones Desechables](https://open.spotify.com/album/1pXRSlf95dCVBrXYGbi2B4) | 2:50 |
 | 11 | [DREAM GIRL](https://open.spotify.com/track/4pxdMPFL5CpvsGNsX8ifc7) | [Alexia Mariel](https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn) | [DREAM GIRL](https://open.spotify.com/album/7sh8rKR45Qt0TiKf5quDU7) | 2:20 |
 | 12 | [Las pequeñas cosas](https://open.spotify.com/track/0hS7kHY6kxFRdJQbSVg3MQ) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Las pequeñas cosas](https://open.spotify.com/album/7883ITQ2aCFvjNhVOsV6pz) | 2:41 |
-| 13 | [¿ME EXTRAÑARAS?](https://open.spotify.com/track/1okuuAYnAX05OIBEfFcjBF) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [¿ME EXTRAÑARAS?](https://open.spotify.com/album/220ZHjncgBPVB1052R0qCc) | 3:36 |
+| 13 | [¿ME EXTRAÑARAS?](https://open.spotify.com/track/1okuuAYnAX05OIBEfFcjBF) | [Andrés Zavala](https://open.spotify.com/artist/2eU9yUF9QzF2V35XmWbgs2), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh), [Cucovich](https://open.spotify.com/artist/5h6e7LpU88xAeVc5DF9pmE) | [¿ME EXTRAÑARAS?](https://open.spotify.com/album/220ZHjncgBPVB1052R0qCc) | 3:36 |
 | 14 | [Alivio](https://open.spotify.com/track/3lCj3NhPR8B24MSKO3NELR) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Alivio](https://open.spotify.com/album/6hJBUsfPzvepaHcjXPU8mJ) | 4:23 |
 | 15 | [Cuestión de Fe](https://open.spotify.com/track/5ktwcFBkWl3W00mqcTIzgw) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9) | [Cuestión de Fe](https://open.spotify.com/album/4RwjMVmtIfqRkpUVkdKlZN) | 2:23 |
 | 16 | [El Mundo Delante De Ti](https://open.spotify.com/track/6BXu2OtgRrVN4UHf2PKAUp) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [El Mundo Delante De Ti](https://open.spotify.com/album/5wyycKkfemxHq3D90pDh2t) | 5:07 |

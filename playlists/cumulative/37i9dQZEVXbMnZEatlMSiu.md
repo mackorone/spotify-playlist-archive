@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-1,392 songs - 3 day 9 hr 20 min
+1,393 songs - 3 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -943,6 +943,7 @@
 | [与我无关](https://open.spotify.com/track/5g3SAbi3NE8YXI0Z9aDFoZ) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/4gZyFXOfAR3Ic87D19AaMa) | 4:00 | 2022-10-15 | 2022-10-23 |
 | [乘著無人光影的遠行](https://open.spotify.com/track/6OmeRpm2rmf3BoOboNexV0) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [乘著無人光影的遠行](https://open.spotify.com/album/26Ng5PX95XAECI5JlhNL6p) | 6:09 | 2023-08-19 | 2023-08-27 |
 | [人洞山](https://open.spotify.com/track/1sVa1skVE7TerpNTWVyrGh) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:27 | 2023-05-22 | 2023-05-30 |
+| [人質](https://open.spotify.com/track/6OAUhxFZzaRHHC8XiuIkvb) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [我要快樂 \(Deluxe Version\)](https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM) | 3:52 | 2025-09-24 |  |
 | [什麼都不必說 \- 2022 Remix](https://open.spotify.com/track/1Sfb8BFB0eZyzvBRz31GpT) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [什麼都不必說 \(2022 Remix\)](https://open.spotify.com/album/7oIc0LSFU9ZRJr9Eip8Wxq) | 3:30 | 2022-07-20 | 2022-08-18 |
 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 | 2022-08-19 | 2022-08-21 |
 | [从前说](https://open.spotify.com/track/1GpbSYjurHKlxhcxCZ1Bqa) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/0abB0JEwzX23OwKnv97VBb) | 4:11 | 2022-02-21 | 2023-02-01 |
@@ -1023,7 +1024,7 @@
 | [因為是你 \- 原創影集《火神的眼淚》片頭曲](https://open.spotify.com/track/0TqOMBOKodVMnr1NgMwOt7) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [因為是你 \(原創影集《火神的眼淚》片頭曲\)](https://open.spotify.com/album/5YSunwRv17InUanAfwwHhr) | 3:31 | 2021-05-13 | 2022-02-16 |
 | [圍牆](https://open.spotify.com/track/7mFemsen8hkEoC5a4qeD6C) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [想太多](https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE) | 3:19 | 2023-11-01 | 2024-06-02 |
 | [在凌晨睡著的自己](https://open.spotify.com/track/51o0ZOrrgpidbSYXlA0WCT) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [在凌晨睡著的自己](https://open.spotify.com/album/0TJ1PMFBc6iVbvrRYIeZKf) | 4:39 | 2023-01-11 | 2023-02-02 |
-| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-02-07 |  |
+| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-02-07 | 2025-09-25 |
 | [在這座城市遺失了你 \(戲劇《他們創業的那些鳥事》插曲\)](https://open.spotify.com/track/1Ytgo9ipdlTsf6wlg6sXf3) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [運氣來得若有似無](https://open.spotify.com/album/6Vss0GQqlLtD4k3lSXnYI5) | 5:57 | 2021-03-27\* | 2023-01-16 |
 | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/track/5mQKqKNAINBrhl5MCXeDPi) | [Gordon](https://open.spotify.com/artist/4L4ArdVJzY6Uxbd82fJjqu), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [外面有點冷 feat\. 蛋堡 Soft Lipa](https://open.spotify.com/album/3iBaI177ig9AIswqdDMzp7) | 4:27 | 2022-10-22 | 2022-10-30 |
 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 | 2021-07-07 | 2024-01-07 |
@@ -1189,7 +1190,7 @@
 | [晚风告白](https://open.spotify.com/track/6ZxvapmYLdLdRCdIFR0NRQ) | [星野](https://open.spotify.com/artist/0TCVoMXRAScM2rS0pvopLM) | [晚风告白](https://open.spotify.com/album/4b3cNiY27Dw9tuQG3hcuxO) | 3:55 | 2022-12-19 | 2023-03-19 |
 | [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 | 2024-01-07 |
 | [晴天](https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v) | 4:29 | 2024-09-16 | 2025-09-22 |
-| [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 | 2024-01-06 | 2025-09-24 |
+| [晴天](https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla) | 4:29 | 2024-01-06 |  |
 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 | 2023-06-05 | 2023-07-01 |
 | [暗示](https://open.spotify.com/track/0VyFacvCGC6ABXgbqS268z) | [CoCo Lee](https://open.spotify.com/artist/3ioHf138TiMxYRCWmC8yJX) | [DI\-DA\-DI暗示](https://open.spotify.com/album/1hW9QA6WJxiH8VqxSa4KTz) | 5:59 | 2023-07-07 | 2023-07-09 |
 | [暮色回响 \- 电影《默杀》推广曲](https://open.spotify.com/track/34lHeTk1cdLlQLJgmqSY9y) | [张韶涵](https://open.spotify.com/artist/0nMPxtQGOjtIiaSg0LKaMX) | [暮色回响 \(电影《默杀》推广曲\)](https://open.spotify.com/album/5DS3v9OmWKA0bKb3SudXV2) | 3:01 | 2024-07-30 | 2024-10-25 |
@@ -1362,7 +1363,7 @@
 | [错位时空 \- 治愈版](https://open.spotify.com/track/65pvMJX8rkUCyeByCHKFhj) | [小玄子](https://open.spotify.com/artist/5dneY5jm0VI7GBg0pqXTrL) | [错位时空 \(治愈版\)](https://open.spotify.com/album/4fZbtkif14aDimARvreeNT) | 3:31 | 2021-07-20 | 2021-08-24 |
 | [閉上眼睛會想起的人 \(電影《一杯熱奶茶的等待》主題曲\)](https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI) | [Jia Jia](https://open.spotify.com/artist/5qUYuf6cIHU241KxPyDMBp) | [閉上眼睛會想起的人](https://open.spotify.com/album/4m8zX2aF2ggXlAqLsSj8Vb) | 4:45 | 2021-12-16 | 2021-12-30 |
 | [開不了口](https://open.spotify.com/track/5DRICg8VWNCtIv7lWebAsI) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 4:44 | 2024-12-10 | 2024-12-13 |
-| [開始懂了](https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [我要的幸福](https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m) | 4:31 | 2025-05-14 |  |
+| [開始懂了](https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [我要的幸福](https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m) | 4:31 | 2025-05-14 | 2025-09-25 |
 | [閣愛妳一擺](https://open.spotify.com/track/07plVccQ0N6FTTTonk3c2M) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt) | 4:38 | 2021-12-12 | 2023-07-23 |
 | [閣愛妳一擺](https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [閣愛妳一擺](https://open.spotify.com/album/1KaZUKYBcVHaxD3gd8N3M7) | 4:38 | 2025-06-02 |  |
 | [關於愛的定義](https://open.spotify.com/track/2LouHht0S8wELWS8W1nTBu) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [回到未來](https://open.spotify.com/album/0hvQktrWrmT4V51FIQyMpA) | 3:59 | 2025-03-02 | 2025-03-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 450774,
+  "num_followers": 451317,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJbt4RGKnlUe3dDf5FqPgAyv+Ic3",
+  "snapshot_id": "AAAAAC8RrH7w7Av36oRsRR8SHr2jR/8S",
   "tracks": [
     {
       "added_at": "2025-08-04 05:46:30",
@@ -68,12 +68,12 @@
       },
       "artists": [
         {
-          "name": "GowraHari",
-          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
-        },
-        {
           "name": "Armaan Malik",
           "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
         },
         {
           "name": "Krishna Kanth",
@@ -83,6 +83,54 @@
       "duration_ms": 202361,
       "name": "Vibe Undi (From \"Mirai\") [Telugu]",
       "url": "https://open.spotify.com/track/2N4dA1J0EkkXU7mRxtnfKv"
+    },
+    {
+      "added_at": "2025-09-24 14:19:05",
+      "album": {
+        "name": "They Call Him OG (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kdL88K9XLanDjaE4cHmlM"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Harsha Darivemula",
+          "url": "https://open.spotify.com/artist/7wwMNMZtIVyNHOYXNKqQsk"
+        }
+      ],
+      "duration_ms": 253145,
+      "name": "Guns and Roses",
+      "url": "https://open.spotify.com/track/565bXJPlrXSq5O2aVGUr0D"
+    },
+    {
+      "added_at": "2025-05-09 09:56:17",
+      "album": {
+        "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
+        "url": "https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
+      "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
     },
     {
       "added_at": "2025-09-15 06:45:06",
@@ -205,34 +253,6 @@
       "url": "https://open.spotify.com/track/7peNClR7CbF9bDYCmOiy4L"
     },
     {
-      "added_at": "2025-05-09 09:56:17",
-      "album": {
-        "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
-        "url": "https://open.spotify.com/album/16RtrmpjjZwfRBdSlAebTG"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Nutana Mohan",
-          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Prema Velluva (From \"Hit - 3\") (Telugu)",
-      "url": "https://open.spotify.com/track/0iLgVMCi8KCTF9e6QbKvSl"
-    },
-    {
       "added_at": "2025-08-22 07:23:49",
       "album": {
         "name": "Mallika Gandha (From \"Telusu Kada\")",
@@ -255,6 +275,26 @@
       "duration_ms": 261133,
       "name": "Mallika Gandha (From \"Telusu Kada\")",
       "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
+    },
+    {
+      "added_at": "2024-06-04 06:47:16",
+      "album": {
+        "name": "Hungry Cheetah (From \"They Call Him OG\")",
+        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Raghu Ram",
+          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
+        }
+      ],
+      "duration_ms": 119052,
+      "name": "Hungry Cheetah (From \"They Call Him OG\")",
+      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
     },
     {
       "added_at": "2025-09-08 06:06:41",
@@ -299,6 +339,30 @@
       "duration_ms": 271964,
       "name": "Netho Cheppana",
       "url": "https://open.spotify.com/track/5RfNlQ6GrTWmAXpmUUhDzF"
+    },
+    {
+      "added_at": "2025-09-24 14:19:46",
+      "album": {
+        "name": "They Call Him OG (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kdL88K9XLanDjaE4cHmlM"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        },
+        {
+          "name": "Kalyan Chakravarthy Tripuraneni",
+          "url": "https://open.spotify.com/artist/5blw1g0NOKg2g02hkN6Dgb"
+        }
+      ],
+      "duration_ms": 275128,
+      "name": "Suvvi Suvvi",
+      "url": "https://open.spotify.com/track/4Thm04ZRILTYvnaFgBc1Hi"
     },
     {
       "added_at": "2025-07-04 07:13:48",
@@ -1007,26 +1071,6 @@
       "duration_ms": 291000,
       "name": "Gongoora Thota",
       "url": "https://open.spotify.com/track/3TeGBS4boert6YCIkhUaDI"
-    },
-    {
-      "added_at": "2024-06-04 06:47:16",
-      "album": {
-        "name": "Hungry Cheetah (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/1D5M0OXMaT1dV9MADSPgIg"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Raghu Ram",
-          "url": "https://open.spotify.com/artist/4b5xBk2NYeK5kGKJKGhnJj"
-        }
-      ],
-      "duration_ms": 119052,
-      "name": "Hungry Cheetah (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
     },
     {
       "added_at": "2023-12-30 10:49:01",

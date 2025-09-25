@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,121 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,132 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 7 | [The Tide Is High \- Edit](https://open.spotify.com/track/165NAtd2DRPKNQ6EVY0VG9) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Tide Is High](https://open.spotify.com/album/0zkNOW8F8hcsEwIhulD67b) | 3:53 |
 | 8 | [Atomic](https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 4:40 |
 | 9 | [Rapture](https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 4:59 |
-| 10 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 |
+| 10 | [Hanging On The Telephone \- Remastered](https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 2:22 |
 | 11 | [Atomic](https://open.spotify.com/track/1agoWz2axt0R9alvenDXB0) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Atomic](https://open.spotify.com/album/7GIYvXj0WMNJ73Nvim7yVt) | 3:49 |
 | 12 | [Dreaming](https://open.spotify.com/track/2Rn7bVL1FVYboc4c55RUdg) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:08 |
 | 13 | [Denis \- Remastered 2001](https://open.spotify.com/track/3RIpoyYHjSTJtwoi5yHW1E) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:19 |
-| 14 | [Hanging On The Telephone \- Remastered](https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 2:22 |
+| 14 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 |
 | 15 | [X Offender \- Remastered 2001](https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:14 |
 | 16 | [Union City Blue \- Single Version](https://open.spotify.com/track/3a3JGuTQNYM3YawGpck7Ql) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:22 |
 | 17 | [Once I Had A Love \(AKA The Disco Song\) \- 1975 Version / Remastered 2001](https://open.spotify.com/track/0UFLbtupYWaDGMS4io94Ml) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 3:58 |

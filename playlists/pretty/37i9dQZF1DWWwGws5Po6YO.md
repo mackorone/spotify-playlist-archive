@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Malibu
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,403 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,433 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

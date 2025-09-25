@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: ONEWE\(원위\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,925 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,911 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 80 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 | 81 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
 | 82 | [Mr\. Santa](https://open.spotify.com/track/5sKVq8eZao43FmumueYClP) | [LUNCH](https://open.spotify.com/artist/2UVzzx3MOPYV3l6xW2lzBv) | [Mr\. Santa](https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5) | 3:19 |
-| 83 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
+| 83 | [Santa,I have a Wish…](https://open.spotify.com/track/2ZAF7QSsI5xTMo8kAH79BU) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Santa,I have a Wish…](https://open.spotify.com/album/7u38QbYaTHAnXXFVqdEKTl) | 3:34 |
 | 84 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 |
-| 85 | [Santa,I have a Wish…](https://open.spotify.com/track/2ZAF7QSsI5xTMo8kAH79BU) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Santa,I have a Wish…](https://open.spotify.com/album/7u38QbYaTHAnXXFVqdEKTl) | 3:34 |
+| 85 | [Santa For You](https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [Santa For You](https://open.spotify.com/album/7zmo5Zl70iQSjpgJ2jnJSI) | 3:17 |
 | 86 | [Merry Merry Christmas](https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd), [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [C9 Single Album '2022 C9 Christmas'](https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr) | 3:27 |
-| 87 | [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 |
-| 88 | [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 |
+| 87 | [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 |
+| 88 | [Hot December](https://open.spotify.com/track/1cUtKpkuZFgrjIYNrs98u9) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk) | [Hot December](https://open.spotify.com/album/66n3HeqKGthEETsuBIK6dO) | 3:21 |
 | 89 | [Merry Christmas](https://open.spotify.com/track/0QV9dRXZsFM68ehadaIUFK) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [TEEN TOP Snow Kiss](https://open.spotify.com/album/6TcFwzPesuskRFjTQptrl4) | 3:19 |
 | 90 | [MY GROWN UP CHRISTMAS LIST](https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [HITMAN PROJECT \#1 : A TRIBUTE TO THE HITMAN,DAVID FOSTER](https://open.spotify.com/album/7eRKeHsGJe7gtSUwoaHTqQ) | 4:49 |
 | 91 | [Snowman \(Special Ver.\)](https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 3rd Mini Album 'Prelude'](https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh) | 3:05 |

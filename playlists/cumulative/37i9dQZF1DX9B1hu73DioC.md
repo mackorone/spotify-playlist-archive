@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-972 songs - 2 day 9 hr 39 min
+973 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Double](https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Double](https://open.spotify.com/album/6Rf1Ngu6OEeXdOE7nIBCgA) | 3:02 | 2024-06-28 | 2024-12-07 |
 | [Drag](https://open.spotify.com/track/0blezul9oOOb2rEohK6G2v) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Headcase](https://open.spotify.com/album/3Fx9xS21WR8hssJNhwnlgT) | 3:09 | 2023-07-07 | 2024-04-19 |
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2020-10-05\* | 2023-06-15 |
+| [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 | 2025-09-23 |  |
 | [Dream police](https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:49 | 2024-04-11 | 2024-05-07 |
 | [Dreamers](https://open.spotify.com/track/2eVzRsZ1qLjw3TJSk5Cqym) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Dreamers](https://open.spotify.com/album/0UUW8lGiDr1NnJSb9gNGq1) | 4:00 | 2020-10-05\* | 2021-03-17 |
 | [Dreamin](https://open.spotify.com/track/4cYvM8q9V6HTEayIBHuP1W) | [BRONCHO](https://open.spotify.com/artist/6Lll1MPPak4m4vZKuJB264) | [Natural Pleasure](https://open.spotify.com/album/5tJQnCPddwUupM2qXrpVUK) | 3:26 | 2025-04-25 | 2025-05-13 |
@@ -797,7 +798,7 @@
 | [Soul Brother](https://open.spotify.com/track/7Ec6uyUupAzH99HSmsMDfn) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A) | [Soul Brother](https://open.spotify.com/album/40n7vb1dukXUKv6uKGLNsv) | 3:49 | 2022-06-28 | 2022-10-15 |
 | [Speaking Sonar](https://open.spotify.com/track/3jNzWIb2btZiF8QxLhUCOL) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Happy Camper](https://open.spotify.com/album/5Aj6dbpCHryCIB9n2pqmwG) | 3:40 | 2022-11-10 | 2022-11-13 |
 | [Speaking Sonar](https://open.spotify.com/track/391urs5Mo2SLm5Cge12K5x) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Speaking Sonar](https://open.spotify.com/album/7Ilx2OLWq4xrqRKRQ0rEm5) | 3:40 | 2020-10-05\* | 2022-04-18 |
-| [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-08-29 |  |
+| [special](https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [special](https://open.spotify.com/album/18xLIvrq9zSmW3UljQgxKj) | 2:18 | 2025-08-29 | 2025-09-25 |
 | [spinning](https://open.spotify.com/track/6ZffiEv3Y2eFHktlBBzyyY) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [spinning](https://open.spotify.com/album/3YwzAmxWhq1ojlXPLxqEMN) | 2:27 | 2022-06-01 | 2022-07-29 |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2023-06-30 | 2023-09-16 |
 | [Stay](https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Stay](https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX) | 4:09 | 2025-08-15 |  |

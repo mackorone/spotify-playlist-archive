@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "24 Songs",
       "url": "https://open.spotify.com/track/4RVH1j0vcUDcbKCsJXMl64"
@@ -7500,7 +7500,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 357127,
       "name": "Barbaad (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8"
@@ -31418,7 +31418,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 206240,
       "name": "Her Name Was Fire",
       "url": "https://open.spotify.com/track/6MrDruvJSkB6yk55rFYqR1"
@@ -32810,7 +32810,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 169214,
       "name": "House Tour",
       "url": "https://open.spotify.com/track/25jgQBxuUkGDdCG1WGKKN9"
@@ -36632,7 +36632,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -48789,6 +48789,28 @@
     },
     {
       "album": {
+        "name": "Momma Loves Me (feat. The Red Clay Strays)",
+        "url": "https://open.spotify.com/album/4RXLRP92cCLxT834dGyKSJ"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "Momma Loves Me (feat. The Red Clay Strays)",
+      "url": "https://open.spotify.com/track/43tsELuga3UvhqsCFKpVER"
+    },
+    {
+      "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
       },
@@ -58608,7 +58630,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
@@ -61516,7 +61538,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 261293,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/7cSwv1A2yKLUIf7ya0tKxJ"
@@ -65363,6 +65385,28 @@
     },
     {
       "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+    },
+    {
+      "album": {
         "name": "Shirt",
         "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
       },
@@ -68012,7 +68056,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 180020,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/1r4gQdNHdAJfUpREI0ywiu"
@@ -72056,7 +72100,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -76180,7 +76224,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 138947,
       "name": "Tiramisu",
       "url": "https://open.spotify.com/track/6pDt1F76BKy3ywWg4t8wee"

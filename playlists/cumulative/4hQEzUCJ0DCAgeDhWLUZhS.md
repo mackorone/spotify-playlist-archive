@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-526 songs - 1 day 6 hr 49 min
+527 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Going Clear](https://open.spotify.com/track/6gFWTzrUMawFAyqCpThoUA) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Going Clear](https://open.spotify.com/album/4aGDnDxBgkJrzdUS7xxqTX) | 3:21 | 2022-01-21 | 2025-05-28 |
 | [Going Down South](https://open.spotify.com/track/1Bm1YppuoO7oTAJ7s0Eyma) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Going Down South](https://open.spotify.com/album/5TeN9UapR2EHe4UDBW9lsh) | 3:48 | 2021-05-08 | 2022-03-18 |
 | [Good Times Bad Times](https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Good Times Bad Times](https://open.spotify.com/album/6quGCuC6rPXfMAN9UT2ZAU) | 2:49 | 2021-11-12 | 2025-05-28 |
+| [Goodbye](https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Futique](https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF) | 3:47 | 2025-09-24 |  |
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-25 |  |
 | [Graveyard Love](https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Graveyard Love](https://open.spotify.com/album/02vvZsSjHWwJ6FDOTNb6NN) | 3:14 | 2022-07-08 | 2025-06-04 |
 | [Grief](https://open.spotify.com/track/0dNHARb1Sa96bnjLsMqDVz) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt), [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Grief](https://open.spotify.com/album/4ccdjRpjZ6JyiazYgUslAB) | 2:34 | 2025-08-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Selection of soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,966 likes - 200 songs - 13 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,968 likes - 200 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 152 | [Papa Was A Rollin' Stone \- Single Version](https://open.spotify.com/track/5qf5RkyeFIwPdHrftXnOLq) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown 50](https://open.spotify.com/album/3rCF2cgw8eRPtvRbcr63Bh) | 6:51 |
 | 153 | [Love And Happiness](https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 5:03 |
 | 154 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va), [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Best Of Rotary Connection](https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK) | 5:49 |
-| 155 | [I Want to Make It with You](https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e) | [Bobbie Houston](https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:06 |
-| 156 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 |
+| 155 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 |
+| 156 | [I Want to Make It with You](https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e) | [Bobbie Houston](https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:06 |
 | 157 | [Like a Ship](https://open.spotify.com/track/2RcZIrOCedVC6RYHTnlm7y) | [Pastor T.L\. Barrett and the Youth for Christ Choir](https://open.spotify.com/artist/66l6SXrWHLjXFHfv202kdA) | [Like a Ship \(Without a Sail\)](https://open.spotify.com/album/7bsJSHsfKm5dXbLyY6zba4) | 4:38 |
 | 158 | [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 |
 | 159 | [I'll Take You There](https://open.spotify.com/track/4j0M3v7GPijfIrzjN8QcuK) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/1jkwBngCquhmnteY7cXjm9) | 3:16 |
@@ -184,8 +184,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 174 | [You've Become a Habit](https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh) | [Leo Nocentelli](https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e) | [Another Side](https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u) | 3:34 |
 | 175 | [Bad Bad News](https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Bet Ain't Worth the Hand / Bad Bad News](https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7) | 3:27 |
 | 176 | [After The Love Has Gone](https://open.spotify.com/track/0c3Xqt6MesEzKVGdoKandP) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 4:24 |
-| 177 | [Just To See Her](https://open.spotify.com/track/4veUi0IuVGJ6Yh8gM1N6Vb) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [The Ultimate Collection: Smokey Robinson](https://open.spotify.com/album/5GsGic6FvdqD0iTMauHM5y) | 4:02 |
-| 178 | [Hey Nineteen](https://open.spotify.com/track/12Ht0EOxXboCpbW58Wxxdf) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5OtaRmEFDEDWIwxpqOgf03) | 5:08 |
+| 177 | [Hey Nineteen](https://open.spotify.com/track/12Ht0EOxXboCpbW58Wxxdf) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5OtaRmEFDEDWIwxpqOgf03) | 5:08 |
+| 178 | [Just To See Her](https://open.spotify.com/track/4veUi0IuVGJ6Yh8gM1N6Vb) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [The Ultimate Collection: Smokey Robinson](https://open.spotify.com/album/5GsGic6FvdqD0iTMauHM5y) | 4:02 |
 | 179 | [Mr\. Big Stuff](https://open.spotify.com/track/0Kehy5ONzB3tgvo3KRdcvW) | [Jean Knight](https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr) | [Mr\. Big Stuff \(Remastered\)](https://open.spotify.com/album/0VUpqywWXd86fGSTs5LwpT) | 2:44 |
 | 180 | [The Tracks Of My Tears](https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj) | 2:54 |
 | 181 | [Concrete Reservation](https://open.spotify.com/track/4SuGW6oK6AMgKBIqhJ4gyY) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Is It Because I'm Black](https://open.spotify.com/album/076qHSzvu55zhfDwgOGiv5) | 2:27 |

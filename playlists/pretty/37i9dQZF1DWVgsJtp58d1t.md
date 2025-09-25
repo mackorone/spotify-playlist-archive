@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:4frXpPxQQZwbCu3eTGnZEw">Thundercat</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,542 likes - 155 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,322 likes - 155 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 21283,
+  "num_followers": 21287,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Coraz\u00f3n Maldito",
+        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 204889,
+      "name": "Coraz\u00f3n Maldito",
+      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "The History Of Tango, Volume 1 / Recordings 1925 - 1929",
         "url": "https://open.spotify.com/album/7iw58RnRTqZgzdT5sG5j5C"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 180520,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/1anG08CBwoLXg6gdpfjbcP"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Coraz\u00f3n Maldito",
-        "url": "https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 204889,
-      "name": "Coraz\u00f3n Maldito",
-      "url": "https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio"
     }
   ],
   "unique_name": "Mujeres del Tango",

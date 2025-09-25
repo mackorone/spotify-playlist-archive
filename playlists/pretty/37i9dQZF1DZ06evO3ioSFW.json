@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 509267,
+  "num_followers": 509338,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAAAI9hjTSR+Avlrfx3PRQK07",
+  "snapshot_id": "aNHjAAAAAAB/3MYhlFf4e2tFH4DflMRy",
   "tracks": [
     {
       "added_at": null,
@@ -131,18 +131,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+        "name": "Bien Acompa\u00f1ado",
+        "url": "https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX"
       },
       "artists": [
         {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Armando \u00c1vila",
+          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
         }
       ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+      "duration_ms": 232906,
+      "name": "\u00bfQu\u00e9 Nos Pas\u00f3? (with Yuridia)",
+      "url": "https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f"
     },
     {
       "added_at": null,
@@ -167,26 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Acompa\u00f1ado",
-        "url": "https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX"
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Armando \u00c1vila",
-          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
         }
       ],
-      "duration_ms": 232906,
-      "name": "\u00bfQu\u00e9 Nos Pas\u00f3? (with Yuridia)",
-      "url": "https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f"
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
     },
     {
       "added_at": null,

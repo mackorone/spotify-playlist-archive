@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 
 > 
 
-[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,640 likes - 257 songs - 16 hr 4 min
+[Ma La](https://open.spotify.com/user/21ecxryiyxe6gj5elglqca2fy) - 22,634 likes - 258 songs - 16 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -265,5 +265,6 @@ pretty - [cumulative](/playlists/cumulative/7gP3QDumGRrHqoy9iWtDyw.md) - [plain]
 | 255 | [Fuck That](https://open.spotify.com/track/4ztmlSZinz3IbpJU5YX7JG) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Recess](https://open.spotify.com/album/7rf1qZJ6hGSlPN7K9ShsVV) | 3:52 |
 | 256 | [Brooklyn](https://open.spotify.com/track/04L8upqYWKegTZOYdgyPeP) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ) | [Homieland vol.1](https://open.spotify.com/album/3U86hGdTE6sfypz1YHFMnD) | 5:19 |
 | 257 | [Work \- Franky Rizardo Remix](https://open.spotify.com/track/7lBcBg4THRZgzj4zczNvOS) | [The 2 Bears](https://open.spotify.com/artist/0tCMgjr8y7UKNmE3B1Uwbl), [Franky Rizardo Remix](https://open.spotify.com/artist/5n6Cdis4xlORQgfih56nnW) | [Work](https://open.spotify.com/album/5BQA0Mz8d7GA8dEYyF0B2Y) | 6:18 |
+| 258 | [Diamonds](https://open.spotify.com/track/6GNuSKmHQEDdIgQYLyLJWZ) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Diamonds](https://open.spotify.com/album/1qYVyMhvMYcMnR1KfM2AYi) | 2:38 |
 
-Snapshot ID: `AAAJjYj1YVyhxUfCGwetP1UOdxNV+zZt`
+Snapshot ID: `AAAJjr8aTTsAMx266sUYRrkQT3S2f0Te`

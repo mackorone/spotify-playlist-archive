@@ -4589,6 +4589,36 @@
     },
     {
       "album": {
+        "name": "BOOEEE",
+        "url": "https://open.spotify.com/album/1tI9Dw2LF6n2Dd1PCTkc8p"
+      },
+      "artists": [
+        {
+          "name": "Marconi Impara",
+          "url": "https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Ranking Stone",
+          "url": "https://open.spotify.com/artist/2vThUcryaKNLhULHOzP3eH"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291208,
+      "name": "BRINQUEN - REMIX",
+      "url": "https://open.spotify.com/track/7cVYjeUYgWD2NmIlQ4S4hh"
+    },
+    {
+      "album": {
         "name": "ROMANCE : UNTOLD",
         "url": "https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL"
       },
@@ -9526,7 +9556,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 88000,
       "name": "DOORS LIGHT FUNK",
       "url": "https://open.spotify.com/track/3jauxgH08JQsagBfDQ8Kwz"
@@ -9952,7 +9982,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 185131,
       "name": "Ebrio de amor",
       "url": "https://open.spotify.com/track/53x72ql3pw8h0hJ8PsEIdm"
@@ -11009,6 +11039,24 @@
     },
     {
       "album": {
+        "name": "M\u00fasica Nacional New Bolivia Band (Original)",
+        "url": "https://open.spotify.com/album/3QzTKry7yhql4hVhE3BiuL"
+      },
+      "artists": [
+        {
+          "name": "New Bolivia Band",
+          "url": "https://open.spotify.com/artist/4HjqgEAv5ihM75kSfSSWKQ"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501968,
+      "name": "Enganchados de Carnavales",
+      "url": "https://open.spotify.com/track/0ZT1Y4RPtqBLahu1rNg9pY"
+    },
+    {
+      "album": {
         "name": "Enrolar (Fantastic Four Remix)",
         "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
       },
@@ -11396,7 +11444,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 240031,
       "name": "Estoy solito",
       "url": "https://open.spotify.com/track/6PycVuTUzApClrhtbVUjQN"
@@ -11550,7 +11598,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 151270,
       "name": "Eu T\u00f4 Fazendo uma M\u00e1gica",
       "url": "https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz"
@@ -16876,7 +16924,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 185642,
       "name": "La Pucha Con el Hombre",
       "url": "https://open.spotify.com/track/3r8Jf4psEdZhq3Ojh62ST1"
@@ -28804,7 +28852,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-30",
+      "date_removed": null,
       "duration_ms": 216022,
       "name": "September",
       "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
@@ -29132,6 +29180,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "date_added": "2025-08-17",
@@ -30096,7 +30148,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 223342,
       "name": "Solare",
       "url": "https://open.spotify.com/track/6TaJZRQRgvjOtRb31BlPLd"
@@ -32142,7 +32194,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -32686,7 +32738,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 263341,
       "name": "Tierra Como Mi Tierra",
       "url": "https://open.spotify.com/track/4pqqdLck9OHnTQP5Mzmdw4"
@@ -33716,7 +33768,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 112483,
       "name": "TUNG SAHUR \u2013 BZRT Session (Todos Quieren Tung!)",
       "url": "https://open.spotify.com/track/1rG7NGFQBn6znMMCIDCEEN"
@@ -33734,7 +33786,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 133147,
       "name": "Tung Tung Tung Sahur",
       "url": "https://open.spotify.com/track/7N0hlz8sQ1wPI4iH5Fh2L1"
@@ -38046,7 +38098,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 197668,
       "name": "\u9769\u547d\u9053\u4e2d - On The Way",
       "url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"

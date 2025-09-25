@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZDMxPJhrYOE.md) - [plain]
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,594 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,595 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

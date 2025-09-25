@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-116 songs - 8 hr 24 min
+117 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,9 +78,10 @@
 | [Madhaniya](https://open.spotify.com/track/6O43xZgX8jkN4nek5XyP33) | [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Madhaniya](https://open.spotify.com/album/7MWiDSiUTM0gfrwp2rl0mE) | 4:49 | 2024-09-20 | 2025-05-02 |
 | [Maenziraat](https://open.spotify.com/track/6BMwADwJAgnHWhANiDinwd) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Maenziraat](https://open.spotify.com/album/5fbzhkM3nBxtQcifrXa6dL) | 2:46 | 2024-02-07 | 2024-03-02 |
 | [Mahadeva](https://open.spotify.com/track/0GxjgX5PeDnB2QOygT1Zo1) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM), [Gaurav Chati](https://open.spotify.com/artist/0RRBo2Xi8WkbBkIXwqHmBP), [Rstarjazz](https://open.spotify.com/artist/6Ugqf9crKc2BMTqt0PIrg7) | [Mahadeva](https://open.spotify.com/album/6f9GkFAcMf5wiAOmo1fM2f) | 3:30 | 2023-03-10 |  |
+| [Maniyara](https://open.spotify.com/track/6P4iBQHUdjUIq0LmIakVb1) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn) | [Maniyara](https://open.spotify.com/album/2cXwQQsZFpgbNJQ90hv3VU) | 3:19 | 2025-09-24 |  |
 | [Matkar Maya Ko Ahankar](https://open.spotify.com/track/18dts4OqWOQTGFlMTGodkk) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3) | [Panchrang](https://open.spotify.com/album/4qsUOnusaOfaWLEVye5ekB) | 6:05 | 2025-07-09 |  |
 | [Matwari](https://open.spotify.com/track/2B6uLeBwpBVBLu1xaXyoG5) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Matwari](https://open.spotify.com/album/0KUsDc3GaU9R1i4GGaYaC9) | 3:20 | 2023-03-10 |  |
-| [Maye Ni Meriye](https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD) | [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Maye Ni Meriye](https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW) | 4:25 | 2023-03-10 |  |
+| [Maye Ni Meriye](https://open.spotify.com/track/4ibRGHSHOS6D08Im4bLaYD) | [Britto Khangchian](https://open.spotify.com/artist/6WCLC4572cMMQAFt0WEWYk) | [Maye Ni Meriye](https://open.spotify.com/album/6sc04EqX9CJW4k1Q6pPiDW) | 4:25 | 2023-03-10 | 2025-09-25 |
 | [Mehndi Te Vavi](https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Mehndi Te Vavi](https://open.spotify.com/album/5fxKel0n6EsDMfuIkeaw0W) | 2:29 | 2023-03-10 |  |
 | [Mere Makaan](https://open.spotify.com/track/6NwACkuYB1ofC2fBwvj0eb) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Mere Makaan](https://open.spotify.com/album/3nMDW1FquZfMaXTYg5l2ej) | 7:14 | 2023-08-24 | 2023-11-12 |
 | [Mitho Laage \- The Dewarists, Season 5](https://open.spotify.com/track/4mjjr1EeynuE236oOWeEMK) | [Dhruv Ghanekar](https://open.spotify.com/artist/716MYE0ks6nnA2oCJdK3Mb), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Mitho Laage \(The Dewarists, Season 5\)](https://open.spotify.com/album/5f9rbgON0HgEoFlrNUiaJp) | 4:40 | 2023-03-10 |  |

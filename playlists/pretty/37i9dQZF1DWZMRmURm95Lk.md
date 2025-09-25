@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> DJ Shocca è tornato, 60 Hz II\. Beat e rime, oggi come una volta.
+> Beat e rime, oggi come una volta\. Neffa in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,650 likes - 145 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,659 likes - 145 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 144 | [Aspettando Il Sole \- Remastered 2021](https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Giuliano Palma](https://open.spotify.com/artist/2jLEscFAP2hVe8fsJ0HO6I) | [Neffa E I Messaggeri Della Dopa \(Remastered 2021\)](https://open.spotify.com/album/3l2WnzMd3rByRRvFqI8UX2) | 5:11 |
 | 145 | [La Fame](https://open.spotify.com/track/3kwdLQJF7xuqa6FG9Us8Om) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Sacrosanto \(Deluxe Edition\)](https://open.spotify.com/album/2Om2nAPw1pT9BiK4vj1SDD) | 2:44 |
 
-Snapshot ID: `AAAAAO7rtmcvAsUF92bjpkwO4U7yj1R2`
+Snapshot ID: `AAAAAGE0TnFzaikaEOnEYQgMMn7Q1e6h`

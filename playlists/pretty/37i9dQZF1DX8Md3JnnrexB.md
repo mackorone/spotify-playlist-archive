@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,797 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,774 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 73 | [Love Buddies](https://open.spotify.com/track/5ILMeTJNgTldGWbbI0YQ4L) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 3:41 |
 | 74 | [Top of My Love](https://open.spotify.com/track/06OLc5fiVflTp05NSsXPDw) | [Joy Denalane](https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH) | [Let Yourself Be Loved \(Deluxe Version\)](https://open.spotify.com/album/59t2Z3zDQNx1wx8Xz7MLiy) | 3:19 |
 | 75 | [Can't Afford Therapy](https://open.spotify.com/track/6urArILLJCAMySnR4RA92s) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Can't Afford Therapy](https://open.spotify.com/album/0ZSD6U53FhsMV2N7tUyITc) | 4:09 |
-| 76 | [Neither One Of Us \(Wants To Be The First To Say Goodbye\)](https://open.spotify.com/track/76Gcy0ltMutGaK8oizgdrF) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/0OV8RlPlzYfP75m1pgh0GD) | 4:21 |
-| 77 | [Close the Door](https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing](https://open.spotify.com/album/0x8q0crYQI3FagJi0UG5nY) | 5:25 |
-| 78 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 |
-| 79 | [Blood Is Thicker Than Water](https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:21 |
-| 80 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
-| 81 | [Show and Tell \- Rerecorded](https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Al Wilson](https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR) | 3:31 |
-| 82 | [Groovin' \- Remastered](https://open.spotify.com/track/5tIbsf9661vfjKOJD9IsCb) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/5DNuGx7kB0GRgT8TOeppeC) | 2:43 |
-| 83 | [This Close To You](https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4) | 3:31 |
-| 84 | [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 |
-| 85 | [Don't Ask My Neighbor](https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Soul Survivor](https://open.spotify.com/album/4b48wowrVEK5Wav4xqYUGm) | 4:50 |
-| 86 | [Come To Me \(with Musiq Soulchild\)](https://open.spotify.com/track/1AlkJA8QIBrlpiZtZirkIB) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:08 |
+| 76 | [Come To Me \(with Musiq Soulchild\)](https://open.spotify.com/track/1AlkJA8QIBrlpiZtZirkIB) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:08 |
+| 77 | [Neither One Of Us \(Wants To Be The First To Say Goodbye\)](https://open.spotify.com/track/76Gcy0ltMutGaK8oizgdrF) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/0OV8RlPlzYfP75m1pgh0GD) | 4:21 |
+| 78 | [Close the Door](https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing](https://open.spotify.com/album/0x8q0crYQI3FagJi0UG5nY) | 5:25 |
+| 79 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 |
+| 80 | [Blood Is Thicker Than Water](https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D) | [William DeVaughn](https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU) | [Be Thankful for What You Got](https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z) | 7:21 |
+| 81 | [Grow](https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Grow](https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ) | 3:00 |
+| 82 | [Show and Tell \- Rerecorded](https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M) | [Al Wilson](https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM) | [Al Wilson](https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR) | 3:31 |
+| 83 | [Groovin' \- Remastered](https://open.spotify.com/track/5tIbsf9661vfjKOJD9IsCb) | [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Still Groovin \(Remastered\)](https://open.spotify.com/album/5DNuGx7kB0GRgT8TOeppeC) | 2:43 |
+| 84 | [This Close To You](https://open.spotify.com/track/3XcAfN5ymLAYbz3TKMGQly) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [This Close To You](https://open.spotify.com/album/1hW1NkW73cDr29Ef2XDLb4) | 3:31 |
+| 85 | [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 |
+| 86 | [Don't Ask My Neighbor](https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Soul Survivor](https://open.spotify.com/album/4b48wowrVEK5Wav4xqYUGm) | 4:50 |
 | 87 | [Still Here](https://open.spotify.com/track/1hIoyKIpoHYHdF30hheNN2) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Still Here](https://open.spotify.com/album/6YODvhTyUWPOQDeDbHdXm0) | 2:46 |
 
 Snapshot ID: `AAAAACt+Jshg0YMyGB+ByG+IT9fFX5qE`

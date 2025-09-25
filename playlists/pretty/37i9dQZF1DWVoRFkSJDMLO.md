@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands with Tyla 🇿🇦 & Wizkid 🇳🇬.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,085 likes - 65 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,118 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

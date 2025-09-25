@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Co\-curated this month by: Nova Wav <a href="spotify:playlist:37i9dQZF1EFMzqILIGFdfQ"> \(Denisia "Blu June" Andrews </a> & <a href="spotify:playlist:37i9dQZF1EFL1iJRmGqdtT"> Brittany "Chi" Coney\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,005 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,020 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,187 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,083 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Santa](https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Santa](https://open.spotify.com/album/3wYfjSTIqSbV5bRw3nhu81) | 3:21 |
+| 1 | [Santa](https://open.spotify.com/track/337mfRQq0EimDHkR3iQGTy) | [Zhamira ](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Santa](https://open.spotify.com/album/3wYfjSTIqSbV5bRw3nhu81) | 3:21 |
 | 2 | [Jingle Bell Rock \(with Maria Becerra\)](https://open.spotify.com/track/5ieSoxnino7NkPZJegAiGz) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Jingle Bell Rock \(with Maria Becerra\)](https://open.spotify.com/album/6hlGX00f21IuTjKIQN79tK) | 2:21 |
 | 3 | [El Burrito Sabanero](https://open.spotify.com/track/72hyBDzwE6Tye56FvqMkiY) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Todo Es Posible En Navidad](https://open.spotify.com/album/0N6EhZwUx9nXKFGWmYmOsU) | 2:52 |
 | 4 | [I'll Be Home For Christmas](https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [I'll Be Home For Christmas](https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX) | 2:58 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 50 | [Joy To The World \- Spanglish Version](https://open.spotify.com/track/6fOZc9dM4SKMbOX2EZ0lpf) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Joy To The World \(Spanglish Version\)](https://open.spotify.com/album/3qxMkK4ZsRocl6aQeP4yKb) | 2:26 |
 | 51 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
 | 52 | [Diciembre](https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc), [Romo One](https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs) | [Diciembre](https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4) | 3:35 |
-| 53 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
-| 54 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 |
+| 53 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 |
+| 54 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
 | 55 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 |
 | 56 | [Santa Baby](https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Santa Baby](https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq) | 2:55 |
 | 57 | [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 66 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 |
 | 67 | [Viva La Navidad](https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:37 |
 | 68 | [Llegó La Navidad](https://open.spotify.com/track/701t8Y6RqAj08ge8hEJUdg) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ) | [El Mix\-Tape De Santa](https://open.spotify.com/album/7EW5cn81Vhg5bT6pvK0ade) | 2:25 |
-| 69 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
-| 70 | [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 |
+| 69 | [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 |
+| 70 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
 | 71 | [Otra Navidad :\(](https://open.spotify.com/track/0stGjckaqF832pf74QJT0l) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:07 |
 | 72 | [Rozándome](https://open.spotify.com/track/2qEzMGg0SXKxwvUNdiFqSD) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Love & Christmas](https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn) | 3:11 |
 | 73 | [Ven a cantar \- Pau Laggies Versión](https://open.spotify.com/track/7LQFFafk4nPehWWn93TxTK) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Recalentado navideño](https://open.spotify.com/album/4JQPKQd3HaDKmacMzeuMej) | 3:26 |

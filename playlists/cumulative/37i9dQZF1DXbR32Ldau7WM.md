@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now!  Cover: go!go!vanillas
 
-1,389 songs - 3 day 19 hr 4 min
+1,389 songs - 3 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Broken Heart of Gold](https://open.spotify.com/track/5DLqCKIi1lquKvGTIjlf6I) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/5cL6DxdZ1QRc9VlFkEZdXT) | 4:13 | 2022-05-12 | 2022-06-10 |
 | [Broken Lovers](https://open.spotify.com/track/21e5VSkDCzL5FdL52TLk2X) | [Analogfish](https://open.spotify.com/artist/5KvfVmM9oHCiIy88GOG58h) | [Broken Lovers](https://open.spotify.com/album/11XIM09huBMtaV7dYWXCLf) | 4:52 | 2024-02-27 | 2024-04-24 |
 | [Brutal Number Girl \- LIVE](https://open.spotify.com/track/3ix6PE1GiYXpJ1ieP1b6hZ) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [NUMBER GIRL 無常の日 \(LIVE\)](https://open.spotify.com/album/53SM7JmehI9uYICKm1Z4Qu) | 2:02 | 2023-05-30 | 2023-06-07 |
-| [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [](https://open.spotify.com/album/null) | 2:54 | 2025-09-23 |  |
+| [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 | 2025-09-23 |  |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 | 2023-06-28 |
 | [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 | 2024-09-03 | 2024-11-13 |
 | [Bunny Girl](https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [Bunny Girl](https://open.spotify.com/album/1mxib3LFgnhuMciehemliH) | 3:37 | 2024-11-05 |  |
@@ -450,7 +450,7 @@
 | [Mob Narino Kung Fu](https://open.spotify.com/track/5a3YY2oVa9l0w630TkmM0F) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [Mob Narino Kung Fu](https://open.spotify.com/album/3pxk9Ay70I4M3e1RLVYpeD) | 3:18 | 2025-03-25 | 2025-04-23 |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2022-11-17 | 2023-01-25 |
 | [Moonlight](https://open.spotify.com/track/4hfBibBqDQFOPANcqR2ODh) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [Moonlight](https://open.spotify.com/album/5Qkw9pXEw3swmDQRmB1xQg) | 3:39 | 2022-05-10 | 2022-07-29 |
-| [moonlit](https://open.spotify.com/track/61812KfVWT9RURx4idulmo) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [](https://open.spotify.com/album/null) | 3:03 | 2025-09-23 |  |
+| [moonlit](https://open.spotify.com/track/61812KfVWT9RURx4idulmo) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [handmade](https://open.spotify.com/album/5LagsrycSYRRWlxea4l9yt) | 3:03 | 2025-09-23 |  |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-04-23 |  |
 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 | 2022-05-10 | 2023-03-22 |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2022-09-08 | 2023-06-28 |
@@ -602,6 +602,7 @@
 | [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 | 2023-11-11 |
 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 | 2023-10-12 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-10-05 |
+| [SCARY MONSTER](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SCARY MONSTERS EP](https://open.spotify.com/album/3mWJos5NX3yC9QnpdCjvxD) | 3:04 | 2025-09-23 |  |
 | [Scramble Lines](https://open.spotify.com/track/0zQkqcbenWbuK9pasCuDDb) | [TSL](https://open.spotify.com/artist/5tTQwybFOVzCaBjl1hDrUT) | [Scramble Lines](https://open.spotify.com/album/0UVvMyQN981TFI6krdJ5C5) | 3:09 | 2025-04-22 | 2025-06-11 |
 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 | 2022-05-10 | 2022-09-15 |
 | [SCREAM feat\. Matsuo Remi](https://open.spotify.com/track/6Q7cR3yBtqtfc679R9K8ON) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F), [Matsuo Remi](https://open.spotify.com/artist/5vh7AkRVPMGrasDdho8UKp) | [SCREAM feat\. Matsuo Remi](https://open.spotify.com/album/17WqxkV1OdxdkUMg6ZaxGZ) | 3:42 | 2024-01-09 | 2024-01-31 |
@@ -753,7 +754,6 @@
 | [tonight](https://open.spotify.com/track/76r39ZhRRknSx7Otsy1s5p) | [Arukara](https://open.spotify.com/artist/3FNVZovYeq27HeeJf3ogLU) | [tonight](https://open.spotify.com/album/7LZixLs2YztuW53wsE2GeZ) | 4:34 | 2022-11-08 | 2022-11-16 |
 | [Tonight, Tonight](https://open.spotify.com/track/49uaFiZPOQvEPB4IJBfUDg) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Break and Cross the Walls Ⅱ](https://open.spotify.com/album/63Vs5V4iH9zZf1QGcmqWAU) | 3:32 | 2022-05-24 | 2023-06-28 |
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-07-30 | 2024-10-09 |
-| [Track 1](https://open.spotify.com/track/2Etd3iNEAKpYgp7otKkTAB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-23 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-08-06 |
 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 | 2022-08-09 | 2022-08-24 |
 | [Tropical Therapy](https://open.spotify.com/track/0aXrPDQKpsGlZKVzEnurSK) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [DETOX](https://open.spotify.com/album/3kbT2L3KUCnl547a6zZKKE) | 3:28 | 2025-02-25 |  |
@@ -1342,7 +1342,7 @@
 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 | 2024-04-23 | 2024-08-02 |
 | [赤いタンバリン](https://open.spotify.com/track/4WGr7OwOGQJPuAHJEcH2sh) | [BiS](https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX) | [BiS DiVE into ROCKS](https://open.spotify.com/album/4qndLQ0EqS02sFkHPP5CRz) | 3:23 | 2022-05-19 | 2022-06-08 |
 | [走れSAKAMOTO](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-14 |  |
-| [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [](https://open.spotify.com/album/null) | 5:14 | 2025-09-23 |  |
+| [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 | 2025-09-23 |  |
 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 | 2025-04-08 |  |
 | [超メモリアル](https://open.spotify.com/track/3jbFfa2rRHQKMj1rg7KowX) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [超メモリアル](https://open.spotify.com/album/3XKe2Pdxu8DgLOweg6U2xs) | 3:33 | 2024-04-23 | 2024-07-15 |
 | [輝けるもの](https://open.spotify.com/track/5IWsAjExgVuzDZQT2gexuS) | [ACIDMAN](https://open.spotify.com/artist/0zEbGW70TQHSOf4Ip1oeVn) | [輝けるもの](https://open.spotify.com/album/0DwmAkmFvzWneRDrUZS88j) | 4:20 | 2024-01-04 | 2024-06-29 |

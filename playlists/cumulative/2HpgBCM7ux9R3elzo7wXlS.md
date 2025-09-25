@@ -4,7 +4,7 @@
 
 > All of it
 
-982 songs - 2 day 12 hr 39 min
+984 songs - 2 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [five minutes writing from the bottom](https://open.spotify.com/track/7pK5EVdEv4OlPUsWL3TxD1) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [five minutes writing from the bottom](https://open.spotify.com/album/5ReWCwshKyMSMgFSmqRcll) | 2:18 | 2025-06-02 |  |
 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2025-06-02 |  |
 | [Flex Up \(feat\. Future & Playboi Carti\)](https://open.spotify.com/track/5Ryu0SlsYjKh78RkJUONFr) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lil Boat 3.5](https://open.spotify.com/album/6ufaA5YvSGK3E9KnRFYvvo) | 2:50 | 2025-06-02 |  |
+| [Flower Moon](https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:56 | 2025-09-24 |  |
 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2025-06-02 |  |
 | [FLY ME TO THE MOON \- 2020 Version](https://open.spotify.com/track/56dvEv8PIWFuc5vJQLPM0L) | [高橋　洋子](https://open.spotify.com/artist/0wqT31jdZlxs4FRztdxaE9) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 4:32 | 2025-06-02 |  |
 | [Fly\-day Chinatown](https://open.spotify.com/track/73yXCwINoNqUBJRAgPJPsY) | [Yasuha](https://open.spotify.com/artist/0W2BSNBblzlWTk4bD2A9uR) | [TRANSIT](https://open.spotify.com/album/54YWO21bElTfQYwNrCVDKE) | 3:30 | 2025-06-02 |  |
@@ -989,6 +990,7 @@
 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 | 2025-06-02 |  |
 | [悲しみがとまらない　I CAN'T STOP THE LONELINESS](https://open.spotify.com/track/3FYDqY5BRtx3IVSaiQZSze) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:23 | 2025-06-02 |  |
 | [扉をあけて](https://open.spotify.com/track/0DO0NtFn6hB4Brt44Z8Tkz) | [ANZA](https://open.spotify.com/artist/6FqPSlvSUeyjs1trbw649Q) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:42 | 2025-06-02 |  |
+| [抱かれに来た女](https://open.spotify.com/track/5ZwDNdZHE1HC4nJPWG321K) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 4:29 | 2025-09-24 |  |
 | [雨のシンデレラ](https://open.spotify.com/track/0gjOwFL9JBgDQhlV7IbIzS) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TOKYO SNIPER](https://open.spotify.com/album/45pXNtvDYwePukYalI1nfT) | 6:35 | 2025-06-02 |  |
 
 \*This playlist was first scraped on 2025-06-20. Prior content cannot be recovered.

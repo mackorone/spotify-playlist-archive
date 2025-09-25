@@ -642,7 +642,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 207533,
       "name": "A las Nueve",
       "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
@@ -8102,6 +8102,24 @@
       "duration_ms": 162139,
       "name": "FAN\u00c1TICO",
       "url": "https://open.spotify.com/track/32fRErxI6gKskZXSbEAAAn"
+    },
+    {
+      "album": {
+        "name": "NO ME OLVIDES",
+        "url": "https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173453,
+      "name": "FAVORITA",
+      "url": "https://open.spotify.com/track/6EhX9FjpQZ5CohoGeqUM2u"
     },
     {
       "album": {
@@ -19834,6 +19852,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "date_added": "2025-09-12",

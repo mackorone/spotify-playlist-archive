@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KA2LHWBFpC.md) - [plain]
 
 > Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href="https://suzume\-tojimari\-movie.jp/">"Suzume"</a>\.   2022 "Suzume" Film Partners
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,117 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,135 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

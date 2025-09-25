@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 
 > 🍬😝 CA7RIEL & Paco Amoroso EN PORTADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,990 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,981 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxTFrYlC2a.md) - [plain]
 | 71 | [POLARIS \- Remix](https://open.spotify.com/track/4HsjtyUDFGAxRF3AaA6q07) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [SAKURA](https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc) | 4:48 |
 | 72 | [Apaga la Luz](https://open.spotify.com/track/2WdcWFEry1P3or789QBwHY) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Naked Geometry](https://open.spotify.com/artist/6cuFN9smGJryZNaZU9QtWl) | [Apaga la Luz](https://open.spotify.com/album/2JZwRGuhbOpwcCF1NRt25s) | 2:49 |
 
-Snapshot ID: `AAAAAEyLLWKqqfLogApqHXneA2awPOpj`
+Snapshot ID: `AAAAALtqJ9U09EHe2aTqjBSWj4BI4AFL`

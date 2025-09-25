@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
-  "num_followers": 833917,
+  "num_followers": 834025,
   "original_name": "Mates y M\u00fasica",
   "owner": {
     "name": "Spotify",
@@ -515,6 +515,22 @@
     {
       "added_at": "2025-09-05 15:15:05",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2025-09-05 15:15:05",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 319393,
       "name": "Chau",
       "url": "https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P"
-    },
-    {
-      "added_at": "2025-09-05 15:15:05",
-      "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2025-09-05 15:15:05",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-09-05 15:15:05",
       "album": {
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "Bonsai",
+      "url": "https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn"
+    },
+    {
+      "added_at": "2025-09-05 15:15:05",
+      "album": {
         "name": "La Voz Del Viento",
         "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
-    },
-    {
-      "added_at": "2025-09-05 15:15:05",
-      "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "Bonsai",
-      "url": "https://open.spotify.com/track/072yPZOZLx9HmR3pdEhNwn"
     },
     {
       "added_at": "2025-09-05 15:15:05",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-09-05 15:15:05",
       "album": {
-        "name": "El N\u00famero Imperfecto",
-        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
-      },
-      "artists": [
-        {
-          "name": "Catupecu Machu",
-          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "A Veces Vuelvo",
-      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
-    },
-    {
-      "added_at": "2025-09-05 15:15:05",
-      "album": {
         "name": "A Contraluz",
         "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 232093,
       "name": "Llenos De Magia",
       "url": "https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu"
+    },
+    {
+      "added_at": "2025-09-05 15:15:05",
+      "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "A Veces Vuelvo",
+      "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
     },
     {
       "added_at": "2025-09-05 15:15:05",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-09-05 15:15:05",
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
+      },
+      "artists": [
+        {
+          "name": "Sui Generis",
+          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Canci\u00f3n para Mi Muerte",
+      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
+    },
+    {
+      "added_at": "2025-09-05 15:15:05",
+      "album": {
         "name": "Me Cans\u00e9",
         "url": "https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 199457,
       "name": "Me Cans\u00e9",
       "url": "https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z"
-    },
-    {
-      "added_at": "2025-09-05 15:15:05",
-      "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
-      },
-      "artists": [
-        {
-          "name": "Sui Generis",
-          "url": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Canci\u00f3n para Mi Muerte",
-      "url": "https://open.spotify.com/track/0t0Kl5jxxV3s8bdpILkgmd"
     },
     {
       "added_at": "2025-09-05 15:15:05",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-09-05 15:15:05",
       "album": {
-        "name": "Aunque Cueste Ver El Sol",
-        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 266133,
-      "name": "Verte Re\u00edr",
-      "url": "https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk"
-    },
-    {
-      "added_at": "2025-09-05 15:15:05",
-      "album": {
         "name": "Mago",
         "url": "https://open.spotify.com/album/2w3gUevNyMDX6fNuC273nN"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 214853,
       "name": "Mago",
       "url": "https://open.spotify.com/track/1MJFpwxCbB5IvkwNnr0m2V"
+    },
+    {
+      "added_at": "2025-09-05 15:15:05",
+      "album": {
+        "name": "Aunque Cueste Ver El Sol",
+        "url": "https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Verte Re\u00edr",
+      "url": "https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk"
     },
     {
       "added_at": "2025-09-05 15:15:05",

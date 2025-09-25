@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 
 > Zenék, amik félreugranak a műfaji határok elől\. Cover: Artūr Rambo
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,234 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,238 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0HmsQ8GzI0.md) - [plain]
 | 79 | [zúgj szél](https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU) | [30Y](https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9) | [zúgj szél](https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS) | 3:21 |
 | 80 | [Utolér](https://open.spotify.com/track/3NkIgoNeVIaNTGoX07HeaJ) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Utolér](https://open.spotify.com/album/7Ed9DjNWiZ4Tg915L7YIkU) | 2:45 |
 
-Snapshot ID: `AAAAAL1PQzyX5WpBRNjNxMqJOpK8IOO+`
+Snapshot ID: `AAAAABNxJNM4WrRvoAeBYuMl5EnT4YnN`

@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-161 songs - 9 hr 20 min
+162 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Stupid Cupid](https://open.spotify.com/track/4iFbnPMRkgyDcVekYgFsnp) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Ice Cream Cake \- The 1st Mini Album](https://open.spotify.com/album/27cBQ5FDqv0xLgiJ7qNpZr) | 3:29 | 2022-03-22 | 2024-04-19 |
 | [Stupid Cupid](https://open.spotify.com/track/6OnKEdFzwJhLXGP3z3IiRs) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The 1st Mini Album ‘Ice Cream Cake’](https://open.spotify.com/album/6eS6pnhJWgYL0A74Mp3RPc) | 3:29 | 2022-03-22 |  |
 | [Sunflower](https://open.spotify.com/track/7y0jebgMdsAEofK2Ye0e6g) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 3:16 | 2024-06-24 |  |
+| [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 | 2025-09-24 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/3G6iqKcRzEYwSu9zE2qAMW) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 4:00 | 2022-03-22 | 2024-04-19 |
 | [Sunny Afternoon](https://open.spotify.com/track/5j5GL0vsQnDBdiuLEyfnrv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 4:00 | 2022-03-22 |  |
 | [Sunny Side Up!](https://open.spotify.com/track/782QoB4jJ7hEVJmkYzVrRE) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:23 | 2022-03-22 |  |

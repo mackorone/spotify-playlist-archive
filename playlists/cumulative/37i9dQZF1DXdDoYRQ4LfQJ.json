@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Arriba la Barbiza",
+        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169496,
+      "name": "Arriba la Barbiza",
+      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
+    },
+    {
+      "album": {
         "name": "Arriba Las Manos",
         "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 127481,
       "name": "CATALOGADO",
       "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
@@ -1438,6 +1456,24 @@
       "duration_ms": 157749,
       "name": "Chambeando Recio",
       "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
+    },
+    {
+      "album": {
+        "name": "Changuito Me Apodaron",
+        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163350,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
     },
     {
       "album": {
@@ -3050,7 +3086,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 196513,
       "name": "El Gallo De Sinaloa",
       "url": "https://open.spotify.com/track/4Ea4BWsBhOE5A9Qn7Q3YgX"
@@ -6513,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/6vOywIVQkSx2L4bIAsVBwu"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176266,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/0ShpSN6i6yiqcQjo97W3ae"
+    },
+    {
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. 2",
         "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
       },
@@ -6658,7 +6712,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 265791,
       "name": "Mi Pasado y Mi Presente - En Vivo",
       "url": "https://open.spotify.com/track/2aCHeupWslL71PoSuNIxTN"
@@ -6986,7 +7040,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 171971,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/4csFCk0dMJr9Cq2AI0xy9r"
@@ -7532,7 +7586,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-30",
+      "date_removed": null,
       "duration_ms": 203606,
       "name": "PLAYBOY",
       "url": "https://open.spotify.com/track/7bzhUIMCvFQp6hUyStv80H"
@@ -9066,7 +9120,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 139050,
       "name": "Son 4 Rifando",
       "url": "https://open.spotify.com/track/6k16Wgr53yjWjOvigK2eP2"
@@ -9836,6 +9890,28 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/2m5n2ewUOZCqSMZa4uMCCY"
+    },
+    {
+      "album": {
+        "name": "V\u00e9ngame A Ver",
+        "url": "https://open.spotify.com/album/3wO7TwROFubHHQ91PtVmS8"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134203,
+      "name": "V\u00e9ngame A Ver",
+      "url": "https://open.spotify.com/track/2ssBF84DQMpVR22iy3oNrz"
     },
     {
       "album": {

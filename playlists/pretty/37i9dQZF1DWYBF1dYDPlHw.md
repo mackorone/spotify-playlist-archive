@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBF1dYDPlHw.md) - [plain]
 
 > The classics, the modern hits, the genre at it's best\.  Cover: The Maccabees at <a href="https://open.spotify.com/genre/0JQ5DAqbMKFRjoC1iWNybi">Glastonbury 2025</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,632 likes - 300 songs - 18 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,610 likes - 300 songs - 18 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

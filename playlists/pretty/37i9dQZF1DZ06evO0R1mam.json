@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 12074,
+  "num_followers": 12077,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAADsuJw/pQUalz5yrHq1fdwU",
+  "snapshot_id": "aNHjAAAAAAAr0lohLbY5gLEtb2H6PDDp",
   "tracks": [
     {
       "added_at": null,
@@ -186,11 +186,15 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Tim Bush",
+          "url": "https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu"
         }
       ],
-      "duration_ms": 187458,
-      "name": "All Things New",
-      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
+      "duration_ms": 641578,
+      "name": "Saviour",
+      "url": "https://open.spotify.com/track/0iApjJnqkWle223SwRe78D"
     },
     {
       "added_at": null,
@@ -250,15 +254,11 @@
         {
           "name": "Tye Tribbett",
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Tim Bush",
-          "url": "https://open.spotify.com/artist/6ocSlBaa1UpCJoq0hVOAdu"
         }
       ],
-      "duration_ms": 641578,
-      "name": "Saviour",
-      "url": "https://open.spotify.com/track/0iApjJnqkWle223SwRe78D"
+      "duration_ms": 187458,
+      "name": "All Things New",
+      "url": "https://open.spotify.com/track/6hl8sfNAe5rgNzGLg7N7PH"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 334186,
+      "name": "Nobody - Live",
+      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Definition Of...",
         "url": "https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 340240,
       "name": "I Made It (feat. Tye Tribbett)",
       "url": "https://open.spotify.com/track/6QRChvrJzuvw8felxvZLbj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 334186,
-      "name": "Nobody - Live",
-      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyhow",
-        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 238098,
-      "name": "Anyhow - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stand out",
         "url": "https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 406946,
       "name": "Chasing After You (The Morning Song)",
       "url": "https://open.spotify.com/track/04XXelgRAVZOFw8M5Qd2j4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyhow",
+        "url": "https://open.spotify.com/album/4fXegbokVIAu3DDu4KAZi6"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 238098,
+      "name": "Anyhow - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYMP4WMs75a36aHeMOBEX"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 292813,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory Live",
         "url": "https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 307266,
       "name": "Still Have Joy - Live",
       "url": "https://open.spotify.com/track/3v8cp4oAUyt3fPWPT2bA3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6XoZ9zBsXQhtXK6j804l5A"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 292813,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/5jh6FTGuERahsyV7snAdQS"
     },
     {
       "added_at": null,

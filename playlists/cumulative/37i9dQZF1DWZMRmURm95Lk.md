@@ -2,7 +2,7 @@
 
 ### [Radici Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWZMRmURm95Lk)
 
-> DJ Shocca è tornato, 60 Hz II\. Beat e rime, oggi come una volta.
+> Beat e rime, oggi come una volta\. Neffa in cover.
 
 573 songs - 1 day 8 hr 31 min
 

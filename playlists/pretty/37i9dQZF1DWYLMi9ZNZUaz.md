@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Nguyên team hệ<a href="https://open.spotify.com/presents/vietspirit"> chiến binh</a> <br/>như RHYDER  đi vào đây hết!
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,092 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,115 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 9 | [Love Game](https://open.spotify.com/track/0x7rhEP1Tak1guiTYODlic) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [Love Game](https://open.spotify.com/album/1vyxo3BO4guXsPYgWoV9gl) | 3:19 |
 | 10 | [Feel At Home](https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Cho Bảo](https://open.spotify.com/album/7sBxGjqAOvQ6KgFjWadlV9) | 2:43 |
 | 11 | [Wrong Times](https://open.spotify.com/track/3uT8QfoX0BE8ZJa4h98LDW) | [Puppy](https://open.spotify.com/artist/2dC1IBU9NOD9xsQJ5RE7j7), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Wrong Times](https://open.spotify.com/album/3jQb4fnTYtHAP90TNLaj3y) | 3:31 |
-| 12 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 |
-| 13 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
+| 12 | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2) | [The Wind](https://open.spotify.com/artist/5mPRDRL2rclNaPJXOg56Jy), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Anh Muốn Nhìn Thấy Em](https://open.spotify.com/album/09A5RmcHovgfGOrvjwVpQI) | 3:32 |
+| 13 | [Em iu](https://open.spotify.com/track/5cml547MByVlaVrKU2lJTg) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Donald Gold](https://open.spotify.com/artist/3oB1lv9FWDKbNOUvdTw75Q), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [Em iu](https://open.spotify.com/album/72I8w6JUIlEKRuoUIwxWmE) | 2:59 |
 | 14 | [ĐOÁ HOA](https://open.spotify.com/track/354swDEk1Zdo9y57fEqmRg) | [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [BIG WIND](https://open.spotify.com/artist/0uJCxg582DDyZL3iq6CkYh), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [ĐOÁ HOA](https://open.spotify.com/album/64fyckGOqCyGMOqOSjGhOF) | 2:38 |
 | 15 | [Âm Thầm Vàng](https://open.spotify.com/track/02El5WezsW88jBzMOte6EM) | [Seachains](https://open.spotify.com/artist/6UiKZD9yB7Gxjol62s431k) | [30 The Album](https://open.spotify.com/album/5J9qu9b3RHAmjKqVyN31VX) | 4:10 |
 | 16 | [Anh Chỉ Muốn](https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Anh Chỉ Muốn](https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf) | 2:47 |

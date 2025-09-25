@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,684 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,698 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 60 | [Tanto Amor](https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Tanto Amor](https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL) | 2:42 |
 | 61 | [Entre Algarroba y Durazno](https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM) | [Clara Cantore](https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe) | [Entre Algarroba y Durazno](https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC) | 4:10 |
 | 62 | [Por el Río Volveré](https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl) | [Victoria Birchner](https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Memoria del Viento](https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt) | 4:03 |
-| 63 | [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 |
-| 64 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
+| 63 | [Vuelve a Sonar](https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Vuelve a Sonar](https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL) | 2:44 |
+| 64 | [El Mentiroso](https://open.spotify.com/track/5u0pmltEtNjMEx1UJtRmhC) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Celso Duarte](https://open.spotify.com/artist/6NzICw4N0TdgZJDd6iu841) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 3:23 |
 | 65 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
-| 66 | [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
-| 67 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 |
+| 66 | [Viene Clareando](https://open.spotify.com/track/5onyMHGezH0TMyteYNvUC7) | [Leda Valladares](https://open.spotify.com/artist/32frwpljz9gxJhNZRfkZ34), [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Entre Valles y Quebradas](https://open.spotify.com/album/0coa9J1NYoBF0Haywcf17A) | 3:31 |
+| 67 | [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
 | 68 | [Tierra, Tan Sólo](https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Tierra, Tan Sólo](https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar) | 3:52 |
 | 69 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
 | 70 | [Chacarera del Santiagueño](https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn) | [Hilda Herrera](https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI) | [La Diablera](https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS) | 2:11 |
-| 71 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
-| 72 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 |
+| 71 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 |
+| 72 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
 | 73 | [Pétalo de Sal](https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Buscando el sol](https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT) | 3:15 |
 | 74 | [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 |
 | 75 | [Zamba del Renacer](https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm) | [Carolina del Carmen Peleritti](https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd), [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [Victoria Morán](https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB) | [Aleteo](https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2) | 3:32 |

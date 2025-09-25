@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Easykid en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,981 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,970 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
+| 1 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 | 2 | [La Depre](https://open.spotify.com/track/7d11mvlrfVZAe9HKlbNNBY) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Aaantonio](https://open.spotify.com/artist/36fJy6ygbEqqH0yhPCOK1n) | [La Depre](https://open.spotify.com/album/6bLQMYas9ooASXS7I1yZzq) | 3:38 |
 | 3 | [+ Perra + Bitch](https://open.spotify.com/track/0T1BVEf9OOT5YolK9xqljP) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [+ Perra + Bitch](https://open.spotify.com/album/39RFBiFmGH0p3npriZ7PJc) | 3:18 |
 | 4 | [LA 10](https://open.spotify.com/track/0R2ToLJARgmFjezsfiyx3v) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o) | [LA 10](https://open.spotify.com/album/7D66cibho44I2EGafCV6Ep) | 3:37 |

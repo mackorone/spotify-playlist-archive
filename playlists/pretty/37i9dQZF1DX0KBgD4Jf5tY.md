@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3RjZIfNhuaISMsbzISGxvA">Emili Kasa</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:5PbGXiwDFSQSMmzQ3pP5Jj">Vanegas</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,455 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,459 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 59 | [Birre + Onestà](https://open.spotify.com/track/1Y5FMhosK2u1ZbqyEZhuMV) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD), [5070](https://open.spotify.com/artist/3A2anH3bHUnq50s2EZZVMt), [Dj MS](https://open.spotify.com/artist/2zx8hW1HdhkTCMa6V2GGNa) | [Birre + Onestà](https://open.spotify.com/album/53slxqUuCuAVZwjbKWqiRq) | 2:43 |
 | 60 | [FUORISEDE](https://open.spotify.com/track/0sEb1ViSwfkLtgwOSnOMjg) | [LeUltimeParoleFamose](https://open.spotify.com/artist/5oo7NgTzaaryCa35ZIEqg1) | [FUORISEDE](https://open.spotify.com/album/7tzPnaLL0jxNHeN8dHo9pw) | 3:05 |
 
-Snapshot ID: `AAAAAFb2AtACEhwZB8YU/IllLJ8eyUQ3`
+Snapshot ID: `AAAAACMCB35xnlycs6UYYl+S9aUlMZAL`

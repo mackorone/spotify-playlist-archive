@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 
 > Les plus grands hits en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 915 likes - 144 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 916 likes - 144 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

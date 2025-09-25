@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062 likes - 113 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,063 likes - 113 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 76 | [Homesick](https://open.spotify.com/track/7jNS3LWy71wVrRNeIxVY6C) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8) | 4:29 |
 | 77 | [Can I Get a Moment?](https://open.spotify.com/track/57lEhHssad99QMK2Lr5Ykz) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [Beautiful \(Platinum Edition\)](https://open.spotify.com/album/3XT3rHDWteNpQNhnARN7Ap) | 3:27 |
 | 78 | [Superstar](https://open.spotify.com/track/4musQfBRjlfN6pfJNpchpC) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [12 AM in Atlanta 2](https://open.spotify.com/album/76ke5GIkFCFyJTYbBbMXuq) | 3:39 |
-| 79 | [PARTY FAVORS \(feat\. Big Sean\)](https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:51 |
-| 80 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
+| 79 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
+| 80 | [PARTY FAVORS \(feat\. Big Sean\)](https://open.spotify.com/track/5S8OovoD5Dc2R0qeKW0UFe) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 2:51 |
 | 81 | [My Way](https://open.spotify.com/track/4sLYSy4ELZjFq0LbPDj6nh) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Cyan Blue](https://open.spotify.com/album/2ugywYl3kXs39enikXdsTV) | 3:29 |
 | 82 | [Phone Lit](https://open.spotify.com/track/1tLuAJMjvj8iupMocDtibS) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Live 2wice](https://open.spotify.com/album/4l0MaoNsVg6h02K6umfyU8) | 4:00 |
 | 83 | [try\. \(feat\. JoJo\)](https://open.spotify.com/track/7jVxoi0YzIfmaZ4X0o0Jp9) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Euphonyus](https://open.spotify.com/album/0MhLJ2lpLg30mIwHsC5Uo3) | 2:13 |
-| 84 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 |
-| 85 | [HEEL](https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:55 |
+| 84 | [HEEL](https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:55 |
+| 85 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 |
 | 86 | [Best Friend](https://open.spotify.com/track/4vt8u3ml9SWNWE2GUNpMPO) | [RaVaughn](https://open.spotify.com/artist/3JdYPiv1crdgsbgsryxQu6) | [Best Friend](https://open.spotify.com/album/314f7RM2bkNZiqAG3vc8Ym) | 3:33 |
 | 87 | [Mean It](https://open.spotify.com/track/7B4XVwdxXFJ3yzz2BtJPmf) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 2:24 |
 | 88 | [SOONER OR LATER \(feat\. Axlfolie\)](https://open.spotify.com/track/5FRwXERFravyWu3AoCHNsT) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Axlfolie](https://open.spotify.com/artist/0sIAaocqA1M3h5zegadwFx) | [MUTT](https://open.spotify.com/album/6gXOscJIR9wBb3OvNmeAGk) | 1:48 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 112 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 | 113 | [Gold Roses](https://open.spotify.com/track/3XomMMljed4MXjdFZ9onGZ) | [Clyde Hawk](https://open.spotify.com/artist/6LvZ5UnHQ0cJ552rXZKwre) | [Tuxedo Time](https://open.spotify.com/album/63nRJfSxLTmpRQ1nNi79BV) | 5:47 |
 
-Snapshot ID: `Ab9BlAAAAACchsRoFCNOoLHybi2IIM4V`
+Snapshot ID: `Ab9HSAAAAADkDJ5LdaM7cKkezDX8/+SU`

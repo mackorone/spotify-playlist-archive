@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wIBbVnPvie.md) - [plain]
 
 > She's everything\. He's just Ken\. Listen to the music from and inspired by Barbie, curated by Mark Ronson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,918 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,816 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

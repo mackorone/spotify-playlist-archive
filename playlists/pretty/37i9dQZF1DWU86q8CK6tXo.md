@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Madilyn Mei
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,248 likes - 65 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,258 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 32 | [Bettadaze](https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Miss Black America](https://open.spotify.com/album/5lSpRx7o1F60p2ZFuTmgIg) | 2:55 |
 | 33 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |
 | 34 | [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 |
-| 35 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
-| 36 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
+| 35 | [Always Been You \(with Anike\) \- Live](https://open.spotify.com/track/43HieN3qrUrZUgAsyhFTDM) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Jesus Over Everything \(Live In Las Vegas\)](https://open.spotify.com/album/0ipgHKNQF4HtAqVeIxEDcp) | 6:01 |
+| 36 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
 | 37 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
 | 38 | [Up Front](https://open.spotify.com/track/74X66DXVuSLDEOp3sR8GFL) | [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Up Front](https://open.spotify.com/album/6eLVBuH7e14JC1pRR09kzP) | 3:27 |
 | 39 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 50 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
 | 51 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 52 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 |
-| 53 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
-| 54 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |
-| 55 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 |
+| 53 | [IT'S HARD \(to be a Man\)](https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [IT'S HARD \(to be a Man\)](https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw) | 3:00 |
+| 54 | [Fine Shyt](https://open.spotify.com/track/3vKwu0KC7H6c571CAOpjo3) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Fine Shyt](https://open.spotify.com/album/0c8jxGUF4gXdO0N2RXvY6I) | 2:40 |
+| 55 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
 | 56 | [So Fine \(feat\. Tink\)](https://open.spotify.com/track/69on3Xiwv2k4s0hZUGpukQ) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Grady Baby](https://open.spotify.com/album/4SO3Yq5zcb3fs2HDEzPZl8) | 2:44 |
 | 57 | [Fall in Love](https://open.spotify.com/track/2OZxoB37FO6OzZOoOYvOni) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [Fall in Love](https://open.spotify.com/album/45iPCweMwZcjbPtPwpv1X6) | 2:47 |
 | 58 | [Under the Sun](https://open.spotify.com/track/72klJmmlwJkI8S03B0pU7J) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Under the Sun](https://open.spotify.com/album/2ijfVXrS8uuI9xLm4ByQH3) | 3:17 |

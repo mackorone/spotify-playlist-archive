@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-260 songs - 13 hr 19 min
+264 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-08-03 | 2025-09-15 |
 | [Angel Of My Dreams](https://open.spotify.com/track/46i8ZYPRekK8tmaXJO6M9r) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 3:17 | 2025-09-14 |  |
 | [Angry Woman](https://open.spotify.com/track/58s4yfoJnnlH49KC4UeRxY) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:33 | 2024-06-07 |  |
+| [Arrows \(Die For That Man\)](https://open.spotify.com/track/1jaC5Z1mhzVQVJkOgzcFIf) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Arrows \(Die For That Man\)](https://open.spotify.com/album/7JNiCSkz7KUF87H43PoUqw) | 3:51 | 2025-09-24 |  |
 | [Back in My Arms](https://open.spotify.com/track/1FlAMUpKrjY4NdaqsXjl1w) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Back in My Arms](https://open.spotify.com/album/4dvspekxkG2Etjyrwme4kG) | 3:15 | 2024-06-07 |  |
 | [Bad for Business](https://open.spotify.com/track/38bbpkFcxgjupISR0K94UU) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:08 | 2024-06-07 |  |
 | [Bad Karma](https://open.spotify.com/track/2wukQYZ4iFRYtlWPLGCdLG) | [Jorge Blanco](https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD) | [Bad Karma](https://open.spotify.com/album/5mKk4OvQLooCtzMK8p33Jp) | 3:14 | 2024-06-07 |  |
@@ -155,6 +156,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/44t9rTRjK82lBbZwuePQOE) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:21 | 2025-08-03 |  |
 | [Let Me Down Easy](https://open.spotify.com/track/07uMDONIdcNsmC6a5B9dhy) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/2cggd5i8TUskOfS2TdhgVS) | 3:12 | 2024-06-07 | 2025-04-29 |
 | [Let Me Down Easy](https://open.spotify.com/track/2azuks8nAnGfe3K9H0dKaJ) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/7swmVm1TlBGvcPiCKOuoxZ) | 3:12 | 2025-04-28 |  |
+| [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-09-24 |  |
 | [Let Me Move You \- From the Netflix film "Work It"](https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Let Me Move You \(From the Netflix film Work It\)](https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11) | 2:27 | 2024-06-07 |  |
 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 | 2024-06-07 |  |
 | [Lonely \(Planet Earth\)](https://open.spotify.com/track/76XsgurVtL8tGAjMjXdOza) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Lonely \(Planet Earth\)](https://open.spotify.com/album/3zIogyJOASeiqBwLSnIF0k) | 2:07 | 2024-08-16 |  |
@@ -233,9 +235,11 @@
 | [Stalemate](https://open.spotify.com/track/6Kq4VclmEPKy4ZjGPsorGJ) | [Ryan Lafferty](https://open.spotify.com/artist/2udxH4GiKMeeAvtPAWbNse) | [The Half of It](https://open.spotify.com/album/454rXUMdCOtKu9OnEhvYWH) | 3:14 | 2024-06-07 |  |
 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 | 2024-06-07 |  |
 | [Stay](https://open.spotify.com/track/1NNZnxd6PShEKf8K2lP8H7) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 | 2024-06-07 |  |
+| [Sting](https://open.spotify.com/track/0qrB07ZhhfBsVtx02TImSN) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Sting](https://open.spotify.com/album/3Gl32Ym4odbIuYwaoAkQQ6) | 3:37 | 2025-09-24 |  |
 | [Stop](https://open.spotify.com/track/3XDp4mm801gq45hqzmEr0b) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [West Coast](https://open.spotify.com/album/5Z5EqPY4Nxfi2CPDNs3EnO) | 3:08 | 2024-06-07 |  |
 | [Sue Me](https://open.spotify.com/track/3WVhkjB7Y4xFruqoCAajBb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:59 | 2024-06-07 |  |
 | [Take Off All Your Cool](https://open.spotify.com/track/27B9H3cOefm9lWDfh9A0gj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 3:03 | 2024-06-07 |  |
+| [Tantrum](https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown \(Deluxe Edition\)](https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR) | 2:50 | 2025-09-24 |  |
 | [Tell Me](https://open.spotify.com/track/2DDlpZmYVGlkVBJHN2YgSP) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Turning Point](https://open.spotify.com/album/4M9Twnws1UtTJJvNR60BmG) | 4:00 | 2024-06-07 |  |
 | [That Other Ship](https://open.spotify.com/track/429JFl9TbL8M4AVEnYy50B) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL) | [That Other Ship](https://open.spotify.com/album/0H1y4M5oivt7DOMBvV7HNj) | 3:26 | 2024-06-07 |  |
 | [The Hopefuls](https://open.spotify.com/track/5Gj9gSkK5UggPA9rqKOSsD) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [The Diary of Living](https://open.spotify.com/album/1TnFGuknfiulSWC69uDq3r) | 3:25 | 2025-05-22 |  |

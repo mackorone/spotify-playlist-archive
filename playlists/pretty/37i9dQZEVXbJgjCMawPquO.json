@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bolivia.",
-  "num_followers": 1545,
+  "num_followers": 1553,
   "original_name": "Top Songs - Bolivia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MGYNIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MGdeoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2025-09-19 13:31:05",
@@ -170,6 +170,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "duration_ms": 158480,

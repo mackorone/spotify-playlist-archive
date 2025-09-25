@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,359 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,458 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,14 +142,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 132 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
 | 133 | [Reasons](https://open.spotify.com/track/55xs0ctzl8u3OY9KLmnyu2) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Greatest Hits](https://open.spotify.com/album/339IjdizH8YIpwOUbUWGjl) | 4:58 |
 | 134 | [Earth Angel \- Stereo](https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP) | [Johnny Maestro](https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw), [The Crests](https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U) | [For Collectors Only](https://open.spotify.com/album/56XCkJo7HtVwYmGSrt2vHo) | 2:43 |
-| 135 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
-| 136 | [Dedicated To The One I Love](https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:00 |
+| 135 | [Dedicated To The One I Love](https://open.spotify.com/track/36f5xtZ2CXIc1WOirnnD3j) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Tonight's The Night](https://open.spotify.com/album/6mWE1yQJVHa6JnDCLjz1Mk) | 2:00 |
+| 136 | [Seems Like](https://open.spotify.com/track/6766HkoEEO355KEzrJNU2T) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [Seems Like](https://open.spotify.com/album/3IaDaFiGolUI09rcE8q5m8) | 3:14 |
 | 137 | [I'm Still In Love With You](https://open.spotify.com/track/1dF7EdEalTVfJyR6zCv093) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 3:14 |
 | 138 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL) | 6:16 |
 | 139 | [Ilusión De Amor](https://open.spotify.com/track/2hG1LVQt6YLxtlcWiujpcq) | [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX), [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Ilusión De Amor](https://open.spotify.com/album/0UqQyiKUqo2Dc1xcFaQOBM) | 3:45 |
 | 140 | [You've Really Got A Hold On Me](https://open.spotify.com/track/2tpOcRwFsv51JxUJmbtVOm) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [The Definitive Collection](https://open.spotify.com/album/2Wbsn92Jn7DRKQFu7HOzuo) | 3:14 |
-| 141 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
-| 142 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |
+| 141 | [Soon Enough](https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3) | [The Altons](https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu) | [Tangled Up in You](https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ) | 4:00 |
+| 142 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |
 | 143 | [Just My Imagination \(Running Away With Me\)](https://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Dead Presidents Volume II / Music From The Motion Picture](https://open.spotify.com/album/52Us0gT9wf2yGMNlwTATGB) | 3:53 |
 | 144 | [Mujer Mia](https://open.spotify.com/track/6uiqzXiQCvAvoeDcjbRbRC) | [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [SalSoul](https://open.spotify.com/album/6ehe5lPsXzxcNU69NSCi0W) | 4:30 |
 | 145 | [Betcha By Golly, Wow](https://open.spotify.com/track/7KvkB61JnNKsCUDOMrqVcJ) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics](https://open.spotify.com/album/1rt8wY3v7jjrB9eLBlLCq0) | 3:18 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: The Dirty Skirts",
-  "num_followers": 24804,
+  "num_followers": 24846,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+      },
+      "artists": [
+        {
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 210520,
       "name": "Dagdronk",
       "url": "https://open.spotify.com/track/7MaLgpnWJbSYO4LhS2k0ex"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
-        "name": "Another Universe",
-        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
-      },
-      "artists": [
-        {
-          "name": "Arno Carstens",
-          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Another Universe",
-      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -309,24 +309,20 @@
       "url": "https://open.spotify.com/track/7mDUU8xUjmxwBKefes3w6l"
     },
     {
-      "added_at": "2025-08-29 08:21:07",
+      "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Doen Cool Shit",
-        "url": "https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO"
+        "name": "By Jou",
+        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
       },
       "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        },
         {
           "name": "Zaan Sonnekus",
           "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 193571,
-      "name": "Doen Cool Shit",
-      "url": "https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P"
+      "duration_ms": 200625,
+      "name": "By Jou",
+      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -379,18 +375,18 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "By Jou",
-        "url": "https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi"
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
         }
       ],
-      "duration_ms": 200625,
-      "name": "By Jou",
-      "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -413,20 +409,24 @@
       "url": "https://open.spotify.com/track/1KZBgmpGw1rNBP0pb8jprd"
     },
     {
-      "added_at": "2025-08-07 22:00:52",
+      "added_at": "2025-08-29 08:21:07",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+        "name": "Doen Cool Shit",
+        "url": "https://open.spotify.com/album/3En5F5P3LFrHDfosi7GliO"
       },
       "artists": [
         {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+      "duration_ms": 193571,
+      "name": "Doen Cool Shit",
+      "url": "https://open.spotify.com/track/6DjQ7xUb6uofL8X7gUum8P"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Kenia",
-        "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 225483,
-      "name": "Kenia",
-      "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
         "name": "Dis DDP",
         "url": "https://open.spotify.com/album/5snLx064m6EgaqnR1r0sES"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 195000,
       "name": "Dis DDP",
       "url": "https://open.spotify.com/track/20dcGX9oluIKJuZiA3Jrwj"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Kenia",
+        "url": "https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "duration_ms": 225483,
+      "name": "Kenia",
+      "url": "https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -591,18 +591,18 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Jou Tyd Is Nou",
-        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
       },
       "artists": [
         {
-          "name": "Jo Black",
-          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 194142,
-      "name": "Jou Tyd Is Nou",
-      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -623,18 +623,18 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
+        "name": "Jou Tyd Is Nou",
+        "url": "https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs"
       },
       "artists": [
         {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+          "name": "Jo Black",
+          "url": "https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs"
         }
       ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+      "duration_ms": 194142,
+      "name": "Jou Tyd Is Nou",
+      "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
     },
     {
       "added_at": "2025-09-19 09:12:03",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-08-07 22:00:52",
       "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
-      },
-      "artists": [
-        {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
-    },
-    {
-      "added_at": "2025-08-07 22:00:52",
-      "album": {
         "name": "Against All Odds",
         "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
+    },
+    {
+      "added_at": "2025-08-07 22:00:52",
+      "album": {
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+      },
+      "artists": [
+        {
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
     },
     {
       "added_at": "2025-08-07 22:00:52",

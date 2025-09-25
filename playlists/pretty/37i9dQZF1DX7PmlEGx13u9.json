@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Kehlani",
-  "num_followers": 60905,
+  "num_followers": 60953,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -631,26 +631,6 @@
     {
       "added_at": "2025-09-23 15:47:24",
       "album": {
-        "name": "He Loves Us Both (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 221700,
-      "name": "He Loves Us Both (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
-    },
-    {
-      "added_at": "2025-09-23 15:47:24",
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 209182,
       "name": "FEELINGS ON SILENT (feat. Wale)",
       "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
+    },
+    {
+      "added_at": "2025-09-23 15:47:24",
+      "album": {
+        "name": "He Loves Us Both (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 221700,
+      "name": "He Loves Us Both (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
     },
     {
       "added_at": "2025-09-23 15:47:24",

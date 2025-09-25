@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: NMIXX &Pabllo Vittar\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,534 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,560 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 | 70 | [RISE UP \(Korean ver.\)](https://open.spotify.com/track/1dRjox4xKpbrMHanzC2rNq) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [RISE UP \(English & Korean ver.\)](https://open.spotify.com/album/5tUbuoBQvv7bbvDNO6jfP8) | 2:59 |
 | 71 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
 | 72 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 |
-| 73 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
+| 73 | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/track/1kcw0WhK11rDQGejHZUmfG) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD), [冨岡 愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ashes \(feat\. Ai Tomioka\)](https://open.spotify.com/album/6LmkkkXUI3esLEAEdJYUA3) | 4:33 |
 | 74 | [This Time Around \(feat\. \(G\)I\-DLE\)](https://open.spotify.com/track/30n30ec51A8XNUcuT4g6w2) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [This Time Around \(feat\. \(G\)I\-DLE\)](https://open.spotify.com/album/2oCdz6yL3LoOu5fpJzEO0j) | 3:58 |
 | 75 | [YW](https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [YW](https://open.spotify.com/album/3kr26yMOA0X7MoIBXMd9ms) | 2:28 |
 | 76 | [What Are We Out Here For](https://open.spotify.com/track/7vGdYiKibgTMvPvcYZetex) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Ares Carter](https://open.spotify.com/artist/5fSYYJ4qdUSyvj2q0YdHEF) | [What Are We Out Here For](https://open.spotify.com/album/5LfwiYC60J0p1NDvtn0DqH) | 2:43 |

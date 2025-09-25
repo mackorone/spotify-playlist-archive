@@ -1,6 +1,6 @@
 {
   "description": "This is bludnymph. The essential tracks, all in one playlist.",
-  "num_followers": 2515,
+  "num_followers": 2517,
   "original_name": "This Is bludnymph",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grim Reaper",
-        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
-      },
-      "artists": [
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Grim Reaper",
-      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BODY PARTS (Full Frontal)",
         "url": "https://open.spotify.com/album/4w75VZ9STaOeTNQnUoC9G4"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 192881,
       "name": "BODY PARTS",
       "url": "https://open.spotify.com/track/0HOIQFVrO2723jRy2DjSIa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grim Reaper",
+        "url": "https://open.spotify.com/album/6GvKpU2mHudChGG6DzOZug"
+      },
+      "artists": [
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Grim Reaper",
+      "url": "https://open.spotify.com/track/01oMLMNHELVNL9lSRwppo3"
     },
     {
       "added_at": null,
@@ -511,26 +511,6 @@
       "duration_ms": 173760,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/0jXAVglTzvblAEV8ctD5ou"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/30eZ6nN8mdJAXaVQQSh6YA"
-      },
-      "artists": [
-        {
-          "name": "EZ Ice",
-          "url": "https://open.spotify.com/artist/4NZklHPG05LMNCqbffWkpG"
-        },
-        {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/6PwPuzEpTUnRYLnVAk88dC"
-        }
-      ],
-      "duration_ms": 163115,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/1V1Ej2Pl51pmoVzL2qN4Sn"
     }
   ],
   "unique_name": "This Is bludnymph",

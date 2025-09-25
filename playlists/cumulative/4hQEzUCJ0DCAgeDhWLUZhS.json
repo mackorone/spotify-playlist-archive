@@ -2897,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Futique",
+        "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227543,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/5klilPxJcv8xnwcFj4zL0U"
+    },
+    {
+      "album": {
         "name": "Fall Back",
         "url": "https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l"
       },

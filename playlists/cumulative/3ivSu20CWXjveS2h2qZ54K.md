@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-5,399 songs - 12 day 10 hr 38 min
+5,401 songs - 12 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2024-10-12 |
 | [All My Love \(Imperative\)](https://open.spotify.com/track/7prVGmvafmUBl7Kz0IxNJo) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 2:08 | 2024-11-15 | 2024-11-23 |
 | [All My People \- Edit](https://open.spotify.com/track/1BX9aPJoLvxTJsKn7xMSKz) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [Sweely](https://open.spotify.com/artist/1SYJDHr7kjUL4LlfK1jJ9m) | [All My People](https://open.spotify.com/album/5mphRUgHGOOZetFKkHf8QB) | 3:14 | 2024-09-13 | 2024-09-21 |
+| [All Natural](https://open.spotify.com/track/57qr5kFDt871A0TTrBBlX7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [All Natural](https://open.spotify.com/album/0nwnZW95L9dJpMrugSne3n) | 3:02 | 2025-09-24 |  |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-27 | 2025-07-05 |
 | [All Night](https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [What's Wrong With New York?](https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN) | 3:53 | 2024-09-06 | 2024-09-14 |
 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 | 2025-07-09 | 2025-07-19 |
@@ -3089,6 +3090,7 @@
 | [Miraíta \- Rumba, Libertad](https://open.spotify.com/track/2nmlEMxSipE7w8Cflimci8) | [María Terremoto](https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd) | [Miraíta \(Rumba, Libertad\)](https://open.spotify.com/album/3RFWOA3EIzUmSHDxDnj6rR) | 3:26 | 2025-01-31 | 2025-02-08 |
 | [Mirror](https://open.spotify.com/track/4RUyxhyD0U1nJEYGex9k98) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Humanhood](https://open.spotify.com/album/5oiIdyuDWZ9einLEUdAccO) | 4:56 | 2025-01-17 | 2025-01-25 |
 | [Mirrors](https://open.spotify.com/track/1N1MKJybisCykTIeTyaXYP) | [lofácil](https://open.spotify.com/artist/63t2fIxO0FthRVvsTWIRnO) | [UMBRALES](https://open.spotify.com/album/5MamMVwGmwPIR7GEEnHlvZ) | 2:54 | 2024-12-13 | 2024-12-28 |
+| [Mis 36](https://open.spotify.com/track/4qvEkeFHAgQFzn4gzDzoWv) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Mis 36](https://open.spotify.com/album/0pRpwj7IuVsgcJ1ZY7PRY2) | 4:02 | 2025-09-24 |  |
 | [MIS AMIGAS TE ODIAN](https://open.spotify.com/track/0bS8u8YcfwUyJJEic8YUIz) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [TE ENTERAS?](https://open.spotify.com/album/7dmkzpEDK6vbWW6Ga81Yx4) | 2:55 | 2025-03-14 | 2025-03-22 |
 | [MIS FLORES](https://open.spotify.com/track/6X5BTHYTBTh0Bgjkls89QC) | [Menend](https://open.spotify.com/artist/7s2SDZOabRitXKgUdoXmXC), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [MIS FLORES](https://open.spotify.com/album/4N7QPyjk8BqpanbfPoIg3k) | 2:35 | 2025-05-22 | 2025-05-31 |
 | [MIS PUTAS LO MUEVEN PT2](https://open.spotify.com/track/26n5FCBXjGOpMIQHxPdy6T) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [PUSSY TASTE](https://open.spotify.com/album/1rzO1W8fvGZcMJI4frUY10) | 2:57 | 2024-05-03 | 2024-05-18 |

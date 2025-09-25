@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 178231,
       "name": "a la freSka",
       "url": "https://open.spotify.com/track/1lvBVtU6beiq5UzUZRDHfk"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 170809,
       "name": "Bailando Bachata",
       "url": "https://open.spotify.com/track/2dK99lWPkBVwNen6gK1AtI"
@@ -4098,7 +4098,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 188095,
       "name": "Compta amb Mi",
       "url": "https://open.spotify.com/track/5rHk6N15ELTSZ1sjxs8N7D"
@@ -4444,7 +4444,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 224725,
       "name": "COSAS QUE NO TE DIJE",
       "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 237000,
       "name": "DETR\u00c1S DE TU ALMA",
       "url": "https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC"
@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 241218,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/0KO8CsDZhirdPAlxi9oA2M"
@@ -6916,7 +6916,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 184239,
       "name": "ENAMORARSE PARA QUE",
       "url": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk"
@@ -7712,7 +7712,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 213982,
       "name": "Falsa Tuga",
       "url": "https://open.spotify.com/track/08aWCVHaA5Wt0zpFIOCo94"
@@ -7752,7 +7752,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 186212,
       "name": "FANTAS\u00cdA",
       "url": "https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb"
@@ -8256,7 +8256,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
@@ -8926,7 +8926,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
@@ -9362,7 +9362,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
@@ -9924,7 +9924,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 242946,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW"
@@ -15020,7 +15020,7 @@
       ],
       "date_added": "2025-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-11",
+      "date_removed": null,
       "duration_ms": 161875,
       "name": "noche de san juan",
       "url": "https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP"
@@ -16759,6 +16759,28 @@
     },
     {
       "album": {
+        "name": "PRE\u00d1\u00c1",
+        "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208721,
+      "name": "PRE\u00d1\u00c1",
+      "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
+    },
+    {
+      "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/6TsExCpZJTDj7Fd0ez2knv"
       },
@@ -18047,6 +18069,28 @@
     },
     {
       "album": {
+        "name": "Scat Pack",
+        "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253658,
+      "name": "Scat Pack",
+      "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
+    },
+    {
+      "album": {
         "name": "SE FUE",
         "url": "https://open.spotify.com/album/0ePoAsHC4vvO8tZzPKtYC3"
       },
@@ -18694,6 +18738,10 @@
         {
           "name": "Easykid",
           "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
         }
       ],
       "date_added": "2025-09-10",
@@ -18988,7 +19036,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 184547,
       "name": "si te pillara",
       "url": "https://open.spotify.com/track/1C7NXX8UJ6pgNx8EkmyZDd"
@@ -19900,7 +19948,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 248599,
       "name": "Stars",
       "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz"
@@ -19944,7 +19992,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 246974,
       "name": "Still Luvin",
       "url": "https://open.spotify.com/track/1k4Iyemx6P5fba7RRcHmeb"
@@ -21278,7 +21326,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -22542,7 +22590,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "UNA NOTi",
       "url": "https://open.spotify.com/track/61tC2eD62xjmkEX9FGEad7"
@@ -22782,7 +22830,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -22804,7 +22852,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 135013,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/5DuOB5sAi9wiFABXTYHOx1"
@@ -22910,6 +22958,28 @@
       "duration_ms": 235336,
       "name": "VeLD\u00c1",
       "url": "https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE"
+    },
+    {
+      "album": {
+        "name": "Velitas",
+        "url": "https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225542,
+      "name": "Velitas",
+      "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
     },
     {
       "album": {
@@ -23238,7 +23308,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-03",
+      "date_removed": null,
       "duration_ms": 210651,
       "name": "Volver",
       "url": "https://open.spotify.com/track/3rUkfmLqjZBdW8OxgncHQS"
@@ -23408,7 +23478,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-25",
       "duration_ms": 248893,
       "name": "Walk Of Life - Remastered 1996",
       "url": "https://open.spotify.com/track/5Hk4Mpex0s2ndUpDQ5v2rU"

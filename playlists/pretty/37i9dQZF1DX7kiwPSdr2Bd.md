@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Bruna Karla, Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,706 likes - 80 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,772 likes - 80 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

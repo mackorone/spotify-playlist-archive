@@ -119,6 +119,32 @@
     },
     {
       "album": {
+        "name": "booboo2",
+        "url": "https://open.spotify.com/album/1IsFIHJqTpK5M5ibPdbCEF"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        },
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "booboo2",
+      "url": "https://open.spotify.com/track/3FmjoFY4SfTVLs3hhCxHCM"
+    },
+    {
+      "album": {
         "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1630018,
+  "num_followers": 1630048,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAABoaee/29CF1wEmWOxMZy7E",
+  "snapshot_id": "aNHjAAAAAAAZpNanOFqhtoo3Rwc8IIha",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "Overdue (with Travis Scott)",
+      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 272941,
       "name": "WHERE WAS YOU",
       "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 166093,
-      "name": "Overdue (with Travis Scott)",
-      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
     },
     {
       "added_at": null,

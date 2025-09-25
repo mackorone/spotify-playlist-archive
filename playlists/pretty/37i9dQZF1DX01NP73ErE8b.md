@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Sarah Toscano e Mida in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 630,722 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,733 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
 | 2 | [Piazza San Marco \(feat\. Marco Mengoni\)](https://open.spotify.com/track/0o5CZeuplgMbxles3Kketq) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Piazza San Marco \(feat\. Marco Mengoni\)](https://open.spotify.com/album/5hvqSt6A4URvBVagocDuwo) | 3:38 |
 | 3 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 |
-| 4 | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1KEge1AYDxzlW7O8oHcs82) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/0MODQR33be381AAENXV2qn) | 2:56 |
-| 5 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 |
-| 6 | [Ex \(feat\. Elodie\)](https://open.spotify.com/track/3mrlxIf9tSeQmcmkRPtiRY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Ex \(feat\. Elodie\)](https://open.spotify.com/album/3w47sEM0wJrlEl9Ma2FTjG) | 3:04 |
-| 7 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
-| 8 | [Cuore Rotto](https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Cuore Rotto](https://open.spotify.com/album/4Ytu4wfLAjT4nNVaQ1Gdl8) | 2:28 |
-| 9 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 |
-| 10 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 4 | [URAGANI](https://open.spotify.com/track/2v0nUjtFhY0VujLTEgGSBm) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [URAGANI](https://open.spotify.com/album/2fPVbFkyMsLMfLjodpZ1yC) | 2:49 |
+| 5 | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1KEge1AYDxzlW7O8oHcs82) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Yakuza \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/0MODQR33be381AAENXV2qn) | 2:56 |
+| 6 | [Senza Una Stupida Storia](https://open.spotify.com/track/0603pYalC545IuB3RgWXPf) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Senza Una Stupida Storia](https://open.spotify.com/album/11kvJ6rZcdyq1RNJXiKWVJ) | 2:59 |
+| 7 | [Ex \(feat\. Elodie\)](https://open.spotify.com/track/3mrlxIf9tSeQmcmkRPtiRY) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK), [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [Ex \(feat\. Elodie\)](https://open.spotify.com/album/3w47sEM0wJrlEl9Ma2FTjG) | 3:04 |
+| 8 | [Halo](https://open.spotify.com/track/6zjlQ39iHKMaPcY9Fz4d9e) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [Halo](https://open.spotify.com/album/4t5euIQosseN76E6f3b8NF) | 2:17 |
+| 9 | [Cuore Rotto](https://open.spotify.com/track/2ESC4H0XPgf760cUIr2hnJ) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Cuore Rotto](https://open.spotify.com/album/4Ytu4wfLAjT4nNVaQ1Gdl8) | 2:28 |
+| 10 | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/track/574A5K67Hj0ZTEKfGsnUpV) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Che Gusto C'è \(feat\. Tredici Pietro\)](https://open.spotify.com/album/5VidRTp3bTPmlOdq1dLA4T) | 3:03 |
 | 11 | [Umore marea](https://open.spotify.com/track/2PhXWpXhWg61SdUO44FIUk) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [Umore marea](https://open.spotify.com/album/5XExZ9o16FjbQ9kgp3Muvh) | 2:38 |
 | 12 | [SERENATA](https://open.spotify.com/track/18phYWPlfxvF9jmUVwkb4c) | [Serena Brancale](https://open.spotify.com/artist/7108jelN43seqWILMvJwKi), [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu) | [SERENATA](https://open.spotify.com/album/1kknmZi7U32CSSrRVRfaqz) | 3:08 |
 | 13 | [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 67 | [Indipendente](https://open.spotify.com/track/5QcdUyOyaADHjCEF1g09nJ) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [Indipendente](https://open.spotify.com/album/0LPzcw1FoXTEYadRNiItCV) | 2:32 |
 | 68 | [ECO](https://open.spotify.com/track/6QCTxkk1mFF54CMNROO8A9) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ECO](https://open.spotify.com/album/3S37iz4O7LuteCbsheta2d) | 2:09 |
 
-Snapshot ID: `AAAAAEd0MYg16MknHKbc10HlsxvnHeXz`
+Snapshot ID: `AAAAACjtEUHONaDdcr+BmF6AvnXpKx02`

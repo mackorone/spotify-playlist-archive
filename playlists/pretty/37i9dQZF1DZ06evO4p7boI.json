@@ -1,6 +1,6 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95963,
+  "num_followers": 95959,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 228106,
-      "name": "Held Me Down",
-      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love You Tecca 2",
         "url": "https://open.spotify.com/album/7nTvm6EgmFWPLMLxj6aksS"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 204137,
       "name": "ABOUT YOU (with NAV)",
       "url": "https://open.spotify.com/track/098a0ODkRj8IUbEGVZMsyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 228106,
+      "name": "Held Me Down",
+      "url": "https://open.spotify.com/track/0jiW3PNiHJxOhWh9oPBJ7m"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rexdale",
+        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 125093,
+      "name": "Rexdale",
+      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA (Deluxe)",
         "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 165013,
       "name": "NOTHING 4 FREE (feat. NAV)",
       "url": "https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rexdale",
-        "url": "https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 125093,
-      "name": "Rexdale",
-      "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
     },
     {
       "added_at": null,
