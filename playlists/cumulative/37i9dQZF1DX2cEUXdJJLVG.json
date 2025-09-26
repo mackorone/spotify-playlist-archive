@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Box",
+        "url": "https://open.spotify.com/album/30cP9CLbeq18rB7c3fZdMY"
+      },
+      "artists": [
+        {
+          "name": "Bibi Seck",
+          "url": "https://open.spotify.com/artist/3jANByuh8HmbbGdFR1BrEr"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205403,
+      "name": "Box",
+      "url": "https://open.spotify.com/track/0iRusRtyHdPGupYmewSrQY"
+    },
+    {
+      "album": {
         "name": "Yemaya",
         "url": "https://open.spotify.com/album/3Ezpz7KzzZVcTeapT5oSww"
       },

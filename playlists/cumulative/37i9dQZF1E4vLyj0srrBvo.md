@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Pastel Ghost, Sky Ferreira, Cocteau Twins and more
+> With Pastel Ghost, Coco & Clair Clair, Sky Ferreira and more
 
 1,822 songs - 4 day 16 hr 12 min
 

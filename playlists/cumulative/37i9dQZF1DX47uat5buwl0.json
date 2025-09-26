@@ -5,6 +5,46 @@
   "tracks": [
     {
       "album": {
+        "name": "0612345678",
+        "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
+      },
+      "artists": [
+        {
+          "name": "Ceder",
+          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143385,
+      "name": "0612345678",
+      "url": "https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q"
+    },
+    {
+      "album": {
+        "name": "3D",
+        "url": "https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163969,
+      "name": "3D",
+      "url": "https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2"
+    },
+    {
+      "album": {
         "name": "Achteruit (feat. Bizzey & Trobi)",
         "url": "https://open.spotify.com/album/0TqtTiVPUo1CjarIxlL2DH"
       },
@@ -380,7 +420,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 171904,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/2wz7MrwJMq90RMuapVv0e3"
@@ -696,7 +736,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 137999,
       "name": "Ga Dan!",
       "url": "https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa"
@@ -762,6 +802,24 @@
       "duration_ms": 172058,
       "name": "Giftig",
       "url": "https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK"
+    },
+    {
+      "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134398,
+      "name": "GO BESTFRIEND",
+      "url": "https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo"
     },
     {
       "album": {
@@ -1748,7 +1806,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"

@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Colorful Rain",
+        "url": "https://open.spotify.com/album/00dLqD7MPzKsmhVwMAMSCD"
+      },
+      "artists": [
+        {
+          "name": "Okami Sky",
+          "url": "https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP"
+        }
+      ],
+      "date_added": "2025-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "Colorful Rain",
+      "url": "https://open.spotify.com/track/3qRm820kR6zVX7Hm6UxuOz"
+    },
+    {
+      "album": {
         "name": "On The Window",
         "url": "https://open.spotify.com/album/1EBrkQRMz8G8ATa62L5E2N"
       },
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 173543,
       "name": "Sue\u00f1o Rural",
       "url": "https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS"

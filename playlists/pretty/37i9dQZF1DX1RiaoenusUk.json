@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 33697,
+  "num_followers": 33706,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Musica Pa'l Mundo",
-        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
-      },
-      "artists": [
-        {
-          "name": "De Kiruza",
-          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
-        }
-      ],
-      "duration_ms": 293013,
-      "name": "Liviano Como el Viento",
-      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Puerta Abierta",
         "url": "https://open.spotify.com/album/6yTFQELwwxZ4e6vz7tjckQ"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 171788,
       "name": "Puerta Abierta",
       "url": "https://open.spotify.com/track/3SQdpakkopi3kFMOUdnZZC"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Musica Pa'l Mundo",
+        "url": "https://open.spotify.com/album/1fFE1eKtIxh4ILklmzLoiv"
+      },
+      "artists": [
+        {
+          "name": "De Kiruza",
+          "url": "https://open.spotify.com/artist/4xH9kppPFTwGTtty82ZDfX"
+        }
+      ],
+      "duration_ms": 293013,
+      "name": "Liviano Como el Viento",
+      "url": "https://open.spotify.com/track/3rtUCQlFu2MUoiqiLB4tGR"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Bienvenidos al Presente",
-        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
-      },
-      "artists": [
-        {
-          "name": "Lo' Pibitos",
-          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
-        }
-      ],
-      "duration_ms": 259880,
-      "name": "Bienvenidos al Presente",
-      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Groovin' Bohemia",
         "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 445089,
       "name": "Ameba",
       "url": "https://open.spotify.com/track/41stonr2yiLj8R7wZFehVe"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Bienvenidos al Presente",
+        "url": "https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS"
+      },
+      "artists": [
+        {
+          "name": "Lo' Pibitos",
+          "url": "https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL"
+        }
+      ],
+      "duration_ms": 259880,
+      "name": "Bienvenidos al Presente",
+      "url": "https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Peluche Peligroso",
-        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
-      },
-      "artists": [
-        {
-          "name": "Acus",
-          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
-        },
-        {
-          "name": "Nico Cota",
-          "url": "https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR"
-        }
-      ],
-      "duration_ms": 266203,
-      "name": "Mi Propio Para\u00edso",
-      "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Ready For Life",
         "url": "https://open.spotify.com/album/4keYlLsfVhDqM1AQKPJVse"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 227174,
       "name": "Ready For Life",
       "url": "https://open.spotify.com/track/6G1mOyHJowFBPwRM2CW9TI"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Peluche Peligroso",
+        "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
+      },
+      "artists": [
+        {
+          "name": "Acus",
+          "url": "https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp"
+        },
+        {
+          "name": "Nico Cota",
+          "url": "https://open.spotify.com/artist/3R7H5BnszTX4pYrBXOkmeR"
+        }
+      ],
+      "duration_ms": 266203,
+      "name": "Mi Propio Para\u00edso",
+      "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
-      },
-      "artists": [
-        {
-          "name": "Cami Brooks",
-          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
-        }
-      ],
-      "duration_ms": 226871,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 168375,
       "name": "Sedas",
       "url": "https://open.spotify.com/track/3pB89Vp80LDCGEuXdIvbG0"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Clover",
+        "url": "https://open.spotify.com/album/5BPFjfOxGzEo7z8Ttd9g31"
+      },
+      "artists": [
+        {
+          "name": "Cami Brooks",
+          "url": "https://open.spotify.com/artist/0umsL7xYMs6A9SOaarE93x"
+        }
+      ],
+      "duration_ms": 226871,
+      "name": "Clover",
+      "url": "https://open.spotify.com/track/5po0wdASiFRcFUXydOEKye"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
-      },
-      "artists": [
-        {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Volverte a Ver",
         "url": "https://open.spotify.com/album/0vryHuywlY0re96fmjap4c"
       },
@@ -1355,22 +1339,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1387,6 +1355,22 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+      },
+      "artists": [
+        {
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
         "name": "La Nave",
         "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 272373,
       "name": "Todo Atr\u00e1s",
       "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2025-09-12 13:11:23",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-09-12 13:11:23",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
-      },
-      "artists": [
-        {
-          "name": "Flor Lovaglio",
-          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
-    },
-    {
-      "added_at": "2025-09-12 13:11:23",
-      "album": {
         "name": "Sobrado",
         "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 163250,
       "name": "Sobrado",
       "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
+    },
+    {
+      "added_at": "2025-09-12 13:11:23",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
+      },
+      "artists": [
+        {
+          "name": "Flor Lovaglio",
+          "url": "https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk"
     },
     {
       "added_at": "2025-09-12 13:11:23",

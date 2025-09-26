@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-548 songs - 1 day 21 hr 33 min
+549 songs - 1 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,8 @@
 | [Pantone 6](https://open.spotify.com/track/3BVxAb1gnSngigiot6knQk) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [Pantone 6](https://open.spotify.com/album/2cy2Mkinu3Vx4zOas06CN8) | 4:01 | 2025-05-12 |  |
 | [Para](https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar) | [Helm](https://open.spotify.com/artist/4vgGgW0EX7CeEU7WZzhbsx) | [Axis](https://open.spotify.com/album/6Cj93dwyOUJI6M9clLmQHF) | 5:41 | 2022-01-07 | 2023-05-05 |
 | [Paravents](https://open.spotify.com/track/2VXY64VOGme1uH6PTsN3Zy) | [John Roberts](https://open.spotify.com/artist/1khAA8VuCVfObL4xdfcft6) | [Wrecked Exotic](https://open.spotify.com/album/7CRIEFkHlGxpkQtoAkZuBz) | 4:50 | 2022-02-18 | 2022-03-04 |
-| [Part 1](https://open.spotify.com/track/1rjpUQAtezTwQkJRdP80I9) | [Charbel Haber](https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W), [Sary Moussa](https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ) | [Part 1](https://open.spotify.com/album/1LqFZnAHmoay7Nx5xZXErO) | 8:06 | 2025-06-20 |  |
+| [Part 1](https://open.spotify.com/track/1rjpUQAtezTwQkJRdP80I9) | [Charbel Haber](https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W), [Sary Moussa](https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ) | [Part 1](https://open.spotify.com/album/1LqFZnAHmoay7Nx5xZXErO) | 8:06 | 2025-06-20 | 2025-09-26 |
+| [Part 1](https://open.spotify.com/track/4cBsImz8DSTYsOMyJaEXqj) | [Charbel Haber](https://open.spotify.com/artist/2Y32ogtkRSeb6rD3Lc1uWe), [Nicolas Jaar](https://open.spotify.com/artist/5a0etAzO5V26gvlbmHzT9W), [Sary Moussa](https://open.spotify.com/artist/4LbEZkjJyK79C3e14SsEPJ) | [Crashing waves dance to the rhythm set by the broadcast journalist revealing the tragedies of the day](https://open.spotify.com/album/1ZpmQ9svb1i5OOoI3ZZnbp) | 8:06 | 2025-09-19 |  |
 | [Part 3](https://open.spotify.com/track/5lr9zsPpnk6XRHpNZWIHyh) | [Hoavi](https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy) | [Posle Vsego](https://open.spotify.com/album/5o1DyqLkD2xTi6txPdPBS5) | 4:44 | 2022-02-04 | 2023-08-05 |
 | [part ii \- palace / illusion](https://open.spotify.com/track/2Ye7Gj8uWD5FpEqWTMclWq) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL](https://open.spotify.com/album/40hWUhttLF6j8feHjbF0g7) | 7:41 | 2025-01-14 |  |
 | [Pause](https://open.spotify.com/track/0RLkIJSQ2gMSZNhesO44Cx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 2:23 | 2025-01-09 |  |

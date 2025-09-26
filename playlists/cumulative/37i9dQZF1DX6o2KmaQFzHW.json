@@ -260,7 +260,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 279413,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/7aQUylpLZdnsSBDNFPXPyY"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 254397,
       "name": "Angelitos Negros",
       "url": "https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 292522,
       "name": "BELLASOMBRA - En Vivo Estadio Delmi",
       "url": "https://open.spotify.com/track/1343dT0E8DwR7aOJSxl9hU"
@@ -1042,6 +1042,24 @@
       "duration_ms": 188028,
       "name": "Chacarera del Cardenal - En Vivo",
       "url": "https://open.spotify.com/track/4mP9JuUl5m4qSFvCEMzqOQ"
+    },
+    {
+      "album": {
+        "name": "Hurac\u00e1n de Amor",
+        "url": "https://open.spotify.com/album/5rUTav7Pkbp402S3PVsDyb"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147403,
+      "name": "Chacarera del Destino",
+      "url": "https://open.spotify.com/track/5frJwFarGYUI4UoFM7kgOX"
     },
     {
       "album": {
@@ -1492,6 +1510,24 @@
       "duration_ms": 214893,
       "name": "De Alberdi - Zamba",
       "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
+    },
+    {
+      "album": {
+        "name": "De Pueblo en Pueblo",
+        "url": "https://open.spotify.com/album/2o3SxI91RUkkVZYyQ1uqrb"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184656,
+      "name": "De Pueblo en Pueblo",
+      "url": "https://open.spotify.com/track/4DNBEMR0IXStQInHkIqEeD"
     },
     {
       "album": {
@@ -2278,6 +2314,28 @@
       "duration_ms": 127330,
       "name": "Hasta un nuevo amanecer",
       "url": "https://open.spotify.com/track/7xsX0z0DVr2XA8tS9ZHj5q"
+    },
+    {
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270013,
+      "name": "Jangadero",
+      "url": "https://open.spotify.com/track/1LDoIeOs48v4UWzYUORAaL"
     },
     {
       "album": {
@@ -3317,6 +3375,28 @@
     },
     {
       "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Lucia",
+      "url": "https://open.spotify.com/track/1ltkqKbynbJo8glnagaeiZ"
+    },
+    {
+      "album": {
         "name": "\u00c9xitos Sin Fronteras",
         "url": "https://open.spotify.com/album/3hOcoCrLGJOwy1imKwFSt9"
       },
@@ -3640,6 +3720,24 @@
       "duration_ms": 254960,
       "name": "Milonga Del Solitario",
       "url": "https://open.spotify.com/track/1Xf7gXkHRXwr8vP9GZ7pSz"
+    },
+    {
+      "album": {
+        "name": "La Vida Era M\u00e1s Corta",
+        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210533,
+      "name": "Ni\u00f1o",
+      "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
     },
     {
       "album": {
@@ -4006,7 +4104,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 213733,
       "name": "Purmamarca",
       "url": "https://open.spotify.com/track/1x7hWGwMKKLGTxPueCbuPV"
@@ -4176,7 +4274,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 186190,
       "name": "Rio de las Razas",
       "url": "https://open.spotify.com/track/7EimvXrNb2AZTKWFLk0w96"
@@ -4550,7 +4648,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 272986,
       "name": "Sue\u00f1ero",
       "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
@@ -4634,6 +4732,24 @@
       "duration_ms": 198000,
       "name": "Tarumba",
       "url": "https://open.spotify.com/track/4dkqq32PpBTmzWHiYEYy0Q"
+    },
+    {
+      "album": {
+        "name": "Los Carabajal",
+        "url": "https://open.spotify.com/album/48BYrF4kHkcUrXSireYM5m"
+      },
+      "artists": [
+        {
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145450,
+      "name": "Tata Nachi",
+      "url": "https://open.spotify.com/track/7jOCIqEO5ur6VQtjR9Euz5"
     },
     {
       "album": {

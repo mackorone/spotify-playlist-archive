@@ -8277,6 +8277,28 @@
     },
     {
       "album": {
+        "name": "Lean Lakk",
+        "url": "https://open.spotify.com/album/249CERIafMKJdZiWChOBC5"
+      },
+      "artists": [
+        {
+          "name": "Seera Buttar",
+          "url": "https://open.spotify.com/artist/4gYkupDdCRGvdDHFwQwLOr"
+        },
+        {
+          "name": "Jack Love",
+          "url": "https://open.spotify.com/artist/5sgMlqIAv6QrTuXSgvteDt"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157056,
+      "name": "Lean Lakk",
+      "url": "https://open.spotify.com/track/4Mn6D7CZ9iWWgMtbWoq4Tp"
+    },
+    {
+      "album": {
         "name": "Leather",
         "url": "https://open.spotify.com/album/2fQXb3QHHEwrOoMsUmzgtU"
       },
@@ -13720,6 +13742,10 @@
         {
           "name": "Param",
           "url": "https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0"
+        },
+        {
+          "name": "Manni Sandhu",
+          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
         }
       ],
       "date_added": "2025-09-19",
@@ -15276,7 +15302,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 142325,
       "name": "Wzr Tank",
       "url": "https://open.spotify.com/track/7mElRKzovHlGtMzdzbB1N0"

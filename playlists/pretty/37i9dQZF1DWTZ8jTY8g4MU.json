@@ -1,12 +1,12 @@
 {
   "description": "\u0634\u064a\u0644\u0627\u062a \u062a\u0634\u064a\u0644 \u0627\u0644\u0644\u064a\u0644\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u062f\u0631 \u0627\u0644\u0639\u0632\u064a",
-  "num_followers": 50370,
+  "num_followers": 50415,
   "original_name": " \u0634\u064a\u0644\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHlEVy1MUfEinpk/nwnFuPOGl2tF",
+  "snapshot_id": "AAAAAE4idK6sRvxHpaiObWqezL1d+/d2",
   "tracks": [
     {
       "added_at": "2025-09-22 07:59:12",
@@ -23,6 +23,22 @@
       "duration_ms": 260185,
       "name": "\u064a\u0627 \u0645\u0633\u0627\u0641\u0631",
       "url": "https://open.spotify.com/track/7mjzqkQv6P80TsBaHRZ0xj"
+    },
+    {
+      "added_at": "2024-12-19 22:50:20",
+      "album": {
+        "name": "Alek Akhaf",
+        "url": "https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Bin Grman",
+          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
+        }
+      ],
+      "duration_ms": 208195,
+      "name": "Alek Akhaf",
+      "url": "https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL"
     },
     {
       "added_at": "2024-12-19 22:50:20",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/3U6up5X9SbyxiujVhVemxX"
     },
     {
+      "added_at": "2024-12-19 22:50:20",
+      "album": {
+        "name": "\u064a\u0627 \u063a\u0631\u064a\u0628\u0629",
+        "url": "https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo"
+      },
+      "artists": [
+        {
+          "name": "\u0627\u0644\u0648\u0644\u064a\u062f \u0627\u0644 \u0639\u0627\u0645\u0631",
+          "url": "https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN"
+        }
+      ],
+      "duration_ms": 463438,
+      "name": "\u064a\u0627 \u063a\u0631\u064a\u0628\u0629",
+      "url": "https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng"
+    },
+    {
       "added_at": "2025-07-02 10:54:27",
       "album": {
         "name": "\u0633\u0631 \u0627\u0647\u062a\u0645\u0627\u0645\u064a",
@@ -89,10 +121,46 @@
       "url": "https://open.spotify.com/track/7MRZN6Ejav8HrU3BPzo0kU"
     },
     {
-      "added_at": "2025-07-02 10:54:27",
+      "added_at": "2024-12-19 22:50:20",
       "album": {
-        "name": "\u0643\u0644 \u0634\u064a \u0641\u062f\u0627\u0643",
-        "url": "https://open.spotify.com/album/3zEdab7bo7unrBVPNl0BcA"
+        "name": "Atmna Shoftak",
+        "url": "https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Bin Grman",
+          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
+        }
+      ],
+      "duration_ms": 172311,
+      "name": "Atmna Shoftak",
+      "url": "https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ"
+    },
+    {
+      "added_at": "2025-09-25 07:53:14",
+      "album": {
+        "name": "\u0628\u0627\u0631\u0642 \u0627\u0644\u0634\u0648\u0642",
+        "url": "https://open.spotify.com/album/4b88AzxLfy4NYOxxIMJpWf"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0628\u0627\u0631\u0643 \u0627\u0644\u062f\u0648\u0633\u0631\u064a",
+          "url": "https://open.spotify.com/artist/6sS8udoTj5UxuMtzOr1811"
+        },
+        {
+          "name": "\u0641\u0647\u064a\u062f \u0627\u0644\u0646\u062a\u064a\u0641\u0627\u062a",
+          "url": "https://open.spotify.com/artist/0fjRkZ4dNUfcb2XkeB65sY"
+        }
+      ],
+      "duration_ms": 362368,
+      "name": "\u0628\u0627\u0631\u0642 \u0627\u0644\u0634\u0648\u0642",
+      "url": "https://open.spotify.com/track/0ermAb1gqmoHaxfjRtUFDc"
+    },
+    {
+      "added_at": "2024-12-19 22:50:20",
+      "album": {
+        "name": "\u0648\u0634 \u0623\u0639\u0630\u0627\u0631\u0643\u061f",
+        "url": "https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1"
       },
       "artists": [
         {
@@ -100,9 +168,9 @@
           "url": "https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy"
         }
       ],
-      "duration_ms": 243048,
-      "name": "\u0643\u0644 \u0634\u064a \u0641\u062f\u0627\u0643",
-      "url": "https://open.spotify.com/track/1JZTkJ73SogDdR2n4USS7R"
+      "duration_ms": 197497,
+      "name": "\u0648\u0634 \u0623\u0639\u0630\u0627\u0631\u0643\u061f",
+      "url": "https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5"
     },
     {
       "added_at": "2025-09-22 07:50:06",
@@ -121,6 +189,22 @@
       "url": "https://open.spotify.com/track/2ALbR9ZUg2ZCyvSKLUj8iU"
     },
     {
+      "added_at": "2024-12-19 22:50:20",
+      "album": {
+        "name": "\u0628\u062d\u0631 \u0634\u0648\u0642\u0643",
+        "url": "https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF"
+      },
+      "artists": [
+        {
+          "name": "\u063a\u0631\u064a\u0628 \u0627\u0644 \u0645\u062e\u0644\u0635",
+          "url": "https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep"
+        }
+      ],
+      "duration_ms": 212200,
+      "name": "\u0628\u062d\u0631 \u0634\u0648\u0642\u0643",
+      "url": "https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf"
+    },
+    {
       "added_at": "2025-04-29 07:43:26",
       "album": {
         "name": "\u0636\u064a\u0642\u0629 \u0627\u0644\u0639\u0627\u0634\u0642\u064a\u0646",
@@ -135,6 +219,22 @@
       "duration_ms": 296798,
       "name": "\u0636\u064a\u0642\u0629 \u0627\u0644\u0639\u0627\u0634\u0642\u064a\u0646",
       "url": "https://open.spotify.com/track/339CXSisfIMFE0S0B9x7sn"
+    },
+    {
+      "added_at": "2025-07-02 10:54:27",
+      "album": {
+        "name": "\u0643\u0644 \u0634\u064a \u0641\u062f\u0627\u0643",
+        "url": "https://open.spotify.com/album/3zEdab7bo7unrBVPNl0BcA"
+      },
+      "artists": [
+        {
+          "name": "\u0628\u062f\u0631 \u0627\u0644\u0639\u0632\u064a",
+          "url": "https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy"
+        }
+      ],
+      "duration_ms": 243048,
+      "name": "\u0643\u0644 \u0634\u064a \u0641\u062f\u0627\u0643",
+      "url": "https://open.spotify.com/track/1JZTkJ73SogDdR2n4USS7R"
     },
     {
       "added_at": "2025-06-26 07:39:25",
@@ -199,38 +299,6 @@
       "duration_ms": 339555,
       "name": "\u0627\u0644\u0645\u0643\u0627\u0646",
       "url": "https://open.spotify.com/track/3oH9oWDEhIadRjwGPcYCMp"
-    },
-    {
-      "added_at": "2024-12-19 22:50:20",
-      "album": {
-        "name": "\u0628\u062d\u0631 \u0634\u0648\u0642\u0643",
-        "url": "https://open.spotify.com/album/0tfIRDyimes4HjwHz2VEhF"
-      },
-      "artists": [
-        {
-          "name": "\u063a\u0631\u064a\u0628 \u0627\u0644 \u0645\u062e\u0644\u0635",
-          "url": "https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep"
-        }
-      ],
-      "duration_ms": 212200,
-      "name": "\u0628\u062d\u0631 \u0634\u0648\u0642\u0643",
-      "url": "https://open.spotify.com/track/7q6ZrmxcbkWbu885KJZurf"
-    },
-    {
-      "added_at": "2024-12-19 22:50:20",
-      "album": {
-        "name": "\u064a\u0627 \u063a\u0631\u064a\u0628\u0629",
-        "url": "https://open.spotify.com/album/6uxbzY1U6jXu4pwgOrDczo"
-      },
-      "artists": [
-        {
-          "name": "\u0627\u0644\u0648\u0644\u064a\u062f \u0627\u0644 \u0639\u0627\u0645\u0631",
-          "url": "https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN"
-        }
-      ],
-      "duration_ms": 463438,
-      "name": "\u064a\u0627 \u063a\u0631\u064a\u0628\u0629",
-      "url": "https://open.spotify.com/track/6NZ74scBJ4KHdHDVeissng"
     },
     {
       "added_at": "2024-12-19 22:50:20",
@@ -313,22 +381,6 @@
       "url": "https://open.spotify.com/track/5tdm3MX01qoLj5BvyzEO7i"
     },
     {
-      "added_at": "2025-02-12 14:55:33",
-      "album": {
-        "name": "\u0645\u0627\u0643\u0646\u0627 \u062d\u0628\u0627\u064a\u0628",
-        "url": "https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1"
-      },
-      "artists": [
-        {
-          "name": "Abdullah Al Mukhles",
-          "url": "https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH"
-        }
-      ],
-      "duration_ms": 251419,
-      "name": "\u0645\u0627\u0643\u0646\u0627 \u062d\u0628\u0627\u064a\u0628",
-      "url": "https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO"
-    },
-    {
       "added_at": "2024-12-19 22:50:20",
       "album": {
         "name": "\u0637\u0648\u0627\u0631\u064a \u0627\u0644\u0634\u0648\u0642",
@@ -359,22 +411,6 @@
       "duration_ms": 257493,
       "name": "\u0631\u0641\u0631\u0641\u064a \u0644\u0644\u0639\u0632",
       "url": "https://open.spotify.com/track/094Jh514FSCaW4RKKVr7KI"
-    },
-    {
-      "added_at": "2024-12-19 22:50:20",
-      "album": {
-        "name": "\u0648\u0634 \u0623\u0639\u0630\u0627\u0631\u0643\u061f",
-        "url": "https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1"
-      },
-      "artists": [
-        {
-          "name": "\u0628\u062f\u0631 \u0627\u0644\u0639\u0632\u064a",
-          "url": "https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy"
-        }
-      ],
-      "duration_ms": 197497,
-      "name": "\u0648\u0634 \u0623\u0639\u0630\u0627\u0631\u0643\u061f",
-      "url": "https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5"
     },
     {
       "added_at": "2024-12-19 22:50:20",
@@ -627,22 +663,6 @@
     {
       "added_at": "2024-12-19 22:50:20",
       "album": {
-        "name": "Alek Akhaf",
-        "url": "https://open.spotify.com/album/7e0KX9hQhk5VIFo3YoTPSA"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Bin Grman",
-          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
-        }
-      ],
-      "duration_ms": 208195,
-      "name": "Alek Akhaf",
-      "url": "https://open.spotify.com/track/2BRQStJtGN03JujyZd2faL"
-    },
-    {
-      "added_at": "2024-12-19 22:50:20",
-      "album": {
         "name": "\u062a\u0633\u0623\u0644\u064a\u0646\u064a",
         "url": "https://open.spotify.com/album/0XslpGqxrvkSdoSh96tBjf"
       },
@@ -687,22 +707,6 @@
       "duration_ms": 248062,
       "name": "\u062a\u0628\u0642\u0649 \u0645\u0644\u0643",
       "url": "https://open.spotify.com/track/5bDJShwFM1wmzEpAcalnbC"
-    },
-    {
-      "added_at": "2024-12-19 22:50:20",
-      "album": {
-        "name": "Atmna Shoftak",
-        "url": "https://open.spotify.com/album/1zu44llZrXAdX0XQgTDSxF"
-      },
-      "artists": [
-        {
-          "name": "Mohammed Bin Grman",
-          "url": "https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr"
-        }
-      ],
-      "duration_ms": 172311,
-      "name": "Atmna Shoftak",
-      "url": "https://open.spotify.com/track/5XARFcDeJmdjBTZXGDmUNJ"
     },
     {
       "added_at": "2024-12-19 22:50:20",

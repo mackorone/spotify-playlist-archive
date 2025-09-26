@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 243478,
       "name": "Blaze",
       "url": "https://open.spotify.com/track/4IDzPgSdZVZox6P8i56hbX"
@@ -9204,7 +9204,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 350370,
       "name": "Ivory",
       "url": "https://open.spotify.com/track/42XB8nQh91SlpVxROzogRl"
@@ -9270,6 +9270,24 @@
       "duration_ms": 280226,
       "name": "JE N'EXISTE PAS",
       "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
+    },
+    {
+      "album": {
+        "name": "John Doe",
+        "url": "https://open.spotify.com/album/4OmPtR6pdo1BEtuTOIWH31"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301714,
+      "name": "John Doe",
+      "url": "https://open.spotify.com/track/69ezmblTwQnwVoA4oAuoJU"
     },
     {
       "album": {
@@ -13910,6 +13928,28 @@
       "duration_ms": 387373,
       "name": "Quieto - Flashpoint Mix",
       "url": "https://open.spotify.com/track/0shf2cylCpUpw7dv584Kis"
+    },
+    {
+      "album": {
+        "name": "TUNEL",
+        "url": "https://open.spotify.com/album/7FqFlY4CCS1JerWsYxQIug"
+      },
+      "artists": [
+        {
+          "name": "Unfinished Portraits",
+          "url": "https://open.spotify.com/artist/2X5zq0FHypLSQG6j7Ycums"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350244,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2N2kHwTOXMCs7NGu6hNhVy"
     },
     {
       "album": {

@@ -6057,6 +6057,40 @@
     },
     {
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/2ofMmlkPtLgU0oqsPwMX8I"
+      },
+      "artists": [
+        {
+          "name": "Pepa P\u00e4ivinen",
+          "url": "https://open.spotify.com/artist/5qVRczEjsbO9eAtK9J00Kx"
+        },
+        {
+          "name": "Peacepipe",
+          "url": "https://open.spotify.com/artist/7soNgsIengoLMAoK0YzmXi"
+        },
+        {
+          "name": "Timo K\u00e4m\u00e4r\u00e4inen",
+          "url": "https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny"
+        },
+        {
+          "name": "Mikko Hassinen",
+          "url": "https://open.spotify.com/artist/0S2MaggmfriTybAYgNyAoP"
+        },
+        {
+          "name": "Ville Herrala",
+          "url": "https://open.spotify.com/artist/2mUEFxBKAWcz6nV3EoAskk"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240442,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/2PmIZ7ehmLkCOvkJxmvrgM"
+    },
+    {
+      "album": {
         "name": "Tulva",
         "url": "https://open.spotify.com/album/5bJfy8vIGBZ137CiVLIPiG"
       },

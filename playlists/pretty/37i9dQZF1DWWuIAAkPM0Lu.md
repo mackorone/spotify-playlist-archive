@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> Det er fredag! Ny musik fra Tobias Rahim, Tessa, Rasmus Seebach & Artigeardit og mange flere 👀
+> Det er fredag! Ny musik fra APHACA, Mille, Benny Jamz, Olivia Dean og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,184 likes - 103 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,196 likes - 103 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 102 | [From Ashes](https://open.spotify.com/track/6YvRx1lGLy8cnSE4iWYoUK) | [Bogwife](https://open.spotify.com/artist/28NHn1GKLZn3IryyzSDDJl) | [From Ashes](https://open.spotify.com/album/5b3GY4KHjh7TUFkQxOTjU8) | 4:21 |
 | 103 | [settle](https://open.spotify.com/track/6BjQFAJJRqeI5URGQc5CwT) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [BUZZKILL \(forever\)](https://open.spotify.com/album/5shzwC9p2nNFivMx37PFoD) | 2:34 |
 
-Snapshot ID: `AAAAALhgwrpCEjO5L1p7e0O5vCqbNJK/`
+Snapshot ID: `AAAAAPQTXRQZHO+D3slGpV0VW23uAKri`

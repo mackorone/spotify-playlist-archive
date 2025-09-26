@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "D.O.M.",
+        "url": "https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP"
+      },
+      "artists": [
+        {
+          "name": "Kevin D'Angello",
+          "url": "https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "D.O.M.",
+      "url": "https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9"
+    },
+    {
+      "album": {
         "name": "For The Love Of Progressive EP",
         "url": "https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs"
       },

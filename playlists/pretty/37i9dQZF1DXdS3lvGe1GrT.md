@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Lefty Parker
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,890 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,909 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 149 | [Everyone in My Dreams is Me](https://open.spotify.com/track/6YQurqa4pV2QrVx7OJP0vN) | [Jack Symes](https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz) | [Everyone in My Dreams is Me](https://open.spotify.com/album/3WPzAxfWWbj6S4tuTNyXHp) | 3:12 |
 | 150 | [Asha's Waltz](https://open.spotify.com/track/6wzp4booSJKX2CO2d8Ctho) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Asha's Waltz](https://open.spotify.com/album/75UrgQ54va1o2GWrlGUTk9) | 6:25 |
 
-Snapshot ID: `AAAAAMuwg0c/luWOsJuTaHXQuJlmpxUo`
+Snapshot ID: `AAAAAID/I7XjumggmkJwifOgOq5ntA3U`

@@ -4,7 +4,7 @@
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Konstantinos Argiros, Noizy
 
-201 songs - 10 hr 21 min
+202 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Eipes](https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Eipes](https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh) | 3:40 | 2024-06-27 | 2024-10-25 |
 | [Eisai Arrostia Megali](https://open.spotify.com/track/2B6VyDw2eA81pHbAeaGDcl) | [Titos](https://open.spotify.com/artist/6aY3YOhrxa0IvDoRhta5oJ), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Eisai Arrostia Megali](https://open.spotify.com/album/5zjGTOt4Zi7yZRS4lO5tFn) | 3:04 | 2024-06-27 | 2024-07-12 |
 | [Ekdoxi](https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/4nGB4DVaULjQR7xYQ9JPVI) | 3:42 | 2025-07-10 |  |
-| [ELA ELA](https://open.spotify.com/track/2lByStAOzPu4XHPp7ZPX7V) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [ELA ELA](https://open.spotify.com/album/0MvDvf4Zv43yfDVVlXDGd5) | 2:56 | 2025-03-27 |  |
+| [ELA ELA](https://open.spotify.com/track/2lByStAOzPu4XHPp7ZPX7V) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [ELA ELA](https://open.spotify.com/album/0MvDvf4Zv43yfDVVlXDGd5) | 2:56 | 2025-03-27 | 2025-09-26 |
 | [EMMONI IDEA](https://open.spotify.com/track/0kcQD5QcAG7jzY1gkHbEDY) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [EMMONI IDEA](https://open.spotify.com/album/5YFnE8E82pTVA3nuU8x5Zb) | 3:07 | 2025-03-20 |  |
 | [EPANO STO TRAPEZI](https://open.spotify.com/track/3wpiU5pc42REYEW9vd7fBa) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [EPANO STO TRAPEZI](https://open.spotify.com/album/1ZiVzPUElXoi8M8bENOhag) | 2:24 | 2025-01-23 | 2025-05-09 |
 | [Evaisthisies](https://open.spotify.com/track/0ZGsPpKPbQPzEDM1sIBTxW) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Anastasios Rammos](https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Evaisthisies](https://open.spotify.com/album/5L0zt0EQg5kltRP48qepxQ) | 4:00 | 2024-06-27 | 2024-10-04 |
@@ -172,6 +172,7 @@
 | [Se Mia Stigmi](https://open.spotify.com/track/4O01JSmioAlbEgpxKTVczo) | [Tania Breazou](https://open.spotify.com/artist/0kLn8jOEDFY8KfArE2wn8r) | [Se Mia Stigmi](https://open.spotify.com/album/6JG6ZymOscG7SsvhD1SSqr) | 3:38 | 2025-03-06 | 2025-05-23 |
 | [Se Periptosi Pou](https://open.spotify.com/track/4iJkeikfkJ7EzkR2xUu0m4) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Se Periptosi Pou](https://open.spotify.com/album/5aPSVgtTRWQd7DJNS746Dn) | 3:58 | 2024-11-07 | 2025-06-14 |
 | [Secret Combination \- Pride Version](https://open.spotify.com/track/4qlHRlD4ZmCeE9dylyifTd) | [Kalomira](https://open.spotify.com/artist/5duetVmlUhQnoJ3dhqChFH), [Katerina Stikoudi](https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44), [Mark F\. Angelo](https://open.spotify.com/artist/6e5TFHHFWLHjX82Vwacq6g) | [Secret Combination \(Pride Version\)](https://open.spotify.com/album/5wsPmRZhLRI5g5cQ33EwRd) | 2:44 | 2024-07-25 | 2024-10-11 |
+| [SEPTEMVRIS](https://open.spotify.com/track/5hmdNbAmYjdFTFKhW6vl3g) | [KIANNA](https://open.spotify.com/artist/4fTmQzW49oi5GGJOpPjuNy), [Solid Grace](https://open.spotify.com/artist/61c8WjJKoVMvcB1dMHb8dk) | [SEPTEMVRIS](https://open.spotify.com/album/08jWLqky2YICKbCE3mmOQe) | 2:35 | 2025-09-25 |  |
 | [Siga To Prama](https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Siga To Prama](https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO) | 2:35 | 2024-06-27 | 2024-11-22 |
 | [Sirens](https://open.spotify.com/track/12NC6AUBdYdyAaKpTaToa8) | [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Sirens](https://open.spotify.com/album/2ymczzSSd10YyCyBd0RrC5) | 2:52 | 2025-02-13 | 2025-04-04 |
 | [Skas Me Nazi](https://open.spotify.com/track/6NafyN4SDDGowxodUJ0Izv) | [Konstantinos Nazis](https://open.spotify.com/artist/1ou8OtMKGI4xKvD0OHiP8X), [Monsieur Zeraw](https://open.spotify.com/artist/46KsZ5shJcM4YwqcgZMUPw) | [Skas Me Nazi](https://open.spotify.com/album/2oSBbjM8vR7LXY9WPL30Wu) | 2:16 | 2025-06-05 | 2025-07-04 |

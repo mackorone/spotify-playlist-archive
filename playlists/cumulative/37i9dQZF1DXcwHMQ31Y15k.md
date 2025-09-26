@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Vadesta
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:  Imogiri Boys
 
-525 songs - 1 day 19 hr 56 min
+527 songs - 1 day 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Rakuat Nglakoni](https://open.spotify.com/track/7zS9q28iNrq0JfV5OGOOBM) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Rakuat Nglakoni](https://open.spotify.com/album/7f5krfLvJANW2JUFMH8F1j) | 5:25 | 2022-05-26 | 2023-04-14 |
 | [Rapercoyo](https://open.spotify.com/track/10DfezBsYWwwrKdBihxTP9) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Rapercoyo](https://open.spotify.com/album/62USw0UVeBScz0CtQJJEkV) | 3:42 | 2025-05-22 |  |
 | [Rasah Bali](https://open.spotify.com/track/19k7JnQqTk55l1yV7ul3MD) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali](https://open.spotify.com/album/75hhW9Eh0uu1i3QMuw6n3e) | 4:24 | 2023-06-02 |  |
+| [Rasah Bali 2](https://open.spotify.com/track/7wPOdb9udLYOAFsRfvvuLR) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ena Vika](https://open.spotify.com/artist/6JefPJoggP4q1iCg3qJlBd) | [Rasah Bali 2](https://open.spotify.com/album/3rngLLaZnbA8TvwCksDnj6) | 4:13 | 2025-09-25 |  |
 | [Rasah Nyangkem 3](https://open.spotify.com/track/1n6v45wCB2jZ635rJKgBCs) | [Syahiba Saufa](https://open.spotify.com/artist/1a8EV67v0WSk7czvboxGYz), [Shinta Gisul](https://open.spotify.com/artist/77w7WNvq9ZaollFFTErQtP) | [Rasah Nyangkem 3](https://open.spotify.com/album/2t5UJvtWDSta2KS0vxgcoR) | 4:51 | 2023-09-15 | 2024-02-09 |
 | [Rasah Nyangkem 3](https://open.spotify.com/track/0vzloz86OV24wUWpVlXiqv) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Rasah Nyangkem 3 \(Cover\)](https://open.spotify.com/album/1ISCvgK60hAh1elYeWxGZT) | 5:35 | 2023-08-11 | 2023-11-11 |
 | [Rasah Nyangkem 3 \(Gak Bahaya Ta?\)](https://open.spotify.com/track/2aueDPar55SYxa2zFn17PZ) | [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Rasah Nyangkem 3 \(Gak Bahaya Ta?\)](https://open.spotify.com/album/2EgeXFbynVOAoscuiblzmZ) | 4:45 | 2023-07-13 | 2023-12-09 |
@@ -530,6 +531,7 @@
 | [Wis Dadi Siji](https://open.spotify.com/track/3V4psN224kLrGMNQ6nPYW2) | [Yoga Pratama](https://open.spotify.com/artist/4xb4qXz0TEBMoQCARbOPV1), [Mayangsari](https://open.spotify.com/artist/3rFjxo9yivNNj7ARVjSAzQ), [ALIM MAHAKARYA](https://open.spotify.com/artist/2Nzt5yxDZ24I6byUHRgjGF) | [Wis Dadi Siji](https://open.spotify.com/album/2WRKywqxFsv91baqQwyhu7) | 4:53 | 2023-09-28 | 2024-02-09 |
 | [Wkwkwk](https://open.spotify.com/track/07AZnO1UhduzhZdiL7iZKo) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Wkwkwk](https://open.spotify.com/album/18Gtv8JfqAIwVwLuShicWm) | 4:03 | 2022-07-14 | 2022-07-22 |
 | [Wong Sepele](https://open.spotify.com/track/3UpBURXLePX1rVrH5RdndE) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Fauzi Haidi](https://open.spotify.com/artist/16GONCEkIfXCfSzgsuJBBJ) | [Wong Sepele](https://open.spotify.com/album/79fUg4zJxfJnrehgiN9DvT) | 4:34 | 2025-07-22 |  |
+| [Wongliyo Ngerti Opo](https://open.spotify.com/track/6gHdhWdC2cdv6O4bMFXe2f) | [Imogiri Boys](https://open.spotify.com/artist/53RErsdDMlGlugJZyYvae3) | [Wongliyo Ngerti Opo](https://open.spotify.com/album/5KyUH0zimFbYkYOlzYzLKa) | 3:56 | 2025-09-25 |  |
 | [Yang](https://open.spotify.com/track/3v7OoIuqKeR2cm1UraZAGn) | [AVIWKILA](https://open.spotify.com/artist/5wZoqr9DBLE7BYXUC1PhSs) | [Yang](https://open.spotify.com/album/7fexpNRf6OG0n9MfL75j5y) | 4:34 | 2022-05-26 | 2022-11-14 |
 | [Yowes Modaro](https://open.spotify.com/track/1SRkMfpmXlfl0p3KPHpB3B) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Yowes Modaro](https://open.spotify.com/album/01bzVLH7VeX5g4h03DMMAW) | 4:52 | 2024-06-14 |  |
 | [Yowis! \- Koplo](https://open.spotify.com/track/6uatCDtgBGZM22PQ1HFhHb) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa), [Syalala Orkes Milenial](https://open.spotify.com/artist/2A72DEZlYtl0y6bLdecRRl) | [Yowis! \(Koplo\)](https://open.spotify.com/album/61f6QjZDfdn7o3T4ahIplo) | 4:46 | 2022-05-26 | 2022-09-16 |

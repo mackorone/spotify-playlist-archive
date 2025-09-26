@@ -1029,6 +1029,36 @@
     },
     {
       "album": {
+        "name": "Bach Trios",
+        "url": "https://open.spotify.com/album/5SbylfazVixJi7hahuuzvH"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258360,
+      "name": "Sonata for Viola da Gamba No. 3 in G Minor, BWV 1029: II. Adagio",
+      "url": "https://open.spotify.com/track/6bj2r3CKqXhMnvb07VY4iR"
+    },
+    {
+      "album": {
         "name": "Appassionato",
         "url": "https://open.spotify.com/album/7abtu4eie5vhF1c9LyZKYy"
       },
@@ -1134,7 +1164,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 359426,
       "name": "Symphony No. 1 in C Major, Op. 21: IV. Finale. Adagio - Allegro molto e vivace",
       "url": "https://open.spotify.com/track/5CkKFfwak39hOFiM0DSCLO"

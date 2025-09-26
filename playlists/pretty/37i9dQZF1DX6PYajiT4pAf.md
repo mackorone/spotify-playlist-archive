@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Alejandro Sanz & Rels B, Yan Block, María Becerra & TINI, Miley Cyrus y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,193 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,332 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 75 | [YERBABUENA](https://open.spotify.com/track/6ncclqq9lYVpLtP7RZ4viS) | [CABA](https://open.spotify.com/artist/1Ykk8rtcNvLUvk9OVfQeNV) | [YERBABUENA](https://open.spotify.com/album/2JytcGQ40H7DsAJJkrTfW6) | 2:56 |
 | 76 | [Alma Rota \(Capítulo V: Soledad\)](https://open.spotify.com/track/1xVzs3pPCdWH0DlV3vRprS) | [Víctor Monte](https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf), [STEGA](https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd) | [Alma Rota \(Capítulo V: Soledad\)](https://open.spotify.com/album/0u3CYUpNsbNWtl3db7s8ma) | 2:48 |
 
-Snapshot ID: `AAAAAJ+lljdGuwI4dITO6mZurgR5T/gT`
+Snapshot ID: `AAAAALCOgpl/rwCm13bEhvAM8LF7gWut`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from JAZZWRLD & Thukuthela, Cardi B, RAYE and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,798 likes - 69 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,904 likes - 69 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 68 | [Impumelelo \(feat\. Augusto Mawts, Gorgeous Guluva & Fabulous\)](https://open.spotify.com/track/58bGK3vSkmqmSmmmjHt6ld) | [Dj Sicky](https://open.spotify.com/artist/4czaxa9fbDlnL7mHibWJTI), [Augusto Mawts](https://open.spotify.com/artist/3SYdUW99Si1khPTDsqAfak), [Gorgeous Guluva](https://open.spotify.com/artist/2m0Tsufa0Wqn6eim9xaMBe), [Fabulous](https://open.spotify.com/artist/5ZaNZiq6TIR8G0y544qlyy) | [Impumelelo \(feat\. Augusto Mawts, Gorgeous Guluva & Fabulous\)](https://open.spotify.com/album/5I2f5wkD3bEXAajfbnjHrF) | 7:30 |
 | 69 | [Highs & Lows](https://open.spotify.com/track/0XDBf7fsSx82DJrMgsxl3E) | [GR8FUL](https://open.spotify.com/artist/1VzD3ESxdi6M58llC6AkrM) | [Highs & Lows](https://open.spotify.com/album/6gyUJUWjzVm5OXxW7XelFU) | 1:58 |
 
-Snapshot ID: `AAAAAEFoZ8PeeiszwZa4I2aNkAGhqGHr`
+Snapshot ID: `AAAAAMVUg+79OK4R6KVb05YS5lIS97kI`

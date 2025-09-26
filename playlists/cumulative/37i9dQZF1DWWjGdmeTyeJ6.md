@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Cover: Total Wife
 
-8,995 songs - 20 day 7 hr 27 min
+8,996 songs - 20 day 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1626,6 +1626,7 @@
 | [complicated](https://open.spotify.com/track/2rJ2A9yjpqNQowZFvkJl8h) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [complicated](https://open.spotify.com/album/3cs1EKFpp7lQ73A6JfERLR) | 1:58 | 2022-01-12 | 2022-01-20 |
 | [Complicated](https://open.spotify.com/track/0McTaCHBxLhhfKvqNjEAdZ) | [YOUR ANGEL](https://open.spotify.com/artist/2TM9SCQxFsKKROUtDpC1yA) | [Complicated](https://open.spotify.com/album/1CINITRRCz16km364bDGvP) | 2:14 | 2022-09-21 | 2022-09-29 |
 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 | 2023-03-22 | 2023-03-30 |
+| [compliments & hoopla .mp3](https://open.spotify.com/track/71fzZRtyKoRjWHWR811PTe) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [compliments & hoopla .mp3](https://open.spotify.com/album/32MidnXoYcImqc6ZfBMCOC) | 1:35 | 2025-09-26 |  |
 | [Conciousness](https://open.spotify.com/track/0mIjVwFud57Hv0zG36sULS) | [JonoJono](https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q) | [Conciousness](https://open.spotify.com/album/7o2V8ULiIfALz2wDnVwUIP) | 3:55 | 2023-06-14 | 2023-06-29 |
 | [Concorde Groove](https://open.spotify.com/track/5tGvGh3Xn8O940oj8VC9O3) | [Smalltown DJs](https://open.spotify.com/artist/1qPcb4gGRO6ZsefrOWsh8f) | [Concorde Groove](https://open.spotify.com/album/5QjBDlspX1a1JihYPp4U6V) | 4:04 | 2023-06-14 | 2023-06-22 |
 | [Concrete Walls](https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh) | [Pace](https://open.spotify.com/artist/7qem60JOzr0TKI9WOmkNaG) | [Concrete Walls](https://open.spotify.com/album/754wyHaNUpCJAVxuJMP65r) | 2:48 | 2022-07-20 | 2022-07-28 |

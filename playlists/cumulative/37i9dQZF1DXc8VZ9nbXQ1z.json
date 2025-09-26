@@ -973,6 +973,32 @@
     },
     {
       "album": {
+        "name": "Amakhosi",
+        "url": "https://open.spotify.com/album/2ts1Mw4Y7Wbs9vE1pVezHb"
+      },
+      "artists": [
+        {
+          "name": "Chrisoul Inactive",
+          "url": "https://open.spotify.com/artist/1UzuKjicRTdi2FegfQTeJH"
+        },
+        {
+          "name": "NATASHA MD",
+          "url": "https://open.spotify.com/artist/6lyHG2RfrqozySImvcfwBa"
+        },
+        {
+          "name": "Sekzo",
+          "url": "https://open.spotify.com/artist/7MulS9w1MKtRFwvxbrifhH"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500352,
+      "name": "Amakhosi",
+      "url": "https://open.spotify.com/track/7McxJnlh9gkROhkGaZgc9q"
+    },
+    {
+      "album": {
         "name": "Amana",
         "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
       },
@@ -4151,6 +4177,24 @@
     },
     {
       "album": {
+        "name": "Don't Feel The Same",
+        "url": "https://open.spotify.com/album/5E4WWi3kMGesHsTotTmZFd"
+      },
+      "artists": [
+        {
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228891,
+      "name": "Don't Feel The Same",
+      "url": "https://open.spotify.com/track/7G35bAPr5vCvN0MnxA77T7"
+    },
+    {
+      "album": {
         "name": "Don't Stop Me Now",
         "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
       },
@@ -4788,7 +4832,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 373717,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/3xBWS9X8mpxLkXCBnprt58"
@@ -5568,7 +5612,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 150480,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
@@ -6696,6 +6740,24 @@
       "duration_ms": 392062,
       "name": "Hands - West & Hill Remix",
       "url": "https://open.spotify.com/track/4xqfA25e4nqICeK6tI7X0P"
+    },
+    {
+      "album": {
+        "name": "Hanto",
+        "url": "https://open.spotify.com/album/2tyarspZBT8ycD6AFyxUq3"
+      },
+      "artists": [
+        {
+          "name": "Neko",
+          "url": "https://open.spotify.com/artist/493F6NwQYoJkBTPp3M4mzB"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221311,
+      "name": "Hanto",
+      "url": "https://open.spotify.com/track/6LjYbQOd92HaCdHAJyXkPi"
     },
     {
       "album": {
@@ -14726,7 +14788,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 460533,
       "name": "Pretty Disaster (Da Capo Remix)",
       "url": "https://open.spotify.com/track/2NucOyve94wQ1X5HmYesgf"
@@ -14978,7 +15040,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 106538,
       "name": "Quizumba De Rei",
       "url": "https://open.spotify.com/track/4wapYqDKcFmJT54JuI1loR"
@@ -16182,6 +16244,24 @@
       "duration_ms": 357950,
       "name": "Sfede",
       "url": "https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O"
+    },
+    {
+      "album": {
+        "name": "Shaka",
+        "url": "https://open.spotify.com/album/3K1ID1ajEHYtsLwZfOgifn"
+      },
+      "artists": [
+        {
+          "name": "Christos Fourkis",
+          "url": "https://open.spotify.com/artist/4IQHUz0kIZfHNEOyPQwI7J"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323902,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/6WZ4azlAql61a5PA8BhVJg"
     },
     {
       "album": {
@@ -19274,7 +19354,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 213223,
       "name": "Twe",
       "url": "https://open.spotify.com/track/4skRetSG7abu0L64lRzewG"
@@ -20062,6 +20142,24 @@
       "duration_ms": 384000,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/64Yf0S0jl7M2bXvsud8Zfh"
+    },
+    {
+      "album": {
+        "name": "Walkin North",
+        "url": "https://open.spotify.com/album/2eBKnHSIMAbwruh7kZjGXe"
+      },
+      "artists": [
+        {
+          "name": "DJ Feevos",
+          "url": "https://open.spotify.com/artist/1NLdNqhHZ5uq6DXdJtIiPU"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366241,
+      "name": "Walkin north",
+      "url": "https://open.spotify.com/track/4RJ6jE5vd0gpKT0ZprFoBd"
     },
     {
       "album": {
@@ -20884,7 +20982,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 204000,
       "name": "Yamore - David Mackay Remix",
       "url": "https://open.spotify.com/track/6GLHU2nm9ShKMXV4pvrkfi"
@@ -21270,6 +21368,28 @@
       "duration_ms": 257706,
       "name": "Y\u00e9y\u00e9",
       "url": "https://open.spotify.com/track/6DmXPcSjBYmubh6fQcRNyl"
+    },
+    {
+      "album": {
+        "name": "Zama",
+        "url": "https://open.spotify.com/album/3Uo1h5LFOYp6kcWW3DatnB"
+      },
+      "artists": [
+        {
+          "name": "ELEVEN (FR)",
+          "url": "https://open.spotify.com/artist/6OYDyeW538Vq7Bw4vaEq80"
+        },
+        {
+          "name": "Thandi Draai",
+          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291147,
+      "name": "Zama",
+      "url": "https://open.spotify.com/track/02fT4ucKGr55FKhFBanz9I"
     },
     {
       "album": {

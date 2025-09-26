@@ -4221,6 +4221,32 @@
     },
     {
       "album": {
+        "name": "Novo Testamento",
+        "url": "https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5"
+      },
+      "artists": [
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Dj KLJay",
+          "url": "https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV"
+        },
+        {
+          "name": "Maffalda",
+          "url": "https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Dharma",
+      "url": "https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f"
+    },
+    {
+      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -7252,7 +7278,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 217900,
       "name": "Im\u00e3",
       "url": "https://open.spotify.com/track/3kjg24Ovz5BfTbOvIHrFDL"
@@ -7367,7 +7393,7 @@
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 171471,
+      "duration_ms": 171472,
       "name": "Interroga\u00e7\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0e91TwYBNqiEAHenznkari"
     },

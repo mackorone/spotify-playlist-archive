@@ -1,13 +1,77 @@
 {
   "description": "Le rap francophone est en forme. Photo: Hamza",
-  "num_followers": 19150,
+  "num_followers": 19153,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAJls7omIUSR+3ZV7N/iWXi3cJBu",
+  "snapshot_id": "AAAAAAmWGwNFTTwnbObxzXkf8WT9qGNJ",
   "tracks": [
+    {
+      "added_at": "2025-09-26 00:01:35",
+      "album": {
+        "name": "\u00c0 la prochaine fois",
+        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
+      },
+      "artists": [
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        },
+        {
+          "name": "lb66",
+          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 152187,
+      "name": "GENS DU PAYS",
+      "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
+    },
+    {
+      "added_at": "2025-09-26 00:01:35",
+      "album": {
+        "name": "Mazel",
+        "url": "https://open.spotify.com/album/1rRv6xqBCOTN5q52emO1ol"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        },
+        {
+          "name": "TOXICO",
+          "url": "https://open.spotify.com/artist/0PDjez4v4rnPsMN2T60fhV"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Mazel",
+      "url": "https://open.spotify.com/track/7uKUpMV62fTjVch5xOiitJ"
+    },
+    {
+      "added_at": "2025-09-26 00:01:35",
+      "album": {
+        "name": "EN ROTATION",
+        "url": "https://open.spotify.com/album/1TxWcVvFPZz8lKaV1e0Ayp"
+      },
+      "artists": [
+        {
+          "name": "Ambrose & Labri",
+          "url": "https://open.spotify.com/artist/1qjhJq2p9JQ5jNj6JvXEq8"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 160551,
+      "name": "EN ROTATION",
+      "url": "https://open.spotify.com/track/7kuagnjuLZDtOLg0TG5F5i"
+    },
     {
       "added_at": "2025-09-05 14:57:04",
       "album": {
@@ -883,174 +947,6 @@
       "duration_ms": 129153,
       "name": "CRF - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "Nouvelle \u00c9cole | Saison 3 | La Finale (S\u00e9rie Netflix)",
-        "url": "https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F"
-      },
-      "artists": [
-        {
-          "name": "Youssef Swatt's",
-          "url": "https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q"
-        },
-        {
-          "name": "Nouvelle \u00c9cole",
-          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
-        }
-      ],
-      "duration_ms": 185311,
-      "name": "G\u00e9n\u00e9rique de Fin - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/3D2wU177Hr5AXTePqaC8KQ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "VENI VIDI VICI",
-        "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Kore",
-          "url": "https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Vrais salauds (feat. Gazo & Kore)",
-      "url": "https://open.spotify.com/track/5AjVGkFWK2Ct0B0hbdcmWJ"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2RFXO4vDJzbIp8zHw2YuIV"
-      },
-      "artists": [
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 227211,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "SUR LE CHEMIN (Phase 2)",
-        "url": "https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "GARS DU ZOO",
-      "url": "https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "Minuit moins une",
-        "url": "https://open.spotify.com/album/6NBbOvfN1QA9M9tkrZGn56"
-      },
-      "artists": [
-        {
-          "name": "Lova",
-          "url": "https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Pri\u00e8res",
-      "url": "https://open.spotify.com/track/4nlYmuRB9wvkCQhHtXQNZE"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "Fausse note",
-        "url": "https://open.spotify.com/album/1Id54INX5wrzorVHkl9STm"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        },
-        {
-          "name": "A2h",
-          "url": "https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1"
-        }
-      ],
-      "duration_ms": 156693,
-      "name": "Fausse note",
-      "url": "https://open.spotify.com/track/7dUPnQNR1RydSLVtSwXPAK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "LA VIE RAPIDE",
-        "url": "https://open.spotify.com/album/1vchjZ82BzXq4eoFZNuFjI"
-      },
-      "artists": [
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        },
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        }
-      ],
-      "duration_ms": 143589,
-      "name": "DOUBLE F",
-      "url": "https://open.spotify.com/track/15mTyJg97PpR5GS6MOvVyw"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "M\u00e9lanine",
-        "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"
-      },
-      "artists": [
-        {
-          "name": "Heuss L'enfoir\u00e9",
-          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "M\u00e9lanine",
-      "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
-    },
-    {
-      "added_at": "2025-08-01 04:00:30",
-      "album": {
-        "name": "Something About Us",
-        "url": "https://open.spotify.com/album/4e3Mf5DerPgrCf0ALtgHqH"
-      },
-      "artists": [
-        {
-          "name": "HALO",
-          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Something About Us",
-      "url": "https://open.spotify.com/track/3kW25atIQL53yPDTD34aoo"
     }
   ],
   "unique_name": "Rap francophone",

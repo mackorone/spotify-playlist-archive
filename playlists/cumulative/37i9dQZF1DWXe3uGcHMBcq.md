@@ -2,7 +2,7 @@
 
 ### [Disney Channel Hits](https://open.spotify.com/playlist/37i9dQZF1DWXe3uGcHMBcq)
 
-> There's another 104 days of summer vacation to sing\-along to your favorite Disney Channel hits!
+> Listen to your favorite Disney Channel Hits, including the new Electric Bloom soundtrack.
 
 197 songs - 9 hr 18 min
 

@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Her Zerrene",
+        "url": "https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8"
+      },
+      "artists": [
+        {
+          "name": "Mert \u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149454,
+      "name": "Her Zerrene",
+      "url": "https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl"
+    },
+    {
+      "album": {
         "name": "\u0130zleri Belli",
         "url": "https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8"
       },

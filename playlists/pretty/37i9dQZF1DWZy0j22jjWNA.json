@@ -1,6 +1,6 @@
 {
   "description": "Let these songs help you start your with the Lord!",
-  "num_followers": 116777,
+  "num_followers": 116796,
   "original_name": "GOoD Morning",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-09-14 08:56:53",
       "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB"
+      },
+      "artists": [
+        {
+          "name": "Jubril",
+          "url": "https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX"
+        }
+      ],
+      "duration_ms": 145262,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF"
+    },
+    {
+      "added_at": "2025-09-14 08:56:53",
+      "album": {
         "name": "Don't Run Away",
         "url": "https://open.spotify.com/album/3Xi4X6KM4PsNmc6c9Cshau"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 188482,
       "name": "Don't Run Away",
       "url": "https://open.spotify.com/track/260GZLqtxDDQGAJ4EpQCyZ"
-    },
-    {
-      "added_at": "2025-09-14 08:56:53",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/5C47DQlpqPQ2tBIWOlmkGB"
-      },
-      "artists": [
-        {
-          "name": "Jubril",
-          "url": "https://open.spotify.com/artist/14wFCdihbMYV9y8Ba0VtHX"
-        }
-      ],
-      "duration_ms": 145262,
-      "name": "Good Morning",
-      "url": "https://open.spotify.com/track/2A4gRO5i9fZvmS5rRyVRhF"
     },
     {
       "added_at": "2025-09-14 08:56:53",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Endelig fredag og ny musikk fra bla\. Chris Holsten, Randi Oline og mange fler!🎵
+> Endelig fredag og ny musikk fra bla\. Kyle Alessandro, Sigrid og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,499 likes - 104 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,512 likes - 104 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 103 | [Så fort jag har tid](https://open.spotify.com/track/5eKMLFFIPYyTNzywDnhYi4) | [Nisch](https://open.spotify.com/artist/7smlmmfx2RNvzQIebdSpVU) | [Så fort jag har tid](https://open.spotify.com/album/3mrZ8EcpacEOoc4ioZ8hjQ) | 2:31 |
 | 104 | [Don't Wanna Do This](https://open.spotify.com/track/6pGKQXaTGwEc0D3fMO3BM5) | [Lively](https://open.spotify.com/artist/18nz1a1XnTU1vKLqsGzgKa), [FRIDA](https://open.spotify.com/artist/0Yl3oq30sTn7nopIGWW53p) | [Don't Wanna Do This](https://open.spotify.com/album/7DSELkAYcWgnvVgipiwrZK) | 2:20 |
 
-Snapshot ID: `AAAAAOUn7QALfh2KP3JV0Gkbq+yU5pCL`
+Snapshot ID: `AAAAAPqSx5BeqUmEJb+MJ2JN8oBVVICC`

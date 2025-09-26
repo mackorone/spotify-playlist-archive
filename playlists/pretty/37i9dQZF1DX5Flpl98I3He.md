@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Flpl98I3He.md) - [plain]
 
 > Dive into the best\-loved works of Sergei Rachmaninoff.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,450 likes - 64 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,516 likes - 64 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

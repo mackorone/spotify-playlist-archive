@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Butterfly", de Superbus et RORI, est le Grand Hit de la semaine.
+> "Soleil Bleu", de Bleu Soleil et LUIZA, est le Grand Hit de la semaine.
 
 277 songs - 14 hr 12 min
 

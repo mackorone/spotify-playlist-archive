@@ -4,7 +4,7 @@
 
 > Música serena de piano para dormir.
 
-294 songs - 12 hr 42 min
+295 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Fabric of Summer](https://open.spotify.com/track/5u8JFIiwYnvlvOluXoyANy) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Fabric of Summer](https://open.spotify.com/album/0qnLxjGGBmnIjmOo6D2ZVY) | 2:14 | 2023-04-03 | 2025-04-26 |
 | [Fall a hundred times](https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7) | [Mark Lieder](https://open.spotify.com/artist/3XabrLwWwxIntz6A6X9naj) | [Fall a hundred times](https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47) | 2:16 | 2023-10-02 |  |
 | [Far Away](https://open.spotify.com/track/1gGlMU3ILr4ePbLgL6DbyK) | [Narelle Dane](https://open.spotify.com/artist/2tUmApwmWcZGro1Key17fG) | [Far Away](https://open.spotify.com/album/3hX0ay3ofbFMq2L9DexOsC) | 2:15 | 2023-04-03 | 2025-04-26 |
+| [Farther Fields](https://open.spotify.com/track/3t50k3r7KDzv422h9rS4zw) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Farther Fields](https://open.spotify.com/album/5OFpxCA86MILEobmMC8K7R) | 2:53 | 2025-09-25 |  |
 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 | 2024-05-01 |  |
 | [First Farewell](https://open.spotify.com/track/3RMRrmCruSltU9pnzURb5F) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Weightless](https://open.spotify.com/album/66LNQCSB1ZGGljErprVkVm) | 3:25 | 2023-04-03 | 2025-04-26 |
 | [First Sunlight](https://open.spotify.com/track/1GbQ0l3BRFOpYc1K7Xm5LM) | [Ros Gilman](https://open.spotify.com/artist/4encGefmC48XGvJod2eBr2) | [First Sunlight](https://open.spotify.com/album/6xBwYrVSMHiw4DfQLtO6Ki) | 2:28 | 2024-04-15 | 2025-04-26 |
@@ -264,7 +265,7 @@
 | [The Toska](https://open.spotify.com/track/3B00y1wVSCix4zUW7tDCZx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [The Toska](https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2) | 2:35 | 2023-04-03 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-04-03 | 2023-09-19 |
 | [The Water Floats](https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [The Water Floats](https://open.spotify.com/album/5f5OBSy3Ett4Y7hrqmHgR8) | 2:19 | 2023-04-03 | 2025-04-26 |
-| [Tidlös](https://open.spotify.com/track/526JgGLwKMeayWmOFVisck) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Tidlös](https://open.spotify.com/album/7u4tmbsQZm1n8gA1bhVlg4) | 3:06 | 2025-07-21 |  |
+| [Tidlös](https://open.spotify.com/track/526JgGLwKMeayWmOFVisck) | [Andreas Björkstrand](https://open.spotify.com/artist/4C0SwV2WJqRW290Xz2HIfV) | [Tidlös](https://open.spotify.com/album/7u4tmbsQZm1n8gA1bhVlg4) | 3:06 | 2025-07-21 | 2025-09-26 |
 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 | 2023-04-03 | 2024-10-02 |
 | [Tolerance](https://open.spotify.com/track/28breCSDTKxrWa96iZBNlq) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Tolerance](https://open.spotify.com/album/6ku1NHwTs2YfITbwRtxgvD) | 2:20 | 2023-04-03 |  |
 | [Torrero](https://open.spotify.com/track/6nLMLEetvwwmZxnENQrQWn) | [Lexi Bradley](https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm) | [Torrero](https://open.spotify.com/album/0Gk7thcw6IxFTqQjlT1d6Q) | 2:22 | 2024-12-12 |  |

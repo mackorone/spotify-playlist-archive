@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B in the UK\. Cover: RUBII
+> The latest of R&B in the UK\. Cover: Mnelia
 
-511 songs - 1 day 2 hr 35 min
+515 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 | 2022-07-17 | 2024-09-13 |
 | [Butter](https://open.spotify.com/track/31lLLLXf3rF27j0jY4d2Xf) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Butter](https://open.spotify.com/album/4JabxNLta5nuvPRzOebCkh) | 2:44 | 2025-05-01 |  |
 | [By Surprise](https://open.spotify.com/track/6LmgdEknRt9AFsrVYdYTg2) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5), [Meron T](https://open.spotify.com/artist/40jBR1w46zqDUfbVQttJrb) | [By Surprise](https://open.spotify.com/album/7xPLSKq8zUFhopdP0kOHqQ) | 3:10 | 2022-10-23 | 2023-02-25 |
-| [Camera](https://open.spotify.com/track/3yWY2pPdEKMYxm23lrJZL2) | [Harrison Mayo](https://open.spotify.com/artist/5l3mrIeezdKhgV9Cww51FA), [CHOPLIFEMUSIC](https://open.spotify.com/artist/6zQEo1U4xxQzTO6hhV0qib) | [Camera](https://open.spotify.com/album/0RpchgWjJZKgS2GctIb8Zd) | 2:40 | 2025-07-24 |  |
+| [Camera](https://open.spotify.com/track/3yWY2pPdEKMYxm23lrJZL2) | [Harrison Mayo](https://open.spotify.com/artist/5l3mrIeezdKhgV9Cww51FA), [CHOPLIFEMUSIC](https://open.spotify.com/artist/6zQEo1U4xxQzTO6hhV0qib) | [Camera](https://open.spotify.com/album/0RpchgWjJZKgS2GctIb8Zd) | 2:40 | 2025-07-24 | 2025-09-26 |
 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-22 | 2024-12-13 |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-07-17 | 2024-09-13 |
 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 | 2022-10-23 | 2024-08-06 |
@@ -123,6 +123,7 @@
 | [Down](https://open.spotify.com/track/2yZ23sMHy3Mr0ngR4eRr8R) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Down](https://open.spotify.com/album/5Blo6YBsMmFCkgP1uw340k) | 3:17 | 2025-07-24 | 2025-09-05 |
 | [downtime](https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [downtime](https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va) | 3:12 | 2024-02-02 | 2024-04-19 |
 | [Dreamer Too](https://open.spotify.com/track/2RmS9jVUAVRH5dm02SYsVk) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Dreamer Too](https://open.spotify.com/album/1xTqo5gfVw2TfD4djfavZA) | 4:31 | 2025-07-24 |  |
+| [Easy](https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Easy](https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB) | 2:27 | 2025-09-25 |  |
 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 | 2024-01-26 | 2024-11-15 |
 | [Ebbs & Flows](https://open.spotify.com/track/3i3YsmD5wrtjeE9qunmgu6) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter \(Deluxe\)](https://open.spotify.com/album/1wmUwj9AEOuWtq9eyZjvy2) | 3:15 | 2024-10-03 | 2025-05-09 |
 | [Ebbs and Flows](https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Ebbs and Flows](https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v) | 3:19 | 2022-10-23 | 2023-05-23 |
@@ -181,7 +182,7 @@
 | [Good Ex](https://open.spotify.com/track/7b7MKh1kOgwASPihOs7vve) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:35 | 2023-09-14 | 2023-11-25 |
 | [Good Riddance](https://open.spotify.com/track/6Uq3K7OEbCs9t7H1beQEnt) | [Leah Music](https://open.spotify.com/artist/3FrtVf61eHTo2BZNG1qTOK) | [Good Riddance](https://open.spotify.com/album/6qZVF2D19JP9f5C1ElS5lz) | 2:09 | 2024-08-06 | 2025-04-09 |
 | [GOOD4U](https://open.spotify.com/track/3WVhiyLtF1pRkfn0ZWH1Ou) | [Lola Moxom](https://open.spotify.com/artist/108GZkpexhWFatGlQTbb1g) | [OXO](https://open.spotify.com/album/0Prm15tKRsBzDjkj9tIYOT) | 3:48 | 2025-03-21 | 2025-06-27 |
-| [Goodbye](https://open.spotify.com/track/39bJRPjpOUDsMJI3nUuB4W) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [Goodbye](https://open.spotify.com/album/2xxQmnxwMR8UTchMMXhXqH) | 3:41 | 2025-07-24 |  |
+| [Goodbye](https://open.spotify.com/track/39bJRPjpOUDsMJI3nUuB4W) | [Femi Tahiru](https://open.spotify.com/artist/7Kf8nVYjut9xA328Xqs6gm) | [Goodbye](https://open.spotify.com/album/2xxQmnxwMR8UTchMMXhXqH) | 3:41 | 2025-07-24 | 2025-09-26 |
 | [Got To Be Good](https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Got To Be Good](https://open.spotify.com/album/2ONIS7NH82FtlwOd0lCg7e) | 2:39 | 2023-06-01 | 2024-08-06 |
 | [Grateful](https://open.spotify.com/track/6BasrFQEjbQ9jhjOpybwu1) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Grateful](https://open.spotify.com/album/5v46CKhEazMZScPBW8hniw) | 2:19 | 2024-05-31 | 2024-06-15 |
 | [Guilty](https://open.spotify.com/track/6m1J8D9SGvfOxpA3RC3bD6) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Guilty](https://open.spotify.com/album/7LuYrvLkdzxHarZHNFLvYq) | 2:51 | 2024-09-12 | 2024-09-27 |
@@ -216,6 +217,7 @@
 | [I Swear](https://open.spotify.com/track/0wfRDY7ervDHWGNByS7xPz) | [Owen Saward](https://open.spotify.com/artist/6uoe9e35wfVDtfCYtPoZdd) | [I Swear](https://open.spotify.com/album/6NFiUMCDwKUrWfrhPyHOJq) | 3:05 | 2025-03-14 | 2025-07-25 |
 | [I Wanna](https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [I Wanna](https://open.spotify.com/album/0sZxfPTPYUQ7tCmCjyiWy0) | 2:10 | 2024-08-06 | 2025-04-25 |
 | [I want you](https://open.spotify.com/track/6n2ZiEOuR5TtRqiriKCJfH) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [I want you](https://open.spotify.com/album/0GjmtqnYZv1RQ6nxOsoGZk) | 2:38 | 2023-07-21 | 2023-08-19 |
+| [I wish I could](https://open.spotify.com/track/280k6BZx1nJGhkUmWP6c2R) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [I wish I could](https://open.spotify.com/album/7xHmtO7YlCUhDvZ2QTW7X9) | 3:20 | 2025-09-25 |  |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-07-17 | 2023-05-19 |
 | [I'll Still Be Here](https://open.spotify.com/track/49nMhwc4XFYhUsl9BDZEBq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 3:11 | 2024-05-31 | 2024-09-25 |
 | [I'm Sure](https://open.spotify.com/track/0CNp4DbUZ6yBzQVnF6jCZY) | [Enigma](https://open.spotify.com/artist/1p33V6IQmus6qSftQL0HCV) | [Love Language 2](https://open.spotify.com/album/0gnQ7bzwd67CHRPmcuWavE) | 2:49 | 2025-04-25 |  |
@@ -256,7 +258,7 @@
 | [JUST A GIRL](https://open.spotify.com/track/1oMKHI1TtzP0aozf1nD6xi) | [Edája](https://open.spotify.com/artist/6TTI4TbSp1raahsulxWqYe) | [JUST A GIRL](https://open.spotify.com/album/6xnr8breTaS8mmF7OAy9KB) | 2:50 | 2025-07-24 |  |
 | [Just Can't Wait](https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Just Can't Wait](https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah) | 6:22 | 2025-06-26 |  |
 | [Kaalam](https://open.spotify.com/track/2DGWtU9bU2D4yMuMaI2H3Y) | [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [dilushselva](https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ) | [Kaalam](https://open.spotify.com/album/2yo3EtFKQoQ3Gv1QpQxTfD) | 2:45 | 2023-05-18 | 2023-06-02 |
-| [kalila](https://open.spotify.com/track/6eevqQ72xIbtTkxiVpWeoj) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [kalila](https://open.spotify.com/album/3XrEXh9b9HsJ2EzO7HZ2uW) | 3:19 | 2025-08-07 |  |
+| [kalila](https://open.spotify.com/track/6eevqQ72xIbtTkxiVpWeoj) | [Tommy Saint](https://open.spotify.com/artist/319gCjNoBJc8AaIPkWhCKH) | [kalila](https://open.spotify.com/album/3XrEXh9b9HsJ2EzO7HZ2uW) | 3:19 | 2025-08-07 | 2025-09-26 |
 | [Keep Hush](https://open.spotify.com/track/3WHUp951VtACvbxstaob8u) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Keep Hush](https://open.spotify.com/album/53HjIJz24S8OAfM2yOBmcq) | 2:50 | 2025-05-16 |  |
 | [keep it a hundred](https://open.spotify.com/track/4cHCZMMUSWFnEzHT5ij1T8) | [Mark Taiwo](https://open.spotify.com/artist/5fIZHbbeEMCrVXtxsDukW4) | [keep it a hundred](https://open.spotify.com/album/7aNOEKTTlDVIPCCZJGcMGi) | 3:51 | 2025-07-24 |  |
 | [Keeper](https://open.spotify.com/track/2gb8nz0dk0pYSEoR1NMeSm) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Keeper](https://open.spotify.com/album/16R8fQHebbHRtKAUWpEWp7) | 2:22 | 2025-07-25 |  |
@@ -327,7 +329,7 @@
 | [NIGHTTIME](https://open.spotify.com/track/6hybNTJZlwbL8Uk9PyWxYL) | [CLAVIS 7EVEN](https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF) | [NIGHTTIME](https://open.spotify.com/album/6f8vl4nEXcYJahLiV0V69W) | 2:30 | 2023-05-18 | 2023-06-02 |
 | [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 | 2024-08-29 | 2024-11-04 |
 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 | 2023-06-05 | 2023-07-22 |
-| [No Love](https://open.spotify.com/track/7w2NxsAyLQDR4dK4BJO2fv) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [No Love](https://open.spotify.com/album/6sugfxSzI4D85pqbeGaRuK) | 3:02 | 2025-07-24 |  |
+| [No Love](https://open.spotify.com/track/7w2NxsAyLQDR4dK4BJO2fv) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [No Love](https://open.spotify.com/album/6sugfxSzI4D85pqbeGaRuK) | 3:02 | 2025-07-24 | 2025-09-26 |
 | [No Regrets](https://open.spotify.com/track/2RC3TbzlpR5lpzODqOUQfL) | [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [No Regrets](https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx) | 2:59 | 2022-07-17 | 2023-03-11 |
 | [No Way](https://open.spotify.com/track/4A3RHFKpMnHqMNyD6DaIUV) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [No Way](https://open.spotify.com/album/0Ooe0UKuc913thQffh8XhK) | 2:53 | 2023-07-21 | 2023-10-08 |
 | [Nobody Else](https://open.spotify.com/track/5pMynBlrQdGe6fGLAd477F) | [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [Nobody Else](https://open.spotify.com/album/0JGvFi9RkJnUQA6Kb5QOOW) | 2:11 | 2025-01-24 | 2025-07-25 |
@@ -470,6 +472,8 @@
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 |  |
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 |  |
+| [Track 5](https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
+| [Track 7](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-09-04 |  |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-22 | 2024-07-19 |

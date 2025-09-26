@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. Lucho RK
+> Si está pegao, está aquí\. Feat\. Yung Beef, Xiyo, Fernandezz, Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,938 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,912 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 39 | [Novio No](https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Novio No](https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7) | 2:47 |
 | 40 | [En Tus Sueños](https://open.spotify.com/track/6QtWffbCbMMfJj7PacS5ri) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [En Tus Sueños](https://open.spotify.com/album/5EyekKqaKg0wRgFOG8MSeW) | 3:08 |
 
-Snapshot ID: `AAAAAC6Vw6WdgCzmxi+ANPPhUcpj08s0`
+Snapshot ID: `AAAAAFPtpb8/GN0cfK3CR0nxTN9M0d+f`

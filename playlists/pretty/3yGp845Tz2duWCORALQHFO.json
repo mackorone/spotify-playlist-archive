@@ -1,13 +1,29 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26143,
+  "num_followers": 26144,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABj86x7MkIwnS+8mc6/F5jUAHm//X9z",
+  "snapshot_id": "AABj9mwYiRYxm7SXFpV1CTHrkflmp1J7",
   "tracks": [
+    {
+      "added_at": "2025-09-25 13:01:43",
+      "album": {
+        "name": "Awake Again",
+        "url": "https://open.spotify.com/album/3zs8j1YMoQ4BmIPUpS30pB"
+      },
+      "artists": [
+        {
+          "name": "Daddy Plays Disco",
+          "url": "https://open.spotify.com/artist/2B0wc5Evd3ULefDQiFIlGs"
+        }
+      ],
+      "duration_ms": 203294,
+      "name": "Awake Again",
+      "url": "https://open.spotify.com/track/1BbPKZh9VKkSlVvwEdMdd2"
+    },
     {
       "added_at": "2025-09-19 12:08:15",
       "album": {
@@ -1095,22 +1111,6 @@
       "duration_ms": 127714,
       "name": "Le Freak (Where I Wanna Be)",
       "url": "https://open.spotify.com/track/6QfDBiaMDObsrtNz2I3BN4"
-    },
-    {
-      "added_at": "2025-09-18 21:56:50",
-      "album": {
-        "name": "Collection 3",
-        "url": "https://open.spotify.com/album/1iHBYO9XCXeFNl57K3rDzI"
-      },
-      "artists": [
-        {
-          "name": "Truthlive",
-          "url": "https://open.spotify.com/artist/7rMMDJat6svdaj3KrksxgL"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "California License Plate",
-      "url": "https://open.spotify.com/track/5zcbob2CDiW65jpK224Qyk"
     }
   ],
   "unique_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",

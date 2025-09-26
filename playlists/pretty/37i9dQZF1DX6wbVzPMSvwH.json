@@ -1,13 +1,29 @@
 {
   "description": "Lagu-lagu positif untuk mengawali harimu.",
-  "num_followers": 253165,
+  "num_followers": 253164,
   "original_name": "Semangat Pagi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMUFgC12sGlm4szeOUyq2w1npWTq",
+  "snapshot_id": "AAAAAEQ6sxrhhVOiN/Bt8y/f8C/Jgs7N",
   "tracks": [
+    {
+      "added_at": "2025-09-25 10:34:58",
+      "album": {
+        "name": "Senja Sudut Kota",
+        "url": "https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cipta",
+          "url": "https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc"
+        }
+      ],
+      "duration_ms": 223012,
+      "name": "Senja Sudut Kota",
+      "url": "https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni"
+    },
     {
       "added_at": "2025-03-03 12:33:50",
       "album": {

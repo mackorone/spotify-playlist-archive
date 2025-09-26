@@ -4,7 +4,7 @@
 
 > All of the newest country songs in one playlist! Featuring Dasha, Josh Ross, HARDY and more.
 
-10,983 songs - 25 day 0 hr 28 min
+10,984 songs - 25 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5575,6 +5575,7 @@
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-05 | 2024-07-13 |
 | [Life](https://open.spotify.com/track/5ta8NyQiixodcCinI6jjS6) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life](https://open.spotify.com/album/4zRPTUJpjsQ9j4wEA4z9wB) | 3:52 | 2022-10-14 | 2022-10-22 |
 | [Life & Living](https://open.spotify.com/track/7ivK1LDvcIJBT6IKuRnu6P) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Life & Living](https://open.spotify.com/album/0FXZtRGk8TPaDpq1kcSkL5) | 3:46 | 2022-08-12 | 2022-08-20 |
+| [Life Ain't Always Beautiful](https://open.spotify.com/track/4Xq9j2SAGCkyxYpvFFIqr6) | [Cyndi Thomson](https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq) | [Life Ain't Always Beautiful](https://open.spotify.com/album/7iRRo3ZDfXfVC85uPPRL34) | 3:57 | 2025-09-24 |  |
 | [Life Ain't So Bad](https://open.spotify.com/track/69uZeb8D97hIFV8PxYHTHN) | [Josh Setterfield](https://open.spotify.com/artist/7yEGY87VhZx21THIvHDO4u) | [Life Ain't So Bad](https://open.spotify.com/album/22ZwkYDWbMkUNQCXrDNZU6) | 3:03 | 2023-05-19 | 2023-05-27 |
 | [Life Behind Bars](https://open.spotify.com/track/2xa6tkIvKAtbjIirdxJXcd) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB), [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Life Behind Bars](https://open.spotify.com/album/35BIDAlQWIo5BV3VSTSB5j) | 2:45 | 2025-07-25 | 2025-08-02 |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-24 | 2025-02-01 |

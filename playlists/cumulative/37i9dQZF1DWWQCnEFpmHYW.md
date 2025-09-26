@@ -4,7 +4,7 @@
 
 > You're warm and cozy inside, listening to the sound of the rain outside\. <br/>Get into the flow, there's nowhere else you need to go.
 
-164 songs - 7 hr 46 min
+165 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chipi Chipi \(Rain\)](https://open.spotify.com/track/4AOcYN1cSFMZ6gZODPIOLZ) | [Scattered Sprinkle](https://open.spotify.com/artist/4ed0GFW4G1Q71nNdtTl7S7) | [Chipi Chipi \(Rain\)](https://open.spotify.com/album/7BOg6bK8x2Y8h5oG6e460z) | 2:50 | 2024-03-11 |  |
 | [Cielo borroso](https://open.spotify.com/track/1uRlPh8z7ep69HkDpq7ZXH) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [lluvia y ruido](https://open.spotify.com/album/6H5JCrtbYUsGFcz1e5UpT3) | 2:35 | 2022-11-21 |  |
 | [Cloud Nine \(Rain\)](https://open.spotify.com/track/4wEghUsf0cQHbm66QsPboI) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Cloud Nine \(Rain\)](https://open.spotify.com/album/10XlnRF1Wd9PDMYgLVwSZU) | 3:01 | 2022-11-21 | 2022-12-17 |
+| [Colorful Rain](https://open.spotify.com/track/3qRm820kR6zVX7Hm6UxuOz) | [Okami Sky](https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP) | [Colorful Rain](https://open.spotify.com/album/00dLqD7MPzKsmhVwMAMSCD) | 2:52 | 2025-07-24 |  |
 | [Cosy Car Rain](https://open.spotify.com/track/6d4mT4J1RkeF60CTn6W9Fc) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [On The Window](https://open.spotify.com/album/1EBrkQRMz8G8ATa62L5E2N) | 2:29 | 2023-10-11 |  |
 | [Cozy Cabin Rain](https://open.spotify.com/track/4tR3AjcdyVP3yVLUrfACOk) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Cozy Cabin Rain](https://open.spotify.com/album/15ZZWYfRL5OwShHctYyrDB) | 3:00 | 2024-03-11 |  |
 | [Cozy Rain](https://open.spotify.com/track/0N3S9OCA8PSqbzPhR8FmWu) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Relaxed Outdoor Recordings](https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK) | 3:01 | 2022-11-21 |  |
@@ -149,7 +150,7 @@
 | [Storm Away](https://open.spotify.com/track/2aRwU4NEBchyPIAvzONd67) | [Dark Thunder Forest](https://open.spotify.com/artist/7HnH9fTkvDwEgTit9qwe9d) | [Dark Thunder 2](https://open.spotify.com/album/2JDGCTkC92RckQGlOeUEch) | 2:42 | 2022-11-21 |  |
 | [Storm Coming In](https://open.spotify.com/track/27RkRIouugY1RDkriUIhgq) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
 | [Stormy Conditions](https://open.spotify.com/track/5s5LmyLUHj01WhJLYruZwS) | [Calm Storm](https://open.spotify.com/artist/4PvLsOE2nny8a4yXAB7g9o) | [Chasing Winds](https://open.spotify.com/album/5MMSXXfJPWOSFz5SIxkMx3) | 3:28 | 2022-11-21 |  |
-| [Sueño Rural](https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Nubes Opus](https://open.spotify.com/album/2sHE3Kq75uajqwYacHBdOt) | 2:53 | 2022-11-21 |  |
+| [Sueño Rural](https://open.spotify.com/track/5lcDiS13pwBrN3kaWTO9pS) | [Temporada](https://open.spotify.com/artist/22rf1VlDhMhNYo8ppftNLR) | [Nubes Opus](https://open.spotify.com/album/2sHE3Kq75uajqwYacHBdOt) | 2:53 | 2022-11-21 | 2025-09-26 |
 | [Summer Rain](https://open.spotify.com/track/3P52wWLZa5Y1CNazZA5DBb) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Summer Rain](https://open.spotify.com/album/5JBfHXs4DL7MyphOpm8lwM) | 3:02 | 2023-10-11 |  |
 | [Summer Rain Samos](https://open.spotify.com/track/73MnVMsT6ZIjWl275WgQEm) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Rain & Thunder Samos](https://open.spotify.com/album/6xmwcrMZbAxNsnuCrbbfsC) | 3:58 | 2023-10-11 |  |
 | [That One Drop](https://open.spotify.com/track/3lSYBt0xBQVldfDH0WmxBe) | [Refreshing Rain](https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03) | [Mother Nature](https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb) | 2:10 | 2022-11-21 | 2022-12-17 |

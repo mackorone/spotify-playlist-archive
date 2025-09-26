@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  LÉA THE LEOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,858 likes - 201 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,872 likes - 201 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

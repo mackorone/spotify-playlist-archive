@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Sindi Ntombela",
+  "description": "Praise and Worship your way with the best South African Gospel music.  Cover: Mpumi Mtsweni",
   "name": "South African Gospel",
   "tracks": [
     {
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 298750,
       "name": "NGINGABUYELA KANJANI",
       "url": "https://open.spotify.com/track/0iSzdxSCzt4l3RX1VPj1iq"
@@ -2424,6 +2424,24 @@
       "duration_ms": 573672,
       "name": "O a Ntwanela",
       "url": "https://open.spotify.com/track/4EVC7OZPtsPJAnCy87bW2a"
+    },
+    {
+      "album": {
+        "name": "Heart of Gratitude (Live At The Pretoria State Theatre)",
+        "url": "https://open.spotify.com/album/4wGsUQ95NzDjG0s3wY4wRQ"
+      },
+      "artists": [
+        {
+          "name": "Mmatema",
+          "url": "https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338884,
+      "name": "O Tshepegile Morena - Tsa Manyalo",
+      "url": "https://open.spotify.com/track/75Lx8FKrcCbivpc1Ff541Y"
     },
     {
       "album": {
@@ -2899,6 +2917,28 @@
     },
     {
       "album": {
+        "name": "Ukhona (Live)",
+        "url": "https://open.spotify.com/album/5GVDz9NH7RVdWuP5sFeI0H"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Mpumi Mtsweni",
+          "url": "https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 932290,
+      "name": "Ukhona (Live)",
+      "url": "https://open.spotify.com/track/3q0L78ewhexARzasmYb2Na"
+    },
+    {
+      "album": {
         "name": "Calvary",
         "url": "https://open.spotify.com/album/2DtSSFURqcaYDLMuecNAkO"
       },
@@ -2968,7 +3008,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 528037,
       "name": "Ukwenzile (Live)",
       "url": "https://open.spotify.com/track/3FCEpzQkdb0hkhe4v1T31r"

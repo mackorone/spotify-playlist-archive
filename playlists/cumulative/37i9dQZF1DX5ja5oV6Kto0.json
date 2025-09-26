@@ -7266,7 +7266,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 192520,
       "name": "Hell And Back",
       "url": "https://open.spotify.com/track/2mUfFlnUlNibAEO9tKoFsZ"
@@ -7556,7 +7556,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 182400,
       "name": "How I Want It",
       "url": "https://open.spotify.com/track/0IsysGvtKPy8kY1s94kP3p"
@@ -12547,6 +12547,24 @@
     },
     {
       "album": {
+        "name": "OKAY!",
+        "url": "https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "OKAY!",
+      "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
+    },
+    {
+      "album": {
         "name": "OKAY! (Prod. Gesaffelstein)",
         "url": "https://open.spotify.com/album/06Rzy0mTJ33m3Wu2lRkMFw"
       },
@@ -16074,6 +16092,24 @@
       "duration_ms": 141818,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/4vW1HwzceCsO8EWA8YJSBu"
+    },
+    {
+      "album": {
+        "name": "SORE LOSER",
+        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "SORE LOSER",
+      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
     },
     {
       "album": {

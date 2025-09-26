@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar\. Cover: Difki Khalif
+> Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar.
 
-289 songs - 18 hr 46 min
+292 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Miniatur \- Minimalist Version](https://open.spotify.com/track/2Cnmn4jARAPRocw9meEMQq) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Suara Kita, Cerita Kamu](https://open.spotify.com/album/5XWEnuQVVXCf2EmxuYSRH0) | 3:09 | 2021-11-25 | 2022-03-25 |
 | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj), [Kinder Bloomen](https://open.spotify.com/artist/6Myz6IelnH81UoSa6rvd7K) | [MR.MARIPOSA \(feat\. Kinder Bloomen\)](https://open.spotify.com/album/3IuTpdxmQvltSh2DEYFRXn) | 2:49 | 2023-04-13 | 2024-03-29 |
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-05-10 | 2025-04-16 |
+| [Mungkin](https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 4:03 | 2025-09-26 |  |
 | [Nemu \- Live Ska Reggae](https://open.spotify.com/track/3yL8Qo6680rAmIeGmYDJsw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Nemu \(Live Ska Reggae\)](https://open.spotify.com/album/0TxeX8ZExdhiqzcy2VGKvN) | 5:33 | 2023-08-17 | 2024-03-29 |
 | [Never Let You Go \- From "Mozachiko"](https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Never Let You Go \(From "Mozachiko"\)](https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD) | 3:26 | 2023-06-01 | 2024-03-29 |
 | [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 | 2024-05-20 | 2025-04-16 |
@@ -214,6 +215,7 @@
 | [Rusuk](https://open.spotify.com/track/6fEOGx8QEljOO88YuzgemL) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk](https://open.spotify.com/album/4cLrMz5zfE7JgxDLylxbvt) | 4:15 | 2024-03-29 | 2025-04-16 |
 | [Rusuk \(Timur\)](https://open.spotify.com/track/1TvPO9D5gvudxC8PUJGM6s) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Rusuk \(Timur\)](https://open.spotify.com/album/5VR7PcZByG7x0AaljFd1mm) | 4:31 | 2024-05-31 | 2025-04-16 |
 | [sahabat](https://open.spotify.com/track/2CTq462kUxg8yu9oWt3seb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [sahabat](https://open.spotify.com/album/6UfIzBcTa1Zrkl8R2TicQo) | 4:46 | 2021-11-25 | 2022-03-25 |
+| [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 | 2025-09-26 |  |
 | [Sambel Terasi](https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Sambel terasi](https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1) | 4:59 | 2021-11-25 | 2022-03-25 |
 | [Satu Bulan](https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:20 | 2023-08-03 |  |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-06-09 |  |
@@ -281,6 +283,7 @@
 | [to be with me](https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [wonder in time](https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB) | 3:39 | 2023-04-13 | 2024-03-29 |
 | [Too Far](https://open.spotify.com/track/3Avz07Es71ic6sr98jpiBd) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Too Far](https://open.spotify.com/album/70RzucwTklEDyqhtBuongo) | 3:31 | 2024-03-29 | 2025-04-16 |
 | [Topeng](https://open.spotify.com/track/2iHfsyJp0tRdGH3xgSRtSz) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Ajil Ditto](https://open.spotify.com/artist/2vtCmMvb2FdI8GbBkgGDE1), [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l), [Teuku Ryzki](https://open.spotify.com/artist/5sO5QK8taSVb6DPtAD0Xw0) | [Topeng](https://open.spotify.com/album/67m8hYyCtFwU9CaPVpyGAE) | 3:04 | 2022-06-30 | 2023-04-14 |
+| [Track 12](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-26 |  |
 | [Tunggu Apa Lagi](https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Tunggu Apa Lagi](https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5) | 3:39 | 2024-09-05 | 2025-04-16 |
 | [Unromantic](https://open.spotify.com/track/69yeuDVp8H8pQiJ69jO7gn) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 2:21 | 2022-06-09 | 2022-09-02 |
 | [Utuh](https://open.spotify.com/track/4RmUlUypIRTjCrvbIRvT4q) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Utuh](https://open.spotify.com/album/4hQ7HQg7B1TnZlkzgGd0hg) | 3:39 | 2024-03-29 | 2025-04-16 |

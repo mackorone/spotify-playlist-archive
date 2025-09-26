@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Frah Quintale \u00e8 alle prese con un Blue Monday, ti capiamo  amico \ud83d\udc99 ",
+  "description": "LA SUA BOCCA NON HA IL TUO SAPORE ED ORAAA BERE NON MI PIACE PI\u00d9 (eddie brock in cover)",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -306,7 +306,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 229363,
       "name": "AIR (feat. Venerus & Ele A)",
       "url": "https://open.spotify.com/track/0vty6zPguCSs4wiWpFYxO4"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 129000,
       "name": "Amici stretti",
       "url": "https://open.spotify.com/track/0QWtK5weG5oox2YwIHZnx7"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 180986,
       "name": "Becal\u00f3va",
       "url": "https://open.spotify.com/track/6EM5Wh5yvEI2bXLqm82sjr"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 164150,
       "name": "L'Ultima Canzone",
       "url": "https://open.spotify.com/track/163T8bwTmi8PPKhfGjOBtI"
@@ -3675,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Il Male",
+        "url": "https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB"
+      },
+      "artists": [
+        {
+          "name": "The Zen Circus",
+          "url": "https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223138,
+      "name": "Meglio di niente",
+      "url": "https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL"
+    },
+    {
+      "album": {
         "name": "M\u0100Y\u0100",
         "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
       },
@@ -3980,6 +3998,24 @@
       "duration_ms": 193184,
       "name": "NEXT",
       "url": "https://open.spotify.com/track/0RcyTmiVTIN7Fvv7bLkJYx"
+    },
+    {
+      "album": {
+        "name": "NIENTE DA DIRE",
+        "url": "https://open.spotify.com/album/1XldsQ599Rih4NTWWNCNby"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203170,
+      "name": "NIENTE DA DIRE",
+      "url": "https://open.spotify.com/track/0aUvocDuU0Ugl1jv7S4EzC"
     },
     {
       "album": {
@@ -4324,7 +4360,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 183230,
       "name": "Ombre di citt\u00e0 (feat. Colapesce)",
       "url": "https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E"
@@ -5073,6 +5109,24 @@
     },
     {
       "album": {
+        "name": "Quante Lacrime",
+        "url": "https://open.spotify.com/album/30wIZa2jzdIwvcXcnkrm59"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193415,
+      "name": "Quante Lacrime",
+      "url": "https://open.spotify.com/track/1QsG1bTnygLpg0S4d9Fnrg"
+    },
+    {
+      "album": {
         "name": "QUANTO TI IMPORTA",
         "url": "https://open.spotify.com/album/0a5ak6iSa3EmoYcPqlxBhY"
       },
@@ -5164,6 +5218,24 @@
       "duration_ms": 139175,
       "name": "Riconoscimi",
       "url": "https://open.spotify.com/track/04RpjFlIhKO73O27kuXOxm"
+    },
+    {
+      "album": {
+        "name": "RITRATTI",
+        "url": "https://open.spotify.com/album/6ABkTNfPckRX79hkmCV92H"
+      },
+      "artists": [
+        {
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191365,
+      "name": "RITRATTI",
+      "url": "https://open.spotify.com/track/7BqLuvKFXttJNDp7ErJXtn"
     },
     {
       "album": {
@@ -5274,6 +5346,28 @@
       "duration_ms": 190086,
       "name": "Sabato sera",
       "url": "https://open.spotify.com/track/5r89XCDpwt6EEzycluccVt"
+    },
+    {
+      "album": {
+        "name": "Soli E Disperati Nel Mare Meraviglioso",
+        "url": "https://open.spotify.com/album/4c5khiHeRg8ZMaCGKfxIJh"
+      },
+      "artists": [
+        {
+          "name": "TROPICO",
+          "url": "https://open.spotify.com/artist/11wRTRhOoRE8kcDgtAmuJW"
+        },
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342880,
+      "name": "Sabato Sera (feat. Calcutta)",
+      "url": "https://open.spotify.com/track/5sfAT5zvEzBa4sX342cmKf"
     },
     {
       "album": {
@@ -6541,6 +6635,24 @@
     },
     {
       "album": {
+        "name": "I - Autunno",
+        "url": "https://open.spotify.com/album/5UMS2YRbBGmK7auQraSmcU"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176115,
+      "name": "un cane per te",
+      "url": "https://open.spotify.com/track/1VCOQIBjWRjwgeXtQDmabc"
+    },
+    {
+      "album": {
         "name": "Un milione di anni",
         "url": "https://open.spotify.com/album/0nqRSalfTZgRjJVKTYy7kr"
       },
@@ -6552,7 +6664,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 258099,
       "name": "Un milione di anni",
       "url": "https://open.spotify.com/track/3PP5bAeGdXQIdFUbXv0n56"

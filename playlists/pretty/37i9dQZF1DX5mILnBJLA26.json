@@ -1,13 +1,53 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Bukzin Keyz",
-  "num_followers": 1095573,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Tyler ICU",
+  "num_followers": 1095942,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANY5g62pk87yAENxsEBW1OJ/3q2A",
+  "snapshot_id": "AAAAACYE7zjdJmca0jKHPFQmV191MrSL",
   "tracks": [
+    {
+      "added_at": "2025-09-25 22:00:33",
+      "album": {
+        "name": "Same Time (feat. Khalil Harrison, Tumelo.za, Ceeka RSA, TitoM & Yuppe)",
+        "url": "https://open.spotify.com/album/6XIkA02PQpVgBBimmBMUhV"
+      },
+      "artists": [
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Tyrone Dee",
+          "url": "https://open.spotify.com/artist/7xjxiSO9chy2VFLMbCkyog"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Ceeka RSA",
+          "url": "https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY"
+        },
+        {
+          "name": "Tumelo_za",
+          "url": "https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
+        },
+        {
+          "name": "Yuppe",
+          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
+        }
+      ],
+      "duration_ms": 351428,
+      "name": "Same Time (feat. Khalil Harrison, Tumelo.za, Ceeka RSA, TitoM & Yuppe)",
+      "url": "https://open.spotify.com/track/0uwtzOcZkPWH9KwcgpREPd"
+    },
     {
       "added_at": "2025-09-18 22:00:32",
       "album": {
@@ -225,6 +265,34 @@
       "url": "https://open.spotify.com/track/1pTzmXKH3AgzFH8ehiOUQr"
     },
     {
+      "added_at": "2025-09-25 22:00:33",
+      "album": {
+        "name": "Estradini",
+        "url": "https://open.spotify.com/album/6yYz4LATn0wC58jln0H1RL"
+      },
+      "artists": [
+        {
+          "name": "Shakes & Les",
+          "url": "https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp"
+        },
+        {
+          "name": "Mbuxx",
+          "url": "https://open.spotify.com/artist/3JQMhRMQlzHTD5RWpFROkk"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        }
+      ],
+      "duration_ms": 377427,
+      "name": "Hhay wena Maan (feat. Scotts Maphuma & Uncool MC)",
+      "url": "https://open.spotify.com/track/5BpPQrkIre8tlDsBSBCPP4"
+    },
+    {
       "added_at": "2025-09-18 22:00:32",
       "album": {
         "name": "Amazwi Okubonga",
@@ -371,6 +439,38 @@
       "duration_ms": 231428,
       "name": "Big Up - Radio Edit",
       "url": "https://open.spotify.com/track/49oUpe2oYvElaVA51zJIvP"
+    },
+    {
+      "added_at": "2025-09-25 22:00:33",
+      "album": {
+        "name": "SEKA RIGHT",
+        "url": "https://open.spotify.com/album/1sB4go5LLU7nbgl5QFqcKB"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "King P",
+          "url": "https://open.spotify.com/artist/2o8EKm7lpoVrJNxa17E5Xo"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        },
+        {
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+        },
+        {
+          "name": "Sponge 101",
+          "url": "https://open.spotify.com/artist/1mdkPsdg5pHdPDikWWu2uq"
+        }
+      ],
+      "duration_ms": 420128,
+      "name": "SEKA RIGHT",
+      "url": "https://open.spotify.com/track/3IDf3YArcPTAFP8CY8bK3G"
     },
     {
       "added_at": "2025-09-18 22:00:32",
@@ -1531,42 +1631,6 @@
     {
       "added_at": "2025-09-18 22:00:32",
       "album": {
-        "name": "Fantastic 4",
-        "url": "https://open.spotify.com/album/79trrqkx3XfS9vspCMZQrM"
-      },
-      "artists": [
-        {
-          "name": "Amu Classic",
-          "url": "https://open.spotify.com/artist/3NQIgbNJLGPryAiwDI3h9H"
-        },
-        {
-          "name": "Kappie",
-          "url": "https://open.spotify.com/artist/073up1ElQTnihSqNP4FnIC"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Thatohatsi",
-          "url": "https://open.spotify.com/artist/1g6DVpTS6w8meqwY8QGy1L"
-        },
-        {
-          "name": "CowBoii",
-          "url": "https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1"
-        },
-        {
-          "name": "Dinga.112",
-          "url": "https://open.spotify.com/artist/4x5TmANaTdvKNSx7bAleVf"
-        }
-      ],
-      "duration_ms": 416026,
-      "name": "Into The Stars (feat. CowBoii & Dinga 112)",
-      "url": "https://open.spotify.com/track/66t4EX29bDmIY327phdeLg"
-    },
-    {
-      "added_at": "2025-09-18 22:00:32",
-      "album": {
         "name": "Jika V.T.S.K",
         "url": "https://open.spotify.com/album/2HnB2wL4GK2t8Fi3WZOP70"
       },
@@ -1711,38 +1775,6 @@
     {
       "added_at": "2025-09-18 22:00:32",
       "album": {
-        "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
-        "url": "https://open.spotify.com/album/5EBJ5rZbVPpvhooXsDXP2g"
-      },
-      "artists": [
-        {
-          "name": "Tycoon",
-          "url": "https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc"
-        },
-        {
-          "name": "Sly",
-          "url": "https://open.spotify.com/artist/3vg62RNNbcEtTGVRHzIBdi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Dladla Mshunqisi",
-          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
-        },
-        {
-          "name": "Goldmax",
-          "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
-        }
-      ],
-      "duration_ms": 395044,
-      "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
-      "url": "https://open.spotify.com/track/0Xc5lXQ1Q1NxGyL7SSXnF9"
-    },
-    {
-      "added_at": "2025-09-18 22:00:32",
-      "album": {
         "name": "Ungangilimazi (feat. Frank Mabeat)",
         "url": "https://open.spotify.com/album/64Mkg8gHtmHIsCRV0NRSzR"
       },
@@ -1815,42 +1847,6 @@
       "duration_ms": 368577,
       "name": "Abo Nokthula (feat. The Exclusive SA, Scotts Maphuma, Kabelo Sings, Bontle Smith, 2woshort & Stompiiey)",
       "url": "https://open.spotify.com/track/3FNtYaS85lCdYwDPw7CsIH"
-    },
-    {
-      "added_at": "2025-09-18 22:00:32",
-      "album": {
-        "name": "Diwa Kae",
-        "url": "https://open.spotify.com/album/05dLOFYNg2aNuYOh7ZIHwE"
-      },
-      "artists": [
-        {
-          "name": "De Mthuda",
-          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Mkeyz",
-          "url": "https://open.spotify.com/artist/0iCxUN3V2MB2iL3yTMgbhQ"
-        },
-        {
-          "name": "McKenzie",
-          "url": "https://open.spotify.com/artist/31A2RSnDite4lHtHZsCrh5"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
-        }
-      ],
-      "duration_ms": 416283,
-      "name": "Diwa Kae",
-      "url": "https://open.spotify.com/track/4g929t40UHTxK8vEea18Gb"
     },
     {
       "added_at": "2025-09-18 22:00:32",

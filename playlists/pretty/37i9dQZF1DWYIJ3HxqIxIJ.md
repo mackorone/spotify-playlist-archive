@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,089 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,091 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 | 9 | [Jump](https://open.spotify.com/track/5P9d2eG2DJzQFDathA52FF) | [JJ4K](https://open.spotify.com/artist/2mjKgESiyb135Ci7YcSrHD) | [Jump](https://open.spotify.com/album/6HcV3NG1aOqzvESgojMTor) | 2:33 |
 | 10 | [Crying In The Bathroom](https://open.spotify.com/track/0Jwdlyx20ApHnnzb2UwHGB) | [Luca George](https://open.spotify.com/artist/3pg3Sp6CAX6gAt0ppey9dA) | [Crying In The Bathroom](https://open.spotify.com/album/66WSBNJTsc02lvX2QBYSks) | 3:10 |
 | 11 | [Mess In Your Eyes](https://open.spotify.com/track/4MD6izirfGgKzISrvAQToR) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Mess In Your Eyes // Vultures](https://open.spotify.com/album/7oC4ROmKGWdEmFSZmAPyeB) | 3:51 |
-| 12 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 |
+| 12 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick Original](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 |
 | 13 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 |
 | 14 | [Innadream](https://open.spotify.com/track/39OWi2zw0JQ34MILmKQQpd) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Innadream](https://open.spotify.com/album/75U6gZIUN0HbSWJ1fNLhuP) | 3:13 |
 | 15 | [Real Life](https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Real Life](https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX) | 3:30 |

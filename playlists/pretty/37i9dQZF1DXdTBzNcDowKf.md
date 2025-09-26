@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 
 > Things just got a little more despicable\. Listen to the music from the Despicable Me and Minions movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,054 likes - 67 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,177 likes - 67 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTBzNcDowKf.md) - [plain]
 | 2 | [Everybody Wants To Rule the World](https://open.spotify.com/track/70CYroXLBCsndZ1LySt6dr) | [Despicable Me 4 Cast](https://open.spotify.com/artist/3q4eQCCkDNTWT1wkhOjO54) | [Despicable Me 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0fxJNsszrPN4iubjPabVvy) | 2:34 |
 | 3 | [None of Your Business \(from Despicable Me 4\)](https://open.spotify.com/track/6aOaD4kexUZLvOltxQY4ph) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [None of Your Business \(from Despicable Me 4\)](https://open.spotify.com/album/08wn61NK0hH5nfHv0cUzE1) | 2:35 |
 | 4 | [Lil Mega Minion](https://open.spotify.com/track/4iTY4faTQSkScwbk2F1FUs) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lil Mega Minion](https://open.spotify.com/album/3EwNJwsIUmfOG7oZhcWVcY) | 1:51 |
-| 5 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
+| 5 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:53 |
 | 6 | [Despicable Me](https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me](https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m) | 4:12 |
 | 7 | [Freedom](https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Freedom](https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n) | 2:42 |
 | 8 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 |

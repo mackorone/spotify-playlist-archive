@@ -2,7 +2,7 @@
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un autunno non proprio felice \(centomila in cover\)
+> musica per un autunno non proprio felice \(sally cruz in cover\)
 
 1,480 songs - 2 day 19 hr 51 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 480728,
+  "num_followers": 480755,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAAD2BC5ne/C5z3x95E0r5UB2",
+  "snapshot_id": "aNM0gAAAAAD9lAeND5UCtgZ/YmUcu9LZ",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unmasked",
-        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Shandi",
-      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 253840,
       "name": "God Of Thunder",
       "url": "https://open.spotify.com/track/2CJ9wTckMqRjjVVSLTs8QZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unmasked",
+        "url": "https://open.spotify.com/album/3PlYLejxpxhtJcynfE08vE"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Shandi",
+      "url": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD"
     },
     {
       "added_at": null,

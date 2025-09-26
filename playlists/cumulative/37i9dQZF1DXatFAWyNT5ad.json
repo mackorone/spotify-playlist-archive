@@ -7371,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "okay. again?",
+        "url": "https://open.spotify.com/album/3X8hQPPIipP1KbYV4ENqVd"
+      },
+      "artists": [
+        {
+          "name": "Charlie Pittman",
+          "url": "https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228391,
+      "name": "how i feel?",
+      "url": "https://open.spotify.com/track/1CnOKVekgE66cwKT7yx4IV"
+    },
+    {
+      "album": {
         "name": "How Not To Drown",
         "url": "https://open.spotify.com/album/3QDXgEZ8LfC1CxkZpETteX"
       },
@@ -11870,7 +11888,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 128906,
       "name": "Pretender",
       "url": "https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah, Avolia",
+  "description": "Dendang Dangdut teratas. Cover: Sridevi",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1553,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "HARUSKAH AKU PERGI",
+        "url": "https://open.spotify.com/album/7oqmfq1FGxl4pfUKBVgVnA"
+      },
+      "artists": [
+        {
+          "name": "Andra Respati",
+          "url": "https://open.spotify.com/artist/0c0VD9fNOOnEp9UwoEnz3a"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338663,
+      "name": "HARUSKAH AKU PERGI",
+      "url": "https://open.spotify.com/track/6QUrJGz2xpHk6mVIwBvnzI"
+    },
+    {
+      "album": {
         "name": "Harusnya Aku Bukan Dia",
         "url": "https://open.spotify.com/album/5bhiAHjrp1DNxyLDnkFD90"
       },
@@ -2268,7 +2286,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 230943,
       "name": "Lebaran Bersama",
       "url": "https://open.spotify.com/track/024MRDt7PtZBM5VIZZTOR1"
@@ -3252,7 +3270,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 255180,
       "name": "Pintu Berkah",
       "url": "https://open.spotify.com/track/3WyOay9X5Nnd43HHvSCNvy"
@@ -4220,7 +4238,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 333818,
       "name": "Surgaku",
       "url": "https://open.spotify.com/track/3IYqAgn7ENaDH9uTZGomQO"
@@ -4668,6 +4686,24 @@
       "duration_ms": 328304,
       "name": "Termiskin Di Dunia",
       "url": "https://open.spotify.com/track/00SZUabJ4X5ZcjR0vSwyNi"
+    },
+    {
+      "album": {
+        "name": "Terpesona",
+        "url": "https://open.spotify.com/album/5lp416CnXmPsSUy6K9prMK"
+      },
+      "artists": [
+        {
+          "name": "Sridevi",
+          "url": "https://open.spotify.com/artist/4Ad1vLhZo1fEqoXhmHb1n3"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295494,
+      "name": "Terpesona",
+      "url": "https://open.spotify.com/track/1dWXJ2CgrEVXQhnuF77ERf"
     },
     {
       "album": {

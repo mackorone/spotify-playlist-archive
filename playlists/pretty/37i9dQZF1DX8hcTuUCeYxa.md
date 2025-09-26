@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Pabst, Blush Always
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,214 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,224 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [Summertime Silence](https://open.spotify.com/track/1dT8gPIQ5TMhcRbISaZt4n) | [Amber & the Moon](https://open.spotify.com/artist/7bxdfk6ZAZRXFZeTsdTLEs) | [Summertime Silence](https://open.spotify.com/album/7u4KcKJ59tAMWILyEf9tlM) | 4:44 |
 | 90 | [Brand New Me](https://open.spotify.com/track/1CfKxmlYpzBuXtcLYAGlz6) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Brand New Me](https://open.spotify.com/album/3Oz7H49W8MVR0UdMzueCQT) | 3:03 |
 
-Snapshot ID: `AAAAAM9f/LIQYGzmx3AEedjLgusQtJY3`
+Snapshot ID: `AAAAAOAJF8f5NEij0wQ7FJt7cyMN3VGL`

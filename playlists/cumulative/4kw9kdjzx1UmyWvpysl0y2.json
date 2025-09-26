@@ -14718,6 +14718,24 @@
     {
       "album": {
         "name": "Perfect",
+        "url": "https://open.spotify.com/album/65SyuCYsdqZOb9I2dP0bWF"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2hxlj6BdJA603Ahho8fLDH"
+    },
+    {
+      "album": {
+        "name": "Perfect",
         "url": "https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe"
       },
       "artists": [

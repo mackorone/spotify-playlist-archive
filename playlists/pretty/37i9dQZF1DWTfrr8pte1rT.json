@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Pendulum \\m/",
-  "num_followers": 345600,
+  "num_followers": 345643,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1823,34 +1823,6 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
-        "name": "Villain (Take the Shot)",
-        "url": "https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH"
-      },
-      "artists": [
-        {
-          "name": "VALORANT",
-          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
-        },
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        },
-        {
-          "name": "ARB4",
-          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
-        },
-        {
-          "name": "Eytan Peled",
-          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
-        }
-      ],
-      "duration_ms": 189368,
-      "name": "Villain (Take the Shot)",
-      "url": "https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
         "name": "Won't Make A Sound",
         "url": "https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg"
       },
@@ -1919,18 +1891,30 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
-        "name": "AFTER MIDNIGHT",
-        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
+        "name": "Villain (Take the Shot)",
+        "url": "https://open.spotify.com/album/6LJxZqBmT4zPDvUch3AnoH"
       },
       "artists": [
         {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        },
+        {
+          "name": "ARB4",
+          "url": "https://open.spotify.com/artist/7e2hk3B42soSKnZhzCkOD8"
+        },
+        {
+          "name": "Eytan Peled",
+          "url": "https://open.spotify.com/artist/2l5HhbsV4oSidBDY8hrmoj"
         }
       ],
-      "duration_ms": 121458,
-      "name": "AFTER MIDNIGHT",
-      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
+      "duration_ms": 189368,
+      "name": "Villain (Take the Shot)",
+      "url": "https://open.spotify.com/track/77QKSu2wdtQE9ipgsPOOTI"
     },
     {
       "added_at": "2025-09-12 04:00:20",
@@ -1959,22 +1943,18 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
-        "name": "Too Far Gone (Demons)",
-        "url": "https://open.spotify.com/album/1cFNcVYwZGXFfeDfDwqFFB"
+        "name": "AFTER MIDNIGHT",
+        "url": "https://open.spotify.com/album/0uVEnBx8s7wakHD1vizHdo"
       },
       "artists": [
         {
-          "name": "Taylor Kade",
-          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 194851,
-      "name": "Too Far Gone (Demons)",
-      "url": "https://open.spotify.com/track/14CkVXwXQHjpRmCIhuTmn6"
+      "duration_ms": 121458,
+      "name": "AFTER MIDNIGHT",
+      "url": "https://open.spotify.com/track/0kZOyOBwAbeIZlifCbIXaw"
     },
     {
       "added_at": "2025-09-12 04:00:20",
@@ -1995,6 +1975,26 @@
       "duration_ms": 156666,
       "name": "Gotta Leave",
       "url": "https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK"
+    },
+    {
+      "added_at": "2025-09-12 04:00:20",
+      "album": {
+        "name": "Too Far Gone (Demons)",
+        "url": "https://open.spotify.com/album/1cFNcVYwZGXFfeDfDwqFFB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Kade",
+          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 194851,
+      "name": "Too Far Gone (Demons)",
+      "url": "https://open.spotify.com/track/14CkVXwXQHjpRmCIhuTmn6"
     },
     {
       "added_at": "2025-09-12 04:00:20",
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
+        "name": "Warzone",
+        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
+      },
+      "artists": [
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "Zaug",
+          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
+        }
+      ],
+      "duration_ms": 162916,
+      "name": "Warzone",
+      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
+    },
+    {
+      "added_at": "2025-09-12 04:00:20",
+      "album": {
         "name": "Need You Again",
         "url": "https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 236842,
       "name": "Need You Again",
       "url": "https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
-        "name": "Warzone",
-        "url": "https://open.spotify.com/album/5aRklPNMfncol1femV9Meq"
-      },
-      "artists": [
-        {
-          "name": "Clarx",
-          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
-        },
-        {
-          "name": "Zaug",
-          "url": "https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1"
-        }
-      ],
-      "duration_ms": 162916,
-      "name": "Warzone",
-      "url": "https://open.spotify.com/track/7Co8vfxAG0mHm5s6YG90wc"
     },
     {
       "added_at": "2025-09-12 04:00:20",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2025-09-12 04:00:20",
       "album": {
+        "name": "Time Is Eating",
+        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Time Is Eating",
+      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
+    },
+    {
+      "added_at": "2025-09-12 04:00:20",
+      "album": {
         "name": "Devils",
         "url": "https://open.spotify.com/album/320iHDUkfTSlAcTxyM3xAz"
       },
@@ -2287,22 +2303,6 @@
       "duration_ms": 238683,
       "name": "Devils",
       "url": "https://open.spotify.com/track/0l8Z7ihxlxHWwoyxyalZ1r"
-    },
-    {
-      "added_at": "2025-09-12 04:00:20",
-      "album": {
-        "name": "Time Is Eating",
-        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Time Is Eating",
-      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
     },
     {
       "added_at": "2025-09-12 04:00:20",

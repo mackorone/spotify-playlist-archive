@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Bonte Avond",
+        "url": "https://open.spotify.com/album/2SHtV85XBq6Ox1IXZz1PQS"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167085,
+      "name": "Bonte Avond",
+      "url": "https://open.spotify.com/track/3OwiBXdE9Rzu0hi3paV0w9"
+    },
+    {
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J"
       },
@@ -1384,7 +1402,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 157269,
       "name": "Maximaal",
       "url": "https://open.spotify.com/track/1rzQBh4zaNFZTQmJcTMLKb"

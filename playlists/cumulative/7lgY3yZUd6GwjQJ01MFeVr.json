@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-12-14",
   "description": "Today's top country music!",
-  "name": "Top Country Hits - Summer 2025",
+  "name": "Top Country Hits",
   "tracks": [
     {
       "album": {
@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6D8fqhOXVPJAC521jMWSIM"
+      },
+      "artists": [
+        {
+          "name": "Nate Haller",
+          "url": "https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215701,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/48kjeOLcEMg9yRUqcBj4h0"
+    },
+    {
+      "album": {
         "name": "Backup Plan (feat. Luke Combs)",
         "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
       },
@@ -599,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Bonfire On The Beach",
+        "url": "https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147133,
+      "name": "Bonfire On The Beach",
+      "url": "https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp"
+    },
+    {
+      "album": {
         "name": "Twisters: The Album",
         "url": "https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS"
       },
@@ -752,6 +792,28 @@
       "duration_ms": 200133,
       "name": "Can't Break Up Now",
       "url": "https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz"
+    },
+    {
+      "album": {
+        "name": "Boys",
+        "url": "https://open.spotify.com/album/6DyLaLlrflTMFsGlIz2Q0G"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        },
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158320,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/2JYEUB6MYtG0NXBKmMZjKR"
     },
     {
       "album": {
@@ -3077,6 +3139,24 @@
     },
     {
       "album": {
+        "name": "Never Drinking Again",
+        "url": "https://open.spotify.com/album/42VOmwJtbQs2Ya5MqPBgE5"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149854,
+      "name": "Never Drinking Again",
+      "url": "https://open.spotify.com/track/11S4Qann0A358swlPCC8J0"
+    },
+    {
+      "album": {
         "name": "Never Left Me (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9"
       },
@@ -3182,6 +3262,24 @@
       "duration_ms": 227891,
       "name": "Old Dirt Roads",
       "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
+    },
+    {
+      "album": {
+        "name": "One Beer Away",
+        "url": "https://open.spotify.com/album/5ip2rDVNzeKanDTgo9kqnx"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218219,
+      "name": "One Beer Away",
+      "url": "https://open.spotify.com/track/32naDnaQtYgcPEHyhCRhMA"
     },
     {
       "album": {
@@ -3686,6 +3784,24 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
+        "name": "Honkytonk Revival",
+        "url": "https://open.spotify.com/album/6jycEDCkkqY5DVE0tZNFZ4"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "She Don't Know",
+      "url": "https://open.spotify.com/track/0zwpjxsT3JOIH4YKqVeBLz"
     },
     {
       "album": {
@@ -4786,6 +4902,24 @@
       "duration_ms": 220558,
       "name": "Worst Way",
       "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
+    },
+    {
+      "album": {
+        "name": "Worth The Double",
+        "url": "https://open.spotify.com/album/13zI2QA29FIQrPjj7pTvno"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171657,
+      "name": "Worth The Double",
+      "url": "https://open.spotify.com/track/270lUk4SocFdpn3ySnQWb4"
     },
     {
       "album": {

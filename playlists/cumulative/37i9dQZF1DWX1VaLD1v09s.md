@@ -4,7 +4,7 @@
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-514 songs - 1 day 18 hr 36 min
+515 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Isn't He \(This Jesus\)](https://open.spotify.com/track/3ehg0c0FEpEA2lxc8R4j6N) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\)](https://open.spotify.com/album/6RjmjrxlN18E8vR04zwfMu) | 9:50 | 2022-04-17 | 2024-04-19 |
 | [Isn't He \(This Jesus\) \[feat\. Natalie Grant\]](https://open.spotify.com/track/0AiQLGevpr9XOc9kIRjyuB) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Isn't He \(This Jesus\) \[feat\. Natalie Grant\]](https://open.spotify.com/album/0wNGfoY7amKt82BKThdeKt) | 9:50 | 2022-04-02 | 2022-07-29 |
 | [It Is Done](https://open.spotify.com/track/0kDKnvPaqZrK0wufB5Cnup) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Death Died](https://open.spotify.com/album/2Q1yeTh0KLIzBKzpshhLxj) | 4:42 | 2021-04-04 | 2022-07-29 |
+| [It Is Finished](https://open.spotify.com/track/0qrhkhEw8FXzFhtjrDKjU5) | [Celebration Music](https://open.spotify.com/artist/06dC3YuX4L5gosp5z3P9cp) | [It Is Finished](https://open.spotify.com/album/7fK4Rl682pSHnTEOJ0IukG) | 4:20 | 2025-04-17 |  |
 | [It Is Finished](https://open.spotify.com/track/07QCxVip7CrBcVxDR5maK0) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Glory Song](https://open.spotify.com/album/60O7rJI3N6AIoXdqrBbr5N) | 4:07 | 2022-04-02 | 2022-06-15 |
 | [It Is Finished](https://open.spotify.com/track/4A9MRGI9hRiwHzpY3M8cI7) | [The Broken Wilds](https://open.spotify.com/artist/4ilmr4yqX5MeQRyUcgvXsw) | [The Broken Wilds](https://open.spotify.com/album/7wUhteV8VpEgpkXJO7Ja4P) | 4:01 | 2022-04-02 | 2022-04-20 |
 | [It is Finished \- Acoustic](https://open.spotify.com/track/1g6T53Cokac07tcUa4Bkma) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [It is Finished \(Acoustic\)](https://open.spotify.com/album/6ddWeLr7hPG7DYEupfECQI) | 3:19 | 2022-04-17 | 2022-07-22 |
@@ -341,7 +342,7 @@
 | [One Thing Remains](https://open.spotify.com/track/3H6HjEBx1NpB0MsWlgT9Gt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brian Johnson](https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9) | [The Loft Sessions](https://open.spotify.com/album/4j0qiJw946YRhJ9UpNcqaA) | 4:01 | 2022-04-02 | 2022-04-21 |
 | [Our God](https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 4:45 | 2021-04-04 | 2025-04-12 |
 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 | 2021-04-04 |  |
-| [Power In The Cross \- Live](https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 5:28 | 2022-04-02 |  |
+| [Power In The Cross \- Live](https://open.spotify.com/track/3blTwlIOG5KrXP7UnxFTzT) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Derek Johnson](https://open.spotify.com/artist/3967KnQedbgX8KdNTXhm7y) | [Let It Echo \(Live\)](https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO) | 5:28 | 2022-04-02 | 2025-09-26 |
 | [Power To Redeem](https://open.spotify.com/track/0znz7UzwqZolzAixWdghiY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [How Can It Be \(Deluxe Edition\)](https://open.spotify.com/album/0QQQSMb4DmaIwqcvK3N8iR) | 3:45 | 2021-04-04 | 2022-04-20 |
 | [Power to Redeem \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:45 | 2022-04-17 | 2024-04-19 |
 | [Praise the King](https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [How Great](https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW) | 4:52 | 2021-04-04 |  |

@@ -4,7 +4,7 @@
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: Abdullah Maharvi
 
-1,117 songs - 2 day 11 hr 48 min
+1,118 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Baby Do You Know](https://open.spotify.com/track/46PwoVq3BBBGq8I5vlnL6O) | [Sarmad Qadeer](https://open.spotify.com/artist/6Eh92TEgarADIOborTEsDJ), [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym), [Supernova Muzic](https://open.spotify.com/artist/2dYNHuh7x5ySIMUG6ZvvYp) | [Baby Do You Know](https://open.spotify.com/album/1svIwOhrD69f9sBLm1UoMc) | 2:39 | 2024-10-01 | 2024-11-08 |
 | [baby please no](https://open.spotify.com/track/4hOovG1f9UlDXq7adR4jJi) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Arhum Sameed](https://open.spotify.com/artist/2AQtQ8Q2knILV9y6l8UIks), [Hassam Anwar](https://open.spotify.com/artist/1H4fzyg33NrcIRYwpEZrvm) | [baby please no](https://open.spotify.com/album/7qFqGvDCDEu9bwiAImx1ML) | 2:58 | 2024-01-19 | 2024-09-06 |
 | [Bach Ke](https://open.spotify.com/track/5eSuXdg13oiVgDgHCQ6oCn) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF) | [Generation](https://open.spotify.com/album/77E02Z6ROQRlhUb5OrhbLE) | 2:06 | 2023-09-15 | 2023-10-13 |
-| [BACK 2 ME](https://open.spotify.com/track/2BQRjsaHjzJoG1O3ec5mSo) | [Rayaan Ijaz](https://open.spotify.com/artist/0g2GA1u1LJd8v1YrdSU5Dn), [M U S T I](https://open.spotify.com/artist/3W5hmQOCGIdqChBmGlJ37X), [Thiccie](https://open.spotify.com/artist/7I5qIF313F9cj6ZCCHbXKN) | [BACK 2 ME](https://open.spotify.com/album/72CUDmxe9y47s7WH20Xbfk) | 3:03 | 2025-08-25 |  |
+| [BACK 2 ME](https://open.spotify.com/track/2BQRjsaHjzJoG1O3ec5mSo) | [Rayaan Ijaz](https://open.spotify.com/artist/0g2GA1u1LJd8v1YrdSU5Dn), [M U S T I](https://open.spotify.com/artist/3W5hmQOCGIdqChBmGlJ37X), [Thiccie](https://open.spotify.com/artist/7I5qIF313F9cj6ZCCHbXKN) | [BACK 2 ME](https://open.spotify.com/album/72CUDmxe9y47s7WH20Xbfk) | 3:03 | 2025-08-25 | 2025-09-26 |
 | [Back Home](https://open.spotify.com/track/3N3saLvD7TJrM8a6f0kGYo) | [Jalali malick](https://open.spotify.com/artist/2KCYfNI8rYQH0z71XPYS8k), [Jawad khan](https://open.spotify.com/artist/6dfp55dxSzll5WN1T7b0Gm) | [Back Home](https://open.spotify.com/album/2TIc1Wbo6vvSxTOcHdMlY7) | 2:20 | 2022-11-17 | 2022-12-01 |
 | [Back To Business](https://open.spotify.com/track/1ZHI7PNTFdj4eUgRBnVlKA) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Lostalgia](https://open.spotify.com/album/2mDw4o6f2TRjQQhxSVkeHY) | 2:03 | 2023-10-12 | 2023-11-11 |
 | [BACKSTAGE](https://open.spotify.com/track/7LxAWxcWEwiH9yOMX2d67v) | [Zain Aslam](https://open.spotify.com/artist/3wGKMyLhmTdmDOtv1jgesF), [Ehwah](https://open.spotify.com/artist/1GjuWtr10bolcISuN1Ly2c) | [BACKSTAGE](https://open.spotify.com/album/5ki8cDBYilDlkqSgZFwdzh) | 2:21 | 2024-01-04 | 2024-04-20 |
@@ -191,6 +191,7 @@
 | [Chala Jaunga Main Door](https://open.spotify.com/track/6y7svauYUDENmbOWQ9wrC3) | [Grehan Band](https://open.spotify.com/artist/4NjwzFMg5JOIpWmlkZMSKT) | [Chala Jaunga Main Door](https://open.spotify.com/album/3ibYJD6YhVsS4TSGYc6fGk) | 2:38 | 2025-09-09 | 2025-09-25 |
 | [Challeya](https://open.spotify.com/track/4SrnLielKwQmBq6rVSfcac) | [Rizwan Anwar](https://open.spotify.com/artist/06ACrU1xT9S6tPcT2junyQ) | [Challeya](https://open.spotify.com/album/0IRTY2JShfDtlA9tHavr3s) | 2:23 | 2024-08-12 | 2024-09-06 |
 | [Chalta Rahoon](https://open.spotify.com/track/7kjituCUKh6Tnu5tYc6ElP) | [Faisal](https://open.spotify.com/artist/6K18GFQKIkigncXm2BPdgP) | [Chalta Rahoon](https://open.spotify.com/album/6OEkkrqOQku2PzYCAE0TVJ) | 2:50 | 2023-07-14 | 2023-12-09 |
+| [Chambeli](https://open.spotify.com/track/4d1GYieW0zgt7Od8XyhVKP) | [Ammar Khaled](https://open.spotify.com/artist/6gPp9r9KbEd5qZmHYPY5Et), [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2), [Hassaan Bin Shaheen](https://open.spotify.com/artist/3XpqnPbSJ2ZNYAYzEOj6R2) | [Chambeli](https://open.spotify.com/album/2szwveiOmJjydQtWJ9xoTg) | 2:19 | 2025-09-25 |  |
 | [CHAN MAHIYA](https://open.spotify.com/track/5oln63FrKz5uhd6EQt07Es) | [Abdullah Maharvi](https://open.spotify.com/artist/1gcHKvKKZtEccnyXYlSvP5) | [CHAN MAHIYA](https://open.spotify.com/album/3OqPMuRZBTqCfSGh4oUBuM) | 2:21 | 2025-06-19 |  |
 | [Chanda Ke Log](https://open.spotify.com/track/1UeLV69uIDYxhVM7wUqXps) | [Maham Waqar](https://open.spotify.com/artist/2eH0KcQ6GjxWb1eDgv8Tnk), [Ayatain](https://open.spotify.com/artist/5GNWfSSoi0a1RCYbVZKCBQ) | [Chanda Ke Log](https://open.spotify.com/album/0tcQcxT8ROeEitZBNHhjYa) | 3:22 | 2022-09-23 | 2023-01-11 |
 | [Chandniyan Raatan](https://open.spotify.com/track/4C7lNrW2LJveZKJClW0nnJ) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Chandniyan Raatan](https://open.spotify.com/album/4sUMO6bDmEx13dtR6Vvo1G) | 2:37 | 2025-05-19 | 2025-08-17 |

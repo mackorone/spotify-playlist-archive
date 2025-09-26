@@ -5996,7 +5996,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 195000,
       "name": "Le Lune Di Marte",
       "url": "https://open.spotify.com/track/3STXlDp83c3PkDtxwOWG0Q"
@@ -9010,12 +9010,12 @@
           "url": "https://open.spotify.com/artist/6uKv6Z2fiKeT5Y5t7mNyLH"
         },
         {
-          "name": "Lorenzo Pellegrini",
-          "url": "https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT"
-        },
-        {
           "name": "Federico D'Angelo",
           "url": "https://open.spotify.com/artist/6zKvi01bSjLn1CQdjdxMqN"
+        },
+        {
+          "name": "Lorenzo Pellegrini",
+          "url": "https://open.spotify.com/artist/6c3utzV4qal0l7YBAritiT"
         },
         {
           "name": "Mattia Galeotti",
@@ -10772,6 +10772,24 @@
       "duration_ms": 370080,
       "name": "Traspare",
       "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
+    },
+    {
+      "album": {
+        "name": "PRIMATE",
+        "url": "https://open.spotify.com/album/1qEO0hdcSAtKXugFFDfsnz"
+      },
+      "artists": [
+        {
+          "name": "PRIMATE",
+          "url": "https://open.spotify.com/artist/043PrzkQZOUdcg767gm06W"
+        }
+      ],
+      "date_added": "2025-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Trax",
+      "url": "https://open.spotify.com/track/04ZVDkn4dmxcLgNnoxM1xA"
     },
     {
       "album": {

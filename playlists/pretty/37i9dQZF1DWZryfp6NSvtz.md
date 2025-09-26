@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: The Paradox
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,276 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,305 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 67 | [Alastair](https://open.spotify.com/track/2UW4MKe5OQiW1wwDf4iNzq) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Alastair](https://open.spotify.com/album/2LSwqgTu1hjxrlh3dcruM9) | 3:58 |
 | 68 | [Holy Visions](https://open.spotify.com/track/06PRaBf4t5ZaYsIgHRlreZ) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Holy Visions](https://open.spotify.com/album/55f5dZmmOPVrgeGDko8hsg) | 3:30 |
 | 69 | [ORDINARY LOSS](https://open.spotify.com/track/4qUrMbUVDxaMZy2zPB6mD7) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [ORDINARY LOSS](https://open.spotify.com/album/1YFzAHHi7bCILUDIuJFpF6) | 3:53 |
-| 70 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [HIM Movie](https://open.spotify.com/artist/62bEtjQcjnCO97g6vRNTV1) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 |
+| 70 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 |
 | 71 | [SOMETIMESICAN'TFEELATHING](https://open.spotify.com/track/456mFHic8RX8MQph1JIzYK) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [SOMETIMESICAN'TFEELATHING](https://open.spotify.com/album/2Zyqat9ORGm9uZt7BLEaMB) | 3:22 |
 | 72 | [carry on for you](https://open.spotify.com/track/0nWa6iG5GO3msSXyjQImMA) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [THE WHEEL](https://open.spotify.com/album/0wk685JsrY5zGqCjXtcLBv) | 4:21 |
 | 73 | [Breathe Again](https://open.spotify.com/track/7qmlYVwA1IzTueN9sTA8Qn) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [Breathe Again](https://open.spotify.com/album/0q9DleSN6smJNun8Uc5Sh0) | 3:15 |

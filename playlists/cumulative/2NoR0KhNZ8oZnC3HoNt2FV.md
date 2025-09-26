@@ -4,7 +4,7 @@
 
 > 
 
-1,206 songs - 2 day 19 hr 1 min
+1,207 songs - 2 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -674,6 +674,7 @@
 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 | 2024-01-25 |  |
 | [Many Men \(Wish Death\)](https://open.spotify.com/track/1m14pmtptcjM7mdWyJyAoc) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/0OfzVAXf5aVP4W4NIOLTKj) | 4:16 | 2023-11-30 | 2024-08-08 |
 | [MARGARET](https://open.spotify.com/track/7sWSRFfdQMzr7WaHRRhvPq) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [MARGARET](https://open.spotify.com/album/34SJjUxoYDkorOGKasgOuz) | 2:39 | 2025-04-24 | 2025-06-04 |
+| [Margiela Pink](https://open.spotify.com/track/26MBnyzi8Ufg9OJvdD1Qln) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Margiela Pink](https://open.spotify.com/album/7t0mA5dtjInFeV3G7uNvxR) | 1:32 | 2025-09-25 |  |
 | [Mark Of The Beast](https://open.spotify.com/track/3AaoowqKXRmPfVkRfd3dxp) | [The Boogie Monsters](https://open.spotify.com/artist/0EQwmVPWv7c1Gy07jF2D4J) | [Riders Of The Storm: The Underwater Album](https://open.spotify.com/album/73aze1Rvy8M7wdTGssL7rO) | 4:20 | 2023-11-30 | 2024-08-08 |
 | [Marmalade \(feat\. Lil Yachty\)](https://open.spotify.com/track/0RYXEibxMami3QuT8kn4Iz) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Marmalade \(feat\. Lil Yachty\)](https://open.spotify.com/album/5jt7rVzPCZjbS9odrmiqZj) | 4:21 | 2024-01-25 | 2025-03-28 |
 | [Mask Off](https://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/4YtTX4GPvBvewbJvBfXCS2) | 3:24 | 2024-01-25 | 2025-03-28 |

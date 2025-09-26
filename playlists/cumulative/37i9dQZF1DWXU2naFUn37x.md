@@ -2,9 +2,9 @@
 
 ### [Street Culto](https://open.spotify.com/playlist/37i9dQZF1DWXU2naFUn37x)
 
-> Capo Plaza in cover della playlist con il top dello street rap italiano ⛓️
+> IvanBi in cover della playlist con il top dello street rap italiano ⛓️
 
-877 songs - 1 day 16 hr 9 min
+880 songs - 1 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-11 | 2022-07-22 |
 | [Come me](https://open.spotify.com/track/4MiG1TZuUpqENK15yGk33j) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [Come me](https://open.spotify.com/album/6pz1wJ1ASwhTrT13AsxnxC) | 2:43 | 2023-10-05 | 2023-10-27 |
 | [Come Te](https://open.spotify.com/track/6GRm5bcmVArMsd0SaUSn1V) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [Come Te](https://open.spotify.com/album/0ZyYjmUSP7WTi3Qw2uBjOX) | 2:40 | 2022-09-08 | 2023-04-07 |
+| [COME?COSA?](https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [COME?COSA?](https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh) | 2:27 | 2025-09-25 |  |
 | [Comfort \(feat\. Tony Boy\)](https://open.spotify.com/track/5mtVj6o82SJuEv0CmE4eDa) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:44 | 2025-06-12 |  |
 | [Compare \(feat\. Lazza & Guè\)](https://open.spotify.com/track/6OR6CqkAWNK6rr7gmfpJNK) | [Cancun](https://open.spotify.com/artist/2CFSNUGQpQF9w7UhYIpKVY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [CANCUN](https://open.spotify.com/album/6dfFlS3ruKbUsuLVpLfzXe) | 3:33 | 2022-10-20 | 2023-03-25 |
 | [CONNESSIONI](https://open.spotify.com/track/3226Ic03UZOn0B6tpIdkHV) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [CONNESSIONI](https://open.spotify.com/album/3QkywTts6ZTydkQb0ckFnQ) | 2:16 | 2024-10-03 | 2024-11-01 |
@@ -267,6 +268,7 @@
 | [DOV'ERI? \(feat\. Baby Gang\)](https://open.spotify.com/track/1ayxvCxpk0oFaL8lbx88on) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [DOV'ERI? \(feat\. Baby Gang\)](https://open.spotify.com/album/1pITHFIU30Kt38axjWvvwY) | 3:01 | 2023-09-21 | 2024-02-16 |
 | [DRARI \(feat\. Baby Gang\)](https://open.spotify.com/track/0MiX0Ui5JQkd4nwu7D7qQb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Sensazione ultra](https://open.spotify.com/album/7x0QV22Ci2ZOm9HweqBLhn) | 2:30 | 2022-05-19 | 2022-07-01 |
 | [DREAM TEAM \(feat\. Pyrex, Capo Plaza, Tedua & Shiva\)](https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [X2](https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ) | 2:38 | 2022-05-11 | 2022-06-03 |
+| [DRILLA](https://open.spotify.com/track/02Ne0wVMQv9TWDExfkadJJ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 1:56 | 2025-09-25 |  |
 | [Drillin'](https://open.spotify.com/track/5yMYtbypj4UNornVo4zwGf) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [Drillin'](https://open.spotify.com/album/35RjfCOtW30zX04JiqxPMp) | 2:38 | 2022-05-11 | 2022-06-03 |
 | [DRIN DRIN \(feat\. Slings\)](https://open.spotify.com/track/1h5ydKuWLZXRCdM8fHw1Ys) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj) | [DON DADA](https://open.spotify.com/album/2hwelY2TJPQy1LVZn6XJdU) | 2:31 | 2023-03-09 | 2023-03-31 |
 | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs) | 2:13 | 2024-09-19 | 2025-01-10 |
@@ -863,6 +865,7 @@
 | [Welcome To Favelas](https://open.spotify.com/track/0m0usigRxg1cvBo0ezr0ts) | [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [Welcome To Favelas](https://open.spotify.com/album/1VPtdhsrRbB0hjfmU7yYHa) | 2:52 | 2023-01-19 | 2023-02-03 |
 | [WELCOME TO MYLAN](https://open.spotify.com/track/3xSGxlYreIFN5ppcQsNkGD) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [WELCOME TO MYLAN](https://open.spotify.com/album/5DgXAfHv9QyIgqDqcY4shm) | 2:59 | 2025-08-26 |  |
 | [Wet \(feat\. Glocky\)](https://open.spotify.com/track/6bzGrlf9EaFBGg9fC8Nd2H) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Wet \(feat\. Glocky\)](https://open.spotify.com/album/0Ht9x8vytfgPavdyja0HOE) | 2:18 | 2025-01-23 | 2025-04-16 |
+| [WHIGGA \(feat\. Guè\)](https://open.spotify.com/track/2eYc45COhMTgbyrLG4nHWO) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 2:42 | 2025-09-25 |  |
 | [Whip Whip](https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Whip Whip](https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ) | 1:57 | 2023-05-18 | 2023-09-29 |
 | [WHY U MAD](https://open.spotify.com/track/7dYgUWAIXFUniq5S2OkDZC) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:05 | 2025-01-01 | 2025-03-28 |
 | [WIFEY \(feat\. Guè\)](https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [WIFEY \(feat\. Guè\)](https://open.spotify.com/album/4iax1wFoOMb9vTL7lQJzv6) | 3:09 | 2024-06-13 | 2024-09-13 |

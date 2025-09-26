@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 171839,
       "name": "24h In A Disco",
       "url": "https://open.spotify.com/track/37yLdFx2EK0U6U4ChO3FKY"
@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 170000,
       "name": "All The World",
       "url": "https://open.spotify.com/track/7nrnY9EwlcFcbgPvZjYoPp"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 200625,
       "name": "ARMS",
       "url": "https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe"
@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 167500,
       "name": "Bhajare - Juicce Remix",
       "url": "https://open.spotify.com/track/69gW5UK6fhWE7j2tAkGgOz"
@@ -2432,6 +2432,32 @@
       "duration_ms": 218000,
       "name": "Cansei de Ser S\u00e9ria",
       "url": "https://open.spotify.com/track/3W5RkIc3m7rigiY2hlpE1Y"
+    },
+    {
+      "album": {
+        "name": "Capoeira",
+        "url": "https://open.spotify.com/album/4kNv050pj9uYrIF59e47RB"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        },
+        {
+          "name": "ARYM\u00c9",
+          "url": "https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6"
+        },
+        {
+          "name": "J\u00e9ssica Gaspar",
+          "url": "https://open.spotify.com/artist/6ungwDo99f5ZK7aNb2UTip"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Capoeira",
+      "url": "https://open.spotify.com/track/37XLoeG5BqkmKTF5jJiKEz"
     },
     {
       "album": {
@@ -3515,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/2zvPZB70qNaO66X0uNO3Nx"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/5MXoymEvTHMXko7E5wqYvt"
+    },
+    {
+      "album": {
         "name": "Different Way",
         "url": "https://open.spotify.com/album/3LdFfrNZnL21UJTBIacm7S"
       },
@@ -4150,6 +4194,24 @@
       "duration_ms": 384793,
       "name": "D\u00e9jeuner Sur L'Herbe - Antdot & Bakka BR Remix",
       "url": "https://open.spotify.com/track/2xKdJTVgt8WRrJwW2L5r6Q"
+    },
+    {
+      "album": {
+        "name": "N\u00edtido",
+        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
+      },
+      "artists": [
+        {
+          "name": "Soultade",
+          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165529,
+      "name": "Ecos",
+      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
     },
     {
       "album": {
@@ -9495,6 +9557,24 @@
     },
     {
       "album": {
+        "name": "More Than Music",
+        "url": "https://open.spotify.com/album/0bNqQyCnR7yTItrHklJeaC"
+      },
+      "artists": [
+        {
+          "name": "EME",
+          "url": "https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "More Than Music",
+      "url": "https://open.spotify.com/track/2sGrQULpsC3tUqSXTgqJgS"
+    },
+    {
+      "album": {
         "name": "Morena Maluca",
         "url": "https://open.spotify.com/album/5PEfRrZ9GE90E7nM30xY8U"
       },
@@ -10460,6 +10540,28 @@
       "duration_ms": 259680,
       "name": "O Superman",
       "url": "https://open.spotify.com/track/7HNSmEyUHRY5ssO5VnYQHA"
+    },
+    {
+      "album": {
+        "name": "O Xang\u00f4",
+        "url": "https://open.spotify.com/album/3vyrKjxSn9uGfre8nHxCKi"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        },
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250344,
+      "name": "O Xang\u00f4",
+      "url": "https://open.spotify.com/track/12EFnkCoWpaZc55oKImamF"
     },
     {
       "album": {
@@ -12764,7 +12866,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 218373,
       "name": "Smooth Operator",
       "url": "https://open.spotify.com/track/799wx0ioF4BzmdiV1YN49S"
@@ -13337,6 +13439,32 @@
     },
     {
       "album": {
+        "name": "Sugar (feat. Francesco Yates) [ALOK Remix]",
+        "url": "https://open.spotify.com/album/6hcAlzAQIlxm5M1U7kApO5"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Francesco Yates",
+          "url": "https://open.spotify.com/artist/5X1JzPIIonP3u9lA580pPT"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "Sugar (feat. Francesco Yates) - ALOK Remix",
+      "url": "https://open.spotify.com/track/00aGxt7uUbZVyPsUYYqqok"
+    },
+    {
+      "album": {
         "name": "Summer's Back",
         "url": "https://open.spotify.com/album/24XgXT0x8aojo4VyU4OxxO"
       },
@@ -13631,6 +13759,28 @@
     },
     {
       "album": {
+        "name": "Tell Us",
+        "url": "https://open.spotify.com/album/7vKuJf14IDiXGbTEGlZDzw"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164303,
+      "name": "Tell Us",
+      "url": "https://open.spotify.com/track/3raC4JsHNnLjIG9U65wKAI"
+    },
+    {
+      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/6gfGUXVaqfEKv8x9jaJ3LP"
       },
@@ -13824,6 +13974,10 @@
       },
       "artists": [
         {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
           "name": "Liu",
           "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         }
@@ -13852,7 +14006,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 201000,
       "name": "The Way I Love You - TS7 Remix",
       "url": "https://open.spotify.com/track/3nF3JwFwqbo0Zj1P8GPQp5"
@@ -14238,7 +14392,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 212000,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/5TlkN2CAP5PYBPHtm0nWwC"

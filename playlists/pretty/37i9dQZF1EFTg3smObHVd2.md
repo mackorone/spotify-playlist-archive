@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 63 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
 | 64 | [Brand New Day](https://open.spotify.com/track/5yHy4oEWtpuzacUY4pUcpV) | [Th3rdstream](https://open.spotify.com/artist/4NlVHWGq2M57GbUzcBqEAS), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Love & Blood](https://open.spotify.com/album/6kNlBaFUALYiVCieaO3oqp) | 2:37 |
 | 65 | [Fire](https://open.spotify.com/track/0nOqsRsL5YcbxiwbJ0gMjk) | [Alexandra Burke](https://open.spotify.com/artist/6yZoNdsPrYLviaEOOzbZt8) | [Heartbreak On Hold \(Expanded Edition\)](https://open.spotify.com/album/37Kdd5ge3YN33y0jeudNOf) | 3:28 |
-| 66 | [The Wah Wah Song](https://open.spotify.com/track/0yuoixvhaxZBwQ5ksuOOGA) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 2:39 |
-| 67 | [DO IT ALL AGAIN](https://open.spotify.com/track/4xnWNcSDeYkOeN90KDKKka) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 3:26 |
+| 66 | [DO IT ALL AGAIN](https://open.spotify.com/track/4xnWNcSDeYkOeN90KDKKka) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 3:26 |
+| 67 | [The Wah Wah Song](https://open.spotify.com/track/0yuoixvhaxZBwQ5ksuOOGA) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Night Work](https://open.spotify.com/album/1KtK7yRDwIkJBZrkeIHUdo) | 2:39 |
 | 68 | [SAVE ME](https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ) | [SAVE ME](https://open.spotify.com/album/1kPm4DbVoJcarZoWDQymUy) | 2:18 |
 | 69 | [Remedy](https://open.spotify.com/track/6jFNglCTEcr05w28KLSy9F) | [All About She](https://open.spotify.com/artist/4v31ZbEICHeUehSZdcc4ga) | [Go Slow](https://open.spotify.com/album/2eNHUSSHfqSwPNny1YFmoT) | 3:17 |
 | 70 | [Stick Shift \- Radio Edit](https://open.spotify.com/track/7tUNmJGpLbAlH3Mm6jtgp8) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF), [Soraya](https://open.spotify.com/artist/28dUwtiFMRTAVNym83n1rU) | [Stick Shift](https://open.spotify.com/album/5KhDRsp04yfZxwmXvFihG4) | 3:34 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 98 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 99 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `Ab9HSAAAAADJA3vpBIqkfVA+4gT/GTOq`
+Snapshot ID: `Ab9M6AAAAACqhd8nQI4JgoGREzvtqH/W`

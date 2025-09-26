@@ -495,22 +495,6 @@
     {
       "added_at": "2025-09-23 15:00:23",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2025-09-23 15:00:23",
-      "album": {
         "name": "\u30de\u30a4\u30fb\u30c7\u30a3\u30a2\u30fb\u30e9\u30a4\u30d5",
         "url": "https://open.spotify.com/album/7dn9EVB0Joi88kXKeFR1qD"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 426600,
       "name": "\u30b5\u30d5\u30a1\u30ea",
       "url": "https://open.spotify.com/track/4MEXW1zCYDjD3vZy8Sa9uR"
+    },
+    {
+      "added_at": "2025-09-23 15:00:23",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-09-23 15:00:23",
@@ -559,8 +559,8 @@
     {
       "added_at": "2025-09-23 15:00:23",
       "album": {
-        "name": "color & monochrome 2",
-        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 318240,
-      "name": "Golden Forest",
-      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
+      "duration_ms": 249833,
+      "name": "Sakura Flutter",
+      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
     },
     {
       "added_at": "2025-09-23 15:00:23",
@@ -639,8 +639,8 @@
     {
       "added_at": "2025-09-23 15:00:23",
       "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW"
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
         }
       ],
-      "duration_ms": 249833,
-      "name": "Sakura Flutter",
-      "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"
+      "duration_ms": 318240,
+      "name": "Golden Forest",
+      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
     },
     {
       "added_at": "2025-09-23 15:00:23",

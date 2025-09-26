@@ -7350,7 +7350,7 @@
 - [Top Christian Rock](/playlists/pretty/37i9dQZF1DX0N57moxx9BL.md)
 - [Top Christian Worship 2025](/playlists/pretty/61xuizm8At6DCwGHJZTmB7.md)
 - [Top Contemporary Christian](/playlists/pretty/37i9dQZF1DWUileP28ODwg.md)
-- [Top Country Hits \- Summer 2025](/playlists/pretty/7lgY3yZUd6GwjQJ01MFeVr.md)
+- [Top Country Hits](/playlists/pretty/7lgY3yZUd6GwjQJ01MFeVr.md)
 - [Top Dads on Spotify](/playlists/pretty/5lMXuhAFbG0xiAw0XiYKAP.md)
 - [Top Female Artists of 2016 \- USA](/playlists/pretty/37i9dQZF1DWWoCDtOBjhpE.md)
 - [Top Gaming Tracks](/playlists/pretty/37i9dQZF1DWTyiBJ6yEqeu.md)

@@ -5219,6 +5219,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos Vol. 1",
+        "url": "https://open.spotify.com/album/5XXLxPXwQYdtKX0lZwVvIS"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Kaliente de Iquitos",
+          "url": "https://open.spotify.com/artist/2jgrDwQt2J04QHpTu4uHwG"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "D\u00e9jame Contigo",
+      "url": "https://open.spotify.com/track/3IRaDz4lEWOcYGPCInEfFN"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -16962,7 +16980,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -17578,7 +17596,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 307910,
       "name": "Sola (Remix)",
       "url": "https://open.spotify.com/track/5q2JbCNi4FcnglgPfxcV65"
@@ -17666,7 +17684,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 218305,
       "name": "SOLEAO",
       "url": "https://open.spotify.com/track/4OsBqqMwFabHATATT527tH"

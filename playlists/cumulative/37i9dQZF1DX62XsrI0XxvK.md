@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Briellebeth
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Rafi Muhammad, Andien
 
-156 songs - 9 hr 24 min
+158 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [BULAN](https://open.spotify.com/track/0sbqnT2yCqhZbMcDHrZTFd) | [Raina Gumay](https://open.spotify.com/artist/1ANlamE7Sj9Kf70tVz35Ck) | [BULAN](https://open.spotify.com/album/3jIpal5Mo7hWXSypXGXJku) | 3:06 | 2025-02-21 | 2025-08-01 |
 | [Caught In Distress](https://open.spotify.com/track/1wJuaDeHSCN5fqZkBR0Qwu) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Caught In Distress](https://open.spotify.com/album/1vr2ljTHi4yTfcUHdqSsqy) | 3:36 | 2024-12-06 | 2025-05-30 |
 | [Cerita](https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF) | [Cerita](https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01) | 3:19 | 2024-10-03 | 2025-05-02 |
+| [Claw Machine](https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Claw Machine](https://open.spotify.com/album/6FpIHvOps6UZMgJudEJEtV) | 3:18 | 2025-09-25 |  |
 | [crimson lullaby](https://open.spotify.com/track/7aiB318eJa5FlvCudSNjPq) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [crimson lullaby](https://open.spotify.com/album/55fOMHbP3P9EWSoceHIkpo) | 3:25 | 2025-01-09 |  |
 | [Damn, Gurl](https://open.spotify.com/track/6g3VcGmYGlg0UzFSFknCyI) | [Budie Tanzania](https://open.spotify.com/artist/3jog7FNtrSNeZ5SEVk2Gvr) | [Damn, Gurl](https://open.spotify.com/album/2NjkcPqxOgwK7qnCKL8hnY) | 3:12 | 2025-02-06 | 2025-07-18 |
 | [Dekat](https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Dekat](https://open.spotify.com/album/15hJ6liZuJPpbWw3BrpqfC) | 4:27 | 2025-05-29 |  |
@@ -156,6 +157,7 @@
 | [Thing I Desire](https://open.spotify.com/track/0S7dD8zNVFIWOyoi06MNEQ) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Thing I Desire](https://open.spotify.com/album/5pQjlI6nRKo113Opt38Oiy) | 3:51 | 2024-10-03 | 2025-05-02 |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-20 |  |
 | [Touch \(feat\. Khole\)](https://open.spotify.com/track/73OFTJQnSeC5XjMlE3UJFc) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [Khole](https://open.spotify.com/artist/2y7W9mNUWNLFFrWPxg1l6c) | [Touch \(feat\. Khole\)](https://open.spotify.com/album/1zt6yq7LpII2AJqG6PJxEw) | 3:30 | 2025-05-01 | 2025-08-29 |
+| [Untukmu](https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH) | [Rafi Muhammad](https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Untukmu](https://open.spotify.com/album/0z7axBDnepbUZ9l6Q318mp) | 3:59 | 2025-09-25 |  |
 | [Visions \(from under the rubble\)](https://open.spotify.com/track/1VQbvX2gQXcElkgAMrIgUE) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [The Pendulum](https://open.spotify.com/album/5fwCfAtOwiSs4EOAr4mzam) | 4:11 | 2024-10-10 | 2025-05-02 |
 | [VITAMIN U](https://open.spotify.com/track/74ZYK9G0ILDEJ00LfN9rmJ) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [VITAMIN U](https://open.spotify.com/album/0pO2flwlHFvDoyP0Ty0C1F) | 3:58 | 2024-11-21 |  |
 | [w u at?](https://open.spotify.com/track/2U64m71fXocmM9sm1Z3W0o) | [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [w u at?](https://open.spotify.com/album/5wdhSxjIvmvGX7O7N23OKE) | 3:39 | 2024-10-03 | 2025-05-02 |

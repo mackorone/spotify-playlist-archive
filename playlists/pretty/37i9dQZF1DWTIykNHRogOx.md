@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Noé Preszow
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,368 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,361 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Solo dans mon lit double](https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe) | 3:39 |
 | 50 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 |
 
-Snapshot ID: `AAAAAAYC1+kdpESEt6eU/BgOc0SGNkDI`
+Snapshot ID: `AAAAALvwvjzk+iwrP8/aWwSkr5l+lrD2`

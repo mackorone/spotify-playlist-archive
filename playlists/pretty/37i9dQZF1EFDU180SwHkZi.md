@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 47 | [Feel Good](https://open.spotify.com/track/0KLQEVv44FyvoJ0ry9P02v) | [Stolar](https://open.spotify.com/artist/73PLndNan9GxNYmuCCSUT3) | [Feel Good](https://open.spotify.com/album/2KFVfaT6bP1LAWsGJg9uMQ) | 3:14 |
 | 48 | [Salvador](https://open.spotify.com/track/2dsnEM8ahQjuVmS8miG9jS) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [Salvador](https://open.spotify.com/album/4VhygJCt8Zj9h4RDL3Y47v) | 2:59 |
 | 49 | [me\-a\-holic](https://open.spotify.com/track/6IiBIiix2651uaENtpobXj) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [me\-a\-holic](https://open.spotify.com/album/6gSc7eE8OemBQLlS2vJhbB) | 2:08 |
-| 50 | [Love Her Next](https://open.spotify.com/track/548N8wTu4WmazCh1tqed4p) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part II\)](https://open.spotify.com/album/32YG49zOhGewbdspv1phvG) | 2:45 |
-| 51 | [random acts of violence](https://open.spotify.com/track/6L3Jegh2xmwXaDC8AVRrXy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:01 |
+| 50 | [random acts of violence](https://open.spotify.com/track/6L3Jegh2xmwXaDC8AVRrXy) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [shhh](https://open.spotify.com/album/3i6absni01kvSBR0Ppa9oA) | 2:01 |
+| 51 | [Love Her Next](https://open.spotify.com/track/548N8wTu4WmazCh1tqed4p) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part II\)](https://open.spotify.com/album/32YG49zOhGewbdspv1phvG) | 2:45 |
 | 52 | [Like What U See](https://open.spotify.com/track/1KILi2wUvgaHEBN935D2so) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Like What U See](https://open.spotify.com/album/6QlJOaK2GXm0yKhiWM6yxu) | 2:29 |
 | 53 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 |
 | 54 | [Sad Girl Heaven](https://open.spotify.com/track/4mddEmThV0rkrC3fZJXwf4) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Sad Girl Heaven](https://open.spotify.com/album/7iirAzgKmWYF2vVamc1DZw) | 2:47 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 130 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 131 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab9HKgAAAACCWPC2+8vnkv8xduc/jFy4`
+Snapshot ID: `Ab9M8gAAAAATYRtSZTCJbdb34otWNEP3`

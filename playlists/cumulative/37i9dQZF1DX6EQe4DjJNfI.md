@@ -2,7 +2,7 @@
 
 ### [R&B Brasil](https://open.spotify.com/playlist/37i9dQZF1DX6EQe4DjJNfI)
 
-> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
+> O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
 309 songs - 15 hr 53 min
 

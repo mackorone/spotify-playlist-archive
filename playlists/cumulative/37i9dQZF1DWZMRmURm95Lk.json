@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Beat e rime, oggi come una volta. Neffa in cover.",
+  "description": "Beat e rime, oggi come una volta. Turi in cover.",
   "name": "Radici Hip-Hop",
   "tracks": [
     {
@@ -123,6 +123,32 @@
     },
     {
       "album": {
+        "name": "24/7 (feat. Ensi & Gemitaiz)",
+        "url": "https://open.spotify.com/album/3xf6UBG5iCYpuCEm8B8qqy"
+      },
+      "artists": [
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "Ensi",
+          "url": "https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "24/7 (feat. Ensi & Gemitaiz)",
+      "url": "https://open.spotify.com/track/0az7apM48e0VbhrYbjU2BD"
+    },
+    {
+      "album": {
         "name": "The Legacy",
         "url": "https://open.spotify.com/album/1sbWaOJMlvendtlrH1UXlx"
       },
@@ -238,6 +264,28 @@
       "duration_ms": 161890,
       "name": "64 Bare",
       "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
+    },
+    {
+      "album": {
+        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214721,
+      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
     },
     {
       "album": {
@@ -752,7 +800,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 311960,
       "name": "Aspettando Il Sole - Remastered 2021",
       "url": "https://open.spotify.com/track/6NcQEAMXwg47pEOwWYmjO9"
@@ -1356,7 +1404,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 233786,
       "name": "Bolo By Night (feat. Royal Mehdi)",
       "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
@@ -1748,6 +1796,24 @@
       "duration_ms": 218406,
       "name": "Cani Sciolti - 2006",
       "url": "https://open.spotify.com/track/5g4Umkk6CRSrixdPzeqIBr"
+    },
+    {
+      "album": {
+        "name": "Lealt\u00e0 e rispetto",
+        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247506,
+      "name": "Capeesh",
+      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
     },
     {
       "album": {
@@ -2258,7 +2324,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 216086,
       "name": "Con i soldi in testa",
       "url": "https://open.spotify.com/track/0gwqVCPx5Yezme7Ny6wzMt"
@@ -2353,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "L'amico degli amici",
+        "url": "https://open.spotify.com/album/5gHM99UnHDm0Pfg7BVGBI6"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242880,
+      "name": "Cosa vuoi da me",
+      "url": "https://open.spotify.com/track/0cijQ0ARocxemXilf4vN6G"
+    },
+    {
+      "album": {
         "name": "-/-/-/-/-(L'attesa)",
         "url": "https://open.spotify.com/album/2waIIOam7135wbnonjurOS"
       },
@@ -2444,7 +2528,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 273746,
       "name": "Cronaca quotidiana",
       "url": "https://open.spotify.com/track/3Iy36LKLxcYjSxr7ZOUJ7V"
@@ -2848,6 +2932,28 @@
       "duration_ms": 102746,
       "name": "Deep Underground",
       "url": "https://open.spotify.com/track/0m8s5SJxrCPSujGlGXrclY"
+    },
+    {
+      "album": {
+        "name": "Canerandagio",
+        "url": "https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        },
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182545,
+      "name": "Deidellolimpo (feat. Kaos)",
+      "url": "https://open.spotify.com/track/0HjLL1K8o3ghlGdSOAPG0v"
     },
     {
       "album": {
@@ -4456,7 +4562,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 293160,
       "name": "Guerra E Pace",
       "url": "https://open.spotify.com/track/0IrlyrfV0N1by6AHL2bZpO"
@@ -5600,10 +5706,44 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 222186,
       "name": "L'Incognita",
       "url": "https://open.spotify.com/track/36pzqH7yKnD8re2r17CUwF"
+    },
+    {
+      "album": {
+        "name": "L'unica amica leale",
+        "url": "https://open.spotify.com/album/6PPtwMJbPw606PzQnPhQU8"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        },
+        {
+          "name": "Jack The Smoker",
+          "url": "https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        },
+        {
+          "name": "Tony lattuga",
+          "url": "https://open.spotify.com/artist/0x3chftRLurIXEH7lH4CRS"
+        },
+        {
+          "name": "SuperApe",
+          "url": "https://open.spotify.com/artist/4mVduV1qmIAKGLXHStcdPb"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207474,
+      "name": "L'unica amica leale",
+      "url": "https://open.spotify.com/track/00HXKkGmsb8wSCO7zrWnRI"
     },
     {
       "album": {
@@ -5640,7 +5780,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 320493,
       "name": "La Ballotta",
       "url": "https://open.spotify.com/track/1EcKiglX1YzYW5C8Havmmk"
@@ -5702,7 +5842,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 164783,
       "name": "La Fame",
       "url": "https://open.spotify.com/track/3kwdLQJF7xuqa6FG9Us8Om"
@@ -9633,6 +9773,32 @@
     },
     {
       "album": {
+        "name": "Aspromonte a Roma",
+        "url": "https://open.spotify.com/album/1xcJ0lk89vxauxOI8kpgpc"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        },
+        {
+          "name": "Giga Scasi",
+          "url": "https://open.spotify.com/artist/41V75q1DXokcnqyRGlHccn"
+        },
+        {
+          "name": "Devon",
+          "url": "https://open.spotify.com/artist/1y8iIph5ZmuuZ9wqwxmCih"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205958,
+      "name": "Putiferio",
+      "url": "https://open.spotify.com/track/00WXXmVD40vXn9gS3CxNuG"
+    },
+    {
+      "album": {
         "name": "PALIFORNIA",
         "url": "https://open.spotify.com/album/4mEKiX9VzmZJGpicUczrSA"
       },
@@ -10626,6 +10792,28 @@
       "duration_ms": 118320,
       "name": "SCATTO RUBATO",
       "url": "https://open.spotify.com/track/0pQ1Kd5yu4sjSNQQ3oVHQZ"
+    },
+    {
+      "album": {
+        "name": "Fritz",
+        "url": "https://open.spotify.com/album/71OwUP6CTR5Kzsv6T9jcl0"
+      },
+      "artists": [
+        {
+          "name": "Fritz Da Cat",
+          "url": "https://open.spotify.com/artist/0LhpncWOh05kPQvBxScHLI"
+        },
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204512,
+      "name": "Schiaffetto Correttivo - P.te 2",
+      "url": "https://open.spotify.com/track/2YaIP3cwj5xYzzt53qzrRh"
     },
     {
       "album": {

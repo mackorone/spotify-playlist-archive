@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Matheus Vargas
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,400 likes - 69 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,416 likes - 69 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 18 | [Roupa de Frio \- Ao Vivo em São Paulo](https://open.spotify.com/track/2Y6qEeWMbchwA2S3O5rOr3) | [Maycon e Vinicius](https://open.spotify.com/artist/74VKtdiqmUGvy1MXU8cHBX) | [Ao Vivo em São Paulo](https://open.spotify.com/album/4XPrgbfG9rIwGiVqIFtv9q) | 3:03 |
 | 19 | [Saudade Daquele Cantinho \- Ao Vivo](https://open.spotify.com/track/5IHFMtyeaEkP6AVY76dpKW) | [Melissa e Milena](https://open.spotify.com/artist/6uUfwRchop6ciRB2HxXDKw), [Loubet](https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI) | [Saudade Daquele Cantinho \(Ao Vivo\)](https://open.spotify.com/album/5KDci4D8bRigGyQUCa75OO) | 3:34 |
 | 20 | [Telefone Mudo](https://open.spotify.com/track/0aTr7XyusniiT9XnHPrh4p) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Telefone Mudo](https://open.spotify.com/album/34rO65UAJshV92udKc3cxs) | 2:32 |
-| 21 | [Pernoite](https://open.spotify.com/track/7aLbcAZmHuAts06Kvuh86J) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Pernoite](https://open.spotify.com/album/23Y3OOrhanr45POrAGCSAy) | 3:09 |
+| 21 | [Pernoite \- Ao Vivo](https://open.spotify.com/track/7aLbcAZmHuAts06Kvuh86J) | [Bruna Lipiani](https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Pernoite \(Ao Vivo\)](https://open.spotify.com/album/23Y3OOrhanr45POrAGCSAy) | 3:09 |
 | 22 | [Eu Posso Ser \- Ao Vivo](https://open.spotify.com/track/0cT5esb6ng9FcBcFb0jBN8) | [Zé Luccas](https://open.spotify.com/artist/3xJU4ACS8oS5o8nbTMeiWo) | [Meus Versos \(Ao Vivo\)](https://open.spotify.com/album/3ifVaO01lv5UdptFfSSOmZ) | 3:19 |
 | 23 | [Vai Devagar \- Vê Se Pod, Ao Vivo](https://open.spotify.com/track/142G3bhmGuJCrbfHvf4X5w) | [Tales e Conrado](https://open.spotify.com/artist/7fcLHcV1WevmunmSl3NkoN), [Pedro Sanchez e Thiago](https://open.spotify.com/artist/6VBTBqiHqTgZuWflGadSW5), [New Music Play](https://open.spotify.com/artist/3k7MPOrJwbfxQS4ArgsNEG) | [Vai Devagar \(Vê Se Pod\)](https://open.spotify.com/album/3cWh38xxXDECHFHT7BbjKq) | 3:03 |
 | 24 | [Copo Vai, Copo Vem \- Ao Vivo](https://open.spotify.com/track/4iLwQDlACVZZ9gojRyXUty) | [Vini & Lucas](https://open.spotify.com/artist/0oV3e0s6fk8CsTP1txxPMs) | [Copo Vai, Copo Vem \(Ao Vivo\)](https://open.spotify.com/album/4kumpr45zUkTrGlHb34OUx) | 2:10 |

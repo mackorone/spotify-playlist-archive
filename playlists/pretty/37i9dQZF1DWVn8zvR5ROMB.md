@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Dasha, Josh Ross, HARDY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,249 likes - 74 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,335 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 70 | [Coastin'](https://open.spotify.com/track/58TB4FzRGy33PcZCNHEkDK) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Coastin'](https://open.spotify.com/album/3W5lKbb0nFsZNW4vc3IRvQ) | 3:13 |
 | 71 | [Outlaw Song](https://open.spotify.com/track/4kGSLMBYLWkLA14VugUwjl) | [Pitch Please](https://open.spotify.com/artist/5xUo04MJ37kNpAkyIbCjcF) | [Outlaw Song](https://open.spotify.com/album/77so5MJodjWKvf16Yf5Gbw) | 3:07 |
 | 72 | [Mama’s Prayer](https://open.spotify.com/track/5mdGuHw7ZqYm0wtXFckVFL) | [Becca Bowen](https://open.spotify.com/artist/24PQgrKuGcVnXlJ23WA0Hb) | [Mama’s Prayer](https://open.spotify.com/album/4nxkObXflls5egyLY8OUm2) | 3:30 |
-| 73 | [Mistakes That I've Made](https://open.spotify.com/track/46yrYx00PGyRicWCdUzvP1) | [Sophia Zamani](https://open.spotify.com/artist/49z973wIznANzIfgGwKpJF) | [Mistakes That I've Made](https://open.spotify.com/album/5Noro6UaUCeQT4Ex4qL3Nl) | 2:49 |
-| 74 | [Fight Fire With A Flame](https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB) | [Christian John](https://open.spotify.com/artist/5n3HIoI0nArjxKAhQcrSNY) | [Fight Fire With A Flame](https://open.spotify.com/album/0e6roXxtOt0WL0s1pVQJd4) | 4:23 |
+| 73 | [Life Ain't Always Beautiful](https://open.spotify.com/track/4Xq9j2SAGCkyxYpvFFIqr6) | [Cyndi Thomson](https://open.spotify.com/artist/1SlB319k1toEaGunEFn6yq) | [Life Ain't Always Beautiful](https://open.spotify.com/album/7iRRo3ZDfXfVC85uPPRL34) | 3:57 |
+| 74 | [Mistakes That I've Made](https://open.spotify.com/track/46yrYx00PGyRicWCdUzvP1) | [Sophia Zamani](https://open.spotify.com/artist/49z973wIznANzIfgGwKpJF) | [Mistakes That I've Made](https://open.spotify.com/album/5Noro6UaUCeQT4Ex4qL3Nl) | 2:49 |
+| 75 | [Fight Fire With A Flame](https://open.spotify.com/track/4DAEkAd5rTMruWqKFW8oxB) | [Christian John](https://open.spotify.com/artist/5n3HIoI0nArjxKAhQcrSNY) | [Fight Fire With A Flame](https://open.spotify.com/album/0e6roXxtOt0WL0s1pVQJd4) | 4:23 |
 
 Snapshot ID: `AAAAAENc8DUkSONi6fNh71ZNvf84QpI3`

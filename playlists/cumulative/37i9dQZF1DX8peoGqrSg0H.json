@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Phuwin",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FOURTH",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 228923,
       "name": "Breaking Heart Station (\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e2d\u0e01\u0e2b\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/4L0gbJHkKpGOlHousUBEDo"
@@ -3205,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "SIDE TO SIDE (feat. MABELZ PiXXiE)",
+        "url": "https://open.spotify.com/album/4YK7VA6Lbq6WSuokSxKNWc"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        },
+        {
+          "name": "MABELZ PiXXiE",
+          "url": "https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181562,
+      "name": "SIDE TO SIDE (feat. MABELZ PiXXiE)",
+      "url": "https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB"
+    },
+    {
+      "album": {
         "name": "sit down (please)",
         "url": "https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP"
       },
@@ -3578,7 +3600,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 193636,
       "name": "SWEET LIES",
       "url": "https://open.spotify.com/track/7CP4aJWUEgzMzkFlul94OE"
@@ -3856,6 +3878,24 @@
       "duration_ms": 187346,
       "name": "UMM UMM",
       "url": "https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2"
+    },
+    {
+      "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/1NlznwuXXCJqTBsF4d0WZp"
+      },
+      "artists": [
+        {
+          "name": "MXFRUIT",
+          "url": "https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255652,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/4EDV6Z87agVcJFvLBtPekZ"
     },
     {
       "album": {

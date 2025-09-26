@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : LÉA CHURROS
+> Les hits zouk du moment\. Photo : Kalipsxau
 
 307 songs - 16 hr 20 min
 

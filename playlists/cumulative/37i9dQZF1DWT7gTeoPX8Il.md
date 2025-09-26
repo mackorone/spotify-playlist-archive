@@ -4,7 +4,7 @@
 
 > layan je
 
-332 songs - 21 hr 54 min
+333 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,13 +135,14 @@
 | [isi kepalaku](https://open.spotify.com/track/373ei1mlMWzYgS5QS6oXoZ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [isi kepalaku](https://open.spotify.com/album/6IdxpEQODEmSVuzJo1CsA8) | 3:35 | 2024-06-07 | 2024-06-21 |
 | [IZIN](https://open.spotify.com/track/3pG7xwdLfLDdiv5Qesk9zu) | [Adam Lee](https://open.spotify.com/artist/18jxRall36B7ZemvyxwVXe) | [IZIN](https://open.spotify.com/album/2PheDpf5nA2O5oxUrIPNYC) | 3:25 | 2024-01-18 | 2024-01-26 |
 | [Jahat \- From "Pabila Dia Tersenyum"](https://open.spotify.com/track/1i4u2g3SXpWB3uEfs6Nlvx) | [Wany Hasrita](https://open.spotify.com/artist/0PBXOGA0xgHq709dXGvbP1) | [Jahat \(From "Pabila Dia Tersenyum"\)](https://open.spotify.com/album/4BXb8lrnsrouxgTVOc2qLX) | 3:17 | 2025-04-18 | 2025-05-16 |
+| [Jalan Terbaik](https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [Jalan Terbaik](https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et) | 4:50 | 2025-07-28 |  |
 | [Jangan](https://open.spotify.com/track/237DyZuDz6R4oKVddI51XR) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Nada\-Nada Cinta](https://open.spotify.com/album/10J2dxMOfYI0oua3HyLE9y) | 4:43 | 2024-02-15 | 2024-02-23 |
 | [Jangan Mati Rasa Itu](https://open.spotify.com/track/2Gylos7ElhD3bFsw7vt6gt) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Jangan Mati Rasa Itu](https://open.spotify.com/album/4IjHQwUjvEYogpdBSmPdVq) | 5:05 | 2024-01-18 | 2024-01-26 |
 | [Jangan Pergi](https://open.spotify.com/track/2faSHQDkP2AMv637Khx29U) | [One Avenue Band](https://open.spotify.com/artist/01YmHxZRGiIYkpie1oyB5b) | [Jangan Pergi](https://open.spotify.com/album/6tmZE1EJbITNUaTMns4eak) | 5:43 | 2024-06-20 | 2024-06-28 |
 | [Jangan Pernah Berubah](https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Jangan Pernah Berubah](https://open.spotify.com/album/5cKCBveEH9NA3svYUb7h0Y) | 3:58 | 2024-06-27 | 2024-07-27 |
 | [Jangan Pernah Berubah](https://open.spotify.com/track/1oVEttWIOMh2bHHbmzLL4O) | [ST12](https://open.spotify.com/artist/09toGEEhpusLyZ6Nk9AmRf) | [P.U.S.P.A.](https://open.spotify.com/album/2uy4WkOAatMqKXI3dtusiE) | 4:03 | 2025-03-06 | 2025-05-16 |
 | [Janji](https://open.spotify.com/track/3hOpwGiUyGB4sWvXLX5yGU) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Janji](https://open.spotify.com/album/7f87l3L1BTflTiVzOJW2tT) | 3:21 | 2024-06-07 | 2024-06-21 |
-| [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 | 2024-06-20 |  |
+| [jatuh cinta lagi](https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif](https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k) | 4:08 | 2024-06-20 | 2025-09-26 |
 | [Jatuh Rapuh](https://open.spotify.com/track/5NmL2p9TXa9H17LoCyCKJS) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Jatuh Rapuh](https://open.spotify.com/album/3uX5S5Lrm7mHT22OFt3q00) | 4:30 | 2024-06-27 | 2024-07-27 |
 | [Jauh \- From "Malang Si Puteri"](https://open.spotify.com/track/0bmR1XPsuMXJ1snTrVjx7B) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Jauh \(From "Malang Si Puteri"\)](https://open.spotify.com/album/1FbTgkQm4mJQ0xPw9p9mfM) | 3:40 | 2024-02-22 | 2024-03-01 |
 | [Jelas](https://open.spotify.com/track/67jf0sqsosER9iHvvZdK32) | [Nolee](https://open.spotify.com/artist/085QAqnrhps5Zhh05Cnxj0) | [Jelas](https://open.spotify.com/album/3trgnW2mswUz79EOMgerec) | 3:14 | 2025-04-18 | 2025-04-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Payton Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,324 likes - 199 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,344 likes - 199 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 99 | [Friend Of Mine](https://open.spotify.com/track/3zCDsRF3PLJ0lMxZo3zsY0) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Friend Of Mine](https://open.spotify.com/album/2TuEk4nFPSNxcH8ReFTXoY) | 3:10 |
 | 100 | [Find Myself](https://open.spotify.com/track/4vhcw0MOqt1y8v3R6SMAIw) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [FIND MYSELF](https://open.spotify.com/album/2dOL6QQBiS2R5D7jvdHgSK) | 3:14 |
 | 101 | [We Should Get Out Of Here](https://open.spotify.com/track/1hCRVJvQVd0oCelmpxqMCw) | [Emmy Russell](https://open.spotify.com/artist/49oaDWZhpPIv5EWR2RHLbf), [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf) | [We Should Get Out Of Here](https://open.spotify.com/album/2VF2wSPyp9ivGviAO8JXxi) | 2:53 |
-| 102 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 |
+| 102 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick Original](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 |
 | 103 | [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 |
 | 104 | [Tower Road](https://open.spotify.com/track/1m8IoMhSmVFCk8jnrIqlFP) | [Scoot Teasley](https://open.spotify.com/artist/0E9OojU6St18Zi8hPGD2kJ) | [Tower Road](https://open.spotify.com/album/4fH7Vec8Wx3YyqZbrKFhZi) | 3:13 |
 | 105 | [Way Of The World \(feat\. Ella Langley\)](https://open.spotify.com/track/60I5P0izzrBCzXb0K6etVy) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [I WANT MY LOVED ONES TO GO WITH ME](https://open.spotify.com/album/26gGJnMKjkq2WeF8MH3alW) | 2:49 |

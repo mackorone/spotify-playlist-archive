@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,656 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,657 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 133 | [I Bleed](https://open.spotify.com/track/4azCKNOIuNsCB98BSRBR2B) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle](https://open.spotify.com/album/6ymZBbRSmzAvoSGmwAFoxm) | 2:34 |
 | 134 | [Bull Black Nova](https://open.spotify.com/track/4c33I7s8VE6FBFvcC3tGsh) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE) | 5:39 |
 | 135 | [Drawing Flies \- Remastered 2016](https://open.spotify.com/track/1pA091twFIvSWTIWvviSkz) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(Super Deluxe Edition\)](https://open.spotify.com/album/5o2p8FZAyEOSH7arjJLCJp) | 2:26 |
-| 136 | [Fixing A Hole \- Remastered 2017](https://open.spotify.com/track/6a98mDyXTsYugJhUs1tZr4) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 2:37 |
+| 136 | [Fixing A Hole \- 2017 Mix](https://open.spotify.com/track/6a98mDyXTsYugJhUs1tZr4) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Sgt\. Pepper's Lonely Hearts Club Band \(Super Deluxe Edition\)](https://open.spotify.com/album/1ntNLgaYCFCkeW4flGYlY2) | 2:37 |
 | 137 | [Fortress Around Your Heart](https://open.spotify.com/track/06IsyJksK6vgJX66rU77Ij) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Dream Of The Blue Turtles](https://open.spotify.com/album/17mrdCgqrWfqpJlaCNGCdF) | 4:39 |
 | 138 | [Reverberatin' Love](https://open.spotify.com/track/6iDTILSe7ydcqUVsIQHMpr) | [The Strange Blue Dreams](https://open.spotify.com/artist/4s5jH9rjlYKDmhkx8husMw) | [The Strange Blue Dreams](https://open.spotify.com/album/7I0Ld69POVMFJHwgpr7NtL) | 2:53 |
 | 139 | [Grace](https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:22 |

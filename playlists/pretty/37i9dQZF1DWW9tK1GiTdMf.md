@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 ### [sanguegiovane 🩸](https://open.spotify.com/playlist/37i9dQZF1DWW9tK1GiTdMf)
 
-> musica per un autunno non proprio felice \(centomila in cover\)
+> musica per un autunno non proprio felice \(sally cruz in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,645 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,638 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [LA GENTE CHE SALTA](https://open.spotify.com/track/65tvtGoZ9gdIWUmcuZ6ceS) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [LA GENTE CHE SALTA](https://open.spotify.com/album/2HTSTsqf31yYxtbJQmjJzU) | 2:36 |
 | 100 | [UN SORSO DI BUIO](https://open.spotify.com/track/0kWWNomMXADFW9GEyXW2HS) | [Wenzo](https://open.spotify.com/artist/3nZjHRpNZSd3UoqJ7ELysU) | [UN SORSO DI BUIO](https://open.spotify.com/album/0sQOLyYwRqMgIcr8YhrlfU) | 2:54 |
 
-Snapshot ID: `AAAAABQdA7UUuJW8LPk9rSKePCkMyVK5`
+Snapshot ID: `AAAAAHg+JCX+EMrUuss0bcpPoH36Yxpt`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: RAYE
+> All the new music you need to hear right now\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,467 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,472 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [3AM IN SOUTH](https://open.spotify.com/track/4BSuRFnxC537ZEQICGhewt) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [NEW JAZZ](https://open.spotify.com/album/4UMKEelam5Aya2uDs6CmAo) | 1:54 |
 | 80 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
 
-Snapshot ID: `AAAAAJT3Uj50dsXXmZ4zMRIc2XNA9ZsV`
+Snapshot ID: `AAAAAPji1e89rsIKQk/KFoLOKEwKBVld`

@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "Don't Leave Me Now",
+        "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
+      },
+      "artists": [
+        {
+          "name": "Lucas Hamming",
+          "url": "https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232082,
+      "name": "Don't Leave Me Now",
+      "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
+    },
+    {
+      "album": {
         "name": "Duly Love",
         "url": "https://open.spotify.com/album/7CenE3Z51PKnvEkEMDbbg5"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 216832,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0V9YrzbwrwU56cJEzo8l5q"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 235159,
       "name": "It's The First Time 2021",
       "url": "https://open.spotify.com/track/6Daq4m0QeSWUPBIsI0jNCM"
@@ -944,7 +962,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 234183,
       "name": "Kind Of Love",
       "url": "https://open.spotify.com/track/6IBkD70W6Lx4w13dzyYNEn"
@@ -1589,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Sit Back Baby",
+        "url": "https://open.spotify.com/album/049xHwMikU5vc99m0Xo5Z1"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234723,
+      "name": "Sit Back Baby",
+      "url": "https://open.spotify.com/track/3uJHRqJcli8SMnZx1M2KXD"
+    },
+    {
+      "album": {
         "name": "skipping stone",
         "url": "https://open.spotify.com/album/6iEIEFKB1OShW5ImoSZEFs"
       },
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 189711,
       "name": "skipping stone",
       "url": "https://open.spotify.com/track/6gD86nnXjZPG6bMoJdPEu8"

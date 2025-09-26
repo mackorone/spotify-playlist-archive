@@ -198,7 +198,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 180584,
       "name": "Amdallah",
       "url": "https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE"
@@ -1052,7 +1052,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 196048,
       "name": "IQ",
       "url": "https://open.spotify.com/track/1rWP1UqheRM5iBaCZfqCGz"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 221864,
       "name": "Vision 2020",
       "url": "https://open.spotify.com/track/19qcOFIW6mYHwKYSfY2HWo"
@@ -1952,6 +1952,28 @@
       "duration_ms": 159945,
       "name": "who does that? (feat. Bella Shmurda)",
       "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
+    },
+    {
+      "album": {
+        "name": "Peace by Piece",
+        "url": "https://open.spotify.com/album/06dCmbV7kTlPBXLhGEEgqQ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161746,
+      "name": "Young Again",
+      "url": "https://open.spotify.com/track/19H1JRTGuLrogqrhhbyF3Q"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0kPgPjaCH1l"

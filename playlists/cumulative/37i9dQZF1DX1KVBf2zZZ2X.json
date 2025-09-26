@@ -4523,6 +4523,24 @@
     },
     {
       "album": {
+        "name": "Wellspring",
+        "url": "https://open.spotify.com/album/4tXFqj1nH4TSK9DKOKHdrt"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Wellspring",
+      "url": "https://open.spotify.com/track/2wDMe17O4nDaJE4x9PtQbz"
+    },
+    {
+      "album": {
         "name": "Where We Started",
         "url": "https://open.spotify.com/album/4rqV31pFcmu1kaOUJBVi0b"
       },
@@ -4624,7 +4642,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 160000,
       "name": "Wisdom in Waves",
       "url": "https://open.spotify.com/track/3aF0SU1fNaUvAlOPf74CFE"

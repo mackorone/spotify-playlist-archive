@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:4AICNSyoGIBBcRhuZsPX5L">Draft Day</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,711 likes - 101 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,735 likes - 101 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

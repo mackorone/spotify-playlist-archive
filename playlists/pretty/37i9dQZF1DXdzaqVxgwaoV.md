@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > \*desempolvan las luces y el arbolito con Natalia Giraldo y Samir Pepito\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,519 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,510 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 49 | [La Zenaida](https://open.spotify.com/track/35qh3wezE1lfdObTQpJV7C) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 4:28 |
 | 50 | [Amaneciendo](https://open.spotify.com/track/6Zxog7v7iLtLGPO0p5LLst) | [Adolfo Echeverria](https://open.spotify.com/artist/3msRUQeJsvGGEmaZOfrtFh) | [Música Tropical de Colombia: 16 Grandes Éxitos \(Vol\. 1\)](https://open.spotify.com/album/0lWMkUyk1Wyz530J96NTF4) | 3:50 |
 
-Snapshot ID: `AAAAAGWDZY+xCo7j2K8+sEkCDj43M91h`
+Snapshot ID: `AAAAAJU6R6q0367TTmaosWufwmRXJ/ws`

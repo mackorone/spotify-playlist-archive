@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,358 likes - 31 songs - 1 hr 41 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,362 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 29 | [Slow Rock](https://open.spotify.com/track/12NaMBVRkY4MZ1RRSEAkC8) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Slow Rock](https://open.spotify.com/album/7bkieWj5UfV98siUCcHHsz) | 2:54 |
 | 30 | [Gel Lab](https://open.spotify.com/track/1S3ztdKDdpO3zOLbOPCqS7) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Rest Proof Clockwork](https://open.spotify.com/album/7hNRZdGoYVlncy3qXImdR7) | 4:14 |
 | 31 | [Petals](https://open.spotify.com/track/03wsGqokGoNDJNEkkwoaQ3) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:53 |
+| 32 | [Herold](https://open.spotify.com/track/0Cvqj8rNzCgB711Bu7N77Z) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Selbstportrait I](https://open.spotify.com/album/5eKLLEROcuW2Ho3a1pgTxE) | 4:02 |
+| 33 | [Beautiful Land](https://open.spotify.com/track/7EXFPwtpIvAYNEDqjhjAzY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 1:54 |
+| 34 | [Life We Rent but Love Is Rent Free](https://open.spotify.com/track/4ng68R9MLaZc5xHsfAswY0) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(God\)](https://open.spotify.com/album/106QT3POAohZwyjbesTK5L) | 5:07 |
+| 35 | [Lucky Stars](https://open.spotify.com/track/7cJdD6acIkIxAMCEGimoO6) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [The Music Industry Is Poisonous](https://open.spotify.com/album/1Ramc5P9LF57iC0hIFU8Fm) | 2:07 |
+| 36 | [Get A Little](https://open.spotify.com/track/0iYhuqssVOv8NDfphMEv0E) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL) | [Weasels Ripped My Flesh](https://open.spotify.com/album/7zINPoNwb8ArQgUbq0wlUw) | 2:33 |
+| 37 | [I Saw the Light in Your Eyes](https://open.spotify.com/track/4LFiuN0XUpFRl238WIMpBS) | [Stan Barber](https://open.spotify.com/artist/54ov3BfcQksEDXcICQE37R) | [America Dream Reserve \(Compiled by Charles Bals and Smiling C\)](https://open.spotify.com/album/0O3ySLr2QSsMKuFujlPsCg) | 2:25 |
+| 38 | [Run...run / Mama your son done gone](https://open.spotify.com/track/3NdsxlnJJGD87KGNs9LysS) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:19 |
+| 39 | [Hello Stranger](https://open.spotify.com/track/7dBGHDBPg1sBSWXkPrU1sa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Hazel & Alice](https://open.spotify.com/album/4nbDlug3zC6jKR3QnkPjfY) | 3:12 |
+| 40 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
 
-Snapshot ID: `AAANJuMnQubhWrH0jJ6GXkEtzdPZFzkl`
+Snapshot ID: `AAANL7C0NPhWLjMjlw1MIDYBOmw4fPqT`

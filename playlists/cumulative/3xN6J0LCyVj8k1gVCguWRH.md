@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,316 songs - 12 day 9 hr 9 min
+5,317 songs - 12 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2368,6 +2368,7 @@
 | [It Was Just Yesterday](https://open.spotify.com/track/0d4Ga6qsgjMfHci85gMmxm) | [Devin](https://open.spotify.com/artist/0StCsQty5jZMXTjlFhbZHs), [Reina](https://open.spotify.com/artist/32WnZSMvkEHtJhXn3tWU6J) | [It Was Just Yesterday](https://open.spotify.com/album/0BoNiuy9LdJAFuBiLY6eE0) | 3:03 | 2024-09-05 | 2024-09-17 |
 | [It Wasn't You](https://open.spotify.com/track/1sUzQQG7L2Lgp4YDXb91MK) | [Mike Di Lorenzo](https://open.spotify.com/artist/5yI5FrcC61I4GkbUGN0JZp), [Anna Moore](https://open.spotify.com/artist/0FGmhVNvlP4AVgIk6gqwtg) | [It Wasn't You](https://open.spotify.com/album/6TRasoi1Esp4Xqbf42Mm6G) | 4:15 | 2024-07-05 | 2024-07-17 |
 | [It Will Happen](https://open.spotify.com/track/0OdlsZXPhjqCRuOugNczAV) | [Jacob manuel](https://open.spotify.com/artist/1z1oTg1m6mIcznwTJAa5RW) | [It Will Happen](https://open.spotify.com/album/5FSp3K0TiZ1baqEdAFr24x) | 2:31 | 2022-03-25 | 2022-04-10 |
+| [It'll Be](https://open.spotify.com/track/3dr3debzlY9kzVQMWeJZTq) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [It'll Be](https://open.spotify.com/album/1SSy1YKi3S9NDK8t3OpV18) | 3:57 | 2025-09-25 |  |
 | [It'll Be](https://open.spotify.com/track/41fLR0yl9She9Ji99WwhPD) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [It'll Be](https://open.spotify.com/album/6jOxERYVB1tLnkJLlOLvBK) | 4:06 | 2020-11-21 | 2020-12-20 |
 | [It's a Dream!](https://open.spotify.com/track/5A0NFSzCHzsVBisMzgAB7c) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [It's a Dream!](https://open.spotify.com/album/2T565vrx61D9qlU8wZFTSc) | 2:57 | 2022-02-11 | 2022-02-27 |
 | [It's a Fine Line](https://open.spotify.com/track/4aFcO9xRuRNgLLHtuQEm33) | [Nathan Whitt Band](https://open.spotify.com/artist/5HHeAApLXAImgmWHa0BSrI) | [Combustible](https://open.spotify.com/album/4PZO8JJaYT9pkG02MCVvS0) | 4:05 | 2022-08-05 | 2022-08-22 |

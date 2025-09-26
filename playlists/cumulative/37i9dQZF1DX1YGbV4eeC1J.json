@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Zuchu & Diamond Platnumz",
+  "description": "What is your love language? Say it in Swahili.  Cover: Kusah",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1302,6 +1302,28 @@
       "duration_ms": 167461,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/4TxqEHX4IPL7bQR8ZWrmyr"
+    },
+    {
+      "album": {
+        "name": "Bumbuli Boy",
+        "url": "https://open.spotify.com/album/7LyCaevKDsXhUhW0dFi7W9"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        },
+        {
+          "name": "Khaligraph Jones",
+          "url": "https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Feelings (feat. Khaligraph Jones)",
+      "url": "https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy"
     },
     {
       "album": {
@@ -5798,7 +5820,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 216666,
       "name": "Utaniua",
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"

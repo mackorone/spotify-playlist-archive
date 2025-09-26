@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: Langa Mavuso",
+  "description": "The best in South African and international R&B. Cover: Lusanda",
   "name": "R&Beats",
   "tracks": [
     {
@@ -3606,6 +3606,24 @@
     {
       "album": {
         "name": "For Real",
+        "url": "https://open.spotify.com/album/7e95k2JhdtHTswmDKKqfok"
+      },
+      "artists": [
+        {
+          "name": "Jemapelle James",
+          "url": "https://open.spotify.com/artist/3j7tJ1MrdVZR6gLm0Xg0Zj"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/3mSuIt3oLeHuXvT0j43rDW"
+    },
+    {
+      "album": {
+        "name": "For Real",
         "url": "https://open.spotify.com/album/3awCUglJKVQnxG3QltEfnx"
       },
       "artists": [
@@ -5810,7 +5828,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 217636,
       "name": "London Summers",
       "url": "https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn"
@@ -8077,6 +8095,24 @@
     },
     {
       "album": {
+        "name": "Progress",
+        "url": "https://open.spotify.com/album/5K46ePr8ayHr31jLCCwxRQ"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170997,
+      "name": "Progress",
+      "url": "https://open.spotify.com/track/78MTRcH2sFDEeX6oNOMR7P"
+    },
+    {
+      "album": {
         "name": "project - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC"
       },
@@ -10114,7 +10150,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 212716,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto"

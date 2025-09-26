@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: pszona
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,828 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,844 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Na Spokojnie](https://open.spotify.com/track/2UGaY7tgXk5gPJXOk0G8zT) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Na Spokojnie](https://open.spotify.com/album/2wqAUxb2My9ohUxUC4LCb0) | 2:58 |
 | 60 | [MOTYL](https://open.spotify.com/track/0DY1fqFPySq43OdTBwgrYb) | [Olinda](https://open.spotify.com/artist/2euulReYuHuStwIAbMXGta), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq), [Michał Stach](https://open.spotify.com/artist/1UQjDe2CJYSDYrIWIeCRp5) | [MOTYL](https://open.spotify.com/album/4S78lxIofp06Pq8u9tzoAS) | 2:57 |
 
-Snapshot ID: `AAAAAAGdhCZE1oN57+BsHkc/IoMfPxba`
+Snapshot ID: `AAAAADwSt0v5oMvFoaZzL3bhgXn8dx4A`

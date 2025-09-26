@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Dijon
 
-521 songs - 1 day 2 hr 51 min
+522 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Date Nite](https://open.spotify.com/track/7rv8TxQS3ZqhL6XCsMhfYH) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Date Nite](https://open.spotify.com/album/1y7CvquIxMcbOoJAwl8ZJP) | 2:31 | 2025-03-07 |  |
 | [Debonair](https://open.spotify.com/track/0nBczYadwDVgmHsLDn3p4o) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 4:20 | 2022-06-24 | 2022-07-29 |
 | [Desert Belly](https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Desert Belly](https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug) | 3:02 | 2024-12-13 | 2025-03-16 |
-| [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 | 2025-09-02 |  |
+| [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 | 2025-09-02 | 2025-09-26 |
 | [Different](https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60) | [JayG](https://open.spotify.com/artist/2ZfE7xelFGQyzQupgFGK5a) | [Different](https://open.spotify.com/album/4IpQl9BPbSECXL0Rj62gL2) | 2:33 | 2023-05-15 | 2024-05-03 |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-17 | 2024-09-07 |
 | [Dim My Light \(feat\. 6LACK\)](https://open.spotify.com/track/129mBjUSbfKo0BdK13aJjY) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:39 | 2022-06-24 | 2022-07-19 |
@@ -177,6 +177,7 @@
 | [Five Fruit](https://open.spotify.com/track/2R8H75qUKm5nCIJHXHFSr3) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO) | [Five Fruit](https://open.spotify.com/album/7iR8sBbkaBUDM1PQyh3aDU) | 6:36 | 2022-06-24 | 2022-07-29 |
 | [Fix It](https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Goya Gumbani](https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx) | [Fix It](https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL) | 3:53 | 2022-06-24 | 2022-07-28 |
 | [Flight to Brazil](https://open.spotify.com/track/2nQhrGASooch4Uhzch6qZa) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt) | [PEACE 2 DA WORLD](https://open.spotify.com/album/0gOTg0Yi6YMKH7o58VtW17) | 2:30 | 2024-10-25 | 2025-02-12 |
+| [Fly Away](https://open.spotify.com/track/4KhiTvDb8eWvqdtccP5nXL) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Moments Before Fall](https://open.spotify.com/album/0RXmCZsJ6cOGHZT5Mi22aN) | 3:00 | 2025-09-02 |  |
 | [Fly With Me](https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Fly With Me](https://open.spotify.com/album/1kp8BBWEumGAbp4z6qJ4op) | 1:42 | 2025-07-03 | 2025-09-06 |
 | [FOCUS ON ME](https://open.spotify.com/track/1LpodNyRjXIxWKFC9GOSFF) | [ENILA](https://open.spotify.com/artist/67PhsrPljsn5Y8qffgXjml) | [FOCUS ON ME](https://open.spotify.com/album/6vybXpLwgbPxm2bzKcGyLr) | 2:58 | 2025-01-17 | 2025-03-07 |
 | [For Real](https://open.spotify.com/track/0B8o06qQQn02XvBYdhA2TY) | [Tenner](https://open.spotify.com/artist/19MGGHQ0gD7UgBVH1YMCR4) | [For Real](https://open.spotify.com/album/1bjruar59aZpTGGuba0Qbl) | 2:37 | 2024-10-10 | 2024-10-26 |
@@ -515,7 +516,7 @@
 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 | 2023-05-15 | 2024-10-04 |
 | [Whatcha Mean](https://open.spotify.com/track/4PMUCNKZptDE7RwuQazgAT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [TELL DEM IT'S SUNNY](https://open.spotify.com/album/4XnYQphM4RxxVAFlzKjvAQ) | 2:38 | 2025-03-21 | 2025-09-11 |
 | [White Ash](https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 3:45 | 2023-05-15 | 2024-04-26 |
-| [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 | 2025-05-01 |  |
+| [WHITE NOISE](https://open.spotify.com/track/5HT8TOYAhw3sfvqZowrVMH) | [Monster Florence](https://open.spotify.com/artist/2HSKYZUpx7rynGKcOI46e9) | [WHITE NOISE](https://open.spotify.com/album/1Ed7eYD0Z6o1BZU5p5mjtd) | 3:12 | 2025-05-01 | 2025-09-26 |
 | [White Peach Sangria](https://open.spotify.com/track/12UqNOESUMgvJu7Radn2xl) | [re'mi](https://open.spotify.com/artist/3b9VVrJfw8sLw7Qok1Ja5Y) | [White Peach Sangria](https://open.spotify.com/album/4y80BlorpM3fplK7C8G8Ip) | 1:56 | 2023-05-19 | 2023-06-17 |
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-03-07 |  |
 | [Woman](https://open.spotify.com/track/2ruY7BpsZRwr6UUzLeDSk1) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:29 | 2022-06-24 | 2022-11-02 |
@@ -527,7 +528,7 @@
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2022-08-22 | 2023-04-14 |
 | [You Know](https://open.spotify.com/track/2juQKYR7TFwBbRlFbEke7z) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [You Know](https://open.spotify.com/album/5Ojgg4O0Hdley9R3Pvr12P) | 2:22 | 2022-07-17 | 2022-07-22 |
 | [Young, Wild & Ruthless](https://open.spotify.com/track/5tJFoFr4dRLubMg4BMXxwO) | [Nino SLG](https://open.spotify.com/artist/6OwZwBy6DBYq9vVINyAhGe) | [Young, Wild & Ruthless](https://open.spotify.com/album/726BErmbrgUxxJ7nguLWpm) | 4:45 | 2022-07-17 | 2022-07-20 |
-| [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 | 2025-03-14 | 2025-06-20 |
+| [Younger](https://open.spotify.com/track/4xCH7kDMDhYSgLiyMdYTj4) | [Olympia Vitalis](https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt) | [Younger](https://open.spotify.com/album/3HNaAy3sM6qTb8ox0WKeid) | 3:00 | 2025-03-14 |  |
 | [Zipcodes](https://open.spotify.com/track/7klycPYjcy8FSQcIZTAVNy) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Zipcodes](https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S) | 4:27 | 2022-07-17 | 2023-01-29 |
 
 \*This playlist was first scraped on 2022-07-10. Prior content cannot be recovered.

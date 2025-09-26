@@ -6,8 +6,96 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJVWY67Kj9SmpYN8Sd8oinzCajVW",
+  "snapshot_id": "AAAAANfSKNy4CyMyzT2r0gGcVIA2XH3c",
   "tracks": [
+    {
+      "added_at": "2025-09-26 00:01:28",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Sea Oleena",
+          "url": "https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Uh Oh",
+      "url": "https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK"
+    },
+    {
+      "added_at": "2025-09-26 00:01:28",
+      "album": {
+        "name": "GODDAMN!",
+        "url": "https://open.spotify.com/album/49saxIwgOAHKizgWK5E8TD"
+      },
+      "artists": [
+        {
+          "name": "Les Louanges",
+          "url": "https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l"
+        }
+      ],
+      "duration_ms": 247468,
+      "name": "GODDAMN!",
+      "url": "https://open.spotify.com/track/4LlIM1MXl0o0waT1ky2c11"
+    },
+    {
+      "added_at": "2025-09-26 00:01:28",
+      "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/3rMwZ588kYdYTmVvu35act"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 250489,
+      "name": "Otherworld",
+      "url": "https://open.spotify.com/track/1PB3Lp4dueOkWEud6wzyd5"
+    },
+    {
+      "added_at": "2025-09-26 00:01:28",
+      "album": {
+        "name": "Seul au cin\u00e9ma",
+        "url": "https://open.spotify.com/album/4dzhB8gNl7a3fM1zk9t496"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "F\u00e9vrier et le mauve",
+      "url": "https://open.spotify.com/track/1TVVBch4JforWHFUTYmX6N"
+    },
+    {
+      "added_at": "2025-09-26 00:01:28",
+      "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/3jaHMm1GZfioDWWZCKK46f"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/6O066SuknbFTwYD3F6bpiD"
+    },
     {
       "added_at": "2025-08-28 21:41:33",
       "album": {
@@ -41,6 +129,22 @@
       "url": "https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z"
     },
     {
+      "added_at": "2025-09-26 00:01:28",
+      "album": {
+        "name": "Nothing Dazzled",
+        "url": "https://open.spotify.com/album/5rbG3p6o0CIG6u7djP25vp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Clara",
+          "url": "https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe"
+        }
+      ],
+      "duration_ms": 286534,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/0H65qDMAsmWWYn7NfMX1Y9"
+    },
+    {
       "added_at": "2025-08-01 04:00:29",
       "album": {
         "name": "L\u00e9o (rentre \u00e0 la maison)",
@@ -57,20 +161,20 @@
       "url": "https://open.spotify.com/track/3CUfyFs6PpLeeKz76wvGEo"
     },
     {
-      "added_at": "2025-08-01 04:00:29",
+      "added_at": "2025-09-26 00:01:28",
       "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape"
+        "name": "Mountain Song",
+        "url": "https://open.spotify.com/album/4gLuhvTqLSy9jzTzyVn077"
       },
       "artists": [
         {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
         }
       ],
-      "duration_ms": 160643,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/46ub00quUTby9VKlkcxtro"
+      "duration_ms": 196146,
+      "name": "Mountain Song",
+      "url": "https://open.spotify.com/track/20koBnPzYKk1yMb6GPBU2W"
     },
     {
       "added_at": "2025-08-01 04:00:29",
@@ -219,6 +323,22 @@
       "duration_ms": 201474,
       "name": "Dire je t'aime au t\u00e9l\u00e9phone",
       "url": "https://open.spotify.com/track/5FDXAxzvWOAUwzy1f1Yk78"
+    },
+    {
+      "added_at": "2025-08-01 04:00:29",
+      "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/69GPPU341cZ0ZzOI6R1ape"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "duration_ms": 160643,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/46ub00quUTby9VKlkcxtro"
     },
     {
       "added_at": "2025-08-01 04:00:29",
@@ -1567,222 +1687,6 @@
       "duration_ms": 334333,
       "name": "Overwhelmed and Unprepared",
       "url": "https://open.spotify.com/track/606sltm751n1JmCxI0UN9s"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Mile End",
-        "url": "https://open.spotify.com/album/1n01MB9o6KL92Qvk3m3HFS"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 193939,
-      "name": "Mile End",
-      "url": "https://open.spotify.com/track/7mg1XnDX6ymHC8RDa87sBi"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Darkroom",
-        "url": "https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME"
-      },
-      "artists": [
-        {
-          "name": "Ghostly Kisses",
-          "url": "https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Nausia",
-        "url": "https://open.spotify.com/album/7H1NAUGAZQxEjWfIvgfXAB"
-      },
-      "artists": [
-        {
-          "name": "Delachute",
-          "url": "https://open.spotify.com/artist/63xoDp7jjgyzogVPxmVgjX"
-        }
-      ],
-      "duration_ms": 112094,
-      "name": "Nausia",
-      "url": "https://open.spotify.com/track/7i1YeplaiVwQ5YNgB2wCp0"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Diamond Shovel",
-        "url": "https://open.spotify.com/album/0XduNeJLqZr4ql3WTd94vS"
-      },
-      "artists": [
-        {
-          "name": "Blue Hawaii",
-          "url": "https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ"
-        }
-      ],
-      "duration_ms": 185611,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/268NeJoV7OsLvYY8v09WZs"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Testify",
-        "url": "https://open.spotify.com/album/7ItYQn2qm80WSH0eFJyxf5"
-      },
-      "artists": [
-        {
-          "name": "Marilyne L\u00e9onard",
-          "url": "https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p"
-        },
-        {
-          "name": "Mike Clay",
-          "url": "https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8"
-        }
-      ],
-      "duration_ms": 135757,
-      "name": "Testify",
-      "url": "https://open.spotify.com/track/4WQUkqnQr0UAqY6izXUEi5"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "\u00c9ther",
-        "url": "https://open.spotify.com/album/1n2uhtZob0c4Zq6Xvixb5A"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Ciel",
-      "url": "https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "SABOTAGE",
-        "url": "https://open.spotify.com/album/4NrrsDtH1VJSeoQsakvKkQ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Forest",
-          "url": "https://open.spotify.com/artist/0suucqqvdSvSNRyfvzEBe7"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "SABOTAGE",
-      "url": "https://open.spotify.com/track/0EhNBdXyImhnYWKpgXvIVc"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Trompe-l'oeil",
-        "url": "https://open.spotify.com/album/6cuvswbgSkYojNo21x3Sjy"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Trompe-l'oeil",
-      "url": "https://open.spotify.com/track/1dYcCuAw9dBtc2eGZ490hc"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Bedroom Sessions",
-        "url": "https://open.spotify.com/album/54O8mypbYqoPUCPg5FVvAx"
-      },
-      "artists": [
-        {
-          "name": "Valse Fr\u00e9quence",
-          "url": "https://open.spotify.com/artist/2Pnfk9ns1EzESXQoP8hcSC"
-        }
-      ],
-      "duration_ms": 193090,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Jump Cut",
-        "url": "https://open.spotify.com/album/5T25MocYOo34A7pzzduOLS"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 233497,
-      "name": "Jump Cut",
-      "url": "https://open.spotify.com/track/0jRBEROpKjbjhqqLol11NF"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Une nuit \u00e0 Paris",
-        "url": "https://open.spotify.com/album/7DCWNYVc3UlDYRQf9PJoym"
-      },
-      "artists": [
-        {
-          "name": "pataugeoire",
-          "url": "https://open.spotify.com/artist/2Y5bshWQcWGxvTQPQ0qcrA"
-        },
-        {
-          "name": "Claire Morrison",
-          "url": "https://open.spotify.com/artist/5gEPev2nkwI0VZMMQ5i7fg"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Une nuit \u00e0 Paris",
-      "url": "https://open.spotify.com/track/5g5Teg7FeCD0coLI9hHDow"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Eastend Confessions",
-        "url": "https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ"
-      },
-      "artists": [
-        {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
-        }
-      ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/1yr0y9if1dqK9MHHNrRTBi"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Plateau Botticelli",
-        "url": "https://open.spotify.com/album/68op5OjftkJxIYNcscWEbK"
-      },
-      "artists": [
-        {
-          "name": "Aistis",
-          "url": "https://open.spotify.com/artist/1NIVmyi3ACEHxwmBRAlipR"
-        }
-      ],
-      "duration_ms": 226071,
-      "name": "Plateau Botticelli",
-      "url": "https://open.spotify.com/track/6eyc6Gz5rZBOL7n2UoKD9m"
     }
   ],
   "unique_name": "Montr\u00e9al Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: 허각\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,993 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,997 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 10 | [All Our Days](https://open.spotify.com/track/7MAgjlXruiJwnGsLkNFBj8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [All Our Days](https://open.spotify.com/album/0htNEU3a2oonec5ocAc4PZ) | 3:36 |
 | 11 | [That Spring, That Memory](https://open.spotify.com/track/2oy47CsiZtWwSg2Ah3lO8V) | [KEN](https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6) | [That Spring, That Memory \(KEN X Lulu\-lala Friends\)](https://open.spotify.com/album/32fdBcdF76ObR6fmlWOvBs) | 4:56 |
 | 12 | [Even if you can′t love you can miss](https://open.spotify.com/track/4072LvIDKA8B3Kmhrk9aQc) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Even if you can't love you can miss \(Lee A Young X Desperate Ballad Project\)](https://open.spotify.com/album/75fqDN1Dn74x40CDlNGpWm) | 4:04 |
-| 13 | [To a Lady](https://open.spotify.com/track/797bO4AkZBQpjg1Tqm07EJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [‘80s MBC Seoul GAYOJE Preliminary Round](https://open.spotify.com/album/6vL2bB2GvbhnzWEszgyi6r) | 3:48 |
+| 13 | [숙녀에게](https://open.spotify.com/track/797bO4AkZBQpjg1Tqm07EJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [‘80s MBC Seoul GAYOJE Preliminary Round](https://open.spotify.com/album/6vL2bB2GvbhnzWEszgyi6r) | 3:48 |
 | 14 | [If I Love Again](https://open.spotify.com/track/1BvBbq3KAD41EeubqOfXrE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [If I Love Again \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/5Ku0p8oWpRrZ5S51ym8Uxl) | 4:05 |
 | 15 | [Close your eyes](https://open.spotify.com/track/61SL7nU5uvGgm9fdfM48mY) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Close your eyes](https://open.spotify.com/album/12FsexEoPEO3u7tlxkGOpr) | 5:38 |
 | 16 | [AFTER GROWING UP](https://open.spotify.com/track/7s6FOADTsp4wGwACGrCgXc) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 5th EP Album 'Renewed Purpose'](https://open.spotify.com/album/7eBHjT8ryuqMRELgv3mpWS) | 3:48 |

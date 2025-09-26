@@ -710,7 +710,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 122400,
       "name": "Effervescence",
       "url": "https://open.spotify.com/track/2JCDGlSg42vh0I246sX0Vu"
@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 110866,
       "name": "Plodding Power",
       "url": "https://open.spotify.com/track/5ameYEi5L28ecrqiu2necP"
@@ -1788,6 +1788,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/1WMP6CdxtyXxsx0raIefTH"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
@@ -1798,7 +1816,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 57253,
       "name": "Science and Health",
       "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv"
@@ -2038,7 +2056,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 73293,
       "name": "Time on Our Hands",
       "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
@@ -2060,6 +2078,24 @@
       "duration_ms": 73293,
       "name": "Time on Our Hands",
       "url": "https://open.spotify.com/track/2oeQFA1RwZbR9E5Pf50XRQ"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/4AIh8DCn0GFgEchVNBTO72"
     },
     {
       "album": {

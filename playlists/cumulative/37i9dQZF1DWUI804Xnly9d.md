@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-592 songs - 1 day 9 hr 5 min
+593 songs - 1 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Keh Na Paya](https://open.spotify.com/track/2fvForfpyakKCKCqTpJQeS) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Neehar Pandit](https://open.spotify.com/artist/1FCBqwvbf9Apdkul2z6Z67) | [Keh Na Paya](https://open.spotify.com/album/6HVCgT6H6Rry3D5ksUANVx) | 3:28 | 2024-04-26 | 2024-10-09 |
 | [Kehedo Sanam](https://open.spotify.com/track/5oJgaEPgb8n6oG6E7rlL5T) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Kehedo Sanam](https://open.spotify.com/album/36vvhudUd2zaFouRIIaltH) | 4:49 | 2023-07-24 | 2023-08-31 |
 | [Kehna Hai](https://open.spotify.com/track/4TJyhWQVAMIgFc7nVwQ9sa) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Kehna Hai](https://open.spotify.com/album/1NgK5XjpuciKO1OPh0BTwM) | 2:31 | 2024-02-09 | 2024-08-17 |
+| [Kehna Hai Kya?](https://open.spotify.com/track/4rhzHRWaDzu6HxyW8hN1T9) | [Shikhar](https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM) | [Kehna Hai Kya?](https://open.spotify.com/album/32haHQ4WhbP8R2pvEVtsKf) | 3:04 | 2025-09-25 |  |
 | [Kehne Lagaa \(Acoustic Version\)](https://open.spotify.com/track/5mhM5OKK4MBpQOHxBiNheY) | [Rushil Aswal](https://open.spotify.com/artist/0rqe1wzJ7s8JGTOaWWBUol) | [Kehne Lagaa \(Acoustic Version\)](https://open.spotify.com/album/0g4VuZEzAYerI6Cqdrk8kR) | 3:14 | 2025-09-12 |  |
 | [Khaali Panne](https://open.spotify.com/track/5JlDiKV0LaWXl82lKji0oq) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Khaali Panne](https://open.spotify.com/album/3W61toZhkU8TffnOtZlmBa) | 3:46 | 2023-06-06 | 2023-07-15 |
 | [Khaali Panne](https://open.spotify.com/track/0uylAfhVFCGKdq6HkZimDX) | [Meghna Mishra](https://open.spotify.com/artist/3vJxJcGRIPwNnWnZwO4vmq), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Milaap](https://open.spotify.com/album/4jDgpwtnRuQ0JEj4pPG5of) | 3:46 | 2023-07-17 | 2024-04-19 |
@@ -316,7 +317,7 @@
 | [Lamha Ye](https://open.spotify.com/track/6DXeCwgEuE5rf5cgbU0mQ1) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Lamha Ye](https://open.spotify.com/album/4taFbFCbTnAlujGwi92UVN) | 3:46 | 2024-01-09 | 2025-04-15 |
 | [Lamhon/ Sadiyon](https://open.spotify.com/track/4jmLlG2c1rvAmKmuMKvwO9) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Lamhon/ Sadiyon](https://open.spotify.com/album/5XyWfUVBUQIhFDD31UdvJJ) | 3:23 | 2023-05-17 | 2023-06-03 |
 | [LAPATA](https://open.spotify.com/track/6e6wQ0vfFLqyMKs9GAdEfX) | [Shaktay](https://open.spotify.com/artist/4RdvM1ZV9Qpkf9Og8jqu6N) | [LAPATA](https://open.spotify.com/album/3P6JsgJlXQ3yZDVo8OtXVr) | 2:46 | 2024-08-01 | 2024-10-10 |
-| [Last Love \(Acoustic Version\)](https://open.spotify.com/track/0RswAiyXdur2BSGSGxrUMv) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Last Love \(Acoustic Version\)](https://open.spotify.com/album/1UfbRnr4c8iMzCGwaYSIP3) | 2:02 | 2025-09-02 |  |
+| [Last Love \(Acoustic Version\)](https://open.spotify.com/track/0RswAiyXdur2BSGSGxrUMv) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Last Love \(Acoustic Version\)](https://open.spotify.com/album/1UfbRnr4c8iMzCGwaYSIP3) | 2:02 | 2025-09-02 | 2025-09-26 |
 | [Laut Aa Na Yaar](https://open.spotify.com/track/6k8e52Z0tZulQRDi6koqNj) | [OMVEE](https://open.spotify.com/artist/1RiPd3VdkxY8ypQ8QcJUTe) | [Laut Aa Na Yaar](https://open.spotify.com/album/7laVy6jsedBGBRHYEcpr9o) | 3:15 | 2023-10-17 | 2023-11-30 |
 | [Laykin](https://open.spotify.com/track/7ACdEdtwLSywi1nkN5Xlsk) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Laykin](https://open.spotify.com/album/2a70nhNX5YCkX7qjnOn2fJ) | 2:51 | 2024-11-20 | 2024-11-28 |
 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 | 2023-07-01 |  |

@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:5qK8WYVzvkaBcoe4CDfuyY">KUNTARI</a> on cover\. Artwork by Thami Nabil
 
-2,097 songs - 6 day 19 hr 1 min
+2,098 songs - 6 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,8 @@
 | [Aural Drift \- T.Raumschmiere Remix](https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu) | [Martin Merz](https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb), [T.Raumschmiere](https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA) | [Aural Drift \(T.Raumschmiere Remix\)](https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7) | 5:47 | 2022-02-16 | 2023-01-12 |
 | [aurora](https://open.spotify.com/track/1JB63hFHq0Xz3buBY2x7vj) | [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Near the Lake We Forget to Count the Days](https://open.spotify.com/album/000w07NjXTXbvy7AMaaawi) | 2:53 | 2024-08-21 | 2024-10-03 |
 | [AUTOMATA](https://open.spotify.com/track/3bTUfgHEEHzSowlHyfxc6n) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I), [WOZNIAK](https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj) | [AUTOMATA](https://open.spotify.com/album/611Ky02Hs2IIhRZfUossfE) | 5:15 | 2022-08-10 | 2022-09-02 |
-| [Automatic](https://open.spotify.com/track/3tbmLPdCNICzKpjBL1rbXj) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Automatic](https://open.spotify.com/album/3eWsdAMtE9W8CqyKItiFqm) | 1:22 | 2025-09-03 |  |
+| [Automatic](https://open.spotify.com/track/3B8ozK6655EMpVkiHtGMns) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Purity](https://open.spotify.com/album/0yD5XUsXIt11XZhTJH8xgG) | 1:22 | 2025-09-24 |  |
+| [Automatic](https://open.spotify.com/track/3tbmLPdCNICzKpjBL1rbXj) | [Anysia Kym](https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Automatic](https://open.spotify.com/album/3eWsdAMtE9W8CqyKItiFqm) | 1:22 | 2025-09-03 | 2025-09-26 |
 | [Avaz\-e\-Del](https://open.spotify.com/track/1aungVYjP15s0WNgRha9Rf) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Ground Groove](https://open.spotify.com/album/3pZfevjbuheybZyPZ7HKsC) | 2:10 | 2023-03-15 | 2023-05-11 |
 | [AWA](https://open.spotify.com/track/7J7wCNvDVQJn8jYyU5tPOY) | [FUJI\|\|\|\|\|\|\|\|\|\|TA](https://open.spotify.com/artist/4qM4BdTOGQcKYLUi8nrhhU) | [NOISEEM](https://open.spotify.com/album/6mYvo9iMRcunyNFiYtaFt1) | 22:32 | 2021-11-25 | 2021-12-02 |
 | [Awhile](https://open.spotify.com/track/6gfuq5As90qxKATdrCeC8J) | [oso leone](https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi) | [Awhile](https://open.spotify.com/album/5pHsEtZB1XNvHf4bq6Sd1a) | 2:57 | 2024-01-10 | 2025-07-31 |

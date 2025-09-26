@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym! Featuring Dom Dolla, Calvin Harris, Tate McRae, The Kid LAROI &amp; more to get summer bod ready!
 
-1,048 songs - 2 day 7 hr 3 min
+1,050 songs - 2 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Close To You](https://open.spotify.com/track/2Y6n0NmvsedUoYGa4TdKTz) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Close To You](https://open.spotify.com/album/38ifpEH64U70ODE0OYTiF4) | 2:46 | 2021-01-29 | 2022-07-09 |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-04-06 | 2024-05-17 |
 | [Clouds Above](https://open.spotify.com/track/70eWC0tNtGzby6mOco7WYZ) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB) | [Clouds Above](https://open.spotify.com/album/5I1Gtz3F2qCRKphyt45Qpw) | 3:11 | 2020-11-03\* | 2020-11-13 |
+| [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/track/03AhbPoniP5uqqJKYGWgZE) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Come Find Me \(with Clementine Douglas\)](https://open.spotify.com/album/2D48QGD5lU5kErH6PxLjTs) | 3:27 | 2025-09-25 |  |
 | [Come With Me \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/track/2Iz6IShd0yHxPMkWXjLntB) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV) | [Come With Me \(feat\. Bad Boy Chiller Crew\)](https://open.spotify.com/album/3k0qGUCZz7ZLTN9v5ninSt) | 2:59 | 2021-06-26 | 2021-10-08 |
 | [Confetti \(feat\. Saweetie\) \- Billen Ted Remix](https://open.spotify.com/track/35nPmgVHQJ6umD3BkDnf4O) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Confetti \(feat\. Saweetie\) \[Billen Ted Remix\]](https://open.spotify.com/album/7fxTomvwrFqXKeaArhDkLA) | 3:01 | 2021-05-15 | 2021-07-17 |
 | [Contact](https://open.spotify.com/track/3bRw4PNSq0kwDryyE9ON3d) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6mNXEOrhljPdrtS4aINMqH) | 4:00 | 2023-01-20 | 2023-03-18 |
@@ -378,6 +379,7 @@
 | [groove1](https://open.spotify.com/track/0FDjodDxf6qlzSDVKs8f3l) | [BeepBeepChild](https://open.spotify.com/artist/0cAcRTWMSeuezcHpxInChD), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [groove1](https://open.spotify.com/album/5CBneVRx0DZ2Obfxb6FSdY) | 3:07 | 2022-11-18 | 2022-12-02 |
 | [Guarantees](https://open.spotify.com/track/1HGjOjUOPntNujrvpD0D1k) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Guarantees](https://open.spotify.com/album/0o3iQuYunyNhzwrFUSWjrC) | 3:22 | 2022-12-09 | 2022-12-16 |
 | [Gucci](https://open.spotify.com/track/4UQuyiposzTgE7uOQM2DBB) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2) | [Gucci](https://open.spotify.com/album/1E1Nsxo1DndfMRIsmhtVm7) | 3:02 | 2023-02-03 | 2023-05-09 |
+| [Guestlist \(feat\. SACHA\)](https://open.spotify.com/track/0MS7sUW9VxvXjuDg9VZZIS) | [cassö](https://open.spotify.com/artist/5wCmhq5J2hPwL2r0eKurxn), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Guestlist \(feat\. SACHA\)](https://open.spotify.com/album/1gqpG7x5cMQuVCCo7iy7yL) | 2:12 | 2025-09-25 |  |
 | [GUMMI](https://open.spotify.com/track/4CE1DeTAXDCdbUBhlPtt03) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [GUMMI](https://open.spotify.com/album/7o1afJdvf4oDB98Pkw7JrF) | 3:29 | 2025-03-07 | 2025-05-27 |
 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 | 2025-06-30 | 2025-07-02 |
 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 | 2023-03-16 | 2023-07-29 |

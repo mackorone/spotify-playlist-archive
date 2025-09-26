@@ -2,7 +2,7 @@
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Zimmer90, Nina Chuba, Lewis Capaldi, RAYE und mehr!
+> Neue Musik von 01099, Tate McRae, Kraftklub, Doja Cat und mehr!
 
 6,321 songs - 12 day 21 hr 51 min
 

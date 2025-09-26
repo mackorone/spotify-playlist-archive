@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Alpha
+> The best tracks from the world of music\. Cover: ALYPH
 
 411 songs - 23 hr 20 min
 

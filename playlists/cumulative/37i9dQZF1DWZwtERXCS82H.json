@@ -977,6 +977,24 @@
     },
     {
       "album": {
+        "name": "Autumn",
+        "url": "https://open.spotify.com/album/6uRpVcUuIyLvp4ajEkrySG"
+      },
+      "artists": [
+        {
+          "name": "Sean Oban",
+          "url": "https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146924,
+      "name": "Autumn",
+      "url": "https://open.spotify.com/track/1xe1wWVugI7TiMcWJ9UZGX"
+    },
+    {
+      "album": {
         "name": "Autumn Leaf",
         "url": "https://open.spotify.com/album/7bvRmwCxFVH5AntdH5j6H7"
       },
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 163487,
       "name": "Avignon",
       "url": "https://open.spotify.com/track/5TAVI2qJFJMSsfR3qB5Bub"
@@ -9422,7 +9440,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 140535,
       "name": "Promesse D'\u00e9ternit\u00e9",
       "url": "https://open.spotify.com/track/0Yu9HsjpJCiLYg2nUOBfy1"
@@ -10146,6 +10164,24 @@
       "duration_ms": 150500,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/3vM5WFlaaxJjCMWsQYLwZI"
+    },
+    {
+      "album": {
+        "name": "Rhodonite",
+        "url": "https://open.spotify.com/album/0Uz6QiIIOBBmLuo5UQil8j"
+      },
+      "artists": [
+        {
+          "name": "alsterdalen",
+          "url": "https://open.spotify.com/artist/685rsCKdiUjx2eOyLlHd06"
+        }
+      ],
+      "date_added": "2025-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129491,
+      "name": "Rhodonite",
+      "url": "https://open.spotify.com/track/1d12NcFHsjUTkdms3r3xxq"
     },
     {
       "album": {

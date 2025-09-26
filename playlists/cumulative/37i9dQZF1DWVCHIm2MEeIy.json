@@ -442,7 +442,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 305806,
       "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
       "url": "https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7"
@@ -3906,7 +3906,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 196850,
       "name": "Go",
       "url": "https://open.spotify.com/track/1EFyjeVs4hetSVMc28Y9r6"
@@ -6315,6 +6315,24 @@
     },
     {
       "album": {
+        "name": "Makeda",
+        "url": "https://open.spotify.com/album/3i6x0URMw44T3RDMp2l7HV"
+      },
+      "artists": [
+        {
+          "name": "Alice DiMar",
+          "url": "https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239878,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/4kar5EtR271EvY3FIFsnJP"
+    },
+    {
+      "album": {
         "name": "Mars Attack",
         "url": "https://open.spotify.com/album/6o78ryiLx3GlHaFNLF85O3"
       },
@@ -8076,6 +8094,28 @@
       "duration_ms": 300967,
       "name": "Raaaw",
       "url": "https://open.spotify.com/track/3rURdGhiVS3rcRQM4NPoz4"
+    },
+    {
+      "album": {
+        "name": "RACER",
+        "url": "https://open.spotify.com/album/6geBfBpOE48ZMYCMs8FD3b"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ"
     },
     {
       "album": {

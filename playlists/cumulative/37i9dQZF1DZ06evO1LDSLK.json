@@ -407,6 +407,24 @@
     },
     {
       "album": {
+        "name": "Blah-Blah-Blah",
+        "url": "https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Fire Girl",
+      "url": "https://open.spotify.com/track/5j0r6b2Bjgg4rYk4OYhOKv"
+    },
+    {
+      "album": {
         "name": "Five Foot One (Live at Montreux Jazz Festival 2023)",
         "url": "https://open.spotify.com/album/71J50KWWqTCJlgpn9u3Cnb"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 357706,
       "name": "Shades",
       "url": "https://open.spotify.com/track/7FhazKWdLIXBTHOxl6tpjK"

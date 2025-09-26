@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,377 songs - 9 day 18 hr 41 min
+4,378 songs - 9 day 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1884,6 +1884,7 @@
 | [Im So ATL](https://open.spotify.com/track/3kRX4GbhjK2lrgRE6G2Fjh) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL \(Regular + Sped Up\)](https://open.spotify.com/album/22aJ7R9eHs7KdVr98wqgRf) | 2:04 | 2025-06-05 | 2025-06-09 |
 | [Im So ATL](https://open.spotify.com/track/6B3evHyQCMysT7Qa2gEu3A) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD) | [Im So ATL](https://open.spotify.com/album/4bcvWXBjMb02i99YXUJR4z) | 2:04 | 2025-05-14 | 2025-06-06 |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-08-30 | 2024-10-05 |
+| [Imaginary Playerz](https://open.spotify.com/track/37tH9V9YK8P9Q2oGfZjJXy) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 3:27 | 2025-09-25 |  |
 | [Impacto](https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR), [Lo Blondo](https://open.spotify.com/artist/7L05sfIkvxhvoCxALFHGwt) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 3:56 | 2025-01-23 | 2025-02-24 |
 | [Impurities](https://open.spotify.com/track/7F0MuIk5glqtowCUjbn9es) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:16 | 2022-11-20 | 2022-11-30 |
 | [In and Out](https://open.spotify.com/track/2oWaHVTGvuFk38iBRVRAaO) | [Lud Foe](https://open.spotify.com/artist/0Cu32uCaqDJYQADOev92Et) | [No Hooks](https://open.spotify.com/album/6cbmULrZWVHJ0G0P4DDWLb) | 3:59 | 2025-03-01 | 2025-04-02 |
@@ -4020,7 +4021,7 @@
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-10 | 2023-09-20 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-25 | 2023-08-16 |
 | [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-08-15 | 2024-01-26 |
-| [Vampire Love](https://open.spotify.com/track/3uWbzP08SfgSHMv1mtiD4K) | [Yung Bruh](https://open.spotify.com/artist/5bYCql4qqxtd9S8ZxoLjm5) | [Vampire Love](https://open.spotify.com/album/3x9rhOog2y3RPR2yoJuvI5) | 1:42 | 2025-09-20 |  |
+| [Vampire Love](https://open.spotify.com/track/3uWbzP08SfgSHMv1mtiD4K) | [Yung Bruh](https://open.spotify.com/artist/5bYCql4qqxtd9S8ZxoLjm5) | [Vampire Love](https://open.spotify.com/album/3x9rhOog2y3RPR2yoJuvI5) | 1:42 | 2025-09-20 | 2025-09-26 |
 | [VCR Kid](https://open.spotify.com/track/2loB2luVtvPmExCpFwFijs) | [Oliver Anthony Music](https://open.spotify.com/artist/6IkfE2JyVoKwBZXvuytKX3) | [VCR Kid](https://open.spotify.com/album/54yAB3Pag08hDa5o2aO2s7) | 3:18 | 2023-08-17 | 2023-09-05 |
 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 | 2022-05-31 | 2022-07-20 |
 | [Vegas \(I Wanna Ride\)](https://open.spotify.com/track/2bId06MUsxJqO7LoeLZoq5) | [Joseline Hernandez](https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn) | [Vegas \(I Wanna Ride\)](https://open.spotify.com/album/0Jjnv5tSd8p8HW7PCwSiHa) | 3:40 | 2022-05-05 | 2022-05-28 |

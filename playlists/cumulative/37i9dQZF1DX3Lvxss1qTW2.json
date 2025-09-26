@@ -290,7 +290,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 160363,
       "name": "ADA",
       "url": "https://open.spotify.com/track/2kakVmaqgHWrVs0hUxLvEH"
@@ -7938,7 +7938,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 173809,
       "name": "PON TIME AGAIN",
       "url": "https://open.spotify.com/track/36LByWQAlAYyeR2rDVCf23"
@@ -8510,7 +8510,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 157676,
       "name": "Set (Baby)",
       "url": "https://open.spotify.com/track/1gnpSyBGhjhG6Q79IicC2c"
@@ -9143,6 +9143,28 @@
     },
     {
       "album": {
+        "name": "Greatness IV",
+        "url": "https://open.spotify.com/album/2dDaYWYmRIRcSXFSRYJ2c2"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124864,
+      "name": "Taliban",
+      "url": "https://open.spotify.com/track/0tD7qefvHLOLc9Em9tcohZ"
+    },
+    {
+      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
       },
@@ -9544,6 +9566,28 @@
       "duration_ms": 175500,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133043,
+      "name": "Too Busy",
+      "url": "https://open.spotify.com/track/22l3YPQhWkphT3FWJL7heC"
     },
     {
       "album": {
@@ -10352,6 +10396,28 @@
       "duration_ms": 164081,
       "name": "Will I?",
       "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "album": {
+        "name": "Woman",
+        "url": "https://open.spotify.com/album/1i8H8EHrnDklGXLhgNpD2d"
+      },
+      "artists": [
+        {
+          "name": "Faceless",
+          "url": "https://open.spotify.com/artist/4kwkSF1jJalibmNlh4Z8Of"
+        },
+        {
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150728,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/1FvGzztW8UpY011CAtBPTZ"
     },
     {
       "album": {

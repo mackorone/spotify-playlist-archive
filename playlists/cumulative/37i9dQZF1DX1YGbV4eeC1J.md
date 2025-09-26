@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> What is your love language? Say it in Swahili\.  Cover: Zuchu & Diamond Platnumz
+> What is your love language? Say it in Swahili\.  Cover: Kusah
 
-317 songs - 17 hr 49 min
+318 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 | 2024-03-15 |
 | [Far Away](https://open.spotify.com/track/3xkPEQyclUqwYfrDCzgdUp) | [Haitham Kim](https://open.spotify.com/artist/750ujPfB38qROElCTru0vL) | [Far Away](https://open.spotify.com/album/26SiJtz00mjV9MHUL3y5zi) | 3:20 | 2024-07-04 | 2024-08-30 |
 | [Far Away](https://open.spotify.com/track/4TxqEHX4IPL7bQR8ZWrmyr) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Far Away](https://open.spotify.com/album/3hQN2SC0cgP0LPVh1GErMR) | 2:47 | 2024-05-16 | 2024-08-23 |
+| [Feelings \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bumbuli Boy](https://open.spotify.com/album/7LyCaevKDsXhUhW0dFi7W9) | 3:14 | 2025-09-25 |  |
 | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/track/5UhDCKzxdH5RLbnUL5f4ld) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Fitingi \(feat\. Marioo\)](https://open.spotify.com/album/14LrFiTCxQoYkteAQO4iJY) | 3:00 | 2025-04-04 |  |
 | [Forever](https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Therapy](https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp) | 3:37 | 2024-04-25 | 2024-07-05 |
 | [Furaha](https://open.spotify.com/track/77tlTHsLMs2ubmp8VyNqpx) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Furaha](https://open.spotify.com/album/4xsB6wIT8GFXLF1JIx2eVl) | 2:45 | 2025-02-13 |  |
@@ -299,7 +300,7 @@
 | [Usemi Sina \(feat\. Harmonize\)](https://open.spotify.com/track/62A4OmPLPI7xZQHtF4kfCQ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Usemi Sina \(feat\. Harmonize\)](https://open.spotify.com/album/5KeeqL8MAeTyiRCodK8PQV) | 2:52 | 2024-10-24 | 2025-04-12 |
 | [Usiongee \(feat\. Phina\)](https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Water & Wine](https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC) | 3:01 | 2024-06-14 | 2024-10-25 |
 | [Utaniua](https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Utaniua](https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo) | 3:34 | 2024-10-04 | 2025-02-07 |
-| [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 |  |
+| [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 | 2025-09-26 |
 | [Utaweza](https://open.spotify.com/track/3opPyNy1QuRSfvsYGR0sLp) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Utaweza](https://open.spotify.com/album/4O3VGX7GKH2urhcmGf29Gh) | 2:41 | 2025-03-21 |  |
 | [Uwii](https://open.spotify.com/track/1kW4pZ6Wo5Ez2FxAwjgofz) | [GENIUSJINI X66](https://open.spotify.com/artist/2yw2or4Ekg7zdSDHtyGXhW) | [Uwii](https://open.spotify.com/album/3EbO59N8rgoV5PUyDh6MPJ) | 3:06 | 2025-04-18 | 2025-05-23 |
 | [Vuta](https://open.spotify.com/track/1AsTe59j8x2GaExAht12Fk) | [TLVSN](https://open.spotify.com/artist/6PWktnw07ge9NXQCBYxP74) | [Vuta](https://open.spotify.com/album/4gQLnVEgg1Ki1uiK2uQbth) | 4:06 | 2023-09-21 | 2023-12-01 |

@@ -4,7 +4,7 @@
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-159 songs - 12 hr 59 min
+160 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [螢](https://open.spotify.com/track/0h0cuQyKvNmfcHm3boPEhb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 3 ～無人島に持っていき忘れた一枚～](https://open.spotify.com/album/5StzS3H3g6BwP5rpW4o49f) | 4:18 | 2023-07-03 |  |
 | [謎謎](https://open.spotify.com/track/7mJp1hOghpjUSa2kQcnH5u) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 5:45 | 2024-01-23 |  |
 | [賜物](https://open.spotify.com/track/4oYymXPo7QPsO3iZi4P0wv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物](https://open.spotify.com/album/014idPlrU5bRNXzJJTWdDF) | 4:48 | 2025-05-08 |  |
+| [賜物 \- Orchestra Version](https://open.spotify.com/track/5w5JtQFhb54fIBY2E6FHKN) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [賜物 \(Orchestra Version\)](https://open.spotify.com/album/6nwyX3CchW7gSMBkyUa8eG) | 3:56 | 2025-09-25 |  |
 | [透明人間18号](https://open.spotify.com/track/2pETp6FMCh2gEQvxGejrma) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 4:25 | 2024-01-23 |  |
 | [遠恋](https://open.spotify.com/track/1ZpdYiZlp4xv0X0CMOePzD) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [RADWIMPS 4 ～おかずのごはん～](https://open.spotify.com/album/27mMMU3UZQbsCcAURmGvPP) | 4:41 | 2023-07-03 |  |
 | [鋼の羽根](https://open.spotify.com/track/1VdrAWv1bf9mM7Px47eAa0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [FOREVER DAZE](https://open.spotify.com/album/1z0j3oxUKw4OgebZM5m2GD) | 5:21 | 2024-01-23 |  |

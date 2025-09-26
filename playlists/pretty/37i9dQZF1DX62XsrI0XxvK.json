@@ -1,13 +1,49 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Briellebeth",
-  "num_followers": 13409,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Rafi Muhammad, Andien",
+  "num_followers": 13412,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACsyy6asVp2Z1lyIKcMaOswUpcFT",
+  "snapshot_id": "AAAAABLcCj7gj+loqr4cQw4fpXsW0Q3j",
   "tracks": [
+    {
+      "added_at": "2025-09-25 17:05:13",
+      "album": {
+        "name": "Untukmu",
+        "url": "https://open.spotify.com/album/0z7axBDnepbUZ9l6Q318mp"
+      },
+      "artists": [
+        {
+          "name": "Rafi Muhammad",
+          "url": "https://open.spotify.com/artist/3OY1W74oTsOWz9iM2S8WcF"
+        },
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        }
+      ],
+      "duration_ms": 239984,
+      "name": "Untukmu",
+      "url": "https://open.spotify.com/track/4coSx2yoUpzrADZ42ThwxH"
+    },
+    {
+      "added_at": "2025-09-25 17:05:13",
+      "album": {
+        "name": "Claw Machine",
+        "url": "https://open.spotify.com/album/6FpIHvOps6UZMgJudEJEtV"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Claw Machine",
+      "url": "https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw"
+    },
     {
       "added_at": "2025-09-18 17:00:31",
       "album": {

@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-161 songs - 10 hr 39 min
+162 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [過学習](https://open.spotify.com/track/0qHvJWrqgeznziTqJNq6m7) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:35 | 2024-02-22 |  |
 | [金木犀 \(feat\. Ado\)](https://open.spotify.com/track/32rQeDchWPe6lPev389JrO) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [金木犀 \(feat\. Ado\)](https://open.spotify.com/album/32vMtHrbxUGHwVp6R9Gone) | 2:20 | 2024-02-22 |  |
 | [阿修羅ちゃん](https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:15 | 2024-02-22 |  |
+| [風と私の物語](https://open.spotify.com/track/10QhAQvfHf4ztZlXlkgWFR) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [風と私の物語](https://open.spotify.com/album/5lcHri5ngUXxfx2V0DtaRo) | 5:48 | 2025-09-25 |  |
 | [風のゆくえ](https://open.spotify.com/track/2JPT05xVbGuIkAc0LNRo3s) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:32 | 2024-02-22 |  |
 | [飾りじゃないのよ 涙は](https://open.spotify.com/track/2nGT86g8QCaZX3EDYoP2uJ) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 4:12 | 2024-02-22 |  |
 

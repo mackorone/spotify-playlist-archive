@@ -89,6 +89,32 @@
     },
     {
       "album": {
+        "name": "HIIT",
+        "url": "https://open.spotify.com/album/6FCDY1ZpbnrCgkrxZpAMT8"
+      },
+      "artists": [
+        {
+          "name": "Dee Traits",
+          "url": "https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv"
+        },
+        {
+          "name": "Moh&DaLee",
+          "url": "https://open.spotify.com/artist/2wMNOwJt5yXa4CnQyIjjtu"
+        },
+        {
+          "name": "TrevorMusiq",
+          "url": "https://open.spotify.com/artist/2osGJXi4On7vfYhEwjXdYy"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293283,
+      "name": "5 Men Mission (What's Poppin)",
+      "url": "https://open.spotify.com/track/57ckGZVqMYpIFoo8cD1uo2"
+    },
+    {
+      "album": {
         "name": "808 BASS",
         "url": "https://open.spotify.com/album/5jLhaFRduheOjN8ZdCbS7C"
       },
@@ -4289,6 +4315,44 @@
     },
     {
       "album": {
+        "name": "iParty",
+        "url": "https://open.spotify.com/album/39hFmwa0FnXRsTOaFPYTw5"
+      },
+      "artists": [
+        {
+          "name": "Still That Combo",
+          "url": "https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv"
+        },
+        {
+          "name": "SunOrnza",
+          "url": "https://open.spotify.com/artist/2oVUCZNtLPR5Yl7TrMWZQF"
+        },
+        {
+          "name": "Sizwe Mdlalose",
+          "url": "https://open.spotify.com/artist/3w6f762ECxkOr6byVbNS0X"
+        },
+        {
+          "name": "Woza Bakzin",
+          "url": "https://open.spotify.com/artist/2j3IddNViRSr6U3yZO4AUO"
+        },
+        {
+          "name": "Black CaTz MusiQ",
+          "url": "https://open.spotify.com/artist/369ByKKhXKrEZ387XaBypA"
+        },
+        {
+          "name": "Solan Lo",
+          "url": "https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277440,
+      "name": "iParty",
+      "url": "https://open.spotify.com/track/1pacH7K87Elvbpx7HX5r7V"
+    },
+    {
+      "album": {
         "name": "iPhara",
         "url": "https://open.spotify.com/album/3xTIxVDIq0sol9oYaCCiNH"
       },
@@ -4892,7 +4956,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 336437,
       "name": "Izithunywa",
       "url": "https://open.spotify.com/track/2hhNFJZMSpFvbAU9WLMya7"
@@ -11252,6 +11316,28 @@
       "duration_ms": 286746,
       "name": "Zonke Bonke",
       "url": "https://open.spotify.com/track/42S1dnP3fFHU3w8gZ6e8tk"
+    },
+    {
+      "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/3zANntZJLLaT80wRRKI3SN"
+      },
+      "artists": [
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360237,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/0E7igrvy7mrtzw7kX1h2zF"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 
 > muZikiiTa RaRa 100pre sÄd t oDiiO bye 👾 KOKÔ CECÊ en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,288 likes - 100 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,301 likes - 100 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbEu9bFtnTl.md) - [plain]
 | 39 | [En Otro Jardín X\(](https://open.spotify.com/track/2viqKpMbOfAH2lwHLsRYJG) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY), [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [En Otro Jardín X\(](https://open.spotify.com/album/4Tw2RWDAoJQfHSB6iAK2Ao) | 2:17 |
 | 40 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
 | 41 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
-| 42 | [RUTA TECHNOMAMI](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [RUTA TECHNOMAMI](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 |
+| 42 | [\#Ruta Technomami](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [\#Ruta Technomami](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 |
 | 43 | [OUTFiT EMO 2003](https://open.spotify.com/track/5MYpm1x5whCy2JXMD4GbiO) | [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc), [Phelusa](https://open.spotify.com/artist/3VWFKfF031zXln7uDu7fml), [LuJo](https://open.spotify.com/artist/3XPXv97tHB6hhfoSKVywgf) | [OUTFiT EMO 2003](https://open.spotify.com/album/29HPbzWLmSddKL2NH6Z9eA) | 1:55 |
 | 44 | [sin mirar](https://open.spotify.com/track/4FzA5DKCpBhPD5z3JlX0NO) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [sin mirar](https://open.spotify.com/album/256sP7HP2JdilDPCAmAs4t) | 1:42 |
 | 45 | [UAV ONLINE](https://open.spotify.com/track/77L9nokCE8aFLGydxHHhP6) | [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4), [KyozeH](https://open.spotify.com/artist/258O12vApWppL528cs0gQf) | [UAV ONLINE](https://open.spotify.com/album/5kGVCMqwAlv5mJhKYPMQCa) | 2:12 |

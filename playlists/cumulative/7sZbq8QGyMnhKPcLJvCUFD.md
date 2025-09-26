@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-764 songs - 1 day 14 hr 23 min
+765 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -599,6 +599,7 @@
 | [Set Me Free](https://open.spotify.com/track/0SY3e4Csiw86wTeXvlbr4N) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Set Me Free](https://open.spotify.com/album/3Ju6l6H3bnw84mipE59zEC) | 2:03 | 2024-02-23 | 2024-09-29 |
 | [Set You Free](https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657) | [Set You Free](https://open.spotify.com/album/5j8yzZxVXnbVTMz5LzZA8N) | 3:14 | 2023-04-18 | 2024-01-04 |
 | [Severed Rose](https://open.spotify.com/track/6awADEzIzjQDEhtGlX22g0) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [SlidV](https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY) | [Severed Rose](https://open.spotify.com/album/414EI6TUOPoUyQr3Zj6A8V) | 2:36 | 2024-12-08 |  |
+| [Shadow Glow](https://open.spotify.com/track/4UdZlMtHMx3ukdrK4OHcRW) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E) | [Shadow Glow](https://open.spotify.com/album/5V28DtpAwucq8yHSqszM20) | 2:39 | 2025-09-25 |  |
 | [Shadow Of Ages](https://open.spotify.com/track/7bu3s4HOeeThwIzupE8bp6) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Ric Waves](https://open.spotify.com/artist/290b7FiG8ePIb0VaLosR49) | [Shadow Of Ages](https://open.spotify.com/album/4hYf5tJ8E8peLMFT0Q7rfM) | 2:33 | 2023-12-26 | 2024-07-19 |
 | [Sharks](https://open.spotify.com/track/2BWAkwnvTjLAyQzQteVUXE) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Sharks](https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV) | 3:10 | 2023-03-07 | 2023-08-10 |
 | [Shine](https://open.spotify.com/track/7jW2dcStZndF9lWRrPUvzV) | [Spektrem](https://open.spotify.com/artist/1bNEG4iSClCqQRyZgho3YV) | [Shine](https://open.spotify.com/album/1TS3cjyqnslzRJIU91kGYF) | 5:15 | 2023-08-08 | 2024-01-04 |

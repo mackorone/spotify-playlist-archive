@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-351 songs - 19 hr 31 min
+352 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [La Morocha](https://open.spotify.com/track/4JRibFMCuyMseKEGWAJ4C7) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [La Morocha](https://open.spotify.com/album/059QWHlbZgszSAf3rQ50Ag) | 2:17 | 2024-03-08 | 2024-03-16 |
 | [La Motito de Carlitos](https://open.spotify.com/track/1x9OQtBbG9UEOF0Hgpew6h) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [Lo Peor](https://open.spotify.com/album/4YY5w9pSiVeWyNvAbIigBc) | 3:56 | 2023-05-26 | 2024-03-06 |
 | [La Noche](https://open.spotify.com/track/3QRuuoKLd8KoyHb1lxumPi) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [La Noche](https://open.spotify.com/album/3LWqiBwblO6Lv2eVBGNykL) | 2:44 | 2025-07-25 |  |
-| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 |  |
+| [La pata sucia](https://open.spotify.com/track/4q1EwreqE333DDeot8D1tA) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:21 | 2025-07-11 | 2025-09-26 |
 | [La Pollera de Jimmy](https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Homenaje a Colombia](https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7) | 3:52 | 2024-03-05 |  |
 | [La Que Quiero](https://open.spotify.com/track/1H69uZDuS45Am8HF5CFXnx) | [Lautaro LR](https://open.spotify.com/artist/7mC8RpAGrd7HEEXwgJUWK8), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [La Que Quiero](https://open.spotify.com/album/4asWvx1PseI23skzfVbDkr) | 2:43 | 2023-11-17 | 2023-11-25 |
 | [La Ranchada](https://open.spotify.com/track/5RIP4Uy07AfA9ilF58h3DW) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf) | [La Ranchada](https://open.spotify.com/album/2F0O2YclNhQdwKp865K2bH) | 7:33 | 2023-09-22 | 2023-09-30 |
@@ -294,6 +294,7 @@
 | [Siguiendo la Luna](https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [La Humildad Es Sinónimo de Grandeza](https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk) | 3:28 | 2024-03-08 |  |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2023-05-26 | 2024-03-06 |
 | [Sistema](https://open.spotify.com/track/0mcdl5mY8qvOxk7pqLyv8v) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Sistema](https://open.spotify.com/album/53C2m73R5MYy2b4KfHvmC5) | 2:53 | 2024-09-13 | 2024-11-28 |
+| [Sola](https://open.spotify.com/track/1bbsktoXqz97oLecvXG8tL) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Sin Rivales](https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP) | 3:48 | 2025-09-19 |  |
 | [Soltero Hasta la Tumba](https://open.spotify.com/track/6JtV50W4szsOD04QREQgXk) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [No Es Tan Fácil](https://open.spotify.com/album/1BtjQQmVRRs5m7AoBh81Xv) | 3:13 | 2023-05-26 | 2024-04-19 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-26 |  |
 | [Sos Botón](https://open.spotify.com/track/5kYmx9V55bJWm7Qt9hD8WK) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [La Vanda Más Loca](https://open.spotify.com/album/2B3GFfHCVp73DgzXllsumE) | 4:19 | 2023-05-26 | 2024-04-19 |

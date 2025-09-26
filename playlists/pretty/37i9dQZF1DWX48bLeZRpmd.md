@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! ©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,189 likes - 51 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,194 likes - 51 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 50 | [五つ子ゲームファイナル](https://open.spotify.com/track/3elRDyTr6H9Cvw7eZ1uZBt) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3) | [映画「五等分の花嫁」 オリジナル・サウンドトラック](https://open.spotify.com/album/5F2sSVV1saRB3feDpAnpEk) | 6:20 |
 | 51 | [ハートのカタチ～四つ葉のClover～ \- colate Slow Dance Edit](https://open.spotify.com/track/7pPXiRFAlPP0jAyPcIJJnT) | [中野四葉\(CV:佐倉綾音\)](https://open.spotify.com/artist/6EwjE2dOpGtPpnDK2p3gD5) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 4:01 |
 
-Snapshot ID: `AAAAAEeSrDvoGm3OkRnbPpt5eIrMtDCS`
+Snapshot ID: `AAAAAOzsGAxnVkiZA9YBkHWxIo2PEH/L`

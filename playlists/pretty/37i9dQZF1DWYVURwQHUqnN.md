@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soolking x KeBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,012 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,161,016 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 49 | [Night Binks](https://open.spotify.com/track/4qUcJs4D6v1ADMT3KhLm74) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Night Binks](https://open.spotify.com/album/5oEjZ8tghQoab40KLHenoc) | 2:36 |
 | 50 | [Chipie](https://open.spotify.com/track/4GaTi5LEmGxCOeYQ05yNPF) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi / Piccolo](https://open.spotify.com/album/6CZVGOnFHvFfwL1dAEcdYc) | 2:22 |
 
-Snapshot ID: `AAAAAAe0C4gSmNmW+XLiOP4969xCyE9+`
+Snapshot ID: `AAAAAMSJCXOk9nFHw7YVuejwqgVgok84`

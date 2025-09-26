@@ -1,13 +1,29 @@
 {
-  "description": "Proudly Southern African Afropop gems. Cover: Vusi Nova",
-  "num_followers": 188074,
+  "description": "Proudly Southern African Afropop gems. Cover: Judith Sephuma",
+  "num_followers": 188140,
   "original_name": "Made In South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAEfS/3H0XfvasNmzBTe3wk+oDuE",
+  "snapshot_id": "AAAAAJQALsysgKdSOzjqwZtlJTrN1HYk",
   "tracks": [
+    {
+      "added_at": "2025-09-25 22:00:33",
+      "album": {
+        "name": "MOKETE",
+        "url": "https://open.spotify.com/album/2XFVvLdRLWLPbGuXWIyhni"
+      },
+      "artists": [
+        {
+          "name": "Judith Sephuma",
+          "url": "https://open.spotify.com/artist/4UhNEvY4mAznOBZJkbXX8E"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "MOKETE",
+      "url": "https://open.spotify.com/track/6RSmHuB9OaLitjxchrj0Hy"
+    },
     {
       "added_at": "2025-09-12 04:59:03",
       "album": {
@@ -175,6 +191,30 @@
       "duration_ms": 278875,
       "name": "Dear Ex Yami",
       "url": "https://open.spotify.com/track/1lOtpeO2I2cjvN2CvbnpGW"
+    },
+    {
+      "added_at": "2025-09-25 22:00:33",
+      "album": {
+        "name": "Sondela",
+        "url": "https://open.spotify.com/album/6ZVEFIOf7TPWtYsSGFOVXD"
+      },
+      "artists": [
+        {
+          "name": "KhosiexIssue",
+          "url": "https://open.spotify.com/artist/6dB9FLxVZZzsjdlgIEPowW"
+        },
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "duration_ms": 241802,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/0O5Dqz9VS5WJW4jdftZSfA"
     },
     {
       "added_at": "2025-09-12 04:59:03",
@@ -1531,26 +1571,6 @@
     {
       "added_at": "2025-09-12 04:59:03",
       "album": {
-        "name": "Umbuzo Wodwa",
-        "url": "https://open.spotify.com/album/2nEh7aJQC9MyfTrtSGuJPf"
-      },
-      "artists": [
-        {
-          "name": "Siya Ntuli",
-          "url": "https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc"
-        },
-        {
-          "name": "Makhadzi Entertainment",
-          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
-        }
-      ],
-      "duration_ms": 269894,
-      "name": "Umbuzo Wodwa",
-      "url": "https://open.spotify.com/track/2Y78qvXgPX8AhZ3CyGTjkj"
-    },
-    {
-      "added_at": "2025-09-12 04:59:03",
-      "album": {
         "name": "Flight Ya Hoseng (feat. Ch'cco, Nomfundo Moh & Baby S.O.N)",
         "url": "https://open.spotify.com/album/4L2ZtEbr7EVWvTgPeUN2is"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 368000,
       "name": "Hoba Monna",
       "url": "https://open.spotify.com/track/5ZL3ulHI3jc3z7JaCWzAjx"
-    },
-    {
-      "added_at": "2025-09-12 04:59:03",
-      "album": {
-        "name": "Uthando Olunjeh",
-        "url": "https://open.spotify.com/album/0Ao25wg1szso9XPbl3KYGG"
-      },
-      "artists": [
-        {
-          "name": "Fezeka Dlamini",
-          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
-        },
-        {
-          "name": "Mduduzi Ncube",
-          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
-        }
-      ],
-      "duration_ms": 257597,
-      "name": "Uthando Olunjeh",
-      "url": "https://open.spotify.com/track/6vjciCCw4J5Va2ngFfMgJJ"
     },
     {
       "added_at": "2025-09-12 04:59:03",

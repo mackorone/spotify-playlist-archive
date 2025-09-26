@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-564 songs - 1 day 7 hr 45 min
+565 songs - 1 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Por Encima del Nivel](https://open.spotify.com/track/2tBsLztR635tP8lddCbN66) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Por Encima del Nivel](https://open.spotify.com/album/6GXbVr5p6M6HcsgNmrKZqF) | 3:11 | 2024-06-21 | 2024-10-17 |
 | [Por Favor \(feat\. Antonio Rios\)](https://open.spotify.com/track/4ZcQybhEqO2Vp4ywomVhmX) | [Bruno Lippi](https://open.spotify.com/artist/6baxQG4TXqSMv4z8ydP0cK), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Por Favor \(feat\. Antonio Rios\)](https://open.spotify.com/album/2sJ5Ip4DmfnhaBOWW5FA2m) | 3:38 | 2024-10-04 | 2024-10-26 |
 | [POR QUÉ NO LE DICES?](https://open.spotify.com/track/2IWwQ7EQxV0KR79xWSmaG8) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [POR QUÉ NO LE DICES?](https://open.spotify.com/album/0uFjWv1Xw4hCRC0J0inOtm) | 3:15 | 2025-01-24 | 2025-03-01 |
+| [Porque Aún Te Amo \- Versión Cumbia](https://open.spotify.com/track/2euFc4LCzhuCzDqtnuFndy) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Porque Aún Te Amo \- Versión Cumbia](https://open.spotify.com/album/0wVVJ3OawXMrXiKJq0vDos) | 2:26 | 2025-09-26 |  |
 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 | 2022-01-14 | 2023-03-12 |
 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 | 2023-03-10 | 2024-04-19 |
 | [Porque te fuiste](https://open.spotify.com/track/2lWcmStzB7MbGipxM1l5l6) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [El Polaco \- Agradeciendo a Dios](https://open.spotify.com/album/7lbvLBGRxZi2c7czBHA5Rf) | 3:23 | 2022-01-14 |  |
@@ -440,7 +441,7 @@
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2022-01-14 |  |
 | [Si Te Vas a Ir](https://open.spotify.com/track/1gcYZcLom5DPoe1kUgBY1O) | [Valsi](https://open.spotify.com/artist/04vVNmaKhinxxW4eCJIyX7) | [Si Te Vas a Ir](https://open.spotify.com/album/2vfua93emUkMUPLje0054c) | 2:38 | 2022-04-01 | 2022-04-20 |
 | [Si Tu Amor No Vuelve / Corazón de Acero](https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Si Tu Amor No Vuelve / Corazón de Acero](https://open.spotify.com/album/032HbqNinaK4njyzDouiYT) | 4:20 | 2022-02-04 | 2022-04-21 |
-| [Siempre Te Amaré](https://open.spotify.com/track/36x26xwtCVlkB5GOXWHPkD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Siempre Te Amaré](https://open.spotify.com/album/5hBzllmbT50u4SaoR6eEpi) | 3:09 | 2025-04-04 |  |
+| [Siempre Te Amaré](https://open.spotify.com/track/36x26xwtCVlkB5GOXWHPkD) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Siempre Te Amaré](https://open.spotify.com/album/5hBzllmbT50u4SaoR6eEpi) | 3:09 | 2025-04-04 | 2025-09-26 |
 | [Siento](https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Siento](https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw) | 2:45 | 2023-01-06 | 2023-02-26 |
 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 | 2022-03-08 | 2022-05-21 |
 | [Sigo Enamorado de Ti](https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [A Su Manera](https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ) | [Sigo Enamorado de Ti](https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr) | 2:51 | 2022-02-04 | 2022-07-28 |

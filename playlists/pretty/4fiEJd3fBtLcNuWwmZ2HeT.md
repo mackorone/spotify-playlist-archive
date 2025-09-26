@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 358 songs - 20 hr 31 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 369 songs - 21 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -366,5 +366,16 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 356 | [Le ciel](https://open.spotify.com/track/1tZPdST6iW1wik7zbbCUPk) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [\-merveilles\-](https://open.spotify.com/album/2vLTmWIK6BMEpOCcLilhft) | 4:59 |
 | 357 | [Ghost](https://open.spotify.com/track/2rd5IVJbcm3lcu6xdoFGIa) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Ghost](https://open.spotify.com/album/2Vwmswd4JdOJK0prjybCIM) | 2:51 |
 | 358 | [Kubiwa Kyouiku no Susume](https://open.spotify.com/track/454m8n2FSYs4jOxJz49REC) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Kubiwa Kyouiku no Susume](https://open.spotify.com/album/0zH8j5cGtsFW4G0Yb1hEdq) | 3:50 |
+| 359 | [suicide skip](https://open.spotify.com/track/4V1gPkJC5aOgSXuMOfb7n6) | [Machina](https://open.spotify.com/artist/75wt76r0r9Ps4vqqfEdxRA) | [suicide skip](https://open.spotify.com/album/2WT8m8OFOusmxDrFmOOmS4) | 3:22 |
+| 360 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 |
+| 361 | [worst case scenario](https://open.spotify.com/track/7HXFzil0Wio8LfKr7hIjFP) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [worst case scenario](https://open.spotify.com/album/7uMW933C3vdA1GNuvNnfkL) | 3:34 |
+| 362 | [Premier Amour](https://open.spotify.com/track/7re5aEfGdP4ksYlvh7XqmY) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Voyage Sans Retour](https://open.spotify.com/album/3pjezGBR5XKjQH8RvDAt4W) | 4:55 |
+| 363 | [If...with tears in one's eyes](https://open.spotify.com/track/3OikLDf5WAJkVinnP30Cqp) | [SHAZNA](https://open.spotify.com/artist/1qWhc5xaI8R8Mv95ZY2rY6) | [Promise Eve](https://open.spotify.com/album/1fSiPEa4ZV41tivCVUqhcD) | 3:05 |
+| 364 | [薔薇は美しく散る](https://open.spotify.com/track/6RhRXYnuXBiGWgqhGQGqz8) | [LAREINE](https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP) | [LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE](https://open.spotify.com/album/6qbq1zVhBAnsTgiupg8obS) | 3:31 |
+| 365 | [Gardenia](https://open.spotify.com/track/3u8FdyDh8EmEF5QGBz80el) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [Gardenia](https://open.spotify.com/album/6FTldJYvbQB5qvA7VakqkS) | 5:14 |
+| 366 | [Oyasumi.](https://open.spotify.com/track/0I7SycHSHC43o4ceBeGYpN) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Gulu Gulu Ryuushutsu Ongen Shuu \(Living Dead Edition\)](https://open.spotify.com/album/7qE4QTpPGAhBGrPxWVl28C) | 3:14 |
+| 367 | [罪と罰](https://open.spotify.com/track/4PiBeuUvVCmvOrPbxzwJTo) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [DRESS](https://open.spotify.com/album/16OUor8HKi6dM4xtOMecoa) | 5:51 |
+| 368 | [You Are Also Like Me](https://open.spotify.com/track/6onHrimFWsQSZ1VxyRAaUy) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/7qRTxfrH3dQ4camvRDNgUP) | 3:12 |
+| 369 | [Chuuzuri Shoujo](https://open.spotify.com/track/0iJpEvIjUVEH0UWb5GCri0) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Chuuzuri Shoujo \(Tsugai Ban\)](https://open.spotify.com/album/4trD0YxmLKpZOYL8RNfr9J) | 4:05 |
 
-Snapshot ID: `AAAJWxkkraBEnIIsvT01gwSnLzAPFe+0`
+Snapshot ID: `AAAJZssVoofMr5g8OKOnxgi6XjGsSqM7`

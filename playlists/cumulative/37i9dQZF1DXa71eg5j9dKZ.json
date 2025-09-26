@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: IDEMI",
+  "description": "The home for alternative electronic music. Cover: Junior Simba",
   "name": "Altar",
   "tracks": [
     {
@@ -2321,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Mel Blue",
+          "url": "https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239750,
+      "name": "Be That to You",
+      "url": "https://open.spotify.com/track/6PRyHlrx4t9nj96pDRc00d"
+    },
+    {
+      "album": {
         "name": "When the Lights Go",
         "url": "https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY"
       },
@@ -4516,7 +4534,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 188360,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/4sZQRHoJaVnjasanYulp3k"
@@ -8104,7 +8122,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 169972,
       "name": "formula",
       "url": "https://open.spotify.com/track/14zLvFrfowL3oFxCPffGaR"
@@ -16159,6 +16177,32 @@
     },
     {
       "album": {
+        "name": "one2three (feat. Leven Kali)",
+        "url": "https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248578,
+      "name": "one2three (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x"
+    },
+    {
+      "album": {
         "name": "Only If U",
         "url": "https://open.spotify.com/album/1mYb9Ta4BwGrSI4qjhCdxN"
       },
@@ -16948,7 +16992,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 244075,
       "name": "picciriddu",
       "url": "https://open.spotify.com/track/2At1jjhWsAZpgpyvk21fhv"
@@ -18084,7 +18128,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 178235,
       "name": "Resurge",
       "url": "https://open.spotify.com/track/6a1tJFmwr2R3mThLUWxvHs"
@@ -18382,7 +18426,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 158429,
       "name": "rose on a stone",
       "url": "https://open.spotify.com/track/3Ml3CIaOpDBYcJNmIR96Py"
@@ -22517,6 +22561,36 @@
     },
     {
       "album": {
+        "name": "This Life",
+        "url": "https://open.spotify.com/album/6MgdmQQEB0CNodgDXulz26"
+      },
+      "artists": [
+        {
+          "name": "NIGHT manoeuvres",
+          "url": "https://open.spotify.com/artist/2CanvvhMZkqCFDFEOvcdNE"
+        },
+        {
+          "name": "Dot Major",
+          "url": "https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh"
+        },
+        {
+          "name": "ABSOLUTE.",
+          "url": "https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h"
+        },
+        {
+          "name": "Kosmo Kint",
+          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/5yslup8f7mxY2PiLJSWmTF"
+    },
+    {
+      "album": {
         "name": "This Rhythm (feat. RAHH)",
         "url": "https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px"
       },
@@ -22816,6 +22890,24 @@
       "duration_ms": 219360,
       "name": "Tommy's Dream",
       "url": "https://open.spotify.com/track/48gwHIUd09s0g1JxEv9VzJ"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Will Be Different",
+        "url": "https://open.spotify.com/album/5xyVf8Nvd2AaDzUYbIAEI4"
+      },
+      "artists": [
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226934,
+      "name": "Tomorrow Will Be Different",
+      "url": "https://open.spotify.com/track/3OheU9mDgcP5pjU2SGVg6k"
     },
     {
       "album": {
@@ -24688,6 +24780,28 @@
       "duration_ms": 343922,
       "name": "What Is Life (feat. rhys from the sticks)",
       "url": "https://open.spotify.com/track/7bqV6hzUmA5PoGV8ajAKlb"
+    },
+    {
+      "album": {
+        "name": "What Would You Do For Love",
+        "url": "https://open.spotify.com/album/7KbVf3XrjW7mgdLsQnW0LG"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        },
+        {
+          "name": "Harris Hameed",
+          "url": "https://open.spotify.com/artist/4ylEF4SPQMOZ9StD6ejANm"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191033,
+      "name": "What Would You Do For Love",
+      "url": "https://open.spotify.com/track/4VmzzryArFwY9PlMjO371w"
     },
     {
       "album": {

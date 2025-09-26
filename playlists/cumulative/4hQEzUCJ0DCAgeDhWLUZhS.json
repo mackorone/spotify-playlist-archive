@@ -4315,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Brad Cox",
+          "url": "https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187716,
+      "name": "Kickin' Stones",
+      "url": "https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z"
+    },
+    {
+      "album": {
         "name": "Kids in America",
         "url": "https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8"
       },

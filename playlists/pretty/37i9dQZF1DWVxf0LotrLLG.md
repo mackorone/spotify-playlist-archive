@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: LUSILLON
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,989 likes - 321 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,995 likes - 321 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

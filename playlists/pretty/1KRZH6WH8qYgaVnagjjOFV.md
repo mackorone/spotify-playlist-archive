@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 352,674 likes - 118 songs - 7 hr 45 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 352,975 likes - 118 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/1KRZH6WH8qYgaVnagjjOFV.md) - [plain]
 | 105 | [So Will I \(100 Billion X\) \- Live](https://open.spotify.com/track/3LQCScj7cBoC2mt7CoKlyP) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [So Will I \(100 Billion X\) \[Live\]](https://open.spotify.com/album/28sPr0oWHphyRdWSPceidb) | 7:07 |
 | 106 | [The Prodigal](https://open.spotify.com/track/6BqobW3pEDxEvgznbam8kv) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/1VI09clJhudhhJ88pARERD) | 3:13 |
 | 107 | [Take It All Back \- 🔥🔥 Version](https://open.spotify.com/track/1S10j0Pz34TyWvH8jEikbE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt) | 3:15 |
-| 108 | [with me](https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [with me](https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG) | 2:01 |
+| 108 | [WITH ME](https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [with me](https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG) | 2:01 |
 | 109 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 110 | [I've Witnessed It \- Single Version](https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:29 |
 | 111 | [Jesus Does](https://open.spotify.com/track/3DdQcdK52TKydq5tN3Iehd) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [We The Kingdom](https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp) | 3:54 |

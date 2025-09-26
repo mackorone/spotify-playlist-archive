@@ -235,6 +235,24 @@
     },
     {
       "album": {
+        "name": "1%",
+        "url": "https://open.spotify.com/album/1uZaM377xhToT1Wp5zSOfm"
+      },
+      "artists": [
+        {
+          "name": "Cuta",
+          "url": "https://open.spotify.com/artist/3YHgTUKp46PTi8yhIHOUQi"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "1%",
+      "url": "https://open.spotify.com/track/5jFSDUyjMISEkU5GxMDs64"
+    },
+    {
+      "album": {
         "name": "LOGIN EP",
         "url": "https://open.spotify.com/album/6tzdCBUIxofEk9RvdUcAWv"
       },
@@ -2946,7 +2964,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 132714,
       "name": "Anche gli uomini soffrono",
       "url": "https://open.spotify.com/track/6699uIUxOqbj6ayxU3keIL"
@@ -7091,6 +7109,24 @@
     },
     {
       "album": {
+        "name": "Caramelle",
+        "url": "https://open.spotify.com/album/4auVLKtiEUt3tBBTSjhlPq"
+      },
+      "artists": [
+        {
+          "name": "Yele",
+          "url": "https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122590,
+      "name": "Caramelle",
+      "url": "https://open.spotify.com/track/2RkbuBcHSq4DMCafxAP3ln"
+    },
+    {
+      "album": {
         "name": "9K",
         "url": "https://open.spotify.com/album/1JTbdGtXi6D1y4o9s0SSUW"
       },
@@ -8841,6 +8877,24 @@
     },
     {
       "album": {
+        "name": "COME?COSA?",
+        "url": "https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh"
+      },
+      "artists": [
+        {
+          "name": "Visino Bianco",
+          "url": "https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147540,
+      "name": "COME?COSA?",
+      "url": "https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6"
+    },
+    {
+      "album": {
         "name": "Comment tu t'appelles",
         "url": "https://open.spotify.com/album/63mSwU47Exb3aBPtqqNbUk"
       },
@@ -8860,6 +8914,24 @@
       "duration_ms": 197671,
       "name": "Comment tu t'appelles",
       "url": "https://open.spotify.com/track/1OGvG0XEf41AxsgGF68lV3"
+    },
+    {
+      "album": {
+        "name": "Complementari",
+        "url": "https://open.spotify.com/album/6ZfL68B9lu0px5TgGkptOw"
+      },
+      "artists": [
+        {
+          "name": "2Rari",
+          "url": "https://open.spotify.com/artist/70WMQrrPQeYY9JaPVx1nWf"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Complementari",
+      "url": "https://open.spotify.com/track/6syD7V6m5KWT9mDAmw5z2p"
     },
     {
       "album": {
@@ -9902,7 +9974,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 136699,
       "name": "CUGNOM PSANT",
       "url": "https://open.spotify.com/track/4Y9rB48bcDkzy8LhRSA2OH"
@@ -12618,6 +12690,28 @@
       "duration_ms": 214471,
       "name": "FAMAS",
       "url": "https://open.spotify.com/track/43kwkdUGT3mLKeFOuknfFN"
+    },
+    {
+      "album": {
+        "name": "FAME 2",
+        "url": "https://open.spotify.com/album/6LqaeDaqggz12UeaX9seLK"
+      },
+      "artists": [
+        {
+          "name": "Gheba",
+          "url": "https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121388,
+      "name": "FAME 2",
+      "url": "https://open.spotify.com/track/39jR2hXnBRWyIqvNSnUXbj"
     },
     {
       "album": {
@@ -21389,6 +21483,28 @@
     },
     {
       "album": {
+        "name": "Mai contento",
+        "url": "https://open.spotify.com/album/4fQgBDZVI2kbZcMdYByzlc"
+      },
+      "artists": [
+        {
+          "name": "Grein",
+          "url": "https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N"
+        },
+        {
+          "name": "Shard",
+          "url": "https://open.spotify.com/artist/5qt90P3lTNu2tw00Xqle29"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155084,
+      "name": "Mai contento",
+      "url": "https://open.spotify.com/track/4cMb9IACVQC9yzMaTh3DLS"
+    },
+    {
+      "album": {
         "name": "Maicon",
         "url": "https://open.spotify.com/album/2n9BxOOUfi1da4RXF2o1u9"
       },
@@ -27112,7 +27228,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 144000,
       "name": "OCCHI",
       "url": "https://open.spotify.com/track/0jWxzA8RW4pL776VGrqD7p"
@@ -29738,7 +29854,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 182068,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/6m4a24DEhTpzwUoIgZPaTi"
@@ -30042,7 +30158,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 172500,
       "name": "Portoricana",
       "url": "https://open.spotify.com/track/3NLeMlEK77FrspMbR3z618"
@@ -30470,6 +30586,24 @@
       "duration_ms": 147735,
       "name": "Prima Ci Prendiamo Roma",
       "url": "https://open.spotify.com/track/5CP4uqaXaVVNdwS6DphiJN"
+    },
+    {
+      "album": {
+        "name": "PRIMA CLASSE",
+        "url": "https://open.spotify.com/album/6qSngHRzaaf6ml8NjwERAY"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165461,
+      "name": "PRIMA CLASSE",
+      "url": "https://open.spotify.com/track/2j1i3F7aODC8CbiBXpaFIy"
     },
     {
       "album": {
@@ -32294,7 +32428,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 142857,
       "name": "Risposte",
       "url": "https://open.spotify.com/track/2yxjDa2uZImB19B38VTmTY"
@@ -32482,7 +32616,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 114461,
       "name": "Roc-A-Fella",
       "url": "https://open.spotify.com/track/1IM2cqFHLUDSpgTZmytUfQ"
@@ -33252,7 +33386,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 89240,
       "name": "SAMUEL L JACKSON",
       "url": "https://open.spotify.com/track/5yAFQB9qzY2lto0PJEE53v"
@@ -33450,6 +33584,24 @@
       "duration_ms": 126461,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/2WLXU9SmXgcxPC3gfLfhLX"
+    },
+    {
+      "album": {
+        "name": "Santo Peccatore",
+        "url": "https://open.spotify.com/album/5evE4Aj0Npf88ZsVT97Qeg"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141346,
+      "name": "Santo Peccatore",
+      "url": "https://open.spotify.com/track/03XqmI2j4fqRAfiIJuPcbt"
     },
     {
       "album": {
@@ -35789,6 +35941,28 @@
     },
     {
       "album": {
+        "name": "SOTTOCASSA",
+        "url": "https://open.spotify.com/album/6m0rKlWtYMSnfGoA6oTV0D"
+      },
+      "artists": [
+        {
+          "name": "DANTE",
+          "url": "https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj"
+        },
+        {
+          "name": "Cripo",
+          "url": "https://open.spotify.com/artist/4gStQ4qUXS6NLN8N7GThb0"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162545,
+      "name": "SOTTOCASSA",
+      "url": "https://open.spotify.com/track/2xcSy05zWzXwFpdUrYDkDt"
+    },
+    {
+      "album": {
         "name": "SOUNDCLOUD",
         "url": "https://open.spotify.com/album/4r6INgOpU0nhjNkBEbu59y"
       },
@@ -35962,6 +36136,24 @@
       "duration_ms": 135999,
       "name": "SPIN!",
       "url": "https://open.spotify.com/track/2uHC2JQ6sR4oaeTRzpEEBM"
+    },
+    {
+      "album": {
+        "name": "SPINE",
+        "url": "https://open.spotify.com/album/2oJHYGkwruFLvBkNA61DCL"
+      },
+      "artists": [
+        {
+          "name": "Scaccia",
+          "url": "https://open.spotify.com/artist/4bvY1rC6kHzkbt2ome594m"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168421,
+      "name": "SPINE",
+      "url": "https://open.spotify.com/track/5RIVdYGPzyyiZka8hNQnhn"
     },
     {
       "album": {
@@ -37752,7 +37944,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 122142,
       "name": "THE MASK",
       "url": "https://open.spotify.com/track/5EiMVONePWn2GfCyh2DRo3"
@@ -41034,7 +41226,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 169846,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/1gRBU01xY0GLTNVbZD7Yj0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Nine Inch Nails
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,760 likes - 88 songs - 5 hr 21 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,757 likes - 88 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

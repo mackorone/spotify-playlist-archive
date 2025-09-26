@@ -2,7 +2,7 @@
 
 ### [New Music Friday Norway](https://open.spotify.com/playlist/37i9dQZF1DWV3RrjH1jDkx)
 
-> Endelig fredag og ny musikk fra bla\. Chris Holsten, Randi Oline og mange fler!🎵
+> Endelig fredag og ny musikk fra bla\. Kyle Alessandro, Sigrid og mange fler!🎵
 
 7,582 songs - 16 day 7 hr 30 min
 

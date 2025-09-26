@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Phuwin
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: FOURTH
 
-763 songs - 1 day 20 hr 59 min
+765 songs - 1 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [BOY \(Don't You Know\)](https://open.spotify.com/track/6AlPVLHlqTdFV7HYoGWGwi) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [Ta Worraseth](https://open.spotify.com/artist/34WJOzrugDHbqouIHKuW4N) | [BOY \(Don't You Know\)](https://open.spotify.com/album/4FTEA2LBYfBia22bPhgvId) | 3:43 | 2024-03-28 | 2024-04-05 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
 | [Boys Love Girls](https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boys Love Girls](https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr) | 3:01 | 2024-12-26 | 2025-01-24 |
-| [Breaking Heart Station \(สถานีอกหัก\)](https://open.spotify.com/track/4L0gbJHkKpGOlHousUBEDo) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [Breaking Heart Station \(สถานีอกหัก\)](https://open.spotify.com/album/6xg9H09J4PIKekePAdKgvd) | 3:48 | 2025-09-11 |  |
+| [Breaking Heart Station \(สถานีอกหัก\)](https://open.spotify.com/track/4L0gbJHkKpGOlHousUBEDo) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [Breaking Heart Station \(สถานีอกหัก\)](https://open.spotify.com/album/6xg9H09J4PIKekePAdKgvd) | 3:48 | 2025-09-11 | 2025-09-26 |
 | [CALL CENTER](https://open.spotify.com/track/2xo7Ch7kPAGMjKVm5aHuOw) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [CALL CENTER](https://open.spotify.com/album/5LGrEM15OQ0CbYY8506xuO) | 3:09 | 2023-10-05 | 2023-10-20 |
 | [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 | 2023-08-04 | 2023-08-19 |
 | [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/track/4Fkd9BdBZaefTS9410hxs0) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi), [JUNGT BUS](https://open.spotify.com/artist/0R4RZew1uJin7PZj0XdAp1) | [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/album/1E82fOQtjymDTJOkIeMoHc) | 3:32 | 2024-12-19 | 2025-01-17 |
@@ -178,6 +178,7 @@
 | [SECRETLY LOVE](https://open.spotify.com/track/0v1kDqxBNKnlImkUXyV85w) | [DONUTCHA](https://open.spotify.com/artist/27Ead4OXgt2nRLOLCr3hQU), [KANGSOMKS](https://open.spotify.com/artist/5cygqwPtm1jNE3B311G2hW) | [SECRETLY LOVE](https://open.spotify.com/album/2ZAOjwYzcpuj1TiCmoEWNP) | 2:59 | 2022-06-09 | 2022-06-17 |
 | [See You Somewhere \- From ซองแดงแต่งผี](https://open.spotify.com/track/3iTOd09b4Dsz1QucpGMivX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 3:39 | 2025-03-31 |  |
 | [Shoot \(Choose\) เลย](https://open.spotify.com/track/6tFi6XNeINiaexPT6UEsr7) | [BOSS.CKM](https://open.spotify.com/artist/2ydSOTHypXPznsmVExy296) | [Shoot \(Choose\) เลย](https://open.spotify.com/album/6x16iACbWCOQ6f5NmMO1Is) | 3:30 | 2024-04-11 | 2024-04-19 |
+| [SIDE TO SIDE \(feat\. MABELZ PiXXiE\)](https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ), [MABELZ PiXXiE](https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5) | [SIDE TO SIDE \(feat\. MABELZ PiXXiE\)](https://open.spotify.com/album/4YK7VA6Lbq6WSuokSxKNWc) | 3:01 | 2025-09-25 |  |
 | [sit down \(please\)](https://open.spotify.com/track/6rdvnD6z1xJbTidt3Q9FJP) | [minekuk](https://open.spotify.com/artist/7g2BV00EBpwqYizj9gXbYK) | [sit down \(please\)](https://open.spotify.com/album/5At3PVA5w5fTxoyd4USrkP) | 3:45 | 2022-05-26 | 2022-06-01 |
 | [Situationship](https://open.spotify.com/track/7veRW1AYR9d5AWM7mN4h0M) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Situationship](https://open.spotify.com/album/4K2bmXaiYJESGL3hiIAEnd) | 3:10 | 2024-06-02 | 2025-04-10 |
 | [Sleepin' Pill](https://open.spotify.com/track/1cgolP8DdBgHq6s9DWgsNC) | [BRIGHT](https://open.spotify.com/artist/00AG9ycUdGUSIWuekBMp5H), [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [Sleepin' Pill](https://open.spotify.com/album/1QyyEhCscmMupc04jqN3CU) | 3:34 | 2024-06-27 | 2024-07-12 |
@@ -197,7 +198,7 @@
 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 | 2022-05-26 | 2022-10-27 |
 | [SUPER SECRET](https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [SUPER SECRET](https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW) | 3:16 | 2024-12-05 | 2024-12-19 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
-| [SWEET LIES](https://open.spotify.com/track/7CP4aJWUEgzMzkFlul94OE) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [SWEET LIES](https://open.spotify.com/album/2KeENmP6MKkxZy4R8OpP66) | 3:13 | 2025-09-11 |  |
+| [SWEET LIES](https://open.spotify.com/track/7CP4aJWUEgzMzkFlul94OE) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [SWEET LIES](https://open.spotify.com/album/2KeENmP6MKkxZy4R8OpP66) | 3:13 | 2025-09-11 | 2025-09-26 |
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 | 2025-03-13 |
 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 | 2025-09-18 |  |
 | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Too Perfect for You \(สวย เริ่ด เชิด\)](https://open.spotify.com/album/4LQh1EYtYbml9sNKr7lq4M) | 3:06 | 2025-09-11 |  |
@@ -213,6 +214,7 @@
 | [TwiLiGHT](https://open.spotify.com/track/4KtiFeLXqNikiKZtnJCkZ4) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi) | [TwiLiGHT](https://open.spotify.com/album/6EZlRDPjpPSTKwE6jT6fpj) | 3:12 | 2025-09-12 | 2025-09-19 |
 | [U can't hurt me no more](https://open.spotify.com/track/7MF3ugIgl06Fi8CX5NKA4m) | [Venita](https://open.spotify.com/artist/1suxWOTjtwWh0CNcydUeWQ) | [U can't hurt me no more](https://open.spotify.com/album/6DofRSGlqkwj4jLDxk0JRd) | 3:14 | 2022-08-25 | 2022-09-01 |
 | [UMM UMM](https://open.spotify.com/track/2DZDnHMcGd71AuKP4b8OM2) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [UMM UMM](https://open.spotify.com/album/1arBxJSSZSdEPZKIYKAH9O) | 3:07 | 2023-08-04 | 2023-08-25 |
+| [UNIVERSE](https://open.spotify.com/track/4EDV6Z87agVcJFvLBtPekZ) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G) | [UNIVERSE](https://open.spotify.com/album/1NlznwuXXCJqTBsF4d0WZp) | 4:15 | 2025-09-25 |  |
 | [Vanilla Sky](https://open.spotify.com/track/0pxUadEywlbr8gqAfKMgH3) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [Vanilla Sky](https://open.spotify.com/album/0oLBGvBd14ctZplQ4lYQIe) | 2:36 | 2024-03-07 | 2024-03-22 |
 | [VROOM VROOM](https://open.spotify.com/track/0VMIePtO3EfeOFuXwmCw9B) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [VROOM VROOM](https://open.spotify.com/album/3Bg6d7V4gj1NzrriVw9fDH) | 2:54 | 2023-12-07 | 2024-02-16 |
 | [WALK WALK](https://open.spotify.com/track/4AlJtmiBLtD2g6VGKhx6xF) | [4MIX](https://open.spotify.com/artist/7KLf6fRWodKmnPducVKvbX) | [WALK WALK](https://open.spotify.com/album/0zL56tDbTcYXWzXRoJDEEH) | 3:02 | 2024-06-27 | 2024-07-05 |

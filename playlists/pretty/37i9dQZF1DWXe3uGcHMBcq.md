@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 ### [Disney Channel Hits](https://open.spotify.com/playlist/37i9dQZF1DWXe3uGcHMBcq)
 
-> There's another 104 days of summer vacation to sing\-along to your favorite Disney Channel hits!
+> Listen to your favorite Disney Channel Hits, including the new Electric Bloom soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,090 likes - 189 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,070 likes - 189 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

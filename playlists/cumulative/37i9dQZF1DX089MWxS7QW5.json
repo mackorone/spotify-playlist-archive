@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: Moon Sujin(\ubb38\uc218\uc9c4))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: \ube0c\ub77c\uc6b4 \uc544\uc774\ub4dc \uc18c\uc6b8)",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -6312,7 +6312,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 164840,
       "name": "Main spot (feat. Ben Bliss)",
       "url": "https://open.spotify.com/track/6DF2j2lN8JHWrTfzojFJ41"
@@ -6520,6 +6520,24 @@
       "duration_ms": 220863,
       "name": "Moebius",
       "url": "https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS"
+    },
+    {
+      "album": {
+        "name": "Soul Tricycle",
+        "url": "https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU"
+      },
+      "artists": [
+        {
+          "name": "BROWN EYED SOUL",
+          "url": "https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283306,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m"
     },
     {
       "album": {

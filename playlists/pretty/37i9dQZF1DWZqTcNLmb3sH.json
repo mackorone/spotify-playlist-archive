@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : BRAT",
-  "num_followers": 64417,
+  "num_followers": 64425,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/vAcVjgg8Tp3YZASHFz/J4BfVM",
+  "snapshot_id": "AAAAAMZNTok961vBRn3X8nmE2fLAdp80",
   "tracks": [
     {
       "added_at": "2025-09-15 06:32:45",
@@ -99,6 +99,26 @@
       "duration_ms": 166666,
       "name": "Theme of Trauma (From \"Nidradevi Next Door\")",
       "url": "https://open.spotify.com/track/3SPqwXGQEUWcbtI6P60gsK"
+    },
+    {
+      "added_at": "2025-09-25 13:19:57",
+      "album": {
+        "name": "Nammamma Savadatti Yellamma (From \"Maarutha\")",
+        "url": "https://open.spotify.com/album/4OS9WKssHg92AnFJWK7sXy"
+      },
+      "artists": [
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        },
+        {
+          "name": "S. Narayan",
+          "url": "https://open.spotify.com/artist/1wgRc6f09cIKvNUhZoqOUZ"
+        }
+      ],
+      "duration_ms": 295700,
+      "name": "Nammamma Savadatti Yellamma (From \"Maarutha\")",
+      "url": "https://open.spotify.com/track/1vJzqiDOvDRhJziBnriQox"
     },
     {
       "added_at": "2025-09-18 08:47:17",
@@ -1159,30 +1179,6 @@
       "duration_ms": 237265,
       "name": "Kaapaado Dyavre (From \"Elumale\")",
       "url": "https://open.spotify.com/track/3rBzIqy90D6xCQh6bF1dHF"
-    },
-    {
-      "added_at": "2025-08-01 06:33:50",
-      "album": {
-        "name": "Thappu Maadodu Sahaja (From \"Just Married\")",
-        "url": "https://open.spotify.com/album/5OvABVi8oi80o3s52ftEYm"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Dhananjay Ranjan",
-          "url": "https://open.spotify.com/artist/3lCmfZPOZc1x3kmphuR96p"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 217682,
-      "name": "Thappu Maadodu Sahaja (From \"Just Married\")",
-      "url": "https://open.spotify.com/track/0cuzyxK5JIb4vl6u1mLGJ5"
     }
   ],
   "unique_name": "Latest Kannada",

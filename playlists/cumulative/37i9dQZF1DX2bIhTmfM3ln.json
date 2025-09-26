@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "ADA",
+        "url": "https://open.spotify.com/album/4Osfrf7ymT1xzP4w0btQpZ"
+      },
+      "artists": [
+        {
+          "name": "Egar Boi",
+          "url": "https://open.spotify.com/artist/5BgxilmpjhmqEFKqoQnmIV"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160363,
+      "name": "ADA",
+      "url": "https://open.spotify.com/track/2kakVmaqgHWrVs0hUxLvEH"
+    },
+    {
+      "album": {
         "name": "Adanna",
         "url": "https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 156786,
       "name": "Check & Balance",
       "url": "https://open.spotify.com/track/4pT6DMvWj2nXyo0Xpj4sy5"
@@ -5260,7 +5278,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 131368,
       "name": "Finish Me",
       "url": "https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h"
@@ -6154,6 +6172,24 @@
       "duration_ms": 163636,
       "name": "Glamorous (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/6xXr6CVVI3Ts1UW53YQEdo"
+    },
+    {
+      "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "album": {
@@ -7780,6 +7816,24 @@
       "duration_ms": 196210,
       "name": "Juju pt. 2 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1x9jw0pdfbtYXRrdgYCc8O"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130019,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/5pEEoU2pX1LrlXh51WGIyS"
     },
     {
       "album": {
@@ -14782,7 +14836,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 182382,
       "name": "Spell",
       "url": "https://open.spotify.com/track/5T74ZbMhmbON30pJt3u3Rd"
@@ -16740,7 +16794,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 224954,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/64sIw7KWbyz9HcNPYJ50UN"

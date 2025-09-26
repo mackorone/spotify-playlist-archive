@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop!  Cover:  Param
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,348 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,367 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
+| 1 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
 | 2 | [Khuda](https://open.spotify.com/track/3Iv5jRZvdckIizwKC463Ql) | [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Khuda](https://open.spotify.com/album/2HMB7UTE2lI1MdjkPdw5aK) | 3:07 |
 | 3 | [Husan](https://open.spotify.com/track/2S5pInkHmwX5i2dll0c0FE) | [Navjot Fazalwal](https://open.spotify.com/artist/1ZC6m7LFMaxVQiM4bqDqCz), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Husan](https://open.spotify.com/album/1h4TWPWUWJ2Kori7G80vFs) | 3:01 |
 | 4 | [Bukkal](https://open.spotify.com/track/2w7TLRabpOXFAuqyf3C31D) | [Tushar Verma](https://open.spotify.com/artist/0zqwYUNRezXh6DQjs5SYln), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Bukkal](https://open.spotify.com/album/5lHZH7DF5Kx096HPPAEyBp) | 3:09 |

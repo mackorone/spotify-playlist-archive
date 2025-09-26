@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Joanne Robertson
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,396 likes - 145 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,486 likes - 145 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

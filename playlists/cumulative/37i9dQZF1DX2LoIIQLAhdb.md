@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Low Jay x Lisandro Cuxi
+> Le R&B français, nouvelle ère\. Photo : Favé x Genezio
 
-544 songs - 1 day 1 hr 46 min
+546 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 | 2023-04-27 | 2023-06-23 |
 | [BBL.00](https://open.spotify.com/track/5bNNfbBd4IWXxiuCa9Ahjs) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [BBL.00](https://open.spotify.com/album/3cVUQkTMX95geb9vV6KXZ1) | 2:39 | 2024-11-21 | 2025-04-11 |
 | [BBM](https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BBM](https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ) | 2:59 | 2023-05-18 | 2023-09-15 |
-| [Beau Paquet](https://open.spotify.com/track/0fyF6Y58nnilOdnLXKpj6q) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [TOO BABY DELUXE](https://open.spotify.com/album/4EMgJ7zn9fMgziTIjPPP8W) | 2:53 | 2025-08-21 |  |
+| [Beau Paquet](https://open.spotify.com/track/0fyF6Y58nnilOdnLXKpj6q) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [TOO BABY DELUXE](https://open.spotify.com/album/4EMgJ7zn9fMgziTIjPPP8W) | 2:53 | 2025-08-21 | 2025-09-26 |
 | [Beau parleur](https://open.spotify.com/track/1dxLarvU0YHWPH0PuwQWUN) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Un peu de moi \(Pt\. 2\)](https://open.spotify.com/album/41JxwnXG0TtCKaTi5LGimZ) | 2:52 | 2024-02-08 | 2024-05-17 |
 | [Best life](https://open.spotify.com/track/3pI61vYUF9X8sutyoPv8IB) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN) | [Best life](https://open.spotify.com/album/3hskdHK1LhYpUg21KuPRGn) | 2:44 | 2024-02-15 | 2024-03-29 |
 | [Black Lover \(Intro\)](https://open.spotify.com/track/0EFX5QeFdICzvLTvQAMWX7) | [Driks](https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN) | [Black Lover \(Intro\)](https://open.spotify.com/album/4IHghYZ9dwlNb39Nt9xaU3) | 2:24 | 2024-02-29 | 2024-03-29 |
@@ -198,6 +198,7 @@
 | [Goumin \- Acoustique](https://open.spotify.com/track/1mwVP0H0Zm9dCb7cCkSIy9) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Goumin \(Acoustique\)](https://open.spotify.com/album/5KIdJ7aYvYk0TsxOdBQLcl) | 3:09 | 2024-11-14 | 2024-11-29 |
 | [Goûter](https://open.spotify.com/track/5Ub4lK3WGGm0HtkDid7ZRH) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Goûter](https://open.spotify.com/album/7pVuxI7Jz8aQa5rIOCcMcI) | 2:32 | 2023-04-13 | 2023-05-19 |
 | [GTB](https://open.spotify.com/track/2t0sbwkCuLSS8LKFanHEZu) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ), [FLEM KGB](https://open.spotify.com/artist/2nnza2r2urV90Ykr5Sfnsi) | [Faits Divers](https://open.spotify.com/album/0D1l1fmXKbfT9auNhqkc51) | 2:56 | 2023-06-29 | 2023-10-20 |
+| [Guapa](https://open.spotify.com/track/61LVhMPgCbxP40EGyJSHy9) | [El Mvnolo](https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS) | [Guapa](https://open.spotify.com/album/2jIRGKWZo5jSEYZHsBmEVE) | 1:48 | 2025-09-25 |  |
 | [GUEST LIST](https://open.spotify.com/track/5vEvOtrShrpAUcDsv8WxjA) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [SUAVE Tome 1](https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI) | 3:09 | 2023-03-02 | 2023-05-05 |
 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-20 | 2023-10-27 |
 | [Haut niveau](https://open.spotify.com/track/5NnuqQtNeQVhbVxBmizRGc) | [Loo](https://open.spotify.com/artist/6uhHMAJ8LR6BcQCtBwW2mc) | [Haut niveau](https://open.spotify.com/album/2lbF2iCn4QASP45hlfFTqj) | 2:14 | 2025-07-10 | 2025-08-15 |
@@ -234,7 +235,7 @@
 | [Jamais yensak](https://open.spotify.com/track/1aoiOAlXOV3slSPbqACbp5) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Jamais yensak](https://open.spotify.com/album/6EcswaZItJn3EL53VYpU0w) | 2:48 | 2024-02-08 | 2024-02-23 |
 | [Japonais](https://open.spotify.com/track/4L6GFaHKWwJBeaD6FEKaXh) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Japonais](https://open.spotify.com/album/5F1Br2g4h6tiMyz3p8FzVV) | 2:45 | 2023-12-15 | 2024-02-09 |
 | [Je pensais](https://open.spotify.com/track/6BvOKn9i8YnEl5rTVS5XB7) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [Je pensais](https://open.spotify.com/album/6AM1pkhao3uXknlqwQ9kAV) | 3:49 | 2025-05-15 | 2025-06-13 |
-| [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 | 2025-05-22 |  |
+| [Je t’aime n’est pas assez fort](https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [L'album du mâle](https://open.spotify.com/album/5m9F4xOwjKxbTx3c1RRwhH) | 3:25 | 2025-05-22 | 2025-09-26 |
 | [Jeu](https://open.spotify.com/track/6SBIKPuUdUgClFJCWVoF0b) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Jeu](https://open.spotify.com/album/3SeyMxltCn7uCzhHKKo0eP) | 3:29 | 2025-06-12 |  |
 | [Jeu d'acteur](https://open.spotify.com/track/1aMRb7C3N0tsPP5znAVZU5) | [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Jeu d'acteur](https://open.spotify.com/album/4yInrd80NPSeTvcrUTrXO3) | 3:02 | 2023-05-11 | 2023-06-16 |
 | [Johanna](https://open.spotify.com/track/6IsuxiMJ6L0Qc90EAHIKjZ) | [Royce](https://open.spotify.com/artist/7vIfh9cz4s4vKX8QWggX8a) | [Johanna](https://open.spotify.com/album/18sdgENHGeQXaUUStl9TBR) | 2:10 | 2023-05-04 | 2023-06-02 |
@@ -515,6 +516,7 @@
 | [Tout le quartier](https://open.spotify.com/track/4fv67Ng1bfkj6sLApDlJPE) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Tout le quartier](https://open.spotify.com/album/0y8AdrTcHobPMbsTwswwAm) | 3:06 | 2025-01-16 | 2025-02-21 |
 | [Toxic](https://open.spotify.com/track/69YKkqBo1RGZzW6z3cBfiQ) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Djene's Room](https://open.spotify.com/album/2Cw6MkVoG0jxOfywMc9zyE) | 2:48 | 2024-12-05 | 2025-01-17 |
 | [TPMP](https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [TPMP](https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT) | 2:42 | 2024-01-11 | 2024-05-17 |
+| [Track 7](https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-12-08 |
 | [TRASH](https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [TRASH](https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8) | 3:30 | 2023-12-21 | 2024-03-01 |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 | 2023-02-03 |

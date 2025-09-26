@@ -2,9 +2,9 @@
 
 ### [Hardstyle Adrenaline! 2025](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
-> Weekly new Hardstyle releases! Cover: LNY TNZ & Lady Faith
+> Weekly new Hardstyle releases! Cover: Radical Redemption
 
-1,686 songs - 3 day 17 hr 9 min
+1,689 songs - 3 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1015,6 +1015,7 @@
 | [Nothing](https://open.spotify.com/track/5kpa0fXPtJO94aZHFxyniX) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Nothing](https://open.spotify.com/album/3b8ROVFVbmcSJWIDnUOmMG) | 2:54 | 2024-03-07 | 2024-04-26 |
 | [Nothing About You](https://open.spotify.com/track/58AHKBiwr20gH8XYOZsyaz) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing About You](https://open.spotify.com/album/0GsgSrhg6KOeJt3MERRAnx) | 3:16 | 2023-06-30 | 2023-10-17 |
 | [Nothing But Rave](https://open.spotify.com/track/6sLOD5PmgKoZnFnlUOP6Qs) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz) | [Nothing But Rave](https://open.spotify.com/album/4NJra0ewTCFEODSaj4NYcU) | 3:27 | 2024-05-24 | 2024-09-12 |
+| [Nothing Has Changed](https://open.spotify.com/track/4yeTJoPx4cy7TNRmAluthA) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Crypsis](https://open.spotify.com/artist/4Kr8tEhZ6ecAQnqxd7WkTb) | [](https://open.spotify.com/album/null) | 2:55 | 2025-09-25 |  |
 | [Nothing To Lose](https://open.spotify.com/track/3Q29TeMT3X5QJdhSnvKMXH) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Nothing To Lose](https://open.spotify.com/album/7kWLLzgXrt0YeyZh40lekj) | 3:04 | 2023-03-02 | 2023-03-31 |
 | [Nothing To Lose](https://open.spotify.com/track/2gMzuxmKuDynQv22vJ9j4T) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Nothing To Lose](https://open.spotify.com/album/7EYiUc3Hd8fG62e1BAiC7v) | 2:51 | 2024-10-11 | 2024-12-21 |
 | [Nothing To Lose](https://open.spotify.com/track/2BFCpSFQzRhibfEVHSRnak) | [Serzo](https://open.spotify.com/artist/3OhUveXjN6gDbNt7ygN8z6) | [Nothing To Lose](https://open.spotify.com/album/5nwM3L9UNn8XNZFNo4tKZz) | 3:08 | 2025-01-21 | 2025-03-28 |
@@ -1158,6 +1159,7 @@
 | [Reach For The Skies](https://open.spotify.com/track/2z0elDbkUu66qVhHjoinIf) | [Refuzion](https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1) | [Reach For The Skies](https://open.spotify.com/album/5w5leGYR0mUkjYye0yh1FQ) | 2:35 | 2025-03-27 | 2025-05-27 |
 | [Ready For Lift Off \- Official REBiRTH Festival 2023 Anthem](https://open.spotify.com/track/31cqlvoZi1O7QsaVgLEcja) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [Ready For Lift Off \(Official REBiRTH Festival 2023 Anthem\)](https://open.spotify.com/album/1ckcNvmYtXfZ5e87cx9OqZ) | 2:56 | 2023-03-16 | 2023-07-07 |
 | [Ready For War](https://open.spotify.com/track/2YimCTUF3UEyFCgEXTkvqv) | [Spectre](https://open.spotify.com/artist/4Xrfj658V9oL5xwi7oM70C), [KAMI](https://open.spotify.com/artist/5nodOFXcI3HPPhfqhWwd06) | [Ready For War](https://open.spotify.com/album/0AL1DcsoCtIozNCQd1zpJV) | 2:40 | 2023-11-02 | 2024-03-29 |
+| [Ready Or Not](https://open.spotify.com/track/1XGNfiOQXjaUG8W9kLSCQl) | [Ghost Stories](https://open.spotify.com/artist/6J6UF3GqOLdt6f4gfazSzf), [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z) | [Ready Or Not](https://open.spotify.com/album/4bnPHqulH5HKtpkeb4ZmJ5) | 2:08 | 2025-09-25 |  |
 | [Realign](https://open.spotify.com/track/50lXm6nruD49kKZlvxpZGc) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Sephyx](https://open.spotify.com/artist/7MXzeG7zoG8pKpqKCOqcZL) | [Realign](https://open.spotify.com/album/5PvqY3FPsJVy5jt9ctDieT) | 3:09 | 2023-12-14 | 2024-02-16 |
 | [Reality](https://open.spotify.com/track/6WkMCi8yZNfz8NT8h7Z7GR) | [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Dimmalou](https://open.spotify.com/artist/0IOiHLj2Tkym3BoVk1p5AT) | [Reality](https://open.spotify.com/album/5c1miQshKBEz9MGtviYMHU) | 3:02 | 2023-03-16 | 2023-05-12 |
 | [Reawakening \(Atmozfears Edit\)](https://open.spotify.com/track/2znFCITDYslbygrynpOpvX) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Reawakening \(Atmozfears Edit\)](https://open.spotify.com/album/5hTZnGIfPCS4wkSJFG7wDX) | 4:38 | 2023-08-31 | 2023-11-18 |
@@ -1187,6 +1189,7 @@
 | [Requiem For Frenchcore](https://open.spotify.com/track/74BhIuyvu7JybiatXBSsjR) | [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Requiem For Frenchcore](https://open.spotify.com/album/1bk7I8uBUKPMqsKfLsxZ5i) | 4:14 | 2024-08-30 | 2024-12-03 |
 | [Research Myself](https://open.spotify.com/track/4zPZfnA5ZF66ICsmLkgv7w) | [Pulserz](https://open.spotify.com/artist/0fujXq1smK5pNrKT6hlPAs) | [Research Myself](https://open.spotify.com/album/6oOeihqDa3i1YZ12li7BkB) | 4:04 | 2025-02-18 | 2025-05-13 |
 | [Rest In Pieces](https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Iris Goes](https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2) | [Rest In Pieces](https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T) | 3:12 | 2023-04-06 | 2023-07-28 |
+| [Restart](https://open.spotify.com/track/2ykKExspQuVlZbJ2fk55ij) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Restart](https://open.spotify.com/album/3EUfKGG1ElbgP6V5Beynna) | 2:47 | 2025-09-25 |  |
 | [RETALIATION](https://open.spotify.com/track/3rAXPlJxKnbBwmOnieHmv4) | [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8), [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [RETALIATION](https://open.spotify.com/album/2duNAKapYASnm8WeEMTcRG) | 3:06 | 2024-06-07 | 2024-08-03 |
 | [Retaliation](https://open.spotify.com/track/1f66qSb10snVVBFgsyG6Hk) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem) | [Retaliation](https://open.spotify.com/album/2msjX4XdNt1Ui2lB2RaCx1) | 3:33 | 2024-06-14 | 2024-08-03 |
 | [Return Of The Return](https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Return Of The Return](https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4) | 2:55 | 2023-06-01 | 2023-06-16 |

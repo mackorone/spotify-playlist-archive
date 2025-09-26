@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 131996,
+  "num_followers": 132006,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAABtZ1REllHCs9pe6xM83oK1",
+  "snapshot_id": "aNM0gAAAAABCUCZGaPDh01mibMbn0uHN",
   "tracks": [
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 218000,
-      "name": "The Scorpion Sleeps",
-      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
+      "duration_ms": 249226,
+      "name": "Let It All Bleed Out",
+      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 249226,
-      "name": "Let It All Bleed Out",
-      "url": "https://open.spotify.com/track/2pdD9sxt4WuYADKACM2JYN"
+      "duration_ms": 218000,
+      "name": "The Scorpion Sleeps",
+      "url": "https://open.spotify.com/track/5sfr7L2gWXXYulwD8KmfkQ"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Past, Present & Future",
         "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 252693,
       "name": "Hands Of Death (Burn Baby Burn)",
       "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
     },
     {
       "added_at": null,

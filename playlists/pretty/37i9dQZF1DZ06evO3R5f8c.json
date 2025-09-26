@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 180065,
+  "num_followers": 180136,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAAAYARdgAypEc415cPyJZ3V4",
+  "snapshot_id": "aNM0gAAAAADYG1Vp6W9eu4zdau7f+1z1",
   "tracks": [
     {
       "added_at": null,
@@ -855,26 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best of 2016",
-        "url": "https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN"
+        "name": "I Have Faith (feat. Mondli Ngcobo)",
+        "url": "https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS"
       },
       "artists": [
-        {
-          "name": "Marie Joly",
-          "url": "https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr"
-        },
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Rebecca Murray",
-          "url": "https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T"
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
         }
       ],
-      "duration_ms": 391368,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok"
+      "duration_ms": 494594,
+      "name": "I Have Faith (feat. Mondli Ngcobo)",
+      "url": "https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI"
     },
     {
       "added_at": null,
@@ -899,22 +895,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Have Faith (feat. Mondli Ngcobo)",
-        "url": "https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS"
+        "name": "Best of 2016",
+        "url": "https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN"
       },
       "artists": [
+        {
+          "name": "Marie Joly",
+          "url": "https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr"
+        },
         {
           "name": "Black Coffee",
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Mondli Ngcobo",
-          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+          "name": "Rebecca Murray",
+          "url": "https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T"
         }
       ],
-      "duration_ms": 494594,
-      "name": "I Have Faith (feat. Mondli Ngcobo)",
-      "url": "https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI"
+      "duration_ms": 391368,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok"
     },
     {
       "added_at": null,

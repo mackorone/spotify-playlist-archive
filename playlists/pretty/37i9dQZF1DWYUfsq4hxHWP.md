@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Will Terry, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,690 likes - 160 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,725 likes - 160 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 120 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/2z19y9rLVah7TJ066sHQwT) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Smoke 'Em If You Got 'Em](https://open.spotify.com/album/73cy9DsjwEuVstinGjIhQn) | 2:48 |
 | 121 | [Nothing To Do](https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Nothing To Do](https://open.spotify.com/album/03qJ0llRuCFBEPCt5NQR50) | 4:14 |
 | 122 | [Mama and Daddy's Dream](https://open.spotify.com/track/5SgNdmCXxrhO84UIkgj7tL) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Mama and Daddy's Dream](https://open.spotify.com/album/7v4aRaYGF1NgS90uSQG6Um) | 3:31 |
-| 123 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 |
+| 123 | [Whiskey Tears](https://open.spotify.com/track/3gJdB3HBTbnEyelJKmXbKN) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Lovesick Original](https://open.spotify.com/album/2ipTgmp5HdUuiFI85oBA5U) | 2:29 |
 | 124 | [All I Wanna Do](https://open.spotify.com/track/4mabGqYOu6khp2A9zjxEvQ) | [Logan Crosby](https://open.spotify.com/artist/7FUAyXZ6S06Vr6HzCqGK5Q) | [All I Wanna Do](https://open.spotify.com/album/22vNeFgYmnap6GSgXH8g92) | 3:33 |
 | 125 | [More Than A Game](https://open.spotify.com/track/6thlku78mz5ZcnLtahZKRi) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [More Than A Game](https://open.spotify.com/album/3q1oRo4a5ijzQoxP0sAPBX) | 3:34 |
 | 126 | [Faith In A Man](https://open.spotify.com/track/07z9wLUW8gZRR5i2FkjInQ) | [Kady Zadora](https://open.spotify.com/artist/3e5ErlzlEHeOEHgAH0Oeew) | [Faith In A Man](https://open.spotify.com/album/0GE6AsrJFgIh5Z43fx5tzo) | 2:55 |

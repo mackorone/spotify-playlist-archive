@@ -998,7 +998,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 279786,
       "name": "FOCUS ON YOUR LIFE",
       "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 255293,
       "name": "Happy's Birthday",
       "url": "https://open.spotify.com/track/3TRybkW20l5nukwmOXsBTx"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 252546,
       "name": "ONE to DREAM\uff01",
       "url": "https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S"
@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/7JXzidlHOceKVsvd26HaZl"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u901f\u4e00\u9b42",
+          "url": "https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276333,
+      "name": "RIGHT WAY, SOUL MATE",
+      "url": "https://open.spotify.com/track/3DzukJkMEOPLkZc8P9dHJC"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
         "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
       },
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 256880,
       "name": "Study Equal Magic!",
       "url": "https://open.spotify.com/track/7KfXfSEQGeABJ1EKxrzcfq"
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 271640,
       "name": "VICTORY BELIEVER",
       "url": "https://open.spotify.com/track/5ltT1kT95shiznz2wQiZ3l"

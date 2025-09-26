@@ -11401,6 +11401,28 @@
     },
     {
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/01midiBHMShyJUHuQo9KLQ"
+      },
+      "artists": [
+        {
+          "name": "Juron Cole",
+          "url": "https://open.spotify.com/artist/0zRN5gl7c9aSk5BNie0Kng"
+        },
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/2Ybw6iHxoyXWBTtcz9SCZu"
+    },
+    {
+      "album": {
         "name": "I Should Let You Go",
         "url": "https://open.spotify.com/album/1OTu9IZzW6ly1CFPrTL6dP"
       },

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 ### [New Music Friday Deutschland](https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6)
 
-> Neue Musik von Zimmer90, Nina Chuba, Lewis Capaldi, RAYE und mehr!
+> Neue Musik von 01099, Tate McRae, Kraftklub, Doja Cat und mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,188 likes - 84 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,172 likes - 84 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 83 | [Smoochie Girl](https://open.spotify.com/track/0nimVZc4NEpUO0qub6FZRk) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochie Girl](https://open.spotify.com/album/3Xy6qL3ZmwqwOGjBkypnlJ) | 3:01 |
 | 84 | [Reason](https://open.spotify.com/track/61X5CXv4YIswUiX9ll5Cgp) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Reason](https://open.spotify.com/album/0j9KCCiSJWCcEisoWVHYA6) | 3:13 |
 
-Snapshot ID: `AAAAALOa5dgUh35rTAVv2krFHviCz7SQ`
+Snapshot ID: `AAAAANRncPUo1V7M1fHDaY9M2E3PqjGK`

@@ -4,7 +4,7 @@
 
 > Sakiler ve haftanın en iyi çıkışları!
 
-3,322 songs - 6 day 23 hr 49 min
+3,323 songs - 6 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [BEST FRIEND](https://open.spotify.com/track/6bqOrC1ZD1RTrq09AMsLaB) | [ÖzgürCan](https://open.spotify.com/artist/6m1bPVZMf5Hsi8cgmEs1yy), [Fredo](https://open.spotify.com/artist/49h0OdRzNx53XMMIXoHMm6) | [BEST FRIEND](https://open.spotify.com/album/4zJtBorxtSwnz6LWs7AxRZ) | 2:53 | 2025-09-18 |  |
 | [Beste](https://open.spotify.com/track/3DeVWNbo7ZepNoTGUWXpNv) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Beste](https://open.spotify.com/album/480hFW3UH8eVvm2dydtYbA) | 2:17 | 2025-06-12 | 2025-06-20 |
 | [beter pişmandan](https://open.spotify.com/track/0OIvD8ygeRUrKdWSeQpRO6) | [zeynepsu](https://open.spotify.com/artist/7raCQvZOJyKyxCszubdqqG) | [beter pişmandan](https://open.spotify.com/album/3CHSttXDYnEEox85UUJKZb) | 2:48 | 2025-08-28 | 2025-09-05 |
+| [Better Man Than Me](https://open.spotify.com/track/4AZXFgbU85BZMQxzb1yUgh) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Better Man Than Me](https://open.spotify.com/album/2mNbmHyuScAG20cvAdVQKI) | 2:37 | 2025-09-18 |  |
 | [between us](https://open.spotify.com/track/7b3olPgqKv1fsz20iAe36L) | [woest](https://open.spotify.com/artist/7cJKpArbks6AeFAFlk8nMj) | [between us](https://open.spotify.com/album/205qsSqoeZSQ7zcd5yk7el) | 2:36 | 2025-08-28 | 2025-09-05 |
 | [BEVERLY HILLS](https://open.spotify.com/track/0qBG3ZUY1LVbZC5jYJU2SB) | [VONN](https://open.spotify.com/artist/4pjd7yxYQD79BfEiph7RH2), [kerem.](https://open.spotify.com/artist/3Y7BOP46zC3Tbze2TW8CQr) | [BEVERLY HILLS](https://open.spotify.com/album/1QUky7HlxmFgmwgkDBAhjX) | 2:14 | 2025-08-28 | 2025-09-05 |
 | [BEYABAN](https://open.spotify.com/track/3SsjIpkYC1c0KzDWikOFV5) | [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6), [Groza](https://open.spotify.com/artist/4vexLDbfehpgMFreLkeatb) | [BEYABAN](https://open.spotify.com/album/2h09rlHXzypXdVK37t3Run) | 2:26 | 2025-06-12 | 2025-06-20 |

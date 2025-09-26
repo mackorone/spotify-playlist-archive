@@ -631,26 +631,6 @@
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
-        "name": "\u512a\u52dd",
-        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 271013,
-      "name": "\u512a\u52dd",
-      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
-    },
-    {
-      "added_at": "2025-08-26 15:00:26",
-      "album": {
         "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089 (\u30d1\u30e9\u30ec\u30ebver.)",
         "url": "https://open.spotify.com/album/4txrzjXgvXWNiWlZB0YndH"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 238333,
       "name": "\u3072\u3068\u308a\u3058\u3083\u306a\u3044\u3093\u3060\u304b\u3089 (\u30d1\u30e9\u30ec\u30ebver.)",
       "url": "https://open.spotify.com/track/1iRCZqUqfCFBqT8NI89geT"
+    },
+    {
+      "added_at": "2025-08-26 15:00:26",
+      "album": {
+        "name": "\u512a\u52dd",
+        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 271013,
+      "name": "\u512a\u52dd",
+      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -912,15 +912,15 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Butter-Fly - Cover",
-      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
+      "duration_ms": 244200,
+      "name": "Crow Song - Cover",
+      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
     },
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
-        "name": "\u4e21\u7ffc\u306eBrilliance",
-        "url": "https://open.spotify.com/album/5AtHehANdflNwC5rcEyfsW"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 239900,
-      "name": "\u4e21\u7ffc\u306eBrilliance",
-      "url": "https://open.spotify.com/track/7IV0vuX4nTrPxH08lNrZ0Q"
+      "duration_ms": 255000,
+      "name": "\u8a93\u3044\u306eWingbeat",
+      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 244200,
-      "name": "Crow Song - Cover",
-      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
+      "duration_ms": 250200,
+      "name": "Butter-Fly - Cover",
+      "url": "https://open.spotify.com/track/3F5z872AOQcAyo7j3010bk"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
-        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
+        "url": "https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY"
       },
       "artists": [
         {
-          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
-          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
+          "name": "\u725b\u8fbc\u308a\u307f(CV:\u897f\u672c\u308a\u307f)",
+          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
         }
       ],
-      "duration_ms": 322546,
-      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
-      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
+      "duration_ms": 266066,
+      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
+      "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
     },
     {
       "added_at": "2025-08-26 15:00:26",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2025-08-26 15:00:26",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u725b\u8fbc\u308a\u307f\u300c\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4\u300d",
-        "url": "https://open.spotify.com/album/3zrgzF43liJ4XmUmg83AQY"
+        "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5c71\u5439\u6c99\u7dbe\u300c\u9060\u3044\u97f3\u697d \uff5e\u30cf\u30fc\u30c8\u30d3\u30fc\u30c8\uff5e\u300d",
+        "url": "https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8"
       },
       "artists": [
         {
-          "name": "\u725b\u8fbc\u308a\u307f(CV:\u897f\u672c\u308a\u307f)",
-          "url": "https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG"
+          "name": "\u5c71\u5439\u6c99\u7dbe(CV.\u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy"
         }
       ],
-      "duration_ms": 266066,
-      "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8\u306e\u4f4e\u97f3\u30ec\u30b7\u30d4",
-      "url": "https://open.spotify.com/track/5PumX86kzr0BD3IgBtTYtM"
+      "duration_ms": 322546,
+      "name": "STAR BEAT!\uff5e\u30db\u30b7\u30ce\u30b3\u30c9\u30a6\uff5e - Acoustic Ver.",
+      "url": "https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl"
     },
     {
       "added_at": "2025-08-26 15:00:26",

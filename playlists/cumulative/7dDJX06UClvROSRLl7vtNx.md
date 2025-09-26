@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,017 songs - 1 day 20 hr 7 min
+1,018 songs - 1 day 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,7 @@
 | [Hope](https://open.spotify.com/track/69HRiRh27nXsmN3HYlTOby) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Hope](https://open.spotify.com/album/1xdWkKNdbdGEtp4U7NZ09x) | 2:33 | 2025-04-21 | 2025-06-03 |
 | [Hope You Love Me Too](https://open.spotify.com/track/3i7cPXSDkJRYOKplg5Jzoj) | [Liam May](https://open.spotify.com/artist/08FLRGNlpjKOHbKJH9eFNQ), [Moving Castles](https://open.spotify.com/artist/0me4iIJvYbOevaJMMtUPC8), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Hope You Love Me Too](https://open.spotify.com/album/40DvN836TVuEFJPWyXknm5) | 2:06 | 2024-10-06 | 2024-11-18 |
 | [Horizon \(So Blue\)](https://open.spotify.com/track/4q4IwjuMCZ5g9e9LwH9P3J) | [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [Horizon \(So Blue\)](https://open.spotify.com/album/3So42AUVeG31u5L8IN1HvE) | 2:15 | 2024-01-27 |  |
-| [Hot](https://open.spotify.com/track/59MFdfPVDQv8gtAzF7u6yy) | [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC) | [Hot](https://open.spotify.com/album/648tuHJ97c1X0FbTrIxIdd) | 2:51 | 2025-07-25 |  |
+| [Hot](https://open.spotify.com/track/59MFdfPVDQv8gtAzF7u6yy) | [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC) | [Hot](https://open.spotify.com/album/648tuHJ97c1X0FbTrIxIdd) | 2:51 | 2025-07-25 | 2025-09-26 |
 | [Hotel California](https://open.spotify.com/track/0CGnyglAc8wPFj8lus9P0W) | [live to love](https://open.spotify.com/artist/4fthU4xExNwotqJYN2fq3w), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Hotel California](https://open.spotify.com/album/6qtt9QJYtwYoO9K6FeNPhe) | 3:08 | 2024-07-10 | 2024-09-09 |
 | [House Of Cards](https://open.spotify.com/track/6dCF9KJngOrJCmMuxFmBx1) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [House Of Cards](https://open.spotify.com/album/6ru1h6aqej9yk3r4gJzwMH) | 2:36 | 2023-11-05 | 2024-10-07 |
 | [House On The Beach](https://open.spotify.com/track/6kPChG0xYqbKXvDcSlqYWJ) | [SEIDS](https://open.spotify.com/artist/2Eipav5ZNY6ON1FReIYpKE), [Dawilk](https://open.spotify.com/artist/71Ys73tqf8PyRWqr8PFpaf), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD) | [House On The Beach](https://open.spotify.com/album/4oEQdcixkeDBHuwcsvTsNN) | 2:21 | 2025-01-30 |  |
@@ -934,6 +934,7 @@
 | [Under The Sun](https://open.spotify.com/track/5RtKqmLXgmg3wGs59MtyEv) | [F3DE](https://open.spotify.com/artist/1Nl4T9IMmYtAiblMLKRbpH), [Giorgio Ragusa](https://open.spotify.com/artist/1QCEEDQqnVWASzqN3gbwu3), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Under The Sun](https://open.spotify.com/album/1tsTDGKub4w9zZWnmokoXB) | 3:12 | 2025-08-31 |  |
 | [Under The Sun](https://open.spotify.com/track/4rZInku37XsXiHg8Px4smI) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [Under The Sun](https://open.spotify.com/album/53lSthGjKdN6jvmm9I3yG6) | 2:43 | 2025-03-28 | 2025-06-03 |
 | [Undertow](https://open.spotify.com/track/6Fy8K1TTQj7SPdsjYl0gLC) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Ynnox](https://open.spotify.com/artist/12Br190pgwwhEjMY1ResUN) | [Undertow](https://open.spotify.com/album/0dnBeLR9f0oDAptNqPZQH5) | 2:29 | 2024-08-29 | 2025-04-22 |
+| [Unreachable](https://open.spotify.com/track/1ZJf99SCDgvPmc5y5bFlaJ) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Unreachable](https://open.spotify.com/album/2U3XIbR7gUgRnQQZJ68d9o) | 2:50 | 2025-09-25 |  |
 | [Until The End Of Time](https://open.spotify.com/track/0Zv5hSYT7LD7GFRO8Ip0oU) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Until The End Of Time](https://open.spotify.com/album/6ncZ16w9NoA8EXiTRAXAj1) | 3:14 | 2024-01-06 | 2024-05-13 |
 | [Until We're Together](https://open.spotify.com/track/7gPd8N4YFAXjiQtnnQzRn9) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Until We're Together](https://open.spotify.com/album/0gerArONKXKkiCm6jdfIGB) | 2:11 | 2024-11-03 |  |
 | [Up At Night](https://open.spotify.com/track/3HMFkGrSmhzEVNatvkfSZj) | [Jeremy Arnold](https://open.spotify.com/artist/7bSNahMBuhzMOwCAn57FB5) | [Up At Night](https://open.spotify.com/album/6DDnONcoqkv97XDFxc59nO) | 2:54 | 2024-07-30 | 2025-01-26 |

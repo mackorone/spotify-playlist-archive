@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,876 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,881 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 6 | [La Nuova Stella Di Broadway](https://open.spotify.com/track/3qtuOAI0YyfoBM1s7Tvm46) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [La Teoria Dei Colori](https://open.spotify.com/album/3OpmNTT7hIZMoO9NNcKnmz) | 4:27 |
 | 7 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 |
 | 8 | [L'Emozione Non Ha voce \(Io Non So Parlar D'Amore\)](https://open.spotify.com/track/39efIaQFmERjt8U71FrJzs) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Io Non So Parlar D'Amore](https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO) | 4:07 |
-| 9 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
-| 10 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
+| 9 | [Quando \- 2021 Remaster](https://open.spotify.com/track/2wcfoB1fYTDaLdV4RqA42H) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Sotto 'o sole \(2021 Remaster\)](https://open.spotify.com/album/2lIRhytz2a9UnnVmRrpPCW) | 3:35 |
+| 10 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 11 | [L'Anno Che Verrà](https://open.spotify.com/track/2buPtPaKomtwoT8YvxO13f) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl) | [Lucio Dalla](https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E) | 4:26 |
 | 12 | [Il pescatore](https://open.spotify.com/track/0i4mLwfyxnSSgF6hwIkU2L) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Fabrizio De André Opere Complete](https://open.spotify.com/album/4O3H3CcqEyK7J5T7rhVf72) | 2:20 |
 | 13 | [La voglia, la pazzia](https://open.spotify.com/track/1Sr4RnfU7JVaRKuhNrfI5h) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [La voglia la pazzia l'incoscienza l'allegria](https://open.spotify.com/album/5O6YBiSMJZ4qB5opZCJHGH) | 2:53 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 27 | [Un Tempo piccolo](https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Non Escludo Il Ritorno](https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk) | 4:11 |
 | 28 | [Io Sono Francesco](https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga) | [Tricarico](https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2) | [Tricarico](https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG) | 4:07 |
 | 29 | [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 |
-| 30 | [Nel blu dipinto di blu](https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Il Meglio Di Domenico Modugno](https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL) | 3:36 |
-| 31 | [La cura](https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz), [Amara](https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb) | [Quando sarai piccola](https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm) | 3:45 |
+| 30 | [La cura](https://open.spotify.com/track/4ysfdDuWc4QeRQxrxl7Zpr) | [Simone Cristicchi](https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz), [Amara](https://open.spotify.com/artist/0DRQddAJlPIR3pMzRJm5kb) | [Quando sarai piccola](https://open.spotify.com/album/2aWZwqdkvyuhtmn28C9sqm) | 3:45 |
+| 31 | [Nel blu dipinto di blu](https://open.spotify.com/track/0aHF6drKFMYZzVOj6w4XD1) | [Domenico Modugno](https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI) | [Il Meglio Di Domenico Modugno](https://open.spotify.com/album/10SVRDLGL9tVABKADwUgzL) | 3:36 |
 | 32 | [Che Cosa c'è](https://open.spotify.com/track/222NjdAmBVfJetuG6aggiC) | [Gino Paoli](https://open.spotify.com/artist/2taCySpDIEEa2mvo2k7xkH) | [Basta Chiudere Gli Occhi](https://open.spotify.com/album/1Z8UL8WI8OmzcrwHVgHv3j) | 2:38 |
 | 33 | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d), [Neri Per Caso](https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q) | [Quando \(feat\. Neri Per Caso\)](https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz) | 3:21 |
 | 34 | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Yes I Know My Way \(Live \- Sanremo 2025\)](https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI) | 3:28 |

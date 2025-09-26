@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from NewDad
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,900 likes - 130 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,632 likes - 130 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

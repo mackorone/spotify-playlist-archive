@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,164 songs - 5 day 14 hr 3 min
+2,165 songs - 5 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [DiZZY](https://open.spotify.com/track/0gw7bQqOKmTTaS61OMr7p0) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [DiZZY](https://open.spotify.com/album/1jRY8xgz0ZnlvkxzbBcs1g) | 2:52 | 2025-07-10 | 2025-07-25 |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-13 | 2023-01-11 |
 | [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-07 | 2024-07-06 |
+| [Door](https://open.spotify.com/track/7jtSnhWR2swDDdt8YyvdGo) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [New PANTY & STOCKING with GARTERBELT The Soundtrack](https://open.spotify.com/album/5I8ZtaN31ft5f95wdNcKNp) | 3:15 | 2025-09-25 |  |
 | [door](https://open.spotify.com/track/0TF4op8eQkheQdlWQM9Bgl) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールエンディングテーマ door（Special Edition）](https://open.spotify.com/album/1FgvZygYK6UfpleMuwyQ4r) | 4:12 | 2023-07-25 | 2023-07-27 |
 | [door](https://open.spotify.com/track/2jhWhT9t7S2m2B8U9i02wP) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Ending Theme Song "door" \(Special Edition\)](https://open.spotify.com/album/1cZzq5dsP3xZlPKgYfCd5J) | 4:12 | 2023-07-25 | 2023-08-09 |
 | [DOPE](https://open.spotify.com/track/4tDY4dIOFJRt0Tf71fjjia) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [DOPE](https://open.spotify.com/album/6S5zNfQjoHlylSZvBDnkbe) | 3:11 | 2025-01-21 | 2025-01-31 |
@@ -420,7 +421,7 @@
 | [Happy! Happier! Happiest!](https://open.spotify.com/track/5DLCWZ8iCApW6pW2VoR6tR) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [Happy! Happier! Happiest!](https://open.spotify.com/album/7p2of7HqIEMr6zv1ux2o40) | 4:01 | 2022-06-30 | 2022-07-27 |
 | [Happy\-go\-Journey](https://open.spotify.com/track/6JcmTPEHDLvwToGpeAukA2) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Happy\-go\-Journey](https://open.spotify.com/album/35AHPNHsfU1eezJfDJfWrN) | 3:37 | 2023-01-17 | 2023-04-12 |
 | [Harmonia](https://open.spotify.com/track/2vrRXFEaxPVwp862BAy3Ue) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Calm Scene](https://open.spotify.com/album/2g4lh8W2GMNpylK7IAEttt) | 4:31 | 2024-04-23 | 2024-05-10 |
-| [harmonious](https://open.spotify.com/track/47Qy6nPPBz7MjkWLlgu8Mh) | [Daiki Yamashita × Tasuku Hatanaka](https://open.spotify.com/artist/1WgQ5XRSUBMmMqvcpvW3F0), [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Tasuku Hatanaka](https://open.spotify.com/artist/6RxyQc6YbAHJkDOUSxpKSk) | [Share](https://open.spotify.com/album/6udhPT4ffoN58coTDDFcNW) | 3:49 | 2025-09-02 |  |
+| [harmonious](https://open.spotify.com/track/47Qy6nPPBz7MjkWLlgu8Mh) | [Daiki Yamashita × Tasuku Hatanaka](https://open.spotify.com/artist/1WgQ5XRSUBMmMqvcpvW3F0), [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py), [Tasuku Hatanaka](https://open.spotify.com/artist/6RxyQc6YbAHJkDOUSxpKSk) | [Share](https://open.spotify.com/album/6udhPT4ffoN58coTDDFcNW) | 3:49 | 2025-09-02 | 2025-09-26 |
 | [Hazard Symbol](https://open.spotify.com/track/6os11uQ1ycan0RdUtfvnA9) | [Yuyu](https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy) | [Hazard Symbol](https://open.spotify.com/album/5ZOD8tOIUtizQrVNzZro5h) | 3:57 | 2024-04-11 | 2024-04-19 |
 | [Hazure](https://open.spotify.com/track/0d71kse4wROg8GrkqbRVaU) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Hazure](https://open.spotify.com/album/1HaXmimeKNGAdz6nTN4bdH) | 3:18 | 2024-07-05 | 2024-10-04 |
 | [heart](https://open.spotify.com/track/5hDchbWpNl4scdX1dLBIC0) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [heart](https://open.spotify.com/album/4s3zdo1fd29mTFmdRirtI0) | 3:30 | 2025-03-25 | 2025-04-18 |

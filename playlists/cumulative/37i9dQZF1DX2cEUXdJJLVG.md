@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-442 songs - 1 day 2 hr 28 min
+443 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Body Move](https://open.spotify.com/track/5gVXgdnsZmDFVDCbvhXo0p) | [They Call Me Steve](https://open.spotify.com/artist/3sMOsgdJl7e2l6nueIl4Se) | [Body Move](https://open.spotify.com/album/7i4i7qBQai2WA99i7U68HW) | 3:20 | 2025-08-28 |  |
 | [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-09-09 | 2025-02-08 |
 | [Bounce](https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:52 | 2023-04-20 | 2024-04-19 |
+| [Box](https://open.spotify.com/track/0iRusRtyHdPGupYmewSrQY) | [Bibi Seck](https://open.spotify.com/artist/3jANByuh8HmbbGdFR1BrEr) | [Box](https://open.spotify.com/album/30cP9CLbeq18rB7c3fZdMY) | 3:25 | 2025-09-25 |  |
 | [Brave](https://open.spotify.com/track/6AQygTQqLS5uKpXqiM6dRG) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Yemaya](https://open.spotify.com/album/3Ezpz7KzzZVcTeapT5oSww) | 2:36 | 2022-09-09 | 2022-09-16 |
 | [Breeze \- Remix](https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Breeze \(Remix\)](https://open.spotify.com/album/7K9N5hcPwPmEjhYZHhqA45) | 2:43 | 2022-09-09 | 2024-05-10 |
 | [Broken Record](https://open.spotify.com/track/3rK328kNdfyU4pICIPSopA) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Broken Record](https://open.spotify.com/album/7HpmGgVcO09i1LMAqMbFbd) | 3:05 | 2025-06-06 |  |

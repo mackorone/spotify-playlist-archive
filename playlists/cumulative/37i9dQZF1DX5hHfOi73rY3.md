@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-253 songs - 17 hr 18 min
+254 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2024-01-12 | 2024-04-19 |
 | [Au Seve](https://open.spotify.com/track/2IZRKyfNf5wkUxz89DSCgV) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/4B7suN0MtI45BxJCDleJ8r) | 6:33 | 2020-11-06 | 2022-08-17 |
 | [Au Seve](https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N) | 6:33 | 2024-01-12 | 2025-05-17 |
-| [Back 2 Back](https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Back 2 Back EP](https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9) | 2:45 | 2025-08-07 |  |
+| [Back 2 Back](https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Back 2 Back EP](https://open.spotify.com/album/53WyFS0bhSNDZ3TrfAJzI9) | 2:45 | 2025-08-07 | 2025-09-26 |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-03-28 |  |
 | [Bass Tool \- Radio Edit](https://open.spotify.com/track/6OXVILGyLRDDv0y0oRYErc) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Bass Tool \(Radio Edit\)](https://open.spotify.com/album/003Bk58h37JXh5Pyl6EIvy) | 3:42 | 2025-05-01 | 2025-05-30 |
 | [Bass Up To The Top](https://open.spotify.com/track/0Z5iboHxPmyilWJQFnHZaY) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Bass Up To The Top](https://open.spotify.com/album/0dPApl3iIct0S2T9lEtxSV) | 3:16 | 2024-09-27 |  |
@@ -29,6 +29,7 @@
 | [Beatbox](https://open.spotify.com/track/7CkESXBof0weZtHv2voolS) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Beatbox](https://open.spotify.com/album/5SATDgT7dl86qwY0QTJpso) | 3:14 | 2025-08-07 | 2025-09-11 |
 | [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2020-11-06 | 2024-03-01 |
 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 | 2020-11-06 | 2024-01-18 |
+| [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 | 2025-09-02 |  |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 | 2020-11-06 | 2025-02-21 |
 | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. Bbyafricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 | 2024-04-19 | 2024-10-28 |
 | [Blind Faith](https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [No More Idols](https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr) | 3:53 | 2020-11-06 | 2024-01-18 |

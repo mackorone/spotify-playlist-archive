@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Act A Fool",
+        "url": "https://open.spotify.com/album/3QSHm2WmJOo183q1MHOtnm"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218052,
+      "name": "Act A Fool",
+      "url": "https://open.spotify.com/track/3eMoprmyQvZJ2ID5DeDZjj"
+    },
+    {
+      "album": {
         "name": "Afrika My Afrika",
         "url": "https://open.spotify.com/album/1rUOxTpEkSvqRgqM1zsg9o"
       },
@@ -12532,7 +12554,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 230500,
       "name": "Morar No Mar",
       "url": "https://open.spotify.com/track/5d21ic3cXPqd2uMwaDDoRx"

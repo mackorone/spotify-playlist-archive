@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,645 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,657 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 82 | [Basement Fonk](https://open.spotify.com/track/4KRcIBZEAen2jCt6OJEEoG) | [Azmito](https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ), [Nicofasho](https://open.spotify.com/artist/4tWV1lOUGf5jTcgqNjDZQi), [Vade One](https://open.spotify.com/artist/4rPB8o4SyEa6cNCIzUBvU7), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Basement Fonk](https://open.spotify.com/album/76SkVpRwhBm3hpg9rzzV6u) | 3:36 |
 | 83 | [Tell Me](https://open.spotify.com/track/4YoxVwd6uLXE2RtcDtp2UP) | [Saucy Lady](https://open.spotify.com/artist/4KVxpSAJQPk8id0hHJIse2), [U\-Key](https://open.spotify.com/artist/3JBIQGrl2NNFp8Vt5ZPyxk), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr) | [Tell Me](https://open.spotify.com/album/4ucIAgu9h7BnQJHMZ6Bb52) | 4:17 |
 | 84 | [Remember](https://open.spotify.com/track/2vScopeFot4IyMBG4Smgqf) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Remember](https://open.spotify.com/album/71Zx19ODMWH3fAVqqE8vR5) | 3:53 |
-| 85 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [kristina alcordo](https://open.spotify.com/artist/3y6KP6ZPC8SskJTCNAkFNs) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 |
+| 85 | [Day Like This](https://open.spotify.com/track/2QZ0YOuXUtfLY3cilsD3qu) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [Day Like This](https://open.spotify.com/album/6XXha8DIiLzRXNIxFFLpV8) | 2:28 |
 | 86 | [Get It Together](https://open.spotify.com/track/6VR6zbx4S7eFDRGYGlGqd4) | [Moniquea](https://open.spotify.com/artist/755CaPd9SRvZdhHKBzBY28), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Get It Together](https://open.spotify.com/album/76koL38pnB1jvkcszC6ITI) | 3:35 |
 | 87 | [Good Fever](https://open.spotify.com/track/64dBx9RrZFa2abQePFWxUv) | [Johnny Burgos](https://open.spotify.com/artist/1dmBfZXCP98HFGOl5zgOWe), [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Good Fever](https://open.spotify.com/album/4W97F7B5XosEJ64aUiYHo5) | 3:19 |
 | 88 | [Blue](https://open.spotify.com/track/2uXcCHlMq7Yh4sOlO2fcKl) | [Skunkhour](https://open.spotify.com/artist/6zKENpFrMgdaWF87sfnmWF) | [Blue](https://open.spotify.com/album/1BIUv1KClJRa3lIJ4E1DEX) | 4:02 |

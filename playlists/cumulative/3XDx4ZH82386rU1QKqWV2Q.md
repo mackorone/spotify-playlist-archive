@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-767 songs - 1 day 9 hr 46 min
+769 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Badboy Murdah](https://open.spotify.com/track/3R3hBs6KST9DgKLxut3NZJ) | [DJ Scottydog](https://open.spotify.com/artist/6qbipg6rddpVH6auKqStzc) | [Badboy Murdah](https://open.spotify.com/album/47n0tvta9LsN2crOcaMKOS) | 3:39 | 2023-08-19 | 2023-09-01 |
 | [BAILE DEMONIACO](https://open.spotify.com/track/03eAR1IjUSQWJZsnzTBrtr) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [BAILE DEMONIACO](https://open.spotify.com/album/539cKiBkkVAKtNERtPHOTU) | 1:31 | 2023-12-16 | 2024-01-19 |
 | [BALLERINA](https://open.spotify.com/track/78AN1oOI3yGW8jr0N7uGgN) | [BRADWTF](https://open.spotify.com/artist/1KxfBHx2BSdk25sDjmykt4), [9LIVES](https://open.spotify.com/artist/14zyCokqdd5rltFNfE6jTL) | [BALLERINA](https://open.spotify.com/album/1fa3QuLqaaXeY5TIPGVkL2) | 3:22 | 2023-07-06 | 2023-12-14 |
-| [Bang](https://open.spotify.com/track/1GpqUczpaPNSy77LBoVBBl) | [Afterparty](https://open.spotify.com/artist/45VaAitjKdMGvoe7nEwb0A) | [Bang](https://open.spotify.com/album/7n4vWUXzzOLqAbVBllYMvP) | 3:20 | 2025-08-21 |  |
+| [Bang](https://open.spotify.com/track/1GpqUczpaPNSy77LBoVBBl) | [Afterparty](https://open.spotify.com/artist/45VaAitjKdMGvoe7nEwb0A) | [Bang](https://open.spotify.com/album/7n4vWUXzzOLqAbVBllYMvP) | 3:20 | 2025-08-21 | 2025-09-26 |
 | [BATSH!T](https://open.spotify.com/track/2ovN25hJdLKljhBDb3LuUg) | [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [BATSH!T](https://open.spotify.com/album/06yR9hkbHlVRnOmPWfdefN) | 1:26 | 2024-03-08 | 2024-11-12 |
 | [BATTERED](https://open.spotify.com/track/4RpDm41WAJCGZ7MoVqGxr2) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [glichery](https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks) | [BATTERED](https://open.spotify.com/album/4IcBcb1v7U18kioUMrWkmf) | 1:34 | 2024-02-02 | 2024-03-07 |
 | [Bayside Reflections](https://open.spotify.com/track/0TO1PZLA05Ki94uOo9vMoH) | [Action Cop](https://open.spotify.com/artist/1Z68j75hNrsmmwuwOX2aRy) | [Action Cop: Joint Forces](https://open.spotify.com/album/0foUVh33AW7XMTiSBdMsLB) | 2:43 | 2025-01-13 | 2025-04-18 |
@@ -80,6 +80,7 @@
 | [blackbride](https://open.spotify.com/track/63wZyjdxEJXWalSTdhsiLw) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 3:24 | 2024-01-21 | 2024-07-27 |
 | [Blasta](https://open.spotify.com/track/6GcfT9xtSY5Rzcd0sMYINn) | [Captain Malik](https://open.spotify.com/artist/0mdMSIS1beHEnMh2H6XM55) | [Blasta](https://open.spotify.com/album/5ixfonZ6PyjQF6mISF8KN8) | 3:05 | 2025-01-13 | 2025-05-17 |
 | [BLEACH](https://open.spotify.com/track/2qjDHIVrDRqHQRL5EU3qq2) | [SXRPENT](https://open.spotify.com/artist/4B2rGiffJ3wU73LhUMRESe) | [BLEACH](https://open.spotify.com/album/7yJxGx1cQJcmMTYcA0TrTQ) | 1:28 | 2023-06-26 | 2023-07-11 |
+| [Blind Drive](https://open.spotify.com/track/0nyGQbo1AeXDdLbVRTXeAf) | [Neon Witch](https://open.spotify.com/artist/5Lcd7SM3ngbUDVJpzhY46O) | [Mirror of the Night](https://open.spotify.com/album/4DDHwOUaikAICvAp2TgAio) | 3:37 | 2025-09-25 |  |
 | [bloodx3!](https://open.spotify.com/track/3C5owNHtJBwusCD9TQfzEt) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [bloodx3!](https://open.spotify.com/album/7p16Ih4p2KX76NVaGG68yW) | 2:02 | 2023-09-05 | 2023-12-14 |
 | [bloody mary.](https://open.spotify.com/track/292SwjAyPZJanqTURvjQvh) | [sepulcher.](https://open.spotify.com/artist/0ORxJY41Q29QB1poLCgUzC), [GOLDKID$](https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz) | [bloody mary.](https://open.spotify.com/album/7zWODHdbtzuCE2V56fD9vL) | 2:59 | 2025-01-25 | 2025-04-18 |
 | [Blossom](https://open.spotify.com/track/4W5THPWdOxirj5I2P25FbC) | [Dennett](https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9) | [Blossom](https://open.spotify.com/album/3hN5XGp29DzHdFD06VJSOa) | 3:40 | 2024-07-02 | 2024-09-28 |
@@ -348,7 +349,7 @@
 | [Igris](https://open.spotify.com/track/0zeU3q7heGPIZQfcwx8Wnk) | [YoungWolf](https://open.spotify.com/artist/1m2n2eMAO9rlwRa3yjc1fp) | [Igris](https://open.spotify.com/album/4oa7V2qNQMPFl4f9omXZiP) | 2:16 | 2025-05-16 | 2025-07-08 |
 | [Imagination](https://open.spotify.com/track/4booK8W8cdoXaEZmki1Fz7) | [Todd0](https://open.spotify.com/artist/0sdezSy9XCGEZdAwNQVb1H) | [Nothing Here Is Going to Make Sense](https://open.spotify.com/album/4CDGkw5pA7ullz6gUGTEDK) | 2:02 | 2024-10-08 | 2025-02-15 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2023-06-12 |  |
-| [IMPULSE / WEAVER](https://open.spotify.com/track/34BthUAKPK9inyln7MVRum) | [onumi](https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY), [dossyx](https://open.spotify.com/artist/28XlUtvOPiT96u72mJftyS) | [IMPULSE / WEAVER](https://open.spotify.com/album/4VQGHAC38jy4ULJcGJLTkG) | 3:09 | 2025-02-26 | 2025-05-08 |
+| [IMPULSE / WEAVER](https://open.spotify.com/track/34BthUAKPK9inyln7MVRum) | [onumi](https://open.spotify.com/artist/34yA07sOWHmruBJksNc0EY), [dossyx](https://open.spotify.com/artist/28XlUtvOPiT96u72mJftyS) | [IMPULSE / WEAVER](https://open.spotify.com/album/4VQGHAC38jy4ULJcGJLTkG) | 3:09 | 2025-02-26 |  |
 | [in here but not of here \- Sped Up](https://open.spotify.com/track/0Xs8xtisJB1eUNiQ5anaLa) | [Alex Galli](https://open.spotify.com/artist/7E5VvoxYlaeHeEphQXtpHR) | [in here but not of here \(Sped Up\)](https://open.spotify.com/album/1MkHqIUkK4AohTCnSD1BJT) | 3:11 | 2023-06-22 | 2023-07-11 |
 | [in my dreams](https://open.spotify.com/track/6XtTHfuTaOgCvZUmnNkczE) | [Kareful](https://open.spotify.com/artist/7y4breKexfBWgdyMgHMEHK), [pale fortress](https://open.spotify.com/artist/1j34wbS4gwSUjpvrik7epS) | [in my dreams](https://open.spotify.com/album/4aJRiQUFVaPiiBgVlul1SF) | 2:12 | 2024-07-20 | 2024-09-28 |
 | [In My Head](https://open.spotify.com/track/2fzSwDlKUIw6QNNgRsnI2a) | [Park Hanoi](https://open.spotify.com/artist/0qT14ZE5gz94vOn3oxoEiB), [Boyc0tt](https://open.spotify.com/artist/57SVOkx2FC6MWkm4B8wWp8), [sleepylittlestar](https://open.spotify.com/artist/5BnyjyTssit4bUVImQKwCg) | [In My Head](https://open.spotify.com/album/0rZu66Rudp3s6b1yHEyd6J) | 3:31 | 2024-07-20 | 2024-09-28 |
@@ -395,6 +396,7 @@
 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 | 2023-06-12 |  |
 | [Last Ashes](https://open.spotify.com/track/1p0qvVGpA1FZcDK7oKW1KN) | [iagö](https://open.spotify.com/artist/3cgtP27EVZBllD125oC4c1) | [Last Ashes](https://open.spotify.com/album/2GhrwbWGKfoGZR6JhUVlMN) | 4:43 | 2024-01-13 | 2024-03-26 |
 | [Last Glitch Effort](https://open.spotify.com/track/3aZrnyRK9nbP6sii23M7EN) | [Lincoln 6 Echo](https://open.spotify.com/artist/6F225Xirzc3yZPPj7HkOVx) | [Last Glitch Effort](https://open.spotify.com/album/5rY4wHMjlArFM48s0sv0f6) | 3:48 | 2024-07-02 | 2024-09-28 |
+| [Leave It](https://open.spotify.com/track/0kkYUKAgk71Clld1RAqAqo) | [808 APE](https://open.spotify.com/artist/14MHW4dzHKEsSGhywJNHJC) | [Leave It](https://open.spotify.com/album/5YdN0LrW5Dlc8qZdGNv9jV) | 3:01 | 2025-09-25 |  |
 | [LED Poisoning](https://open.spotify.com/track/4WmCTMxkCHZYXpIiqds8pj) | [James Dece](https://open.spotify.com/artist/5gjFmHkcGaw4xa0n5MH13y) | [LED Poisoning](https://open.spotify.com/album/17k7YvT4HE7Ed3vzCSqY3l) | 3:32 | 2023-12-08 | 2024-02-01 |
 | [Let Me Rot While I Battle For Serenity](https://open.spotify.com/track/1kvgSzbpAmk3yqMafKe5Fc) | [86Casino](https://open.spotify.com/artist/42CKsZqwmnsdWM3Pn53Vje) | [Let Me Rot While I Battle For Serenity](https://open.spotify.com/album/5rn3NS4yjKysSuYg3pqg2q) | 1:43 | 2024-03-08 | 2024-05-08 |
 | [Let The Rhythm Take Control](https://open.spotify.com/track/6r95PbMDWnqCJtrenM9tJ8) | [Pojrene](https://open.spotify.com/artist/5lYBjyTseVvvFM08JITkU7) | [Let The Rhythm Take Control](https://open.spotify.com/album/0bZ0HKIMHVjn0q4P344nPf) | 4:13 | 2024-11-17 | 2025-01-14 |

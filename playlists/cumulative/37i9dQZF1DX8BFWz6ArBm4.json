@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Lena Zevgara",
+  "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Oikonomopoulos",
   "name": "Laika tou Simera",
   "tracks": [
     {
@@ -188,6 +188,24 @@
       "duration_ms": 213846,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
+    },
+    {
+      "album": {
+        "name": "Allou Gia Allou",
+        "url": "https://open.spotify.com/album/4G16SfhjBZxeSDOoPPYFK9"
+      },
+      "artists": [
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167003,
+      "name": "Allou Gia Allou",
+      "url": "https://open.spotify.com/track/0qgjyXXnLcZ0ozDhhTIdEA"
     },
     {
       "album": {
@@ -950,7 +968,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 252957,
       "name": "Exo Emena",
       "url": "https://open.spotify.com/track/7ixBF0Qf9jkJMsHtcK9KWd"
@@ -1255,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "Ipa Sou Htenistou",
+        "url": "https://open.spotify.com/album/4A6zWpwWUhwHcPbtHEMPi6"
+      },
+      "artists": [
+        {
+          "name": "Christos Dantis",
+          "url": "https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120042,
+      "name": "Ipa Sou Htenistou",
+      "url": "https://open.spotify.com/track/1N9xnNu9keI3Jd0UDOnQ9Q"
+    },
+    {
+      "album": {
         "name": "Iroas Ise",
         "url": "https://open.spotify.com/album/6M0pY9mFCyV0F0JOaUO4HF"
       },
@@ -1538,6 +1574,24 @@
       "duration_ms": 164912,
       "name": "Kontra Paidi",
       "url": "https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or"
+    },
+    {
+      "album": {
+        "name": "Kourastika Na S' Agapo",
+        "url": "https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253420,
+      "name": "Kourastika Na S' Agapo",
+      "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
     },
     {
       "album": {
@@ -2590,7 +2644,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 212744,
       "name": "Porni Outopia",
       "url": "https://open.spotify.com/track/5pgYW8yaeXiIemY9nOBKZI"
@@ -3126,7 +3180,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 270210,
       "name": "Ta Xo Vrei Me Ton Eauto Mou",
       "url": "https://open.spotify.com/track/47PMZ8RvIbO9g483uTTHlv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 26.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,467 likes - 98 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,781 likes - 98 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 97 | [WASSUP](https://open.spotify.com/track/32SJM4tQyJHsB8rgVtZURn) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [WASSUP](https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM) | 2:42 |
 | 98 | [Gimme Ocean](https://open.spotify.com/track/1tT6hPNKVUWt5VOElEBx4S) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Blest](https://open.spotify.com/album/5GuHUUkJBcf3XKuAnKADa8) | 4:18 |
 
-Snapshot ID: `AAAAAJkOokWDLorGDvK3BkjXTTSMs6vK`
+Snapshot ID: `AAAAAPc4y3UtG1YQFJqrQD4tY2Tnx3Ew`

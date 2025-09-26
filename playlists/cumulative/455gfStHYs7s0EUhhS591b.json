@@ -822,7 +822,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 211949,
       "name": "Compromise",
       "url": "https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI"
@@ -1124,6 +1124,24 @@
       "duration_ms": 115932,
       "name": "Entusiasme (Vall\u00e9e De L\u2019Armes)",
       "url": "https://open.spotify.com/track/0kZIcCyIgs0KgJTmvN5imF"
+    },
+    {
+      "album": {
+        "name": "Entusiasme (Vall\u00e9e De L\u2019Armes) [Slowed + Sped Up]",
+        "url": "https://open.spotify.com/album/1tYOvFo8HLV8tmTnbETCZI"
+      },
+      "artists": [
+        {
+          "name": "HABITAT",
+          "url": "https://open.spotify.com/artist/7r25k57LP5UsSNSzVems6d"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99997,
+      "name": "Entusiasme (Vall\u00e9e De L\u2019Armes) - Slowed Version",
+      "url": "https://open.spotify.com/track/0WwtdUVuyziUXQ1Gw3r8tF"
     },
     {
       "album": {
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 232463,
       "name": "Mario Hit The Stairs",
       "url": "https://open.spotify.com/track/1xwX3s0GkbKbjYtqG0M0c0"
@@ -2682,7 +2700,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 216062,
       "name": "No Stress - Stereoclip Remix",
       "url": "https://open.spotify.com/track/5x3Ay8HRia0rjbPj7WpfJR"
@@ -3112,10 +3130,36 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 199682,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/2D15yebXDnUhavk5tBcRGs"
+    },
+    {
+      "album": {
+        "name": "Redlight",
+        "url": "https://open.spotify.com/album/0iC99h9yjKxHBZ7eiKYoVo"
+      },
+      "artists": [
+        {
+          "name": "Summer Is Calling",
+          "url": "https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u"
+        },
+        {
+          "name": "Krono",
+          "url": "https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/4IsdObE3TpsY1XJUXvFcBu"
     },
     {
       "album": {

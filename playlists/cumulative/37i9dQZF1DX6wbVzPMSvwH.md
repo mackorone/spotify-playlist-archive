@@ -4,7 +4,7 @@
 
 > Lagu\-lagu positif untuk mengawali harimu.
 
-198 songs - 12 hr 28 min
+199 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Selamat Pagi](https://open.spotify.com/track/5ZvravJccV8uy4YKg8ABKZ) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [RAN For Your Life](https://open.spotify.com/album/6MyZfF9K8Uqs0BSmqECGl6) | 3:54 | 2024-02-01 |  |
 | [Semoga](https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [RAYA](https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80) | 4:29 | 2024-05-08 |  |
 | [Semoga, Ya](https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Dadang Sh Pranoto](https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3), [Deny Surya](https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf) | [Ini Bukan Nosstress](https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy) | 3:33 | 2022-12-13 | 2024-02-01 |
+| [Senja Sudut Kota](https://open.spotify.com/track/27JBYWc4xN7OY4NJQ68pni) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Senja Sudut Kota](https://open.spotify.com/album/3sVoZe0ptCikuH0JKPpx0X) | 3:43 | 2025-09-25 |  |
 | [Serasa X Juwita](https://open.spotify.com/track/4tBWE1YXuLOKalCHyAgRvq) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Serasa X Juwita](https://open.spotify.com/album/7ieS8TtZfUqKCycMTAkPHh) | 6:32 | 2025-05-09 |  |
 | [Sesaat Kau Hadir](https://open.spotify.com/track/72MEldEAmz3WMJ2MkII3kP) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sesaat Kau Hadir](https://open.spotify.com/album/1VTso84D0KtvRuzyNoO57g) | 3:19 | 2023-01-09 |  |
 | [Sialan](https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Sialan](https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh) | 4:01 | 2024-05-08 |  |

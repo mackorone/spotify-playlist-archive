@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Playlist réalisée avec THÉA \(du titre \#1 au \#20\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,743 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,741 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 13 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 |
 | 14 | [FNG](https://open.spotify.com/track/2sUJjDzqopdYK5mAhsjvfr) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [MEGA BBL](https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p) | 2:09 |
 | 15 | [RUGIR/MOTEUR](https://open.spotify.com/track/0DEyuw7Lo1nR0ncFsr8MaR) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [BLAST.](https://open.spotify.com/album/76Pdmv0CzrIY14nzw6Qdcf) | 4:03 |
-| 16 | [Hélicoptère de combat](https://open.spotify.com/track/0z2QOjVRnmU8HlZ92jZSo5) | [DeserTGirlz](https://open.spotify.com/artist/36u8aWE7cxsymmB9RnhID9) | [Le meilleur des deux mondes](https://open.spotify.com/album/4fomNQ8dhEifzTdpKxjRHe) | 3:06 |
+| 16 | [Hélicoptère de combat](https://open.spotify.com/track/0z2QOjVRnmU8HlZ92jZSo5) | [DeserTGirlZ](https://open.spotify.com/artist/36u8aWE7cxsymmB9RnhID9) | [Le meilleur des deux mondes](https://open.spotify.com/album/4fomNQ8dhEifzTdpKxjRHe) | 3:06 |
 | 17 | [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 |
 | 18 | [SLS](https://open.spotify.com/track/68CXvHU7Zir1306kmc7HhF) | [ADÉS THE PLANET](https://open.spotify.com/artist/3o7vOXPu0DxO9TB84CoIgE) | [SLS](https://open.spotify.com/album/61u1MrF2UrPqrFjZCGMS2x) | 2:17 |
 | 19 | [Manifique](https://open.spotify.com/track/59h8hIn9hDXG2AE2CS3LPl) | [Graphy\-T](https://open.spotify.com/artist/0SQJU3T9dR4WLilodR5ipq) | [Trash\-Tag](https://open.spotify.com/album/2LFFWYwn1XLyFJDRBWu3NU) | 2:36 |

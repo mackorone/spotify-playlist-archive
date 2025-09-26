@@ -12325,6 +12325,24 @@
     },
     {
       "album": {
+        "name": "No Hay Fotos",
+        "url": "https://open.spotify.com/album/0POpQh9SYrkQGFwJ8edU5W"
+      },
+      "artists": [
+        {
+          "name": "Camila Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/72lIS8llEHtobdxJ6kpVok"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199476,
+      "name": "No Hay Fotos",
+      "url": "https://open.spotify.com/track/7lIToufalUeY0lXMtsmuho"
+    },
+    {
+      "album": {
         "name": "NO HAY QUE PREGUNTAR",
         "url": "https://open.spotify.com/album/0vXcwRCCcIDgdVpaIReZFC"
       },

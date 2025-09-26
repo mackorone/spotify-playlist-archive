@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. RinRin
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,928 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,945 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 26 | [How You Doing?](https://open.spotify.com/track/4oLho63TmMfjZk11mFbqti) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [How You Doing?](https://open.spotify.com/album/7g4ylmDts9NpanpxpeiJgX) | 2:16 |
 | 27 | [Pain](https://open.spotify.com/track/14M05BE09j5oytK3Wd9KWL) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Pain](https://open.spotify.com/album/2KkSDX1QPMwmLfNKbpSC5X) | 3:01 |
 | 28 | [Mariah's Song](https://open.spotify.com/track/7ipDhQ3TgJnQNchsc82Xrz) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Mariah's Song](https://open.spotify.com/album/2O2tab6lfNyfZxWp8dWhM0) | 4:15 |
-| 29 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [HIM Movie](https://open.spotify.com/artist/62bEtjQcjnCO97g6vRNTV1) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 |
+| 29 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 |
 | 30 | [Caramel](https://open.spotify.com/track/3AdXwuFn7j21HNiFMXvZXt) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Caramel](https://open.spotify.com/album/22QZTpIU424yzyhqXnFi3m) | 4:50 |
 | 31 | [Vigilantes](https://open.spotify.com/track/7DNjlPhZrhOgykB94HjecI) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Vigilantes](https://open.spotify.com/album/1F0QxXNCGOWbfBhUM1Ej6m) | 4:00 |
 | 32 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar. Cover: Difki Khalif ",
+  "description": "Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar. ",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -3005,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "do you guys *still* wanna listen to some electro-pop music?",
+        "url": "https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Mungkin",
+      "url": "https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal"
+    },
+    {
+      "album": {
         "name": "Nemu (Live Ska Reggae)",
         "url": "https://open.spotify.com/album/0TxeX8ZExdhiqzcy2VGKvN"
       },
@@ -3858,6 +3876,32 @@
       "duration_ms": 286080,
       "name": "sahabat",
       "url": "https://open.spotify.com/track/2CTq462kUxg8yu9oWt3seb"
+    },
+    {
+      "album": {
+        "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
+        "url": "https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235784,
+      "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
+      "url": "https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4"
     },
     {
       "album": {
@@ -5128,6 +5172,24 @@
       "duration_ms": 184615,
       "name": "Topeng",
       "url": "https://open.spotify.com/track/2iHfsyJp0tRdGH3xgSRtSz"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe"
     },
     {
       "album": {

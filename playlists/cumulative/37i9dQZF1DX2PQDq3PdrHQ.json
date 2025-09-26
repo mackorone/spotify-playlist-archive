@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "2:54am bedroom view",
+        "url": "https://open.spotify.com/album/3sRNeyJx4fqKN5eGVF0rfa"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        },
+        {
+          "name": "96 Zeus",
+          "url": "https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "2:54am bedroom view",
+      "url": "https://open.spotify.com/track/0v6YbmvnBNX5fgsFH8E4wN"
+    },
+    {
+      "album": {
         "name": "3 a.m.",
         "url": "https://open.spotify.com/album/5OhFtwMxNkOX4dPDUM6ELg"
       },
@@ -864,6 +886,28 @@
       "duration_ms": 110400,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3m8wuUjISsZykLLU1sYjpK"
+    },
+    {
+      "album": {
+        "name": "any place is better",
+        "url": "https://open.spotify.com/album/0KDFnMSxRMDi3zC2eewqYT"
+      },
+      "artists": [
+        {
+          "name": "Laffey",
+          "url": "https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7"
+        },
+        {
+          "name": "96 Zeus",
+          "url": "https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106680,
+      "name": "any place is better",
+      "url": "https://open.spotify.com/track/43nIGcMJRjx2Bx5WZREcAB"
     },
     {
       "album": {
@@ -4881,6 +4925,24 @@
     },
     {
       "album": {
+        "name": "floating in space",
+        "url": "https://open.spotify.com/album/3hnySEjzC8SKaUM8ApGolS"
+      },
+      "artists": [
+        {
+          "name": "Neon Panda",
+          "url": "https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "floating in space",
+      "url": "https://open.spotify.com/track/505KiOUQ9K6oqiqyHt425X"
+    },
+    {
+      "album": {
         "name": "Flower Dance",
         "url": "https://open.spotify.com/album/08tgysJg7YBfWDTJVcDErq"
       },
@@ -5160,7 +5222,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 111206,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/5W1Qgc9NhqN6OXz1rMpWKk"
@@ -5468,7 +5530,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 152258,
       "name": "Gloom",
       "url": "https://open.spotify.com/track/2JRn07cPxiOqz1AQqeJ3U5"
@@ -9212,7 +9274,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 112000,
       "name": "Moonrivers",
       "url": "https://open.spotify.com/track/2YMUp0eUZbDkLX0ep1FrUh"
@@ -9514,7 +9576,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 99456,
       "name": "Nautica",
       "url": "https://open.spotify.com/track/5AJzzWNatcCUqTVFWf5nbu"
@@ -9804,6 +9866,24 @@
       "duration_ms": 147484,
       "name": "Night never ends",
       "url": "https://open.spotify.com/track/3FnRiWUNHfYKnibaQVaLhW"
+    },
+    {
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/1Ze5CJgJcNberRkLSZtYIE"
+      },
+      "artists": [
+        {
+          "name": "another night",
+          "url": "https://open.spotify.com/artist/4jnXjSSUawBRoBGYAFYyGH"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/2v1CbHVavr3ZpUFPx9MSqD"
     },
     {
       "album": {
@@ -10874,7 +10954,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 140377,
       "name": "pick you up when you're down",
       "url": "https://open.spotify.com/track/6h2UIm7wap9m3na6Kk3HrQ"
@@ -11240,6 +11320,28 @@
       "duration_ms": 93592,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/5KxgbOV1pF4d8lO0OwsCCP"
+    },
+    {
+      "album": {
+        "name": "quiet orbit / early departures",
+        "url": "https://open.spotify.com/album/3HLZL3Um6CQiroOcN68G8h"
+      },
+      "artists": [
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "name": "filmy",
+          "url": "https://open.spotify.com/artist/0YysDEbyI5EtHplEjHsMI4"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126796,
+      "name": "quiet orbit",
+      "url": "https://open.spotify.com/track/6r3tiYD2GtT6xcyNaCpyKG"
     },
     {
       "album": {
@@ -11714,7 +11816,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 160062,
       "name": "running into dreams",
       "url": "https://open.spotify.com/track/3q7nuBN4kAmqFGiP6dGUSH"
@@ -11816,6 +11918,24 @@
       "duration_ms": 173499,
       "name": "Safe Space",
       "url": "https://open.spotify.com/track/5hVggLMkxpwrDZOXYkJ2O6"
+    },
+    {
+      "album": {
+        "name": "Sailing",
+        "url": "https://open.spotify.com/album/67H3ZvyXdE2RSuPlOqHP2U"
+      },
+      "artists": [
+        {
+          "name": "Lush Hush",
+          "url": "https://open.spotify.com/artist/6eYxiT77eQd7oXo4pSfrHg"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143181,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/7299lcrwQtDSVYVJgnbSBV"
     },
     {
       "album": {
@@ -12262,6 +12382,24 @@
       "duration_ms": 179200,
       "name": "sheltered love",
       "url": "https://open.spotify.com/track/4Xx2WzhhgaKRtb7993UJO7"
+    },
+    {
+      "album": {
+        "name": "shifting",
+        "url": "https://open.spotify.com/album/5RuzrYgoIEThzLnhcd2AqH"
+      },
+      "artists": [
+        {
+          "name": "fourth cloud",
+          "url": "https://open.spotify.com/artist/06b1HoxjfHzwgkn9tiYpjy"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110163,
+      "name": "shifting",
+      "url": "https://open.spotify.com/track/0o0rKHuVPT4UqDSGdg0g5Q"
     },
     {
       "album": {
@@ -12981,6 +13119,24 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/3SkM8Js7RlNlHtaeJonddp"
+      },
+      "artists": [
+        {
+          "name": "softwaves",
+          "url": "https://open.spotify.com/artist/5UWSsLXDLer8oYBYF5EtNz"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/4J8gyKdzDhmBFVYyQm9J1h"
+    },
+    {
+      "album": {
         "name": "Solunar",
         "url": "https://open.spotify.com/album/4GCgyf9CovOquBHHbnarjJ"
       },
@@ -13152,7 +13308,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 143923,
       "name": "space mission",
       "url": "https://open.spotify.com/track/4xocKxe84rTS64xo1E17CY"
@@ -14698,7 +14854,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 143110,
       "name": "tonight",
       "url": "https://open.spotify.com/track/4gVAH4ySy5mNMLAY5W88dl"

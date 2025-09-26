@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: SCHLINGSI, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,029 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,032 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 25 | [Call It](https://open.spotify.com/track/24pYjMBzUIpMrMirDjHCJb) | [SOLEROY](https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM) | [Call It](https://open.spotify.com/album/1j7UI9cv7TYz0JMK7SoL8G) | 2:53 |
 | 26 | [berliner waterloo](https://open.spotify.com/track/6nkofJg9SeaUVExk2GJVsG) | [Schmerzis](https://open.spotify.com/artist/0axcbvQwwe0KjYq8xnapxH) | [berliner waterloo](https://open.spotify.com/album/2gJB8WNKF0L3KjZoV3Ts04) | 3:00 |
 | 27 | [The Devil](https://open.spotify.com/track/27UuniFDNBCKb7Zpn0wbtR) | [sarah](https://open.spotify.com/artist/0u5Q6BFZvbwKUkdccH92BH) | [The Devil](https://open.spotify.com/album/6EeZTXI0z16j1s8Px9MRnt) | 3:30 |
-| 28 | [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/47yqAhT6hF75fb5j9iTcNf) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 |
+| 28 | [Things](https://open.spotify.com/track/2XOhiVjCnahqthv0KbYQ1X) | [Chiara Bertarelli](https://open.spotify.com/artist/2OTccfUPi1r1TFAct5ifW5) | [Things](https://open.spotify.com/album/3a8irWe74S6YKdr9ZI8BdM) | 3:20 |
 | 29 | [venom](https://open.spotify.com/track/62nGDz5On8UfASAk7AhDIU) | [sanna frankie](https://open.spotify.com/artist/31BTzG2olQWOHbn1nh1E94) | [venom](https://open.spotify.com/album/1s82HtRET91b9Tlk4LKeZO) | 2:30 |
 | 30 | [Lonely Again](https://open.spotify.com/track/7kRecGPV6r57UyOONtZyep) | [LIV AVA](https://open.spotify.com/artist/0ra7L2Y5OJd2YcKhMOCkd3) | [Lonely Again](https://open.spotify.com/album/4CTSaVWByrvZrAB2HNaBI7) | 3:27 |
 | 31 | [weinen im sommer](https://open.spotify.com/track/00ZHtUmnK5fgQLoKJivMTf) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu) | [weinen im sommer](https://open.spotify.com/album/0owCxv0zONKGPJKvIrtcdf) | 2:14 |

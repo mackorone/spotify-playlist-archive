@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-611 songs - 1 day 10 hr 50 min
+612 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [vaa rasa wanna make love \- From "Wanted Mr\. Rasa"](https://open.spotify.com/track/6dLDfhGmhNYOIRZHLB0Jl3) | [Chanderan](https://open.spotify.com/artist/6RpQCpcNLrvudHwPOUY05W), [Kizhakkuvaasi](https://open.spotify.com/artist/12nnZ82xh7p2dFpexbVAf4), [Ancy Mary C James](https://open.spotify.com/artist/0umC3wKPD4auYB7a2LYwVq) | [vaa rasa wanna make love \(From "Wanted Mr\. Rasa"\)](https://open.spotify.com/album/0iiVby2bngFUyQCpO8AnwG) | 2:26 | 2025-04-08 | 2025-06-06 |
 | [Vaadi Nenjukulla](https://open.spotify.com/track/38n3uNqlKbqSVfMUmRgi08) | [Ajees](https://open.spotify.com/artist/0KmDf97GDps7NgF7TXFrO1), [John Robins](https://open.spotify.com/artist/4vrGxEyhSmRkywIlWp8Xqc) | [Vaadi Nenjukulla](https://open.spotify.com/album/4w8PnoaGOk64ocgSLKl9sW) | 4:10 | 2023-08-11 | 2024-04-13 |
 | [Vaaichol](https://open.spotify.com/track/0KFnezn8C0B7cobeFeLsdQ) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Vaaichol](https://open.spotify.com/album/01GjdmCewDOpKZz9qWZxSb) | 3:03 | 2023-12-18 | 2023-12-22 |
+| [Vaalillaa Kaathadi](https://open.spotify.com/track/3x3OznaZYBUvediyQPcgkK) | [Gaana Achu](https://open.spotify.com/artist/1GCnpwVBabVq5UUEsbbexN) | [Vaalillaa Kaathadi](https://open.spotify.com/album/5sknjzg4E5p7ipCmH7b9gd) | 3:06 | 2025-09-25 |  |
 | [Vaan Vizhamal](https://open.spotify.com/track/6l1TSNQzFHExSfxtFfkTaA) | [Pranav Muniraj](https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp) | [Vaan Vizhamal](https://open.spotify.com/album/3c8WZnYAzjVQ8l7PQ45PXa) | 5:55 | 2025-04-24 | 2025-06-24 |
 | [Vaanaai Naam](https://open.spotify.com/track/7bnvjefUzxgtIqGxyQcqsR) | [Nishad G](https://open.spotify.com/artist/4TFk73Ah5yIrc6fSamHkF6), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm), [Anjana Rajagopalan](https://open.spotify.com/artist/108rmJvAaYolTjeqDao0x4), [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Life Until 23](https://open.spotify.com/album/5zjjOgr3KgPlfREtqWtMu1) | 4:40 | 2025-04-24 | 2025-07-15 |
 | [Vaanam Ellaye](https://open.spotify.com/track/5jNV9LJs8MeaN8d5sO4Fes) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Vaanam Ellaye](https://open.spotify.com/album/6ehc5mD4YXCrWpJYNpnXFy) | 3:30 | 2023-04-03 | 2023-06-24 |

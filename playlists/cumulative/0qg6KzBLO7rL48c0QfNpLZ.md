@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,249 songs - 2 day 7 hr 7 min
+1,250 songs - 2 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [I Love You](https://open.spotify.com/track/0O4fJqz7sptID3Q3p4yaeL) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W) | [I Love You](https://open.spotify.com/album/3WJvjcVRXWWoY5a1ZZ9k14) | 2:18 | 2024-07-03 | 2024-09-15 |
 | [I Love You So \- Shimza Remix](https://open.spotify.com/track/0eLiCCY502jx4MnX7zgjb6) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Moeaike](https://open.spotify.com/artist/1dq8CEUSNTPN81up2lVwnm), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [I Love You So \(Shimza Remix\)](https://open.spotify.com/album/1e8F5LJb5wKfJzT7m4eDSQ) | 3:44 | 2025-08-29 |  |
 | [I Miss You](https://open.spotify.com/track/4Rmfzs3p7oTszNHLwaDec7) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK) | [I Miss You](https://open.spotify.com/album/6BWaWNgLEGTo5URJB4bzO8) | 2:53 | 2024-06-14 | 2024-07-20 |
+| [I Need You](https://open.spotify.com/track/2Ybw6iHxoyXWBTtcz9SCZu) | [Juron Cole](https://open.spotify.com/artist/0zRN5gl7c9aSk5BNie0Kng), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [I Need You](https://open.spotify.com/album/01midiBHMShyJUHuQo9KLQ) | 2:12 | 2025-09-25 |  |
 | [I Should Let You Go](https://open.spotify.com/track/0c4qq1mWCx1jzrWGO4GwDA) | [Heard Right](https://open.spotify.com/artist/3KdFNDrWsHS0EePg8svgRl), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [I Should Let You Go](https://open.spotify.com/album/1OTu9IZzW6ly1CFPrTL6dP) | 3:52 | 2024-11-04 | 2024-12-07 |
 | [i think you can save me](https://open.spotify.com/track/1BUIzWWmPJSE75lrHbaGlP) | [Dimside](https://open.spotify.com/artist/20CQ7P9w4tJT7zpUI1TAXX) | [i think you can save me](https://open.spotify.com/album/1ulBFo81789hv5mwzhHI7j) | 2:05 | 2024-07-26 | 2024-08-31 |
 | [I Took A Pill In Ibiza \- Seeb Remix](https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [At Night, Alone.](https://open.spotify.com/album/6Phl1V5P0sPrWJytXHGFeO) | 3:17 | 2022-09-02 | 2024-09-11 |

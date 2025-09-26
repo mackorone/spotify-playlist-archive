@@ -4,7 +4,7 @@
 
 > The hottest and recent Ghana party starters\. Cover: King Promise & Mr Eazi
 
-554 songs - 1 day 4 hr 41 min
+556 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Boozen](https://open.spotify.com/track/7hsWIzTg4crtYzYanUBGQD) | [Eno Barony](https://open.spotify.com/artist/4tfgIbOiIFCXPEK3PwdBSN) | [Boozen](https://open.spotify.com/album/7oB8cDMcd087vjZodijtYV) | 3:15 | 2024-10-25 | 2025-04-01 |
 | [Born Great](https://open.spotify.com/track/0ZEBc9KwXBgIgviUuEGnD9) | [Abochi](https://open.spotify.com/artist/1yCRHs6DWub2XayDl4GEEw), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Born Great](https://open.spotify.com/album/701amHFoAxrmlgyZ1mk8nM) | 2:10 | 2024-10-12 | 2024-10-26 |
 | [Botos](https://open.spotify.com/track/6O3TZOULjDgvSSXpI7VdvL) | [Vudumane](https://open.spotify.com/artist/1xS0nO9INJ0UvBUq4mkL14) | [Botos](https://open.spotify.com/album/5GF9JyVeeYMvjjhe3ugWCK) | 3:39 | 2023-07-14 | 2023-07-21 |
-| [Bra](https://open.spotify.com/track/4FxArJ3yx3R2c2mRGKLB1j) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Love In The Club \(Deluxe\)](https://open.spotify.com/album/7wmRhqrAJd1PvPSoTqPdsR) | 3:02 | 2025-08-29 |  |
+| [Bra](https://open.spotify.com/track/4FxArJ3yx3R2c2mRGKLB1j) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Love In The Club \(Deluxe\)](https://open.spotify.com/album/7wmRhqrAJd1PvPSoTqPdsR) | 3:02 | 2025-08-29 | 2025-09-26 |
 | [Break It](https://open.spotify.com/track/5CfdyTuRzNFQyURSWFRBJZ) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Break It](https://open.spotify.com/album/0fWgG7vdLxWOOJZSKGKARN) | 2:35 | 2025-03-14 | 2025-07-11 |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2023-10-27 | 2025-03-08 |
 | [Brown Skin Girl](https://open.spotify.com/track/1MnLtHUkNjywtD2kyCiXXn) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [L.I.T.A](https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463) | 3:08 | 2023-06-02 | 2024-06-01 |
@@ -376,6 +376,7 @@
 | [Olukeke \- A COLORS SHOW](https://open.spotify.com/track/1wLFBauKxbF4lAbJAc1AYo) | [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Olukeke \- A COLORS SHOW](https://open.spotify.com/album/0vt0Pkpe6X9c2s7YamCack) | 3:39 | 2023-05-12 | 2023-06-10 |
 | [OMG](https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Lova Boy Era](https://open.spotify.com/album/5i3t44ZOyolbQ3f9SVH93x) | 2:38 | 2025-02-14 |  |
 | [On My Way](https://open.spotify.com/track/3oxqlnjK6GQ9zpVgck8HxA) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [On My Way](https://open.spotify.com/album/7M0TnoDk2uz0AtE5oXaA2Z) | 2:53 | 2024-03-01 | 2024-10-13 |
+| [Only God](https://open.spotify.com/track/6v6EryPXEEWnz8oUMghIDi) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [TrustnGod +](https://open.spotify.com/album/5P65otOgIIHPskLTZ76JQP) | 2:17 | 2025-09-26 |  |
 | [Only You](https://open.spotify.com/track/0z955moZM2waA9ctq3Acxo) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Ghanapiano \- The Album](https://open.spotify.com/album/5keSaUEMkjNS9AtQp3gILB) | 4:25 | 2025-07-11 | 2025-08-15 |
 | [Only You](https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Only You](https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T) | 2:54 | 2024-02-09 | 2025-03-08 |
 | [Onoa](https://open.spotify.com/track/6P0c4dcZNj6rwGxrc6zPx4) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Onoa](https://open.spotify.com/album/078bV0BV8pqSu03kQbPHHy) | 2:48 | 2024-06-28 | 2025-03-22 |
@@ -387,6 +388,7 @@
 | [Over](https://open.spotify.com/track/4AqSMNtn3vFqE0OScxvEps) | [Thirtn](https://open.spotify.com/artist/2DJRjIwHAj1DdOo6pBcM6v) | [Over](https://open.spotify.com/album/0SvEJsifHLZ7VGMZaan2pc) | 3:02 | 2023-03-10 | 2023-03-18 |
 | [Overload](https://open.spotify.com/track/56gwuqnG5UDn3rTTTs61AH) | [Wutah Kobby](https://open.spotify.com/artist/4XdiQkB8WIPxaSdp0uRWox), [Kwame Yogot](https://open.spotify.com/artist/11HL9RVs0dNFEwOgvrUYFY) | [Overload](https://open.spotify.com/album/760ibMaRsLqLNWGMaCujFa) | 2:19 | 2024-03-08 | 2024-06-07 |
 | [Pain](https://open.spotify.com/track/2Q6xk5PrIexH45CotIAXeF) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW) | [Pain](https://open.spotify.com/album/7CHgtK1UCDpTLrRAe2mf0H) | 3:21 | 2023-12-08 | 2023-12-22 |
+| [Pancake](https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Pancake](https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK) | 2:29 | 2025-09-26 |  |
 | [Papabi](https://open.spotify.com/track/0u1w6JiN1ApGtWwDLXY2dD) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Papabi](https://open.spotify.com/album/09kaeUGlamtNLY21BAoREx) | 3:45 | 2023-02-23 | 2023-03-03 |
 | [Papapa \(feat\. Lasmid\)](https://open.spotify.com/track/7MEIX6rZPQhWisix6MxI2C) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Papapa \(feat\. Lasmid\)](https://open.spotify.com/album/0xusIdtpn9pXgNxzMBwSS2) | 3:00 | 2025-03-28 | 2025-04-05 |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-08 |  |
@@ -400,7 +402,7 @@
 | [Perfect Combi](https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Perfect Combi & Naana](https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv) | 3:01 | 2024-02-15 |  |
 | [Piano](https://open.spotify.com/track/4DaXszE7xeaw9uNCvc9pza) | [Raevin](https://open.spotify.com/artist/1Rn5xVELEoqHc9BPRPwSTv) | [Feelings Of Raevin](https://open.spotify.com/album/57HOVCdbIcATmV3TwUwGic) | 2:40 | 2025-08-15 |  |
 | [Picture](https://open.spotify.com/track/3A2w2RbkpNnJpYUohOcOEf) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:37 | 2022-11-04 | 2023-11-24 |
-| [Playman](https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Playman](https://open.spotify.com/album/45CPYCWCa66IajSsnjdHur) | 3:04 | 2024-08-29 |  |
+| [Playman](https://open.spotify.com/track/2X4gf2v1AMcHPDfYdxcTNX) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Playman](https://open.spotify.com/album/45CPYCWCa66IajSsnjdHur) | 3:04 | 2024-08-29 | 2025-09-26 |
 | [Plenty Evil](https://open.spotify.com/track/0QgGGSo6ygXcDKjk5s2aER) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Plenty Evil](https://open.spotify.com/album/4LGC4uOB6sSUIirDU0w5GS) | 3:09 | 2023-09-21 | 2024-04-19 |
 | [PRACTICE](https://open.spotify.com/track/0P1T4HQzeG598FX3UVFtxs) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [BillyDray](https://open.spotify.com/artist/059ZQRZt9SXMbrzJcyxM5k) | [PRACTICE](https://open.spotify.com/album/4X9lqbIDMJ2AQB9kF2rlYY) | 2:22 | 2023-12-01 | 2024-06-21 |
 | [Praise](https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Praise](https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K) | 3:22 | 2022-11-04 | 2024-02-09 |

@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  donny daydreams
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Paula Au
 
-1,513 songs - 3 day 13 hr 21 min
+1,517 songs - 3 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [My Valentine](https://open.spotify.com/track/6ug7BE76ZNw27q8NuyxfV8) | [Yokin](https://open.spotify.com/artist/3MXt6F8yjXrMeqgPpfcJuE), [Yuetcover♪](https://open.spotify.com/artist/6fpNrfe5Ki05p0pjavxaVW) | [My Valentine](https://open.spotify.com/album/2emYcnSrGQXD9gueiErEIw) | 3:40 | 2024-09-05 | 2024-12-13 |
 | [N.I.L \(Nothing I Love\)](https://open.spotify.com/track/0fF4SUw7UZgwMmAKPNfKXi) | [A\# Minor](https://open.spotify.com/artist/2zdfebdcmuA9aPXo7O3eoL), [臥紗](https://open.spotify.com/artist/3EvgleK4dkJGYzJUc9eMjz) | [There's Nothing I Love and I chose not to NV u.](https://open.spotify.com/album/6PcaVRBRnMb7RTu4IK2XMU) | 3:56 | 2025-08-07 |  |
 | [Naive](https://open.spotify.com/track/0pPsYNkqfeCLz8tU7pml67) | [Art Is Not Limited](https://open.spotify.com/artist/5BpVkT2p2dszJSb9MVVpBI) | [Naive](https://open.spotify.com/album/50BsGgKq2VSOGZdCiyTFSi) | 3:28 | 2022-11-24 | 2023-02-03 |
+| [Naked & Bare](https://open.spotify.com/track/1VAGv5XfmDFvDKVn95OyAq) | [Abhinav Saxena](https://open.spotify.com/artist/6DnllNEDcZEheXYPuDKM40), [Yana Fortep](https://open.spotify.com/artist/4duXZgsYpWEMR2EU13jror) | [Naked & Bare](https://open.spotify.com/album/7wO83xrwO1I2dcdnkvMIdB) | 3:25 | 2025-09-25 |  |
 | [naMean](https://open.spotify.com/track/1Mqmnl8KLQ1f95I50NVOmN) | [bright](https://open.spotify.com/artist/74Ul6MwHluMULyDRZMxcUu) | [i2](https://open.spotify.com/album/33U8Ukv9u1hMQNQSOtFv24) | 2:25 | 2024-09-26 | 2025-02-14 |
 | [natural disaster](https://open.spotify.com/track/5bW5aItHudDXz2U2Eo4QGk) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [natural disaster](https://open.spotify.com/album/31O3lJUeKwqS0Z6AThr6It) | 4:10 | 2023-05-04 | 2023-09-01 |
 | [NEARLY GOD](https://open.spotify.com/track/6zb92zD4k9u5KdZOhxoxas) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [NEARLY GOD](https://open.spotify.com/album/4XuDUYzFzs6Zlrq1YYI7DR) | 4:36 | 2022-05-26 | 2022-09-09 |
@@ -910,6 +911,7 @@
 | [To be continued](https://open.spotify.com/track/3PFwHgVhnT3TxGnjCr8mYv) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [premiere](https://open.spotify.com/album/5gOWqjfQsYNXSSkxooHfwu) | 3:23 | 2024-02-01 | 2024-05-10 |
 | [TOLD U DAT](https://open.spotify.com/track/0CZ8sssUaH57ZOuXl7fhnP) | [Cho Lewis](https://open.spotify.com/artist/5BaaV8FQjtT55m4zS2FdNa), [DatBettie](https://open.spotify.com/artist/6ISxX5nIpeCWvvkxUihgOB) | [TOLD U DAT](https://open.spotify.com/album/5I874yTOuHrDLcKz8u4PZl) | 1:18 | 2022-12-29 | 2023-03-18 |
 | [Tomorrow Night](https://open.spotify.com/track/0wjwkMnKqV1DpoeWcXOgi5) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo) | [FM 74.2](https://open.spotify.com/album/14adeW4GHg9BuX4XhtkbVC) | 3:50 | 2022-10-13 | 2023-03-18 |
+| [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 | 2025-09-25 |  |
 | [Tranquility](https://open.spotify.com/track/2A5PCiRACdM8BoyUg8JIEN) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Tranquility](https://open.spotify.com/album/5d94LDQQaiyOMyUh5EDmFL) | 3:29 | 2023-10-19 | 2024-01-05 |
 | [TRIPPIN](https://open.spotify.com/track/5Zl1z10YibqcrDQhAeAYKw) | [MADBOII](https://open.spotify.com/artist/0s2AsEGVMp2h3Zbq9F7SrQ) | [TRIPPIN](https://open.spotify.com/album/7vNjpeuMAm22fVx44bqGZC) | 2:42 | 2022-05-26 | 2022-06-10 |
 | [tripwire interlude](https://open.spotify.com/track/6FTlPHrVdDWNnw6I3QCO8w) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [tripwire interlude](https://open.spotify.com/album/69xcrmDuW84ifqwojp3STZ) | 1:17 | 2025-07-24 |  |
@@ -1336,6 +1338,7 @@
 | [沉船仔 \- 原唱版](https://open.spotify.com/track/1HLHN1jFgT0LZ22l3uVzOg) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [沉船仔 \(原唱版\)](https://open.spotify.com/album/71iugvQ9xVcmKGthc9NvMZ) | 2:35 | 2024-11-14 | 2025-03-14 |
 | [沉船花之戀](https://open.spotify.com/track/5YmJPTMi7RzgJrihoJctwu) | [Chi Chan](https://open.spotify.com/artist/4oUfRNUBVysBeGVlCbWe3c) | [沉船花之戀](https://open.spotify.com/album/5ySHqOcwdEmbAz7r8cuTqh) | 2:27 | 2025-05-09 |  |
 | [沉船餐廳](https://open.spotify.com/track/4HabOX14Cckr3ZFWpAl37K) | [FOOLYA 虎牙](https://open.spotify.com/artist/6okFqqvBQmOxtw8pxX43ui) | [沉船餐廳](https://open.spotify.com/album/3fWrBfiO6BMJw3oLh0Ovvl) | 3:30 | 2023-10-05 | 2024-01-05 |
+| [沒有你的0430](https://open.spotify.com/track/20rrb4jVMWtgV3BPwNhMK3) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [沒有你的0430](https://open.spotify.com/album/7rxwYtzcmoWTNl40dqGXS0) | 3:56 | 2025-09-25 |  |
 | [沒有送出的詩](https://open.spotify.com/track/5qLNCttpNjUaDoTsfryRuV) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [沒有送出的詩](https://open.spotify.com/album/5gBZE79vF92KOaTFFpopCd) | 3:30 | 2024-09-12 | 2024-12-13 |
 | [沒法子](https://open.spotify.com/track/1C0fmvJWpFAAFHffupl4d6) | [murmurcup](https://open.spotify.com/artist/2aknOFkxz5YCHmbUa1VyDX) | [沒法子](https://open.spotify.com/album/6GbEGTlZgkoS5ncQ9Oo7oQ) | 4:08 | 2025-07-17 |  |
 | [沒法愛多次 Can't Luv Again](https://open.spotify.com/track/31MJXsS1KeNC2N68kYIyVX) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK) | [沒法愛多次 Can't Luv Again](https://open.spotify.com/album/09846PguGArXt81DAvU2zt) | 3:05 | 2023-01-05 | 2023-05-26 |
@@ -1415,6 +1418,7 @@
 | [結界師對香港土地問題的看法\(8分\) \(feat\. $hinyLungs\)](https://open.spotify.com/track/2Q2MInLxDy1Lk00hJVxAJE) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [$hinyLungs](https://open.spotify.com/artist/6hgAAw2ZKhlAtNXxR7ZEah) | [SUPPRESS\(ed\)](https://open.spotify.com/album/6m0vC4SoLl5MLSROJVXpqm) | 2:56 | 2022-11-17 | 2023-03-18 |
 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 | 2024-11-28 | 2025-05-30 |
 | [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 | 2025-03-20 | 2025-07-11 |
+| [缺氧世紀](https://open.spotify.com/track/6N5egpJKnvlbMQP3filGXa) | [ARI](https://open.spotify.com/artist/0fdZOI1huDkXA6tubyiNSg) | [缺氧世紀](https://open.spotify.com/album/6IFKrDhNlWJWj8uPsber4g) | 3:05 | 2025-09-25 |  |
 | [羊](https://open.spotify.com/track/7G366O8Dl9F6DtaPwtLl36) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Oh my.](https://open.spotify.com/album/0JKRzwzqH4sl0CeZswxR3W) | 2:38 | 2023-09-21 | 2023-12-01 |
 | [羊 \(feat\. TXMIYAMA\)](https://open.spotify.com/track/0mlV6AhzUdpW3jc5WvU3ux) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS) | [Oh my.](https://open.spotify.com/album/3kdzxVZUeTJxf4F9Ud263O) | 2:38 | 2023-08-10 | 2023-09-24 |
 | [美麗的失敗者](https://open.spotify.com/track/0VKEFpPOGpHlDW3nVb33lK) | [Kevin Kaho Tsui](https://open.spotify.com/artist/71Q8MlYcb2SiGxqyEAjBgX) | [美麗的失敗者](https://open.spotify.com/album/3CZRewAnlkS12N3NJ7vNyC) | 3:20 | 2024-10-31 | 2025-02-14 |

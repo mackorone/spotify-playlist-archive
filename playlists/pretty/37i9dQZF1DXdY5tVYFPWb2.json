@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 177756,
+  "num_followers": 177772,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
+        "name": "My Plan",
+        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 223350,
+      "name": "My Plan",
+      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2025-09-16 15:00:04",
+      "album": {
         "name": "Loneliness",
         "url": "https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 254929,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC"
-    },
-    {
-      "added_at": "2025-09-16 15:00:04",
-      "album": {
-        "name": "My Plan",
-        "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 223350,
-      "name": "My Plan",
-      "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
     },
     {
       "added_at": "2025-09-16 15:00:04",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
-        "name": "NEW GRAVITY",
-        "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
-      },
-      "artists": [
-        {
-          "name": "Nulbarich",
-          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
-        },
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "ASH feat. Vaundy",
-      "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
-    },
-    {
-      "added_at": "2025-09-16 15:00:04",
-      "album": {
         "name": "Drink!",
         "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 187862,
       "name": "Drink!",
       "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "added_at": "2025-09-16 15:00:04",
+      "album": {
+        "name": "NEW GRAVITY",
+        "url": "https://open.spotify.com/album/6VRUwYtMFyRlfRKXhTPEkA"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "ASH feat. Vaundy",
+      "url": "https://open.spotify.com/track/00lGrbFYsAmvWUktnujaKO"
     },
     {
       "added_at": "2025-09-16 15:00:04",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
-        "name": "Love, lala ~Koi no Yukue~",
-        "url": "https://open.spotify.com/album/2Qjye8N457m39dN7gIrXBT"
-      },
-      "artists": [
-        {
-          "name": "eill",
-          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
-        }
-      ],
-      "duration_ms": 171633,
-      "name": "Love, lala ~Koi no Yukue~",
-      "url": "https://open.spotify.com/track/1AmCHBTq8Az3AwmRWBJSot"
-    },
-    {
-      "added_at": "2025-09-16 15:00:04",
-      "album": {
         "name": "RIDE ON TIME",
         "url": "https://open.spotify.com/album/766EKF6WGGzivgxfk29kH3"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 244752,
       "name": "RIDE ON TIME",
       "url": "https://open.spotify.com/track/3FNXU06JsPMkoppLzw42S1"
+    },
+    {
+      "added_at": "2025-09-16 15:00:04",
+      "album": {
+        "name": "Love, lala ~Koi no Yukue~",
+        "url": "https://open.spotify.com/album/2Qjye8N457m39dN7gIrXBT"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "duration_ms": 171633,
+      "name": "Love, lala ~Koi no Yukue~",
+      "url": "https://open.spotify.com/track/1AmCHBTq8Az3AwmRWBJSot"
     },
     {
       "added_at": "2025-09-16 15:00:04",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
-        "name": "Unlucky!!",
-        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 215221,
-      "name": "Unlucky!!",
-      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
-    },
-    {
-      "added_at": "2025-09-16 15:00:04",
-      "album": {
         "name": "MUSIC WARDROBE",
         "url": "https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 225680,
       "name": "Don't Be Someone Else",
       "url": "https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z"
+    },
+    {
+      "added_at": "2025-09-16 15:00:04",
+      "album": {
+        "name": "Unlucky!!",
+        "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 215221,
+      "name": "Unlucky!!",
+      "url": "https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc"
     },
     {
       "added_at": "2025-09-16 15:00:04",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
-        "name": "Link",
-        "url": "https://open.spotify.com/album/0eg7LlLnpWCRqUv45BNyy7"
-      },
-      "artists": [
-        {
-          "name": "\u660e\u900f",
-          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
-        }
-      ],
-      "duration_ms": 207874,
-      "name": "Link",
-      "url": "https://open.spotify.com/track/7IgGcxTQE1OHbPpkzpWhTg"
-    },
-    {
-      "added_at": "2025-09-16 15:00:04",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 231440,
       "name": "ENDLESS",
       "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
+    },
+    {
+      "added_at": "2025-09-16 15:00:04",
+      "album": {
+        "name": "Link",
+        "url": "https://open.spotify.com/album/0eg7LlLnpWCRqUv45BNyy7"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u900f",
+          "url": "https://open.spotify.com/artist/71e65rSv8Dh3bfWNPQ1V1Q"
+        }
+      ],
+      "duration_ms": 207874,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/7IgGcxTQE1OHbPpkzpWhTg"
     },
     {
       "added_at": "2025-09-16 15:00:04",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
-        "name": "HOME TOWN \uff5eCover Songs\uff5e",
-        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
-      },
-      "artists": [
-        {
-          "name": "Asako Toki",
-          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
-        }
-      ],
-      "duration_ms": 304266,
-      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
-      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
-    },
-    {
-      "added_at": "2025-09-16 15:00:04",
-      "album": {
         "name": "\u30b7\u30e5\u30fc\u30ba\u306f\u8131\u304c\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ"
       },
@@ -1727,18 +1711,34 @@
     {
       "added_at": "2025-09-16 15:00:04",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i"
+        "name": "HOME TOWN \uff5eCover Songs\uff5e",
+        "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
       },
       "artists": [
         {
-          "name": "Mime",
-          "url": "https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh"
+          "name": "Asako Toki",
+          "url": "https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y"
         }
       ],
-      "duration_ms": 222464,
-      "name": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30ea\u30fc\u30f3\u306e\u63fa\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX"
+      "duration_ms": 304266,
+      "name": "\u590f\u591c\u306e\u30de\u30b8\u30c3\u30af",
+      "url": "https://open.spotify.com/track/4H15DPcx96pHtUdICF8Chc"
+    },
+    {
+      "added_at": "2025-09-16 15:00:04",
+      "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "duration_ms": 275935,
+      "name": "Document",
+      "url": "https://open.spotify.com/track/0gYmeKnZ1lhtMH6Vtwkk2z"
     }
   ],
   "unique_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",

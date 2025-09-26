@@ -1463,6 +1463,22 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
+        "name": "A la Vez",
+        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 182876,
+      "name": "A la Vez",
+      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+    },
+    {
+      "added_at": "2025-09-19 03:00:13",
+      "album": {
         "name": "Verte",
         "url": "https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64"
       },
@@ -1487,18 +1503,22 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "A la Vez",
-        "url": "https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs"
+        "name": "Indios y Vaqueros",
+        "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
       },
       "artists": [
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Sinsinati",
+          "url": "https://open.spotify.com/artist/2rGri7YZ2eiCS58zgvmlQb"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 182876,
-      "name": "A la Vez",
-      "url": "https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI"
+      "duration_ms": 184000,
+      "name": "Indios y Vaqueros",
+      "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1519,26 +1539,6 @@
       "duration_ms": 152275,
       "name": "Te Quise Tanto",
       "url": "https://open.spotify.com/track/0AtlvKnsA1bUsupXEcze0S"
-    },
-    {
-      "added_at": "2025-09-19 03:00:13",
-      "album": {
-        "name": "Indios y Vaqueros",
-        "url": "https://open.spotify.com/album/2t9PxUaBK9Jk2G9vPOaqy5"
-      },
-      "artists": [
-        {
-          "name": "Sinsinati",
-          "url": "https://open.spotify.com/artist/2rGri7YZ2eiCS58zgvmlQb"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Indios y Vaqueros",
-      "url": "https://open.spotify.com/track/3u5GmyJP2MU3tEJgyiAG2T"
     },
     {
       "added_at": "2025-09-19 03:00:13",
@@ -1747,8 +1747,8 @@
     {
       "added_at": "2025-09-19 03:00:13",
       "album": {
-        "name": "Trepando Paredes",
-        "url": "https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC"
+        "name": "Un Poquito",
+        "url": "https://open.spotify.com/album/4zeNVeRzsJVbr7grkRYuko"
       },
       "artists": [
         {
@@ -1756,13 +1756,13 @@
           "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
         },
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 233738,
-      "name": "Trepando Paredes",
-      "url": "https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS"
+      "duration_ms": 186842,
+      "name": "Un Poquito",
+      "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
     },
     {
       "added_at": "2025-09-19 03:00:13",

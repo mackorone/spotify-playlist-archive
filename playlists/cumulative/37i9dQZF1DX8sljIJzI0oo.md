@@ -2,7 +2,7 @@
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> 🔥 A new mixtape drop every Thursday🔥Esau Ortiz is bringing the heat this week!
+> 🔥 A new mixtape drop every Thursday🔥 Easykid is bringing the heat this week!
 
 2,571 songs - 5 day 18 hr 42 min
 

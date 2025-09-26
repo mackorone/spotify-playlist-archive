@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "6 A.M",
+        "url": "https://open.spotify.com/album/4ESKBQy4ysR2rBwOiDLOdT"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162786,
+      "name": "6 A.M.",
+      "url": "https://open.spotify.com/track/5LLhIn21GXFh64b1jFepRx"
+    },
+    {
+      "album": {
         "name": "64 Bare",
         "url": "https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj"
       },
@@ -900,6 +918,24 @@
       "duration_ms": 145679,
       "name": "BAMBINO",
       "url": "https://open.spotify.com/track/1m9KqPPmCjTXl7ia87Cs4B"
+    },
+    {
+      "album": {
+        "name": "BANDITO",
+        "url": "https://open.spotify.com/album/65c96jqqVAvrtV8s3YwIll"
+      },
+      "artists": [
+        {
+          "name": "LIUAN",
+          "url": "https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "BANDITO",
+      "url": "https://open.spotify.com/track/4wr8git78eXX2UYaEOsrUn"
     },
     {
       "album": {
@@ -2348,7 +2384,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 136699,
       "name": "CUGNOM PSANT",
       "url": "https://open.spotify.com/track/4Y9rB48bcDkzy8LhRSA2OH"
@@ -3165,6 +3201,24 @@
     },
     {
       "album": {
+        "name": "FOR CA CAP",
+        "url": "https://open.spotify.com/album/0xDe4YNIiP3Qg8BZ9Hc2Ke"
+      },
+      "artists": [
+        {
+          "name": "Neves17",
+          "url": "https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146165,
+      "name": "FOR CA CAP",
+      "url": "https://open.spotify.com/track/691fL1mW35gZ7BrgiRpG01"
+    },
+    {
+      "album": {
         "name": "Forever Alone",
         "url": "https://open.spotify.com/album/2HS0wNjOG8w72WjiMlqFqw"
       },
@@ -3282,6 +3336,24 @@
       "duration_ms": 166763,
       "name": "FUOC X SEMP",
       "url": "https://open.spotify.com/track/6PoAFFOQiLzXOFeD3EbiaL"
+    },
+    {
+      "album": {
+        "name": "FUOCO",
+        "url": "https://open.spotify.com/album/6ftnaPW8E0sWS9j17SoSiD"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122250,
+      "name": "FUOCO",
+      "url": "https://open.spotify.com/track/3rrWqpRr0rB7tzqKe1JMJy"
     },
     {
       "album": {
@@ -5630,7 +5702,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 217000,
       "name": "MILLY (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l"
@@ -6006,7 +6078,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 174300,
       "name": "M\u2019SENT L.YAMAL",
       "url": "https://open.spotify.com/track/0Z9tOeFWxdo2ZBKZ8LibiB"
@@ -8474,7 +8546,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 195786,
       "name": "RICHIE RICH (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/2qPFsKJ76ZoQ0FMypdhNPi"
@@ -10702,6 +10774,28 @@
       "duration_ms": 139200,
       "name": "Vera Street",
       "url": "https://open.spotify.com/track/6lzhht6rAPFNy5qMOMSxCu"
+    },
+    {
+      "album": {
+        "name": "Vida Du Crimi",
+        "url": "https://open.spotify.com/album/5ftS64jbvK6oyxlqXpK9Qn"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "Vida Du Crimi",
+      "url": "https://open.spotify.com/track/768ekJEIZH9tZPXWNxDKrF"
     },
     {
       "album": {

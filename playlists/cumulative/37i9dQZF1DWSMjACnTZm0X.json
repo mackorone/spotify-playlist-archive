@@ -5107,6 +5107,32 @@
     },
     {
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/7D0S8MbTaJTTvCNjJyI1Tp"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kimani",
+          "url": "https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "DJ Stavo",
+          "url": "https://open.spotify.com/artist/0fWdRyi14sgQWsFCNjXXng"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221843,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/6L4cxH6yHe7jLB9Ux1ubOa"
+    },
+    {
+      "album": {
         "name": "Lie To Me (Tell Me a Fairy Tale)",
         "url": "https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4"
       },
@@ -5925,6 +5951,32 @@
     },
     {
       "album": {
+        "name": "Mr. Parker",
+        "url": "https://open.spotify.com/album/42ciHWnCfwa97AfOEYWYZZ"
+      },
+      "artists": [
+        {
+          "name": "Skelvin",
+          "url": "https://open.spotify.com/artist/5LTAJPBjxITKSLQb5wAbIc"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Corizo",
+          "url": "https://open.spotify.com/artist/5TDcsaFykPA6PCbyd1yRlw"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "Mr. Parker",
+      "url": "https://open.spotify.com/track/390cSkHKKjiQawiiAvQxyl"
+    },
+    {
+      "album": {
         "name": "Mambo",
         "url": "https://open.spotify.com/album/0TyIDqKomocrUepDK60JsZ"
       },
@@ -6146,7 +6198,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 154671,
       "name": "NEXT OF KIN - iberibe",
       "url": "https://open.spotify.com/track/2f7mw3DfVvqbdmKJP2rQ1C"
@@ -9256,7 +9308,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 182654,
       "name": "V.I.P. (feat. Billnass & DJ Awakening)",
       "url": "https://open.spotify.com/track/08gKu7H4TZf3SJchIq1ymK"

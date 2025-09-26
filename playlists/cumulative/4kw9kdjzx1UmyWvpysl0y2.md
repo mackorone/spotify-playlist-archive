@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,078 songs - 2 day 12 hr 19 min
+1,079 songs - 2 day 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |
 | [Pay Respect](https://open.spotify.com/track/4OpmeYRpurVHJYhuOqJqqy) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [FRAXURE](https://open.spotify.com/artist/1dGn5V241a03xUPyhKgVjL), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Pay Respect](https://open.spotify.com/album/5iJL1Tp5fdHj1uo1Atjb8G) | 3:40 | 2025-03-28 | 2025-06-24 |
 | [Perfect](https://open.spotify.com/track/2xYtEzR8YNnqtE2HlcFOtw) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Perfect](https://open.spotify.com/album/4ByTPuHvTEFlEYSfjstrOe) | 2:18 | 2024-08-29 | 2024-11-22 |
+| [Perfect](https://open.spotify.com/track/2hxlj6BdJA603Ahho8fLDH) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Perfect](https://open.spotify.com/album/65SyuCYsdqZOb9I2dP0bWF) | 4:04 | 2025-09-25 |  |
 | [Perfect](https://open.spotify.com/track/3h4NC7LmDnz05P5rv1DGRK) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Perfect](https://open.spotify.com/album/5rYoX9kP81D7w11FdjQSxe) | 2:26 | 2022-04-05 | 2022-06-15 |
 | [Perfect World](https://open.spotify.com/track/3osdj7cdZJyY7eCuTVV0C4) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Perfect World](https://open.spotify.com/album/6LkqmZzjJrOp2x7z1AS1Yk) | 2:55 | 2024-06-20 | 2024-09-17 |
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |

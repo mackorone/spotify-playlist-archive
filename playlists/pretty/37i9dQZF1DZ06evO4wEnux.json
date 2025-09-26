@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNCRgAAAAADTv9KQ4brhlTI6KeyO7Aie",
+  "snapshot_id": "aNM0gAAAAABvzuqpaxDGMEpZlhpgoCrg",
   "tracks": [
     {
       "added_at": null,
@@ -100,70 +100,6 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 238546,
-      "name": "The Rain",
-      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Open Book",
-        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 242868,
-      "name": "Just Past the Point of Breaking",
-      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piece Of Mind",
-        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Piece Of Mind",
-      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal Fears",
-        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Love For Air",
-      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sum of All Your Parts",
-        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
       "duration_ms": 212080,
       "name": "Making Waves",
       "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
@@ -180,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 189792,
-      "name": "Open Book",
-      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
+      "duration_ms": 242868,
+      "name": "Just Past the Point of Breaking",
+      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
     },
     {
       "added_at": null,
@@ -228,9 +164,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 314066,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+      "duration_ms": 238546,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
     },
     {
       "added_at": null,
@@ -244,9 +180,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 253783,
-      "name": "Sleeping Over",
-      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
+      "duration_ms": 189792,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
     },
     {
       "added_at": null,
@@ -276,9 +212,73 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 253783,
+      "name": "Sleeping Over",
+      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 201951,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "An Island",
+      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am an Island",
         "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
       },
@@ -324,25 +340,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 194919,
-      "name": "An Island",
-      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterwords",
-        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 268777,
-      "name": "Afterwords",
-      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
+      "duration_ms": 297828,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am an Island",
-        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
-      },
-      "artists": [
-        {
-          "name": "Fatherson",
-          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
-        }
-      ],
-      "duration_ms": 297828,
-      "name": "James",
-      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal Fears",
         "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
       },
@@ -408,15 +392,15 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 220426,
-      "name": "Crying Wolf",
-      "url": "https://open.spotify.com/track/0GLv6Em2rEM5zXORojoEWQ"
+      "duration_ms": 191506,
+      "name": "The Feeling And The Sound",
+      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "First Born",
-        "url": "https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66"
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
       },
       "artists": [
         {
@@ -424,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
         }
       ],
-      "duration_ms": 194360,
-      "name": "First Born",
-      "url": "https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m"
+      "duration_ms": 268777,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
     },
     {
       "added_at": null,
@@ -443,6 +427,22 @@
       "duration_ms": 180680,
       "name": "Mine for Me",
       "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Born",
+        "url": "https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "First Born",
+      "url": "https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m"
     }
   ],
   "unique_name": "This Is Fatherson",

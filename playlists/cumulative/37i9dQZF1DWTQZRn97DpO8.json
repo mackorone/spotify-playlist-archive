@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Ha\u00efl\u00e9 D\u00e4sta",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Monsieur Nov",
   "name": "le miel",
   "tracks": [
     {
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 173374,
       "name": "DMN",
       "url": "https://open.spotify.com/track/4GLhJvzEntPv9ACB2I2iaH"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 173333,
       "name": "Hell\u00e9bore",
       "url": "https://open.spotify.com/track/1fYLvPWu7jcEClA3q2kFO7"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 149243,
       "name": "J'avoue",
       "url": "https://open.spotify.com/track/4anPfmzlMYyx8OtAsPqSgA"
@@ -4353,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Lueur d\u2019\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/04ByyeLgH2cUGEJEYLXZ3Y"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Lueur d\u2019\u00e9t\u00e9",
+      "url": "https://open.spotify.com/track/61VyyYc3QclsmPsVNAH9zC"
+    },
+    {
+      "album": {
         "name": "Lundi",
         "url": "https://open.spotify.com/album/4zfm4GTXlqC9oyF9D8pcH5"
       },
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 159733,
       "name": "Lundi",
       "url": "https://open.spotify.com/track/4ZrIFRTYeYRDwvvzdM9KKH"
@@ -7405,6 +7423,42 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg"
+    },
+    {
+      "album": {
         "name": "Tranquille",
         "url": "https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG"
       },
@@ -7890,6 +7944,24 @@
       "duration_ms": 185300,
       "name": "Yonc\u00e9",
       "url": "https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Margane",
+          "url": "https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Yourtes",
+      "url": "https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76"
     },
     {
       "album": {

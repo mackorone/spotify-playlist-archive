@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-2,664 songs - 6 day 18 hr 21 min
+2,665 songs - 6 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,7 +802,7 @@
 | [Fold](https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fold](https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx) | 5:35 | 2023-01-28 | 2023-02-12 |
 | [Follow](https://open.spotify.com/track/42DWH94DHBMQLJChi2PYh1) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [Running Touch](https://open.spotify.com/artist/5bdwzvp6eirvqh0TwOwjgE) | [Follow EP](https://open.spotify.com/album/04tT2en23cD8al8SiDQPwE) | 4:56 | 2025-06-28 | 2025-07-20 |
 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 | 2023-09-02 | 2023-09-09 |
-| [Follow Your Heart](https://open.spotify.com/track/6WV3aI7MZ2olmOj8E4Ff25) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Follow Your Heart](https://open.spotify.com/album/0QHZJqcumw0ckKXYIbPKmk) | 3:36 | 2025-09-12 |  |
+| [Follow Your Heart](https://open.spotify.com/track/6WV3aI7MZ2olmOj8E4Ff25) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Jordan Jade](https://open.spotify.com/artist/3fOL1ZASYHeb9zZxP0YXNz) | [Follow Your Heart](https://open.spotify.com/album/0QHZJqcumw0ckKXYIbPKmk) | 3:34 | 2025-09-12 |  |
 | [Fool For Love \- Chris Lake Edit](https://open.spotify.com/track/6H8ddHe7Bpbiy5Gp7lVlBe) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Fool For Love \(Chris Lake Edit\)](https://open.spotify.com/album/4kCcxdrbnQUJmWjvYoYVRf) | 3:59 | 2023-07-07 | 2023-07-16 |
 | [For A Beautiful Liar](https://open.spotify.com/track/6hZlNXmqT7rTwEC8rUqlrh) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF), [Black Department](https://open.spotify.com/artist/0EmKD5XDC7LXAPwXhK2Kuk) | [For A Beautiful Liar](https://open.spotify.com/album/4KDDKG0StS708HXyYxhNHO) | 1:57 | 2025-09-19 |  |
 | [For John & Eileen](https://open.spotify.com/track/3Q6ceCMzZSxGwbUtSblB0D) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Living Like There's No Tomorrow, But Killing Yourself In The Process](https://open.spotify.com/album/1ilx2ORJ8m63yIDhJGqZjQ) | 3:10 | 2023-07-28 | 2023-08-13 |
@@ -2672,5 +2672,6 @@
 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 | 2023-06-01 | 2023-06-25 |
 | [Zurna](https://open.spotify.com/track/7CGB43FkEomSXAtnTNLC9n) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [Zurna](https://open.spotify.com/album/4TwsNgwtGn7cU8mz6lXnyH) | 2:39 | 2023-08-12 | 2023-08-27 |
 | [É Bafo \- Joe Goddard Remix](https://open.spotify.com/track/0SmAf7TtmoELg7jCkZv4dg) | [Fatnotronic](https://open.spotify.com/artist/5evxKull73cP7iadarMC99), [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [É Bafo \(Joe Goddard Remix\)](https://open.spotify.com/album/3oIqF9uPk7kmnSkrQmWkkp) | 4:21 | 2024-02-10 | 2024-02-17 |
+| [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 | 2025-09-25 |  |
 
 \*This playlist was first scraped on 2022-10-16. Prior content cannot be recovered.

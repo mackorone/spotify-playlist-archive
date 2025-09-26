@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 ### [Fuego](https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo)
 
-> 🔥 A new mixtape drop every Thursday🔥Esau Ortiz is bringing the heat this week!
+> 🔥 A new mixtape drop every Thursday🔥 Easykid is bringing the heat this week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,020 likes - 20 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929,987 likes - 20 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 19 | [El Del Flavor](https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [El Del Flavor](https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q) | 2:20 |
 | 20 | [REINAA](https://open.spotify.com/track/5wu2O9uFF3tG6nM8CE6Glz) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY), [Midnvght](https://open.spotify.com/artist/2f0j8IhXgOli2Ub2amAiUZ) | [REINAA](https://open.spotify.com/album/6r6VRNL37I9iwMzwnOp7nc) | 4:30 |
 
-Snapshot ID: `AAAAANeN78bK86QL/ESUblhera7VsYqb`
+Snapshot ID: `AAAAAGzMMEKwEdAjlxSXEhFtpB3gRIgs`

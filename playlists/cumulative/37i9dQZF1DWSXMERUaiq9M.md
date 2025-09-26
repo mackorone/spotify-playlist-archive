@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: KI/KI
 
-561 songs - 1 day 10 hr 42 min
+562 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [BORDERLINE](https://open.spotify.com/track/168uMiy76C6sXmNIpGWPlZ) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [BORDERLINE](https://open.spotify.com/album/4ZqY8ln8OecGqY6AefRKmF) | 4:01 | 2023-06-28 | 2023-07-22 |
 | [Born To Love](https://open.spotify.com/track/7IB3u6v0wDwEYEVVQ2lKoD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Born To Love](https://open.spotify.com/album/4jBr0mykHs1Yeqj6ojOxKj) | 2:53 | 2025-04-17 | 2025-04-23 |
 | [Bounce To The Bassline](https://open.spotify.com/track/5Im0TQ7WSbraNUkPwqfrxN) | [Cara Elizabeth](https://open.spotify.com/artist/4Ol10UBcGz0YO0XpAKoGIU) | [Bounce To The Bassline](https://open.spotify.com/album/7CikLPDLq2DNaEOpxheAgF) | 4:00 | 2025-07-17 | 2025-07-25 |
+| [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 | 2025-09-25 |  |
 | [Breaking My Heart](https://open.spotify.com/track/0v9rbji05qP6JYLSYGF782) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Breaking My Heart](https://open.spotify.com/album/31XRGkiiSYlugOelDvIAJv) | 4:31 | 2025-04-17 | 2025-05-23 |
 | [Bricks](https://open.spotify.com/track/0xKrRID1IyyLkq4wsaGl9q) | [Somewhen](https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Bricks](https://open.spotify.com/album/0uR3aQIZ8a9s3bFdfSg3KX) | 3:47 | 2024-07-04 | 2024-07-13 |
 | [Bumble](https://open.spotify.com/track/6mL2Xd2Ws0XEFpwXqGN6r4) | [Elon Bass](https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr) | [Bumble](https://open.spotify.com/album/0lKvyzna35BHQQ95EPtbsT) | 4:20 | 2023-11-09 | 2023-11-17 |
@@ -508,7 +509,7 @@
 | [tonight belongs to you](https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID) | [Bissett](https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7) | [tonight belongs to you](https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS) | 2:27 | 2023-03-10 | 2024-03-08 |
 | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/track/1HIalwjo1TQVaB63BXbkQu) | [El Columpio Asesino](https://open.spotify.com/artist/7oXqKY12gSK5Q37dWZYWT0), [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN), [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Toro \(I Hate Models Speed Up Revival Edit of Andre VII RMX\)](https://open.spotify.com/album/3J2Hrh8Zz20bTRTgKSBz60) | 6:11 | 2023-03-22 | 2024-10-14 |
 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 | 2024-10-17 |  |
-| [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-09-18 |  |
+| [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-09-18 | 2025-09-26 |
 | [Touch My Body](https://open.spotify.com/track/0iUwIi7QYV7ecwiwx5pCgd) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Touch My Body](https://open.spotify.com/album/2sFc58O2JuDvjGT11Gzgli) | 2:45 | 2024-08-29 | 2024-09-17 |
 | [Touch My Body](https://open.spotify.com/track/4phMw5RRSbWpVWCBvOwsoO) | [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [IGDA](https://open.spotify.com/artist/0ak1kXL9XCay4yQq9ha2U8) | [Touch My Body](https://open.spotify.com/album/22tKTbDZGkrXRp4VDUZmDH) | 4:01 | 2024-06-13 | 2024-10-26 |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2025-08-16 |

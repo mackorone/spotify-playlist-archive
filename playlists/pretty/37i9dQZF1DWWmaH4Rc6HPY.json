@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
-  "num_followers": 36503,
+  "num_followers": 36520,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
+    },
+    {
+      "added_at": "2025-09-12 06:00:17",
+      "album": {
         "name": "Lo bien que suenas",
         "url": "https://open.spotify.com/album/4fqJ4Bvyb6Xawoj3z8NvFy"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 210107,
       "name": "Lo bien que suenas",
       "url": "https://open.spotify.com/track/22midBO4e4rfuu1AVRDXQ2"
-    },
-    {
-      "added_at": "2025-09-12 06:00:17",
-      "album": {
-        "name": "La Puerta",
-        "url": "https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 183109,
-      "name": "La Puerta",
-      "url": "https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l"
     },
     {
       "added_at": "2025-09-12 06:00:17",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
-      },
-      "artists": [
-        {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
-        },
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
-    },
-    {
-      "added_at": "2025-09-12 06:00:17",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2025-09-12 06:00:17",
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/48XWVSy5sgaBwxUSAAkRk4"
+      },
+      "artists": [
+        {
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+        },
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/2aTs1lbZNw5srnF7208xFs"
     },
     {
       "added_at": "2025-09-12 06:00:17",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
-        "name": "La \u00daltima Noche (con Estopa)",
-        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 229247,
-      "name": "La \u00daltima Noche - con Estopa",
-      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
-    },
-    {
-      "added_at": "2025-09-12 06:00:17",
-      "album": {
         "name": "Campeones del Mundo / Rayo de Luz",
         "url": "https://open.spotify.com/album/2KWmh6cY1fCU4WNZtaIJvF"
       },
@@ -855,18 +835,22 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
-        "name": "Te Recuerdo",
-        "url": "https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp"
+        "name": "La \u00daltima Noche (con Estopa)",
+        "url": "https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Te Recuerdo",
-      "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
+      "duration_ms": 229247,
+      "name": "La \u00daltima Noche - con Estopa",
+      "url": "https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW"
     },
     {
       "added_at": "2025-09-12 06:00:17",
@@ -891,6 +875,22 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
+        "name": "Te Recuerdo",
+        "url": "https://open.spotify.com/album/0WIaqkRmsHjaUE5MxI4KEp"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Te Recuerdo",
+      "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
+    },
+    {
+      "added_at": "2025-09-12 06:00:17",
+      "album": {
         "name": "Narvarte",
         "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 193906,
       "name": "Prometimos",
       "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
-    },
-    {
-      "added_at": "2025-09-12 06:00:17",
-      "album": {
-        "name": "Quito",
-        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 179527,
-      "name": "Quito",
-      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
     },
     {
       "added_at": "2025-09-12 06:00:17",
@@ -939,6 +923,22 @@
       "duration_ms": 210970,
       "name": "Que nadie me llore",
       "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
+    },
+    {
+      "added_at": "2025-09-12 06:00:17",
+      "album": {
+        "name": "Quito",
+        "url": "https://open.spotify.com/album/3R4TPnl5iUd2lXL8zMO4pY"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 179527,
+      "name": "Quito",
+      "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
     },
     {
       "added_at": "2025-09-12 06:00:17",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
+        "name": "sin nada",
+        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 154514,
+      "name": "sin nada",
+      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
+    },
+    {
+      "added_at": "2025-09-12 06:00:17",
+      "album": {
         "name": "Quiero saber si es amor (feat. Joy)",
         "url": "https://open.spotify.com/album/33hSdcOl6uiBMEtmRvAVGx"
       },
@@ -1023,38 +1039,6 @@
     {
       "added_at": "2025-09-12 06:00:17",
       "album": {
-        "name": "sin nada",
-        "url": "https://open.spotify.com/album/77cVlFUFTjqkjPTtlIUtQD"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 154514,
-      "name": "sin nada",
-      "url": "https://open.spotify.com/track/5rqDHCpllvNbrRpMbCzxHI"
-    },
-    {
-      "added_at": "2025-09-12 06:00:17",
-      "album": {
-        "name": "Secuaz (Noches de Sal\u00f3n)",
-        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 237324,
-      "name": "Secuaz - Noches de Sal\u00f3n",
-      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
-    },
-    {
-      "added_at": "2025-09-12 06:00:17",
-      "album": {
         "name": "Hablar de Flores",
         "url": "https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "added_at": "2025-09-12 06:00:17",
+      "album": {
+        "name": "Secuaz (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/59oxNypujXRCd5gCKDp5MD"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 237324,
+      "name": "Secuaz - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/4VaAG59pV1v5AMuP7SsrjR"
     },
     {
       "added_at": "2025-09-12 06:00:17",

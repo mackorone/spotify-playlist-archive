@@ -4,7 +4,7 @@
 
 > neler yaşamışım ben ya...
 
-31 songs - 1 hr 28 min
+32 songs - 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Harbi Güzel](https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [Harbi Güzel](https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW) | 2:55 | 2022-07-27 |  |
 | [Harbi Güzel \- Emrah Karaduman Remix](https://open.spotify.com/track/5ioJr9L1UpYqQEvjrWVVvJ) | [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh), [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk) | [Harbi Güzel \(Emrah Karaduman Remix\)](https://open.spotify.com/album/46nvIR1gkyEHyKlrMkdDLr) | 2:54 | 2022-07-27 | 2025-04-11 |
 | [Harbiden](https://open.spotify.com/track/61P518MTME02qGi6MeTmYm) | [Cengiz Ateş](https://open.spotify.com/artist/6XsUIOewd3g4mNOwFXpNFy) | [Harbiden](https://open.spotify.com/album/0c8ArZ4B9F6iZaEveRiRR4) | 3:02 | 2022-11-17 |  |
+| [Her Zerrene](https://open.spotify.com/track/5RlKRK8iKnzRtY5Aep5Gnl) | [Mert Çodur](https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg) | [Her Zerrene](https://open.spotify.com/album/2IAGAUOIhYhKdZzMnY5xV8) | 2:29 | 2025-09-26 |  |
 | [İzleri Belli](https://open.spotify.com/track/2dxXmAftbqWGxsxYdMkmS3) | [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X) | [İzleri Belli](https://open.spotify.com/album/04Rdyug1KAnC4aooCmLgJ8) | 2:48 | 2023-07-14 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-23 |  |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-01-26 | 2024-08-10 |

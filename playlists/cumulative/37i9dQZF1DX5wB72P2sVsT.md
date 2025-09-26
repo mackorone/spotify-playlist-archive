@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> TR3NACRIA au top des bangers dance/electro du moment !
+> Disco Lines x Tinashe au top des bangers dance/electro du moment !
 
 294 songs - 13 hr 33 min
 

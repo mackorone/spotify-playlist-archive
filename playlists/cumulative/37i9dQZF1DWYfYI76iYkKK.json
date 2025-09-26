@@ -2547,6 +2547,28 @@
     },
     {
       "album": {
+        "name": "\u505a\u6211\u7684\u521d\u6200\uff08\u7d14\u611b\u4e0d\u63d2\u96fb\uff09",
+        "url": "https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197954,
+      "name": "\u505a\u6211\u7684\u521d\u6200 (\u7d14\u611b\u4e0d\u63d2\u96fb)",
+      "url": "https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms"
+    },
+    {
+      "album": {
         "name": "\u5076\u723e\u589c\u843d",
         "url": "https://open.spotify.com/album/44X8FjH0jJ8H3oWjIrdtTo"
       },
@@ -2972,7 +2994,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 157714,
       "name": "\u534a\u534a",
       "url": "https://open.spotify.com/track/6M8hmnUyDTVah1gB1oXwel"
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 240845,
       "name": "\u540c\u821f\uff08\u5f71\u8996\u5287\u300a\u53cd\u8a50\u00b7\u7375\u8702\u8005\u300b\u4e3b\u984c\u66f2\uff09",
       "url": "https://open.spotify.com/track/0T20akOc1TlckPOLbBzcRG"
@@ -3478,6 +3500,24 @@
       "duration_ms": 220826,
       "name": "\u5728\u9019\u500b\u6e05\u6668",
       "url": "https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY"
+    },
+    {
+      "album": {
+        "name": "\u6f29\u6e26\u88e1\u7684\u7121\u9650",
+        "url": "https://open.spotify.com/album/1Hp4eQyqO0kIsprstBdq0L"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u9716PoLin",
+          "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262153,
+      "name": "\u5766\u767d\u8b8a\u9ed1",
+      "url": "https://open.spotify.com/track/6wsHLnGswt8w0sF0QSYDgA"
     },
     {
       "album": {
@@ -7736,7 +7776,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 177800,
       "name": "\u76f8\u6a5f",
       "url": "https://open.spotify.com/track/13s83RBJM3kNVBTK7gJ2Xf"
@@ -10050,6 +10090,24 @@
       "duration_ms": 227250,
       "name": "\u9ed1\u591c\u4f86\u904e",
       "url": "https://open.spotify.com/track/45T6RR8lqwHKXZStu0HPSe"
+    },
+    {
+      "album": {
+        "name": "\u6a39\u6d1e\u88e1\u53ef\u4ee5\u60b2\u50b7",
+        "url": "https://open.spotify.com/album/0j2Lu1926Ej4ZGdjWlmJWb"
+      },
+      "artists": [
+        {
+          "name": "Peggy Hsu",
+          "url": "https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278573,
+      "name": "\u9ed1\u6d1e",
+      "url": "https://open.spotify.com/track/478Go1NgZzRUc75vbJwyaF"
     },
     {
       "album": {

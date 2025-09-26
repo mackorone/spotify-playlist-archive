@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Tis Autumn \- Mono](https://open.spotify.com/track/77eyTozd749OwrD7cQAQ5H) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 5:21 | 2025-07-20 |  |
-| [Almost Blue \- Live](https://open.spotify.com/track/0qHf3KrscjAaYN78jNUK3C) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Almost Blue](https://open.spotify.com/album/0a6MHgIjrFmmbIlFkAYHm8) | 3:40 | 2025-08-29 |  |
+| [Almost Blue \- Live](https://open.spotify.com/track/0qHf3KrscjAaYN78jNUK3C) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Almost Blue](https://open.spotify.com/album/0a6MHgIjrFmmbIlFkAYHm8) | 3:40 | 2025-08-29 | 2025-09-26 |
 | [Alone Together \- Mono](https://open.spotify.com/track/1F4FRutCMOnvypcDa4JGiW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \(Mono\)](https://open.spotify.com/album/2d1FwcwFImszirBMuVlWwO) | 6:52 | 2025-07-20 |  |
 | [Arbor Way \- Live](https://open.spotify.com/track/7AbQKNo2zRzIIcfsFBMG2B) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Arbor Way](https://open.spotify.com/album/5kgehWQxGx18XktyTfHyQt) | 5:18 | 2025-08-03 | 2025-08-30 |
 | [Autumn In New York](https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 7:04 | 2025-07-20 | 2025-09-23 |

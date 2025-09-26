@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,486 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,490 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [El Guatón Loyola](https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y) | [Los Hermanos Campos](https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6) | [30 Cuecas](https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK) | 2:15 |
 | 50 | [A la Bandera Chilena](https://open.spotify.com/track/2Heehws5NehsQBYWgEupCj) | [Los Hermanos Campo](https://open.spotify.com/artist/1ir9cTFFYoQ2D7idPpAJIm) | [30 Cuecas de Oro](https://open.spotify.com/album/1LE7JulcmjpnnbQZSMgR4T) | 1:46 |
 
-Snapshot ID: `MGdeoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MGiwIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

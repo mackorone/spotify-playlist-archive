@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: אגם בוחבוט
 
-457 songs - 1 day 0 hr 3 min
+458 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [גיבורה](https://open.spotify.com/track/0KOkf0v3QXz60rjDOMMOK7) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [גיבורה](https://open.spotify.com/album/7GLsPr27L5HOH6jC4kL9Rq) | 3:04 | 2024-06-27 | 2024-11-22 |
 | [גיבורי על](https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [גיבורי על](https://open.spotify.com/album/51I9fo6Ywk6O8vMnq4Oige) | 3:07 | 2024-06-27 | 2024-07-27 |
 | [גיטרה כמו חרב](https://open.spotify.com/track/07AyX9TsJ2ts4h9FLCkF22) | [Guy & Yahel](https://open.spotify.com/artist/6W1YDSxykCcYNvuViqUlBv) | [גיטרה כמו חרב](https://open.spotify.com/album/34Kgklq40408B6llOcv9cl) | 3:03 | 2025-08-14 | 2025-09-12 |
-| [גל עיניי](https://open.spotify.com/track/635ke14KZqjGWRnRpd42w0) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [גל עיניי](https://open.spotify.com/album/5fzolWm4o4kgITLSKpTpAm) | 3:11 | 2025-08-14 |  |
+| [גל עיניי](https://open.spotify.com/track/635ke14KZqjGWRnRpd42w0) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [גל עיניי](https://open.spotify.com/album/5fzolWm4o4kgITLSKpTpAm) | 3:11 | 2025-08-14 | 2025-09-26 |
 | [גלגול נשמה](https://open.spotify.com/track/6CC7qsyB7J9Jc0tqpiUhJs) | [גיא אמר](https://open.spotify.com/artist/0FMlZ5r0VSyb1xsdCZonDs), [Narkis](https://open.spotify.com/artist/0z60F8toAJCUuhnUdbtFD6) | [גלגול נשמה](https://open.spotify.com/album/1fmSFJPJZhqmACqLhyxWCg) | 2:59 | 2025-01-09 | 2025-04-11 |
 | [גלים גלים](https://open.spotify.com/track/41n1aASQlGMsPylHEwI1wo) | [Dikla](https://open.spotify.com/artist/02XPYZHiiXvgdluCi3Esxg) | [גלים גלים](https://open.spotify.com/album/3DI0vAaS7ZrhbvEC4JZkga) | 3:13 | 2024-06-27 | 2024-07-05 |
 | [גלעד](https://open.spotify.com/track/1zlAI5I8uPdL7ADPQbqqig) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc) | [גלעד](https://open.spotify.com/album/6J2vx4w5pYL2u7SYvIxNaG) | 2:56 | 2025-06-26 | 2025-07-11 |
@@ -373,6 +373,7 @@
 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 | 2025-03-06 | 2025-06-06 |
 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 | 2025-01-30 | 2025-02-28 |
 | [סיגליה](https://open.spotify.com/track/5DHTJaHXTpBLkWXFoqcCU9) | [Arkadi Duchin](https://open.spotify.com/artist/2BXgz17FVSKfMin4uJDtYM) | [סיגליה](https://open.spotify.com/album/2FqhjCGQgxCgYqqhTHTF9i) | 3:04 | 2025-08-07 |  |
+| [סימני דרך](https://open.spotify.com/track/2TDC45f5lK7QIN5K5zhI2C) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [סימני דרך](https://open.spotify.com/album/2R5s8YSeJVVvJCrxddTyBe) | 2:17 | 2025-09-25 |  |
 | [סימנים מלמעלה](https://open.spotify.com/track/09pchIRVARhn5CncJ0ovH1) | [Amit Ben David](https://open.spotify.com/artist/63Xvb8GwHgWBzX2f8rSQab) | [סימנים מלמעלה](https://open.spotify.com/album/1LQM5QiA2jDUmOb8MoCLAo) | 2:18 | 2024-10-24 | 2025-01-10 |
 | [סליחה](https://open.spotify.com/track/3bNMJufCrUTvulgd5XhUKs) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE), [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [סליחה](https://open.spotify.com/album/7fDRe1qM9w0Dq7UyDgu4C8) | 3:45 | 2025-04-17 | 2025-09-05 |
 | [סקסית](https://open.spotify.com/track/5oJmOggiNibBGtUFZVcdbM) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [סקסית](https://open.spotify.com/album/4gAHdSxUsqHFjjhh1OOytH) | 2:40 | 2025-09-18 |  |

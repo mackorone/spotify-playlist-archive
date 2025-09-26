@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: raissa anggiani",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Yovie Widianto,  Andi Rianto, Rony Parulian",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 204345,
       "name": "123456 (New Version)",
       "url": "https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O"
@@ -476,7 +476,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 242000,
       "name": "Apa Artinya Aku",
       "url": "https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 216344,
       "name": "Apa Itu Konsep Bahagia?",
       "url": "https://open.spotify.com/track/2lJW88pg9jJSCjlhC7DCF7"
@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Berat Rasanya",
+        "url": "https://open.spotify.com/album/5XpLvIelL2NLQwanzoHev4"
+      },
+      "artists": [
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251162,
+      "name": "Berat Rasanya",
+      "url": "https://open.spotify.com/track/4oqClhAANTngc6Lk0zHQPQ"
+    },
+    {
+      "album": {
         "name": "berbunga-bunga sendiri",
         "url": "https://open.spotify.com/album/3bTDKfHeQuXlOJomalBjoE"
       },
@@ -960,6 +978,24 @@
       "duration_ms": 204816,
       "name": "Berjuang Sekali Lagi",
       "url": "https://open.spotify.com/track/21I0SxYD4D1KhKe7VIPl9J"
+    },
+    {
+      "album": {
+        "name": "Berkaca-kaca",
+        "url": "https://open.spotify.com/album/1hmZkPnKiiWzd7zZ67b8dl"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zee",
+          "url": "https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231079,
+      "name": "Berkaca-kaca",
+      "url": "https://open.spotify.com/track/6qGiArzJsuYwtoeVLZyBUl"
     },
     {
       "album": {
@@ -1814,7 +1850,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 260674,
       "name": "Datang Tepat Waktu",
       "url": "https://open.spotify.com/track/2AYH3gvpjIi98i8wfQxkM5"
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 267011,
       "name": "Dekat",
       "url": "https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg"
@@ -2694,7 +2730,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 193000,
       "name": "Hey Tunggu Dulu",
       "url": "https://open.spotify.com/track/4cWvKdsd9egRGO4CnwFqEg"
@@ -2976,7 +3012,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 272260,
       "name": "Ini Rindu",
       "url": "https://open.spotify.com/track/7wL6attIYWsLot0kLcAMUu"
@@ -3124,7 +3160,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 204336,
       "name": "Jalan, Pulang",
       "url": "https://open.spotify.com/track/4ZxPYWXCWzyrqCfMoqPbSm"
@@ -3519,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Kasih Tau Mama (Malam Minggu)",
+        "url": "https://open.spotify.com/album/4VFwqb1N4CvkB00X2noeup"
+      },
+      "artists": [
+        {
+          "name": "Rombongan Bodonk Koplo",
+          "url": "https://open.spotify.com/artist/4lMaxyOo5D7cOWzv2wiRZs"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206222,
+      "name": "Kasih Tau Mama (Malam Minggu)",
+      "url": "https://open.spotify.com/track/3egqzae8XAs7VXIb1ikB4I"
+    },
+    {
+      "album": {
         "name": "Kasmaran",
         "url": "https://open.spotify.com/album/0JCLBNTCR1M1e8zSTxE0S5"
       },
@@ -3566,7 +3620,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 219695,
       "name": "Kata Kata",
       "url": "https://open.spotify.com/track/2AzoifKBHrbzI3WCrdEhZo"
@@ -4038,7 +4092,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 180219,
       "name": "Kualat",
       "url": "https://open.spotify.com/track/2rQaU116DxmNjhuMEAxSVB"
@@ -4342,7 +4396,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 247734,
       "name": "Lewat Semesta - OST. TABAYYUN",
       "url": "https://open.spotify.com/track/4p30SyLpRQVG3NnydGSDnu"
@@ -4606,7 +4660,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 244390,
       "name": "Malang Suantai Sayang",
       "url": "https://open.spotify.com/track/7t8MjTAtz5NmukwXBj8H7V"
@@ -4660,7 +4714,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 219943,
       "name": "Malu Malu Tapi Nyaman",
       "url": "https://open.spotify.com/track/1jKyWssDMP83VtugbwCJ6g"
@@ -4860,7 +4914,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 274000,
       "name": "Melangitkanmu",
       "url": "https://open.spotify.com/track/7s8c4Ap7Gdzdvb3gGuVGhy"
@@ -5030,7 +5084,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 274254,
       "name": "Menarilah dengan Jiwamu",
       "url": "https://open.spotify.com/track/64AhTEtMOkiTPybwkuv7TY"
@@ -5200,7 +5254,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 251298,
       "name": "Menunggumu Sampai Akhir Hidup",
       "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
@@ -5306,6 +5360,24 @@
       "duration_ms": 258627,
       "name": "Mundur Perlahan",
       "url": "https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV"
+    },
+    {
+      "album": {
+        "name": "do you guys *still* wanna listen to some electro-pop music?",
+        "url": "https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Mungkin",
+      "url": "https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal"
     },
     {
       "album": {
@@ -5584,7 +5656,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 214379,
       "name": "Orang Biasa",
       "url": "https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv"
@@ -6373,6 +6445,32 @@
     },
     {
       "album": {
+        "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
+        "url": "https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        },
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235784,
+      "name": "Salahi Aku (Ku Jatuh Cinta Lagi)",
+      "url": "https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4"
+    },
+    {
+      "album": {
         "name": "Berbunga",
         "url": "https://open.spotify.com/album/2gIrUfBxknVo9vQRL9Gp42"
       },
@@ -6872,6 +6970,24 @@
       "duration_ms": 280305,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3"
+    },
+    {
+      "album": {
+        "name": "Sembuh Kembali",
+        "url": "https://open.spotify.com/album/6V1lLksPRBbJejQPZmNSLp"
+      },
+      "artists": [
+        {
+          "name": "Shabrina Leanor",
+          "url": "https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277155,
+      "name": "Sembuh Kembali",
+      "url": "https://open.spotify.com/track/4Y73IsEuBaGYJIS08iwBbB"
     },
     {
       "album": {
@@ -7584,7 +7700,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 333734,
       "name": "Sinarengan",
       "url": "https://open.spotify.com/track/05JCo2qLuSp6Tm4yzqh95Z"
@@ -8242,7 +8358,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 239656,
       "name": "tangguh",
       "url": "https://open.spotify.com/track/4LeosEA3ebFsLK0w1tnUmH"
@@ -8416,7 +8532,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 198324,
       "name": "Tegar",
       "url": "https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy"
@@ -8496,6 +8612,24 @@
       "duration_ms": 281173,
       "name": "Terbuang Dalam Waktu",
       "url": "https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH"
+    },
+    {
+      "album": {
+        "name": "Terima Kasih",
+        "url": "https://open.spotify.com/album/3j8Y4da2KygEkphQNPzxjk"
+      },
+      "artists": [
+        {
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233004,
+      "name": "Terima Kasih",
+      "url": "https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH"
     },
     {
       "album": {
@@ -8814,7 +8948,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 262986,
       "name": "Tidak Banyak - Banyak",
       "url": "https://open.spotify.com/track/5KoC6YdabgtcxPeBVJSQ9J"
@@ -8880,6 +9014,42 @@
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 12",
+      "url": "https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT"
     },
     {
       "album": {
@@ -9006,7 +9176,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 210523,
       "name": "uKYdS",
       "url": "https://open.spotify.com/track/0hYZIjydHDd1Wl5bUtQQpD"

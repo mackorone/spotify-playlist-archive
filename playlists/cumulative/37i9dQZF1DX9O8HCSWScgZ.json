@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 151996,
       "name": "dawn to dawn",
       "url": "https://open.spotify.com/track/40LJYr9L3F8r2I1AXiV2QA"
@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 124931,
       "name": "Drizzle",
       "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "sunrise",
+        "url": "https://open.spotify.com/album/0t4yXNgstBAzYTiRL5oOsc"
+      },
+      "artists": [
+        {
+          "name": "mxgnetic",
+          "url": "https://open.spotify.com/artist/5u7mGLVX9UB0iKwkgMywJ9"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "sunrise",
+      "url": "https://open.spotify.com/track/1eo4dFZb0UAvPO7oPFPE72"
+    },
+    {
+      "album": {
         "name": "temporary approved",
         "url": "https://open.spotify.com/album/3nRBtSNytK87rJY1mZVKEa"
       },
@@ -1782,6 +1800,24 @@
       "duration_ms": 113000,
       "name": "triple sun",
       "url": "https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I"
+    },
+    {
+      "album": {
+        "name": "Undertone",
+        "url": "https://open.spotify.com/album/7u04oReVWqQQcabJa7vgAL"
+      },
+      "artists": [
+        {
+          "name": "hiking trip",
+          "url": "https://open.spotify.com/artist/2LYQSy5WzO4IpaDmvmGzts"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Undertone",
+      "url": "https://open.spotify.com/track/50VLwwvzjpemTbpK4hdSCr"
     },
     {
       "album": {

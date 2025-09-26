@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : LÉA CHURROS
+> Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,579 likes - 40 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,619 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [CARDIO](https://open.spotify.com/track/4jGQosmehonskWfrEEzxN4) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/01Og6jVacvaYfaVmCo6fzs) | [CARDIO](https://open.spotify.com/album/2qCx00xTA23BEgRujR9Qng) | 2:44 |
 | 40 | [Continué gardé](https://open.spotify.com/track/0rL4mMf6GShlF70S6CXpkB) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd), [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm) | [Continué gardé](https://open.spotify.com/album/77slPqHtITdgg4b5874Mfq) | 2:52 |
 
-Snapshot ID: `AAAAAEkzIKtakATjkbRoFk9ip5OAerQ9`
+Snapshot ID: `AAAAAChN6GsJhA6UPgwS/W6h6bzy0qfC`

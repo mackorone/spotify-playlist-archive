@@ -4,7 +4,7 @@
 
 > Latest Hindi songs, fresh from the recording studios to your ears\. Cover: Sunny Sanskari Ki Tulsi Kumari
 
-286 songs - 17 hr 12 min
+287 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,8 +279,9 @@
 | [Way You Move \- Acoustic](https://open.spotify.com/track/1XIOjB7G0xDj9rqZ3Rw5YH) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Dhruv Visvanath](https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn) | [Way You Move](https://open.spotify.com/album/2UvZRvv6td5HGp3UPgoc35) | 2:59 | 2025-08-29 | 2025-09-24 |
 | [Yaad Aaye Woh Din](https://open.spotify.com/track/2cKS2yRiedWkeEzPgTE4Mh) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Yaad Aaye Woh Din](https://open.spotify.com/album/3V4KVaoiFAxrTh8o8piSJx) | 6:29 | 2025-08-26 | 2025-09-16 |
 | [Yaar Bichhda \- From "Tehran"](https://open.spotify.com/track/7gIVNnlh8oVCydvC5ZlDiq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Yaar Bichhda \(From "Tehran"\)](https://open.spotify.com/album/6RbQ7dRbeHU74DEiVXDbDz) | 4:03 | 2025-08-19 | 2025-09-13 |
+| [Yaar Mere \(From "Homebound"\)](https://open.spotify.com/track/2vCTJnnEr7zelRxM3FGDCk) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT) | [Yaar Mere \(From "Homebound"\)](https://open.spotify.com/album/7hzCXESQFtoyRdLfx5daYc) | 4:28 | 2025-09-25 |  |
 | [Ye Aankhein](https://open.spotify.com/track/4PvRuTLsNQQE93mEMiu2M4) | [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8) | [Ye Aankhein](https://open.spotify.com/album/4kpf3vqueQ23eeZzvyf9I9) | 4:17 | 2025-07-01 | 2025-07-17 |
-| [Ye Dost Teri Kami Najar Ayegi](https://open.spotify.com/track/7Gpsjd9LbQBuZ8WWLS3Hz5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Ye Dost Teri Kami Najar Ayegi](https://open.spotify.com/album/61s3xTHssRgaszx5P0WeRG) | 4:02 | 2025-08-29 |  |
+| [Ye Dost Teri Kami Najar Ayegi](https://open.spotify.com/track/7Gpsjd9LbQBuZ8WWLS3Hz5) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Ye Dost Teri Kami Najar Ayegi](https://open.spotify.com/album/61s3xTHssRgaszx5P0WeRG) | 4:02 | 2025-08-29 | 2025-09-26 |
 | [Ye Jawani Hai Diwani](https://open.spotify.com/track/3x7AbWZsejP2Ou3q0EC2Eb) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Shamir Tandon](https://open.spotify.com/artist/5l78zXA0RNE96IP45w3d5t) | [Ye Jawani Hai Diwani](https://open.spotify.com/album/1gJ1ObyT70F0z7rhJOoMj6) | 3:20 | 2025-09-12 |  |
 | [Ye Kaisa Ishq \- From "Dhadak 2"](https://open.spotify.com/track/5CzzeXmmVEk6WXw1TDhQUg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Gurpreet Saini](https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie) | [Dhadak 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3daeQ1DOD0NOHjrrzwYaIy) | 3:07 | 2025-08-05 | 2025-09-16 |
 | [Ye Lo](https://open.spotify.com/track/4GXz04z6A7G6NnR8KrGDiX) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Ye Lo](https://open.spotify.com/album/3bY5IS2Ai41yYscIoDvuND) | 5:19 | 2025-07-08 | 2025-07-25 |

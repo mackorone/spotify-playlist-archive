@@ -291,6 +291,28 @@
     },
     {
       "album": {
+        "name": "3am In Gillco",
+        "url": "https://open.spotify.com/album/2xKR9o0kFAitgPrfymGw5t"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "3am In Gillco",
+      "url": "https://open.spotify.com/track/1oMW4IqpV4ulyFYk16YzSl"
+    },
+    {
+      "album": {
         "name": "410",
         "url": "https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe"
       },
@@ -3826,7 +3848,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 180000,
       "name": "Moon Calling - Banx & Ranx Remix",
       "url": "https://open.spotify.com/track/39wZhvk1UmJ0slS9AU7uVP"
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 129032,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/1GJGtsMN2KNtNhPnLHT7jp"
@@ -4430,6 +4452,24 @@
       "duration_ms": 162346,
       "name": "Plug Talk",
       "url": "https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z"
+    },
+    {
+      "album": {
+        "name": "Pols",
+        "url": "https://open.spotify.com/album/0dKep1k5qQFGZnW7ZYEXmD"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120923,
+      "name": "Pols",
+      "url": "https://open.spotify.com/track/4EpKRtkdwOQGmX1YCDsq1d"
     },
     {
       "album": {

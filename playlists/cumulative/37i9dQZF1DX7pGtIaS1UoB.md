@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-427 songs - 1 day 1 hr 2 min
+428 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,13 +257,14 @@
 | [愛你剛剛好 \- 電視劇《愛的3,14159》片頭曲](https://open.spotify.com/track/6o2rf6hN585WmeakZxtDkr) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [愛你剛剛好 \(電視劇《愛的3,14159》片頭曲\)](https://open.spotify.com/album/44obeIQC1UfilxKNTLu7SM) | 3:22 | 2022-06-20 | 2022-06-28 |
 | [愛你多一喵](https://open.spotify.com/track/0w6sTStcNOx7mofQJyRkmK) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [別擔心!我不是壞人](https://open.spotify.com/album/5RPKmf0HbLR3vYFaU0x0dA) | 3:35 | 2022-07-04 | 2022-07-07 |
 | [愛你是我的未來\(Future Love\)](https://open.spotify.com/track/7m9j9FJ53NzSg2LdpdMuJz) | [Jeric](https://open.spotify.com/artist/4HSNlnxUGI3Rev92Ja7Ol2) | [愛你是我的未來\(Future Love\)](https://open.spotify.com/album/2NmJEhpqQAKQz9i1946pMw) | 4:08 | 2022-06-27 | 2022-07-19 |
+| [愛你至死不渝](https://open.spotify.com/track/6IoIZGXdHgsGTPIAV1VCaD) | [白小白](https://open.spotify.com/artist/2z483yEJXdjguqCQysftmD) | [愛你至死不渝](https://open.spotify.com/album/5Or7Ww9VTiQXgIJO326Olc) | 4:15 | 2025-09-25 |  |
 | [愛你需要練習](https://open.spotify.com/track/0OVRyjRP4ub7xVZI1MOdew) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW), [薇婭](https://open.spotify.com/artist/3YJP49BjkAQUKPE6Yf7CVw) | [愛你需要練習](https://open.spotify.com/album/41AW0iBvE6NDQr2FT0gtlB) | 3:55 | 2022-06-06 | 2022-07-23 |
 | [愛在時光裡](https://open.spotify.com/track/2c7OFN8z6tamSX3vUlzfmj) | [蘇有朋](https://open.spotify.com/artist/2ZUO4qskPSAAT6XH3XIdEd) | [愛在時光裡](https://open.spotify.com/album/40DH4fvriGVyjN3mWwg8JR) | 3:16 | 2023-03-20 | 2023-03-28 |
 | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/track/5UaSB8aD7oQOX1l5eqoLMR) | [曾韻璇](https://open.spotify.com/artist/5y6V55XBzT0i9WkySKwgNE), [高偉勛](https://open.spotify.com/artist/3P8fzwFoEZQxVovoy2xgkd) | [愛在發酵 \(Vidol原創微劇《愛不愛栗絲》片頭曲\)](https://open.spotify.com/album/3eHD9S6QJRWfUq3dO63E5i) | 3:47 | 2022-07-04 | 2022-07-08 |
 | [愛妳愛我](https://open.spotify.com/track/3HcDZebLoHcOlMiM3s6iAm) | [李宜柏PAULYBLEE](https://open.spotify.com/artist/6rCZx04nawchlA7kTA0c9v) | [愛妳愛我](https://open.spotify.com/album/0xCL2wvYYuOlMXw7xBrWo9) | 4:10 | 2024-11-07 | 2024-12-15 |
 | [愛情儲蓄罐](https://open.spotify.com/track/7aF8wcSnXKyhKsmGPDZ31L) | [李承铉](https://open.spotify.com/artist/5YtsROKebAVSnTpAbLChwF) | [愛情儲蓄罐](https://open.spotify.com/album/78jEnDvmVjL5wUHhczxxj4) | 3:33 | 2024-05-30 | 2024-09-01 |
 | [愛情訊號](https://open.spotify.com/track/6IHWyp73QtPQ2zKbzlniMG) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [愛情訊號](https://open.spotify.com/album/6FPuEWkynIIDuQKzwSQC3X) | 3:28 | 2025-08-07 | 2025-09-23 |
-| [愛的指南針](https://open.spotify.com/track/7GlIfefAiaHFuwq9fb13WD) | [TWMusik](https://open.spotify.com/artist/5MRpe7NPAmjAGuAJLD6ti6), [Xian Yong](https://open.spotify.com/artist/4Lbez2zKuAfleJwMlcqr1P) | [愛的指南針](https://open.spotify.com/album/3h3COQQ4UIYbhRQDwZfIAK) | 3:29 | 2025-09-18 |  |
+| [愛的指南針](https://open.spotify.com/track/7GlIfefAiaHFuwq9fb13WD) | [TWMusik](https://open.spotify.com/artist/5MRpe7NPAmjAGuAJLD6ti6), [Xian Yong](https://open.spotify.com/artist/4Lbez2zKuAfleJwMlcqr1P) | [愛的指南針](https://open.spotify.com/album/3h3COQQ4UIYbhRQDwZfIAK) | 3:29 | 2025-09-18 | 2025-09-26 |
 | [愛的菜市場](https://open.spotify.com/track/75V4tdx9wBJWXAvgADroED) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [愛的菜市場](https://open.spotify.com/album/3pvU1pLuTuOcpwm2ooVNip) | 2:59 | 2025-02-06 | 2025-04-09 |
 | [愛的首席](https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [愛的首席](https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8) | 3:32 | 2024-01-01 | 2024-06-29 |
 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事\(新歌+精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 | 2022-07-11 | 2022-11-02 |

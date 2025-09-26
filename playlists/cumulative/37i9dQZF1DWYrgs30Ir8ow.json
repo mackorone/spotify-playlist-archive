@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd frisse hits! Cover: Idaly",
+  "description": "Altijd frisse hits! Cover: Antoon",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -42,6 +42,28 @@
       "duration_ms": 156872,
       "name": "03:15 (met Zulema)",
       "url": "https://open.spotify.com/track/1kD1DC5HJ3aqYgt2NpvYDB"
+    },
+    {
+      "album": {
+        "name": "0612345678",
+        "url": "https://open.spotify.com/album/3CgYS7rGV4pFRojDGRCX0g"
+      },
+      "artists": [
+        {
+          "name": "Ceder",
+          "url": "https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143385,
+      "name": "0612345678",
+      "url": "https://open.spotify.com/track/244Lc2uhaHG8ax7Y1Yme5Q"
     },
     {
       "album": {
@@ -204,7 +226,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -470,7 +492,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 192043,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
@@ -1918,6 +1940,24 @@
       "duration_ms": 185523,
       "name": "BAD",
       "url": "https://open.spotify.com/track/6o97vnNAuc3Bhdz3kohQPp"
+    },
+    {
+      "album": {
+        "name": "Bad Bitches Luisteren Def",
+        "url": "https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95728,
+      "name": "Bad Bitches Luisteren Def",
+      "url": "https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9"
     },
     {
       "album": {
@@ -3706,7 +3746,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 215511,
       "name": "Camera",
       "url": "https://open.spotify.com/track/4rWeuQF9HD3UP6XEqLDVew"
@@ -3962,7 +4002,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 157807,
       "name": "CASAMIGOS",
       "url": "https://open.spotify.com/track/0LUNLyK43d1NEqWtuvYfHl"
@@ -8099,6 +8139,24 @@
     },
     {
       "album": {
+        "name": "GO BESTFRIEND",
+        "url": "https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134398,
+      "name": "GO BESTFRIEND",
+      "url": "https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo"
+    },
+    {
+      "album": {
         "name": "Go Shawty",
         "url": "https://open.spotify.com/album/3bGEmdL2XkICohy6Aoo5yw"
       },
@@ -11366,6 +11424,32 @@
       "duration_ms": 146742,
       "name": "Laat Die Hoodie Maar Hangen",
       "url": "https://open.spotify.com/track/6nZwVhVHVq6kSfEpDMDrfh"
+    },
+    {
+      "album": {
+        "name": "Laatste Bericht",
+        "url": "https://open.spotify.com/album/0b4a1WKptVwvqtMgt56WHu"
+      },
+      "artists": [
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "kans",
+          "url": "https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183896,
+      "name": "Laatste Bericht",
+      "url": "https://open.spotify.com/track/4q45RErPte0Hxe03YSh4fM"
     },
     {
       "album": {
@@ -21992,7 +22076,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

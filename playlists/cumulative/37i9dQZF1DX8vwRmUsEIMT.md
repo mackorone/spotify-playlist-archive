@@ -2,7 +2,7 @@
 
 ### [All New All Now](https://open.spotify.com/playlist/37i9dQZF1DX8vwRmUsEIMT)
 
-> All the new music you need to hear right now\. Cover: RAYE
+> All the new music you need to hear right now\. Cover: Doja Cat
 
 3,231 songs - 7 day 6 hr 45 min
 

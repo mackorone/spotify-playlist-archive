@@ -4,7 +4,7 @@
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-102 songs - 6 hr 15 min
+103 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alvo](https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 2:38 | 2023-09-18 |  |
 | [Ameixa](https://open.spotify.com/track/1OUvK0EOLn3Fef5t5tPhBf) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Fejuca](https://open.spotify.com/artist/6ZTlDR8IfFjPGqQmcOj2vj) | [Ameixa](https://open.spotify.com/album/2EJPk2icebxltZSxX37dHz) | 4:06 | 2023-09-18 |  |
 | [Apoklibz](https://open.spotify.com/track/1PQoCFzPpBwUvN4zUg0cot) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:41 | 2024-03-28 | 2025-09-16 |
+| [Apoklibz](https://open.spotify.com/track/74y6aoU1Q9YFpoxYEscarz) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:41 | 2025-09-26 |  |
 | [Apoteose](https://open.spotify.com/track/2oo68vl4Hn1DC71nRs47YZ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 3:07 | 2025-09-16 |  |
 | [Apoteose](https://open.spotify.com/track/2pdYJaqRkCtfEFyjI57SrU) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:07 | 2023-09-18 | 2025-09-13 |
 | [Banho de Folhas \- Nyack Remix](https://open.spotify.com/track/7Iop6KQKKaunEcvGIa4Z6w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Banho de Folhas \(Nyack Remix\)](https://open.spotify.com/album/4oMm4lyLphLCRKCVHv7QRb) | 4:10 | 2023-09-18 |  |
@@ -50,7 +51,7 @@
 | [Modo Avião](https://open.spotify.com/track/3kKPlymNRMSgw72fOmIsPY) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:59 | 2025-01-14 | 2025-07-04 |
 | [Mão Direita / Amor](https://open.spotify.com/track/3iGj0sw5wX6DiKFzVhuKK1) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:22 | 2023-09-18 | 2023-11-11 |
 | [Mão Direita / Amor](https://open.spotify.com/track/40x2EoFg27mQrvRChXFthk) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Kiai](https://open.spotify.com/artist/7JbQIFP81I6g4g6zXzvnB3) | [JazzKilla](https://open.spotify.com/album/1JG58zniDWU7PwOztVNu3S) | 4:50 | 2023-11-10 |  |
-| [Mão Esquerda / Ódio](https://open.spotify.com/track/5Rg1CX9QLxLHPdwV52YZUy) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 2:47 | 2025-09-16 |  |
+| [Mão Esquerda / Ódio](https://open.spotify.com/track/5Rg1CX9QLxLHPdwV52YZUy) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/2yyNCMvY5GomcWRWvUg9JA) | 2:47 | 2025-09-16 | 2025-09-26 |
 | [Mão Esquerda / Ódio](https://open.spotify.com/track/6jftY1YtbMmqPl8gW9ys9t) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:47 | 2025-09-13 | 2025-09-16 |
 | [N.Word](https://open.spotify.com/track/4NTpfwaGo1Rhi4FM2SqfpV) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [MANHÃ, TARDE & NOITE](https://open.spotify.com/album/7fgltlJhEmfdtwVQK8QZN9) | 3:30 | 2023-09-18 | 2023-12-14 |
 | [Nervos de Aço](https://open.spotify.com/track/3mmj5RI8x5RABwiYuA2xtE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Le Fauve](https://open.spotify.com/album/66fHMA9odM1kYnOnqlf1nm) | 3:00 | 2024-12-21 |  |

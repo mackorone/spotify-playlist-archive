@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Mon Laferte & NATHY PELUSO, Junior H,  Alejandro Sanz & Rels B and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,319 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,307 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 9 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
 | 10 | [Tu VIP](https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [FANÁTICA](https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq) | 3:26 |
 | 11 | [La Fría](https://open.spotify.com/track/2EXTGv7D8f5EuVrErTxakD) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy) | [La Fría](https://open.spotify.com/album/0udcpZ0Je3sea6o9Jd66zX) | 2:37 |
-| 12 | [DEM BOW](https://open.spotify.com/track/2yKt89hsvRBp2mW8CA7OUk) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nando Bloom](https://open.spotify.com/artist/19sdQzUyQNoEwkKEN4vcf4), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [DEM BOW](https://open.spotify.com/album/73BuRIf1BACSngcq0FEHs6) | 2:26 |
+| 12 | [DEM BOW](https://open.spotify.com/track/2yKt89hsvRBp2mW8CA7OUk) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nando Boom](https://open.spotify.com/artist/0JdvRpul2MbuhX7k0FUkko), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [DEM BOW](https://open.spotify.com/album/73BuRIf1BACSngcq0FEHs6) | 2:26 |
 | 13 | [Lamine Yamal](https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Lamine Yamal](https://open.spotify.com/album/7fmh1oNqZT1aIpUS5tie5J) | 2:43 |
 | 14 | [lonely](https://open.spotify.com/track/2zajUUzQI6EVxepdee2KML) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [princesa de la noche](https://open.spotify.com/album/1O4KYm9wHTNwAnjoHCnQMI) | 2:24 |
 | 15 | [Incondicional \- Les Trois Monde](https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [R.D.L.D.](https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6) | 2:31 |

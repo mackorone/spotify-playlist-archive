@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-323 songs - 1 day 4 hr 11 min
+324 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Trial by Fire](https://open.spotify.com/track/37aSF6UCYfvPEXdCjHLvKY) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Trial by Fire](https://open.spotify.com/album/4cF52bdDIreABU7AeK41yK) | 4:48 | 2022-10-13 | 2024-04-13 |
 | [Trust Me](https://open.spotify.com/track/3BK4YfFMjKn9spoK5XBdU6) | [Herd](https://open.spotify.com/artist/4Ai3fTyN3aG8QoalEbhlXA), [Panu Savolainen](https://open.spotify.com/artist/5og1sabV0PYzVdMIqoRYof) | [Trust Me](https://open.spotify.com/album/5OMNUzsdn26hx5EgQkhBI1) | 5:15 | 2025-01-17 |  |
 | [Try Again](https://open.spotify.com/track/3mRP9loGOgziATfqC21ipN) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Try Again](https://open.spotify.com/album/7Js6Q1TX5YB7PTvhgnPtKC) | 6:39 | 2023-11-02 | 2024-04-27 |
+| [Trying](https://open.spotify.com/track/2PmIZ7ehmLkCOvkJxmvrgM) | [Pepa Päivinen](https://open.spotify.com/artist/5qVRczEjsbO9eAtK9J00Kx), [Peacepipe](https://open.spotify.com/artist/7soNgsIengoLMAoK0YzmXi), [Timo Kämäräinen](https://open.spotify.com/artist/5hy3wvtMIk2xBbs2Zll7Ny), [Mikko Hassinen](https://open.spotify.com/artist/0S2MaggmfriTybAYgNyAoP), [Ville Herrala](https://open.spotify.com/artist/2mUEFxBKAWcz6nV3EoAskk) | [Trying](https://open.spotify.com/album/2ofMmlkPtLgU0oqsPwMX8I) | 4:00 | 2025-09-25 |  |
 | [Tulva](https://open.spotify.com/track/6DH17VINnXTFPV9oJ2GxAX) | [Viive](https://open.spotify.com/artist/6dz2vPzj1zPPBQXdPwbQ2y) | [Tulva](https://open.spotify.com/album/5bJfy8vIGBZ137CiVLIPiG) | 3:45 | 2024-10-11 |  |
 | [Tunneli](https://open.spotify.com/track/29IzZzarZH9odXOpCGqAb3) | [VIRTA](https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b) | [Tunneli](https://open.spotify.com/album/4riQO82LOKP3PD5tmqxhxv) | 5:28 | 2023-03-31 | 2023-08-26 |
 | [Turn Again Hourglass](https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6) | [Mama Longhorn](https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh) | [Turn Again Hourglass](https://open.spotify.com/album/5TNB6VrYqAFwWcIuez679C) | 5:47 | 2023-10-26 | 2024-04-27 |

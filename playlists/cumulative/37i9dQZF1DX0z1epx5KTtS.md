@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from the continent to Paris\. Photo : Team Paiya
+> African dance party music from the continent to Paris\. Photo : Dydy Yeman
 
-251 songs - 13 hr 51 min
+252 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,13 +209,14 @@
 | [Rebelotte](https://open.spotify.com/track/5PQakziJJG1F2y6S01FZO8) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 3:38 | 2021-12-20 | 2022-06-24 |
 | [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 | 2022-09-08 | 2025-01-03 |
 | [Remontada](https://open.spotify.com/track/7GXRrgvWlaqPQcVVvQopOQ) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Remontada](https://open.spotify.com/album/2dkHnxc412xEQUnO39UxZZ) | 2:04 | 2024-08-22 | 2024-11-15 |
-| [Remue les reins](https://open.spotify.com/track/53dpL86yhMKteoOyqbpZEf) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Remue les reins](https://open.spotify.com/album/6Dgje8S99FE9igOOlCMfB0) | 2:41 | 2025-01-30 |  |
+| [Remue les reins](https://open.spotify.com/track/53dpL86yhMKteoOyqbpZEf) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Remue les reins](https://open.spotify.com/album/6Dgje8S99FE9igOOlCMfB0) | 2:41 | 2025-01-30 | 2025-09-26 |
 | [Reste Là Bas](https://open.spotify.com/track/6yax3hE8ZZ4TvtdhWqjahI) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Reste Là Bas](https://open.spotify.com/album/42lwVZ4BrzvOWlImQgrYCd) | 3:05 | 2025-05-08 | 2025-08-29 |
 | [Retour à l'envoyeur](https://open.spotify.com/track/1TPJuA1nHM2YoVQ1AAEJ4O) | [Anderson 1er](https://open.spotify.com/artist/2MF2HhouHc4XEbRl7N6Jpp) | [Retour à l'envoyeur](https://open.spotify.com/album/2WOzhUZkErZQG4s07tV8Sl) | 3:53 | 2022-08-25 | 2023-01-27 |
 | [Réveilles toi](https://open.spotify.com/track/03DoyyfEZu5MeN97YZtzaF) | [Rocky Gold](https://open.spotify.com/artist/0pagPxNrVGh9Qxjh7gn5t7) | [Réveilles toi](https://open.spotify.com/album/6fWiUekVUcszo2DiSBdwqr) | 2:36 | 2024-09-26 | 2024-11-15 |
 | [Révolté](https://open.spotify.com/track/6JXg1zMsPigCQernsCbPnV) | [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Grand Homme](https://open.spotify.com/artist/2F3A4fm1tsB1kBe6idGcO9) | [Révolté](https://open.spotify.com/album/3LudMCBqaRDovkc4gUeONI) | 2:36 | 2025-04-17 | 2025-05-30 |
 | [S'envolement](https://open.spotify.com/track/4qTtDG8wnFPBuMT9gX8e2d) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [S'envolement](https://open.spotify.com/album/43kB8Cbtaz8nI0GFOUivXg) | 3:18 | 2023-03-09 | 2023-05-19 |
 | [Sac à main](https://open.spotify.com/track/66NOf4gM87dJHggT574dnL) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [Boîte automatique](https://open.spotify.com/album/1y44R2UA3pHtNPLTfju3Ue) | 4:06 | 2022-09-29 | 2023-01-20 |
+| [Sauteur](https://open.spotify.com/track/6NAPfj5sTMlfBxid1cPRRd) | [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Sauteur](https://open.spotify.com/album/4nmMjKL8AznO7Dke0OvmHh) | 2:51 | 2025-09-25 |  |
 | [Si tu veux partir](https://open.spotify.com/track/1fIJIeH1UGo8iIGtULmSQo) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Si tu veux partir](https://open.spotify.com/album/5BIVokEq8qsDHH96pnrCXS) | 3:44 | 2022-05-20 | 2022-10-28 |
 | [Solé Molé](https://open.spotify.com/track/2Y6dWajudXnoL8ABsSRMpC) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f) | [Solé Molé](https://open.spotify.com/album/3uwZVh63OTVP10CYLGbUhF) | 3:36 | 2023-02-02 | 2023-09-22 |
 | [Statut visé](https://open.spotify.com/track/6TDLNk7EqIR9QJXKl3zDQP) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Statut visé](https://open.spotify.com/album/7E5rsjdqtGNTVO2d13JCom) | 3:35 | 2022-07-21 | 2023-01-06 |

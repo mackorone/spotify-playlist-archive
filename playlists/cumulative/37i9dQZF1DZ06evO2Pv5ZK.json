@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Juno to Jupiter",
+        "url": "https://open.spotify.com/album/1W8RT4Mmz06AfR5UdJgqpl"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "Inside our perspectives",
+      "url": "https://open.spotify.com/track/7vY638lPkEMUZWq7eW7PY5"
+    },
+    {
+      "album": {
         "name": "Direct",
         "url": "https://open.spotify.com/album/1Ia0VRhvOAowBCxm3ncUuZ"
       },

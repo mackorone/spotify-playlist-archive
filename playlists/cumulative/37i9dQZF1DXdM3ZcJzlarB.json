@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-15",
-  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 Sol Ortega",
+  "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8 CCINNI",
   "name": "(AR)",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 267540,
       "name": "Acid Morning",
       "url": "https://open.spotify.com/track/6mu8usH9A5WQejJ1kDSqlI"
@@ -264,7 +264,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 339000,
       "name": "Al Sur (Remix)",
       "url": "https://open.spotify.com/track/653NELKyXY5eHtXUfZeEHQ"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 394838,
       "name": "Always Matter - Mixed",
       "url": "https://open.spotify.com/track/6SBQw5C9opzwqDlumTb4UW"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 225000,
       "name": "AMANECER (Remix)",
       "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 153750,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/5qcYskwpeP2QiOeJYrhKVp"
@@ -1363,6 +1363,32 @@
     },
     {
       "album": {
+        "name": "DA-DA-DA",
+        "url": "https://open.spotify.com/album/5AB4LTkczL8WjkYk6yJVp2"
+      },
+      "artists": [
+        {
+          "name": "Agustin Giri",
+          "url": "https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5"
+        },
+        {
+          "name": "Last Men On Earth",
+          "url": "https://open.spotify.com/artist/4aUgXgIAcqvWeMjweQWTKy"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "DA-DA-DA - Radio Edit",
+      "url": "https://open.spotify.com/track/7AMD0CKKfFnLAHiJjHF43W"
+    },
+    {
+      "album": {
         "name": "Daimoku",
         "url": "https://open.spotify.com/album/4ONwleYCVtCphaYr9hv0gC"
       },
@@ -1880,7 +1906,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 274838,
       "name": "Es Por Ti (Afro House)",
       "url": "https://open.spotify.com/track/5BaMBVMxo9vSluCkdVqlRH"
@@ -2220,6 +2246,32 @@
       "duration_ms": 201601,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/6Vqv48LyHymrUyS2va4HWs"
+    },
+    {
+      "album": {
+        "name": "Fight!",
+        "url": "https://open.spotify.com/album/1CQL2YwVVgSVfbygDwQF1l"
+      },
+      "artists": [
+        {
+          "name": "Golden Hour",
+          "url": "https://open.spotify.com/artist/7b7zGugn9gU2d0iDrLWVIN"
+        },
+        {
+          "name": "LKNV",
+          "url": "https://open.spotify.com/artist/0qMKg6H0vBU7Hl71Sm1zBX"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Fight! - Radio Edit",
+      "url": "https://open.spotify.com/track/4MxKjxzr8Lot2hqdsOETs5"
     },
     {
       "album": {
@@ -2874,7 +2926,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 144000,
       "name": "Idk y I Like It",
       "url": "https://open.spotify.com/track/3yp5b3oVwiFpdcAYwP9Rmj"
@@ -3550,7 +3602,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 432000,
       "name": "Mashamba",
       "url": "https://open.spotify.com/track/0i7er6j3qdpB5W8BskO8UR"
@@ -3930,7 +3982,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 265020,
       "name": "My Own Game",
       "url": "https://open.spotify.com/track/7ehsDztBOjFPBNcAiA6qPC"
@@ -4170,7 +4222,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 289703,
       "name": "Nocturna",
       "url": "https://open.spotify.com/track/74TtX1Es2HAdJHXkv1pEBm"
@@ -4210,7 +4262,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 417049,
       "name": "Nox - CAMILA (AR) Remix",
       "url": "https://open.spotify.com/track/4HgMvYPGzFsf3RGUtnMp9m"
@@ -4417,6 +4469,32 @@
     },
     {
       "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/6bFHz7BXHgLrX0fHR0d5eM"
+      },
+      "artists": [
+        {
+          "name": "CCINNI",
+          "url": "https://open.spotify.com/artist/7BgfHp3OpzJmQGUGRXf5wp"
+        },
+        {
+          "name": "Marvio (AR)",
+          "url": "https://open.spotify.com/artist/3KERfey6OJl74TMvlFn79s"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219966,
+      "name": "Paradiso - Radio Edit",
+      "url": "https://open.spotify.com/track/1PSAEH5HKR35xGAy0dV6KF"
+    },
+    {
+      "album": {
         "name": "Peace Of Mind",
         "url": "https://open.spotify.com/album/0E3Ex7Qbkz6uXnCoAl6Ufj"
       },
@@ -4563,6 +4641,32 @@
     },
     {
       "album": {
+        "name": "Quilaquina",
+        "url": "https://open.spotify.com/album/1rEZAzJZyhbrbjFGjY3jZD"
+      },
+      "artists": [
+        {
+          "name": "Francisco Garcia",
+          "url": "https://open.spotify.com/artist/1ijri5JZogzobbbQEDkmJO"
+        },
+        {
+          "name": "This & That",
+          "url": "https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211707,
+      "name": "Quilaquina - Radio Edit",
+      "url": "https://open.spotify.com/track/2SABgcKY6WhWLdLdZOjRbt"
+    },
+    {
+      "album": {
         "name": "Ramp",
         "url": "https://open.spotify.com/album/2OK0f3QFaxqYZU8nblzOvv"
       },
@@ -4574,7 +4678,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 308852,
       "name": "Ramp",
       "url": "https://open.spotify.com/track/4HS3WtiuCUH9ZwwNNxTzOJ"
@@ -5202,7 +5306,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 195937,
       "name": "Someday",
       "url": "https://open.spotify.com/track/55oVoKcHueAUJYWFHYLhJ0"
@@ -5434,7 +5538,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 355419,
       "name": "Subterr\u00e1neo",
       "url": "https://open.spotify.com/track/303LAlVcCjlKGh3Ew56cB8"
@@ -5488,7 +5592,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 432000,
       "name": "Tale of Life",
       "url": "https://open.spotify.com/track/7h1jNWVnLwIJ5bAsS3OC1V"
@@ -5540,6 +5644,32 @@
       "duration_ms": 380952,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/29llIAE1p5Bgh66IDS8Od3"
+    },
+    {
+      "album": {
+        "name": "Telephones",
+        "url": "https://open.spotify.com/album/6KRSfJZbv0LnW9rogYUwPi"
+      },
+      "artists": [
+        {
+          "name": "Tiello",
+          "url": "https://open.spotify.com/artist/5gBy60kmVrcEHyaSqt81Wl"
+        },
+        {
+          "name": "Xolef",
+          "url": "https://open.spotify.com/artist/3Pa1XyD1ZLQfcFCFbNbBwX"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "Telephones - Radio Edit",
+      "url": "https://open.spotify.com/track/6esrF84UobEAL9QSJRsO8Z"
     },
     {
       "album": {
@@ -5696,7 +5826,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 435000,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/73TCe3R7yzmuALhEM3RVwl"
@@ -6102,7 +6232,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 417836,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/3YqN04q8uUceD8HKM0VCd3"
@@ -6442,6 +6572,32 @@
       "duration_ms": 230312,
       "name": "You",
       "url": "https://open.spotify.com/track/4y7vFdToiMWc39r50bDAD6"
+    },
+    {
+      "album": {
+        "name": "You Can Run",
+        "url": "https://open.spotify.com/album/3B7Tu6ezieVXBT6rLu7eqM"
+      },
+      "artists": [
+        {
+          "name": "Abuk",
+          "url": "https://open.spotify.com/artist/4kYAGDsAQjBYuWNNBJNnNv"
+        },
+        {
+          "name": "Djolee",
+          "url": "https://open.spotify.com/artist/1HfGJTanZiMBHskJLQkRxL"
+        },
+        {
+          "name": "Amancay",
+          "url": "https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220731,
+      "name": "You Can Run - Radio Edit",
+      "url": "https://open.spotify.com/track/4euuFBUJsRlftQnTXHoG8M"
     },
     {
       "album": {

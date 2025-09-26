@@ -1,13 +1,45 @@
 {
   "description": "All new, all blues. Cover: Sonny Gullage",
-  "num_followers": 156590,
+  "num_followers": 156594,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3n8sXpej6N2TSvMTB+5aiqf+mB",
+  "snapshot_id": "AAAAAK/D4EmL1TOVu8zZ+CaS1ueziZwz",
   "tracks": [
+    {
+      "added_at": "2025-09-26 00:00:16",
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "TORA DAA",
+          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
+        }
+      ],
+      "duration_ms": 229055,
+      "name": "My Everything",
+      "url": "https://open.spotify.com/track/7mhgdTcT5Zont0DXYKIjyU"
+    },
+    {
+      "added_at": "2025-09-26 00:00:16",
+      "album": {
+        "name": "Fantasy Game",
+        "url": "https://open.spotify.com/album/5gChYVDqTOIQKejh2TMUtR"
+      },
+      "artists": [
+        {
+          "name": "K' Jae",
+          "url": "https://open.spotify.com/artist/2UAUBfs6Hj0DJpxY1K6gPL"
+        }
+      ],
+      "duration_ms": 279978,
+      "name": "Fantasy Game",
+      "url": "https://open.spotify.com/track/5okrc6yGuuMcvRkDsjdFh4"
+    },
     {
       "added_at": "2025-09-19 04:00:12",
       "album": {
@@ -47,22 +79,6 @@
       "duration_ms": 169971,
       "name": "Weekends Are for Making Love",
       "url": "https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl"
-    },
-    {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "Dear Lord",
-        "url": "https://open.spotify.com/album/3TiwYNTikmOyGs0l2Z1oSW"
-      },
-      "artists": [
-        {
-          "name": "TORA DAA",
-          "url": "https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey"
-        }
-      ],
-      "duration_ms": 356060,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/2mtZmxWnLHGog8UvLanaFk"
     },
     {
       "added_at": "2025-06-13 04:00:57",
@@ -1599,26 +1615,6 @@
       "duration_ms": 127658,
       "name": "Undefeated",
       "url": "https://open.spotify.com/track/3FyM4pilFg0bDWYSuJ1WCu"
-    },
-    {
-      "added_at": "2022-12-16 05:01:00",
-      "album": {
-        "name": "Bad to the Bone (Extended Version)",
-        "url": "https://open.spotify.com/album/4RyOqiwnfCkobUmfwAyqnU"
-      },
-      "artists": [
-        {
-          "name": "2WEI",
-          "url": "https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc"
-        },
-        {
-          "name": "Bri Bryant",
-          "url": "https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR"
-        }
-      ],
-      "duration_ms": 257377,
-      "name": "Bad to the Bone - Extended Version",
-      "url": "https://open.spotify.com/track/4k49bcOGJ0zyROWdJXzCqa"
     },
     {
       "added_at": "2023-03-03 05:01:00",

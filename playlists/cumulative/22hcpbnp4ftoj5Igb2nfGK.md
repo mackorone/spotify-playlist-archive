@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-127 songs - 7 hr 11 min
+129 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Accordion](https://open.spotify.com/track/67vrmPygrZ9giGqHUSReAT) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 1:58 | 2025-02-27 |  |
 | [ALICE.](https://open.spotify.com/track/2dVmZ5FPuBsZY8XwK7CRSc) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [when angels cry](https://open.spotify.com/album/3Pxu2ymEhjctOANjYZh5eA) | 2:59 | 2025-04-30 |  |
 | [All Caps](https://open.spotify.com/track/21O0XXPEWPtePt5RMY93Ob) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:10 | 2025-02-28 |  |
+| [All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:43 | 2025-09-25 |  |
 | [All Outta Ale](https://open.spotify.com/track/7BR8gWAmH0NSEgLG5aVqww) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [The Prof.](https://open.spotify.com/artist/7wwrfbv1PQvXAShKzNRdv8) | [The Prof Meets The SUPER VILLAIN](https://open.spotify.com/album/1akrx117lSf7Exc1OQlLcu) | 3:26 | 2025-02-22 |  |
 | [ANGELZ](https://open.spotify.com/track/180KvPWfy3IUEbuzPUn5wv) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 3:05 | 2025-05-31 |  |
 | [ANGELZ](https://open.spotify.com/track/18JUkS8vwkFlOPlt3IzZ4T) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [BORN LIKE THIS \(Redux\)](https://open.spotify.com/album/6NhLXvyDG7QbCqFDFHh9ja) | 3:05 | 2025-01-30 |  |
@@ -130,6 +131,7 @@
 | [Vomitspit](https://open.spotify.com/track/0oduroQUXgL9mb4JO8XzB9) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:48 | 2023-10-05 |  |
 | [We Don't Care](https://open.spotify.com/track/0IW0qaeyxL5Et4UG2MrJKB) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:59 | 2025-07-24 |  |
 | [We Don't Trust You](https://open.spotify.com/track/1pnDvUuAEd6z8bKEsbAjk1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:46 | 2025-02-16 |  |
+| [We Major](https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Really Doe](https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 7:28 | 2025-09-25 |  |
 | [What the hip hop hell is this ?](https://open.spotify.com/track/7nEOnYGnPIqNukJ0RJIDox) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU \(DIRECTORS CUT\)](https://open.spotify.com/album/55lsRqfR4SpMeYFr3neQ7S) | 2:32 | 2025-03-26 | 2025-08-28 |
 | [Winter Blues](https://open.spotify.com/track/1ZUYJWpneAKH2EyBAQoeO6) | [JJ DOOM](https://open.spotify.com/artist/5BxMS9rhKHbSagaYFBICun), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB) | [Key to the Kuffs](https://open.spotify.com/album/3AEeWRPtSMeqoXL8xNcSbe) | 4:10 | 2025-03-11 | 2025-04-15 |
 | [YAH.](https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 2:40 | 2025-07-29 |  |

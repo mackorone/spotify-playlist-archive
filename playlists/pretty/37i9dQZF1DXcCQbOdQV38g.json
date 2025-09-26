@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60030,
+  "num_followers": 60038,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
+        "name": "Waar Ga Je Heen",
+        "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Waar Ga Je Heen",
+      "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
         "name": "Lichaamstaal",
         "url": "https://open.spotify.com/album/00Y2JC7UyHuylPEfJ6mV62"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 148102,
       "name": "Lichaamstaal",
       "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
-        "name": "Waar Ga Je Heen",
-        "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Waar Ga Je Heen",
-      "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Nooit Meer Regen",
-        "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 200717,
-      "name": "Nooit Meer Regen",
-      "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
         "name": "Laat Me Lekker Leven",
         "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 184671,
       "name": "Een Blik In Jouw Ogen",
       "url": "https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
+        "name": "Nooit Meer Regen",
+        "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 200717,
+      "name": "Nooit Meer Regen",
+      "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
     },
     {
       "added_at": "2025-08-13 08:02:17",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-08-13 08:02:17",
       "album": {
-        "name": "Nog Geen Si\u00ebsta",
-        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
-      },
-      "artists": [
-        {
-          "name": "Wesley Klein",
-          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
-        },
-        {
-          "name": "Monique Smit",
-          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
-        }
-      ],
-      "duration_ms": 159843,
-      "name": "Nog Geen Si\u00ebsta",
-      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
-    },
-    {
-      "added_at": "2025-08-13 08:02:17",
-      "album": {
         "name": "De Eerste Keer",
         "url": "https://open.spotify.com/album/6U53g89WwY7vnrmHVFB8tL"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 164170,
       "name": "De Eerste Keer",
       "url": "https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs"
+    },
+    {
+      "added_at": "2025-08-13 08:02:17",
+      "album": {
+        "name": "Nog Geen Si\u00ebsta",
+        "url": "https://open.spotify.com/album/64D3m0YFpNWqGAQAUwuJ6A"
+      },
+      "artists": [
+        {
+          "name": "Wesley Klein",
+          "url": "https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2"
+        },
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "Nog Geen Si\u00ebsta",
+      "url": "https://open.spotify.com/track/2G82CkBfptmOqnGevZDrfM"
     },
     {
       "added_at": "2025-08-13 08:02:17",

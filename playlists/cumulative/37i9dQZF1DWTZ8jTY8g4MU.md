@@ -4,7 +4,7 @@
 
 > شيلات تشيل الليلة\. الغلاف: بدر العزي
 
-274 songs - 18 hr 7 min
+275 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [انا المخطي](https://open.spotify.com/track/3JzpfzTYzuu8ht2l62fhr1) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [انا المخطي](https://open.spotify.com/album/0iy88of5hWokaz8lg6UfBW) | 3:32 | 2022-08-31 | 2023-04-23 |
 | [انا مستغرب](https://open.spotify.com/track/0SVGqnBaDrCMYhGfERHdBu) | [سلطان الفهادي](https://open.spotify.com/artist/2O4xS58wSf51BKELtixdQu), [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [انا مستغرب](https://open.spotify.com/album/7jkatJdfKoVj5MYrCkjfYf) | 5:00 | 2023-09-22 | 2024-01-12 |
 | [اوراق الشجر](https://open.spotify.com/track/5q68H8CXMuDxt0tMvnnsNr) | [علي الواهبي](https://open.spotify.com/artist/1qkjQSTleIzUxX95HhuKam) | [اوراق الشجر](https://open.spotify.com/album/2eAe4t7F5ymQhqcizQkIG0) | 4:39 | 2024-02-01 | 2025-07-03 |
+| [بارق الشوق](https://open.spotify.com/track/0ermAb1gqmoHaxfjRtUFDc) | [مبارك الدوسري](https://open.spotify.com/artist/6sS8udoTj5UxuMtzOr1811), [فهيد النتيفات](https://open.spotify.com/artist/0fjRkZ4dNUfcb2XkeB65sY) | [بارق الشوق](https://open.spotify.com/album/4b88AzxLfy4NYOxxIMJpWf) | 6:02 | 2025-09-25 |  |
 | [باقي ابيك](https://open.spotify.com/track/1MZM9mJrJxWzRq9pD8dSsG) | [منصور الوايلي](https://open.spotify.com/artist/6wgdTtjcI9FJnFJuJz70C4) | [باقي ابيك](https://open.spotify.com/album/1O9WaXxGcmMmooCWmmOqxL) | 3:56 | 2024-05-09 |  |
 | [باقي الغلا](https://open.spotify.com/track/0JzrYY9zALUisVjhr8OXqJ) | [عمر بن عضيب](https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe) | [باقي الغلا](https://open.spotify.com/album/4RAx9XITESieu85cWge64C) | 3:05 | 2024-02-01 | 2025-07-03 |
 | [بتروح عادي](https://open.spotify.com/track/2GxR28DVvyvL5VX6H45Wa0) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [بتروح عادي](https://open.spotify.com/album/4CFE56Ty8V8uTMwaEDQki7) | 3:16 | 2022-03-30 | 2022-11-02 |
@@ -217,7 +218,7 @@
 | [لو نرجع بالايام](https://open.spotify.com/track/4QhkbArD7J0OZETlZV5um5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [لو نرجع بالايام](https://open.spotify.com/album/20yDKbGep9zeF1A80vu9Dj) | 3:45 | 2022-03-30 | 2022-06-14 |
 | [ما نسيتك](https://open.spotify.com/track/4Jl6YoYHy9qaVQff93CqOk) | [عثمان الشراري](https://open.spotify.com/artist/0YsNrTZe7uAUGwdPmLPNgT) | [ما نسيتك](https://open.spotify.com/album/3Tp5wdUeLQYjjyUBy8CSpx) | 3:41 | 2025-02-05 |  |
 | [ماذوقه](https://open.spotify.com/track/2K9C0NLFxP5OTIb2BzSld1) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماذوقه](https://open.spotify.com/album/56Lytoq3jlvwoIbCcLDR3P) | 3:26 | 2023-06-13 | 2023-09-02 |
-| [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 | 2025-02-05 |  |
+| [ماكنا حبايب](https://open.spotify.com/track/2XQ6kwQ3BuRCZtccT0jLnO) | [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [ماكنا حبايب](https://open.spotify.com/album/1fhoy7X4y7CcAvT2KiGXP1) | 4:11 | 2025-02-05 | 2025-09-26 |
 | [مامنك اثنين](https://open.spotify.com/track/35EGTBHsIEIfGhxLyAriZy) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6) | [مامنك اثنين](https://open.spotify.com/album/0IhhAgrgoiOeSHDJwokJzZ) | 3:43 | 2022-08-31 | 2024-04-11 |
 | [مامنك اثنين](https://open.spotify.com/track/0upDZETLFHS16pqa9KMZ6d) | [محمد ال دلبج](https://open.spotify.com/artist/5XG8NKC339RvmX5uMkrwT6), [الوليد ال عامر](https://open.spotify.com/artist/0zGuiGFQfvEi1kW26nl9oN) | [مامنك اثنين](https://open.spotify.com/album/4c55MWVBBlqljEwmvJyNNh) | 3:43 | 2022-07-19 | 2022-11-02 |
 | [ماني مصدقها](https://open.spotify.com/track/0fIKhy4BBJJ5flq3GwySkD) | [فهد بن فصلا](https://open.spotify.com/artist/7DSLsFX6LgWuz3bJbPNfWg) | [ماني مصدقها](https://open.spotify.com/album/5dP4DRjie6bVwsxXyqeQw5) | 4:35 | 2023-02-22 | 2023-09-02 |

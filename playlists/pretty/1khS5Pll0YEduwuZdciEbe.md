@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1khS5Pll0YEduwuZdciEbe.md) - [plain]
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Altameda
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,478 likes - 84 songs - 5 hr 10 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 8,476 likes - 84 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

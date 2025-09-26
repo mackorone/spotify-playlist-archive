@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Ariana Venus",
+  "description": "Die beste country musiek. Omslag: Ichnus",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 198176,
       "name": "All Because of You",
       "url": "https://open.spotify.com/track/7bN9G7cnrJSExqmaTMf0UH"
@@ -218,6 +218,24 @@
       "duration_ms": 189916,
       "name": "All Is Not Lost",
       "url": "https://open.spotify.com/track/55WgtnBc5idkCZK14il7cB"
+    },
+    {
+      "album": {
+        "name": "Almal Weet",
+        "url": "https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg"
+      },
+      "artists": [
+        {
+          "name": "Ichnus",
+          "url": "https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198923,
+      "name": "Almal Weet",
+      "url": "https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq"
     },
     {
       "album": {
@@ -1680,7 +1698,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 160635,
       "name": "Good Times & Tan Lines",
       "url": "https://open.spotify.com/track/5ZBxXBh0h4QuwXb3tNj91d"
@@ -1933,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Honeybee",
+        "url": "https://open.spotify.com/album/68yZOyJg1hfnWfcpq0q1UI"
+      },
+      "artists": [
+        {
+          "name": "Glen Rozi",
+          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160680,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/1Zf4uRhtfWbMK9a8My3S03"
+    },
+    {
+      "album": {
         "name": "Household",
         "url": "https://open.spotify.com/album/2FZWouLd9aPwZB8PyPiPKn"
       },
@@ -2140,7 +2176,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 206481,
       "name": "I OUGHTA KNOW BETTER",
       "url": "https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw"
@@ -4184,6 +4220,24 @@
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+    },
+    {
+      "album": {
+        "name": "Trots Suid-Afrikaans",
+        "url": "https://open.spotify.com/album/2bWD5Ml1rS1QwV5GQfKqGr"
+      },
+      "artists": [
+        {
+          "name": "Corn\u00e9 Louw",
+          "url": "https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249731,
+      "name": "Trots Suid-Afrikaans",
+      "url": "https://open.spotify.com/track/3cCDPHbD2CtNzBaAb1vTz4"
     },
     {
       "album": {

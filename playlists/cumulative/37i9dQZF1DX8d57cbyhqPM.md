@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tonton Naza.
 
-643 songs - 1 day 12 hr 27 min
+645 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Boutique](https://open.spotify.com/track/7rfLyiczO4k3Ii3zbcIuN3) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Boutique](https://open.spotify.com/album/7om6iQ5PzzYmH7jyGeG8X0) | 5:14 | 2025-01-24 | 2025-05-03 |
 | [Brakata \(Remix\)](https://open.spotify.com/track/6SmG3na48UBkXIGr7N1cUT) | [JD LSK](https://open.spotify.com/artist/6sYvVtA9vuxirfgrRZZxgJ), [Shinestone](https://open.spotify.com/artist/156idiGxU2Q0ZEqaejQFS8) | [Brakata \(Remix\)](https://open.spotify.com/album/6AFW8ZjnaZYGecazh9hEld) | 2:54 | 2023-05-12 | 2023-09-22 |
 | [Briller](https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Briller](https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS) | 3:11 | 2024-08-30 | 2024-10-12 |
+| [Buka](https://open.spotify.com/track/7rp7B4rqypFLMQhkZv6XPD) | [Gradi Ki](https://open.spotify.com/artist/1MksR6DPJzCSgawz8OPwVD) | [Buka](https://open.spotify.com/album/48XZNldysY53CrNoTCMOKC) | 2:01 | 2025-09-25 |  |
 | [Burning Desire](https://open.spotify.com/track/3qpT9U1rM6FPbW7X3xogK4) | [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z) | [Burning Desire](https://open.spotify.com/album/4fuF6upvUdk2MhKLtL9x7b) | 2:52 | 2022-06-30 | 2022-10-22 |
 | [Butu Ya Lelo](https://open.spotify.com/track/6ybcrc3Ekrcy65TG0ASgsQ) | [Tcherly N](https://open.spotify.com/artist/5QhZSGrBxIQyLE7Ntl2VEi) | [Butu Ya Lelo](https://open.spotify.com/album/7brNGIzXrN2I5CUbsNmPTW) | 3:42 | 2022-06-30 | 2022-08-20 |
 | [Bébé](https://open.spotify.com/track/2sjJrFhDT0oP3fyCocTVyX) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [19](https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw) | 4:05 | 2022-06-30 | 2022-10-15 |
@@ -120,6 +121,7 @@
 | [Champion](https://open.spotify.com/track/7moGDROshDKDpuQxtQ3q4m) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Champion](https://open.spotify.com/album/5gFor2ZmO0Agv3isgcMPDl) | 3:10 | 2022-08-12 | 2024-10-05 |
 | [Chemise italienne](https://open.spotify.com/track/2FpuSJ0F3hBhKGTjCNQgbb) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Chemise italienne](https://open.spotify.com/album/5hGkmuTtT032070zhHmiGq) | 2:32 | 2025-07-04 | 2025-09-06 |
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2025-03-08 |
+| [CHOCKELEMA](https://open.spotify.com/track/5U1ligxKAQWlWwdxnwhOQ8) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE) | [CHOCKELEMA](https://open.spotify.com/album/2CrreYMA7tlwsmr0bQC1Ek) | 2:30 | 2025-09-25 |  |
 | [Choco](https://open.spotify.com/track/0xFQrovDKSpOG6rWlcKcnV) | [Moerson](https://open.spotify.com/artist/6I4CPoQeM3qI54JeCqySdW) | [Chocomix](https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh) | 2:56 | 2023-03-17 | 2023-04-29 |
 | [Chouchou des nanas](https://open.spotify.com/track/56Xr14dI8ugeQcuIvTzusS) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4) | [Chouchou des nanas](https://open.spotify.com/album/5Eo9jgJoVDhSArHrMiftFY) | 2:24 | 2024-06-07 | 2025-05-24 |
 | [Christina](https://open.spotify.com/track/6DLE4EbQwkxkisd7OftpuG) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Christina](https://open.spotify.com/album/6rCymUM7vsU20Rwvar8dWO) | 2:42 | 2023-03-17 | 2023-09-09 |
@@ -535,7 +537,7 @@
 | [Sarah Solo](https://open.spotify.com/track/54rPlGXJmKrzy0DmypjKGa) | [DjeuhDjoah](https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY), [Lieutenant Nicholson](https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5), [Sarah Solo](https://open.spotify.com/artist/6ezpeVsmCk7rlu0VvxSRyp) | [Sarah Solo](https://open.spotify.com/album/0xhkdXFnqDRNjmEPduWcla) | 3:41 | 2024-11-29 | 2025-01-11 |
 | [Science\-Fiction](https://open.spotify.com/track/2GSk3VrKZZGRfDejDmhi86) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Science\-Fiction](https://open.spotify.com/album/5OWv5Bpm5LYBwMGYKFkBpj) | 6:40 | 2022-08-26 | 2022-10-08 |
 | [Se Yo](https://open.spotify.com/track/1dNDtsCf0m5aQ6SdpgyTo1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Se Yo](https://open.spotify.com/album/1Bgi3Kwi0hub7WFY3XKsXz) | 7:21 | 2022-10-07 | 2022-12-03 |
-| [Sensibility](https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Sensibility](https://open.spotify.com/album/0h054hjogUcaFP6wjmQD04) | 2:23 | 2024-12-13 |  |
+| [Sensibility](https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx) | [Hulk](https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Sensibility](https://open.spotify.com/album/0h054hjogUcaFP6wjmQD04) | 2:23 | 2024-12-13 | 2025-09-26 |
 | [SHAOLIN](https://open.spotify.com/track/5hlHyHG6Wvxez9uegXgdE4) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SHAOLIN](https://open.spotify.com/album/2ABjHzYVS0NChn5nbvfMlz) | 2:04 | 2025-02-14 | 2025-04-12 |
 | [Shine](https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Shine](https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc) | 2:59 | 2025-03-21 |  |
 | [Shuffle](https://open.spotify.com/track/2EYde8YgCxW4yYtzdgvN7y) | [Tshegue](https://open.spotify.com/artist/3eEAELTLLkQc0PD2S2xAhN) | [Shuffle](https://open.spotify.com/album/5xDLYzzH97dqGwGXjC7jtm) | 2:20 | 2024-09-13 | 2024-10-12 |

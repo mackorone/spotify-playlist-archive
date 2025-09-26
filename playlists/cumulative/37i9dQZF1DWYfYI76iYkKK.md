@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-549 songs - 1 day 11 hr 59 min
+552 songs - 1 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/track/21DC233fhKEBRa2L3Pfjdj) | [Bae Lin](https://open.spotify.com/artist/2vRNbO0y4DgqQOEEhRSqdI) | [倆人 \(《第9節課》插曲\)](https://open.spotify.com/album/2miYO5t02RgDLm0YBhmBrt) | 3:09 | 2022-12-15 | 2022-12-24 |
 | [借春風](https://open.spotify.com/track/1utPYZzeIrA6YzeZZQ2fAM) | [賈淏森](https://open.spotify.com/artist/7JPjn74S1RZRfDXA8V3pSK) | [借春風](https://open.spotify.com/album/5rAoPMElnTc8maQVv3dWcH) | 4:20 | 2023-08-17 | 2023-09-01 |
 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 | 2022-07-28 | 2024-04-19 |
+| [做我的初戀 \(純愛不插電\)](https://open.spotify.com/track/0QTVDDZFhLRyFKqgmphkms) | [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv) | [做我的初戀（純愛不插電）](https://open.spotify.com/album/6c7wFSp80wogFSImEgRSK5) | 3:17 | 2025-09-25 |  |
 | [偶爾墜落](https://open.spotify.com/track/75Oa1Cs5lz0p0Kcu3t5kgk) | [安柏兒](https://open.spotify.com/artist/011Ngr53zecMBKVVE6Esgn) | [偶爾墜落](https://open.spotify.com/album/44X8FjH0jJ8H3oWjIrdtTo) | 2:56 | 2023-04-27 | 2023-05-12 |
 | [光](https://open.spotify.com/track/16Jwl6WRsN8xvjVz9Tnw7L) | [捲捲澡堂 Soul Bath](https://open.spotify.com/artist/22MLKWCiyDJoKDzOq9gYOJ) | [光](https://open.spotify.com/album/36ILWiZpRS5KSaXNkpl3fj) | 4:40 | 2024-11-07 | 2024-11-15 |
 | [光圈](https://open.spotify.com/track/5uixm2byd4jkWwQTBWd48a) | [陳卓](https://open.spotify.com/artist/4b1OGhW4UMm5KeCgW7eeYh) | [光圈](https://open.spotify.com/album/3ptv0yjuNNCjhV3VnMDkqG) | 3:31 | 2023-09-28 | 2023-10-13 |
@@ -170,7 +171,7 @@
 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 | 2022-06-10 |  |
 | [半個地球](https://open.spotify.com/track/199culh6Z83tQuFi4WkaiS) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [半個地球](https://open.spotify.com/album/22jKnMCjgTKGGBfFZS1YYL) | 3:52 | 2023-01-02 | 2023-01-13 |
 | [半個地球 \- 純淨鋼琴版](https://open.spotify.com/track/6aRywPycG6zymsa4CbExXL) | [蕭人豪](https://open.spotify.com/artist/0oquPSgD0uI6QRHBJqMJfq) | [半個地球 \(純淨鋼琴版\)](https://open.spotify.com/album/2aAPgd1mAOpVkAyu0GLj4s) | 3:54 | 2023-07-13 | 2023-07-28 |
-| [半半](https://open.spotify.com/track/6M8hmnUyDTVah1gB1oXwel) | [Wols](https://open.spotify.com/artist/6DSR9qZRz6KjXARryGMOvb) | [半半](https://open.spotify.com/album/5kcrOZq9e6Y6fDeEiSFAK1) | 2:37 | 2025-09-18 |  |
+| [半半](https://open.spotify.com/track/6M8hmnUyDTVah1gB1oXwel) | [Wols](https://open.spotify.com/artist/6DSR9qZRz6KjXARryGMOvb) | [半半](https://open.spotify.com/album/5kcrOZq9e6Y6fDeEiSFAK1) | 2:37 | 2025-09-18 | 2025-09-26 |
 | [南方的月亮](https://open.spotify.com/track/5O8tEg0NEqZE6AgMpbAiZ0) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [南方的月亮](https://open.spotify.com/album/7p4Sy8J4q3Ix3HdNSpG1Rb) | 3:23 | 2024-01-25 | 2024-02-19 |
 | [原來你什麼都不要 \- Diva Classics \- Part 2](https://open.spotify.com/track/0hzBWWiSp4x1dzcorjP9FN) | [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [原來你什麼都不要 \(Diva Classics \- Part 2\)](https://open.spotify.com/album/0jWeUfp6HULDfbEkbP5WsC) | 3:54 | 2022-06-02 | 2022-08-08 |
 | [原來我很愛你 \- 電視劇《原來我很愛你》同名主題曲](https://open.spotify.com/track/5Hy3Smqt5cYG70B2evnLGi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih) | [原來我很愛你 \(電視劇《原來我很愛你》同名主題曲\)](https://open.spotify.com/album/7jpgg7xGcOBE9bYJBw8CGq) | 3:40 | 2022-07-28 | 2025-01-19 |
@@ -181,7 +182,7 @@
 | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/track/61wIEHBhxCURz08r0E4pzg) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [可不可以你也剛好喜歡我 \(電影《可不可以,你也剛好喜歡我》宣傳曲\)](https://open.spotify.com/album/3JDLRMAREurKUXxHpdeDw1) | 4:35 | 2022-07-21 | 2022-07-27 |
 | [可惜不愛了](https://open.spotify.com/track/1KmlwGRzoI8OhzBUTIvJtX) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [來者何人n!](https://open.spotify.com/album/6PzBtNMygnrKVLoQGxLgsj) | 3:54 | 2022-06-10 | 2022-07-09 |
 | [可能是比較內向而已](https://open.spotify.com/track/1gYOBa9nInmoo52hOn4veq) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [可能是比較內向而已](https://open.spotify.com/album/666sGx1Lrs4viYlxA4EjDN) | 3:51 | 2022-10-06 | 2024-06-06 |
-| [同舟（影視劇《反詐·獵蜂者》主題曲）](https://open.spotify.com/track/0T20akOc1TlckPOLbBzcRG) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [《反詐·獵蜂者》影視原聲帶](https://open.spotify.com/album/648nR97COEUu4Aa9zHXKMG) | 4:00 | 2025-08-14 |  |
+| [同舟（影視劇《反詐·獵蜂者》主題曲）](https://open.spotify.com/track/0T20akOc1TlckPOLbBzcRG) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [《反詐·獵蜂者》影視原聲帶](https://open.spotify.com/album/648nR97COEUu4Aa9zHXKMG) | 4:00 | 2025-08-14 | 2025-09-26 |
 | [君](https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [君](https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed) | 2:48 | 2025-07-31 |  |
 | [吞逝](https://open.spotify.com/track/7DMgn9G9e4fLTURRItApyv) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [吞逝](https://open.spotify.com/album/5mEZDN63B0NiQk2ye6moY9) | 4:29 | 2023-09-14 | 2023-09-29 |
 | [告訴自己 \- 《滾石摘星號》選手創作單曲](https://open.spotify.com/track/2tNWBKcFnck6pouSTu2cHt) | [鄺澤東](https://open.spotify.com/artist/6j3P7Wl2ApIvTqYk6plJmD) | [告訴自己](https://open.spotify.com/album/7aaC8XxZ1jpT402jgZGxpQ) | 4:21 | 2024-02-01 | 2024-12-27 |
@@ -198,6 +199,7 @@
 | [在加納共和國離婚 \- Acoustic Version](https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚 \(Acoustic Version\)](https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH) | 3:56 | 2023-09-21 |  |
 | [在意這件事](https://open.spotify.com/track/4KAjsAnB9z0rHpnMJeVZ44) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [給](https://open.spotify.com/album/0FTFuvuDe7qAB4HQ67J8qa) | 3:23 | 2022-06-23 | 2022-07-01 |
 | [在這個清晨](https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [在這個清晨](https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ) | 3:40 | 2025-09-11 |  |
+| [坦白變黑](https://open.spotify.com/track/6wsHLnGswt8w0sF0QSYDgA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [漩渦裡的無限](https://open.spotify.com/album/1Hp4eQyqO0kIsprstBdq0L) | 4:22 | 2025-09-25 |  |
 | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h) | 3:48 | 2024-06-20 | 2024-08-20 |
 | [夏至未至](https://open.spotify.com/track/2AuqGByms86Vx5o1inLnXH) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [夏至未至](https://open.spotify.com/album/0P7LDxswpNyEzSwAwE5irA) | 3:27 | 2023-07-27 | 2023-08-11 |
 | [外星人眼裡的星星](https://open.spotify.com/track/6PTTTMHTHSCkhqo998CXrB) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [外星人眼裡的星星](https://open.spotify.com/album/5z4q7Ub6JxPiAnLkGKQLeu) | 2:48 | 2022-12-15 | 2022-12-24 |
@@ -430,7 +432,7 @@
 | [當我閉上眼](https://open.spotify.com/track/2M9aaOChY4DBfhYy2ZaPza) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [這世界怎麼會變得跟我想的不一樣](https://open.spotify.com/album/0N4uMClwRGyMbzILNHs7NM) | 2:32 | 2022-12-08 | 2022-12-24 |
 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 | 2022-07-28 | 2024-04-19 |
 | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/track/2CkmvLrg2Zl83TuwjwWF5v) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [皆可 \(中天娛樂台《慶餘年》主題曲\)](https://open.spotify.com/album/5QKzAmGWRo1k2P7dBgmqDQ) | 4:26 | 2022-06-02 | 2022-07-28 |
-| [相機](https://open.spotify.com/track/13s83RBJM3kNVBTK7gJ2Xf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [相機](https://open.spotify.com/album/1hH5YCYHkSb275KV18QUk6) | 2:57 | 2025-09-18 |  |
+| [相機](https://open.spotify.com/track/13s83RBJM3kNVBTK7gJ2Xf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [相機](https://open.spotify.com/album/1hH5YCYHkSb275KV18QUk6) | 2:57 | 2025-09-18 | 2025-09-26 |
 | [眼淚](https://open.spotify.com/track/0FadVuelB7Srb98yUbTbwI) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [眼淚](https://open.spotify.com/album/1iT1Z70Gwr7jrShnTYccov) | 2:54 | 2024-08-01 | 2024-09-20 |
 | [睡不著的黑眼圈](https://open.spotify.com/track/0kefuK5QZEXRfd3tuagqz3) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [睡不著的黑眼圈](https://open.spotify.com/album/2gDd66uvp6W2ScBLP1dZiD) | 4:18 | 2023-10-26 | 2023-11-10 |
 | [石油 \- 不插電女聲版](https://open.spotify.com/track/65WlgyEzQoTgu1ceScPSsP) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0) | [石油 \(不插電女聲版\)](https://open.spotify.com/album/27ACRcIpBpAJV6RevKgUUb) | 4:27 | 2023-05-25 | 2023-06-09 |
@@ -556,6 +558,7 @@
 | [鳳凰涅槃 \- acoustic version](https://open.spotify.com/track/3krL2RZFgMHPqcYZgR2o2X) | [張苡宸](https://open.spotify.com/artist/3Ilo0pwvFIIPU0wD5DOtCX), [木蘭 Mulan Yang](https://open.spotify.com/artist/5o4e5jcoN8syDwv5QcqNuB) | [鳳凰涅槃 \(acoustic version\)](https://open.spotify.com/album/7y11aSfuG6innOz8eqbXR9) | 2:27 | 2023-11-30 | 2023-12-12 |
 | [黃山始信峰](https://open.spotify.com/track/2NJeJlibekbwVBqetJa76N) | [張洪量](https://open.spotify.com/artist/2WhSJLdTSsN3cqiuLe44Cc) | [黃山始信峰](https://open.spotify.com/album/6xP1moFPbI6FJILyaI1JeC) | 4:03 | 2023-06-08 | 2023-06-23 |
 | [黑夜來過](https://open.spotify.com/track/45T6RR8lqwHKXZStu0HPSe) | [芊妙](https://open.spotify.com/artist/1O03s0BHW9tGCO2IvJlwjS) | [黑夜來過](https://open.spotify.com/album/1c7VxCJSaxUn8DdTow9qy6) | 3:47 | 2022-12-15 | 2022-12-24 |
+| [黑洞](https://open.spotify.com/track/478Go1NgZzRUc75vbJwyaF) | [Peggy Hsu](https://open.spotify.com/artist/7ruJU7jtsDqbgA23BL3VFQ) | [樹洞裡可以悲傷](https://open.spotify.com/album/0j2Lu1926Ej4ZGdjWlmJWb) | 4:38 | 2025-09-25 |  |
 | [黑馬 \- 電視劇《我的真朋友》插曲](https://open.spotify.com/track/6FuYx3y1L5Zb2ip5w8CyaR) | [Kelly Yu](https://open.spotify.com/artist/5R56NYbLCC2HpOwlYBnmeN) | [黑馬\-電視劇《我的真朋友》插曲](https://open.spotify.com/album/03zt0VxtvMdk4XI5nwT6z2) | 4:08 | 2022-07-21 | 2022-07-24 |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

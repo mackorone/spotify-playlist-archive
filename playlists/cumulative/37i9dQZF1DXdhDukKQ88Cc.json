@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Calirose",
+        "url": "https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222998,
+      "name": "10 Dage",
+      "url": "https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF"
+    },
+    {
+      "album": {
         "name": "Bl\u00e5regn / 10/10",
         "url": "https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh"
       },
@@ -398,6 +420,28 @@
       "duration_ms": 148560,
       "name": "AFIA",
       "url": "https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra"
+    },
+    {
+      "album": {
+        "name": "Akwaaba",
+        "url": "https://open.spotify.com/album/06Z4yqeIkR2LiU0RnGnWVL"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Akwaaba",
+      "url": "https://open.spotify.com/track/1nYrS7KLuFZnAiNUIDIKa5"
     },
     {
       "album": {
@@ -982,7 +1026,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 120624,
       "name": "Birkin Bag",
       "url": "https://open.spotify.com/track/6VST7f42mKi7R80RVn4so1"
@@ -3854,7 +3898,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 133404,
       "name": "HVOR?",
       "url": "https://open.spotify.com/track/4aulpJDCPgeHqHAeVgai0w"
@@ -6039,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Problemer Med Staten",
+        "url": "https://open.spotify.com/album/7CgCHtxQ8L7bfst8Y43tAM"
+      },
+      "artists": [
+        {
+          "name": "Mowgli",
+          "url": "https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Problemer Med Staten",
+      "url": "https://open.spotify.com/track/1fLjOQjzHITpaRkVyouKGA"
+    },
+    {
+      "album": {
         "name": "Pr\u00e6sident",
         "url": "https://open.spotify.com/album/5dM1hfCHPDlvvnYTE5iF66"
       },
@@ -7518,7 +7580,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 131428,
       "name": "Tropical (feat. Gilli)",
       "url": "https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG"

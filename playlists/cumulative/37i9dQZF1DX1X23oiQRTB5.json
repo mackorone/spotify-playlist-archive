@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Gazo au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -268,6 +268,24 @@
       "duration_ms": 199527,
       "name": "4MOTION",
       "url": "https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r"
+    },
+    {
+      "album": {
+        "name": "5 bleus",
+        "url": "https://open.spotify.com/album/6XucNOw2RptjuGZeV6HyI2"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198974,
+      "name": "5 bleus",
+      "url": "https://open.spotify.com/track/23cgcnVEuIoT1R4b1bnugB"
     },
     {
       "album": {
@@ -737,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Et si j'\u00e9choue ??",
+        "url": "https://open.spotify.com/album/7F3yHL31hTR2aEJYTyXjZR"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Biff pas d'love",
+      "url": "https://open.spotify.com/track/4R0HXKZBeDJerIq9oCnDIp"
+    },
+    {
+      "album": {
         "name": "Big Meech",
         "url": "https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz"
       },
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 170711,
       "name": "Cantona",
       "url": "https://open.spotify.com/track/2JVPQ5VbURgorwJH0LPAeS"
@@ -3612,7 +3648,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 235666,
       "name": "La Pluie",
       "url": "https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp"
@@ -4076,7 +4112,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 185693,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/4GB4R2CJe5kLrjWTusDR8p"
@@ -7186,6 +7222,24 @@
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+    },
+    {
+      "album": {
+        "name": "Wagyu du Jap'",
+        "url": "https://open.spotify.com/album/71iiMtckKbHxVjTKMTVFvV"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105613,
+      "name": "Wagyu du Jap'",
+      "url": "https://open.spotify.com/track/0f23kGg4dotmFXMxBRnTpF"
     },
     {
       "album": {

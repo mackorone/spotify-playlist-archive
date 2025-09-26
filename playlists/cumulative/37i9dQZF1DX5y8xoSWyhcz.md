@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,354 songs - 2 day 22 hr 3 min
+1,358 songs - 2 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Break My Fall](https://open.spotify.com/track/2D2wLzadfYEvxzoQAHtCm5) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1ge5wbmkpeytkR9oiIyJb9) | 3:26 | 2022-05-20 | 2022-05-21 |
 | [Break My Fall](https://open.spotify.com/track/3vWAeJGKEQGrvCKut2uMzy) | [nodisco.](https://open.spotify.com/artist/5r9DYiYT0GKn6FcbbJtlqq) | [Break My Fall](https://open.spotify.com/album/1at7bad2VMRKWewCs9yBgt) | 3:28 | 2022-12-02 | 2024-04-19 |
 | [break or bend](https://open.spotify.com/track/6INBv6qjG5veSL8C6lqAgL) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [break or bend](https://open.spotify.com/album/4lig4HTeUqylZozgyhS3aQ) | 3:01 | 2025-07-18 |  |
+| [break stuff](https://open.spotify.com/track/63MUFWOgT865K4LaNNmqys) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [break stuff](https://open.spotify.com/album/0QLlPQ3jrHy03eIuydJ1dd) | 2:09 | 2025-09-26 |  |
 | [Breakfast](https://open.spotify.com/track/1gZ5gMhXQm2fBogPFvuYOb) | [mathijs.iv](https://open.spotify.com/artist/1qtwdqUmc8Nnza2PcPSlSu) | [Breakfast](https://open.spotify.com/album/5EgfYbZo7zIGxqy3fYfcIc) | 2:25 | 2023-11-10 | 2024-06-15 |
 | [breaking news](https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [breaking news](https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7) | 2:41 | 2024-07-19 |  |
 | [Broke Mine](https://open.spotify.com/track/3MWQIH5B6TSqxOT4mTYzJk) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Broke Mine](https://open.spotify.com/album/7a4GgADrERVlml8GnNZWvd) | 3:31 | 2022-03-11 | 2022-06-04 |
@@ -1166,6 +1167,7 @@
 | [Tek It](https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG) | 3:11 | 2022-05-06 | 2022-11-12 |
 | [tell me what you want](https://open.spotify.com/track/5o8UqnjiKWDo7OzwFz1k1g) | [dacelynn](https://open.spotify.com/artist/4HcCn0kCOvr5D6BItsWVFh) | [tell me what you want](https://open.spotify.com/album/7t9jJ7fwYfrflEOdN1cVvW) | 2:34 | 2021-12-17 | 2022-05-14 |
 | [TEMPLE OF THE DRAGON](https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8) | [adam brian paul](https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh) | [TEMPLE OF THE DRAGON](https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW) | 2:48 | 2021-02-27 | 2021-06-05 |
+| [Tennessee Heat](https://open.spotify.com/track/5ykYQxyoAF7NJJKW3FkZe5) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Tennessee Heat](https://open.spotify.com/album/3RfRUGbs2HQRYY37pgP9Zm) | 3:09 | 2025-09-26 |  |
 | [Tennis Bracelet](https://open.spotify.com/track/0ZCmVf5BIgmWNj1vcqAjJo) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Tennis Bracelet](https://open.spotify.com/album/0Jy6YjC6L3BdWKU3GIKSKV) | 3:28 | 2025-07-11 |  |
 | [Terrace](https://open.spotify.com/track/4PBgPkUQ8K7RttxbZol0mA) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV), [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Terrace](https://open.spotify.com/album/7C6kJXJaBbBaNlLjuwfuou) | 2:32 | 2021-06-12 | 2021-09-04 |
 | [Terracotta Sunroom](https://open.spotify.com/track/7s4jGHzbsu4CyxivyBTTSS) | [Pastel Blank](https://open.spotify.com/artist/4v8MCErhmubUGQhwRVbnlN) | [Terracotta Sunroom](https://open.spotify.com/album/3dPdzyCKegzvdsE45g9ZWK) | 2:56 | 2022-02-18 | 2022-05-07 |
@@ -1247,6 +1249,7 @@
 | [Turbulence](https://open.spotify.com/track/1LZ4N16PaRnOg7odVvBG34) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [Turbulence](https://open.spotify.com/album/1RBEZ22dLFRuWwuluBlasY) | 1:50 | 2021-04-17 | 2021-07-04 |
 | [Twenty](https://open.spotify.com/track/7FmBBkPdXrHriquQK3Z7FF) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [The Art of Pretending \(Deluxe\)](https://open.spotify.com/album/5XNlS5njwAwHn2YQG3X0CG) | 3:13 | 2021-03-20 | 2021-06-05 |
 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 | 2021-10-09 | 2022-07-09 |
+| [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [](https://open.spotify.com/album/null) | 3:48 | 2025-09-26 |  |
 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-10-13 | 2024-10-19 |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-08 | 2023-10-14 |
 | [Uncall It](https://open.spotify.com/track/2Tc7PJ7DpTL7zWE6hgvGB2) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [Uncall It](https://open.spotify.com/album/0syrwMCuSIKaBxQMjOB4oj) | 2:36 | 2022-10-14 | 2023-08-26 |
@@ -1269,6 +1272,7 @@
 | [Victim Mentality](https://open.spotify.com/track/04NPdX2A25R5ZDiDZx54Eq) | [Talvi](https://open.spotify.com/artist/3Qj5iycEZWCbcFrhiNgJAu) | [Victim Mentality](https://open.spotify.com/album/1tAvcrGqHNoRyACbj2jqb5) | 3:45 | 2020-12-07 | 2020-12-19 |
 | [Video Game](https://open.spotify.com/track/0o4z9a1hPLutLeNY68wdgg) | [ICELANDIA](https://open.spotify.com/artist/1yzsj3y6dbpXYqk3DPPl63) | [Video Game](https://open.spotify.com/album/3ebINvMV9ZlwSwFNvK3vTJ) | 3:01 | 2021-01-23 | 2021-05-03 |
 | [Vintage](https://open.spotify.com/track/3k7Ih6fxF30qtvsgWPopvn) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Vintage](https://open.spotify.com/album/3m5bt0XOKIh1SfbycLiDfk) | 2:35 | 2021-02-06 | 2021-03-06 |
+| [Virgin Heartbreak](https://open.spotify.com/track/3AgUWDWeQLOepfIETZynmA) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Virgin Heartbreak](https://open.spotify.com/album/4VQhoUApuK9q2M6mRzA2bH) | 3:36 | 2025-09-26 |  |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2021-02-27 | 2021-04-10 |
 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 | 2025-08-29 |  |
 | [vivienne](https://open.spotify.com/track/3oJ60hM1u2rJLMz7s6fUwS) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [growing pains](https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5) | 3:12 | 2021-12-24 | 2022-03-05 |

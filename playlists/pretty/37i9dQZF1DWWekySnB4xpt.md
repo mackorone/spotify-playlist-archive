@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky, Danny Ocean, Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,039 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,052 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 50 | [Locos de Amor](https://open.spotify.com/track/3sS3ricJcq0cIEQze7kt9B) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ) | [Días de Junio](https://open.spotify.com/album/0F7bKN7VdFsLluqTHuV73f) | 4:03 |
 | 51 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
 | 52 | [Amparito](https://open.spotify.com/track/0DTkjSxTl3Q2xYqok4vhH4) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Exitos De Maracaibo 15](https://open.spotify.com/album/5GbKnnwqvJRto8ck2PV3WY) | 3:11 |
-| 53 | [Lloraras](https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x) | 3:48 |
+| 53 | [Lloraras](https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5), [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x) | 3:48 |
 | 54 | [Yo Sin Ti No Valgo Nada](https://open.spotify.com/track/6YqWAzfezTk80hSueXDgLW) | [C4 Trío](https://open.spotify.com/artist/2SpMp7QKtvCCGZLmipkzaW), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [De Repente](https://open.spotify.com/album/1MetGojPDNSrsJRLOxI7ve) | 3:44 |
 | 55 | [El Farolito](https://open.spotify.com/track/4RIcZ1yQNUV7KmgEFl9XKO) | [Vos Veis](https://open.spotify.com/artist/6o2nLC8Ud7Aegw74dBM6WE) | [Vas](https://open.spotify.com/album/05iwiz6Y9tvN7Sy1azQ0Hf) | 3:19 |
 | 56 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |

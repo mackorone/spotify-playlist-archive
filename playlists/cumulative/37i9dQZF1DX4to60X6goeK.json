@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Go hard or go home. Cover: Turno",
+  "description": "Go hard or go home. Cover: Macky Gee",
   "name": "Jump Up!",
   "tracks": [
     {
@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/3RgzJTmaUnzkUG0piagj7N"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266057,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/6fQ28z72LSK7zPxu2giy7q"
+    },
+    {
+      "album": {
         "name": "Closer (Hedex Remix)",
         "url": "https://open.spotify.com/album/5CyWDYcKoNeiOkfCHisIMa"
       },
@@ -1446,6 +1464,28 @@
       "duration_ms": 223448,
       "name": "Dance All Day",
       "url": "https://open.spotify.com/track/2hXyNPbdCnQd5ZkHlBJh3k"
+    },
+    {
+      "album": {
+        "name": "Dancing In My Sleep",
+        "url": "https://open.spotify.com/album/1YvJahlJfGc47tP4foYhC2"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202068,
+      "name": "Dancing In My Sleep",
+      "url": "https://open.spotify.com/track/4ZuB89GuIXL1pq0VCjP0n7"
     },
     {
       "album": {
@@ -2802,7 +2842,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 202975,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/40kAbAyuNY8ySUiw3CvsRs"
@@ -3316,7 +3356,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 200228,
       "name": "Limit",
       "url": "https://open.spotify.com/track/6o865bk9l2pHEKtJ8Kosig"
@@ -3430,7 +3470,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 193103,
       "name": "London Sound",
       "url": "https://open.spotify.com/track/1lUJ2pBNjM2I37CssmaTGS"
@@ -3712,7 +3752,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 312685,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/0eAWY0FfeEg7O0oCEKyn11"
@@ -3756,7 +3796,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 128279,
       "name": "Mosh Pit",
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
@@ -4674,7 +4714,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 184079,
       "name": "Ready Set Begin",
       "url": "https://open.spotify.com/track/6ZycwWiGPWO4CRZ6yp9QDi"
@@ -6021,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/1Vhm1THfiygNz26B13LPOn"
+    },
+    {
+      "album": {
         "name": "Transcend",
         "url": "https://open.spotify.com/album/5EE5Ix18HkEAFFD5ZHJtxz"
       },
@@ -6370,7 +6428,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 246900,
       "name": "Warning",
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"

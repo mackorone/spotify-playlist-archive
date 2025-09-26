@@ -571,6 +571,36 @@
     },
     {
       "album": {
+        "name": "Verandah Santa",
+        "url": "https://open.spotify.com/album/0xE9ozZDUnO1WODa3qMed1"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        },
+        {
+          "name": "Emma Dean",
+          "url": "https://open.spotify.com/artist/3t9nKqJklsqZ6nywERYvaD"
+        },
+        {
+          "name": "Joseph Twist",
+          "url": "https://open.spotify.com/artist/4vqRn6DNiHVKFn8CEdNpW9"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109145,
+      "name": "Verandah Santa",
+      "url": "https://open.spotify.com/track/4mPQ3iZ19SNS7dDotHmhcO"
+    },
+    {
+      "album": {
         "name": "Bluey the Album (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/4ke6cauk7sHuydZCrkgD7s"
       },

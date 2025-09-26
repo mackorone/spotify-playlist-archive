@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: Vusi Nova",
+  "description": "Proudly Southern African Afropop gems. Cover: Judith Sephuma",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -8209,6 +8209,24 @@
     },
     {
       "album": {
+        "name": "MOKETE",
+        "url": "https://open.spotify.com/album/2XFVvLdRLWLPbGuXWIyhni"
+      },
+      "artists": [
+        {
+          "name": "Judith Sephuma",
+          "url": "https://open.spotify.com/artist/4UhNEvY4mAznOBZJkbXX8E"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "MOKETE",
+      "url": "https://open.spotify.com/track/6RSmHuB9OaLitjxchrj0Hy"
+    },
+    {
+      "album": {
         "name": "Before Slakes",
         "url": "https://open.spotify.com/album/6ohaQAwMQvU9lQQicuagep"
       },
@@ -12134,6 +12152,32 @@
     {
       "album": {
         "name": "Sondela",
+        "url": "https://open.spotify.com/album/6ZVEFIOf7TPWtYsSGFOVXD"
+      },
+      "artists": [
+        {
+          "name": "KhosiexIssue",
+          "url": "https://open.spotify.com/artist/6dB9FLxVZZzsjdlgIEPowW"
+        },
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241802,
+      "name": "Sondela",
+      "url": "https://open.spotify.com/track/0O5Dqz9VS5WJW4jdftZSfA"
+    },
+    {
+      "album": {
+        "name": "Sondela",
         "url": "https://open.spotify.com/album/5m8hw6BhkuvavhHViEcpQp"
       },
       "artists": [
@@ -13582,7 +13626,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 269894,
       "name": "Umbuzo Wodwa",
       "url": "https://open.spotify.com/track/2Y78qvXgPX8AhZ3CyGTjkj"
@@ -14384,7 +14428,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 257597,
       "name": "Uthando Olunjeh",
       "url": "https://open.spotify.com/track/6vjciCCw4J5Va2ngFfMgJJ"

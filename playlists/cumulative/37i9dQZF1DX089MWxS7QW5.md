@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Moon Sujin\(문수진\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 브라운 아이드 소울\)
 
-571 songs - 1 day 6 hr 45 min
+572 songs - 1 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Lychee Lime Juice](https://open.spotify.com/track/03IxmjvEqfzHCw9ivFX3pm) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [SUMMER FREAK: Sun, Rain, Love](https://open.spotify.com/album/0rawyUTz3wjP4gVFYAloIM) | 4:30 | 2024-08-01 | 2024-09-14 |
 | [Magnolia](https://open.spotify.com/track/7gIeUVYUGkXX6qKyfhSvCT) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4) | [Magnolia](https://open.spotify.com/album/47VCVcsD6bPIYiIqosclMh) | 3:24 | 2024-09-13 | 2024-11-30 |
-| [Main spot \(feat\. Ben Bliss\)](https://open.spotify.com/track/6DF2j2lN8JHWrTfzojFJ41) | [YUuL](https://open.spotify.com/artist/5KsKiZaOE4hCVzeIJxBtIo), [Ben Bliss](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq) | [Main spot](https://open.spotify.com/album/0JlKbydZrsg1qGTGsRItRi) | 2:44 | 2025-06-02 |  |
+| [Main spot \(feat\. Ben Bliss\)](https://open.spotify.com/track/6DF2j2lN8JHWrTfzojFJ41) | [YUuL](https://open.spotify.com/artist/5KsKiZaOE4hCVzeIJxBtIo), [Ben Bliss](https://open.spotify.com/artist/0y2EA2TQKYjLSbzlPRhBDq) | [Main spot](https://open.spotify.com/album/0JlKbydZrsg1qGTGsRItRi) | 2:44 | 2025-06-02 | 2025-09-26 |
 | [Make the vibe](https://open.spotify.com/track/0pzxdQ001Rot9Ll5MilQmP) | [t024](https://open.spotify.com/artist/0jxjOumN4dyPFTLUojSbNP) | [TRACE](https://open.spotify.com/album/00kDMNQFXyx8iSGSXjsSl7) | 2:33 | 2025-02-10 | 2025-06-03 |
 | [Malibu](https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS) | [KIND](https://open.spotify.com/artist/1gWxpQhTiJXSFMRnwDZ7LO), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Malibu](https://open.spotify.com/album/5AI1aMZ3MZQAjr3EMVGrUv) | 3:18 | 2024-09-02 | 2025-01-19 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-20 | 2025-02-21 |
@@ -337,6 +337,7 @@
 | [Mileage \(Feat\. Gaeko\)](https://open.spotify.com/track/4XoEsmqX5CQ4y1xT19T92m) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Mileage](https://open.spotify.com/album/5d9ateKsiHjEd3c17Yd376) | 3:04 | 2024-09-06 | 2025-01-25 |
 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 | 2024-09-05 | 2025-01-25 |
 | [Moebius](https://open.spotify.com/track/10QujSiWVb2ew8r1aqlbyS) | [En](https://open.spotify.com/artist/4sxk8eantzoB7SUyDlzydF) | [Moebius](https://open.spotify.com/album/712elbFWoQIhTAYEfKnCYZ) | 3:40 | 2023-01-13 | 2023-07-08 |
+| [Moments Like This](https://open.spotify.com/track/4HjWscTNLKHkeoV3YopC3m) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Tricycle](https://open.spotify.com/album/2gynWgXZ5cqwvL0S0J4naU) | 4:43 | 2025-09-25 |  |
 | [Mood](https://open.spotify.com/track/54KfrrBokq4OPAhzkmru2h) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Mood](https://open.spotify.com/album/6oUWprZ8FqceLL4TuS4LTW) | 3:53 | 2025-05-13 | 2025-09-02 |
 | [Moon Walk](https://open.spotify.com/track/3Ophwf6lYZIL9d5VkX9D5x) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Moon Walk](https://open.spotify.com/album/67TLxjG6p3SpZZ90AMnsg7) | 2:30 | 2024-09-18 | 2025-02-06 |
 | [Moonlight dancer](https://open.spotify.com/track/3swMzIF5uXobKiuo7XbJyk) | [bluebluebird](https://open.spotify.com/artist/6usYZzaQqQUgDzgSCRa0xf) | [Moonlight dancer](https://open.spotify.com/album/783pDN25MWBe3Di4O3ILsZ) | 2:39 | 2025-07-09 |  |

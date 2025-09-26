@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-212 songs - 10 hr 24 min
+213 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Coming Alive \- Jeffrey Sutorius Remix](https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jone Fields](https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [JEFFREY SUTORIUS](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [Coming Alive \(Jeffrey Sutorius Remix\)](https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX) | 3:53 | 2025-07-04 |  |
 | [Crash The Party](https://open.spotify.com/track/4eHvUvkbJlSIFhOTJL5yjh) | [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Crash The Party](https://open.spotify.com/album/17aS7AUf72mLWcKN9ju3hf) | 2:55 | 2025-07-04 |  |
 | [Crowd Control](https://open.spotify.com/track/74ygo72Fscvw9ccTbDI0RI) | [Kom](https://open.spotify.com/artist/0udaLZnmQEU84poE2cbrlR), [Amber Na](https://open.spotify.com/artist/4Gi7SM27OSfhOHCjiK4Xeo), [ILSE](https://open.spotify.com/artist/6qbr3M2PZv1k8qPVBTw707) | [Crowd Control](https://open.spotify.com/album/6rW011CXPpWSzuJUtgekgj) | 2:22 | 2025-07-04 |  |
+| [D.O.M.](https://open.spotify.com/track/2ra6kEjaiOJ9SG3z4siPc9) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 |  |
 | [Dance With Romance](https://open.spotify.com/track/69SUKBULZigUveocU7MkDV) | [Noz Cate](https://open.spotify.com/artist/2nhjBKSJ2wpxLGM5PDQ1lt) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 3:15 | 2025-07-04 |  |
 | [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 | 2025-07-04 |  |
 | [Dangerous](https://open.spotify.com/track/32ggG1I3rQX3eWwsyVretE) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Dangerous](https://open.spotify.com/album/6hkY6ZjDoHaoS9p1kLfqDQ) | 2:13 | 2025-07-04 |  |

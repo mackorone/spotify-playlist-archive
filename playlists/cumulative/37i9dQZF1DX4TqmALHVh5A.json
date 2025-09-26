@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Ebony",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : D'accord Simon",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 110720,
       "name": "en ce moment",
       "url": "https://open.spotify.com/track/4FPNM0pmF28TTWsj4h7MZi"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 165381,
       "name": "Humain",
       "url": "https://open.spotify.com/track/1I7q4Nvn6hRTb2lyHTVcWR"
@@ -2396,7 +2396,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 209226,
       "name": "J'irai",
       "url": "https://open.spotify.com/track/4YY4smnNxdI2uRi3UgGmD7"
@@ -2475,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Je ne t'aime plus",
+        "url": "https://open.spotify.com/album/3l1h7gTn3FrwUBIjwwpR6J"
+      },
+      "artists": [
+        {
+          "name": "Blas\u00e9",
+          "url": "https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135066,
+      "name": "Je ne t'aime plus - Reprise",
+      "url": "https://open.spotify.com/track/6lPFzXxn13OoB4ByGoXQTc"
+    },
+    {
+      "album": {
         "name": "Je Pense Apr\u00e8s",
         "url": "https://open.spotify.com/album/7H6zgd1vM1nGyLHVZJfHbz"
       },
@@ -2490,6 +2508,24 @@
       "duration_ms": 172632,
       "name": "Je Pense Apr\u00e8s",
       "url": "https://open.spotify.com/track/2of8itFR9aQFO8krOG0XsH"
+    },
+    {
+      "album": {
+        "name": "JE SAIS PLUS QUOI DIRE",
+        "url": "https://open.spotify.com/album/5afIEZW7Kvs1tZ37hnOwfK"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "JE SAIS PLUS QUOI DIRE",
+      "url": "https://open.spotify.com/track/5YEgeYe784hrRnf7P91jfy"
     },
     {
       "album": {
@@ -2876,6 +2912,24 @@
       "duration_ms": 204698,
       "name": "La Fin Du Monde",
       "url": "https://open.spotify.com/track/3QHVBHcvXwvEeey5Gy9Fz2"
+    },
+    {
+      "album": {
+        "name": "La Fl\u00e8che",
+        "url": "https://open.spotify.com/album/4Zy92D63sSUrIKTrEALIQC"
+      },
+      "artists": [
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170996,
+      "name": "La Fl\u00e8che",
+      "url": "https://open.spotify.com/track/1yJgmq0gurc9PIWdKYnWki"
     },
     {
       "album": {
@@ -4785,6 +4839,24 @@
     },
     {
       "album": {
+        "name": "Rockrider",
+        "url": "https://open.spotify.com/album/6PQxN935Vfwg8b0DgUsgE8"
+      },
+      "artists": [
+        {
+          "name": "Rallye",
+          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192010,
+      "name": "Rockrider",
+      "url": "https://open.spotify.com/track/5g3hhUsUQYZWo5ThO9aRpX"
+    },
+    {
+      "album": {
         "name": "roger rabbit",
         "url": "https://open.spotify.com/album/7prizHwvKXEPZAcbd8xQLp"
       },
@@ -5092,7 +5164,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 165746,
       "name": "Side Story",
       "url": "https://open.spotify.com/track/0xsFtIwmGpPT2CG8NBTPSS"
@@ -5655,6 +5727,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR"
+    },
+    {
+      "album": {
         "name": "Travail Famille Connasse",
         "url": "https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX"
       },
@@ -5702,7 +5792,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 185000,
       "name": "Tu le sais",
       "url": "https://open.spotify.com/track/38cM42gpzzdkNwbX3CKWdC"
@@ -5958,7 +6048,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 136492,
       "name": "Vous !",
       "url": "https://open.spotify.com/track/2nHe5UGcgaKpNue5w9ddXa"

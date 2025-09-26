@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Josh Ross",
+  "description": "The home of Canadian country music. Cover: Cameron Whitcomb",
   "name": "North Country",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 189513,
       "name": "10 Days in July",
       "url": "https://open.spotify.com/track/7zsuy0Jay6R6dP7FAOGKVZ"
+    },
+    {
+      "album": {
+        "name": "1800 Miles",
+        "url": "https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka"
+      },
+      "artists": [
+        {
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "1800 Miles",
+      "url": "https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD"
     },
     {
       "album": {
@@ -218,7 +236,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 183715,
       "name": "Are You With Me?",
       "url": "https://open.spotify.com/track/4cTqE0VtYMiBNqldx2R4e0"
@@ -384,7 +402,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 168194,
       "name": "Best Boat",
       "url": "https://open.spotify.com/track/0OlVvaNPwRQnRzPXl5PUBC"
@@ -739,6 +757,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
+    },
+    {
+      "album": {
         "name": "Can You Die From a Broken Heart (feat. Avril Lavigne)",
         "url": "https://open.spotify.com/album/2KDbfU7ZAp8kOdFYZZadim"
       },
@@ -902,7 +938,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 168656,
       "name": "Chevy Back",
       "url": "https://open.spotify.com/track/6kEkD4UwEmsCBqIPlYRTz0"
@@ -1266,7 +1302,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 223546,
       "name": "Damned",
       "url": "https://open.spotify.com/track/5WyZHmCCzqNysk3yjLVS4z"
@@ -1367,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Diary Of An Alcoholic (10 Shots)",
+        "url": "https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233198,
+      "name": "Diary Of An Alcoholic (10 Shots)",
+      "url": "https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ"
+    },
+    {
+      "album": {
         "name": "Didn't See It Coming",
         "url": "https://open.spotify.com/album/0IFkISeD6tB1NmN0pvL4tq"
       },
@@ -1432,7 +1486,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 202119,
       "name": "Dirty Hands, Clean Money",
       "url": "https://open.spotify.com/track/5xI0F5mOLBB2zOjygmmdJT"
@@ -1964,7 +2018,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 181330,
       "name": "Georgia Off My Mind",
       "url": "https://open.spotify.com/track/0l05xoUCl9VbskLKWzT40Q"
@@ -2026,6 +2080,24 @@
       "duration_ms": 197907,
       "name": "Gettin' By",
       "url": "https://open.spotify.com/track/4RrNZfwHpJO5Stb1xAOnij"
+    },
+    {
+      "album": {
+        "name": "Give Me One Reason",
+        "url": "https://open.spotify.com/album/4MtDxcaSPN6lGsBaq6yyNA"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vanderzon",
+          "url": "https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189882,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/5VvT7bqOekxhMLbux3jJKD"
     },
     {
       "album": {
@@ -2220,7 +2292,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 188891,
       "name": "Good To Drive",
       "url": "https://open.spotify.com/track/2ZfToR0LzuBGd59gdqdwYG"
@@ -2452,7 +2524,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 203680,
       "name": "Heart To Forget",
       "url": "https://open.spotify.com/track/0mg3HvO7Zz8fYR45WVGMwD"
@@ -2492,6 +2564,24 @@
       "duration_ms": 247459,
       "name": "Heartbreak Saloon",
       "url": "https://open.spotify.com/track/2b74hgJd9xnOW6AjSEisnO"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194577,
+      "name": "Heartstrings",
+      "url": "https://open.spotify.com/track/66Cpzj9S9v81c83kTh2HHe"
     },
     {
       "album": {
@@ -2889,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "Hurtin' Songs",
+        "url": "https://open.spotify.com/album/0fN3yStmuehUQjStGL1Sb0"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Hurtin' Songs",
+      "url": "https://open.spotify.com/track/7AxaVrXiFMkDmyNSsyMWXU"
+    },
+    {
+      "album": {
         "name": "I Ain't Country",
         "url": "https://open.spotify.com/album/0nxNOATwqWpPcjR5EizThO"
       },
@@ -2904,6 +3016,24 @@
       "duration_ms": 163895,
       "name": "I Ain't Country",
       "url": "https://open.spotify.com/track/10zzzR1ccEHtdmimfgLUf5"
+    },
+    {
+      "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/1SevZzrPL8CFIi6lwSlyfH"
+      },
+      "artists": [
+        {
+          "name": "Dayna Reid",
+          "url": "https://open.spotify.com/artist/5Mn3u9vT9FcjY9Wpv7nVfR"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165797,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/17X7LnnLPlLYcqkUzxozjp"
     },
     {
       "album": {
@@ -3026,7 +3156,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 189711,
       "name": "I Know You're Gonna Leave",
       "url": "https://open.spotify.com/track/72atHIvoTlciOLigaSWvmV"
@@ -3116,7 +3246,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 194872,
       "name": "I Remember November",
       "url": "https://open.spotify.com/track/1565xKEDeIa5uYLyum1Nog"
@@ -3361,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "Jessica, Jezebel",
+        "url": "https://open.spotify.com/album/4mVjw6YwvS9B5eoGCyLzGY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201211,
+      "name": "Jessica, Jezebel",
+      "url": "https://open.spotify.com/track/4AkuVJWRhimUDI176m9pyE"
+    },
+    {
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/5M02zd9VpTG1Pkg2CQJrZp"
       },
@@ -3462,7 +3610,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 155374,
       "name": "Last Love Standing",
       "url": "https://open.spotify.com/track/1n8f0lGx6z7YWTEM6sy3OM"
@@ -3780,7 +3928,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 182238,
       "name": "Longer Than A Little While",
       "url": "https://open.spotify.com/track/6HbfsU7ZhZ0v5lLX2KlofO"
@@ -4236,7 +4384,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 162060,
       "name": "My Side Of Town",
       "url": "https://open.spotify.com/track/5u4otkyiGjEPj90cNtX8gd"
@@ -4467,6 +4615,24 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/16BE6elk9f9qWFtFpgt6qE"
+      },
+      "artists": [
+        {
+          "name": "Olivia Mae Graham",
+          "url": "https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198878,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4vYtvEe6R8PBJ7XQobWZ7N"
+    },
+    {
+      "album": {
         "name": "Nobody Dies Anymore",
         "url": "https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr"
       },
@@ -4514,7 +4680,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 166089,
       "name": "Nomade",
       "url": "https://open.spotify.com/track/5U2LhQl1JGIIsVJWBQwpPH"
@@ -4770,6 +4936,24 @@
       "duration_ms": 176610,
       "name": "One More",
       "url": "https://open.spotify.com/track/2Pl5M4e1slMK9WM8eqrt2p"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Blue Ridge Band",
+          "url": "https://open.spotify.com/artist/2yE8COtZJKf4SgSNz3wW6u"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191193,
+      "name": "One More Story",
+      "url": "https://open.spotify.com/track/4ngdhEZrLazNDat5EEpptb"
     },
     {
       "album": {
@@ -5084,6 +5268,24 @@
       "duration_ms": 161543,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/3FALRV1NRKLvNYiWukGtZC"
+    },
+    {
+      "album": {
+        "name": "Pretty Pieces",
+        "url": "https://open.spotify.com/album/3jd4iJFR4uguKW9dN9NrdT"
+      },
+      "artists": [
+        {
+          "name": "Emmett Jerome",
+          "url": "https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253955,
+      "name": "Pretty Pieces",
+      "url": "https://open.spotify.com/track/2oAGZv9h9Bn3hl616jKsrm"
     },
     {
       "album": {
@@ -5841,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "Someone Who Knows",
+        "url": "https://open.spotify.com/album/4lDz9rqOX6nFCIGP9Tjsc7"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191194,
+      "name": "Someone Who Knows",
+      "url": "https://open.spotify.com/track/5Op72ozs7L69n5l0LfBPg6"
+    },
+    {
+      "album": {
         "name": "Somethin' Bout a Honky Tonk",
         "url": "https://open.spotify.com/album/4AGrwp5MNA4Kkb6D2VSdHL"
       },
@@ -5946,6 +6166,24 @@
       "duration_ms": 175500,
       "name": "Sounds Like A Memory",
       "url": "https://open.spotify.com/track/1C6Gh0FdaWKzE8qSiuWz6y"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2MwGk2VLvM8u6fcmtDi1dm"
+      },
+      "artists": [
+        {
+          "name": "Brayden King",
+          "url": "https://open.spotify.com/artist/0fCguqEo1gADoSkTGI47qJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206684,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/1Ykta2tKZCE7crfIZ85IBi"
     },
     {
       "album": {
@@ -6350,6 +6588,24 @@
       "duration_ms": 194555,
       "name": "The Sound Of A Beer Getting Cracked",
       "url": "https://open.spotify.com/track/5pmt4pyh8w7w8q8zJb9CJA"
+    },
+    {
+      "album": {
+        "name": "Thief",
+        "url": "https://open.spotify.com/album/4HmzrdHG1BUShS9cUgSDgG"
+      },
+      "artists": [
+        {
+          "name": "Bree Taylor",
+          "url": "https://open.spotify.com/artist/065PMkjtnywi9FMR8xiLpA"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201585,
+      "name": "Thief",
+      "url": "https://open.spotify.com/track/7tOxqHzZIUK0Ob1QtXIulA"
     },
     {
       "album": {

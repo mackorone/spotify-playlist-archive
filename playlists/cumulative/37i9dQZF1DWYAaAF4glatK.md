@@ -2,7 +2,7 @@
 
 ### [hits de l'été 2025](https://open.spotify.com/playlist/37i9dQZF1DWYAaAF4glatK)
 
-> La BO officielle de ton été 🌞 Photo : Bad Bunny
+> La BO officielle l'été 2025 🌞 Photo : GIMS
 
 391 songs - 19 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sultaan, Navaan Sandhu and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,483 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,503 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 3 | [New Heights](https://open.spotify.com/track/2CqVPfNAKptQVf0sEvrkG7) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [WORDPLAY](https://open.spotify.com/album/1ZT00C99V2fm1qOMWTe9kg) | 2:20 |
 | 4 | [Big Stepper](https://open.spotify.com/track/3I3MuNOtHtWhbz6K7ySRWN) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [Gangsta Poetry](https://open.spotify.com/album/3lEzTY3tK5oAygWMalSb8S) | 2:48 |
 | 5 | [No Face No Case](https://open.spotify.com/track/1qVHrxabiSRBhh5CxvmsaM) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv) | [No Face No Case](https://open.spotify.com/album/7lJCxzXYm6XjpXJKm573MU) | 2:28 |
-| 6 | [NAME DROP](https://open.spotify.com/track/1Gqduxkmbw0GAQImmmGkVw) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Karan Thabal](https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8) | [Balanced Bars](https://open.spotify.com/album/67XGDIBavSev4ZV2u0LiqI) | 2:31 |
+| 6 | [NAME DROP](https://open.spotify.com/track/1Gqduxkmbw0GAQImmmGkVw) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Karan Thabal](https://open.spotify.com/artist/62qB87ja0UIqQH2sG8PyT8), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Balanced Bars](https://open.spotify.com/album/67XGDIBavSev4ZV2u0LiqI) | 2:31 |
 | 7 | [HOOD\-CH](https://open.spotify.com/track/2UV4cpfmL3UFJVdXgdvnEa) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HOOD\-CH](https://open.spotify.com/album/1y2eWdEBXMqCwK6y0MNWr5) | 2:52 |
 | 8 | [Hold That Thought](https://open.spotify.com/track/2vVIFrHR7E2Qxzo03O1KKW) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Muzzle](https://open.spotify.com/artist/19trpXQWUc00d2UEGLZQVB), [Premium](https://open.spotify.com/artist/7wYUJJRfwIDE6RghioaRk3) | [Boy Drama](https://open.spotify.com/album/7IdRtAuG8gIaDcQfoacL8e) | 2:20 |
 | 9 | [Strings Attached](https://open.spotify.com/track/5qXOKKtAPWAzsf2fEQIxIq) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Strings Attached](https://open.spotify.com/album/1u5zGS19vX75xh0zW6IAU0) | 2:34 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 21 | [Audi Kaali](https://open.spotify.com/track/7e21eh0Dq8T3VmegGeQD9Y) | [Sagar Bhatoa](https://open.spotify.com/artist/63l0cVf3XrP2qcTNVjuhS5), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [Audi Kaali](https://open.spotify.com/album/2e2UKHx48wVE4dMjvKeMXJ) | 2:41 |
 | 22 | [Piche Aava](https://open.spotify.com/track/3jRBzl4AJMssXH0VQ5Tem1) | [Smoke](https://open.spotify.com/artist/3r11NkdzxoiZe5yMOMsfXy), [Muzzle](https://open.spotify.com/artist/19trpXQWUc00d2UEGLZQVB) | [Boy Drama](https://open.spotify.com/album/7IdRtAuG8gIaDcQfoacL8e) | 2:25 |
 | 23 | [YKW](https://open.spotify.com/track/5wtAzbiOedygEGaBjEdW2O) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [FXRZII](https://open.spotify.com/artist/6kZ4nGuE2fWal8c08vL5Wm), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [YKW](https://open.spotify.com/album/3aEMasnqvXwZjve3pvRkT4) | 2:19 |
-| 24 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
+| 24 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
 | 25 | [RICHES](https://open.spotify.com/track/68gBcKJ7xAayeQ630AUsDy) | [Ekash Billing](https://open.spotify.com/artist/5Ki1yqz1eXRMiJhG2lL1eT), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [RICHES](https://open.spotify.com/album/5EgDdGjCiAHMS0UstTu716) | 2:19 |
 | 26 | [12 Gauge](https://open.spotify.com/track/76bwDdWpyyL8WydKOmNUYS) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Rap God \(Deluxe Version\)](https://open.spotify.com/album/6olsIKSPwKNpdS7lOwA3wY) | 2:48 |
 | 27 | [Gun Culture](https://open.spotify.com/track/5MHWIDLlwUl8jSVyFf43HS) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Gun Culture](https://open.spotify.com/album/37d9wr8hnYWiNr2TZw3M75) | 3:05 |

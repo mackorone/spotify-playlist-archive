@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: FOLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,943 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,060 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [BADMAN](https://open.spotify.com/track/5oE6syeoM6d6PKxrFihfGu) | [MILES MD](https://open.spotify.com/artist/7hc080bB5mFOJAGusQ0cBc), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [BADMAN](https://open.spotify.com/album/4ZcZKWCZZfYKkp17LyIa5z) | 2:49 |
 | 50 | [Chances](https://open.spotify.com/track/5DiPuzT8Gf9hKTTqaf2Fkd) | [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Chances](https://open.spotify.com/album/4z9ttrOoW5YhHv4En8Bbdq) | 2:44 |
 
-Snapshot ID: `AAAAAGs0lxbDfj1QIbHJCgnLQQUlP349`
+Snapshot ID: `AAAAAJO9f5u5ya/X/IqOnZq/WAFM6YMH`

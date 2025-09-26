@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 285739,
       "name": "Arutala",
       "url": "https://open.spotify.com/track/4dRV4oxoLxMy9ipgXXmpr6"
@@ -2842,7 +2842,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 239625,
       "name": "If You Let Me (Cinta Tak Seindah Drama Korea Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/1K2t17fCXJVxFleVhJ6t83"
@@ -3310,7 +3310,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 144444,
       "name": "Kalo Kita Jujur Jujuran",
       "url": "https://open.spotify.com/track/4WVOPsJdTB1dU7PHo4u74A"
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 190208,
       "name": "Kembali Ke Awal",
       "url": "https://open.spotify.com/track/5ualIpatKacgFzCy50nWzV"
@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 213824,
       "name": "Lagu Lama",
       "url": "https://open.spotify.com/track/6s7qmCa3Lu79BtZteJ8mmr"
@@ -4826,7 +4826,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 238220,
       "name": "Niscaya",
       "url": "https://open.spotify.com/track/5xxu8scJF7T99YAlD8WMxj"
@@ -5136,7 +5136,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 307219,
       "name": "Persembahan untuk Masa Depan",
       "url": "https://open.spotify.com/track/4sO9Y6tnktr5hfwoRbVDgJ"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 307500,
       "name": "Pertikaian",
       "url": "https://open.spotify.com/track/331chPpMXfm8klgSOWguIy"
@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 268800,
       "name": "Pulang",
       "url": "https://open.spotify.com/track/5uQRqQ1EOcFzCvEsq2kmM1"
@@ -5799,6 +5799,56 @@
     },
     {
       "album": {
+        "name": "SEDASA",
+        "url": "https://open.spotify.com/album/78wuTEpqYbb6xTUvyxt4Iv"
+      },
+      "artists": [
+        {
+          "name": "Bilal Indrajaya",
+          "url": "https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De"
+        },
+        {
+          "name": "Tetangga Tuku",
+          "url": "https://open.spotify.com/artist/5dcfMZSXaWk1e3D9E2Hg8O"
+        },
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        {
+          "name": "RAPOT",
+          "url": "https://open.spotify.com/artist/0GIqySes5T059h5azQcdNV"
+        },
+        {
+          "name": "Saykoji",
+          "url": "https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ"
+        },
+        {
+          "name": "Reza Chandika",
+          "url": "https://open.spotify.com/artist/5rTvvOLMBp58DmmzQA2cez"
+        },
+        {
+          "name": "Ankatama",
+          "url": "https://open.spotify.com/artist/1rTnFDCKH7YqoYDaHItQgf"
+        },
+        {
+          "name": "Radhini",
+          "url": "https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU"
+        },
+        {
+          "name": "Nastasha Abigail",
+          "url": "https://open.spotify.com/artist/4Yh02VkYHM45OXORNwzI9r"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246750,
+      "name": "SEDASA",
+      "url": "https://open.spotify.com/track/59lGPlYIugiYJeTv235PUa"
+    },
+    {
+      "album": {
         "name": "Gita Masa Lalu",
         "url": "https://open.spotify.com/album/7aHKjuQbnWXZagPo9TNIUE"
       },
@@ -5828,7 +5878,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 222624,
       "name": "Sejoli",
       "url": "https://open.spotify.com/track/0RjTjniiP0cWzVQ1SeDvN3"
@@ -6092,7 +6142,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 178217,
       "name": "Siapa yang Salah",
       "url": "https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH"
@@ -6132,7 +6182,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 231954,
       "name": "Simpul",
       "url": "https://open.spotify.com/track/5Szv2HkFVcUMlvvAm1Vl3n"
@@ -6665,6 +6715,24 @@
     },
     {
       "album": {
+        "name": "Tamasya di Angkasa",
+        "url": "https://open.spotify.com/album/76HWh17AMLevhXUBvMO8Bf"
+      },
+      "artists": [
+        {
+          "name": "Harra.",
+          "url": "https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261994,
+      "name": "Tamasya di Angkasa",
+      "url": "https://open.spotify.com/track/3ZExfEyY39Qpzt0fvsCUDn"
+    },
+    {
+      "album": {
         "name": "Tamasya Dibuka",
         "url": "https://open.spotify.com/album/2stEMeVwQsRP8hH0qjEJzT"
       },
@@ -6730,7 +6798,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 162545,
       "name": "Telisik",
       "url": "https://open.spotify.com/track/7BDrp62oI7QVtKC6OvMgm4"

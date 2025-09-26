@@ -5093,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Kehna Hai Kya?",
+        "url": "https://open.spotify.com/album/32haHQ4WhbP8R2pvEVtsKf"
+      },
+      "artists": [
+        {
+          "name": "Shikhar",
+          "url": "https://open.spotify.com/artist/3PPDiyfJdSIL8UW8EeFmjM"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "Kehna Hai Kya?",
+      "url": "https://open.spotify.com/track/4rhzHRWaDzu6HxyW8hN1T9"
+    },
+    {
+      "album": {
         "name": "Kehne Lagaa (Acoustic Version)",
         "url": "https://open.spotify.com/album/0g4VuZEzAYerI6Cqdrk8kR"
       },
@@ -6388,7 +6406,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 122340,
       "name": "Last Love (Acoustic Version)",
       "url": "https://open.spotify.com/track/0RswAiyXdur2BSGSGxrUMv"

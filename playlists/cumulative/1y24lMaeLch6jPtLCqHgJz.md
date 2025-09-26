@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-431 songs - 21 hr 43 min
+433 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Create Yourself](https://open.spotify.com/track/6CRWCIKP9h5WW1DTtkwDY3) | [Oskah](https://open.spotify.com/artist/5z6X6OuE2HnFQY18w3ephk) | [Create Yourself](https://open.spotify.com/album/0YtqJ0tbevIZfhS7mHC8Kk) | 2:54 | 2023-08-11 | 2024-09-28 |
 | [Crystal Clear](https://open.spotify.com/track/5x6klKhKveWNJvg4n9iWPZ) | [Diegx](https://open.spotify.com/artist/3fg2lGUSz1TZ0kYI18fIKU), [Joffrey Lorquet](https://open.spotify.com/artist/2Qb0DQVMfYEGI2kUO9EvKR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8), [Anthony Meyer](https://open.spotify.com/artist/1vy2gxHoaHJhUQgQaJjHKh) | [Crystal Clear](https://open.spotify.com/album/1m37XnUy8Rv0VKiSa05Xcj) | 3:44 | 2022-07-29 | 2022-09-10 |
 | [Curura](https://open.spotify.com/track/2qrEyfQgY9KsKx7haqzo5S) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w), [DJ Junior \(TW\)](https://open.spotify.com/artist/5guBrcv1BxjlJdKlW8MNyh) | [Curura](https://open.spotify.com/album/5ownYiFYYBZXWGQJ4txRKf) | 2:22 | 2023-08-21 | 2023-10-14 |
+| [D.O.M\. \- Bubbling Mix](https://open.spotify.com/track/3tFG2m9G26DLChleU4aWHR) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y) | [D.O.M.](https://open.spotify.com/album/5vvA0gQmuiPMZXkvhtAtMP) | 2:23 | 2025-09-25 |  |
 | [Damaru](https://open.spotify.com/track/0phauLON2YMdn7EJBxy22K) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [Mëlbëc](https://open.spotify.com/artist/1sheUnPKG2ZarLC6f1MstP) | [Damaru](https://open.spotify.com/album/4H89g4DpPpX9lxxkjLCsIZ) | 3:31 | 2024-10-22 | 2024-11-30 |
 | [Dance All Night](https://open.spotify.com/track/6xfQjv4RvP5DVaxYYZCRTV) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Dance All Night](https://open.spotify.com/album/1NZMme5AXFMvl8lxsbwPk6) | 2:46 | 2024-03-29 | 2024-05-11 |
 | [Dance Monkey](https://open.spotify.com/track/2jSgV3fYu5HdgrIDkFp8xU) | [Machine Made](https://open.spotify.com/artist/56J7OPV77W9hMJQIRtvaBB) | [Dance Monkey](https://open.spotify.com/album/56cP0Lsv4FEo86w095msUN) | 2:58 | 2023-07-05 | 2023-09-23 |
@@ -406,6 +407,7 @@
 | [Titanium \(feat\. Sia\)](https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 4:05 | 2023-06-16 |  |
 | [Tomorrow](https://open.spotify.com/track/4S8rnl2Uinvl59QpcRY9oj) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [MrWhite](https://open.spotify.com/artist/4HD8ewNDLIhBO5f0N15J2h), [Gangi](https://open.spotify.com/artist/5Z0vJqhdSkVLPD5BbmMf08), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Tomorrow](https://open.spotify.com/album/1tWxL1uLXtjjdlZSdcIii7) | 3:00 | 2022-07-29 | 2023-07-15 |
 | [Turn It Around Baby](https://open.spotify.com/track/3FjNJavUs0VqOgr2KSU7gq) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Turn It Around Baby](https://open.spotify.com/album/1oRTrhAtWAUOS2663Ra7A3) | 3:38 | 2023-08-21 | 2023-11-11 |
+| [Under The Moonlight](https://open.spotify.com/track/6LnPMGaiR8zMI0gWrvuoF8) | [Colin Crooks](https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP) | [Under The Moonlight](https://open.spotify.com/album/50pn19SdyxaBZVBqvARV3W) | 2:39 | 2025-09-25 |  |
 | [Vibration](https://open.spotify.com/track/3mVgxiEBvMmO0Rms2VwAzY) | [Matt Ice](https://open.spotify.com/artist/08m37iZCXNDii26j1peJpE), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Vibration](https://open.spotify.com/album/5mC8vxcYv2yqlvuPWM3kRT) | 3:23 | 2024-02-29 | 2024-08-10 |
 | [Wait For The Drums](https://open.spotify.com/track/08rvT9AMPKZiMeKcBXHGsu) | [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP), [LUSSO](https://open.spotify.com/artist/6hOrbqntEsgBVm4YstRyVR) | [Wait For The Drums](https://open.spotify.com/album/4TAdJPRokTsSUesMJcLqDb) | 2:50 | 2023-10-24 | 2024-08-17 |
 | [Wake Me Up](https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:07 | 2023-11-21 |  |

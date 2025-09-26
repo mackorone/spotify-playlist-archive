@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 乃紫
 
-2,041 songs - 5 day 3 hr 23 min
+2,042 songs - 5 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -861,7 +861,7 @@
 | [Regrets](https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Regrets](https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5) | 4:25 | 2023-09-12 | 2023-11-08 |
 | [relief](https://open.spotify.com/track/4csYt589RX2gFLzCATie2v) | [春風レコード](https://open.spotify.com/artist/22XYJGn2ZmvGfY2FOwTfeD) | [relief](https://open.spotify.com/album/3rkVNqoCz1xdB63zAgS5lS) | 3:03 | 2025-02-25 | 2025-03-26 |
 | [Remedy](https://open.spotify.com/track/6SmMxxyfp0KnQ09PrX7Jtb) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Remedy](https://open.spotify.com/album/71UDGPHFGxJ0SuzyMcKzvT) | 3:27 | 2025-05-13 | 2025-05-21 |
-| [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 | 2025-08-06 |  |
+| [Remember Summer Love](https://open.spotify.com/track/2bROm2JsrFREGHFnF57tqh) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Remember Summer Love](https://open.spotify.com/album/0nAExno0K5Vd6NITbAurD4) | 3:50 | 2025-08-06 | 2025-09-26 |
 | [Rent\-A\-Car](https://open.spotify.com/track/2VvE9W1K2cMPaRsFi7kwLv) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Rent\-A\-Car](https://open.spotify.com/album/3715NHRrk351GtX0NhjkPv) | 3:01 | 2023-08-08 | 2023-08-27 |
 | [Rent\-A\-Car](https://open.spotify.com/track/7j36DmTMM88JMAAohyKyJZ) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Television](https://open.spotify.com/album/1Me0U6nBnqp7xjVAEFVFDJ) | 3:01 | 2023-08-24 | 2023-09-27 |
 | [Renton](https://open.spotify.com/track/016HD0Hb2nAZKmudqeblW6) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [nuzip](https://open.spotify.com/album/4UkotOsQGw7GFN16dm4NTD) | 2:36 | 2025-01-09 | 2025-01-29 |
@@ -1171,6 +1171,7 @@
 | [woowee! zoowee!](https://open.spotify.com/track/6IQjOP0D4WTX2WKvSYVpnq) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [woowee! zoowee!](https://open.spotify.com/album/5ew5cApkfvwG6DRWoTvDbN) | 2:06 | 2022-10-25 | 2022-11-02 |
 | [WORLD IS MINE](https://open.spotify.com/track/0WedDMtk8uC8Cicsa00ef3) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [WORLD IS MINE](https://open.spotify.com/album/0j8CjgmSicXZnhWtnv4OAg) | 3:57 | 2025-04-22 | 2025-07-24 |
 | [World is Mine](https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS) | [鋭児](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [World is Mine](https://open.spotify.com/album/2vDiHS5Dy4cfKmT1O98G5d) | 3:10 | 2022-10-04 | 2022-12-21 |
+| [World Tree](https://open.spotify.com/track/33NNDTQQRoWebSiFmWtRAV) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [World Tree](https://open.spotify.com/album/52KeS04rzRYKEILyfz0mDw) | 5:43 | 2025-09-25 |  |
 | [Wrecked](https://open.spotify.com/track/0ehS06b4aXxq6MLCHM8j7S) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/1pPxVO9m5EhZqlHpi36Haa) | 2:08 | 2023-06-27 | 2023-06-29 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 | 2023-08-18 |
 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 | 2022-12-06 | 2023-01-13 |

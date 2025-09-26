@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,815 songs - 5 day 3 hr 29 min
+1,816 songs - 5 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/5pLiabGezZM6PTes04JYsF) | 3:37 | 2020-03-20 | 2020-08-20 |
 | [Another Dawn](https://open.spotify.com/track/77yuMisqclmt9pq5MnrxRA) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Kinnship](https://open.spotify.com/artist/58fzPwxNFw1Ae500uB038l) | [Another Dawn](https://open.spotify.com/album/3SNNjZhX66AIm6ZNP7RKRv) | 3:16 | 2021-07-02 | 2022-01-13 |
 | [Another Day](https://open.spotify.com/track/3qI1xwNajsHpQ4AlSROw6T) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Another Day](https://open.spotify.com/album/3b7nT2oshMQTAqWqGoAJuy) | 2:19 | 2025-03-14 | 2025-07-01 |
+| [Another Life](https://open.spotify.com/track/0CVdlEsyxVK5dikxkx6FOR) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Another Life](https://open.spotify.com/album/5HLuvzfYjnLfeBqrjh356f) | 3:58 | 2025-09-19 |  |
 | [Another Life](https://open.spotify.com/track/5oJFMNh2D1RxWFeOkO1sTz) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 6:40 | 2020-03-18 | 2021-02-19 |
 | [Another Time](https://open.spotify.com/track/2W9zh4QNFmuOyKHbtYYNm0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/6puL9vl482M9AKa3fm7v3B) | 4:15 | 2021-02-26 | 2023-03-01 |
 | [Another Time](https://open.spotify.com/track/67f7gMWZ2PJI7IsUBs3mNQ) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Kwesi](https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV) | [Another Time](https://open.spotify.com/album/4rqr9zrFHD4fd2Y1hv6RKK) | 4:15 | 2023-03-10 | 2024-03-23 |
@@ -1604,7 +1605,7 @@
 | [The Roman](https://open.spotify.com/track/3CAxbwQGsHaeNyBIIWMi7V) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Roman](https://open.spotify.com/album/0gfjRoha3EzuQJVATHXIet) | 3:18 | 2022-02-25 | 2022-12-16 |
 | [The Rope \(feat\. POLIÇA\)](https://open.spotify.com/track/1rIoZ8H3v3InBt8YbMBapx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:55 | 2020-02-29\* | 2020-06-12 |
 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 | 2024-10-01 | 2025-05-24 |
-| [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 |  |
+| [The Thought of You](https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [The Thought of You](https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD) | 4:22 | 2025-01-10 | 2025-09-26 |
 | [The Voice Says \(feat\. Charlie Kim\)](https://open.spotify.com/track/05INdkUo3Fw9ojWbyuMOsR) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Charlie Kim](https://open.spotify.com/artist/5XcDuhnBcLV9JcGT2yaiE9) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:45 | 2020-03-16 | 2022-04-19 |
 | [The Way Out](https://open.spotify.com/track/7DrM4PoqFErZ2sUvV4mb8e) | [Hawksburn](https://open.spotify.com/artist/6eiGCb98KUVK1tm0WaCHV7) | [The Way Out EP](https://open.spotify.com/album/1uEG5vFxCrDS9R6MYwUuDE) | 3:30 | 2020-03-22 | 2021-12-21 |
 | [The Whistle Song \- Re\-Directed](https://open.spotify.com/track/6wD0LWjn3WZMdLqatEc5vM) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Director's Cut](https://open.spotify.com/artist/0sgCVo8Q7D7zCPZL3TytL0), [Eric Kupper](https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz) | [The Director's Cut Collection](https://open.spotify.com/album/3xVeHKUy4HEdFOH96MeCiG) | 7:57 | 2020-06-12 | 2020-10-09 |

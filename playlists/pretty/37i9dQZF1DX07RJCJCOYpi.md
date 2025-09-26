@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Neton Vega, Peso Pluma & Tiesto
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,857,481 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,856,198 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 13 | [LGN](https://open.spotify.com/track/3vgw6WZLvD9lqt9TrcqVER) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [LGN](https://open.spotify.com/album/2hirDNFSxe3FlmuprSisD1) | 3:04 |
 | 14 | [Apaga la luz](https://open.spotify.com/track/45ewyxF625HzqLCKgZU0tp) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Apaga la luz](https://open.spotify.com/album/2lG9UbKlWrurlbT6GDZJCf) | 3:23 |
 | 15 | [Papi](https://open.spotify.com/track/4wYTybPU1G7ZuXKjMdrn54) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [GeezLy](https://open.spotify.com/artist/2pm5MR0BU1dzvOd7ernZQc) | [Papi](https://open.spotify.com/album/21T52MdMD1iecNLNbMvBhg) | 3:03 |
-| 16 | [BadWine \- Original Mix](https://open.spotify.com/track/5jybZsapWD8m1cR9d6dBY9) | [QMore](https://open.spotify.com/artist/1ekErPx4RqDpWKZ5PYuCp4), [La S](https://open.spotify.com/artist/2Lf0fdQeNoqFrCShG6bzTA), [Jcobig](https://open.spotify.com/artist/0HDg3f3YQ4qwatZYu7MNrU), [Ocampox](https://open.spotify.com/artist/5LJXciySoBoGMMvs9uh8p8), [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L) | [BadWine \(Original Mix\)](https://open.spotify.com/album/7eiSGu4pJ56D4zUMWDxiV5) | 2:36 |
+| 16 | [BadWine](https://open.spotify.com/track/5jybZsapWD8m1cR9d6dBY9) | [QMore](https://open.spotify.com/artist/1ekErPx4RqDpWKZ5PYuCp4), [Jcobig](https://open.spotify.com/artist/0HDg3f3YQ4qwatZYu7MNrU), [Ocampox](https://open.spotify.com/artist/5LJXciySoBoGMMvs9uh8p8), [Private Music](https://open.spotify.com/artist/1eKjyHjZxxy9jt85oWnF1L), [La S](https://open.spotify.com/artist/2Lf0fdQeNoqFrCShG6bzTA) | [BadWine](https://open.spotify.com/album/7eiSGu4pJ56D4zUMWDxiV5) | 2:36 |
 | 17 | [Corazón](https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Volver](https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd) | 4:12 |
 | 18 | [El Desmadre](https://open.spotify.com/track/1zwRQs7NKRvuIZ6f3VLXkE) | [Chan](https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh), [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc) | [El Desmadre](https://open.spotify.com/album/5EZmgBOjMVT7tkPtjk6cLW) | 3:03 |
 | 19 | [No Pare](https://open.spotify.com/track/4E6M6muDadCiTQ72KUELbB) | [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Marco Tropeano](https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb) | [No Pare](https://open.spotify.com/album/37WQed4WJkMfzjvXYT0mxJ) | 3:08 |

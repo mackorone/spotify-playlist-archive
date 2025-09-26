@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: James Hype
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,834,152 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,833,584 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [French Kiss](https://open.spotify.com/track/45f8hQO5e28l0KiCfP6OWx) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M) | [French Kiss](https://open.spotify.com/album/0k1vBc6uvoPvBtadhW59N5) | 1:56 |
 | 50 | [Terminator](https://open.spotify.com/track/5EEy0nUbdar0oRfTAbuUUC) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [SOLANCE](https://open.spotify.com/artist/2gmkTgD5PwEI6E4Vh0f4ha) | [Terminator](https://open.spotify.com/album/0oVxtZGSJxxMp8iiJZerUD) | 3:04 |
 
-Snapshot ID: `AAAAAEseO6bYK8F5M2yP+SRGHTnYbX8a`
+Snapshot ID: `AAAAAANGklR8uck4vRTbkuDAmqkdxW53`

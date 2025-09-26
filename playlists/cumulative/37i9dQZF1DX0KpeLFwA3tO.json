@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: DRAIN",
+  "description": "The best new music from the wide world of punk. Cover: White Reaper",
   "name": "All New Punk",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 135981,
       "name": "10 Days",
       "url": "https://open.spotify.com/track/6ZpBqQdHg2JDsI5jqBd2Q1"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 235666,
       "name": "Adam",
       "url": "https://open.spotify.com/track/0qK8QeoRqpS0wQf25OgVEv"
@@ -2705,6 +2705,24 @@
     },
     {
       "album": {
+        "name": "ANOTHER STRUGGLE / BOGOT\u00c1 12-4Q",
+        "url": "https://open.spotify.com/album/0QlV4xwr0J1WKZdp2ICsJE"
+      },
+      "artists": [
+        {
+          "name": "Raw Brigade",
+          "url": "https://open.spotify.com/artist/6scPKootq6WaAlarDnLG6H"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77386,
+      "name": "ANOTHER STRUGGLE",
+      "url": "https://open.spotify.com/track/66ezv419Kg2qyhxgg3NMso"
+    },
+    {
+      "album": {
         "name": "another turing test",
         "url": "https://open.spotify.com/album/3phZfn6US8QzYKDA4JAuGY"
       },
@@ -2994,7 +3012,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 176955,
       "name": "ARCHNEMESIS!",
       "url": "https://open.spotify.com/track/3SzbMnxKrOWxi7z8sqzOPW"
@@ -4200,7 +4218,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 218635,
       "name": "Bedroom Posters",
       "url": "https://open.spotify.com/track/2epFaQtIT84fbkV6gUACOC"
@@ -8163,6 +8181,28 @@
     },
     {
       "album": {
+        "name": "CHEAT CODE (feat. WSTR)",
+        "url": "https://open.spotify.com/album/0nOKzQnHu9Fds2A0KYziy2"
+      },
+      "artists": [
+        {
+          "name": "trxvis",
+          "url": "https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm"
+        },
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175785,
+      "name": "CHEAT CODE (feat. WSTR)",
+      "url": "https://open.spotify.com/track/7C2OhrhJ3fm4qBL5VBTgmZ"
+    },
+    {
+      "album": {
         "name": "Checking In",
         "url": "https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ"
       },
@@ -10892,6 +10932,24 @@
       "duration_ms": 76605,
       "name": "DAYTRIP!",
       "url": "https://open.spotify.com/track/483jYFAUB6wjeGpGv2HcdL"
+    },
+    {
+      "album": {
+        "name": "DCWDTTY",
+        "url": "https://open.spotify.com/album/4CoPsa7rdP1RBslPC87m2u"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "DCWDTTY",
+      "url": "https://open.spotify.com/track/3qv3FiGDssYR64BpirkUZI"
     },
     {
       "album": {
@@ -14277,6 +14335,24 @@
     },
     {
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3OhRZKX9ocerxzVZS6lPvw"
+      },
+      "artists": [
+        {
+          "name": "The Sonder Bombs",
+          "url": "https://open.spotify.com/artist/1jcXXrb7lhflZzQSetip3C"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132107,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/3RnYYFRtyx7cqxkuEor3BJ"
+    },
+    {
+      "album": {
         "name": "Everything and Nothing",
         "url": "https://open.spotify.com/album/3hRhx7uDN7bnQSPB769JZ9"
       },
@@ -14378,7 +14454,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 154933,
       "name": "Everything\u2019s On Fire But I\u2019m Fine",
       "url": "https://open.spotify.com/track/1QlspbCplGbHwofyNqyiBb"
@@ -16105,6 +16181,24 @@
     },
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Aren't We Amphibians",
+          "url": "https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197380,
+      "name": "Forgiving Jeff",
+      "url": "https://open.spotify.com/track/3CGN46JdfWJ3h6FFsCzNuy"
+    },
+    {
+      "album": {
         "name": "Forgot To Grow",
         "url": "https://open.spotify.com/album/0QP79EOlImpXgzioV8GdeX"
       },
@@ -16282,6 +16376,24 @@
       "duration_ms": 144000,
       "name": "Freakshow",
       "url": "https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177816,
+      "name": "Freakshow",
+      "url": "https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI"
     },
     {
       "album": {
@@ -18784,7 +18896,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 175793,
       "name": "Hablame Bonito",
       "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
@@ -21567,6 +21679,24 @@
     },
     {
       "album": {
+        "name": "I MISS MY CAT",
+        "url": "https://open.spotify.com/album/15wCyAFQ115rw7TINyTFmW"
+      },
+      "artists": [
+        {
+          "name": "Bearded Legend",
+          "url": "https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124046,
+      "name": "I MISS MY CAT",
+      "url": "https://open.spotify.com/track/2C1Fmi1ygQpHAcJp5cqfxV"
+    },
+    {
+      "album": {
         "name": "I Miss My Dog",
         "url": "https://open.spotify.com/album/07H8DxoIOlUJscWVcNVW2A"
       },
@@ -21690,6 +21820,24 @@
       "duration_ms": 92376,
       "name": "I Say",
       "url": "https://open.spotify.com/track/4N6hqgiMNLnMDTHY8zy1fT"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152101,
+      "name": "I See How It Is",
+      "url": "https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq"
     },
     {
       "album": {
@@ -22090,6 +22238,24 @@
       "duration_ms": 159506,
       "name": "I'LL BE OKAY",
       "url": "https://open.spotify.com/track/6XFNd3f9wVt4N0LTeRNrwL"
+    },
+    {
+      "album": {
+        "name": "I'm a Little Off",
+        "url": "https://open.spotify.com/album/6l1Uqa6Vj8uJxvY1Yk9mfJ"
+      },
+      "artists": [
+        {
+          "name": "Kind Villain",
+          "url": "https://open.spotify.com/artist/4bmakDLJdnb4takxeNfSS0"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "I'm a Little Off",
+      "url": "https://open.spotify.com/track/5ZxEXZC0tuZcU9aJgbuObz"
     },
     {
       "album": {
@@ -22904,7 +23070,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 143746,
       "name": "INSTINCT",
       "url": "https://open.spotify.com/track/02nkQTpqjT19DOjTCsNMAd"
@@ -28503,6 +28669,24 @@
     },
     {
       "album": {
+        "name": "Miele",
+        "url": "https://open.spotify.com/album/5zQ0e4LOaQtpufJfc2UfhG"
+      },
+      "artists": [
+        {
+          "name": "Sutura",
+          "url": "https://open.spotify.com/artist/6X0y1bjikKBQj3CeOmcGzl"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108166,
+      "name": "Miele",
+      "url": "https://open.spotify.com/track/3y5IaXoi0tJ8LY8CVc1yYQ"
+    },
+    {
+      "album": {
         "name": "MIGRAINE",
         "url": "https://open.spotify.com/album/2nsO3VsncuuvdWupY5obtR"
       },
@@ -28738,7 +28922,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 213703,
       "name": "Miserable (feat. Jax)",
       "url": "https://open.spotify.com/track/2pVh4N8X6nJaUOdhXHBkTJ"
@@ -30009,6 +30193,24 @@
     },
     {
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/7z4Q4ICouWxiuYDW9ItDnV"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/4Gn57YYtIUx3acmDkClIe3"
+    },
+    {
+      "album": {
         "name": "Negative Spaces",
         "url": "https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew"
       },
@@ -30544,7 +30746,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 201093,
       "name": "NIGHTWALKING",
       "url": "https://open.spotify.com/track/3H37OXMRvC4GXzk1BkchI5"
@@ -30944,7 +31146,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 165812,
       "name": "no respect for knights",
       "url": "https://open.spotify.com/track/4vTnE4gWC62aXvnTvRuL4H"
@@ -34600,6 +34802,24 @@
       "duration_ms": 174091,
       "name": "Premium Offer",
       "url": "https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5Kn1S3vkiu4aP9Q83Oz4kE"
+      },
+      "artists": [
+        {
+          "name": "SPACED",
+          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119312,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3qzs3hcD6B92d1rX4lahlG"
     },
     {
       "album": {
@@ -40490,7 +40710,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 228750,
       "name": "Space Cow Initiation Ritual - feat. George Clinton",
       "url": "https://open.spotify.com/track/3xkZWW1M6mWMmH1i8KFU4r"
@@ -41452,6 +41672,24 @@
       "duration_ms": 227800,
       "name": "Straight North",
       "url": "https://open.spotify.com/track/0WD8ywsPXohkwI5Zcuf46j"
+    },
+    {
+      "album": {
+        "name": "Straight Up (Needy)",
+        "url": "https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194273,
+      "name": "Straight Up (Needy)",
+      "url": "https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96"
     },
     {
       "album": {
@@ -43046,7 +43284,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 312106,
       "name": "Tarantella Bang Boom",
       "url": "https://open.spotify.com/track/7tnvowpfMBawabFgAW4ouv"
@@ -44522,7 +44760,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 129157,
       "name": "THE MESSAGE",
       "url": "https://open.spotify.com/track/4GHuRAoRKREVuSQ1aLV8rr"
@@ -46602,7 +46840,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 192087,
       "name": "Truth",
       "url": "https://open.spotify.com/track/3qO1aPC7smPGfQbjeoZ4JI"
@@ -47136,7 +47374,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 218583,
       "name": "Under My Sweater",
       "url": "https://open.spotify.com/track/0FwIOUwj2GLeJkbZyKaa3T"
@@ -48073,6 +48311,24 @@
     },
     {
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/694veyemi5wiq7zya4DZiz"
+      },
+      "artists": [
+        {
+          "name": "Dance! No Thanks",
+          "url": "https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140703,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/396qudK4x9iiOU6MdXKXIi"
+    },
+    {
+      "album": {
         "name": "Promo",
         "url": "https://open.spotify.com/album/434lCxSNAdySUN4kUElEBH"
       },
@@ -48615,6 +48871,24 @@
     },
     {
       "album": {
+        "name": "Way Of War",
+        "url": "https://open.spotify.com/album/1bdXieEliBYO906XrHXsqL"
+      },
+      "artists": [
+        {
+          "name": "Agnostic Front",
+          "url": "https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108560,
+      "name": "Way Of War",
+      "url": "https://open.spotify.com/track/72StHUuOndV4b0mHURRxss"
+    },
+    {
+      "album": {
         "name": "Life Knife Death",
         "url": "https://open.spotify.com/album/1SlQPaU1esKVJYTbAsoQEY"
       },
@@ -49034,6 +49308,28 @@
       "duration_ms": 95859,
       "name": "What a Time To Be Alive",
       "url": "https://open.spotify.com/track/3wprwDc4bv5sVzDd7UzRT3"
+    },
+    {
+      "album": {
+        "name": "What Are We Doing This For (feat. Codefendants)",
+        "url": "https://open.spotify.com/album/2p1N83Rk1luMeQ2Ml99u6y"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        },
+        {
+          "name": "Codefendants",
+          "url": "https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100935,
+      "name": "What Are We Doing This For (feat. Codefendants)",
+      "url": "https://open.spotify.com/track/3gqq3eT4HQX7nIxCf2qFTa"
     },
     {
       "album": {
@@ -49746,7 +50042,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 172242,
       "name": "Who\u2019s Having Fun?",
       "url": "https://open.spotify.com/track/3AQU5I1rfYAPorSF4RyK31"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124944,
+  "num_followers": 124938,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUnX6yRh44J8Fzy90dAiK5S2ZSU8UZ",
+  "snapshot_id": "AAAUnjmDtNOFYf2F9Nn5OiO+jpRkQYMC",
   "tracks": [
+    {
+      "added_at": "2025-09-25 14:31:26",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/65SyuCYsdqZOb9I2dP0bWF"
+      },
+      "artists": [
+        {
+          "name": "Rogue",
+          "url": "https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/2hxlj6BdJA603Ahho8fLDH"
+    },
     {
       "added_at": "2025-09-24 14:59:48",
       "album": {

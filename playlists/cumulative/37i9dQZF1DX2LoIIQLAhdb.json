@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay x Lisandro Cuxi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Fav\u00e9 x Genezio",
   "name": "R&Bae",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 173584,
       "name": "Beau Paquet",
       "url": "https://open.spotify.com/track/0fyF6Y58nnilOdnLXKpj6q"
@@ -3665,6 +3665,24 @@
     },
     {
       "album": {
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/2jIRGKWZo5jSEYZHsBmEVE"
+      },
+      "artists": [
+        {
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/61LVhMPgCbxP40EGyJSHy9"
+    },
+    {
+      "album": {
         "name": "SUAVE Tome 1",
         "url": "https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI"
       },
@@ -4376,7 +4394,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-26",
       "duration_ms": 205080,
       "name": "Je t\u2019aime n\u2019est pas assez fort",
       "url": "https://open.spotify.com/track/4hkDLIDklIRQiJEHQouKJu"
@@ -9756,6 +9774,28 @@
       "duration_ms": 162453,
       "name": "TPMP",
       "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"
+    },
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/null"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien"
     },
     {
       "album": {

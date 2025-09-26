@@ -4,7 +4,7 @@
 
 > Dance remixes of popular songs!
 
-174 songs - 7 hr 41 min
+176 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Get Busy \- Odd Mob Club Mix](https://open.spotify.com/track/6u6vaQoR0IXCWRSOP7h7D6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Get Busy \(Odd Mob Club Mix\)](https://open.spotify.com/album/0tzUcNV1CNq8D6JYS2wosW) | 2:45 | 2025-07-10 |  |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \[feat\. Tess Burrstone\]](https://open.spotify.com/track/6dndwe8gKSzP8IYJqTlskt) | [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Niteblue](https://open.spotify.com/artist/16LeQrs9jKCO8owOMQsJmM), [Tess Burrstone](https://open.spotify.com/artist/3QPKvs3fg48SjSF3Kglpwy) | [Gimme! Gimme! Gimme! \(A Man After Midnight\) \[feat\. Tess Burrstone\]](https://open.spotify.com/album/3WJPdDimFpDHq2kgRvuA5S) | 2:15 | 2025-07-10 |  |
 | [Girlz Wanna Have Fun](https://open.spotify.com/track/1jrMuGmKdmS3lRIjhAcFrq) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Stavros Martina](https://open.spotify.com/artist/17ynEC4GysdLM4R66FmghW), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 2:30 | 2025-07-10 |  |
+| [Give It To Me 2025](https://open.spotify.com/track/2SXIxc92q42M6lMCfQ8hKL) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Give It To Me 2025](https://open.spotify.com/album/0tPiQFFUeHaHJ2FPOcPHcS) | 2:41 | 2025-09-25 |  |
 | [Good Luck, Babe!](https://open.spotify.com/track/4TPPDczoGEUvPTtPFEk3tZ) | [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj) | [Good Luck, Babe!](https://open.spotify.com/album/6hWUrjf1b9cGibtojcaNw8) | 2:29 | 2025-07-10 |  |
 | [He's A Pirate](https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [He's A Pirate](https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo) | 3:03 | 2025-07-10 |  |
 | [Heaven Is A Place On Earth](https://open.spotify.com/track/6FAmtZoa7jq6bH9GBjCRkM) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Heaven Is A Place On Earth](https://open.spotify.com/album/12aiQyL5DQ1lPNwOqfiiFM) | 2:45 | 2025-07-10 |  |
@@ -126,6 +127,7 @@
 | [Rock That Body](https://open.spotify.com/track/3eh8mblaSUb8n3PnvmRyyy) | [Techno Mike](https://open.spotify.com/artist/4AnuN6Wz6nC0eRPPW4OuDt) | [Rock That Body](https://open.spotify.com/album/3wTJsgDJG4c0SgD4K2NU3A) | 2:09 | 2025-07-10 |  |
 | [Rockstar](https://open.spotify.com/track/42POjsPo5E1ISxx6eLX2bw) | [Nils Van Zandt](https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj) | [Rockstar](https://open.spotify.com/album/4igdkPx0mi5tvelrDp7dK9) | 2:30 | 2025-07-10 |  |
 | [Rude Boy](https://open.spotify.com/track/4BejhNw8vSXf7BwVy9Osmj) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Rude Boy](https://open.spotify.com/album/3qlpSfP5AHTpYGnCmBCf99) | 2:39 | 2025-07-10 |  |
+| [Safe And Sound](https://open.spotify.com/track/4Xno765v5rim1TyNlzbxyy) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Safe And Sound](https://open.spotify.com/album/2TwDCrPMCCjFyRj58GFCzM) | 3:02 | 2025-09-25 |  |
 | [Sandstorm](https://open.spotify.com/track/7y4tJW2HkfMWNKf4HAECZT) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Flip Capella](https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz) | [Sandstorm](https://open.spotify.com/album/2HU6E0dRXBfytbvDrUwWcx) | 2:26 | 2025-07-10 |  |
 | [Satisfaction](https://open.spotify.com/track/0lwyzp7GppQxv0Eu6wRkUo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/70dWN40gJXCrmc7CDMYqtT) | 2:35 | 2025-07-10 |  |
 | [Say My Name](https://open.spotify.com/track/4tIMdH3mXwtdNheYrm6lah) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Say My Name](https://open.spotify.com/album/2CBDCccwib8dlgkcKfpuEF) | 2:36 | 2025-07-10 |  |
