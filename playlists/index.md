@@ -1,4 +1,4 @@
-## Playlists \(8780\)
+## Playlists \(8782\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -609,6 +609,7 @@
 - [Anthologie du Rock Français](/playlists/pretty/37i9dQZF1DX6L1CUnSfVed.md)
 - [Antidomingo](/playlists/pretty/37i9dQZF1DWU4vz8xTaZmg.md)
 - [Antiestrés](/playlists/pretty/37i9dQZF1DX39FzqwAhZEK.md)
+- [Antimatter \- a radio mixtape](/playlists/pretty/0H4GV8vMFV1wLkuywC64LE.md)
 - [Aperitivo Time](/playlists/pretty/37i9dQZF1DWZLhUfNQOQ1p.md)
 - [Apple Cider Vinegar Official Playlist](/playlists/pretty/37i9dQZF1DX2n9ZnoiY98G.md)
 - [Après Ski Classics](/playlists/pretty/37i9dQZF1DX0nBLMN0XzSQ.md)
@@ -1702,6 +1703,7 @@
 - [Dangdut Top](/playlists/pretty/37i9dQZF1DWUWbdikWtt34.md)
 - [Danger Mouse Jukebox](/playlists/pretty/1cAHI20k456593GCBNqzw6.md)
 - [Daniel Adams\-Ray](/playlists/pretty/6c51ZkUk7wO3Icy2sW3jvA.md)
+- [Daniel's sick fuckin tunes](/playlists/pretty/38dPTe2LkN0H6VPPoudBLv.md)
 - [Danielle Brooks' Taste](/playlists/pretty/37i9dQZF1DX9wkhxf6fGZk.md)
 - [Dans runt stången](/playlists/pretty/37i9dQZF1DWX6s7PHJnk94.md)
 - [Danzón](/playlists/pretty/37i9dQZF1DXaEjxFSjeD5H.md)
