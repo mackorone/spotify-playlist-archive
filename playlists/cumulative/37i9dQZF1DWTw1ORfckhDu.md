@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯  Kannessa Alina Burnet.
 
-1,011 songs - 1 day 23 hr 58 min
+1,011 songs - 2 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,7 +891,6 @@
 | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu \(with pehmoaino\)](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 |  |
 | [TOXIC B \(pidämustkii\)](https://open.spotify.com/track/32cwVMP4pZtxtf7weKt8E3) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [CAKE](https://open.spotify.com/album/0jt1rOi0cB3fNZOJjhBv5h) | 2:58 | 2024-01-11 | 2024-02-23 |
 | [Toxic Mami](https://open.spotify.com/track/1TtJce46FJzvOEYQPRywyd) | [SVANI](https://open.spotify.com/artist/3DUvsq0GmOqz0qfIIrdjio) | [Toxic Mami](https://open.spotify.com/album/1pHANfdHmhxpzUZDJ3X48L) | 2:24 | 2024-05-16 | 2024-07-02 |
-| [Track 5](https://open.spotify.com/track/6vQkW2jlMS74V7123wsN7x) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Tragedian Lyhyt Oppimäärä](https://open.spotify.com/track/6Vr8roAlaX2xFBV3juRJ5S) | [Pijall](https://open.spotify.com/artist/0CfkmCl2XN2IWxYcMzPMlq) | [MINNESOTA](https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW) | 3:42 | 2023-10-05 | 2023-10-20 |
 | [TRAP PRINSESSA](https://open.spotify.com/track/7ubxbH63j6aRQYZq00Of9Z) | [MOMO](https://open.spotify.com/artist/5rTVXZeHuD0wYlEfNU53Qq) | [TRAP PRINSESSA](https://open.spotify.com/album/3Drp0KbEo6fBW8fKenUuM8) | 2:50 | 2025-08-28 | 2025-09-13 |
 | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/track/3ru8ZqaLhygUIXQ9lXtqfK) | [Leo Luthando](https://open.spotify.com/artist/5XJUyK4GPxQx9744MvnFy6), [Louhi](https://open.spotify.com/artist/4hixqE8xjQRUmqgNTRtwYk) | [Trapetsitaiteilen \(feat\. Louhi\)](https://open.spotify.com/album/3sdWeACOIdDc2meu2TiEU5) | 2:33 | 2024-04-18 | 2024-05-03 |
@@ -933,6 +932,7 @@
 | [UUS](https://open.spotify.com/track/5IYMahsAnjJknOGdr3V16q) | [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF), [678NATH](https://open.spotify.com/artist/6GbJj21JT9bkzYnu5FGscf) | [UUS](https://open.spotify.com/album/0CZ76qgIW100rjOVjgqQw2) | 2:33 | 2025-03-20 | 2025-04-11 |
 | [Uus frendi](https://open.spotify.com/track/1ptY1hL1ErLsnv2RN0dDQK) | [Pyzze](https://open.spotify.com/artist/3iTmpLBQG2vcR7eywDGAUZ) | [Uus frendi](https://open.spotify.com/album/7bW22O1ODwkWpQyk5CvamR) | 3:03 | 2025-03-06 | 2025-04-04 |
 | [UUS VUOS SAMA MÄ](https://open.spotify.com/track/6lrdUifi9Bym7R22HtXbP8) | [Jodahe](https://open.spotify.com/artist/47bHkMN3v678TKL5Tku7mF) | [UUS VUOS SAMA MÄ](https://open.spotify.com/album/2JquxU9arQ3QQkqAGh8Jy7) | 2:34 | 2024-01-25 | 2024-02-02 |
+| [V I I M E I N E N S E I N Ä](https://open.spotify.com/track/6vQkW2jlMS74V7123wsN7x) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o) | [J U L M A H E N R I : S I N I N E N](https://open.spotify.com/album/5CPmiHJM18LC8PWRK1Z1DC) | 4:17 | 2025-09-25 |  |
 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 | 2024-11-14 | 2025-01-11 |
 | [vaaleenpunainen tuuli](https://open.spotify.com/track/5dkQgHTiFMq3x5gWFpSi9L) | [Pesso](https://open.spotify.com/artist/4YfzUV6h9GosDhtdLkwGwN) | [sadboi](https://open.spotify.com/album/4dXT10ipv9kGWJZpcHPSDC) | 2:31 | 2024-03-07 | 2024-03-22 |
 | [Vaan sä](https://open.spotify.com/track/01yA7KxtfCIonnl9BE7ayr) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Vaan sä](https://open.spotify.com/album/02mV5H3nlWdAvppMrx9TQ1) | 2:42 | 2024-02-15 | 2024-05-10 |

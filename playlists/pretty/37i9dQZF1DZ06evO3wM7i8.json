@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 34968,
+  "num_followers": 34977,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAC4qxXY9zWhD5nDwzLPRC+o",
+  "snapshot_id": "aNSGAAAAAAAKolxDZQT1++sg5p+uTOqv",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Star Sessions",
-        "url": "https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/3C9bNCnxHvUEVELsUvKGyy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -511,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Star Sessions",
+        "url": "https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/3C9bNCnxHvUEVELsUvKGyy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "War Clouds 1940",
         "url": "https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx"
       },
@@ -527,6 +527,42 @@
       "duration_ms": 163226,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Django Reinhardt",
+        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
+      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Django Reinhardt",
+        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "You Rascal You",
+      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
     },
     {
       "added_at": null,
@@ -579,42 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Django Reinhardt",
-        "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "You Rascal You",
-      "url": "https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Django Reinhardt",
-        "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "Improvisation on Tchaikowsky's \"Path\u00e9tique\" Andante",
-      "url": "https://open.spotify.com/track/0rdAWZxySL8eghoM6TMK9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limitless Jazz, Vol. 32",
         "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 153693,
       "name": "I Got Rhythm",
       "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Limitless Jazz, Vol. 31",
-        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     },
     {
       "added_at": null,
@@ -675,6 +655,26 @@
       "duration_ms": 157840,
       "name": "Ol' Man River",
       "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 31",
+        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
       "duration_ms": 171106,
       "name": "Nagasaki",
       "url": "https://open.spotify.com/track/5zS3m7o4vo7ppWbc5sMjyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol7 / 1937 - 1938",
-        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Farewell Blues",
-      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
     },
     {
       "added_at": null,
@@ -795,26 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis Blues",
-        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+        "name": "Djangologie Vol7 / 1937 - 1938",
+        "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
       "artists": [
         {
-          "name": "Quintette du Hot Club de France",
-          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
-        },
-        {
-          "name": "St\u00e9phane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 154548,
-      "name": "Swing from Paris",
-      "url": "https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf"
+      "duration_ms": 194400,
+      "name": "Farewell Blues",
+      "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
     },
     {
       "added_at": null,
@@ -859,6 +835,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "St. Louis Blues",
+        "url": "https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2"
+      },
+      "artists": [
+        {
+          "name": "Quintette du Hot Club de France",
+          "url": "https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn"
+        },
+        {
+          "name": "St\u00e9phane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 154548,
+      "name": "Swing from Paris",
+      "url": "https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.12 / 1940 - 1941",
         "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
       },
@@ -895,6 +895,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "European Swing Giants, Vol.9: Django Reinhardt, Vol. 2,The HMV / Electrola Sessions (Recorded 1936-1937 in Paris) and Django in Brussels (The RhythmeSessions Part 2, Recorded 1942)",
+        "url": "https://open.spotify.com/album/0NORmBz3eeTDS57d8wIvGU"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Freddie Taylor",
+          "url": "https://open.spotify.com/artist/4R98XdySyxwAaEcpkkFO5j"
+        },
+        {
+          "name": "Stephan Grapelly",
+          "url": "https://open.spotify.com/artist/4bNXDGfNR9bMJWOfLJZZtv"
+        },
+        {
+          "name": "Hot Club de France Quintet",
+          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/1CXMkdwJV9TL20PBIUiWHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -927,34 +955,6 @@
       "duration_ms": 185482,
       "name": "September Song",
       "url": "https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "European Swing Giants, Vol.9: Django Reinhardt, Vol. 2,The HMV / Electrola Sessions (Recorded 1936-1937 in Paris) and Django in Brussels (The RhythmeSessions Part 2, Recorded 1942)",
-        "url": "https://open.spotify.com/album/0NORmBz3eeTDS57d8wIvGU"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Freddie Taylor",
-          "url": "https://open.spotify.com/artist/4R98XdySyxwAaEcpkkFO5j"
-        },
-        {
-          "name": "Stephan Grapelly",
-          "url": "https://open.spotify.com/artist/4bNXDGfNR9bMJWOfLJZZtv"
-        },
-        {
-          "name": "Hot Club de France Quintet",
-          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/1CXMkdwJV9TL20PBIUiWHE"
     },
     {
       "added_at": null,
@@ -999,6 +999,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinhardt, Django: Swingin' With Django (1937)",
+        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
+      },
+      "artists": [
+        {
+          "name": "Ted Snyder",
+          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
+        },
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Hot Club de France Quintet",
+          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "The Sheik of Araby",
+      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 181009,
       "name": "Viper's Dream",
       "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinhardt, Django: Swingin' With Django (1937)",
-        "url": "https://open.spotify.com/album/5yLgvyZmjjKpGfwVoPS3Ty"
-      },
-      "artists": [
-        {
-          "name": "Ted Snyder",
-          "url": "https://open.spotify.com/artist/3EHU46gc1iN9wYecT3uFRs"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Hot Club de France Quintet",
-          "url": "https://open.spotify.com/artist/4eFuQsZBH24bpZruMJ2ZPj"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "The Sheik of Araby",
-      "url": "https://open.spotify.com/track/4t30z7yPGvIyrybsuykDnA"
     }
   ],
   "unique_name": "This Is Django Reinhardt",

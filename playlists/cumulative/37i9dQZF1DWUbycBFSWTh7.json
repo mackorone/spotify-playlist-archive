@@ -6473,6 +6473,28 @@
     },
     {
       "album": {
+        "name": "Movin shadow (Doug Gomez remix)",
+        "url": "https://open.spotify.com/album/6A1BOJiyrzP6DLQCMOz3UZ"
+      },
+      "artists": [
+        {
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+        },
+        {
+          "name": "Doug Gomez",
+          "url": "https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497279,
+      "name": "Movin shadow - Doug Gomez remix",
+      "url": "https://open.spotify.com/track/2wvkzel8o5FXLjAizeBtkU"
+    },
+    {
+      "album": {
         "name": "Mr Umbawa",
         "url": "https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ"
       },
@@ -6826,7 +6848,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 404863,
       "name": "Next 1 (Original Mix)",
       "url": "https://open.spotify.com/track/3ShraVrXIVKU4u4UIbzGHm"

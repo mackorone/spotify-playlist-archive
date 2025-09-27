@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Aerosmith & YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,278 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,271 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 8 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 9 | [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 |
 | 10 | [Bitch](https://open.spotify.com/track/375yACL0bMGmcgr1cY62r3) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Bitch](https://open.spotify.com/album/2uyUeKwzu56mjv1jpII4wE) | 3:49 |
-| 11 | [Roller](https://open.spotify.com/track/5sYrDEg5lcbIVMZ4dUko5d) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [](https://open.spotify.com/album/null) | 3:19 |
+| 11 | [Roller](https://open.spotify.com/track/5sYrDEg5lcbIVMZ4dUko5d) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [I Only Trust Rock n Roll](https://open.spotify.com/album/2uUYr0m6SXcKGSNITJon46) | 3:19 |
 | 12 | [Making Love to Morgan Wallen](https://open.spotify.com/track/7Ki2fTfTdDhqY2AY8muY5z) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Making Love to Morgan Wallen](https://open.spotify.com/album/5gnSTqbBS89Ekjl6urNeyM) | 4:09 |
 | 13 | [Flood](https://open.spotify.com/track/7mkOTx13FFvCad61vbAIcT) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Flood](https://open.spotify.com/album/1yRHBzcfygy0krP0wqVwk7) | 3:33 |
 | 14 | [Barn Boiler](https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [The Clip](https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i) | 2:45 |
 | 15 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 |
 | 16 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
 | 17 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 |
-| 18 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [](https://open.spotify.com/album/null) | 4:53 |
-| 19 | [Kickin' Stones](https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [](https://open.spotify.com/album/null) | 3:07 |
+| 18 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 |
+| 19 | [Kickin' Stones](https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Endemic Intelligence in Multiple Dimensions](https://open.spotify.com/album/1N2LHCJgUEy8GzXItAuNKg) | 3:07 |
 | 20 | [The Headache](https://open.spotify.com/track/67A1kIgbpNZM3Ls7mswvu8) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [The Headache](https://open.spotify.com/album/3HtBoi74E38TJ3Ve6H7fhj) | 3:19 |
 | 21 | [Leading Man Lost](https://open.spotify.com/track/4wZxHzPJms8QYluw0P1wpx) | [Selve](https://open.spotify.com/artist/033lztbwXp7jXxOGHAkZOL) | [Breaking Into Heaven](https://open.spotify.com/album/4kJMoTLljEaIx8c7gX2JOX) | 4:12 |
 | 22 | [Heavy](https://open.spotify.com/track/7bOi2P9koS8GKmGBc8wjzU) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Heavy](https://open.spotify.com/album/3Jj1nEyuFd4AtWPq3C8UWe) | 3:20 |

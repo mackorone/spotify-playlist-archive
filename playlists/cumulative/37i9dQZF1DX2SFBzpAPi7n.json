@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/1mhkm2sS4ZCj2u7yHsVmBH"
+      },
+      "artists": [
+        {
+          "name": "Yerin",
+          "url": "https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/0jkTfpiISLOLYnIozYBX0x"
+    },
+    {
+      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/59esV4FoIJ7g7dhnNVELV0"
       },
@@ -15164,7 +15182,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 173986,
       "name": "STAY",
       "url": "https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY"
@@ -16620,6 +16638,24 @@
       "duration_ms": 235068,
       "name": "Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "album": {
+        "name": "Starring",
+        "url": "https://open.spotify.com/album/3WWuYymsLHKjtLto36KMgt"
+      },
+      "artists": [
+        {
+          "name": "Odd Child",
+          "url": "https://open.spotify.com/artist/0aGwF3cPLmQYsl9gI1lvkC"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223181,
+      "name": "Tongue",
+      "url": "https://open.spotify.com/track/2rEyMH1vFbgJYrscOshMRP"
     },
     {
       "album": {
@@ -18872,7 +18908,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 232558,
       "name": "\ub098\ubb34",
       "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"

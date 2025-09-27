@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next and now. Cover: <a href=\"spotify:artist:0V5bkwV2Bd90bMLMc8JFeS\">IShowSpeed</a> ",
+  "description": "They got next and now. Cover: <a href=\"spotify:artist:2nQ17oZU3rP09w7d17VK8H\">Bri3</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -2152,6 +2152,24 @@
       "duration_ms": 138000,
       "name": "Badder Not Sadder",
       "url": "https://open.spotify.com/track/1TtBDWugbqv4YrSMAUffeT"
+    },
+    {
+      "album": {
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
       "album": {
@@ -6478,7 +6496,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-13",
+      "date_removed": null,
       "duration_ms": 110000,
       "name": "Don\u2019t hide",
       "url": "https://open.spotify.com/track/6yJIO8264hq1hCbBLU0C0X"
@@ -6532,7 +6550,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 230422,
       "name": "DoorDash (OMG)",
       "url": "https://open.spotify.com/track/232iuFiP4VgYBfnpFdj10t"
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 147930,
       "name": "Eatcha Beatcha",
       "url": "https://open.spotify.com/track/4Drf6OvnI5IYz4EezDzfDD"
@@ -15741,6 +15759,24 @@
     },
     {
       "album": {
+        "name": "on point",
+        "url": "https://open.spotify.com/album/45hDUiwhiTYMWlhRnk0c6h"
+      },
+      "artists": [
+        {
+          "name": "Mark Lux",
+          "url": "https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152988,
+      "name": "on point",
+      "url": "https://open.spotify.com/track/59kHIvX9m7qOCFxB83gFyc"
+    },
+    {
+      "album": {
         "name": "On Stream",
         "url": "https://open.spotify.com/album/6lfKqx0AfYxIy17ouiUneQ"
       },
@@ -16136,6 +16172,32 @@
       "duration_ms": 184786,
       "name": "Our Roots Run Deep",
       "url": "https://open.spotify.com/track/3Wsb8BqisZpCO3ijhENBBa"
+    },
+    {
+      "album": {
+        "name": "OUT OF BODY",
+        "url": "https://open.spotify.com/album/7x6qypoQDpE5T6TRb8xaPP"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170555,
+      "name": "OUT OF BODY (with Jadagrace & SWIM)",
+      "url": "https://open.spotify.com/track/6GqNp8PdHvA0B8t5r8yhwL"
     },
     {
       "album": {
@@ -16973,6 +17035,24 @@
     },
     {
       "album": {
+        "name": "Pluto Walk",
+        "url": "https://open.spotify.com/album/60FZpuXlhZlNyhfRPAD8FL"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113548,
+      "name": "Pluto Walk",
+      "url": "https://open.spotify.com/track/2taDBAJbGHAQ9O0JvWiCIU"
+    },
+    {
+      "album": {
         "name": "It's Us Vol. 1",
         "url": "https://open.spotify.com/album/7iu39QtyLQsDV4YpxviiHm"
       },
@@ -17028,7 +17108,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 269024,
       "name": "Pookie Lean",
       "url": "https://open.spotify.com/track/2kIU0TblZjK5HtCaqjxD6d"
@@ -17816,7 +17896,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 135307,
       "name": "PUT DEM BOYS TO SLEEP",
       "url": "https://open.spotify.com/track/7lHXNobpwMd4Y3B7Iy7zAC"
@@ -18874,7 +18954,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 188385,
       "name": "Scared (Sped Up)",
       "url": "https://open.spotify.com/track/1A5ZBWvo9on4M6lxFS99l3"
@@ -20544,6 +20624,24 @@
       "duration_ms": 143092,
       "name": "SportsCenter",
       "url": "https://open.spotify.com/track/0ouOFAkST5sCy2f2XLJHdP"
+    },
+    {
+      "album": {
+        "name": "SPREAD LIKE BUTTA",
+        "url": "https://open.spotify.com/album/2rQJPcTuWA4LVLZcI5FD3c"
+      },
+      "artists": [
+        {
+          "name": "Yakiyn",
+          "url": "https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196230,
+      "name": "SPREAD LIKE BUTTA",
+      "url": "https://open.spotify.com/track/3aM2zpF4Etyk1ObwPj8Rzk"
     },
     {
       "album": {
@@ -23936,7 +24034,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 156000,
       "name": "What Da Fuk",
       "url": "https://open.spotify.com/track/46e5RkqWEBRLebmdCK9t7o"

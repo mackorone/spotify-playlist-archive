@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -9240,7 +9240,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 172772,
       "name": "Cai de Perna Aberta 2",
       "url": "https://open.spotify.com/track/0RF8xGzjPcsZPI4lnfA3YH"
@@ -12676,7 +12676,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 163411,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
@@ -18647,6 +18647,24 @@
     },
     {
       "album": {
+        "name": "Elecciones Victor M",
+        "url": "https://open.spotify.com/album/47WvUwzvCyZbbBo6wj4SRO"
+      },
+      "artists": [
+        {
+          "name": "VICTOR TUMBADO",
+          "url": "https://open.spotify.com/artist/2pDKS1dWNHpz8OyLKtq5Qf"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135024,
+      "name": "Elecciones Victor M",
+      "url": "https://open.spotify.com/track/5K9ujU6oMzV5UxyHKhaWok"
+    },
+    {
+      "album": {
         "name": "UNA VALIJA EN SENTIMIENTO",
         "url": "https://open.spotify.com/album/4Cq3dLOhKEoRDMekEJF4aY"
       },
@@ -22572,7 +22590,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "Fuera del Planeta - Remix",
       "url": "https://open.spotify.com/track/56innU0z9irTs1uEVbbrBA"
@@ -22796,7 +22814,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 197226,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL"
@@ -24210,7 +24228,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 255625,
       "name": "Gyal Guayna De Espalda",
       "url": "https://open.spotify.com/track/3DNTc0lLlNLhQtQa56UAwe"
@@ -25188,7 +25206,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS"
@@ -25206,7 +25224,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 242484,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr"
@@ -34316,7 +34334,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -35750,6 +35768,28 @@
       "duration_ms": 175066,
       "name": "Me Vas a Echar de Menos",
       "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
+    },
+    {
+      "album": {
+        "name": "Me Vieron Llorar",
+        "url": "https://open.spotify.com/album/5HkEv5NhInPLBBa8JIpM4F"
+      },
+      "artists": [
+        {
+          "name": "Angel Cano the Producer",
+          "url": "https://open.spotify.com/artist/22mjOGfOfpjkv43swbvlhZ"
+        },
+        {
+          "name": "Padrino el Capo",
+          "url": "https://open.spotify.com/artist/6NbuqqRkfzExZTsNQyCSzV"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235006,
+      "name": "Me Vieron Llorar",
+      "url": "https://open.spotify.com/track/7e981FyJSKC4rO9VgXrDC7"
     },
     {
       "album": {
@@ -43038,7 +43078,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 141558,
       "name": "Orula Capitambo",
       "url": "https://open.spotify.com/track/748rL9PxQ6KWvSwEDTHpmH"
@@ -46462,7 +46502,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 186142,
       "name": "POR SUS BESOS",
       "url": "https://open.spotify.com/track/1eunv1DeEi29UfAcVEoLTt"
@@ -49480,7 +49520,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 227275,
       "name": "Rigo Campos",
       "url": "https://open.spotify.com/track/4ygbV86leUNtfCVUV0Mqod"
@@ -57342,7 +57382,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 160183,
       "name": "Tears",
       "url": "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4"
@@ -59134,7 +59174,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 188487,
       "name": "Todas Mienten",
       "url": "https://open.spotify.com/track/3n4WxHTolQrNMxhT5OiGHO"
@@ -60246,7 +60286,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 175059,
       "name": "Tu jard\u00edn con enanitos",
       "url": "https://open.spotify.com/track/6X8DTIJEgHUjZynuds0E2f"
@@ -67206,7 +67246,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 178293,
       "name": "Zundada de fondo",
       "url": "https://open.spotify.com/track/5JVcZypdXkwfZAmtTzJSRE"

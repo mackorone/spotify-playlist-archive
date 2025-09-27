@@ -468,7 +468,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 190310,
       "name": "Body",
       "url": "https://open.spotify.com/track/6fa3nIU8mkBkF1AZS2Vjeh"
@@ -4547,6 +4547,28 @@
     },
     {
       "album": {
+        "name": "Safe And Sound",
+        "url": "https://open.spotify.com/album/2TwDCrPMCCjFyRj58GFCzM"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/4Xno765v5rim1TyNlzbxyy"
+    },
+    {
+      "album": {
         "name": "Save Me (feat. Justin Jesso)",
         "url": "https://open.spotify.com/album/2gKYtPqTbomUPD3VmIZRFM"
       },
@@ -4921,6 +4943,28 @@
     },
     {
       "album": {
+        "name": "SPACE INVADER (SBTRKT Remix)",
+        "url": "https://open.spotify.com/album/6OMwyBafNAK4KS0yN4QI6b"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200865,
+      "name": "SPACE INVADER - SBTRKT Remix",
+      "url": "https://open.spotify.com/track/4DdEh0x1A1GB55nZbkp1c0"
+    },
+    {
+      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/4PRxkv5xFKdjAp2CNPmgct"
       },
@@ -5180,6 +5224,24 @@
       "duration_ms": 182343,
       "name": "The Final Countdown 2025",
       "url": "https://open.spotify.com/track/21bk4m2BIbuHZ6GKiPqFsG"
+    },
+    {
+      "album": {
+        "name": "purity ring",
+        "url": "https://open.spotify.com/album/4CLSkIclkaIeYSxRsPEU2H"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257595,
+      "name": "the long night",
+      "url": "https://open.spotify.com/track/7AeZhAgyiGG3e2B1MilbWP"
     },
     {
       "album": {

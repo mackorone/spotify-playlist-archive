@@ -1,13 +1,33 @@
 {
   "description": "Jazzy blips and blops. Cover: Theo Croker",
-  "num_followers": 581557,
+  "num_followers": 581540,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG/IQbalnmrmMCYCRtRGsVj6KIKT",
+  "snapshot_id": "AAAAAFn/Hz+MRDT0FJQNA78ohN/5xaDv",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:30",
+      "album": {
+        "name": "The Curse (Blood Of An Innocent Is Spilled) [Remix]",
+        "url": "https://open.spotify.com/album/4ELWQoaKlRfyTn3DU6ThV5"
+      },
+      "artists": [
+        {
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
+        },
+        {
+          "name": "Shhau",
+          "url": "https://open.spotify.com/artist/5lGmqgqW47rK8j5h89o493"
+        }
+      ],
+      "duration_ms": 395193,
+      "name": "The Curse (Blood Of An Innocent Is Spilled) - Remix",
+      "url": "https://open.spotify.com/track/6MPLwGUU6XDWGAb5nvZe08"
+    },
     {
       "added_at": "2025-08-01 04:00:21",
       "album": {
@@ -3319,22 +3339,6 @@
       "duration_ms": 188000,
       "name": "Panspermia",
       "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
-      "added_at": "2021-03-12 05:00:00",
-      "album": {
-        "name": "PPL -PingPongLounge-",
-        "url": "https://open.spotify.com/album/4pxiAlpT6JAnUltiA33cmr"
-      },
-      "artists": [
-        {
-          "name": "LADAISLE",
-          "url": "https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r"
-        }
-      ],
-      "duration_ms": 114078,
-      "name": "PPL -PingPongLounge-",
-      "url": "https://open.spotify.com/track/6ACvAgc7FB9uBo3JKfnomk"
     },
     {
       "added_at": "2023-04-28 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring dove ellis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,286 likes - 112 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,273 likes - 112 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 111 | [Holy Water](https://open.spotify.com/track/1KzTsAzc0ikZdjAvpiKL6v) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [Holy Water](https://open.spotify.com/album/32W3rqgBhPjZCJnRvU6V8k) | 3:00 |
 | 112 | [Spring](https://open.spotify.com/track/0I1525aRa6oK8rtxzC3OUD) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd) | [Spring](https://open.spotify.com/album/7LvC0VxdL09dvXV3jxXY88) | 3:34 |
 
-Snapshot ID: `AAAAAAHYhaIuc/htWu4T7RVfkMec9vxx`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

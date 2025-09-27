@@ -4,7 +4,7 @@
 
 > Le meilleur de l'indie français\. Cover : Oscar Anton
 
-714 songs - 1 day 14 hr 22 min
+714 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [novembre](https://open.spotify.com/track/30icGaTYAoxKjczSHfoSG2) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [novembre](https://open.spotify.com/album/66VkskaQjFwIhORK51Ke6S) | 3:05 | 2022-12-01 | 2023-03-10 |
 | [Nu.e](https://open.spotify.com/track/1Q8zfQSuxdnCay1qjkPuMA) | [Charlotte Fever](https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX) | [Nu.e](https://open.spotify.com/album/2h3p6rosTEpGrPdrcAbBIS) | 2:47 | 2023-05-04 | 2023-06-09 |
 | [Nuit agitée](https://open.spotify.com/track/0n7r4I54aTWmzM0uyvqWiY) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Nuits Agitées](https://open.spotify.com/album/25f4SfEIX7hktBVYtfAqL1) | 3:12 | 2023-03-09 | 2023-09-22 |
+| [Nuit Infinie](https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Nuit infinie](https://open.spotify.com/album/1PWuT3PMla7PAnscyX1svZ) | 4:11 | 2025-09-25 |  |
 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 | 2025-08-28 |  |
 | [Nuits bleues](https://open.spotify.com/track/7kVEesbz7C9LuiY8P2GuCW) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3), [Kyana](https://open.spotify.com/artist/1xOGqfYHZ2N0C06PzHE1dx) | [Nuits bleues](https://open.spotify.com/album/0kwjlPh5rxVb4EwvbZhy2H) | 2:42 | 2025-05-15 |  |
 | [Number One](https://open.spotify.com/track/6ktLCmYaTP5JMw16rygPsb) | [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Number One](https://open.spotify.com/album/15hEZKknkulVcdto8LjlGI) | 3:35 | 2023-09-07 | 2023-10-20 |
@@ -647,9 +648,6 @@
 | [Tout tout](https://open.spotify.com/track/5sZtirdGoDKeQ70hQX2W1M) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [Tout tout](https://open.spotify.com/album/0xGZ5eae8XAktN3zgVuB80) | 3:31 | 2025-07-24 | 2025-09-20 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
 | [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 | 2025-02-14 |
-| [Track 2](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
-| [Track 5](https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
-| [Track 5](https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |
@@ -672,6 +670,7 @@
 | [United](https://open.spotify.com/track/7mYRC0kv4oI7ipqoPT8aXM) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN) | [United](https://open.spotify.com/album/3yJ1VIZjUuXHdkE7ECLcWz) | 3:48 | 2021-12-16 | 2022-01-21 |
 | [Valencia](https://open.spotify.com/track/0YM0eV5uAlAyv2LPiqWiuV) | [Clément Froissart](https://open.spotify.com/artist/7b6v5ZQ3Hg7fPFhchvNoTt) | [Valencia](https://open.spotify.com/album/0EErwInSDJNkOkkhqVOkgS) | 3:57 | 2024-04-18 | 2024-07-05 |
 | [Vendredi](https://open.spotify.com/track/4t4yg2KLRIJtM4dzU277LW) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:14 | 2025-01-09 | 2025-03-21 |
+| [Venise](https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Grand garçon](https://open.spotify.com/album/2AK7nqCqZF8KoE1tidTKB8) | 3:23 | 2025-09-25 |  |
 | [VENUS](https://open.spotify.com/track/6pWVce5c6JXqFfl7JfJBnl) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [LONGO MAÏ](https://open.spotify.com/album/1e6H42WI9oJ8rOSYDjrIcf) | 3:03 | 2022-06-02 | 2022-09-16 |
 | [Venus](https://open.spotify.com/track/0XVfjgNXQN5TFZM5tODTSk) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Rock Machine](https://open.spotify.com/album/0DmfmHvNTUhaCXKY3JlceI) | 3:02 | 2024-10-10 | 2025-07-25 |
 | [Vertical Life](https://open.spotify.com/track/18xrN9c6ONI6RkcuKPUl9Y) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Vertical Life](https://open.spotify.com/album/2eLwJXkVQwEJmXt1a787VI) | 3:34 | 2025-06-26 | 2025-07-11 |
@@ -702,6 +701,7 @@
 | [Winter Solstice](https://open.spotify.com/track/3Y0SA1vOKOXdywTYUqeIA8) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Winter Solstice](https://open.spotify.com/album/76ZPEP13Boqv4Da5XihzG0) | 3:56 | 2022-10-27 | 2022-11-18 |
 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 | 2023-05-25 | 2024-03-22 |
 | [Won't Come Back](https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [Won't Come Back](https://open.spotify.com/album/3B6aCf22aZ9nwJWIIBVhjX) | 3:54 | 2024-02-08 | 2024-08-02 |
+| [Wonderful World](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Archwood \(the playlist\)](https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz) | 2:29 | 2025-09-25 |  |
 | [Xany](https://open.spotify.com/track/6yIwlWxRNRIZJU9BocEwzn) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [Xany](https://open.spotify.com/album/76YpBmmt5imdfMH7d6ITCn) | 2:08 | 2024-02-08 | 2024-09-20 |
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-29 | 2023-08-25 |
 | [Yellow Car](https://open.spotify.com/track/1odBJEdR7AiENyd6w42kQU) | [Toro](https://open.spotify.com/artist/3Ikp2uBBjxkYHJpblUDDRN), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ) | [Yellow](https://open.spotify.com/album/3aXfZfgLhJ7joTa7nJwY4q) | 3:15 | 2022-06-09 | 2022-07-01 |

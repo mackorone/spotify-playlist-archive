@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Shye \(Singapore\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: Themilo \(Indonesia\)
 
-244 songs - 16 hr 56 min
+246 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,12 +14,14 @@
 | [Always](https://open.spotify.com/track/7frdnV62ZVTt6HOqtHadnk) | [Ozzga](https://open.spotify.com/artist/4LoxjSTESClUkXDI7mP6t4) | [When You're Away](https://open.spotify.com/album/4BvY1NnxqLpigHsghwhVuU) | 4:34 | 2024-06-27 |  |
 | [anatahawatashiwosiranai, watasihaanatawowasurenai](https://open.spotify.com/track/04HQwpikUW0wHJGn1nWCOE) | [sasakure](https://open.spotify.com/artist/7wEWAY6INLk6VgiJGAGVXr) | [seasaw](https://open.spotify.com/album/5A0c3siX0WSuXNJuYxVkPO) | 3:44 | 2024-12-04 |  |
 | [Another World \- Alt\. ver.](https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Another World \(Alt\. ver.\)](https://open.spotify.com/album/57dmGLpMBQyVWOVlvFOcnV) | 5:30 | 2025-01-16 | 2025-05-02 |
-| [any day now](https://open.spotify.com/track/0iAQG6nyV8lli1DlpBdAWU) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [any day now](https://open.spotify.com/album/4uuBYnZoVjCyCug11sh1rC) | 4:16 | 2025-03-06 |  |
+| [ANTOXIC](https://open.spotify.com/track/5QttlrC4uyjZt15VI4LulN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 4:10 | 2025-09-26 |  |
+| [any day now](https://open.spotify.com/track/0iAQG6nyV8lli1DlpBdAWU) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [any day now](https://open.spotify.com/album/4uuBYnZoVjCyCug11sh1rC) | 4:16 | 2025-03-06 | 2025-09-27 |
 | [Anywhere Else](https://open.spotify.com/track/0zelggmbxtlYgbEG7r6r1N) | [Slowwves](https://open.spotify.com/artist/7efZWwJdYjmy1Xu1wLtEbg) | [Anywhere Else](https://open.spotify.com/album/72UQZOL1DPverN5Mo0hqZz) | 3:37 | 2024-12-04 | 2025-05-02 |
 | [ASMR](https://open.spotify.com/track/1ylVyukbCICBWuJkn1yECY) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [ASMR](https://open.spotify.com/album/6SuUI7PvgHMDTpFLXvWgiK) | 2:18 | 2024-10-31 | 2024-12-05 |
 | [Away](https://open.spotify.com/track/5JqiNYWwMwZKzGKixMe1qM) | [Commemorate](https://open.spotify.com/artist/7DIueeIli4tlniV0KYVMs8) | [Commemorate](https://open.spotify.com/album/45lr8sESmOwsFwIkAGq7X6) | 5:10 | 2025-05-29 |  |
 | [Back to Earth](https://open.spotify.com/track/4kfQcvORqDFubkhA7BxZZl) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Back to Earth](https://open.spotify.com/album/0SN8DQrWn37VboAd6eu0HK) | 4:34 | 2025-07-10 |  |
 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 | 2024-06-27 | 2024-11-09 |
+| [BALLOON DOG \(Single ver.\)](https://open.spotify.com/track/5KS4lYKbFGIbTtiprDBoj6) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [BALLOON DOG](https://open.spotify.com/album/2jwqkoCFsX4JxrTvwOoBJM) | 4:01 | 2025-09-26 |  |
 | [Beauty Little Eyes](https://open.spotify.com/track/08eCVhr2ka4SPw79tXPC4h) | [vievv](https://open.spotify.com/artist/3W3rTSU10U0mAlzJwFEXkn) | [Beauty Little Eyes](https://open.spotify.com/album/5up5XKBnZLcCQoGoKLUys0) | 3:56 | 2024-06-27 |  |
 | [Better at goodbye](https://open.spotify.com/track/1lruWxS9Ke31Z98Q0GT90q) | [Follows](https://open.spotify.com/artist/09nkQayK0xQab5BgsPbnK6) | [Better at goodbye](https://open.spotify.com/album/0KVNAEbwEGn5S53NE2gUSt) | 5:08 | 2025-07-04 |  |
 | [Bitterness](https://open.spotify.com/track/0QnAfmv5CwrotxI8W1ZsGQ) | [Yasu Cub](https://open.spotify.com/artist/01q4aGaA44cHbbv3bY8P1i) | [Bitterness](https://open.spotify.com/album/4vU22oFOy1LjDvipzgwim7) | 3:53 | 2024-06-27 | 2025-05-02 |
@@ -190,7 +192,7 @@
 | [shhhhh](https://open.spotify.com/track/7vPVFM00o5a5Fo1YnkHSV2) | [Taffy](https://open.spotify.com/artist/1yVqLRlRVVJhIfS9aVium0) | [shhhhh](https://open.spotify.com/album/0cqh67MklIrX083Aj8l3MR) | 2:43 | 2025-01-23 | 2025-08-01 |
 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 | 2024-06-27 | 2025-04-04 |
 | [Slow Down](https://open.spotify.com/track/5OE3zUfKo2VuJBTguecfVj) | [Commemorate](https://open.spotify.com/artist/7DIueeIli4tlniV0KYVMs8) | [Slow Down](https://open.spotify.com/album/4HZVcgorCLI63kxzvGYMaV) | 4:20 | 2025-03-06 |  |
-| [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 |  |
+| [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 | 2025-09-27 |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 | 2025-02-08 |
 | [Someday](https://open.spotify.com/track/3jchCGbzTNDXYa6qjkESBz) | [reika](https://open.spotify.com/artist/6LIKgENy8yhUCxPntuKCYV) | [Someday](https://open.spotify.com/album/5tfUvcfoAHbQsRGMPi8eZT) | 2:59 | 2025-06-06 |  |
 | [someday we'll live in the sky](https://open.spotify.com/track/3mOFyiRlgcaxMyEdJfQLNO) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [someday we'll live in the sky](https://open.spotify.com/album/5la6f9KZoB8XRn8BYO49FN) | 2:17 | 2025-02-20 |  |

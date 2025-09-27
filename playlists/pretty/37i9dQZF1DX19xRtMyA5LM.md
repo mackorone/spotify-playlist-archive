@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: ILLIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,425 likes - 59 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,416 likes - 59 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 12](https://open.spotify.com/track/1WqvdURRJfXtJLqKvaiShz) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [AAN](https://open.spotify.com/track/1WqvdURRJfXtJLqKvaiShz) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS) | [BILLO](https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL) | 2:36 |
 | 2 | [zeg minder](https://open.spotify.com/track/2qdj9PwjhStrQPgYVIlLJs) | [kans](https://open.spotify.com/artist/5giLuovJmGDbdWieMDoLyr), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [zeg minder](https://open.spotify.com/album/0aC4QrydXN6NVtRaglk9r0) | 3:09 |
 | 3 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 |
 | 4 | [Zó Dan](https://open.spotify.com/track/38zYd5aIdpkew1vmdO7IMy) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2) | [Zó Dan](https://open.spotify.com/album/5Zk6d1f3qEG1hhz8uENN19) | 3:04 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 16 | [Paraplu](https://open.spotify.com/track/5Vwj9AJlhHicoElYP373YK) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Paraplu](https://open.spotify.com/album/6CTnXCmQBFWqjg0NCMkmw9) | 2:05 |
 | 17 | [419](https://open.spotify.com/track/5KoI4zz4XTdgtFNQt2WQqb) | [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Hefner](https://open.spotify.com/artist/0kmyGm8XFYQyoysy0dpuVx), [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [419](https://open.spotify.com/album/2xQagP7aOJ0nhzfYy5j6Pk) | 3:04 |
 | 18 | [Marseille](https://open.spotify.com/track/71tYf13Vv4kiXPtCPnaMAM) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Marseille](https://open.spotify.com/album/1GZdgB5Elcv162k0UBRf4j) | 2:42 |
-| 19 | [Track 3](https://open.spotify.com/track/70DsOMQG2C86AFS4wtU829) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [RS6 QUATRO](https://open.spotify.com/track/70DsOMQG2C86AFS4wtU829) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [BILLO](https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL) | 2:54 |
 | 20 | [Gebroken Harten](https://open.spotify.com/track/19Ua7zLOl1mSvYMgSYLGrd) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Gebroken Harten](https://open.spotify.com/album/67n04L5Nqzr1AyjBa5CE1z) | 2:31 |
 | 21 | [Turks & Caicos](https://open.spotify.com/track/5mnKGcQAPxt7YPJpf28gMo) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Turks & Caicos](https://open.spotify.com/album/3fjKPy78dV3A9HzZ2QcUZb) | 1:48 |
 | 22 | [Volgende Ronde](https://open.spotify.com/track/3T8jRhtOp7bpTjoWNIwPY2) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Volgende Ronde](https://open.spotify.com/album/3yyw8WO5ipyBhnnETNsR5v) | 2:10 |

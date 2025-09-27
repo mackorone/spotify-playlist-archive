@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > Emerging pop from homegrown talent like vi0let 🪁
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,014 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,018 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BIRTHDAY CAKE](https://open.spotify.com/track/2c4Y3ZUE7poeSljm40dOen) | [vi0let](https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q) | [ULTRAVI0LET](https://open.spotify.com/album/73YuJ5RfkjIjfuhg7A5mBb) | 2:21 |
 | 2 | [Delicate Paws](https://open.spotify.com/track/6V4pMQ8Q765iNTOZpdzGRO) | [Alpha Maria](https://open.spotify.com/artist/5hzFTGZcy6Rqme2qNC2vUm) | [Delicate Paws](https://open.spotify.com/album/6WLgx5C2e5akbsl6GQ1nqp) | 2:31 |
-| 3 | [Always Forever In Love](https://open.spotify.com/track/2Rv2O8GPfgTjaP2ItWVwDw) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [](https://open.spotify.com/album/null) | 4:03 |
+| 3 | [Always Forever In Love](https://open.spotify.com/track/2Rv2O8GPfgTjaP2ItWVwDw) | [Jack Cullen](https://open.spotify.com/artist/6lUfZGm7WIkgsfLhafFCfB) | [Everything](https://open.spotify.com/album/23jmfDFKqXzxlMpn7q1yxr) | 4:03 |
 | 4 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 |
-| 5 | [Monte Carlo](https://open.spotify.com/track/0GPB6idZxiGXxCfi6l0DVj) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [](https://open.spotify.com/album/null) | 3:53 |
+| 5 | [Monte Carlo](https://open.spotify.com/track/0GPB6idZxiGXxCfi6l0DVj) | [Citizen Papes](https://open.spotify.com/artist/2MNgLXbhja9W7EUYoXmK4l) | [Sensitive Little Man](https://open.spotify.com/album/3HCkUPpwSStMqncCZOzRH4) | 3:53 |
 | 6 | [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 |
 | 7 | [Wisdom Tooth](https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d) | [Jack Kane](https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi) | [Wisdom Tooth](https://open.spotify.com/album/1MwkXWhTaIJmm6qZOEMUDr) | 2:58 |
 | 8 | [Ugly Crier](https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Can I Come Too?](https://open.spotify.com/album/5007izIDA5T2I96QI67JaO) | 3:20 |
 | 9 | [3minutes](https://open.spotify.com/track/3WmMhXZRNRMwuuRSTsEB92) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [Crying in the Club](https://open.spotify.com/album/65WNXfPnnDlpyTDbq181MF) | 3:13 |
 | 10 | [Save Yourself](https://open.spotify.com/track/4IK2SDnLvxrT6mu4KKPoZP) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Save Yourself](https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds) | 2:16 |
 | 11 | [don't tell anyone](https://open.spotify.com/track/0euPATSNHOGffOZwrBY08m) | [Dirt Flirt](https://open.spotify.com/artist/3T4wXV4IkOAtdBXIJ2TpLE) | [don't tell anyone](https://open.spotify.com/album/1b5ZOGpcvwc9NdMyqBkDDF) | 2:12 |
-| 12 | [Catching The Next Train](https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b) | [Beth McKenzie](https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq) | [](https://open.spotify.com/album/null) | 2:12 |
+| 12 | [Catching The Next Train](https://open.spotify.com/track/2PexbMSW94n7B3GiYKGh5b) | [Beth McKenzie](https://open.spotify.com/artist/669WbGtA15Wjht27aBOQeq) | [Does This Make Me A Bitter Woman? \(Deluxe\)](https://open.spotify.com/album/67aB0zwPzsAreTkdTZjarY) | 2:12 |
 | 13 | [Old School](https://open.spotify.com/track/1ohqsosMUyMBSNOXMgMJaH) | [Justin Peng](https://open.spotify.com/artist/5Hddczdu92VDeDI05OG5J2) | [Old School](https://open.spotify.com/album/5CJId0HY9lDCriF7XaeaC5) | 3:02 |
 | 14 | [At the Back of My Mind](https://open.spotify.com/track/5dcfbE5nPOISGqGqeLEi1d) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [At the Back of My Mind](https://open.spotify.com/album/61wWyNEz7U5iVuZcUaJ5Mt) | 3:24 |
-| 15 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [](https://open.spotify.com/album/null) | 3:34 |
+| 15 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [WOMEN WHO LOVE TOO MUCH](https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V) | 3:34 |
 | 16 | [Figure It Out](https://open.spotify.com/track/7u0Gt0lP0CRvVGnGi5YxM4) | [LYVIA](https://open.spotify.com/artist/50lx8GGMkqblJrDSpaV0du) | [Be Right There...](https://open.spotify.com/album/4AerY0Ba7WNol2q4A1LY31) | 3:21 |
 | 17 | [Boyfriend](https://open.spotify.com/track/3fsxZPemp9yNXQ4HHKyuWD) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Boyfriend](https://open.spotify.com/album/24lpuyS5x67TDrHoPJ8kG4) | 3:04 |
 | 18 | [Babe III](https://open.spotify.com/track/61jehXjSkHZ5nCL30iGjVk) | [TYGERMYLK](https://open.spotify.com/artist/2Mz1PQnanSTGMp5lYkNY94) | [Babe III](https://open.spotify.com/album/4qDrY0SwRDhmkQMVpT4xFm) | 3:09 |

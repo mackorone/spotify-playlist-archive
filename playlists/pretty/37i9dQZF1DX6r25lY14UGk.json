@@ -1,13 +1,101 @@
 {
-  "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 70649,
+  "description": "New releases for the kids. Cover: Gabby's Dollhouse",
+  "num_followers": 70790,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO5sCjfu13Pz/sNYR9I4plMyf+lj",
+  "snapshot_id": "AAAAAD36dYLPDaxYno9bBVBlSIMq/EvY",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Gabby\u2019s Dollhouse: The Movie Soundtrack",
+        "url": "https://open.spotify.com/album/0RgJPSavha36mwICc8tjZR"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 191436,
+      "name": "Dollhouse World",
+      "url": "https://open.spotify.com/track/0QQ4iDe9bstx2UuRuR3Gxn"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Peppa Pig Tales Vol. 2",
+        "url": "https://open.spotify.com/album/1kPLRVqCCpROYm6IGHRsCO"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 124251,
+      "name": "Pink!",
+      "url": "https://open.spotify.com/track/6D7bjKhhwtdz5eUXB9fUHU"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Draculaura's Scary Sweet Birthday",
+        "url": "https://open.spotify.com/album/7cjiTb1VHQXFxu3G8IQjao"
+      },
+      "artists": [
+        {
+          "name": "Monster High",
+          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 87619,
+      "name": "Monster of the Century",
+      "url": "https://open.spotify.com/track/2NNxlWYlJmmaCcOUSaiiXy"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "A is for Adventure",
+        "url": "https://open.spotify.com/album/64Poa7vcob4c8HkVL9TZgV"
+      },
+      "artists": [
+        {
+          "name": "Barbie",
+          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "A is for Adventure",
+      "url": "https://open.spotify.com/track/20IZcXj4sKrtuUaTnwKi9w"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Trick Or Treat",
+        "url": "https://open.spotify.com/album/3Xa23G4TYPFmI9SMxcf2gC"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 177029,
+      "name": "The Witch And The Frog",
+      "url": "https://open.spotify.com/track/4Zdchmi3frs9wwIrpGD4OB"
+    },
     {
       "added_at": "2025-09-19 04:00:33",
       "album": {

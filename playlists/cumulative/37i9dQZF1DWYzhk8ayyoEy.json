@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "I Am Enough",
+        "url": "https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116023,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK"
+    },
+    {
+      "album": {
         "name": "Cherry On Top",
         "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
       },
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 151333,
       "name": "Hear My Voice",
       "url": "https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o"
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 118000,
       "name": "NOTHING ELSE",
       "url": "https://open.spotify.com/track/7hfaKEkB7hZUtiDMQ99459"
@@ -2282,7 +2300,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 231000,
       "name": "Power of the Heart",
       "url": "https://open.spotify.com/track/0VAuOaVNstAOD8XFYYt6SJ"
@@ -3128,6 +3146,24 @@
       "duration_ms": 219893,
       "name": "WASH",
       "url": "https://open.spotify.com/track/6KPtG0aIKnSqszstXgH2NS"
+    },
+    {
+      "album": {
+        "name": "Way Back Home",
+        "url": "https://open.spotify.com/album/17XvQfk0g1gaRmNiYJ88Fh"
+      },
+      "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/7iXxpHjbJqZp0Z6wfr9AHz"
     },
     {
       "album": {

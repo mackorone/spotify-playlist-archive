@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover:  L\u00c9A THE LEOX",
+  "description": "R&B of the moment by the artists of the future. Cover:  Jaymin",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -1218,6 +1218,28 @@
       "duration_ms": 187901,
       "name": "Alone At The Ranch",
       "url": "https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia"
+    },
+    {
+      "album": {
+        "name": "We All Need Love",
+        "url": "https://open.spotify.com/album/4vVLvEOSDEnT7qzW6tpbxi"
+      },
+      "artists": [
+        {
+          "name": "Breez Kennedy",
+          "url": "https://open.spotify.com/artist/6ydm4dOCCkVb40LPqkhH3p"
+        },
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Alone With U (feat. Chikoruss)",
+      "url": "https://open.spotify.com/track/4qsHgZNYuidr74v1vAWRNx"
     },
     {
       "album": {
@@ -3701,6 +3723,28 @@
     },
     {
       "album": {
+        "name": "COMPLICATED.",
+        "url": "https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "burn (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
+    },
+    {
+      "album": {
         "name": "girls like me don't cry (deluxe)",
         "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
@@ -5500,7 +5544,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 275376,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3hb7X2wYx06jhuPnDP4bV7"
@@ -7174,6 +7218,28 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147326,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
     },
     {
       "album": {
@@ -9240,7 +9306,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 252381,
       "name": "Fry Plantain (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1pmXeu9cAF2at62I3m5VKE"
@@ -9360,6 +9426,24 @@
       "duration_ms": 186272,
       "name": "GARDEN",
       "url": "https://open.spotify.com/track/6YpiUebCTyUcLmV4X8W7Vq"
+    },
+    {
+      "album": {
+        "name": "Gas Station Love",
+        "url": "https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W"
+      },
+      "artists": [
+        {
+          "name": "EJ Jones",
+          "url": "https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245100,
+      "name": "Gas Station Love",
+      "url": "https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI"
     },
     {
       "album": {
@@ -10572,7 +10656,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 187396,
       "name": "Have your babies",
       "url": "https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL"
@@ -10666,6 +10750,24 @@
       "duration_ms": 179828,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
+    },
+    {
+      "album": {
+        "name": "Heard What You Said",
+        "url": "https://open.spotify.com/album/1f8o1x4jMdHdY5odB4xuTv"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "Heard What You Said",
+      "url": "https://open.spotify.com/track/7CDchH4EG7QOmjTIK5Yakl"
     },
     {
       "album": {
@@ -16151,6 +16253,28 @@
     },
     {
       "album": {
+        "name": "Move feat. H.E.R.",
+        "url": "https://open.spotify.com/album/7lgytNepplkbVKRQoaE2Dg"
+      },
+      "artists": [
+        {
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207058,
+      "name": "Move feat. H.E.R.",
+      "url": "https://open.spotify.com/track/1cGkWVL1FvmMgV4zqJsQfS"
+    },
+    {
+      "album": {
         "name": "move it along (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx"
       },
@@ -16268,7 +16392,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 143480,
       "name": "Muse",
       "url": "https://open.spotify.com/track/7jCqzvwMkTgQiA1Xt2crwn"
@@ -17839,6 +17963,24 @@
     },
     {
       "album": {
+        "name": "One Day You'll Understand",
+        "url": "https://open.spotify.com/album/6o0zyvOBj5y5txTx7FxGjF"
+      },
+      "artists": [
+        {
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "One Day You'll Understand",
+      "url": "https://open.spotify.com/track/3o3C3SBlE5xuYs78ImPgmN"
+    },
+    {
+      "album": {
         "name": "Live from Ursula Ave",
         "url": "https://open.spotify.com/album/6UhFc73MzbfvRLe77H9vzO"
       },
@@ -17956,7 +18098,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 174857,
       "name": "One Time",
       "url": "https://open.spotify.com/track/2u3ucpknV0GldgmPnuRFwu"
@@ -18188,7 +18330,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 178019,
       "name": "Out My Hair",
       "url": "https://open.spotify.com/track/1TtdzDwa2r0REWVcFihwmT"
@@ -18568,7 +18710,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 220122,
       "name": "Passenger Princess (feat. Aqyila)",
       "url": "https://open.spotify.com/track/2dwRIUAoAaPlHIq8LUI99v"
@@ -19176,6 +19318,28 @@
       "duration_ms": 113239,
       "name": "Post Nut Clarity",
       "url": "https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac"
+    },
+    {
+      "album": {
+        "name": "Posted Alone",
+        "url": "https://open.spotify.com/album/1d1ssR6ZCP4jWWWGQyOHy7"
+      },
+      "artists": [
+        {
+          "name": "4Fargo",
+          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
+        },
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167300,
+      "name": "Posted Alone",
+      "url": "https://open.spotify.com/track/3nhEhrnbNRSS3dPCJOQiwH"
     },
     {
       "album": {
@@ -22313,6 +22477,24 @@
     },
     {
       "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/5HcteuzDMjXil0VFsQMKyB"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156892,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/17odCitXaQsvl3uZWskCEH"
+    },
+    {
+      "album": {
         "name": "Entries",
         "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
       },
@@ -25020,7 +25202,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 207811,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/7ngKOLaoJfoMATtYFrwAKe"
@@ -25984,7 +26166,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 150280,
       "name": "Waiting On You (feat. Tone Stith)",
       "url": "https://open.spotify.com/track/7y69cuKflEEbXXZMX7EBKL"
@@ -27136,7 +27318,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 158844,
       "name": "Woman Now",
       "url": "https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ"
@@ -27491,6 +27673,24 @@
     },
     {
       "album": {
+        "name": "HAPPY 2 BE HERE WITH YOU",
+        "url": "https://open.spotify.com/album/1svkemBzhCn2ZITcNMc3Fe"
+      },
+      "artists": [
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "YOU AND YOUR BODY",
+      "url": "https://open.spotify.com/track/1pjC0mkLIO5ee8PUw6gfou"
+    },
+    {
+      "album": {
         "name": "You Don't Call Me",
         "url": "https://open.spotify.com/album/3RlJ4V1jScGEXcwajF3BkM"
       },
@@ -27612,7 +27812,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 153813,
       "name": "You or Nobody (with Timbaland)",
       "url": "https://open.spotify.com/track/4jqQxnUg9MEqjgNeAw61BA"

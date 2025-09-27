@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,133 songs - 2 day 21 hr 33 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,134 songs - 2 day 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1141,5 +1141,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1131 | [What Once Was](https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 4:15 |
 | 1132 | [Fine Madeline](https://open.spotify.com/track/2khjSwh01eCWBstZo9rDGn) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 2:19 |
 | 1133 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
+| 1134 | [Running Running Running \(feat\. Quadeca\)](https://open.spotify.com/track/5GvDlQbFI3KiVAhJZ4QfDU) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Running Running Running \(feat\. Quadeca\)](https://open.spotify.com/album/6VvmZmSmQxF2njwhExQBpX) | 3:08 |
 
-Snapshot ID: `AAAJX0X6lJKc97WEJw9+HacQ1vzxdpUK`
+Snapshot ID: `AAAJYFTXxj7Otbm8NOnGvx8RHNbM7rcQ`

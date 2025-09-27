@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: lightcraft, RIMALDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,572 likes - 99 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,580 likes - 99 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Love, Again](https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Love, Again](https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD) | 3:13 |
+| 1 | [Love, Again \(feat\. RIMALDI\)](https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Love, Again \(feat\. RIMALDI\)](https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD) | 3:13 |
 | 2 | [Gundah](https://open.spotify.com/track/4HnqpF35LfKlnyy8DVusVY) | [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy), [Aprilia Apsari](https://open.spotify.com/artist/3gb1atdHSWaGdhg0hUsu1B) | [Gundah](https://open.spotify.com/album/6sqYFyxoaGufTtVMAYS71Z) | 4:46 |
 | 3 | [Tamasya di Angkasa](https://open.spotify.com/track/3ZExfEyY39Qpzt0fvsCUDn) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Tamasya di Angkasa](https://open.spotify.com/album/76HWh17AMLevhXUBvMO8Bf) | 4:21 |
 | 4 | [Room 17A \(make up ur mind\)](https://open.spotify.com/track/2yXOKrUhgwXqW1hdarSEEt) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Room 17A \(make up ur mind\)](https://open.spotify.com/album/5gx1vLtw8bGVTPC7VIelrN) | 3:45 |

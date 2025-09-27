@@ -2,7 +2,7 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> IvanBi in cover della playlist con il futuro del rap italiano 📈
+> Visino Bianco in cover della playlist con il futuro del rap italiano 📈
 
 2,015 songs - 3 day 13 hr 37 min
 

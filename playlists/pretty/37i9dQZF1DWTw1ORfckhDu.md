@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯  Kannessa Alina Burnet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,240 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,244 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 45 | [Miljoona mustelmaa](https://open.spotify.com/track/1EzxT9HLfDu8iZDNsFBtnf) | [NOTO](https://open.spotify.com/artist/3aXzx5ES0capjaDyvYsdRI) | [Miljoona mustelmaa](https://open.spotify.com/album/14QianX3JKFCfMT2aJg8su) | 2:32 |
 | 46 | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/track/2rwT5yfTQYULSvrERWfxa8) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Liikaa vauhtii \(feat\. Jore & Zpoppa\)](https://open.spotify.com/album/7q9S7xj1nF8t3tHw0wppcN) | 3:17 |
 | 47 | [Kran Turismo \(lomalla viimeinkin\)](https://open.spotify.com/track/4RQs4xQFfaWlEtuwcwcUs5) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Kran Turismo \(lomalla viimeinkin\)](https://open.spotify.com/album/7mBnl52AOGfwHdNxXcTpMh) | 3:05 |
-| 48 | [Track 5](https://open.spotify.com/track/6vQkW2jlMS74V7123wsN7x) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o) | [](https://open.spotify.com/album/null) | 0:00 |
+| 48 | [V I I M E I N E N S E I N Ä](https://open.spotify.com/track/6vQkW2jlMS74V7123wsN7x) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o) | [J U L M A H E N R I : S I N I N E N](https://open.spotify.com/album/5CPmiHJM18LC8PWRK1Z1DC) | 4:17 |
 | 49 | [Muijii stadis](https://open.spotify.com/track/3esf5YD88WaHyYw6rr9WWc) | [Sonia](https://open.spotify.com/artist/4jbppZh0VPHNqYPYzkoCah) | [Muijii stadis](https://open.spotify.com/album/32wXB7RFCSyS2qxATYi1Wl) | 3:12 |
 | 50 | [Kummitusjuna](https://open.spotify.com/track/1XtpCzueUZM4hDd5gpi0nB) | [Nikke Ankara](https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn) | [Kummitusjuna](https://open.spotify.com/album/7Ksj2Y1jfGypo7fzHWG3IX) | 2:56 |
 

@@ -2,7 +2,7 @@
 
 ### [Generasi Galau](https://open.spotify.com/playlist/37i9dQZF1DX9U5XaCM7ssr)
 
-> Lagu\-lagu mengsedih yang menyayat hati 😭
+> Lagu\-lagu sedih yang menyayat hati 😭
 
 227 songs - 15 hr 46 min
 

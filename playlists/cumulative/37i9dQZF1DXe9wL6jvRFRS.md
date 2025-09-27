@@ -4,7 +4,7 @@
 
 > spun from south london’s windmill scene, a thread of community\-driven experimental guitar music and constant evolution worldwide\. Maruja on the cover.
 
-61 songs - 4 hr 43 min
+62 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Asha's Waltz](https://open.spotify.com/track/6wzp4booSJKX2CO2d8Ctho) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Asha's Waltz](https://open.spotify.com/album/75UrgQ54va1o2GWrlGUTk9) | 6:25 | 2025-07-10 |  |
 | [Besties](https://open.spotify.com/track/4U9ZjqhaGF9wl56899E4sW) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Forever Howlong](https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t) | 3:36 | 2025-07-10 |  |
 | [Beth's Farm](https://open.spotify.com/track/2kGjHqfS3WwxLGdK7iyDcE) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Beth's Farm](https://open.spotify.com/album/10QYpDV0UVg4afKssMF4DY) | 5:33 | 2025-07-10 |  |
+| [Bleary Eyes](https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Bleary Eyes](https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD) | 4:53 | 2025-09-26 |  |
 | [Cloudy](https://open.spotify.com/track/3McNxe4ofvYZ9uR84Cph58) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Cloudy](https://open.spotify.com/album/1cmYpshLS9j5ctqvq2z5HE) | 6:20 | 2025-07-10 |  |
 | [Coldplay cover](https://open.spotify.com/track/2Ht1gsebaD2W5LWAZvYoPG) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2](https://open.spotify.com/album/1CmdanwOGnV5QevtJQL6bN) | 4:16 | 2025-07-10 |  |
 | [Come to Me](https://open.spotify.com/track/4APuJt1RXdAZ80VGX11VX3) | [Ideal Living](https://open.spotify.com/artist/0O2bPynYyvkMlm2Qqmupt8) | [Come to Me](https://open.spotify.com/album/2gOqJStFBqoULg6MIpmsMQ) | 4:01 | 2025-07-10 |  |

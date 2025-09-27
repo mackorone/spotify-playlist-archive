@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Cardi B",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ice Spice",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "AAAHH MEN!",
+      "url": "https://open.spotify.com/track/2qGvxAKXbajPFRb9ybIMOD"
+    },
+    {
+      "album": {
         "name": "What's My Name",
         "url": "https://open.spotify.com/album/1WAtJjV9jTuCteNx5H7id5"
       },
@@ -260,6 +278,24 @@
       "duration_ms": 134184,
       "name": "ABOW",
       "url": "https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj"
+    },
+    {
+      "album": {
+        "name": "Vie",
+        "url": "https://open.spotify.com/album/1cqqIH16XzBnDchrXJ9Enf"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211758,
+      "name": "Acts of Service",
+      "url": "https://open.spotify.com/track/0t3Q46Af4syvp0k2pVFIRK"
     },
     {
       "album": {
@@ -942,7 +978,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 203590,
       "name": "Backyard (with JID)",
       "url": "https://open.spotify.com/track/0lXryFB1cmrLYTfZ7vH91y"
@@ -1008,6 +1044,24 @@
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kaliii]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
+    },
+    {
+      "album": {
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
       "album": {
@@ -3638,7 +3692,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 138495,
       "name": "Don Who Leo",
       "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
@@ -3978,7 +4032,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 147930,
       "name": "Eatcha Beatcha",
       "url": "https://open.spotify.com/track/4Drf6OvnI5IYz4EezDzfDD"
@@ -4062,6 +4116,28 @@
       "duration_ms": 158727,
       "name": "Enough (Miami)",
       "url": "https://open.spotify.com/track/4XqBLxDaEdlqkHlSlb1Rzq"
+    },
+    {
+      "album": {
+        "name": "ErrTime (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/2i2SkQ9IRn6q9E8RjhpOH3"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146553,
+      "name": "ErrTime (feat. Latto) [Remix]",
+      "url": "https://open.spotify.com/track/5CanskmqatfFbm9O9Epavt"
     },
     {
       "album": {
@@ -6406,7 +6482,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 128399,
       "name": "IDC",
       "url": "https://open.spotify.com/track/69OTkx0Khijw3ihHr9au1g"
@@ -6679,6 +6755,24 @@
     },
     {
       "album": {
+        "name": "Is You Coo",
+        "url": "https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151201,
+      "name": "Is You Coo",
+      "url": "https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc"
+    },
+    {
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU"
       },
@@ -6806,7 +6900,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
@@ -8222,7 +8316,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 192676,
       "name": "Motion (feat. Sexyy Red & NaNaski)",
       "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
@@ -10025,6 +10119,24 @@
     },
     {
       "album": {
+        "name": "Pluto Walk",
+        "url": "https://open.spotify.com/album/60FZpuXlhZlNyhfRPAD8FL"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113548,
+      "name": "Pluto Walk",
+      "url": "https://open.spotify.com/track/2taDBAJbGHAQ9O0JvWiCIU"
+    },
+    {
+      "album": {
         "name": "Point Me 2 (with Cardi B)",
         "url": "https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l"
       },
@@ -11138,7 +11250,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 177886,
       "name": "Safe (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
@@ -11266,6 +11378,24 @@
       "duration_ms": 168986,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+    },
+    {
+      "album": {
+        "name": "Sexy Soulaan",
+        "url": "https://open.spotify.com/album/3ChMIwC91eiIA6KMJNq8EK"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Sexy Soulaan",
+      "url": "https://open.spotify.com/track/0xH565ykWKUrYdcizBbz30"
     },
     {
       "album": {
@@ -14042,7 +14172,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 131604,
       "name": "Who U Know",
       "url": "https://open.spotify.com/track/1CWOyqjpuktFyDUae1bOVs"

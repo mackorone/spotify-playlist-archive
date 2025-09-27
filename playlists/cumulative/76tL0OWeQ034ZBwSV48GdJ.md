@@ -4,7 +4,7 @@
 
 > 
 
-238 songs - 22 hr 33 min
+239 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Losing Control](https://open.spotify.com/track/7mLZt36qnvXAm2Xzgr8QY1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [How Do I Belong](https://open.spotify.com/album/5Y1sct5M7sCdL7PzBSmfAr) | 3:08 | 2022-02-21 |  |
 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 | 2025-08-10 |  |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-02-09 |  |
+| [Love Inc](https://open.spotify.com/track/5bjXTibRMVzZUQwiT47Z93) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Eve](https://open.spotify.com/album/44VqSP4sgQcWr7S2eu3Jiu) | 6:01 | 2025-09-26 |  |
 | [Ludmilla](https://open.spotify.com/track/1nENRX73yJFJqa4XN1uJEV) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Dear Diary](https://open.spotify.com/album/1Gxfg7F8DQ1V8oBEIZzWa7) | 7:16 | 2025-09-12 |  |
 | [Mariposa](https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Mariposa](https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm) | 7:17 | 2023-01-24 |  |
 | [Mercy](https://open.spotify.com/track/62GdUjdvsExQf239rPZ0cU) | [UNDERHER](https://open.spotify.com/artist/450wFwmuEK6ytahAaWlhbX) | [Mercy EP](https://open.spotify.com/album/4j5jUGxDkaJqlnGz5XjBsa) | 5:54 | 2021-09-21 |  |

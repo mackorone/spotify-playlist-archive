@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "A Little Light in the Dark",
+        "url": "https://open.spotify.com/album/5qkitI5JItbEEx7JSDQzHQ"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "date_added": "2025-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166786,
+      "name": "Drown Me in your River",
+      "url": "https://open.spotify.com/track/1o25xpJ1yVFWWG7CzulsUM"
+    },
+    {
+      "album": {
         "name": "Girl In Red",
         "url": "https://open.spotify.com/album/3QmtI0HUE8P4YrnSHjMdjR"
       },
@@ -892,7 +910,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 246000,
       "name": "Slow Karma",
       "url": "https://open.spotify.com/track/4G9aTrG0ucDbflr3oUwyKc"

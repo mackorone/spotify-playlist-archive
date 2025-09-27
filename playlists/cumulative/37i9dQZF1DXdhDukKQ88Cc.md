@@ -4,7 +4,7 @@
 
 > 🔥 de største nye rap hits i dk 🔥
 
-421 songs - 18 hr 5 min
+422 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Litty](https://open.spotify.com/track/1k29wQgAkP5c27GAJLqLkk) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Litty](https://open.spotify.com/album/6mSi7RytoP8vC4AFgSCI25) | 2:28 | 2025-01-23 | 2025-04-18 |
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 | 2024-05-14 |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 | 2025-06-27 |
-| [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 | 2025-07-24 |  |
+| [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 | 2025-07-24 | 2025-09-27 |
 | [LOSSES](https://open.spotify.com/track/6jiJlhoKrtnqbEwn9rwLzg) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [N1YA](https://open.spotify.com/album/6UKsPClzyTmEvIOkqmyirY) | 2:59 | 2025-07-10 |  |
 | [Love](https://open.spotify.com/track/1jrlr7S194gDbRzX7Z1R68) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO), [Belly](https://open.spotify.com/artist/09Tr5rMM8oP3lN24JOnBW9), [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh), [Dinero](https://open.spotify.com/artist/4LynqOt0Pp1TpSZUftMlTi) | [Love](https://open.spotify.com/album/0iMw6rVmD1PzLnGslYulZJ) | 2:45 | 2025-05-29 | 2025-06-20 |
 | [LUVSONG](https://open.spotify.com/track/3XOxeC6xvm4S31778TY5nb) | [Blak](https://open.spotify.com/artist/6IH1y7lDZ4f5emA2chtADV), [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF) | [LUVSONG](https://open.spotify.com/album/0661vyyGKpbinzjUat85ia) | 2:33 | 2025-05-22 | 2025-06-20 |
@@ -294,6 +294,7 @@
 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 | 2023-09-21 | 2024-04-05 |
 | [Noget Med Noget](https://open.spotify.com/track/256J9I7Vp9SiPrUaxPqAw7) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Noget Med Noget](https://open.spotify.com/album/1AD9rLclpmI9abg4LMYYNH) | 2:21 | 2023-09-21 | 2023-11-11 |
 | [North Face \(feat\. Lamin\)](https://open.spotify.com/track/5WfPaCdvCn5UhXKtEbGSb3) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [North Face \(feat\. Lamin\)](https://open.spotify.com/album/4JG2B8OtZHx2Q8s4HGHnkz) | 2:40 | 2024-01-04 | 2024-05-14 |
+| [NSK](https://open.spotify.com/track/3JDOIG5IbFHWjAXxuzAjJj) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [NSK](https://open.spotify.com/album/23mP7nmgvAz1Q925QfjtsO) | 2:23 | 2025-09-26 |  |
 | [Når Det Nok](https://open.spotify.com/track/1a5rv4iJLXTIXmY4wPOyrR) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Når Det Nok](https://open.spotify.com/album/6qElWts5XQIjlwBIjiaTkL) | 2:04 | 2024-06-27 | 2024-09-13 |
 | [NØGEN \(feat\. Lord Siva\)](https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [ALTERDETSAMME](https://open.spotify.com/album/0l7YdPNKdK5cKwqrfb7ovI) | 2:26 | 2025-06-12 | 2025-07-18 |
 | [OCHO](https://open.spotify.com/track/2wPGyAND3tFUfR4weYWmuz) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/6qNTf2SSU5LesB8d8w63if) | 2:54 | 2024-04-25 | 2025-01-10 |

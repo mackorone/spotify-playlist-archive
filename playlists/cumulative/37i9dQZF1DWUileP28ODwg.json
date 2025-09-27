@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Josiah Queen",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Chris Tomlin",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 229016,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/4wQhi2wkWiEw5vzm8Q4SWG"
@@ -2226,6 +2226,24 @@
       "duration_ms": 203395,
       "name": "Feels Like A Blessing",
       "url": "https://open.spotify.com/track/7KAJj6iFtNuobF7i6ZwNyM"
+    },
+    {
+      "album": {
+        "name": "Fight Like Heaven",
+        "url": "https://open.spotify.com/album/1HFtYu2cRGDxkF4qSHtQVB"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177024,
+      "name": "Fight Like Heaven",
+      "url": "https://open.spotify.com/track/43EXydjWVDtpvsp75PEBaz"
     },
     {
       "album": {
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 316000,
       "name": "Hard Fought Hallelujah",
       "url": "https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx"
@@ -3688,7 +3706,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 186285,
       "name": "Hated",
       "url": "https://open.spotify.com/track/1B1DAOmwUSKYchg0gfJhrP"
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 233689,
       "name": "Jesus Lifted Me",
       "url": "https://open.spotify.com/track/2YnBRumwub642xD4ZbmziP"
@@ -5716,6 +5734,24 @@
       "duration_ms": 241933,
       "name": "King Of Kings",
       "url": "https://open.spotify.com/track/0bHChHKTmyzZkXxGz7qfVm"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/0ddeu0qzjlC1DGitmzXIt6"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234032,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/6kFvpaobh1awtDOD6j5iWO"
     },
     {
       "album": {
@@ -9069,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286152,
+      "name": "Still The King",
+      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
+    },
+    {
+      "album": {
         "name": "Still Waters (Psalm 23) [Acoustic]",
         "url": "https://open.spotify.com/album/2ow282yox2uRtgZgktAeZJ"
       },
@@ -9226,7 +9280,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/3ojnCCs5izqgJlRMIBfENI"
@@ -9977,6 +10031,24 @@
     },
     {
       "album": {
+        "name": "The Mercy Room",
+        "url": "https://open.spotify.com/album/1Beku06tr0tlr8ScsF8CsG"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222238,
+      "name": "The Mercy Room",
+      "url": "https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC"
+    },
+    {
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
       },
@@ -10619,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Jesus Loves",
+        "url": "https://open.spotify.com/album/3KqoANpOMDWpx9C4JbMNQG"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223478,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/58iKOSsOb6TTd5FAI8Tw3Q"
+    },
+    {
+      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -10920,6 +11010,24 @@
       "duration_ms": 252133,
       "name": "What If",
       "url": "https://open.spotify.com/track/6W0GK0gyb1pLwCTJnPN2OF"
+    },
+    {
+      "album": {
+        "name": "When A Cowboy Prays",
+        "url": "https://open.spotify.com/album/331sTX4A9LVS7dydeAaZR2"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "When A Cowboy Prays",
+      "url": "https://open.spotify.com/track/5El4el5fJrMq0onm31WEDo"
     },
     {
       "album": {
@@ -11828,7 +11936,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 225450,
       "name": "Your Love Is A Flood",
       "url": "https://open.spotify.com/track/4DY5O3TgTFuTIsYDn6arlc"
@@ -11864,7 +11972,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 209372,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/5SobIeMqDzWxrBpQPkx7Tj"

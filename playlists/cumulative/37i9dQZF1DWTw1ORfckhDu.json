@@ -17971,24 +17971,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Julma Henri",
-          "url": "https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6vQkW2jlMS74V7123wsN7x"
-    },
-    {
-      "album": {
         "name": "MINNESOTA",
         "url": "https://open.spotify.com/album/749Cb2vryMtdSlD4Zk1jfW"
       },
@@ -18792,6 +18774,24 @@
       "duration_ms": 154547,
       "name": "UUS VUOS SAMA M\u00c4",
       "url": "https://open.spotify.com/track/6lrdUifi9Bym7R22HtXbP8"
+    },
+    {
+      "album": {
+        "name": "J U L M A H E N R I : S I N I N E N",
+        "url": "https://open.spotify.com/album/5CPmiHJM18LC8PWRK1Z1DC"
+      },
+      "artists": [
+        {
+          "name": "Julma Henri",
+          "url": "https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257518,
+      "name": "V I I M E I N E N S E I N \u00c4",
+      "url": "https://open.spotify.com/track/6vQkW2jlMS74V7123wsN7x"
     },
     {
       "album": {

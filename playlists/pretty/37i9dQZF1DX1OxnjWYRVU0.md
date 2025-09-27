@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,893 likes - 370 songs - 16 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,903 likes - 370 songs - 16 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,7 +160,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 150 | [The Reason](https://open.spotify.com/track/3wA2DEGXcBAQlD5Q9LDlCF) | [The Second Level](https://open.spotify.com/artist/3kfUtTqeyTWZDEMhkmu8tm), [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason](https://open.spotify.com/album/4PGdPKa5zEocESACnrXoWS) | 2:37 |
 | 151 | [Heaven](https://open.spotify.com/track/26uQ8ABsE4UPZ0Q7E41T5R) | [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [Michel Fannoun](https://open.spotify.com/artist/6VMiCKfMjcq2KzrozRA9ko) | [Heaven](https://open.spotify.com/album/2EoJd6yE0bX43B5VmVF7uj) | 3:45 |
 | 152 | [Don't Stop Movin'](https://open.spotify.com/track/5lc7Fkqt3GdHbM8F77CJ1E) | [ACT ON](https://open.spotify.com/artist/0vhim3LiEF8Ahlx4RNlTJz), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Don’t Stop Movin’](https://open.spotify.com/album/2PFGnH4cnaZFay0b5pEJi0) | 2:38 |
-| 153 | [Young Folks](https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo) | [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [LEØN TARØ](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Young Folks](https://open.spotify.com/album/05hjJ8cKyRfrn1DJLCsvv8) | 3:09 |
+| 153 | [Young Folks](https://open.spotify.com/track/3mu7xOY7p9EWiCI9BTMMwo) | [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [leon taro.](https://open.spotify.com/artist/5HVKC3GlAn6yAREU3xiKPb), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Young Folks](https://open.spotify.com/album/05hjJ8cKyRfrn1DJLCsvv8) | 3:09 |
 | 154 | [Disturbia](https://open.spotify.com/track/5bin6N8h625agTTxyKphK6) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [stay:us](https://open.spotify.com/artist/698f11Z5HHN4S9VHdNV4is) | [Disturbia](https://open.spotify.com/album/2JQXlqicEYuVyNl3Y8bCjR) | 2:29 |
 | 155 | [Better Now](https://open.spotify.com/track/52GyPQ2O6dfYlOJiW8dNR8) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Cat Mode](https://open.spotify.com/artist/3dxezrADfOJsvZ4mPCIaph) | [Better Now](https://open.spotify.com/album/6q5zvDfDBKu0IbUbWXuBi0) | 3:05 |
 | 156 | [abcdefu](https://open.spotify.com/track/427nxMDu8gwqaZaYY1xaLw) | [Kilian K](https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs) | [abcdefu](https://open.spotify.com/album/5tKbeU33NkI6FeH2LdFjqe) | 2:43 |

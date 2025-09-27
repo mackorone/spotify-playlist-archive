@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: White Reaper
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,355 likes - 125 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,425 likes - 125 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Freakshow](https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [](https://open.spotify.com/album/null) | 2:57 |
+| 1 | [Freakshow](https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Only Slightly Empty](https://open.spotify.com/album/095PeO7jjMoZrvtUFkVeGW) | 2:57 |
 | 2 | [What Are We Doing This For \(feat\. Codefendants\)](https://open.spotify.com/track/3gqq3eT4HQX7nIxCf2qFTa) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ), [Codefendants](https://open.spotify.com/artist/6HBfXt98QpP7QVDPLHjHTe) | [What Are We Doing This For \(feat\. Codefendants\)](https://open.spotify.com/album/2p1N83Rk1luMeQ2Ml99u6y) | 1:40 |
 | 3 | [Straight Up \(Needy\)](https://open.spotify.com/track/32IJZRY6jtHn5fM0L9vl96) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Straight Up \(Needy\)](https://open.spotify.com/album/5v86kcSPCvOGArewLHf9qX) | 3:14 |
 | 4 | [Need](https://open.spotify.com/track/4Gn57YYtIUx3acmDkClIe3) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Need](https://open.spotify.com/album/7z4Q4ICouWxiuYDW9ItDnV) | 2:40 |
 | 5 | [DCWDTTY](https://open.spotify.com/track/3qv3FiGDssYR64BpirkUZI) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [DCWDTTY](https://open.spotify.com/album/4CoPsa7rdP1RBslPC87m2u) | 2:58 |
-| 6 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [](https://open.spotify.com/album/null) | 2:32 |
+| 6 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 |
 | 7 | [CHEAT CODE \(feat\. WSTR\)](https://open.spotify.com/track/7C2OhrhJ3fm4qBL5VBTgmZ) | [trxvis](https://open.spotify.com/artist/1ytozhc77a6qMKUxWTpprm), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [CHEAT CODE \(feat\. WSTR\)](https://open.spotify.com/album/0nOKzQnHu9Fds2A0KYziy2) | 2:55 |
 | 8 | [I MISS MY CAT](https://open.spotify.com/track/2C1Fmi1ygQpHAcJp5cqfxV) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [I MISS MY CAT](https://open.spotify.com/album/15wCyAFQ115rw7TINyTFmW) | 2:04 |
 | 9 | [Way Of War](https://open.spotify.com/track/72StHUuOndV4b0mHURRxss) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Way Of War](https://open.spotify.com/album/1bdXieEliBYO906XrHXsqL) | 1:48 |
-| 10 | [Forgiving Jeff](https://open.spotify.com/track/3CGN46JdfWJ3h6FFsCzNuy) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [](https://open.spotify.com/album/null) | 3:17 |
+| 10 | [Forgiving Jeff](https://open.spotify.com/track/3CGN46JdfWJ3h6FFsCzNuy) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [Parade! Parade!](https://open.spotify.com/album/4cBYpqi4g3ywLLPGrbz9HB) | 3:17 |
 | 11 | [Everything](https://open.spotify.com/track/3RnYYFRtyx7cqxkuEor3BJ) | [The Sonder Bombs](https://open.spotify.com/artist/1jcXXrb7lhflZzQSetip3C) | [Everything](https://open.spotify.com/album/3OhRZKX9ocerxzVZS6lPvw) | 2:12 |
 | 12 | [Wake Up](https://open.spotify.com/track/396qudK4x9iiOU6MdXKXIi) | [Dance! No Thanks](https://open.spotify.com/artist/0885hgEwstYF6vz2qHbSpC) | [Wake Up](https://open.spotify.com/album/694veyemi5wiq7zya4DZiz) | 2:20 |
 | 13 | [Pressure](https://open.spotify.com/track/3qzs3hcD6B92d1rX4lahlG) | [SPACED](https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8) | [Pressure](https://open.spotify.com/album/5Kn1S3vkiu4aP9Q83Oz4kE) | 1:59 |

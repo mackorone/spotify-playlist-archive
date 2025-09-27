@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,949 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,954 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 6 | [Flyv Højt \(feat\. Benny Jamz\)](https://open.spotify.com/track/2BA6uVQRGvPTrCiWDmYHs4) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Hyben](https://open.spotify.com/album/7whTi1VBsWABL3xXA7edVk) | 2:58 |
 | 7 | [Pogba \(feat\. Gilli\)](https://open.spotify.com/track/5ORpbaU6L7qdSYoQg62JLi) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Guld & Grønne](https://open.spotify.com/album/0yPVI2sKoL49fCRCMgGhXT) | 2:47 |
 | 8 | [Bipolar](https://open.spotify.com/track/1ZtTGHFQwhltWz9jNVPBxp) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Bipolar](https://open.spotify.com/album/4fnTUUw8cxDHm1u58Z3JRM) | 2:51 |
-| 9 | [Hva' Chancen](https://open.spotify.com/track/6ZCU8onvUZgBl11AX92Pq6) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hva' Chancen](https://open.spotify.com/album/0eTnh0LyOkN3FMbZRqKDyR) | 3:15 |
-| 10 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 |
-| 11 | [ILDEBRAND \(feat\. ICEKIID\)](https://open.spotify.com/track/76f4YhlwMdBOIiXitTjxaV) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MOTIONBOYZ \(MIXTAPE\)](https://open.spotify.com/album/6Nn8qXUNaXLQNTIHD1Fhzl) | 2:41 |
-| 12 | [C h v o r v i R i d a g](https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 2:32 |
-| 13 | [Submissive \(feat\. Zuloo\)](https://open.spotify.com/track/4eLM9kVdcf9gxtLGpg9rjw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [VULKANØ](https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ) | 2:47 |
-| 14 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 |
-| 15 | [Problemer Med Staten](https://open.spotify.com/track/1fLjOQjzHITpaRkVyouKGA) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Problemer Med Staten](https://open.spotify.com/album/7CgCHtxQ8L7bfst8Y43tAM) | 2:03 |
-| 16 | [Coldplay](https://open.spotify.com/track/6p8SQMxYN2i8MZJv7VI9YW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Coldplay](https://open.spotify.com/album/3wDJPueYov5F4sMDQE66UC) | 2:30 |
-| 17 | [Long Nights](https://open.spotify.com/track/7jICWCM3vdbmjL5q4uvvaj) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX), [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Long Nights](https://open.spotify.com/album/6hCIrCm4S9DP4HwZ97mXaf) | 3:22 |
+| 9 | [NSK](https://open.spotify.com/track/3JDOIG5IbFHWjAXxuzAjJj) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [NSK](https://open.spotify.com/album/23mP7nmgvAz1Q925QfjtsO) | 2:23 |
+| 10 | [Hva' Chancen](https://open.spotify.com/track/6ZCU8onvUZgBl11AX92Pq6) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X) | [Hva' Chancen](https://open.spotify.com/album/0eTnh0LyOkN3FMbZRqKDyR) | 3:15 |
+| 11 | [Keem \(feat\. Benny Jamz\)](https://open.spotify.com/track/5mFQvwwjVjy1cO0HxxbsoR) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [24](https://open.spotify.com/album/4Z47LEsa5VjVEVB34qlHc8) | 3:15 |
+| 12 | [ILDEBRAND \(feat\. ICEKIID\)](https://open.spotify.com/track/76f4YhlwMdBOIiXitTjxaV) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MOTIONBOYZ \(MIXTAPE\)](https://open.spotify.com/album/6Nn8qXUNaXLQNTIHD1Fhzl) | 2:41 |
+| 13 | [C h v o r v i R i d a g](https://open.spotify.com/track/4Ys990zG55m3szny0pwaZu) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [R d u s t a d i g h e r 4 m i g](https://open.spotify.com/album/0F38jn0szZOmskpw1Ns6Rl) | 2:32 |
+| 14 | [Submissive \(feat\. Zuloo\)](https://open.spotify.com/track/4eLM9kVdcf9gxtLGpg9rjw) | [Tobias Rahim](https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB), [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr) | [VULKANØ](https://open.spotify.com/album/6W9IDAYpK8OoYpsB3QoJSZ) | 2:47 |
+| 15 | [m3aya v1 \(sammen\)](https://open.spotify.com/track/2k3uSOCHsTXy4f1WSB0fjt) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [m3aya v1 \(sammen\)](https://open.spotify.com/album/1WI8oxJKbQFDBNfpJPPCG8) | 2:50 |
+| 16 | [Problemer Med Staten](https://open.spotify.com/track/1fLjOQjzHITpaRkVyouKGA) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Problemer Med Staten](https://open.spotify.com/album/7CgCHtxQ8L7bfst8Y43tAM) | 2:03 |
+| 17 | [Coldplay](https://open.spotify.com/track/6p8SQMxYN2i8MZJv7VI9YW) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Coldplay](https://open.spotify.com/album/3wDJPueYov5F4sMDQE66UC) | 2:30 |
 | 18 | [Rich Porter](https://open.spotify.com/track/3EVPeziBwtX2wwJUMJFEQm) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Rich Porter](https://open.spotify.com/album/6pWzVPKp2obWtt69IFkRO9) | 2:27 |
 | 19 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 |
 | 20 | [Vi Okay](https://open.spotify.com/track/7tJHSRwoQJdMGLadmoc2no) | [ozzy](https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9) | [Vi Okay](https://open.spotify.com/album/4Ec3biM4N7LKBx5Iy0cQiN) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 49 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
 | 50 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 |
 
-Snapshot ID: `AAAAAJ4L0EwbF5hG7z6LEdnCgB9oeJHj`
+Snapshot ID: `AAAAAM69T8oBeLGizxbV20ByvET9ikyZ`

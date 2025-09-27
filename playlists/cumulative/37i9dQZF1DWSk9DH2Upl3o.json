@@ -1065,6 +1065,28 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0uJrjLgpbXYm1oZuYveQTC"
+      },
+      "artists": [
+        {
+          "name": "Pigeons Playing Ping Pong",
+          "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        },
+        {
+          "name": "Here Come The Mummies",
+          "url": "https://open.spotify.com/artist/2pXFmyqPm7wHJ1HGAwyR3L"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261405,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6kIOK0wehQcuKux8whAD42"
+    },
+    {
+      "album": {
         "name": "To Live A Making",
         "url": "https://open.spotify.com/album/7gMrxYFvgxnlquxVUQ0kCp"
       },
@@ -1580,7 +1602,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 197251,
       "name": "Hit The Ground Runnin\u2019",
       "url": "https://open.spotify.com/track/6pdQqWYLQaWlVba7D5YEAf"

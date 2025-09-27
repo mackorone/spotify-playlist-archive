@@ -2,7 +2,7 @@
 
 ### [just hits](https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp)
 
-> Current favorites and exciting new music\. Cover: Doja Cat
+> Current favorites and exciting new music\. Cover: Sabrina Carpenter
 
 1,353 songs - 2 day 21 hr 58 min
 

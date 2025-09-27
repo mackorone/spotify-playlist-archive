@@ -1,12 +1,12 @@
 {
   "description": "Jadi lebih produktif ditemani musik terkini",
-  "num_followers": 150121,
+  "num_followers": 150144,
   "original_name": "Lebih Produktif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFKNv+v+7/cLGvV4IksEZExdcUpr",
+  "snapshot_id": "AAAAANc5rxQBG7h2spGRUBE1ioppiFqb",
   "tracks": [
     {
       "added_at": "2025-09-24 03:29:23",
@@ -55,6 +55,26 @@
       "duration_ms": 207216,
       "name": "Monolog",
       "url": "https://open.spotify.com/track/1zu5ZpnrSArdoaT6Qq3yo9"
+    },
+    {
+      "added_at": "2025-09-26 08:14:03",
+      "album": {
+        "name": "Belai",
+        "url": "https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg"
+      },
+      "artists": [
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
+        },
+        {
+          "name": "Amsyar Leee",
+          "url": "https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8"
+        }
+      ],
+      "duration_ms": 223106,
+      "name": "Belai",
+      "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
     },
     {
       "added_at": "2025-09-24 03:29:23",

@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Max Jackson
+> The cream of today's country crop\. Cover: Kaylee Bell
 
-1,038 songs - 2 day 8 hr 47 min
+1,041 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Buy You a Drink](https://open.spotify.com/track/7jV8yxLZRSptgZcnDhBk6p) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci), [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c), [Southbound xo](https://open.spotify.com/artist/2Vd1apm9XWtfshrjOmodgB) | [Buy You a Drink](https://open.spotify.com/album/1vDqaBpfHMJDluz91XspPR) | 3:19 | 2022-12-08 | 2023-04-28 |
 | [Bye Bye Bye](https://open.spotify.com/track/081NX6xSxwSKgleTmGc58F) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now? \(Deluxe\)](https://open.spotify.com/album/12bTJ4RqxjUEhVg8vSMx9d) | 2:29 | 2024-09-12 | 2025-01-10 |
 | [California Sober \(Feat\. Chris Stapleton\)](https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:24 | 2024-08-15 | 2025-01-10 |
+| [Call For You](https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb) | 3:38 | 2025-09-25 |  |
 | [Call It](https://open.spotify.com/track/01enz5CyIPdU0KKhyN1lid) | [Chloe Styler](https://open.spotify.com/artist/1KD6bHB3Oa9Gp3TuLtpLXX) | [Call It](https://open.spotify.com/album/0xOxoDFnoSGcDtBA2nLWxB) | 4:08 | 2024-08-01 | 2024-09-06 |
 | [Call It A Day](https://open.spotify.com/track/4qLUfteMobl6D5b9psoyrV) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Call It A Day](https://open.spotify.com/album/5bb1vKHBhujvkX7ziKLijA) | 3:02 | 2023-11-02 | 2024-06-07 |
 | [Call It Magic](https://open.spotify.com/track/3EZJD3WZvUoXYEa5x8wUVV) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [Call It Magic](https://open.spotify.com/album/75fNhcZUxb6xgmGjERA6Cw) | 3:22 | 2024-06-27 | 2024-08-02 |
@@ -222,7 +223,7 @@
 | [Cruise Control](https://open.spotify.com/track/3ZdNbkfAPiYxN53jYQOh4c) | [Jesse Dozzi](https://open.spotify.com/artist/5V6iCwSrD8np7jjVSxZH6f) | [Cruise Control](https://open.spotify.com/album/5xEP796HQV7XpByVpgZC9e) | 3:26 | 2024-09-19 | 2024-11-22 |
 | [Daffodils](https://open.spotify.com/track/5UNMwWjbKzj1hn4jSkk9tP) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [The Coastal Plain](https://open.spotify.com/album/4CVDGvkyx7NuuG04nqEBkJ) | 3:14 | 2024-08-15 | 2024-11-15 |
 | [Dammit Randy](https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Dammit Randy](https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7) | 2:59 | 2024-06-27 | 2024-08-23 |
-| [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 | 2025-07-10 |  |
+| [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 | 2025-07-10 | 2025-09-27 |
 | [Damn Love](https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai) | 3:10 | 2023-03-16 | 2023-07-14 |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-04-21 | 2022-08-23 |
 | [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2023-01-05 | 2023-07-07 |
@@ -278,7 +279,7 @@
 | [Dust](https://open.spotify.com/track/0rlSeqKKb0S2Chu9hOylQM) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Dust](https://open.spotify.com/album/3k5GlMvgPA41jPz8A9lQqg) | 2:57 | 2023-08-10 | 2023-09-15 |
 | [Dying Man](https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:03 | 2023-03-02 | 2023-09-15 |
 | [Easy To Love](https://open.spotify.com/track/0sxoEtpGZKcelKPU3xQyAF) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Easy To Love](https://open.spotify.com/album/4fIAnqinLU9HISWz9PeCqf) | 2:18 | 2024-04-18 | 2024-07-12 |
-| [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-24 |  |
+| [Eatin' Big Time](https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:45 | 2025-07-24 | 2025-09-27 |
 | [End Up With Me](https://open.spotify.com/track/4UOIb7ID8WEfWRwETcsrXK) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [End Up With Me](https://open.spotify.com/album/4csq2ZqjjGKrJGj9798iXf) | 2:43 | 2023-04-27 | 2023-06-30 |
 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 | 2022-09-08 | 2023-02-17 |
 | [Everything](https://open.spotify.com/track/045YT1MAfeRSbtAxA2Vkyo) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Everything](https://open.spotify.com/album/4InMmBXbvnfYt2fXckBIax) | 2:38 | 2024-02-29 | 2024-06-14 |
@@ -663,6 +664,7 @@
 | [Old Habits](https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Out Of The Blue](https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC) | 3:48 | 2025-06-05 | 2025-09-12 |
 | [Old Road Home](https://open.spotify.com/track/25Wkj6YVw5AoUimus8QFim) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Old Road Home](https://open.spotify.com/album/57DcVHyT2iHJCyPmqOocmy) | 4:39 | 2024-02-29 | 2024-03-29 |
 | [Old Skoolin'](https://open.spotify.com/track/2ucaoYoZxD8wrsAHofdEe1) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Old Skoolin'](https://open.spotify.com/album/4uCXNTXiYLHq5fAptVf08p) | 2:41 | 2023-01-19 | 2023-05-19 |
+| [On A River](https://open.spotify.com/track/55kJuUfBDApairwt8cij12) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa) | 3:33 | 2025-09-25 |  |
 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 | 2023-03-16 | 2023-07-08 |
 | [On My Own Again](https://open.spotify.com/track/7I5wXK9J0legvm0z3YUMMS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 2:58 | 2023-07-06 | 2023-10-06 |
 | [On One Hand](https://open.spotify.com/track/0HsgQEjBv4P0cwx8VsIC8b) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [On One Hand](https://open.spotify.com/album/1s3wNlFSNI6DIEaLTOCqt9) | 3:10 | 2023-11-09 | 2024-02-16 |
@@ -819,6 +821,7 @@
 | [Somewhere Over Laredo](https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Somewhere Over Laredo](https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre) | 3:46 | 2025-05-22 | 2025-08-22 |
 | [Son of a Bitch](https://open.spotify.com/track/5EyxR5yEN3mohQ5EycOpII) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Son of a Bitch](https://open.spotify.com/album/4QBpgWspmECfxr201lGim4) | 2:35 | 2024-02-22 | 2024-06-28 |
 | [Son Of A Sinner](https://open.spotify.com/track/25VQoiuyc0HkC5FQTj1a8G) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads Of The Broken](https://open.spotify.com/album/4aWPCLZWr9gG0ucLIMJavx) | 3:52 | 2022-06-16 | 2022-09-30 |
+| [Song For Shania](https://open.spotify.com/track/6VWsRQY6A3irb7dIILmHfK) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Cowboy Up](https://open.spotify.com/album/4sf1VyilDtKqaduPSTXfet) | 2:52 | 2025-09-25 |  |
 | [Song For That](https://open.spotify.com/track/16n6CeG5RSJl2rHwT7iPeV) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Song For That](https://open.spotify.com/album/620OUzRNp0w5u5BKzr1yD6) | 3:35 | 2023-04-06 | 2023-06-16 |
 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2024-06-27 | 2024-09-13 |
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-04-14 | 2022-09-16 |
@@ -885,7 +888,7 @@
 | [The Girl I Knew](https://open.spotify.com/track/5fC1YgBLFdSv3Uslvw6EoM) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [The Girl I Knew](https://open.spotify.com/album/3ti4yhlrktsAPHwQ7gRs4P) | 2:51 | 2023-10-05 | 2023-12-20 |
 | [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-12-04 | 2023-05-19 |
 | [The Good Old Days](https://open.spotify.com/track/5fj9aeDmJqhW1a8oOf93RN) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [The Good Old Days](https://open.spotify.com/album/0roXqyLV3kV0cEDv2dZ0lz) | 3:46 | 2022-07-28 | 2022-10-28 |
-| [The Hard Way](https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0) | 2:42 | 2025-09-11 |  |
+| [The Hard Way](https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way](https://open.spotify.com/album/52Xjyzwd2vW3fshL00SYU0) | 2:42 | 2025-09-11 | 2025-09-27 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-16 | 2023-04-07 |
 | [The Kiss Or The Crash](https://open.spotify.com/track/7rOQ2KxjEYkVYVwNn9Ffgf) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [The Kiss Or The Crash](https://open.spotify.com/album/2BKlCgEwlI9y3gyRqkWsGQ) | 3:37 | 2022-11-03 | 2023-04-07 |
 | [THE LITTLE THINGS](https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [THE LITTLE THINGS](https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV) | 2:57 | 2022-08-05 | 2023-03-03 |

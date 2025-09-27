@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Tomamos ruta desde el Noreste hasta el Viejo Oeste \ud83c\udf35\ud83e\udd20. Carin Le\u00f3n & Kacey Musgraves en portada \ud83d\udcf8",
+  "description": "Tomamos ruta desde el Noreste hasta el Viejo Oeste \ud83c\udf35\ud83e\udd20. Wuicho Kun & Macario Mart\u00ednez en portada \ud83d\udcf8",
   "name": "Country Sin Fronteras",
   "tracks": [
     {
@@ -3871,6 +3871,46 @@
     },
     {
       "album": {
+        "name": "Otra salida",
+        "url": "https://open.spotify.com/album/7uNknMu8j1uaoN0fuiiWVS"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/5idCAuhxhDWldAm93frr0u"
+    },
+    {
+      "album": {
+        "name": "Folkpirana",
+        "url": "https://open.spotify.com/album/0ZHp60suuyyjM5V3VmaNHj"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203984,
+      "name": "Oye ser",
+      "url": "https://open.spotify.com/track/0iTyn1JGXMElvitIjfAUD7"
+    },
+    {
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -5216,6 +5256,28 @@
       "duration_ms": 279275,
       "name": "UNA CERVEZA",
       "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
+    },
+    {
+      "album": {
+        "name": "Vale La Pena El Placer",
+        "url": "https://open.spotify.com/album/1ZK8BfGxGa9cq5IjbG5b3p"
+      },
+      "artists": [
+        {
+          "name": "Alfonzin Garc\u00eda \"Dj Alfonzin\"",
+          "url": "https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf"
+        },
+        {
+          "name": "La Inspiraci\u00f3n Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232203,
+      "name": "Vale La Pena el Placer",
+      "url": "https://open.spotify.com/track/77Sl92BrLLUHjfMscFyomB"
     },
     {
       "album": {

@@ -1,13 +1,37 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 79789,
+  "num_followers": 79836,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKKgEGfXTRuepVm5Q65Kt64r85p",
+  "snapshot_id": "AAAAADIkb0adYvBCMUXfZlqzErNo2Zb4",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "Day Trip",
+        "url": "https://open.spotify.com/album/4034QRna8JscYRRB1qglgz"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        },
+        {
+          "name": "Sheila E.",
+          "url": "https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P"
+        }
+      ],
+      "duration_ms": 288473,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/0tHHb1W4dSzslg92YkCMsm"
+    },
     {
       "added_at": "2025-09-19 04:00:09",
       "album": {
@@ -1599,26 +1623,6 @@
       "duration_ms": 225000,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/5ruzvCeaC09Mr6qkDvCN38"
-    },
-    {
-      "added_at": "2023-06-02 04:01:00",
-      "album": {
-        "name": "Nice and Easy (Walter's Version)",
-        "url": "https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        },
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 256057,
-      "name": "Nice and Easy (Walter's Version)",
-      "url": "https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx"
     },
     {
       "added_at": "2023-06-23 04:01:00",

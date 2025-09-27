@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 40084,
+  "num_followers": 40093,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAAHpXKqPtFL7vonPWcq7i+J",
+  "snapshot_id": "aNSGAAAAAADzxLUJl2gAYAWPw27DvOzA",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Transformers: Revenge Of The Fallen The Album",
-        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Capital M-E",
-      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tidal Wave",
         "url": "https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC"
       },
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
       },
       "artists": [
         {
@@ -764,25 +748,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 196440,
-      "name": "El Paso",
-      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Again",
-        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "Everything Must Go",
-      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
+      "duration_ms": 168360,
+      "name": "Capital M-E",
+      "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
     },
     {
       "added_at": null,
@@ -803,6 +771,38 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "Everything Must Go",
+      "url": "https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/0uUCGxUnbgiYDc9mnj9nZh"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Roxy Dekker
 
-1,070 songs - 2 day 3 hr 6 min
+1,071 songs - 2 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,7 +448,7 @@
 | [Hou Me Vast](https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:36 | 2023-02-23 | 2023-05-10 |
 | [Hou Me Vast](https://open.spotify.com/track/1lpHDQdfTxoljwnMLTadLl) | [ROI](https://open.spotify.com/artist/2RvGx3eWrv0Yiq6nJQNXwA) | [Hou Me Vast](https://open.spotify.com/album/0w8klfvc6lom4df8jcLHj9) | 2:31 | 2024-05-16 | 2024-07-20 |
 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 | 2023-06-15 | 2023-09-22 |
-| [Hou Me Vast](https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [](https://open.spotify.com/album/null) | 3:01 | 2025-09-25 |  |
+| [Hou Me Vast](https://open.spotify.com/track/4NWbfobiaeNThKKKMJvSWw) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Vrijplaats II](https://open.spotify.com/album/3SFpV9JpcDmKoWEJYnH8Ts) | 3:01 | 2025-09-25 |  |
 | [Hou Mij Vast](https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Hou Mij Vast](https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ) | 2:33 | 2023-12-25 | 2024-03-08 |
 | [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 | 2024-01-16 |
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
@@ -717,6 +717,7 @@
 | [Nooit Meer Los](https://open.spotify.com/track/3GhQVwKsqwHk6dFsW6mp9d) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Donkerblauw](https://open.spotify.com/album/6bK5UIQOHzcBlwUMZbBopk) | 2:49 | 2023-04-27 | 2023-08-25 |
 | [Nooit Meer Regen](https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Nooit Meer Regen](https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj) | 3:20 | 2023-05-18 | 2023-09-01 |
 | [Nooit Meer Spijt](https://open.spotify.com/track/2h6HTbs5OeIyxsUa6kUeAL) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt](https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3) | 2:27 | 2023-02-23 | 2023-03-18 |
+| [Normaal Toen](https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Normaal Toen](https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10) | 3:14 | 2025-09-26 |  |
 | [Nou En](https://open.spotify.com/track/5l67NZAMvIOJ2NhMRpLtqc) | [Laura Heijgen](https://open.spotify.com/artist/6ByAkaup3Ff0fo6kUjXmAA) | [Nou En](https://open.spotify.com/album/7gqSCbF0YcOXbYdYCetdkh) | 2:50 | 2024-08-01 | 2024-09-27 |
 | [Nu Je Niet Meer Op Me Wacht](https://open.spotify.com/track/4j6ycDf5rOaPXp1BYAQeD1) | [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [Nu Je Niet Meer Op Me Wacht](https://open.spotify.com/album/4PADRHCc39RpqqaHaErjR7) | 2:25 | 2025-07-10 | 2025-08-29 |
 | [Nymfomane](https://open.spotify.com/track/3LXMu9kIUBSor7GgjencRf) | [Sick & Nimon](https://open.spotify.com/artist/78oo3JI8z5VDA8voOrA0Tl), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Euro Visie](https://open.spotify.com/album/01nIt5EO52HpWtk3Z7hoYi) | 2:58 | 2023-09-14 | 2023-09-29 |
@@ -864,7 +865,7 @@
 | [Stoel In De Hemel](https://open.spotify.com/track/6rJNM9Ep8bENSG3vkr2mst) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [AEDM](https://open.spotify.com/album/6x3zIf1yzUpcL7Pr12cxSx) | 3:13 | 2023-12-08 | 2024-02-16 |
 | [Stoplicht](https://open.spotify.com/track/0a32yTqzSdyKGqtNktoOkp) | [Matheu](https://open.spotify.com/artist/5GKUHOGaoXmhdsDzuyFnAM) | [Stoplicht](https://open.spotify.com/album/0hF991hapjy8Z6qY87qqrX) | 2:17 | 2025-03-13 | 2025-06-20 |
 | [Struikelen](https://open.spotify.com/track/5dRjmLzrU2qN2uc7uViQBt) | [Birgit Schuurman](https://open.spotify.com/artist/3t8YK94jSx9SebLHxsrAba) | [Struikelen](https://open.spotify.com/album/5kfTrFYrZ4oKWRDJ8tt5lF) | 3:13 | 2024-03-07 | 2024-03-22 |
-| [Stuk](https://open.spotify.com/track/49BsomzPsrybT3lmKhyVNZ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Stuk](https://open.spotify.com/album/3Z3FlnpmuXxxlCkheoGenE) | 3:06 | 2025-05-22 |  |
+| [Stuk](https://open.spotify.com/track/49BsomzPsrybT3lmKhyVNZ) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Stuk](https://open.spotify.com/album/3Z3FlnpmuXxxlCkheoGenE) | 3:06 | 2025-05-22 | 2025-09-27 |
 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-02-01 | 2024-05-17 |
 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 | 2024-04-04 | 2024-06-21 |
 | [Suicide Vest](https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU) | [Massi](https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056) | [Suicide Vest](https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ) | 4:02 | 2025-01-06 | 2025-02-28 |

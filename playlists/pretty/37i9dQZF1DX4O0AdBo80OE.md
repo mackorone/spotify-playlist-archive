@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. Sabino en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,844 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,862 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 100 | [todos los días](https://open.spotify.com/track/4jCxY9Lz53qbTBWNoaA7xD) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [todos los días](https://open.spotify.com/album/1V60bSO7MoRte4DJ0YgL2s) | 3:32 |
 | 101 | [Beats Sin Guardar: Anillazo](https://open.spotify.com/track/4chDy3O5QuIY6Hu2tKlQgq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [KEVIN PÓRTATE BIEN](https://open.spotify.com/album/78MQL4LdKOTHCyCoElZQhN) | 1:52 |
 
-Snapshot ID: `AAAAAPV7DeSEO5YGg8ES6u+b7eUW44CT`
+Snapshot ID: `AAAAACjeQodbb3PaXejZ7KDmfRwsK5Lh`

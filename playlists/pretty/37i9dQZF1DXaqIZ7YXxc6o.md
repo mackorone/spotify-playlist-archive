@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Mell Hall, Loosie Grind, KLP
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,316 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,319 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 21 | [DESIDERIO](https://open.spotify.com/track/5HCOROrwg6GYBhDG4BcKpO) | [EUROCLUB](https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR) | [DESIDERIO](https://open.spotify.com/album/5SybuNi2Sqdmu4fj7i3C6S) | 3:11 |
 | 22 | [Original Don](https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Original Don](https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL) | 2:48 |
 | 23 | [Royalty](https://open.spotify.com/track/4j5jyPieqmrFSaKmPKIwoo) | [Hermitude](https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u), [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go) | [Royalty](https://open.spotify.com/album/1ytdCmycRnhnGCEecUoISo) | 3:54 |
-| 24 | [Good 2 Me](https://open.spotify.com/track/6GoIPwcRtlCymyD5U6n9m9) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [](https://open.spotify.com/album/null) | 2:54 |
+| 24 | [Good 2 Me](https://open.spotify.com/track/6GoIPwcRtlCymyD5U6n9m9) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Code Orange](https://open.spotify.com/album/6ntERnJi8qWVp9EOZ1CWom) | 2:54 |
 | 25 | [Phases](https://open.spotify.com/track/6NzoVYiCWulsOECuaXDazA) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Abi Flynn](https://open.spotify.com/artist/734bmNflMslwf81kYoy7bs) | [Phases](https://open.spotify.com/album/3msLrvkMWgzkEMM0HTmTxJ) | 3:04 |
 | 26 | [7 Conversations](https://open.spotify.com/track/2Em2zk11fhl9hAlJzfZaRv) | [Ben Gerrans](https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z), [Ray Pelka](https://open.spotify.com/artist/4aujT37M75QocEJDguSHQX) | [Primrose](https://open.spotify.com/album/3onMVI57ow1sE8SuLcCVEd) | 3:17 |
 | 27 | [Don't Stop](https://open.spotify.com/track/5pr9u6WBt7GYW0kfsGyOBe) | [Entasia](https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll) | [Don't Stop](https://open.spotify.com/album/2JMgRTiqdKZIhxf7OX7JlN) | 3:26 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 30 | [Restart \(ft\. KLP\)](https://open.spotify.com/track/3jmxKFfaUa3kFXaldidkDd) | [Human Movement](https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Restart \(ft\. KLP\)](https://open.spotify.com/album/1q1MrlDS7p0APneFaobN71) | 3:35 |
 | 31 | [Freak4u](https://open.spotify.com/track/6BdNAVrZARhQETrlBiOxVT) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Freak4u](https://open.spotify.com/album/2UqieJFOJLp2EYQLlqNAgh) | 2:23 |
 | 32 | [System](https://open.spotify.com/track/0oB8BYocpXaQ7hxX8ZhPJ6) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [System](https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk) | 3:21 |
-| 33 | [Haunted Nights](https://open.spotify.com/track/2aWT2xExUohnos6YChlPZT) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [](https://open.spotify.com/album/null) | 3:52 |
+| 33 | [Haunted Nights](https://open.spotify.com/track/2aWT2xExUohnos6YChlPZT) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Haunted Nights EP](https://open.spotify.com/album/4TwzNEPDxK2UhdYGUBqCbc) | 3:52 |
 | 34 | [Last 2 Leave](https://open.spotify.com/track/5lfuQ9C0UOnmH4tRXrDjIK) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Last 2 Leave](https://open.spotify.com/album/1nOD3LXVd8jdPN7qGsxEmU) | 2:05 |
 | 35 | [You & Me](https://open.spotify.com/track/44U8coblvssDK0S4u3ExWD) | [Hitch](https://open.spotify.com/artist/0EqZqTzwUy9Sgm7yFIllLo) | [You & Me](https://open.spotify.com/album/5Uq20eQXYt6RktqeeBpl9U) | 3:39 |
 | 36 | [LIVING WITHOUT U](https://open.spotify.com/track/2krfwDVuO30gcQjZ0houHE) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [LIVING WITHOUT U](https://open.spotify.com/album/1kls1K8RYllsX1baM4X8kQ) | 3:11 |

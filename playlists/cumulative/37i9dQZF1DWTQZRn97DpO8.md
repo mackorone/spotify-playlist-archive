@@ -4,7 +4,7 @@
 
 > 🍯🍯🍯\. Photo : Monsieur Nov
 
-427 songs - 20 hr 55 min
+427 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Sweet & Sour](https://open.spotify.com/track/5T7CniQD3QkuW4dYYnXgWN) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1), [Gee](https://open.spotify.com/artist/0f6GblrD0ZFUiFJob9f2kx) | [Chick & Dips 2 : The Draft](https://open.spotify.com/album/3QxixShx2IuHif11uiim9y) | 3:46 | 2024-09-19 | 2024-11-29 |
 | [Sweet Chili \(2ème service\)](https://open.spotify.com/track/73clO0iIYPGQhA5zDfRzTn) | [Nu Linh](https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1) | [Chick & Dips 4](https://open.spotify.com/album/5aGu92N8hnz773lierwn0T) | 3:32 | 2025-02-13 | 2025-04-04 |
 | [Sérénade](https://open.spotify.com/track/11gx5jgG7Pm6Y5R2Ba6RDB) | [Luidji](https://open.spotify.com/artist/3bRGJQd7b4lE3ZAEMfOXJp) | [Saison 00](https://open.spotify.com/album/0MdN6wfUWZtMFXV0ESjYuf) | 2:39 | 2023-09-28 | 2024-02-02 |
+| [T'aimes ça](https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 2:58 | 2025-09-25 |  |
 | [tant que tu](https://open.spotify.com/track/6YTcI8Q9Jd6gp3y2mag1PQ) | [Malter](https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq) | [tant que tu](https://open.spotify.com/album/2JAvBvIm2jodW3QPM5NNc0) | 3:20 | 2024-11-07 | 2024-12-13 |
 | [Tapage nocturne](https://open.spotify.com/track/0BJcAYp5NPWcuf9CsY3cA9) | [IZAYA](https://open.spotify.com/artist/41KYjgHKxKMEj7EDe0rn8q) | [Tapage nocturne](https://open.spotify.com/album/34zQPFYqL55xpkWxudrAo9) | 2:46 | 2024-06-27 | 2024-11-22 |
 | [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 | 2025-02-20 |  |
@@ -401,8 +402,7 @@
 | [Tout essayé \- Acoustic version](https://open.spotify.com/track/77ZBaOziSr8gYC7r6o1RMh) | [MOORE](https://open.spotify.com/artist/0xCU6JJnQWVFOQd6Zcbtj5) | [Tout essayé \(Acoustic version\)](https://open.spotify.com/album/2u4dt36M3jpHIBh1CiXfk9) | 2:36 | 2023-09-28 | 2023-10-13 |
 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 | 2025-08-28 |  |
 | [toutes les fleurs](https://open.spotify.com/track/4105wlfhkrp2TfDJI6WdCB) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [les rêves sont dangereux](https://open.spotify.com/album/5nQ77Ms0SO65x0MASlVDBd) | 1:40 | 2024-12-12 | 2025-01-31 |
-| [Track 4](https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
-| [Track 5](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
+| [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2025-09-25 |  |
 | [Tranquille](https://open.spotify.com/track/5hUn3qV8PbmxIsMjiCjRpF) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Tranquille](https://open.spotify.com/album/0R4Wx0ucuQHUNkXPmV7eZG) | 1:56 | 2024-01-18 | 2024-03-01 |
 | [Trop Mimi](https://open.spotify.com/track/4TFzHSY1EQ7pbc1cqFndW0) | [Myra](https://open.spotify.com/artist/0CREEnqrPXZUTyHKATsUWE), [Chilla](https://open.spotify.com/artist/1ywkNtrO3WGuwaehqxyjAO) | [Trop Mimi](https://open.spotify.com/album/68RNLV2N3LZPgWJVk2CF6c) | 2:27 | 2024-04-25 | 2024-06-28 |
 | [Trop parfait](https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Trop parfait](https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta) | 3:06 | 2023-11-23 | 2024-01-26 |
@@ -429,7 +429,7 @@
 | [WHAT U WANT](https://open.spotify.com/track/3oq7NseaUAz0ek6gBRBLZp) | [Skuna](https://open.spotify.com/artist/0Su00YAdlLw2Aetn7RZLJj), [Fencyy](https://open.spotify.com/artist/4YjYNFa9MFvUthyS1uC5Jw) | [DBHZ](https://open.spotify.com/album/0KZvqSlLHthn3KroPEtob4) | 2:15 | 2024-11-07 | 2025-01-10 |
 | [Who's Bad](https://open.spotify.com/track/7bXXKJHrBtiXx8tSf1OHUm) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN) | [Été sans fin : Prequel](https://open.spotify.com/album/2Ech0WTe6WsoYZ7AJbGI2z) | 2:47 | 2024-11-28 | 2025-03-21 |
 | [Yoncé](https://open.spotify.com/track/14kKddVV5x6y9sipuT39EW) | [Lafleyne](https://open.spotify.com/artist/2HtWjfmbuI9kqQqMfLkfvh) | [GOLD DIGGER](https://open.spotify.com/album/6rWakywtTCeU6sOCu0NmNI) | 3:05 | 2024-05-02 | 2024-09-13 |
-| [Yourtes](https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [](https://open.spotify.com/album/null) | 3:52 | 2025-09-25 |  |
+| [Yourtes](https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Je ne parlerai plus d'amour](https://open.spotify.com/album/1wz9KckimITRnA6lyRi3sP) | 3:52 | 2025-09-25 |  |
 | [À fond dedans](https://open.spotify.com/track/0TtOlL08aBpUtifSV5OdH8) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [À fond dedans](https://open.spotify.com/album/7JYoOFXZnD5ez4KkzB8CyF) | 3:30 | 2024-05-30 | 2024-07-19 |
 | [À la Hauteur](https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR) | [Pbl](https://open.spotify.com/artist/2ErtP3QGjQ4j7qQk3ORl3j), [Jewel Usain](https://open.spotify.com/artist/24lRU7Y7ZWpVa3v23FZqS6) | [À la Hauteur](https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t) | 2:44 | 2024-05-16 | 2024-07-19 |
 | [À LA PERFECTION](https://open.spotify.com/track/3nx8xlv6c3WTXbHYEjR4XS) | [Jadanaë](https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs) | [À LA PERFECTION](https://open.spotify.com/album/0ddFtQze2uq1BIFkWluejw) | 3:14 | 2024-05-30 | 2024-12-13 |

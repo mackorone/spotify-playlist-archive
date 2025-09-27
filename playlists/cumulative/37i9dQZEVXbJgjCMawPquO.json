@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "El Tel\u00e9fono",
+        "url": "https://open.spotify.com/album/2mhv52mOOOduVog0JbXvTk"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Cumbiera",
+          "url": "https://open.spotify.com/artist/4SMeiEST1BPqTgELZ3vDWM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "El Tel\u00e9fono",
+      "url": "https://open.spotify.com/track/0xCcicFveII7TRtrpF87C1"
+    },
+    {
+      "album": {
         "name": "En Otra Vida",
         "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
       },
@@ -1767,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Entre El Cielo, Vos y Yo",
+        "url": "https://open.spotify.com/album/4ZXbCnEaDvRDHOSfstDuqH"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Cumbiera",
+          "url": "https://open.spotify.com/artist/4SMeiEST1BPqTgELZ3vDWM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244181,
+      "name": "Entre El Cielo, Vos y Yo",
+      "url": "https://open.spotify.com/track/3kPL8x7RFdMfH07VPaHUTI"
+    },
+    {
+      "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
       },
@@ -1800,7 +1836,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 149187,
       "name": "ERROR 403",
       "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
@@ -3230,7 +3266,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
@@ -3922,6 +3958,32 @@
       "duration_ms": 218591,
       "name": "Parte & Choke (with Ryan Castro) - Remix",
       "url": "https://open.spotify.com/track/5Gis9Pxk7Cl9hAoV6rwj50"
+    },
+    {
+      "album": {
+        "name": "Partido En Dos",
+        "url": "https://open.spotify.com/album/6Y52WMgBmAFKjKyP1rsk21"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Cumbiera",
+          "url": "https://open.spotify.com/artist/4SMeiEST1BPqTgELZ3vDWM"
+        },
+        {
+          "name": "Jhonny y Su Agrupaci\u00f3n Claros",
+          "url": "https://open.spotify.com/artist/2sdybxARVht0Oi6JwIoRGM"
+        },
+        {
+          "name": "El Cartel Q'mbiero",
+          "url": "https://open.spotify.com/artist/7hnB35qB2KCMBGDNLMZKia"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194649,
+      "name": "Partido En Dos",
+      "url": "https://open.spotify.com/track/4RW3OiTqLpawYVPDrkWlHj"
     },
     {
       "album": {
@@ -5227,7 +5289,7 @@
     },
     {
       "album": {
-        "name": "Tattoo",
+        "name": "Tattoo (ReMiX)",
         "url": "https://open.spotify.com/album/67by0hUc99Dr4Dwn0WUt23"
       },
       "artists": [
@@ -5236,19 +5298,19 @@
           "url": "https://open.spotify.com/artist/4SMeiEST1BPqTgELZ3vDWM"
         },
         {
-          "name": "El Cartel Q'mbiero",
-          "url": "https://open.spotify.com/artist/7hnB35qB2KCMBGDNLMZKia"
-        },
-        {
           "name": "Jhonny y Su Agrupaci\u00f3n Claros",
           "url": "https://open.spotify.com/artist/2sdybxARVht0Oi6JwIoRGM"
+        },
+        {
+          "name": "El Cartel Q'mbiero",
+          "url": "https://open.spotify.com/artist/7hnB35qB2KCMBGDNLMZKia"
         }
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-15",
+      "date_removed": null,
       "duration_ms": 252686,
-      "name": "Tattoo",
+      "name": "Tattoo - ReMiX",
       "url": "https://open.spotify.com/track/0qp3siKpcW5KSq7t0voCMr"
     },
     {
@@ -5268,7 +5330,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 176129,
       "name": "Te Quer\u00eda Ver",
       "url": "https://open.spotify.com/track/2JPctdUgvkQSpnUdfROxvY"
@@ -5334,7 +5396,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -5476,7 +5538,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-30",
+      "date_removed": null,
       "duration_ms": 225880,
       "name": "Tu Boda",
       "url": "https://open.spotify.com/track/5mp6OBKCAjN4UYRvhOuUze"
@@ -5852,7 +5914,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 210047,
       "name": "Verano Rosa",
       "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"

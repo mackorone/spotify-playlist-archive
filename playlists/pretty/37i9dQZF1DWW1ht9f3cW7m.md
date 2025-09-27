@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1ht9f3cW7m.md) - [plain]
 
 > indie and pop together in harmony 🥤 cover: sofia and the antoinettes
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,400 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,398 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [](https://open.spotify.com/album/null) | 3:34 |
+| 1 | [REVOLVER](https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [WOMEN WHO LOVE TOO MUCH](https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V) | 3:34 |
 | 2 | [Drugs Don't Work](https://open.spotify.com/track/02kDT0zis0OkjpstQE4smc) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Hope Came Last](https://open.spotify.com/album/435kjRF6b4PhhLa8cadcLC) | 2:16 |
 | 3 | [Baby Teeth](https://open.spotify.com/track/4t4JakZ0A3nlOlFi6Z4LYm) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Baby Teeth](https://open.spotify.com/album/5dnePhTkDdoowk0jpLBMzJ) | 2:29 |
 | 4 | [Good Intentions](https://open.spotify.com/track/0P5PPuVLKdyHnWdjbOeMxa) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Good Intentions](https://open.spotify.com/album/3UmgT04hGukECZlKdsmFmW) | 2:58 |
-| 5 | [falling to pieces](https://open.spotify.com/track/3DLYVtmfEQ3ocxiWYstyrV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [](https://open.spotify.com/album/null) | 2:47 |
+| 5 | [falling to pieces](https://open.spotify.com/track/3DLYVtmfEQ3ocxiWYstyrV) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [when all is said and done](https://open.spotify.com/album/5FXukjCyzwstvCQsSn4uP2) | 2:47 |
 | 6 | [Lemonade](https://open.spotify.com/track/7xUxlg5T0d9p04TjqrIVb9) | [Nadia Kadek](https://open.spotify.com/artist/6BWCmhv7pJu4PDZDRnoIKw) | [Lemonade](https://open.spotify.com/album/4XKswa1EEfMw5fZMy7tITU) | 2:36 |
 | 7 | [buttercup](https://open.spotify.com/track/2tyG8HDeoOQpN5XHwB0e96) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [buttercup](https://open.spotify.com/album/24u8S8yWPezu70hemgvdp0) | 4:30 |
 | 8 | [Babe III](https://open.spotify.com/track/6ISdEtUrn6yjMbL5gArVsP) | [TYGERMYLK](https://open.spotify.com/artist/2Mz1PQnanSTGMp5lYkNY94) | [Babe III](https://open.spotify.com/album/7yX3fIvBa6sG9LcpHQDEX9) | 3:09 |

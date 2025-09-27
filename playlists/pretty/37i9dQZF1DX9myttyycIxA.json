@@ -1,29 +1,13 @@
 {
   "description": "Underground indie rock gems. Cover: Phantastic Ferniture",
-  "num_followers": 309289,
+  "num_followers": 309309,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE+2vnTGlXHvlLQlKeyaTAJeT8FP",
+  "snapshot_id": "AAAAAOeYxmiUM7mFRF33Ecs40N0a8cTJ",
   "tracks": [
-    {
-      "added_at": "2025-09-19 04:05:13",
-      "album": {
-        "name": "NEW AGE",
-        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
-      },
-      "artists": [
-        {
-          "name": "sleepazoid",
-          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
-        }
-      ],
-      "duration_ms": 212497,
-      "name": "NEW AGE",
-      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
-    },
     {
       "added_at": "2025-09-19 04:00:33",
       "album": {
@@ -39,22 +23,6 @@
       "duration_ms": 181393,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/2bQcgUJSzCV48MJwPTnqFN"
-    },
-    {
-      "added_at": "2025-09-19 04:00:33",
-      "album": {
-        "name": "Teenage Messiah",
-        "url": "https://open.spotify.com/album/0NQeE4xYtYeTOrbilll4Ao"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 296724,
-      "name": "Teenage Messiah",
-      "url": "https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA"
     },
     {
       "added_at": "2025-09-19 04:00:33",
@@ -89,6 +57,86 @@
       "url": "https://open.spotify.com/track/6yFrdnr5l7TirwCgpQrdTj"
     },
     {
+      "added_at": "2025-09-26 04:00:11",
+      "album": {
+        "name": "My Side",
+        "url": "https://open.spotify.com/album/2ZymsMGNRT1oClQZ43Sdri"
+      },
+      "artists": [
+        {
+          "name": "Prewn",
+          "url": "https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "My Side",
+      "url": "https://open.spotify.com/track/32o1EW6fYVvdVPSAGNSB8a"
+    },
+    {
+      "added_at": "2025-09-26 04:00:11",
+      "album": {
+        "name": "Everything You Wanted / Intention",
+        "url": "https://open.spotify.com/album/0OjMNZASEiQg821jmZpgYO"
+      },
+      "artists": [
+        {
+          "name": "Dead Gowns",
+          "url": "https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Everything You Wanted",
+      "url": "https://open.spotify.com/track/3hVq9e2hA3J0NZmlXqTl0B"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Teenage Messiah",
+        "url": "https://open.spotify.com/album/0NQeE4xYtYeTOrbilll4Ao"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 296724,
+      "name": "Teenage Messiah",
+      "url": "https://open.spotify.com/track/5BqaUUlhK73bzyN3edyvVA"
+    },
+    {
+      "added_at": "2025-09-19 04:00:33",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+    },
+    {
+      "added_at": "2025-09-19 04:05:13",
+      "album": {
+        "name": "NEW AGE",
+        "url": "https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03"
+      },
+      "artists": [
+        {
+          "name": "sleepazoid",
+          "url": "https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel"
+        }
+      ],
+      "duration_ms": 212497,
+      "name": "NEW AGE",
+      "url": "https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9"
+    },
+    {
       "added_at": "2025-09-19 04:00:33",
       "album": {
         "name": "come back down",
@@ -119,22 +167,6 @@
       "duration_ms": 265151,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/6lO1PfNGBCkjGiVU71FwzM"
-    },
-    {
-      "added_at": "2025-09-19 04:00:33",
-      "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
       "added_at": "2025-09-19 04:00:33",
@@ -1320,7 +1352,7 @@
           "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
         }
       ],
-      "duration_ms": 214942,
+      "duration_ms": 214943,
       "name": "Goldmine",
       "url": "https://open.spotify.com/track/7JpyHk0znA1e34QCpjIoB4"
     },

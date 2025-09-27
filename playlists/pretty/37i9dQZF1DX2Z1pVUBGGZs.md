@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring olivia dean ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,677 likes - 125 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,654 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [](https://open.spotify.com/album/null) | 3:06 |
-| 2 | [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [](https://open.spotify.com/album/null) | 3:17 |
+| 1 | [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [It's A Funny Thing](https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH) | 3:06 |
+| 2 | [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:17 |
 | 3 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
 | 4 | [All The Same](https://open.spotify.com/track/3YdPA3KVj4XAVxsG8ExiaP) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1), [Ryan Amber](https://open.spotify.com/artist/01YJBuanxkPGr6EGC5yDLP) | [All The Same](https://open.spotify.com/album/2xErki2v93UMr0abpbQKnL) | 2:39 |
 | 5 | [Break the Girl](https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI) | 3:31 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 85 | [Freckleface](https://open.spotify.com/track/01vJXrCDBBRfQcZmK76VsM) | [Izzy Withers](https://open.spotify.com/artist/2INrRE4j3gaPvjeOEo1a8r) | [Freckleface](https://open.spotify.com/album/4zbEu7VQjgoCn67gWhLZjO) | 3:02 |
 | 86 | [Pretty Girls](https://open.spotify.com/track/3AUpTpz3K8o54wxCHnTgDz) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Pretty Girls](https://open.spotify.com/album/6Rd08XZvsepsY6RqZ3cEyy) | 2:26 |
 | 87 | [crickets!!!](https://open.spotify.com/track/5wFONkT1kjKdDVz9jePnRu) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [crickets!!!](https://open.spotify.com/album/7LvJPylY82V3nH6M7a5u8k) | 1:39 |
-| 88 | [Track 3](https://open.spotify.com/track/4P6mForfQUvE34nxrfwfV3) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 88 | [WOTEVA](https://open.spotify.com/track/4P6mForfQUvE34nxrfwfV3) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [The Concept of Cool](https://open.spotify.com/album/3dpYGOv99zm5rKEvydh4Ke) | 3:42 |
 | 89 | [Wheelspin](https://open.spotify.com/track/7AHArxVOFtn0aONSrHRomj) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Wheelspin](https://open.spotify.com/album/7c6dBx67VWPGHWfhNo7Vux) | 2:29 |
 | 90 | [ur luv is see through!](https://open.spotify.com/track/0AAik5GZKfDVdXXNzKVTlG) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [ur luv is see through!](https://open.spotify.com/album/0mos8b8lEAkWyDd5b4Uwx8) | 2:43 |
 | 91 | [Catch Me If You Can](https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Catch Me If You Can](https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm) | 2:37 |

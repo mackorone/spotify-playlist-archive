@@ -2,7 +2,7 @@
 
 ### [La Reina: Éxitos de la Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
 
-> ¡Las más placosas y llegadoras de nuestra música! Al millón con Banda MS, Fuerza Regida.
+> ¡Las más placosas y llegadoras de nuestra música! Al millón con Netón Vega.
 
 794 songs - 1 day 17 hr 43 min
 

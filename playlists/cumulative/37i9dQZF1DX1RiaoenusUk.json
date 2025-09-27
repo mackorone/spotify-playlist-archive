@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "SLY",
+        "url": "https://open.spotify.com/album/0sTzU2fQlGC2XTpzSz7IPm"
+      },
+      "artists": [
+        {
+          "name": "Rama Molina",
+          "url": "https://open.spotify.com/artist/3hf74rtbhgBbwjMmYw275t"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212237,
+      "name": "SLY",
+      "url": "https://open.spotify.com/track/61zeBDBmnBs7lAPIqMMng4"
+    },
+    {
+      "album": {
         "name": "Sobrado",
         "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
       },
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 210580,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"

@@ -1,13 +1,29 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Kashus Culpepper",
-  "num_followers": 568727,
+  "num_followers": 568759,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB7B2KzAIKv8nbct21RZOKa0V/52",
+  "snapshot_id": "AAAAACDEKGk78Vn8WcfFi6JVDyBK7uMN",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Introducing...Lamont Landers",
+        "url": "https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ"
+      },
+      "artists": [
+        {
+          "name": "Lamont Landers",
+          "url": "https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq"
+        }
+      ],
+      "duration_ms": 219645,
+      "name": "Love's Got The Best Of Us",
+      "url": "https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L"
+    },
     {
       "added_at": "2025-08-29 04:00:27",
       "album": {
@@ -503,22 +519,6 @@
       "duration_ms": 319306,
       "name": "Don't Bury Our Love",
       "url": "https://open.spotify.com/track/7Ja98hUS6HfvQN5UOIQCMh"
-    },
-    {
-      "added_at": "2022-09-02 04:02:00",
-      "album": {
-        "name": "That's How Love Is Made",
-        "url": "https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "That's How Love Is Made",
-      "url": "https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk"
     },
     {
       "added_at": "2022-11-11 05:01:00",

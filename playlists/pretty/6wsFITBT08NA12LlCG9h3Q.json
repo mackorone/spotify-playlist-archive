@@ -1,12 +1,12 @@
 {
   "description": "A <a href=\"http://www.digster.fm/decades\">classic playlist</a> with the best hits of the 90s featuring No Doubt, Nirvana, and more.",
-  "num_followers": 147078,
+  "num_followers": 147014,
   "original_name": "90s",
   "owner": {
     "name": "uDiscover Playlists",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "AAAFAz/mPIrpX5XBuYpLyOXl457LlAJF",
+  "snapshot_id": "AAAFBBAQBkeuotGuRiHvSA7di7zQG8ZK",
   "tracks": [
     {
       "added_at": "2025-09-19 20:57:06",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
+      "added_at": "2025-04-22 23:10:10",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
       "added_at": "2025-06-20 23:30:45",
       "album": {
         "name": "Desireless",
@@ -71,22 +87,6 @@
       "duration_ms": 273533,
       "name": "Closing Time",
       "url": "https://open.spotify.com/track/087OBLtoeS3Q6j0k6tMNAI"
-    },
-    {
-      "added_at": "2025-04-22 23:10:10",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2025-04-22 23:10:10",

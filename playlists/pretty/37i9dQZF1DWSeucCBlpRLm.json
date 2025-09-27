@@ -1,6 +1,6 @@
 {
   "description": "Kickstart your Diwali party with these bangers.",
-  "num_followers": 83010,
+  "num_followers": 83005,
   "original_name": "Diwali Party",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "Jalebi Baby",
+        "url": "https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "Jalebi Baby",
+      "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Besharam Rang (From \"Pathaan\")",
         "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "Jalebi Baby",
-        "url": "https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc"
-      },
-      "artists": [
-        {
-          "name": "Tesher",
-          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Jalebi Baby",
-      "url": "https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1039,26 +1039,22 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "Buzz (feat. Badshah)",
+        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+          "name": "Aastha Gill",
+          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
         },
         {
-          "name": "Simar Kaur",
-          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
-        },
-        {
-          "name": "Ishers",
-          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         }
       ],
-      "duration_ms": 226696,
-      "name": "Dil Chori",
-      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
+      "duration_ms": 193413,
+      "name": "Buzz (feat. Badshah)",
+      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1079,22 +1075,42 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
-        "name": "Buzz (feat. Badshah)",
-        "url": "https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd"
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
       },
       "artists": [
         {
-          "name": "Aastha Gill",
-          "url": "https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Ishers",
+          "url": "https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Singhsta",
+          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
+        },
+        {
+          "name": "Shera",
+          "url": "https://open.spotify.com/artist/0IXFD9A9MndfMBzi8vYpoN"
+        },
+        {
+          "name": "Sham Balkar",
+          "url": "https://open.spotify.com/artist/1Ej0yyqGmnh1avt05gbhdQ"
         }
       ],
-      "duration_ms": 193413,
-      "name": "Buzz (feat. Badshah)",
-      "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
+      "duration_ms": 226696,
+      "name": "Dil Chori",
+      "url": "https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb"
     },
     {
       "added_at": "2025-09-18 12:21:29",
@@ -1402,6 +1418,22 @@
         {
           "name": "Navraj Hans",
           "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Singhsta",
+          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
+        },
+        {
+          "name": "Oye Sheraa",
+          "url": "https://open.spotify.com/artist/3gyYSD2w6UlmfrTeIY3Y3i"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "duration_ms": 203881,
@@ -1611,6 +1643,30 @@
     {
       "added_at": "2025-09-18 12:21:29",
       "album": {
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+      },
+      "artists": [
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+    },
+    {
+      "added_at": "2025-09-18 12:21:29",
+      "album": {
         "name": "Ginny Weds Sunny (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0uV4f6bZkuwb6BW1dZ3EPC"
       },
@@ -1635,30 +1691,6 @@
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
-    },
-    {
-      "added_at": "2025-09-18 12:21:29",
-      "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
-      },
-      "artists": [
-        {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2025-09-18 12:21:29",

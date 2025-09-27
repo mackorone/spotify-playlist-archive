@@ -1,12 +1,12 @@
 {
   "description": "This is Kacey Musgraves. The essential tracks, all in one playlist.",
-  "num_followers": 150619,
+  "num_followers": 150634,
   "original_name": "This Is Kacey Musgraves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAAJj3wetVu3PNnkaX2IO+hB",
+  "snapshot_id": "aNSGAAAAAAAft5sfiSq+DOrjqjLvztE/",
   "tracks": [
     {
       "added_at": null,
@@ -807,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Highway",
-        "url": "https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf"
+        "name": "Deeper Well: Deeper into the Well",
+        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
       },
       "artists": [
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 189607,
-      "name": "Lost Highway",
-      "url": "https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH"
+      "duration_ms": 176160,
+      "name": "Perfection (feat. Tiny Habits)",
+      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
     },
     {
       "added_at": null,
@@ -839,22 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deeper Well: Deeper into the Well",
-        "url": "https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ"
+        "name": "Lost Highway",
+        "url": "https://open.spotify.com/album/75xRAiBzaIxASbYLy8EJdf"
       },
       "artists": [
         {
           "name": "Kacey Musgraves",
           "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Perfection (feat. Tiny Habits)",
-      "url": "https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt"
+      "duration_ms": 189607,
+      "name": "Lost Highway",
+      "url": "https://open.spotify.com/track/7okG4aydS3Sb8xZvI3BvLH"
     },
     {
       "added_at": null,

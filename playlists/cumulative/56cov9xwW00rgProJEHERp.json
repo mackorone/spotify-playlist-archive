@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 231011,
       "name": "Enough",
       "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
@@ -2114,7 +2114,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB"
@@ -2168,7 +2168,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 183920,
       "name": "HLYTW",
       "url": "https://open.spotify.com/track/4wbe7z56dPMnPr36yCWkG2"
@@ -2277,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "I Got a Feeling (bennygsingz version)",
+        "url": "https://open.spotify.com/album/5IKnij5cDGxlLgRhMc0jqE"
+      },
+      "artists": [
+        {
+          "name": "Benny G",
+          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195023,
+      "name": "I Got a Feeling - bennygsingz version",
+      "url": "https://open.spotify.com/track/2H66q7oukkdbFXTuOhuy0c"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
       },
@@ -2350,6 +2368,24 @@
       "duration_ms": 186794,
       "name": "I Love You, Please Don't Hate Me",
       "url": "https://open.spotify.com/track/1i1naQZbmJoF8ocBpTbRGl"
+    },
+    {
+      "album": {
+        "name": "i still check your playlists",
+        "url": "https://open.spotify.com/album/7mBy3Gtg4Vq2wTpwmEHx0z"
+      },
+      "artists": [
+        {
+          "name": "Abby Powledge",
+          "url": "https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222693,
+      "name": "i still check your playlists",
+      "url": "https://open.spotify.com/track/7iiF6dH1Fj6FFi09scAVtE"
     },
     {
       "album": {
@@ -3356,6 +3392,28 @@
       "duration_ms": 152610,
       "name": "Loving You (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/3Jx1s38DVgJJwuoxAGi7kh"
+    },
+    {
+      "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/4K5aRgSLJf2vqjv8hWyoLS"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "Pacific Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/4V9K5J0QHwTQldLhmzF9Xm"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278644,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4qmYDdVA3zYPPejNjHOwnh"
     },
     {
       "album": {
@@ -6066,6 +6124,24 @@
       "duration_ms": 218025,
       "name": "Wolves of Worry",
       "url": "https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I"
+    },
+    {
+      "album": {
+        "name": "Archwood (the playlist)",
+        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149546,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
     },
     {
       "album": {

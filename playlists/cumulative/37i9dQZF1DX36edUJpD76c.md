@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Nimo
 
-137 songs - 5 hr 57 min
+138 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 | 2025-07-17 | 2025-08-09 |
 | [All meine Jungs](https://open.spotify.com/track/7dxqHPXKdmE9lakEb7vb6f) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [Albi](https://open.spotify.com/artist/6WdjEdbgAoHeeXLwDsSgMg) | [All meine Jungs](https://open.spotify.com/album/50TpvyJmNqdopeLlfZ56sc) | 2:24 | 2025-09-04 |  |
 | [Alles oder Nix](https://open.spotify.com/track/36puuD04lEUD8kVwQsTLm6) | [SSIO](https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2) | [Alles oder Nix](https://open.spotify.com/album/0NnRLfvRuoKVqQgX1gcBwu) | 4:12 | 2025-07-17 | 2025-08-23 |
-| [Alo Alo](https://open.spotify.com/track/001CpUJGi8ZKwZrsoTEB5H) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Alo Alo](https://open.spotify.com/album/0rwrY3NX3RM6rBSYtXApFK) | 3:06 | 2025-09-11 |  |
+| [Alo Alo](https://open.spotify.com/track/001CpUJGi8ZKwZrsoTEB5H) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Alo Alo](https://open.spotify.com/album/0rwrY3NX3RM6rBSYtXApFK) | 3:06 | 2025-09-11 | 2025-09-27 |
 | [Andere Niveau](https://open.spotify.com/track/3XonaIpRmNAxmbjZgTTvSy) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Andere Niveau](https://open.spotify.com/album/2D7jmbKdukoAIUNsFNsurQ) | 2:14 | 2025-09-05 |  |
 | [Anders](https://open.spotify.com/track/6SfK9quduDlFWTYgbJ3gkv) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Edin](https://open.spotify.com/artist/7jkdo74SDT1PYu6Ksbusxa) | [Anders](https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj) | 3:24 | 2025-07-24 | 2025-09-16 |
 | [Antalya](https://open.spotify.com/track/0auzdD4Kii0Yt0qVbBX6Bg) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT) | [Antalya](https://open.spotify.com/album/5O8n71paupWwPEPVJvaAiz) | 2:36 | 2025-07-28 |  |
@@ -79,6 +79,7 @@
 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 | 2025-08-07 |  |
 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 | 2025-07-17 | 2025-09-05 |
 | [La Vida Loca](https://open.spotify.com/track/3yMeqMt0tSObdDJa4rrwnK) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN), [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT) | [La Vida Loca](https://open.spotify.com/album/3o6g9hzh8xushQGUpYOZ3A) | 2:38 | 2025-09-04 | 2025-09-26 |
+| [LALALA](https://open.spotify.com/track/3d34okTHT2xVaCRAkIPd9D) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [LALALA](https://open.spotify.com/album/7HqFOgtxy8fCZ9PMZyqVDG) | 2:33 | 2025-09-26 |  |
 | [Lebenlang](https://open.spotify.com/track/3twwhIkTw6W3pZORgIYuPq) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Lebenlang](https://open.spotify.com/album/0L8DLLCkieXVvbDIJSN0mA) | 2:23 | 2025-07-17 | 2025-09-05 |
 | [Like That](https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Like That](https://open.spotify.com/album/22RP1h38s3HzXr9T8c7nJ8) | 3:00 | 2025-09-25 |  |
 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 | 2025-07-17 |  |

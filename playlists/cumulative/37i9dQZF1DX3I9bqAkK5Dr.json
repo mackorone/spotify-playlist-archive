@@ -5871,6 +5871,28 @@
     },
     {
       "album": {
+        "name": "Photo Tisthava",
+        "url": "https://open.spotify.com/album/3Qiq0HuKQtgRdtp9RCBJ9d"
+      },
+      "artists": [
+        {
+          "name": "Singer Prabha",
+          "url": "https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo"
+        },
+        {
+          "name": "Kalyan Keys",
+          "url": "https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "Photo Tisthava",
+      "url": "https://open.spotify.com/track/1p8yKnn8UkL32O3EBdhqV8"
+    },
+    {
+      "album": {
         "name": "Pilla",
         "url": "https://open.spotify.com/album/4yzhPDSzzUvrtcex919xy1"
       },

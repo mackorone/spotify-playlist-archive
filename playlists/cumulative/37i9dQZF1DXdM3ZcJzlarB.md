@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 CCINNI
 
-324 songs - 1 day 7 hr 4 min
+325 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Es Por Ti \(Afro House\)](https://open.spotify.com/track/5BaMBVMxo9vSluCkdVqlRH) | [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4) | [Es Por Ti \(Afro House\)](https://open.spotify.com/album/29Otm254rv5Hh3uVEPuAa2) | 4:34 | 2025-03-28 | 2025-09-26 |
 | [Escapar](https://open.spotify.com/track/4ywH2MZ755oUVILVtQxfWm) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Escapar](https://open.spotify.com/album/4KP7MjgfR11ArBxLAV6NBP) | 3:31 | 2024-07-26 | 2025-03-20 |
 | [Espejos \- Denis Horvat Remix](https://open.spotify.com/track/4YgMXxdB4oq9U7D99rqCp7) | [Agustin Giri](https://open.spotify.com/artist/7zXtvsjXDrLakTsrs63fM5), [Marco Viera](https://open.spotify.com/artist/348ec6yd9QpDujVnSPoe2P), [Denis Horvat](https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee) | [Espejos](https://open.spotify.com/album/4YOSYeAyGVYSGnyekTfIHJ) | 3:24 | 2024-02-16 | 2025-03-20 |
-| [Esto queda entre nosotros](https://open.spotify.com/track/7DjBIYHohsTDOjjQoqX4S7) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Esto queda entre nosotros](https://open.spotify.com/album/2yWoUfI7m6f91RxtMfCVZr) | 2:45 | 2025-07-11 |  |
+| [Esto queda entre nosotros](https://open.spotify.com/track/7DjBIYHohsTDOjjQoqX4S7) | [Varese](https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg) | [Esto queda entre nosotros](https://open.spotify.com/album/2yWoUfI7m6f91RxtMfCVZr) | 2:45 | 2025-07-11 | 2025-09-27 |
 | [Ethereal Pulse \- Hernan Cattaneo & Mercurio Remix](https://open.spotify.com/track/3rz57bviUeYsuL8Vv5aEbX) | [Paul James Nolan](https://open.spotify.com/artist/7KE5W6C40IGlenfpUUgRmR), [Brent Lawson](https://open.spotify.com/artist/6AWQPmyjjUPEWQrikEWx0h), [Mercurio](https://open.spotify.com/artist/4J8apBMaUX5Ofyn2dbbpxG) | [Ethereal Pulse \(Hernan Cattaneo & Mercurio Remix\)](https://open.spotify.com/album/4RY8734UXGkgjtXcvGdZIb) | 8:03 | 2025-05-09 | 2025-08-01 |
 | [Evolution](https://open.spotify.com/track/30dpkvmIMPp2lYhNo26nKq) | [Brann \(AR\)](https://open.spotify.com/artist/57oyOgxK2A4XJXW5Ye8im8) | [Evolution](https://open.spotify.com/album/5uE8AE1vl0XmAfbRBJscR7) | 4:54 | 2025-07-11 |  |
 | [Face 2 Face](https://open.spotify.com/track/00qAbeH5Xf0VGvxQa9IOS8) | [La Cintia](https://open.spotify.com/artist/1fNABhEytJVAJtJJQaejiP) | [Face 2 Face](https://open.spotify.com/album/1vMSWE3nHA0wvyRAt0dm3X) | 5:52 | 2025-03-19 | 2025-06-06 |
@@ -126,6 +126,7 @@
 | [Fuck el Police \- Remix](https://open.spotify.com/track/2v5gBze24GL5nWbZgvaEAk) | [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Fuck el Police \(Remix\)](https://open.spotify.com/album/3CHiQzPxbqvfkkm2QM3BlM) | 4:21 | 2023-11-17 | 2024-01-13 |
 | [Glasgow](https://open.spotify.com/track/50RIEOe4hgWNmtxiHCi7Z7) | [Nicolas Rada](https://open.spotify.com/artist/0Nc5Tlq6KSlVL6Dv0mmsc5) | [Glasgow / Riot](https://open.spotify.com/album/1cG4JY9DCL4WVreg68EWjr) | 7:40 | 2025-06-06 |  |
 | [Gracias a la Vida \- Victor Ruiz Remix](https://open.spotify.com/track/5vUYZ2rVqQHkZufW6PWmwF) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Gracias a la Vida \(Victor Ruiz Remix\)](https://open.spotify.com/album/4gvBFJbHDzyXIKK96hK0Jz) | 6:25 | 2023-11-17 | 2025-03-20 |
+| [Grain \- Radio Edit](https://open.spotify.com/track/3dkUg7ZUEpf26EE5GQbBDe) | [Emiliano Demarco](https://open.spotify.com/artist/16iyQKCAnBMnXZ41URHvoC), [RADON](https://open.spotify.com/artist/1MLActbIjTfRKz1wlkuymB), [Amancay](https://open.spotify.com/artist/4eHQBG8Mao5Gbwt8dHKX2l) | [Grain](https://open.spotify.com/album/6MNr4zSzPCTYhKmUOuE7v7) | 3:25 | 2025-09-26 |  |
 | [Grizzly](https://open.spotify.com/track/0eJAdywm5Us3s0SSnTbpKb) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/5eH9ZsVF5KtFzlgTj9OZLu) | 7:57 | 2020-09-04 | 2023-11-18 |
 | [Grizzly](https://open.spotify.com/track/2q9MxkasX02QRMxIwmOuyh) | [Valdovinos](https://open.spotify.com/artist/1VkZyYSFTT0p8xNyyaUV0L), [Josefina Barreix](https://open.spotify.com/artist/5SXlK4xm33IALfIZedwDaG) | [Grizzly EP](https://open.spotify.com/album/61tID3JlAy9ZeUsG01kI3w) | 7:57 | 2020-09-04 | 2023-11-11 |
 | [Haciendo Saturar \(Tayhana Remix\)](https://open.spotify.com/track/79WOaiXVf1Bs6tm9VKLe1U) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j), [TAYHANA](https://open.spotify.com/artist/647u1oTQ3MgB1k4FwVrPfg) | [Haciendo Saturar Remixes](https://open.spotify.com/album/3a3ohZXXEyvWJhfRyA7fff) | 4:52 | 2025-08-01 |  |

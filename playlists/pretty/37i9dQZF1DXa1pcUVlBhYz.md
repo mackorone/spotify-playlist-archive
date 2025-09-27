@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Shimza & Kasango
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,942 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,954 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 4 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 |
 | 5 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 |
 | 6 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 |
-| 7 | [That's My Story](https://open.spotify.com/track/3fJoN6gAwCEaRKoJPlxCOt) | [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ), [musclecars](https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [That's My Story](https://open.spotify.com/album/0kGyuBgfWUO2xJr4k8UW0x) | 8:49 |
+| 7 | [That's My Story](https://open.spotify.com/track/3fJoN6gAwCEaRKoJPlxCOt) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [musclecars](https://open.spotify.com/artist/1Rd3VMOwsZQjTxWaYZYd1R), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [That's My Story](https://open.spotify.com/album/0kGyuBgfWUO2xJr4k8UW0x) | 8:49 |
 | 8 | [Goes All Night](https://open.spotify.com/track/2jCn94bqM1sOpKhM9ykKIl) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Goes All Night](https://open.spotify.com/album/4pj2MWIaQ1cTzBNO0ttWr6) | 2:48 |
 | 9 | [FREAK !](https://open.spotify.com/track/0Y9xKwUyMz42lI6N7j7U3r) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [FREAK !](https://open.spotify.com/album/6eqiQ6psybcURQ9rS6ouJO) | 2:40 |
 | 10 | [All Or Nothing](https://open.spotify.com/track/5ryjcOp0ZyAwzcHCnyofVR) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [All Or Nothing](https://open.spotify.com/album/5VwQr7tA1L0gKA3cuzUIQB) | 2:54 |

@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Yovie Widianto,  Andi Rianto, Rony Parulian
 
-490 songs - 1 day 7 hr 52 min
+491 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-04-18 | 2024-12-13 |
 | [I Am Happy](https://open.spotify.com/track/0NGeAVUY3sKVK5oPn8MEue) | [Reza Artamevia](https://open.spotify.com/artist/4gAsoAtSidvdSqwvHLffXf) | [Movement Of Soul](https://open.spotify.com/album/1RxNbNYU9DZ1XNIylbgvKs) | 4:42 | 2024-04-25 | 2024-05-24 |
 | [I Don’t Wanna Go Back Home](https://open.spotify.com/track/7zChtXZTVVkabuBCJWlD0h) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [I Don’t Wanna Go Back Home](https://open.spotify.com/album/1yiw1YFdwvGrIuNjJ8uFMu) | 4:24 | 2024-01-26 | 2024-04-12 |
+| [Iman Tak Restui](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 3:51 | 2025-09-25 |  |
 | [Indah Apa Adanya](https://open.spotify.com/track/2RCDHvNUaoXKC9JsgtsGi4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:45 | 2025-06-12 | 2025-07-18 |
 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 | 2025-02-20 |  |
 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 | 2025-08-21 |  |
@@ -336,6 +337,7 @@
 | [Rahasia Hati \(New Version\)](https://open.spotify.com/track/5ljoPIZmzmXVoTdF7ebfwE) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [Rahasia Hati \(New Version\)](https://open.spotify.com/album/2irA4FZKAdkCn7y6iceOhx) | 4:19 | 2024-11-07 | 2025-07-25 |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-03 | 2024-10-25 |
 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 | 2024-01-26 | 2024-03-22 |
+| [Rindu Tak Berujung \(Rindu Tak Berujung Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4O9cZFm3ct1G8HApq3ZNan) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb) | [Rindu Tak Berujung \(Rindu Tak Berujung Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4555EkSU9FLrOsj7G8TM91) | 4:16 | 2025-09-25 |  |
 | [Room For Someone](https://open.spotify.com/track/6PL6UX3zf3No2Aa4w2yKXB) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Room For Someone](https://open.spotify.com/album/0R8L8vIgcXMz1lmrWYQVXR) | 2:26 | 2025-08-15 |  |
 | [Ruang Hidup](https://open.spotify.com/track/3lrCSyPHotdOAMu10Sp62o) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kepada, Yang Terhormat](https://open.spotify.com/album/0GY8wV9c0h68Izx8eEzjXF) | 3:23 | 2025-09-18 |  |
 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 | 2024-03-01 | 2025-02-14 |
@@ -460,6 +462,7 @@
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-03-28 | 2025-02-14 |
 | [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-24 |  |
 | [Terima Kasih](https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Terima Kasih](https://open.spotify.com/album/3j8Y4da2KygEkphQNPzxjk) | 3:53 | 2025-09-25 |  |
+| [Terima Kasih](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 3:44 | 2025-09-26 |  |
 | [Terima Kasih Sudah Bertahan](https://open.spotify.com/track/6A1VXwBrL7hpGXScZkGo8D) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 4:15 | 2024-03-14 | 2024-07-27 |
 | [terjebak imajinasi](https://open.spotify.com/track/2NMdEvZmw5y4BCU1K6ZDOq) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [terjebak imajinasi](https://open.spotify.com/album/3569cgiDWP0bqJ3VWCQZ7I) | 3:42 | 2024-06-21 | 2024-11-15 |
 | [terjebak imajinasi \- acoustic version](https://open.spotify.com/track/2mKCo6yFO77yt0XN5G7vIy) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [terjebak imajinasi \(acoustic version\)](https://open.spotify.com/album/3UuteNNDPaFk8E5rp9qdlN) | 3:42 | 2025-02-06 | 2025-03-14 |
@@ -480,8 +483,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-04 |  |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-06-07 |
-| [Track 12](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-26 |  |
-| [Track 2](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |
 | [Tuhan Yang Tahu](https://open.spotify.com/track/1695rzxy8HrOhjtvEZ3LjF) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Baik Dan Burukmu Tuhan Yang Tahu](https://open.spotify.com/album/3pnJ1JefhcYPoIq6alYuhL) | 4:19 | 2024-03-07 | 2024-03-29 |

@@ -2,7 +2,7 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: O'Kenneth
+> Hottest bars coming live from the 233\.  Cover: Ko\-jo Cue
 
 815 songs - 1 day 17 hr 16 min
 

@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Robert Randolph
 
-378 songs - 1 day 0 hr 36 min
+380 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Easy Come, Easy Go](https://open.spotify.com/track/34EEk7jTq2e0ZJCR7ZFFfV) | [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Jared James Nichols](https://open.spotify.com/album/5YCXm7ojCh4KEclmUVhYCL) | 4:17 | 2023-01-13 |  |
 | [Easy Love Part 1](https://open.spotify.com/track/7594aZRfOmr2R2SlZrhsPn) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/5xkRbkZomPLJTiR32Xksqk) | 4:07 | 2025-01-24 |  |
 | [Easy To Leave](https://open.spotify.com/track/05axZYhIeoRSCY1raNZYYi) | [Lance Lopez](https://open.spotify.com/artist/76NkugbfY4BcWwrdxsahhm) | [Trouble Is Good](https://open.spotify.com/album/47tKN7zgsxZi57p46kbDOY) | 4:32 | 2023-07-14 |  |
+| [Evel Knievel](https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Brothers](https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp) | 3:43 | 2025-09-26 |  |
 | [Evil Eye](https://open.spotify.com/track/0HCWTypvO4PiGXJBdG1H9f) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Evil Eye](https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap) | 2:28 | 2025-05-23 |  |
 | [Feeling Lucky](https://open.spotify.com/track/0yIXo17ICm98IDhEGQPzcE) | [Leilani Kilgore](https://open.spotify.com/artist/2Muoy1Aup07JwrgVDf5XJe) | [Feeling Lucky](https://open.spotify.com/album/4evbxd9lTQiyigKmw3tYzW) | 5:52 | 2025-02-14 | 2025-03-15 |
 | [Feels Like Home](https://open.spotify.com/track/4Yi0zzUGqcf4fF1hmyGfKI) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Sinner \- Songwriter](https://open.spotify.com/album/28Iwpy0TFmrnoEi7gLjiBB) | 2:33 | 2021-11-05 |  |
@@ -274,6 +275,7 @@
 | [Roll Bones](https://open.spotify.com/track/4YAcRalM7dHtbbSRHwF92p) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [All Of This Life](https://open.spotify.com/album/0Xe0NMbJ7t8dTv0wiTH3wi) | 3:41 | 2020-10-16 | 2022-09-03 |
 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 | 2020-10-16 |  |
 | [Rubberband](https://open.spotify.com/track/597NMs0QRqHKrkj5e8pvHH) | [Jesse Redwing](https://open.spotify.com/artist/7E2iToLix5cqUAgbR7zswK) | [Rubberband](https://open.spotify.com/album/1jdW9CDZQtIRFb4ReH2XcB) | 3:38 | 2020-10-16 | 2024-07-06 |
+| [Running Dry](https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt) | [The Zac Schulze Gang](https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS) | [Straight to It](https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt) | 2:00 | 2025-09-26 |  |
 | [Sailing Down](https://open.spotify.com/track/1ApqnL4anYkSjhh8RoLkPw) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Nowhere Everywhere](https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko) | 2:48 | 2020-10-16 | 2024-07-06 |
 | [SAINTS & SIN](https://open.spotify.com/track/5sukydajInUaXEScc19Y5u) | [Fortune Child](https://open.spotify.com/artist/3rWJ0yDBY3NyNeJYcRiVAr) | [SAINTS & SIN](https://open.spotify.com/album/3bG3PgbM2zprEZ9TDHRB6x) | 3:56 | 2023-05-26 |  |
 | [Savior With A Razor \(feat\. Slash\)](https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [You Still Got Me](https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa) | 4:47 | 2024-10-25 |  |
@@ -297,7 +299,7 @@
 | [Spiritual Warrior](https://open.spotify.com/track/1PLVmQc9U0agrKJv0ljR3G) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU), [Kyle Nicolaides](https://open.spotify.com/artist/6rXPvIRGCRBuq1trwa6S4x) | [Spiritual Warrior](https://open.spotify.com/album/7gsysaYdtj1PhWZ7MBBaqP) | 3:33 | 2024-04-26 | 2024-06-08 |
 | [Spoonful](https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:50 | 2024-05-24 | 2024-07-06 |
 | [Stand Up](https://open.spotify.com/track/24GtJcOJHupzE0zXfsqaTj) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go), [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Stand Up](https://open.spotify.com/album/2iQPYApeM3GraUn8UZzJwB) | 3:32 | 2024-06-28 |  |
-| [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 |  |
+| [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 | 2020-10-16 | 2025-09-27 |
 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 | 2021-08-27 | 2024-04-19 |
 | [Step Aside](https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Step Aside](https://open.spotify.com/album/3uIHyMh4N7MtVz078AXchj) | 4:07 | 2021-08-27 |  |
 | [Still Alive and Well](https://open.spotify.com/track/72sihXI4EcZjbbnoo2yyHQ) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Still Alive and Well](https://open.spotify.com/album/0pzypZjas4pni7g8u3xj5a) | 3:37 | 2022-04-26 |  |
@@ -359,7 +361,7 @@
 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 | 2021-04-09 | 2024-07-13 |
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-04-14 |  |
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2023-04-15 |
-| [Walk Away](https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Walk Away](https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df) | 3:38 | 2025-05-02 |  |
+| [Walk Away](https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Walk Away](https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df) | 3:38 | 2025-05-02 | 2025-09-27 |
 | [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
 | [Way Down We Go](https://open.spotify.com/track/3fqYPxHqA3RiEk0hr4Z4zJ) | [Rev Theory](https://open.spotify.com/artist/10n5DVRlZbjbZ5ffpwpn6l), [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe), [ashpvnk](https://open.spotify.com/artist/3dA0yRUHt4EC9GAbVqJZf3) | [Way Down We Go](https://open.spotify.com/album/3KTad48fjnInjRtIlACP9r) | 3:18 | 2024-05-03 |  |
 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 | 2022-04-01 |  |

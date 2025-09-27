@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,500 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,488 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [](https://open.spotify.com/album/null) | 3:48 |
-| 2 | [Every Minute](https://open.spotify.com/track/3NE77NaFVEXQ8tlASEs2L8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [](https://open.spotify.com/album/null) | 4:06 |
+| 1 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 |
+| 2 | [Every Minute](https://open.spotify.com/track/3NE77NaFVEXQ8tlASEs2L8) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Raindrop River](https://open.spotify.com/album/39fxV8ZTvChfhFxlgnEwYa) | 4:06 |
 | 3 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
 | 4 | [Jeopardy \- Up Late with Lefty](https://open.spotify.com/track/5LzQvqJdJm1yRneSU4bfJj) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Pancho](https://open.spotify.com/album/6XzwC3drvhCqH2MumYmhFC) | 3:25 |
-| 5 | [Track 1](https://open.spotify.com/track/16o3UPyNd32nLPnvJMB7OS) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [i'll pray for you](https://open.spotify.com/track/16o3UPyNd32nLPnvJMB7OS) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [i'll pray for you](https://open.spotify.com/album/15lAyEjsBvdglmlOb03kOs) | 3:12 |
 | 6 | [Hardcore Band](https://open.spotify.com/track/4EAuRsejUfadrIvsNR0Me0) | [His His](https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO) | [Hardcore Band](https://open.spotify.com/album/3T1yBRYubBOR2qLxjBJzQO) | 1:48 |
 | 7 | [Heavy Metal](https://open.spotify.com/track/2SZJnE7Nkpa8QAt1zaR3oN) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Heavy Metal](https://open.spotify.com/album/4G7yVSLs4kpHia3Sa8HoJB) | 3:55 |
-| 8 | [Victory City](https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [](https://open.spotify.com/album/null) | 4:15 |
+| 8 | [Victory City](https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Kids Table](https://open.spotify.com/album/7IH426dtS8J6gAzKVJ1TSB) | 4:15 |
 | 9 | [Fool's Gold](https://open.spotify.com/track/54uoj9Bb6k97wSQ9MezOYU) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Fool's Gold](https://open.spotify.com/album/5v8FMiboqfjBxM7UgkIgtG) | 3:17 |
 | 10 | [\#44 \- Live From The Woodshed](https://open.spotify.com/track/5veNNxR1BUk75heaV2pMEY) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [\#44 \(Live From The Woodshed\)](https://open.spotify.com/album/3XebHZmQyeSRolXLauZT50) | 4:37 |
 | 11 | [skin!](https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [skin!](https://open.spotify.com/album/3GUmmOqPRyswzZpcICXhcx) | 2:40 |

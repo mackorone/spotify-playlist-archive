@@ -2,7 +2,7 @@
 
 ### [Novedades Rock](https://open.spotify.com/playlist/37i9dQZF1DX1MT1Ubz4wvO)
 
-> Todas las semanas los nuevos lanzamientos de rock en español, con Mi  Compa el Chino y El Vermucito en portada.
+> Todas las semanas los nuevos lanzamientos de rock en español 📸 Usted Señalemelo
 
 4,720 songs - 11 day 8 hr 20 min
 

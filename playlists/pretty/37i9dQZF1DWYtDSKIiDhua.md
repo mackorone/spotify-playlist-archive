@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Thundercat
+> The R&B and good vibe tracks for your current mood\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,991 likes - 94 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,986 likes - 94 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [](https://open.spotify.com/album/null) | 2:49 |
+| 1 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 2 | [out of body](https://open.spotify.com/track/2CNVHVI9GpqGPzgEL12jSf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [out of body](https://open.spotify.com/album/1Xzhnz2N4l3rHOUqS4k3rE) | 2:55 |
 | 3 | [Made 4 Two \(feat\. Charli Taft, SIRUP\)](https://open.spotify.com/track/5RlWyohsph62rIAPBbgLGV) | [DAUL](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc), [Charli Taft](https://open.spotify.com/artist/1SLtuLzX7bWXs78mRvEsM1), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [Made 4 Two \(feat\. Charli Taft, SIRUP\)](https://open.spotify.com/album/6Xdk6YsOTrb8iTWDCexKYh) | 2:30 |
 | 4 | [Teach Me How To Love \(Polo & Pan Remix\)](https://open.spotify.com/track/0YWlV6WywTnEzqHxvz9UMg) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Teach Me How To Love \(Remixes\)](https://open.spotify.com/album/6ZnkksYlpCEcUezjtfXe9j) | 3:25 |
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 6 | [Claw Machine](https://open.spotify.com/track/7rZYvC0lvwTq8k1Cdqccpw) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9) | [Claw Machine](https://open.spotify.com/album/6FpIHvOps6UZMgJudEJEtV) | 3:18 |
 | 7 | [Do You Regret It](https://open.spotify.com/track/038EsHfdxhEKdFG8HxZ45H) | [murxsaki](https://open.spotify.com/artist/2f3vU6SdaWfv8Uf5URMUcd), [Maraia](https://open.spotify.com/artist/2iRX88cXTztBJQmDMh113R), [Dark Mage](https://open.spotify.com/artist/31LIh7lyRWWRedpSOfcdjb) | [Do You Regret It](https://open.spotify.com/album/7Cohaobtg2efUoOzbGsCGy) | 2:36 |
 | 8 | [Stay the Whole Night](https://open.spotify.com/track/2IW0hvYpJ0mIknsNjTCuaB) | [Mika Yusay](https://open.spotify.com/artist/530rrIDcbLButvwlbJoDBx), [Kiéf](https://open.spotify.com/artist/6mRiRJOn73gL5XXbDQvSuC) | [Stay the Whole Night](https://open.spotify.com/album/2GJDVcSjuz2HypHN6DtMdK) | 3:20 |
-| 9 | [HELLO](https://open.spotify.com/track/5XvfJ5Ypwd3XC8fWoc5eYg) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [HELLO, KL](https://open.spotify.com/album/1I4vjz0pyWEhuipK8VXbpO) | 2:36 |
+| 9 | [HELLO](https://open.spotify.com/track/5XvfJ5Ypwd3XC8fWoc5eYg) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [HELLO in KL](https://open.spotify.com/album/1I4vjz0pyWEhuipK8VXbpO) | 2:36 |
 | 10 | [BACK 2 YOU](https://open.spotify.com/track/7sFjAaWSZDrUsxSxALlA09) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [BACK 2 YOU](https://open.spotify.com/album/2c7Osih348dWoitmLUvVAh) | 3:41 |
 | 11 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
 | 12 | [Safest Place \(feat\. Yuna\)](https://open.spotify.com/track/0VzVviCR4scXRZvJVCja75) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [TIME WILL TELL](https://open.spotify.com/album/6jNasr9sRzu0TmsRdaqh7z) | 2:31 |
-| 13 | [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [](https://open.spotify.com/album/null) | 3:30 |
+| 13 | [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Plea](https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg) | 3:30 |
 | 14 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 |
 | 15 | [Miso](https://open.spotify.com/track/4jnucWQ83BPDUSgmbXNJQy) | [PYC](https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D) | [Miso](https://open.spotify.com/album/1ZP879uKa82eBKwiJKiuMW) | 3:24 |
 | 16 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af) | 2:49 |

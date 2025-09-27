@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,073 likes - 205 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,223 likes - 205 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -214,4 +214,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 204 | [Conclusions](https://open.spotify.com/track/6VN2Sn6CQXLQodRLPzL5cm) | [Sten Hammarlund](https://open.spotify.com/artist/5OtOvmgag48UrQamOtdP9x) | [Conclusions](https://open.spotify.com/album/7uNjcU7S7gkmQVeBWWpncq) | 2:01 |
 | 205 | [Claim on the future](https://open.spotify.com/track/1hS0hVNC5GpM6MAD4jxd8K) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Claim on the future](https://open.spotify.com/album/2JNt3pBwJk8VjEt06E3kcC) | 2:09 |
 
-Snapshot ID: `AAAAAMeFvauHNZ/xW3li5tfGFfNzoenG`
+Snapshot ID: `AAAAAH5uJaKsDIA14TgBgk7IUbmRbn3b`

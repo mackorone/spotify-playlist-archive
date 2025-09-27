@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 31605,
+  "num_followers": 31607,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAQwDzzcR/PpP+3RnpQz3zb20LKw+jw",
+  "snapshot_id": "AAAQwmp5LAEGg5hOWgSO+GJ3AksT+x5d",
   "tracks": [
     {
       "added_at": "2025-09-08 16:26:08",
@@ -299,6 +299,30 @@
       "duration_ms": 207906,
       "name": "MOVEMENT",
       "url": "https://open.spotify.com/track/3fLwSEBKc3hVBqfuGUyzxN"
+    },
+    {
+      "added_at": "2025-09-26 13:31:47",
+      "album": {
+        "name": "Mind Off",
+        "url": "https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Mind Off",
+      "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
     },
     {
       "added_at": "2025-09-18 13:08:17",

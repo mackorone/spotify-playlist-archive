@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-18",
-  "description": "Catch the hottest Punjabi tracks. Cover - Shubh",
+  "description": "Catch the hottest Punjabi tracks. Cover - Navaan Sandhu",
   "name": "Hot Hits Punjabi",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 177391,
       "name": "3,13",
       "url": "https://open.spotify.com/track/3VaJjYo7tSJ88BY8zXPaqf"
@@ -1076,6 +1076,24 @@
       "duration_ms": 131077,
       "name": "Daku",
       "url": "https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy"
+    },
+    {
+      "album": {
+        "name": "House Navior",
+        "url": "https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187869,
+      "name": "Dapper Dan",
+      "url": "https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ"
     },
     {
       "album": {
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 181401,
       "name": "Rhyme Ain\u2019t Done",
       "url": "https://open.spotify.com/track/49aQ9RbGCOEu8oxkYr8Ous"
@@ -3848,6 +3866,24 @@
       "duration_ms": 154554,
       "name": "With You",
       "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "album": {
+        "name": "Without Me",
+        "url": "https://open.spotify.com/album/3ZIaRzsiL9ue12E2duQgiM"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156438,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7geJy2YZjqHe1oOjaSyRAE"
     },
     {
       "album": {

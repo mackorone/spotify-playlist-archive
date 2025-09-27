@@ -1167,6 +1167,28 @@
     },
     {
       "album": {
+        "name": "COMPLICATED.",
+        "url": "https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212812,
+      "name": "burn (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
+    },
+    {
+      "album": {
         "name": "And Then Life Was Beautiful",
         "url": "https://open.spotify.com/album/0mlSanObCAti0PvharqR1u"
       },
@@ -7347,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "kintsugi",
+        "url": "https://open.spotify.com/album/2COdDiiRXsmxJ1L3dOANd0"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "same ole",
+      "url": "https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA"
+    },
+    {
+      "album": {
         "name": "TWENTY TWENTY TYDE",
         "url": "https://open.spotify.com/album/3ES7lXUgaCTijTgNlspi5s"
       },
@@ -8870,46 +8910,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Nolais",
-          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        },
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
     },
     {
       "album": {

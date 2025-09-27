@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Al cien en la privada con Danny Felix, Juanchito & the hottest corridos in the U.S.",
+  "description": "Al cien en la privada con Grupo Feroz  & the hottest corridos in the U.S.",
   "name": "La Privada",
   "tracks": [
     {
@@ -3337,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "El Matadore",
+        "url": "https://open.spotify.com/album/0D6UklHPLjlyGS58kfL9IQ"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "El Matadore",
+      "url": "https://open.spotify.com/track/464AVDOqzjMFSbjqbQU0PJ"
+    },
+    {
+      "album": {
         "name": "El Matrix",
         "url": "https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU"
       },
@@ -6152,7 +6174,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 238464,
       "name": "Los Brothers 2",
       "url": "https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi"

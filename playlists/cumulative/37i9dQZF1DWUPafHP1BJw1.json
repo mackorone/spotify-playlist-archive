@@ -442,10 +442,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 191974,
       "name": "Bad Guy",
       "url": "https://open.spotify.com/track/2FH0jT9o0mz71s7AtMkAa4"
+    },
+    {
+      "album": {
+        "name": "Bad Guy (Piano Version)",
+        "url": "https://open.spotify.com/album/3YqvZQHEtyafP23EFwGWom"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111506,
+      "name": "Bad Guy - Piano Version",
+      "url": "https://open.spotify.com/track/07KaU8Ys0918uwDvX4Mysi"
     },
     {
       "album": {
@@ -4703,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "With or Without You",
+        "url": "https://open.spotify.com/album/1LK8yPsJJU7ArtI4UmSD9n"
+      },
+      "artists": [
+        {
+          "name": "Camille Berthollet",
+          "url": "https://open.spotify.com/artist/4csnBbGU0qHQaIiFN2ZUvI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "U2: With or Without You",
+      "url": "https://open.spotify.com/track/33sNTBTTequU3la0TDjbRN"
+    },
+    {
+      "album": {
         "name": "Un-break My Heart (arr. piano)",
         "url": "https://open.spotify.com/album/5OZmuatP2xhw1bqr2mdsw8"
       },
@@ -5222,6 +5258,24 @@
       "duration_ms": 306861,
       "name": "Wildest Dreams (Arr. Lawson for Harp)",
       "url": "https://open.spotify.com/track/7LGBfT64FWyA89weAT04gV"
+    },
+    {
+      "album": {
+        "name": "Wonderwall (Symphony Orchestra Version)",
+        "url": "https://open.spotify.com/album/0U75KBm7BpaxiI2GY3rFN0"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Wonderwall - Symphony Orchestra Version",
+      "url": "https://open.spotify.com/track/4Zp1YMyksiSOy90WzvCsiP"
     },
     {
       "album": {

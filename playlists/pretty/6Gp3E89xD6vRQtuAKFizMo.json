@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43893,
+  "num_followers": 43888,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaa6qz9zF/xog1H5PZzimAcxfdshBY",
+  "snapshot_id": "AAAabQy8/xJjAuMbIR5ObqjDspwIEV3a",
   "tracks": [
+    {
+      "added_at": "2025-09-26 17:36:29",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7M36OT3jENHuq2w3waVFtt"
+      },
+      "artists": [
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        },
+        {
+          "name": "Honey & Badger",
+          "url": "https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK"
+        }
+      ],
+      "duration_ms": 110625,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7LFj6r6OoAQLdQlNdY7Ycj"
+    },
+    {
+      "added_at": "2025-09-26 17:36:42",
+      "album": {
+        "name": "Glitter & Gold",
+        "url": "https://open.spotify.com/album/1Jhpc4DfM04o0MenO4nQFq"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Benzi",
+          "url": "https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Glitter & Gold",
+      "url": "https://open.spotify.com/track/6WAD0F28oPL1xthLnWudRh"
+    },
     {
       "added_at": "2025-09-19 20:36:07",
       "album": {

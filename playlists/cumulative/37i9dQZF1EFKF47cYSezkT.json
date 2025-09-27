@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Who Are You - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/1ZXbs0wni3VyCs29gJoEJB"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0ZBfAx4xLz1GoXoiDEjDFw"
+    },
+    {
+      "album": {
         "name": "Blow",
         "url": "https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M"
       },
@@ -1168,6 +1186,24 @@
       "duration_ms": 191394,
       "name": "strangers",
       "url": "https://open.spotify.com/track/0rFxyx0ZAU9KkFnao5Wt13"
+    },
+    {
+      "album": {
+        "name": "Cerulean Verge",
+        "url": "https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Sunkiss",
+      "url": "https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY"
     },
     {
       "album": {

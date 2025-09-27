@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Johnathan Blake",
+  "description": "New jazz for open minds. Cover: Theo Croker",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -20956,7 +20956,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 176128,
       "name": "Marvis",
       "url": "https://open.spotify.com/track/1soYxnn6pCmMq932V0woh0"
@@ -22592,7 +22592,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 244404,
       "name": "my friend",
       "url": "https://open.spotify.com/track/3uWcSECdnlt0KkOWGFJY9x"
@@ -30975,6 +30975,32 @@
     },
     {
       "album": {
+        "name": "sound(e)scape",
+        "url": "https://open.spotify.com/album/1fNFPuDxS5XOle4dkBHZZE"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Theophilus London",
+          "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161763,
+      "name": "sound(e)scape",
+      "url": "https://open.spotify.com/track/4VyC4YNRxOCHH0RGAFbuin"
+    },
+    {
+      "album": {
         "name": "Tora Collective",
         "url": "https://open.spotify.com/album/4fNLNOZCihfNb2nPT2LBQG"
       },
@@ -32532,7 +32558,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 316579,
       "name": "Surplus",
       "url": "https://open.spotify.com/track/2GtwQLDcWJPJKLEAMLhFPY"
@@ -34642,6 +34668,28 @@
       "duration_ms": 269853,
       "name": "The Love Unable To Give",
       "url": "https://open.spotify.com/track/3k7sByGH1pZj3Sh7Nqe0kz"
+    },
+    {
+      "album": {
+        "name": "The Maxim",
+        "url": "https://open.spotify.com/album/6gNeaNSbZMqZWo74a2WD39"
+      },
+      "artists": [
+        {
+          "name": "Tom Skinner",
+          "url": "https://open.spotify.com/artist/6WUuwGEgtKowXDyQtfB8S7"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 596853,
+      "name": "The Maxim",
+      "url": "https://open.spotify.com/track/3jCWtYphwVjqBPJkzyYcEo"
     },
     {
       "album": {
@@ -40286,6 +40334,24 @@
       "duration_ms": 225160,
       "name": "Yuca y Magnoca",
       "url": "https://open.spotify.com/track/3gOgwB3kgXvEDIrDo1mAOs"
+    },
+    {
+      "album": {
+        "name": "Mulatu Plays Mulatu",
+        "url": "https://open.spotify.com/album/7p6BngLDdLeAeY38yptAjc"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483946,
+      "name": "Y\u00e8k\u00e8rmo S\u00e8w",
+      "url": "https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz"
     },
     {
       "album": {

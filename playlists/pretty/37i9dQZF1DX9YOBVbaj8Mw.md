@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,265 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,264 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 23 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
 | 24 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
 | 25 | [Skacz ze mną na bombę](https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN) | [Małpa](https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:38 |
-| 26 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [Dj.Crack\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
+| 26 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [DJ CRACK\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
 | 27 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
 | 28 | [Miłego lata](https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:42 |
 | 29 | [Together \- Pejzaż Remix](https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Pejzaż](https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH) | [Recut](https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7) | 4:10 |

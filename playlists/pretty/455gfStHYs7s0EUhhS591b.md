@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,264 likes - 200 songs - 11 hr 51 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,254 likes - 201 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,5 +208,6 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 198 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 | 199 | [Grow](https://open.spotify.com/track/6wLQJHoauNYAv8mhPis5pb) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Grow](https://open.spotify.com/album/2SDHfha3SMTWjBeOVE9YCh) | 3:36 |
 | 200 | [Kora](https://open.spotify.com/track/7jHFgSqTGmp8znQ7JOPvzM) | [Anthelix](https://open.spotify.com/artist/47hKZZ8qty3gj4uxTCzgS9) | [Kora](https://open.spotify.com/album/3mXqrjDGNvZd1dnVKNsGhY) | 3:25 |
+| 201 | [Amazin' \- Edit](https://open.spotify.com/track/1JpTKjjvvCJ7zkE2Okl3LJ) | [David Mackay](https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt), [Massuma](https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Amazin' \(Edit\)](https://open.spotify.com/album/1CMLumuIBZga45sKzEj23m) | 2:44 |
 
-Snapshot ID: `AAByMdjVHUGbOurhgjU3nQ0xYyg1WHBb`
+Snapshot ID: `AAByMiLdxz7LSfa9XLPvKlUEn84m0nfK`

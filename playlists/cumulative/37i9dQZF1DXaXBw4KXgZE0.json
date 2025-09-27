@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 251371,
       "name": "Colors Of The Wind (From Disney's Pocahontas)",
       "url": "https://open.spotify.com/track/3vGd81ueaHEsXEeKyGBFUl"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 130733,
       "name": "Cradle song",
       "url": "https://open.spotify.com/track/49lAAST3iv9MmmrYeK0STj"
@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 129000,
       "name": "Dreamscale",
       "url": "https://open.spotify.com/track/6q5c22z2LYA0aFverWTcg0"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 124634,
       "name": "Fairy Dust",
       "url": "https://open.spotify.com/track/3bJK8GugWTUGa9cDXioatC"
@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Little Angel",
+        "url": "https://open.spotify.com/album/0xpFRnbTXb8g3h86x4Wh8r"
+      },
+      "artists": [
+        {
+          "name": "Flore Habendum",
+          "url": "https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Little Angel",
+      "url": "https://open.spotify.com/track/4zUTs5AnWiHnhJjcPorgqx"
+    },
+    {
+      "album": {
         "name": "Little Baby Ducklings",
         "url": "https://open.spotify.com/album/3EE16BRJwjGVqGVPOymGBE"
       },
@@ -754,10 +772,28 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 144733,
       "name": "Minuet for Fairies",
       "url": "https://open.spotify.com/track/31RKwxKKutUwW9RABYOVdc"
+    },
+    {
+      "album": {
+        "name": "Moonlit Serenade",
+        "url": "https://open.spotify.com/album/5IDi3vmZEwDBVFX99FK5EA"
+      },
+      "artists": [
+        {
+          "name": "Sienna Moon",
+          "url": "https://open.spotify.com/artist/6DIRwo0Jqp68Wu7G37iuub"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120372,
+      "name": "Moonlit Serenade",
+      "url": "https://open.spotify.com/track/3csnvbdtfZASfiFVIpEsu5"
     },
     {
       "album": {
@@ -776,6 +812,24 @@
       "duration_ms": 160250,
       "name": "My favourite things",
       "url": "https://open.spotify.com/track/5hIO1kXI2a69iDSgdgjERm"
+    },
+    {
+      "album": {
+        "name": "My Morning",
+        "url": "https://open.spotify.com/album/0YaRsFD9KjOTTQv6TUyy8j"
+      },
+      "artists": [
+        {
+          "name": "Ametrine Skies",
+          "url": "https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109479,
+      "name": "My Morning",
+      "url": "https://open.spotify.com/track/6qHgbFdVWP0ljIfAiqeueo"
     },
     {
       "album": {
@@ -934,7 +988,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 127099,
       "name": "Rest on My Shoulder",
       "url": "https://open.spotify.com/track/4tMkGbJzW65bqH9fxXdqsU"
@@ -1046,6 +1100,24 @@
       "duration_ms": 173954,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/38CA9KVMYFy08RT8VSj6By"
+    },
+    {
+      "album": {
+        "name": "Sleep well, sweetheart",
+        "url": "https://open.spotify.com/album/40zT5DWDKSeuAUk4ncMUrg"
+      },
+      "artists": [
+        {
+          "name": "Taennchel",
+          "url": "https://open.spotify.com/artist/04jMlJ8ZAcjE0shtrm34pr"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101498,
+      "name": "Sleep well, sweetheart",
+      "url": "https://open.spotify.com/track/4LlHQqxGPR6j5XF4YeXNiz"
     },
     {
       "album": {
@@ -1190,6 +1262,42 @@
       "duration_ms": 126470,
       "name": "Sweet Dreamer",
       "url": "https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm"
+    },
+    {
+      "album": {
+        "name": "Sweet Night",
+        "url": "https://open.spotify.com/album/4Gv74ch4OJV84h7eAINFdB"
+      },
+      "artists": [
+        {
+          "name": "Lucas Moon",
+          "url": "https://open.spotify.com/artist/3nIP9dTh54EA3vP57KEXvS"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88261,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/6MoNJvMZqyly5UswcAvHIF"
+    },
+    {
+      "album": {
+        "name": "Teddy is a Bear",
+        "url": "https://open.spotify.com/album/2ewZYQEaiCT1e50pEqUYQM"
+      },
+      "artists": [
+        {
+          "name": "David Finnegan",
+          "url": "https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83528,
+      "name": "Teddy is a Bear",
+      "url": "https://open.spotify.com/track/63cOX7fjSdMN5AtZEirMFx"
     },
     {
       "album": {

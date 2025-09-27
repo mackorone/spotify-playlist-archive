@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: ROMES
 
-1,407 songs - 3 day 7 hr 0 min
+1,408 songs - 3 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [After The Earthquake](https://open.spotify.com/track/6BiECF48e7qu8Z81xJL7sB) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [After The Earthquake](https://open.spotify.com/album/0v9aO9vrJoL169wRJYm40k) | 3:05 | 2022-10-07 | 2022-11-28 |
 | [After This](https://open.spotify.com/track/3Kd0urrDZd1gU3SrPiUkH9) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [After This / Certain Father / Hold](https://open.spotify.com/album/2gOS81x3Vems2Tcb8ctFaa) | 4:00 | 2022-10-07 | 2022-11-12 |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-06-28 | 2024-09-28 |
+| [Afterlife](https://open.spotify.com/track/0GQkx88Fpkm7qlbrdggdNO) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Afterlife](https://open.spotify.com/album/7KnvsiDkOyhhW6TFOreQzg) | 2:53 | 2025-09-26 |  |
 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 | 2022-04-29 | 2022-06-11 |
 | [Afterlife](https://open.spotify.com/track/5SMChKYENR0iYKLUjKRqcm) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [Afterlife](https://open.spotify.com/album/0QIm5vI8wVXFU51c99ofyv) | 3:18 | 2025-02-21 | 2025-05-10 |
 | [Afterlife](https://open.spotify.com/track/0O2Xj14M8PgYm3wbbjrKqX) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [Afterlife](https://open.spotify.com/album/4x2mpWpNy9Kh7qQABj6lqV) | 3:33 | 2023-07-28 | 2024-07-06 |
@@ -319,7 +320,7 @@
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-13 | 2023-07-29 |
 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 | 2023-04-10 | 2024-05-11 |
 | [Dinosaur](https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R) | 3:47 | 2022-10-21 | 2023-01-14 |
-| [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [](https://open.spotify.com/album/null) | 3:02 | 2025-09-26 |  |
+| [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 | 2025-09-26 |  |
 | [Dissolve](https://open.spotify.com/track/3xOFql1Qp0ACI9BJk5t0nh) | [Basement Revolver](https://open.spotify.com/artist/2xaBaFw60ET6GJVxFLOc4s) | [Embody](https://open.spotify.com/album/1ZSujxGhlZQJtah2NrDK17) | 3:15 | 2022-02-18 | 2022-03-19 |
 | [DISSOLVER](https://open.spotify.com/track/2i92nH8v7MK7nPT9ONUyFk) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [DISSOLVER](https://open.spotify.com/album/1mGDBjDJPYARBiHsdkKtXP) | 3:06 | 2025-08-29 |  |
 | [Divorce](https://open.spotify.com/track/2m0M2WKieMv9w4RP7R4P8v) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Divorce](https://open.spotify.com/album/62bSghYpxgNPzSVD9gUfNL) | 3:31 | 2024-11-29 | 2025-05-24 |
@@ -1242,7 +1243,7 @@
 | [Time Waited](https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Time Waited](https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF) | 3:39 | 2025-02-14 | 2025-03-22 |
 | [Time Won't Heal](https://open.spotify.com/track/1aJhRwvIn8ISOxXhJcLm6M) | [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [Control My Sanity](https://open.spotify.com/album/7HVWMQtV424Ab3b0IBKyda) | 3:01 | 2021-12-31 | 2022-01-15 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-19 | 2022-10-15 |
-| [tired of u](https://open.spotify.com/track/1FlklhEy1EkGeYDBgstjJH) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [](https://open.spotify.com/album/null) | 1:51 | 2025-09-26 |  |
+| [tired of u](https://open.spotify.com/track/1FlklhEy1EkGeYDBgstjJH) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [SPIRIT!](https://open.spotify.com/album/1WTEJM3xVpTmzfDelDOaK0) | 1:51 | 2025-09-26 |  |
 | [Tired of You \(Featuring Fionn\)](https://open.spotify.com/track/2om7X6uduu8rkg4OYxp3jA) | [Fake Shark](https://open.spotify.com/artist/08towIgJNrFi0yAuyVXFBF), [Fionn](https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt) | [Tired of You \(Featuring Fionn\)](https://open.spotify.com/album/0yxhowBTjULC4JCRMeLfer) | 2:46 | 2025-09-12 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-02 | 2022-10-22 |
 | [To All The Ones That I Love](https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [To All The Ones That I Love](https://open.spotify.com/album/7lsQd2eIoDJI6NVLsbIgBc) | 3:54 | 2025-05-09 | 2025-09-05 |

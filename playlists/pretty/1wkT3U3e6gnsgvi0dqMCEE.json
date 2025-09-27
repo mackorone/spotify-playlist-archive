@@ -1,12 +1,12 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3620,
+  "num_followers": 3617,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAC/Ou7bfZyYRYob2DiAGyFhP12wztw",
+  "snapshot_id": "AAADAvCv1mu1fyZ1H7BpQOosbpIV5dp2",
   "tracks": [
     {
       "added_at": "2025-09-08 13:39:56",
@@ -23,6 +23,58 @@
       "duration_ms": 223152,
       "name": "Here You Are",
       "url": "https://open.spotify.com/track/7c8J51gkc76prV8VPyU9Tc"
+    },
+    {
+      "added_at": "2025-09-26 15:41:37",
+      "album": {
+        "name": "Shame, Shame, Shame",
+        "url": "https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 245798,
+      "name": "Shame, Shame, Shame",
+      "url": "https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF"
+    },
+    {
+      "added_at": "2025-09-26 15:41:30",
+      "album": {
+        "name": "My Only Angel",
+        "url": "https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 255818,
+      "name": "My Only Angel",
+      "url": "https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd"
+    },
+    {
+      "added_at": "2025-09-26 20:48:44",
+      "album": {
+        "name": "All I See EP",
+        "url": "https://open.spotify.com/album/5WLziaNaH2Rx0FhCaFMCZp"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 307468,
+      "name": "Still Believe In Love",
+      "url": "https://open.spotify.com/track/5of2qq3yu7AlBAccyAj2KK"
     },
     {
       "added_at": "2025-09-19 14:17:17",

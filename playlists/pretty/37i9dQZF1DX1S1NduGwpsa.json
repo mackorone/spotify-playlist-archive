@@ -1,6 +1,6 @@
 {
   "description": "The best jazz new releases. Cover: Jon Batiste",
-  "num_followers": 156348,
+  "num_followers": 156394,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
@@ -16,6 +16,10 @@
       },
       "artists": [
         {
+          "name": "The Getdown",
+          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
+        },
+        {
           "name": "Laurent Coulondre",
           "url": "https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV"
         },
@@ -26,10 +30,6 @@
         {
           "name": "Gr\u00e9gory Privat",
           "url": "https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh"
-        },
-        {
-          "name": "The Getdown",
-          "url": "https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ"
         }
       ],
       "duration_ms": 159331,
@@ -440,8 +440,8 @@
       },
       "artists": [
         {
-          "name": "Projecto Coisa Fina",
-          "url": "https://open.spotify.com/artist/2NHCTaWTVYgg6B45dRwJ5c"
+          "name": "Projeto Coisa Fina",
+          "url": "https://open.spotify.com/artist/5Z2qOOW5avsLNKfcoYzpMf"
         },
         {
           "name": "Samy Thi\u00e9bault",

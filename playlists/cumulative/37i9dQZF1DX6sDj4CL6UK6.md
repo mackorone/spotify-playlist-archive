@@ -4,7 +4,7 @@
 
 > English songs from Indian artists<br/>Cover: Ramya Pothuri
 
-344 songs - 19 hr 50 min
+347 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Everything](https://open.spotify.com/track/7H0JskFt7G1or98bxDiCYt) | [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf) | [Everything](https://open.spotify.com/album/0892HQRUyH88y7TQnbnGwU) | 3:03 | 2024-03-01 | 2024-05-11 |
 | [Everything's Fine?](https://open.spotify.com/track/5dST1RxAvJtCeyogTnn6dr) | [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Everything's Fine?](https://open.spotify.com/album/42zEB4XQfZXWn8pNGT7vF8) | 4:19 | 2022-03-25 | 2022-05-26 |
 | [Everywhere](https://open.spotify.com/track/34OGRSpcQOAHsK4pSolDX1) | [Kura Kura Parafin](https://open.spotify.com/artist/3QMTSZ13mw6p679I6n9k9l) | [Everywhere](https://open.spotify.com/album/6wgOecsewd9a3opHmTr0er) | 4:16 | 2023-05-19 | 2023-05-24 |
+| [Exotic](https://open.spotify.com/track/4SUYaVB5r2N4MzbpIbDN10) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [RIKA](https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5) | [Exotic](https://open.spotify.com/album/3Pftudxj48b9EUkaAvMLcs) | 3:45 | 2025-09-26 |  |
 | [EYE\(S\)](https://open.spotify.com/track/4Ah02v3e8R2rt8gQzdlCTH) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [EYE\(S\)](https://open.spotify.com/album/3aOtCz84mZL8Nn9xfg9W8B) | 3:59 | 2023-05-24 | 2024-06-22 |
 | [Faces of The Moon](https://open.spotify.com/track/3ojKMFsQjJC2vx9h5c3RNB) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Self Help Radio](https://open.spotify.com/album/7BcuPEUyxXNmRjRIlFX24v) | 4:48 | 2022-03-25 | 2022-05-25 |
 | [Fake it! Shake it! Make it!](https://open.spotify.com/track/6k9UgOQGWGIv04YeobGoSe) | [The Lightyears Explode](https://open.spotify.com/artist/3QYtl7ACJpE5liUDmDfNzm) | [Fake it! Shake it! Make it!](https://open.spotify.com/album/7zuWznUYivQbTphmSXeXOZ) | 3:14 | 2023-09-29 | 2023-10-28 |
@@ -269,6 +270,7 @@
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2022-03-25 | 2024-08-23 |
 | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 | 2024-04-12 |  |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-21 | 2024-06-22 |
+| [sad in chanel](https://open.spotify.com/track/1sWWUmC2Suwv8Cy3UxvjBC) | [Krameri](https://open.spotify.com/artist/1hxuMlq1xCyjGyhoPsiIM0), [Kelly](https://open.spotify.com/artist/2fy0bN8wj1mLvD3phe5iYY), [Hades Serapis](https://open.spotify.com/artist/6L1XzLfJpfn5UdQenms7Xw) | [sad in chanel](https://open.spotify.com/album/6zmc99bgNGTTiWrDALkf1G) | 3:57 | 2025-09-26 |  |
 | [Sad in December](https://open.spotify.com/track/3RBEmnwchGJYy9Ugg50CJt) | [Jo Shy](https://open.spotify.com/artist/3dGrlw7Q1uchukqr9p6OlP) | [Sad in December](https://open.spotify.com/album/6dWnUboP9NZWRZgcLsS7Y7) | 3:18 | 2022-12-20 | 2023-03-22 |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2022-03-25 | 2022-04-06 |
 | [Semi Automatic Butane](https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Semi Automatic Butane](https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY) | 3:29 | 2023-10-18 |  |
@@ -352,5 +354,6 @@
 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 | 2022-03-25 | 2024-08-23 |
 | [You](https://open.spotify.com/track/4d9qYngDaRv7Dnij09bdY6) | [Arrows](https://open.spotify.com/artist/2LgY4M7R8cJM0l52RlE9dd), [Saachi](https://open.spotify.com/artist/4Gbsv1WfhPA5JxVdu1b4R7) | [Friends Tonight, Strangers Again](https://open.spotify.com/album/5Zf5fzWiR7YktTP5wP75JZ) | 5:14 | 2023-09-11 | 2023-09-30 |
 | [Your Love](https://open.spotify.com/track/1hRg4KmSV3P1BktyCaewOC) | [Meba Ofilia](https://open.spotify.com/artist/6mbXxVkhtdddGzR5yJ9SUD), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Dappest](https://open.spotify.com/artist/5gbLQgs5c4ow3KIOx30IoX) | [Your Love](https://open.spotify.com/album/46A4zcNfC1xLw5ziGIeU1P) | 3:07 | 2023-06-09 | 2023-07-11 |
+| [You’re Not Sorry](https://open.spotify.com/track/7khy0rHAOfdbIjjOtSHCmC) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [Not Overthinking This](https://open.spotify.com/album/5II8XlsVFGRtwt7cKTOOhV) | 3:25 | 2025-09-26 |  |
 
 \*This playlist was first scraped on 2022-03-28. Prior content cannot be recovered.

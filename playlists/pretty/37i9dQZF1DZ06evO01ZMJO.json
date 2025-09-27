@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 22648,
+  "num_followers": 22658,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAADZNIwje+0YbB6eptrijJEK",
+  "snapshot_id": "aNSGAAAAAACagp62g11uYzbk87MvmzJI",
   "tracks": [
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Das Armas",
-        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Das Armas",
-      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocaina",
         "url": "https://open.spotify.com/album/6KnEcN7zTiIOzDaYhR3qdk"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 184823,
       "name": "Cocaina",
       "url": "https://open.spotify.com/track/2YeZhfPOkFND5OYL6zp6we"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Das Armas",
+        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 182709,
+      "name": "Das Armas",
+      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
     },
     {
       "added_at": null,

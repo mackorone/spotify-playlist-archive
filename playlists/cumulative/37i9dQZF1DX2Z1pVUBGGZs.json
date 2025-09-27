@@ -877,8 +877,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
@@ -4269,8 +4269,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "It's A Funny Thing",
+        "url": "https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH"
       },
       "artists": [
         {
@@ -10913,24 +10913,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Richard Carter",
-          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/4P6mForfQUvE34nxrfwfV3"
-    },
-    {
-      "album": {
         "name": "Trash Cat",
         "url": "https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE"
       },
@@ -11722,6 +11704,24 @@
       "duration_ms": 199746,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
+    },
+    {
+      "album": {
+        "name": "The Concept of Cool",
+        "url": "https://open.spotify.com/album/3dpYGOv99zm5rKEvydh4Ke"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222123,
+      "name": "WOTEVA",
+      "url": "https://open.spotify.com/track/4P6mForfQUvE34nxrfwfV3"
     },
     {
       "album": {

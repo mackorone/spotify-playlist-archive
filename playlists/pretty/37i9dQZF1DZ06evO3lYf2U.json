@@ -1,12 +1,12 @@
 {
   "description": "This is Central Cee. The essential tracks, all in one playlist.",
-  "num_followers": 305555,
+  "num_followers": 305665,
   "original_name": "This Is Central Cee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAABjGhFBZIeEBzDl9vqKWqVj",
+  "snapshot_id": "aNSGAAAAAADPDZ/L5X7x37Bx2bjzI9xn",
   "tracks": [
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me & You",
-        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "Me & You",
-      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daily Duppy (feat. GRM Daily)",
         "url": "https://open.spotify.com/album/1FBhWfdHQnqphA5Dk1KFhx"
       },
@@ -903,50 +887,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
       },
       "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
         {
           "name": "Central Cee",
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 212114,
-      "name": "West Connect (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Habits (feat. Tion Wayne & Central Cee) [Fumez The Engineer Remix]",
-        "url": "https://open.spotify.com/album/2P9CbLPTyNRf5OAOEs7g6C"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Fumez The Engineer",
-          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "Bad Habits (feat. Tion Wayne & Central Cee) [Fumez The Engineer Remix]",
-      "url": "https://open.spotify.com/track/0VcgLoEMA06AKqPxxj2YQs"
+      "duration_ms": 187034,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
     }
   ],
   "unique_name": "This Is Central Cee",

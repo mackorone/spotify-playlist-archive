@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Zom Marie, Daou Pittaya",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, guncharlie",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1555,6 +1555,28 @@
     },
     {
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        },
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237045,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso"
+    },
+    {
+      "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
       },
@@ -2146,7 +2168,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 240000,
       "name": "Magic Car",
       "url": "https://open.spotify.com/track/40muIoHRlB87OMC0IAwQHD"
@@ -2950,7 +2972,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
@@ -3192,6 +3214,28 @@
       "duration_ms": 194640,
       "name": "SICK WITH IT",
       "url": "https://open.spotify.com/track/6ZBQ9fevUeMyDumDHPgOeH"
+    },
+    {
+      "album": {
+        "name": "SIDE TO SIDE (feat. MABELZ PiXXiE)",
+        "url": "https://open.spotify.com/album/4YK7VA6Lbq6WSuokSxKNWc"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        },
+        {
+          "name": "MABELZ PiXXiE",
+          "url": "https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181562,
+      "name": "SIDE TO SIDE (feat. MABELZ PiXXiE)",
+      "url": "https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB"
     },
     {
       "album": {
@@ -3832,7 +3876,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 186666,
       "name": "Too Perfect for You (\u0e2a\u0e27\u0e22 \u0e40\u0e23\u0e34\u0e48\u0e14 \u0e40\u0e0a\u0e34\u0e14)",
       "url": "https://open.spotify.com/track/4XpxNZcQdqRk6MC6JtG1US"
@@ -4689,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e27\u0e31\u0e19\u0e14\u0e35\u0e46\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/5HBcQCIxx8bhNFDbZMgbad"
+      },
+      "artists": [
+        {
+          "name": "No One Else",
+          "url": "https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201627,
+      "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e27\u0e31\u0e19\u0e14\u0e35\u0e46\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4Uk5iKvSPOz1HTt209fw1l"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e43\u0e08\u0e14\u0e35",
         "url": "https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb"
       },
@@ -4772,7 +4834,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 337183,
       "name": "\u0e02\u0e49\u0e32\u0e41\u0e04\u0e48\u0e42\u0e14\u0e19\u0e17\u0e34\u0e49\u0e07",
       "url": "https://open.spotify.com/track/5lsiqvhJAKZhKnkziGDnze"
@@ -5118,6 +5180,32 @@
       "duration_ms": 223500,
       "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19 \u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e01\u0e25\u0e32\u0e07\u0e04\u0e37\u0e19",
       "url": "https://open.spotify.com/track/3kW9fmKoEQnD8zhu3JKffk"
+    },
+    {
+      "album": {
+        "name": "\u0e15\u0e36\u0e01\u0e42\u0e1b\u0e4a\u0e30",
+        "url": "https://open.spotify.com/album/3a2hhAjhY2L8E32F9fjMFz"
+      },
+      "artists": [
+        {
+          "name": "Lipta",
+          "url": "https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC"
+        },
+        {
+          "name": "guncharlie",
+          "url": "https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG"
+        },
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244288,
+      "name": "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e41\u0e15\u0e48\u0e17\u0e33\u0e2d\u0e30\u0e44\u0e23\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49",
+      "url": "https://open.spotify.com/track/2pihrfMEK5O1JPSk1kdBoX"
     },
     {
       "album": {
@@ -6593,6 +6681,24 @@
     },
     {
       "album": {
+        "name": "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e35\u0e1b\u0e25\u0e2d\u0e1a (Ghost Pop) feat. \u0e41\u0e08\u0e47\u0e04 The Ghost Radio",
+        "url": "https://open.spotify.com/album/7FwJRH3qGOEzUMQZtYrMKw"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215514,
+      "name": "\u0e1a\u0e49\u0e32\u0e19\u0e1c\u0e35\u0e1b\u0e25\u0e2d\u0e1a (Ghost Pop) feat. \u0e41\u0e08\u0e47\u0e04 The Ghost Radio",
+      "url": "https://open.spotify.com/track/3Vt5wtSZ3tNlwpXTPbWfS3"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e0f\u0e34\u0e40\u0e2a\u0e18\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27",
         "url": "https://open.spotify.com/album/6ml0jGjNf2bcarAz4QWU2L"
       },
@@ -7840,7 +7946,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 211500,
       "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e41\u0e15\u0e01\u0e2a\u0e25\u0e32\u0e22 (Dear Trauma)",
       "url": "https://open.spotify.com/track/1CzBBeZ0OQr7Fvh9VzMAv1"

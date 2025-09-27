@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > IvanBi in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 925,102 likes - 52 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 925,134 likes - 52 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [38 \(feat\. RRARI DAL TACCO, Artie 5ive\)](https://open.spotify.com/track/2KK5IaJLPoQADUmLPME9so) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:44 |
 | 18 | [NON METTERCI BECCO](https://open.spotify.com/track/0xruiSHt6TaFZvQuGdDlJV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:02 |
 | 19 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
-| 20 | [DRILLA](https://open.spotify.com/track/02Ne0wVMQv9TWDExfkadJJ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 1:56 |
+| 20 | [DRILLA](https://open.spotify.com/track/02Ne0wVMQv9TWDExfkadJJ) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [MATTIA](https://open.spotify.com/album/4v9jvZy9cIvTceWv4XQy0O) | 1:57 |
 | 21 | [Comfort \(feat\. Tony Boy\)](https://open.spotify.com/track/5mtVj6o82SJuEv0CmE4eDa) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:44 |
 | 22 | [BOMBAY](https://open.spotify.com/track/76kL83yLBUnoDl8nqObsci) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [BOMBAY](https://open.spotify.com/album/7mBETUvrMuUHXLHU9qWUeH) | 2:15 |
 | 23 | [AL PACINO](https://open.spotify.com/track/32LlcNsYqf7QUg5eBup5Cs) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [AL PACINO](https://open.spotify.com/album/3KBK9qe8NcvqtAGMgp03lR) | 2:40 |

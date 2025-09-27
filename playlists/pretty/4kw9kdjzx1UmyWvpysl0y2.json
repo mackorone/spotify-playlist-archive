@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124938,
+  "num_followers": 124940,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUnjmDtNOFYf2F9Nn5OiO+jpRkQYMC",
+  "snapshot_id": "AAAUn36CTL8ZOig0dfPISukNaI/gYRnT",
   "tracks": [
+    {
+      "added_at": "2025-09-26 14:00:15",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/4fb1FjRzLhGhweK3Dg0dae"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/74Vj0SPtSEYwBhJIKQiyEG"
+    },
     {
       "added_at": "2025-09-25 14:31:26",
       "album": {

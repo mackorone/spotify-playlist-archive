@@ -2,9 +2,9 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
 
-> Country gone wild! You never know what you're gonna get\. Cover: Tyler Hubbard and Graham Barham
+> Country gone wild! You never know what you're gonna get\. Cover: Marshmello and Hudson Westbrook
 
-520 songs - 1 day 1 hr 46 min
+521 songs - 1 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Behind](https://open.spotify.com/track/3u0UQ8hnA9eWkHgeYLPGEe) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Behind](https://open.spotify.com/album/18eV6taRZHwWvZLNg4sfhz) | 3:00 | 2021-12-10 | 2023-02-02 |
 | [Bets On Us](https://open.spotify.com/track/1AZEKyJQKVucfisCqKO1Nk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bets On Us](https://open.spotify.com/album/3n6nbKCoNMsSDBpzvEg1Q5) | 3:00 | 2023-01-06 | 2024-10-19 |
 | [Better \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/7L5yUAQfKSm5ydJRjPx5Ok) | [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Brooklyn Cowboy](https://open.spotify.com/album/5yu1avpoo3znhpc5aeTo8P) | 2:57 | 2024-10-11 |  |
+| [Better Man Than Me](https://open.spotify.com/track/4AZXFgbU85BZMQxzb1yUgh) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Better Man Than Me](https://open.spotify.com/album/2mNbmHyuScAG20cvAdVQKI) | 2:37 | 2025-09-26 |  |
 | [Better On Me](https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Better On Me](https://open.spotify.com/album/5iCiDUEYtamxT2KOTT22Gf) | 2:29 | 2021-12-10 | 2023-02-02 |
 | [BETTER WITH YOU](https://open.spotify.com/track/0cSRjbZWKzH1ggvN17XwBc) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [BETTER WITH YOU](https://open.spotify.com/album/3JfRcR72m6SWfP4gB6REYF) | 2:39 | 2023-06-23 |  |
 | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/track/1gIEdcLqIuIcG8k44bCnal) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Birthday Girl \(feat\. Chris Lane\)](https://open.spotify.com/album/5uEGkigab9CMYeTFE5dCjc) | 2:42 | 2022-11-04 | 2024-04-23 |
@@ -186,7 +187,7 @@
 | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/track/7vV9b8mBZhw6eiCc80VOSb) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Michael Todd](https://open.spotify.com/artist/0DjXhpFVGNYlevPm7EGjrp) | [Get Low, Get High \(Part 2\) \(feat\. Jon Batiste & Michael Todd\)](https://open.spotify.com/album/5egAPl3SGfXZIW2dIzqDpo) | 3:38 | 2022-09-02 | 2023-02-04 |
 | [Get That All The Time](https://open.spotify.com/track/1H8cSGqTzH2gfqNlsz4woQ) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Baytown](https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX) | 2:58 | 2022-11-18 | 2023-08-02 |
 | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/album/3nD5gS9oxfsp4JjpmcO41B) | 2:58 | 2021-12-10 | 2022-12-01 |
-| [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 | 2025-04-11 |  |
+| [Gettin' Gone \(feat\. Snoop Dogg\)](https://open.spotify.com/track/3tXzpZlejEH13I6nh7iAsE) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Gettin' Gone](https://open.spotify.com/album/0TRpphCGSFTnRlByhoQ40h) | 3:43 | 2025-04-11 | 2025-09-27 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-01-06 | 2023-06-03 |
 | [Goin' Through](https://open.spotify.com/track/13RHVbTpnVB5Kkf9H1RUx0) | [Nicky James](https://open.spotify.com/artist/3mMKcvOOK7XZAOZGuLFNAk) | [Goin' Through](https://open.spotify.com/album/6qWY2iv9jHsCRQNiBNqbAj) | 2:54 | 2021-12-10 | 2022-07-09 |
 | [Gone By Tomorrow](https://open.spotify.com/track/6k0QbvWT5KjAHMZmmsP0BL) | [Lavish Life](https://open.spotify.com/artist/1OvZTUXZoidIlPAhXtSbbS), [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Gone By Tomorrow](https://open.spotify.com/album/6NaRxbJBzWAMtBT0swika5) | 2:27 | 2024-08-02 | 2025-06-30 |

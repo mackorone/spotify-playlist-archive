@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Siddhartha en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Jos\u00e9 Madero en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -292,7 +292,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196190,
       "name": "Ah\u00ed Est\u00e1s",
       "url": "https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y"
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 189920,
       "name": "Los de Siempre",
       "url": "https://open.spotify.com/track/0SZVn79BrjPN5WqLGpTzWF"
@@ -2871,6 +2871,32 @@
     },
     {
       "album": {
+        "name": "MOMENTO",
+        "url": "https://open.spotify.com/album/1eps7iPcw3N1VyXYmpH2JR"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        },
+        {
+          "name": "+M\u00fasicas",
+          "url": "https://open.spotify.com/artist/06x3WF50a38L93KIFOpSaO"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "MOMENTO",
+      "url": "https://open.spotify.com/track/117ojMXMTMIWk9VO1OLkvj"
+    },
+    {
+      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -2890,6 +2916,28 @@
       "duration_ms": 159918,
       "name": "Muriendome",
       "url": "https://open.spotify.com/track/07cpSOrJeK2TNrbLXq3hCG"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cerquita",
+        "url": "https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179142,
+      "name": "M\u00e1s Cerquita",
+      "url": "https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob"
     },
     {
       "album": {
@@ -4848,6 +4896,24 @@
       "duration_ms": 254800,
       "name": "Ven",
       "url": "https://open.spotify.com/track/6SB9odzgBMVCuspFE0O5u0"
+    },
+    {
+      "album": {
+        "name": "Vidrio por Doquier",
+        "url": "https://open.spotify.com/album/1yZpFG972NjuqaR6eAXMrV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Vidrio por Doquier",
+      "url": "https://open.spotify.com/track/0CgjSAC3uPptcMJgBeYTLm"
     },
     {
       "album": {

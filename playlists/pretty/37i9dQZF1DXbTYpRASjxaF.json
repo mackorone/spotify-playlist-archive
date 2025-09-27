@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: DomLaike, L7NNON",
-  "num_followers": 134034,
+  "num_followers": 134092,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,34 @@
     {
       "added_at": "2025-09-26 03:01:22",
       "album": {
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Modelo Brasileiro",
+      "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
+    },
+    {
+      "added_at": "2025-09-26 03:01:22",
+      "album": {
         "name": "Veterano",
         "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
       },
@@ -475,34 +503,6 @@
     {
       "added_at": "2025-09-26 03:01:22",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ Yago",
-          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Modelo Brasileiro",
-      "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
-    },
-    {
-      "added_at": "2025-09-26 03:01:22",
-      "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 229569,
       "name": "Mente Pensante - Bonus Track",
       "url": "https://open.spotify.com/track/0sdoMuL7ZIHl6Apq2WUhzJ"
-    },
-    {
-      "added_at": "2025-09-26 03:01:22",
-      "album": {
-        "name": "Cop\u00e3o",
-        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
-      },
-      "artists": [
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        }
-      ],
-      "duration_ms": 157850,
-      "name": "Cop\u00e3o",
-      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
     },
     {
       "added_at": "2025-09-26 03:01:22",
@@ -571,6 +551,26 @@
       "duration_ms": 198101,
       "name": "Mistura de Sotaque",
       "url": "https://open.spotify.com/track/3yVoGXUXkexPJKoXN9mBq8"
+    },
+    {
+      "added_at": "2025-09-26 03:01:22",
+      "album": {
+        "name": "Cop\u00e3o",
+        "url": "https://open.spotify.com/album/68ZrYqDFuWdFnIMer8SPWT"
+      },
+      "artists": [
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        }
+      ],
+      "duration_ms": 157850,
+      "name": "Cop\u00e3o",
+      "url": "https://open.spotify.com/track/1C5jnWmuSzQb7pKLA7hNGw"
     },
     {
       "added_at": "2025-09-26 03:01:22",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-09-26 03:01:22",
       "album": {
-        "name": "VIDA LOKA TAMB\u00c9M AMA",
-        "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
-      },
-      "artists": [
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        }
-      ],
-      "duration_ms": 118032,
-      "name": "Planet\u00e1ria",
-      "url": "https://open.spotify.com/track/28Df9pPWXFhNLXixY3wvjM"
-    },
-    {
-      "added_at": "2025-09-26 03:01:22",
-      "album": {
         "name": "No Campo",
         "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 210461,
       "name": "No Campo",
       "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
+    },
+    {
+      "added_at": "2025-09-26 03:01:22",
+      "album": {
+        "name": "VIDA LOKA TAMB\u00c9M AMA",
+        "url": "https://open.spotify.com/album/6CCADFkIl2uMHg1a1bfz2t"
+      },
+      "artists": [
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        }
+      ],
+      "duration_ms": 118032,
+      "name": "Planet\u00e1ria",
+      "url": "https://open.spotify.com/track/28Df9pPWXFhNLXixY3wvjM"
     },
     {
       "added_at": "2025-09-26 03:01:22",
@@ -1043,6 +1043,50 @@
     {
       "added_at": "2025-09-26 03:01:22",
       "album": {
+        "name": "RIP DE FACHADA",
+        "url": "https://open.spotify.com/album/7ztnfQyc6hn5ekDQjBewM6"
+      },
+      "artists": [
+        {
+          "name": "P.L.K",
+          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
+        },
+        {
+          "name": "Vignoli",
+          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
+        }
+      ],
+      "duration_ms": 148615,
+      "name": "FOI NUM BAILE DO TREZE",
+      "url": "https://open.spotify.com/track/7zblwlyeFM7tG4omTHTQu7"
+    },
+    {
+      "added_at": "2025-09-26 03:01:22",
+      "album": {
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+      },
+      "artists": [
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        }
+      ],
+      "duration_ms": 142784,
+      "name": "Santo de Casa",
+      "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
+    },
+    {
+      "added_at": "2025-09-26 03:01:22",
+      "album": {
         "name": "THE BOX MEDLEY 10",
         "url": "https://open.spotify.com/album/5SgslEzgfpXXwrpnFeUHiL"
       },
@@ -1099,50 +1143,6 @@
       "duration_ms": 336000,
       "name": "THE BOX MEDLEY 10",
       "url": "https://open.spotify.com/track/3GXnIt9ELJUYtxtkfiVx2j"
-    },
-    {
-      "added_at": "2025-09-26 03:01:22",
-      "album": {
-        "name": "RIP DE FACHADA",
-        "url": "https://open.spotify.com/album/7ztnfQyc6hn5ekDQjBewM6"
-      },
-      "artists": [
-        {
-          "name": "P.L.K",
-          "url": "https://open.spotify.com/artist/58kMq5JI6LVKrZaWlZglKf"
-        },
-        {
-          "name": "Vignoli",
-          "url": "https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2"
-        }
-      ],
-      "duration_ms": 148615,
-      "name": "FOI NUM BAILE DO TREZE",
-      "url": "https://open.spotify.com/track/7zblwlyeFM7tG4omTHTQu7"
-    },
-    {
-      "added_at": "2025-09-26 03:01:22",
-      "album": {
-        "name": "Dialeto Delinquente",
-        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 142784,
-      "name": "Santo de Casa",
-      "url": "https://open.spotify.com/track/3lkfsOQnDbaOeIYSBp0kUB"
     },
     {
       "added_at": "2025-09-26 03:01:22",

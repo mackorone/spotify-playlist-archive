@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Devano
 
-645 songs - 1 day 18 hr 7 min
+645 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Hmmm \- Aviary Live Session](https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX), [Irfan Hakim](https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN) | [Genjrengan Iwan & Irfan \(Aviary Live Session\)](https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9) | 5:47 | 2024-09-05 | 2024-11-08 |
 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 | 2024-06-27 | 2024-07-12 |
 | [Ikrar](https://open.spotify.com/track/1OgA9TJ5Ufreycsge4hmMO) | [The Chasmala](https://open.spotify.com/artist/0VIItj9liYV72uUhayMLGB) | [Persona](https://open.spotify.com/album/1dHDWidr3Xm53bapLwvans) | 4:04 | 2024-06-28 | 2024-08-02 |
+| [Iman Tak Restui](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 3:51 | 2025-09-25 |  |
 | [Indah Apa Adanya](https://open.spotify.com/track/2RCDHvNUaoXKC9JsgtsGi4) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Lagu\-Lagu Cemara \(OST\. Musikal Keluarga Cemara\)](https://open.spotify.com/album/6XX5LqreD0BoqQmTbQYiJq) | 3:45 | 2025-06-12 | 2025-07-11 |
 | [Indah Pada Waktunya](https://open.spotify.com/track/2UAgx5YTxZpUcb5AuPkcdZ) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Indah Pada Waktunya](https://open.spotify.com/album/0tpiMc5UyAepTh01ut8lkA) | 4:00 | 2025-02-20 | 2025-05-09 |
 | [Indonesiaku](https://open.spotify.com/track/6pKrxfoAsq0quIIb3yyKdP) | [Fryda Lucyana](https://open.spotify.com/artist/1ojpEVe6PlHO8BxSTGFSQX), [Sastrani Wirata](https://open.spotify.com/artist/0TyEL8NDOB8rrva2puCA5d), [Shri Yogi Lestari](https://open.spotify.com/artist/6nbH1OiZmvH8wMvIY728ix), [Farman Purnama](https://open.spotify.com/artist/7ty3EVtTkBNdSdkXfQpPQV), [Gabriel Harvianto](https://open.spotify.com/artist/3iHFu1qjpkN8l0ge4rQvAg) | [Indonesiaku](https://open.spotify.com/album/0VbTmCO48Qo5WvuUInEt3H) | 3:33 | 2024-07-25 | 2024-09-06 |
@@ -608,6 +609,7 @@
 | [Tergariskan](https://open.spotify.com/track/5ojHPGLl3ZjE6ikmUqoeHA) | [Dendi Nata](https://open.spotify.com/artist/509YLwDnYeTaVfX0Kl6Jdn) | [Tergariskan](https://open.spotify.com/album/6Hed4MpnhCfLIJ6uDMOskA) | 4:10 | 2024-12-12 | 2025-08-09 |
 | [Terima Kasih](https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Terima Kasih](https://open.spotify.com/album/3j8Y4da2KygEkphQNPzxjk) | 3:53 | 2025-09-25 |  |
 | [Terima Kasih](https://open.spotify.com/track/0OB3dQzzYUyHu3W9UPUoJ2) | [Jayadi](https://open.spotify.com/artist/194uu0APSHFHUiqegvNRvn) | [Terima Kasih](https://open.spotify.com/album/1nzgz4O6aXtzBp3jzJyhAP) | 4:03 | 2025-03-13 | 2025-08-16 |
+| [Terima Kasih](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 3:44 | 2025-09-26 |  |
 | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/track/5A6PgWbDitOtH5eTVZ3Md3) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Terima Kasih \(Catatan Harian Menantu Sinting Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aGfcjEwK1Zgrz6OepRES5) | 4:38 | 2024-06-27 | 2025-01-10 |
 | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/track/4PLY3JB1sPhgWiSxQdovCG) | [Iren Glory](https://open.spotify.com/artist/7tkbfHtHXuuUvs0kWfSwa0) | [Terima Kasih Guruku \(Guruku Tersayang\)](https://open.spotify.com/album/02s0GD3LaQu62L9dgG9b4T) | 2:16 | 2024-08-01 | 2024-11-08 |
 | [Terima Kasih, Masih Disini](https://open.spotify.com/track/5v3MURRjjVuSv1YSjIygcX) | [Glenn Samuel](https://open.spotify.com/artist/26ez0LOxJMgy1GkkXhZiCV) | [Egen](https://open.spotify.com/album/6N1kgnyxQta615KlcCjNMD) | 3:49 | 2024-09-19 | 2025-01-10 |
@@ -628,8 +630,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 |  |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
-| [Track 12](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-26 |  |
-| [Track 2](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 |  |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |

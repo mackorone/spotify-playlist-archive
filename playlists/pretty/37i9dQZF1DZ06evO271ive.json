@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28040,
+  "num_followers": 28043,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAADQ6q/WmQkCPJtphLfpz7wG",
+  "snapshot_id": "aNSGAAAAAAD/mhxiOmwnmq/WNhkWJcA/",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Motion (feat. Sexyy Red & NaNaski)",
+        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "NaNaski",
+          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Motion (feat. Sexyy Red & NaNaski)",
+      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hood Hottest Princess",
         "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 157125,
       "name": "SkeeYee",
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Motion (feat. Sexyy Red & NaNaski)",
-        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "NaNaski",
-          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Motion (feat. Sexyy Red & NaNaski)",
-      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
     },
     {
       "added_at": null,
@@ -959,6 +959,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Is You Coo",
+        "url": "https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 151201,
+      "name": "Is You Coo",
+      "url": "https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Daddy (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/2aUz6JfGW97Min1HueLXmp"
       },
@@ -995,30 +1011,6 @@
       "duration_ms": 178911,
       "name": "N.P.O. (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/6l2mk4tLcEVs6Bmm7LNVig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Me Fly",
-        "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "YTB Fatt",
-          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
-      "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"
     }
   ],
   "unique_name": "This Is Sexyy Red",

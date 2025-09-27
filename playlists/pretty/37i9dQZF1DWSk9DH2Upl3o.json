@@ -1,28 +1,32 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 40929,
+  "num_followers": 40948,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEe9Rg2F2+6Bmd6EkC1u38MRYA1o",
+  "snapshot_id": "AAAAAEfPXlpp8H+5PVnLPzb5csFRiRnx",
   "tracks": [
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-09-26 04:00:44",
       "album": {
-        "name": "Hit The Ground Runnin\u2019",
-        "url": "https://open.spotify.com/album/4B6JFPdRiQN8AWKeydxxSX"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0uJrjLgpbXYm1oZuYveQTC"
       },
       "artists": [
         {
           "name": "Pigeons Playing Ping Pong",
           "url": "https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl"
+        },
+        {
+          "name": "Here Come The Mummies",
+          "url": "https://open.spotify.com/artist/2pXFmyqPm7wHJ1HGAwyR3L"
         }
       ],
-      "duration_ms": 197251,
-      "name": "Hit The Ground Runnin\u2019",
-      "url": "https://open.spotify.com/track/6pdQqWYLQaWlVba7D5YEAf"
+      "duration_ms": 261405,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6kIOK0wehQcuKux8whAD42"
     },
     {
       "added_at": "2025-08-15 04:00:08",

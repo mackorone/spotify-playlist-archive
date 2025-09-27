@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-435 songs - 1 day 14 hr 15 min
+437 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [All of a Sudden, You're Gone](https://open.spotify.com/track/4PgWfDa2qogMzEqwOzzq5q) | [Von Hertzen Brothers](https://open.spotify.com/artist/5QA702pGd9qa2oWvp21ofG) | [All of a Sudden, You're Gone](https://open.spotify.com/album/5VbUia8LpeD0U3kayUNBT4) | 7:12 | 2022-05-20 | 2025-01-25 |
 | [All the Rage](https://open.spotify.com/track/3zpcjUIikRrHP3uz6E2tNf) | [Neal Morse](https://open.spotify.com/artist/5N30GOA778sBmLm7FdB5Bq) | [All the Rage](https://open.spotify.com/album/05RRKpehX1NxHo2ncDSEtm) | 5:34 | 2024-09-19 | 2025-01-04 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-19 | 2025-01-18 |
+| [Alone](https://open.spotify.com/track/2jmh3lFcCwHYYN8QgMtSdo) | [The Vintage Caravan](https://open.spotify.com/artist/61MH29rMIyOfuK7KXQznzX) | [Alone](https://open.spotify.com/album/0gGTQB8SW3e0mniL8OGb0N) | 4:12 | 2025-09-26 |  |
 | [Alpha Howl](https://open.spotify.com/track/1IAOYhIuzz1O9dJqd2AtFu) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Alpha Howl](https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU) | 3:54 | 2022-05-20 | 2024-09-07 |
 | [Am I Right](https://open.spotify.com/track/7n32ylRI401lWA9M8GjQ0L) | [James Labrie](https://open.spotify.com/artist/3bd5EpE5vC93GJT2u0fx4n) | [Am I Right](https://open.spotify.com/album/0FMv7NXQ1QnQNBHUoePAOV) | 5:52 | 2022-05-20 | 2024-10-12 |
 | [Amnesty/Silver](https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK) | [Resilia](https://open.spotify.com/artist/5F5nhe5hMhJSGsULmNPeFW) | [Amnesty/Silver](https://open.spotify.com/album/3fZHaaKXm0PeQg3VhQyWWY) | 5:22 | 2022-05-20 | 2024-09-07 |
@@ -160,7 +161,7 @@
 | [High Tide](https://open.spotify.com/track/1vrU3ajM7wLj6xn3sU2pZ2) | [Oceans in Silhouette](https://open.spotify.com/artist/184qTniKJjNEoRlAoMh6jJ), [LEXX](https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd) | [High Tide](https://open.spotify.com/album/3d19RGahm9z8RlBVzBejYZ) | 3:58 | 2025-06-06 | 2025-07-05 |
 | [Hold On](https://open.spotify.com/track/5UYEN39zu5bJaZ8PT7tdlh) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [Elemental](https://open.spotify.com/album/6AWm4lugoUoI4OyBENsQgv) | 3:40 | 2024-11-29 | 2025-05-10 |
 | [Holding On](https://open.spotify.com/track/4aJw10YHEyj06Rrf7dSyQ5) | [Gumshen](https://open.spotify.com/artist/1ynnDWaJZ6KwwQDdjiEYI6) | [Holding On](https://open.spotify.com/album/3SDICaUoZIHesjaOEZdzu5) | 3:39 | 2024-12-27 | 2025-01-18 |
-| [Hollow](https://open.spotify.com/track/4hHej12aUB9TrubEIZVhD2) | [Syncatto](https://open.spotify.com/artist/3CJshVeVyOmL8H1RlcXiIX) | [Hollow](https://open.spotify.com/album/63o2rRkgfs8e1DWDwRonXo) | 3:02 | 2025-05-02 |  |
+| [Hollow](https://open.spotify.com/track/4hHej12aUB9TrubEIZVhD2) | [Syncatto](https://open.spotify.com/artist/3CJshVeVyOmL8H1RlcXiIX) | [Hollow](https://open.spotify.com/album/63o2rRkgfs8e1DWDwRonXo) | 3:02 | 2025-05-02 | 2025-09-27 |
 | [Home](https://open.spotify.com/track/0U6mxb2GBu1C3AsThXSIW5) | [A.C.T](https://open.spotify.com/artist/2QNkJtjbawPXhGKuH7Rn9k) | [Home](https://open.spotify.com/album/199rYz5wLEpWGB55vkvEZF) | 7:32 | 2025-08-08 |  |
 | [Hope Is](https://open.spotify.com/track/4jy8mXwqnOmKGrwB64zKc6) | [Amarok](https://open.spotify.com/artist/7wzRaLHNSWIG8ZHK2hQljt) | [Hope](https://open.spotify.com/album/2CATRWH2YIdajne7jXHzB5) | 4:44 | 2024-09-19 | 2024-10-19 |
 | [Horizons \- Live at Trading Boundaries](https://open.spotify.com/track/6s0FpwrEl7LtG1A85QPzLR) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Live Magic At Trading Boundaries](https://open.spotify.com/album/7Gs0wtWgpkuabd47D9Fo6u) | 1:46 | 2025-01-17 | 2025-02-01 |
@@ -206,6 +207,7 @@
 | [Like The Phoenix I Will Rise](https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Like The Phoenix I Will Rise](https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z) | 4:16 | 2025-01-17 | 2025-02-01 |
 | [Lilac](https://open.spotify.com/track/0jsdJ36JFwadIMScIewxj5) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Lilac](https://open.spotify.com/album/2bx6qA19Jk5JbHyAzXLYno) | 4:51 | 2025-04-11 |  |
 | [Lilywhite Lilith \- Live in London 2024](https://open.spotify.com/track/4Fh5lyG8eCEAWIRn1oATEm) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [The Lamb Stands Up Live At The Royal Albert Hall](https://open.spotify.com/album/26rWhZ5QWjK8FsRbXoXuBi) | 3:07 | 2025-07-11 | 2025-08-02 |
+| [Limitless](https://open.spotify.com/track/1IfI2uz0lCvV587vHFrLBU) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj) | [Limitless](https://open.spotify.com/album/5mJr0qZDx87Ttsys8QuPsg) | 2:51 | 2025-09-26 |  |
 | [Listen](https://open.spotify.com/track/2I5zfaP0LkdMHpgy9lH1sk) | [Finally George](https://open.spotify.com/artist/74QfYRNtBpj6gW6c2gPPyd) | [PAINTER](https://open.spotify.com/album/5VYKCk3uGKXAQUZkRbGzr0) | 6:04 | 2025-08-01 |  |
 | [Little Lord Fentanyl \(feat\. Puscifer\)](https://open.spotify.com/track/3jiZarLb1Jed79qbKNURVq) | [Primus](https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx), [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Little Lord Fentanyl \(feat\. Puscifer\)](https://open.spotify.com/album/5HdJul7RnNldHxZc4DFz2h) | 3:44 | 2025-05-02 | 2025-06-28 |
 | [Locomotive Breath \- 2025 Remix](https://open.spotify.com/track/4h5BnE4ZoAtuWIJlXOmCfp) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Still Living In The Past](https://open.spotify.com/album/5W0Fw1viLlgKZXbOwSl6uZ) | 4:42 | 2025-07-11 |  |
@@ -222,7 +224,7 @@
 | [Man vs Machine](https://open.spotify.com/track/4gAYTBgH5aa3z1tGAgq0N7) | [DarWin](https://open.spotify.com/artist/5dkLHW5y7w1CeHzazXdlmZ), [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Mohini Dey](https://open.spotify.com/artist/3jGVx8ZyTVFWokbgl6BDdo), [Greg Howe](https://open.spotify.com/artist/2dunvwAyryLzQqXUNlLoCV) | [Man vs Machine](https://open.spotify.com/album/5JOB2GWBD1cx3Fyhw1EoN0) | 6:22 | 2025-06-06 |  |
 | [MelancHoly](https://open.spotify.com/track/2rXBCOwW1bm7og7BnDHybT) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [MelancHoly](https://open.spotify.com/album/2xenPEQcPvRA4fyc08E4cf) | 3:38 | 2024-09-19 | 2025-02-22 |
 | [Melody Labyrinth](https://open.spotify.com/track/3sMAL47Yd18g3K5TNFjbYz) | [BIGMAMA](https://open.spotify.com/artist/1hLhr1vN1iKGMb0B0MTN6k) | [Melody Labyrinth](https://open.spotify.com/album/7aP3Dq69qOyqouXncqyQQ5) | 3:13 | 2025-02-28 | 2025-03-08 |
-| [Michigan](https://open.spotify.com/track/3GkmgQTR6GEsx9OMQoJYRA) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Circling From Above](https://open.spotify.com/album/54T5D3rEMViRv1ZnS9dbFl) | 3:03 | 2025-07-18 |  |
+| [Michigan](https://open.spotify.com/track/3GkmgQTR6GEsx9OMQoJYRA) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Circling From Above](https://open.spotify.com/album/54T5D3rEMViRv1ZnS9dbFl) | 3:03 | 2025-07-18 | 2025-09-27 |
 | [Midnight Messiah](https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Midnight Messiah](https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP) | 7:58 | 2025-01-24 |  |
 | [Moetsukiro!! Nessen Ressen Chou Gekisen \(part\. 4\) \- From "Dragon Ball Z"](https://open.spotify.com/track/7LASlTjTDIE2uXAT8ZeCTh) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Moetsukiro!! Nessen Ressen Chou Gekisen \(part\. 4\) \[From "Dragon Ball Z"\]](https://open.spotify.com/album/5To5KhSnx5bGK2bJNfkcDT) | 1:27 | 2025-04-04 | 2025-04-19 |
 | [Money \- Live From Prague May 2023](https://open.spotify.com/track/67q2P9XKku68erwDcTBMSq) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r) | [Roger Waters: This Is Not A Drill \- Live From Prague](https://open.spotify.com/album/0Z7DSfvo0DnqKeOXS7j5Pv) | 6:23 | 2025-08-01 | 2025-08-23 |

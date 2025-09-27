@@ -4,7 +4,7 @@
 
 > nü\-metal revival is happening here and now with Mudvayne.
 
-344 songs - 19 hr 15 min
+347 songs - 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 | 2024-08-23 | 2024-09-28 |
 | [Caged](https://open.spotify.com/track/2ZpqEDBKQ0QfolgfvgWumY) | [bbdalena](https://open.spotify.com/artist/1Bz7JYqdlG394tjNShtqAV) | [Caged](https://open.spotify.com/album/5fHryC7OYjmx6guAgkmEJt) | 2:52 | 2025-05-23 |  |
 | [Cellophane](https://open.spotify.com/track/5yIkrjh4x9S4gLB43uIZMx) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Cellophane](https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn) | 3:18 | 2025-07-25 | 2025-08-30 |
-| [CHASING THE HIGH](https://open.spotify.com/track/5kEZlaEqkMNAScxNKJo56f) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CHASING THE HIGH](https://open.spotify.com/album/1EoK1AkuL7X4LeNNBLTXfh) | 3:19 | 2025-09-12 |  |
+| [CHASING THE HIGH](https://open.spotify.com/track/5kEZlaEqkMNAScxNKJo56f) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [CHASING THE HIGH](https://open.spotify.com/album/1EoK1AkuL7X4LeNNBLTXfh) | 3:19 | 2025-09-12 | 2025-09-27 |
 | [Cold](https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Cold](https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8) | 2:58 | 2025-04-04 | 2025-05-10 |
 | [COME ALIVE](https://open.spotify.com/track/246bjBGHwB1YIEnOiSF1iZ) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [COME ALIVE](https://open.spotify.com/album/0MtCTrcYWyVtbYIVHx3Xol) | 3:13 | 2024-09-20 | 2025-05-10 |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 | 2024-03-02 |
@@ -86,7 +86,7 @@
 | [Do You Think I'm a Whore? XXV](https://open.spotify.com/track/28Ao9W3TmgM7xzIxICkAgI) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 3:06 | 2025-09-19 |  |
 | [Dog Cunts](https://open.spotify.com/track/2KBkozwBN2iREwOVVgw81W) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Dog Cunts](https://open.spotify.com/album/6HYdq61jHHO7dnQjTuvHxP) | 2:09 | 2024-05-17 | 2024-06-22 |
 | [Dopamine](https://open.spotify.com/track/1QBT6LsR5O2P5cKEqtN64n) | [Totalbuzzkill](https://open.spotify.com/artist/6ViDYUgAPH5gZmgNehN3W2) | [The Start of Something Beautiful](https://open.spotify.com/album/1QEmMyhcPW6rzacqpDSus6) | 3:34 | 2025-05-16 |  |
-| [Dope](https://open.spotify.com/track/6hpnjVqEa7LSyG5cJOuqc4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Dope](https://open.spotify.com/album/4uxYRLI4sPIx1tsHEl13WV) | 2:17 | 2025-08-01 |  |
+| [Dope](https://open.spotify.com/track/6hpnjVqEa7LSyG5cJOuqc4) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Dope](https://open.spotify.com/album/4uxYRLI4sPIx1tsHEl13WV) | 2:17 | 2025-08-01 | 2025-09-27 |
 | [Dress Down](https://open.spotify.com/track/6nUKoqyYUZQdSuP4dq0f7i) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The Art Of Everything](https://open.spotify.com/album/4aaJ8ggCf9cKIlGUBKvHkq) | 4:17 | 2024-10-18 | 2025-09-06 |
 | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/track/0EYW7sCfFn9QnuFsSGAt33) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Randy Blythe](https://open.spotify.com/artist/63JN4A4IroUvAN1fyWmsHB) | [DROP \(feat\. Randy Blythe\)](https://open.spotify.com/album/4NKRWnBsryI3hSVOSm5ihE) | 3:11 | 2023-09-22 | 2023-12-02 |
 | [DYING SUN](https://open.spotify.com/track/1loAa1QPNjuz04PErY4Evx) | [Vile Mana](https://open.spotify.com/artist/5OS3tyU5PSf3i3rEx1cw3m), [PVNKSTXRNATION](https://open.spotify.com/artist/73FoUBcxkox059Nc74Zzes), [JOLLY WRLD](https://open.spotify.com/artist/6iQQaCotqs1waJnO44rGt4) | [DYING SUN](https://open.spotify.com/album/4FQyXSIcLk0qRFWduYiNCj) | 3:11 | 2025-06-06 |  |
@@ -174,6 +174,7 @@
 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 | 2024-11-08 | 2025-08-30 |
 | [Low](https://open.spotify.com/track/6pSoPfKn9nK4bdFb6cjWXy) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7) | [Growing Pains](https://open.spotify.com/album/0fvjndxPn7XXwhX9TpCt6H) | 3:23 | 2025-06-20 |  |
 | [Lucid](https://open.spotify.com/track/0uLulDA7XLtgySrvYe4gMF) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Lucid](https://open.spotify.com/album/3kW207d1Hjp7ASw6XqpMlD) | 3:46 | 2025-05-16 | 2025-08-02 |
+| [Luciferian](https://open.spotify.com/track/4msecgNX7Ak2bPR8cK2ynl) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Luciferian](https://open.spotify.com/album/6NzzdHTA4LMwAfBsxoB2oM) | 2:58 | 2025-09-26 |  |
 | [LV Vest](https://open.spotify.com/track/78zLP2XihgPOhIiiItDdjE) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [LV Vest](https://open.spotify.com/album/29MaeaoIkGIcPuN8SdVtNJ) | 4:08 | 2024-09-27 | 2024-10-19 |
 | [Made Me This Way](https://open.spotify.com/track/2QmqloB5RrJ9JXIOSxM2fL) | [Silent Theory](https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR) | [Made Me This Way](https://open.spotify.com/album/4y5H1S6oL2W983ataQpdQi) | 3:30 | 2024-07-05 | 2024-11-16 |
 | [Make It a Lie](https://open.spotify.com/track/3fse9bOfmU8yAUO8bpxb6q) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Make It a Lie](https://open.spotify.com/album/4xYVJMcqf4PtZmTKcaRGca) | 3:30 | 2025-05-16 |  |
@@ -187,7 +188,7 @@
 | [Modern Error](https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Modern Error](https://open.spotify.com/album/1spLAp5HnKomU3UgbsgYz8) | 4:29 | 2024-03-29 | 2024-09-07 |
 | [MOTION](https://open.spotify.com/track/4zYeji5OBFpZexwyaCqNk3) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [MOTION](https://open.spotify.com/album/2uG19GTf3emUepH0nfW8nI) | 3:03 | 2024-11-29 | 2025-01-25 |
 | [MY DISASTER](https://open.spotify.com/track/4fDHUQVGS6Tt392L6XY1rZ) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [MY DISASTER](https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w) | 2:41 | 2024-07-26 | 2024-09-14 |
-| [Neighbors](https://open.spotify.com/track/09ni95bc8G2j4OOPopdyYl) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Neighbors](https://open.spotify.com/album/1frmqPMR3tVEO8qieXinbf) | 2:46 | 2025-08-29 |  |
+| [Neighbors](https://open.spotify.com/track/09ni95bc8G2j4OOPopdyYl) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Neighbors](https://open.spotify.com/album/1frmqPMR3tVEO8qieXinbf) | 2:46 | 2025-08-29 | 2025-09-27 |
 | [Neo Paris](https://open.spotify.com/track/49wrKDHWJDocIy3AQ8Hq3B) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Neo Paris](https://open.spotify.com/album/0wWpqyXOqbAzNbI9xtb6he) | 3:21 | 2025-05-02 | 2025-09-06 |
 | [New Disease](https://open.spotify.com/track/17mzKJARvVNR7eDyPqBpIG) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [New Disease](https://open.spotify.com/album/23L4tjuxXU9eTZ1Zs1VZDf) | 3:13 | 2025-07-25 |  |
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-14 | 2025-07-18 |
@@ -255,6 +256,7 @@
 | [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-06-28 | 2025-06-07 |
 | [Showdown](https://open.spotify.com/track/0dMlUGAmgBLLLjiufG5R18) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Showdown](https://open.spotify.com/album/0hynTwx1tRcpaCMf2t2YXv) | 4:11 | 2023-09-13 | 2024-02-10 |
 | [Silence](https://open.spotify.com/track/5nCkU8SFcpmRMDSQ72Krd0) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [Silence](https://open.spotify.com/album/2KjHwgdCvcgmOBCA2jnxUY) | 3:28 | 2025-05-23 |  |
+| [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [ENTRY WOUNDS](https://open.spotify.com/album/3j0s7SQBbf9sZNqxkaGb4j) | 3:09 | 2025-09-26 |  |
 | [Sit On It](https://open.spotify.com/track/4Ej8mKdpBikpOyDgRLK0i4) | [Jigsaw Youth](https://open.spotify.com/artist/4nyGm04ANLhY9t8TnId45y) | [Sit On It](https://open.spotify.com/album/0Zrn61By1Ey8A9YQjAcm4v) | 2:24 | 2023-11-10 | 2023-11-25 |
 | [Sloth](https://open.spotify.com/track/1BarxzQGZySsAadBOlwRUq) | [LEXX](https://open.spotify.com/artist/4ofinupphwqEBqASKEAKWd) | [Sloth](https://open.spotify.com/album/66HE5AoPOKwR7bP7uDC8HM) | 4:02 | 2025-05-16 |  |
 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 | 2025-08-15 |  |
@@ -268,6 +270,7 @@
 | [Sometimes I Want To Fade Away](https://open.spotify.com/track/6Oj1A9g02PL5sbtpR3z99Q) | [reverie](https://open.spotify.com/artist/5Iin90pYCmBEIPJpjRNBoU) | [Sometimes I Want To Fade Away](https://open.spotify.com/album/01X8PSzFS3givv8gbsaAww) | 4:19 | 2025-06-06 |  |
 | [SOWHAT1999](https://open.spotify.com/track/2YkYYob6zFTXzcjLv2mg9q) | [Ocean Grove](https://open.spotify.com/artist/0AlnGjlLLXglk9hnwErYDU) | [ODDWORLD](https://open.spotify.com/album/5RrM7e9rjhJIom1673RnRF) | 3:00 | 2024-11-22 |  |
 | [Spit XXV](https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB) | 2:45 | 2025-08-22 | 2025-09-13 |
+| [Split](https://open.spotify.com/track/1Z2zZy2r4tZFAVnJTVXDEq) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Split](https://open.spotify.com/album/72PHQZxcAwXCjKoilDqzPa) | 3:14 | 2025-09-26 |  |
 | [Stay](https://open.spotify.com/track/6cYbYWZWXWeANCn5V7ZIqS) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Stay](https://open.spotify.com/album/5jfIWCColjrn9NAfEFCbHu) | 2:27 | 2025-06-27 | 2025-08-30 |
 | [Stay Alive](https://open.spotify.com/track/66Qgii6ORyeqooYBgEwOjM) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Stay Alive](https://open.spotify.com/album/4UHvt8BH9vbtB2ZhVKT8mR) | 3:46 | 2023-09-13 | 2023-10-07 |
 | [Stay Alive](https://open.spotify.com/track/2gsMbIi220xUNmGcNEVUBR) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Z0mbie](https://open.spotify.com/album/39Lu0IyoWvizdSECrOOTLE) | 3:47 | 2023-10-06 | 2023-11-18 |
@@ -330,7 +333,7 @@
 | [W.T.F](https://open.spotify.com/track/6Alx6Gew5EWNf2edgKGSdp) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [W.T.F](https://open.spotify.com/album/0s9QZIw7B6fRydBMKa3Oqm) | 3:27 | 2025-02-07 |  |
 | [Waiting](https://open.spotify.com/track/2hoNfgPtu1VlcCLwyMJ5yH) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Waiting](https://open.spotify.com/album/4COHGQrXU0drwFzAe108RV) | 3:37 | 2023-11-10 | 2023-12-23 |
 | [War Machine](https://open.spotify.com/track/1C3TukDxObxxR4dhi0u2x7) | [Powerflo](https://open.spotify.com/artist/4s3biD1bXEb7I6QKsmKGZ3) | [War Machine](https://open.spotify.com/album/6booYwRM3SPcjeGLCTjDhS) | 3:57 | 2024-10-11 | 2024-11-30 |
-| [Waste](https://open.spotify.com/track/30iioITa3fCDhbE9HzgcFC) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Waste](https://open.spotify.com/album/4SuSt4oIL53W49HUl6UuNN) | 3:35 | 2025-06-13 |  |
+| [Waste](https://open.spotify.com/track/30iioITa3fCDhbE9HzgcFC) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Waste](https://open.spotify.com/album/4SuSt4oIL53W49HUl6UuNN) | 3:35 | 2025-06-13 | 2025-09-27 |
 | [Wasteland](https://open.spotify.com/track/5L3z9iM22RWKcKKl4yW1cD) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Wasteland](https://open.spotify.com/album/0ISeFNTBmz1NCAhF7qTum9) | 2:48 | 2024-11-22 | 2025-09-06 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-09-22 | 2024-02-03 |
 | [Wavery](https://open.spotify.com/track/2THCSs7C9BxHuD9yBfJvnU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 4:40 | 2023-09-13 | 2023-11-11 |

@@ -687,6 +687,28 @@
     },
     {
       "album": {
+        "name": "Belai",
+        "url": "https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg"
+      },
+      "artists": [
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t"
+        },
+        {
+          "name": "Amsyar Leee",
+          "url": "https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "Belai",
+      "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
+    },
+    {
+      "album": {
         "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
         "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
       },

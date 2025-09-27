@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Tamil Hip-Hop!\nCover : Asal Kolaar",
+  "description": "Best of Tamil Hip-Hop!\nCover : Shiv Paul",
   "name": "RAP 91 Tamil",
   "tracks": [
     {
@@ -1715,6 +1715,36 @@
     },
     {
       "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/3xMho8zPyMrJ2Z1Hkpxmnq"
+      },
+      "artists": [
+        {
+          "name": "Vimal Se",
+          "url": "https://open.spotify.com/artist/1pKXT2upmtowBacjDHJiQj"
+        },
+        {
+          "name": "Darloo",
+          "url": "https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7"
+        },
+        {
+          "name": "Stan & Sam",
+          "url": "https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM"
+        },
+        {
+          "name": "Two Teens Music",
+          "url": "https://open.spotify.com/artist/269ulyYI7YIaKmDRAHbXnK"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/7cCs9sbW29Tzgbsq3aVPxK"
+    },
+    {
+      "album": {
         "name": "In The Lab",
         "url": "https://open.spotify.com/album/6lcacieSlEfbryT9X9hiqJ"
       },
@@ -2632,7 +2662,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 165600,
       "name": "Mastana",
       "url": "https://open.spotify.com/track/1TKjYMzi577upCbE0vABcr"
@@ -3174,6 +3204,28 @@
       "duration_ms": 185895,
       "name": "Olalai - From 'Atti Culture'",
       "url": "https://open.spotify.com/track/2nbjJxiBedH58K9Os9Duef"
+    },
+    {
+      "album": {
+        "name": "Old Town",
+        "url": "https://open.spotify.com/album/6HeeD02C1W4eDLSbULUgJO"
+      },
+      "artists": [
+        {
+          "name": "SHIV PAUL",
+          "url": "https://open.spotify.com/artist/5AA9gS6Kw5CwPGZ8CEoA8f"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/5rrc0Iwsd0ugxf1Z51PUJP"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/0YMS7LRZLiSCqNE9TzDoXO"
     },
     {
       "album": {
@@ -4954,7 +5006,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196530,
       "name": "Undhan Vizhiyaale",
       "url": "https://open.spotify.com/track/72LsybIfXfFOmhXIpL76sr"

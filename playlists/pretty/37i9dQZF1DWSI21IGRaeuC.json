@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house and techno \u26cf\ufe0f\u26cf\ufe0f \nwith Chris Stussy",
-  "num_followers": 65537,
+  "num_followers": 65609,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTofRlg8doV8pmH1ViwjXzGXlWc",
+  "snapshot_id": "AAAAAEwoUs65Zh4bFHAOSdjj/EvLz7ds",
   "tracks": [
     {
       "added_at": "2025-08-22 04:00:28",
@@ -33,20 +33,28 @@
       "url": "https://open.spotify.com/track/1s2ThwVZfmwizOxSxfwln6"
     },
     {
-      "added_at": "2025-09-12 16:39:39",
+      "added_at": "2025-09-26 04:00:44",
       "album": {
-        "name": "EVERY TIME",
-        "url": "https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg"
+        "name": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
+        "url": "https://open.spotify.com/album/7h1UqQUGd3vtpPFZyg6tIH"
       },
       "artists": [
         {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "The Egyptian Lover",
+          "url": "https://open.spotify.com/artist/6GGVr7WgIWhsnJNdGyPklP"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
         }
       ],
-      "duration_ms": 253235,
-      "name": "Like This Like That",
-      "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
+      "duration_ms": 146953,
+      "name": "Dr Feel Right (feat. The Egyptian Lover & Rome Fortune)",
+      "url": "https://open.spotify.com/track/55Gic5of4nSRA78CCQLwSP"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -67,6 +75,42 @@
       "duration_ms": 169846,
       "name": "Gets Like That",
       "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
+    },
+    {
+      "added_at": "2025-09-12 16:39:39",
+      "album": {
+        "name": "EVERY TIME",
+        "url": "https://open.spotify.com/album/2xPlGIl6FCLFbfuC0Sv0vg"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 253235,
+      "name": "Like This Like That",
+      "url": "https://open.spotify.com/track/14xIALfiHAkxoKAfrTJ9j0"
+    },
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Reset EP",
+        "url": "https://open.spotify.com/album/4WAGOxEZDWeat8p9vZBsL8"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        },
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -93,22 +137,6 @@
       "url": "https://open.spotify.com/track/6YnMiAJNZtqKwYgwrKSkwt"
     },
     {
-      "added_at": "2025-09-05 04:00:16",
-      "album": {
-        "name": "Can't Resist EP",
-        "url": "https://open.spotify.com/album/1c2WIt22tmiyxyeXKxQofJ"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        }
-      ],
-      "duration_ms": 159460,
-      "name": "Can't Resist",
-      "url": "https://open.spotify.com/track/69apGibKG9WdsnS6jvLUUG"
-    },
-    {
       "added_at": "2025-09-19 14:22:02",
       "album": {
         "name": "Can You Feel It",
@@ -123,6 +151,74 @@
       "duration_ms": 159685,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/2cBO615oOQoZVJislOOSx3"
+      },
+      "artists": [
+        {
+          "name": "Ramin Rezaie",
+          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
+        },
+        {
+          "name": "Lady Vale",
+          "url": "https://open.spotify.com/artist/7CBgUYtjzK6YOIzPre84GK"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/2fdGEgozodsM2zW4r0C9T3"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "Once Again Back",
+        "url": "https://open.spotify.com/album/702aq7qtCyIbYhhY14hF9l"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "duration_ms": 179542,
+      "name": "Once Again Back",
+      "url": "https://open.spotify.com/track/7xNFa6K3CSfoDZpXSWtQdu"
+    },
+    {
+      "added_at": "2025-09-26 05:04:40",
+      "album": {
+        "name": "Stop Pretending EP",
+        "url": "https://open.spotify.com/album/1oZZP8vuBI7sy4J41ZU1ll"
+      },
+      "artists": [
+        {
+          "name": "Watchers (UK)",
+          "url": "https://open.spotify.com/artist/1kaPhHGtnE7QBFCu1fTj2e"
+        }
+      ],
+      "duration_ms": 335769,
+      "name": "Stop Pretending",
+      "url": "https://open.spotify.com/track/4zyjH9acIArBVS9OShHsjC"
+    },
+    {
+      "added_at": "2025-08-20 19:16:02",
+      "album": {
+        "name": "Do You Like Bass",
+        "url": "https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO"
+      },
+      "artists": [
+        {
+          "name": "Aitor Astiz",
+          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Do You Like Bass",
+      "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -145,6 +241,26 @@
       "url": "https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f"
     },
     {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Smoke It",
+        "url": "https://open.spotify.com/album/1ZZOqe1rEj74BWdlF9yqZM"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        },
+        {
+          "name": "Gio Lucca",
+          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Smoke It",
+      "url": "https://open.spotify.com/track/3DfjyeeFJIdbBWImBsMsAh"
+    },
+    {
       "added_at": "2025-09-19 04:00:36",
       "album": {
         "name": "You Wanna D EP",
@@ -165,68 +281,20 @@
       "url": "https://open.spotify.com/track/0xAOBPbBC73UIKHQ1x0zHN"
     },
     {
-      "added_at": "2025-08-20 19:16:02",
+      "added_at": "2025-09-26 15:08:44",
       "album": {
-        "name": "Do You Like Bass",
-        "url": "https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO"
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/6S40C7pWconX9aUdMD79v4"
       },
       "artists": [
         {
-          "name": "Aitor Astiz",
-          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+          "name": "DAETOR",
+          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Do You Like Bass",
-      "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
-    },
-    {
-      "added_at": "2025-09-19 04:00:36",
-      "album": {
-        "name": "Once Again Back",
-        "url": "https://open.spotify.com/album/702aq7qtCyIbYhhY14hF9l"
-      },
-      "artists": [
-        {
-          "name": "Mati Astroza",
-          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
-        }
-      ],
-      "duration_ms": 179542,
-      "name": "Once Again Back",
-      "url": "https://open.spotify.com/track/7xNFa6K3CSfoDZpXSWtQdu"
-    },
-    {
-      "added_at": "2025-09-19 16:40:13",
-      "album": {
-        "name": "ATW024",
-        "url": "https://open.spotify.com/album/3q68WRDnFm68DwRLABeISh"
-      },
-      "artists": [
-        {
-          "name": "Lemtom",
-          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
-        }
-      ],
-      "duration_ms": 213569,
-      "name": "The Devil",
-      "url": "https://open.spotify.com/track/31qVMrHrtSXod8QNRJMAsQ"
-    },
-    {
-      "added_at": "2025-09-12 04:00:11",
-      "album": {
-        "name": "The Message EP",
-        "url": "https://open.spotify.com/album/6OF6KDVge1XAAADYIDf9ej"
-      },
-      "artists": [
-        {
-          "name": "Job De Jong",
-          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
-        }
-      ],
-      "duration_ms": 217674,
-      "name": "The Message",
-      "url": "https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t"
+      "duration_ms": 220799,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/33b60gYbLb1HSaPXLJs5rm"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -265,6 +333,42 @@
       "url": "https://open.spotify.com/track/1P4uI6cVv6RgiW1NpJGBjB"
     },
     {
+      "added_at": "2025-09-19 16:40:13",
+      "album": {
+        "name": "ATW024",
+        "url": "https://open.spotify.com/album/3q68WRDnFm68DwRLABeISh"
+      },
+      "artists": [
+        {
+          "name": "Lemtom",
+          "url": "https://open.spotify.com/artist/2B9xp0rpwFz5TON2ZSSKEF"
+        }
+      ],
+      "duration_ms": 213569,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/31qVMrHrtSXod8QNRJMAsQ"
+    },
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Miami Express",
+        "url": "https://open.spotify.com/album/6dGrGIzc3IRwHfkbNrhAjZ"
+      },
+      "artists": [
+        {
+          "name": "Mishell",
+          "url": "https://open.spotify.com/artist/3kCsXVpVs1ZhLnIVkNzdHJ"
+        },
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Miami Express",
+      "url": "https://open.spotify.com/track/5mcPtwytr83V4wh6MtRq0R"
+    },
+    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Pumpin Jumpin",
@@ -283,6 +387,74 @@
     {
       "added_at": "2025-09-12 04:00:11",
       "album": {
+        "name": "The Message EP",
+        "url": "https://open.spotify.com/album/6OF6KDVge1XAAADYIDf9ej"
+      },
+      "artists": [
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        }
+      ],
+      "duration_ms": 217674,
+      "name": "The Message",
+      "url": "https://open.spotify.com/track/5fN2dHD2RxxDVJVWyTVq0t"
+    },
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/6tRLybP8cJTf7bKLlyBgll"
+      },
+      "artists": [
+        {
+          "name": "AJ Christou",
+          "url": "https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/6SxzvEf1ilzLdxBJJKaXpr"
+    },
+    {
+      "added_at": "2025-09-19 04:00:36",
+      "album": {
+        "name": "The Finest EP",
+        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "The Finest",
+      "url": "https://open.spotify.com/track/3s8jNQmpMoqLTnhu77qyCr"
+    },
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Moovin n Groovin",
+        "url": "https://open.spotify.com/album/07VAsa4hu0LWn4qmyzR42h"
+      },
+      "artists": [
+        {
+          "name": "Joluca",
+          "url": "https://open.spotify.com/artist/3giycuiv9FsMjaSEsJ8i1E"
+        }
+      ],
+      "duration_ms": 168801,
+      "name": "Moovin n Groovin",
+      "url": "https://open.spotify.com/track/5yiRgZxx6qA4Qz9bFaOtgK"
+    },
+    {
+      "added_at": "2025-09-12 04:00:11",
+      "album": {
         "name": "Unknown Track",
         "url": "https://open.spotify.com/album/1AnHsILGks6Rfac0snzfuK"
       },
@@ -295,6 +467,38 @@
       "duration_ms": 265468,
       "name": "Unknown Track",
       "url": "https://open.spotify.com/track/0iFxLdKp3KNbl3TPziqcB0"
+    },
+    {
+      "added_at": "2025-09-05 04:00:16",
+      "album": {
+        "name": "Can't Resist EP",
+        "url": "https://open.spotify.com/album/1c2WIt22tmiyxyeXKxQofJ"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "duration_ms": 159460,
+      "name": "Can't Resist",
+      "url": "https://open.spotify.com/track/69apGibKG9WdsnS6jvLUUG"
+    },
+    {
+      "added_at": "2025-09-26 15:08:44",
+      "album": {
+        "name": "Nothing We Can't Be",
+        "url": "https://open.spotify.com/album/3t2n6ki5U46Y8RFDgzjvV3"
+      },
+      "artists": [
+        {
+          "name": "J.K. Rollin",
+          "url": "https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ"
+        }
+      ],
+      "duration_ms": 377404,
+      "name": "Nothing We Can't Be",
+      "url": "https://open.spotify.com/track/2mh0zotv5gTpjiOQ5SG1j1"
     },
     {
       "added_at": "2025-09-19 04:00:36",
@@ -347,6 +551,26 @@
       "duration_ms": 216183,
       "name": "Enclosure",
       "url": "https://open.spotify.com/track/75DKaeuZS8YPvy6LX7hLSw"
+    },
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Rancho",
+        "url": "https://open.spotify.com/album/6oUibSulxdcGrUexqUdSxH"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        },
+        {
+          "name": "DYOR Atelier",
+          "url": "https://open.spotify.com/artist/2F6DhnC0oLU9HiYCGQDMa4"
+        }
+      ],
+      "duration_ms": 217384,
+      "name": "Rancho",
+      "url": "https://open.spotify.com/track/7zaLV1eQDk0UV1wU0qzraq"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -433,6 +657,22 @@
       "url": "https://open.spotify.com/track/0W2egu7au4Dwp1NgUUcyYb"
     },
     {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Yuly",
+        "url": "https://open.spotify.com/album/6VUFilJWHqWs56jRwfzyqG"
+      },
+      "artists": [
+        {
+          "name": "Beswerda",
+          "url": "https://open.spotify.com/artist/29nMwVYp8ojzz0SIUdtQRB"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Yuly",
+      "url": "https://open.spotify.com/track/3guA4PEl2yG6jkiXUJICyo"
+    },
+    {
       "added_at": "2025-09-19 16:40:13",
       "album": {
         "name": "Reality Check / Qui Pon (Remixes)",
@@ -501,24 +741,20 @@
       "url": "https://open.spotify.com/track/7uMbrkuHJJjDLVucvnVjKg"
     },
     {
-      "added_at": "2025-09-19 04:00:36",
+      "added_at": "2025-09-26 04:00:44",
       "album": {
-        "name": "The Finest EP",
-        "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
+        "name": "Voices EP",
+        "url": "https://open.spotify.com/album/24RVq5Jem8SZsCNtRTHWpg"
       },
       "artists": [
         {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+          "name": "Mathias Kaden",
+          "url": "https://open.spotify.com/artist/7gURutUeEed1hWmMVq8E0S"
         }
       ],
-      "duration_ms": 196363,
-      "name": "The Finest",
-      "url": "https://open.spotify.com/track/3s8jNQmpMoqLTnhu77qyCr"
+      "duration_ms": 240000,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/79yoLge1su6UWvj7DfEdRk"
     },
     {
       "added_at": "2025-08-29 04:00:38",
@@ -733,22 +969,6 @@
       "url": "https://open.spotify.com/track/4bVvZz2ek77iSBj6HsmUyH"
     },
     {
-      "added_at": "2025-08-20 19:16:02",
-      "album": {
-        "name": "Dry Socket EP",
-        "url": "https://open.spotify.com/album/6z21WzR8O9meDeJNJP8PhQ"
-      },
-      "artists": [
-        {
-          "name": "Soulfreq",
-          "url": "https://open.spotify.com/artist/0DYm4LvbfgVT9zgpHyat5o"
-        }
-      ],
-      "duration_ms": 358156,
-      "name": "Dry Socket",
-      "url": "https://open.spotify.com/track/6lmz9YdWW6tU6Yw1DkZNGi"
-    },
-    {
       "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Up & Down EP",
@@ -763,26 +983,6 @@
       "duration_ms": 216000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/0mMTfDfmW3G00G7xXum1Ot"
-    },
-    {
-      "added_at": "2025-09-05 04:00:16",
-      "album": {
-        "name": "Fiesta Finale",
-        "url": "https://open.spotify.com/album/1XQtxFXj53RlU3fi5iB5fu"
-      },
-      "artists": [
-        {
-          "name": "Cirque du Soleil",
-          "url": "https://open.spotify.com/artist/0iF2gedsSjoVHRUh5vXSdu"
-        },
-        {
-          "name": "Ramin Rezaie",
-          "url": "https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Fiesta Finale - Ramin Rezaie Remix Edit",
-      "url": "https://open.spotify.com/track/3BMZJn1KlrvV3NUluEOsmw"
     },
     {
       "added_at": "2025-08-08 04:00:42",
@@ -833,22 +1033,6 @@
       "url": "https://open.spotify.com/track/6xSAmQZOq9XKps4wXYL12n"
     },
     {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Control EP",
-        "url": "https://open.spotify.com/album/4RAVFTw0UM9WSEK3HqqHTg"
-      },
-      "artists": [
-        {
-          "name": "Gio Lucca",
-          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
-        }
-      ],
-      "duration_ms": 273230,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/3HSjEd5TWc1pb5YmUDaVrf"
-    },
-    {
       "added_at": "2025-07-09 18:30:05",
       "album": {
         "name": "No Hiding",
@@ -895,22 +1079,6 @@
       "duration_ms": 179596,
       "name": "Take One",
       "url": "https://open.spotify.com/track/0RnfuyifJlc2fVMHIy5Wuc"
-    },
-    {
-      "added_at": "2025-08-29 04:00:38",
-      "album": {
-        "name": "Want You EP",
-        "url": "https://open.spotify.com/album/4T0AtHkpum0TmZBD5nqaNh"
-      },
-      "artists": [
-        {
-          "name": "GIGSTA",
-          "url": "https://open.spotify.com/artist/36l9HLDiaCw6E5qmLusL9a"
-        }
-      ],
-      "duration_ms": 223255,
-      "name": "Want You - Radio Edit",
-      "url": "https://open.spotify.com/track/59voV2rMQFCSBuuT5894Xi"
     },
     {
       "added_at": "2025-09-05 04:00:16",
@@ -997,22 +1165,6 @@
       "url": "https://open.spotify.com/track/0eys2ljlnxUE3kIW62nq2J"
     },
     {
-      "added_at": "2025-07-11 04:00:23",
-      "album": {
-        "name": "Versatile",
-        "url": "https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0"
-      },
-      "artists": [
-        {
-          "name": "L.P. Rhythm",
-          "url": "https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Versatile",
-      "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"
-    },
-    {
       "added_at": "2025-06-20 04:00:47",
       "album": {
         "name": "High On Me",
@@ -1067,46 +1219,6 @@
       "duration_ms": 165505,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/2uQYiMfRTsCnyQoNG638Av"
-    },
-    {
-      "added_at": "2025-08-20 19:16:02",
-      "album": {
-        "name": "The Real Sucka EP",
-        "url": "https://open.spotify.com/album/7LhLHl5ddynNpygXQ19OHl"
-      },
-      "artists": [
-        {
-          "name": "FINKY",
-          "url": "https://open.spotify.com/artist/2rZjYuAVFCk4oCPHmCZ4y2"
-        },
-        {
-          "name": "Dan Fresco",
-          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "The Real Sucka",
-      "url": "https://open.spotify.com/track/24mmhkshFtL77aVukzwdhW"
-    },
-    {
-      "added_at": "2025-08-27 15:23:52",
-      "album": {
-        "name": "Time To Party",
-        "url": "https://open.spotify.com/album/0xh9NE03w3wQyQbYcuNABE"
-      },
-      "artists": [
-        {
-          "name": "ADR (UK)",
-          "url": "https://open.spotify.com/artist/3IMrOdTFlakSWfVl6DKMub"
-        },
-        {
-          "name": "OUTTEN",
-          "url": "https://open.spotify.com/artist/5gZ4m0VNt6bLOzC4gllkHD"
-        }
-      ],
-      "duration_ms": 185954,
-      "name": "Time To Party",
-      "url": "https://open.spotify.com/track/12moDsg4SVHTtUJinAWd51"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1197,26 +1309,6 @@
       "url": "https://open.spotify.com/track/1GMTjnJIiPert5Hn5kb8cU"
     },
     {
-      "added_at": "2025-08-20 19:16:02",
-      "album": {
-        "name": "Wanna C U (Radio Edit)",
-        "url": "https://open.spotify.com/album/07hicjIcYkyyBkmYhJRUuR"
-      },
-      "artists": [
-        {
-          "name": "Jamie Aramayo",
-          "url": "https://open.spotify.com/artist/5N7iEEpdeCJfWPSLvSUHKE"
-        },
-        {
-          "name": "DXNBY",
-          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
-        }
-      ],
-      "duration_ms": 190076,
-      "name": "Wanna C U - Radio Edit",
-      "url": "https://open.spotify.com/track/6KjzfHZd7KEAnUo3ViOl9p"
-    },
-    {
       "added_at": "2025-07-14 14:30:24",
       "album": {
         "name": "Fixation EP",
@@ -1231,22 +1323,6 @@
       "duration_ms": 262153,
       "name": "Fixation",
       "url": "https://open.spotify.com/track/2gLdBNejY6h6WTIveyF3gz"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "Ecstasy EP",
-        "url": "https://open.spotify.com/album/2t1DUvrRJXYfWqEmmRBMnk"
-      },
-      "artists": [
-        {
-          "name": "Marsolo",
-          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
-        }
-      ],
-      "duration_ms": 178990,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/7DvMAbmkSZsT5EytU35iVv"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1433,26 +1509,6 @@
       "url": "https://open.spotify.com/track/04wjT0XvCvQjNZtazFMnxX"
     },
     {
-      "added_at": "2025-07-25 04:00:51",
-      "album": {
-        "name": "Play Me",
-        "url": "https://open.spotify.com/album/4AJuif5mnmGdBmgvdfYnUw"
-      },
-      "artists": [
-        {
-          "name": "Braydon Terzo",
-          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
-        },
-        {
-          "name": "Stefan Andreas",
-          "url": "https://open.spotify.com/artist/6laD0TQXzg1mJ1OoevleWq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Play Me",
-      "url": "https://open.spotify.com/track/3L2kdsrjGJjuo0g8OukXZX"
-    },
-    {
       "added_at": "2025-06-20 04:00:47",
       "album": {
         "name": "The One (feat. Jocelyn Brown) [Obsk\u00fcr Remix]",
@@ -1529,22 +1585,6 @@
       "url": "https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR"
     },
     {
-      "added_at": "2025-07-11 04:00:23",
-      "album": {
-        "name": "Mainframe",
-        "url": "https://open.spotify.com/album/4zMAO2w4rA8HwGazrdgZVs"
-      },
-      "artists": [
-        {
-          "name": "Jay Crusoe",
-          "url": "https://open.spotify.com/artist/4ToomtslAOZIEy4UgooZR7"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "Mainframe",
-      "url": "https://open.spotify.com/track/4GpRdW1ljkq1xoo0S94cOc"
-    },
-    {
       "added_at": "2025-06-13 04:00:55",
       "album": {
         "name": "Cruisin'",
@@ -1575,22 +1615,6 @@
       "duration_ms": 307210,
       "name": "Shelter (Funky Heroes)",
       "url": "https://open.spotify.com/track/6sgSsMVHeq4WsJiqiqtblx"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Won't Stop (Don't)",
-        "url": "https://open.spotify.com/album/0wL4LsbLuwgFzqytJj97Lu"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "Won't Stop (Don't)",
-      "url": "https://open.spotify.com/track/43FiKNMmSDaI7V1U8i5CZI"
     },
     {
       "added_at": "2025-07-11 04:00:23",
@@ -1983,22 +2007,6 @@
       "duration_ms": 227753,
       "name": "Someday",
       "url": "https://open.spotify.com/track/63FxWnLTk9LcoPwOGdMgWv"
-    },
-    {
-      "added_at": "2025-02-03 15:39:15",
-      "album": {
-        "name": "Freak Out",
-        "url": "https://open.spotify.com/album/6DGCEXrMI3ZJ4Cy1Hns3NQ"
-      },
-      "artists": [
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        }
-      ],
-      "duration_ms": 173023,
-      "name": "Freak Out",
-      "url": "https://open.spotify.com/track/6q7BYKdazGMHWAAiHKrrq3"
     },
     {
       "added_at": "2025-01-07 21:49:06",

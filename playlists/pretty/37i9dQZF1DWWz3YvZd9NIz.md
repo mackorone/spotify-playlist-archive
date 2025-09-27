@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,544 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,677 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Smells Like Teen Spirit](https://open.spotify.com/track/02uaLJya6U259ljPjJDvS3) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Smells Like Teen Spirit](https://open.spotify.com/album/2KvMTlgk0LrWqgtqQAcMvS) | 3:31 |
 | 70 | [BELIEVE](https://open.spotify.com/track/5wbOCSgL2J390XSAv2cagW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX) | [BELIEVE](https://open.spotify.com/album/4PVQayLg2VKRGKRkCGacjv) | 3:00 |
 
-Snapshot ID: `AAAAAPRbugaW9h0+71DKHLWqcxUMIP13`
+Snapshot ID: `AAAAAJ/wWweq7ap/cbjX9XymUfGr7YpK`

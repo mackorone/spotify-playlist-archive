@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-182 songs - 12 hr 42 min
+183 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Lay My Head On Your Pillow](https://open.spotify.com/track/6ZN106OpbakIb13AswoWOw) | [Cassie Taylor](https://open.spotify.com/artist/3rHAg1yXbyNq0mnPgsVahe) | [Out Of My Mind](https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD) | 3:59 | 2020-11-05 | 2025-06-28 |
 | [Little Bit Longer](https://open.spotify.com/track/0Qug6Nrrlw5JDVTbuisYpA) | [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Little Bit Longer](https://open.spotify.com/album/4f1ASCJc3Nc4epEhMkAxX7) | 3:55 | 2022-11-18 |  |
 | [Lost Man](https://open.spotify.com/track/2quMvdrHOSiAT0XHTM7Bof) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Lost Man](https://open.spotify.com/album/7D31Tu8Acs4EnAOhHNzm1u) | 5:23 | 2025-03-07 | 2025-08-31 |
+| [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 | 2025-09-26 |  |
 | [Love's Truly Blind](https://open.spotify.com/track/767uxXvBCPYP1rscn8odVe) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Two's Company](https://open.spotify.com/album/0ZyNmn3MEE1oceC22A89PG) | 3:26 | 2020-11-05 | 2022-07-29 |
 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 | 2020-11-05 | 2023-12-14 |
 | [Loving Arms](https://open.spotify.com/track/785q4cJoLhijb9jAyFMcCS) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Loving Arms](https://open.spotify.com/album/5BRE7T4u3bpH3WLqwm0xdK) | 6:21 | 2020-11-05 | 2022-10-01 |
@@ -156,7 +157,7 @@
 | [Take Me Home](https://open.spotify.com/track/4PyYmYeTVUv2dEkaj1VxnG) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [No Beginning No End 2](https://open.spotify.com/album/0KKurlvDI9YjNgwHm8fNP4) | 4:11 | 2020-11-05 |  |
 | [Tears Run Dry](https://open.spotify.com/track/4nNQHLhhjwAAmcm9Zcrebd) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Tears Run Dry](https://open.spotify.com/album/6tOPyaHFIOa9zXDQr5m4cJ) | 4:14 | 2023-04-14 |  |
 | [Tell Me](https://open.spotify.com/track/6VLqNoGxbJZd3mKa4cCSXS) | [Meena](https://open.spotify.com/artist/7sntqdL07LSVjtlbVJgoui) | [Tell Me](https://open.spotify.com/album/4XSyd1dqmvO4SX4xh7tvru) | 4:55 | 2020-11-05 | 2024-03-09 |
-| [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-09-02 |  |
+| [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-09-02 | 2025-09-27 |
 | [The Hammer & The Rose](https://open.spotify.com/track/1gDbDOHyTpzB9rVn9BtC05) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Hammer & The Rose](https://open.spotify.com/album/73wi0uQeyjOEZRc98N5qm6) | 3:16 | 2025-02-07 | 2025-03-08 |
 | [The Truth Comes Out Eventually](https://open.spotify.com/track/3sl3JwQFNgLn6VDqKPTgWY) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [The Truth Comes Out Eventually](https://open.spotify.com/album/4JZk6LgKvWmbc8ESpc7aDC) | 5:46 | 2025-06-27 |  |
 | [The World Moves On](https://open.spotify.com/track/2O8w4ULp2uun76A2IgVjsz) | [Hitman Blues Band](https://open.spotify.com/artist/01auum1XBkykoXiQl6ynkx) | [The World Moves On](https://open.spotify.com/album/4fvPhrcHvGlB9fPD1BjIVK) | 4:44 | 2020-11-05 |  |

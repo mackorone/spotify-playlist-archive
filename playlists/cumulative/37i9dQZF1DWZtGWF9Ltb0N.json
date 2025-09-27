@@ -2666,7 +2666,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 151205,
       "name": "Control",
       "url": "https://open.spotify.com/track/4J6ZXhcKEy7Dsg8ERMN17e"
@@ -7420,7 +7420,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 254000,
       "name": "Junction",
       "url": "https://open.spotify.com/track/3kJ4RvvETkBYQlQ8A6egbf"
@@ -8138,7 +8138,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 195428,
       "name": "Light it Up",
       "url": "https://open.spotify.com/track/2Yeq998gUEGt7jyL5GF8rZ"
@@ -14340,7 +14340,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 121725,
       "name": "TERROR!",
       "url": "https://open.spotify.com/track/5aeS8CMo3dJU5rhQJ1Ypbh"
@@ -14998,6 +14998,24 @@
       "duration_ms": 240000,
       "name": "Too Close To The Sun",
       "url": "https://open.spotify.com/track/0btAv4p1G5nPbKBuKfkAky"
+    },
+    {
+      "album": {
+        "name": "Too Thicc",
+        "url": "https://open.spotify.com/album/1rGsLdlqb9XoafPKz0o3fO"
+      },
+      "artists": [
+        {
+          "name": "Pigeon Hole",
+          "url": "https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "Too Thicc",
+      "url": "https://open.spotify.com/track/0ae16cMTr53FQzVar177VN"
     },
     {
       "album": {
@@ -15666,7 +15684,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 169254,
       "name": "Want To Go",
       "url": "https://open.spotify.com/track/0g6N8pe0YwPd962Tckv2gn"

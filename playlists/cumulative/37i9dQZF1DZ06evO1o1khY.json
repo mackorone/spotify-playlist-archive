@@ -1033,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "Lay Down (feat. GloRilla) [Remix]",
+        "url": "https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir"
+      },
+      "artists": [
+        {
+          "name": "OMB Peezy",
+          "url": "https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213608,
+      "name": "Lay Down (feat. GloRilla) - Remix",
+      "url": "https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn"
+    },
+    {
+      "album": {
         "name": "Drifting Away",
         "url": "https://open.spotify.com/album/2JkHowxSCOloyq23lbE0Y2"
       },
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 213608,
       "name": "Lay Down - Remix",
       "url": "https://open.spotify.com/track/0X6cTSh5f6uB8Us5jfWkZW"

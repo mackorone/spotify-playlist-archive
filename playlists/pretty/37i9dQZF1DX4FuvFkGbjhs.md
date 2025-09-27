@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Daniel Caesar
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,068 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,025 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 20 | [L.Y.A.T.T.](https://open.spotify.com/track/4YlVnIvCYYPMWwyxEB7wtA) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [L.Y.A.T.T.](https://open.spotify.com/album/6JzEXxgSrmDJBK5QxJwkgP) | 4:23 |
 | 21 | [Woman Of Faces](https://open.spotify.com/track/6YU7Xlaz5ntxjnFJJNvXh6) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4LjTxBjWubEIQbttwwdxUo) | 4:50 |
 | 22 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 |
-| 23 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [](https://open.spotify.com/album/null) | 4:16 |
+| 23 | [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 |
 | 24 | [Give Me All Your Love](https://open.spotify.com/track/7fL1R1jVY8RfPIlilK9mSd) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Give Me All Your Love](https://open.spotify.com/album/57luneU6B0i2vcHsSAN1X6) | 3:20 |
 | 25 | [BABY BABY](https://open.spotify.com/track/37RNy61lMUr4NoYmSOroHJ) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BABY BABY](https://open.spotify.com/album/0JxcpQDSe6M0TLo5N0l9P1) | 3:17 |
 | 26 | [Picture This](https://open.spotify.com/track/7xD94DI9dUHZf27NWVAkLE) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Picture This](https://open.spotify.com/album/61xwxhxyNJx2fal3O6Dtnn) | 4:56 |

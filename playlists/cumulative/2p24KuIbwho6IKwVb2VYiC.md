@@ -4,7 +4,7 @@
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: Rezz
 
-361 songs - 18 hr 51 min
+363 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Dancing In A Dream](https://open.spotify.com/track/0cuT0PRfkUNgSefAiy19FG) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Dancing In A Dream](https://open.spotify.com/album/0sj1PJTkUkIA3V2a98whYB) | 2:38 | 2025-04-11 |  |
 | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/track/2MR4BqIUtoBLWuZDVlZDQz) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Danger In Your Eyes \(The Countdown\)](https://open.spotify.com/album/3MWTWM7ESjD7jVz8ThhVsH) | 3:32 | 2024-03-01 | 2024-05-13 |
 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 | 2025-01-21 |  |
+| [Dissociate](https://open.spotify.com/track/4tLTaEi3Pq0kinpQBzDKL0) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Dissociate](https://open.spotify.com/album/7HQVcIyRH0o6lQDTGsBCxb) | 4:30 | 2025-09-26 |  |
 | [Distance](https://open.spotify.com/track/012l99hw3ryhNU5vgk2EhB) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Distance](https://open.spotify.com/album/33cQAhIe826a1MYpc2xgDj) | 3:13 | 2024-04-26 | 2025-01-22 |
 | [dive /stay/](https://open.spotify.com/track/41nkDiPZ1lOq90wnmJoL1L) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [emma løv](https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx) | [dive /stay/](https://open.spotify.com/album/40F183249X27nHVY2QmCal) | 3:05 | 2024-05-03 | 2024-09-25 |
 | [Doing Nothin'](https://open.spotify.com/track/6PAt6xtbwjpRwG4V3zKWaK) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Doing Nothin'](https://open.spotify.com/album/5u2FuIwuJwnkLtDnlAk3gs) | 3:06 | 2025-05-30 |  |
@@ -236,6 +237,7 @@
 | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/track/2bwqslkQUqcfme3JEMKY6A) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [On A Trip \(with Marten Hørger\)](https://open.spotify.com/album/1id19CmK2WRwdm5LQ25jao) | 3:26 | 2023-11-10 | 2024-09-25 |
 | [One New Change](https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [One New Change](https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O) | 4:54 | 2024-05-24 |  |
 | [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-01-26 | 2025-02-15 |
+| [one2three \(feat\. Leven Kali\)](https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [one2three \(feat\. Leven Kali\)](https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd) | 4:08 | 2025-09-26 |  |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-26 |  |
 | [Out Of My Head](https://open.spotify.com/track/3L7RqK0wfTfgRJbefYcKeM) | [The Banker Boys](https://open.spotify.com/artist/23ZQRnQKAovuLlXhc555tm), [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Out Of My Head](https://open.spotify.com/album/1fswBzR4WGga1p5UbI8tr7) | 2:16 | 2023-10-27 | 2024-05-13 |
 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 | 2024-03-29 | 2024-06-15 |

@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: JIALING
 
-407 songs - 1 day 1 hr 8 min
+408 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Human Sound](https://open.spotify.com/track/1BpcVnAhL6LuS8q3l03ONd) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Human Sound](https://open.spotify.com/album/0Kh4wcY7TbLk7VIY7SDLYg) | 5:26 | 2022-07-14 | 2022-11-13 |
 | [Human Sound](https://open.spotify.com/track/30LzLyZYQvmPSJeJHtBTx4) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:26 | 2022-07-14 | 2024-04-19 |
 | [Human Sound](https://open.spotify.com/track/51wGOeZ7ma3shFJf1Qgs7E) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Kai\-Isaiah Jamal](https://open.spotify.com/artist/4qYmQYhUf6LUPG5Rbib2Xw), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Baby, We're Ascending](https://open.spotify.com/album/78C99zbd0p19B2OmCKVbaN) | 5:26 | 2022-06-03 | 2024-06-08 |
-| [HUNNY](https://open.spotify.com/track/0uuK5w5Ym5JZYhaVfKtNPd) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [HUNNY](https://open.spotify.com/album/4VTaRbDTMWZT7hwby9VdYK) | 2:54 | 2025-06-20 |  |
+| [HUNNY](https://open.spotify.com/track/0uuK5w5Ym5JZYhaVfKtNPd) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [HUNNY](https://open.spotify.com/album/4VTaRbDTMWZT7hwby9VdYK) | 2:54 | 2025-06-20 | 2025-09-27 |
 | [I C](https://open.spotify.com/track/4anzIJUtrHtpB6Hgcz4x6Q) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [I C](https://open.spotify.com/album/5UtgbE2nTAV9jV0gadUr3x) | 2:22 | 2024-10-25 | 2025-04-05 |
 | [I Need A Man](https://open.spotify.com/track/4gjsrFJjlvtOyuXjLbwIF0) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/5c3fYz9x3QTHGfIyVcBivd) | 3:25 | 2024-06-14 | 2024-07-02 |
 | [I Wanna Scissor](https://open.spotify.com/track/3AGVWbxh675BIkjWUxmsf3) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y), [My Hot Ex](https://open.spotify.com/artist/4kcdZzywAt0nWReK1jZUUh) | [I Wanna Scissor](https://open.spotify.com/album/1wyDSYs3O7zMXNFJgpDrdV) | 4:43 | 2025-09-05 |  |
@@ -344,6 +344,7 @@
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-10-13 | 2024-09-21 |
 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 | 2021-10-15 | 2024-03-23 |
 | [Shlut](https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nymph](https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4) | 2:12 | 2023-03-31 | 2024-06-15 |
+| [Shooting Star](https://open.spotify.com/track/5Jmnl1E33SYSCe5TogwBaW) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Shooting Star](https://open.spotify.com/album/4k2BQ5s8E7yC62QNJYoB2p) | 3:19 | 2025-09-26 |  |
 | [Show Me Some Love \(feat\. Sadie Walker\)](https://open.spotify.com/track/215Kmpctpq6WJ3gEtCbXAu) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Sadie Walker](https://open.spotify.com/artist/0clxMTSb1Z3gtdx4A1SRwV) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:52 | 2023-06-20 | 2023-06-24 |
 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 | 2021-10-15 | 2023-06-24 |
 | [SIGILOSA](https://open.spotify.com/track/3kLC4iR5WQ1rpZ3rk0B0DS) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SIGILOSA](https://open.spotify.com/album/6zXJFPl0JGbSgK5jozmIQy) | 2:28 | 2025-02-14 |  |

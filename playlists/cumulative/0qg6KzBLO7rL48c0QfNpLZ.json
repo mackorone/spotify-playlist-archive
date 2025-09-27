@@ -156,7 +156,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 129343,
       "name": "A Sky Full Of Stars",
       "url": "https://open.spotify.com/track/3Z2ueAJtrYO5yHMXLz4TP2"
@@ -4979,6 +4979,36 @@
     },
     {
       "album": {
+        "name": "Dancing (Samm Remix)",
+        "url": "https://open.spotify.com/album/0KtnzTu9pjhivUEVrcfrnj"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        },
+        {
+          "name": "Serve Cold",
+          "url": "https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm"
+        },
+        {
+          "name": "Jaguar Jaguar",
+          "url": "https://open.spotify.com/artist/2R8sfGkLsBHLRIrJVmR2t4"
+        },
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240024,
+      "name": "Dancing - Samm Remix",
+      "url": "https://open.spotify.com/track/2Q1IMnYbKvzFklfxRuJjH5"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/4VBe5Cme5Ty5UgHnCWNxsP"
       },
@@ -6960,7 +6990,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-22",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Every Breath You Take (feat. Luciana Silva)",
       "url": "https://open.spotify.com/track/10wjaTzN6ryJEwPowGby7E"
@@ -7697,6 +7727,32 @@
     },
     {
       "album": {
+        "name": "Feel for You",
+        "url": "https://open.spotify.com/album/6XbcVzPRwNjvoEUSmhJVYU"
+      },
+      "artists": [
+        {
+          "name": "ElSchacko",
+          "url": "https://open.spotify.com/artist/1JWreSMob6umLV7tASOkDD"
+        },
+        {
+          "name": "JUNAR",
+          "url": "https://open.spotify.com/artist/3zgpKuFgnlyjRik8UZtYFQ"
+        },
+        {
+          "name": "SAYRA",
+          "url": "https://open.spotify.com/artist/61anL7jn6ZM4cqdmR4h69s"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149882,
+      "name": "Feel for You",
+      "url": "https://open.spotify.com/track/2Xk4XJZ68ArK6QQIgWJMY4"
+    },
+    {
+      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/3PM6xLkafHMISFTXUkyhKa"
       },
@@ -8262,6 +8318,28 @@
       "duration_ms": 152195,
       "name": "Follow",
       "url": "https://open.spotify.com/track/1JoM3HEBn0cNTi8bNSyqTb"
+    },
+    {
+      "album": {
+        "name": "Follow the Sun",
+        "url": "https://open.spotify.com/album/6ZnxM3Q32XZYU00GIWHv8n"
+      },
+      "artists": [
+        {
+          "name": "dusk:dawn",
+          "url": "https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe"
+        },
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144937,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/2yjcHBjwWbj7hWNFLohjSU"
     },
     {
       "album": {

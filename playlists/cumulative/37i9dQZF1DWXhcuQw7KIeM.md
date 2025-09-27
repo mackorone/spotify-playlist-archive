@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North.
 
-167 songs - 14 hr 33 min
+169 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 | 2024-08-25 |  |
 | [Grå Hest](https://open.spotify.com/track/2udCUsTYBRwFWmhojeQQcZ) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Grå Hest](https://open.spotify.com/album/2P7bJcPvvLfIizw86vv7AK) | 3:09 | 2022-05-13 | 2025-05-26 |
 | [Grå Hest](https://open.spotify.com/track/362UfKo2khSB4vGMmChR14) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Nordlige Rúnaskog \(Deluxe Version\)](https://open.spotify.com/album/3EMtE4ozFRAa3ZTSGx7jR9) | 3:09 | 2023-02-17 | 2024-04-19 |
-| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 |  |
+| [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/3rcDnOMm4TCKE0f2FZ54Pt) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: The Ravens Saga \(Original Soundtrack\)](https://open.spotify.com/album/5gxCjYgosIC6xWfQd9Px7K) | 5:15 | 2022-05-13 | 2025-09-27 |
 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:18 | 2022-12-01 | 2024-04-19 |
 | [Helvegen](https://open.spotify.com/track/1bqmaIBGwlo4MtrAxjRDHB) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/4Ir9Mw8uEYlIipN6hBeBsP) | 7:11 | 2022-07-08 | 2024-04-19 |
 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 | 2022-05-13 |  |
@@ -61,6 +61,7 @@
 | [Hrafnsmál \- The Words of the Raven](https://open.spotify.com/track/2XtzI4BRKIKBQh9CsoDIc7) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Assassin's Creed Valhalla: Out of the North \(Original Soundtrack\)](https://open.spotify.com/album/5iDRB3mIvV9ceXZIkXA4KT) | 5:20 | 2022-05-13 | 2023-02-12 |
 | [Hrafnsmál \- The Words Of The Raven](https://open.spotify.com/track/1Qo0cfUADSzlkG0Pw91L5A) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:20 | 2022-12-01 | 2024-04-17 |
 | [Huginn ok Muninn](https://open.spotify.com/track/2Xxvm29k94TTwGmAX7UhBA) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Huginn ok Muninn](https://open.spotify.com/album/29kFr26QuyvyBsRyzwrFkb) | 5:13 | 2023-09-08 |  |
+| [Hugrheim](https://open.spotify.com/track/3CDB1v0zmz0nfzZrWqqwbq) | [Eihwar](https://open.spotify.com/artist/2VFxoCJQPfQauZujESPjQK) | [Hugrheim](https://open.spotify.com/album/3WbglHRd8SBDNQmHlVv8gA) | 3:19 | 2025-09-26 |  |
 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 | 2024-11-05 |  |
 | [I Riden Så](https://open.spotify.com/track/4Dsk2Fi9YdHzbtCpHUu4aV) | [Helisir](https://open.spotify.com/artist/06PE0H14KHqMtERxX1IBaw) | [Sårbare](https://open.spotify.com/album/5Cbr7HWU5I2llZxd6oFA1H) | 5:13 | 2022-05-13 |  |
 | [In Maidjan](https://open.spotify.com/track/4vy2YnIiU37OB7BonhYWgZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Lifa](https://open.spotify.com/album/5gUvVQFa8seLyMSuvOGC93) | 12:38 | 2022-05-13 |  |
@@ -86,6 +87,7 @@
 | [Lorn and Loath](https://open.spotify.com/track/7dEaI9CRR47tyamPx1lBfP) | [Wolcensmen](https://open.spotify.com/artist/2valAzrV6xeHL0weVnIAp8) | [Lorn and Loath](https://open.spotify.com/album/0jpbUfolUgPX3H4FKHdUSf) | 7:35 | 2022-05-13 | 2024-12-04 |
 | [Malströmsbrus](https://open.spotify.com/track/2iaTeZJ8QD2ZS312KQTBgV) | [Vintersorg](https://open.spotify.com/artist/6LfdGx71ZHRWgP4tBRmQf6) | [Malströmsbrus](https://open.spotify.com/album/4961f5lFlgmf38sd9K5wgl) | 6:43 | 2025-06-27 |  |
 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 | 2022-05-13 |  |
+| [Meri](https://open.spotify.com/track/73ToXpajvWBjFlGg0ND3pE) | [Ínkar](https://open.spotify.com/artist/3mdSsyIBntdGgvdbCf2Ebh) | [Meri](https://open.spotify.com/album/4Tt4jvL29pPmIeTvYy5d6B) | 3:33 | 2025-09-26 |  |
 | [Midvinter](https://open.spotify.com/track/1qlSpiCwjxCsD2VVWpJV1H) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Midvinter](https://open.spotify.com/album/6OPbBT3bjSX3Md6lPIznjy) | 6:32 | 2024-07-05 |  |
 | [Museum Of Childhood](https://open.spotify.com/track/3SEhz1AzCyq2BPctFUMiiB) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [Museum Of Childhood](https://open.spotify.com/album/7t6U6jFJUKHXRSvSrjRNy9) | 5:01 | 2025-07-04 | 2025-08-15 |
 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 | 2025-08-08 |  |
@@ -151,7 +153,7 @@
 | [Urzala](https://open.spotify.com/track/6CRcyL0s068af2UWWBvaJM) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:04 | 2022-05-13 | 2024-04-17 |
 | [Valhalla Rising](https://open.spotify.com/track/0GmPknOgicu33WuFr96ei0) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [CVLT](https://open.spotify.com/album/78XQBbOwtSRdRfsu0rlAOK) | 7:00 | 2023-09-08 | 2024-04-19 |
 | [Valhalla Rising](https://open.spotify.com/track/43H07xlSOBTrLwuAVgAZd4) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [CVLT](https://open.spotify.com/album/6bliURGMEiDbsvaHxmKvD8) | 7:00 | 2023-02-17 | 2023-09-25 |
-| [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 | 2022-05-13 |  |
+| [Valhalla Rising](https://open.spotify.com/track/6gSM7SxQDHbBibGoUrxWbO) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [Valhalla Rising](https://open.spotify.com/album/78glhD3Zl57f1MeXjESFKI) | 7:03 | 2022-05-13 | 2025-09-27 |
 | [Varjo](https://open.spotify.com/track/0rBunHSvmi7ee3VSzna3er) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Under the Surface](https://open.spotify.com/album/7srCSseLFjcDZFwip9QLwJ) | 5:39 | 2022-07-08 | 2024-04-19 |
 | [Varjo](https://open.spotify.com/track/2Qggo2P26yyyuzdHgueQc0) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/4wqAwqEXhub8SrdidM4pYP) | 5:39 | 2022-10-07 | 2022-11-13 |
 | [Varjo](https://open.spotify.com/track/5V7GpFS9TX3JnNJtdDxNqR) | [Lost In Grey](https://open.spotify.com/artist/36V2JuO5EMWTRwf8sd6ior) | [Varjo](https://open.spotify.com/album/37xsrFZKpKpqDlNkKXm4wb) | 5:39 | 2022-05-13 | 2024-12-04 |

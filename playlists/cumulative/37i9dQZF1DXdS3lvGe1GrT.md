@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Lefty Parker
 
-1,887 songs - 4 day 16 hr 47 min
+1,888 songs - 4 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Florida Honey](https://open.spotify.com/track/1tKyVj4ejDhDfcoOLNXCkp) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 2:18 | 2023-01-11 | 2023-02-23 |
 | [flower bed](https://open.spotify.com/track/53SwRcMOGn4BsXledMvTzT) | [Joei Razook](https://open.spotify.com/artist/7lKfXXpidmX8SAO3cEUrPr) | [flower bed](https://open.spotify.com/album/5ibsh6LBJZ481uwfyjDfvB) | 3:08 | 2023-04-12 | 2023-06-08 |
 | [Flowers Fell](https://open.spotify.com/track/5QnZ9eHpNQhqVvjd7mhFzP) | [Avery Friedman](https://open.spotify.com/artist/7HP0tah3dIBAtu2PKxRYYG) | [Flowers Fell](https://open.spotify.com/album/7ze8W3JJR82KMGHcFl1S3f) | 4:28 | 2024-11-27 | 2024-12-05 |
+| [Flowers for David \- Single Edit](https://open.spotify.com/track/7rNYmQDhDc2auoe1UZDicv) | [Jason Dungan](https://open.spotify.com/artist/3m0siFRqCZq1PeZ3iRmXnT), [Blue Lake](https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc) | [Flowers for David](https://open.spotify.com/album/7CSGni41qgV89W7CQbTSzk) | 3:58 | 2025-09-25 |  |
 | [Flowers in the Desert](https://open.spotify.com/track/0fNklgaxj7lySQtsXL9hTC) | [Drew Erwin](https://open.spotify.com/artist/2375stUa3UNtEAGG0F5XBc) | [Flowers in the Desert](https://open.spotify.com/album/6JVdXW7ThZqU2pg8qL2GUA) | 3:17 | 2023-08-02 | 2023-10-05 |
 | [Fool Me As Many Times As You Like](https://open.spotify.com/track/5qHKy3c40Ol2N80lEqQdHW) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Fool Me As Many Times As You Like](https://open.spotify.com/album/5bal1Q4TdPwgGIZbNoAf2C) | 5:12 | 2023-04-26 | 2023-06-15 |
 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 | 2024-10-02 | 2024-12-05 |

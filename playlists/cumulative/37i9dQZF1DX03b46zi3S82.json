@@ -2209,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Farther Fields",
+        "url": "https://open.spotify.com/album/5OFpxCA86MILEobmMC8K7R"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173976,
+      "name": "Farther Fields",
+      "url": "https://open.spotify.com/track/3t50k3r7KDzv422h9rS4zw"
+    },
+    {
+      "album": {
         "name": "Finding Calmness",
         "url": "https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu"
       },

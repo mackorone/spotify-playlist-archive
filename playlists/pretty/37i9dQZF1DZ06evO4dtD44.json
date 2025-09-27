@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61776,
+  "num_followers": 61780,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAACbScpCBx0FsLmeXU55pMy5",
+  "snapshot_id": "aNSGAAAAAABrRwuwOvPyIfiuW2Fw95Te",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
+        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 166479,
+      "name": "Rei sem coroa (ao vivo no Sesc)",
+      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 225733,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/0LS3cTpTm5zPTmBcyIDfOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Relic\u00e1rio: Jo\u00e3o Gilberto (Ao Vivo no Sesc 1998)",
-        "url": "https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 166479,
-      "name": "Rei sem coroa (ao vivo no Sesc)",
-      "url": "https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6"
     },
     {
       "added_at": null,

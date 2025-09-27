@@ -2,7 +2,7 @@
 
 ### [Luis Miguel \- La Serie](https://open.spotify.com/playlist/37i9dQZF1DXanhKC7V8ubd)
 
-> En esta playlist encontrarás cada miércoles los tracks de Diego Boneta interpretando a Luis Miguel.
+> Los tracks de Diego Boneta interpretando a Luis Miguel.
 
 45 songs - 2 hr 40 min
 

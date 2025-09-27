@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-445 songs - 1 day 9 hr 46 min
+446 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Ode To Benny Liku](https://open.spotify.com/track/1cQgDYOqOj7wgvUO7tOPHm) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/15anBA9frAP9DxIFbskhFe) | 6:20 | 2021-06-11 |  |
 | [Ok Boomer](https://open.spotify.com/track/57zbii1xrWEJqiMYq2idih) | [Sam Fribush](https://open.spotify.com/artist/0L7BpYTrKRXYKyNppykAEx), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Calvin Napper](https://open.spotify.com/artist/2PPOE2P2KXO3TdVOFluIzz) | [People Please](https://open.spotify.com/album/6RN9cpqds047VYZhqUVzFN) | 4:19 | 2024-03-15 |  |
 | [Old World Monkeys](https://open.spotify.com/track/5uNCSQ78XR25TsBEb9lta3) | [The Seven Ups](https://open.spotify.com/artist/2ZRaLK1a4khCYr2t5HFjrp) | [Old World Monkeys](https://open.spotify.com/album/2TlwXYcBe0y2jUl0FMMjhM) | 4:43 | 2022-11-25 |  |
-| [On The Avenue](https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt) | [Ronnie Foster](https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ) | [On The Avenue](https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp) | 6:14 | 2020-10-09 |  |
+| [On The Avenue](https://open.spotify.com/track/60Rz7gneyvKj2yevlgVMbt) | [Ronnie Foster](https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ) | [On The Avenue](https://open.spotify.com/album/2q14UlkorFTgVm7HzLIBRp) | 6:14 | 2020-10-09 | 2025-09-27 |
 | [On The Hook](https://open.spotify.com/track/7LaDliDRfKkzKFNVOoBJTv) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [On The Hook](https://open.spotify.com/album/1LXYzCWmyLYBEOQciJXhH3) | 3:57 | 2023-05-26 |  |
 | [One In Seven](https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb) | [Soulive](https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO) | [Doin' Something](https://open.spotify.com/album/2WHbq7Vj0lFt2RnAwfcuNP) | 5:16 | 2020-10-09 |  |
 | [One More Time](https://open.spotify.com/track/0s0Q7oINSH48ZbLcEL7NrC) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [One More Time](https://open.spotify.com/album/4i8fXVMPlOB0ORcfoD6CQu) | 3:10 | 2020-10-09 |  |
@@ -281,6 +281,7 @@
 | [Pull Your Pants Up](https://open.spotify.com/track/3ecPVQ8Nb1bEWcsqvXakLt) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK) | 4:50 | 2021-12-17 | 2023-09-16 |
 | [Pull Your Pants Up](https://open.spotify.com/track/7cae9xKLHwtdmI5KlVviYo) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Pull Your Pants Up](https://open.spotify.com/album/2CQAro5y0ZYuVJK5gKCqdE) | 4:50 | 2021-12-17 | 2022-07-29 |
 | [Put it Down](https://open.spotify.com/track/6iRPCCgbYTblYcJwI337MV) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Mike Chiavaro](https://open.spotify.com/artist/3Yfht77kZkV1rYQKs5OSfN) | [Put it Down](https://open.spotify.com/album/0kngfbXlOhnq6IiUOdkp28) | 5:08 | 2023-09-15 |  |
+| [Pyramid of the Sun](https://open.spotify.com/track/26jQhSZWeMXDxhuVjtQnla) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [Pyramid of the Sun](https://open.spotify.com/album/2mAjo1YOC5nmZjujlk6QmX) | 4:31 | 2025-09-26 |  |
 | [Rainfalls](https://open.spotify.com/track/3sKGscGC83tWCUGtC3JJgM) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Rainfalls](https://open.spotify.com/album/4ViIUQ6dcEZKgqmWsZGdGk) | 3:37 | 2023-02-24 |  |
 | [Rajazz](https://open.spotify.com/track/6fW1ahgSQHxlBWwgDrRpqx) | [Alberto García](https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28), [Jeff Ballard](https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I), [Daniel Somaroo](https://open.spotify.com/artist/1lKgrajFyGCa9nq0grjZ9A), [Raphael Rosse](https://open.spotify.com/artist/1T3rl1r7fJFstutBOCZ4Mp), [Gerry Lopez](https://open.spotify.com/artist/5gU6wIqxR6dExHo6JJpknk) | [Rajazz](https://open.spotify.com/album/2IEJmkWyLc4HgpbDhSP6f2) | 7:21 | 2022-05-06 |  |
 | [Rake Stepper](https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1) | [Too Many Zooz](https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr), [Michael Wilbur](https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n) | [Rake Stepper](https://open.spotify.com/album/775CFaTdkDsy2ywp3zhGVl) | 3:32 | 2023-05-19 |  |

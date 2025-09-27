@@ -4,7 +4,7 @@
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross
 
-374 songs - 20 hr 25 min
+376 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Coming Home To You \(Bigger Houses\) \[feat\. Owen Riegling\]](https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Coming Home To You \(Bigger Houses\)](https://open.spotify.com/album/2ZAkNuDxQ6nqU70U7FShFl) | 3:28 | 2024-10-18 | 2025-03-15 |
 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-03-29 | 2024-06-09 |
 | [Confession](https://open.spotify.com/track/72Daj58ja4UkWWV2v2otIM) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:36 | 2024-04-26 | 2024-09-28 |
+| [Country Country](https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [COUNTRY! COUNTRY!](https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc) | 3:58 | 2025-09-26 |  |
 | [Country House](https://open.spotify.com/track/2DOxC6AdXlSeUrsgWKuX4X) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Locked Up](https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv) | 3:34 | 2024-04-05 |  |
 | [Country Song Came On](https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Country Song Came On](https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC) | 3:54 | 2025-05-09 |  |
 | [Cowboy Songs](https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5) | 3:07 | 2025-01-10 |  |
@@ -152,6 +153,7 @@
 | [Hope That I’m Enough](https://open.spotify.com/track/74mjyK6UGHGSCLaFtmJfOW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Hope That I’m Enough](https://open.spotify.com/album/4FdBwdv1qPuYHw6rm8gzh4) | 4:45 | 2025-04-18 |  |
 | [House On Fire](https://open.spotify.com/track/4IycbTrlsCtGczSqWQ0M0Y) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [House On Fire](https://open.spotify.com/album/0pFzbeCV5S5hzUqDBr1R5n) | 3:21 | 2024-09-27 | 2024-10-19 |
 | [How Do You Miss Me \(feat\. Alexandra Kay\)](https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC), [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [How Do You Miss Me](https://open.spotify.com/album/2JmjXSDe7gzx5v8zQ7DOV7) | 3:02 | 2025-05-02 |  |
+| [Hurtin' Songs](https://open.spotify.com/track/7AxaVrXiFMkDmyNSsyMWXU) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Hurtin' Songs](https://open.spotify.com/album/0fN3yStmuehUQjStGL1Sb0) | 3:04 | 2025-09-26 |  |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-18 |  |
 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 | 2024-07-26 |  |
 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-14 |  |

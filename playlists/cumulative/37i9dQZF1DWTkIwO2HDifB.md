@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: MC William
+> Os funks mais 🔑 do Brasil / Foto: PEDRO SAMPAIO, Mc Gw, Mc Jhey, Mc Rodrigo do CN, MC Nito
 
 388 songs - 22 hr 56 min
 

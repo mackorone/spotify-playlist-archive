@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-306 songs - 19 hr 47 min
+307 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Gift of the Magi \- Live](https://open.spotify.com/track/1vAl4ZjV9Wn1Aaioqg4NsA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Way It Is \- Live in Cambridge, Massachusetts 10 Jan 1968 \(Remastered\)](https://open.spotify.com/album/5YxAPF1n3pHwmITlHhNEgI) | 5:37 | 2024-01-29 | 2025-02-05 |
 | [Go Tell The Drummer Man \(Live at Canterbury House, Ann Arbor, MI, 10/27/1967\) \- 2nd Set](https://open.spotify.com/track/7HzYAEjTBvmh4KX42Jcjrn) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives – Vol\. 1: The Early Years \(1963\-1967\)](https://open.spotify.com/album/5YtEGR5G9awoXLfInVhZxC) | 3:23 | 2024-03-21 |  |
 | [God Must Be a Boogie Man](https://open.spotify.com/track/1IZBVAgoMlDdS4lfnbExxz) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 4:35 | 2024-03-21 |  |
-| [Gone](https://open.spotify.com/track/6IZGJw6UG0mewlPzG8kgux) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:18 | 2024-01-29 |  |
+| [Gone](https://open.spotify.com/track/2N3KipO1SUQusJMOWhtL5q) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Talk A Good Game](https://open.spotify.com/album/4E8UUUe0aXUPor4TD3P9m8) | 4:18 | 2025-09-26 |  |
+| [Gone](https://open.spotify.com/track/6IZGJw6UG0mewlPzG8kgux) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:18 | 2024-01-29 | 2025-09-27 |
 | [Good Friends](https://open.spotify.com/track/3Fh8qnLTdkWXStJwBpMtq6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Dog Eat Dog](https://open.spotify.com/album/1t7W7Tp5sJZ0iGRUtlowMx) | 4:28 | 2024-03-21 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2024-01-29 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/10lt3FoAtLN0Y4tL9i3FT9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 5:38 | 2024-03-21 |  |

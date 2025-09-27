@@ -4,7 +4,7 @@
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-475 songs - 22 hr 12 min
+476 songs - 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Häschen hüpf](https://open.spotify.com/track/0TYDXvgazn2WLwIhFzjjYi) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Osterzeit](https://open.spotify.com/album/2Q43vrH8DGwEw2wyZ5Voiv) | 1:30 | 2025-04-14 | 2025-04-22 |
 | [Häschen hüpf](https://open.spotify.com/track/6pUjMv4Y5g3lGX1r4BDkSB) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 1:30 | 2024-03-01 | 2024-03-06 |
 | [Häschenparty](https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ) | [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Häschenparty](https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q) | 2:48 | 2024-03-27 | 2025-06-03 |
-| [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 | 2023-09-04 |  |
+| [Hörst du die Regenwürmer husten](https://open.spotify.com/track/6BMiwUZ69Paj0vOzJynqGP) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für die Kita \- EP](https://open.spotify.com/album/6BG5UPlf5ptnaz77upzB6v) | 3:07 | 2023-09-04 | 2025-09-27 |
 | [I Wish It Could Be Christmas Everyday](https://open.spotify.com/track/0v10fCSMYtjlEEEFMo3OIL) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas](https://open.spotify.com/album/7GJVFlUmqCb71CJRDzm5E5) | 3:08 | 2023-11-14 | 2023-12-09 |
 | [Ich bleib hier \(feat\. Lina Larissa Strahl\)](https://open.spotify.com/track/64W6MhqnoDBXrLMnM5d1Hp) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Lina Larissa Strahl](https://open.spotify.com/artist/2SXsxS4gv0ZHIZQ0kU3GDk) | [Bibi und Tina: VOLL VERHEXT! \(Der Original\-Soundtrack zum Kinofilm\)](https://open.spotify.com/album/5CXxYkRdKPyE7tWGmqZZOP) | 2:59 | 2023-06-28 |  |
 | [Ich geh mit meiner Laterne](https://open.spotify.com/track/41VsHvhdX0cd4IF9TqKeyy) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Endlich Winter!](https://open.spotify.com/album/09wNwzLZ3ahuBq3x0XyQ6o) | 3:58 | 2023-11-05 | 2024-11-15 |
@@ -260,6 +260,7 @@
 | [Kleiner Eisbär, wohin fährst du?](https://open.spotify.com/track/1AI8P6wAShygMS4cGNK7Y8) | [Kleiner Eisbär](https://open.spotify.com/artist/4Oym9ShOwhMXks25JifOv6) | [Kleiner Eisbär: Rettet die Rentiere](https://open.spotify.com/album/5l8eXvO70uONJiwfrCz20L) | 3:57 | 2023-11-14 | 2025-02-27 |
 | [Kling Glöckchen](https://open.spotify.com/track/0FglULmN3H0yp3xMiiwt5e) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Weihnachten mit KIDZ BOP](https://open.spotify.com/album/2WH3rGNtsmTn3dk0y4kB1c) | 2:06 | 2023-11-14 | 2023-12-06 |
 | [Klingelingeling \(feat\. Dominikus Weilede\)](https://open.spotify.com/track/2dWJjYiKDaXp6cae2bc0tE) | [Bibi und Tina](https://open.spotify.com/artist/2x8vG4f0HYXzMEo3xNsoiI), [Peter Plate](https://open.spotify.com/artist/1UEipeDjRtS1qnuhmKgmXg), [Ulf Leo Sommer](https://open.spotify.com/artist/4anaTI5qQtKKp5D6I5sgDp), [Dominikus Weilede](https://open.spotify.com/artist/3ejpPZV1ryLgzJDy5TTlXM) | [Das Weihnachtsalbum Deluxe](https://open.spotify.com/album/762Nb1p3l4wOFZln6B3ZTC) | 3:01 | 2023-11-14 | 2025-02-27 |
+| [Klopf, klopf, klopf, der Herbst ist da](https://open.spotify.com/track/228ki3ONiQBpa9ETJJI5Nd) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für den Herbst](https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF) | 2:46 | 2025-09-26 |  |
 | [Komm, lass uns tanzen \(Ki.Ka Tanzalarm\)](https://open.spotify.com/track/29mwx6cVNXBcFsfpvxkJry) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Komm lass uns tanzen \- Das Beste aus der Kinderdisco](https://open.spotify.com/album/25j8WsyGPIFV6ISE2Ssgts) | 3:20 | 2024-02-06 | 2024-02-16 |
 | [Komm, lass uns tanzen \(KiKA Tanzalarm\)](https://open.spotify.com/track/01qCpWVyn4OOQhLzZmJ5A7) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [KiKA Tanzalarm! Das Beste von Volker Rosin](https://open.spotify.com/album/1UMCJ3Ds6rMeRLvEJwWw2H) | 3:20 | 2025-02-27 | 2025-03-06 |
 | [Komm, wir verkleiden uns!](https://open.spotify.com/track/2DtaFauXmbEwbH6TbXFvnd) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Tanz\- und Partylieder](https://open.spotify.com/album/2IWE2VDOZIIbN7wTVPZF8R) | 2:16 | 2024-02-06 | 2025-03-06 |

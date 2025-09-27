@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> The Cool Kids got that big energy.
+> Rochelle Jordan's got that big energy.
 
-559 songs - 1 day 3 hr 48 min
+560 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [tell me why](https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [tell me why](https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg) | 3:12 | 2025-09-05 |  |
 | [Tell Ur Girlfriend](https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Tell Ur Girlfriend](https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT) | 2:04 | 2024-02-09 | 2024-06-01 |
 | [The A List](https://open.spotify.com/track/5xqpmwMBP55ZaPFlxhs4vu) | [Pumpa](https://open.spotify.com/artist/6bUI6MR30e4MMXOFQUbrq5) | [The A List](https://open.spotify.com/album/5kn25jXBYv7mLtuhdnzOHJ) | 3:37 | 2023-10-06 | 2023-12-02 |
+| [The Boy](https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:34 | 2025-09-26 |  |
 | [The Mood](https://open.spotify.com/track/12IzrBskU17Z10IrXBa6C7) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [The Mood](https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs) | 2:52 | 2025-07-14 |  |
 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 | 2023-08-18 | 2023-09-02 |
 | [The Way I Love You](https://open.spotify.com/track/1OZI3RisxFgtx2IdZB7i4X) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [The Way I Love You](https://open.spotify.com/album/30XJtJhtrYMbsBnSmMS8iA) | 3:23 | 2025-05-02 |  |
@@ -555,7 +556,7 @@
 | [Woza](https://open.spotify.com/track/5G4PbKjjrntkjl1nvJqVWW) | [Korie Minors](https://open.spotify.com/artist/4JGMHb5qsvTSGJlijyWBLc), [Nomvula SA](https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY), [Emoji SA](https://open.spotify.com/artist/3FHJ8CwvKiag7XlOkOMjxJ), [Dokotela](https://open.spotify.com/artist/19KAj2rSHbBnChwlInjznI) | [Woza](https://open.spotify.com/album/4bVvfapu2O5kd1KxUpvef9) | 4:16 | 2024-05-10 | 2024-05-18 |
 | [WTF MY DRINK @?](https://open.spotify.com/track/39hlHvVtMaws6uUL7sDByH) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [WTF MY DRINK @?](https://open.spotify.com/album/3XvsnuckR8BnDwCXUPFX4z) | 2:55 | 2025-05-23 | 2025-07-26 |
 | [X CALLING](https://open.spotify.com/track/2xnO5NdJEp8lt6aPwMUajk) | [Xavier Weeks](https://open.spotify.com/artist/1I87BJvTcv6gia06HaBl9e) | [X CALLING](https://open.spotify.com/album/5yFKkRTF0pql2aN7HMiT93) | 1:36 | 2024-04-12 | 2024-05-11 |
-| [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-16 |  |
+| [X\-Rated](https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [X\-Rated](https://open.spotify.com/album/64a4S0L82vMJcOppgnYxmo) | 3:04 | 2025-05-16 | 2025-09-27 |
 | [XTRDNR \(feat\. Boogát\)](https://open.spotify.com/track/1DdVrLHVEMKQdyQC1bGgOs) | [DJ Shub](https://open.spotify.com/artist/3fMA5LH56qpFdPxW1kQe4A), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [The Deadleez](https://open.spotify.com/album/4DsL01rmcJStmt2QewNrnl) | 2:41 | 2023-08-18 | 2023-09-30 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 | 2024-02-17 |
 | [yes, and? \(with Mariah Carey\) \- Remix](https://open.spotify.com/track/5LBv48NNyHsknRYwFWC361) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [yes, and?](https://open.spotify.com/album/7cE0lgNHmBxutHd5g4D3q8) | 3:34 | 2024-02-16 | 2024-03-23 |

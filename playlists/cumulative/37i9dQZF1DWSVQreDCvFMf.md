@@ -2,7 +2,7 @@
 
 ### [OPM Rising](https://open.spotify.com/playlist/37i9dQZF1DWSVQreDCvFMf)
 
-> Mga bago at lumilitaw sa mundo ng OPM\. Cover: ONE CLICK STRAIGHT
+> Mga bago at lumilitaw sa mundo ng OPM\. Cover: BGYO
 
 545 songs - 1 day 10 hr 0 min
 

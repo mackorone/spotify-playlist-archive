@@ -2,9 +2,9 @@
 
 ### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
 
-> Éxitos de Trap Latino 📸 Eladio Carrion.
+> Éxitos de Trap Latino 📸 Kris R.
 
-558 songs - 1 day 7 hr 0 min
+559 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 | 2022-08-05 | 2022-08-13 |
 | [Los Bandoleros](https://open.spotify.com/track/6PxRarQMMrZnB9m0vRhMW0) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:33 | 2021-12-06 | 2024-03-02 |
 | [Los Bo](https://open.spotify.com/track/71CIZGbBZR71GfQFB8c2xU) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Los Bo](https://open.spotify.com/album/3mJIhr6rLuSoMnGcl4ilrD) | 3:59 | 2021-12-06 | 2022-03-12 |
+| [LOS CACORROS USAN KLEIMOND](https://open.spotify.com/track/73gesm262Pgbk7j0SEpijT) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LOS CACORROS USAN KLEIMOND](https://open.spotify.com/album/2cwKNb3KXIcndDJeEzBi1N) | 3:18 | 2025-09-26 |  |
 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 | 2021-12-06 | 2023-04-29 |
 | [Los Dioses](https://open.spotify.com/track/770EsvNdHAr56fPBhZxUH6) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/0sZfidgxELPkiEOuZabbyd) | 4:38 | 2021-12-06 | 2022-01-15 |
 | [Los Palos](https://open.spotify.com/track/4k6vZMg6TlrLyGHreUmsv1) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Los Palos](https://open.spotify.com/album/7IIXEfoZCt2CTTqHbhF9E0) | 4:40 | 2023-01-20 | 2023-03-18 |

@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 371070,
       "name": "Chopstick!",
       "url": "https://open.spotify.com/track/0xNoo5JDET2lxOqGNApa1N"
@@ -5615,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "Phase",
+        "url": "https://open.spotify.com/album/3Qp1YBUgGBRpFEITXni0lk"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194304,
+      "name": "Phase",
+      "url": "https://open.spotify.com/track/3CESG19e31e3WpUaIblz50"
+    },
+    {
+      "album": {
         "name": "Ficciones Del Tr\u00f3pico",
         "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
@@ -6616,7 +6634,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 440281,
       "name": "Silicate Tusks - Loidis Reconfiguration",
       "url": "https://open.spotify.com/track/5D0FP5XZBOZWV8zFTg84Hb"
@@ -7538,6 +7556,28 @@
       "duration_ms": 396524,
       "name": "Therapy With Colour",
       "url": "https://open.spotify.com/track/6aFFB7jaHPY69jISG6vCJY"
+    },
+    {
+      "album": {
+        "name": "think of u",
+        "url": "https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB"
+      },
+      "artists": [
+        {
+          "name": "Cucina Sonora",
+          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
+        },
+        {
+          "name": "Pentola",
+          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238309,
+      "name": "think of u",
+      "url": "https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv"
     },
     {
       "album": {

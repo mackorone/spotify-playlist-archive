@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Oscar Anton
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,488 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,450 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [Wonderful World](https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Archwood \(the playlist\)](https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz) | 2:29 |
 | 2 | [des excuses](https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [des excuses](https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd) | 3:27 |
 | 3 | [Smile Game](https://open.spotify.com/track/6PiL3Tdk4LTiOWhTz5anh6) | [Saint Stacy](https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G) | [Smile Game](https://open.spotify.com/album/5Kf1dsBBZKnOaqARQrmfH2) | 2:25 |
 | 4 | [MES NUITS](https://open.spotify.com/track/7hshPg8fnUHLi0zdEgu4nT) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [MES NUITS](https://open.spotify.com/album/7MvY0AuZFpmj0KRv7ZzFs6) | 2:56 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 9 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 |
 | 10 | [Les hommes tristes](https://open.spotify.com/track/7AC8X6QYgwFc2gu98t5xjR) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Les hommes tristes](https://open.spotify.com/album/3WGJ5liCJcXJbz5GulsdwQ) | 3:16 |
 | 11 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 |
-| 12 | [Track 5](https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [](https://open.spotify.com/album/null) | 0:00 |
+| 12 | [Venise](https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Grand garçon](https://open.spotify.com/album/2AK7nqCqZF8KoE1tidTKB8) | 3:23 |
 | 13 | [adieu les cons](https://open.spotify.com/track/7hXJ0iZtTr3lDdvq8Vh1iM) | [Nochka](https://open.spotify.com/artist/2LDcDxIuutAEQcHpmDOowg) | [Paris, capitale de la solitude](https://open.spotify.com/album/4cXanu6IEgB9OMEs6olnLP) | 2:34 |
 | 14 | [Más Cerquita](https://open.spotify.com/track/4uBWOQCmYrXzkUvAPNrzob) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Más Cerquita](https://open.spotify.com/album/6K0PvWj8QYiMDQIGnDZ0Rk) | 2:59 |
 | 15 | [Mr\. Plastic](https://open.spotify.com/track/6spcrcdCq4lcRnYVkhVQRb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Mr\. Plastic](https://open.spotify.com/album/0AvBXxggtjAbVknmfvDegZ) | 2:11 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 24 | [FEVER 105](https://open.spotify.com/track/3L3UJWqBEbHR6j8gT55zpO) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [SUNSET RADIO](https://open.spotify.com/album/490REHUgcRRvvuEMqFxUwQ) | 2:23 |
 | 25 | [Playground Love](https://open.spotify.com/track/3zvcc4CFtrCYbHIrz94xMc) | [Concorde](https://open.spotify.com/artist/5gSzpQeKekCGJTR9hcWwKF) | [Playground Love](https://open.spotify.com/album/0sKURi74qxqW61T5DDtXkN) | 3:17 |
 | 26 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
-| 27 | [Track 5](https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 27 | [Nuit Infinie](https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi) | [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX) | [Nuit infinie](https://open.spotify.com/album/1PWuT3PMla7PAnscyX1svZ) | 4:11 |
 | 28 | [MICHAEL](https://open.spotify.com/track/37Yqh5GKMVPaGjfOSNhqJ0) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [MICHAEL](https://open.spotify.com/album/668jOGhZKeBUlvAWoDXWee) | 3:38 |
 | 29 | [Souvenir sentimental](https://open.spotify.com/track/7oBoFe5xWsaocjSZIhCW1t) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Souvenir sentimental](https://open.spotify.com/album/0YCqlQYeUSfnoNTw9cEHvv) | 2:54 |
 | 30 | [BONHEUR SAMPLER](https://open.spotify.com/track/6JLMqJY2JRRzeBQPZVLX0x) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [BONHEUR SAMPLER](https://open.spotify.com/album/3yKbtw4VszA2OhHpbRsRLV) | 2:57 |

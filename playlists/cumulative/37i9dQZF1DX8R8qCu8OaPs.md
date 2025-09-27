@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of My Youth\. \(마이 유스의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-26 songs - 1 hr 31 min
+27 songs - 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [To Our Youth](https://open.spotify.com/track/2PFKUY9Fdqwo8GhLGlIB7G) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [My Youth \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7eZPYsBNDVcH4krQsj0w2H) | 3:49 | 2025-09-19 |  |
 | [Try Everything](https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3X6netsswLt0U97Doga56C) | 3:16 | 2025-09-19 |  |
 | [Wake Me up When September Ends](https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 4:45 | 2025-09-19 |  |
+| [We are](https://open.spotify.com/track/6hAkc0aEWtuQkkdbLS9bKt) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [My Youth \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4HuGcPyWboUGX89lnGqwhQ) | 3:12 | 2025-09-19 |  |
 | [고백](https://open.spotify.com/track/20tWEsVsKU6FfzXGt4IOuV) | [DELISPICE](https://open.spotify.com/artist/3zH8Xu8C1GnnmfpBqzdLPf) | [Espresso](https://open.spotify.com/album/746nbyp8GqmfObP8o4CEZb) | 5:23 | 2025-09-19 |  |
 | [비밀의 화원](https://open.spotify.com/track/2Oe0zgUBGRzkP4KtpIlo8c) | [Lee Sang Eun](https://open.spotify.com/artist/0Gqc2XO4Wu0YpYVWSiDwYt) | [신비체험](https://open.spotify.com/album/52etdX6SVjZQNwQqS74Cys) | 4:09 | 2025-09-19 |  |
 | [우주를 건너](https://open.spotify.com/track/0i2XXofKXlXbZ2sjnh06Jj) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [FRANK](https://open.spotify.com/album/1ZEIytGF7NOGMyo7UdHixJ) | 4:07 | 2025-09-19 |  |

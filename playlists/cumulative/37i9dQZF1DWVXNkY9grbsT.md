@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-549 songs - 1 day 21 hr 41 min
+551 songs - 1 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,8 @@
 | [Demands Of Ordinary Devotion](https://open.spotify.com/track/3XCN0p4qDpdodFwAdYYoXk) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Lucy & Aaron](https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA) | 3:31 | 2021-12-26 | 2023-08-12 |
 | [Denial, Creation](https://open.spotify.com/track/5NN2zIwTE6Jec5W22w4KAq) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:39 | 2025-05-12 | 2025-08-26 |
 | [Der Lange Marsch 7](https://open.spotify.com/track/0G5XaZuNtWp5WAT59JZ4Cf) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Der Lange Marsch](https://open.spotify.com/album/0ZjxidVJXnDaOh4w2HMQKa) | 3:12 | 2021-12-26 | 2023-08-12 |
+| [Deterministic](https://open.spotify.com/track/1Ky7YNAcFQG73ZYBN4NABp) | [Fionnlagh](https://open.spotify.com/artist/5EG6Uwsagvsrl6ukTGuqeh), [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Deterministic](https://open.spotify.com/album/4MBjxwyxKj0ZypGz0SMyIL) | 6:24 | 2025-09-26 |  |
+| [Developments 1: Forms](https://open.spotify.com/track/1ZkujmSEFMIVTvETNPORSu) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Developments 1: Forms](https://open.spotify.com/album/1jcds6UdJYiJ7HGd0RPvTK) | 3:34 | 2025-09-26 |  |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2025-01-25 |
 | [Die Hoehle](https://open.spotify.com/track/6GU7MdRpY3BIHr7J85hMg1) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Balmy Evening](https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7) | 7:35 | 2022-11-22 | 2023-05-06 |
 | [Dim Hopes](https://open.spotify.com/track/7yNH2twHv2Tk90prpWlwIV) | [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs) | [Eleven Fugues For Sodium Pentothal](https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A) | 2:09 | 2025-05-12 | 2025-09-22 |
@@ -226,7 +228,7 @@
 | [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-01-20 | 2023-08-12 |
 | [Gió](https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Tết 41](https://open.spotify.com/album/4uGqtqNsXFQYJIbwtbz38n) | 5:19 | 2025-04-25 |  |
 | [Glimmer](https://open.spotify.com/track/0WMSg3Iisjd8xX6gUJt7Bj) | [Hannes Kretzer](https://open.spotify.com/artist/1vHwczEjnY229foOj5ubxe) | [Burst / Glimmer](https://open.spotify.com/album/6EhvFMXIVZbmGe1aM9xvkb) | 5:16 | 2022-03-18 | 2025-05-11 |
-| [God Won't Speak](https://open.spotify.com/track/7qWgh1aq5S79TCXAly1ypm) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Water Still Flows](https://open.spotify.com/album/5uPmJJBPxrrSbIjvUjEbXB) | 6:33 | 2025-05-12 |  |
+| [God Won't Speak](https://open.spotify.com/track/7qWgh1aq5S79TCXAly1ypm) | [Rich Ruth](https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl) | [Water Still Flows](https://open.spotify.com/album/5uPmJJBPxrrSbIjvUjEbXB) | 6:33 | 2025-05-12 | 2025-09-27 |
 | [God's Country](https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw) | [Feral](https://open.spotify.com/artist/5DsrGhHrqGPbRsU93R9H5A) | [God's Country](https://open.spotify.com/album/4doG8lWaRW1488oZwTA6Z9) | 3:27 | 2021-12-26 | 2023-08-12 |
 | [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 | 2021-12-26 | 2023-08-12 |
 | [Golden Apples Of The Sun](https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy) | 4:33 | 2023-06-29 | 2025-01-15 |
@@ -453,7 +455,7 @@
 | [Sumerian Green](https://open.spotify.com/track/1clrCBwtMxOc9KoZLh1Iy4) | [Arborra](https://open.spotify.com/artist/3badfEfCjnC3Du7lTZLSNK) | [Sumerian Green](https://open.spotify.com/album/5cEjLVwvdg1uf5L6b6xb7d) | 3:41 | 2025-03-07 | 2025-09-04 |
 | [Summer's End](https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [The Greater Wings](https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg) | 2:55 | 2025-01-09 |  |
 | [Swam](https://open.spotify.com/track/1HY1dI66ADkJfmAnVCZ6Dq) | [Lomond Campbell](https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb) | [Swam](https://open.spotify.com/album/3ySwNrkNcJPDT1GmwfCUOc) | 4:15 | 2021-12-26 | 2022-07-28 |
-| [System Verse](https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 4:33 | 2025-01-14 |  |
+| [System Verse](https://open.spotify.com/track/2n8TyIihmB0LCOZR2jQw85) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Statik](https://open.spotify.com/album/7pkufIE73xUXW2A8qqXsid) | 4:33 | 2025-01-14 | 2025-09-27 |
 | [Tagtraum](https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6) | [Mareena](https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s), [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Atlas der Gedanken](https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe) | 5:22 | 2023-08-11 | 2025-01-15 |
 | [Tales From The Trash Stratum](https://open.spotify.com/track/4RsITL6IwjK34hVsaePr3O) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Tales From The Trash Stratum](https://open.spotify.com/album/74Hr3tpigXGfuJNWWcIgW4) | 3:09 | 2021-12-26 | 2023-02-02 |
 | [Tales From The Trash Stratum](https://open.spotify.com/track/6D7R7l2xdFKYkUL9nqEBVW) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Elizabeth Fraser](https://open.spotify.com/artist/791Z3924aa619hZ3xsOJEx) | [Magic Oneohtrix Point Never \(Blu\-ray Edition\)](https://open.spotify.com/album/7D6nstAHvEYc7RuA9ufMxy) | 3:09 | 2023-01-20 | 2023-08-12 |

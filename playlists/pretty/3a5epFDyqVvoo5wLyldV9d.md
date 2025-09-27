@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 876 songs - 2 day 20 hr 42 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 44 likes - 878 songs - 2 day 20 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -884,5 +884,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 874 | [Batanga II](https://open.spotify.com/track/52GajzxE6Jr7mIHWxiqDQG) | [Cuban old music](https://open.spotify.com/artist/6zt5pxFtaZFwoWIDnpQiV0) | [Pasión por Los 50](https://open.spotify.com/album/3wl1nvW6ExKmoF4vLj54VM) | 4:17 |
 | 875 | [Il viaggio \- 2025 Remaster](https://open.spotify.com/track/0SHOHUVfpxbhgl3zx0v0BR) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Mimì \(2025 Remaster\)](https://open.spotify.com/album/5hVZb9HoNko35C9RThh52J) | 5:14 |
 | 876 | [Estar Contigo](https://open.spotify.com/track/0Ojk6tqu4lfyi0nHRiBOc0) | [Grupo Old Memories](https://open.spotify.com/artist/0Z8t8k8S05sNuHoJLCMyiS) | [Old Memories Vol.10](https://open.spotify.com/album/7ETTlr6Gc7waoujn9t3uRT) | 2:28 |
+| 877 | [Prisencolinensinainciusol](https://open.spotify.com/track/0HQf0bd3oSZei450iKuUFR) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Celentano Hit Parade / Le Volte Che Adriano E' Stato Primo](https://open.spotify.com/album/5dP9R1pAhtCoZJXU3iqW4y) | 3:49 |
+| 878 | [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 |
 
-Snapshot ID: `AAAD3dOPHGlWIY/gtVswAmMshBzDnh9P`
+Snapshot ID: `AAAD36vLDFRz8KpfoZQE5r5a++Yq8/Un`

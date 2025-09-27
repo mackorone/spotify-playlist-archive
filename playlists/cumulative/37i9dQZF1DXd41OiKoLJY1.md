@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Zipporah Temelloso Artwork: Isu Kim
 
-3,701 songs - 9 day 0 hr 17 min
+3,704 songs - 9 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [CAKE](https://open.spotify.com/track/1jtZ6nhDSPGj1eXwrrhkFu) | [Blue Baby](https://open.spotify.com/artist/5hBDwTfpqFzKg4XlCXq06S), [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K), [KPC](https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ) | [CAKE](https://open.spotify.com/album/4TSQHmEwq6Hcy1aPy6CWG9) | 2:36 | 2024-08-01 | 2024-08-23 |
 | [Call Me](https://open.spotify.com/track/3auboZ0scC8tQTag6Nu82u) | [Kincaidd](https://open.spotify.com/artist/4JkGf9GWh6Xn3sRZ0cd7Cs), [Primo](https://open.spotify.com/artist/3BDNOKldwTulXVAE56yyfv) | [Call Me](https://open.spotify.com/album/3AbKsQbublKhy84Jd82xqU) | 4:36 | 2023-11-16 | 2024-01-26 |
 | [Call Me](https://open.spotify.com/track/0UHo0uZaBcCZwK0lig9Fpn) | [Off To Neverland!](https://open.spotify.com/artist/0qRRkcXmQsPEhiPPDGm4Qq) | [Call Me](https://open.spotify.com/album/2QVM7MGvsFkJLy1zYPfuij) | 4:20 | 2023-04-27 | 2023-05-19 |
+| [Call Me Up](https://open.spotify.com/track/7nA3ECpdbFL6CC8VAMdYXs) | [Migzidups](https://open.spotify.com/artist/71L57u4T1ELkwpVoCviYqK) | [Call Me Up](https://open.spotify.com/album/6Pjw0NATiI4pbrhJrwoUAD) | 4:18 | 2025-09-25 |  |
 | [Call Me When It's Over \(feat\. Seramel\)](https://open.spotify.com/track/2dig9TpD4UdOCtFHLEuAoV) | [Ron Macapagal](https://open.spotify.com/artist/1D2khKeG6AJSTPJjCy4tib), [Seramel](https://open.spotify.com/artist/4ZrehxVo50z89Wn3cA6VbA) | [Call Me When It's Over \(feat\. Seramel\)](https://open.spotify.com/album/3Og0a8E52wdEk7mC8yGvOK) | 3:13 | 2024-05-16 | 2024-06-21 |
 | [Call You In Heaven](https://open.spotify.com/track/0VTuxQ54M4gDNk2TfY0mQt) | [Steph](https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i) | [Call You In Heaven](https://open.spotify.com/album/1xPWP62NnQSHmttUMgfPuo) | 5:40 | 2023-08-31 | 2023-09-22 |
 | [callboi](https://open.spotify.com/track/1Ktu8ewVsfUStGLD8qbAZI) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [callboi](https://open.spotify.com/album/2wUxZugddWPsvVhkGRnkVh) | 4:24 | 2022-02-03 | 2022-04-01 |
@@ -2282,6 +2283,7 @@
 | [no adlib freestyle](https://open.spotify.com/track/6FZrdFJCQDXLWJne1EGBrS) | [Xaje](https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN) | [no adlib freestyle](https://open.spotify.com/album/5TIMNflHBrVC0S0Nm0peFp) | 2:04 | 2024-01-11 | 2024-02-16 |
 | [No Aid](https://open.spotify.com/track/4v85BAuiaanEcgZVQFOkl1) | [kuin](https://open.spotify.com/artist/23zSBz5SQCD5twiBmekhRD) | [No Aid](https://open.spotify.com/album/5gG4TTabTpZLcWqpOkl9ME) | 2:24 | 2024-09-19 | 2024-10-18 |
 | [No Brakes](https://open.spotify.com/track/233iTnxmSsUj0XSpn2lfZ4) | [Stinson](https://open.spotify.com/artist/5heQJQjyB6zbpi6NhzuLtW), [Crown One](https://open.spotify.com/artist/2nQ723opfVh58T0rLLwT7z) | [No Brakes](https://open.spotify.com/album/7KbzuAgGFv7OnPMqHw4XUX) | 4:27 | 2023-05-18 | 2023-06-02 |
+| [No Closure](https://open.spotify.com/track/6nY2LTVaKx20EGVEvpxcXa) | [DNLY](https://open.spotify.com/artist/5rypr249FgasBVUYKve6jW) | [No Closure](https://open.spotify.com/album/3mYkHczaUvJAvda6yPNFOe) | 2:31 | 2025-09-25 |  |
 | [No Forever](https://open.spotify.com/track/1MEF4r2OceRBPgwpJqNozn) | [Sin Santos](https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5) | [No Forever](https://open.spotify.com/album/3dYgA9cA0oDhv0pFkXUCyF) | 2:52 | 2024-02-15 | 2024-03-15 |
 | [No Game](https://open.spotify.com/track/3Wccp8Jazfv8KLf2W1q8NM) | [Mooz PH](https://open.spotify.com/artist/3AOdFw44iEpHiRNKpIevAm), [DonMigs](https://open.spotify.com/artist/2NbfcnDFxnlvnHEQXLdYaV), [Not Your Crew](https://open.spotify.com/artist/1X5bdDsh2hnZS2aPmZlqJG) | [No Game](https://open.spotify.com/album/06ZwwYNhQzIECcoxQ3rGfc) | 3:13 | 2023-08-10 | 2023-09-01 |
 | [No Label](https://open.spotify.com/track/5VTHbpvuHPX9MslhPm0DUZ) | [Helena](https://open.spotify.com/artist/2eOPLvQweQBgQMtJutxAhn) | [No Label](https://open.spotify.com/album/0xWBskzulNmlnyMJRuvg2i) | 5:04 | 2024-11-29 | 2024-12-05 |
@@ -3075,6 +3077,7 @@
 | [Something New](https://open.spotify.com/track/3vJDtvBZHLN29eW8jEv4g4) | [Marckenny](https://open.spotify.com/artist/1g0nZFSoTHic1hFJVQ9AKT) | [Butterflies](https://open.spotify.com/album/54qxVBELRAaOhNY8P3Kfkf) | 2:53 | 2022-09-22 | 2022-10-14 |
 | [something's gotta give](https://open.spotify.com/track/54MUZWCm2O7UkS8Tk0FuV8) | [seos](https://open.spotify.com/artist/3ARcA6vRUflFo0cG4qgrKW) | [something's gotta give](https://open.spotify.com/album/3tVbuJ0jS9THKELFuusLQh) | 3:21 | 2022-04-21 | 2022-06-17 |
 | [Somewhere to Hide](https://open.spotify.com/track/4wb2wWXPmTPDLlIBF14LV1) | [Fryday](https://open.spotify.com/artist/4QDQlEE69slOs65KGRNheo) | [Somewhere to Hide](https://open.spotify.com/album/5igOQb3wJrjutlCqGXPF3P) | 3:12 | 2023-02-09 | 2023-02-17 |
+| [Song](https://open.spotify.com/track/2oK0Hv9eeeuIrAWxsPUW83) | [sci fye](https://open.spotify.com/artist/4S6QDVpc6TqC8aamndP5Q2) | [Song](https://open.spotify.com/album/7dZUhKv4pYoh2HhNgKEKjD) | 3:49 | 2025-09-26 |  |
 | [Song for the Restless](https://open.spotify.com/track/37sQHV5nBnKF5vqQAUTtid) | [vanya](https://open.spotify.com/artist/5nLvshodaNenRvherXhqYB) | [Song for the Restless](https://open.spotify.com/album/313RVewhnPXj3m3nYyFo5T) | 3:24 | 2024-02-01 | 2024-03-01 |
 | [Song I'll Sing](https://open.spotify.com/track/7CFO4yfEcPNQLv8M0pyk7C) | [The Sundown](https://open.spotify.com/artist/48iq3dtGs3M8P66dZtJ6Mu) | [Song I'll Sing](https://open.spotify.com/album/7JbNaWqUo3Z00HlVEi3nfr) | 3:16 | 2024-10-24 | 2025-02-07 |
 | [Songs About You](https://open.spotify.com/track/0F3Oklb6nbEI0VGxqnLeE1) | [jomm](https://open.spotify.com/artist/2izgD6xMmNboivbb1A6PHE), [readyaimfire27](https://open.spotify.com/artist/2Y65mGq91IEC2tfXNotVQ2) | [Songs About You](https://open.spotify.com/album/2PVkye75RDH4xDf2d1Ki0u) | 3:36 | 2023-03-30 | 2023-04-21 |

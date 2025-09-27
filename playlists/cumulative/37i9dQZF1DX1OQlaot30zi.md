@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Rondodasosa,  e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Rondodasosa, Boro e Guè, 22simba, Mecna,  Visino Bianco e molti altri.
 
-6,130 songs - 11 day 8 hr 19 min
+6,130 songs - 11 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [\_bilico\_](https://open.spotify.com/track/7Dh5zvgpoz2kW1sbj20QWI) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:23 | 2022-09-29 | 2022-10-21 |
 | [A carte scoperte](https://open.spotify.com/track/5oBWKhdVr9F5eIX1jBwpYo) | [DJ Fastcut](https://open.spotify.com/artist/5wlZkgwhLD0Zbsj1sH99Dw), [Sgravo](https://open.spotify.com/artist/0B8s7OlQtspkOrPzezZl3T), [Suarez](https://open.spotify.com/artist/4RQg3XS9n0arqNyqIIjIFI), [Royal Damn](https://open.spotify.com/artist/6t3yfMopxtF7EeTUX7XsZU) | [A carte scoperte](https://open.spotify.com/album/2nMEWZoeTLg55dexnHdVPc) | 3:12 | 2023-12-07 | 2023-12-15 |
 | [A Casa \(feat\. Tony Boy\)](https://open.spotify.com/track/0gtXJqBpuLg3NN4nOXIi1T) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [A Casa \(feat\. Tony Boy\)](https://open.spotify.com/album/4irBREU9OXa0bC6RQ8kv5R) | 2:46 | 2025-01-29 | 2025-02-28 |
+| [A casa mì \(feat\. Enzo Dong\)](https://open.spotify.com/track/4xtQfCb0yf8E0MCy2HI2sy) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Ghetto Resistenz](https://open.spotify.com/album/1HeKIcJuzMYimMl4vkOLNZ) | 3:12 | 2025-09-25 |  |
 | [A chi mi ha reso fredda](https://open.spotify.com/track/3Semh5KstB9JdCBAdh3dZe) | [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [A chi mi ha reso fredda](https://open.spotify.com/album/37Bv5y1PQnuF5bsY7y91e7) | 2:29 | 2025-03-28 | 2025-04-18 |
 | [A CHI MI ODIA](https://open.spotify.com/track/5TjOgWwz2DbISxe39lvuan) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [A CHI MI ODIA](https://open.spotify.com/album/4V5QiaeGo1Ya8hxR4Ibn3B) | 2:30 | 2025-01-24 | 2025-02-14 |
 | [A Fuoco Lento](https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW) | [Fid Mella](https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp), [Zonta](https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [A Fuoco Lento](https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05) | 1:36 | 2024-05-23 | 2024-06-07 |
@@ -5588,7 +5589,6 @@
 | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/track/4kiqhvWcwNRsVqVvJgRnMw) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Tra me e te \(feat\. 8blevrai\)](https://open.spotify.com/album/5PFZTJevhf66nTd6R1Pewz) | 2:44 | 2023-11-09 | 2023-11-24 |
 | [Tra mille persone](https://open.spotify.com/track/2Gantu0FQ1kyP5OHvYJkKc) | [Delli](https://open.spotify.com/artist/5vQaJMLa7BBGVaXifSZMOK) | [Tra mille persone](https://open.spotify.com/album/6G3fdSuABfdDBkNzTRgjBN) | 1:44 | 2024-03-28 | 2024-04-12 |
 | [TRACCIA COMMERCIALE](https://open.spotify.com/track/08eFX7mEvVLquXy65TyhR0) | [loui](https://open.spotify.com/artist/6KfMKEEQUwrKn3l4hZh4uA) | [TRACCIA COMMERCIALE](https://open.spotify.com/album/0K0W1s7p3YdSmiaWy7gDeO) | 2:41 | 2025-07-03 | 2025-07-25 |
-| [Track 2](https://open.spotify.com/track/4xtQfCb0yf8E0MCy2HI2sy) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-11-08 |
 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 | 2024-07-26 | 2024-09-06 |
 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 | 2022-09-22 | 2022-10-25 |

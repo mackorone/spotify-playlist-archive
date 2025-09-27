@@ -3189,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "EX",
+        "url": "https://open.spotify.com/album/4fUrVp1xhJvcJfxYLlJiNm"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173334,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/50ARYbP5bKUn4YVKZIEfbS"
+    },
+    {
+      "album": {
         "name": "Super Junior25 - The 12th Album",
         "url": "https://open.spotify.com/album/5tEaAx0Cb3PEOrErWE503a"
       },

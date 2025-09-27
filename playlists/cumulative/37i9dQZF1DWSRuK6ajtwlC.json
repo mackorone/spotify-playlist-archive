@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. Conjunto Rienda Real & Grupo Arriesgado en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax \ud83c\udfb7. La Fiera de Ojinaga en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
+    {
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185398,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/5ArAErzK5A6Tgn1cO9G4jq"
+    },
     {
       "album": {
         "name": "35 Sur",
@@ -186,7 +204,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 156386,
       "name": "Al Sur de Tu Ombligo",
       "url": "https://open.spotify.com/track/0lrovHM0S4gSFtHyscyLwv"
@@ -528,7 +546,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 188138,
       "name": "Botecitos",
       "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 174645,
       "name": "Chingo de Amor",
       "url": "https://open.spotify.com/track/79A8I68DjHJWyIsPdxf5F2"
@@ -1099,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "Darte Un Beso",
+        "url": "https://open.spotify.com/album/1vVhu6L4rPrdCpTY1LCNC9"
+      },
+      "artists": [
+        {
+          "name": "Grupo Retro",
+          "url": "https://open.spotify.com/artist/0aniQgRAsJgSI1bWuZxv95"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194617,
+      "name": "Darte Un Beso",
+      "url": "https://open.spotify.com/track/7kkU1RX4EjihogpnFC6FpA"
+    },
+    {
+      "album": {
         "name": "De Cuando Ac\u00e1",
         "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
@@ -1110,7 +1146,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
@@ -1132,6 +1168,24 @@
       "duration_ms": 156491,
       "name": "De Enero a Enero",
       "url": "https://open.spotify.com/track/4VYFOvHNma9mKr3pl4KCmM"
+    },
+    {
+      "album": {
+        "name": "De Lo Dem\u00e1s Me Encargo Yo",
+        "url": "https://open.spotify.com/album/48wSCwjZDHpYTCsXbO9PRc"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205568,
+      "name": "De lo Dem\u00e1s Me Encargo Yo",
+      "url": "https://open.spotify.com/track/30pKKP4XA60CduoaJ3UqvC"
     },
     {
       "album": {
@@ -1294,7 +1348,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 168045,
       "name": "El Agua Clara",
       "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
@@ -1454,6 +1508,24 @@
       "duration_ms": 179242,
       "name": "El Jack",
       "url": "https://open.spotify.com/track/547DGgzbqEaos5oRiZRdSx"
+    },
+    {
+      "album": {
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/1GV02rjERrucNHklOJPT05"
+      },
+      "artists": [
+        {
+          "name": "El Primo Manolo Y Sus Rieleros",
+          "url": "https://open.spotify.com/artist/3h35pcOfc9nGveI4JBaCCh"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206515,
+      "name": "El Problema",
+      "url": "https://open.spotify.com/track/4baWgOOxCe1Hp7tvpzGykW"
     },
     {
       "album": {
@@ -2115,6 +2187,28 @@
     },
     {
       "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/62v2V8cR1T1La3J8xzUJLJ"
+      },
+      "artists": [
+        {
+          "name": "Cachas De Oro",
+          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
+        },
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203747,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/7nK8wz2tcLVmd4744UE1eV"
+    },
+    {
+      "album": {
         "name": "10 Pa' Huapanguear",
         "url": "https://open.spotify.com/album/1Ox5R02tG0QtL05vVa9yc9"
       },
@@ -2300,6 +2394,24 @@
       "duration_ms": 153210,
       "name": "La V\u00edbora Ponzo\u00f1osa",
       "url": "https://open.spotify.com/track/3JGJOq5gVJA35pzyUp2XgT"
+    },
+    {
+      "album": {
+        "name": "Lagunas",
+        "url": "https://open.spotify.com/album/5iWhcvEHOYzm5UZDY8xUrJ"
+      },
+      "artists": [
+        {
+          "name": "Estilo Chihuahua",
+          "url": "https://open.spotify.com/artist/5za3hhT7LLvztvz0DJG1tw"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197707,
+      "name": "Lagunas",
+      "url": "https://open.spotify.com/track/34sBaPf1WGKgs2OeEGr1GZ"
     },
     {
       "album": {
@@ -2516,7 +2628,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 198085,
       "name": "Los \u00c1ngeles Existen",
       "url": "https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz"
@@ -2722,6 +2834,28 @@
       "duration_ms": 227514,
       "name": "Mi Caballito",
       "url": "https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc"
+    },
+    {
+      "album": {
+        "name": "Mi Desayuno",
+        "url": "https://open.spotify.com/album/6rf2OIqQfdXRaLY2eWh5EE"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "Jorge Cuellar",
+          "url": "https://open.spotify.com/artist/1QeeSvpw3S59dmsfFAgvGB"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178228,
+      "name": "Mi Desayuno",
+      "url": "https://open.spotify.com/track/2JRe3nmyvxZp6imKEjS9T0"
     },
     {
       "album": {
@@ -3065,6 +3199,24 @@
     },
     {
       "album": {
+        "name": "No S\u00e9 Con Qu\u00e9 Intenci\u00f3n",
+        "url": "https://open.spotify.com/album/767CKX0QDOyBxyBpi5WpQK"
+      },
+      "artists": [
+        {
+          "name": "Los B\u00fahos Del Alba",
+          "url": "https://open.spotify.com/artist/5zCDSAT1Mp7GE7be1lqGPd"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184865,
+      "name": "No S\u00e9 Con Qu\u00e9 Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/4m5kRO167CQbSffdB7ZR6H"
+    },
+    {
+      "album": {
         "name": "No Te Quiero Volver A Ver",
         "url": "https://open.spotify.com/album/0dwuIQxl2Mqw8WrXxk5Nbf"
       },
@@ -3202,7 +3354,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 190626,
       "name": "Party",
       "url": "https://open.spotify.com/track/6N4xfHYsqecc6UX6C3aF08"
@@ -3452,7 +3604,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 170219,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1djuH9QUfY6HTEZ7Z8USnD"
@@ -3532,7 +3684,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 174210,
       "name": "Que Vas a Hacer (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc"
@@ -3666,7 +3818,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 141437,
       "name": "Romeo y Julieta",
       "url": "https://open.spotify.com/track/54KvmQlxY25ZAnogSGtgEK"
@@ -4411,6 +4563,50 @@
     },
     {
       "album": {
+        "name": "Vale La Pena El Placer",
+        "url": "https://open.spotify.com/album/1ZK8BfGxGa9cq5IjbG5b3p"
+      },
+      "artists": [
+        {
+          "name": "Alfonzin Garc\u00eda \"Dj Alfonzin\"",
+          "url": "https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf"
+        },
+        {
+          "name": "La Inspiraci\u00f3n Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232203,
+      "name": "Vale La Pena el Placer",
+      "url": "https://open.spotify.com/track/77Sl92BrLLUHjfMscFyomB"
+    },
+    {
+      "album": {
+        "name": "VeloZzzz",
+        "url": "https://open.spotify.com/album/1JXcgIWhCB9XlE7wKnQcIw"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191377,
+      "name": "VeloZzzz",
+      "url": "https://open.spotify.com/track/7wYE6zfixm7Y9q9SRkaDG0"
+    },
+    {
+      "album": {
         "name": "Vete de Una Vez",
         "url": "https://open.spotify.com/album/2DjS0IvBE7rXCjGzVL1dvO"
       },
@@ -4502,6 +4698,24 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "album": {
+        "name": "Al Final de Cuentas",
+        "url": "https://open.spotify.com/album/3dEmek91l65zttavzm2IB7"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159958,
+      "name": "Voy a Llorar Por Ti",
+      "url": "https://open.spotify.com/track/3IRSO4G91HQ6jqQTnbCZKl"
     },
     {
       "album": {

@@ -1,29 +1,13 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 88207,
+  "num_followers": 88247,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAACJBZqxsowGb+8HQac6EhFr",
+  "snapshot_id": "aNSGAAAAAAAU9DROVa7cidNo6mIXTzSZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Que Emoci\u00f3n",
-      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
-    },
     {
       "added_at": null,
       "album": {
@@ -179,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Fletes",
-        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 111186,
-      "name": "Los Fletes",
-      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitario (En Vivo)",
         "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
@@ -211,6 +179,22 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Fletes",
+        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 111186,
+      "name": "Los Fletes",
+      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
     },
     {
       "added_at": null,
@@ -384,9 +368,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 141293,
-      "name": "La Gallada Pesada",
-      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
+      "duration_ms": 216746,
+      "name": "Que Emoci\u00f3n",
+      "url": "https://open.spotify.com/track/4gEJMS993Cg13T1yWZVrKs"
     },
     {
       "added_at": null,
@@ -450,15 +434,11 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 170546,
-      "name": "Agarrense De Los Pelos",
-      "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
+      "duration_ms": 141293,
+      "name": "La Gallada Pesada",
+      "url": "https://open.spotify.com/track/6hVeCPVrUHic2vM6s2SS9t"
     },
     {
       "added_at": null,
@@ -522,27 +502,15 @@
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 140876,
-      "name": "Colombiana",
-      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
+        },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
+      "duration_ms": 170546,
+      "name": "Agarrense De Los Pelos",
+      "url": "https://open.spotify.com/track/3MTxzR8OFsf585RmAG4qPo"
     },
     {
       "added_at": null,
@@ -591,42 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramo Buch\u00f3n",
-        "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
-      },
-      "artists": [
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ramo Buch\u00f3n",
-      "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TRAVES\u00cdA",
-        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        },
-        {
-          "name": "Chuyito",
-          "url": "https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65"
         }
       ],
-      "duration_ms": 183865,
-      "name": "Mesero",
-      "url": "https://open.spotify.com/track/6Lwg1BFVhkPRcDZ4UvBmCZ"
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
     },
     {
       "added_at": null,
@@ -647,6 +591,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "TRAVES\u00cdA",
+        "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 140876,
+      "name": "Colombiana",
+      "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramo Buch\u00f3n",
+        "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ramo Buch\u00f3n",
+      "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -663,6 +643,22 @@
       "duration_ms": 156252,
       "name": "Me Quiero Casar",
       "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 149137,
+      "name": "Te Veo A Las 10",
+      "url": "https://open.spotify.com/track/7EEO6ASheyPzDmbecAmyJT"
     },
     {
       "added_at": null,
@@ -703,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 149137,
-      "name": "Te Veo A Las 10",
-      "url": "https://open.spotify.com/track/7EEO6ASheyPzDmbecAmyJT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a (Live)",
         "url": "https://open.spotify.com/album/6ADjYjAhIbCuWOLj8uDF97"
       },
@@ -735,6 +715,22 @@
       "duration_ms": 240292,
       "name": "El Se\u00f1or De La Monta\u00f1a - Live",
       "url": "https://open.spotify.com/track/1eWdYjw95seoa2kSlEaLQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CORAZ\u00d3N ERRANTE",
+        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 198144,
+      "name": "Tus Videos Virales",
+      "url": "https://open.spotify.com/track/1DvapZBB0AjOOMUbFkoj0Z"
     },
     {
       "added_at": null,
@@ -771,22 +767,6 @@
       "duration_ms": 198321,
       "name": "Sorry Pa\u2019 Los Gabachos",
       "url": "https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CORAZ\u00d3N ERRANTE",
-        "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 198144,
-      "name": "Tus Videos Virales",
-      "url": "https://open.spotify.com/track/1DvapZBB0AjOOMUbFkoj0Z"
     },
     {
       "added_at": null,
@@ -831,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 154318,
-      "name": "Como No Quererte",
-      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORAZ\u00d3N ERRANTE",
         "url": "https://open.spotify.com/album/30thWo6uDgXsOBElgbfq7X"
       },
@@ -859,6 +823,22 @@
       "duration_ms": 170794,
       "name": "El Hijo De Pancho",
       "url": "https://open.spotify.com/track/6fUq6pdFM6h5vQAQCowPQE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 154318,
+      "name": "Como No Quererte",
+      "url": "https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki"
     },
     {
       "added_at": null,
@@ -899,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Buena Cepa",
-        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 139856,
-      "name": "Agasajaba La Noche",
-      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Demonios (En Vivo)",
         "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
       },
@@ -931,6 +895,42 @@
       "duration_ms": 242227,
       "name": "Los Demonios (En Vivo)",
       "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Buena Cepa",
+        "url": "https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 139856,
+      "name": "Agasajaba La Noche",
+      "url": "https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por El Bien De Los Dos",
+        "url": "https://open.spotify.com/album/716TfM8cw7aevXpbBzHiWF"
+      },
+      "artists": [
+        {
+          "name": "Jaque Mate",
+          "url": "https://open.spotify.com/artist/5mbxtnt9L2GGY2ebz6Xdew"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 195744,
+      "name": "Por El Bien De Los Dos",
+      "url": "https://open.spotify.com/track/0tAmt8WRonEH8IpNnmeHrF"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

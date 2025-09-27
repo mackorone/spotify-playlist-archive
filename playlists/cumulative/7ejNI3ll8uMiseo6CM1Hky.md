@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-174 songs - 9 hr 53 min
+177 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Catch Me \(feat\. Naaz\)](https://open.spotify.com/track/4UIAJ1WnUvAPPdkzq2rn1i) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Blood For Mercy](https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb) | 2:42 | 2018-12-06 |  |
 | [Chamber Of Reflection](https://open.spotify.com/track/5oeOWXjH8NZFOWP0SpSXqV) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/7xPhDaYZ2ejV04aNtdBdvj) | 3:51 | 2019-11-12 |  |
 | [Charlie's Inferno](https://open.spotify.com/track/2tmei4gBweN2TsRcTgIh0t) | [That Handsome Devil](https://open.spotify.com/artist/3MIk8tAIzBQ5iZWmlVLCCT) | [The Heart Goes to Heaven, The Head Goes to Hell](https://open.spotify.com/album/0R3w6vjfaZlWHK28Z0RsfK) | 3:44 | 2025-03-18 |  |
+| [Child Wielding Needle](https://open.spotify.com/track/4GaqtBAvP2zxckmzATwSnf) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Child Wielding Needle](https://open.spotify.com/album/70jrnQoxwmqJAuvSjjrzAx) | 2:31 | 2025-09-26 |  |
 | [Childish Flamingos](https://open.spotify.com/track/7vt8HJ3xsjxSbVNipnkpQm) | [GoodMeme](https://open.spotify.com/artist/7rtVNkyhjLlLixT4bAMvcz) | [Childish Flamingos](https://open.spotify.com/album/1fEe1CzUVBjkG4RwDOqytJ) | 2:54 | 2022-10-11 | 2025-06-20 |
 | [Closer](https://open.spotify.com/track/3F4M4IaluOCuLto737CRXq) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Jennie A.](https://open.spotify.com/artist/2bx0ckgYnvvFPzDlGpupN2) | [Closer](https://open.spotify.com/album/4MibJfBVUOE0xrGJVg6WXS) | 4:31 | 2018-12-06 |  |
 | [Cotton Candy](https://open.spotify.com/track/6pTXXNyt5ofhClLOKM8oOQ) | [MilkyyMelodies](https://open.spotify.com/artist/2fg8s4dEi5FbvZKQdEvRoO) | [Cotton Candy](https://open.spotify.com/album/2RkbbCl9JrCJzOTfAfiAqE) | 2:51 | 2024-12-03 | 2025-01-09 |
@@ -74,6 +75,7 @@
 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 | 2020-02-20 |  |
 | [Give a Little](https://open.spotify.com/track/0Umdck3EQINZfO78t4fPXN) | [LeGrand](https://open.spotify.com/artist/4gOUlzoljp2awye30QKLJL), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [give a little](https://open.spotify.com/album/1zDpN5yfHwpqzJNXP2t7MN) | 2:49 | 2023-05-13 |  |
 | [Goodbye To A World](https://open.spotify.com/track/786ymAh5BmHoIpvjyrvjXk) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:28 | 2024-03-08 |  |
+| [GOT IT MAID \(CG5 VERSION\)](https://open.spotify.com/track/5Fyzs4GZ6D48SalVZFeKh8) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [Glitch Whisper](https://open.spotify.com/artist/1Jhi8R6zNodyhHadhC9IDe) | [GOT IT MAID \(CG5 VERSION\)](https://open.spotify.com/album/6lN5CKNmh8nSkDDHpywD0P) | 2:41 | 2025-09-27 |  |
 | [GRRRLS](https://open.spotify.com/track/5f6JnxY2aqNdF3qFIPozUd) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:48 | 2024-03-08 |  |
 | [Hasselhoff 2017](https://open.spotify.com/track/0sckxc84LeC5e1tZaJmgYg) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Hasselhoff 2017](https://open.spotify.com/album/1TZBg3vTzclGvoi1krXuyX) | 3:26 | 2018-12-06 |  |
 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 | 2022-01-26 |  |
@@ -85,6 +87,7 @@
 | [I Can't Fix You](https://open.spotify.com/track/3zAqapGmeTcDB4xES8LBUL) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Crusher\-P](https://open.spotify.com/artist/0gnBpQrAfWy73XpB4ZZZYX) | [I Can't Fix You](https://open.spotify.com/album/2TQ7CTgaJqTSmikvCcF2fR) | 4:38 | 2019-11-30 |  |
 | [I Don't Know What Sex Is \- Blue Version](https://open.spotify.com/track/4ADiEGK5cmQKTwc1YKdK21) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Sam](https://open.spotify.com/artist/6h1vSmU8EkgYqPFW7jckNG), [Bill](https://open.spotify.com/artist/3oKstmzHpDn18vb0SrDrQf) | [I Don't Know What Sex Is \(Blue Version\)](https://open.spotify.com/album/6idU42gjEnOsC88BHRRz5v) | 5:34 | 2018-12-06 |  |
 | [I Don't Wanna Be Free](https://open.spotify.com/track/1ibMPNtcyEwFFwtnVvmve1) | [Markiplier](https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef), [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [I Don't Wanna Be Free](https://open.spotify.com/album/5PpN4ODODnj5Bc7SlpUng4) | 2:22 | 2022-06-30 |  |
+| [I Got No Time](https://open.spotify.com/track/6WJHeQ57A33CN34L0xIQFU) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [I Got No Time](https://open.spotify.com/album/1ql24qUYun2MT6P8Mt1www) | 2:58 | 2025-09-27 |  |
 | [I Love You](https://open.spotify.com/track/4iEMpHibbcGsciVrbuefRY) | [OMFG](https://open.spotify.com/artist/0UdoKjWIe3tHyiqc4qT3Oz) | [I Love You](https://open.spotify.com/album/2KQ6i83Dfc8rbTahLfxXoa) | 3:57 | 2018-12-06 |  |
 | [I Stink](https://open.spotify.com/track/2y5Pg9yWLSI5CS7RldBgau) | [AI Gems](https://open.spotify.com/artist/5NwnFlLnUf1PehOfgiFONc) | [I Stink](https://open.spotify.com/album/2zQvD7H4UcyoMTM34qFgAy) | 2:20 | 2024-09-23 |  |
 | [I Wanna Be A Machine](https://open.spotify.com/track/0crWBrpRLkMHmOgYq8CXsV) | [Beat Saber](https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Beat Saber \(Original Game Soundtrack\), Vol\. V](https://open.spotify.com/album/0IRE7MsSzrZaeklhCzwbI5) | 3:25 | 2025-05-11 |  |

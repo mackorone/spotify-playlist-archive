@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : D'accord Simon
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,919 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,967 likes - 49 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 17 | [LA FAUTE À QUI!](https://open.spotify.com/track/4HcYYdx6dZSKkO0odLovJR) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [LA FAUTE À QUI!](https://open.spotify.com/album/4j3fW30IbogXwFR07Pfu1K) | 2:22 |
 | 18 | [Presque Punk](https://open.spotify.com/track/75HY55DJoZNg8lK1IZ2i4m) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/7Ismclfo1TZYljMc8FGfAj) | 3:53 |
 | 19 | [h4rdr0ck3r](https://open.spotify.com/track/3fwdPRanZOzbYtsbiyhh9t) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [h4rdr0ck3r](https://open.spotify.com/album/43ZC0qFxjsQlbyS0IDgMnE) | 2:40 |
-| 20 | [Track 3](https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [Jtm un peu](https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy Rose, Pt\. 1](https://open.spotify.com/album/4ROaxMuLciRc5l3ywr0EUr) | 3:02 |
 | 21 | [Dans quelques années](https://open.spotify.com/track/7iTKzfE7lcUMPfqNyeKQcE) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Dans quelques années](https://open.spotify.com/album/4XYeMFN1EkDkn3BMDrZACn) | 3:19 |
 | 22 | [Vie de rêve](https://open.spotify.com/track/5hiomyDdmSY5uITlR75LmK) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI), [Zenzile](https://open.spotify.com/artist/3W9EL2Dp6yptDXJUCrd68X) | [Vie de rêve](https://open.spotify.com/album/225dAvG6EOybII03gUtrOJ) | 4:09 |
 | 23 | [Merde à La Mer](https://open.spotify.com/track/0mb9NIxnBNpWAKPbaL4FBC) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd), [Brigitte Fontaine](https://open.spotify.com/artist/2P03Aan9wfgwkxTwGch2g1) | [Merde à La Mer](https://open.spotify.com/album/4Y0qxZssGRDLxtUEO4obK4) | 2:52 |

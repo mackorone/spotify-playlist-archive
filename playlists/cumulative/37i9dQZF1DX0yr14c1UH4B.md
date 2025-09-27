@@ -2,9 +2,9 @@
 
 ### [Common Thread](https://open.spotify.com/playlist/37i9dQZF1DX0yr14c1UH4B)
 
-> storytelling songwriting ✨ Cover: Joy Crookes
+> storytelling songwriting ✨ Cover: Liang Lawrence
 
-552 songs - 1 day 6 hr 53 min
+553 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Carmen](https://open.spotify.com/track/2Len4tBitFcIf0sAp2zBOT) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Carmen](https://open.spotify.com/album/2X9F4vOl0e6K7qGyLqZoz2) | 3:02 | 2025-05-15 | 2025-07-11 |
 | [Catherine Wheel](https://open.spotify.com/track/12M20nnSOEWCOyCDMODcDj) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Catherine Wheel](https://open.spotify.com/album/60ba6qGWXXrnJzYc226XTq) | 4:05 | 2025-03-28 | 2025-04-11 |
 | [Change](https://open.spotify.com/track/6NElCQ7iTlcx1I9ZuhcCp5) | [Kate Nash](https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg) | [Change](https://open.spotify.com/album/3AnZFB54DtuYeLgp19fWZK) | 4:31 | 2024-05-31 | 2024-07-27 |
-| [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [](https://open.spotify.com/album/null) | 1:56 | 2025-09-25 |  |
+| [Change](https://open.spotify.com/track/2L7MiyDmLaCCZiafYNVRdK) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [I Am Enough](https://open.spotify.com/album/57YQ4POLwqTtEzSyVyEfVc) | 1:56 | 2025-09-25 |  |
 | [changed it all](https://open.spotify.com/track/2BvqkFHPPQ3s1lUD9Y8Lyj) | [benjamin marshall](https://open.spotify.com/artist/43uKxuazcxU13X6jFrlFlQ) | [changed it all](https://open.spotify.com/album/45zOk2s5PyA8V10vCSoleJ) | 5:19 | 2025-09-04 |  |
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-03 | 2025-04-18 |
 | [Cinematic](https://open.spotify.com/track/6FlFjAMNruiMsgBbGAUHpe) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Cinematic](https://open.spotify.com/album/0xPOBZFiFZ9FapzadshAuG) | 3:16 | 2025-05-15 | 2025-08-08 |
@@ -179,7 +179,7 @@
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-04-25 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-07-11 |
 | [God, We Tried](https://open.spotify.com/track/7pHIHWnpFs1xIeyStVgrr7) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [God, We Tried](https://open.spotify.com/album/6lNQAWutyf7ilQO2aI3pbJ) | 3:33 | 2025-03-21 | 2025-04-11 |
-| [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [](https://open.spotify.com/album/null) | 3:06 | 2025-09-25 |  |
+| [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [It's A Funny Thing](https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH) | 3:06 | 2025-09-25 |  |
 | [GONER](https://open.spotify.com/track/6oyKj9WUmQtPGJVZUonxBz) | [Tom Cooper](https://open.spotify.com/artist/2F33DzU28njVglipBm65gf) | [GONER](https://open.spotify.com/album/72PH3sspnvq1fmfVlHiMmw) | 2:17 | 2025-05-15 | 2025-07-11 |
 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 | 2025-05-02 | 2025-06-20 |
 | [Good Enough](https://open.spotify.com/track/3diUyWgYvHSgtH8jGcTCWF) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Good Enough](https://open.spotify.com/album/0e9Nvt3LT7njjEt1XSMtDX) | 3:46 | 2025-08-07 | 2025-08-29 |
@@ -394,6 +394,7 @@
 | [Seasons](https://open.spotify.com/track/7tnjGSvjYDPXyLtEwttSM1) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Seasons](https://open.spotify.com/album/5SYYTJQ4GlOYClsXEvGEJL) | 3:05 | 2025-04-10 | 2025-05-10 |
 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 | 2024-07-26 | 2024-09-21 |
 | [see me cry](https://open.spotify.com/track/6Q3wnpKg9YJ4yyYj1gxe3J) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy), [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [see me cry](https://open.spotify.com/album/6FeLEFNqmzJDhL8kxwQuCq) | 2:43 | 2025-08-29 | 2025-09-20 |
+| [See You Again](https://open.spotify.com/track/6tAxH1RiSWg5CZI3OgO7Ox) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [See You Again](https://open.spotify.com/album/7iEFvQCpgSKaOlG15GGZTX) | 3:53 | 2025-09-26 |  |
 | [See You Later \(maybe never\)](https://open.spotify.com/track/4Rsy5ST2olSWRlbsjlRlI2) | [Jess Martins](https://open.spotify.com/artist/4AqSqzn0lwECIcgbXSKyyJ) | [See You Later \(maybe never\)](https://open.spotify.com/album/3qhTDNrJ33i7xph9YGEDcv) | 2:53 | 2025-07-17 | 2025-09-26 |
 | [see you later, for now](https://open.spotify.com/track/7nG5tKzx8cD9HGfEAjJlH5) | [Lorana](https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA) | [see you later, for now](https://open.spotify.com/album/1yJmJgb0smVa1tWIIu4Osr) | 2:44 | 2025-09-11 |  |
 | [Selfish](https://open.spotify.com/track/0QosomGFiJYOxj2ViZfqng) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Selfish](https://open.spotify.com/album/3G89Vbw7shdM38VCVsFdoy) | 3:49 | 2024-05-31 | 2024-08-17 |
@@ -413,7 +414,7 @@
 | [Slowest Way To Drown](https://open.spotify.com/track/3eIf0QktAUC9YI5U4PhZcU) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Slowest Way To Drown](https://open.spotify.com/album/7C7D16N9be6lAJgtDOupcE) | 3:41 | 2025-09-11 |  |
 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-04 |  |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-14 | 2025-04-04 |
-| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [](https://open.spotify.com/album/null) | 2:49 | 2025-09-25 |  |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 |  |
 | [So Long Ago](https://open.spotify.com/track/25nuGJ0wuJ0iSkwO27uDnS) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [So Long Ago](https://open.spotify.com/album/2DvigQiU5AqVQqt928ow8g) | 3:38 | 2025-06-26 | 2025-07-18 |
 | [Soar](https://open.spotify.com/track/70TG24YZzgb1fmoot4XlI4) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/19EeD9KxRuWzZaIka0q9af) | 3:41 | 2025-05-02 | 2025-05-23 |
 | [Sober](https://open.spotify.com/track/1tJYwdLF1NxR0l4kgPlFK9) | [Flo Wilkes](https://open.spotify.com/artist/3IqaycBjqksXbXpUwmM8QT) | [Sober](https://open.spotify.com/album/7keNjPhNn4eJurGWAkJF0A) | 3:20 | 2025-08-22 |  |
@@ -462,7 +463,7 @@
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 | 2024-05-31 | 2025-02-28 |
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-10 | 2025-05-03 |
 | [The Bellboy \(One Last Crush\)](https://open.spotify.com/track/3zP0fq3Hv4DyEaLGBpQuln) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin \(Deluxe\)](https://open.spotify.com/album/0GE0uLMG3dAOrvPGcJtvKz) | 3:28 | 2025-06-12 | 2025-08-15 |
-| [The Closest We'll Get](https://open.spotify.com/track/02r8AjfVEkKG8wGRwkLumR) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/2DTTLwc7lSkN1tx9JocORp) | 3:56 | 2025-08-22 |  |
+| [The Closest We'll Get](https://open.spotify.com/track/02r8AjfVEkKG8wGRwkLumR) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/2DTTLwc7lSkN1tx9JocORp) | 3:56 | 2025-08-22 | 2025-09-27 |
 | [The Deep Blue Okay](https://open.spotify.com/track/5hojXeDbIX1Q3USfoqyQ2Y) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [A Complicated Woman](https://open.spotify.com/album/3dJJU7f7Ab81xAmUvCT0o9) | 5:32 | 2025-04-24 | 2025-07-11 |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2024-05-31 | 2024-09-14 |
 | [The Feeling You Get](https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ask That God](https://open.spotify.com/album/5iEtQfZATfimid3Ogvce5m) | 4:16 | 2024-07-26 | 2024-10-26 |

@@ -4,7 +4,7 @@
 
 > a playlist without boundaries, featuring olivia dean ❤️‍🩹
 
-655 songs - 1 day 9 hr 3 min
+655 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Baby Blue](https://open.spotify.com/track/4HzEoMk9xmhCPekdiz2HqB) | [Edie Bens](https://open.spotify.com/artist/0BdtAVeSQlKZkWcgcz7aLS) | [Baby Blue](https://open.spotify.com/album/6pSFH6czd6Co0mDuWxYKue) | 2:39 | 2025-07-10 | 2025-07-25 |
 | [Baby Chop](https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb), [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Baby Chop](https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh) | 3:33 | 2025-07-24 | 2025-09-19 |
 | [Baby Spoon](https://open.spotify.com/track/17W1qDE79lsiQaCeLPUcGl) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Baby Spoon](https://open.spotify.com/album/38IRbsPSs3ISQbJyMfBCU2) | 3:00 | 2025-08-07 | 2025-09-26 |
-| [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [](https://open.spotify.com/album/null) | 3:17 | 2025-09-25 |  |
+| [Baby Steps](https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:17 | 2025-09-25 |  |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-03-21 | 2025-06-27 |
 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 | 2024-08-02 | 2024-09-06 |
 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 | 2024-10-03 | 2025-02-14 |
@@ -238,7 +238,7 @@
 | [god loves a trier](https://open.spotify.com/track/18M4Y9NRlRJfXgls3gOZ39) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [god loves a trier](https://open.spotify.com/album/5InPGjHdmwPdxIv9UjZ3Ii) | 2:27 | 2024-11-22 | 2025-04-04 |
 | [Going Nowhere](https://open.spotify.com/track/1Wgrc2Ajfn8PDjMBS8OigH) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [Going Nowhere](https://open.spotify.com/album/5NKk9UOijpyxA6yTBxNRiw) | 4:29 | 2024-11-01 | 2025-03-15 |
 | [Gold Smile](https://open.spotify.com/track/0vjObNruhRFeBgNxe3gtAa) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Gold Smile](https://open.spotify.com/album/1YEqevtN9SNTalSEaB5KNn) | 2:43 | 2024-11-01 | 2025-02-28 |
-| [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [](https://open.spotify.com/album/null) | 3:06 | 2025-09-25 |  |
+| [Goldmine](https://open.spotify.com/track/31tB6xE97SODRquPLmvZB7) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [It's A Funny Thing](https://open.spotify.com/album/4nVG3tIFZjoW2Uxhcu2oSH) | 3:06 | 2025-09-25 |  |
 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-18 |  |
 | [Good Grace](https://open.spotify.com/track/5vuC4HzdniJMs7BgEoSPnN) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Good Grace](https://open.spotify.com/album/3S3qdKVbRMRIoj76d1SAtv) | 2:53 | 2025-07-10 | 2025-09-12 |
 | [Good Intentions](https://open.spotify.com/track/0P5PPuVLKdyHnWdjbOeMxa) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Good Intentions](https://open.spotify.com/album/3UmgT04hGukECZlKdsmFmW) | 2:58 | 2025-09-11 |  |
@@ -600,7 +600,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-24 | 2025-05-09 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-25 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-07-03 | 2025-09-19 |
-| [Track 3](https://open.spotify.com/track/4P6mForfQUvE34nxrfwfV3) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Trash Cat](https://open.spotify.com/track/4SdjOfzmeev8BGkUmPLY7H) | [Salmon Cat](https://open.spotify.com/artist/5JWkrKXdnre8MtcZLrqrPs) | [Trash Cat](https://open.spotify.com/album/7FV3ZITK4dAhp12GAezufE) | 1:38 | 2024-08-02 | 2024-08-23 |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-27 | 2024-08-09 |
 | [Truck](https://open.spotify.com/track/1jbEwXmHPLx51r0f4Q8uZK) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Truck](https://open.spotify.com/album/5XQm848CtwXrkhpxQpv2cM) | 3:11 | 2025-01-31 | 2025-03-21 |
@@ -644,6 +643,7 @@
 | [Why's this dealer?](https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Why's this dealer?](https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX) | 2:09 | 2024-08-29 | 2025-03-07 |
 | [wild flower](https://open.spotify.com/track/4TchkLQGxjFlrPVnaQAKoK) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [in waves](https://open.spotify.com/album/6y1BndaDRT2FtLEHLg301e) | 4:10 | 2025-04-11 | 2025-05-23 |
 | [Wish](https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY), [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Wish](https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW) | 3:19 | 2025-08-28 |  |
+| [WOTEVA](https://open.spotify.com/track/4P6mForfQUvE34nxrfwfV3) | [Richard Carter](https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU) | [The Concept of Cool](https://open.spotify.com/album/3dpYGOv99zm5rKEvydh4Ke) | 3:42 | 2025-09-25 |  |
 | [WRONG](https://open.spotify.com/track/2wecLXIHdYjBgEnqW2PEsX) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [WRONG](https://open.spotify.com/album/69EOzQ7nMQ7IWHPb8wGSq4) | 2:56 | 2025-05-29 | 2025-07-25 |
 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-14 |  |
 | [Yard](https://open.spotify.com/track/1C2TixzCNkUiSqJqkOckor) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Yard](https://open.spotify.com/album/2tJx1gxkXtuCXHWz3G8bib) | 3:08 | 2024-10-03 | 2024-11-22 |

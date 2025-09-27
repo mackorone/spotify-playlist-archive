@@ -1,12 +1,12 @@
 {
   "description": "The best songs from the new shows and the buzziest hits. Cover: Jonathan Groff in Just in Time",
-  "num_followers": 112736,
+  "num_followers": 112734,
   "original_name": "Broadway Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJMhcQEevfsuCGdNoG0wE+oamGrf",
+  "snapshot_id": "AAAAADc9M7QpMXLHR6NQFz6UHRbEJ5Qd",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:02",
@@ -83,6 +83,22 @@
       "duration_ms": 262866,
       "name": "Dress Your Way Up",
       "url": "https://open.spotify.com/track/2Ch8dkdQmoc2A4PlatC8Le"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1"
+      },
+      "artists": [
+        {
+          "name": "Katherine Lynn-Rose",
+          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
+        }
+      ],
+      "duration_ms": 126100,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L"
     },
     {
       "added_at": "2025-02-21 05:00:16",
@@ -1027,50 +1043,6 @@
     {
       "added_at": "2024-06-28 04:27:17",
       "album": {
-        "name": "Roaring On / My Green Light / Past is Catching Up to Me | The Great Gatsby - A New Musical (Original Broadway Cast Recording)",
-        "url": "https://open.spotify.com/album/0WOb0bOotTCHNGDsnLjpUL"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Jordan",
-          "url": "https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub"
-        },
-        {
-          "name": "Eva Noblezada",
-          "url": "https://open.spotify.com/artist/2praUrFAMThqstqmD6faQn"
-        },
-        {
-          "name": "Original Broadway Cast of The Great Gatsby - A New Musical",
-          "url": "https://open.spotify.com/artist/7yHJ9NFHBIguBEjpJwRNXM"
-        }
-      ],
-      "duration_ms": 291967,
-      "name": "My Green Light",
-      "url": "https://open.spotify.com/track/62Y2MyXpDYWc93zUWNKrke"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
-        "name": "Cabaret (2021 London Cast Recording)",
-        "url": "https://open.spotify.com/album/1fY0T7jcqYLYLBBsITaubJ"
-      },
-      "artists": [
-        {
-          "name": "2021 London Cast of Cabaret",
-          "url": "https://open.spotify.com/artist/7hFguD91cYFuITTZCc4aQC"
-        },
-        {
-          "name": "Jessie Buckley",
-          "url": "https://open.spotify.com/artist/0gvb5LJ9nR6z0UqohIojP1"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Maybe This Time",
-      "url": "https://open.spotify.com/track/4TfIo8JDwLyNeyoWISZnhR"
-    },
-    {
-      "added_at": "2024-06-28 04:27:17",
-      "album": {
         "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
       },
@@ -1131,26 +1103,6 @@
       "duration_ms": 210188,
       "name": "Home",
       "url": "https://open.spotify.com/track/3Y6TrexjQryeW8U9UN5kzn"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Tomorrow, the Island Dies (Complete Studio Cast Recording)",
-        "url": "https://open.spotify.com/album/4kMYAjZvHtW7n8cosgwTUz"
-      },
-      "artists": [
-        {
-          "name": "Ryan Scott Oliver",
-          "url": "https://open.spotify.com/artist/6ZN2tFyslA0XNQmZoOKlz9"
-        },
-        {
-          "name": "Jason Gotay",
-          "url": "https://open.spotify.com/artist/18QGDMb7iwtEcsz3n5myg3"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/4P3JZmlq5RRlOg7KE0kZEh"
     },
     {
       "added_at": "2024-06-28 04:27:17",

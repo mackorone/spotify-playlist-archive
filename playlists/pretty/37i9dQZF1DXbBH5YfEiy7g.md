@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Mpumi Mtsweni
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,089 likes - 100 songs - 11 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,192 likes - 100 songs - 11 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

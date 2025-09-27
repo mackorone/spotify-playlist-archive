@@ -2,7 +2,7 @@
 
 ### [Rock Rotation](https://open.spotify.com/playlist/37i9dQZF1DWZJhOVGWqUKF)
 
-> Sechs Saiten für ein Halleluja\. Cover: All Time Low
+> Sechs Saiten für ein Halleluja\. Cover: Indecent Behavior
 
 675 songs - 1 day 14 hr 31 min
 
@@ -521,12 +521,12 @@
 | [Shivering](https://open.spotify.com/track/51cAhMu907C41i2IpL4pUy) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Shivering](https://open.spotify.com/album/3GH5dRw5f3KBFIeNkzpFwk) | 2:58 | 2025-05-08 | 2025-05-16 |
 | [Show People](https://open.spotify.com/track/0IpPOFT27z0LcJRKNKHKgA) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp), [Slowly Slowly](https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e) | [Show People](https://open.spotify.com/album/3hNBopSMLbcielb5lBaLos) | 3:43 | 2024-11-14 | 2024-11-22 |
 | [Showbiz](https://open.spotify.com/track/2M000btuOeRwAaOdx3WeFa) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Showbiz](https://open.spotify.com/album/3KRfkWMjSTOusvuP5SaXp5) | 2:45 | 2024-06-27 | 2025-03-07 |
-| [Sick](https://open.spotify.com/track/2guYReSJVeGNXYx2aOFpkN) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [](https://open.spotify.com/album/null) | 2:48 | 2025-09-25 |  |
+| [Sick](https://open.spotify.com/track/2guYReSJVeGNXYx2aOFpkN) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [SICK](https://open.spotify.com/album/57Y1i4XY4oPkOHI9jGb0u8) | 2:48 | 2025-09-25 |  |
 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 | 2024-08-01 | 2024-08-23 |
 | [Silence](https://open.spotify.com/track/7tv8zTisovOo3Xb9KAVOpa) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Silence](https://open.spotify.com/album/5GjHVUyDk6m5UBq8xh0iTk) | 3:11 | 2025-09-11 |  |
 | [Silence & The Sound](https://open.spotify.com/track/46DNOidW3taZozJggUr1Sd) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [Silence & The Sound](https://open.spotify.com/album/5haKJv5UOlurln2y8D4lHO) | 3:11 | 2024-08-19 | 2024-08-23 |
 | [Silicone Mold](https://open.spotify.com/track/5laawOQLotQGCjP2IP5Yz6) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Silicone Mold](https://open.spotify.com/album/46rTeYoEFFpluo0Sq0JZdY) | 2:26 | 2025-06-12 | 2025-06-20 |
-| [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [](https://open.spotify.com/album/null) | 3:09 | 2025-09-25 |  |
+| [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [ENTRY WOUNDS](https://open.spotify.com/album/3j0s7SQBbf9sZNqxkaGb4j) | 3:09 | 2025-09-25 |  |
 | [Sirens](https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sirens](https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz) | 3:45 | 2024-09-19 | 2024-10-11 |
 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 | 2024-06-27 |  |
 | [Six Feet Under](https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Six Feet Under](https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G) | 2:58 | 2024-06-27 | 2024-12-20 |

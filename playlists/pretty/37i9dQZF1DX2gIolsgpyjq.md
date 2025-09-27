@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: MOON
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,601 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,658 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 5 | [where I've been](https://open.spotify.com/track/52vZKMsSxSi2ubk4TOy8bK) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [where I've been](https://open.spotify.com/album/001b5pgV7pD9pFjglUHxtd) | 3:00 |
 | 6 | [Mont Blanc](https://open.spotify.com/track/1jG2w4SGRqzC4wQKlN3D7q) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN) | [Mont Blanc](https://open.spotify.com/album/5vxKpurDpHTvadVYHBS6J8) | 4:35 |
 | 7 | [DJ Carpenter's Lovesong](https://open.spotify.com/track/7a78wGtjGBzcQJ49hKPn5E) | [DJ Carpenter](https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi) | [DJ Carpenter's Lovesong](https://open.spotify.com/album/14x8YWiS5PFCtitIVLih1V) | 3:01 |
-| 8 | [Track 3](https://open.spotify.com/track/0tb1QIwojGzGTT1D4QsLq7) | [Selina Gin](https://open.spotify.com/artist/5gghGLi5wwcWOeDIgnuVoo) | [](https://open.spotify.com/album/null) | 0:00 |
+| 8 | [Binging RomComs](https://open.spotify.com/track/0tb1QIwojGzGTT1D4QsLq7) | [Selina Gin](https://open.spotify.com/artist/5gghGLi5wwcWOeDIgnuVoo) | [I Memorize Your Face, 'Cause it Changes all the Time](https://open.spotify.com/album/784sn3ldsCKpnTf2KEx9HN) | 3:21 |
 | 9 | [beige](https://open.spotify.com/track/4OsdpPl8LQnI1F6zxvnfg7) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [beige](https://open.spotify.com/album/5ErS0Ww4WVGJn5xC0Utn2u) | 3:07 |
 | 10 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
 | 11 | [i don't want anything more](https://open.spotify.com/track/4M5H5DPGrLP0BXPr7mFCr9) | [MAGLY](https://open.spotify.com/artist/3bVunlWHUpBqbav70P6Dbu) | [i don't want anything more](https://open.spotify.com/album/05JGCULaqHLEGDmF1blABm) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 99 | [Manspread](https://open.spotify.com/track/6Oq1dns4yI5d5JPRyyRYPc) | [BLADË](https://open.spotify.com/artist/2IU0KXU1L7fIfAqzG4VcgC) | [Manspread](https://open.spotify.com/album/3HKJJMWNEx7jLjnGMsUaeX) | 2:50 |
 | 100 | [hold on](https://open.spotify.com/track/2ZSP0fGFIet6vreIT0UuGk) | [malt£](https://open.spotify.com/artist/0CaERlJ5uulwgT7ehOCjL9) | [hold on...we still have the rain](https://open.spotify.com/album/2J9jaU2fuDri3XkRwPzxPw) | 3:25 |
 
-Snapshot ID: `AAAAAA+WGOVINohfg0uACqSNz8B2Np21`
+Snapshot ID: `AAAAAN3tvD/Fut5y0WkTHzjECtl/IRGx`

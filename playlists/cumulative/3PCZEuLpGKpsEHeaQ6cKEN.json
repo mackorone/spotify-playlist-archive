@@ -1117,6 +1117,32 @@
     },
     {
       "album": {
+        "name": "Amazin' (Edit)",
+        "url": "https://open.spotify.com/album/1CMLumuIBZga45sKzEj23m"
+      },
+      "artists": [
+        {
+          "name": "David Mackay",
+          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
+        },
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164262,
+      "name": "Amazin' - Edit",
+      "url": "https://open.spotify.com/track/1JpTKjjvvCJ7zkE2Okl3LJ"
+    },
+    {
+      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/1EZ8u81fnSUv5FXUn1XeCl"
       },
@@ -6782,6 +6808,24 @@
       "duration_ms": 149764,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/1JBoXrcRKIGE4NOfXDeHKY"
+    },
+    {
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/2JMgRTiqdKZIhxf7OX7JlN"
+      },
+      "artists": [
+        {
+          "name": "Entasia",
+          "url": "https://open.spotify.com/artist/4hhSH03TjHXI2OcnRzBDll"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206714,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/5pr9u6WBt7GYW0kfsGyOBe"
     },
     {
       "album": {
@@ -12670,7 +12714,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 134220,
       "name": "High",
       "url": "https://open.spotify.com/track/1E9JnctOaPQP3VA4aFX2PS"

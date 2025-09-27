@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: MONO NO AWARE \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,158 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,253 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [走馬灯](https://open.spotify.com/track/78xKdtdcxkOedPTxeRCJpL) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [走馬灯](https://open.spotify.com/album/4D62Xo6sbsBymHPAQ5v0fV) | 5:14 |
-| 2 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [](https://open.spotify.com/album/null) | 3:21 |
+| 2 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 3 | [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 |
 | 4 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 |
 | 5 | [Good Day](https://open.spotify.com/track/0iy5fIvQtdPqJdFYAwE4ay) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Death of a Daisy & Birth of an Oyster](https://open.spotify.com/album/0E5xwRecVOuzErYMTxVBC3) | 4:13 |
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 12 | [Konsensya](https://open.spotify.com/track/3ilfK8uTk4VB50GKtfKHTL) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Konsensya](https://open.spotify.com/album/3Gwpshb9YLl9oLss4dVPot) | 3:33 |
 | 13 | [Kitsunebi](https://open.spotify.com/track/63JMnAjfEAAmVADp0ilDoE) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [Kitsunebi](https://open.spotify.com/album/7IGwPtCpb7VSBAei4zJQzo) | 4:15 |
 | 14 | [真夏のトワイライト](https://open.spotify.com/track/6Y5hTkQSznh1wFDw2p3SDW) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [真夏のトワイライト](https://open.spotify.com/album/2I35grEfCPhILtpBhZAHfn) | 4:38 |
-| 15 | [Love, Again](https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Love, Again](https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD) | 3:13 |
+| 15 | [Love, Again \(feat\. RIMALDI\)](https://open.spotify.com/track/1NxnWDCt9sXfXiigC8KvK9) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Love, Again \(feat\. RIMALDI\)](https://open.spotify.com/album/3eAojLETHEJnVKHjepSypD) | 3:13 |
 | 16 | [Sunscreen](https://open.spotify.com/track/3nYaDlQEPre1YTDRm8mTVs) | [her favorite band](https://open.spotify.com/artist/3ctoZrsuHZ3Xl66iqykWfB), [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [Sake by the Water](https://open.spotify.com/artist/6bcndRRyytWLfkekq2XyKQ) | [Sunscreen](https://open.spotify.com/album/3WpMOcu4hbj5M3jfXC3WIG) | 2:29 |
 | 17 | [Lord, I Gotta Move On](https://open.spotify.com/track/35Ky17HnxZjFZHUMfLpfI3) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [Lord, I Gotta Move On](https://open.spotify.com/album/3ECHxnDLbul4yyuDNkSM4x) | 3:36 |
 | 18 | [TOO MUCH TOO SOON](https://open.spotify.com/track/49t61aRaNkwrBc9A6uMhtq) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [TOO MUCH TOO SOON](https://open.spotify.com/album/2cqHjTfmhgn2OOVqvA6OHW) | 3:46 |
-| 19 | [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [](https://open.spotify.com/album/null) | 3:30 |
+| 19 | [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Plea](https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg) | 3:30 |
 | 20 | [Now I'm a Diplomat](https://open.spotify.com/track/56kY65WwSloQlO3WJGfVRK) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Who Knows Where Life Will Take You?](https://open.spotify.com/album/5pGHtIQt7DH1e4FXywAvgt) | 3:15 |
 | 21 | [在這個清晨](https://open.spotify.com/track/2ZiTY57vnyNlTvRvQI7ZCY) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [在這個清晨](https://open.spotify.com/album/4ancqmWTgf0EvyCc0R6FcZ) | 3:40 |
 | 22 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 51 | [BOWWOW \(feat\. POPO J\)](https://open.spotify.com/track/6GcOIf2Z83ZXp12ZfLjAyq) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb), [POPO J](https://open.spotify.com/artist/3asn0DBHRjY3cHdlbm5kuu) | [BOWWOW \(feat\. POPO J\)](https://open.spotify.com/album/3Gn5Mh3UYkA6d7xKDQotyV) | 3:18 |
 | 52 | [Brutalist](https://open.spotify.com/track/6rWMUmCe2TQyG46glwRWRK) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Fibril](https://open.spotify.com/album/3Vh81JC3iRRG8UTOMkTT6P) | 2:54 |
 | 53 | [Krisan](https://open.spotify.com/track/1XKbZE1uJwL1HX0YwtAWUM) | [Pelteras](https://open.spotify.com/artist/4N7jiHTakjmvRQo2o81jzz) | [Krisan](https://open.spotify.com/album/0KzhDllitU7DI7J9YC3vr1) | 3:50 |
-| 54 | [HELLO](https://open.spotify.com/track/5XvfJ5Ypwd3XC8fWoc5eYg) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [HELLO, KL](https://open.spotify.com/album/1I4vjz0pyWEhuipK8VXbpO) | 2:36 |
+| 54 | [HELLO](https://open.spotify.com/track/5XvfJ5Ypwd3XC8fWoc5eYg) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [HELLO in KL](https://open.spotify.com/album/1I4vjz0pyWEhuipK8VXbpO) | 2:36 |
 | 55 | [LUNA](https://open.spotify.com/track/2Smb59ewhgW8g3cBb8kXKm) | [心頭肉](https://open.spotify.com/artist/28SZqcuYWGmsm3jsVR4u9M) | [LUNA](https://open.spotify.com/album/5rjV4Tv3wiYUglMhUaufZi) | 3:28 |
 | 56 | [How We Love](https://open.spotify.com/track/56xHqA7d3JQ42tcRwTSrmY) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [How We Love](https://open.spotify.com/album/3iYH8OOOyP1cvZFcIOHrO0) | 2:41 |
 | 57 | [RIGHT PERSON, WRONG TIMING](https://open.spotify.com/track/4dn6H5XgGUOn1c6vJstFwS) | [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [RIGHT PERSON, WRONG TIMING](https://open.spotify.com/album/4yk19prbyqyr90PEIpOsbs) | 3:38 |

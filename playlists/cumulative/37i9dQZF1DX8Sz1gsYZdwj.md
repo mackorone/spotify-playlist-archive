@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-244 songs - 11 hr 32 min
+248 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,17 +67,20 @@
 | [Due tramonti](https://open.spotify.com/track/1Zv6RyHM08gyC4qvOlCZUL) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Passaggio](https://open.spotify.com/album/7FLcizCIuoOOTEKUZlrANJ) | 4:27 | 2021-11-09 | 2023-12-12 |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2023-09-29 |  |
 | [Echoes In The Wind](https://open.spotify.com/track/6EO1zgWT7dpChCqOfeFIVS) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Echoes In The Wind](https://open.spotify.com/album/2UXh5wXXK266hiOoYkztV0) | 2:17 | 2022-02-21 |  |
+| [Echoes of the Past](https://open.spotify.com/track/1x18v7FSsW2HCxkw0BKpOw) | [Anna Kúsmierska](https://open.spotify.com/artist/7KSL6D4AfN958LTmv0jyXd) | [Echoes of the Past](https://open.spotify.com/album/0yRcUh3eA552gKjMEHfkiw) | 2:12 | 2025-09-25 |  |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-24 | 2025-05-17 |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-02-21 | 2025-05-17 |
 | [Enfantillages pittoresques: II\. Berceuse](https://open.spotify.com/track/0L5WGmfuDp4JgbOnv3eqOg) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Cristina Ariagno](https://open.spotify.com/artist/1P2QbCWRfx3t99tZSUdL18) | [Satie: Complete Piano Works, Vol\. 2/2](https://open.spotify.com/album/2tmqRnqJGhdHtv5WbEQdex) | 1:17 | 2021-11-09 | 2023-10-25 |
 | [Eventide](https://open.spotify.com/track/6m6E8jsmnmFXOR6bR3BnxF) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [Eventide](https://open.spotify.com/album/7AFx5CnBVTdbgeJ927qbyp) | 2:25 | 2023-09-29 | 2025-05-17 |
 | [Everlasting](https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Everlasting](https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd) | 2:34 | 2023-09-29 | 2025-05-17 |
 | [Everlasting Beauty](https://open.spotify.com/track/4bAiQ6O3FGTl1FKjcxTGso) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Everlasting Beauty](https://open.spotify.com/album/1h0Vfm2rTF0rkXeaiod8rU) | 2:44 | 2025-08-05 |  |
+| [Farther Fields](https://open.spotify.com/track/3t50k3r7KDzv422h9rS4zw) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Farther Fields](https://open.spotify.com/album/5OFpxCA86MILEobmMC8K7R) | 2:53 | 2025-09-25 |  |
 | [Fernweh](https://open.spotify.com/track/2ZiPXDK7uxEQtvlPwyQn5a) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Fernweh](https://open.spotify.com/album/4UDwsawToHCgtQgNNGT8rd) | 2:04 | 2025-04-04 |  |
 | [Finding The Heavens](https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Finding The Heavens](https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ) | 2:47 | 2022-01-28 |  |
 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 | 2024-05-01 |  |
 | [For Children Vol\. 1, Sz\. 42: No\. 3 Quasi adagio](https://open.spotify.com/track/2b12Hb86ANOA56DvXXHao6) | [Béla Bartók](https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd), [Lars Vogt](https://open.spotify.com/artist/3xYzk2kbx3IEGo2YPeoggv) | [Larcher, Schumann & Bartók…For Children](https://open.spotify.com/album/0Pjj3RQJOAxMk26duV8NEP) | 0:56 | 2021-11-09 | 2023-10-25 |
 | [Forgive Them](https://open.spotify.com/track/5ygpixsIV7ess0ZwLGJ5Nn) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Forgive Them](https://open.spotify.com/album/78orR2kosXcnldCpBF24Cf) | 4:34 | 2023-09-29 |  |
+| [Forgotten Path](https://open.spotify.com/track/5PmXRuVkFiQidQfqTSZXyY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Forgotten Path](https://open.spotify.com/album/0jPoNGwd7OG2OZHPUbSWo8) | 2:55 | 2025-09-25 |  |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2021-11-09 |  |
 | [From A Distance](https://open.spotify.com/track/3SjLu50VyJyELmAYxPOKO8) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [From A Distance](https://open.spotify.com/album/0AWi2GaZtWl5tscgxkUB9P) | 2:57 | 2025-02-26 |  |
 | [Frozen Flower](https://open.spotify.com/track/4WfY4hp9fBxqw4pVbiYoYb) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Frozen Flower](https://open.spotify.com/album/3gSPyAbHzv4UkOFHdkgKH9) | 3:21 | 2025-08-05 |  |
@@ -243,6 +246,7 @@
 | [Warm Embrace](https://open.spotify.com/track/2bVUyLxltPaSPhz9yaNbr4) | [MettaForm](https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq) | [Solar Cooling](https://open.spotify.com/album/5rHfIbbcc4xDiDGkbIfifX) | 1:50 | 2021-11-09 | 2023-10-25 |
 | [WARMTH OF THE WIND](https://open.spotify.com/track/5yXFHymXahLnDErLk0wBun) | [GRACE UNDERWOOD](https://open.spotify.com/artist/3Q9WSdSKTYAVrqpyumgwqp) | [WARMTH OF THE WIND](https://open.spotify.com/album/61e0S11tCBQPOhemFKwiF4) | 2:51 | 2025-01-07 | 2025-05-17 |
 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 | 2022-02-21 |  |
+| [We Come From the Stars](https://open.spotify.com/track/0eq0cftUr9y3UKzfSczrpM) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [We Come From the Stars](https://open.spotify.com/album/4KDFawOTLYeRGkSpEUVB5d) | 2:22 | 2025-09-25 |  |
 | [when the party's over \- Slowed Remix](https://open.spotify.com/track/35zRHowhQifRViG90CiLLY) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over \(Slowed Remix\)](https://open.spotify.com/album/06snhOORsyLrFV7rNyNlLI) | 3:54 | 2022-02-18 | 2024-10-02 |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2023-09-29 |  |
 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 | 2023-02-28 | 2025-05-17 |

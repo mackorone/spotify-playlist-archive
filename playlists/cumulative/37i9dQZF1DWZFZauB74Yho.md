@@ -4,7 +4,7 @@
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-419 songs - 1 day 0 hr 49 min
+420 songs - 1 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,6 +405,7 @@
 | [Walls](https://open.spotify.com/track/0qebJlwvkPNyAxYR52zNgs) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Walls](https://open.spotify.com/album/6rmY0t5TkTCJ6MqjN4Sc12) | 6:23 | 2024-09-06 | 2024-12-07 |
 | [Wanderers Like Me](https://open.spotify.com/track/1bCgFSfb6Px08in2cw77kR) | [The Po' Ramblin' Boys](https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o) | [Wanderers Like Me](https://open.spotify.com/album/6Gjk2XloLMceU0G7ss70Rm) | 3:09 | 2024-06-28 | 2024-11-03 |
 | [Wandering Song](https://open.spotify.com/track/63UGuJQjBVGnRnGbYV6e8T) | [Lou Shields](https://open.spotify.com/artist/7qqH6BuMtGWPckSmgVXMJ6) | [Old Riverside](https://open.spotify.com/album/3VPz8evBSDhyY0GidroTUA) | 3:57 | 2024-11-15 | 2025-02-15 |
+| [Waterbound](https://open.spotify.com/track/1QUPjYYu6QLTO85NYzoiSf) | [Peia](https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2) | [Waterbound](https://open.spotify.com/album/2deIAw3YuQDPyMdcU5DNEa) | 3:08 | 2025-09-26 |  |
 | [We're All Gonna Live](https://open.spotify.com/track/2z4AsS6ZOqyLg521VviwFR) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [We're All Gonna Live](https://open.spotify.com/album/6f9y5CYYS8ZPbOAJ7OMn0G) | 3:01 | 2025-01-17 |  |
 | [Welcome to Virginia](https://open.spotify.com/track/7xCuLpCP4CtxABSR18FyYG) | [Thomas Cassell](https://open.spotify.com/artist/1axMbkG5DNnNEoJNURK9OL) | [Welcome to Virginia](https://open.spotify.com/album/7Lr3YDrOVFkJlxmOraeXDS) | 3:06 | 2024-07-26 | 2024-12-07 |
 | [West Virginia](https://open.spotify.com/track/7F8UYoDlJFScdSK1ZgPgLO) | [Stillhouse Junkies](https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj), [Tim O'Brien](https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM) | [West Virginia](https://open.spotify.com/album/7ctbnQKt3qxA5koY26fSiS) | 3:56 | 2024-09-27 | 2025-01-11 |

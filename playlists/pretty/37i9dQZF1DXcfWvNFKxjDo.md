@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Reznik
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,553 likes - 98 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,648 likes - 98 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 48 | [Tequila](https://open.spotify.com/track/6xG9jIwdVjgcxfUeWFij9d) | [DIEGO SAN DIEGO](https://open.spotify.com/artist/1lal1Zh8FBRbRwzd22s0oX), [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9) | [Tequila](https://open.spotify.com/album/0Pwv92MamrxASIwXrdF8FU) | 2:51 |
 | 49 | [Wahejo](https://open.spotify.com/track/1QSZ1UM7skGd6gpNKAf42v) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Wahejo](https://open.spotify.com/album/5Ah7Urq5kw7C9wtw0sSnRQ) | 2:25 |
 | 50 | [Strangers](https://open.spotify.com/track/5FZ3F8RDenKwUHvAfcdGjS) | [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [James Hersey](https://open.spotify.com/artist/0lzV2CiahHRiGd6qpADtPS), [ARTUNIS](https://open.spotify.com/artist/3NAAapJybGBNcE1YqCvTbI) | [Strangers](https://open.spotify.com/album/2ULOOoQKpV5haFQDqZcjRo) | 2:42 |
-| 51 | [Track 23](https://open.spotify.com/track/1Y4zSZx6nxV9thYbJX6sEB) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq), [LEZA](https://open.spotify.com/artist/63kYBRsSCUPGp8eB1zK9e3) | [](https://open.spotify.com/album/null) | 0:00 |
+| 51 | [Bonni im Kleid \(feat\. IIVEN & LEZA\)](https://open.spotify.com/track/1Y4zSZx6nxV9thYbJX6sEB) | [Romero](https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU), [IIVEN](https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq), [LEZA](https://open.spotify.com/artist/63kYBRsSCUPGp8eB1zK9e3) | [Super 8 \(Deluxe\)](https://open.spotify.com/album/1MlKfBPI1cB5V0cqankcy9) | 2:44 |
 | 52 | [LONELY](https://open.spotify.com/track/0wgj0e9vcgeB7FUivFIjCr) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [LONELY](https://open.spotify.com/album/4kcqgtKDv2pLNoUuJtGHJb) | 2:12 |
 | 53 | [Arte Como Amante](https://open.spotify.com/track/6BXNHgJ3S22nkho8kaZuIy) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Arte Como Amante](https://open.spotify.com/album/2Yr7RV0myc2RAjJ9ruNGRG) | 4:26 |
 | 54 | [Tik Tok](https://open.spotify.com/track/4KHHQiEcT5XtLeokhfn6sj) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [DON SANDRO](https://open.spotify.com/artist/3bNBPx8aCgxIwghdDyL0ZG) | [Tik Tok](https://open.spotify.com/album/5BzjZ9VbHTMzrBDTxMQvut) | 2:50 |

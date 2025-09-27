@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Park Ki Hun\(박기훈\)\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,392 likes - 52 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,398 likes - 52 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 51 | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/track/6O5CTcegNJ4rYnT6Aleiel) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Woo\-Woo\-Ah\-Ah](https://open.spotify.com/album/7A3oBn1hSfPeRSDju4Xi6M) | 3:20 |
 | 52 | [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \(Jazz Version\)](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 |
 
-Snapshot ID: `AAAAADJAJsC8l8J7gOOKTd2KNompo6L1`
+Snapshot ID: `AAAAAFv1oboqSIWU3WheTZZu3Rsb3xBQ`

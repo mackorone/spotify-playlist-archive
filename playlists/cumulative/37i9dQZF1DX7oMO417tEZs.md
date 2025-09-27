@@ -2,9 +2,9 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> A curated space for the avant\-garde\. Cover: Blood Orange
+> A curated space for the avant\-garde\. Cover: Purity Ring
 
-1,690 songs - 3 day 20 hr 59 min
+1,691 songs - 3 day 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [AMBEYONCÉ \(feat\. Smino\)](https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 3:21 | 2022-07-01 | 2022-08-06 |
 | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5xlLG6RthtyXShVhGA3ojN) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2WMGh4pKjsJ21Jlj1DzT7c) | 4:20 | 2023-05-26 | 2023-06-03 |
 | [american food](https://open.spotify.com/track/0qQkMMD6jByWT2ACkybK6C) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/4v7JSI3wB8sO6IupN1RWrZ) | 3:11 | 2025-05-30 |  |
-| [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:49 | 2025-05-09 |  |
+| [Amiss](https://open.spotify.com/track/32MdMYrvkZR0UbipORYKYZ) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Amiss](https://open.spotify.com/album/4kbW4wRsOzRNBzP9gwSyMz) | 3:48 | 2025-05-09 |  |
 | [An Introduction](https://open.spotify.com/track/544zLRnG6aYLUWan8XWlkp) | [Mimo](https://open.spotify.com/artist/3eIJIZKEFoBYxr8A12M00k) | [An Introduction](https://open.spotify.com/album/2tWhEALTbr4KFkuI3TZ17d) | 2:26 | 2022-03-04 | 2022-05-07 |
 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 | 2022-02-18 | 2022-03-26 |
 | [Ando Em Círculos](https://open.spotify.com/track/0UCAZcLhQS9MuzbzGCbTnG) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [Vou Ficar Neste Quadrado](https://open.spotify.com/album/2PhGH5fdz5o8r0eyhVr9KT) | 2:46 | 2024-04-19 | 2024-06-15 |
@@ -661,7 +661,7 @@
 | [Has It Entered Your Mind?](https://open.spotify.com/track/3MsFikJC5uKiOGjYoTZe3M) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Hood Psychedelia](https://open.spotify.com/album/7qd2VQPDDeeNCrBTr17hd7) | 2:05 | 2025-02-28 | 2025-06-14 |
 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 | 2023-01-20 | 2023-05-27 |
 | [Haut Contre Bas](https://open.spotify.com/track/7gjy5JBi17p56khgO0fN6Z) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Rong Weicknes](https://open.spotify.com/album/6PPLCyHL015tBNHY0GQuc0) | 3:39 | 2024-10-25 | 2025-03-15 |
-| [Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hazel](https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw) | 3:49 | 2025-04-18 |  |
+| [Hazel](https://open.spotify.com/track/0TxdwIi3k1P35nHor7bDF5) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hazel](https://open.spotify.com/album/6ZkdrARpDzvDO58GgOsVmw) | 3:49 | 2025-04-18 | 2025-09-27 |
 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 | 2024-05-24 | 2024-08-10 |
 | [HEAD ABOVE WATER](https://open.spotify.com/track/3amoCECKyV529zHl0KIfcJ) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf) | [HEAD ABOVE WATER](https://open.spotify.com/album/6KewqkvNg6oU0JMM4oGMW7) | 2:04 | 2024-08-30 | 2025-01-11 |
 | [Head Space Freestyle](https://open.spotify.com/track/6gAjaV0vxSuKVw6DIuplvP) | [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab), [Temia](https://open.spotify.com/artist/1lNU1BvYhxDcUyXkgyUVMa) | [Head Space Freestyle](https://open.spotify.com/album/4pNVj7o6u8ol0UmQlHzJJa) | 1:49 | 2022-04-29 | 2022-06-04 |
@@ -1483,6 +1483,7 @@
 | [the life and death of a dog](https://open.spotify.com/track/2NLCeLeI1E4psDqwE7CZEX) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [harry houdini](https://open.spotify.com/album/42L1S5YuqINChXquOm1gKn) | 3:34 | 2024-02-23 | 2024-03-23 |
 | [the life and death of a dog](https://open.spotify.com/track/4s7KXWpEkoXky0RDNjAU6b) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/0qRK99XsBIF30KZauxq1vb) | 3:34 | 2023-10-20 | 2024-02-28 |
 | [The Local](https://open.spotify.com/track/3sWAonad48wm55cmQRjIZj) | [Eden Samara](https://open.spotify.com/artist/1qklkH19ML7oFa9IRbR6yi) | [The Local](https://open.spotify.com/album/6hSxj7BtaD76EmD5CLPfEW) | 4:11 | 2022-08-26 | 2022-12-17 |
+| [the long night](https://open.spotify.com/track/0CS4asinuJft3n2sE12zog) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [purity ring](https://open.spotify.com/album/3n0N3fSeIXDhMWSFtN2rX9) | 4:17 | 2025-09-26 |  |
 | [The Loop](https://open.spotify.com/track/0IqNIctRdh2N9OecaZTDDd) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Loop](https://open.spotify.com/album/2YHQXXuvlQ3AzQOj4NHjgF) | 4:01 | 2022-02-25 | 2022-04-02 |
 | [The Make Believe](https://open.spotify.com/track/0JpcQdQnDvAIhShz61N9jm) | [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [The Make Believe](https://open.spotify.com/album/12LEJQjLucN7zD2Uhx3EJq) | 3:17 | 2024-03-15 | 2024-04-13 |
 | [the moves](https://open.spotify.com/track/121Kzji5Fa2d1qUx7c5aDn) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [the moves](https://open.spotify.com/album/3ofgvl8eypgF4s6MTZLQkg) | 2:45 | 2023-06-02 | 2023-11-11 |

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 ### [Rock Rotation](https://open.spotify.com/playlist/37i9dQZF1DWZJhOVGWqUKF)
 
-> Sechs Saiten für ein Halleluja\. Cover: All Time Low
+> Sechs Saiten für ein Halleluja\. Cover: Indecent Behavior
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,871 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,799 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sick](https://open.spotify.com/track/2guYReSJVeGNXYx2aOFpkN) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [](https://open.spotify.com/album/null) | 2:48 |
-| 2 | [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [](https://open.spotify.com/album/null) | 3:09 |
+| 1 | [Sick](https://open.spotify.com/track/2guYReSJVeGNXYx2aOFpkN) | [Indecent Behavior](https://open.spotify.com/artist/7AHs1k8PtT8HRhFvNhOJRU) | [SICK](https://open.spotify.com/album/57Y1i4XY4oPkOHI9jGb0u8) | 2:48 |
+| 2 | [SIMULATION.EXE](https://open.spotify.com/track/53XmXYepLF0ac82AgxvSSo) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [ENTRY WOUNDS](https://open.spotify.com/album/3j0s7SQBbf9sZNqxkaGb4j) | 3:09 |
 | 3 | [Control](https://open.spotify.com/track/7KxLGAVUttZgVbFw4CTrQv) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Control](https://open.spotify.com/album/2AMNcEzhenq21VnZhg7Jse) | 4:11 |
 | 4 | [Don’t Let Me Down](https://open.spotify.com/track/4H1JIMTpgDtwo1Ln876RlK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Don’t Let Me Down](https://open.spotify.com/album/2knuzEl2xSGhUOPtuigl4R) | 3:30 |
 | 5 | [LIGHTS\_OUT](https://open.spotify.com/track/1pVk5QiXf7ry1wMuJuqjUo) | [H\-Blockx](https://open.spotify.com/artist/1V3Nl0Y3EZwqP38KHws6vB) | [LIGHTS\_OUT](https://open.spotify.com/album/5czPXogzCAHU8VOmRPwOqK) | 2:32 |

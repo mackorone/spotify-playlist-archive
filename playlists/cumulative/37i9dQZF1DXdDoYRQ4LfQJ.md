@@ -2,9 +2,9 @@
 
 ### [La Privada](https://open.spotify.com/playlist/37i9dQZF1DXdDoYRQ4LfQJ)
 
-> Al cien en la privada con Danny Felix, Juanchito & the hottest corridos in the U.S.
+> Al cien en la privada con Grupo Feroz  & the hottest corridos in the U.S.
 
-496 songs - 1 day 0 hr 55 min
+497 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [El Jelty](https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Jelty](https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE) | 3:09 | 2023-11-24 | 2024-02-24 |
 | [El Juanito Mentado](https://open.spotify.com/track/7EB818EcAOldfPIcHoXXB1) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Juanito Mentado](https://open.spotify.com/album/567xmf1JpMYHAEP4ohg6BK) | 2:20 | 2023-11-24 | 2024-02-24 |
 | [El Mas Buscado](https://open.spotify.com/track/0vtteN4GAHvd6XUQIpwzYI) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Mas Buscado](https://open.spotify.com/album/16MeKaH8tGMsB5CqfN5s5o) | 3:05 | 2023-09-08 | 2024-03-30 |
+| [El Matadore](https://open.spotify.com/track/464AVDOqzjMFSbjqbQU0PJ) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ), [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [El Matadore](https://open.spotify.com/album/0D6UklHPLjlyGS58kfL9IQ) | 3:04 | 2025-09-26 |  |
 | [El Matrix](https://open.spotify.com/track/5B3gw7EcyIODNP9K542xfl) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [El Matrix](https://open.spotify.com/album/4UwUyzqp8e5iqM8awTgHgU) | 2:30 | 2023-01-20 | 2023-02-11 |
 | [El Mayor de los Ranas](https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf), [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj) | [El Mayor de los Ranas](https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h) | 2:52 | 2024-12-06 |  |
 | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [El Mayor de los Ranas \(En Vivo\)](https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7) | 2:54 | 2025-03-21 |  |
@@ -310,7 +311,7 @@
 | [Lolo Felix](https://open.spotify.com/track/2JwztiYR35Y8Wvf8rwnQva) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/2HyeAaKO4nBWgT2pF3lWJo) | 3:35 | 2022-05-20 | 2022-07-29 |
 | [Los Botones Azules](https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 2:15 | 2022-05-20 |  |
 | [Los Brothers](https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers](https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH) | 3:33 | 2024-08-02 |  |
-| [Los Brothers 2](https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Los Brothers 2](https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK) | 3:58 | 2024-12-06 |  |
+| [Los Brothers 2](https://open.spotify.com/track/7dPDiPj1xUnS1xrwNXjzEi) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [Los Brothers 2](https://open.spotify.com/album/2FOV8v52MLEkebmMAgZuKK) | 3:58 | 2024-12-06 | 2025-09-27 |
 | [Los Collares](https://open.spotify.com/track/46FdwGMcgz6gik4RCpWBAW) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [Los Collares](https://open.spotify.com/album/1JKGaS4Mr4ZjFRlbDbAFzf) | 2:28 | 2022-10-21 |  |
 | [LOS CUADROS](https://open.spotify.com/track/41EOhpn50qvd8iZSKw531W) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [LOS CUADROS](https://open.spotify.com/album/1WIv1NHz49sR2TK9WKBUwz) | 2:40 | 2024-08-16 |  |
 | [Los Envidiosos](https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Los Envidiosos](https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL) | 3:01 | 2023-05-24 | 2023-08-27 |

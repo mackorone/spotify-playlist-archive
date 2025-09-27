@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Mon Laferte, Nathy Peluso
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid
 
 11,429 songs - 25 day 6 hr 0 min
 

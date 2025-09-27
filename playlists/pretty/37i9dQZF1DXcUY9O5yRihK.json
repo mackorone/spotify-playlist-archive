@@ -1,29 +1,13 @@
 {
-  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: dodie",
-  "num_followers": 181849,
+  "description": "Bossa nova vibes for the hopeless romantic daydreamers. Cover: Laufey",
+  "num_followers": 181894,
   "original_name": "bossa pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM9Px1JLaRvKi/uwJVtAo0X6ttqB",
+  "snapshot_id": "AAAAAAUOYPs8dimASnn6lakb3ibqYVEv",
   "tracks": [
-    {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "I Feel Bad For You, Dave",
-        "url": "https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 183035,
-      "name": "I Feel Bad For You, Dave",
-      "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
-    },
     {
       "added_at": "2025-06-27 04:00:41",
       "album": {
@@ -39,6 +23,42 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
+    },
+    {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "deja vu",
+        "url": "https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        },
+        {
+          "name": "Joe la panic",
+          "url": "https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat"
+        }
+      ],
+      "duration_ms": 163315,
+      "name": "deja vu (feat. Joe la panic)",
+      "url": "https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD"
+    },
+    {
+      "added_at": "2025-08-15 04:00:19",
+      "album": {
+        "name": "I Feel Bad For You, Dave",
+        "url": "https://open.spotify.com/album/07HWEYuBi9Ke7E2JzHk3ab"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 183035,
+      "name": "I Feel Bad For You, Dave",
+      "url": "https://open.spotify.com/track/6yf3Ncr7HXH3DeLR8yu8Tn"
     },
     {
       "added_at": "2025-09-12 04:00:17",
@@ -83,22 +103,6 @@
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
-    },
-    {
-      "added_at": "2025-05-09 04:00:03",
-      "album": {
-        "name": "table for two",
-        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 111319,
-      "name": "table for two",
-      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
       "added_at": "2025-03-21 04:00:41",
@@ -151,6 +155,22 @@
       "duration_ms": 176026,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
+    },
+    {
+      "added_at": "2024-12-13 05:00:09",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "added_at": "2025-04-10 16:07:04",
@@ -249,20 +269,20 @@
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
-      "added_at": "2024-12-13 05:00:09",
+      "added_at": "2025-05-09 04:00:03",
       "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+        "name": "table for two",
+        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+      "duration_ms": 111319,
+      "name": "table for two",
+      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
       "added_at": "2025-02-14 05:00:38",
@@ -1027,22 +1047,6 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2024-08-26 15:15:02",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 150519,
-      "name": "UNDERSTAND",
-      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
       "added_at": "2024-08-26 15:15:02",

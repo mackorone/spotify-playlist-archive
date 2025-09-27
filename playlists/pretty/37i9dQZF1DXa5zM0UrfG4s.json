@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116265,
+  "num_followers": 116278,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJg+i8vzPPTN5lWmq+0bntfavhco",
+  "snapshot_id": "AAAAADeJvL9F1Kf9/Eez2Vzyg+G19eKo",
   "tracks": [
     {
       "added_at": "2025-09-11 22:00:25",
@@ -363,6 +363,26 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
+        "name": "En d\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8rse",
+          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+        },
+        {
+          "name": "Madel\u00e9ne",
+          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
+        }
+      ],
+      "duration_ms": 157833,
+      "name": "En d\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
         "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
         "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "En d\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4Y2TYeSlK4dEM89Yece7dy"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
-        },
-        {
-          "name": "Madel\u00e9ne",
-          "url": "https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz"
-        }
-      ],
-      "duration_ms": 157833,
-      "name": "En d\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/1yO0uF7h54wlwKvc4rjwi5"
     },
     {
       "added_at": "2025-09-11 22:00:25",
@@ -823,6 +823,26 @@
     {
       "added_at": "2025-09-11 22:00:25",
       "album": {
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
+    },
+    {
+      "added_at": "2025-09-11 22:00:25",
+      "album": {
         "name": "Hopp inn i kjerra",
         "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
-    },
-    {
-      "added_at": "2025-09-11 22:00:25",
-      "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2025-09-11 22:00:25",

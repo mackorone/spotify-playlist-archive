@@ -1,13 +1,45 @@
 {
   "description": "The best of modern blues rock. Cover: Robert Randolph",
-  "num_followers": 245584,
+  "num_followers": 245679,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAExrqyqXgtPgG71r7uFn8yK50gIg",
+  "snapshot_id": "AAAAADNq/6JyG6BQn/o14zhz5opb/lIt",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:30",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp"
+      },
+      "artists": [
+        {
+          "name": "Foreign Affairs",
+          "url": "https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Evel Knievel",
+      "url": "https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY"
+    },
+    {
+      "added_at": "2025-09-26 04:00:30",
+      "album": {
+        "name": "Straight to It",
+        "url": "https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt"
+      },
+      "artists": [
+        {
+          "name": "The Zac Schulze Gang",
+          "url": "https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS"
+        }
+      ],
+      "duration_ms": 120994,
+      "name": "Running Dry",
+      "url": "https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt"
+    },
     {
       "added_at": "2025-09-05 04:00:01",
       "album": {
@@ -151,22 +183,6 @@
       "duration_ms": 250453,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/7AuyKST1ulHhDBqfXkqSF9"
-    },
-    {
-      "added_at": "2025-05-02 04:00:18",
-      "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/4gW6izJaZ5YEzsamZTv5df"
-      },
-      "artists": [
-        {
-          "name": "Foreign Affairs",
-          "url": "https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0"
     },
     {
       "added_at": "2025-05-30 04:00:15",
@@ -943,26 +959,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/6CBRLsIvAeKj1MiPhHnPO9"
-    },
-    {
-      "added_at": "2020-10-16 04:02:00",
-      "album": {
-        "name": "Good for Sumthin'",
-        "url": "https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "Zakk Wylde",
-          "url": "https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny"
-        }
-      ],
-      "duration_ms": 326013,
-      "name": "Steep Climb",
-      "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
     },
     {
       "added_at": "2021-06-18 04:01:00",

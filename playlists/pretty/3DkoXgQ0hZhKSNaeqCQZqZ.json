@@ -1,13 +1,29 @@
 {
   "description": "Made for furs, by furs.  Check out FurryRadio.com",
-  "num_followers": 712,
+  "num_followers": 713,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEBlZtcNwYKJ91ImWymwaxlrbcTa3o",
+  "snapshot_id": "AAAEB+IauKr0YT/cr/cCpLwMkLxhizLx",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:53:01",
+      "album": {
+        "name": "I cant stop making mistakes",
+        "url": "https://open.spotify.com/album/68mFu6qBeVMEXtf1KPoSEo"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "I cant stop making mistakes",
+      "url": "https://open.spotify.com/track/6iD8XQ4eVCZG4OouuTsKHY"
+    },
     {
       "added_at": "2025-09-22 20:12:06",
       "album": {

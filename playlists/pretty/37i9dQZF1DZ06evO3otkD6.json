@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 86205,
+  "num_followers": 86244,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAACOoqy6OM6b9XF9O0ALqBa5",
+  "snapshot_id": "aNSGAAAAAABbC2jVCpU/hFNuJXDXxDsU",
   "tracks": [
     {
       "added_at": null,
@@ -24,13 +24,21 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
+          "name": "Mariana Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
+        },
+        {
+          "name": "Diana Bovio",
+          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
+        },
+        {
           "name": "Regina Bland\u00f3n",
           "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 168140,
-      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
-      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
+      "duration_ms": 161200,
+      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
+      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
     },
     {
       "added_at": null,
@@ -112,21 +120,13 @@
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         },
         {
-          "name": "Mariana Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM"
-        },
-        {
-          "name": "Diana Bovio",
-          "url": "https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp"
-        },
-        {
           "name": "Regina Bland\u00f3n",
           "url": "https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Cuando Baja La Marea (feat. Regina Bland\u00f3n)",
-      "url": "https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx"
+      "duration_ms": 168140,
+      "name": "Amiga M\u00eda, Ese hombre No Se Toca",
+      "url": "https://open.spotify.com/track/16X0smxpR6F0BjZeY7f2FF"
     },
     {
       "added_at": null,

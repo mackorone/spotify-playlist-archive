@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-685 songs - 1 day 12 hr 21 min
+686 songs - 1 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,7 @@
 | [MWA! \- English Version](https://open.spotify.com/track/5vnDIS4pm26ZoRDVlDjbNu) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 | 2025-06-12 | 2025-06-16 |
 | [My Calling](https://open.spotify.com/track/5aIqSdUGrgkpmx4IY99g4p) | [SONIQUE](https://open.spotify.com/artist/4aEmFQl0nUAtz6Rb0QreCB) | [My Calling](https://open.spotify.com/album/4ZtGUVXuRQv5Q9d2L9OLzB) | 3:31 | 2025-03-13 | 2025-03-21 |
 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 | 2025-04-24 |  |
-| [Nauseous](https://open.spotify.com/track/0u1jUuJRzQfsfukx9Jvc9G) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 3:43 | 2025-08-21 |  |
+| [Nauseous](https://open.spotify.com/track/0u1jUuJRzQfsfukx9Jvc9G) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/6xg3zSgRcJDnPagx8cmXeA) | 3:43 | 2025-08-21 | 2025-09-27 |
 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 | 2024-08-09 | 2024-08-24 |
 | [need dat boy](https://open.spotify.com/track/0qpakVB2d3MDiqZd8RUaQy) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [need dat boy](https://open.spotify.com/album/4qzWsMI3bGG5RiZejAvwGa) | 2:52 | 2024-11-22 | 2024-11-29 |
 | [New Light](https://open.spotify.com/track/3yyscCaSaB5QpwpiGqQf7Z) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [New Light](https://open.spotify.com/album/3NLGIpo033W3CLCLzbxesT) | 2:35 | 2025-03-13 | 2025-04-18 |
@@ -453,6 +453,7 @@
 | [Peruse](https://open.spotify.com/track/57xnZEJ628JGjU8MHzIFWv) | [James Deacon](https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx) | [Peruse](https://open.spotify.com/album/0RBCYUz7zfQYC6lEUjBR9r) | 3:00 | 2024-11-21 | 2025-01-31 |
 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 | 2025-03-20 | 2025-05-23 |
 | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Physical \(feat\. Troye Sivan\)](https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7) | 3:12 | 2025-03-27 | 2025-04-04 |
+| [Pity Party Princess](https://open.spotify.com/track/1Sk1xlCDUwUplLatU0MWRa) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Honeymoon In A Motel](https://open.spotify.com/album/3eRKBboz0GSShr4JGRmzl7) | 2:50 | 2025-09-26 |  |
 | [plastic heart](https://open.spotify.com/track/7kwbgQiNo5mQJYjaI43AbW) | [moya & iona](https://open.spotify.com/artist/4bRAmuTOk13gZtO96lagPI) | [plastic heart](https://open.spotify.com/album/0c1ia4VJzSMfJkYC1KcbPm) | 3:42 | 2025-07-10 | 2025-07-18 |
 | [Plasticine](https://open.spotify.com/track/18L1aGbJenvVoDsXyv85NO) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Don't Tell The Dog](https://open.spotify.com/album/2da40GDH3ygPRRoJc8n7WG) | 3:02 | 2025-06-20 | 2025-07-04 |
 | [Playing House](https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Playing House](https://open.spotify.com/album/6asLr7iRg5ruj1vatTv75u) | 3:38 | 2025-07-10 | 2025-08-15 |

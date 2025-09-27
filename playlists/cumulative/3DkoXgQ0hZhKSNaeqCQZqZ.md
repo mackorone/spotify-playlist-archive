@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-393 songs - 20 hr 52 min
+394 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [hypocritical](https://open.spotify.com/track/58f6bAoJSqI2NEX4CoxXIX) | [alexx](https://open.spotify.com/artist/0AmAHEoSgWULygymmiY5AI), [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns) | [hypocritical](https://open.spotify.com/album/7DzdKS6XsTLYcmnrmzVdLs) | 3:50 | 2024-04-12 |  |
 | [I Bite Back \(with Ck9c\)](https://open.spotify.com/track/2WVwBNtzstVflbwYQukU3A) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 3:07 | 2023-06-14 |  |
 | [I Can't Do This Alone](https://open.spotify.com/track/1zP3aiQ7BdXe0Ker13w5vk) | [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [SpinScissor](https://open.spotify.com/artist/0ON8uLVnHbFU033CCU5oMn) | [I Can't Do This Alone](https://open.spotify.com/album/2OTBhxaYC58OhmxpHlmw9i) | 3:15 | 2025-02-22 |  |
+| [I cant stop making mistakes](https://open.spotify.com/track/6iD8XQ4eVCZG4OouuTsKHY) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [I cant stop making mistakes](https://open.spotify.com/album/68mFu6qBeVMEXtf1KPoSEo) | 1:44 | 2025-09-26 |  |
 | [I Don't Need Love](https://open.spotify.com/track/6UbEBm0sFHunsjZ7KCjTXR) | [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [I Don't Need Love](https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF) | 4:56 | 2023-06-14 |  |
 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 | 2024-11-18 |  |
 | [I DONT UNDERSTAND](https://open.spotify.com/track/74KNOo0ILoRMyD7NT5gDgy) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU), [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [I DONT UNDERSTAND](https://open.spotify.com/album/0XZN4GHwWZGy0oIz49oVu0) | 3:08 | 2025-01-30 |  |

@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Post Traumatic",
+        "url": "https://open.spotify.com/album/3xdlCzNYHfEiXnUyWWyAVT"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/2j0WH9z6fLsz2Wcel52qFu"
+    },
+    {
+      "album": {
         "name": "Body & A Face",
         "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of today's funk. Cover: TWRP",
+  "description": "The best of today's funk. Cover: MonoNeon",
   "name": "Nu-Funk",
   "tracks": [
     {
@@ -5587,6 +5587,28 @@
     },
     {
       "album": {
+        "name": "Love Me Wrong",
+        "url": "https://open.spotify.com/album/5MMQpizyx9ClTsKTvtNZ8o"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Love Me Wrong",
+      "url": "https://open.spotify.com/track/0cKfcQ3ovHdK4hKMsPx7Yk"
+    },
+    {
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/2OtqYv9drYUxpKV1gpX67l"
       },
@@ -8072,7 +8094,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196488,
       "name": "Something",
       "url": "https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL"

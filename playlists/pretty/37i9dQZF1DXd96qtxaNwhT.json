@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 303127,
+  "num_followers": 303130,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-09-16 14:00:29",
       "album": {
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/4IXp95i53zj8l0YPoCWdxu"
+      },
+      "artists": [
+        {
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
+        }
+      ],
+      "duration_ms": 221405,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3QLgzA5l763xGxsOyz0vrS"
+    },
+    {
+      "added_at": "2025-09-16 14:00:29",
+      "album": {
         "name": "Songs I Cry 2",
         "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 287567,
       "name": "Kissing In Swimming Pools",
       "url": "https://open.spotify.com/track/0JJh7LqfSiVfDrrDwcEQJL"
-    },
-    {
-      "added_at": "2025-09-16 14:00:29",
-      "album": {
-        "name": "ONLY U",
-        "url": "https://open.spotify.com/album/4IXp95i53zj8l0YPoCWdxu"
-      },
-      "artists": [
-        {
-          "name": "Newport",
-          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
-        }
-      ],
-      "duration_ms": 221405,
-      "name": "ONLY U",
-      "url": "https://open.spotify.com/track/3QLgzA5l763xGxsOyz0vrS"
     }
   ],
   "unique_name": "Peaceful Pop",

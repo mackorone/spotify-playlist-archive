@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Irina Barros",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Soraia Ramos",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 211584,
       "name": "Buqu\u00ea",
       "url": "https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7"
@@ -3918,7 +3918,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 183370,
       "name": "Ficar a S\u00f3s",
       "url": "https://open.spotify.com/track/7mNlozzjjd83cjpRSRAmvS"
@@ -7422,7 +7422,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 207445,
       "name": "O Avi\u00e3ozinho Caiu (Aviator)",
       "url": "https://open.spotify.com/track/0mIyyJXFkpx7HIziNmNCJ3"
@@ -8439,6 +8439,28 @@
     },
     {
       "album": {
+        "name": "Quando Pensares",
+        "url": "https://open.spotify.com/album/0X04t5Tczk36JXEP2tdsvZ"
+      },
+      "artists": [
+        {
+          "name": "Dj Ademar",
+          "url": "https://open.spotify.com/artist/1cvPuORQS4Mihsv28cWjpX"
+        },
+        {
+          "name": "Cl\u00e1udio Ismael",
+          "url": "https://open.spotify.com/artist/287nKIu1UFNmscoOpyEg7k"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Quando Pensares",
+      "url": "https://open.spotify.com/track/05XQOavWYCIZH8B32iDDSc"
+    },
+    {
+      "album": {
         "name": "Quarentena",
         "url": "https://open.spotify.com/album/5xF9ik5Js3DYa4oblbQU0h"
       },
@@ -9327,6 +9349,28 @@
     },
     {
       "album": {
+        "name": "So Teu",
+        "url": "https://open.spotify.com/album/6T0xrF62p62EBsfG2PrQh4"
+      },
+      "artists": [
+        {
+          "name": "Skuco",
+          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
+        },
+        {
+          "name": "Tony Z",
+          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190721,
+      "name": "So Teu",
+      "url": "https://open.spotify.com/track/2skqafQ3n99OGN3StDWZS1"
+    },
+    {
+      "album": {
         "name": "Sodadi Bo",
         "url": "https://open.spotify.com/album/6NwZfTWURa1MQB0afWQkPb"
       },
@@ -9868,6 +9912,28 @@
       "duration_ms": 213948,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy"
+    },
+    {
+      "album": {
+        "name": "Te Amo Meu Beb\u00ea",
+        "url": "https://open.spotify.com/album/3bQUfrHNJGs6tbrv1Ps4lF"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        },
+        {
+          "name": "Kizomba da Boa",
+          "url": "https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253799,
+      "name": "Te Amo Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/1pFD26mT7p5bE0J6uzOhld"
     },
     {
       "album": {

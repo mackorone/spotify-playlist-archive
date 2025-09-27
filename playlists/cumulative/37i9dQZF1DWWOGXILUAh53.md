@@ -2,7 +2,7 @@
 
 ### [New Dance Pop](https://open.spotify.com/playlist/37i9dQZF1DWWOGXILUAh53)
 
-> The hottest new pop with all the drops\. Cover: Demi Lovato
+> The hottest new pop with all the drops\. Cover: Madison Beer
 
 1,736 songs - 3 day 12 hr 50 min
 

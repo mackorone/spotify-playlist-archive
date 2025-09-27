@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > They call him Mr\. Saturday Night...
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,807 likes - 94 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,805 likes - 94 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

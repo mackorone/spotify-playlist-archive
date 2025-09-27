@@ -1,13 +1,29 @@
 {
-  "description": "Jazz voices of today. Cover: Rachael & Vilray",
-  "num_followers": 160584,
+  "description": "Jazz voices of today. Cover: Samara Joy",
+  "num_followers": 160612,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHje5tBilqnqJZ1bWBIymzgJZVp9",
+  "snapshot_id": "AAAAAFPgpJ21fSRABso/4rmXuLg/cTF5",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "Three Little Words",
+        "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
+    },
     {
       "added_at": "2025-09-19 04:00:09",
       "album": {
@@ -47,6 +63,42 @@
       "duration_ms": 202056,
       "name": "Just Wait A Minute",
       "url": "https://open.spotify.com/track/2XBcAlAlbXsx13Q4Czs6cG"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/5xEQG4xagkE1zCBIHcG9CO"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 286398,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4"
+    },
+    {
+      "added_at": "2025-09-26 04:00:27",
+      "album": {
+        "name": "All I Ever Needed",
+        "url": "https://open.spotify.com/album/4XXYuQy4Mjl6BMlJqvLO28"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "All I Ever Needed",
+      "url": "https://open.spotify.com/track/4SayifPw2LFaHxGCzIuJKv"
     },
     {
       "added_at": "2025-09-12 04:00:27",
@@ -877,22 +929,6 @@
       "url": "https://open.spotify.com/track/2YVCAhio5l6KdLvh6jg1mP"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Portrait",
-        "url": "https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 346133,
-      "name": "No More Blues",
-      "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Your Love Is Home",
@@ -1649,38 +1685,6 @@
       "url": "https://open.spotify.com/track/6kXF7Mhr3HaIvkPo3h3dOs"
     },
     {
-      "added_at": "2024-01-26 05:01:00",
-      "album": {
-        "name": "East Coast Jazz",
-        "url": "https://open.spotify.com/album/4EbfwbnUU2NIipF7e33KXP"
-      },
-      "artists": [
-        {
-          "name": "Casey Abrams",
-          "url": "https://open.spotify.com/artist/1UxNUybRFdtksz3l5HtCEG"
-        },
-        {
-          "name": "Haus Music",
-          "url": "https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6"
-        },
-        {
-          "name": "Jesse Elder",
-          "url": "https://open.spotify.com/artist/5UmUEjkHl71LqO86BUSS3S"
-        },
-        {
-          "name": "Dave Tedeschi",
-          "url": "https://open.spotify.com/artist/5OwYNOuH4Cg597HGC7tFW5"
-        },
-        {
-          "name": "Kyle Morgan",
-          "url": "https://open.spotify.com/artist/73TllQfqNxBh5xit8niVyo"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Stuck In London",
-      "url": "https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU"
-    },
-    {
       "added_at": "2024-02-09 05:01:00",
       "album": {
         "name": "Oh Mother",
@@ -1827,22 +1831,6 @@
       "duration_ms": 136725,
       "name": "Sad to Say - Snapshot - vocal theme",
       "url": "https://open.spotify.com/track/1A1VctouaYYVxnyz1IYLuB"
-    },
-    {
-      "added_at": "2024-01-19 05:01:00",
-      "album": {
-        "name": "Stop This World",
-        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Stop This World",
-      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
     },
     {
       "added_at": "2024-02-16 05:01:00",

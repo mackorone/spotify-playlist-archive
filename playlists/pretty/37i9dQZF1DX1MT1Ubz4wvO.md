@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 ### [Novedades Rock](https://open.spotify.com/playlist/37i9dQZF1DX1MT1Ubz4wvO)
 
-> Todas las semanas los nuevos lanzamientos de rock en español, con Mi  Compa el Chino y El Vermucito en portada.
+> Todas las semanas los nuevos lanzamientos de rock en español 📸 Usted Señalemelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,087 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,127 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Madre](https://open.spotify.com/track/76TQB0pZ5NRXaFlfu3j9fc) | [Alto Grado](https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH) | [Madre](https://open.spotify.com/album/4OeexwcwuZPlHt3KddX6CO) | 3:53 |
 | 50 | [Benito el aparejador](https://open.spotify.com/track/6i8ZEKYyMjSIIptOea9EBq) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [Benito el aparejador](https://open.spotify.com/album/4nBWA6NMAHZhzAfIulGWse) | 2:20 |
 
-Snapshot ID: `AAAAAFpivydfPoU5xiZWI8j3c5k+Jffx`
+Snapshot ID: `AAAAAF0GWwcpGyA7USEpoI9dVItPceQ0`

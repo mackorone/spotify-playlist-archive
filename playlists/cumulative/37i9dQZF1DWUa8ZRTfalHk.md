@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> Who's now and next in pop\. Cover: Madison Beer
+> Who's now and next in pop\. Cover: Zara Larsson
 
 2,706 songs - 5 day 19 hr 54 min
 

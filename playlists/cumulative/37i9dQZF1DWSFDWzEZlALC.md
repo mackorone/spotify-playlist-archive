@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kraftklub, Domiziana
 
-1,422 songs - 2 day 18 hr 58 min
+1,422 songs - 2 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Betäub mich](https://open.spotify.com/track/2Qdgf2Cc3BjlfBdtnQtIFf) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 3:14 | 2023-02-02 | 2023-05-05 |
 | [Bevor du gehst](https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Bevor du gehst](https://open.spotify.com/album/3dGyFFDATPwEq64fXekZ7Z) | 2:35 | 2024-05-16 | 2024-09-20 |
 | [Bialetti](https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Bialetti](https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE) | 3:32 | 2023-04-13 | 2023-05-12 |
+| [Bin nicht verantwortlich für dich](https://open.spotify.com/track/3akDRulHPpIlDseXxUxdWr) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Kommt von Herzen](https://open.spotify.com/album/3iSXIrFDaqs0bokKlAVX1X) | 3:06 | 2025-09-25 |  |
 | [Bitte Bitte](https://open.spotify.com/track/1jeFAGnFiB961m9IrLhnLg) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Bitte Bitte](https://open.spotify.com/album/0ZjjSQNPUwuzbxGv7VOiQf) | 3:42 | 2023-05-04 | 2023-07-21 |
 | [Bitte bitte](https://open.spotify.com/track/2HFJTmLp6c5IMqke5i67w7) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Bitte bitte](https://open.spotify.com/album/4dQm9pDGpfFW3p4KwMhk24) | 2:29 | 2025-01-30 | 2025-05-30 |
 | [Bitte komm, Bitte geh](https://open.spotify.com/track/6IOifOXzyk7dibljggIwhb) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Bitte komm, Bitte geh](https://open.spotify.com/album/1qFVEnB2k9GpA1lnx61YSk) | 2:25 | 2025-01-30 | 2025-02-21 |
@@ -1206,7 +1207,6 @@
 | [Tommy Coconut](https://open.spotify.com/track/1KvOCjy58FvriaXSiksZt8) | [Kobrakasino](https://open.spotify.com/artist/2MG7B6nkAdghlcsmSs5DNb) | [Tommy Coconut](https://open.spotify.com/album/6C05tWBeO5QXisbDXuRD0e) | 3:30 | 2024-06-20 | 2024-06-28 |
 | [Toskana](https://open.spotify.com/track/5NOoDGg7oeM9MS7nTyM4Yf) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA) | [Toskana](https://open.spotify.com/album/0BmFwlbQWwHuW8E3w2sXCj) | 3:32 | 2023-05-04 | 2023-06-16 |
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-11-03 |
-| [Track 11](https://open.spotify.com/track/3akDRulHPpIlDseXxUxdWr) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-08 | 2024-09-27 |
 | [Traum ist aus](https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC) | [Soeckers](https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12) | [Bis nach Tokio](https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v) | 2:48 | 2024-05-23 | 2024-06-07 |
 | [Traumfrau](https://open.spotify.com/track/56Xl3GghpULu6GUeKnUkwq) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Traumfrau](https://open.spotify.com/album/0UTRKkM5FlbYi3xJVkV1Fc) | 2:11 | 2025-02-13 | 2025-02-15 |

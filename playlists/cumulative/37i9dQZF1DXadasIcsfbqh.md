@@ -2,7 +2,7 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Dasha
+> Pop country hits of today and tomorrow\. Cover: Cameron Whitcomb
 
 341 songs - 17 hr 42 min
 

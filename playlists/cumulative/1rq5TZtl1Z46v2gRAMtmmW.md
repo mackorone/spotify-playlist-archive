@@ -4,7 +4,7 @@
 
 > 
 
-452 songs - 1 day 6 hr 0 min
+453 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 | 2022-06-28 | 2023-05-19 |
 | [Mesa Mesa](https://open.spotify.com/track/1msa48qu8yDKW3KKza18Nk) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Mesa Mesa](https://open.spotify.com/album/1etDO8SYGuooX7uNrZy6w9) | 4:56 | 2025-09-09 |  |
 | [Method Actor](https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Method Actor](https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE) | 3:51 | 2024-06-10 | 2024-09-12 |
+| [Mind Off](https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Mind Off](https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp) | 3:32 | 2025-09-26 |  |
 | [More](https://open.spotify.com/track/0udrRKq9AIymrp1OJJbQes) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [More](https://open.spotify.com/album/4OIdvBzdQNmzqZOYZ7dHJ4) | 3:08 | 2025-09-18 |  |
 | [more soul](https://open.spotify.com/track/6n8cm6hPcYMYOUtdIjDkSC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [TRUE MAGIC, DELUXE](https://open.spotify.com/album/5tagdDmG4ZUUSYqSNXQsl1) | 4:17 | 2025-07-18 |  |
 | [Motorway](https://open.spotify.com/track/7LvrMSPnW345xGt48D4D6X) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d) | [Lorings](https://open.spotify.com/album/61edjeTzA9eXBLQ1JxyJFI) | 1:48 | 2025-04-25 | 2025-09-18 |

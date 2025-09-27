@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,680 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,654 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 122 | [Stranger to My Happiness](https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Give the People What They Want](https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf) | 3:31 |
 | 123 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 |
 | 124 | [Canola Fields](https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Canola Fields](https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue) | 4:49 |
-| 125 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
-| 126 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 |
+| 125 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 |
+| 126 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 | 127 | [The City of New Orleans \- Original Version](https://open.spotify.com/track/7jbb0XkDk6cuif7AVu3gdW) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Hobo's Lullaby \(remastered 2004\)](https://open.spotify.com/album/513P0CXEvPuSG4MCOGHt0y) | 4:34 |
 | 128 | [The Muse](https://open.spotify.com/track/2WKY4USjFOT36XpRD8SD6X) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 3:21 |
 | 129 | [Frankie Please](https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) | 2:43 |

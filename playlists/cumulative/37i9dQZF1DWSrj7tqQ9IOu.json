@@ -8645,6 +8645,24 @@
     },
     {
       "album": {
+        "name": "Nuit infinie",
+        "url": "https://open.spotify.com/album/1PWuT3PMla7PAnscyX1svZ"
+      },
+      "artists": [
+        {
+          "name": "Lulu Gainsbourg",
+          "url": "https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251773,
+      "name": "Nuit Infinie",
+      "url": "https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi"
+    },
+    {
+      "album": {
         "name": "Nuit sauvage",
         "url": "https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw"
       },
@@ -12151,64 +12169,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Oscar Anton",
-          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Lulu Gainsbourg",
-          "url": "https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6FWEN86RcumB1L3gFuShPi"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Shaga",
-          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
-        },
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx"
-    },
-    {
-      "album": {
         "name": "Hydranism",
         "url": "https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte"
       },
@@ -12626,6 +12586,28 @@
       "duration_ms": 194767,
       "name": "Vendredi",
       "url": "https://open.spotify.com/track/4t4yg2KLRIJtM4dzU277LW"
+    },
+    {
+      "album": {
+        "name": "Grand gar\u00e7on",
+        "url": "https://open.spotify.com/album/2AK7nqCqZF8KoE1tidTKB8"
+      },
+      "artists": [
+        {
+          "name": "Shaga",
+          "url": "https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR"
+        },
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203708,
+      "name": "Venise",
+      "url": "https://open.spotify.com/track/42G3Qg8udxYxm0Q6Ts9iJx"
     },
     {
       "album": {
@@ -13214,6 +13196,24 @@
       "duration_ms": 234500,
       "name": "Won't Come Back",
       "url": "https://open.spotify.com/track/2hVlC00xvotAc43P4fbfJq"
+    },
+    {
+      "album": {
+        "name": "Archwood (the playlist)",
+        "url": "https://open.spotify.com/album/3wvpoyNZog5TJ2RxK4euJz"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149546,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/6nu3IwpAso6DJT3bXDwEiW"
     },
     {
       "album": {

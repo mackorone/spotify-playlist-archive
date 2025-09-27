@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Mombojó
 
-796 songs - 1 day 21 hr 16 min
+797 songs - 1 day 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -702,6 +702,7 @@
 | [Tirolirole](https://open.spotify.com/track/2xJrDU7mL8LwzCKISGXYPN) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [Tirolirole](https://open.spotify.com/album/127vWtIY7ifAeFWhIhpgPW) | 3:01 | 2023-11-17 | 2024-04-08 |
 | [Tirolirole](https://open.spotify.com/track/3ByPnYe3VB9nnR8ID3Nvtt) | [Bruno Berle](https://open.spotify.com/artist/6wUEejDd6aQJtchKP5c7Q0) | [No Reino Dos Afetos 2](https://open.spotify.com/album/3rxsQARg1OiAIyDbEmgCy3) | 3:01 | 2024-04-05 | 2024-04-19 |
 | [Toada](https://open.spotify.com/track/0GxfG9JaeNHQxG227cGZxx) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Toada](https://open.spotify.com/album/6prDRGrGx8zpPas0p5OPqy) | 2:51 | 2024-07-05 | 2024-08-24 |
+| [Toda esfera](https://open.spotify.com/track/1ZTrlN4pjVEMBoafchACc3) | [FOTO EM GRUPO](https://open.spotify.com/artist/13Yv9pKK4blQ7HbTDeNNIq) | [Toda esfera](https://open.spotify.com/album/4hAbx7wgmY0FeBeXEOdK7G) | 3:10 | 2025-09-26 |  |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 | 2022-04-29 |
 | [Todacor](https://open.spotify.com/track/1TDkr2o27LFZXU9pYzGCz2) | [Chico Bernardes](https://open.spotify.com/artist/1yfkdkJduKGUIgkFR6Qjs0) | [Todacor](https://open.spotify.com/album/3HVQ90NJxJMGBj0nAZh9qs) | 4:17 | 2024-06-07 | 2024-11-30 |
 | [todo dia](https://open.spotify.com/track/7bsUJaVCGb4JpBji9gpbB8) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [natural](https://open.spotify.com/album/3JZZxtRlX16JGi8y1V2Ffu) | 3:40 | 2025-03-14 | 2025-09-13 |
@@ -709,7 +710,7 @@
 | [Todo Dia É De Mudanca](https://open.spotify.com/track/5rYNNP09GB18zTmcNMHVya) | [Garotas Suecas](https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd) | [1 2 3 4](https://open.spotify.com/album/3OV2o4Fy4cgTWyJYCzF1dF) | 3:05 | 2023-07-21 | 2023-12-09 |
 | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/track/5mJkZF1s8A068yo7AqD7oT) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Todo Mundo \(Menos Eu\)](https://open.spotify.com/album/3Y69xn0j0ItsAaZvjzNo4U) | 2:06 | 2022-09-09 | 2022-12-24 |
 | [Todos os Santos Permitidos](https://open.spotify.com/track/5DNVjqXcg5P4S6dfNweHgm) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr), [FRANSIA](https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7) | [Todos os Santos Permitidos](https://open.spotify.com/album/2kaSJHJhyXtpbaEDfakU1S) | 2:39 | 2024-01-12 | 2024-05-11 |
-| [Tontom Perigosa](https://open.spotify.com/track/1YawOq4OjvLRbEmno5lnXM) | [Tontom](https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV) | [Mania 2000](https://open.spotify.com/album/3vAgUo1miPIbN2EBRlZbEm) | 3:36 | 2024-09-13 |  |
+| [Tontom Perigosa](https://open.spotify.com/track/1YawOq4OjvLRbEmno5lnXM) | [Tontom](https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV) | [Mania 2000](https://open.spotify.com/album/3vAgUo1miPIbN2EBRlZbEm) | 3:36 | 2024-09-13 | 2025-09-27 |
 | [Trabalhar na MTV](https://open.spotify.com/track/3gTjKo4KRxQoBnN3Xpbjs9) | [perdido](https://open.spotify.com/artist/1CBoy9bj9uDO0dGIiyz8dp), [Pullovers](https://open.spotify.com/artist/1ZsvMFESteQsWl6wx4GXqE) | [Trabalhar na MTV](https://open.spotify.com/album/0ShffzuYbSIJGLovvcoPoX) | 2:18 | 2023-06-09 | 2023-10-14 |
 | [Trago](https://open.spotify.com/track/5CugcQd5Dw8bIP9htahvik) | [TRAGO](https://open.spotify.com/artist/6dQH0tJhjUbIjsGqar870C), [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Gustavo Ruiz](https://open.spotify.com/artist/7DWwtWoYH8jhf28tq3118m), [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Rodrigo Brandão](https://open.spotify.com/artist/2BfrTyWNSlsikzXT4KCLsa), [Alexandre Orion](https://open.spotify.com/artist/6P3Qu1SwfnnC9daKX95b4P), [Rica Amabis](https://open.spotify.com/artist/7b77J8nz19BLgFq6F2M4QM) | [TRAGO](https://open.spotify.com/album/33se7NxxEuJit5KbJW7GAQ) | 2:49 | 2024-06-28 | 2025-02-01 |
 | [Transtornos](https://open.spotify.com/track/57FgLEK6p7HdNXitdxfVSW) | [Pedro Bala e Os Holofotes](https://open.spotify.com/artist/3IVu27tS3rMSVzmhaJcZO8) | [Transtornos](https://open.spotify.com/album/2abVnlYhTgRubzTKcEOvHa) | 3:19 | 2022-04-01 | 2022-05-20 |

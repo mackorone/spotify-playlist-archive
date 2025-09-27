@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,018 songs - 1 day 20 hr 10 min
+1,020 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Feel Invisible](https://open.spotify.com/track/4788vVadOEMH5pSoX6ZnEk) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Feel Invisible](https://open.spotify.com/album/2Lv35h237ZtcHaBvY3GL8c) | 2:43 | 2023-11-22 | 2023-12-30 |
 | [Feel Like It](https://open.spotify.com/track/6vej5gKy4oOEXQvovSZA6P) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Feel Like It](https://open.spotify.com/album/1KidEC954PkrMmsD1ZOL43) | 2:20 | 2025-03-02 | 2025-03-24 |
 | [Feel So Close](https://open.spotify.com/track/2JWk1PJsWK6ypGSffvVKZU) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [harley.](https://open.spotify.com/artist/1JNdpn1AAnBqtvRqZ13hic) | [Feel So Close](https://open.spotify.com/album/00bzQoWMgkanurn3QPwXug) | 1:51 | 2024-06-16 |  |
+| [Feel You](https://open.spotify.com/track/4YN1eQ3CRocHOOsMkiO0KD) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Vitaly Gray](https://open.spotify.com/artist/3QBNeSuKgHx3rMcuqnASk8) | [Feel You](https://open.spotify.com/album/32QJ4svFB7JHuewAiDRckF) | 2:52 | 2025-09-26 |  |
 | [Feelin'](https://open.spotify.com/track/3kJZ09ZjKL8SQPHmMt0KN3) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ) | [Feelin'](https://open.spotify.com/album/2aWBbPqYzH3ji6JGRedEya) | 2:15 | 2025-09-21 |  |
 | [Feelings](https://open.spotify.com/track/13Avv9lg39BbEhyeSmC3J9) | [Pablo Leo](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9) | [Feelings](https://open.spotify.com/album/2NIxKRTWylL6YQaRsuOXfy) | 2:20 | 2023-12-04 | 2025-06-30 |
 | [Feels Like Home](https://open.spotify.com/track/1CkCxtFAJ4GWMEQ9eXkFEg) | [Tom Kha](https://open.spotify.com/artist/7Jx4jOIIdp8GeoR2sA32fY) | [Feels Like Home](https://open.spotify.com/album/7h7rtAWyHRapZEKACglLfg) | 2:28 | 2025-01-16 | 2025-03-23 |
@@ -321,6 +322,7 @@
 | [Good Riddance \(Time of Your life\)](https://open.spotify.com/track/20EJtity8DbJwFTYZ9Vrma) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Badjack](https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM) | [Good Riddance \(Time of Your life\)](https://open.spotify.com/album/64qq8AP7r60pq6KwNs4JQK) | 1:54 | 2023-09-22 | 2024-02-03 |
 | [Good Things](https://open.spotify.com/track/5qxmfMF4TLYxQcGqQvkhW6) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Good Things](https://open.spotify.com/album/4wVLJV9yWuz4SED42IBmAY) | 2:04 | 2025-03-01 |  |
 | [Good To Go](https://open.spotify.com/track/5N70iqJHDPTll0GZgSuYf0) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [B Martin](https://open.spotify.com/artist/2qgqyyEyFPuw2KdlYmePgD), [ROBINS](https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM) | [Good To Go](https://open.spotify.com/album/4AfuWLlbhVrKN9XTo9jnvx) | 2:24 | 2024-08-08 | 2025-05-25 |
+| [Good To Me](https://open.spotify.com/track/27GXbyhclXg1dUwoCZ9f4c) | [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE), [Surfin' Sam](https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie) | [Good To Me](https://open.spotify.com/album/4oW33MyBWzKuBFCiSsKr0v) | 2:47 | 2025-09-26 |  |
 | [Good Vibes](https://open.spotify.com/track/1MOR5ZUWhe7Re4o8ElTily) | [Leavs.](https://open.spotify.com/artist/01SFNHtdp2lGruKBXvujfp), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Good Vibes](https://open.spotify.com/album/1msniyy1XRCEZWCbJzvGn7) | 2:10 | 2025-04-10 | 2025-08-30 |
 | [Good Vibes](https://open.spotify.com/track/6iM5YlBhftinw3qHJdd2qp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo), [madugo](https://open.spotify.com/artist/5NstYi6AvKAVD0kroo0QVC) | [Good Vibes](https://open.spotify.com/album/6Z2rNJgd3Y3WdOpDjHTGjk) | 1:49 | 2023-09-22 | 2025-04-13 |
 | [Got This Feeling](https://open.spotify.com/track/5WkrXPFs3gene3t5pkbNHn) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Xiam](https://open.spotify.com/artist/6W0fy0QYg158jtGa4cfJ84), [Rukid](https://open.spotify.com/artist/190Yg2nkLySugQt7NXZf5a) | [Got This Feeling](https://open.spotify.com/album/63j7UJjoJaYpFLKD53Je3a) | 3:05 | 2024-01-27 | 2024-02-26 |

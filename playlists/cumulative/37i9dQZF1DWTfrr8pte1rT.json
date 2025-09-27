@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock with a Drop. Cover: Pendulum \\m/",
+  "description": "Rock with a Drop. Cover: Madeon \\m/",
   "name": "Rocktronic",
   "tracks": [
     {
@@ -4757,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Hi!",
+        "url": "https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142250,
+      "name": "Hi!",
+      "url": "https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg"
+    },
+    {
+      "album": {
         "name": "So Far So Good",
         "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
       },
@@ -4900,6 +4918,36 @@
       "duration_ms": 174797,
       "name": "Hold My Breath (Mazare Remix)",
       "url": "https://open.spotify.com/track/3P4ScFhRIuGduFKADkZHwE"
+    },
+    {
+      "album": {
+        "name": "Hole",
+        "url": "https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        },
+        {
+          "name": "Rou Reynolds",
+          "url": "https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete"
+        },
+        {
+          "name": "Filthy Pig",
+          "url": "https://open.spotify.com/artist/1MWTVItNj9UyL7AouAUONF"
+        },
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Hole",
+      "url": "https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY"
     },
     {
       "album": {
@@ -6488,7 +6536,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 134812,
       "name": "MF Mosh Pit",
       "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
@@ -10846,7 +10894,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 193103,
       "name": "WARNING",
       "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"

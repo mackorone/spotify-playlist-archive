@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "Crazy Like That",
+      "url": "https://open.spotify.com/track/6NDEXdeJc2Dv5M1a5XtTKj"
+    },
+    {
+      "album": {
         "name": "You're A Revhead",
         "url": "https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c"
       },
@@ -1285,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "My Side of the Street",
+        "url": "https://open.spotify.com/album/6oGvE1KPgvRNJnHJ3dshMF"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188497,
+      "name": "My Side of the Street",
+      "url": "https://open.spotify.com/track/3o9eUONMsx2rf3Z2XrG6Xd"
+    },
+    {
+      "album": {
         "name": "My Side Of The Street",
         "url": "https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF"
       },
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 183280,
       "name": "We're Makin' Up",
       "url": "https://open.spotify.com/track/6ymZbNbEFLTLkEfqMHpJAN"
@@ -1958,7 +1994,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 214173,
       "name": "When The Needle Hits The Vinyl",
       "url": "https://open.spotify.com/track/6fZosvn3HVvfG9L4U9MQbW"

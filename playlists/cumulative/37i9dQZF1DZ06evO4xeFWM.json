@@ -1502,6 +1502,36 @@
     {
       "album": {
         "name": "Planet Earth III (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Sara Barone",
+          "url": "https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309629,
+      "name": "Planet Earth III Suite",
+      "url": "https://open.spotify.com/track/6WXdn8gwGfdjLtE4wXuCoH"
+    },
+    {
+      "album": {
+        "name": "Planet Earth III (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5j4IVHFClswFFiN11QQNjl"
       },
       "artists": [
@@ -1524,7 +1554,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 309629,
       "name": "Planet Earth III Suite - From \"Planet Earth III\"",
       "url": "https://open.spotify.com/track/3ZjR1n11TRs4sk55D1CxXo"

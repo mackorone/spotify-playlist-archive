@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Josh Ross
+> Today's top country hits\. Cover: HARDY
 
 925 songs - 2 day 2 hr 2 min
 

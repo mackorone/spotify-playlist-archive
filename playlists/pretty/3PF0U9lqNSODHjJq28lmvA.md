@@ -4,19 +4,26 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,529 likes - 10 songs - 32 min 28 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,529 likes - 17 songs - 59 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Theoxenia](https://open.spotify.com/track/0Vo5dLKxKyI5RuDXvac7fh) | [Aidoneus](https://open.spotify.com/artist/1EZDd31i3d5j5Ol91UJ6d5) | [Theoxenia](https://open.spotify.com/album/1jdlzkQj56DRCOBwxc6NZo) | 2:19 |
-| 2 | [Carolina](https://open.spotify.com/track/231EAX3na3fJV8xT0p6nn5) | [heavy wild](https://open.spotify.com/artist/6dxRf5XUwYZ12ecawKxuJ0) | [Carolina](https://open.spotify.com/album/3YO6FZn1NQSN6ouMemaMzC) | 4:24 |
-| 3 | [Perfect Frame](https://open.spotify.com/track/7I7jdyuxvdU9yLlvgFh53r) | [Lia](https://open.spotify.com/artist/5PupfdzQLJybcaOvpCtKE5) | [Perfect Frame](https://open.spotify.com/album/5KrEiMWEOduYosstdoPgcJ) | 2:01 |
-| 4 | [I JUST WANNA](https://open.spotify.com/track/02NVuiDUhD22KvyH53xjek) | [IO/NIC](https://open.spotify.com/artist/0EXL14OfjW0JzFTI42k73z), [ADRIMAARD](https://open.spotify.com/artist/37s9l3CiGkBeeKh1SjZWSY) | [I JUST WANNA](https://open.spotify.com/album/3SrEweuaz14n7SV50Ei4Yk) | 2:26 |
-| 5 | [Just to be Enough](https://open.spotify.com/track/4O5SBAdGF5AIuBdOOeGGFN) | [Midnight Housework](https://open.spotify.com/artist/1JugG6Jq67481f10NXby8r) | [Just to be Enough](https://open.spotify.com/album/10Wdbmcg8mdZh8lJUj9LS8) | 5:11 |
-| 6 | [Millionz](https://open.spotify.com/track/0rmIA6qgBSzRiM2kLywBgP) | [Jesta](https://open.spotify.com/artist/6xIQvrVL9611QGh9mQ7sZl) | [Millionz](https://open.spotify.com/album/5LtfiIYhvrbzDfny5WtdQG) | 1:56 |
-| 7 | [Som en glödhet cigarett](https://open.spotify.com/track/5GLht49zSapxeLRGjhS5AA) | [Black Larsson](https://open.spotify.com/artist/4fUzH4OPDTCt3kMqOncnFk), [Knegarna](https://open.spotify.com/artist/3kjlcsO7wXNus5fkZxSTTM) | [Som en glödhet cigarett](https://open.spotify.com/album/3d7f5E02D0zV96xdwe3R5j) | 3:51 |
-| 8 | [Kana Uchida](https://open.spotify.com/track/5HnEOu89YIpm4zXvKK6buQ) | [Adkin Good](https://open.spotify.com/artist/7Bz5uhElbLCDGfmevLrAq8), [Nice Killer](https://open.spotify.com/artist/4z4ELZuit3JB3zlRmRB8yf) | [Kana Uchida](https://open.spotify.com/album/6T1yFAgrSNfwOX2IGpTLWm) | 3:48 |
-| 9 | [The Temple Song](https://open.spotify.com/track/0yPNa6P2EK4wBIYQBlQTwz) | [Tony Adamo](https://open.spotify.com/artist/4zEziSNVTjO7UfpjFqJaOA) | [The Temple Song](https://open.spotify.com/album/0xLtSzx0gG0v6kruFN3z1e) | 3:50 |
-| 10 | [yobisafe](https://open.spotify.com/track/4XSzJduXti33jXpHRwcBOB) | [yobifare](https://open.spotify.com/artist/2mr5AgQZDLzM6eEkWYJnY8) | [yobisafe](https://open.spotify.com/album/5jtkWsFcz7hqJgekNaYgfJ) | 2:38 |
+| 1 | [In Jesus city 2](https://open.spotify.com/track/2IGTO3hYsKmembAEryWuiM) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [In Jesus City 2](https://open.spotify.com/album/2cuRPM4tBSIkQxH4hCP1wq) | 3:12 |
+| 2 | [Octagon City](https://open.spotify.com/track/6kL9jb0TEaEhKHe6uFy12M) | [zabutom](https://open.spotify.com/artist/3z9XCKFZ4a6xxvMK9haQy5) | [Splendors of the Past](https://open.spotify.com/album/48RQ9wsBjeJXvPJLD2nHlJ) | 4:22 |
+| 3 | [Cover Me Up](https://open.spotify.com/track/6XSayYHdnOgmDYuiQxhnlZ) | [Per\-Håkans](https://open.spotify.com/artist/65VE1lymx9BmXzKJ3AqAFU) | [Cover Me Up](https://open.spotify.com/album/22GszAnPDtyZHlYmdQTaG2) | 4:51 |
+| 4 | [CapperKing](https://open.spotify.com/track/6p4x1P71NjuHBGdUWHqhuo) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [SIDE STORIES](https://open.spotify.com/album/32cFJuKI5poeGWhrh8QGFD) | 2:50 |
+| 5 | [Ballon d’Or](https://open.spotify.com/track/7hFUBPCjlZIGOxctlQfcHw) | [Sultan](https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM) | [Ballon d’Or](https://open.spotify.com/album/48cDr4s1INdBx37mIJ1h40) | 2:32 |
+| 6 | [Teini](https://open.spotify.com/track/7EegI2q0f2E2VHirJ753fU) | [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e), [BRAT SIMPSON](https://open.spotify.com/artist/40ERvKf28p7G49Ryyp53n8) | [Teini](https://open.spotify.com/album/7bzgrUZIMswnrlMKPTp6TC) | 2:56 |
+| 7 | [You Can't See Me](https://open.spotify.com/track/5EWzyL1Op0Fzrwd7en33rO) | [The Night Parrots](https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo) | [You Can't See Me](https://open.spotify.com/album/1W3tM2xhsgfaoZ5Boenetz) | 3:40 |
+| 8 | [Ingenting Som](https://open.spotify.com/track/01pZc8QVL6QULYFcwBHCbQ) | [Tracy Irve](https://open.spotify.com/artist/47eYIpNYpouTNbJnYz7cdb) | [Ännu Rund](https://open.spotify.com/album/1YNtXdFKcrbXQPLfWZwWJD) | 3:32 |
+| 9 | [Streetflowers](https://open.spotify.com/track/2Z72FsUwKKCHB6qnEvaghT) | [Moon Landing](https://open.spotify.com/artist/2MzYWU19YFhWthKTObl0xc) | [Streetflowers](https://open.spotify.com/album/4Hh7MTsfKRONwk41X27O8x) | 3:01 |
+| 10 | [WAVES](https://open.spotify.com/track/1O7HSEnh0JjYD78aIDqH5y) | [AANG](https://open.spotify.com/artist/1LisaP0b1DCrVz5SM9A3Pt), [Inferno](https://open.spotify.com/artist/1Qjcv69fa6cK23POwRk9OO) | [WAVES](https://open.spotify.com/album/1Pnf2F2AvLzKJ1mJgbvKyY) | 3:00 |
+| 11 | [Poirot](https://open.spotify.com/track/7vSg1jz6ac2nNjzO7Xji4x) | [Routaraja](https://open.spotify.com/artist/75AuKfZdrrWlq60rz4KIed) | [Poirot](https://open.spotify.com/album/1bdq8rS4FcJcgUToHvv1uC) | 3:47 |
+| 12 | [Sover du över hos mig](https://open.spotify.com/track/2OwAQfKVAk3OKDn1UMIZfd) | [Jonas Tilly](https://open.spotify.com/artist/4Xb58LELv57OvVpO0b04Pm) | [Sover du över hos mig](https://open.spotify.com/album/7xZrzSEIYf1vwciGIWeUcL) | 2:31 |
+| 13 | [I Don't Belong Here](https://open.spotify.com/track/6GTC1vMV8cGFEWNP6yu3yl) | [Red Heart](https://open.spotify.com/artist/3jfjGrdg6pXh059TIUGFFW) | [I Don't Belong Here](https://open.spotify.com/album/66PhaGtN6b0Z9qitiVrQHR) | 3:02 |
+| 14 | [Magic Night](https://open.spotify.com/track/3sFhBmEBdWIrj1cmWydvVa) | [Priority](https://open.spotify.com/artist/3xbjGbRseIlhdXvOfDls4N), [Lotta Hedlund](https://open.spotify.com/artist/1Hpermh5l5RDN8oGog2kZb) | [Undercover](https://open.spotify.com/album/4TONpP7KzkCIttWlEO7GKT) | 4:40 |
+| 15 | [Chal Diye](https://open.spotify.com/track/650Qha5fzawAUBByjTz6t6) | [Fahad Nasim](https://open.spotify.com/artist/5sUWMxtcwTJGL2zXnNpkot) | [Chal Diye](https://open.spotify.com/album/1BWTVAqynSbY314XkFJrhQ) | 3:34 |
+| 16 | [Breath](https://open.spotify.com/track/39EOq9gETM8EKhaTln8RSX) | [Henrik Baudou Fjelkman](https://open.spotify.com/artist/6otUulLr8xmmqqiD7tQ12z) | [Breath](https://open.spotify.com/album/1cgYTSajHqLP3BiBzvwxr7) | 3:14 |
+| 17 | [Salaisuus](https://open.spotify.com/track/0CgjJwugKRkZHbakv2PzwJ) | [Arna](https://open.spotify.com/artist/2XbJijNbX22C4FadA8vXZO) | [Salaisuus](https://open.spotify.com/album/5okHPyx9qi3plJT0lZlUth) | 4:28 |
 
-Snapshot ID: `AAAEUKJ/ke1p7UUEXFUYIVzT4G9uCfQB`
+Snapshot ID: `AAAEUq2fR0cIw0bwYKYGLFEOWBM0f58D`

@@ -1,6 +1,6 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 306223,
+  "num_followers": 306361,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
+        "name": "The Essential Kenny G 3.0",
+        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034"
       },
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "The Essential Kenny G 3.0",
-        "url": "https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Songbird",
-      "url": "https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Grandes Orquestas / Bert Kaempfert",
         "url": "https://open.spotify.com/album/45379AR3gCm13uuVUl5a4i"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-02-14 17:45:29",
       "album": {
-        "name": "!!!Going Places!!!",
-        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 125920,
-      "name": "Tijuana Taxi",
-      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
-    },
-    {
-      "added_at": "2025-02-14 17:45:29",
-      "album": {
         "name": "Tony Mottola y Su Orquesta",
         "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 113880,
       "name": "Woodpecker Song",
       "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
+    },
+    {
+      "added_at": "2025-02-14 17:45:29",
+      "album": {
+        "name": "!!!Going Places!!!",
+        "url": "https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 125920,
+      "name": "Tijuana Taxi",
+      "url": "https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q"
     },
     {
       "added_at": "2025-02-14 17:45:29",

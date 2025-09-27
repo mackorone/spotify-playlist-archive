@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Doja Cat
+> The hottest 50\. Cover: Olivia Dean
 
 1,289 songs - 2 day 21 hr 4 min
 

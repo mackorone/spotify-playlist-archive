@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Devano
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,254 likes - 101 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,314 likes - 101 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bendera Merah \(Red Flag\)](https://open.spotify.com/track/1hEAiDwexOJgphbQpsphQ5) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Nanti Pasti Kan Ada](https://open.spotify.com/album/5R1jjqFGFD6NPMxIillbHO) | 5:12 |
 | 2 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 |
-| 3 | [Track 2](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [](https://open.spotify.com/album/null) | 0:00 |
+| 3 | [Iman Tak Restui](https://open.spotify.com/track/4psG16wWeWACDW2POXCcnT) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Devaki](https://open.spotify.com/album/6WyxwTMDu7MdmWKZ2m4lCe) | 3:51 |
 | 4 | [SEDASA](https://open.spotify.com/track/59lGPlYIugiYJeTv235PUa) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De), [Tetangga Tuku](https://open.spotify.com/artist/5dcfMZSXaWk1e3D9E2Hg8O), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [RAPOT](https://open.spotify.com/artist/0GIqySes5T059h5azQcdNV), [Saykoji](https://open.spotify.com/artist/6N981Y5JhkKTEH37pq4ImZ), [Reza Chandika](https://open.spotify.com/artist/5rTvvOLMBp58DmmzQA2cez), [Ankatama](https://open.spotify.com/artist/1rTnFDCKH7YqoYDaHItQgf), [Radhini](https://open.spotify.com/artist/7KwNYf1K0Qt3sV7DtVHWcU), [Nastasha Abigail](https://open.spotify.com/artist/4Yh02VkYHM45OXORNwzI9r) | [SEDASA](https://open.spotify.com/album/78wuTEpqYbb6xTUvyxt4Iv) | 4:06 |
-| 5 | [Track 12](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 5 | [Terima Kasih](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 3:44 |
 | 6 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 |
 | 7 | [Terima Kasih](https://open.spotify.com/track/6VvqrT2ptFQjM5aMWAcxSH) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Terima Kasih](https://open.spotify.com/album/3j8Y4da2KygEkphQNPzxjk) | 3:53 |
 | 8 | [Aduhai](https://open.spotify.com/track/1Pm6rRDGMpRPuRdXAK6M5W) | [Mytha Lestari](https://open.spotify.com/artist/4qb81y9DFygggMTArjhQMn) | [Aduhai](https://open.spotify.com/album/3GsD0171owyBasP5HMqNBq) | 4:13 |

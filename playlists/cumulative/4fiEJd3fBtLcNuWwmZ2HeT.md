@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-375 songs - 21 hr 41 min
+376 songs - 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Instant](https://open.spotify.com/track/08hbdRyBT1P1SutVtzfnUP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:04 | 2023-11-27 |  |
 | [Instant death](https://open.spotify.com/track/6rKylVi61F1yekVG19hVE0) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [Instant death](https://open.spotify.com/album/23LZUfEMmcstJAVP0WS0Mz) | 2:25 | 2024-07-23 |  |
 | [Into The Night](https://open.spotify.com/track/2vwzbB62VEfzCARNu9Nrrm) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:19 | 2023-01-29 |  |
+| [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 | 2025-09-26 |  |
 | [It's Going Down Now](https://open.spotify.com/track/3w8v6xU26DY0LiQr3QAFjl) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/0ou89XjahTvTUm8mJu8go6) | 3:06 | 2024-03-29 |  |
 | [It's Tokyo](https://open.spotify.com/track/3qcLn1kuZC9jnfRgOaKYDo) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [I loved you](https://open.spotify.com/album/1OUxyuiiD0G2f6aY9QUOKp) | 4:31 | 2025-05-20 |  |
 | [IWANUGA HANA](https://open.spotify.com/track/4TXFWrMDYdVsL7ybwSfpyO) | [RANASOL](https://open.spotify.com/artist/4ojIlQlez4Z7L3jTiasTVr) | [IWANUGA HANA](https://open.spotify.com/album/7w1otGJpChYzALoYRuXqvT) | 2:47 | 2024-08-06 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar.
+> Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar\. Cover: Bernadya
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,354 likes - 58 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,362 likes - 58 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 8 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 |
 | 9 | [L](https://open.spotify.com/track/3aClK9EBpl7QeYEuOq1eMI) | [Halstage](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/2B5g8Dua4wmu7JOnNX9e8K) | 3:40 |
 | 10 | [Kaktus](https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Kaktus](https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg) | 3:07 |
-| 11 | [Track 12](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Terima Kasih](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 3:44 |
 | 12 | [Mungkin](https://open.spotify.com/track/4DRDPA5Ep6JFXqhn6ywpal) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [do you guys \*still\* wanna listen to some electro\-pop music?](https://open.spotify.com/album/2ENuqRm2NrJnLfR2V5ZyK2) | 4:03 |
 | 13 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 |
 | 14 | [Gelora Asmara](https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:09 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 57 | [Denah Rumahmu](https://open.spotify.com/track/2pAIsy87PtMr6d7hoLSS8A) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Denah Rumahmu](https://open.spotify.com/album/5JAL8mW3bGLe5yu40In446) | 3:55 |
 | 58 | [Tanpa Batas Waktu](https://open.spotify.com/track/1UY33OSDxSwBHmPfYmCUfh) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Tanpa Batas Waktu](https://open.spotify.com/album/4fxoL7dYH5vNu15gH0UJkb) | 4:27 |
 
-Snapshot ID: `AAAAAJOdvcP5utL/6/EIQ65wwkgf9w09`
+Snapshot ID: `AAAAAE1cUhfP5cioUkwsmPwDpU9VbUY7`

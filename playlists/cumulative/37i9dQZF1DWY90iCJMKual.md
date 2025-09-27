@@ -4,7 +4,7 @@
 
 > PH vibin' cover: ALLMO$T
 
-390 songs - 21 hr 25 min
+393 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [DKL](https://open.spotify.com/track/0Qaw53g5q0uD5DMmMa5bha) | [MYR](https://open.spotify.com/artist/260WCUxqybRg1I8Dh2JcUY) | [DKL](https://open.spotify.com/album/3mMNDqFmww0WMzYPS5zGJT) | 3:10 | 2023-09-13 | 2024-02-10 |
 | [DKSI!](https://open.spotify.com/track/3z5GSDFNexYsTnswjJAYTe) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [L0VER G!RL](https://open.spotify.com/album/5ifAePO10zjHrgzi6IXGck) | 3:14 | 2024-01-15 | 2024-06-22 |
 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 | 2024-02-09 | 2025-01-17 |
+| [DON'T WANNA THINK ABOUT U](https://open.spotify.com/track/27AGaNzgfWtygmqQ1zjiEL) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Mark Mendez](https://open.spotify.com/artist/35LEv5q2KA07FyZNoRE4FG), [Bolo](https://open.spotify.com/artist/2tNvirxo0YPPpZ6KMnDVaF) | [DON'T WANNA THINK ABOUT U](https://open.spotify.com/album/7CngBsQ3ChbQybleq7hKlF) | 3:48 | 2025-09-26 |  |
 | [Down](https://open.spotify.com/track/6hZMKAVfEpzyu4DV9P1N1s) | [Ty Raquin](https://open.spotify.com/artist/0TPGrHros3vvU1eR2dgDQp) | [Rendezvous](https://open.spotify.com/album/3E8ctYqz5kNmvYeTvIAtKZ) | 2:57 | 2023-11-10 | 2024-02-07 |
 | [Downbad](https://open.spotify.com/track/1MEViSBpM9JYNrgy5MuLmV) | [Unotheone](https://open.spotify.com/artist/4MgsXfdEpHBkdGCSE6MIsc) | [Downbad](https://open.spotify.com/album/1TSlPWlhOD6daHluHZvAOL) | 2:28 | 2025-05-02 |  |
 | [Drunk](https://open.spotify.com/track/3oF6MdGHiwi1okqanYETU8) | [Pisces.MN](https://open.spotify.com/artist/38Xmv6NoOX157hPeH5Tzsh), [David Daliva](https://open.spotify.com/artist/4O82yAA1c1eHsb0swmwxCp) | [Drunk](https://open.spotify.com/album/10JVIHH4p8FqDMfVPjTrpo) | 3:17 | 2022-10-12 | 2023-05-18 |
@@ -185,6 +186,7 @@
 | [kaya kaya](https://open.spotify.com/track/2sN1luMYIaywC0IwaoZAtL) | [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [kaya kaya](https://open.spotify.com/album/1B0ZgJZhWMPFcwWgfDmy9m) | 3:09 | 2024-10-11 |  |
 | [Kuhang\-kuha](https://open.spotify.com/track/3FzXMyxc0liTGcajQLVMtb) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Kuhang\-kuha](https://open.spotify.com/album/5y2ojx3eChTA3TqYAdC6qs) | 3:37 | 2024-07-17 | 2024-11-09 |
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 | 2023-08-31 |
+| [Kung Di Mo Alam](https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Kung Di Mo Alam](https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ) | 2:57 | 2025-09-26 |  |
 | [KUNG PWEDE LANG](https://open.spotify.com/track/3THHeShAx4IHFPte6I8qaP) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [KUNG PWEDE LANG](https://open.spotify.com/album/3nyZIQuHLqaW0K9SW6Y4mH) | 2:56 | 2025-05-30 |  |
 | [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 | 2023-09-22 |
 | [KUSANG DARATING](https://open.spotify.com/track/4b3O2iKjMWebR5AME4U1us) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw), [A$tro](https://open.spotify.com/artist/5794gAYyVyxoZKIhyN9OUq) | [KUSANG DARATING](https://open.spotify.com/album/1wAYLfH7rtMv0xIHkgqqet) | 3:14 | 2025-05-30 |  |
@@ -383,6 +385,7 @@
 | [VANISH MODE](https://open.spotify.com/track/3Xm0K8nqzxFesknHEvdprE) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP) | [VANISH MODE](https://open.spotify.com/album/11NIbuuOeLf8QbhwIYphvW) | 3:15 | 2023-12-01 | 2025-01-17 |
 | [Vibin](https://open.spotify.com/track/1foCNzIQJMA1lGYtSvBu8m) | [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Vibin](https://open.spotify.com/album/270wSkBt06wNswRpgTWqHT) | 2:45 | 2022-10-12 | 2023-07-29 |
 | [Wag Lang Ganon](https://open.spotify.com/track/2JeXX2pbuyc5X5OUdhLi1Z) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [Jiji](https://open.spotify.com/artist/0lnA5vYJqi9LAdOcmpmmw3) | [Wag Lang Ganon](https://open.spotify.com/album/6p1LtmHDDoaf4RrhAtQjJF) | 3:12 | 2024-10-11 |  |
+| [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 |  |
 | [Walkie Talkie](https://open.spotify.com/track/5NLNNJ8aAT4mCRUg2uZuOU) | [Ziv](https://open.spotify.com/artist/4Wz4nR941NXG2gzv06H62t), [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [Walkie Talkie](https://open.spotify.com/album/1on3i1luNH3Eq7wOOXtYVZ) | 2:59 | 2025-06-06 |  |
 | [Wants](https://open.spotify.com/track/1me0Y1D0PJEJbyYMMI1Sbv) | [Psvlm](https://open.spotify.com/artist/5hAPoOZdijqwQwd8BD6OYn) | [Wants](https://open.spotify.com/album/4r6YgoipYcMSayKHP7DcsA) | 2:58 | 2022-10-12 | 2023-07-29 |
 | [WASTE MY TIME](https://open.spotify.com/track/2JPP3bJ6ERn0VIEqvIuOdY) | [gabby parafina](https://open.spotify.com/artist/4ek9Knii9JrXc6xSwsjaHP) | [WASTE MY TIME](https://open.spotify.com/album/4cQINuLI5XfdLn1IyiiEw8) | 3:08 | 2025-09-12 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 ### [Novidades Religiosas](https://open.spotify.com/playlist/37i9dQZF1DX7ROOw5S4Xdq)
 
-> Ouça os últimos lançamentos da música Cristã\. Foto: fhop music
+> Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares, MORADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,299 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,592 likes - 49 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [O Amado](https://open.spotify.com/track/3qHKRW3pOJV7Lb7wVbL6GJ) | [Ilmar Quintanilha](https://open.spotify.com/artist/1lymQbTdFZx62U5HMc0mIH), [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s) | [O Amado](https://open.spotify.com/album/3gillPggj54VgkGQHT8aOg) | 4:08 |
 | 40 | [Fragmentos](https://open.spotify.com/track/7JLrSaKue9nmLdM9midEmR) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Fragmentos](https://open.spotify.com/album/4o6RzVSob1m4ghQpCwiWM8) | 4:02 |
 | 41 | [Se Deus Não Tiver](https://open.spotify.com/track/7AjY8ZMt5gehX698PQtxIe) | [Fernanda Tomadon](https://open.spotify.com/artist/0kAMQVckTudTHpOdDefbvl) | [Se Deus Não Tiver](https://open.spotify.com/album/6yjVdOTH43n6QkdDABa4xJ) | 4:18 |
-| 42 | [Track 5](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [](https://open.spotify.com/album/null) | 0:00 |
+| 42 | [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 |
 | 43 | [Comece a Andar](https://open.spotify.com/track/2PuLu4hEpbvMmfvMDPmc6q) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt), [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Comece a Andar](https://open.spotify.com/album/010XYKdLL2JcuDqLPYBSrf) | 5:01 |
 | 44 | [Posso Clamar](https://open.spotify.com/track/56CuJ4nDKjvVpaa8Hw4n7Z) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Posso Clamar](https://open.spotify.com/album/2qIKxc718FprBnothSuHmS) | 5:24 |
 | 45 | [Sem a Sua Presença](https://open.spotify.com/track/1AuXtZCxRUodIF9nncisXe) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8), [Clerick](https://open.spotify.com/artist/21egnApWSV5Hx25eUl6tQ5) | [Sem a Sua Presença](https://open.spotify.com/album/17w83D4o1yBNKJQhdkhdkX) | 3:05 |

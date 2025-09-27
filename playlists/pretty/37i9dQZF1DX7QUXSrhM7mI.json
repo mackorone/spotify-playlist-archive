@@ -1,13 +1,45 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 90127,
+  "num_followers": 90205,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFGtPIwzYPlxjS9eaBnl/Jbo1W7b",
+  "snapshot_id": "AAAAAGiK3ZetSeeTTl0G7qIkPYEBrgeY",
   "tracks": [
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
     {
       "added_at": "2025-09-16 12:40:48",
       "album": {
@@ -23,6 +55,74 @@
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
+    },
+    {
+      "added_at": "2025-09-26 04:00:19",
+      "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "added_at": "2025-09-26 04:00:19",
+      "album": {
+        "name": "Space of the Heart",
+        "url": "https://open.spotify.com/album/30OIr0GbwJAi9nXBlFB8ki"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4ldN4hSrc7tK7t0FKeLNOf"
+    },
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
+        "name": "Skippin' Down the Sidewalk",
+        "url": "https://open.spotify.com/album/5EJXG3SWsqSvILfDEwuB97"
+      },
+      "artists": [
+        {
+          "name": "Amelia Day",
+          "url": "https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y"
+        }
+      ],
+      "duration_ms": 200113,
+      "name": "Skippin' Down the Sidewalk",
+      "url": "https://open.spotify.com/track/730VuZCmpQ0TJCDuRHnqmq"
+    },
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
+        "name": "Talk About Love",
+        "url": "https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 310868,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk"
     },
     {
       "added_at": "2025-09-19 04:00:28",
@@ -49,116 +149,52 @@
       "url": "https://open.spotify.com/track/7HIIgAScOr8ywjvJiraobh"
     },
     {
-      "added_at": "2025-09-16 12:40:48",
+      "added_at": "2025-09-26 04:00:19",
       "album": {
-        "name": "Skippin' Down the Sidewalk",
-        "url": "https://open.spotify.com/album/5EJXG3SWsqSvILfDEwuB97"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Amelia Day",
-          "url": "https://open.spotify.com/artist/53DjiwdQhw5LbqB0LHDd5y"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 200113,
-      "name": "Skippin' Down the Sidewalk",
-      "url": "https://open.spotify.com/track/730VuZCmpQ0TJCDuRHnqmq"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2025-09-16 12:40:48",
+      "added_at": "2025-09-26 04:00:19",
       "album": {
-        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
-        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
         }
       ],
-      "duration_ms": 235249,
-      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
-      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
+      "duration_ms": 206628,
+      "name": "U-Turn",
+      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
-      "added_at": "2025-09-16 12:40:48",
+      "added_at": "2025-09-26 04:00:19",
       "album": {
-        "name": "Talk About Love",
-        "url": "https://open.spotify.com/album/3Ab4I0S7mBYWdrOw6h1ttt"
+        "name": "WOMEN WHO LOVE TOO MUCH",
+        "url": "https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V"
       },
       "artists": [
         {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
         }
       ],
-      "duration_ms": 310868,
-      "name": "Talk About Love",
-      "url": "https://open.spotify.com/track/3HkptDhVM1bpF4lz3haQRk"
-    },
-    {
-      "added_at": "2025-09-16 12:40:48",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2025-09-16 12:40:48",
-      "album": {
-        "name": "A Matter of Time",
-        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
-    },
-    {
-      "added_at": "2025-09-16 12:40:48",
-      "album": {
-        "name": "Music For People Who Believe In Love",
-        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
-      },
-      "artists": [
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        }
-      ],
-      "duration_ms": 198460,
-      "name": "Honey Blonde",
-      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
-    },
-    {
-      "added_at": "2025-09-16 12:40:48",
-      "album": {
-        "name": "Submarine",
-        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+      "duration_ms": 214787,
+      "name": "REVOLVER",
+      "url": "https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ"
     },
     {
       "added_at": "2025-09-16 12:40:48",
@@ -179,6 +215,70 @@
     {
       "added_at": "2025-09-16 12:40:48",
       "album": {
+        "name": "Thank You For A Lovely Time (Raphael Saadiq Version)",
+        "url": "https://open.spotify.com/album/5YuVvhYV5JfP3ThFLSnHeH"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 235249,
+      "name": "Thank You For A Lovely Time - Raphael Saadiq Version",
+      "url": "https://open.spotify.com/track/29XwzOrnfKvIPjr22T1slO"
+    },
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
+        "name": "Music For People Who Believe In Love",
+        "url": "https://open.spotify.com/album/3ZuXKlQ48SrFaJU9KDrIkE"
+      },
+      "artists": [
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 198460,
+      "name": "Honey Blonde",
+      "url": "https://open.spotify.com/track/4A2jbfMjTwAbqf5rJ0BTLh"
+    },
+    {
+      "added_at": "2025-09-26 04:00:19",
+      "album": {
+        "name": "Good Luck, Good Night",
+        "url": "https://open.spotify.com/album/7KFinYi5JPYtYpd5lYiiCu"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 261139,
+      "name": "Good Luck, Good Night",
+      "url": "https://open.spotify.com/track/2AOawNs7D8TgKmlppSbGeb"
+    },
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
+    {
+      "added_at": "2025-09-16 12:40:48",
+      "album": {
         "name": "Elegantly Wasted [Feat. Leon Bridges]",
         "url": "https://open.spotify.com/album/6ttrLfwlXpHv4HwoImyqqR"
       },
@@ -195,6 +295,22 @@
       "duration_ms": 213062,
       "name": "Elegantly Wasted [Feat. Leon Bridges]",
       "url": "https://open.spotify.com/track/4cKkrTYbkWnu96lWNRFcRq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:19",
+      "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/6Bl2fFG7BGp9kwscOJ98BA"
+      },
+      "artists": [
+        {
+          "name": "Juno James",
+          "url": "https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE"
+        }
+      ],
+      "duration_ms": 203100,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/2Ic32TM1WzzVXeCG9E1eom"
     },
     {
       "added_at": "2025-09-16 12:40:48",
@@ -1323,42 +1439,6 @@
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
-    },
-    {
-      "added_at": "2025-09-16 12:40:48",
-      "album": {
-        "name": "Until I Found You (Em Beihold Version)",
-        "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 176440,
-      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
-      "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2025-09-16 12:40:48",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     }
   ],
   "unique_name": "Lazy Afternoon",

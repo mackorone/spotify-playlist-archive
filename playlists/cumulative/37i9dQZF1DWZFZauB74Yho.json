@@ -8051,6 +8051,24 @@
     },
     {
       "album": {
+        "name": "Waterbound",
+        "url": "https://open.spotify.com/album/2deIAw3YuQDPyMdcU5DNEa"
+      },
+      "artists": [
+        {
+          "name": "Peia",
+          "url": "https://open.spotify.com/artist/7fmsT5hyByIpjzMfgrhTM2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188431,
+      "name": "Waterbound",
+      "url": "https://open.spotify.com/track/1QUPjYYu6QLTO85NYzoiSf"
+    },
+    {
+      "album": {
         "name": "We're All Gonna Live",
         "url": "https://open.spotify.com/album/6f9y5CYYS8ZPbOAJ7OMn0G"
       },

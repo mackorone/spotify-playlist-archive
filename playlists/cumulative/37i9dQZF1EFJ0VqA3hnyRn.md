@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-351 songs - 20 hr 18 min
+353 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#1](https://open.spotify.com/track/3QVIpLqfwgGhJAs5enPfFT) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:31 | 2024-02-07 |  |
+| [\#1](https://open.spotify.com/track/4TTHdo78RGbLo8HeTDtMQ8) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Version\)](https://open.spotify.com/album/6BnbjiGCAzSMMiqACIIkHO) | 4:31 | 2025-09-26 |  |
+| [\#1](https://open.spotify.com/track/3QVIpLqfwgGhJAs5enPfFT) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:31 | 2024-02-07 | 2025-09-27 |
 | [+82 Pressin'](https://open.spotify.com/track/1gh9hWNAzDR46rn52uyoiV) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [+82 Pressin'](https://open.spotify.com/album/4BHK4cuYnptvcw0yOCzh8Y) | 3:22 | 2025-03-29 | 2025-04-12 |
 | [+82 Pressin'](https://open.spotify.com/track/4LNSkM5pU80uYmyYXzuaGJ) | [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O), [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [The Firstfruit \- The 1st Album](https://open.spotify.com/album/6c3cEkKxXpqpo8vNRWrv8s) | 3:22 | 2025-06-26 |  |
 | [11:11PM](https://open.spotify.com/track/5xQO59AHSaIIsNNDDGNaZt) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [The Night Before The Morning After](https://open.spotify.com/album/2Jp7UxZewhRXrvcSvz37b1) | 3:00 | 2025-01-09 | 2025-04-12 |
@@ -173,7 +174,8 @@
 | [King](https://open.spotify.com/track/7iezOg5ENMqIpq0HVVZqgz) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL), [Rock City](https://open.spotify.com/artist/4JLxuWOMYM50zRMCjYaHvH) | [0.9](https://open.spotify.com/album/4kvVqavqTyVWqXURC0fRqF) | 4:07 | 2024-02-07 |  |
 | [Kiss & Tell](https://open.spotify.com/track/1sNovU2kt1WBrLhuAFhReK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:43 | 2024-02-07 |  |
 | [Kiss Me](https://open.spotify.com/track/2QUoGcL44jWRcK2RwK1Ncu) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:36 | 2024-02-07 | 2024-08-19 |
-| [Kisses Down Low](https://open.spotify.com/track/4KhanrenBxgyXYkFCArMyd) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:14 | 2024-02-07 |  |
+| [Kisses Down Low](https://open.spotify.com/track/0CiY08rGgtInz7iUnp79dS) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Version\)](https://open.spotify.com/album/6BnbjiGCAzSMMiqACIIkHO) | 4:14 | 2025-09-26 |  |
+| [Kisses Down Low](https://open.spotify.com/track/4KhanrenBxgyXYkFCArMyd) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:14 | 2024-02-07 | 2025-09-27 |
 | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/track/4on9QW1gRc1etKGIubQzWn) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Know You Better \(feat\. Fabolous & Pusha T\)](https://open.spotify.com/album/0nmW7UfAZynPbnkff9gE9f) | 4:47 | 2024-02-07 |  |
 | [L.A\. Love \(La La\)](https://open.spotify.com/track/518UEkLkoqUipreT1FySZI) | [Universales](https://open.spotify.com/artist/07zqSxVJNb2W8jIt5UAZJc) | [L.A\. Love \(La La\) \[Tribute to Fergie\]](https://open.spotify.com/album/7ooCz1DPsgDUBsnJPH1vcl) | 3:11 | 2024-02-07 |  |
 | [L.A.LOVE \(la la\) \(feat\. YG\)](https://open.spotify.com/track/746BlfyY0hVG65EtfaNvwo) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:31 | 2024-02-07 |  |

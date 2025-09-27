@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Arielle Free, NADIAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,955 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,885 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 35 | [Nothing Is Real](https://open.spotify.com/track/6eyfcx0H2MyXD1hWWQHYVF) | [Maesic](https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Gene Farris](https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU) | [Nothing Is Real](https://open.spotify.com/album/2aVUYs524BHl1hKaw5ps7h) | 2:11 |
 | 36 | [Fancy $hit](https://open.spotify.com/track/2pZwLbKPazJUZItP235e6O) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Fancy $hit](https://open.spotify.com/album/2DFFAszheHpFsCnCUUyQgh) | 2:48 |
 | 37 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 |
-| 38 | [Track 1](https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [](https://open.spotify.com/album/null) | 0:00 |
+| 38 | [Reset](https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Reset EP](https://open.spotify.com/album/4WAGOxEZDWeat8p9vZBsL8) | 4:03 |
 | 39 | [Super Freak](https://open.spotify.com/track/41AT0C3NBQmqR89feSXiB8) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Super Freak](https://open.spotify.com/album/3DIWhjoomwuLF2qYv9HlQx) | 3:16 |
 | 40 | [Let's Dance](https://open.spotify.com/track/2jNEy7Cd0gapx39YgdzhKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Let's Dance](https://open.spotify.com/album/3JWGEbw29Trh5MxFMjYEXv) | 4:08 |
 | 41 | [Bunzzz](https://open.spotify.com/track/0FVvWhTlaAtcEbO8Bp6on0) | [Jeff Sorkowitz](https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC) | [Bunzzz](https://open.spotify.com/album/7FPQMoNjZePas7ccKQcjNz) | 2:38 |

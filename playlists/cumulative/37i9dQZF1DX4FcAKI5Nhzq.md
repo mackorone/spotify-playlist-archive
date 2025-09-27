@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: TWS\)
 
-1,440 songs - 3 day 5 hr 32 min
+1,441 songs - 3 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,7 +354,7 @@
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-06-08 | 2021-08-11 |
 | [Don't Go Insane](https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Don't Go Insane](https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1) | 3:24 | 2023-10-12 | 2024-03-15 |
 | [Don't Leave Yet](https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Don't Leave Yet](https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj) | 2:45 | 2023-08-11 | 2023-09-28 |
-| [Don't Touch](https://open.spotify.com/track/4oMYjkb2TPjiC01owjrAB0) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Don't Touch](https://open.spotify.com/album/5nMo3OStsZNGqLxtuE0zfr) | 3:21 | 2025-08-19 |  |
+| [Don't Touch](https://open.spotify.com/track/4oMYjkb2TPjiC01owjrAB0) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [Don't Touch](https://open.spotify.com/album/5nMo3OStsZNGqLxtuE0zfr) | 3:21 | 2025-08-19 | 2025-09-27 |
 | [DON'T TOUCH ME](https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC) | [REFUND SISTERS](https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi) | [DON'T TOUCH ME](https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK) | 3:43 | 2020-10-13\* | 2021-01-27 |
 | [Done](https://open.spotify.com/track/1ISSgsyLmSguaJSM3pnPGk) | [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Done](https://open.spotify.com/album/0MWTfCeOwdgOZD5J81UfHC) | 2:59 | 2024-09-20 | 2024-11-26 |
 | [DOOM DOOM TA](https://open.spotify.com/track/4OoIilBA6IsqLpTDCZmKQc) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [TRI.BE Da Loca](https://open.spotify.com/album/20WVSzeVrTvZlmpta9q0Pi) | 3:15 | 2021-02-22 | 2021-05-18 |
@@ -678,6 +678,7 @@
 | [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-17 | 2022-08-13 |
 | [Jingle Bell Rock](https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Jingle Bell Rock](https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu) | 2:10 | 2023-12-01 | 2024-01-20 |
 | [Journey](https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:18 | 2023-04-26 | 2023-07-26 |
+| [JoyRide](https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [COLOR OUTSIDE THE LINES](https://open.spotify.com/album/2yMfaynthtWVAkJ5A3Kwrf) | 2:37 | 2025-09-26 |  |
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-08 | 2023-12-09 |
 | [Jungle](https://open.spotify.com/track/0QyLYuhCdzwVk9OkmvwAjh) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 3: Hello, Strange Time](https://open.spotify.com/album/6w3QkgYGtf6LfiWb5iCYc1) | 3:48 | 2020-10-27 | 2021-03-10 |
 | [JUNK FOOD](https://open.spotify.com/track/5aEdNj5hYLKwSiO9vKK552) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [iykyk](https://open.spotify.com/album/4jd2zPWyPBE1mmX5MSkCH8) | 3:15 | 2023-11-15 | 2023-12-22 |

@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Somewhere City",
+        "url": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164032,
+      "name": "24 Hr Drive-Thru",
+      "url": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO"
+    },
+    {
+      "album": {
         "name": "The Life Of Pablo",
         "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
@@ -9036,8 +9054,8 @@
       },
       "artists": [
         {
-          "name": "SIE\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
-          "url": "https://open.spotify.com/artist/1rpLsPOuk84fe64uy1A8jR"
+          "name": "SIE Sound Team",
+          "url": "https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376"
         }
       ],
       "date_added": "2025-06-02",
@@ -9774,8 +9792,8 @@
       },
       "artists": [
         {
-          "name": "SIE\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
-          "url": "https://open.spotify.com/artist/1rpLsPOuk84fe64uy1A8jR"
+          "name": "SIE Sound Team",
+          "url": "https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376"
         }
       ],
       "date_added": "2025-06-02",
@@ -18368,6 +18386,24 @@
       "duration_ms": 451680,
       "name": "Welcome to the Machine",
       "url": "https://open.spotify.com/track/5VWC7v2dC2K0SIIjT9WTLN"
+    },
+    {
+      "album": {
+        "name": "Somewhere City",
+        "url": "https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185133,
+      "name": "Welcome to...",
+      "url": "https://open.spotify.com/track/4fFiXfYW8JTyWwysayiNUf"
     },
     {
       "album": {

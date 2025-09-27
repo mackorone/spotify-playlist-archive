@@ -4,7 +4,7 @@
 
 > bailando en el antro con RIXXIA hasta el amanecer
 
-481 songs - 23 hr 24 min
+482 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [No Traje Naki](https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [OG CITY](https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz) | 4:01 | 2023-04-21 | 2025-03-08 |
 | [Nobajoniconpasta](https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Nobajoniconpasta](https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3) | 2:31 | 2024-01-26 | 2025-07-26 |
 | [Noche Obscura \(feat\. Nayar, Riko Mix, Alberto Producer\)](https://open.spotify.com/track/4ev0CfZNYRsC57aZ9gXhjn) | [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Starboooy.](https://open.spotify.com/artist/4utu1WEJsJVw2G3EuiQzQ4), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93), [Nayar](https://open.spotify.com/artist/28Byb7B4Q788EWDM62Uxdq), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Noche Obscura \(feat\. Nayar, Riko Mix, Alberto Producer\)](https://open.spotify.com/album/4eHKqNZGIlvqp2njbombqu) | 4:04 | 2025-03-07 | 2025-06-13 |
+| [NOTYPE](https://open.spotify.com/track/4ZRtXnyW2BPAxsAVpe42Fy) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [Porque Quise DELUXE](https://open.spotify.com/album/78Ok3vPNjR0K0WKVz4wYNm) | 2:30 | 2025-09-26 |  |
 | [Nunca Estoy](https://open.spotify.com/track/6N4ioa3XSbvjmwdVEERl8F) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:42 | 2025-07-25 |  |
 | [O Quee](https://open.spotify.com/track/78SI3V5HxEqffMTU5OaeQq) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Angel Kuri](https://open.spotify.com/artist/0mvB8gffQB83SK0JaB7Ew3), [Isai el Profeta](https://open.spotify.com/artist/6cakG3aRnZNWGwcTodfeGh) | [O Quee](https://open.spotify.com/album/0TDmWD22ZyIF7blte5qlC0) | 2:32 | 2025-03-07 | 2025-06-14 |
 | [ORGANIKO](https://open.spotify.com/track/64tt0ZWc96vUi9Ytn2Jwtc) | [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [BUENOS AIRES MOTEL](https://open.spotify.com/album/5X33B3ES7gsqUTH47mmapY) | 2:19 | 2023-03-10 | 2023-03-18 |

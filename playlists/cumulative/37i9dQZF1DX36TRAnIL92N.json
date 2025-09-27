@@ -107,6 +107,28 @@
     },
     {
       "album": {
+        "name": "Acid Blood",
+        "url": "https://open.spotify.com/album/6bmsMcbQLEfYykzpRd3qEf"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211741,
+      "name": "Acid Blood",
+      "url": "https://open.spotify.com/track/1ivhs5EQc8eAw5rcB9SEQz"
+    },
+    {
+      "album": {
         "name": "Action",
         "url": "https://open.spotify.com/album/7k3IUuffIMangIYqbINKrb"
       },
@@ -484,7 +506,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 189618,
       "name": "Better Than U Thought",
       "url": "https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6"
@@ -622,6 +644,28 @@
       "duration_ms": 240000,
       "name": "Chaos - Rave Mix",
       "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
+    },
+    {
+      "album": {
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/4jmiczml2DXJ5idy60KGwY"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/4WXu03JF0IF5royyfgJ7Fl"
     },
     {
       "album": {
@@ -2044,7 +2088,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 158167,
       "name": "I Need It More",
       "url": "https://open.spotify.com/track/3if5OebGvCHYFUrgWbcNq2"
@@ -2530,7 +2574,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 172563,
       "name": "Love Is Free",
       "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
@@ -3333,6 +3377,24 @@
     },
     {
       "album": {
+        "name": "Partners of Destiny",
+        "url": "https://open.spotify.com/album/1uk10nTknJpttQ8pZCmO3Q"
+      },
+      "artists": [
+        {
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261346,
+      "name": "Partners of Destiny",
+      "url": "https://open.spotify.com/track/6VfxcjXxjJrXhK2EXXbkKy"
+    },
+    {
+      "album": {
         "name": "Party Don\u2019t Stop",
         "url": "https://open.spotify.com/album/4edYdG2DNar0u4Yi2GdjAy"
       },
@@ -3540,7 +3602,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
@@ -5048,6 +5110,36 @@
       "duration_ms": 363171,
       "name": "Vesperi",
       "url": "https://open.spotify.com/track/5OBh7R8k3gEsG2o7clnPdQ"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head (Amelie Lens Remix)",
+        "url": "https://open.spotify.com/album/0Vuh5UNwqz3ObGMGhCiQr9"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Son of Son",
+          "url": "https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192011,
+      "name": "Voices In My Head - Amelie Lens Remix",
+      "url": "https://open.spotify.com/track/13O1dd0pQzohHTKVBzCo54"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > indie twang fall bby 🍂 Frog on the cover
 
-319 songs - 20 hr 36 min
+322 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Drive Baby](https://open.spotify.com/track/1ZMkpob9mAm4ydeDPEcQMR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Drive Baby](https://open.spotify.com/album/0wqjIiiLFCcYkThNwsCOMQ) | 2:38 | 2023-12-01 | 2024-06-22 |
 | [Drivin \(Runnner Remix\)](https://open.spotify.com/track/0ufgQYjEOPqqy0yn2JRehB) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Drivin \(Runnner Remix\)](https://open.spotify.com/album/0avZ2Sdc0HpKSc6JWtWPOw) | 3:26 | 2023-08-11 | 2023-12-09 |
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-05-04 |  |
+| [Eastern Standard](https://open.spotify.com/track/1IXW3SPgF1h76zKzuXUxnk) | [Burley](https://open.spotify.com/artist/0lgXuE7GSIEsWREA365Dt9) | [Eastern Standard](https://open.spotify.com/album/7LcbDfLlgddRbd9G0RHUN0) | 5:25 | 2025-09-26 |  |
 | [El Paso](https://open.spotify.com/track/19um4IgOQ8eV3XUTjYZlCJ) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [El Paso](https://open.spotify.com/album/6sreMfL2MuL7GRlNPbiTxw) | 2:04 | 2023-02-23 |  |
 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 | 2025-05-21 |  |
 | [Electric Lizard](https://open.spotify.com/track/6hyj1V6yxz3VhGuZ1lkoJv) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Electric Lizard](https://open.spotify.com/album/4xKoeHAtvk4C6MZnKB9RDQ) | 3:26 | 2024-08-26 |  |
@@ -257,6 +258,7 @@
 | [Shirley](https://open.spotify.com/track/3RoXuQNiqtWPigQFfbWqqm) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Shirley](https://open.spotify.com/album/1yAdXJsVvczv434ikVJf5I) | 1:19 | 2023-03-17 | 2023-10-27 |
 | [Shirley](https://open.spotify.com/track/7i7vzTKLeeLzbJ3crsTqRB) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends \(UNRATED EDITION\)](https://open.spotify.com/album/4XNH2tkgSe8rtFuGRdgWp2) | 1:19 | 2023-10-13 | 2023-12-02 |
 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2023-08-25 |  |
+| [Sideways](https://open.spotify.com/track/4mUgLu7PjDvTsKbUF8iTB4) | [Daffo](https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp) | [Sideways](https://open.spotify.com/album/1X6cnNJYkAJoOVEuQ557TF) | 2:59 | 2025-09-26 |  |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-02-23 |  |
 | [Sleeping Dogs](https://open.spotify.com/track/048fPBqD9hIpKI3mCxGK65) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [New Old Horse](https://open.spotify.com/album/35Yzjj53JrZsobBouZGpxj) | 4:47 | 2025-03-28 |  |
 | [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 9:13 | 2023-02-23 | 2024-06-22 |
@@ -327,5 +329,6 @@
 | [You Don’t Live Here Anymore](https://open.spotify.com/track/1P5WwxvZGiABbxEiYhSsfp) | [Sharp Pins](https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN) | [Radio DDR](https://open.spotify.com/album/2rMHZAlbmZuIsr8iWR7oZX) | 3:50 | 2025-08-08 |  |
 | [You Know I'm Down](https://open.spotify.com/track/1yVyCAFIVeqT7ytG271idT) | [Frog](https://open.spotify.com/artist/3ME5MgDqwM6G3UDLmwjftA) | [Count Bateman](https://open.spotify.com/album/2O8N7PKDWJ9jmYaMV7CAqH) | 2:10 | 2024-11-15 | 2025-02-26 |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-23 |  |
+| [Zodiac](https://open.spotify.com/track/3j0f2HBhLlnEfMjGWkwOJ1) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 2:20 | 2025-09-26 |  |
 
 \*This playlist was first scraped on 2023-02-24. Prior content cannot be recovered.

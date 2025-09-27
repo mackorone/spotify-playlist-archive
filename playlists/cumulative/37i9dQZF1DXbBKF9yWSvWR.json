@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Weekly update for Indie releases. Cover: Benny Sings",
+  "description": "Weekly update for Indie releases. Cover: tjels",
   "name": "Indie Update",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 255765,
       "name": "Alabaster",
       "url": "https://open.spotify.com/track/7LqMpswiEeZAnqNTkcLiGY"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 192683,
       "name": "Bad Therapy (Fisherman)",
       "url": "https://open.spotify.com/track/2br9Bp3zV9jnRnMj1fsW2L"
@@ -1286,7 +1286,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 142080,
       "name": "Broken",
       "url": "https://open.spotify.com/track/4Tpptkiz0q19v4Kly1ByrR"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 208111,
       "name": "Confused Kids - Alternate",
       "url": "https://open.spotify.com/track/2ZWOX0cB7odheL4vKAjomS"
@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "Dragon's Eyes",
         "url": "https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs"
       },
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 432566,
       "name": "End Of Summer",
       "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
@@ -3240,7 +3258,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 364800,
       "name": "Fuck Me Eyes",
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
@@ -3691,6 +3709,46 @@
     },
     {
       "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195999,
+      "name": "Gown",
+      "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
+    },
+    {
+      "album": {
+        "name": "Graceful Fire",
+        "url": "https://open.spotify.com/album/1UPm5Ir7374fgerfHDQHXT"
+      },
+      "artists": [
+        {
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240137,
+      "name": "Graceful Fire",
+      "url": "https://open.spotify.com/track/3i8SE9MzDHGeKkT01BPjCf"
+    },
+    {
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/0Q1cLCrdqNt9SohBQrIQzm"
       },
@@ -4038,7 +4096,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 201666,
       "name": "Homerun 2021",
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
@@ -4302,7 +4360,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196000,
       "name": "I Think I Feel Something",
       "url": "https://open.spotify.com/track/3FHEN0BCClagOpIxV2jaDY"
@@ -4338,7 +4396,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 191733,
       "name": "i was never yours",
       "url": "https://open.spotify.com/track/3PZJCi3lAFueEfVpnjpd6X"
@@ -4987,6 +5045,24 @@
     },
     {
       "album": {
+        "name": "portals//polarities",
+        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256480,
+      "name": "leave it all behind, Mike",
+      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
+    },
+    {
+      "album": {
         "name": "Leave The Light On",
         "url": "https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA"
       },
@@ -5002,6 +5078,32 @@
       "duration_ms": 220488,
       "name": "Leave The Light On",
       "url": "https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb"
+    },
+    {
+      "album": {
+        "name": "Leave What You Know",
+        "url": "https://open.spotify.com/album/7JZ1AZeM2mgg988zDmzAua"
+      },
+      "artists": [
+        {
+          "name": "Remy Van Kesteren",
+          "url": "https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE"
+        },
+        {
+          "name": "Cape Sleep",
+          "url": "https://open.spotify.com/artist/59p3YuZWUKjBcwSpeAB9x4"
+        },
+        {
+          "name": "Robin Kester",
+          "url": "https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208365,
+      "name": "Leave What You Know",
+      "url": "https://open.spotify.com/track/3vjphofNUulNuDxlAhLE2N"
     },
     {
       "album": {
@@ -5528,7 +5630,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 250759,
       "name": "Make Me Forget",
       "url": "https://open.spotify.com/track/1ok3Bj5ohHOiSbIymfBUnc"
@@ -6451,6 +6553,42 @@
     },
     {
       "album": {
+        "name": "Normaal Toen",
+        "url": "https://open.spotify.com/album/4vnvLUkUTaGUYy4CJGkR10"
+      },
+      "artists": [
+        {
+          "name": "Eefje de Visser",
+          "url": "https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194454,
+      "name": "Normaal Toen",
+      "url": "https://open.spotify.com/track/3NvAhi0tPwQyyYZuSXptD1"
+    },
+    {
+      "album": {
+        "name": "Not Alone",
+        "url": "https://open.spotify.com/album/1UUSEDU0htapYOkHHJUEV0"
+      },
+      "artists": [
+        {
+          "name": "Loupe",
+          "url": "https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211642,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/69n7aUaG1YNWRvyzS71d7g"
+    },
+    {
+      "album": {
         "name": "Not Like That Anymore",
         "url": "https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn"
       },
@@ -6982,7 +7120,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 165826,
       "name": "People Need People",
       "url": "https://open.spotify.com/track/6VVSeMov6UkLXMtNgMtGF7"
@@ -7166,7 +7304,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 219503,
       "name": "Planets",
       "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
@@ -8273,6 +8411,24 @@
     },
     {
       "album": {
+        "name": "Something To Die For",
+        "url": "https://open.spotify.com/album/3UwrZElviuei4CpLzQPyQh"
+      },
+      "artists": [
+        {
+          "name": "Oproer",
+          "url": "https://open.spotify.com/artist/0t4k3hFcPfmTpeNlRFPat2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "Something To Die For",
+      "url": "https://open.spotify.com/track/6mQnKSJd8mJnGbqRdVVmuB"
+    },
+    {
+      "album": {
         "name": "Sometimes I Feel Great, Sometimes I Feel Useless",
         "url": "https://open.spotify.com/album/7D7F63TERCvVdQeaCUZ8yf"
       },
@@ -8324,7 +8480,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 222905,
       "name": "Sorcery",
       "url": "https://open.spotify.com/track/5nIOUY0BPtvSoqyZsC9haC"
@@ -8367,6 +8523,24 @@
     },
     {
       "album": {
+        "name": "Sorte",
+        "url": "https://open.spotify.com/album/6CnDZ1G6TWha0k5FOIm2td"
+      },
+      "artists": [
+        {
+          "name": "\u00c3o",
+          "url": "https://open.spotify.com/artist/2FnhKB01CBc0KBjcTDDOod"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247056,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/0uDa0oNkMH5hksVr2hY5Hw"
+    },
+    {
+      "album": {
         "name": "Sounds Like You",
         "url": "https://open.spotify.com/album/2TaSisxt0dmALrEfpLNagV"
       },
@@ -8382,6 +8556,24 @@
       "duration_ms": 171479,
       "name": "Sounds Like You",
       "url": "https://open.spotify.com/track/7JFsiIjRm0jwq90I6GW7dF"
+    },
+    {
+      "album": {
+        "name": "Spijt Is Iets Voor Later",
+        "url": "https://open.spotify.com/album/5qpNmLDvj5RJ4dwXkCRaK8"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189880,
+      "name": "Spijt Is Iets Voor Later",
+      "url": "https://open.spotify.com/track/6dOKOfXGPlaKEhEqOohKy0"
     },
     {
       "album": {
@@ -8782,7 +8974,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 172500,
       "name": "Tainted Glow",
       "url": "https://open.spotify.com/track/1q9MKzw7JdrYOHJaJopi66"
@@ -9002,7 +9194,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 280800,
       "name": "Television Love",
       "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
@@ -9240,7 +9432,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 227126,
       "name": "The Daylight",
       "url": "https://open.spotify.com/track/1SEyzOqT4QUpzi8QnFafV5"
@@ -9328,7 +9520,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 199256,
       "name": "The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)",
       "url": "https://open.spotify.com/track/5GVyBn2zUEweqnS6oeXlMp"
@@ -9850,7 +10042,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 203615,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
@@ -10048,7 +10240,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 298776,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/2x99yY56oIokc7Wi6969mI"
@@ -10066,7 +10258,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 261157,
       "name": "Vision",
       "url": "https://open.spotify.com/track/3iet8NSu6S6ZbSTS8EMUsC"
@@ -10174,7 +10366,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 186987,
       "name": "Watch Me Go",
       "url": "https://open.spotify.com/track/1tLI2rasJpO7JYWw0axMNz"
@@ -10492,7 +10684,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 227070,
       "name": "Words",
       "url": "https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy"

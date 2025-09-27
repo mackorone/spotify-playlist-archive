@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 236260,
       "name": "Call",
       "url": "https://open.spotify.com/track/0NKMIeCLz6FhoziY1HjhtO"
@@ -3578,6 +3578,28 @@
       "duration_ms": 170186,
       "name": "The Way You Talk",
       "url": "https://open.spotify.com/track/1V3wlehSbUKl0esIqL1ylB"
+    },
+    {
+      "album": {
+        "name": "think of u",
+        "url": "https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB"
+      },
+      "artists": [
+        {
+          "name": "Cucina Sonora",
+          "url": "https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES"
+        },
+        {
+          "name": "Pentola",
+          "url": "https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238309,
+      "name": "think of u",
+      "url": "https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv"
     },
     {
       "album": {

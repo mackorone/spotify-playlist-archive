@@ -898,7 +898,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 308522,
       "name": "C\u00f3mo Ver?",
       "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 245000,
       "name": "El Cuento",
       "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Fiesta de Zombis",
+        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254328,
+      "name": "Fiesta de zombis",
+      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
+    },
+    {
+      "album": {
         "name": "El Paso Gigante",
         "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
@@ -1958,6 +1976,24 @@
       "duration_ms": 225000,
       "name": "Groovy Situation",
       "url": "https://open.spotify.com/track/7zM2gNp7NvfPjOhk4GnP02"
+    },
+    {
+      "album": {
+        "name": "HACELA CORTA MOROCHO",
+        "url": "https://open.spotify.com/album/3hMY1AP3oAnzSD2HAZQAAC"
+      },
+      "artists": [
+        {
+          "name": "PALO",
+          "url": "https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117358,
+      "name": "HACELA CORTA MOROCHO",
+      "url": "https://open.spotify.com/track/65O7K8HHHTCa8pInjQdTcp"
     },
     {
       "album": {
@@ -2711,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Las Preguntas",
+        "url": "https://open.spotify.com/album/53YzTeBi9F8MsaDDSeaigC"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283094,
+      "name": "Las Preguntas",
+      "url": "https://open.spotify.com/track/10onZ2HMiHn5qxlc5TVVU2"
+    },
+    {
+      "album": {
         "name": "Let it Be",
         "url": "https://open.spotify.com/album/502c2vbyXTzFFzIa4QSccC"
       },
@@ -3364,7 +3418,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 223405,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Jon Muq
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,703 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,724 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Ssemusajja](https://open.spotify.com/track/27lnkqJpcscslS7gS9VXfY) | [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO), [Sandra Nankoma](https://open.spotify.com/artist/0M5YR05PddV5asF78k9CB9) | [Ssemusajja](https://open.spotify.com/album/0R90wsPOBZN8b5vXUCEXQJ) | 3:32 |
 | 60 | [Dream Girl](https://open.spotify.com/track/6HAAyksU8YpwwyW4RBgv2x) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny](https://open.spotify.com/artist/6vD7EUAHGIUGuToTc6SKaJ) | [Dream Girl](https://open.spotify.com/album/2bkg6XAiamz56VEELGehyd) | 2:31 |
 
-Snapshot ID: `AAAAAHbu7qRvxVXE3InNIifVxEf3Llen`
+Snapshot ID: `AAAAAP88ODVMp24U5DalSn84Kn6LXADp`

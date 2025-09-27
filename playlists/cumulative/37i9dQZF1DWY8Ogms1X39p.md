@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-303 songs - 17 hr 4 min
+304 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bawa Daku Pergi](https://open.spotify.com/track/7mZOZpsfwVOnLjznR8XtiR) | [Soundwave](https://open.spotify.com/artist/2KMR8kfHQCPYJ2SatjkIEu), [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [Bawa Daku Pergi](https://open.spotify.com/album/15CnCIgyXksZs7sZBS8o0h) | 3:11 | 2025-06-23 |  |
 | [Bebas](https://open.spotify.com/track/7uNOlS0fNOYI1ZSzpvGqGm) | [Iwa K](https://open.spotify.com/artist/5V4Bmxj6CowUoOdcLUEQPt) | [Topeng](https://open.spotify.com/album/25Z8rOQfqkOspgEjVmZdCM) | 3:36 | 2025-08-03 | 2025-09-08 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-17 | 2025-06-24 |
+| [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2025-09-26 |  |
 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 | 2023-09-13 |  |
 | [Bergegas](https://open.spotify.com/track/5XB9Yp3f6CvhZrB6ysDc2T) | [Bacill](https://open.spotify.com/artist/4GRTMyYeNNUobvNDVsNu9r) | [ANTIXUNIX](https://open.spotify.com/album/1eCskyfXmUCA7TvEwgNS91) | 2:26 | 2025-08-03 | 2025-09-08 |
 | [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 | 2025-02-12 |  |

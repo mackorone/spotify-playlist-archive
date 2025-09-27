@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Megan Moroney
 
-201 songs - 10 hr 59 min
+203 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [O Holy Night](https://open.spotify.com/track/3132nlQjmjbqTfngpTP9jw) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [O Holy Night](https://open.spotify.com/album/3KLLCWa0AzGm2YwIaJJz1R) | 4:57 | 2023-11-24 | 2024-10-19 |
 | [O Holy Night](https://open.spotify.com/track/14K3UQ2IR4UfmAxjadEOB6) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [O Holy Night](https://open.spotify.com/album/085lMH6I79hVVbyATMspdf) | 3:09 | 2023-12-01 | 2024-10-19 |
 | [O Holy Night](https://open.spotify.com/track/1NlGQEtJY23eLjXWLB2k9q) | [Mike Parker](https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m) | [O Holy Night](https://open.spotify.com/album/0OZJQscGlHW4ZXrUQm4kwx) | 3:58 | 2024-11-22 |  |
+| [O Little Town Of Bethlehem](https://open.spotify.com/track/5coZJXTxpUzUbPlvLogCGg) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [O Little Town Of Bethlehem](https://open.spotify.com/album/2hKS11Nkh1b8nZSmQwxxuF) | 3:25 | 2025-09-26 |  |
 | [Old Toy Trains \- Bonus Track](https://open.spotify.com/track/1piyBNstQ55S4DO21cwb0l) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Christmas To Christmas](https://open.spotify.com/album/657rEUY3sBhYsW1KKuptPI) | 2:04 | 2024-10-04 |  |
 | [Once A Year](https://open.spotify.com/track/0ZdlHTzPhkKGvIvd7dIMeo) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Once A Year](https://open.spotify.com/album/73xMNATNLhKm7R2HfzgVZc) | 2:57 | 2023-11-24 | 2024-10-19 |
 | [Please Come Home For Christmas](https://open.spotify.com/track/6OVrVGKb1Npjj4StFHiXwJ) | [Alex Hall](https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o) | [Season's Greetings From Alex Hall](https://open.spotify.com/album/1Gdwv5PQF6kcgkjuIn3YKr) | 3:01 | 2023-11-24 | 2024-10-19 |
@@ -206,6 +207,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/54INOuusIyGe5cSd1fhSgx) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [It's Officially Christmas: The Double Album](https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf) | 2:15 | 2024-10-18 |  |
 | [Winter Wonderland](https://open.spotify.com/track/1HuTA2331NR1rFmL8BHYcs) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Winter Wonderland](https://open.spotify.com/album/0d4vRHbODXRxNJX35SZZgg) | 2:08 | 2023-11-24 | 2024-10-19 |
 | [Winter Wonderland](https://open.spotify.com/track/0wfpWIwSOMTmhwPqUXhZOl) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Winter Wonderland](https://open.spotify.com/album/5pTrTbmTDGcgg1Tvds4iMk) | 2:15 | 2024-11-01 |  |
+| [Wouldn’t Be Christmas](https://open.spotify.com/track/5GV4Vgimh8KiSf5UsW5W9o) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Volume 2\)](https://open.spotify.com/album/2b36acHD0MJvIT82Zoc6tV) | 3:26 | 2025-09-26 |  |
 | [Wrap You Up](https://open.spotify.com/track/3kpk1EOVsnZIID0Bfgf1Za) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Silverado Santa](https://open.spotify.com/album/54kXDXgK0dhdxRa8MHHDzp) | 3:53 | 2023-11-24 | 2024-10-19 |
 | [You Make It Feel Like Christmas \(feat\. Austin Snell\)](https://open.spotify.com/track/4WGnSdV3IUnIG2p4Pgn23F) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE), [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 3:06 | 2023-12-01 | 2024-10-19 |
 | [Your Angel](https://open.spotify.com/track/2xsvVZh9rVMVZgHWbtU9On) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Your Angel](https://open.spotify.com/album/6WJc7BvF7RDjLPWETP1c2V) | 3:34 | 2024-11-01 |  |

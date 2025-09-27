@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from The Favors
+> The best in folk & acoustic today featuring music from Patrick Watson
 
 768 songs - 1 day 23 hr 13 min
 

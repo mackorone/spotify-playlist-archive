@@ -2,7 +2,7 @@
 
 ### [mood\. ](https://open.spotify.com/playlist/37i9dQZF1DWYtDSKIiDhua)
 
-> The R&B and good vibe tracks for your current mood\. Cover: Thundercat
+> The R&B and good vibe tracks for your current mood\. Cover: Olivia Dean
 
 1,390 songs - 3 day 2 hr 12 min
 
@@ -501,7 +501,7 @@
 | [Heaven](https://open.spotify.com/track/6se2IiUzLtzfoTWdTO0VNH) | [RADi](https://open.spotify.com/artist/6yNBuO7IGsqK0wMdVucIfd) | [Heaven](https://open.spotify.com/album/6c3GfYhxjw2pS4tasHl5Dj) | 2:34 | 2023-07-27 | 2023-08-18 |
 | [HEAVENFALL](https://open.spotify.com/track/7A9emHuiTyoEBhHMP4d5ml) | [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q) | [HEAVENFALL](https://open.spotify.com/album/2oUm9YRz6XRosrGGbPsoxg) | 3:06 | 2024-05-24 | 2024-08-09 |
 | [Hell No](https://open.spotify.com/track/55LyKlGep64SR3BF5MBmaL) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Hell No](https://open.spotify.com/album/6E7p0YLnVYipbMj3h0mNbX) | 3:18 | 2022-09-08 | 2022-09-16 |
-| [HELLO](https://open.spotify.com/track/5XvfJ5Ypwd3XC8fWoc5eYg) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [HELLO, KL](https://open.spotify.com/album/1I4vjz0pyWEhuipK8VXbpO) | 2:36 | 2025-09-25 |  |
+| [HELLO](https://open.spotify.com/track/5XvfJ5Ypwd3XC8fWoc5eYg) | [Wynn](https://open.spotify.com/artist/6I3Ht2A9XcZyeD8cMJuIWI), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [HELLO in KL](https://open.spotify.com/album/1I4vjz0pyWEhuipK8VXbpO) | 2:36 | 2025-09-25 |  |
 | [Hello, Hi](https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Hello, Hi](https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y) | 2:15 | 2025-01-16 | 2025-03-21 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-13 | 2023-06-16 |
 | [Here It Goes Again](https://open.spotify.com/track/5ENmrKNn9IH3cAXR9EFe4j) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 3:50 | 2022-11-03 | 2023-04-21 |
@@ -847,7 +847,7 @@
 | [Not an Ordinary Fairytale \(feat\. MUREI\)](https://open.spotify.com/track/3h9NRcDVEGLk8EUk2MLh7p) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV), [MUREI](https://open.spotify.com/artist/2FfWFPeKRozWLFsJzR9CDf) | [Not an Ordinary Fairytale \(feat\. MUREI\)](https://open.spotify.com/album/4KzdsnXW3hIeOsLQypcd1o) | 3:35 | 2022-09-22 | 2022-12-09 |
 | [Not Bad Is Not Good Enough](https://open.spotify.com/track/5W6raJdgC0usd0CpW6R9X9) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf) | [Mirror Work 2](https://open.spotify.com/album/5L85aCLAdgNJdkqDkKUYf8) | 2:36 | 2025-06-26 | 2025-07-11 |
 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-05-29 | 2025-09-19 |
-| [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [](https://open.spotify.com/album/null) | 3:30 | 2025-09-25 |  |
+| [not today, but maybe someday.](https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Hourglass Plea](https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg) | 3:30 | 2025-09-25 |  |
 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 | 2023-08-17 | 2023-09-01 |
 | [Nothing Feels Better](https://open.spotify.com/track/5tmxPmmXvgJPU7bIukFX8p) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Nothing Feels Better](https://open.spotify.com/album/3Pm0LABzgq730cCRhayUTw) | 2:37 | 2022-06-08 | 2022-09-23 |
 | [Nowhere But Up](https://open.spotify.com/track/1eSaEAjIt2OOVbvLqtZG6i) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Nowhere But Up](https://open.spotify.com/album/1acFeY7OrZMzmCiAnYWmKU) | 3:55 | 2022-09-22 | 2023-03-18 |
@@ -1078,7 +1078,7 @@
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2023-02-03 | 2025-01-17 |
 | [Snowfall \(Feat\. Coogie\)](https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Snowfall](https://open.spotify.com/album/1WkK7CXeGV60KEncYYDjf8) | 2:29 | 2025-01-16 | 2025-04-11 |
 | [So Cool](https://open.spotify.com/track/4fpLhoSs1BMmx4ZzTkxZif) | [Jay Lau](https://open.spotify.com/artist/5Q5cRFXh72YfaeTrJGsBjX) | [Begin](https://open.spotify.com/album/0uQM8N2OIq4ZKGhwhYEHo2) | 3:08 | 2023-03-16 | 2023-04-01 |
-| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [](https://open.spotify.com/album/null) | 2:49 | 2025-09-25 |  |
+| [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 |  |
 | [SO FLY](https://open.spotify.com/track/4ECM8whdBiQV1vkovstrnW) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [SO FLY](https://open.spotify.com/album/61I0kCBZg58MNlKZnRnfw0) | 3:36 | 2024-05-30 | 2024-08-09 |
 | [So Glad to Know You](https://open.spotify.com/track/1odctO8JYh5gLLf6lnbfgn) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf) | [So Glad to Know You](https://open.spotify.com/album/1pD3PzctPeb7VQ6RV1Xga2) | 3:42 | 2024-08-22 | 2024-08-30 |
 | [So Sticky](https://open.spotify.com/track/4amIo7OjJJfViAdcwhGXqt) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [dinosaur slayerr](https://open.spotify.com/album/4PxscicWtqzSU3OVNsKmtN) | 3:02 | 2025-08-29 |  |

@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Karnivool
 
-825 songs - 2 day 22 hr 57 min
+828 songs - 2 day 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,8 @@
 | [Centauri](https://open.spotify.com/track/547nn4xAof17b8n7pPLgpn) | [Veio](https://open.spotify.com/artist/3QY5DMEgg7H5EAttsSHSSg) | [Vitruvian](https://open.spotify.com/album/0UqADSHYcitQe4LDgJFMzO) | 8:49 | 2022-01-14 | 2022-07-09 |
 | [Chameleon](https://open.spotify.com/track/0MChNtMWR0NK9szOwxKC0u) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [Chameleon](https://open.spotify.com/album/6bq18INP2zRlSt4lSpVHeE) | 4:30 | 2022-09-02 | 2024-04-19 |
 | [Charcoal Grace I: Prey](https://open.spotify.com/track/5fQ53YX1adoTkNWuFeoGVu) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Charcoal Grace](https://open.spotify.com/album/2XZiBGEBzo5PqSMjgGV6IS) | 7:47 | 2024-03-29 |  |
-| [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 | 2024-07-23 |  |
-| [Chauvinist](https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Chauvinist](https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA) | 3:13 | 2022-07-13 |  |
+| [Chasing Sunsets](https://open.spotify.com/track/5dIfFSUtKg2QOHf32iHyUh) | [Charlotte Wessels](https://open.spotify.com/artist/6yyPaE45AE346XVgFJgiaI) | [Chasing Sunsets](https://open.spotify.com/album/6fQCWaGRbfcxZWwKR4Psav) | 4:16 | 2024-07-23 | 2025-09-27 |
+| [Chauvinist](https://open.spotify.com/track/2znJImPhsEV8FhHI4Xzxoc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Chauvinist](https://open.spotify.com/album/6hRnrYQSZOKd8msauQCChA) | 3:13 | 2022-07-13 | 2025-09-27 |
 | [Clairvoyant](https://open.spotify.com/track/0Ey64fhfqXKfdDohWzPZJm) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/4GbvTCSu1Kehnr9Xq334u7) | 7:37 | 2022-07-13 | 2023-12-23 |
 | [Clairvoyant](https://open.spotify.com/track/39v9F4fMRSvpYPx9AOg9WW) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/5xBtUANwVKmjYKgPzdMPcP) | 7:37 | 2022-07-13 | 2022-07-28 |
 | [Clairvoyant](https://open.spotify.com/track/3W0lqO9oUngTKzjkY1tCNu) | [The Contortionist](https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS) | [Clairvoyant](https://open.spotify.com/album/2QRy5asGvh6yqTDKnKRG96) | 7:37 | 2023-12-06 | 2024-04-19 |
@@ -142,6 +142,7 @@
 | [Computer Eyes](https://open.spotify.com/track/1vKwCrbb0cgm56zrIa4WJq) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [Timeline](https://open.spotify.com/album/5fzem17HhdK8JvbQ5VssDU) | 7:17 | 2021-12-17 | 2022-01-29 |
 | [Condemned to the Gallows](https://open.spotify.com/track/26zVufX9OHnePGHVj58x69) | [Between The Buried And Me](https://open.spotify.com/artist/2JC4hZm1egeJDEolLsMwZ9) | [Condemned to the Gallows](https://open.spotify.com/album/6zT7A9hiGNmmSn9wBIzWoC) | 6:34 | 2021-12-17 | 2022-01-17 |
 | [Constructive](https://open.spotify.com/track/3ZcFuobNEfiHDWsanugeT3) | [Riccardo Moccia](https://open.spotify.com/artist/4KSLuEfIqlU6FkNZwuz5oe) | [Sensed](https://open.spotify.com/album/6qbmbHiZxEup9rrguCn5s3) | 5:01 | 2023-01-20 | 2023-04-09 |
+| [Corridor](https://open.spotify.com/track/6mzPvWgI1Nf60846aOLzc7) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Corridor](https://open.spotify.com/album/7E3UKoBWWNjxHIIujbZW7W) | 3:13 | 2025-09-26 |  |
 | [Counterfeit](https://open.spotify.com/track/56DpxldmWlbxESQ3g7J4Ij) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Cloudburst](https://open.spotify.com/album/0uTemOj24WSMxUs4R6Ab4x) | 3:34 | 2022-07-13 | 2023-12-07 |
 | [Creatures from the Mud](https://open.spotify.com/track/4g74CSDNPepcXXWyJ53wry) | [Shokran](https://open.spotify.com/artist/1DHGS6S7X2lF4cgEa9ErqC) | [Exodus](https://open.spotify.com/album/5X4CRGrc6q1ivnwgifLJJi) | 4:25 | 2022-07-13 |  |
 | [Cubensis](https://open.spotify.com/track/3kHcEnVods7xTkh8KgsJU1) | [Intronaut](https://open.spotify.com/artist/17qfMEjKb5ry8L8mekQZfd) | [Cubensis](https://open.spotify.com/album/2e3JsIrF4ZPDv4sZpErBSV) | 6:53 | 2021-12-17 | 2022-07-24 |
@@ -351,6 +352,7 @@
 | [In Your Face](https://open.spotify.com/track/73YB6qqXBRPYeDfDjUd6IB) | [ADHARMA](https://open.spotify.com/artist/3L9OmtjKGtOmtoMOpzxsMt) | [In Your Face](https://open.spotify.com/album/5ufaWcLX8Ire6Al9J1jd1F) | 2:48 | 2024-03-29 | 2025-02-08 |
 | [Indulge in Color](https://open.spotify.com/track/0mk2G6IvDSxccVTKFIfRIy) | [Redemption](https://open.spotify.com/artist/3TZpN3GTy0RL1i6Pb10IRS) | [Indulge in Color](https://open.spotify.com/album/6mvqzauGJu9W8a5aFJcQg3) | 7:52 | 2021-12-17 | 2022-01-29 |
 | [Infinion](https://open.spotify.com/track/2ZPlZDKXW57qLyQoXMEAiT) | [Shylmagoghnar](https://open.spotify.com/artist/0sfWl1dWLgEtMy9oFnNoDA) | [Convergence](https://open.spotify.com/album/0dXuF6u3SQPBT53qTWbHYl) | 7:01 | 2023-12-06 | 2024-04-19 |
+| [Innerdeeps](https://open.spotify.com/track/5vFwvq8OvcZEtbdYRZe4jf) | [Royal Sorrow](https://open.spotify.com/artist/0HadlhyA8MupHSseNEvpLK) | [Innerdeeps](https://open.spotify.com/album/4xwYM5jKD90isd07LLUCGD) | 5:38 | 2025-09-26 |  |
 | [Innocence Was Long Forgotten](https://open.spotify.com/track/38xswHmNWqoAFznp81djgj) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Innocence Was Long Forgotten](https://open.spotify.com/album/59i8Qqzatwq6dKpHDsrjcU) | 4:20 | 2024-07-23 | 2025-09-14 |
 | [Innocent](https://open.spotify.com/track/6wviLxwR04XGjTRH8LkJ3R) | [Uneven Structure](https://open.spotify.com/artist/6ncfp4E8TXGnp6nYwBUwwj) | [Innocent](https://open.spotify.com/album/2bleSQYUwyI2O785GsosnE) | 5:39 | 2021-12-17 | 2022-07-25 |
 | [Into The Ether](https://open.spotify.com/track/2ZErxAtLkav1xSNNIuUJM5) | [Esoterica](https://open.spotify.com/artist/63l2JZ9H6olP7LjPwYXN21) | [Into The Ether](https://open.spotify.com/album/7kTTeCH5BZEh51P3nYF1CP) | 5:18 | 2025-06-20 |  |
@@ -413,6 +415,7 @@
 | [Lovebite](https://open.spotify.com/track/5eF04x4p4bLw6rpaNcMX8n) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Lovebite](https://open.spotify.com/album/7l5C0M00szx06bZBiRfitX) | 3:49 | 2023-02-24 |  |
 | [Lucid \- Instrumental](https://open.spotify.com/track/2ZxbarbDgwGoe2DwoNM3v7) | [Divitius](https://open.spotify.com/artist/3OpDQOKBjTtNipHUBb9ABW) | [The Arcadian Parallel](https://open.spotify.com/album/7ja3OhYK0rI9jO9N1rnc6r) | 4:30 | 2022-07-13 | 2024-06-11 |
 | [Lunatic Fringe](https://open.spotify.com/track/5aFvQjdc3KvJEvUkEHI7TL) | [Four Stroke Baron](https://open.spotify.com/artist/091cSUyhQCRgJreqXy17m5) | [Lunatic Fringe](https://open.spotify.com/album/5rrj2JXuTlR2QY3vtrSQTE) | 4:13 | 2021-12-17 | 2022-07-28 |
+| [MADARA · endless dream](https://open.spotify.com/track/1DHbRaVkKEUneuzlVN4Yoc) | [Ankor](https://open.spotify.com/artist/6wADzvUWqgYWXigndo6Mmj) | [MADARA · endless dream](https://open.spotify.com/album/5YB8RXBdO0fvRK7PRjYnS1) | 4:08 | 2025-09-26 |  |
 | [Mahogany](https://open.spotify.com/track/1XJQgKs647fs99TP9ezrx0) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Sota](https://open.spotify.com/artist/6ePZyisYTEtSze2cCNS2Kb) | [Mahogany](https://open.spotify.com/album/2B6TPvaY8dSGRapwJCQDfJ) | 5:01 | 2021-12-17 | 2022-07-27 |
 | [Makeshift Harmony](https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [In Stasis](https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r) | 4:30 | 2022-04-15 |  |
 | [Marigold](https://open.spotify.com/track/0xaN6B7xNJU9czMXELDyDM) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/5L9ddlTFtgLj93nzy77MEO) | 7:19 | 2022-08-26 | 2024-04-19 |
@@ -478,7 +481,7 @@
 | [Noonday Devil](https://open.spotify.com/track/6N4SnZzS4YYtslJ86FgxwE) | [The Great Discord](https://open.spotify.com/artist/3KWOkq7nrD0UybEUMj4Ryt) | [Noonday Devil](https://open.spotify.com/album/4kwiB6JzcCoYH6JRsOoTE2) | 3:20 | 2021-12-17 | 2022-07-27 |
 | [Not Surprised](https://open.spotify.com/track/3JBlEGmxjEHuqzdEc6Htf8) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [Not Surprised](https://open.spotify.com/album/58hd4WgRE1LSPV0ELXHtc9) | 5:08 | 2024-03-29 | 2024-05-18 |
 | [Nothing Gold](https://open.spotify.com/track/1WGC4W2dBxxxvH97h9qCP1) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Embrace the Infinity](https://open.spotify.com/album/7HL5kk9mZEYfijS8K5YzEK) | 4:16 | 2023-04-07 |  |
-| [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 |  |
+| [Nous Sommes la Guerre](https://open.spotify.com/track/24B3NFMGpDkG952oyc2ALX) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Nous Sommes La Guerre](https://open.spotify.com/album/53kmVPU7XLxDgIZob1lAmA) | 6:53 | 2022-06-17 | 2025-09-27 |
 | [Nowhere](https://open.spotify.com/track/1Uy2ftDSKw3WmS5pEbKPtx) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/0zIO29lL9JxZCLhPszt6me) | 5:02 | 2022-10-28 | 2024-04-19 |
 | [Nowhere](https://open.spotify.com/track/3GSiy6QJ8LM2o1u6NimbZT) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Nowhere](https://open.spotify.com/album/6fOy4uokE6m81dMyrwAKtv) | 5:02 | 2022-07-13 | 2022-11-20 |
 | [Nyetflix and Chill](https://open.spotify.com/track/2eqyBC1ESZ4bEmwdH0g3j3) | [Nuclear Power Trio](https://open.spotify.com/artist/1ehBmvzykgp3Il0BUIZdev) | [Nyetflix and Chill](https://open.spotify.com/album/2pcBh5WHqZoslypnOWbWCe) | 3:23 | 2023-12-06 | 2025-05-29 |

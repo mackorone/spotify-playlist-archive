@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "A la antigua",
+        "url": "https://open.spotify.com/album/0UeCJiaaEgCddnfzMoZwEG"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "A la antigua",
+      "url": "https://open.spotify.com/track/1wnzoUVLZ4o4GntVWJRqcK"
+    },
+    {
+      "album": {
         "name": "A mi manera",
         "url": "https://open.spotify.com/album/3d6gvExEguHtp0vrNIOB3d"
       },
@@ -2764,7 +2786,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196451,
       "name": "Este Feeling",
       "url": "https://open.spotify.com/track/7kzbEaC84yqKJd5wHNdgoK"
@@ -3974,6 +3996,36 @@
       "duration_ms": 185564,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7"
+    },
+    {
+      "album": {
+        "name": "R.D.L.D.",
+        "url": "https://open.spotify.com/album/76SWVH2hqd0ZSSn2Z94nU6"
+      },
+      "artists": [
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151604,
+      "name": "Incondicional - Les Trois Monde",
+      "url": "https://open.spotify.com/track/4tsJwtKLioWx3IClkbHxhA"
     },
     {
       "album": {
@@ -6286,7 +6338,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 184000,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
@@ -8337,6 +8389,24 @@
     },
     {
       "album": {
+        "name": "TANRiCO",
+        "url": "https://open.spotify.com/album/4pKxNlIWcgUYljoJiCIqRb"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179191,
+      "name": "TANRiCO",
+      "url": "https://open.spotify.com/track/6zHG7SW5ZfwcsaAEusL7sy"
+    },
+    {
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -9260,7 +9330,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 222400,
       "name": "Vaquera Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/5eEnXoscc8v5AT6NLlBHt2"

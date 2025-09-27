@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 
 > that 50s kinda feeling, cover: Omar Rudberg
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,695 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,702 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 |
-| 2 | [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 |
-| 3 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
-| 4 | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/track/1WKafez8TM4dVYlSsxi6dS) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Always Love featuring Hyunjin \(Stray Kids\)](https://open.spotify.com/album/4qtnEKxJRzN4nqgM5kE84a) | 3:18 |
-| 5 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
+| 1 | [Cigarette Smoke In My Eyes](https://open.spotify.com/track/2AWu7GjebA7IMKvD7t0XFO) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Born Blue](https://open.spotify.com/album/6E4GlRSGCJOYQZo9yg614K) | 3:25 |
+| 2 | [Dying](https://open.spotify.com/track/5y48DeMoYP3UUrye3yNUKH) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Dying](https://open.spotify.com/album/62JSSTLIDCNBRv3R2VUrSD) | 3:03 |
+| 3 | [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 |
+| 4 | [All I Can Say](https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sincerely,](https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb) | 3:07 |
+| 5 | [Who’s Sorry Now](https://open.spotify.com/track/7wqweImXyeJY1ySXMcL7oV) | [Gracie Lawrence](https://open.spotify.com/artist/2HVDXxSGMTzRX6SbzL36jB), [Original Broadway Cast of Just In Time](https://open.spotify.com/artist/3mjvQw6QJSp0X2cIHn6QnG) | [Just In Time](https://open.spotify.com/album/7J1RtZH5DS4Ni0pmCTGT7f) | 2:55 |
 | 6 | [Daydreaming](https://open.spotify.com/track/68P2Y5cUBxwDfneL8cFJJ4) | [Elliot James Reay](https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5) | [Daydreaming](https://open.spotify.com/album/42vQ4SVYUBt7MZN2j2ZB14) | 3:19 |
 | 7 | [cozy you](https://open.spotify.com/track/2HwsleCXo5xW2wnX1j6G4b) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [cozy you](https://open.spotify.com/album/7x6DjIjmEyNT1nYQXkMZWg) | 3:30 |
-| 8 | [Doe Eyes](https://open.spotify.com/track/09KUPjidRMH7GTEM4Kdwmb) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Dirty Blonde](https://open.spotify.com/album/3RDpCMzStoWlpyEGb5hqp0) | 2:52 |
-| 9 | [Ego](https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Ego](https://open.spotify.com/album/7obtmvKbzq38Uw45UeOpa4) | 3:00 |
-| 10 | [Starcrossed](https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Starcrossed](https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC) | 3:03 |
+| 8 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
+| 9 | [Doe Eyes](https://open.spotify.com/track/09KUPjidRMH7GTEM4Kdwmb) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Dirty Blonde](https://open.spotify.com/album/3RDpCMzStoWlpyEGb5hqp0) | 2:52 |
+| 10 | [Ego](https://open.spotify.com/track/6qWLeDClhAZYyshdF3y45Y) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Ego](https://open.spotify.com/album/7obtmvKbzq38Uw45UeOpa4) | 3:00 |
 | 11 | [LASSO THE MOON](https://open.spotify.com/track/4KZPQEj1xCByZoDD6ulCmO) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [LASSO THE MOON](https://open.spotify.com/album/2cNpkhvN6jixc7uEGj6kmp) | 2:53 |
 | 12 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 |
 | 13 | [Walk The Way](https://open.spotify.com/track/4nGFmm19i8amNKjLMj8Fa2) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Ridin'](https://open.spotify.com/album/0inrolEzAhWvavaePiAp7O) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPiubrCbXxp.md) - [plain]
 | 49 | [Cherry Wine](https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Cherry Wine](https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J) | 2:53 |
 | 50 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 |
 
-Snapshot ID: `AAAAAEzqswYcPizn4xTlseXJJ3bgLMHw`
+Snapshot ID: `AAAAAI1EYEBWF8J9UTgkf6zbdYJzu83G`

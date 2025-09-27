@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Vibraciones rastafari en espa\u00f1ol con los 100 millones de streams de \"High\" de Rawayana \ud83c\uddfb\ud83c\uddea",
+  "description": "Vibraciones rastafari con Los Cafres.",
   "name": "Reggae en Espa\u00f1ol",
   "tracks": [
     {
@@ -4001,6 +4001,24 @@
     },
     {
       "album": {
+        "name": "Las Preguntas",
+        "url": "https://open.spotify.com/album/53YzTeBi9F8MsaDDSeaigC"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283094,
+      "name": "Las Preguntas",
+      "url": "https://open.spotify.com/track/10onZ2HMiHn5qxlc5TVVU2"
+    },
+    {
+      "album": {
         "name": "LEGENDS",
         "url": "https://open.spotify.com/album/5rtXvb4KNWJjRsuHyM5v4E"
       },
@@ -6806,7 +6824,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"

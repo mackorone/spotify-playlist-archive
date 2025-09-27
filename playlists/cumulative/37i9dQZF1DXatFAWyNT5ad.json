@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174981,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q"
+    },
+    {
+      "album": {
         "name": "21st Century Vampire",
         "url": "https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i"
       },
@@ -3680,7 +3702,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 191292,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb"
@@ -6594,7 +6616,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 162986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
@@ -10582,6 +10604,24 @@
       "duration_ms": 168976,
       "name": "Not Alone but Not with You",
       "url": "https://open.spotify.com/track/5hZO5WBJ7VMz32k5cWJqrR"
+    },
+    {
+      "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
     },
     {
       "album": {

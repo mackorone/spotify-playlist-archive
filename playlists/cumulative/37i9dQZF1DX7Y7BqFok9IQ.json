@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/3IE0oOebvBDuyXAbKCkYKp"
+      },
+      "artists": [
+        {
+          "name": "Foreign Affairs",
+          "url": "https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "Evel Knievel",
+      "url": "https://open.spotify.com/track/19PsfIoaON1PgsssutUhyY"
+    },
+    {
+      "album": {
         "name": "Evil Eye",
         "url": "https://open.spotify.com/album/5cwGPPnSNEfGfbdGp5raap"
       },
@@ -4913,6 +4931,24 @@
     },
     {
       "album": {
+        "name": "Straight to It",
+        "url": "https://open.spotify.com/album/3DnMUA3F2jMckDyHClrUjt"
+      },
+      "artists": [
+        {
+          "name": "The Zac Schulze Gang",
+          "url": "https://open.spotify.com/artist/3qvVjXmsWmDBEomXDVMOtS"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120994,
+      "name": "Running Dry",
+      "url": "https://open.spotify.com/track/3PTqf7JIcqYwyKCuLBKAqt"
+    },
+    {
+      "album": {
         "name": "Nowhere Everywhere",
         "url": "https://open.spotify.com/album/0sjqLg2v3wdaHC3kt18Mko"
       },
@@ -5378,7 +5414,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 326013,
       "name": "Steep Climb",
       "url": "https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa"
@@ -6510,7 +6546,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 218506,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/686bz1ogUnhlYoJikZ3hs0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Favé x Genezio
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,412 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,429 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 6 | [Too close \(feat\. Rsko\)](https://open.spotify.com/track/0ZygVk1kxnwT6HRMprEnxV) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:56 |
 | 7 | [La Pluie](https://open.spotify.com/track/2PcRPX3wHqfNYCo7gmD4Zp) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [La Pluie](https://open.spotify.com/album/2OKLI9R3wAUhLghQ9u0FaZ) | 3:55 |
 | 8 | [XXL](https://open.spotify.com/track/7zAuUzdF1AAskBSuQTv6Yq) | [Afios](https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ) | [XXL](https://open.spotify.com/album/4QiaxBfpS8WRXV3SQY5qrV) | 2:48 |
-| 9 | [Track 7](https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [](https://open.spotify.com/album/null) | 0:00 |
+| 9 | [Please](https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:03 |
 | 10 | [Chimiyé](https://open.spotify.com/track/6xaoSNgphFog6VMIqGteYZ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Chimiyé](https://open.spotify.com/album/47cEV3nBAEdOqKQrq3dBaE) | 2:31 |
 | 11 | [ENCORE](https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [ENCORE](https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD) | 2:20 |
 | 12 | [J'ai zayé](https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:19 |

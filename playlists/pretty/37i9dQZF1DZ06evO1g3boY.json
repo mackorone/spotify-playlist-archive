@@ -1,12 +1,12 @@
 {
   "description": "This is Emicida. The essential tracks, all in one playlist.",
-  "num_followers": 173241,
+  "num_followers": 173243,
   "original_name": "This Is Emicida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAACdlumsC9b9xfq51e+VUWKj",
+  "snapshot_id": "aNSGAAAAAAAUji1Vi7lt/CbMidjx9XMJ",
   "tracks": [
     {
       "added_at": null,
@@ -1123,6 +1123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "S\u00f3 Isso",
+      "url": "https://open.spotify.com/track/0zUF40Gv49uGEhQnf5vBRu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dai a Cesar o Que \u00c9 de Cesar",
         "url": "https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 216000,
       "name": "Antes Que a Bala Perdida Me Ache",
       "url": "https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
-        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "S\u00f3 Isso",
-      "url": "https://open.spotify.com/track/0zUF40Gv49uGEhQnf5vBRu"
     }
   ],
   "unique_name": "This Is Emicida",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 ### [Rising 65](https://open.spotify.com/playlist/37i9dQZF1DXdUdTJS2IdZ2)
 
-> Rising stars and new releases from sunny Singapore\. Cover: brb.
+> Rising stars and new releases from sunny Singapore\. Cover: lullaboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,095 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,096 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

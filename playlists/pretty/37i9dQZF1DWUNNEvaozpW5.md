@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Iván Ferreiro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,353 likes - 120 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,205 likes - 120 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 27 | [Los Perros](https://open.spotify.com/track/15zPjWfZ6eUFMaL4aD5Gp8) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 3:49 |
 | 28 | [Capitán Cobarde](https://open.spotify.com/track/6UlBpWP2Ye3OaQnzu59ro0) | [Albertucho](https://open.spotify.com/artist/1kcjyRBcnuC94JVRshXjI6), [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK) | [Capitán Cobarde](https://open.spotify.com/album/63ti8PnFmc7JPzBJ8e2KRB) | 4:56 |
 | 29 | [Me equivocaría otra vez](https://open.spotify.com/track/5SMdW9cbM4wTMMPI8Ck08a) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [Por la boca vive el pez](https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y) | 5:06 |
-| 30 | [Camaleón](https://open.spotify.com/track/1BvS2e5k6Q9s6Y1czVPn0j) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [](https://open.spotify.com/album/null) | 3:09 |
+| 30 | [Camaleón](https://open.spotify.com/track/1BvS2e5k6Q9s6Y1czVPn0j) | [Alberto & García](https://open.spotify.com/artist/5BKyujkSrDiZtHyRGtVJx6) | [Barro](https://open.spotify.com/album/1iQLMSdyEyx9LbF6F90JBQ) | 3:09 |
 | 31 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 |
 | 32 | [Salir](https://open.spotify.com/track/4z2EeFUp5Lhai9qhHtA6IF) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Canciones Prohibidas](https://open.spotify.com/album/5QHJB2blBbAL8BjrD9hrhG) | 5:18 |
 | 33 | [Pajaros de Barro](https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 4:06 |

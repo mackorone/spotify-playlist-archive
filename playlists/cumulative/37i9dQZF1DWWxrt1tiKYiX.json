@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
+    },
+    {
+      "album": {
         "name": "Chasing Shadows (Acoustic)",
         "url": "https://open.spotify.com/album/7blH1R6aCVgNqRUi8lVp3f"
       },
@@ -1397,6 +1415,24 @@
     },
     {
       "album": {
+        "name": "when all is said and done",
+        "url": "https://open.spotify.com/album/5FXukjCyzwstvCQsSn4uP2"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167411,
+      "name": "falling to pieces",
+      "url": "https://open.spotify.com/track/3DLYVtmfEQ3ocxiWYstyrV"
+    },
+    {
+      "album": {
         "name": "Three. Two. One. (Alternate Versions)",
         "url": "https://open.spotify.com/album/7ANFds5bgqG6WycfbGlFfD"
       },
@@ -1836,7 +1872,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 197597,
       "name": "Head on Fire - Acoustic Version",
       "url": "https://open.spotify.com/track/7m0gn93nr1GEQ2fqbhgxSF"
@@ -4400,7 +4436,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 175539,
       "name": "Something That I Want - Acoustic",
       "url": "https://open.spotify.com/track/3g0chn7yapw8EHxmamgETJ"

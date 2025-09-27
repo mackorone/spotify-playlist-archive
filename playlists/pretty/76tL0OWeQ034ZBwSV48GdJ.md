@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 228 songs - 21 hr 36 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 229 songs - 21 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -236,5 +236,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 226 | [Echoes of Us](https://open.spotify.com/track/7v2XOrBkkzPzmd8jm48m17) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [NEAV](https://open.spotify.com/artist/1mcmAn0sb6qWnVXUrxFT7W) | [Echoes of Us](https://open.spotify.com/album/0IGhU4eaou6Avj9iZw3LXb) | 3:41 |
 | 227 | [2084](https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [2084](https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI) | 6:06 |
 | 228 | [Ludmilla](https://open.spotify.com/track/1nENRX73yJFJqa4XN1uJEV) | [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Dear Diary](https://open.spotify.com/album/1Gxfg7F8DQ1V8oBEIZzWa7) | 7:16 |
+| 229 | [Love Inc](https://open.spotify.com/track/5bjXTibRMVzZUQwiT47Z93) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Eve](https://open.spotify.com/album/44VqSP4sgQcWr7S2eu3Jiu) | 6:01 |
 
-Snapshot ID: `AAABL1FsAvSOOaIPP+YyRvfqQWnA1LcJ`
+Snapshot ID: `AAABMGfv/89fM9iDDmRlvlGfAsWbsrDm`

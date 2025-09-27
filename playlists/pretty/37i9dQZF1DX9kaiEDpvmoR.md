@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,665 likes - 89 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,672 likes - 89 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [](https://open.spotify.com/album/null) | 4:39 |
+| 1 | [Tro](https://open.spotify.com/track/6s0GL6SGcyHKSzZwMmdCGL) | [Titiyo](https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Hemland](https://open.spotify.com/album/7Mwl7nb4iMLxfsDOoqqbPw) | 4:39 |
 | 2 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 |
-| 3 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [](https://open.spotify.com/album/null) | 2:50 |
+| 3 | [Glasshouse](https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [jaywalking](https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x) | 2:50 |
 | 4 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 |
 | 5 | [På Måndag](https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Livet, döden, skiten däremellan](https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9) | 2:58 |
 | 6 | [På egna ben \(feat\. Carola\)](https://open.spotify.com/track/6hZlxqZfxucXVRs3lZRhju) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4), [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [På egna ben \(feat\. Carola\)](https://open.spotify.com/album/3JbjxrypmK5nXtxo5Qco3U) | 3:22 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 9 | [Human \(feat\. Jesse & Joy\)](https://open.spotify.com/track/4MH2gZVOQMUo9CcKIzJsiR) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Human \(feat\. Jesse & Joy\)](https://open.spotify.com/album/37DEtkcmpXDSgFqJuy7eOU) | 4:03 |
 | 10 | [Tillbaka](https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw) | [Bo Kaspers Orkester](https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn) | [Tillbaka](https://open.spotify.com/album/5YVth9DPPn1P7j4IwZMmBs) | 3:31 |
 | 11 | [Svindlande höjder](https://open.spotify.com/track/75pKACBjnC3sVkcFSsafem) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Svindlande höjder](https://open.spotify.com/album/1SPlcaGE0eZiXcHWPMYbHp) | 4:15 |
-| 12 | [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [](https://open.spotify.com/album/null) | 3:28 |
+| 12 | [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 |
 | 13 | [Vill du ha mig?](https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Vill du ha mig?](https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv) | 3:01 |
 | 14 | [Rocket](https://open.spotify.com/track/1LmOToT3RH1OEZsQ6Q4Jfb) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Rocket](https://open.spotify.com/album/41ttBc7j535fXQkAUbRZzB) | 2:46 |
 | 15 | [Liquid Courage](https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Liquid Courage](https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY) | 3:13 |

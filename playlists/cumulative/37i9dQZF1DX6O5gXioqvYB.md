@@ -4,7 +4,7 @@
 
 > Tutte le migliori nuove uscite indie sono qui 🌻 Cover: HÅN
 
-880 songs - 1 day 20 hr 51 min
+881 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 | 2025-08-21 | 2025-09-19 |
 | [Diventa grande poi passa](https://open.spotify.com/track/0mqMH4rpS8mrBccm2X2MX8) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Diventa grande poi passa](https://open.spotify.com/album/0WWmXjkYkndFKjoUWXqo2y) | 2:36 | 2025-02-27 | 2025-04-25 |
 | [Diversi tipi di dolore](https://open.spotify.com/track/5EZXyoWrbg7JwpdQdjORtC) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Diversi tipi di dolore](https://open.spotify.com/album/1SeKS1lZBeqBhfB8LPKIyL) | 4:04 | 2024-12-19 | 2025-03-08 |
+| [Don’t Worry It’s Only a Movie](https://open.spotify.com/track/0Jm7KQluICgXh1JvxrpPJD) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq), [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Don’t Worry It’s Only a Movie](https://open.spotify.com/album/6j5qQWvq8f6WkDtbZEbT4V) | 3:12 | 2025-09-26 |  |
 | [Dormire in macchina](https://open.spotify.com/track/3fTRovjAPslcHFDeaHeNj2) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Dormire in macchina](https://open.spotify.com/album/45KdlOqYANym79L4OAKULF) | 2:29 | 2025-04-17 | 2025-06-20 |
 | [dove sei?](https://open.spotify.com/track/2MqjNlfYZQcR5kf2jkPh4m) | [Diego Stray](https://open.spotify.com/artist/5Ar5NZSmRuoCiZHXoUbWUM) | [dove sei?](https://open.spotify.com/album/4X248CxumS9wGej2da24JP) | 2:47 | 2025-05-08 | 2025-06-20 |
 | [Drake con la maglia del napoli](https://open.spotify.com/track/1rWn11ZvZgO33FfS7pFMrQ) | [futura cimice](https://open.spotify.com/artist/0xhkjcqP9dmY7VHlJPNYN7) | [Drake con la maglia del napoli](https://open.spotify.com/album/0Z6Nsns1Pfm93X65AHB0Kb) | 3:42 | 2025-05-01 | 2025-06-20 |

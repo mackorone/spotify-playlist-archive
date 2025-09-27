@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 허각\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,553 songs - 4 day 4 hr 48 min
+1,555 songs - 4 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [At That Moment](https://open.spotify.com/track/0CB3B5ir8I2KbB3dkGVtWF) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:42 | 2022-07-11 | 2022-12-27 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2022-01-27 | 2022-01-30 |
 | [Autumn Memories \(with Lee Seok Hoon\)](https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz), [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Autumn Memories](https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O) | 3:58 | 2021-12-23 | 2022-06-30 |
-| [Azaleas](https://open.spotify.com/track/6PMzXBoxCyQyaT6MuLKRRE) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Azaleas](https://open.spotify.com/album/2JAkCHflk8nudwOri0sd4f) | 3:55 | 2025-05-21 |  |
+| [Azaleas](https://open.spotify.com/track/6PMzXBoxCyQyaT6MuLKRRE) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Azaleas](https://open.spotify.com/album/2JAkCHflk8nudwOri0sd4f) | 3:55 | 2025-05-21 | 2025-09-27 |
 | [Baby it’s you](https://open.spotify.com/track/6NHnmWs8FNOdaWH3eq3mnx) | [NINE9](https://open.spotify.com/artist/06MGGkrdIi2KKfBdoAsAl9) | [9colors](https://open.spotify.com/album/69Xh5E4nygc7AqQyvPtf3T) | 3:40 | 2024-03-28 | 2024-07-12 |
 | [Back In The Day](https://open.spotify.com/track/7d3MyTc7PWrL8y85tOvUtW) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Back In The Day](https://open.spotify.com/album/4w0uMkhAi8n8okuwXQZzTK) | 2:54 | 2023-09-18 | 2023-12-14 |
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2021-12-20 | 2022-07-03 |
@@ -361,6 +361,7 @@
 | [FALLIN’](https://open.spotify.com/track/6SB3WxKENI2kc1rFOo2mDB) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [FALLIN’](https://open.spotify.com/album/24QqEpbJ5la5efKymw6kcK) | 3:20 | 2024-11-06 | 2025-04-23 |
 | [Fanfare](https://open.spotify.com/track/0HnOuV8mqOxAhxT6Z2BVco) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Season Note](https://open.spotify.com/album/3JEa8UjDYS2nxdM8X7ShOM) | 3:29 | 2022-05-16 | 2022-10-08 |
 | [Farewell In Tears](https://open.spotify.com/track/28ctCyUPyDomk7LLwN4aY8) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [The World of the Married, Pt.5 \(Original Television SoundTrack\)](https://open.spotify.com/album/4Oi5IpgCPeyMdyuXAIssyJ) | 4:16 | 2022-03-31 | 2022-04-12 |
+| [Fearless](https://open.spotify.com/track/7reaS01vXpksmfnt17zNXg) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR) | [Fearless](https://open.spotify.com/album/6yPFHssyrN73JMEXYjRnIt) | 3:00 | 2025-09-26 |  |
 | [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 | 2023-10-02 | 2023-12-30 |
 | [Female Friend](https://open.spotify.com/track/4SShzO5689WsWgCe0Y8oKz) | [Lim Seul Ong](https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR), [Kei](https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc) | [Female Friend](https://open.spotify.com/album/5rieLnSI7FRduyF196vhWJ) | 4:15 | 2022-01-17 | 2022-01-18 |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 | 2023-04-27 |
@@ -801,7 +802,7 @@
 | [Love\(2023\)](https://open.spotify.com/track/0lIJtNAYZctC1ikLeKRf4M) | [JEON WOO SUNG](https://open.spotify.com/artist/4wX95R4bzGztvCtWuRqJdH) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/3yPGbYR2KzFo6ycuAYOfoq) | 4:18 | 2023-05-03 | 2023-09-15 |
 | [Love, ing](https://open.spotify.com/track/53NfwDBeFuzW8eDxEQyCJd) | [Sun Ye](https://open.spotify.com/artist/7CBvUrPXH5uzagKCfAS54Q) | [Love, ing](https://open.spotify.com/album/0Rx8VbEuZPctmQeeS3p8qL) | 4:33 | 2022-03-31 | 2022-04-19 |
 | [Love, Maybe](https://open.spotify.com/track/2X45nVBeYzmDlrXji9Av0Q) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Love, Maybe \(A Business Proposal OST Special Track\)](https://open.spotify.com/album/5lKdnY9bGYUyfaJhcRnHgk) | 3:05 | 2023-09-14 | 2025-01-02 |
-| [Love, the common word](https://open.spotify.com/track/2h0wEmZvW6cmMr0Fw1Tc7m) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Love, the common word](https://open.spotify.com/album/28aUeLxxvhM6ouWQz7IDgL) | 4:53 | 2025-05-19 |  |
+| [Love, the common word](https://open.spotify.com/track/2h0wEmZvW6cmMr0Fw1Tc7m) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Love, the common word](https://open.spotify.com/album/28aUeLxxvhM6ouWQz7IDgL) | 4:53 | 2025-05-19 | 2025-09-27 |
 | [Love, Unspoken](https://open.spotify.com/track/4nmGqIfoOZ8jjm9XnU5HYJ) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [The Memory Part.1](https://open.spotify.com/album/5HsrTlBYwsEfue1S3MYOn9) | 3:18 | 2025-05-26 | 2025-09-05 |
 | [Love..What is it](https://open.spotify.com/track/1q9TLiBIGcjEchuhPSIz8c) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Love..What is it](https://open.spotify.com/album/4tJCXCEaUtRo4J6XaOZdb4) | 3:45 | 2023-09-14 | 2023-11-03 |
 | [Lovelorn](https://open.spotify.com/track/1l27hYbI0EPLjHEqO1pj5g) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [I Live and Mourn, Thus Resketch You](https://open.spotify.com/album/6E2Gj2HXzKdk1hmtLbRqem) | 3:22 | 2024-06-04 | 2024-08-11 |
@@ -998,6 +999,7 @@
 | [Please Don't Cry](https://open.spotify.com/track/5pmhDbaeNG5Y31mCGK07JE) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/6ZGUvD476odOT0J0SdK8L5) | 3:55 | 2021-12-23 | 2022-07-08 |
 | [Please Don't forget me \(WEBTOON 'Discovery of Love' X GB9\)](https://open.spotify.com/track/6mj9CHo8FmFSsDH9VaOfD8) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Please Don't forget me \(WEBTOON 'Discovery of Love' X GB9\)](https://open.spotify.com/album/7dwb8T0wu67jtWG0C8XaKc) | 4:00 | 2022-08-12 | 2022-12-27 |
 | [Please don't hate me](https://open.spotify.com/track/7pWfugxsy7Sdm063H5GaR5) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Please don't hate me](https://open.spotify.com/album/36GJ8RigvD51QVlOcit9LC) | 3:25 | 2024-12-02 | 2025-04-25 |
+| [Please Don't Stay Away](https://open.spotify.com/track/4GA7yi7kJ5xl1fjNQsFN6Q) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Don't Stay Away](https://open.spotify.com/album/3G4RhCvPVo2YVC3znvybsw) | 3:38 | 2025-09-26 |  |
 | [Please don\`t happy without me](https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Please don\`t happy without me](https://open.spotify.com/album/5NQoi3oR00GUJ433opLOvO) | 3:17 | 2023-02-24 | 2023-05-16 |
 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 | 2024-03-04 | 2024-07-12 |
 | [Please Go Away](https://open.spotify.com/track/66qBuwGkXeHEIVTinJQEpN) | [Son Jinwook](https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz) | [Please Go Away](https://open.spotify.com/album/2pBGI6CWSb37liKMELxWCF) | 3:43 | 2024-11-05 | 2025-04-16 |

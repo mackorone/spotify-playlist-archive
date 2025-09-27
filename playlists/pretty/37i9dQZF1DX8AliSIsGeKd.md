@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Lexer
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,867 likes - 90 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,144 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,16 +20,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 10 | [TECHY MF](https://open.spotify.com/track/3j17V2ltFQ6XBs9tPljYCb) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [TECHY MF](https://open.spotify.com/album/3wdsImiyiJLpawSLSaXscX) | 2:54 |
 | 11 | [T.E.C.H.N.O.](https://open.spotify.com/track/2D28WuEfOutLRGFuTs2IHj) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [T.E.C.H.N.O.](https://open.spotify.com/album/1hGOopc6TSeVoqrzjjHyBN) | 5:17 |
 | 12 | [All Week](https://open.spotify.com/track/0MWSzNSf7Ov3Ag34xUME6x) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [All Week](https://open.spotify.com/album/4VQLc9cZ2ZKtrWQX7wYfjD) | 4:24 |
-| 13 | [into flames](https://open.spotify.com/track/3oX9siBJ6QNG4zQc4XgUzr) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [](https://open.spotify.com/album/null) | 3:25 |
+| 13 | [into flames](https://open.spotify.com/track/3oX9siBJ6QNG4zQc4XgUzr) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [Sudden Light](https://open.spotify.com/album/2ZUwPUKq7ac0StmzAvO4zR) | 3:25 |
 | 14 | [DMT](https://open.spotify.com/track/5Q1Ksn3dvVpofUAY7CRIl3) | [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [DMT](https://open.spotify.com/album/2AaUWuWhMbVHoGGAHWiAYM) | 4:28 |
-| 15 | [Cypress](https://open.spotify.com/track/2pNrsLyhT4YCD5IlTf25pm) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [](https://open.spotify.com/album/null) | 4:31 |
+| 15 | [Cypress](https://open.spotify.com/track/2pNrsLyhT4YCD5IlTf25pm) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Elsewhere](https://open.spotify.com/album/60oQTnw08DNgBLkBoCBYF2) | 4:31 |
 | 16 | [Light Me Up](https://open.spotify.com/track/4TBTO40m8jmIZ2QrUDCvP0) | [WOODKIN](https://open.spotify.com/artist/1erMnbnkJ35Y62j7oBr7kj), [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [MAZ'N](https://open.spotify.com/artist/1yYMHWtDyG3bb1DYKUpNOL) | [Light Me Up](https://open.spotify.com/album/4Ss9iiH4c8WJJo3hi7Hxyx) | 4:11 |
 | 17 | [Foolish Heart](https://open.spotify.com/track/303eiOgAIPWkWWhq4rtEls) | [PARAFRAME](https://open.spotify.com/artist/2MDR7nMS7lOrQsyZ5FZznk), [Noah Shah](https://open.spotify.com/artist/6h5s7YsgEVn6XXxQFI6wUe) | [Foolish Heart](https://open.spotify.com/album/2nFJMWxSl0tyeZJjBanjrW) | 5:25 |
 | 18 | [RACER](https://open.spotify.com/track/7IqrsY0SHIDdWgIJMIUzpZ) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [RACER](https://open.spotify.com/album/6geBfBpOE48ZMYCMs8FD3b) | 2:24 |
 | 19 | [Beijo](https://open.spotify.com/track/1NWYEMaV7ni0s4UHX5Y9Ge) | [Anna Almani](https://open.spotify.com/artist/3YTizwZb2aQeYzxbQ5ZhK7), [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Kotoe](https://open.spotify.com/artist/3OVGFg6lIiK3oVXMEN62fM) | [Beijo](https://open.spotify.com/album/2Ki5qZYh99ri5tuqbyfzdR) | 3:44 |
 | 20 | [Yuly](https://open.spotify.com/track/3guA4PEl2yG6jkiXUJICyo) | [Beswerda](https://open.spotify.com/artist/29nMwVYp8ojzz0SIUdtQRB) | [Yuly](https://open.spotify.com/album/6VUFilJWHqWs56jRwfzyqG) | 3:38 |
 | 21 | [Rain](https://open.spotify.com/track/5UzmK3aMmpW9X1pKjRdrMi) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Rain](https://open.spotify.com/album/3BiRyCQFu9ftb7sASphBHQ) | 3:18 |
-| 22 | [Move](https://open.spotify.com/track/1fciIx1XhqewREAqsJmIwT) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [](https://open.spotify.com/album/null) | 3:30 |
+| 22 | [Move](https://open.spotify.com/track/1fciIx1XhqewREAqsJmIwT) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Move EP](https://open.spotify.com/album/5TmEBZ2iB4ugNe37SRvPLY) | 3:30 |
 | 23 | [So Alive](https://open.spotify.com/track/5rxT43I5jDeJiZucn7HJkw) | [METODI](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1) | [So Alive](https://open.spotify.com/album/7ohm9cJlGNNBvY4sCWNAo1) | 4:34 |
 | 24 | [Get Me High](https://open.spotify.com/track/0KzwZNIqdS6SODuhTUnN90) | [AfterU](https://open.spotify.com/artist/2fNO3q7sugPNKqSD1ra9TE) | [Get Me High](https://open.spotify.com/album/6mZgurHz014k2C3jhuZaRv) | 4:54 |
 | 25 | [Face II Face](https://open.spotify.com/track/0x9ZEBrm2gSor4Bj7Bpkqo) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Face II Face](https://open.spotify.com/album/2qfV3ZPuAZXYijDtk7y1ng) | 3:19 |

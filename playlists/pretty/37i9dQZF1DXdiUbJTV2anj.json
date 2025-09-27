@@ -1,15 +1,95 @@
 {
   "description": "bands and tracks on the rise in heavy music. Cover: Frayle",
-  "num_followers": 80207,
+  "num_followers": 80306,
   "original_name": "New Blood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVOxDngCvmOLBgKaaQedjN21Sr0",
+  "snapshot_id": "AAAAAC7TUhoSkYHxa6g7Hv5E/DrRCM2B",
   "tracks": [
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "devotion",
+        "url": "https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB"
+      },
+      "artists": [
+        {
+          "name": "sace6",
+          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+        }
+      ],
+      "duration_ms": 209757,
+      "name": "devotion",
+      "url": "https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Like the Fourth Wall",
+        "url": "https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs"
+      },
+      "artists": [
+        {
+          "name": "BLACKSHAPE",
+          "url": "https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH"
+        }
+      ],
+      "duration_ms": 343329,
+      "name": "Like the Fourth Wall",
+      "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Copacetic",
+        "url": "https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D"
+      },
+      "artists": [
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Copacetic",
+      "url": "https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Pretty Skin",
+        "url": "https://open.spotify.com/album/5NKjDtg8Z6q6WloHn7YLgP"
+      },
+      "artists": [
+        {
+          "name": "Lost in Hollywood",
+          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
+        }
+      ],
+      "duration_ms": 214135,
+      "name": "Pretty Skin",
+      "url": "https://open.spotify.com/track/74nZP5AFjhATYHivIjbh44"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "POINT OF VIEW",
+        "url": "https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT"
+      },
+      "artists": [
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "POINT OF VIEW",
+      "url": "https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Heretic",
         "url": "https://open.spotify.com/album/5nlX4rCUkUrY4HXqRdu7Ft"
@@ -25,7 +105,7 @@
       "url": "https://open.spotify.com/track/4nwCw5wiknimfjSJBIeMh2"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "PARADOX",
         "url": "https://open.spotify.com/album/5LqNAnY30ZnanfbMfqkgmb"
@@ -41,23 +121,7 @@
       "url": "https://open.spotify.com/track/4KZUetMsBaYdvWcLQ3bF3x"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/3H27ivNS86qnGDOloA2YUY"
-      },
-      "artists": [
-        {
-          "name": "Bridges Ablaze",
-          "url": "https://open.spotify.com/artist/2EkFmKsioTTvC9ShnwJwHP"
-        }
-      ],
-      "duration_ms": 229546,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1XWE7bFAbRcAqTEcTz2rlK"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Murderers",
         "url": "https://open.spotify.com/album/5JL5pNpSU39LehO3iKtYg7"
@@ -77,87 +141,23 @@
       "url": "https://open.spotify.com/track/54KpFhLOqTfX0VRj4JUWqu"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
-        "name": "devotion",
-        "url": "https://open.spotify.com/album/3QH5py8IQGQqSxNRomdUIB"
+        "name": "Craven",
+        "url": "https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd"
       },
       "artists": [
         {
-          "name": "sace6",
-          "url": "https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS"
+          "name": "Vilamoura",
+          "url": "https://open.spotify.com/artist/4ofnDotrMc3tX1bQqgxEGH"
         }
       ],
-      "duration_ms": 209757,
-      "name": "devotion",
-      "url": "https://open.spotify.com/track/35YHXeL0Q5Ew5wWrDsylx3"
+      "duration_ms": 223717,
+      "name": "Craven",
+      "url": "https://open.spotify.com/track/7hLXMjXwihu7BSzEaQsmGF"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Pretty Skin",
-        "url": "https://open.spotify.com/album/5NKjDtg8Z6q6WloHn7YLgP"
-      },
-      "artists": [
-        {
-          "name": "Lost in Hollywood",
-          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
-        }
-      ],
-      "duration_ms": 214135,
-      "name": "Pretty Skin",
-      "url": "https://open.spotify.com/track/74nZP5AFjhATYHivIjbh44"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Copacetic",
-        "url": "https://open.spotify.com/album/5yedFAYJplaruLPGXfm46D"
-      },
-      "artists": [
-        {
-          "name": "Rivals",
-          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Copacetic",
-      "url": "https://open.spotify.com/track/4YIGJEmiAf01omZrCkoikj"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Like the Fourth Wall",
-        "url": "https://open.spotify.com/album/2ZG0myg8s6IjllpeN6riOs"
-      },
-      "artists": [
-        {
-          "name": "BLACKSHAPE",
-          "url": "https://open.spotify.com/artist/5ioOCIkpBfV9Z8Zm5DP4vH"
-        }
-      ],
-      "duration_ms": 343329,
-      "name": "Like the Fourth Wall",
-      "url": "https://open.spotify.com/track/3jdc8cxAMhJrsgfeIUfdz3"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "POINT OF VIEW",
-        "url": "https://open.spotify.com/album/6gNEwTJweV7hIycJNDQXcT"
-      },
-      "artists": [
-        {
-          "name": "As Everything Unfolds",
-          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "POINT OF VIEW",
-      "url": "https://open.spotify.com/track/2o8mdDx0BNMoYXkhdq0Nkw"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/7xRMfVQX1bNyYcO0Wqamsp"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/3lALd4cI6fTuCelTVOhoOI"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Ritual Decay",
         "url": "https://open.spotify.com/album/1LHORbi0gszA1P4ZaZx59r"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/1XoBoivCDtdYMeJMs3pcBY"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Hiding In Plain Sight",
         "url": "https://open.spotify.com/album/3WXl0Tv7jMZBhRSJLWEqxI"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/3EIBXSn6RpBdtyvb6G7UPw"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "BLACK MAGIC",
         "url": "https://open.spotify.com/album/0YtqdM1lPwVEpOQip5xhfB"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/07S1I5r2tlpNg8QJDJewBJ"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Heart Shaped Box",
         "url": "https://open.spotify.com/album/1ccPQcsxn49Lf5CGs0dZ6I"
@@ -241,7 +241,23 @@
       "url": "https://open.spotify.com/track/7g83tbChriBEh5VgTgVY3y"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/07jg0qHyZftzBT2bClnwTs"
+      },
+      "artists": [
+        {
+          "name": "Stoned Statues",
+          "url": "https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/1qYto5saFz03lgET0Kcb8W"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Battlestation",
         "url": "https://open.spotify.com/album/0fY3ADm2tY6n8zshG0XK1y"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/0z0S52dOFeTtxKHIkuwCvb"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "From The New World",
         "url": "https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC"
@@ -273,7 +289,23 @@
       "url": "https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Tarnished",
+        "url": "https://open.spotify.com/album/25raEkyFZf9PzsVZBSXENk"
+      },
+      "artists": [
+        {
+          "name": "Asleep At The Helm",
+          "url": "https://open.spotify.com/artist/52KDgZWodiRXEWhGBODF3C"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Tarnished",
+      "url": "https://open.spotify.com/track/3fqo4doDvEd6sItAmpfZVA"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "fall apart",
         "url": "https://open.spotify.com/album/037Wicjw0sotrWT7ghIdbn"
@@ -289,7 +321,7 @@
       "url": "https://open.spotify.com/track/6pNgqvihWqpRSHKv4Hhgpm"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/0ltN2JS0sLX2KjRHwfMcPl"
@@ -305,7 +337,7 @@
       "url": "https://open.spotify.com/track/5AWml6GS12ijqNwTL4zVe4"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "WITHOUT YOU",
         "url": "https://open.spotify.com/album/5i51yNWwFg8NiD9OKavrpk"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/1xHlY90KUIbTriodDlHfLd"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "No Place for You",
         "url": "https://open.spotify.com/album/2EYkfBpjdnKyJVIUuFp5vX"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/1uxVsLqdq1ROCJS7IyDozS"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Arch Enemy",
         "url": "https://open.spotify.com/album/2ytGgsJOI7bxg8Gax5TrcV"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/2M0RLsytPuk2oGvfiSV27b"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/5jfIWCColjrn9NAfEFCbHu"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/6cYbYWZWXWeANCn5V7ZIqS"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Modern Fashion",
         "url": "https://open.spotify.com/album/77uS44J5JgA5uhnZjtrF8x"
@@ -389,7 +421,23 @@
       "url": "https://open.spotify.com/track/1jBCfOiKLgEaoS6YDa91o9"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "HOPELESS",
+        "url": "https://open.spotify.com/album/2JB2vd2M2Z1HwU2xdEbd8E"
+      },
+      "artists": [
+        {
+          "name": "Black Coast",
+          "url": "https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "HOPELESS",
+      "url": "https://open.spotify.com/track/7A9Tk8yUzaqgN8gt6jdaKV"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Colossal",
         "url": "https://open.spotify.com/album/0buUFRorLnLhZO4W5jHqsL"
@@ -405,7 +453,23 @@
       "url": "https://open.spotify.com/track/5sa2YEDIIgxb28q6TeDG3I"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
+      "album": {
+        "name": "Fool For You",
+        "url": "https://open.spotify.com/album/16DrDEkrAnMJX2O95PIHTQ"
+      },
+      "artists": [
+        {
+          "name": "Alchemize",
+          "url": "https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx"
+        }
+      ],
+      "duration_ms": 243829,
+      "name": "Fool For You",
+      "url": "https://open.spotify.com/track/2NI9zWzjX2gzKzlfflFWtL"
+    },
+    {
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/6xd3WkjvXJ1PfI1Td3S4BD"
@@ -425,7 +489,7 @@
       "url": "https://open.spotify.com/track/6xL86QFuB1Qv636ELH79Kr"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Hole in Me",
         "url": "https://open.spotify.com/album/3xecnCqPV7JOcqRTUjytJr"
@@ -441,7 +505,7 @@
       "url": "https://open.spotify.com/track/0J86efvuIVDOEwyQZeLH36"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Elated",
         "url": "https://open.spotify.com/album/2inbqm5YYvaHUE0qYDvhqs"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/4pHlVnvaYF6P5Mrj1yDKLn"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "To the Spoils of Faith",
         "url": "https://open.spotify.com/album/4FsISzhUmQLLdakTy5So6J"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/6iblhpFZohZYLTOmzAG5Xy"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Breathing Underwater",
         "url": "https://open.spotify.com/album/5mIcx3Nbcxzfl39h8U9Abd"
@@ -497,7 +561,7 @@
       "url": "https://open.spotify.com/track/6h14vSIGSm7xyzVf1RZpJq"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Lodestar",
         "url": "https://open.spotify.com/album/0sdYUDZUqwdXXVE3RWbHsD"
@@ -513,7 +577,7 @@
       "url": "https://open.spotify.com/track/7vswktCNnXnBpQkxxAqooz"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "SMOKEBOMB",
         "url": "https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh"
@@ -529,7 +593,7 @@
       "url": "https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Pull Me In",
         "url": "https://open.spotify.com/album/2lMoJhE6tbDjhdCaXlwsPg"
@@ -545,7 +609,7 @@
       "url": "https://open.spotify.com/track/6ND1KkDppdf0JRwSEqzINC"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Omen",
         "url": "https://open.spotify.com/album/5NTHkZk3N8hZYwla0llgDO"
@@ -561,7 +625,7 @@
       "url": "https://open.spotify.com/track/3UwyWvyNMx8egzAQvtZHRI"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Big Blind",
         "url": "https://open.spotify.com/album/1xRnHvJoPjhIPVLv3Onnvd"
@@ -577,7 +641,7 @@
       "url": "https://open.spotify.com/track/3P9sADlTfW3HMVpI1Dg9Pt"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Vended",
         "url": "https://open.spotify.com/album/2tDnVMI6pBlsiEMOfb5DaU"
@@ -593,7 +657,7 @@
       "url": "https://open.spotify.com/track/2JDPR8ZjXGGUHmqKTpJzcm"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Better Written Villain",
         "url": "https://open.spotify.com/album/3sjkhgON2mP7sU0AKAT8v6"
@@ -609,7 +673,7 @@
       "url": "https://open.spotify.com/track/0lJFKP46fC1Dtfmf1XeFc2"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Live Not Fantasize",
         "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
@@ -625,7 +689,7 @@
       "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Vestige",
         "url": "https://open.spotify.com/album/0YsWVz8MPLPmDHNKtjVxDS"
@@ -641,39 +705,7 @@
       "url": "https://open.spotify.com/track/4aNtdkbAxm7E1gJiqA95r9"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Broken Wings",
-        "url": "https://open.spotify.com/album/1csDLuHZTBVqhZdvPTMNFG"
-      },
-      "artists": [
-        {
-          "name": "Guilt Trip",
-          "url": "https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU"
-        }
-      ],
-      "duration_ms": 199121,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/5KbXgYbSkixBc3yLqL5F2V"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Social Grace",
-        "url": "https://open.spotify.com/album/0Dw6dBw85aJh1i4Q5HcCX8"
-      },
-      "artists": [
-        {
-          "name": "BRAT",
-          "url": "https://open.spotify.com/artist/1kfSVYNmjmYsdWjEQ6fnQF"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "Hesitation Wound",
-      "url": "https://open.spotify.com/track/7jONBc1Udycy2r9uNzUWjv"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Tempest Horizon",
         "url": "https://open.spotify.com/album/4kcOdB8ZLECVjdU627IIMC"
@@ -689,7 +721,7 @@
       "url": "https://open.spotify.com/track/3FLK620iuJsPzLMGrvPsjn"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "EVERYTHING FEELS WRONG",
         "url": "https://open.spotify.com/album/2HE7Qb8TpVymGs1UKrSTh2"
@@ -705,7 +737,7 @@
       "url": "https://open.spotify.com/track/11TBGRASPQpovktpxqfwaV"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/2eih2wArYhmr3X6Un0R9Rd"
@@ -721,7 +753,7 @@
       "url": "https://open.spotify.com/track/5OmePrjGCL3dSla3Fx3ws3"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/3Ey6TMfMxIJ64mv9LEMkIb"
@@ -737,43 +769,7 @@
       "url": "https://open.spotify.com/track/042GkzRN9bEVHPUqLqk5vi"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Commit to Consequence (feat. Andrew Neufeld)",
-        "url": "https://open.spotify.com/album/39mjjt5bMBoodbyrOMW90m"
-      },
-      "artists": [
-        {
-          "name": "Orthodox",
-          "url": "https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP"
-        },
-        {
-          "name": "Andrew Neufeld",
-          "url": "https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq"
-        }
-      ],
-      "duration_ms": 148342,
-      "name": "Commit to Consequence (feat. Andrew Neufeld)",
-      "url": "https://open.spotify.com/track/6Ncw3Yw6sckvANnkfBiI6R"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
-      "album": {
-        "name": "Turbulence",
-        "url": "https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8"
-      },
-      "artists": [
-        {
-          "name": "Escuela Grind",
-          "url": "https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG"
-        }
-      ],
-      "duration_ms": 200023,
-      "name": "Turbulence",
-      "url": "https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC"
-    },
-    {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Sentinel Hill",
         "url": "https://open.spotify.com/album/4jENLu0wH5hYYqvJl0Bnfr"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/2SwolGypB0DLbUX3HuWxxz"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Mare",
         "url": "https://open.spotify.com/album/7MDMBadUvE61SEwGapi43t"
@@ -805,7 +801,7 @@
       "url": "https://open.spotify.com/track/1nKvgLaSPLHrwwKKryfCRE"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/5G7W03txWDF1WKoUrCqU4L"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/2DTy9Itjmyi4bG8kkEmoQ6"
     },
     {
-      "added_at": "2025-09-19 04:00:11",
+      "added_at": "2025-09-26 04:00:34",
       "album": {
         "name": "The Formless Fires",
         "url": "https://open.spotify.com/album/2RBpChfrlm7sfplPhpYPnB"

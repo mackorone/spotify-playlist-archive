@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Junior H
+> Today's top Latin hits, elevando nuestra música\. Cover: Rauw Alejandro
 
 924 songs - 2 day 1 hr 5 min
 

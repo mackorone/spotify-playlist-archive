@@ -9047,28 +9047,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Thakzin",
-          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
-        },
-        {
-          "name": "Xolani Guitars",
-          "url": "https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I"
-        }
-      ],
-      "date_added": "2025-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"
-    },
-    {
-      "album": {
         "name": "Trenches Luv",
         "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
       },
@@ -9588,6 +9566,28 @@
       "duration_ms": 107276,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/1zRmXlJ5fV2vZJHt04tTJc"
+    },
+    {
+      "album": {
+        "name": "Gods window, Pt. 1",
+        "url": "https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Xolani Guitars",
+          "url": "https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513893,
+      "name": "When We Play",
+      "url": "https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc"
     },
     {
       "album": {

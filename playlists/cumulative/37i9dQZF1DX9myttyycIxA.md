@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Phantastic Ferniture
 
-1,726 songs - 4 day 3 hr 44 min
+1,728 songs - 4 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,6 +510,7 @@
 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 | 2022-03-26 | 2022-07-16 |
 | [Everything I Know](https://open.spotify.com/track/1vWjISlgaMob9cjPDK8P7I) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Everything I Know](https://open.spotify.com/album/0oZQvFm3gfmsBafjh2VLaI) | 2:44 | 2021-03-05 | 2022-04-14 |
 | [Everything Is Simple](https://open.spotify.com/track/3W9LUDqaup6AK5uoozN7Wh) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Everything Is Simple](https://open.spotify.com/album/7na0XY52XbzkAhIvTygfxt) | 4:19 | 2022-01-28 | 2022-04-29 |
+| [Everything You Wanted](https://open.spotify.com/track/3hVq9e2hA3J0NZmlXqTl0B) | [Dead Gowns](https://open.spotify.com/artist/7jadGvdBDPrM4fNOukfDny) | [Everything You Wanted / Intention](https://open.spotify.com/album/0OjMNZASEiQg821jmZpgYO) | 3:55 | 2025-09-26 |  |
 | [Everything You've Always Wanted](https://open.spotify.com/track/0lxFZBVq0k071RSSl4oCJa) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Everything You've Always Wanted](https://open.spotify.com/album/36ow8IpG5355jkilVe48kD) | 3:10 | 2023-06-09 | 2023-06-16 |
 | [everything’s been going so well](https://open.spotify.com/track/0jUES9RowBPL93yFO5jCWb) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [everything’s been going so well](https://open.spotify.com/album/2iJGQnd3lbvG0wvgzOUfu1) | 2:53 | 2023-06-30 | 2023-11-11 |
 | [Excuses](https://open.spotify.com/track/4b64vOfZptiujHdsqjbfoD) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Excuses](https://open.spotify.com/album/030CZCgobrplhu5ddAGiMO) | 2:48 | 2021-06-02 | 2022-04-18 |
@@ -1051,6 +1052,7 @@
 | [my favorite things](https://open.spotify.com/track/0XB8C36wLdj1GuzsXFCfVv) | [Molly Frances](https://open.spotify.com/artist/3VU3ahp3nIUitRDLYo1vhh) | [my favorite things](https://open.spotify.com/album/7tLedYLB53PpUPOjYdffp5) | 2:41 | 2022-12-16 | 2023-01-14 |
 | [my little tony](https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [my little tony](https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX) | 2:59 | 2023-09-22 | 2024-02-17 |
 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-06-13 |  |
+| [My Side](https://open.spotify.com/track/32o1EW6fYVvdVPSAGNSB8a) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [My Side](https://open.spotify.com/album/2ZymsMGNRT1oClQZ43Sdri) | 2:56 | 2025-09-26 |  |
 | [My Year \(This Is Going To Be\)](https://open.spotify.com/track/7InbD5D74EaymYMIwzs4LL) | [12 RODS](https://open.spotify.com/artist/4aPT61obombRBkg2Fx69i2) | [My Year \(This Is Going To Be\)](https://open.spotify.com/album/3DnuVIeelvxu2wm0wei74W) | 3:03 | 2023-06-15 | 2023-12-16 |
 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/0RMxx9ZD0KXSnUYPwunVbw) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa) | 2:17 | 2022-03-26 | 2022-05-19 |
 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 | 2022-07-22 | 2023-04-09 |

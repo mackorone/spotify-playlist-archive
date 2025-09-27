@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Baby Bugs",
-  "num_followers": 219242,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Kaleb Cohen",
+  "num_followers": 219234,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAECLfTIhZwWRCKyWzooXz7fVKDlF",
+  "snapshot_id": "AAAAAAzDXg3dHtuwVXxhmxkxM31xLpWh",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 206628,
+      "name": "U-Turn",
+      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "LOCK",
+        "url": "https://open.spotify.com/album/7ED6azlDo3agTJlhBVgD8a"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Song",
+          "url": "https://open.spotify.com/artist/7JXdTCq0awJfHZMJJkG0AS"
+        }
+      ],
+      "duration_ms": 202764,
+      "name": "LOCK",
+      "url": "https://open.spotify.com/track/2KdFMIMbLkQ0DbSZ3kR73H"
+    },
     {
       "added_at": "2025-09-22 16:41:57",
       "album": {
@@ -23,6 +55,102 @@
       "duration_ms": 208880,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/1d5DWzeUPdknRRAxOQHfL3"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "Sleeping With The Lights On",
+        "url": "https://open.spotify.com/album/64wiC01wUZZ9qLMEHKAK3D"
+      },
+      "artists": [
+        {
+          "name": "Jade LeMac",
+          "url": "https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Sleeping With The Lights On",
+      "url": "https://open.spotify.com/track/0ptbrvIaXF5krSn50iZBku"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7qgIlatcSSMESbsQ3OCiM1"
+      },
+      "artists": [
+        {
+          "name": "Katherine Lynn-Rose",
+          "url": "https://open.spotify.com/artist/7GQGmAwcsVLExHVC9ez8HZ"
+        }
+      ],
+      "duration_ms": 126100,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6WO593vQqznWD2XUA5w15L"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/3a4R1LkmIWzXuVnyxAwx5p"
+      },
+      "artists": [
+        {
+          "name": "Lyric",
+          "url": "https://open.spotify.com/artist/6WvUuUPD60XGOknbgzqYb2"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5fJ4NkMs0mYRfv1ZShIGKq"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/3SWt53l66wE5SyUfHclnDi"
+      },
+      "artists": [
+        {
+          "name": "LUELLA",
+          "url": "https://open.spotify.com/artist/5EuEIhWiYpGRPeDZKfHfV9"
+        }
+      ],
+      "duration_ms": 200168,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/6gTnxcDgHr1Io7s4AYNH7P"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "go to hell",
+        "url": "https://open.spotify.com/album/3rK7UbpPl0baqan7EwLSnH"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "go to hell",
+      "url": "https://open.spotify.com/track/7kPslfcxPGGd5a2i2F1T8r"
+    },
+    {
+      "added_at": "2025-09-26 04:00:18",
+      "album": {
+        "name": "WOMEN WHO LOVE TOO MUCH",
+        "url": "https://open.spotify.com/album/1YZUMkkGvXSBd821jlnB2V"
+      },
+      "artists": [
+        {
+          "name": "Sofia and the Antoinettes",
+          "url": "https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7"
+        }
+      ],
+      "duration_ms": 214787,
+      "name": "REVOLVER",
+      "url": "https://open.spotify.com/track/3NPjlK42SzChR7v69DLstZ"
     },
     {
       "added_at": "2025-09-12 04:20:00",
@@ -679,378 +807,6 @@
       "duration_ms": 210371,
       "name": "The Only Good Thing In This City",
       "url": "https://open.spotify.com/track/6clLMpnHUkoHawSUn1SGod"
-    },
-    {
-      "added_at": "2025-07-11 04:00:17",
-      "album": {
-        "name": "Basis of a Pinky Promise",
-        "url": "https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM"
-      },
-      "artists": [
-        {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
-        }
-      ],
-      "duration_ms": 170955,
-      "name": "Better in Person",
-      "url": "https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU"
-    },
-    {
-      "added_at": "2025-07-11 04:00:17",
-      "album": {
-        "name": "Your Villain",
-        "url": "https://open.spotify.com/album/6tOuaYl7fi4PzgCq5ehTaJ"
-      },
-      "artists": [
-        {
-          "name": "Molly Millington",
-          "url": "https://open.spotify.com/artist/52GBEgAVGUOB8bXQQ4s9aF"
-        }
-      ],
-      "duration_ms": 165011,
-      "name": "Your Villain",
-      "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"
-    },
-    {
-      "added_at": "2025-06-27 04:00:39",
-      "album": {
-        "name": "Do You Like That, Baby?",
-        "url": "https://open.spotify.com/album/0hdsmDJb71T5Uupl2TiWXI"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Do You Like That, Baby?",
-      "url": "https://open.spotify.com/track/1I7QWW2rjALUtIDrVBWJQm"
-    },
-    {
-      "added_at": "2025-07-18 04:00:21",
-      "album": {
-        "name": "I Tried",
-        "url": "https://open.spotify.com/album/151XFBOwvm6LvudHhqDlNP"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 152815,
-      "name": "I Tried",
-      "url": "https://open.spotify.com/track/7GvGFGMeck6jUymfuqDUTc"
-    },
-    {
-      "added_at": "2025-06-27 04:00:39",
-      "album": {
-        "name": "The Garden",
-        "url": "https://open.spotify.com/album/3PGsOrW90ABHRIuv4zG9la"
-      },
-      "artists": [
-        {
-          "name": "Devon Gabriella",
-          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
-        }
-      ],
-      "duration_ms": 153064,
-      "name": "Second Nature",
-      "url": "https://open.spotify.com/track/1Y98awUOuPdheqh0cnDLHw"
-    },
-    {
-      "added_at": "2025-06-20 00:00:02",
-      "album": {
-        "name": "At Least I'd Be A Cowboy!",
-        "url": "https://open.spotify.com/album/3LaOLtlVtwETFzfSnae2zb"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
-        }
-      ],
-      "duration_ms": 203680,
-      "name": "At Least I'd Be A Cowboy!",
-      "url": "https://open.spotify.com/track/0NKXYXa5Fw1IZpZa494SIW"
-    },
-    {
-      "added_at": "2025-07-04 04:00:24",
-      "album": {
-        "name": "Salt Stained Lungs",
-        "url": "https://open.spotify.com/album/29lRw042Sd7EqT5BS6aNA2"
-      },
-      "artists": [
-        {
-          "name": "Lauren Wallace",
-          "url": "https://open.spotify.com/artist/6kQlU9z8SfhsepmwhQhQCu"
-        }
-      ],
-      "duration_ms": 214922,
-      "name": "People Who Love People",
-      "url": "https://open.spotify.com/track/3ph60eaOkjFlIBVNqbGuJS"
-    },
-    {
-      "added_at": "2025-06-20 00:00:02",
-      "album": {
-        "name": "Can't Fit In His Shoes",
-        "url": "https://open.spotify.com/album/04B5ZWqYNINxcXVyAAlrIu"
-      },
-      "artists": [
-        {
-          "name": "Juno James",
-          "url": "https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "Can't Fit In His Shoes",
-      "url": "https://open.spotify.com/track/3UWjQb72k8bhV56HKYAgnT"
-    },
-    {
-      "added_at": "2025-06-13 04:00:59",
-      "album": {
-        "name": "His LA Girl",
-        "url": "https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY"
-      },
-      "artists": [
-        {
-          "name": "Ren Martinez",
-          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "His LA Girl",
-      "url": "https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Coming of Age",
-        "url": "https://open.spotify.com/album/5zqWfzZ722bHdKH4aBmaZP"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 196689,
-      "name": "Coming of Age",
-      "url": "https://open.spotify.com/track/4elg3DXTnAzPLmIMGj9ULf"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Witching Hour",
-        "url": "https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Witching Hour",
-      "url": "https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA"
-    },
-    {
-      "added_at": "2025-06-13 04:00:59",
-      "album": {
-        "name": "Gonna Change",
-        "url": "https://open.spotify.com/album/6RAkIXujAPL3B2k5SmsCZI"
-      },
-      "artists": [
-        {
-          "name": "Ruby Roberts",
-          "url": "https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD"
-        }
-      ],
-      "duration_ms": 228688,
-      "name": "Gonna Change",
-      "url": "https://open.spotify.com/track/5QqIpatrYBsKX4pEcmzKxo"
-    },
-    {
-      "added_at": "2025-06-13 04:00:59",
-      "album": {
-        "name": "I Can Be Your Mother",
-        "url": "https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 206067,
-      "name": "The Doll People",
-      "url": "https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "T-Shirt",
-        "url": "https://open.spotify.com/album/4DBkNAsMfMLqZ86H8FUc6O"
-      },
-      "artists": [
-        {
-          "name": "Abigail Osborn",
-          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
-        }
-      ],
-      "duration_ms": 158387,
-      "name": "T-Shirt",
-      "url": "https://open.spotify.com/track/14t5xsqdGQXdMhRkeCMZaN"
-    },
-    {
-      "added_at": "2025-06-06 04:00:17",
-      "album": {
-        "name": "Another Version Of You",
-        "url": "https://open.spotify.com/album/5UXt8TSoEOA4V55ILLew4Z"
-      },
-      "artists": [
-        {
-          "name": "Amelie Sampson",
-          "url": "https://open.spotify.com/artist/75Z30Us7Pu9Fx9gpEHVPnW"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Another Version Of You",
-      "url": "https://open.spotify.com/track/7Gjay1dycf97YinoSXOJiO"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
-        "name": "Swedish Girl",
-        "url": "https://open.spotify.com/album/2HQ34fRPNtVvWJjXo101Yo"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 153937,
-      "name": "Swedish Girl",
-      "url": "https://open.spotify.com/track/4KDxyRMRBTmjZ7sgfqJrPg"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
-        "name": "Blisters",
-        "url": "https://open.spotify.com/album/5vzXPWpstjR61UTpczsUeu"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 223202,
-      "name": "Blisters",
-      "url": "https://open.spotify.com/track/1A7PqR5g8ohmDNiv9lW3Ca"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
-        "name": "Only Started Growing",
-        "url": "https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC"
-      },
-      "artists": [
-        {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0AB5YzmICCzimyMfLWfrUA"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
-        "name": "if i had a wish...",
-        "url": "https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw"
-      },
-      "artists": [
-        {
-          "name": "Sloane Monroe",
-          "url": "https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ"
-        }
-      ],
-      "duration_ms": 167493,
-      "name": "if i had a wish...",
-      "url": "https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS"
-    },
-    {
-      "added_at": "2025-04-10 14:01:33",
-      "album": {
-        "name": "DNA Guarantee",
-        "url": "https://open.spotify.com/album/1zbnbjtdrmlJnpEfvvubad"
-      },
-      "artists": [
-        {
-          "name": "Kodi Rhianne",
-          "url": "https://open.spotify.com/artist/0SxMiauNf6nzyx8nicQ4ow"
-        }
-      ],
-      "duration_ms": 225725,
-      "name": "DNA Guarantee",
-      "url": "https://open.spotify.com/track/7EimwDV1rXzsiXYGXVUEkC"
-    },
-    {
-      "added_at": "2025-05-30 04:00:33",
-      "album": {
-        "name": "SILLY LITTLE LOVER GIRL",
-        "url": "https://open.spotify.com/album/2fGNBd9UScPGmcndhTUNGP"
-      },
-      "artists": [
-        {
-          "name": "RARIA",
-          "url": "https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY"
-        }
-      ],
-      "duration_ms": 185436,
-      "name": "SILLY LITTLE LOVER GIRL",
-      "url": "https://open.spotify.com/track/5UdujlNkq2QhpegF09A5YO"
-    },
-    {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "Choke",
-        "url": "https://open.spotify.com/album/2FmnDEgozMUKVRZIH3JatP"
-      },
-      "artists": [
-        {
-          "name": "Emma Foley",
-          "url": "https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x"
-        },
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "Choke (feat. SleazyWorld Go)",
-      "url": "https://open.spotify.com/track/0khebDDIF7nC8mzV1MFpfo"
-    },
-    {
-      "added_at": "2025-05-09 04:00:04",
-      "album": {
-        "name": "Sue me",
-        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

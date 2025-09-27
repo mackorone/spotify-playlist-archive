@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,483 likes - 81 songs - 4 hr 27 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,480 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,5 +89,14 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 79 | [Measure \- feat\. Max McNown](https://open.spotify.com/track/2cYH8hnffROSkisIuBSG1O) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Measure \(feat\. Max McNown\)](https://open.spotify.com/album/6tWUs44CCd1z88cGYPOebf) | 3:17 |
 | 80 | [Let The Lonely](https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Let The Lonely](https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L) | 3:18 |
 | 81 | [Written In Stone](https://open.spotify.com/track/4K85ODHSrXi0dWqEtJhwJe) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Written In Stone](https://open.spotify.com/album/5LMmcofa5NbYqP8EkMTj7n) | 2:57 |
+| 82 | [Beat the Devil](https://open.spotify.com/track/1ZqFKsQz5NAZBumTyVI3HI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Beat the Devil](https://open.spotify.com/album/5keXQjLFet3WAGjniLPG0a) | 2:13 |
+| 83 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |
+| 84 | [Diary Of An Alcoholic \(10 Shots\)](https://open.spotify.com/track/4wwcHNs8gIZO71VImuo1yZ) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [Diary Of An Alcoholic \(10 Shots\)](https://open.spotify.com/album/4Nlb19Yaq9PpKYPht7r5Fk) | 3:53 |
+| 85 | [Bad Bad](https://open.spotify.com/track/7gbzuDKCcFkNsg0efdf5hd) | [Karley Scott Collins](https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF) | [Flight Risk](https://open.spotify.com/album/2HEYWp2k9LL1AT167QZizt) | 3:01 |
+| 86 | [Set Free](https://open.spotify.com/track/0ZFsxTghHK3SMYCEa4PZQh) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Denim Eyed Dear](https://open.spotify.com/album/2JNysN8cxeJlNsRFD25Qiz) | 3:28 |
+| 87 | [Come On Over, Baby](https://open.spotify.com/track/3SGEiGQ7SDEXl5BBGosmbD) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Come On Over, Baby](https://open.spotify.com/album/5IxGFv510OOHQPcjJmq84X) | 3:19 |
+| 88 | [Jessica, Jezebel](https://open.spotify.com/track/4AkuVJWRhimUDI176m9pyE) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Jessica, Jezebel](https://open.spotify.com/album/4mVjw6YwvS9B5eoGCyLzGY) | 3:21 |
+| 89 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
+| 90 | [Sweet Talker \- Version Française](https://open.spotify.com/track/5x7fI2EKuIsVOgoXs1V0yq) | [Erika Rollin](https://open.spotify.com/artist/4M6I1B9lXtqtA5cyyxH6yU) | [Sweet Talker \(Version Française\)](https://open.spotify.com/album/2xGJTdTqNz2qgFu6hQyJmq) | 3:10 |
 
-Snapshot ID: `AAANJ432K1gbbRk01Rp5P+99dBFF8jTw`
+Snapshot ID: `AAANMMS8a6u9YZ3dWw91yTjs8B8vEAL5`

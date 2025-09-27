@@ -1,13 +1,165 @@
 {
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Die-On, Tel Kel",
-  "num_followers": 89008,
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia, Die-On, Tel Kel",
+  "num_followers": 89003,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO7nN52fV8Ka3+W8yJaiJ+GX29/7",
+  "snapshot_id": "AAAAABjVAsFERgvZu8hEpb2t3E3ai2k8",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "Libre (feat. Primero)",
+        "url": "https://open.spotify.com/album/6IqtF9ioNIDZBDq4AANv4s"
+      },
+      "artists": [
+        {
+          "name": "Berlam",
+          "url": "https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN"
+        },
+        {
+          "name": "Primero",
+          "url": "https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Libre (feat. Primero)",
+      "url": "https://open.spotify.com/track/3itD9JwmkVQQqb7F0SDz6F"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "Estamos Bien",
+        "url": "https://open.spotify.com/album/2cRppYPZZbDcJtbKwnrX3J"
+      },
+      "artists": [
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "Paranoize",
+          "url": "https://open.spotify.com/artist/7HAc0ID4r7Z7divOc9pGQA"
+        }
+      ],
+      "duration_ms": 200379,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/6hNW8rWXPZ3xyxmHGST7dN"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "4 a Fact",
+        "url": "https://open.spotify.com/album/7j5sHj5MOs6h772UNK6EnE"
+      },
+      "artists": [
+        {
+          "name": "hrshie",
+          "url": "https://open.spotify.com/artist/7ldNa75VRHwmDtoxY5rGhv"
+        },
+        {
+          "name": "Koyo Sur La Prod",
+          "url": "https://open.spotify.com/artist/6CjbzCPefBTqBG8AOWeudu"
+        },
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "4 a Fact",
+      "url": "https://open.spotify.com/track/1yNUYTfvQXSIqN5YU6IXiq"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/2BqOmrmwGrMcuhSlt3Fxdt"
+      },
+      "artists": [
+        {
+          "name": "Meeko",
+          "url": "https://open.spotify.com/artist/6mWepPXB2Ot85jKcT2843H"
+        },
+        {
+          "name": "Lildje",
+          "url": "https://open.spotify.com/artist/6vzONjdo5C1ye4IKIEjAeh"
+        }
+      ],
+      "duration_ms": 143038,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/3HrciA4E29ZHwDtF9WX69D"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "5 De Plus",
+        "url": "https://open.spotify.com/album/1OYTp3ZKk5XUS4bRBJwUMy"
+      },
+      "artists": [
+        {
+          "name": "Kalibre",
+          "url": "https://open.spotify.com/artist/2hJHgSjgt2ij8alpKsyWmN"
+        },
+        {
+          "name": "Le Chum",
+          "url": "https://open.spotify.com/artist/63pY7kUe7FTxVmRl1nw9We"
+        }
+      ],
+      "duration_ms": 115461,
+      "name": "5 De Plus",
+      "url": "https://open.spotify.com/track/5fTgwympyCGDjfaaNrc9Bc"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "Mazel",
+        "url": "https://open.spotify.com/album/1rRv6xqBCOTN5q52emO1ol"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        },
+        {
+          "name": "TOXICO",
+          "url": "https://open.spotify.com/artist/0PDjez4v4rnPsMN2T60fhV"
+        }
+      ],
+      "duration_ms": 181661,
+      "name": "Mazel",
+      "url": "https://open.spotify.com/track/7uKUpMV62fTjVch5xOiitJ"
+    },
     {
       "added_at": "2025-08-22 00:01:27",
       "album": {
@@ -57,6 +209,30 @@
       "url": "https://open.spotify.com/track/0SwxIlHL7HyCBEEVjIHFeQ"
     },
     {
+      "added_at": "2025-08-01 04:00:29",
+      "album": {
+        "name": "\u00c0 la prochaine fois",
+        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
+      },
+      "artists": [
+        {
+          "name": "kinji00",
+          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
+        },
+        {
+          "name": "lb66",
+          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
+        },
+        {
+          "name": "Rowjay",
+          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
+        }
+      ],
+      "duration_ms": 152187,
+      "name": "GENS DU PAYS",
+      "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
+    },
+    {
       "added_at": "2025-09-11 20:45:45",
       "album": {
         "name": "Papier",
@@ -87,6 +263,22 @@
       "duration_ms": 228988,
       "name": "Bouc \u00e9missaire",
       "url": "https://open.spotify.com/track/6E8ztfHvuTix06z3KlNZB6"
+    },
+    {
+      "added_at": "2025-09-26 04:01:18",
+      "album": {
+        "name": "Haut les coeurs",
+        "url": "https://open.spotify.com/album/4m7NTsvQteb5DMFTWBD5I6"
+      },
+      "artists": [
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        }
+      ],
+      "duration_ms": 181917,
+      "name": "Haut les coeurs",
+      "url": "https://open.spotify.com/track/1u2PUteLAyyTzayuoyo6xG"
     },
     {
       "added_at": "2025-09-05 14:56:16",
@@ -223,30 +415,6 @@
       "duration_ms": 143280,
       "name": "RIGHT OR WRONG",
       "url": "https://open.spotify.com/track/11UYuQEXBRKZ3gMZp6yDIm"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "\u00c0 la prochaine fois",
-        "url": "https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn"
-      },
-      "artists": [
-        {
-          "name": "kinji00",
-          "url": "https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF"
-        },
-        {
-          "name": "lb66",
-          "url": "https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A"
-        },
-        {
-          "name": "Rowjay",
-          "url": "https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc"
-        }
-      ],
-      "duration_ms": 152187,
-      "name": "GENS DU PAYS",
-      "url": "https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB"
     },
     {
       "added_at": "2025-08-01 04:00:29",
@@ -1219,334 +1387,6 @@
       "duration_ms": 157701,
       "name": "A.D.N",
       "url": "https://open.spotify.com/track/2DrjbrGDb6s1RlAfs8kwvn"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Cartel Sinaloa",
-        "url": "https://open.spotify.com/album/22WiHEhT42gskWp2iY8X76"
-      },
-      "artists": [
-        {
-          "name": "Jeekay",
-          "url": "https://open.spotify.com/artist/38POyyW13rAIhFtElJXFwJ"
-        },
-        {
-          "name": "Kaneki",
-          "url": "https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cartel Sinaloa",
-      "url": "https://open.spotify.com/track/02vYOuNdVqcMl8TKqqcWAh"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Pleure pas ma Fille, sinon Maman va pleurer",
-        "url": "https://open.spotify.com/album/3jUTNTAhTvFbKnMBc8yQPy"
-      },
-      "artists": [
-        {
-          "name": "Sarahm\u00e9e",
-          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
-        },
-        {
-          "name": "Rymz",
-          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
-        }
-      ],
-      "duration_ms": 196358,
-      "name": "La vie d'avant",
-      "url": "https://open.spotify.com/track/6crR9nxGhvQCYp34OrScyk"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Gros Big",
-        "url": "https://open.spotify.com/album/1dF49zZt96Ht926YetJRdR"
-      },
-      "artists": [
-        {
-          "name": "Gros Big",
-          "url": "https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0"
-        }
-      ],
-      "duration_ms": 154641,
-      "name": "Gros Big",
-      "url": "https://open.spotify.com/track/6Pwct4gc7Y9ag9vHDsXyYK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "NOCHE",
-        "url": "https://open.spotify.com/album/4elNnriocyEa75OIRSLZKK"
-      },
-      "artists": [
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
-        }
-      ],
-      "duration_ms": 192128,
-      "name": "TEQUILA",
-      "url": "https://open.spotify.com/track/5z5TCdZd6PDUuC54TOFlRH"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Bonhomme Pendu 4 (Chapitre Perdu)",
-        "url": "https://open.spotify.com/album/5JWAUtRoJ0Lp2PLy7cn4it"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Manu Militari",
-          "url": "https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE"
-        }
-      ],
-      "duration_ms": 232106,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/6sLrf1TQv9cR8oJaDfkaUe"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Rap Life",
-        "url": "https://open.spotify.com/album/6VMc6b9oyfPcXkqZEo4Jfw"
-      },
-      "artists": [
-        {
-          "name": "Connaisseur Ticaso",
-          "url": "https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o"
-        },
-        {
-          "name": "Monk.E",
-          "url": "https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou"
-        },
-        {
-          "name": "Neto Yuth",
-          "url": "https://open.spotify.com/artist/25Uj5cijZH1GujWEa9dbUd"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Push Hard",
-      "url": "https://open.spotify.com/track/4abfijDfzeV78zrkeB8FzK"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Ph\u00e9nix",
-        "url": "https://open.spotify.com/album/5r0WDq2OcLMz4zDa5cV4hs"
-      },
-      "artists": [
-        {
-          "name": "Die-On",
-          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Descente aux enfers",
-      "url": "https://open.spotify.com/track/1tFBUTJkx8rPa8baeObKQG"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Tour",
-        "url": "https://open.spotify.com/album/2m3epZUipMloYX7ubIeORv"
-      },
-      "artists": [
-        {
-          "name": "Gutta192",
-          "url": "https://open.spotify.com/artist/6xkNjwIRwqWMSw8ARQcppe"
-        }
-      ],
-      "duration_ms": 203467,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/4v2DWcJS8tXPMqq9SKX5R5"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Zoo",
-        "url": "https://open.spotify.com/album/2LaE5HhyNSP5eGOswyxPxK"
-      },
-      "artists": [
-        {
-          "name": "QCLTUR",
-          "url": "https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 180976,
-      "name": "Zoo",
-      "url": "https://open.spotify.com/track/7qdSLZGhJSBjB0Ohr37Xt1"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "7 Vie L\u00e0",
-        "url": "https://open.spotify.com/album/3Qhf6BHKSsd1VZlBKOcgK9"
-      },
-      "artists": [
-        {
-          "name": "Frank'emcy",
-          "url": "https://open.spotify.com/artist/1U08mG4rKbGFB6kLMg1J0G"
-        },
-        {
-          "name": "Bol\u00e9mvn",
-          "url": "https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7"
-        }
-      ],
-      "duration_ms": 215796,
-      "name": "7 Vie L\u00e0",
-      "url": "https://open.spotify.com/track/02PPZbednkOxP4Q3qpuOHN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Chief Keef",
-        "url": "https://open.spotify.com/album/1Wau0tDMwWxZuELIPdWTPe"
-      },
-      "artists": [
-        {
-          "name": "Zayo",
-          "url": "https://open.spotify.com/artist/12BkdXUWfundfkkXQMiW2n"
-        }
-      ],
-      "duration_ms": 121690,
-      "name": "Chief Keef",
-      "url": "https://open.spotify.com/track/5ilRPSFAdxFZReuKUPKzTh"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Papercuts",
-        "url": "https://open.spotify.com/album/39sAxVFPkuC7hBGUZYfFrx"
-      },
-      "artists": [
-        {
-          "name": "20Some",
-          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
-        },
-        {
-          "name": "Imposs",
-          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Papercuts",
-      "url": "https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "PRADA",
-        "url": "https://open.spotify.com/album/5G0NtUfZcVs8WeYgTnE3Wm"
-      },
-      "artists": [
-        {
-          "name": "TheQ.",
-          "url": "https://open.spotify.com/artist/3gFaoWM69u7CG2vEDMXPfR"
-        }
-      ],
-      "duration_ms": 158171,
-      "name": "PRADA",
-      "url": "https://open.spotify.com/track/1lWpH49lNKFCm2Wrw5AFx8"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/1k7givc0662M7BReqqkAGx"
-      },
-      "artists": [
-        {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
-        },
-        {
-          "name": "TJ DTS",
-          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "40",
-      "url": "https://open.spotify.com/track/6MJSvI0HaZC2W5JIZg9w50"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/7etElUD2VBeeuYfBY5hYHO"
-      },
-      "artists": [
-        {
-          "name": "Jay Jay",
-          "url": "https://open.spotify.com/artist/42IVM8biRfwghSfukPMimt"
-        },
-        {
-          "name": "IZO",
-          "url": "https://open.spotify.com/artist/5A1DfHw6UVRykKZr08UZtC"
-        },
-        {
-          "name": "SMZ",
-          "url": "https://open.spotify.com/artist/6YL07efGhdAVsqDuRgXACG"
-        }
-      ],
-      "duration_ms": 231156,
-      "name": "Mapessa",
-      "url": "https://open.spotify.com/track/4KcqVTWv453EFbAiM8lwoF"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "Nouveau Chapitre",
-        "url": "https://open.spotify.com/album/1Djf3JZKEMTRnfCXYH7lGR"
-      },
-      "artists": [
-        {
-          "name": "Taktika",
-          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
-        },
-        {
-          "name": "Mindflip",
-          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
-        }
-      ],
-      "duration_ms": 233411,
-      "name": "Nouveau Chapitre",
-      "url": "https://open.spotify.com/track/6DobGjLzrEevifya8rWxIl"
-    },
-    {
-      "added_at": "2025-08-01 04:00:29",
-      "album": {
-        "name": "1001 Nuits",
-        "url": "https://open.spotify.com/album/4VIP3RkEK6Yb9sjonaRYWA"
-      },
-      "artists": [
-        {
-          "name": "T.K",
-          "url": "https://open.spotify.com/artist/2oIv5lNNTIBLXRDV3eSzDp"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "Imposs",
-          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
-        }
-      ],
-      "duration_ms": 256874,
-      "name": "Mean mug",
-      "url": "https://open.spotify.com/track/69VgYJwIP0UiS3WrRUk2W5"
     }
   ],
   "unique_name": "Rap qu\u00e9b",

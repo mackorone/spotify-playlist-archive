@@ -1199,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "BB (with Blessd)",
+        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BB (with Blessd)",
+      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
+    },
+    {
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/56gG3L1q2IClYml31bL8mT"
       },
@@ -3578,7 +3600,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 195033,
       "name": "En To Lao",
       "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
@@ -6614,7 +6636,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
@@ -6862,6 +6884,32 @@
       "duration_ms": 162812,
       "name": "MI AMIGA ES UNA P",
       "url": "https://open.spotify.com/track/0LNinQsLU8ushZQhaefl7P"
+    },
+    {
+      "album": {
+        "name": "Mi Cuete",
+        "url": "https://open.spotify.com/album/033WUM6TeQIcORBwLncJh6"
+      },
+      "artists": [
+        {
+          "name": "Riky Produce",
+          "url": "https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        },
+        {
+          "name": "Mamx",
+          "url": "https://open.spotify.com/artist/2s2vf7HUnfrciHagiyRX50"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177235,
+      "name": "Mi Cuete",
+      "url": "https://open.spotify.com/track/1sWpJTOKzmKam5wqvJ3RYJ"
     },
     {
       "album": {

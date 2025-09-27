@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 30659,
+  "num_followers": 30667,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAAa4ZLqtL8Nw950sWwP31x8",
+  "snapshot_id": "aNSGAAAAAABK7fsrGZMlra7MXgqrlY4c",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 273162,
-      "name": "Me Cuesta Tanto",
-      "url": "https://open.spotify.com/track/0aMszifcdIAK9AYSaev409"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 257653,
       "name": "No Le Temas Al Amor",
       "url": "https://open.spotify.com/track/7jE4t5ZWcXvPnt9BSzVm8a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 273162,
+      "name": "Me Cuesta Tanto",
+      "url": "https://open.spotify.com/track/0aMszifcdIAK9AYSaev409"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 227918,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver a Triunfar",
         "url": "https://open.spotify.com/album/2zmudHpIZ9n0TfeuAFaImO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 243080,
       "name": "Cada D\u00eda Te Quiero M\u00e1s",
       "url": "https://open.spotify.com/track/3AoWQtlL6Ma0z54NKuBhF3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 227918,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
     },
     {
       "added_at": null,

@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 255338,
       "name": "All in Good Time",
       "url": "https://open.spotify.com/track/3K8csekmDMhYCh0BDzalmW"
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 191493,
       "name": "Because You're Mine",
       "url": "https://open.spotify.com/track/6opimF0XfWVW8VfSvLb7zk"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 232252,
       "name": "Devil In My Ear",
       "url": "https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK"
@@ -3858,7 +3858,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 288121,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/22AYv6oubrOclu24nNux0M"
@@ -5564,7 +5564,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 198266,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1Dwe3stHagI1NLezeHLK9k"
@@ -6084,7 +6084,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 198693,
       "name": "Heart Like This",
       "url": "https://open.spotify.com/track/73KQhe6foBjiEspdYRap0I"
@@ -6440,7 +6440,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 193460,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/2Da8aRTIJXb2eYvbYnxgwd"
@@ -7164,6 +7164,24 @@
       "duration_ms": 188520,
       "name": "If Heaven Is A Hotel",
       "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
+    },
+    {
+      "album": {
+        "name": "If I'm Lucky",
+        "url": "https://open.spotify.com/album/4i0iM6xWdd0CoGAc5f5y2H"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244600,
+      "name": "If I'm Lucky",
+      "url": "https://open.spotify.com/track/3V3eLDsjsDHu78UC4LDUGb"
     },
     {
       "album": {
@@ -7988,6 +8006,24 @@
       "duration_ms": 231987,
       "name": "Last American Summer",
       "url": "https://open.spotify.com/track/75YFljzpMBKPICS0UhktL3"
+    },
+    {
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/4uZj1ELtiMfSBkHN74XfLD"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195436,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/2kfEI396BwbyxobN7Xk07u"
     },
     {
       "album": {
@@ -8824,6 +8860,24 @@
       "duration_ms": 328333,
       "name": "Mid-Century Modern",
       "url": "https://open.spotify.com/track/6PMCWAKTBLb4shEI60G9jZ"
+    },
+    {
+      "album": {
+        "name": "Midland After Midnight [Landman - Songs From and Inspired by the Paramount+ Original Series (Volume I)]",
+        "url": "https://open.spotify.com/album/4mQaw4ELX4S6TXLyrj7LMd"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237284,
+      "name": "Midland After Midnight",
+      "url": "https://open.spotify.com/track/7k5lFpunUyqCVFs6kT7Pfe"
     },
     {
       "album": {
@@ -11621,6 +11675,24 @@
     },
     {
       "album": {
+        "name": "Rusty Mountain",
+        "url": "https://open.spotify.com/album/0M3LgLBdZhaDu8ucfjechl"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Rusty Mountain",
+      "url": "https://open.spotify.com/track/4lse8ZCfSeHIsYPnlJYziG"
+    },
+    {
+      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -13845,6 +13917,28 @@
     },
     {
       "album": {
+        "name": "The Lucky Ones (feat. The Texas Gentlemen)",
+        "url": "https://open.spotify.com/album/2NTFrFOzVaKJwUNEluvlA5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        },
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293845,
+      "name": "The Lucky Ones (feat. The Texas Gentlemen)",
+      "url": "https://open.spotify.com/track/52vvsMAYXmHjc9xs2xttRy"
+    },
+    {
+      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/6VB4Y6ntegogaFfzBFgBGI"
       },
@@ -14026,6 +14120,32 @@
       "duration_ms": 252298,
       "name": "The Sacred Now",
       "url": "https://open.spotify.com/track/1lAv7oakRuwnzrqjFyxSqx"
+    },
+    {
+      "album": {
+        "name": "Darling Blue",
+        "url": "https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247050,
+      "name": "The Shadows (feat. Noah Cyrus)",
+      "url": "https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK"
     },
     {
       "album": {

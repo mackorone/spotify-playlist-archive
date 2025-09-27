@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,186 songs - 3 day 0 hr 34 min
+1,187 songs - 3 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -840,6 +840,7 @@
 | [Runner](https://open.spotify.com/track/34KSqP8hK9vktemyJs6Zoh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/5rJBH4rmxpqXaDf8E1Mgse) | 4:18 | 2022-09-17 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-05-30 |  |
 | [RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:57 | 2022-07-13 |  |
+| [Running Running Running \(feat\. Quadeca\)](https://open.spotify.com/track/5GvDlQbFI3KiVAhJZ4QfDU) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Running Running Running \(feat\. Quadeca\)](https://open.spotify.com/album/6VvmZmSmQxF2njwhExQBpX) | 3:08 | 2025-09-26 |  |
 | [Runway Houses City Clouds](https://open.spotify.com/track/4VXpADLKAIjUYUxqQ3t6vh) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 7:15 | 2021-04-30 |  |
 | [Runway Houses City Clouds \- 2020 Mix](https://open.spotify.com/track/2rOsZbCZxH7P4mvuiBIgoP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 7:08 | 2021-04-29 |  |
 | [Russian Strings](https://open.spotify.com/track/4PYSl6WeEhlTyHrkQhclTW) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 3:37 | 2023-07-23 |  |

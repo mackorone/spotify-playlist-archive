@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-406 songs - 1 day 0 hr 20 min
+407 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Pedavi Pilichina](https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu) | [Pedavi Pilichina](https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e) | 3:49 | 2023-08-25 | 2023-09-21 |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
 | [Peru Gurthu Pettukondi](https://open.spotify.com/track/65dMszxbD9jqP2mITfoe58) | [Lady Skavya](https://open.spotify.com/artist/5QeNGb11QgU6msarwbkI2I) | [Peru Gurthu Pettukondi](https://open.spotify.com/album/0japaiVAo5BkeQDWaca83V) | 2:59 | 2025-09-15 |  |
+| [Photo Tisthava](https://open.spotify.com/track/1p8yKnn8UkL32O3EBdhqV8) | [Singer Prabha](https://open.spotify.com/artist/273F9W74IJfwAFlpeJBSmo), [Kalyan Keys](https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN) | [Photo Tisthava](https://open.spotify.com/album/3Qiq0HuKQtgRdtp9RCBJ9d) | 3:18 | 2025-09-26 |  |
 | [Pilla](https://open.spotify.com/track/1kdDZJYtoHHt4kq3BDo7D1) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [P Akshaya](https://open.spotify.com/artist/4JBpL56kk5zIodOONetywo), [MC Rahul Raj](https://open.spotify.com/artist/3LbutWO2ZRAHC2W5pQ3piG) | [Pilla](https://open.spotify.com/album/4yzhPDSzzUvrtcex919xy1) | 3:45 | 2024-02-21 | 2024-05-21 |
 | [Pilla](https://open.spotify.com/track/1gNzOEg64KHBMxU0pteGQx) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Pilla](https://open.spotify.com/album/59XeWn5AXlh6BRx6gGKA4q) | 3:43 | 2024-01-19 | 2024-03-06 |
 | [Pilla Nee Ventae](https://open.spotify.com/track/6KBGVi3Kt2wKmNgqHX9cI9) | [Sanjith Raman](https://open.spotify.com/artist/4oaPJiDNexvtQNj8kIXZmP), [Rafiq Ali](https://open.spotify.com/artist/2LpmKpagVqOI6jWcI2foRY) | [Pilla Nee Ventae](https://open.spotify.com/album/6WjLOiB2G5DdzqKNxSPliT) | 4:26 | 2024-02-26 | 2025-08-05 |

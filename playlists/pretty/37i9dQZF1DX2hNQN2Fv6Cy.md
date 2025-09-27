@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 
 > 90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,391 likes - 128 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,690 likes - 128 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,10 +124,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hNQN2Fv6Cy.md) - [plain]
 | 114 | [No Diggity](https://open.spotify.com/track/0AvV49z4EPz5ocYN7eKGAK) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/6nUnNpoLKWpb9qxhYiT98S) | 5:04 |
 | 115 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
 | 116 | [Hypnotize](https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(Deluxe Version\)](https://open.spotify.com/album/2sRdk7s8ObFBEn3ZoPmE5r) | 3:50 |
-| 117 | [Everything Is Everything](https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 4:53 |
+| 117 | [Get Right](https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN) | 3:45 |
 | 118 | [Always On Time](https://open.spotify.com/track/0zaWQBwkfh9OmK77CiDmRI) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Pain Is Love \(International Version\)](https://open.spotify.com/album/4Xc3wBfUZ9yiszOrttoCXV) | 4:05 |
-| 119 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown](https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR) | 3:49 |
-| 120 | [Get Right](https://open.spotify.com/track/6BUZX2MNhJs0p13ezYtOLp) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/2UhhTDJmmzO0vGWpWm0KZN) | 3:45 |
+| 119 | [Everything Is Everything](https://open.spotify.com/track/09RS0QfhJVmx1zwwEGtMQu) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/2Uc0HAF0Cj0LAgyzYZX5e3) | 4:53 |
+| 120 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/1zpu1PZ8ecmcX525Z3X8cl) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown](https://open.spotify.com/album/2gRm1k9fVkhTfZDHvBI2sR) | 3:49 |
 | 121 | [I'm Sprung](https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Rappa Ternt Sanga](https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu) | 3:51 |
 | 122 | [Dirrty](https://open.spotify.com/track/4x1LFfoHJFGzlIQ9xGqpNt) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/29pwhTLIq3wug18AKVGPEM) | 4:58 |
 | 123 | [If I Could Go \(feat\. Sacario & Lil Mo\)](https://open.spotify.com/track/623M2eiRUKVIDJGTuKsvut) | [Angie Martinez](https://open.spotify.com/artist/6VJqy1YyzrK4ZhgGs9cNTy) | [If I Could Go \(feat\. Sacario & Lil Mo\) \- Single](https://open.spotify.com/album/5Fm5jXpwSRQYDDfIIC2jn7) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Brokezart, Hefner, Nerra en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,377 likes - 67 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,373 likes - 67 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 3 | [Tetris](https://open.spotify.com/track/55A4jJvAhsQrUMxI3SuBDV) | [Hefner](https://open.spotify.com/artist/0kmyGm8XFYQyoysy0dpuVx) | [Tetris](https://open.spotify.com/album/17i4ocdN2KlaTlQsX8ExXN) | 1:56 |
 | 4 | [4, 5 Shots](https://open.spotify.com/track/2eeKFKWZLnoQQX886943f1) | [Nerra](https://open.spotify.com/artist/3pshrBCH7nXMlaUVtP4zpz) | [4, 5 Shots](https://open.spotify.com/album/7enM3yCOBeuT89LUnKsdX4) | 2:30 |
 | 5 | [Twee handen](https://open.spotify.com/track/5UWybrgkMX5k1sx9RldaMc) | [Ries](https://open.spotify.com/artist/4JzWQoYWa4uI7iVJorKEtG), [Benjamin Tijmen](https://open.spotify.com/artist/5zzbiSvJpOBd9Dj817mJrE) | [Twee handen](https://open.spotify.com/album/0Uq3PTE812qB6PycWRDFa7) | 3:15 |
-| 6 | [Track 17](https://open.spotify.com/track/4e535p2OAB9JupZhUDsWl0) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [](https://open.spotify.com/album/null) | 0:00 |
+| 6 | [BANDO](https://open.spotify.com/track/4e535p2OAB9JupZhUDsWl0) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [BILLO](https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL) | 2:41 |
 | 7 | [Link Up](https://open.spotify.com/track/7kRhwDdgl85QowKbeKbv6C) | [PLUGOXHUSH](https://open.spotify.com/artist/1NVqy2JmTHXzS0deflJpS2), [Onin](https://open.spotify.com/artist/6lhL3kP95jA2mE8d5aPnVK) | [Link Up](https://open.spotify.com/album/30tN0E97Jro9zfrsYZ9HJP) | 3:12 |
 | 8 | [Pauzehapje](https://open.spotify.com/track/3vSdrrPK3sES504cs6TJy7) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Zó Dan](https://open.spotify.com/album/5Zk6d1f3qEG1hhz8uENN19) | 2:08 |
 | 9 | [Boksring S.o Krikke94](https://open.spotify.com/track/3boDoiuu2YyuALbxEbPhUx) | [Zwangere Guy](https://open.spotify.com/artist/2Sm4rGKWBnOQhdqDy4JJh0) | [Dit is Guy.](https://open.spotify.com/album/3ap4Pcbqzq9uGOm4SEyn0y) | 2:57 |

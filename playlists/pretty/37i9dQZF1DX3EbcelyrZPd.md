@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu & Zuchu
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,368 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,424 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pawa](https://open.spotify.com/track/51TVoZ4d09tedi9Z8iSX5r) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Room Number 3](https://open.spotify.com/album/17L4x88dKSyBVnvYpgMzVY) | 3:46 |
-| 2 | [Amanda Remix \(feat\. Spice\)](https://open.spotify.com/track/5zl3ugguXnMVhTTW07NC27) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Spice](https://open.spotify.com/artist/1agX5xuqpSUDQ55gkdQbZk) | [Amanda Remix \(feat\. Spice\)](https://open.spotify.com/album/4yObtvmES71J5IefzLJDID) | 3:21 |
+| 2 | [Amanda Remix \(feat\. Spice\)](https://open.spotify.com/track/5zl3ugguXnMVhTTW07NC27) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Amanda Remix \(feat\. Spice\)](https://open.spotify.com/album/4yObtvmES71J5IefzLJDID) | 3:21 |
 | 3 | [Katam \(feat\. Bien\)](https://open.spotify.com/track/4MGtTXaggDrYal3andtYxP) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Katam \(feat\. Bien\)](https://open.spotify.com/album/2yRuZcR1TDAY2oFyLs6vHf) | 4:05 |
 | 4 | [Obimo](https://open.spotify.com/track/67ujyXEefurRhsBioXtLiL) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Obimo](https://open.spotify.com/album/3GS1wt8XZVyDbiQK63ASd1) | 4:08 |
 | 5 | [DUNIA](https://open.spotify.com/track/3Psi2mv83ZwmHSegwbEgI3) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [DUNIA](https://open.spotify.com/album/2sEJT9Po8jjle2NdR7OC8k) | 2:29 |

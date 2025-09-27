@@ -2,9 +2,9 @@
 
 ### [Reggae en Español](https://open.spotify.com/playlist/37i9dQZF1DWVYs6zNzJ0ci)
 
-> Vibraciones rastafari en español con los 100 millones de streams de "High" de Rawayana 🇻🇪
+> Vibraciones rastafari con Los Cafres.
 
-416 songs - 1 day 3 hr 16 min
+417 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Las Ganas de Vivir](https://open.spotify.com/track/3ZtGBBtfUyfV1KYiIZSf35) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/4U7KLrIBFClFnQ4v7jKj4O) | 3:53 | 2023-08-18 | 2024-01-27 |
 | [Las Ganas de Vivir](https://open.spotify.com/track/5JKsY1CEoZhfg5KAqu7eML) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Las Ganas de Vivir](https://open.spotify.com/album/7DbFbonfYLMLt1etSjftAH) | 3:53 | 2021-12-10 | 2022-07-29 |
 | [Las Ganas de Vivir](https://open.spotify.com/track/7CUnSaxzKJT5ntbqBKz1fr) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [La Llave Maestra](https://open.spotify.com/album/0IGW3ipP3z1PXooqMX403Q) | 3:53 | 2022-07-08 | 2023-08-02 |
+| [Las Preguntas](https://open.spotify.com/track/10onZ2HMiHn5qxlc5TVVU2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Las Preguntas](https://open.spotify.com/album/53YzTeBi9F8MsaDDSeaigC) | 4:43 | 2025-09-26 |  |
 | [LEGENDS](https://open.spotify.com/track/1Stfpri3EjoPHMHFMWmDfB) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [King Reyes](https://open.spotify.com/artist/5leoG4KvKjeYNkUzNF27Ci), [RickRocket](https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [LEGENDS](https://open.spotify.com/album/5rtXvb4KNWJjRsuHyM5v4E) | 5:10 | 2023-07-21 | 2023-10-01 |
 | [Leggae Kid](https://open.spotify.com/track/6SjhtaOLRhhvTUL04GdTvW) | [Jah Fabio](https://open.spotify.com/artist/6cMEIQyZxsgtbzzvMmozuc), [Warrior King](https://open.spotify.com/artist/3P6IiqvaPyeePMtZA1mJwc) | [Leggae Kid](https://open.spotify.com/album/6PRcdRmS9I0C7LN6EeG1a2) | 2:54 | 2024-07-19 | 2024-08-31 |
 | [Lenguas de Signos \(feat\. Monsieur Periné\)](https://open.spotify.com/track/2eSfx6dUPd5fTSf1IbYvlB) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Civilizado Como Los Animales](https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW) | 4:52 | 2021-12-10 | 2024-05-11 |
@@ -335,7 +336,7 @@
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/5F3qW7U4Tmqwmh0SsVkyOr) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/album/4LqtYba4wLsXu4vzPG4aEk) | 2:46 | 2021-12-10 | 2023-02-22 |
 | [Seguirla](https://open.spotify.com/track/56Bv7jVPB3sLRBmUS6JJXD) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Seguirla](https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm) | 3:11 | 2023-03-03 | 2023-05-20 |
 | [Sentimiento Colectivo](https://open.spotify.com/track/5Mt39ZADBRZMNeKG4DxDJP) | [Colectivo Ley De Origen](https://open.spotify.com/artist/5J6qDQo17awBaFEmOGhfb3), [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Sentimiento Colectivo](https://open.spotify.com/album/7e75vjhSH4p79UErg0u8hy) | 3:08 | 2021-12-10 | 2022-07-29 |
-| [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 | 2021-12-10 |  |
+| [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 | 2021-12-10 | 2025-09-27 |
 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 | 2021-12-10 |  |
 | [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 | 2025-07-30 |  |
 | [Siempre](https://open.spotify.com/track/7d42VpwmsJhlBcfOJ5XQu0) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Siempre](https://open.spotify.com/album/4tx8t2F5LBamtUKg4Wk7ik) | 4:24 | 2021-12-10 | 2022-07-29 |

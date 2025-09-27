@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-614 songs - 23 hr 31 min
+615 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Nostalgic Noodles](https://open.spotify.com/track/639IKfmKDbCl4mVt02t1Wa) | [Vidstige](https://open.spotify.com/artist/1VT2USJnh1iwDdgyhMoWTR) | [Nostalgic Noodles](https://open.spotify.com/album/7wcmvwXKitFGIE9yIPm5Cj) | 1:59 | 2024-01-05 |  |
 | [Not At All](https://open.spotify.com/track/030TYbsWclN7rk1jv2Sd2R) | [entsy](https://open.spotify.com/artist/6UKGPZKVaXj8xmtkGLKuUX) | [Not At All](https://open.spotify.com/album/69poJpRRslIWZkiasD6wHj) | 2:23 | 2024-01-05 | 2025-08-22 |
 | [Oasis](https://open.spotify.com/track/0H5Ev0vFWpqqLlWAwfUpOC) | [Kival](https://open.spotify.com/artist/4mYPgSEfNEHOG0QfdJuMwp) | [Oasis](https://open.spotify.com/album/6nQNTDHsAzKwD63yJ8znXV) | 2:44 | 2024-01-05 | 2025-08-22 |
+| [Old Friends](https://open.spotify.com/track/4ipco4orDngfmTXSaiBm4x) | [Oroshi](https://open.spotify.com/artist/3gqs8fHrmLkMfjT5BI1bNh) | [Old Friends](https://open.spotify.com/album/7MgEFOHLuO16karUWsZ19V) | 2:33 | 2025-09-25 |  |
 | [On Empty](https://open.spotify.com/track/1UNiVCuUcoKHRol0ykFlBr) | [wovels tune](https://open.spotify.com/artist/2Q0DvYlO2XM5FrZy2dSJYX) | [On Empty](https://open.spotify.com/album/1YMJQUp4mQo2yrtIZ85keu) | 2:12 | 2024-01-05 | 2025-09-26 |
 | [On my mind](https://open.spotify.com/track/0DUhu1xEepWHTXupbUDgGt) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [On my mind](https://open.spotify.com/album/5IKftGnn54xtTSbGuw9C5Q) | 3:14 | 2024-01-05 | 2025-09-26 |
 | [on the edge](https://open.spotify.com/track/4loxJClOvjpnA67XzbFyNB) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [on the edge](https://open.spotify.com/album/5QBF1PNRxB5bUEK03sLkwU) | 2:13 | 2024-11-07 | 2025-01-01 |
@@ -579,7 +580,7 @@
 | [Twice As Much](https://open.spotify.com/track/1Cn2CVSoJJZki8lJP4x56T) | [nuuxm](https://open.spotify.com/artist/101wXaKcGFhROAYVnIwcAs) | [Twice As Much](https://open.spotify.com/album/03WH6lU8pvdLhiLEY2eDh8) | 2:42 | 2025-08-21 | 2025-09-26 |
 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 | 2024-01-05 | 2025-08-22 |
 | [Undeniable](https://open.spotify.com/track/4VkuebWvS2LlxmnMjukZ21) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Undeniable](https://open.spotify.com/album/6Yi9YIuFueT15dls1lblx2) | 2:34 | 2024-01-05 |  |
-| [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2024-01-05 |  |
+| [Urban Sunsets](https://open.spotify.com/track/5pEDDmOo2f7jm2Vtw8I1Ms) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Urban Sunsets](https://open.spotify.com/album/1WyMhhHMhnyqwG2fe7Xkdu) | 2:10 | 2024-01-05 | 2025-09-27 |
 | [Van Von Vinkelvoss](https://open.spotify.com/track/4vCJcqYGVB7hXmmF4eMGV5) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [Van Von Vinkelvoss](https://open.spotify.com/album/5Wh4SnF9dvdtMZzXeIc7h9) | 2:42 | 2024-01-05 | 2025-08-22 |
 | [Vibe Check](https://open.spotify.com/track/1UZzgXW7aQrbcszxDWleBR) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Days](https://open.spotify.com/album/1ll3McJaLAP6wzADXKfIEc) | 2:24 | 2024-01-05 | 2025-08-22 |
 | [vinyl](https://open.spotify.com/track/3ZDHugxhMsEaSQ2xhH8dzM) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [vinyl](https://open.spotify.com/album/14LEzEOuAfXpNFhDr9bfGU) | 2:06 | 2025-04-04 |  |

@@ -4,7 +4,7 @@
 
 > The best in South African and international R&B\. Cover: Lusanda
 
-604 songs - 1 day 8 hr 27 min
+605 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 | 2024-04-25 | 2024-07-27 |
 | [About Last Night](https://open.spotify.com/track/3ofElFUCdXQdaPjsnVIu1S) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Watchlist](https://open.spotify.com/album/0e4CQsKAPU3hIPipG0h5mX) | 2:32 | 2024-11-29 | 2025-04-25 |
 | [Absenti \(Intro\)](https://open.spotify.com/track/5kUlUmSY9xrzWU2kplWFZs) | [Thembi Dunjana](https://open.spotify.com/artist/6YTWqfsYjk52c4aO3Hsbud) | [God Bless iKapa\. God Bless Mzantsi.](https://open.spotify.com/album/1At55yK8iaQEPhRrK3cfMm) | 1:24 | 2025-06-13 | 2025-06-20 |
-| [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 | 2025-04-24 |  |
+| [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 | 2025-09-26 |  |
+| [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 | 2025-04-24 | 2025-09-27 |
 | [Ali Bomaye](https://open.spotify.com/track/69ljijBlGBQ82ce3SidtVu) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Ali Bomaye](https://open.spotify.com/album/1B7xewToSrEgG5AtuISwdx) | 2:28 | 2025-01-24 | 2025-06-28 |
 | [Align \(Sorry\)](https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Align \(Sorry\)](https://open.spotify.com/album/7B5hF0ad6sxUVsMZSuQLV6) | 2:37 | 2024-05-31 | 2024-09-03 |
 | [All About You](https://open.spotify.com/track/4GmaFkiZ2TFVcztCeCvbQY) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [All About You](https://open.spotify.com/album/6REE4bY6T3SMMBlniNrPmX) | 2:36 | 2024-02-14 | 2024-02-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 235341,
+  "num_followers": 235326,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Wish You Were Here (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 334743,
+      "name": "Wish You Were Here - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "No Need To Argue (The Complete Sessions 1994-1995)",
         "url": "https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 222200,
       "name": "Exagerado",
       "url": "https://open.spotify.com/track/3ZRWcArefd1sfpdw5icCM7"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Wish You Were Here (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 334743,
-      "name": "Wish You Were Here - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb"
     },
     {
       "added_at": "2024-02-27 20:15:05",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,348 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,394 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Uno Mas](https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G) | [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh), [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ) | [Uno Mas](https://open.spotify.com/album/2RNQQzCON8BrrWffXVRMUy) | 2:39 |
+| 1 | [Uno Mas](https://open.spotify.com/track/5keJdI76Sc8wf1jZwCts4G) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [Uno Mas](https://open.spotify.com/album/2RNQQzCON8BrrWffXVRMUy) | 2:39 |
 | 2 | [LEAN ON MY LOVE \(feat\. Andra Day\)](https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [BIG MONEY](https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3) | 4:11 |
 | 3 | [Three Little Words](https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Three Little Words](https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5) | 4:50 |
 | 4 | [Dersen Cafe](https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Dersen Cafe & Give Nothing](https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH) | 2:04 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 22 | [I\. The Cakewalk Dilemma](https://open.spotify.com/track/0lXpOJk3QrAIuDW0pUqRQM) | [Isaiah J\. Thompson](https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9) | [The Book of Isaiah: Modern Jazz Ministry](https://open.spotify.com/album/3Ef6ZoiXdtfXxDrn9UGQyG) | 5:24 |
 | 23 | [The night the lights went out in Georgia](https://open.spotify.com/track/1ek9Wq9r5OB46hHVjHwZxM) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [The night the lights went out in Georgia](https://open.spotify.com/album/2DytODJIRjY7NfrwgZeArW) | 4:41 |
 | 24 | [Tegucigalpa 72](https://open.spotify.com/track/5Dsxl7aOX1Z2w4fWqfJkoV) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7) | [Tegucigalpa 72](https://open.spotify.com/album/6XwZdlGJn1M84r7uVQ7xXU) | 3:03 |
-| 25 | [Café com Pão](https://open.spotify.com/track/5Trvm4UBCoBAmEG35HehAY) | [Projecto Coisa Fina](https://open.spotify.com/artist/2NHCTaWTVYgg6B45dRwJ5c), [Samy Thiébault](https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih) | [Café com Pão](https://open.spotify.com/album/7DdWCsBu9HDZcY3SX33PZL) | 4:57 |
+| 25 | [Café com Pão](https://open.spotify.com/track/5Trvm4UBCoBAmEG35HehAY) | [Projeto Coisa Fina](https://open.spotify.com/artist/5Z2qOOW5avsLNKfcoYzpMf), [Samy Thiébault](https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih) | [Café com Pão](https://open.spotify.com/album/7DdWCsBu9HDZcY3SX33PZL) | 4:57 |
 | 26 | [Stories](https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jacomo Bairos](https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3) | [Stories](https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU) | 6:56 |
 | 27 | [I'll Be Long Gone](https://open.spotify.com/track/3emSSwg6s0Zx6jBln382CR) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [I'll Be Long Gone](https://open.spotify.com/album/50xsM3ZLj2cSluqqsmv65S) | 4:47 |
 | 28 | [Southern Belle \(feat\. Daniel Rossen\)](https://open.spotify.com/track/300QZVVkyXkZiHptlvO0qM) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq), [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Ride into the Sun](https://open.spotify.com/album/2ulLCUuxrYYuHjOqnhBkx9) | 3:52 |

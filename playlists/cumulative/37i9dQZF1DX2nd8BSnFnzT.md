@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Lupe De Lupe
 
-556 songs - 1 day 7 hr 3 min
+557 songs - 1 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Musketeer \- Live](https://open.spotify.com/track/2IU774DbOINGPQHfNavI0I) | [Forgotten Boys](https://open.spotify.com/artist/3iXovebRefBCpxdCw7x7Ms) | [Gimme More and More](https://open.spotify.com/album/6PHUhrrhq7VQHf3cVMK0ax) | 2:59 | 2023-08-04 | 2023-10-28 |
 | [Mágoas Passadas](https://open.spotify.com/track/02B1IKMtl384QRV2KydzEu) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [Enfrente](https://open.spotify.com/album/5vwVHEMflft9bYfPnZFLeH) | 4:20 | 2024-04-05 |  |
 | [Mãe](https://open.spotify.com/track/4p7tg4WcsnDWxl4IGIBxKR) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Mãe](https://open.spotify.com/album/161ge9q4WPISTLr51Gmg6U) | 3:26 | 2023-05-12 | 2023-07-01 |
-| [Mãos](https://open.spotify.com/track/4wjS6UOGiB0yhfIzsyN2Ja) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Mãos](https://open.spotify.com/album/1hmaow1NptOkSorA37AgDY) | 2:55 | 2025-05-02 |  |
+| [Mãos](https://open.spotify.com/track/4wjS6UOGiB0yhfIzsyN2Ja) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Mãos](https://open.spotify.com/album/1hmaow1NptOkSorA37AgDY) | 2:55 | 2025-05-02 | 2025-09-27 |
 | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/track/5dyQxt1zLby3puYbTNFXAu) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Míriam \(Pra você que virou anjo\)](https://open.spotify.com/album/1uaqQnmLsxvhnrhNZ2fG7l) | 3:23 | 2023-09-29 | 2023-12-09 |
 | [Mísseis Democráticos](https://open.spotify.com/track/4mNJF5gd4XRfJQrjrDevgd) | [Surra](https://open.spotify.com/artist/5TM5LOr6mxQGod2sH9Uz9e) | [Mísseis Democráticos](https://open.spotify.com/album/15tJAU7yaz4lUqDyi56TUB) | 2:38 | 2022-07-01 | 2022-07-30 |
 | [N Era Amor \- Ao Vivo](https://open.spotify.com/track/31JMvaH6IbiOnS4CDq8f9l) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8) | [N Era Amor \(Ao Vivo\)](https://open.spotify.com/album/0C2l6dhX4Pk0pTjviqso4W) | 3:20 | 2025-02-14 | 2025-03-08 |
@@ -459,6 +459,7 @@
 | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/track/0s0xqCwSN9dpouDr06i1eg) | [Ritchie](https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV) | [Saudade Sem Paisagem \(Ela Jamais Virá\)](https://open.spotify.com/album/0PuCQoxexvLuUa2Ku1wbTM) | 4:01 | 2024-04-05 | 2024-06-22 |
 | [Scar \(Bleach 2022: Thousand Year Blood War Opening\)](https://open.spotify.com/track/1ZrHlCsZIFOWs5sR3TNmZV) | [Tiago Pereira](https://open.spotify.com/artist/5TXdEVFkEfQC3ROyrdAi1B), [Ron Rocker](https://open.spotify.com/artist/34hNltVzhJpKddFA22ix1T) | [Scar \(Bleach 2022: Thousand Year Blood War Opening\)](https://open.spotify.com/album/0vNU3XWB9ROik9vx3BIuEc) | 1:31 | 2022-09-23 | 2022-10-29 |
 | [Se Divertir](https://open.spotify.com/track/0SlGvj1SPXarziNUdQpOcD) | [Terra Celta](https://open.spotify.com/artist/2DBsooS9qDY79dtnqMBRuF) | [Se Divertir](https://open.spotify.com/album/6lrWb8lGht50fWq6PbHDo9) | 6:13 | 2022-03-18 | 2022-03-26 |
+| [Se Eu For Eu Vou Com Você \- Ao Vivo](https://open.spotify.com/track/4CfuYdaTz4kd0MaWTlPYlI) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ao Vivo no Rio](https://open.spotify.com/album/2fnQYryswWy4M2zcnV0Rb4) | 4:04 | 2025-09-26 |  |
 | [Se Lembrar de Mim](https://open.spotify.com/track/13JRJM8CcGhyTzgGCiAFWf) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG) | [Se Lembrar de Mim](https://open.spotify.com/album/4ow3axuDmPUKCnUXH3imuM) | 3:09 | 2022-04-29 | 2022-05-14 |
 | [Se Nosso Nome Fosse Um Verbo \(Canibalismo Como Forma de Amor\)](https://open.spotify.com/track/3KxipU1Yi6wRpI8h9NvdEU) | [Lupe De Lupe](https://open.spotify.com/artist/6yz8H2Aks1bHaKNiHCutaR), [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Ricardo De Carli](https://open.spotify.com/artist/56xLp8CvZ6aJ6HChFsynWD) | [Amor](https://open.spotify.com/album/31cdOaeEbzQO8yLI8w8xip) | 12:16 | 2025-07-04 |  |
 | [Seja Quem Você Quiser](https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [Seja Quem Você Quiser](https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT) | 3:57 | 2024-04-05 |  |

@@ -253,6 +253,32 @@
     },
     {
       "album": {
+        "name": "Amazin' (Edit)",
+        "url": "https://open.spotify.com/album/1CMLumuIBZga45sKzEj23m"
+      },
+      "artists": [
+        {
+          "name": "David Mackay",
+          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
+        },
+        {
+          "name": "Massuma",
+          "url": "https://open.spotify.com/artist/2JnGvSeKbZegE0nxAsHCNF"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164262,
+      "name": "Amazin' - Edit",
+      "url": "https://open.spotify.com/track/1JpTKjjvvCJ7zkE2Okl3LJ"
+    },
+    {
+      "album": {
         "name": "As Above So Below (Deluxe Version)",
         "url": "https://open.spotify.com/album/77Z0RXxgT4Qu5anSsMNmXn"
       },

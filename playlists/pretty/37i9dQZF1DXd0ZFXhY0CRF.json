@@ -1,12 +1,12 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Nova Twins",
-  "num_followers": 773265,
+  "num_followers": 773371,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABvTBAbKJgMMTV/NyE0EInNymw7I",
+  "snapshot_id": "AAAAAIzrb55uIhpK3oeAaDiiYXR7O/z0",
   "tracks": [
     {
       "added_at": "2025-09-02 23:00:32",
@@ -729,6 +729,22 @@
       "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
     },
     {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "Fall Back",
+        "url": "https://open.spotify.com/album/34krNlQBidRpdzs9uF5EYI"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 211964,
+      "name": "Break the Girl",
+      "url": "https://open.spotify.com/track/3i1GK7mvegGCBdZgAd6LLf"
+    },
+    {
       "added_at": "2025-09-02 23:00:32",
       "album": {
         "name": "HOLY FVCK",
@@ -811,6 +827,22 @@
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+    },
+    {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -991,6 +1023,22 @@
       "duration_ms": 160919,
       "name": "Dig Me Out",
       "url": "https://open.spotify.com/track/1YdCuoPvDDVyHa3YomPb1B"
+    },
+    {
+      "added_at": "2025-09-26 04:00:31",
+      "album": {
+        "name": "MOTHER",
+        "url": "https://open.spotify.com/album/3gfOzIpfrHh2e8F3BAQvu4"
+      },
+      "artists": [
+        {
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "MOTHER",
+      "url": "https://open.spotify.com/track/6TR3ctxDFwD7B2Xwn5FpyR"
     },
     {
       "added_at": "2025-09-02 23:00:32",
@@ -1607,54 +1655,6 @@
       "duration_ms": 224444,
       "name": "Spiralling Out",
       "url": "https://open.spotify.com/track/5tWICzeSFemBoXJdvFyaDh"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
-        "name": "GREED",
-        "url": "https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u"
-      },
-      "artists": [
-        {
-          "name": "Royale Lynn",
-          "url": "https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK"
-        }
-      ],
-      "duration_ms": 170835,
-      "name": "GREED",
-      "url": "https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
-        "name": "Champagne Taste",
-        "url": "https://open.spotify.com/album/2zsxtYFYCBeElrDzjLu0uG"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 192371,
-      "name": "Champagne Taste",
-      "url": "https://open.spotify.com/track/0oJ2ViRL2hbmUAkWwCSDib"
-    },
-    {
-      "added_at": "2025-09-02 23:00:32",
-      "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     }
   ],
   "unique_name": "Women of Rock",

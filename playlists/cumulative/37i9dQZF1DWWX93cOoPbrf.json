@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones.  Panter Belico en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones.  Los Varones de Culiac\u00e1n en portada.",
   "name": "Corridos 2025",
   "tracks": [
     {
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 220399,
       "name": "Carne y Hueso",
       "url": "https://open.spotify.com/track/5MiDveEDxzEsVn5Tt1vQbI"
@@ -5542,7 +5542,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 180500,
       "name": "DAPA",
       "url": "https://open.spotify.com/track/76tTE0enlalydXfEBeeQpX"
@@ -8486,7 +8486,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 229741,
       "name": "El Come Balas",
       "url": "https://open.spotify.com/track/5QG3BlYGhp6UMWyx2jxhWR"
@@ -10189,6 +10189,24 @@
     },
     {
       "album": {
+        "name": "El Gallo Fino",
+        "url": "https://open.spotify.com/album/7vmWRppA1urvpUZacl7p7D"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164991,
+      "name": "El Gallo Fino",
+      "url": "https://open.spotify.com/track/3ROGqUyz3hHAwOtLQqTgju"
+    },
+    {
+      "album": {
         "name": "El Gallo Negro",
         "url": "https://open.spotify.com/album/0WTow6qSoFpjhinUsSLnHa"
       },
@@ -10492,6 +10510,24 @@
       "duration_ms": 174804,
       "name": "El Guero Reyna",
       "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
+    },
+    {
+      "album": {
+        "name": "El Gusto Me Lo Doy",
+        "url": "https://open.spotify.com/album/4hluTo46D0XtmLzVSJ2Bxk"
+      },
+      "artists": [
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265152,
+      "name": "El Gusto Me Lo Doy",
+      "url": "https://open.spotify.com/track/7gIDbs9dB2u7FmjKUEd5gX"
     },
     {
       "album": {
@@ -11491,6 +11527,28 @@
     },
     {
       "album": {
+        "name": "El Matadore",
+        "url": "https://open.spotify.com/album/0D6UklHPLjlyGS58kfL9IQ"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184306,
+      "name": "El Matadore",
+      "url": "https://open.spotify.com/track/464AVDOqzjMFSbjqbQU0PJ"
+    },
+    {
+      "album": {
         "name": "El Max",
         "url": "https://open.spotify.com/album/4bp8qD75GabNnUhiJVfV29"
       },
@@ -12276,6 +12334,28 @@
       "duration_ms": 267414,
       "name": "El Parcero",
       "url": "https://open.spotify.com/track/3bfZNDWksfwDaySiUi28qc"
+    },
+    {
+      "album": {
+        "name": "El Pase De La Pantera",
+        "url": "https://open.spotify.com/album/5kafXiiXS6AMc6xSgUDi0M"
+      },
+      "artists": [
+        {
+          "name": "Los Sementales de Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5FO9rjoogzGcDSDnqVTwJj"
+        },
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "El Pase De La Pantera",
+      "url": "https://open.spotify.com/track/2WihEIXQ5LoZT2Vb8I90Id"
     },
     {
       "album": {
@@ -15971,6 +16051,28 @@
     },
     {
       "album": {
+        "name": "G.G.Z.N",
+        "url": "https://open.spotify.com/album/3ceWcY7qDd4JOcg7tjkzbo"
+      },
+      "artists": [
+        {
+          "name": "El Le\u00f3n Y Su Gente",
+          "url": "https://open.spotify.com/artist/4q9U0JuiWGhcZEFREIGCVH"
+        },
+        {
+          "name": "Sector Norte",
+          "url": "https://open.spotify.com/artist/7BLRBO1OE5prHVewncn97r"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190646,
+      "name": "G.G.Z.N",
+      "url": "https://open.spotify.com/track/42tN3cqcDvLeKs1eaD5Tay"
+    },
+    {
+      "album": {
         "name": "G5 El Financiero",
         "url": "https://open.spotify.com/album/5ecdxDqawNjW2e6XPnBT5m"
       },
@@ -16756,6 +16858,24 @@
       "duration_ms": 177260,
       "name": "Hace Fr\u00edo Aqu\u00ed en la Cima",
       "url": "https://open.spotify.com/track/538jDVyGwrsKBWV4TjIgcL"
+    },
+    {
+      "album": {
+        "name": "HACER BILLETE",
+        "url": "https://open.spotify.com/album/4nbyeoFNnA0jOwkUJGCfFb"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145538,
+      "name": "HACER BILLETE",
+      "url": "https://open.spotify.com/track/32rF8UrJP6HiBHngPc2Lbe"
     },
     {
       "album": {
@@ -21946,7 +22066,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 159509,
       "name": "LOS ESPA\u00d1OLES",
       "url": "https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY"
@@ -23322,7 +23442,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 142394,
       "name": "Me Puse a Pensar",
       "url": "https://open.spotify.com/track/4KN7EtDXh0f3ExApoRbcTP"
@@ -23854,7 +23974,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 161076,
       "name": "Mi Primer Mill\u00f3n",
       "url": "https://open.spotify.com/track/1Q5Hhn3rlYNQ1PAZoHuozu"

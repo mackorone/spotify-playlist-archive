@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,199 likes - 100 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,211 likes - 100 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 85 | [Empyrean](https://open.spotify.com/track/32hGR5QuiPmhAdBxsmEUxw) | [Deepchord Presents: Echospace](https://open.spotify.com/artist/6mw8tTkjJtQs6kT1V8G5fI) | [The Coldest Season](https://open.spotify.com/album/6inU6drg77x3bgkN2OpDq6) | 5:25 |
 | 86 | [Game Over \( e 1 \)](https://open.spotify.com/track/2WrtP0IBtd6WL7RnfhVVHX) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Game Over \( e 1 \)](https://open.spotify.com/album/0uH5IgHeTFznjqRtkNrhFR) | 3:15 |
 | 87 | [Subcultures](https://open.spotify.com/track/219dcH5o0f37ECYioSPtaw) | [Surgeon](https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM) | [Crash Recoil](https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg) | 5:58 |
-| 88 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
-| 89 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 |
-| 90 | [The Bell With The Wooden Tongue](https://open.spotify.com/track/0JFpDPcZTyntehmhrLH0AV) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [The Bell With The Wooden Tongue](https://open.spotify.com/album/2yufEXhUkxo6MyM2eEzITt) | 6:05 |
+| 88 | [The Bell With The Wooden Tongue](https://open.spotify.com/track/0JFpDPcZTyntehmhrLH0AV) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1), [Al Wootton](https://open.spotify.com/artist/77yJIgEEpUU5f87MWDEPwO) | [The Bell With The Wooden Tongue](https://open.spotify.com/album/2yufEXhUkxo6MyM2eEzITt) | 6:05 |
+| 89 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
+| 90 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 |
 | 91 | [Erode](https://open.spotify.com/track/6D66z28IfGVXjLSzgL6pRM) | [Erosion](https://open.spotify.com/artist/5lIeMv0yYXUfoFW3kiuniK) | [Decay Product](https://open.spotify.com/album/2Mntwro0WavIGHWAtiwOhX) | 9:19 |
 | 92 | [Test 7](https://open.spotify.com/track/50LGfM5MtGNcWKc0hFFJjg) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK) | [Acid Test 09.1](https://open.spotify.com/album/4jWaistXzPX93akLPQRuYS) | 8:10 |
 | 93 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 95 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 |
 | 96 | [Autumn \- Original Mix](https://open.spotify.com/track/3c2jXCxdXZLY3HXzdzrmES) | [Izzat Man](https://open.spotify.com/artist/2TJqlwyMRNWecsnAaI7Mes) | [Third Dive](https://open.spotify.com/album/1CMGPzaXavvbjRi4k1ILG2) | 5:10 |
 | 97 | [Fluids in Motion II](https://open.spotify.com/track/35BiwPvf4NPiHABc87jWNf) | [Azu Tiwaline](https://open.spotify.com/artist/0HZwEDqo4wYPQIGacES3mB), [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Fluids in Motion EP](https://open.spotify.com/album/2JyZ2eg7hgNzLLA5I5mTfv) | 5:13 |
-| 98 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
-| 99 | [Redundance 5](https://open.spotify.com/track/3eGmfcsnYLlEbuAPDPCzLh) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Porter Ricks](https://open.spotify.com/album/2umF7rpmFdCRJIYFF3vUiy) | 7:02 |
+| 98 | [Redundance 5](https://open.spotify.com/track/3eGmfcsnYLlEbuAPDPCzLh) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Porter Ricks](https://open.spotify.com/album/2umF7rpmFdCRJIYFF3vUiy) | 7:02 |
+| 99 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
 | 100 | [Nova](https://open.spotify.com/track/0iGz5ZGVwlpE02BM1oCSjn) | [Leftover](https://open.spotify.com/artist/2Fsi18jBmBaSxBTYGiDLSt) | [Der Kirschbaum EP](https://open.spotify.com/album/13LquI8N4khxKLRwoByVEu) | 6:19 |
 
 Snapshot ID: `AAAAAGYxxvKfWT5x5H2hWEOEARO+TGW8`

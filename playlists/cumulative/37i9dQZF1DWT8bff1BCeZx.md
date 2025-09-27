@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-660 songs - 1 day 19 hr 33 min
+661 songs - 1 day 19 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-12-15 | 2024-04-23 |
 | [Jesus is Here](https://open.spotify.com/track/1Yom3J7GN8Br9G7eME6blJ) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi), [Ackhim](https://open.spotify.com/artist/0b1sRWMoNA6mOxm9Nhbdcx) | [Jesus is Here](https://open.spotify.com/album/5iEX891IxCvC4tAHLrT9F7) | 1:34 | 2025-03-14 | 2025-05-09 |
 | [Jesus Made \(JM\)](https://open.spotify.com/track/3Zow6vtdrl7POvw0ihW2LA) | [Feezeh](https://open.spotify.com/artist/1mON6A1qqbSP8RUgJWHzRA), [Sydneyondabeat](https://open.spotify.com/artist/60sxmdPUcrWe3VtiSx3rGo), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Jesus Made \(JM\)](https://open.spotify.com/album/23ic4HHTsaT6dW4R3GH3Py) | 2:22 | 2024-10-25 | 2025-02-28 |
+| [Jesus Party](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [More Life](https://open.spotify.com/album/1VJ9UkV3ladKpeJUAFEUca) | 2:08 | 2025-09-26 |  |
 | [Jesus Power](https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [Lydia Lifted](https://open.spotify.com/artist/1YvQlV2o6z5XvcAeKCHvZX) | [Jesus Power](https://open.spotify.com/album/5p3mZ98ws7KXGf9CZsF5ae) | 2:52 | 2025-08-15 |  |
 | [JO \(Dance\)](https://open.spotify.com/track/1JIAGKCV2BUtJF2igST227) | [Segun Aniye](https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE), [Tahram](https://open.spotify.com/artist/41IhOOBcjR09qi8h4L647d) | [JO \(Dance\)](https://open.spotify.com/album/1MJ9FpDiiyFqRQ1CVLuMcN) | 2:33 | 2025-09-05 | 2025-09-26 |
 | [JO \- Live](https://open.spotify.com/track/3LmGYVH2X20G9wdqsNOMLG) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Oshara](https://open.spotify.com/artist/2BWbea2OWDidK2vZnas8E3) | [LIVE AT THE OYEL EXPERIENCE](https://open.spotify.com/album/429aI2FIsoF9anMX4Na566) | 3:08 | 2025-01-17 | 2025-03-14 |
@@ -583,7 +584,7 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2025-04-04 |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 |  |
 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 | 2024-11-08 | 2025-02-28 |
-| [Track 9](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-26 |  |
+| [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 |  |
 | [Tula](https://open.spotify.com/track/1ZMhq5I7bHDSPzpPU2BVmk) | [Tenacious Tj](https://open.spotify.com/artist/6DccTdAbcqIxBdN6VqVbS7), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv) | [Tula](https://open.spotify.com/album/12DT3SfaTFiUaaoUmcxjI0) | 3:21 | 2025-01-24 | 2025-02-28 |
 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 | 2023-04-06 | 2025-02-28 |
 | [Tutambule](https://open.spotify.com/track/0xDC6oC4lKSLWIY96uT2Pc) | [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21), [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Tutambule](https://open.spotify.com/album/2sx4RWCl7iCBiRJokNXLJW) | 2:34 | 2025-03-28 | 2025-05-30 |

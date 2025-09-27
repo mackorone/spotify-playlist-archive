@@ -2,9 +2,9 @@
 
 ### [Novidades Religiosas](https://open.spotify.com/playlist/37i9dQZF1DX7ROOw5S4Xdq)
 
-> Ouça os últimos lançamentos da música Cristã\. Foto: fhop music
+> Ouça os últimos lançamentos da música Cristã\. Foto: Eli Soares, MORADA
 
-2,750 songs - 9 day 15 hr 41 min
+2,750 songs - 9 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Abram\-se os Portões](https://open.spotify.com/track/60pkD4PTsSLK838gX36E7S) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Abram\-se os Portões](https://open.spotify.com/album/44NOOgkUVIWRqdYjd5G1zG) | 5:00 | 2025-09-12 |  |
 | [Abraão](https://open.spotify.com/track/1S9vXBabJBPhkISq4DQBsE) | [Chosen](https://open.spotify.com/artist/08uB2EkrM0qbxXs8sakuGl) | [Escolhido](https://open.spotify.com/album/65i6gZ9M3nkTUGFOH2W7Av) | 2:59 | 2023-10-20 | 2023-11-04 |
 | [Abraça\-me \- Ao Vivo](https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Abraça\-me \- Ao Vivo](https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE) | 10:52 | 2024-08-30 | 2024-09-14 |
+| [Abraça\-Me Forte](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [O Encontro](https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA) | 5:33 | 2025-09-26 |  |
 | [Abraço](https://open.spotify.com/track/4LhvK3idFSNt7d93hn5o8B) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Karina e Felipe](https://open.spotify.com/artist/7dEOqoU0zk0JazBPfJ7vBi) | [Abraço](https://open.spotify.com/album/6n8fcq3fPMNFepFd77QI1O) | 4:48 | 2023-10-06 | 2023-10-14 |
 | [Abraço do Noivo \(Ao Vivo\)](https://open.spotify.com/track/4mAnWxjEkRvUblPt46lutY) | [Thais Helena](https://open.spotify.com/artist/4CQRgSDOYuQZkcDEXZdOzw) | [Abraço do Noivo \(Ao Vivo\)](https://open.spotify.com/album/6SrSxVwQn249wNyCbg3U8p) | 6:19 | 2025-04-04 | 2025-04-12 |
 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 | 2024-06-28 | 2024-07-13 |
@@ -2426,7 +2427,6 @@
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/3LoRbNWwkxHNEVkoLCUyzw) | [AC Music](https://open.spotify.com/artist/64BteyaH9QwIRgW5hNSseP) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/5oZPXlM2A5k78kmB48oPXi) | 7:41 | 2023-07-07 | 2023-07-15 |
 | [Toma o Teu Lugar \- Ao Vivo](https://open.spotify.com/track/11orEuMlG892JoAEe8AO7O) | [Davi Silva](https://open.spotify.com/artist/37MmnavknAY8Z2ICERRshR), [Calebe Silva](https://open.spotify.com/artist/3xNrTtlY538coY4laqBfd9) | [Toma o Teu Lugar \(Ao Vivo\)](https://open.spotify.com/album/2wtJ4lJkXdoZ5HVEXN5biS) | 5:33 | 2025-04-25 | 2025-05-10 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 5](https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr) | [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-26 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 | 2025-09-26 |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |

@@ -4,7 +4,7 @@
 
 > C.R.O\. en la casa del Trap Argentino.
 
-551 songs - 1 day 2 hr 50 min
+552 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [GASTO](https://open.spotify.com/track/2jyYVoMNlve7wpsg5C8yuK) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [GASTO](https://open.spotify.com/album/7sRkTyNbRWzWVKLDXpzfPy) | 2:04 | 2023-04-07 | 2023-07-07 |
 | [GASTO](https://open.spotify.com/track/5ULCGfNrYTwyRnHrGzkBDF) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [ABDUCCION](https://open.spotify.com/album/1pVQsEYJ0eBV3Prih46o91) | 2:04 | 2023-06-23 | 2023-12-09 |
 | [GELATO](https://open.spotify.com/track/7Go3Ftz3ogFCeuy7PIO6Su) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3) | [GELATO](https://open.spotify.com/album/0xbDePSBrKFaoYUsTCEjKq) | 3:30 | 2023-03-31 | 2023-05-05 |
+| [Gitana \(feat\. ECKO\)](https://open.spotify.com/track/460GbNNsi4zzJPdtETzWGP) | [HDR](https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Gitana \(feat\. ECKO\)](https://open.spotify.com/album/07aQrc5VgAKM4gFVVIakmQ) | 2:31 | 2025-09-26 |  |
 | [Gitano y Sincero](https://open.spotify.com/track/0ShZK7fs8W5O1NqgzB1kBQ) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [4X4](https://open.spotify.com/album/0APgiKpmc3KQf638E2cG29) | 3:05 | 2023-10-27 | 2024-01-27 |
 | [GIVENCHY](https://open.spotify.com/track/6bTVP50bbtMtD6RGe2cUoQ) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [GIVENCHY](https://open.spotify.com/album/4yNnIoQh8y1uDB6ScOS2vx) | 3:02 | 2022-07-21 |  |
 | [Glopeta Negro Mate](https://open.spotify.com/track/66Yu3bkomkikDlnYaT2Hkb) | [Riky Produce](https://open.spotify.com/artist/74mXQ4kCTwvcY9FtSrNm9c), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Glopeta Negro Mate](https://open.spotify.com/album/6y2ienRWYtxjOr39PrgcK5) | 2:35 | 2024-03-08 | 2024-06-29 |

@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "Romy Rose, Pt. 1",
+        "url": "https://open.spotify.com/album/4ROaxMuLciRc5l3ywr0EUr"
+      },
+      "artists": [
+        {
+          "name": "James Baker",
+          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "Jtm un peu",
+      "url": "https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR"
+    },
+    {
+      "album": {
         "name": "Jurassique Parc",
         "url": "https://open.spotify.com/album/2KdabhvdyfpvMXPLAAM7p3"
       },
@@ -5724,24 +5742,6 @@
       "duration_ms": 165500,
       "name": "Tovsk",
       "url": "https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "James Baker",
-          "url": "https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR"
     },
     {
       "album": {

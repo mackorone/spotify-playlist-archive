@@ -5302,7 +5302,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 192727,
       "name": "Curveball",
       "url": "https://open.spotify.com/track/2RQuDieFWnJFOX5c3CcMG2"
@@ -7213,6 +7213,28 @@
     },
     {
       "album": {
+        "name": "Euro Flow",
+        "url": "https://open.spotify.com/album/0696fKl0CDhd2LXLPtNMB8"
+      },
+      "artists": [
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185654,
+      "name": "Euro Flow",
+      "url": "https://open.spotify.com/track/0QgE29v3AaacwaB1OHRUYK"
+    },
+    {
+      "album": {
         "name": "Ten Percent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7tGfhFCR7Ex1uATx9j5l4O"
       },
@@ -8312,7 +8334,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 179380,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c"
@@ -13163,6 +13185,24 @@
     },
     {
       "album": {
+        "name": "La Luna",
+        "url": "https://open.spotify.com/album/1F17plZRxOhvYgt18ZcrnJ"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191638,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/5afZm32oXtSeL8azZ0IJdo"
+    },
+    {
+      "album": {
         "name": "La Murga (Michael's Midnight Mix)",
         "url": "https://open.spotify.com/album/2Vb680k6SJv9RKNXDUJA2M"
       },
@@ -13408,7 +13448,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 207252,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/06OnDDNAHbto5c5aUn6bW9"
@@ -17894,6 +17934,32 @@
       "duration_ms": 261262,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/2gWFyWzAUvGwlt0V7B9WPs"
+    },
+    {
+      "album": {
+        "name": "one2three (feat. Leven Kali)",
+        "url": "https://open.spotify.com/album/6VkJuZchHVpZDxGbLrTtdd"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248578,
+      "name": "one2three (feat. Leven Kali)",
+      "url": "https://open.spotify.com/track/6dQxsPVLqXnJgiLLWJRE5x"
     },
     {
       "album": {

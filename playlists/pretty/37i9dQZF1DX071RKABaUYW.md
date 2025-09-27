@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 
 > Fresh eclectic\. Post\-genre\. Exceptional taste\. Cover: Pollyfromthedirt
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,836 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,838 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX071RKABaUYW.md) - [plain]
 | 79 | [Circe](https://open.spotify.com/track/4YIkwsTc2TNLLTg9m2rVRs) | [WOOM](https://open.spotify.com/artist/2zzPNRhGuLRbP6d1YwakiC) | [Circe](https://open.spotify.com/album/2DRhoWBDa8fYvMvww9si6a) | 5:08 |
 | 80 | [Lately](https://open.spotify.com/track/6zdLffZXG3KrhWSMZfSOGN) | [Ebba Åsman](https://open.spotify.com/artist/1SJBWUlS5p1YPnH64h8e3O) | [When You Know](https://open.spotify.com/album/5u73KsIltiMF0n4Y20N5K8) | 4:08 |
 
-Snapshot ID: `AAAAALC+TlmY7KyhCJe27Uzzvbf0HKZe`
+Snapshot ID: `AAAAAGNmouy8BhfnZc1sOu8i0VHVvPWC`

@@ -4,7 +4,7 @@
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-103 songs - 6 hr 1 min
+104 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Nelly](https://open.spotify.com/track/2ney4ornm9KOwjzk7J1KmN) | [Jaison Neutra](https://open.spotify.com/artist/0tzIRowoKOf2XyvvuSBRWf) | [Elegante Arrabalero](https://open.spotify.com/album/7ga13VkKeIGzTZfb61Bt0P) | 3:11 | 2023-11-17 | 2025-03-22 |
 | [Ni un Miligramo](https://open.spotify.com/track/496fkESsqJaMRVFXExTK5r) | [Surcos](https://open.spotify.com/artist/2IW0xn9rXParsnatyDv2B7), [Ságan](https://open.spotify.com/artist/6QFmvaeIACPMkTBmXX86gN) | [Ni un Miligramo](https://open.spotify.com/album/5VviOg13Jpx5KXfsKgznNX) | 3:44 | 2023-09-29 | 2023-11-18 |
 | [No Creo \- En Vivo](https://open.spotify.com/track/1GM2ouHHKW3tuCzjSZKIyr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:08 | 2023-09-29 | 2023-11-18 |
+| [Oveja Negra](https://open.spotify.com/track/5lVHU9YGgzhrzUQzmv71XC) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9), [Carlitosss](https://open.spotify.com/artist/4BnbhKXjvpJBRkC9mmgjxo) | [Oveja Negra](https://open.spotify.com/album/6dIc4l4A7QNGISb3oKhiEp) | 2:55 | 2025-09-26 |  |
 | [Oye India](https://open.spotify.com/track/5REhXdAdTTgOldFRRazlQY) | [Mulato Bantú](https://open.spotify.com/artist/5LlAvjBzOsTKiGsb9r3sHe) | [Oye India](https://open.spotify.com/album/3dX53QZySOo10EhUJh7a0Q) | 3:05 | 2023-11-17 |  |
 | [Pa Poderte Ver](https://open.spotify.com/track/43hSlJcM3EZeocev7yCNKX) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [juliocesar](https://open.spotify.com/artist/77dml5NtjT51Wrzcvang7o) | [Pa Poderte Ver](https://open.spotify.com/album/3SAtWLXztoa1yCChDBa7sk) | 2:46 | 2023-09-29 | 2023-12-09 |
 | [Paz](https://open.spotify.com/track/28mhI37mVmow7pE4PGNIN6) | [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Paz](https://open.spotify.com/album/36DAX4NIHRTDVCHRpPG6Mk) | 3:25 | 2024-08-16 |  |
@@ -102,7 +103,7 @@
 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 | 2023-09-29 | 2023-11-18 |
 | [Te odio](https://open.spotify.com/track/1vzlHuHG3faKy8B0eM1qkz) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Te Odio](https://open.spotify.com/album/1DRNhAJ66xVONSta9qI4Zw) | 3:33 | 2023-11-17 | 2025-04-05 |
 | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/track/3ev9a5BsLouEwswQ9IOXtC) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Tierra de Promesas \(Sierra Nevada\)](https://open.spotify.com/album/6IjstXhUKDh4NAPTXXxUbQ) | 3:31 | 2023-09-29 |  |
-| [Todo el Mundo](https://open.spotify.com/track/5b7y0RRMjV29LjGwlmSa5F) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Todo el Mundo](https://open.spotify.com/album/7aMjuoPDIKV8sdHM0qyukc) | 3:44 | 2023-11-17 |  |
+| [Todo el Mundo](https://open.spotify.com/track/5b7y0RRMjV29LjGwlmSa5F) | [Moncho Berry](https://open.spotify.com/artist/7r3ulcCderiJsAhR2ljXpC) | [Todo el Mundo](https://open.spotify.com/album/7aMjuoPDIKV8sdHM0qyukc) | 3:44 | 2023-11-17 | 2025-09-27 |
 | [TUMBA'](https://open.spotify.com/track/5VHKnyCyzkCbniSP3m5qLD) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [TUMBA'](https://open.spotify.com/album/3OplKqs4WJ4oJSSBIOVkKu) | 4:16 | 2023-11-17 | 2024-08-17 |
 | [Una Conexión](https://open.spotify.com/track/5OVAVELGyFIICZk3DO47hY) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Una Conexión](https://open.spotify.com/album/3IyYxnYJjItW4GV6ozRB9Z) | 3:29 | 2023-09-29 |  |
 | [Una Pena](https://open.spotify.com/track/233sOyp5tJF8avlCrzvsOn) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Una Pena](https://open.spotify.com/album/5nCqolx9Kqn06MDStkG9VP) | 4:25 | 2023-09-29 |  |

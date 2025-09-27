@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Élite \- Season 8, is here! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,769 likes - 473 songs - 1 day 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,749 likes - 473 songs - 1 day 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -385,7 +385,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 375 | [Juanita](https://open.spotify.com/track/1Ik5g1Fkqdi9S4qxanHfn9) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [That Place by the Thing with the Cool Name](https://open.spotify.com/album/3hrJBKVG1BaNyW7HLXKCok) | 3:21 |
 | 376 | [Piel](https://open.spotify.com/track/6udFBv3qe6LOh2LfgVmbcY) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Arca](https://open.spotify.com/album/3BJqKT6NBFj06k5LIvjiZb) | 4:07 |
 | 377 | [The Top](https://open.spotify.com/track/5a8zFeKUi02rwbKlMZeNiZ) | [Eva McBel](https://open.spotify.com/artist/1eh2IiirE7f7OZmcl20USQ) | [Some Kind of Portrait](https://open.spotify.com/album/5LJikFN5KojJ6tOKmy7r8m) | 3:47 |
-| 378 | [Now You're a Home \(feat\. Ruuth\)](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 |
+| 378 | [Now You're a Home](https://open.spotify.com/track/5mKekqQb3G8OK23LVzqJHB) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB) | [Finding Home](https://open.spotify.com/album/0XG9zBVuCGGnvCK5bD4222) | 3:42 |
 | 379 | [Moon](https://open.spotify.com/track/40i4etZkGhgyzGSSi1Bpin) | [Thiago Pethit](https://open.spotify.com/artist/11bqiv12xCing2jMbszqOD) | [Estrela Decadente](https://open.spotify.com/album/0SWRZ8mCl6RB837vk7JcZu) | 3:38 |
 | 380 | [AS Going \(feat\. LYZZA\)](https://open.spotify.com/track/792m8FCo4o4ZO1cMuZUlid) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Tearless](https://open.spotify.com/album/4oJgRPOIIRAIYprWRhKohZ) | 3:19 |
 | 381 | [Erase](https://open.spotify.com/track/7KlWOmJoyO4436M96CvVwe) | [Kap Bambino](https://open.spotify.com/artist/2EsL7l54h5MZm34uFVsRQi) | [Dust, Fierce, Forever](https://open.spotify.com/album/0RpVFEcebdZqFSCF3KIf0p) | 3:30 |

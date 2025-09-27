@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Len Muller, Brendan Peyper, Taye, Liezel Pieters, JAN JAN JAN en meer!
 
-2,050 songs - 4 day 18 hr 7 min
+2,051 songs - 4 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1957,6 +1957,7 @@
 | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Waar Gaan Ons Dans Vanaand?](https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd) | 3:43 | 2023-11-23 | 2024-04-03 |
 | [Waar Is My Maniere?](https://open.spotify.com/track/69BKmIJTufzcPZmnqHTLw7) | [Jacques Not Jack](https://open.spotify.com/artist/2Cx38Ieqey1xPQ8opKXgjw) | [Waar Is My Maniere?](https://open.spotify.com/album/5PlBa6fwSoqG0qfPNE1TD9) | 3:27 | 2023-07-27 | 2024-01-06 |
 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 | 2023-12-29 | 2024-01-06 |
+| [Wag Dat Jy Terugkeer](https://open.spotify.com/track/4SskZkn2YxtreU086ifWdx) | [JACOBUS](https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt) | [Wag Dat Jy Terugkeer](https://open.spotify.com/album/2RZeluk45wQH1sZQUjxKEs) | 3:06 | 2025-09-26 |  |
 | [Wag Vir Jou](https://open.spotify.com/track/7c9imCnBN4kGmsdaEs1FsQ) | [Natasha van der Merwe](https://open.spotify.com/artist/3x64RnzAoEkLz7sMQIFMvy) | [Wag Vir Jou](https://open.spotify.com/album/5arVky3NiTxvgHNk1ADNUj) | 3:28 | 2023-06-01 | 2023-06-17 |
 | [Wakker](https://open.spotify.com/track/78QNLd1iQxdocnDZRBOHsG) | [Jaid River](https://open.spotify.com/artist/0LHMlMzHr9yQwDk7VuKFzk) | [Wakker](https://open.spotify.com/album/3qvsFxcmNAdRBXWGVMqifn) | 3:24 | 2025-04-10 | 2025-05-02 |
 | [Wakker](https://open.spotify.com/track/0udYr1J47ItjeG4fuCKFGa) | [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Wakker](https://open.spotify.com/album/56ptbCUQtDYC39f13FaBcy) | 4:12 | 2025-08-28 | 2025-09-26 |

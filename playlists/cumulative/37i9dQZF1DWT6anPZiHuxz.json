@@ -5003,6 +5003,32 @@
     },
     {
       "album": {
+        "name": "Peace of Flood",
+        "url": "https://open.spotify.com/album/28YMaSE5kx5tM9HpdafuCh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293146,
+      "name": "Peace of Flood",
+      "url": "https://open.spotify.com/track/70LDxWCoJKuxpgtErYHDQb"
+    },
+    {
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -7090,7 +7116,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 154500,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A"

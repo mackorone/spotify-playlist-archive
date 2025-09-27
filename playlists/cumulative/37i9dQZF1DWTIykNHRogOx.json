@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec No\u00e9 Preszow",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -642,6 +642,24 @@
       "duration_ms": 183555,
       "name": "Derri\u00e8re moi",
       "url": "https://open.spotify.com/track/0XOS9hYNUQhqlyMsXuSz34"
+    },
+    {
+      "album": {
+        "name": "des excuses",
+        "url": "https://open.spotify.com/album/7la1qjGOy4Pz8rGhfkA8bd"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207629,
+      "name": "des excuses",
+      "url": "https://open.spotify.com/track/3oheKF0nqti5irt9c83pIp"
     },
     {
       "album": {
@@ -1695,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "After Summer",
+        "url": "https://open.spotify.com/album/4Y0XE1wuEFbgYhRwG40Uiy"
+      },
+      "artists": [
+        {
+          "name": "Constance Amiot",
+          "url": "https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183802,
+      "name": "La nuit n'est pas pr\u00eateuse",
+      "url": "https://open.spotify.com/track/5Rch0ztFsIuSbEyIJEpKRI"
+    },
+    {
+      "album": {
         "name": "SOMA",
         "url": "https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9"
       },
@@ -2179,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Le V\u0153u",
+        "url": "https://open.spotify.com/album/5EV5iAGebXLRmKklXiCEgo"
+      },
+      "artists": [
+        {
+          "name": "Marco Ferreira",
+          "url": "https://open.spotify.com/artist/2eeWkCArv4Bxqqb82b7ona"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117770,
+      "name": "Le V\u0153u",
+      "url": "https://open.spotify.com/track/41GX6q5XIhBslrEhzT8f8r"
+    },
+    {
+      "album": {
         "name": "Aliocha Schneider (Deluxe)",
         "url": "https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI"
       },
@@ -2432,7 +2486,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 223040,
       "name": "Lettre \u00e0 soi",
       "url": "https://open.spotify.com/track/75qYFNmfceZZtxrRa3Js2y"
@@ -2547,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Ma maison",
+        "url": "https://open.spotify.com/album/62hNv6Bgy9ssohDDn5a14W"
+      },
+      "artists": [
+        {
+          "name": "Coline Rio",
+          "url": "https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Ma maison",
+      "url": "https://open.spotify.com/track/6OvoSnPWS3rABAurxz3mp3"
+    },
+    {
+      "album": {
         "name": "Ma m\u00e8re",
         "url": "https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW"
       },
@@ -2652,7 +2724,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 172200,
       "name": "mes nuits \u00e0 toi",
       "url": "https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5"
@@ -3164,7 +3236,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 191160,
       "name": "Promis jur\u00e9",
       "url": "https://open.spotify.com/track/6ybZdo0nUd5fdsuVrOUW6r"
@@ -3940,7 +4012,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 213666,
       "name": "\u00e0 l'autre bout du tel",
       "url": "https://open.spotify.com/track/6QJsYlhcItli06ip5r5GPA"

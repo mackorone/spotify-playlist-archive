@@ -4,13 +4,14 @@
 
 > New makes old\. Cover: Orville Peck
 
-242 songs - 14 hr 19 min
+243 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 | 2024-07-05 |  |
 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 | 2021-11-12 |  |
 | [All by Myself](https://open.spotify.com/track/5P2bdFon08MYGVWkfCZKyJ) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [All by Myself](https://open.spotify.com/album/2ktryIUSQpGrB26hovAMY3) | 3:19 | 2021-11-12 | 2025-05-09 |
+| [All Fifty States](https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [All Fifty States](https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW) | 3:30 | 2025-09-26 |  |
 | [All My Exes Live in L.A.](https://open.spotify.com/track/3ixSiGWX59GYPNf8gnXU0c) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [All My Exes Live in L.A.](https://open.spotify.com/album/0YDQ6x3Lf2bfReLsZfOLYw) | 3:18 | 2024-07-05 |  |
 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 | 2023-10-06 |  |
 | [Analog](https://open.spotify.com/track/10QRXbDcXL9CosifxpjbZP) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [South Texas Suite](https://open.spotify.com/album/6jtK4NrygZZTIKrzBzDnFJ) | 3:24 | 2021-11-12 | 2022-07-29 |
@@ -236,7 +237,7 @@
 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 | 2021-11-12 |  |
 | [Welcome to Hard Times](https://open.spotify.com/track/0i3BdHdGazxdCxJHj6Jdvx) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Welcome to Hard Times](https://open.spotify.com/album/4HYMmAYjEyDAOQsP9B5giS) | 3:05 | 2021-11-12 |  |
 | [Well Enough Alone](https://open.spotify.com/track/0CpLZdFVI8G0pSHZD06rU9) | [The Maes](https://open.spotify.com/artist/6zdezqzQF6UyMqd7c9aYJa) | [Well Enough Alone](https://open.spotify.com/album/1Jl0ZdKIiUsKJG8ihM5JoH) | 3:31 | 2021-11-12 | 2022-02-16 |
-| [What's She Crying For](https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:53 | 2021-11-12 |  |
+| [What's She Crying For](https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Kids In The Street](https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU) | 3:53 | 2021-11-12 | 2025-09-27 |
 | [When I Quit Drinking](https://open.spotify.com/track/0DldY9OWoMnNPMwqpot2Qh) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/68narzWpXEnOPLjFCx8rMH) | 3:56 | 2023-10-06 | 2024-04-19 |
 | [When I Quit Drinking](https://open.spotify.com/track/3e48Zh0NEFYT1RBEcD0PiB) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/2QHRYYnqD3XGjvj6HjKJtH) | 3:56 | 2021-11-12 | 2022-07-29 |
 | [When I Quit Drinking](https://open.spotify.com/track/4DivPM8ekqwrivgS5c5eej) | [JP Harris](https://open.spotify.com/artist/3k5DJmsoipvzJqpjfQFvDy) | [Sometimes Dogs Bark at Nothing](https://open.spotify.com/album/6G9LWAp4G716jXXJA5ESyD) | 3:56 | 2022-04-01 | 2023-12-24 |

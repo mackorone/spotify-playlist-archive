@@ -4,7 +4,7 @@
 
 > Your favorite artists, recorded live \- just like you were there! Cover: Keith Urban
 
-212 songs - 14 hr 55 min
+213 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [80s Mercedes \(Live from SXSW 2016\)](https://open.spotify.com/track/6iYIdaolmbPVqKPxcspOIs) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Spotify Sessions](https://open.spotify.com/album/4uQJWohk7ZtN5yCIbWqIYm) | 3:48 | 2021-07-22 | 2024-05-05 |
 | [A Boy Named Sue \- Live at Nassau Coliseum, Uniondale, NY \- March 1990](https://open.spotify.com/track/4qhtY6ld2B5lAl9jmAMg1d) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Live \- American Outlaws](https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR) | 4:22 | 2024-05-04 |  |
 | [All About Tonight \- Live](https://open.spotify.com/track/2bqx5ywTyyiZMLdNG1tpJD) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:39 | 2021-07-22 | 2024-04-19 |
+| [All Again \- Live From The Steel City](https://open.spotify.com/track/2MLDJuZU6Xv4slAKGjWGCh) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Live From The Steel City](https://open.spotify.com/album/5xQUHaNbKO83rdyIyCgd49) | 4:50 | 2025-09-26 |  |
 | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/track/5jwsxxor4b1s0KRRUMIZxU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Am I Okay? \(Spotify OUTSIDE Version\) \- Live from Nashville, TN](https://open.spotify.com/album/7qBbHLGdaDAF5Y2gza2WB7) | 3:57 | 2024-09-26 |  |
 | [American Honey \- Live](https://open.spotify.com/track/1du44Cc6iz8uXBKvvu8N77) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:43 | 2021-07-22 | 2024-05-05 |
 | [American Nights \- Live From Foxborough](https://open.spotify.com/track/6VWLGOifAAVLZnODPilzea) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [24 \(Live\)](https://open.spotify.com/album/45X4bjgXE86wQamRz6ihLE) | 3:59 | 2024-12-20 | 2025-09-13 |
@@ -78,7 +79,7 @@
 | [Galveston \- Live From The Troubadour / 2008](https://open.spotify.com/track/5u3a9YnQZOxbqcld2YIMVu) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Live From The Troubadour](https://open.spotify.com/album/4zKEAKSVPzTIftRDlYbc2O) | 4:26 | 2024-05-04 | 2024-11-16 |
 | [God’s Country \- Live from Red Rocks](https://open.spotify.com/track/5kMyufGmzElsXKTfaCOmgc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [HARDY \(Live from Red Rocks\)](https://open.spotify.com/album/7IyJPZEJJ9csqDhRz4EOrE) | 3:27 | 2025-02-07 |  |
 | [Going Home \- Live](https://open.spotify.com/track/0IFwRqhkQZdKpUW1uvOaDO) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Going Home \(Live\)](https://open.spotify.com/album/69BlZSkkD9n0sIV1Z0ISWg) | 4:02 | 2024-04-19 | 2025-01-06 |
-| [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 |  |
+| [Good as You \- Live](https://open.spotify.com/track/1zX4O1ezEkxMoEQsVw2eMA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Good as You \(Live\)](https://open.spotify.com/album/4NW8NWLP5yMRXE5NjUMAn9) | 3:22 | 2021-07-22 | 2025-09-27 |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/4AQUPrWg2NKDJbLpHXBhol) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Live From Europe EP](https://open.spotify.com/album/16Ev85nNlG1LWDCiAsx75M) | 4:03 | 2022-07-22 | 2024-04-19 |
 | [Good Day \- Live From Europe](https://open.spotify.com/track/7d0qq889i0z5coOE9cA0Np) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Good Day \(Live From Europe\)](https://open.spotify.com/album/5vs9YwpFEVlLfxf47rFX7Z) | 4:03 | 2021-07-22 | 2024-05-05 |
 | [Good Hearted Woman \- Live in Texas \- September 1974](https://open.spotify.com/track/3G9MizlnmJaSUJTieBPk1p) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon Live \(Expanded Edition\)](https://open.spotify.com/album/3a6HQDgZzwE1ZgIDP5Ooo1) | 3:04 | 2024-05-04 |  |

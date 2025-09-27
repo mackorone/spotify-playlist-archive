@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Sal Ly and Shime Ahua
 
-1,281 songs - 2 day 21 hr 0 min
+1,282 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Jesus Is Not A Scam \- Live](https://open.spotify.com/track/6qdgk35vRqgJV0hTFREzlw) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Jesus Is Not A Scam \(Live\)](https://open.spotify.com/album/0z3XoOAg6Y5r4qxmaEsHRl) | 5:48 | 2023-08-25 | 2023-10-20 |
 | [Jesus Iye](https://open.spotify.com/track/4jcantRx2m6O7NAVvopqSb) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesus Iye](https://open.spotify.com/album/7KDurcyV9btooGNJegwVtl) | 8:45 | 2023-12-05 | 2023-12-11 |
 | [Jesus loves me](https://open.spotify.com/track/7FSncmV4XrTj5r5eLp0pW9) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Jesus loves me](https://open.spotify.com/album/3lq6SNZrphTc6U6P1j5Xi4) | 2:51 | 2024-05-03 | 2024-07-27 |
+| [Jesus Party](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [More Life](https://open.spotify.com/album/1VJ9UkV3ladKpeJUAFEUca) | 2:08 | 2025-09-26 |  |
 | [Jesus Plus Nothing](https://open.spotify.com/track/7yK20zplC7GbnBk0l5JT5F) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I), [Dr\. Flourish Peters](https://open.spotify.com/artist/5j0FoGE3z6UkezW54YaztZ) | [Jesus Plus Nothing](https://open.spotify.com/album/46ZHckX15wwNp2N60sG7cp) | 4:26 | 2024-05-31 | 2024-07-27 |
 | [Jesus Power](https://open.spotify.com/track/3xFcvUPAx5nd71jLnEjDSM) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Clint Talker](https://open.spotify.com/artist/3fy6vH6FNAVwAb8jLgaIaH) | [Jesus Power](https://open.spotify.com/album/2nDJvVG2qjumlciwYUkGJ9) | 3:25 | 2025-06-13 | 2025-06-20 |
 | [Jesus Power](https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [Lydia Lifted](https://open.spotify.com/artist/1YvQlV2o6z5XvcAeKCHvZX) | [Jesus Power](https://open.spotify.com/album/5p3mZ98ws7KXGf9CZsF5ae) | 2:52 | 2025-08-15 |  |
@@ -1148,12 +1149,12 @@
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-06-20 |
 | [Too Much](https://open.spotify.com/track/7mYXS1qzgjV0m6TDFKii97) | [Nutty Josh](https://open.spotify.com/artist/259gFVebrznddLh7C8Esth), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Too Much](https://open.spotify.com/album/2aIQBsKZp8yiohC8SSs5Fl) | 2:46 | 2025-03-21 | 2025-06-06 |
 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 | 2023-07-14 | 2023-09-08 |
-| [Track 9](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-26 |  |
 | [Treasure](https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Treasure](https://open.spotify.com/album/1eTsRbUS7CUVHWMWHWYRBj) | 2:44 | 2023-02-02 | 2023-03-11 |
 | [Trinity](https://open.spotify.com/track/3j9mH5VzRe2mgaHWuvoccj) | [Snatcha](https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [Trinity](https://open.spotify.com/album/6RKJqNo6yI0e2vGXciN7oq) | 2:06 | 2025-04-04 | 2025-06-20 |
 | [Triumphant Entry](https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls) | [GCAi](https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw), [Dee Minor](https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV) | [Triumphant Entry](https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg) | 3:00 | 2023-07-21 | 2023-07-28 |
 | [Trust & Obey](https://open.spotify.com/track/6GE8MddXIjTFX04So3Tz1J) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Trust & Obey](https://open.spotify.com/album/5C3tIazJFji4RkkgsMCQ6L) | 2:57 | 2024-05-31 | 2024-07-27 |
 | [Trust in You](https://open.spotify.com/track/24QZ8sZVtangqkebKPq4Lq) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Trust in You](https://open.spotify.com/album/3aKIB6yncFyXoE0t4ITRDl) | 3:30 | 2023-10-13 | 2023-12-30 |
+| [Trust in you](https://open.spotify.com/track/5YVZxtAYdDmNlAzhjIBG8i) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Trust in you](https://open.spotify.com/album/2Zp9tuWF33iwX9o6stxu1w) | 2:21 | 2025-09-26 |  |
 | [Trust In You: TIY](https://open.spotify.com/track/4OW2XVZYgV63tLYGwQv3YE) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Daraaa](https://open.spotify.com/artist/4gXPHQnawRp8WMBeTWtWys), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Trust In You: TIY](https://open.spotify.com/album/5NmJ9x1iDEIAd2rgLf62Qq) | 3:01 | 2025-06-06 | 2025-08-15 |
 | [Trusted](https://open.spotify.com/track/2PRebsAfb6LBVYLr5mKMlt) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H) | [Trusted](https://open.spotify.com/album/7cZ7nXWQsrE2VoFXErZWVN) | 3:04 | 2024-01-19 | 2024-02-23 |
 | [Try Love](https://open.spotify.com/track/72Y7oxX8vyMkDvdU6rr5Nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Try Love](https://open.spotify.com/album/7o7pRQzbNbv3lRcFLlLISW) | 4:32 | 2023-08-25 | 2023-10-20 |

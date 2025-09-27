@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Adi Oasis",
-  "num_followers": 373771,
+  "num_followers": 373822,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBWHq8raMe1xL4UfnE3SECSSEaj",
+  "snapshot_id": "AAAAAB3i8J2vZk+9H85HQSJkDCkiFLlu",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Space of the Heart",
+        "url": "https://open.spotify.com/album/30OIr0GbwJAi9nXBlFB8ki"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4ldN4hSrc7tK7t0FKeLNOf"
+    },
     {
       "added_at": "2025-09-12 04:00:29",
       "album": {
@@ -25,22 +41,6 @@
       "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
-      "added_at": "2025-09-05 04:00:01",
-      "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 195624,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU"
-    },
-    {
       "added_at": "2025-09-19 04:00:34",
       "album": {
         "name": "ILU",
@@ -55,6 +55,26 @@
       "duration_ms": 208682,
       "name": "More Than Any Thing",
       "url": "https://open.spotify.com/track/78gyP9y53GpfTEN8ES0OmV"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "All In The Game",
+        "url": "https://open.spotify.com/album/4n260ECrH7wdQk6MO8S22x"
+      },
+      "artists": [
+        {
+          "name": "Wanda Felicia",
+          "url": "https://open.spotify.com/artist/1d4bky74FjfJpMmFyl0NQm"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 274387,
+      "name": "All In The Game",
+      "url": "https://open.spotify.com/track/5XjeZusgXUaGvsou2Y9Aba"
     },
     {
       "added_at": "2025-09-12 04:00:29",
@@ -89,10 +109,10 @@
       "url": "https://open.spotify.com/track/6IdxFn9YRBZLZuySXUqRjP"
     },
     {
-      "added_at": "2025-09-05 04:00:01",
+      "added_at": "2025-09-26 04:00:43",
       "album": {
-        "name": "Life of the Party",
-        "url": "https://open.spotify.com/album/3Bp75oph7dSe9bEcdZPn97"
+        "name": "Jr. Thomas in the Eraserhood",
+        "url": "https://open.spotify.com/album/74JHrHqgKcKF5iQrGacgnG"
       },
       "artists": [
         {
@@ -104,25 +124,9 @@
           "url": "https://open.spotify.com/artist/3GJ1qWWMdMQNXMmwTnyqtZ"
         }
       ],
-      "duration_ms": 210482,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/3sjgUdqEep6XgJFfVRqllt"
-    },
-    {
-      "added_at": "2025-08-29 04:00:28",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/4ZXI7z3ePV4uMxjh70v0jN"
-      },
-      "artists": [
-        {
-          "name": "YOUNGTONES",
-          "url": "https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG"
-        }
-      ],
-      "duration_ms": 189145,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/1GjF2xvlEwR1jS6I9cNhjW"
+      "duration_ms": 272840,
+      "name": "Thank You Honey",
+      "url": "https://open.spotify.com/track/5ZwvPJ3bnPuRt4YKTDlu2s"
     },
     {
       "added_at": "2025-08-29 04:00:28",
@@ -145,6 +149,22 @@
       "url": "https://open.spotify.com/track/2Rjo86V2HgAuKsypgvGIjd"
     },
     {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Done and Dusted",
+        "url": "https://open.spotify.com/album/6fJ4PJrUQR5oSkOYEC93OX"
+      },
+      "artists": [
+        {
+          "name": "YOUNGTONES",
+          "url": "https://open.spotify.com/artist/34MK0bzFb12zkGF9ILYFQG"
+        }
+      ],
+      "duration_ms": 177801,
+      "name": "Done and Dusted",
+      "url": "https://open.spotify.com/track/1H4dMoo6lKZJHtgDhKb0Yy"
+    },
+    {
       "added_at": "2025-08-29 04:00:28",
       "album": {
         "name": "We'll Be Alright",
@@ -161,6 +181,22 @@
       "url": "https://open.spotify.com/track/3ldQLn3qaJWqahSg23pAHJ"
     },
     {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/3Vbtd1YjWlCO19z2mlfhVs"
+      },
+      "artists": [
+        {
+          "name": "Michelle David & The True-tones",
+          "url": "https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/1E568TomvGi3FW7NvePXvp"
+    },
+    {
       "added_at": "2025-08-29 04:00:28",
       "album": {
         "name": "Why I Cry",
@@ -175,6 +211,22 @@
       "duration_ms": 289265,
       "name": "Why I Cry",
       "url": "https://open.spotify.com/track/4BD37YM8iMuytQLJhAIbP0"
+    },
+    {
+      "added_at": "2025-09-26 04:00:43",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/0rp1QW9jPSMKcpFhpG5Db6"
+      },
+      "artists": [
+        {
+          "name": "Bywater Call",
+          "url": "https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M"
+        }
+      ],
+      "duration_ms": 200711,
+      "name": "Hold Me Down",
+      "url": "https://open.spotify.com/track/5ie7dJwncl3i9MpEx8n2nc"
     },
     {
       "added_at": "2025-09-12 04:00:29",
@@ -227,26 +279,6 @@
       "duration_ms": 184000,
       "name": "Please Don't Talk To Me",
       "url": "https://open.spotify.com/track/0uU9rnZxlXWi8chK2buYTe"
-    },
-    {
-      "added_at": "2025-08-22 04:00:23",
-      "album": {
-        "name": "Flowers In The Garden",
-        "url": "https://open.spotify.com/album/4QrIeBxfRo93FeLaDy6N7C"
-      },
-      "artists": [
-        {
-          "name": "Wanda Felicia",
-          "url": "https://open.spotify.com/artist/1d4bky74FjfJpMmFyl0NQm"
-        },
-        {
-          "name": "Cold Diamond & Mink",
-          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
-        }
-      ],
-      "duration_ms": 327851,
-      "name": "Flowers In The Garden",
-      "url": "https://open.spotify.com/track/4glpi4JsC3FekGa9TRHWQ4"
     },
     {
       "added_at": "2025-08-15 04:00:05",
@@ -1569,22 +1601,6 @@
       "url": "https://open.spotify.com/track/6Up7DVZHtwlPy6T54uLHmO"
     },
     {
-      "added_at": "2024-02-23 05:01:00",
-      "album": {
-        "name": "MARY - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4SKYxCEmJBIxTdPQGQGK0C"
-      },
-      "artists": [
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 204799,
-      "name": "MARY - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7M2NVfbNrBnrR1eA7HVWTw"
-    },
-    {
       "added_at": "2024-03-22 04:01:00",
       "album": {
         "name": "Hold On",
@@ -1663,22 +1679,6 @@
       "duration_ms": 182886,
       "name": "Secret Place",
       "url": "https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/5am0gtPGTLFAADXodhymWp"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 228540,
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG"
     },
     {
       "added_at": "2023-09-29 04:01:00",

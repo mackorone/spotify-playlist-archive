@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to sept\-oct 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,362 likes - 40 songs - 2 hr 8 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,365 likes - 41 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 38 | [Run...run / Mama your son done gone](https://open.spotify.com/track/3NdsxlnJJGD87KGNs9LysS) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:19 |
 | 39 | [Hello Stranger](https://open.spotify.com/track/7dBGHDBPg1sBSWXkPrU1sa) | [Hazel Dickens](https://open.spotify.com/artist/2IEiSF4inDSwzQowcQjdfT), [Alice Gerrard](https://open.spotify.com/artist/3jw7tGSvkcf3nb1LWNnguT) | [Hazel & Alice](https://open.spotify.com/album/4nbDlug3zC6jKR3QnkPjfY) | 3:12 |
 | 40 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 |
+| 41 | [Doubt](https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:00 |
 
-Snapshot ID: `AAANL7C0NPhWLjMjlw1MIDYBOmw4fPqT`
+Snapshot ID: `AAANMC5mxR0mwFnOzd9lVAuesg3gvvrH`

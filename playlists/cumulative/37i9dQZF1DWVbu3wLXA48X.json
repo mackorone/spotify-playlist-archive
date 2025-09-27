@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Thundercat",
+  "description": "Current indie tunes from Asia and around the world. Cover: yung kai",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -5086,7 +5086,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 245836,
       "name": "Boston",
       "url": "https://open.spotify.com/track/63pmBYIUu7bbGipIOBccyr"
@@ -5378,7 +5378,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 157716,
       "name": "Brizzle",
       "url": "https://open.spotify.com/track/62KcHU1T8VBwIKXcWS812K"
@@ -6822,7 +6822,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 198953,
       "name": "changing",
       "url": "https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY"
@@ -10591,6 +10591,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "Drag",
         "url": "https://open.spotify.com/album/40raRTUzHW6ll8iQnp41By"
       },
@@ -12840,7 +12858,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 245840,
       "name": "Feel",
       "url": "https://open.spotify.com/track/4NnOR8W05j63NwzVIhp6a8"
@@ -13299,6 +13317,28 @@
     },
     {
       "album": {
+        "name": "FIX IT! (feat. pH-1)",
+        "url": "https://open.spotify.com/album/40dOoovQxj7jhmt2k049qk"
+      },
+      "artists": [
+        {
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137714,
+      "name": "FIX IT! (feat. pH-1)",
+      "url": "https://open.spotify.com/track/6YXwBKZ8OYfmj5JlhSuVan"
+    },
+    {
+      "album": {
         "name": "Let's Go! DSDC!",
         "url": "https://open.spotify.com/album/4TzvYfWz8YKSKBMK82XScS"
       },
@@ -13588,7 +13628,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 102631,
       "name": "Fly With Me",
       "url": "https://open.spotify.com/track/4SGqihGXIxMMRpZeDsyEfS"
@@ -14378,7 +14418,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 225354,
       "name": "Funky Lovely Girl",
       "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
@@ -14862,6 +14902,24 @@
       "duration_ms": 273786,
       "name": "Give You the World",
       "url": "https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN"
+    },
+    {
+      "album": {
+        "name": "Giving Up Air",
+        "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287411,
+      "name": "Giving Up Air",
+      "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
     },
     {
       "album": {
@@ -16493,6 +16551,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/6Ts4Wb8BhsKyw1MuDdHbgV"
+      },
+      "artists": [
+        {
+          "name": "Astral Bakers",
+          "url": "https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285413,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/0atuaFPE85WuHuCZ8owpeT"
+    },
+    {
+      "album": {
         "name": "Healing House",
         "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
@@ -17160,6 +17236,24 @@
       "duration_ms": 166511,
       "name": "High With You",
       "url": "https://open.spotify.com/track/6HSRO5Oyh4A7VDtjuG5NqW"
+    },
+    {
+      "album": {
+        "name": "Cover Girl",
+        "url": "https://open.spotify.com/album/4SvP99rd8lr8wpDW8p55uq"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180856,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL"
     },
     {
       "album": {
@@ -17846,6 +17940,24 @@
       "duration_ms": 264362,
       "name": "How Could You Still Love Me",
       "url": "https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1"
+    },
+    {
+      "album": {
+        "name": "stay with the ocean, i'll find you",
+        "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201766,
+      "name": "how do you dance?",
+      "url": "https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP"
     },
     {
       "album": {
@@ -18832,7 +18944,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 170549,
       "name": "I Wantchu",
       "url": "https://open.spotify.com/track/3N8xI9VR294kF43yVt1ANn"
@@ -19179,6 +19291,24 @@
     },
     {
       "album": {
+        "name": "Idk",
+        "url": "https://open.spotify.com/album/6k3MOMsZF3tgUrfbaf4FJx"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gobbi",
+          "url": "https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171322,
+      "name": "Idk",
+      "url": "https://open.spotify.com/track/0PCNmy8zuWYwJFpMlFkh6t"
+    },
+    {
+      "album": {
         "name": "if it's not you",
         "url": "https://open.spotify.com/album/47GptiIJvoRyPPCWKc6FcD"
       },
@@ -19288,6 +19418,24 @@
       "duration_ms": 271120,
       "name": "If They\u2019re Shooting At You",
       "url": "https://open.spotify.com/track/1MpQ9COoG75VzxABaBrNwF"
+    },
+    {
+      "album": {
+        "name": "Ignorance is Bliss",
+        "url": "https://open.spotify.com/album/75N2h7ZeDnaFRbIlja8LgJ"
+      },
+      "artists": [
+        {
+          "name": "Alice Merton",
+          "url": "https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214390,
+      "name": "Ignorance is Bliss",
+      "url": "https://open.spotify.com/track/7mhAJ0N6VuAxgzksFWa0Om"
     },
     {
       "album": {
@@ -21084,7 +21232,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 224287,
       "name": "Kneel",
       "url": "https://open.spotify.com/track/3zHlu8zTCOQ2R6nobGogKJ"
@@ -24911,6 +25059,28 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
+    },
+    {
+      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -27215,6 +27385,24 @@
     },
     {
       "album": {
+        "name": "Hourglass Plea",
+        "url": "https://open.spotify.com/album/0MVfELUL5VrcmzSdI6HrQg"
+      },
+      "artists": [
+        {
+          "name": "GRACE.",
+          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210244,
+      "name": "not today, but maybe someday.",
+      "url": "https://open.spotify.com/track/1P0Uu7MTEiszfeWFU84KkN"
+    },
+    {
+      "album": {
         "name": "Nothing 2 See",
         "url": "https://open.spotify.com/album/6TgkkyqFf6xihTl96kmUN9"
       },
@@ -28127,6 +28315,24 @@
     },
     {
       "album": {
+        "name": "One in a million",
+        "url": "https://open.spotify.com/album/26NDlsFpoSUfRL79Ce7A7K"
+      },
+      "artists": [
+        {
+          "name": "KeNN",
+          "url": "https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272743,
+      "name": "One in a million",
+      "url": "https://open.spotify.com/track/1XoVx5zm2SYLzILgHReqD1"
+    },
+    {
+      "album": {
         "name": "One Last Dance (feat. Milky Day)",
         "url": "https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ"
       },
@@ -28226,6 +28432,24 @@
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
+    },
+    {
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "album": {
@@ -33101,6 +33325,28 @@
     },
     {
       "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        },
+        {
+          "name": "Moth\u00e9",
+          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151454,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
+    },
+    {
+      "album": {
         "name": "It's 2016 Somewhere",
         "url": "https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec"
       },
@@ -33268,7 +33514,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 138920,
       "name": "She Explains Things To Me",
       "url": "https://open.spotify.com/track/4ltUVGlf3c6k6a5yR8sDbq"
@@ -37420,6 +37666,24 @@
       "duration_ms": 162165,
       "name": "Tallinn",
       "url": "https://open.spotify.com/track/3jXXnHujoTjC4lnr3jUY1w"
+    },
+    {
+      "album": {
+        "name": "Tanana / Mush",
+        "url": "https://open.spotify.com/album/0x1oIowTSUKCbeCEiUCifA"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199181,
+      "name": "Tanana",
+      "url": "https://open.spotify.com/track/0lYkjoTbmh9sVPv9yvGae3"
     },
     {
       "album": {
@@ -43932,6 +44196,24 @@
       "duration_ms": 248334,
       "name": "Write Me Another Song",
       "url": "https://open.spotify.com/track/4gjjm1Q1fgHby4einyc0rV"
+    },
+    {
+      "album": {
+        "name": "COMING OF AGE",
+        "url": "https://open.spotify.com/album/62GUpcHIWzze0HUJI5iFs4"
+      },
+      "artists": [
+        {
+          "name": "PEGGY",
+          "url": "https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197617,
+      "name": "WRITTEN BY A WOMAN",
+      "url": "https://open.spotify.com/track/0LzJZffGxrFuKpQjS1Id4S"
     },
     {
       "album": {

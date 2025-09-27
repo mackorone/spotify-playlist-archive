@@ -2,7 +2,7 @@
 
 ### [Big Mood](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
 
-> Afro sounds crossing borders\. Cover: Davido
+> Afro sounds crossing borders\. Cover: Sarz
 
 890 songs - 1 day 21 hr 43 min
 

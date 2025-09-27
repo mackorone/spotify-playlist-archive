@@ -1,6 +1,6 @@
 {
   "description": "Classic Contemporary Christian songs you can always count on! Cover: Phil Wickham",
-  "num_followers": 648831,
+  "num_followers": 648941,
   "original_name": "Christian Classics",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,22 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
+        "name": "The Ultimate Playlist",
+        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 293398,
+      "name": "Good Good Father",
+      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
         "name": "Zion (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "The Ultimate Playlist",
-        "url": "https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 293398,
-      "name": "Good Good Father",
-      "url": "https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -219,26 +219,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        },
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Nobody (feat. Matthew West)",
-      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Run To The Father",
         "url": "https://open.spotify.com/album/7KVFm4XMDDUZy9XgGdWuHv"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 305426,
       "name": "How Great Is Our God",
       "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Nobody (feat. Matthew West)",
+      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 335906,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 335906,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "All The People Said Amen",
-        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Lord, I Need You",
-      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "And If Our God Is For Us...",
         "url": "https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 285160,
       "name": "Our God",
       "url": "https://open.spotify.com/track/40lKptao1hxVqA7fd1OOGp"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "All The People Said Amen",
+        "url": "https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Lord, I Need You",
+      "url": "https://open.spotify.com/track/4EHWldZTas5KUyFtT0rQlY"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Living Hope",
         "url": "https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "If We're Honest (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 207172,
-      "name": "He Knows My Name",
-      "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "Great Are You Lord EP",
         "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 232379,
       "name": "Great Are You Lord",
       "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "If We're Honest (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 207172,
+      "name": "He Knows My Name",
+      "url": "https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "Your Love Never Fails",
-      "url": "https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 378986,
       "name": "From The Inside Out - Live",
       "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Your Love Never Fails",
+      "url": "https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "A Heart That Knows You",
-        "url": "https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5"
-      },
-      "artists": [
-        {
-          "name": "Twila Paris",
-          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
-        }
-      ],
-      "duration_ms": 247933,
-      "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
-      "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "A Maze Of Grace",
         "url": "https://open.spotify.com/album/40P6d6VGfGVTSiJU69dDm2"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 309173,
       "name": "Call on Your Name",
       "url": "https://open.spotify.com/track/11uopkJGlq3ur9GZIeI7qE"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "A Heart That Knows You",
+        "url": "https://open.spotify.com/album/6xGecCTapcfHPiBeSSXZf5"
+      },
+      "artists": [
+        {
+          "name": "Twila Paris",
+          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
+        }
+      ],
+      "duration_ms": 247933,
+      "name": "The Warrior Is A Child - A Heart That Knows You Album Version",
+      "url": "https://open.spotify.com/track/7j6Wf54qdc0yOk2sE40WRB"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Beyond A Dream",
-        "url": "https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA"
-      },
-      "artists": [
-        {
-          "name": "Twila Paris",
-          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
-        }
-      ],
-      "duration_ms": 345693,
-      "name": "God Is In Control",
-      "url": "https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "The Basics Of Life",
         "url": "https://open.spotify.com/album/6W0BrIYO2ouSiErccmwG4i"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 313666,
       "name": "The Basics Of Life",
       "url": "https://open.spotify.com/track/659nJCCP4NGGU8ncSM5NW1"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "Beyond A Dream",
+        "url": "https://open.spotify.com/album/6AgCHYULVFNDheiZtOpMxA"
+      },
+      "artists": [
+        {
+          "name": "Twila Paris",
+          "url": "https://open.spotify.com/artist/7ua35iM0VjwfuHopuQDScm"
+        }
+      ],
+      "duration_ms": 345693,
+      "name": "God Is In Control",
+      "url": "https://open.spotify.com/track/5EBozQIT1SrEskijMLfevl"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2131,26 +2131,18 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Raise a Hallelujah (Studio Version)",
-        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 244040,
-      "name": "Raise a Hallelujah - Studio Version",
-      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
+      "duration_ms": 248253,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2179,18 +2171,26 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn"
+        "name": "Raise a Hallelujah (Studio Version)",
+        "url": "https://open.spotify.com/album/2lvpEuRkSNanccXya3JLG7"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 248253,
-      "name": "I Can Only Imagine",
-      "url": "https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl"
+      "duration_ms": 244040,
+      "name": "Raise a Hallelujah - Studio Version",
+      "url": "https://open.spotify.com/track/4LnHfZGEitmIVS17wndaUI"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2227,22 +2227,18 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Stand In Your Love (Radio Version)",
-        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
+        "name": "Spoken For",
+        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
         }
       ],
-      "duration_ms": 221333,
-      "name": "Stand In Your Love - Radio Version",
-      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
+      "duration_ms": 187573,
+      "name": "Word of God Speak",
+      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2263,18 +2259,22 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "Spoken For",
-        "url": "https://open.spotify.com/album/1tPtm5JRDC1kYZgb9WretN"
+        "name": "Stand In Your Love (Radio Version)",
+        "url": "https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Word of God Speak",
-      "url": "https://open.spotify.com/track/6FVg2subR7uoD80BmTOsdR"
+      "duration_ms": 221333,
+      "name": "Stand In Your Love - Radio Version",
+      "url": "https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2311,30 +2311,6 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        },
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves (Live)",
-      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
         "name": "How Can It Be",
         "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
       },
@@ -2363,6 +2339,30 @@
       "duration_ms": 247040,
       "name": "Greater",
       "url": "https://open.spotify.com/track/6eFGvG8mkvZJjhPx9wMZGc"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 373691,
+      "name": "No Longer Slaves (Live)",
+      "url": "https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs"
     },
     {
       "added_at": "2025-09-14 09:31:58",
@@ -2451,6 +2451,38 @@
     {
       "added_at": "2025-09-14 09:31:58",
       "album": {
+        "name": "God Is on the Move",
+        "url": "https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "duration_ms": 176615,
+      "name": "God Is on the Move",
+      "url": "https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59"
+    },
+    {
+      "added_at": "2025-09-14 09:31:58",
+      "album": {
         "name": "HAPPY",
         "url": "https://open.spotify.com/album/1rA3RF48jvzdYtQuiJDeWt"
       },
@@ -2483,42 +2515,6 @@
       "duration_ms": 213080,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "Fresh Start",
-        "url": "https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        },
-        {
-          "name": "Gabe Real",
-          "url": "https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt"
-        }
-      ],
-      "duration_ms": 331613,
-      "name": "Eye of the Storm (feat. Gabe Real)",
-      "url": "https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx"
-    },
-    {
-      "added_at": "2025-09-14 09:31:58",
-      "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS"
-      },
-      "artists": [
-        {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO"
     },
     {
       "added_at": "2025-09-14 09:31:58",

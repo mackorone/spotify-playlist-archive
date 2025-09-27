@@ -4,7 +4,7 @@
 
 > but listened to this instead
 
-67 songs - 3 hr 32 min
+68 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2025-02-20 |  |
 | [My Universe](https://open.spotify.com/track/0gUFsysQrkPRZPLnL7NiV4) | [Piano Peace](https://open.spotify.com/artist/7qKxhFTGcJ7w7JEFGqqWwK) | [BTS Piano Covers, Vol\. 2](https://open.spotify.com/album/0xFZWU9ElqmrExGQ9zcDLg) | 2:14 | 2025-02-20 |  |
 | [Ocean Eyes](https://open.spotify.com/track/0uVBjMQGASq2vMiCuWPtCH) | [Ingrid Olsson](https://open.spotify.com/artist/7qA3z1l5k66u0YnW4vYPWl) | [Piano Pop Covers II](https://open.spotify.com/album/0odfmFO1Q6aRfsRcRQvVmh) | 3:13 | 2025-02-20 |  |
-| [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 |  |
+| [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2025-02-20 | 2025-09-27 |
 | [Ordinary](https://open.spotify.com/track/00zboRdO7yjPazc4J7d3EB) | [Aidan Jennings](https://open.spotify.com/artist/6uUXYuGPRAHHR0TrAvV62o) | [Ordinary](https://open.spotify.com/album/6iFnTh7yJX21BmQHE7sd6d) | 2:28 | 2025-07-04 |  |
 | [Ordinary \- Piano Version](https://open.spotify.com/track/0SiBf9yNAadpXdYku3PRpS) | [Akmigone](https://open.spotify.com/artist/5lmcV2Tb033KvvFEjm2kOi) | [Ordinary \(Piano Version\)](https://open.spotify.com/album/7nSH4KNxlGnTQLh8iNIjiU) | 3:13 | 2025-06-26 | 2025-07-10 |
 | [Out of Time](https://open.spotify.com/track/2JIadomFANTBr1I7rvMCJN) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Out of Time](https://open.spotify.com/album/5ywNtEss6L50krPT9wxaGB) | 3:14 | 2025-05-16 |  |
@@ -70,6 +70,7 @@
 | [Texas Hold EM](https://open.spotify.com/track/3KjegNTJ84MxLDXpoHWWcg) | [Marc Ventus](https://open.spotify.com/artist/5QpVRIIbhz7b7DSghK0aTH) | [As It Goes](https://open.spotify.com/album/59Y3FjjAAV4P9U4ZrldQth) | 3:23 | 2025-02-20 |  |
 | [That's So True](https://open.spotify.com/track/3wfQvxeJREWqSMceBL40Fc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [That's So True](https://open.spotify.com/album/4pVfyoenHrnYwSRlJalQ4H) | 3:34 | 2025-05-02 |  |
 | [Too Good At Goodbyes](https://open.spotify.com/track/0YDllquMDrYKSeH34vGODj) | [Piano Fruits Music](https://open.spotify.com/artist/5vpWEdK9C28uOX8jjfRi1v), [Magnus Eriksson](https://open.spotify.com/artist/5Y92W0Mxk53w1ozspH7zZb) | [Pop Piano Covers Vol\. 1](https://open.spotify.com/album/0Y0oYVkTYrJ1UzEkhmnXjt) | 2:15 | 2025-02-20 | 2025-03-11 |
+| [undressed \- Piano Instrumental](https://open.spotify.com/track/0iTJdkp6fOP9Ut4t5V4F7y) | [Marcus Chow](https://open.spotify.com/artist/7w2L1GIo649U1ioe0mnH23) | [undressed \(Piano Instrumental\)](https://open.spotify.com/album/5XAZzHROU1hb5hD7lZPwUh) | 3:09 | 2025-09-26 |  |
 | [We Don't Talk Anymore](https://open.spotify.com/track/4OgNKXz4YMu9tDm8giWkwy) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [We Don't Talk Anymore](https://open.spotify.com/album/4DWAGQ8cHUTFLZKbl1geK9) | 3:43 | 2025-02-20 |  |
 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/6Nce1UKzpjE1BB88uAVbsK) | [Flying Fingers](https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/6jiYjhX0iTyHGzaJYkCU44) | 4:03 | 2025-02-20 | 2025-07-05 |
 | [when the party's over](https://open.spotify.com/track/6JWWuoeyToc9bBZkgWtQ9L) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [when the party’s over](https://open.spotify.com/album/6vyEqEM1JWBJFnzr0rMp5T) | 3:28 | 2025-02-20 | 2025-06-27 |

@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 41 | [Cheat Code](https://open.spotify.com/track/3rGYQLxtPkFSgrEPkgUX5t) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Cheat Code](https://open.spotify.com/album/4n6aFAgYI9y2bY9IaoB6VW) | 2:29 |
 | 42 | [SHOW ME THE WAY](https://open.spotify.com/track/30Naxz6cEyiqGcv5MSVnuY) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Zadie Smith](https://open.spotify.com/artist/7N0diSByEc14gBuIstYSHB) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:40 |
 | 43 | [Mean Girls](https://open.spotify.com/track/3VJ18D4rUe0KCACLWU8gtB) | [Rachel Crow](https://open.spotify.com/artist/4TIHghOOQ0f8sxHvaV5LOx) | [Rachel Crow](https://open.spotify.com/album/3WnBI3PHFuP3iFWy6CnOUH) | 3:09 |
-| 44 | [Your Hallelujah](https://open.spotify.com/track/0SBwtZsilU33zWP4f4S8xv) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:14 |
-| 45 | [Daybreak \(feat\. The Knocks\)](https://open.spotify.com/track/38GELrQkVj6WskiF0VrNQu) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Holiday87](https://open.spotify.com/album/2kVT1AQsUshZlMZv0w2bN0) | 4:10 |
+| 44 | [Daybreak \(feat\. The Knocks\)](https://open.spotify.com/track/38GELrQkVj6WskiF0VrNQu) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Holiday87](https://open.spotify.com/album/2kVT1AQsUshZlMZv0w2bN0) | 4:10 |
+| 45 | [Your Hallelujah](https://open.spotify.com/track/0SBwtZsilU33zWP4f4S8xv) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:14 |
 | 46 | [Sounds Like Heaven](https://open.spotify.com/track/7gVhz7lwTgAYHE5IEWAGrn) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:26 |
 | 47 | [I Still Believe](https://open.spotify.com/track/5ij14NvXSzabsmGSNFgrTe) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:38 |
 | 48 | [Single](https://open.spotify.com/track/5wzlGgyxSdACTLdCAPEi5C) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:53 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 98 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 99 | [Have You Seen My Light](https://open.spotify.com/track/0BeaAtd0znjz9AfXAyD1XW) | [Autumn Rowe](https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH) | [October 8](https://open.spotify.com/album/6PTt3Rv4JQrQ6NkT1Fgn7z) | 3:07 |
 
-Snapshot ID: `Ab9M6AAAAACqhd8nQI4JgoGREzvtqH/W`
+Snapshot ID: `Ab9SpgAAAAByGihc0wWQVLHhYkYKDjrf`

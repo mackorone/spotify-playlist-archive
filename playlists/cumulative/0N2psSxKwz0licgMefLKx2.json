@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "COUNTRY! COUNTRY!",
+        "url": "https://open.spotify.com/album/1j2unVmWjj79ywAaRFPYXc"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238030,
+      "name": "Country Country",
+      "url": "https://open.spotify.com/track/1FHOMoJbGHsjR8E44IcZ8g"
+    },
+    {
+      "album": {
         "name": "Locked Up",
         "url": "https://open.spotify.com/album/1uZrgmt2depCIzzN0FxfIv"
       },
@@ -2714,6 +2732,28 @@
       "duration_ms": 182862,
       "name": "How Do You Miss Me (feat. Alexandra Kay)",
       "url": "https://open.spotify.com/track/3225izSd52xkiNvhG7yg7n"
+    },
+    {
+      "album": {
+        "name": "Hurtin' Songs",
+        "url": "https://open.spotify.com/album/0fN3yStmuehUQjStGL1Sb0"
+      },
+      "artists": [
+        {
+          "name": "Brett Kissel",
+          "url": "https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm"
+        },
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Hurtin' Songs",
+      "url": "https://open.spotify.com/track/7AxaVrXiFMkDmyNSsyMWXU"
     },
     {
       "album": {

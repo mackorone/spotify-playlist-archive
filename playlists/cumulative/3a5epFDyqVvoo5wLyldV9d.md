@@ -4,7 +4,7 @@
 
 > 
 
-877 songs - 2 day 20 hr 59 min
+879 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Pra Vida](https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:32 | 2023-10-26 |  |
 | [Prepad](https://open.spotify.com/track/6r4Nt3xMAHyRyDaqQ12F7t) | [Boban Petrovic](https://open.spotify.com/artist/7MM8Sbg5RXuH4fjcfPews2) | [Aor Global Sounds, Vol\. 2](https://open.spotify.com/album/323GyC8SJ4lsfKA9Z84EwC) | 4:07 | 2020-07-23 | 2024-08-06 |
 | [Presente Cotidiano](https://open.spotify.com/track/25znajmeY2JqkRjBH9bQZ2) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [India](https://open.spotify.com/album/7bxZ0kvGIbJRvBGFrKooub) | 2:57 | 2022-12-12 |  |
+| [Prisencolinensinainciusol](https://open.spotify.com/track/0HQf0bd3oSZei450iKuUFR) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Celentano Hit Parade / Le Volte Che Adriano E' Stato Primo](https://open.spotify.com/album/5dP9R1pAhtCoZJXU3iqW4y) | 3:49 | 2025-09-26 |  |
 | [Promise Of A Fisherman \(Promessa De Pescador\)](https://open.spotify.com/track/3kLP3fEWYddMpZmxoYkjhW) | [Sergio Mendes & Brasil '77](https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk) | [Primal Roots](https://open.spotify.com/album/4pNFgjn9mSBtLiBywPUsoV) | 3:33 | 2021-06-10 |  |
 | [Pyar Ka Hai Bairi](https://open.spotify.com/track/5sz9HsroWQeKTSqY34bsud) | [Sangeeta](https://open.spotify.com/artist/3vepnk6oWjfjlfyBxerY4I) | [Flower in the Wind](https://open.spotify.com/album/0MbNu5hIIGv5UGlsn7wCqU) | 4:41 | 2025-05-12 |  |
 | [Pygmy Love Song](https://open.spotify.com/track/6K7Y22k1OdF1MwYFvHggqp) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music \(1975\-1982\)](https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY) | 3:50 | 2021-09-19 |  |
@@ -837,6 +838,7 @@
 | [Ye Nam Nyaa](https://open.spotify.com/track/549Vo9bvgBUl8Trzp5685V) | [Nana Tuffour](https://open.spotify.com/artist/0QMTuZV7F8J6b6eE97shGv) | [Sansakroma](https://open.spotify.com/album/6KlI1PTBgVzoLWiX8Yt55q) | 6:09 | 2021-08-03 |  |
 | [Yedin Beni](https://open.spotify.com/track/0AsLxYyfCn0Xo0UVr9Lucb) | [Ersen ve Dadaşlar](https://open.spotify.com/artist/57yBhz7PaImYhNjRoM22QA) | [Dünden Bugüne](https://open.spotify.com/album/2sPoegtwuN962Qkhm88PXC) | 4:47 | 2021-07-02 |  |
 | [Yeke Yeke](https://open.spotify.com/track/7yuF2FK7adgzGiIfEpR7Km) | [Mory Kanté](https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN) | [Akwaba Beach](https://open.spotify.com/album/7gWws7q8OQDc8t5R4IXIx3) | 3:58 | 2021-09-19 |  |
+| [Yes I Know My Way \- 2021 Remaster](https://open.spotify.com/track/0HVvtZhPgnuR2Nia1x8zUX) | [Pino Daniele](https://open.spotify.com/artist/2eFv7NVs8R6Go7msuqikeg) | [Vai mo' \(2021 Remaster\)](https://open.spotify.com/album/337FIRdreM3p4irs8hrMsX) | 3:36 | 2025-09-26 |  |
 | [Yesu San Bra: Disco Hi\-Life](https://open.spotify.com/track/3aoRwnGiBz8LrAAgBdon0g) | [Pat Thomas](https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy) | [Hunchin' All Night](https://open.spotify.com/album/2Y8hlTzkAumTa8KGkxd4F4) | 10:47 | 2020-04-17 |  |
 | [Yetikimt Abeba](https://open.spotify.com/track/6MjNMbQxWQzNzSF0GcxeQH) | [The Roha Band](https://open.spotify.com/artist/3EOoqpbl7QA2mwfUoYwoq6) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:20 | 2020-12-07 |  |
 | [Yo mejor te doy \- Remasterizado](https://open.spotify.com/track/7ieJ3WO1PXoKamh4cNhFfF) | [Los Yoyi](https://open.spotify.com/artist/15Jn823Pmr0JwNyo39vO1C) | [Los Yoyi \(Remasterizado\)](https://open.spotify.com/album/6W5D6fPCXxVznGfK01DNJu) | 2:29 | 2023-10-09 |  |

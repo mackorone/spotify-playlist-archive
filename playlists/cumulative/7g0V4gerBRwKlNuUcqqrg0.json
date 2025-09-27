@@ -1617,6 +1617,28 @@
     },
     {
       "album": {
+        "name": "Toveren",
+        "url": "https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z"
+      },
+      "artists": [
+        {
+          "name": "Herman van Veen",
+          "url": "https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178952,
+      "name": "Toveren",
+      "url": "https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe"
+    },
+    {
+      "album": {
         "name": "Turbulentie",
         "url": "https://open.spotify.com/album/7fcv7MQ7LmjTGgrcuhJ4Zh"
       },

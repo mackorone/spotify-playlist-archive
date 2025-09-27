@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 157156,
       "name": "Musica Fuerte",
       "url": "https://open.spotify.com/track/29aiCBVeECZCTOPTL2FEVP"
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 168471,
       "name": "Pal Baile Me Voy",
       "url": "https://open.spotify.com/track/5p1xlT1qcr8AF2MaFGeRfL"
@@ -3930,6 +3930,28 @@
       "duration_ms": 124285,
       "name": "Perreo Fannel 2",
       "url": "https://open.spotify.com/track/4IQI1LgCTuwppfbzr3ehjh"
+    },
+    {
+      "album": {
+        "name": "Perreo KS",
+        "url": "https://open.spotify.com/album/4ol3iYldUJ0qVMR9mySNlx"
+      },
+      "artists": [
+        {
+          "name": "KS",
+          "url": "https://open.spotify.com/artist/73N8fpZ5snqlNZQrzNUuuA"
+        },
+        {
+          "name": "El Nikko DJ",
+          "url": "https://open.spotify.com/artist/73SpjqbRsmNwFhRvNUd2r9"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Perreo KS",
+      "url": "https://open.spotify.com/track/2gst2C7wBG0sOGYzkFoqwe"
     },
     {
       "album": {
@@ -5426,6 +5448,24 @@
       "duration_ms": 151224,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
+    },
+    {
+      "album": {
+        "name": "Taliban",
+        "url": "https://open.spotify.com/album/1oS4XQRu86koOUONLN1bjx"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124951,
+      "name": "Taliban",
+      "url": "https://open.spotify.com/track/1kzWx8cffYd227uxzjEJfd"
     },
     {
       "album": {

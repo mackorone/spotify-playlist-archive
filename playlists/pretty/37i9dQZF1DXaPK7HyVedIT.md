@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: illusionize
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,248 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,826 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 62 | [She Wanna Dance](https://open.spotify.com/track/4fkVZCK83FhFlF5A5VvB43) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Melo.Kids](https://open.spotify.com/artist/67zbXa7VOBhfFhM5n6AM33), [Jan Barg](https://open.spotify.com/artist/1OVsnZs1EB2YxziiOk7Ovt), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [She Wanna Dance](https://open.spotify.com/album/18iV0w4E6uAPfIFPRoDGDg) | 3:03 |
 | 63 | [AMENO](https://open.spotify.com/track/56jPL0wwEsPCcOV7rC8NgU) | [Zagitar](https://open.spotify.com/artist/1sLDL9ECqXb7hLQVsykf8d), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [AMENO](https://open.spotify.com/album/1W5rhdymYRUCT3y4pE48cw) | 4:07 |
 | 64 | [Light It Up](https://open.spotify.com/track/2BrPPfDZZih0HNUfRJY3jx) | [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [Stay Box](https://open.spotify.com/artist/72lfcNtUMlqOkKqE5qLzz6) | [Never Say Never](https://open.spotify.com/album/1x4VxsJCeAqrOBmlkYJDdr) | 2:34 |
-| 65 | [The Way I Are \(Liu Edit\)](https://open.spotify.com/track/6J2Cu2AyXBFPHmouyGvskv) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [The Way I Are](https://open.spotify.com/album/6vUsJxlZ0VtsBFZTpzyEGt) | 2:14 |
+| 65 | [The Way I Are \(Liu Edit\)](https://open.spotify.com/track/6J2Cu2AyXBFPHmouyGvskv) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht), [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j) | [The Way I Are](https://open.spotify.com/album/6vUsJxlZ0VtsBFZTpzyEGt) | 2:14 |
 | 66 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 67 | [Kumbaya](https://open.spotify.com/track/4y6rZU5JCcDrksYDq7CMAY) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Kumbaya](https://open.spotify.com/album/7oZ3sI01WJZqdo1ijWxKrO) | 3:02 |
 | 68 | [Beggin' \- ZAC Remix](https://open.spotify.com/track/1NpBHGPBlC191Nx40nWAU4) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Beggin' \(ZAC Remix\)](https://open.spotify.com/album/33YxPl0rbDdi1tp4yQBmXE) | 3:06 |

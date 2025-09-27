@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : D'accord Simon
 
-343 songs - 18 hr 11 min
+343 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 | 2025-06-05 |  |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
+| [Jtm un peu](https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [Romy Rose, Pt\. 1](https://open.spotify.com/album/4ROaxMuLciRc5l3ywr0EUr) | 3:02 | 2025-09-25 |  |
 | [Jurassique Parc](https://open.spotify.com/track/4ou6wh6gVdvZxdV5zixaMO) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Jurassique Parc](https://open.spotify.com/album/2KdabhvdyfpvMXPLAAM7p3) | 3:57 | 2025-04-17 | 2025-08-22 |
 | [just a noise](https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG) | [just a noise](https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi) | 2:52 | 2024-05-30 | 2024-08-16 |
 | [JUSTE AMIS](https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [PANAME ŒSTROS POUBELLE](https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE) | 3:21 | 2023-11-16 | 2024-09-13 |
@@ -319,7 +320,6 @@
 | [Toujours +](https://open.spotify.com/track/7nDrQOUNCJ7kzduuRcBzyW) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Toujours +](https://open.spotify.com/album/5Q74yoVZNHnbWy4W1lrrH9) | 2:28 | 2024-10-17 | 2025-03-07 |
 | [Tout eteindre](https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Tout eteindre](https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI) | 4:41 | 2023-11-09 | 2024-02-02 |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
-| [Track 3](https://open.spotify.com/track/5HBwZoRSwMjoyA07xZTUlR) | [James Baker](https://open.spotify.com/artist/0enzx5Bq2F7Rq5BN9kWXJl) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |
 | [Tu le sais](https://open.spotify.com/track/38cM42gpzzdkNwbX3CKWdC) | [Loane Coste](https://open.spotify.com/artist/6WZ9mM5VZI25OL93YiWi8d) | [Tu le sais](https://open.spotify.com/album/38sEcWTeJxsmx05A88Mf0v) | 3:05 | 2025-05-01 | 2025-09-26 |

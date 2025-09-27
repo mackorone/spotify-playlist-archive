@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26144,
+  "num_followers": 26146,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABj9mwYiRYxm7SXFpV1CTHrkflmp1J7",
+  "snapshot_id": "AABj+YXUsBBvcLrsC/wSf1+ocr9DyttE",
   "tracks": [
     {
       "added_at": "2025-09-25 13:01:43",
@@ -235,6 +235,54 @@
       "duration_ms": 196054,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/47tJ2hkHBQGfIaAmb3TOVi"
+    },
+    {
+      "added_at": "2025-09-26 19:27:52",
+      "album": {
+        "name": "Haerenga",
+        "url": "https://open.spotify.com/album/3ZwphU2bVdoNV17z2ZD0fU"
+      },
+      "artists": [
+        {
+          "name": "Han Beukers",
+          "url": "https://open.spotify.com/artist/74ZiWaqPVwskP7jwIz3sQh"
+        }
+      ],
+      "duration_ms": 202236,
+      "name": "Haerenga - Radio edit",
+      "url": "https://open.spotify.com/track/2XZBEvDTLrHlVJmpinhxXO"
+    },
+    {
+      "added_at": "2025-09-26 19:26:53",
+      "album": {
+        "name": "Lust",
+        "url": "https://open.spotify.com/album/2QVgrnX3EZyutqXDAOgwEp"
+      },
+      "artists": [
+        {
+          "name": "Club Hell",
+          "url": "https://open.spotify.com/artist/31ORLPofmvQIS0bDWBcoQF"
+        }
+      ],
+      "duration_ms": 333039,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/1JoUEnIXeVTPuwi8KMBFvA"
+    },
+    {
+      "added_at": "2025-09-26 19:26:52",
+      "album": {
+        "name": "Pixelated Heart",
+        "url": "https://open.spotify.com/album/5pdaddrPUJy4oCM9TPPec2"
+      },
+      "artists": [
+        {
+          "name": "Kris James",
+          "url": "https://open.spotify.com/artist/2CV7lJG6UyNRDuVM8SzNv8"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Smashed My Own Record",
+      "url": "https://open.spotify.com/track/5RrAtjA86a3qQ48m6KzXaX"
     },
     {
       "added_at": "2025-09-19 12:08:15",

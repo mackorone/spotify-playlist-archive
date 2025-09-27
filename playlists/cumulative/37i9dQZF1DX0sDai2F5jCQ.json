@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Cardi B",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Young Thug",
   "name": "A1",
   "tracks": [
     {
@@ -1218,6 +1218,24 @@
       "duration_ms": 210803,
       "name": "BAD TIME",
       "url": "https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx"
+    },
+    {
+      "album": {
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh"
     },
     {
       "album": {
@@ -11015,6 +11033,32 @@
     },
     {
       "album": {
+        "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
+        "url": "https://open.spotify.com/album/7DoSh8nSOZTQGSQwNqSSRE"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281332,
+      "name": "SMILE BODY PRETTY FACE (feat. Kodak Black & YG)",
+      "url": "https://open.spotify.com/track/3kPefPjK6h9ZqcuihLDkvm"
+    },
+    {
+      "album": {
         "name": "Snack",
         "url": "https://open.spotify.com/album/4SWIlkB6B9Vh8en9NyVhcg"
       },
@@ -12066,7 +12110,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 122876,
       "name": "The Truth (feat. LeoStayTrill)",
       "url": "https://open.spotify.com/track/3aTkg0FaR16WNcysPD02Ft"
@@ -13192,6 +13236,28 @@
       "duration_ms": 195886,
       "name": "Walk & Drive (feat. Nerve)",
       "url": "https://open.spotify.com/track/7GikH70R9Br2AT3F20uoSk"
+    },
+    {
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "Walk Down (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/7uivYk4Bf2j1wtHHLtB0Qr"
     },
     {
       "album": {

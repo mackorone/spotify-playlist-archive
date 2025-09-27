@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Sonny Gullage
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,594 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,587 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Everything](https://open.spotify.com/track/7mhgdTcT5Zont0DXYKIjyU) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [](https://open.spotify.com/album/null) | 3:49 |
+| 1 | [My Everything](https://open.spotify.com/track/7mhgdTcT5Zont0DXYKIjyU) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Prayer and Pleasure](https://open.spotify.com/album/32mxNFVLvz1w7iTaAh1J5t) | 3:49 |
 | 2 | [Fantasy Game](https://open.spotify.com/track/5okrc6yGuuMcvRkDsjdFh4) | [K' Jae](https://open.spotify.com/artist/2UAUBfs6Hj0DJpxY1K6gPL) | [Fantasy Game](https://open.spotify.com/album/5gChYVDqTOIQKejh2TMUtR) | 4:39 |
 | 3 | [ATM](https://open.spotify.com/track/1VjLo8p2kIz3gsdgdIrsit) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [ATM](https://open.spotify.com/album/4I65kECMNWuvQPbzm1N3Hi) | 2:26 |
 | 4 | [Weekends Are for Making Love](https://open.spotify.com/track/4nYT2NwUlPZUFeuKo2iIGl) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [R.L\. Boyce](https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Weekends Are for Making Love](https://open.spotify.com/album/6BKuIPk8YC7PHsLCmRysdc) | 2:49 |

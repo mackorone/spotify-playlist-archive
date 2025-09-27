@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Jacko Brango
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,958 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,977 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [INACZEJ NIE UMIEM](https://open.spotify.com/track/2PGGtbP70Zh7itVUkJNWHp) | [Jacko Brango](https://open.spotify.com/artist/4cbzjCAZp1uf5Ctc7hqToV) | [ZA DUŻO GITAR](https://open.spotify.com/album/4pKTXtAB7zgaGs6HaGiZy5) | 3:31 |
 | 2 | [Śmierć w bikini](https://open.spotify.com/track/05hBKTXwQRCsvK32gXHL69) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Śmierć w bikini](https://open.spotify.com/album/5urthee1FkaLqlhRO9NI4P) | 3:31 |
-| 3 | [Wszystko](https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [](https://open.spotify.com/album/null) | 3:33 |
+| 3 | [Wszystko](https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 3:33 |
 | 4 | [GDZIE TRAFIA MIŁOŚĆ, GDY UMIERA](https://open.spotify.com/track/3WH7Cwb58Emk21C75nBTAU) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [GDZIE TRAFIA MIŁOŚĆ, GDY UMIERA](https://open.spotify.com/album/75mmJhjfvKWo4vGxCQK7Dt) | 2:47 |
 | 5 | [Wyjmij mnie](https://open.spotify.com/track/0FUOOxJ6kydMmzJeoqfUqc) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Wyjmij mnie](https://open.spotify.com/album/5jm4PXSEak02Eknn9Iimfj) | 3:18 |
 | 6 | [Nothing That I Know](https://open.spotify.com/track/5GrAgdFq5IJmOeChSLQTDS) | [Cinnamon Gum](https://open.spotify.com/artist/7IHYKEfIucsNRkp6ge657X), [Max Shrager](https://open.spotify.com/artist/5DbrQHRmMsVz8YtsDqmOrq) | [Nothing That I Know](https://open.spotify.com/album/1LwYe2M6Sux429Ds119pqL) | 2:22 |
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 26 | [Charms in bracelet](https://open.spotify.com/track/7sbA6c0JF409RF9EC7W1ww) | [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt), [Pola](https://open.spotify.com/artist/35TNTrLhxCXmfO4wL4IWUa) | [5 minutes](https://open.spotify.com/album/67Smw9hSPpRvQwApRA0g20) | 3:40 |
 | 27 | [MAMY CZAS](https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh) | [NEWSKIN](https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [MAMY CZAS](https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH) | 3:45 |
 | 28 | [w kilometrach](https://open.spotify.com/track/7G4wYMAA1C4sgjfUqDiPLf) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [tylko haj.](https://open.spotify.com/album/0CJLjWszByYZc9UczenSCA) | 3:35 |
-| 29 | [Stały ląd](https://open.spotify.com/track/4u3HZaqbIzWxmDXOsiF3rC) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Jarecki](https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh) | [](https://open.spotify.com/album/null) | 3:17 |
+| 29 | [Stały ląd](https://open.spotify.com/track/4u3HZaqbIzWxmDXOsiF3rC) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Jarecki](https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh) | [Altius](https://open.spotify.com/album/1DwW7LSvNmHfU1BoIMrqov) | 3:17 |
 | 30 | [Chcę się z Tobą bawić](https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Maria Sadowska](https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC) | [Chcę się z Tobą bawić](https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA) | 3:26 |
 | 31 | [Ładniej błyszczy dzień](https://open.spotify.com/track/4jz2aY9gZ2L6UPzAKocsKO) | [Karolina Błońska](https://open.spotify.com/artist/4GgX4COV1BbwlWIE8kdtlW) | [LEK](https://open.spotify.com/album/71EKyWsizUDQaeNZCtl7dn) | 3:14 |
 | 32 | [Szary Sen](https://open.spotify.com/track/6nq1o2a8DfhslrkrZrR3GY) | [Klaudia Sobotka](https://open.spotify.com/artist/4izxlflj4RQhhmWAGhyGFJ) | [Szary Sen](https://open.spotify.com/album/2yIwpJkO3W4D3BvntFo9rl) | 2:45 |
-| 33 | [Track 5](https://open.spotify.com/track/4YaKZXuz3AnrCv0KmquAtl) | [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [](https://open.spotify.com/album/null) | 0:00 |
+| 33 | [Świat bez kobiet](https://open.spotify.com/track/4YaKZXuz3AnrCv0KmquAtl) | [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Bardzo wszystko](https://open.spotify.com/album/5in3Ug90N3Tjd5bRRyjlPU) | 2:46 |
 | 34 | [Mój Dom](https://open.spotify.com/track/5hEig8j2Cx4tLnBMcglMzR) | [Stach Bukowski](https://open.spotify.com/artist/5w95yjTVzXm9Z630AT2QX3) | [Mój Dom](https://open.spotify.com/album/4piJuNHzWdFy886hsNKe7U) | 3:21 |
 | 35 | [Kochany pamiętniku](https://open.spotify.com/track/0GQkW5gGaROjNDtnH0T6jj) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Kochany pamiętniku](https://open.spotify.com/album/6XPu2NgsidR1zDdhi3VHOL) | 3:09 |
 | 36 | [Na dno](https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Na dno](https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs) | 3:40 |

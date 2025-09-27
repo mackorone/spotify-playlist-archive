@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,811 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,839 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [T'aimes ça](https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 2:58 |
 | 2 | [Tout pour moi](https://open.spotify.com/track/3zyaLUK2HeTIxNC94sZT18) | [LYNN](https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX) | [Tout pour moi](https://open.spotify.com/album/62kvXkB9AAw3FAiR1ieY1D) | 2:17 |
 | 3 | [F\*\*\* Cupidon](https://open.spotify.com/track/0smsfu9wCqY5LO9NQEZPwO) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Aura](https://open.spotify.com/album/2nXBEQRSzoVOqXtP5cdlJY) | 3:34 |
 | 4 | [Drapeau Rouge](https://open.spotify.com/track/4Cc526dUXKV7pMyjh8FuAb) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [RE](https://open.spotify.com/album/7wN5TT9CkoCf3fo7ljbAS1) | 3:50 |
 | 5 | [CORPS A CORPS PIANO \- Acoustique](https://open.spotify.com/track/0ZmW26H9HdfEx16iMDMIB6) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6), [Toulou](https://open.spotify.com/artist/0X7QlcVMGgyXyNJ6IGaZWG) | [PIANO AT HOME \(ACOUSTIQUE\)](https://open.spotify.com/album/6Qqa4iQJdR7MlrdJxcGTr9) | 4:36 |
 | 6 | [Là où j’aimerais être \(Where I Wanna Be\) \- Acoustic](https://open.spotify.com/track/6BwNGgqtEnuVnn4H6WCoRN) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Là où j’aimerais être \(Where I Wanna Be\) \[Acoustic\]](https://open.spotify.com/album/28mqWwNSSEhKQ86r2RDF1L) | 2:54 |
-| 7 | [Yourtes](https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [](https://open.spotify.com/album/null) | 3:52 |
+| 7 | [Yourtes](https://open.spotify.com/track/4M6qaq0xcenXOCBcTGYS76) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Je ne parlerai plus d'amour](https://open.spotify.com/album/1wz9KckimITRnA6lyRi3sP) | 3:52 |
 | 8 | [mal & bien](https://open.spotify.com/track/3U9JbCvK11uXZwL1l8iXks) | [Cikey](https://open.spotify.com/artist/0N97AyCm8eLH5cE59BvSUm) | [mal & bien](https://open.spotify.com/album/29fE0rVqdoUmkQSL6SWIzk) | 2:38 |
 | 9 | [Bora Bora](https://open.spotify.com/track/1UoAVUm5PahShviEuM8tlP) | [Haïlé Dästa](https://open.spotify.com/artist/38WuES2LwGfbLssRdC8TPG) | [Médecine](https://open.spotify.com/album/2Pqy1T1VeYIfW4dbegcu0P) | 3:44 |
 | 10 | [EX](https://open.spotify.com/track/30tXoMCoV6lC01qsdwH7Ei) | [Iris Aeria](https://open.spotify.com/artist/6oe0xpg0qCeA7ZuPHr4Arp) | [EX](https://open.spotify.com/album/7Bk2JwBLHZWcctecLKiTJP) | 2:49 |
 | 11 | [Godzilla](https://open.spotify.com/track/4nzbjhXRalSG0ZJwLoyujo) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:59 |
 | 12 | [Teach me](https://open.spotify.com/track/25bRKPXdFrDqL1c47cDQel) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [HÉRITAGE : DERNIÈRE EMPREINTE](https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs) | 3:10 |
 | 13 | [COMMENT AI\-JE PU TE DECEVOIR ?](https://open.spotify.com/track/2KFV8yZwJslGCIqexHSxgn) | [Sonny Rave](https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy) | [SILK & SHADOWS](https://open.spotify.com/album/6Qn17KJsbYgo1DYJLvo5Kx) | 2:43 |
-| 14 | [Track 5](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [](https://open.spotify.com/album/null) | 0:00 |
+| 14 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 |
 | 15 | [Comme des garçons](https://open.spotify.com/track/6MaP7l9giORNdeLaWyH3wH) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Comme des garçons](https://open.spotify.com/album/1zvuJMEZBD8uJPBQTdglJx) | 2:35 |
 | 16 | [ENCORE](https://open.spotify.com/track/4da473DORqqfLBm8Vff4pD) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [ENCORE](https://open.spotify.com/album/3WZ2Fq5OE9RUW1WAwk6gey) | 2:50 |
 | 17 | [Faire Mieux](https://open.spotify.com/track/59fnX2XFGGKC8xhSrZcRt6) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Faire Mieux](https://open.spotify.com/album/06zpOo8JdyED6lebE1GFR2) | 3:22 |

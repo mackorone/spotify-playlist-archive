@@ -2,9 +2,9 @@
 
 ### [Country Sin Fronteras](https://open.spotify.com/playlist/37i9dQZF1DWXSO2P02emku)
 
-> Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Carin León & Kacey Musgraves en portada 📸
+> Tomamos ruta desde el Noreste hasta el Viejo Oeste 🌵🤠\. Wuicho Kun & Macario Martínez en portada 📸
 
-287 songs - 15 hr 17 min
+290 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,8 @@
 | [Old Fashioned Feeling](https://open.spotify.com/track/0zEOXwI7DFiWdiUmAfa5Ku) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Barely Blue \(Deluxe\)](https://open.spotify.com/album/0qe866n70wFcy6dlWLzmgI) | 3:22 | 2025-08-31 |  |
 | [Old Money](https://open.spotify.com/track/0qdtB6uRpQHCdrSrpbrId5) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Géminis](https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T) | 2:56 | 2025-06-20 | 2025-09-01 |
 | [One Number Away](https://open.spotify.com/track/4gB7HrYHbJVJ5RFOjxmoq4) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:41 | 2025-08-31 |  |
+| [Otra salida](https://open.spotify.com/track/5idCAuhxhDWldAm93frr0u) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Otra salida](https://open.spotify.com/album/7uNknMu8j1uaoN0fuiiWVS) | 4:26 | 2025-09-26 |  |
+| [Oye ser](https://open.spotify.com/track/0iTyn1JGXMElvitIjfAUD7) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup) | [Folkpirana](https://open.spotify.com/album/0ZHp60suuyyjM5V3VmaNHj) | 3:23 | 2025-09-26 |  |
 | [Partido En Dos](https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Partido En Dos](https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw) | 3:46 | 2022-11-30 | 2023-11-30 |
 | [PERLA](https://open.spotify.com/track/7c8vIRSiWSCvYcQFSUotFD) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE) | [PERLA](https://open.spotify.com/album/4wGQO8krYTucDmi9ilIC8O) | 2:22 | 2025-08-31 |  |
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-11-29 | 2024-12-05 |
@@ -269,6 +271,7 @@
 | [TÚ NAME](https://open.spotify.com/track/3FqUPvubYeRCMsdJ02QyZR) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:32 | 2024-12-04 | 2025-06-20 |
 | [un x100to](https://open.spotify.com/track/2yzshFeBIwH8tWIqHEFLeD) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:14 | 2023-11-29 | 2024-12-05 |
 | [UNA CERVEZA](https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 4:39 | 2024-12-04 | 2025-06-20 |
+| [Vale La Pena el Placer](https://open.spotify.com/track/77Sl92BrLLUHjfMscFyomB) | [Alfonzin García "Dj Alfonzin"](https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf), [La Inspiración Norteña](https://open.spotify.com/artist/2bDa5OoR8RxoP9sVhkNYon) | [Vale La Pena El Placer](https://open.spotify.com/album/1ZK8BfGxGa9cq5IjbG5b3p) | 3:52 | 2025-09-26 |  |
 | [Vamos Aclarando Muchas Cosas \- En Vivo](https://open.spotify.com/track/2LYeGSaYKRYwgz4lvnG6mL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Vamos Aclarando Muchas Cosas \(En Vivo\)](https://open.spotify.com/album/1QNDerf7aumb5oLkEbvqVJ) | 3:10 | 2023-11-29 | 2024-12-05 |
 | [Ven Porque Te Necesito](https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Internacionales Y Románticos](https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3) | 2:55 | 2025-06-20 | 2025-09-01 |
 | [Vete de Una Vez](https://open.spotify.com/track/16bfA9balGcxcqKaPgnyjL) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Vete de Una Vez](https://open.spotify.com/album/2DjS0IvBE7rXCjGzVL1dvO) | 3:08 | 2025-08-31 |  |

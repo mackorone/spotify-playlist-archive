@@ -11465,6 +11465,32 @@
     },
     {
       "album": {
+        "name": "Super 8 (Deluxe)",
+        "url": "https://open.spotify.com/album/1MlKfBPI1cB5V0cqankcy9"
+      },
+      "artists": [
+        {
+          "name": "Romero",
+          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
+        },
+        {
+          "name": "IIVEN",
+          "url": "https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq"
+        },
+        {
+          "name": "LEZA",
+          "url": "https://open.spotify.com/artist/63kYBRsSCUPGp8eB1zK9e3"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Bonni im Kleid (feat. IIVEN & LEZA)",
+      "url": "https://open.spotify.com/track/1Y4zSZx6nxV9thYbJX6sEB"
+    },
+    {
+      "album": {
         "name": "Bonnie and Clyde",
         "url": "https://open.spotify.com/album/4XLVa72eUjyXBVB066irOv"
       },
@@ -93252,32 +93278,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Romero",
-          "url": "https://open.spotify.com/artist/2Lg7y5DHmBMrxRI6Y4ThfU"
-        },
-        {
-          "name": "IIVEN",
-          "url": "https://open.spotify.com/artist/0ydBtmgupeHnGowYxRo6tq"
-        },
-        {
-          "name": "LEZA",
-          "url": "https://open.spotify.com/artist/63kYBRsSCUPGp8eB1zK9e3"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 23",
-      "url": "https://open.spotify.com/track/1Y4zSZx6nxV9thYbJX6sEB"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Reggaeton pero al sabor de Cristo! Foto: Madiel Lara",
+  "description": "Reggaeton pero al sabor de Cristo! Foto: Alex Zurdo",
   "name": "Reggaeton Cristiano",
   "tracks": [
     {
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 160169,
       "name": "Cristo Cambia",
       "url": "https://open.spotify.com/track/1X5mhTZfp5rWMmkMG35TQe"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 159130,
       "name": "Cuando Me Ves",
       "url": "https://open.spotify.com/track/0jRyIKI1afOiFsaOxwx63E"
@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Fervor",
+        "url": "https://open.spotify.com/album/27UaHHgD8N7eqJrxyOKcIC"
+      },
+      "artists": [
+        {
+          "name": "Kelmitt",
+          "url": "https://open.spotify.com/artist/6tOv5UYDorjmsernjtaHO1"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Fervor",
+      "url": "https://open.spotify.com/track/2HAnd41daM8xrxxtssR68H"
+    },
+    {
+      "album": {
         "name": "FLORECE",
         "url": "https://open.spotify.com/album/6WbpLFwl7XxAjAKqjwovSj"
       },
@@ -1656,7 +1674,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 166363,
       "name": "FLORECE",
       "url": "https://open.spotify.com/track/39W0fv0owPtFCkq0GBAdYm"
@@ -2099,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/1tQsXceZU6edJtIpu2pBZI"
+      },
+      "artists": [
+        {
+          "name": "Micky Medina",
+          "url": "https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Inquebrantable",
+      "url": "https://open.spotify.com/track/7grc8vP3otkMhGZ0W3s4qh"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas (Remix)",
         "url": "https://open.spotify.com/album/14rFBqiAzDlBiyhYyGD89U"
       },
@@ -2470,6 +2506,24 @@
       "duration_ms": 191760,
       "name": "Mate",
       "url": "https://open.spotify.com/track/1uS5OSVYqTpZNTpDdJiCOk"
+    },
+    {
+      "album": {
+        "name": "MAYDAY",
+        "url": "https://open.spotify.com/album/1NYLzgG5TAzocQzKrCnBok"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208753,
+      "name": "MAYDAY",
+      "url": "https://open.spotify.com/track/57AwE581J4ApUf78P7IUCl"
     },
     {
       "album": {

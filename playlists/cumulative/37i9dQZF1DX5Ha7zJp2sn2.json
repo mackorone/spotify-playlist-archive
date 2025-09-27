@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "Oveja Negra",
+        "url": "https://open.spotify.com/album/6dIc4l4A7QNGISb3oKhiEp"
+      },
+      "artists": [
+        {
+          "name": "Carlos Neda",
+          "url": "https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9"
+        },
+        {
+          "name": "Carlitosss",
+          "url": "https://open.spotify.com/artist/4BnbhKXjvpJBRkC9mmgjxo"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175888,
+      "name": "Oveja Negra",
+      "url": "https://open.spotify.com/track/5lVHU9YGgzhrzUQzmv71XC"
+    },
+    {
+      "album": {
         "name": "Oye India",
         "url": "https://open.spotify.com/album/3dX53QZySOo10EhUJh7a0Q"
       },
@@ -1856,7 +1878,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 224247,
       "name": "Todo el Mundo",
       "url": "https://open.spotify.com/track/5b7y0RRMjV29LjGwlmSa5F"

@@ -2,9 +2,9 @@
 
 ### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
 
-> The best of today's funk\. Cover: TWRP
+> The best of today's funk\. Cover: MonoNeon
 
-488 songs - 1 day 4 hr 30 min
+489 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Lost Without You](https://open.spotify.com/track/1gLlfABq3yvwEq0WoNery0) | [KULI](https://open.spotify.com/artist/4yeXWtnhoSgWwRbJaTZhmj) | [Lost Without You](https://open.spotify.com/album/3m5pYFGe7wrujfqMJMeyHF) | 3:11 | 2022-07-01 | 2022-12-17 |
 | [LOVE IN A GROOVE](https://open.spotify.com/track/2wW5pigh4aidiTuNiPm4wM) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [Love In A Groove](https://open.spotify.com/album/5J8ESoxLs6cpfd57TLJjWe) | 3:30 | 2022-11-04 | 2024-05-04 |
 | [LOVE IN A GROOVE](https://open.spotify.com/track/46mbePiv2oTh4VfNcQpjjd) | [Raja\-Nee'](https://open.spotify.com/artist/54PaiUS5TKfziRi31Lciud) | [The Sovereign of 14742](https://open.spotify.com/album/61ofiuSmZuRkvPc2KWNVtf) | 3:30 | 2022-11-04 | 2024-04-19 |
+| [Love Me Wrong](https://open.spotify.com/track/0cKfcQ3ovHdK4hKMsPx7Yk) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Love Me Wrong](https://open.spotify.com/album/5MMQpizyx9ClTsKTvtNZ8o) | 2:51 | 2025-09-26 |  |
 | [Love Myself](https://open.spotify.com/track/14OQ9qHCNEOGiy9UryGImS) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Love Myself](https://open.spotify.com/album/2OtqYv9drYUxpKV1gpX67l) | 3:44 | 2024-06-14 |  |
 | [Love The Mystery \- Jafunk Remix](https://open.spotify.com/track/2knau46bv1OWCitS1KOE3c) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Love The Mystery \(Jafunk Remix\)](https://open.spotify.com/album/7zmRzYOl1IrWZtJg3s5gyX) | 2:57 | 2024-05-10 | 2024-08-10 |
 | [Lover](https://open.spotify.com/track/6VhGMAc8VeYrfeOzGWAZxm) | [Genevra Munoa](https://open.spotify.com/artist/7aQAQoR394wpKiTO88ECew) | [Lover](https://open.spotify.com/album/3TVcPyz5kdeQEsdMiLkE9W) | 2:54 | 2022-03-11 | 2024-05-04 |
@@ -390,7 +391,7 @@
 | [Solid Ground](https://open.spotify.com/track/6nidjaDjgfQSN42dWkAYOM) | [MorningMaxwell](https://open.spotify.com/artist/0kvwtYUiypCDaaKKhTD2Pp), [Velvet Bloom](https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55), [r.em.edy](https://open.spotify.com/artist/2zimfjugiCq53nziN8cenP), [Max Glyde](https://open.spotify.com/artist/2q65DwOHtCQo4eX3MMomCb) | [Swim](https://open.spotify.com/album/6RizlEIgHyV4wlr4JatNcb) | 3:03 | 2023-04-14 | 2025-09-21 |
 | [Somebody's Gotta Do It](https://open.spotify.com/track/2SpnoBkhmh14DHwDqv4wii) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [Somebody's Gotta Do It](https://open.spotify.com/album/2WFzXFDjr6IVRaUTC8jgrH) | 4:17 | 2022-10-21 | 2023-04-15 |
 | [Somebody's Watching You \- XL Middleton Remix](https://open.spotify.com/track/0JC1eqLPqwpTxTVURfBI1R) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [Somebody's Watching You \(XL Middleton Remix\)](https://open.spotify.com/album/0ewP62EoyU6j6uAZANB9DZ) | 3:35 | 2024-03-01 |  |
-| [Something](https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Something](https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p) | 3:16 | 2024-08-30 |  |
+| [Something](https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Something](https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p) | 3:16 | 2024-08-30 | 2025-09-27 |
 | [Space Cowgirl](https://open.spotify.com/track/2S9vlLu8yA1zsfexGaDeAe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [ENGELDULL EP](https://open.spotify.com/album/6maWuiHoaPS5o67GbFCK9K) | 3:11 | 2024-04-12 |  |
 | [Speechless](https://open.spotify.com/track/02E9V5uxxsRT0uVtHY9SPA) | [1Farshad](https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0) | [Speechless](https://open.spotify.com/album/2QWhgvAIJJwt6HJCO5lwSh) | 4:26 | 2021-05-28 | 2022-01-29 |
 | [Squeeze](https://open.spotify.com/track/31I691UrDuyt54hM6MFMoA) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Squeeze](https://open.spotify.com/album/705LfArn43DdhivgfDYX8q) | 3:54 | 2025-01-31 |  |

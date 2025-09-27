@@ -1,28 +1,48 @@
 {
-  "description": "New music from your favorite women.  Cover: Bellah",
-  "num_followers": 225954,
+  "description": "New music from your favorite women.  Cover: Tiara Thomas",
+  "num_followers": 226003,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADBJJ7XpNrP0xQqJTW2hCLwGEtUK",
+  "snapshot_id": "AAAAAFud9nILcyBVDQFuYoTTAbaUPQ+A",
   "tracks": [
     {
-      "added_at": "2025-09-19 16:39:00",
+      "added_at": "2025-09-26 04:27:04",
       "album": {
-        "name": "Boo Thang Bootcamp",
-        "url": "https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o"
+        "name": "Move feat. H.E.R.",
+        "url": "https://open.spotify.com/album/7lgytNepplkbVKRQoaE2Dg"
       },
       "artists": [
         {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "Tiara Thomas",
+          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 175953,
-      "name": "Boo Thang Bootcamp",
-      "url": "https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H"
+      "duration_ms": 207058,
+      "name": "Move feat. H.E.R.",
+      "url": "https://open.spotify.com/track/1cGkWVL1FvmMgV4zqJsQfS"
+    },
+    {
+      "added_at": "2025-09-19 16:39:00",
+      "album": {
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 212941,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -75,22 +95,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "HEARTS SOLD SEPARATELY",
-        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 212941,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "rain...",
         "url": "https://open.spotify.com/album/0sONAhcuKfkTNrO725PJG3"
       },
@@ -119,6 +123,26 @@
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "added_at": "2025-09-26 04:27:04",
+      "album": {
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -219,6 +243,38 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
+        "name": "Boo Thang Bootcamp",
+        "url": "https://open.spotify.com/album/1bmRCIIeSUxMzbmJsArs2o"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 175953,
+      "name": "Boo Thang Bootcamp",
+      "url": "https://open.spotify.com/track/0ForNGLm6YvbidK5EPLy1H"
+    },
+    {
+      "added_at": "2025-09-26 04:27:04",
+      "album": {
+        "name": "GMFU",
+        "url": "https://open.spotify.com/album/5Eb75KVSoTmkow2KZPxADd"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 115207,
+      "name": "GMFU",
+      "url": "https://open.spotify.com/track/20mEy3uJz5iXawPy8RncV0"
+    },
+    {
+      "added_at": "2025-09-19 16:39:00",
+      "album": {
         "name": "WE NEED TO TALK : DRAMA",
         "url": "https://open.spotify.com/album/4I4je4xJo10gcEK7LlIXG6"
       },
@@ -231,22 +287,6 @@
       "duration_ms": 224486,
       "name": "Again",
       "url": "https://open.spotify.com/track/1kXkSTv8sCwI4vLbLLBstW"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -319,6 +359,22 @@
       "duration_ms": 158446,
       "name": "Pum Pum Jump (feat. Jill Scott & Tyla)",
       "url": "https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p"
+    },
+    {
+      "added_at": "2025-09-26 04:27:04",
+      "album": {
+        "name": "Toot Toot",
+        "url": "https://open.spotify.com/album/6xnkILTaILSmlkZPW7gVtu"
+      },
+      "artists": [
+        {
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Toot Toot",
+      "url": "https://open.spotify.com/track/4nd047fTPL3XfSpD8Y0b2o"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -493,26 +549,10 @@
       "url": "https://open.spotify.com/track/6mo4tHSZ4cI0TpAy7Pum7Y"
     },
     {
-      "added_at": "2025-09-19 16:39:00",
+      "added_at": "2025-09-26 04:27:04",
       "album": {
-        "name": "Back Outside",
-        "url": "https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Back Outside",
-      "url": "https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "hold you down (feat. Strandz)",
-        "url": "https://open.spotify.com/album/3c01bFlXdhi09XzfScxXMx"
+        "name": "COMPLICATED.",
+        "url": "https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5"
       },
       "artists": [
         {
@@ -520,13 +560,13 @@
           "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
         },
         {
-          "name": "Strandz",
-          "url": "https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 180796,
-      "name": "hold you down (feat. Strandz)",
-      "url": "https://open.spotify.com/track/3jMy1VarebpNysMa9dN6pr"
+      "duration_ms": 212812,
+      "name": "burn (feat. Tone Stith)",
+      "url": "https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -595,6 +635,22 @@
       "duration_ms": 179539,
       "name": "Wallpaper",
       "url": "https://open.spotify.com/track/6LdIS1qUJYXBms7rAcKQ3z"
+    },
+    {
+      "added_at": "2025-09-26 04:27:04",
+      "album": {
+        "name": "Cover Girl",
+        "url": "https://open.spotify.com/album/4SvP99rd8lr8wpDW8p55uq"
+      },
+      "artists": [
+        {
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+        }
+      ],
+      "duration_ms": 180856,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/13BoUgeUpseJ35EuwuaGwL"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -741,6 +797,26 @@
       "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
     },
     {
+      "added_at": "2025-09-26 04:27:04",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/775f99vvSk9KnPqFmyxhuB"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 147326,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
+    },
+    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "All That and More (with Maverick Sabre)",
@@ -779,26 +855,18 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
-        "url": "https://open.spotify.com/album/72t7JqM9EqzjNuyx5QffY0"
+        "name": "Back Outside",
+        "url": "https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
         }
       ],
-      "duration_ms": 219968,
-      "name": "Sugar Sweet (feat. Shenseea & Kehlani)",
-      "url": "https://open.spotify.com/track/1zt37kKFum6wDVFrtOF4vx"
+      "duration_ms": 186826,
+      "name": "Back Outside",
+      "url": "https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -915,22 +983,6 @@
       "duration_ms": 182615,
       "name": "24HRS",
       "url": "https://open.spotify.com/track/6jaf7H6QHQbslP9uZJesXX"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/632m6dG4ro7ZCtSWklXV8X"
-      },
-      "artists": [
-        {
-          "name": "Tiara Thomas",
-          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
-        }
-      ],
-      "duration_ms": 132795,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/4B3CzvwIJUqYREsIkRFM0z"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1083,22 +1135,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Instructions",
-        "url": "https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 136159,
-      "name": "Instructions",
-      "url": "https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "The Mood",
         "url": "https://open.spotify.com/album/6IvB1z8H8pwGCWzDCoyvBs"
       },
@@ -1171,22 +1207,6 @@
     {
       "added_at": "2025-09-19 16:39:00",
       "album": {
-        "name": "Teal Dreams",
-        "url": "https://open.spotify.com/album/2l6CZ13JhTOOljZEPBUdY2"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 194702,
-      "name": "Teal Dreams",
-      "url": "https://open.spotify.com/track/6mMXWQDmEvFDUhaXXvMfCC"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
         "name": "Girls Will Be Girls",
         "url": "https://open.spotify.com/album/2nRE2Og5r2IdPVADDPExKF"
       },
@@ -1215,26 +1235,6 @@
       "duration_ms": 128399,
       "name": "Crossfaded",
       "url": "https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/3w2VgrN4DUnNijMa24X06D"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 245951,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/12wvLk3fOmOonVmH0TtQ8L"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1283,22 +1283,6 @@
       "duration_ms": 138208,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/0jr7FK6kP2W9JFGsG4bYF4"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "All I'd Ever Know",
-        "url": "https://open.spotify.com/album/7DXzjhLGPLiNYqM3YhUgpt"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "All I'd Ever Know",
-      "url": "https://open.spotify.com/track/37M940BzP44UP3kbGeZCP5"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -1419,22 +1403,6 @@
       "duration_ms": 167753,
       "name": "SMH",
       "url": "https://open.spotify.com/track/0r4mIUyLLb3LmBfoyQfgYJ"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "New Girl",
-        "url": "https://open.spotify.com/album/7cOfe7aXFYyZ6rrhrlcp2i"
-      },
-      "artists": [
-        {
-          "name": "Jai'Len Josey",
-          "url": "https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr"
-        }
-      ],
-      "duration_ms": 128233,
-      "name": "New Girl",
-      "url": "https://open.spotify.com/track/5Ha86zPip9CSUj8hB61yUi"
     },
     {
       "added_at": "2025-09-19 16:39:00",

@@ -1,6 +1,6 @@
 {
   "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Yung Beef, Xiyo, Fernandezz, Quevedo",
-  "num_followers": 1504912,
+  "num_followers": 1504972,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
@@ -9,7 +9,35 @@
   "snapshot_id": "AAAAAFPtpb8/GN0cfK3CR0nxTN9M0d+f",
   "tracks": [
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Ruina",
+        "url": "https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W"
+      },
+      "artists": [
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 234947,
+      "name": "Ruina",
+      "url": "https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "PRE\u00d1\u00c1",
         "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
@@ -29,7 +57,23 @@
       "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
         "url": "https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9"
@@ -65,7 +109,7 @@
       "url": "https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "I'M PART",
         "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
@@ -85,7 +129,67 @@
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Talento",
+        "url": "https://open.spotify.com/album/0OPj1ePYra9uwgebE6HHpU"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Talento",
+      "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "DONDE TE ESCONDES? 2.0",
+        "url": "https://open.spotify.com/album/1obdhRgr52J2lFgbPlxb40"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "DONDE TE ESCONDES? 2.0",
+      "url": "https://open.spotify.com/track/4l6Mq0db5Qoi97nhNlEey4"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "BB (with Blessd)",
+        "url": "https://open.spotify.com/album/4CwwVRZH1TR0PEWmzO3tqR"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "BB (with Blessd)",
+      "url": "https://open.spotify.com/track/5CknOkUWXmRUhFOe75X1wY"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "FAYA",
         "url": "https://open.spotify.com/album/7iZyITUW27dx2NUzOzU4j4"
@@ -109,43 +213,7 @@
       "url": "https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "DONDE TE ESCONDES? 2.0",
-        "url": "https://open.spotify.com/album/1obdhRgr52J2lFgbPlxb40"
-      },
-      "artists": [
-        {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 169263,
-      "name": "DONDE TE ESCONDES? 2.0",
-      "url": "https://open.spotify.com/track/4l6Mq0db5Qoi97nhNlEey4"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "El Del Flavor",
-        "url": "https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "El Del Flavor",
-      "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "Revol\u00fa",
         "url": "https://open.spotify.com/album/5fO2I7hEgGQVV17Sky863O"
@@ -161,67 +229,7 @@
       "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "Duro Ma",
-        "url": "https://open.spotify.com/album/6LUX9sGKsuewSe7ErFFEbJ"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 254941,
-      "name": "Duro Ma",
-      "url": "https://open.spotify.com/track/5NTdorni110puBoPgWhK58"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "GANGTEL",
-        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 176645,
-      "name": "GANGTEL",
-      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "Me Mareo",
-        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        }
-      ],
-      "duration_ms": 168209,
-      "name": "Me Mareo",
-      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "$F VERANO MIX VOL.2",
         "url": "https://open.spotify.com/album/6JJVx2agB7StZF3qF7s7gu"
@@ -245,7 +253,63 @@
       "url": "https://open.spotify.com/track/0ZvOVala8uRK6cVmp5p5qx"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Duro Ma",
+        "url": "https://open.spotify.com/album/6LUX9sGKsuewSe7ErFFEbJ"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 254941,
+      "name": "Duro Ma",
+      "url": "https://open.spotify.com/track/5NTdorni110puBoPgWhK58"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "FERXXO VOL X: Sagrado",
+        "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "RU MOR",
+      "url": "https://open.spotify.com/track/3LToltMjcoYi665BhuLEAN"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "El Del Flavor",
+        "url": "https://open.spotify.com/album/3tbtaGhqHJkKS54dAgbm9Q"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "El Del Flavor",
+      "url": "https://open.spotify.com/track/164obCYBsKXiaJq19MZWd8"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "Scat Pack",
         "url": "https://open.spotify.com/album/2GokHfG7eRuwqTCsptZNRx"
@@ -265,27 +329,119 @@
       "url": "https://open.spotify.com/track/43cjtebODc9uKZbhAhD2J2"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
-        "name": "Talento",
-        "url": "https://open.spotify.com/album/0OPj1ePYra9uwgebE6HHpU"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/5P4DCyni0LPILG9miv4ets"
+      },
+      "artists": [
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/00YJIj59W08LVdfTDZpHrg"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Me Mareo",
+        "url": "https://open.spotify.com/album/4aS33VYowVrUJTMd8c5OXc"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/0F1svfSx95E3qDBySn719G"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "SETEADORA",
+        "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        }
+      ],
+      "duration_ms": 137012,
+      "name": "SETEADORA",
+      "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "5'3",
+        "url": "https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll"
       },
       "artists": [
         {
           "name": "Yan Block",
           "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Panda Black",
-          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Talento",
-      "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
+      "duration_ms": 180919,
+      "name": "5'3",
+      "url": "https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Prettygyal",
+        "url": "https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG"
+      },
+      "artists": [
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        },
+        {
+          "name": "D.Valentino",
+          "url": "https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N"
+        }
+      ],
+      "duration_ms": 143030,
+      "name": "Prettygyal",
+      "url": "https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "LOKENECESITAS",
+        "url": "https://open.spotify.com/album/4m9XAqcQFEEmZM9F3ePRhM"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 200606,
+      "name": "LOKENECESITAS",
+      "url": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "Killa",
         "url": "https://open.spotify.com/album/40oMlBlaBhH4XbO6cgU90u"
@@ -305,39 +461,7 @@
       "url": "https://open.spotify.com/track/76GPCCO2Qy5d68vSpAcliC"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "SETEADORA",
-        "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
-      },
-      "artists": [
-        {
-          "name": "LAJA",
-          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
-        }
-      ],
-      "duration_ms": 137012,
-      "name": "SETEADORA",
-      "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "5'3",
-        "url": "https://open.spotify.com/album/62hruJh6bCyTuQBGPZPfll"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 180919,
-      "name": "5'3",
-      "url": "https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "SUERTE",
         "url": "https://open.spotify.com/album/7mCiwgVTJt0k8QeLp2Q5rz"
@@ -361,7 +485,7 @@
       "url": "https://open.spotify.com/track/6pJj7JbS6TXCZW19BzXot6"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
         "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
@@ -381,7 +505,7 @@
       "url": "https://open.spotify.com/track/0XJVGqlwUheL7ZIqlYRyKr"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
@@ -397,7 +521,23 @@
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "TUMBAO",
+        "url": "https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 166071,
+      "name": "TUMBAO",
+      "url": "https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "Primer Lugar",
         "url": "https://open.spotify.com/album/5Jk8q1BVRKEyjtruBCSQTe"
@@ -417,207 +557,23 @@
       "url": "https://open.spotify.com/track/5rBE7fZIOauzXUm1E9vPxM"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
-        "name": "Prettygyal",
-        "url": "https://open.spotify.com/album/4przS4l6ACDWIPCSsolWaG"
+        "name": "Novio No",
+        "url": "https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7"
       },
       "artists": [
         {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
-        },
-        {
-          "name": "D.Valentino",
-          "url": "https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 143030,
-      "name": "Prettygyal",
-      "url": "https://open.spotify.com/track/0nw0be0MBaUCvsIwkEddfB"
+      "duration_ms": 167142,
+      "name": "Novio No",
+      "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "LOKENECESITAS",
-        "url": "https://open.spotify.com/album/4m9XAqcQFEEmZM9F3ePRhM"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 200606,
-      "name": "LOKENECESITAS",
-      "url": "https://open.spotify.com/track/58DGexVv1NdVbkiudUNi1Z"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "TUMBAO",
-        "url": "https://open.spotify.com/album/2kjDXHbE7ztU2okqWtWQ7c"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 166071,
-      "name": "TUMBAO",
-      "url": "https://open.spotify.com/track/5xKs7Penljlm4sfBeWe3NI"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "LO MISMO DE SIEMPRE",
-        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "M\u00c1S QUE ALGO",
-      "url": "https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "Dame La Verde",
-        "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "Dame La Verde",
-      "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "REMEDIO",
-        "url": "https://open.spotify.com/album/1WFZ6u5evkcamtTSBfDjzk"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 139534,
-      "name": "REMEDIO",
-      "url": "https://open.spotify.com/track/3ofkZSquFA2tYHXd3Ei2z2"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "secuestro",
-        "url": "https://open.spotify.com/album/74OjLNxUk56qrJ8yMFX9hO"
-      },
-      "artists": [
-        {
-          "name": "Slayter",
-          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
-        },
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        }
-      ],
-      "duration_ms": 194062,
-      "name": "secuestro",
-      "url": "https://open.spotify.com/track/5SGpkwSxKgwDux1IUE9O7w"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "Los Gangsters Tambien Lloran",
-        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 200526,
-      "name": "Resentia",
-      "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "La Oportunidad",
-        "url": "https://open.spotify.com/album/0t3A0rQ7OgJvouak54Aa0K"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 255807,
-      "name": "La Oportunidad",
-      "url": "https://open.spotify.com/track/3WvVLW5vG7A3rFNHvbb4pt"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "Esclava (Remix)",
-        "url": "https://open.spotify.com/album/0FBEScPBt4IBRkG60WqwcX"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Anonimus",
-          "url": "https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 281522,
-      "name": "Esclava - Remix",
-      "url": "https://open.spotify.com/track/0fOjPUdkQjLH0aoGa5p5h4"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "BRASILE\u00d1O",
         "url": "https://open.spotify.com/album/6L86UrNW15rlvCqDNmLk4f"
@@ -637,43 +593,63 @@
       "url": "https://open.spotify.com/track/4gNyksmCmVAHJrFC1zIGqd"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
-        "name": "Back2Back",
-        "url": "https://open.spotify.com/album/3td6WtAEmsQXsE2juKCIgv"
+        "name": "LO MISMO DE SIEMPRE",
+        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
       "artists": [
         {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Back2Back",
-      "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
-      },
-      "artists": [
         {
           "name": "Omar Courtz",
           "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 200000,
-      "name": "UNA NOTi",
-      "url": "https://open.spotify.com/track/61tC2eD62xjmkEX9FGEad7"
+      "duration_ms": 242306,
+      "name": "M\u00c1S QUE ALGO",
+      "url": "https://open.spotify.com/track/3Ob9NJaBlOGDvndnG6G2PW"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "La Oportunidad",
+        "url": "https://open.spotify.com/album/0t3A0rQ7OgJvouak54Aa0K"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 255807,
+      "name": "La Oportunidad",
+      "url": "https://open.spotify.com/track/3WvVLW5vG7A3rFNHvbb4pt"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "LO MISMO DE SIEMPRE",
+        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 192853,
+      "name": "AURORA",
+      "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "Party Privado (feat. Raul Clyde)",
         "url": "https://open.spotify.com/album/32bV0HDZujzyxjNFW1zFrY"
@@ -705,12 +681,16 @@
       "url": "https://open.spotify.com/track/5HYNvdGdepoSArZ1fW1x8v"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
-        "name": "Juguete",
-        "url": "https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv"
+        "name": "secuestro",
+        "url": "https://open.spotify.com/album/74OjLNxUk56qrJ8yMFX9hO"
       },
       "artists": [
+        {
+          "name": "Slayter",
+          "url": "https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn"
+        },
         {
           "name": "Yan Block",
           "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
@@ -718,90 +698,50 @@
         {
           "name": "NTG",
           "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        }
+      ],
+      "duration_ms": 194062,
+      "name": "secuestro",
+      "url": "https://open.spotify.com/track/5SGpkwSxKgwDux1IUE9O7w"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Back2Back",
+        "url": "https://open.spotify.com/album/3td6WtAEmsQXsE2juKCIgv"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
         },
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
         }
       ],
-      "duration_ms": 203265,
-      "name": "Juguete",
-      "url": "https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze"
+      "duration_ms": 173333,
+      "name": "Back2Back",
+      "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
-        "name": "LO MISMO DE SIEMPRE",
-        "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
+        "name": "Los Gangsters Tambien Lloran",
+        "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
         }
       ],
-      "duration_ms": 192853,
-      "name": "AURORA",
-      "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
+      "duration_ms": 200526,
+      "name": "Resentia",
+      "url": "https://open.spotify.com/track/2ANtIUI9cipWNI685VdlZb"
     },
     {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/06MqSsqJMuOnZkLPYJQdkQ"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "111",
-      "url": "https://open.spotify.com/track/2SPBFiD8iITb8CKJGz1TEQ"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "LYKE MIIKE (DELUXE)",
-        "url": "https://open.spotify.com/album/27bcWf41ghwRCrfTS1OjXj"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 205465,
-      "name": "M\u00d3NTATE BABY (feat. De La Rose)",
-      "url": "https://open.spotify.com/track/2gbGzSyT6rbjILNwyA726A"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
-      "album": {
-        "name": "Novio No",
-        "url": "https://open.spotify.com/album/2DrUbcRALdDHhZUS0BaFs7"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Novio No",
-      "url": "https://open.spotify.com/track/1PwccGgKAgmtCor56QTvaG"
-    },
-    {
-      "added_at": "2025-09-22 10:45:34",
+      "added_at": "2025-09-25 22:01:09",
       "album": {
         "name": "En Tus Sue\u00f1os",
         "url": "https://open.spotify.com/album/5EyekKqaKg0wRgFOG8MSeW"
@@ -819,6 +759,62 @@
       "duration_ms": 188022,
       "name": "En Tus Sue\u00f1os",
       "url": "https://open.spotify.com/track/6QtWffbCbMMfJj7PacS5ri"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "Dame La Verde",
+        "url": "https://open.spotify.com/album/4nEyemOG5BK5GpUknH5Zm1"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "Dame La Verde",
+      "url": "https://open.spotify.com/track/6onnX1hYWcqP2dXgfvExNG"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "UNA NOTi",
+      "url": "https://open.spotify.com/track/61tC2eD62xjmkEX9FGEad7"
+    },
+    {
+      "added_at": "2025-09-25 22:01:09",
+      "album": {
+        "name": "REMEDIO",
+        "url": "https://open.spotify.com/album/1WFZ6u5evkcamtTSBfDjzk"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 139534,
+      "name": "REMEDIO",
+      "url": "https://open.spotify.com/track/3ofkZSquFA2tYHXd3Ei2z2"
     }
   ],
   "unique_name": "PEGAO",

@@ -4,7 +4,7 @@
 
 > when the ‘that boy is corrupt’ line feels… oddly specific
 
-2,553 songs - 5 day 8 hr 21 min
+2,559 songs - 5 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [distance](https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [distance](https://open.spotify.com/album/2hkXgYYushHTBmrhXOcY0G) | 1:53 | 2024-02-27 | 2024-05-18 |
 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-03-06 | 2021-11-20 |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-23 | 2023-01-28 |
+| [diva](https://open.spotify.com/track/2NKFd6Oibct12j0RMpGLyS) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [diva](https://open.spotify.com/album/4eXW7vxt1U6IZavAfbyLTo) | 2:39 | 2025-09-26 |  |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-03-31 | 2025-05-03 |
 | [Dive Bar Opera](https://open.spotify.com/track/1WBy88hoogwNohh3PPwpRb) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Dive Bar Opera](https://open.spotify.com/album/5y8vYUf5I66jv3OHOAFxPn) | 2:26 | 2025-07-18 | 2025-09-13 |
 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-11-19 | 2022-09-03 |
@@ -717,6 +718,7 @@
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-07-28 | 2024-01-05 |
 | [Eyes Wide Shut](https://open.spotify.com/track/2LyaOE8P7p8X0yofHVtF2D) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Eyes Wide Shut](https://open.spotify.com/album/6O7B3KJmgRfdn0OaCPv8Gq) | 3:22 | 2024-02-16 | 2024-03-23 |
 | [Eyes Wide Shut](https://open.spotify.com/track/3FhFlQuJiThN8PIUMHuikP) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Eyes Wide Shut](https://open.spotify.com/album/6dQOeD3fOJY5X5zU9GbjVM) | 3:43 | 2019-05-26\* | 2020-02-19 |
+| [EZ](https://open.spotify.com/track/0yK7WNzfnq7xS7AARO0rIS) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [EZ](https://open.spotify.com/album/3o2uohhOcMphVdVH42s54a) | 2:20 | 2025-09-26 |  |
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 | 2023-04-23 |
 | [Face Like Yours](https://open.spotify.com/track/3m3aEs2NUwzCPmOG0SXeBt) | [Alex Porat](https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI) | [Face Like Yours](https://open.spotify.com/album/1JxGPiYxQlORUJ9yIeJL2G) | 2:41 | 2025-02-28 | 2025-05-17 |
 | [Fail](https://open.spotify.com/track/3wb0OtpuyUjZBOxa8HdxhL) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Fail](https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY) | 2:36 | 2024-07-26 | 2024-09-07 |
@@ -762,6 +764,7 @@
 | [Fire Kites](https://open.spotify.com/track/6Nde8e8Fqr7iGBwrLDIPDO) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [KIDS](https://open.spotify.com/album/55JRBOOVB5twmQbydWvzBc) | 3:11 | 2021-04-21 | 2021-10-16 |
 | [Fireworks](https://open.spotify.com/track/61zdF5AXTsmr7eZ4bQBvnM) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [Fireworks](https://open.spotify.com/album/2ALIhcb3aDJs0MFWtlJvC8) | 3:28 | 2021-03-14 | 2021-05-23 |
 | [First Class](https://open.spotify.com/track/1rDQ4oMwGJI7B4tovsBOxc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [First Class](https://open.spotify.com/album/4uVXrwE4aSV2L2aqAHSOXa) | 2:53 | 2022-04-08 | 2022-06-25 |
+| [First Original Thought](https://open.spotify.com/track/5muTft7oCwTsn2eeLyYFLy) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [First Original Thought](https://open.spotify.com/album/2rH7ACS9qrOtZ5sDXIx7OD) | 2:50 | 2025-09-26 |  |
 | [First Time](https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Home Video](https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1) | 4:14 | 2021-10-11 | 2021-10-14 |
 | [First Time](https://open.spotify.com/track/3gZ8s2w5v9jmjRkwYFRKxg) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [First Time](https://open.spotify.com/album/2trAIH3JyP0Kas8Ke7H2q6) | 2:33 | 2024-06-14 | 2024-08-21 |
 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 | 2024-02-23 | 2024-05-18 |
@@ -1080,6 +1083,7 @@
 | [i can't help it](https://open.spotify.com/track/0LQGDAv1siMLMfBeeAdodG) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling out of love feels like \(392Hz\)](https://open.spotify.com/album/5PtDyeWcF9Z0exa9vKqHIV) | 2:57 | 2022-11-11 | 2022-11-13 |
 | [i can't help it](https://open.spotify.com/track/1HkRnB3c6aVMJxAryrsMsc) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [i can't help it](https://open.spotify.com/album/1vJ1jmaxBT3tHp54igkrmK) | 2:57 | 2022-08-26 | 2022-10-13 |
 | [i can't help it](https://open.spotify.com/track/3F3roWqJPMtmLbPPl93bbR) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 2:57 | 2022-09-09 | 2022-11-30 |
+| [I Dare Ya](https://open.spotify.com/track/0Dzyi3BEF37P2QnDY390Qy) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [I Dare Ya](https://open.spotify.com/album/3AyLhNmA6U8R7Q0VYC3HO4) | 2:26 | 2025-09-26 |  |
 | [i deserve 2 b alone](https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:45 | 2021-05-26 | 2022-01-08 |
 | [I Do You](https://open.spotify.com/track/6sddeX1f4BHzmHB94p4lRI) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [I Do You](https://open.spotify.com/album/3J99ffNNhFsr6hHVmNkJlE) | 3:09 | 2023-01-20 | 2023-02-19 |
 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-01-14 | 2022-09-03 |
@@ -1529,6 +1533,7 @@
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-07 | 2024-01-05 |
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-10-28 | 2024-01-05 |
 | [MUSTANG BABY \(FT\. ARTEMAS\)](https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:11 | 2024-11-15 | 2024-12-07 |
+| [MVP](https://open.spotify.com/track/1j3EFrKHsJUe2uL8B905kI) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [Kiss/Kill](https://open.spotify.com/album/0gq0QvYVama4yqCTNb3TvS) | 2:30 | 2025-09-26 |  |
 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-16 | 2023-06-17 |
 | [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 | 2023-04-28 | 2023-06-03 |
 | [MY FAVORITE SONG](https://open.spotify.com/track/24XNbv00pqhodOI2473wTs) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [MY FAVORITE SONG](https://open.spotify.com/album/5RMb4MqLgLBjUzNDzyh0wT) | 2:39 | 2023-04-28 | 2023-07-01 |
@@ -2283,6 +2288,7 @@
 | [Therapy & Yoga](https://open.spotify.com/track/2G7DLml9U6byHyFizFnoyJ) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Therapy & Yoga](https://open.spotify.com/album/7uT49SXl8GTMQ4eeNWBJJk) | 1:55 | 2025-08-01 |  |
 | [there for you](https://open.spotify.com/track/0TJJup71B23lvjHbrK4yz4) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [there for you](https://open.spotify.com/album/1TvvBHVRmuhlQVxg6569Pi) | 2:52 | 2021-10-29 | 2022-03-17 |
 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 | 2023-09-03 | 2024-02-29 |
+| [There's Just Something About Her](https://open.spotify.com/track/6XzSqyhtKa4uJT6O1ZjMe8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [There's Just Something About Her](https://open.spotify.com/album/7qfhRZlEHzCmdgoHnEJuar) | 3:12 | 2025-09-26 |  |
 | [There's only so much a soul can take](https://open.spotify.com/track/3vkRCANVVZF0aWTL00VvRt) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [There's only so much a soul can take](https://open.spotify.com/album/1gKcySeP1BMTyKnvx1DGOQ) | 2:48 | 2021-04-21 | 2021-10-12 |
 | [THEY!](https://open.spotify.com/track/2CnNuBOYqMffYcNmV3l4QA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [THEY!](https://open.spotify.com/album/7HYwDvUWJOrJH5eJzUmGv3) | 3:20 | 2025-02-07 | 2025-04-05 |
 | [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-04-19 | 2021-11-06 |

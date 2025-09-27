@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from The Favors
+> The best in folk & acoustic today featuring music from Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,745,328 likes - 106 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,392 likes - 106 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 | 105 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 106 | [Foxes in the Snow](https://open.spotify.com/track/1FcszdiVwu3WcMAQAPnCgJ) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Foxes in the Snow](https://open.spotify.com/album/68ZJ05Jh9Gw1nCcioGScpr) | 3:20 |
 
-Snapshot ID: `AAAAAG8pndbQpBl8gVk6QGhC5iwq+v0X`
+Snapshot ID: `AAAAAAk9jo7r9I3HfoiJM7i0aJw4xU5E`

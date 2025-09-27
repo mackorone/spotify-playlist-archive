@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,785 likes - 100 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,789 likes - 100 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 90 | [Tell Me More And More And Then Some](https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [After Hours](https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj) | 3:11 |
 | 91 | [Back In The Day \- Live Album Version \(Explicit\)](https://open.spotify.com/track/62R2Dt1z4z1rurfZt06zmc) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Dave Chappelle's Block Party](https://open.spotify.com/album/3dmlZgLFJjctQrn7iUAMas) | 4:06 |
 | 92 | [Know You Better \- Live from Brooklyn Paramount](https://open.spotify.com/track/3FKJBHMtOs7Fp4dNWUBNHj) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Know You Better \(Live from Brooklyn Paramount\)](https://open.spotify.com/album/6PdDfyh0O1ezWd3DXRvnWN) | 7:55 |
-| 93 | [Pain in My Heart \- Live at the Whisky a Go Go, 1966](https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [In Person at the Whiskey a Go Go](https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb) | 2:13 |
-| 94 | [Time Is On My Side \- Live At Slim's, San Francisco, CA / 8\-30\-1990 & 8\-31\-1990](https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Simply The Best: Live!](https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w) | 2:38 |
+| 93 | [Time Is On My Side \- Live At Slim's, San Francisco, CA / 8\-30\-1990 & 8\-31\-1990](https://open.spotify.com/track/1TIejSLYx3yUHxiHnAsnlU) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Simply The Best: Live!](https://open.spotify.com/album/5B0ZSh5gb6vFoOe5hSq97w) | 2:38 |
+| 94 | [Pain in My Heart \- Live at the Whisky a Go Go, 1966](https://open.spotify.com/track/0owBTnsHwR8CawvoMS2EY5) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [In Person at the Whiskey a Go Go](https://open.spotify.com/album/0QqcSvkteSvXhBxfypbDcb) | 2:13 |
 | 95 | [Chain of Fools \- Live at the Olympia Theatre, Paris, May 7, 1968](https://open.spotify.com/track/2x2NfvKP47YdNxySl2DjVt) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha In Paris \(Live\)](https://open.spotify.com/album/0UNzdVrD3Y5S4QnGEK7Oiz) | 2:52 |
 | 96 | [Love & Happiness \- Live](https://open.spotify.com/track/0MBkQKu5au3kGJ5LykLWok) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 6:16 |
-| 97 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 |
-| 98 | [Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song \- Live](https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Live: 1989 Memphis Music & Heritage Festival](https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH) | 11:36 |
+| 97 | [Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song \- Live](https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Live: 1989 Memphis Music & Heritage Festival](https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH) | 11:36 |
+| 98 | [Hold On, I'm Comin' \- Live in London](https://open.spotify.com/track/6hkcFK6AIuV4G91QYP1FlS) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Stax/Volt Revue: Live In London, Vol\. 1](https://open.spotify.com/album/3rNC5UTiftHmwrpt4tFW66) | 3:55 |
 | 99 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 |
 | 100 | [Strange Fruit](https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Compact Jazz \- Nina Simone](https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o) | 3:33 |
 

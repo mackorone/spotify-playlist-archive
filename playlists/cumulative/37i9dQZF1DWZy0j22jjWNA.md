@@ -2,7 +2,7 @@
 
 ### [GOoD Morning](https://open.spotify.com/playlist/37i9dQZF1DWZy0j22jjWNA)
 
-> Let these songs help you start your with the Lord!
+> Start you day with God and let these songs set you up to have a GOoD morning!
 
 210 songs - 13 hr 10 min
 

@@ -4,7 +4,7 @@
 
 > Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
-153 songs - 9 hr 52 min
+154 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Fall To Pieces](https://open.spotify.com/track/1rdkG7R3dHS2RI4Akk00zq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/5X9W0UYcGJbdVLIhztzfuH) | 3:54 | 2022-01-20 | 2024-04-19 |
 | [Fall To Pieces](https://open.spotify.com/track/4NLYbeiw8uqRQaVM5QFBfp) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [WE WERE THE WEIRDOS](https://open.spotify.com/album/254VNPxGdFoHEWAkgdwtnV) | 3:54 | 2021-10-15 |  |
 | [Fall To Pieces](https://open.spotify.com/track/7wi0NVbwEcmWHhM8yycQCq) | [Matt and Kim](https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1) | [2010s Alternative Pop For Kids](https://open.spotify.com/album/0Owyh7g4X9qv9kBNB4KLye) | 3:54 | 2022-01-20 | 2022-11-13 |
-| [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2021-10-15 |  |
+| [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2021-10-15 | 2025-09-27 |
 | [First](https://open.spotify.com/track/0hS0m12cccQtMBe2x57tGQ) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2brumHtFrAdAJgKKghuf4d) | 3:20 | 2021-10-15 |  |
 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2022-01-20 | 2024-04-19 |
 | [First](https://open.spotify.com/track/4foq9UaCBFLWctCeVxLSSF) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home \(Deluxe Edition\)](https://open.spotify.com/album/0TVRC5LerpnNkti1gWsuW7) | 3:20 | 2022-01-20 | 2022-11-13 |
@@ -87,6 +87,7 @@
 | [Obstacle 1](https://open.spotify.com/track/7wvtiQ3o8ELEmk2NjSSPpX) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights: The Tenth Anniversary Edition \(Remastered\)](https://open.spotify.com/album/0YOTy70NrfSFvKAbzLY9GF) | 4:11 | 2021-10-15 |  |
 | [Obstacle 1 \- 2012 Remaster](https://open.spotify.com/track/2urZOEgVXM7rj59Ui0FuNn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights \(The Tenth Anniversary Edition \- 2012 Remaster\)](https://open.spotify.com/album/5oJ2OTdqCteMkGDjzcItNN) | 4:11 | 2022-01-20 | 2024-04-19 |
 | [Ocean](https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Summer Anthem](https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah) | 3:26 | 2025-08-22 |  |
+| [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-26 |  |
 | [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 6:27 | 2022-01-20 | 2024-04-19 |
 | [Paranoid Android \- Remastered](https://open.spotify.com/track/1QgI14YcWg3tOobXjzlNMl) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/4ENxWWkPImVwAle9cpJ12I) | 6:23 | 2021-10-15 |  |
 | [Paranoid Android \- Remastered](https://open.spotify.com/track/2fCSulwhjYvNxKbh67d4Pd) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer OKNOTOK 1997 2017](https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ) | 6:23 | 2022-01-20 | 2022-11-13 |

@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/3ohn4fxPOiWYzzflvtyQdr"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 41293,
       "name": "A New View of Politics",
       "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
@@ -1405,6 +1423,32 @@
     },
     {
       "album": {
+        "name": "Inventions for Radio - The Dreams (Original Radio Broadcast)",
+        "url": "https://open.spotify.com/album/6Kiu4OC6L51FuZGO4VcXa4"
+      },
+      "artists": [
+        {
+          "name": "Barry Bermange",
+          "url": "https://open.spotify.com/artist/38pw3Hd5rTSDnG0t9m7Lzc"
+        },
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "The BBC Radiophonic Workshop",
+          "url": "https://open.spotify.com/artist/2slzcgeCx2awZXLNQ3iXVa"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2439545,
+      "name": "Inventions for Radio - The Dreams - Original Radio Broadcast",
+      "url": "https://open.spotify.com/track/316bZP1JPiFxgitPDbhJuZ"
+    },
+    {
+      "album": {
         "name": "Inventions For Radio - The Evenings of Certain Lives (Original Radio Broadcast)",
         "url": "https://open.spotify.com/album/03yL2peyShjj6NQBejBQJi"
       },
@@ -1432,6 +1476,24 @@
     {
       "album": {
         "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/7JHpjxwaAqjhErU9rnBZwQ"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59240,
+      "name": "Know Your Car (Get out and Get Under)",
+      "url": "https://open.spotify.com/track/4pDeiU99tlYHbhZmlMJK5h"
+    },
+    {
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
         "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
       },
       "artists": [
@@ -1442,7 +1504,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 59240,
       "name": "Know Your Car (Get out and Get Under)",
       "url": "https://open.spotify.com/track/4xh5xk7FN0XAnox1n9DDtt"
@@ -1986,7 +2048,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 2113024,
       "name": "The Afterlife, Pt. 3",
       "url": "https://open.spotify.com/track/1SUUGoKJE1kXMaLnAYeHBv"

@@ -2,7 +2,7 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> La nuova scena pop italiana 🇮🇹  CLARA in cover
+> La nuova scena pop italiana 🇮🇹  Rose Villain in cover
 
 837 songs - 1 day 15 hr 30 min
 

@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 218933,
       "name": "American Nights",
       "url": "https://open.spotify.com/track/3c9EsIo34kil8Oj1reaozB"
@@ -850,7 +850,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-16",
+      "date_removed": null,
       "duration_ms": 214386,
       "name": "Counting Chickens",
       "url": "https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196026,
       "name": "Let Your Boys Be Country",
       "url": "https://open.spotify.com/track/1v1bVyUOVYDpXRIcAJ24iQ"
@@ -3522,6 +3522,24 @@
       "duration_ms": 242946,
       "name": "Watching Airplanes",
       "url": "https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn"
+    },
+    {
+      "album": {
+        "name": "Way Back Home",
+        "url": "https://open.spotify.com/album/17XvQfk0g1gaRmNiYJ88Fh"
+      },
+      "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/7iXxpHjbJqZp0Z6wfr9AHz"
     },
     {
       "album": {

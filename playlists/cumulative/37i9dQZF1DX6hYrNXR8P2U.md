@@ -4,7 +4,7 @@
 
 > porque sí.<br/>📷 tatool y Trueno
 
-544 songs - 1 day 4 hr 28 min
+547 songs - 1 day 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [CAFE NEGRO](https://open.spotify.com/track/2tsyisOIKxVARnkZ4mMTjl) | [Militantes del Climax](https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv) | [NUEVA SANGRE](https://open.spotify.com/album/2T5tZZuvVcTpBIVFxFPplr) | 3:16 | 2024-10-11 | 2024-11-23 |
 | [Calles Rotas](https://open.spotify.com/track/5ONux1xDZJeTMJjwtx0VLy) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Calles Rotas](https://open.spotify.com/album/5e402GW4kh1SSSxevNF6hF) | 5:16 | 2023-10-13 | 2023-11-25 |
 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-10-13 | 2024-06-09 |
+| [Camas Separadas \- ft\. Disco Bahía](https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [Camas Separadas \(ft\. Disco Bahía\)](https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or) | 3:55 | 2025-09-26 |  |
 | [CANCIÓN AL DOLOR](https://open.spotify.com/track/79mqphOzYvHLcvIcBZeVb8) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [CANCIÓN AL DOLOR](https://open.spotify.com/album/7ifpnlIV75MM1UmKSR5Nx7) | 2:21 | 2024-06-08 | 2024-09-07 |
 | [Candela](https://open.spotify.com/track/684u0hZtsMmdz4cxJ3MU0S) | [Cígaro](https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi) | [Candela](https://open.spotify.com/album/0fxMGmOLhlDwP8Dxk3ehRy) | 2:53 | 2025-03-28 | 2025-09-02 |
 | [Canela](https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Que Bien Te Queda El Caribe](https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN) | 2:56 | 2024-08-16 | 2024-09-14 |
@@ -245,6 +246,7 @@
 | [Little Fucker](https://open.spotify.com/track/6vtVAmmUHonK5khiVCeqjn) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Little Fucker](https://open.spotify.com/album/5NukekvC7knOLviFkMPQ9U) | 3:30 | 2025-07-05 | 2025-07-25 |
 | [LLAMALO](https://open.spotify.com/track/3me7U2dhWEi62XjrOxMWff) | [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [LLAMALO](https://open.spotify.com/album/03TDobVXdHnd7T8JMfXhgd) | 2:57 | 2024-09-27 | 2025-04-30 |
 | [Llamame](https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN) | [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [PITADA](https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH) | 3:28 | 2024-03-01 | 2024-12-07 |
+| [Llora Llora](https://open.spotify.com/track/3fgScn3fp098tqIVgVosd5) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 4:03 | 2025-09-26 |  |
 | [Lo Azul de Mi](https://open.spotify.com/track/6Ojtbe9JYEmQB8e0bnnbFZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Azul de Mi](https://open.spotify.com/album/6MR5564jgXNBKIHjpS8odI) | 2:34 | 2023-10-13 | 2023-12-09 |
 | [Lo Mismo](https://open.spotify.com/track/4RUOJOtd2X7R8X8UA10Uzf) | [Luna Suarez](https://open.spotify.com/artist/6cP3LTMb8GOiIRREzXLXjH) | [Lo Mismo](https://open.spotify.com/album/2aSSP9qWS9iSb20w96Lb0c) | 2:25 | 2024-06-25 | 2024-07-13 |
 | [lo que pase](https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p) | [tatool](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [lo que pase](https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO) | 2:32 | 2025-09-01 |  |
@@ -331,6 +333,7 @@
 | [NO ME SORPRENDE](https://open.spotify.com/track/0s5FgdxYJm0tB68OICOglY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:30 | 2023-10-13 | 2024-02-24 |
 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2025-07-25 |  |
 | [No Pierdas La Cabeza](https://open.spotify.com/track/70u5gYrZTFuhlWELo9N78s) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [No Pierdas La Cabeza](https://open.spotify.com/album/4NdURclkNchMSMklnDxCN0) | 4:17 | 2024-02-01 | 2024-04-06 |
+| [No Puedo Dejar](https://open.spotify.com/track/6JNz7Rr9ODlANqDiNv2QH1) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [No Puedo Dejar](https://open.spotify.com/album/3g1pWn4BL93vvIAmGnzKl4) | 2:29 | 2025-09-26 |  |
 | [NO TE HAGAS](https://open.spotify.com/track/6KCAkuoZsQGRiXu80f4vf3) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [NO TE HAGAS](https://open.spotify.com/album/09YwUmq60wbWR83xT7GN8b) | 3:02 | 2025-09-01 |  |
 | [No Te Olvidaras De Mi](https://open.spotify.com/track/6HsaOUdhk1j8Na70BI4Iyh) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [No Te Olvidarás de Mí](https://open.spotify.com/album/1tXtQSNP3Pxa4uzFnyvHrr) | 2:40 | 2024-11-08 | 2025-02-15 |
 | [No va a pasar](https://open.spotify.com/track/539SIIj6PtikkCunfoDmEW) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [No va a pasar](https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T) | 3:31 | 2023-10-13 | 2023-11-25 |

@@ -4,7 +4,7 @@
 
 > get into the groove with a selection of new underground deep house
 
-591 songs - 2 day 7 hr 36 min
+592 songs - 2 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Motown Swagger](https://open.spotify.com/track/4wT8rqDlZPLfIN34TSibdd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Motown Swagger](https://open.spotify.com/album/07fDbONnuIiwwmc2MaaiyV) | 7:18 | 2023-09-14 | 2024-04-12 |
 | [Moulin Rouge \- Original Mix](https://open.spotify.com/track/1INvHCixv1JsOQhXuiWKFT) | [Stazzia](https://open.spotify.com/artist/17TOgS3UEH2wza058lRCQy) | [Groovin' Attitude EP](https://open.spotify.com/album/5jviDuz9FZI7HuifpFlL9B) | 5:00 | 2022-09-15 | 2023-01-13 |
 | [Move It Up \- Original Mix](https://open.spotify.com/track/7CsYDuQ3bJj9Bdk9QtWXLg) | [DJ Romain](https://open.spotify.com/artist/4wFXtrXI9ZLILb0K3uOh2z) | [Move It Up](https://open.spotify.com/album/06kHaeie7vyYUKZK0rNOhB) | 5:40 | 2025-05-19 |  |
+| [Movin shadow \- Doug Gomez remix](https://open.spotify.com/track/2wvkzel8o5FXLjAizeBtkU) | [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs), [Doug Gomez](https://open.spotify.com/artist/4yITT4lWMZ6Dmb5hQvyFZc) | [Movin shadow \(Doug Gomez remix\)](https://open.spotify.com/album/6A1BOJiyrzP6DLQCMOz3UZ) | 8:17 | 2025-09-26 |  |
 | [Mr Umbawa](https://open.spotify.com/track/54zanEkA6SBFcl1xJVGrXz) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Mr Umbawa](https://open.spotify.com/album/21108Crlzd9PnNWi5XJjyJ) | 7:35 | 2022-09-15 | 2023-07-08 |
 | [Much More \- Original Mix](https://open.spotify.com/track/2lFrVtirJYyPVH6MPWX5Wk) | [Luis Radio](https://open.spotify.com/artist/5SPeKTZ46MUeEfuYHKskyS), [Fabrizio Monaco](https://open.spotify.com/artist/3fGtx9THfCUB6uv8H0FuaE) | [Much More \(Original Mix\)](https://open.spotify.com/album/00ADXjvPePzFMflFPpYjYa) | 6:47 | 2025-08-30 |  |
 | [Must Be Deep](https://open.spotify.com/track/7GJYxTXdyiK3Et9S4d1A5a) | [Demarkus Lewis](https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl) | [Must Be Deep](https://open.spotify.com/album/6NvIv5dwgd5CQcCUNMz238) | 5:53 | 2024-04-11 | 2024-12-12 |
@@ -345,7 +346,7 @@
 | [Never \- Yoruba Soul Mix](https://open.spotify.com/track/23JSgi1N6XDrJV6yntzHOK) | [Fred Everything](https://open.spotify.com/artist/1lKf0Z2bKT57EzmCr8ZlkS), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Never \(Osunlade Remixes\)](https://open.spotify.com/album/7unwGRzwPg63ACQTFrpvXs) | 6:20 | 2024-08-30 | 2025-02-09 |
 | [Never Thought \[Printworks\] \- Main Vocal Mix](https://open.spotify.com/track/5EQSnb89lN9K3ACVBOSsjD) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Sunchilde](https://open.spotify.com/artist/2vqTInpbq4fzqySS5BudrR) | [Spaces and Places](https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT) | 6:17 | 2022-12-20 | 2024-02-16 |
 | [New Beginnings](https://open.spotify.com/track/2bblA063aCUhDlAeOaFshW) | [Bob The Egoist](https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI) | [I'm Still The Same Person](https://open.spotify.com/album/7cdywfbUKe3vUG22Kq6qYO) | 4:54 | 2025-05-29 |  |
-| [Next 1 \(Original Mix\)](https://open.spotify.com/track/3ShraVrXIVKU4u4UIbzGHm) | [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs) | [Feels So Good EP](https://open.spotify.com/album/4ybxSHUiUJkgpsER5pQTvL) | 6:44 | 2025-05-29 |  |
+| [Next 1 \(Original Mix\)](https://open.spotify.com/track/3ShraVrXIVKU4u4UIbzGHm) | [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs) | [Feels So Good EP](https://open.spotify.com/album/4ybxSHUiUJkgpsER5pQTvL) | 6:44 | 2025-05-29 | 2025-09-27 |
 | [Nine O Nine](https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW) | 3:16 | 2022-10-13 | 2023-05-26 |
 | [Nine O Nine](https://open.spotify.com/track/69AqhrS5e4snOxqLvoplPW) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/3IlhSayycfkGlctTf9xvz2) | 3:16 | 2022-09-15 | 2022-10-20 |
 | [No Ice](https://open.spotify.com/track/4v9fdnM2Pez9whcdAn0n7s) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [No Ice](https://open.spotify.com/album/15qRqrh7YYtKfkqx6VDvDr) | 4:02 | 2024-11-21 | 2025-05-26 |

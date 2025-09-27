@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 369 songs - 21 hr 15 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 370 songs - 21 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -377,5 +377,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 367 | [罪と罰](https://open.spotify.com/track/4PiBeuUvVCmvOrPbxzwJTo) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [DRESS](https://open.spotify.com/album/16OUor8HKi6dM4xtOMecoa) | 5:51 |
 | 368 | [You Are Also Like Me](https://open.spotify.com/track/6onHrimFWsQSZ1VxyRAaUy) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/7qRTxfrH3dQ4camvRDNgUP) | 3:12 |
 | 369 | [Chuuzuri Shoujo](https://open.spotify.com/track/0iJpEvIjUVEH0UWb5GCri0) | [gulu gulu](https://open.spotify.com/artist/7IS31MnxPnYaDKlFRZ3pdt) | [Chuuzuri Shoujo \(Tsugai Ban\)](https://open.spotify.com/album/4trD0YxmLKpZOYL8RNfr9J) | 4:05 |
+| 370 | [IRIS OUT](https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [IRIS OUT](https://open.spotify.com/album/06re45NBDCPah74jnVOISQ) | 2:31 |
 
-Snapshot ID: `AAAJZssVoofMr5g8OKOnxgi6XjGsSqM7`
+Snapshot ID: `AAAJZ2NLUGtfI9neeo6eFNWcbnk1/r7x`

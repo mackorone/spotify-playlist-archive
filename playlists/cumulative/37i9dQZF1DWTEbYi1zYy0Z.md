@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-521 songs - 1 day 12 hr 49 min
+522 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [New Lives \- Radio Edit](https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [New Lives \(Radio Edit\)](https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808) | 4:11 | 2023-07-28 | 2024-04-19 |
 | [Newfound Treasure](https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [Newfound Treasure](https://open.spotify.com/album/6W9eRTZ5LmNEOD9mW8LHc0) | 3:04 | 2022-06-17 | 2023-06-24 |
 | [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 | 2024-07-05 | 2025-01-18 |
-| [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 | 2023-06-02 |  |
+| [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 | 2023-06-02 | 2025-09-27 |
 | [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 |  |
 | [Nico’s Groove](https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:57 | 2023-06-09 | 2024-04-19 |
 | [Night at The Roxy](https://open.spotify.com/track/38Q1oUU0e63Utf171NKImr) | [Alexander Zonjic](https://open.spotify.com/artist/23TIk45a0EumQgVir5CgS7), [James Lloyd](https://open.spotify.com/artist/33EdGAT6HNpc9dFzyMGYje), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Night at The Roxy](https://open.spotify.com/album/5QatqMQakA9HLKFI60FhK7) | 4:13 | 2024-03-22 |  |
@@ -345,6 +345,7 @@
 | [On Cue](https://open.spotify.com/track/7h6eJosC9GG9AfsnGFJWMc) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [On Cue](https://open.spotify.com/album/79jVgrYIs5r3IaSSW6k1uI) | 3:49 | 2023-05-05 | 2025-06-14 |
 | [On the Money](https://open.spotify.com/track/2afEubhliVkGKvfwFcXDsA) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Smoke and Mirrors](https://open.spotify.com/album/5lSBlPnPALAylceUuFyI4z) | 3:51 | 2021-06-18 | 2022-07-28 |
 | [On The Move](https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [On The Move](https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS) | 4:10 | 2021-08-13 | 2022-09-17 |
+| [On The Road](https://open.spotify.com/track/0tHHb1W4dSzslg92YkCMsm) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Sheila E.](https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P) | [Day Trip](https://open.spotify.com/album/4034QRna8JscYRRB1qglgz) | 4:48 | 2025-09-26 |  |
 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 | 2023-10-13 |  |
 | [One More Night \- Single Edit](https://open.spotify.com/track/3haYZOORhPDg539xt8vO4J) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [One More Night](https://open.spotify.com/album/3q585vEIkBy7EuEwCshSve) | 3:47 | 2022-09-23 | 2023-10-28 |
 | [Open Portals](https://open.spotify.com/track/5DR5fiDRQmHIGJfzTnqaLM) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Open Portals](https://open.spotify.com/album/5tnH3LQps0UMpgKmETCZ1I) | 4:23 | 2021-07-12 | 2022-09-17 |

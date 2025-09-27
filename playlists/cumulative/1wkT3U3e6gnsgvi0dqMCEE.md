@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-324 songs - 21 hr 15 min
+327 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Mustang](https://open.spotify.com/track/0bfY2rrQgn4HqiwftGNP36) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Can We Please Have Fun](https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ) | 3:14 | 2024-05-23 |  |
 | [My Body \- 2020 Remaster](https://open.spotify.com/track/4ozBdncjTFpDqzpREZ4LR4) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(10th Anniversary Edition\)](https://open.spotify.com/album/5pH2nJh7Y7dl0EkubHaTLv) | 4:04 | 2023-10-16 | 2024-05-24 |
 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 | 2023-10-16 | 2024-05-24 |
+| [My Only Angel](https://open.spotify.com/track/1n8GIWPeFqj36RO1bPfNdd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [My Only Angel](https://open.spotify.com/album/246sRdKNqiYUkcpHfQRP4f) | 4:15 | 2025-09-26 |  |
 | [My Way](https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 4:32 | 2023-10-16 | 2024-05-24 |
 | [Never Be You](https://open.spotify.com/track/03u3Z8WrbsVpsiJtJSvzXe) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:55 | 2024-10-18 |  |
 | [Never Too Late \- From The Film “Elton John: Never Too Late”](https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Never Too Late \(From The Film “Elton John: Never Too Late"\)](https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH) | 3:36 | 2024-11-15 |  |
@@ -238,6 +239,7 @@
 | [Shades Of A Blue Orphanage \- Acoustic Version](https://open.spotify.com/track/2lLutmbPDPFALBZZrwbVuy) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Shades Of A Blue Orphanage \(Acoustic Version\)](https://open.spotify.com/album/6wfmN0WUcwBZjj7r7qtzW8) | 7:11 | 2025-02-21 |  |
 | [Shake It Out](https://open.spotify.com/track/71iSmEeF0qRVyULABxP75P) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:37 | 2023-10-16 | 2024-05-24 |
 | [Shakedown](https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Greatest Hits 2](https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j) | 4:01 | 2024-07-19 |  |
+| [Shame, Shame, Shame](https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shame, Shame, Shame](https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ) | 4:05 | 2025-09-26 |  |
 | [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2023-10-16 | 2024-05-24 |
 | [Show Me Love](https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Show Me Love](https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA) | 4:07 | 2025-01-10 |  |
 | [Sledgehammer \- Remastered](https://open.spotify.com/track/2CfavwjTJrKGxy9fiU4otq) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Special Edition\)](https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js) | 5:13 | 2024-05-23 |  |
@@ -253,6 +255,7 @@
 | [Stand By Me](https://open.spotify.com/track/1889ajXyw09z2Mh3hSNxb6) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Stand By Me](https://open.spotify.com/album/5AUCHgDd5Wx8BfQrQsyyTs) | 3:10 | 2025-02-07 |  |
 | [Start Today](https://open.spotify.com/track/3DZSUGnqwJwQIoUbHPcSqu) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Start Today](https://open.spotify.com/album/7yj4Fc4cus1NY80wfIcSf0) | 2:02 | 2025-08-29 |  |
 | [Stay With Me](https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 2:52 | 2024-05-23 |  |
+| [Still Believe In Love](https://open.spotify.com/track/5of2qq3yu7AlBAccyAj2KK) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU) | [All I See EP](https://open.spotify.com/album/5WLziaNaH2Rx0FhCaFMCZp) | 5:07 | 2025-09-26 |  |
 | [Stonehenge \(with Elton John\)](https://open.spotify.com/track/1atxmCIxBlFk4qhlbBXG4g) | [Spinal Tap](https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stonehenge \(with Elton John\)](https://open.spotify.com/album/1fPevorC3HgRtG3QA3xHpZ) | 4:34 | 2025-08-01 |  |
 | [Stories For Boys \- Live From Boston, 1981 / Remastered 2024](https://open.spotify.com/track/2lQGCZp62GJY3q8GpGQoMp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sweetest Thing](https://open.spotify.com/album/4J3Nb4v8XSnnocDoeusPZu) | 3:04 | 2024-06-28 |  |
 | [Stubborn Love](https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 4:39 | 2023-10-16 | 2024-05-24 |

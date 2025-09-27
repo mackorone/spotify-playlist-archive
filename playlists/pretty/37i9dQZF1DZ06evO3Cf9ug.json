@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 126264,
+  "num_followers": 126323,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAABBzXJOlLJDwZZfv/nUG5uN",
+  "snapshot_id": "aNSGAAAAAAAKBpCNFhpNzcSMfZx5P6tT",
   "tracks": [
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T.A.P (Talk About Poe)",
-        "url": "https://open.spotify.com/album/4hr43zKBQ14lJDQptUEkW0"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192683,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3gWeLV6bwKbkHDCbc9XVVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Palmwine Express",
         "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 168247,
       "name": "Tales By Moonlight",
       "url": "https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T.A.P (Talk About Poe)",
+        "url": "https://open.spotify.com/album/4hr43zKBQ14lJDQptUEkW0"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 192683,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3gWeLV6bwKbkHDCbc9XVVL"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B in the UK\. Cover: Mnelia
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,634 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,682 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 7](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [](https://open.spotify.com/album/null) | 0:00 |
-| 2 | [Track 5](https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 1 | [burn \(feat\. Tone Stith\)](https://open.spotify.com/track/1MIfNgBZ4IYOnXYSpP88mk) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [COMPLICATED.](https://open.spotify.com/album/3wUH9wMv6G0jdmmTFwDdI5) | 3:32 |
+| 2 | [same ole](https://open.spotify.com/track/3ENPJQaKBexge71X8K5JZA) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [kintsugi](https://open.spotify.com/album/2COdDiiRXsmxJ1L3dOANd0) | 2:37 |
 | 3 | [Forgive & Forget](https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Forgive & Forget](https://open.spotify.com/album/4MKYOIlZOjLfZIgn1vgBHf) | 2:12 |
 | 4 | [I wish I could](https://open.spotify.com/track/280k6BZx1nJGhkUmWP6c2R) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [I wish I could](https://open.spotify.com/album/7xHmtO7YlCUhDvZ2QTW7X9) | 3:20 |
 | 5 | [Jezebel](https://open.spotify.com/track/1NciBc7baz5hT6jNTixk7w) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Jezebel](https://open.spotify.com/album/5MUMQdVStGYG834nBz6GaB) | 3:14 |

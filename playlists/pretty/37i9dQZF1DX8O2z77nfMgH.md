@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 ### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
 
-> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Mon Laferte, Nathy Peluso
+> Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,667 likes - 59 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,529 likes - 59 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 58 | [Tu Sabes](https://open.spotify.com/track/10Aw4r1SU1s0GJABjUyEZ4) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [El Natha](https://open.spotify.com/artist/52BxzmHsAsnSsNaCnXLitw) | [Tu Sabes](https://open.spotify.com/album/3M3CvJg2W2FDo74Gj5nwcm) | 3:03 |
 | 59 | [Infinita Canción: El Secreto](https://open.spotify.com/track/3czngBzDwh4GFWJ5DBCCMP) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Infinita Canción: El Secreto](https://open.spotify.com/album/65iCYhVtCKnaHnqQVyXJCv) | 3:36 |
 
-Snapshot ID: `AAAAAI/Nyn2o4byN1yybsSdeod16sVII`
+Snapshot ID: `AAAAANT/cc0Bqoag/TCmd4mNqC0LwTwr`

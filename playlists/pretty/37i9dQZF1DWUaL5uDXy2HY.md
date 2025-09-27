@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaL5uDXy2HY.md) - [plain]
 
 > Hairdryer, vacuum\-cleaner & other homely sounds to fall asleep with
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,895 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,913 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

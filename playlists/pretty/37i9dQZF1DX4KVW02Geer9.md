@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,227 likes - 90 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,235 likes - 90 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 4 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 |
 | 5 | [Beat Birds](https://open.spotify.com/track/0sxlNLZDWHudUyRlDfABEl) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9) | [Beat Birds](https://open.spotify.com/album/5J8mMgH6qydlLfmgTwgAgS) | 2:46 |
 | 6 | [Dersen Cafe](https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Dersen Cafe & Give Nothing](https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH) | 2:04 |
-| 7 | [Diamond](https://open.spotify.com/track/61545qGrktmriJHctWL877) | [Jaywalk and The Cadillacs](https://open.spotify.com/artist/4JnFOG3NuhFRKSOBmtBTQK), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [](https://open.spotify.com/album/null) | 3:30 |
+| 7 | [Diamond](https://open.spotify.com/track/61545qGrktmriJHctWL877) | [Jaywalk and The Cadillacs](https://open.spotify.com/artist/4JnFOG3NuhFRKSOBmtBTQK), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Whitewalls & Harmonies](https://open.spotify.com/album/6RgUVnDRZh45TkjaBKVAVs) | 3:30 |
 | 8 | [red in tokyo](https://open.spotify.com/track/4ENpPwWJZlmLwFO1XlfOjE) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [red in tokyo](https://open.spotify.com/album/59Eqc0zSSeKAr3pbvftIAw) | 2:36 |
 | 9 | [NUTHIN BUT A “G” THANG](https://open.spotify.com/track/2bnWiqPqZM80JiXz0n3hUK) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [CREAM](https://open.spotify.com/album/65GIBuA6SrrV8pfjbcgtw7) | 4:58 |
 | 10 | [Outside](https://open.spotify.com/track/2EQ0pVG4H8m9pBGtZgkzwF) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [The Eternal Now](https://open.spotify.com/album/1cTZwsdZutzwt8nGvwTOYA) | 5:15 |

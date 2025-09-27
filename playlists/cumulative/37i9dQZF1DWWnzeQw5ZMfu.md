@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: Gracie Abrams
 
-256 songs - 19 hr 37 min
+258 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Back For Good \- Progress Tour Live / 2011](https://open.spotify.com/track/7qlcu9kkuum0HAhLarrmPF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Progress Live](https://open.spotify.com/album/1wj7YtzFAJNtZ0x6WKjPjR) | 5:14 | 2022-04-14 | 2025-01-18 |
 | [Because Of You \- Nissan Live Sets At Yahoo! Music](https://open.spotify.com/track/4zPZeYuv4HBlZITBgBzjBS) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Nissan Live Sets At Yahoo! Music](https://open.spotify.com/album/6NEzXXoQlQqLROVlqpXJHX) | 3:50 | 2022-04-14 | 2022-07-29 |
 | [Before You Go \- Live from Brixton Academy, London, 2019](https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:45 | 2022-04-14 |  |
+| [Better the Devil You Know \- Live From The Tension Tour](https://open.spotify.com/track/3ZLZQPQDYL3vfyfN1kpElz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension Tour//Live 2025](https://open.spotify.com/album/3Nljg7n2ND48Ih240W5uOe) | 3:36 | 2025-09-26 |  |
 | [betty \- Live from the 2020 Academy of Country Music Awards](https://open.spotify.com/track/4GS68CE8nKLIKjjapiSm2I) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [betty \(Live from the 2020 Academy of Country Music Awards\)](https://open.spotify.com/album/5smqkYeHq9jKRbaXpy3TpL) | 5:12 | 2023-08-18 |  |
 | [Bewitched \- Live at the Hollywood Bowl](https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU) | [A Night At The Symphony: Live at the Hollywood Bowl](https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ) | 4:15 | 2024-12-13 |  |
 | [Blank Space/Stand By Me \- Live From Spotify London](https://open.spotify.com/track/3Dbgo1HE3DErIBNDIO4Hyd) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Spotify Sessions\)](https://open.spotify.com/album/0XMkrjoxpwaGgb6MYgv2gA) | 5:03 | 2022-04-14 | 2023-07-29 |
@@ -84,6 +85,7 @@
 | [GLORY BOX \- Live](https://open.spotify.com/track/41khonWEvTmQxeoQOolP3U) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE TOUR \(LIVE IN LOS ANGELES\)](https://open.spotify.com/album/2NeXIwj1hEH80NYMyI9wB9) | 1:52 | 2025-08-15 |  |
 | [Go West \- Live at Live 8, Red Square, Moscow, 2nd July 2005](https://open.spotify.com/track/2lCnjCnm8j3zV342OCBqOI) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 7:21 | 2022-04-14 | 2022-07-29 |
 | [god is a woman \- live](https://open.spotify.com/track/67kQ3UW7saqCFqB54BVKKI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [k bye for now \(swt live\)](https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb) | 3:33 | 2022-04-29 |  |
+| [Good Girl / Gone Girl \- Live from California](https://open.spotify.com/track/0GHMAVRr5oDkL2lmKK54bc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Would I Still Love Me If I Really Knew Me? \(Live from California\)](https://open.spotify.com/album/0PEdTMcybaJbUFJoTY7VBb) | 3:45 | 2025-09-26 |  |
 | [Goodbye My Lover \- Live in Ireland](https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Chasing Time: The Bedlam Sessions](https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF) | 4:48 | 2022-04-14 | 2025-01-18 |
 | [Goodbye Yellow Brick Road \- Live](https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [One Night Only](https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY) | 3:18 | 2022-04-14 | 2025-01-18 |
 | [Greatest Love of All \- Live from That's What Friends Are For: Arista Records 15th Anniversary Concert](https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston Live: Her Greatest Performances](https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0) | 6:50 | 2022-04-14 | 2023-08-19 |

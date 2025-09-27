@@ -4,7 +4,7 @@
 
 > Najlepsza świeża polska alternatywa\. Cover: Jacko Brango
 
-1,119 songs - 2 day 14 hr 56 min
+1,119 songs - 2 day 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,7 +835,7 @@
 | [Stan pogody \(piosenka z filmu „Smok Diplodok”\)](https://open.spotify.com/track/27zXYaLiu3QBveCAEXaTUb) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Stan pogody \(piosenka z filmu „Smok Diplodok”\)](https://open.spotify.com/album/2UaBI63Fl86wF6NsIIPzak) | 3:09 | 2024-08-22 | 2024-10-18 |
 | [Stany równoleżnikowe](https://open.spotify.com/track/7LadA7PHNbsbUZdmZmDNGA) | [Mały Atlas Burz](https://open.spotify.com/artist/7eP4lYsmLi8Y70j0IUMO7V) | [Stany równoleżnikowe](https://open.spotify.com/album/49hThDTkpWj85q9g9Irq8T) | 3:42 | 2024-06-27 | 2024-07-27 |
 | [Stanzie](https://open.spotify.com/track/4p8G7m9wdkI7NO0yt7OfCU) | [Formeo](https://open.spotify.com/artist/58VDkUTKHrrr5b0P4yszTO) | [Stanzie](https://open.spotify.com/album/6Bx7DU5TFgOc3dCKA5eKBX) | 4:00 | 2025-01-03 | 2025-01-24 |
-| [Stały ląd](https://open.spotify.com/track/4u3HZaqbIzWxmDXOsiF3rC) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Jarecki](https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh) | [](https://open.spotify.com/album/null) | 3:17 | 2025-09-25 |  |
+| [Stały ląd](https://open.spotify.com/track/4u3HZaqbIzWxmDXOsiF3rC) | [Robert Cichy](https://open.spotify.com/artist/7rZNLhiqVO7cyv3u8z0KY0), [Jarecki](https://open.spotify.com/artist/2w0eJvcbmitlDiYDu9ABOh) | [Altius](https://open.spotify.com/album/1DwW7LSvNmHfU1BoIMrqov) | 3:17 | 2025-09-25 |  |
 | [Sto żyć](https://open.spotify.com/track/44GIhCbTHFHiTEee4UaydE) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [OMEN \(Deluxe\)](https://open.spotify.com/album/4M74h2uURZUHnaQDH9wsl0) | 4:04 | 2024-11-28 | 2025-04-11 |
 | [STOP!!](https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [STOP!!](https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP) | 2:34 | 2024-06-27 | 2024-07-12 |
 | [strach](https://open.spotify.com/track/3SdyBCDMtGKT0eVBejxKUv) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k) | [strach](https://open.spotify.com/album/1RA4MfyMQyedCcSKBpefFc) | 3:17 | 2024-10-24 | 2024-11-15 |
@@ -912,7 +912,6 @@
 | [Too Sad](https://open.spotify.com/track/6LI0IgqX2Oft1IcqEuNIkB) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Too Sad](https://open.spotify.com/album/0BHSgIWKARuOoE8q0X9xpk) | 3:52 | 2024-07-04 | 2024-07-19 |
 | [Topiel](https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Topiel](https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt) | 3:42 | 2024-11-21 | 2025-02-15 |
 | [Toruń](https://open.spotify.com/track/3oKvNBUziRbUWpvS7vHJAy) | [Kazik & Kwartet ProForma](https://open.spotify.com/artist/6gv9OBMwrCKkZGFQIPUa73) | [Po moim trupie](https://open.spotify.com/album/2Llhzp3WCWP0JFp7wpXH7W) | 4:53 | 2024-09-26 | 2024-11-01 |
-| [Track 5](https://open.spotify.com/track/4YaKZXuz3AnrCv0KmquAtl) | [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [TRIK](https://open.spotify.com/track/4NPCGtOfEuRIK1CJh6q3Nv) | [FOMOTOK](https://open.spotify.com/artist/0CnSNWcT6hES7FDHk4alpL) | [TRIK](https://open.spotify.com/album/55AvttSNVmQFfowzCqB5MV) | 2:41 | 2024-06-27 | 2024-07-12 |
 | [trochę cukru ładnie proszę](https://open.spotify.com/track/0Tvh5xIkfhR8MKGJdX5IXq) | [zofia justyńska](https://open.spotify.com/artist/54S3G0C8oIzH1Va5WpIHS4) | [trochę cukru ładnie proszę](https://open.spotify.com/album/60NeC21rt4PHWsLJzpOl08) | 3:56 | 2025-05-01 | 2025-05-23 |
 | [Trochę wstydzę się](https://open.spotify.com/track/0jNkdakLBGakLqAVFFPwry) | [Fetysz](https://open.spotify.com/artist/4Q6Ro5v2pYwW4hJgPo2Idz) | [Trochę wstydzę się](https://open.spotify.com/album/39McUWR3zW11H6BJkKWeoQ) | 3:09 | 2025-05-29 | 2025-06-17 |
@@ -1010,7 +1009,7 @@
 | [Wstyd](https://open.spotify.com/track/0YgKSJYoOyPWoyOoAOTkzk) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Mam szczęście](https://open.spotify.com/album/3UNZoZc7MNA1mcsREhVr43) | 2:44 | 2025-02-27 | 2025-07-25 |
 | [Wszystkie najpiękniejsze słowa](https://open.spotify.com/track/5LYC6jkBQltGbJkzLINf9i) | [Frank Inferno](https://open.spotify.com/artist/0bW2vaeoSnJIKjFJYyHHrV) | [Wszystkie najpiękniejsze słowa](https://open.spotify.com/album/5gAXm1JwOAmxOv0UgREKu8) | 3:02 | 2025-09-11 | 2025-09-26 |
 | [Wszystkie Orgazmy Lata](https://open.spotify.com/track/72RHyrRmnlx3jLqSnlc3ix) | [Maria Sadowska](https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC), [Seb Skalski](https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1) | [Wszystkie Orgazmy Lata](https://open.spotify.com/album/5oeIO11XO0b50ZxVejFBQX) | 3:05 | 2024-07-18 | 2024-08-23 |
-| [Wszystko](https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [](https://open.spotify.com/album/null) | 3:33 | 2025-09-25 |  |
+| [Wszystko](https://open.spotify.com/track/7KFi8G55mi68MDA9OhlBNz) | [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Popiół](https://open.spotify.com/album/73hQElTnbuhB7HT0w9gIN3) | 3:33 | 2025-09-25 |  |
 | [wszystko](https://open.spotify.com/track/1dus0Y4EnzM9Rnkt5BeahO) | [shane.](https://open.spotify.com/artist/3tDcEwPEYCO45ks2GFURkT) | [wszystko](https://open.spotify.com/album/2DQaIcMNq8mHlUbfAbzlPw) | 3:21 | 2024-06-27 | 2024-07-12 |
 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 | 2024-11-14 | 2024-12-20 |
 | [Wszystko na sprzedaż](https://open.spotify.com/track/1wLyfNLQ5rRc71mgINPpQ7) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0) | [Wszystko na sprzedaż](https://open.spotify.com/album/4UzzYhTKnJ08CR28GxKreM) | 4:00 | 2024-09-12 | 2024-10-04 |
@@ -1112,6 +1111,7 @@
 | [Śliwka w kompot](https://open.spotify.com/track/1ef2r7CQTvJsbnSL8Lggrw) | [Pan Mariuszek](https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9) | [Śliwka w kompot](https://open.spotify.com/album/1JYZkYFA7PzBO4jaGS5pIT) | 2:44 | 2025-05-15 | 2025-06-20 |
 | [Śmierć w bikini](https://open.spotify.com/track/05hBKTXwQRCsvK32gXHL69) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Śmierć w bikini](https://open.spotify.com/album/5urthee1FkaLqlhRO9NI4P) | 3:31 | 2025-08-28 |  |
 | [Śniadanie](https://open.spotify.com/track/6npDq7nTTopezkstqTeQbQ) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Fisz Emade Tworzywo](https://open.spotify.com/artist/0YYxsW13yGiA2e80fu4VIA) | [25](https://open.spotify.com/album/0xjzc4iCVMxVPE5584fUhW) | 6:04 | 2025-02-14 | 2025-04-11 |
+| [Świat bez kobiet](https://open.spotify.com/track/4YaKZXuz3AnrCv0KmquAtl) | [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Bardzo wszystko](https://open.spotify.com/album/5in3Ug90N3Tjd5bRRyjlPU) | 2:46 | 2025-09-25 |  |
 | [świat lepiej smakuje](https://open.spotify.com/track/5UK0CowEcdpLq36WNJDE7x) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [świat lepiej smakuje](https://open.spotify.com/album/5DsDMvV6GY9pwJdgcMLqGn) | 2:58 | 2024-06-27 | 2024-07-12 |
 | [Świat pana M](https://open.spotify.com/track/1vRaehyrvRX2GKtqgP3a3g) | [Pan Ba](https://open.spotify.com/artist/4zMN5xAFsBHA2idVpUiag1) | [Świat pana M](https://open.spotify.com/album/3HsGAZ0WURgLjHHeeFy3Lm) | 3:24 | 2024-11-14 | 2024-11-29 |
 | [Świat z tektury](https://open.spotify.com/track/2gXkpmS7xnjxzxfSnDEusZ) | [Heima](https://open.spotify.com/artist/1aYeYHF941WNJDRlII88WD) | [Świat z tektury](https://open.spotify.com/album/7sUiA3S5nZq1y7t0mLK2np) | 2:35 | 2024-09-12 | 2024-10-18 |

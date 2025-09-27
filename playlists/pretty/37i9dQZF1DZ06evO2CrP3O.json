@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 139146,
+  "num_followers": 139152,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAAjKzOqFcaJTPtSj2JvstDb",
+  "snapshot_id": "aNSGAAAAAAAEpIMU68N7TZ+n6J/BV4cM",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of Blondie",
-        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 275733,
-      "name": "Heart Of Glass - Special Mix",
-      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel Lines (Remastered)",
         "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 215106,
       "name": "One Way Or Another - Remastered 2001",
       "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of Blondie",
+        "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 275733,
+      "name": "Heart Of Glass - Special Mix",
+      "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Letters",
-        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "(I'm Always Touched By Your) Presence, Dear - Remastered",
-      "url": "https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 200864,
       "name": "11:59",
       "url": "https://open.spotify.com/track/0yAi8iKRgy90VuNNZd3zhz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plastic Letters",
+        "url": "https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "(I'm Always Touched By Your) Presence, Dear - Remastered",
+      "url": "https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "The Tide Is High - Live",
-      "url": "https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parallel Lines",
         "url": "https://open.spotify.com/album/4M6s2jbhKWEcOdXZ8WiHts"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 203159,
       "name": "Pretty Baby",
       "url": "https://open.spotify.com/track/0Yue9xdK8DrISp8AeEpTDY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7rCHbBbsUpCu2BX5lBKynt"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "The Tide Is High - Live",
+      "url": "https://open.spotify.com/track/5xzeWwkkSsKu8fDSQcEcOy"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Do The Dark - Remastered 2001",
-      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
+      "duration_ms": 178400,
+      "name": "Here's Looking At You - Remastered 2001",
+      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Here's Looking At You - Remastered 2001",
-      "url": "https://open.spotify.com/track/58GbxfoWngbf7Jj7BVnOGc"
+      "duration_ms": 231800,
+      "name": "Do The Dark - Remastered 2001",
+      "url": "https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo"
     },
     {
       "added_at": null,

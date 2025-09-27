@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Arielle Free, NADIAH
 
-1,158 songs - 2 day 17 hr 49 min
+1,158 songs - 2 day 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -835,6 +835,7 @@
 | [Remember \(feat\. Stevie Appleton\)](https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Remember](https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg) | 3:19 | 2022-09-01 | 2023-03-11 |
 | [Rendezvous](https://open.spotify.com/track/1ENR9Zzy5GlPjUsaZW48jF) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Rendezvous](https://open.spotify.com/album/0FposarJ84MZOTuYbmykCv) | 3:28 | 2025-05-29 | 2025-09-13 |
 | [Repeating](https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Repeating](https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM) | 2:27 | 2023-05-26 | 2023-07-07 |
+| [Reset](https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [Reset EP](https://open.spotify.com/album/4WAGOxEZDWeat8p9vZBsL8) | 4:03 | 2025-09-25 |  |
 | [Resolution](https://open.spotify.com/track/2h0s5YLG2KpAPbJn2VKQf0) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Resolution](https://open.spotify.com/album/0aldqu0IulsfyOxdruOE7g) | 6:37 | 2025-09-18 |  |
 | [Restless](https://open.spotify.com/track/07h9zkURyHfak2q8wsS28R) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS) | [Restless](https://open.spotify.com/album/1lQIh3xjeRdVPkRjc0kdJ0) | 2:21 | 2024-11-01 | 2025-04-11 |
 | [Reverse Cowgirl 2](https://open.spotify.com/track/33EVvwTGTrfopZH9FyrWvQ) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Reverse Cowgirl 2](https://open.spotify.com/album/3lNfAyDNR55wADWY2epjXb) | 4:46 | 2022-08-11 | 2022-10-08 |
@@ -1056,7 +1057,6 @@
 | [Touch Down \(Feel The Rush\)](https://open.spotify.com/track/7KH2YG1vKtZurTuRg3n19l) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Touch Down \(Feel The Rush\)](https://open.spotify.com/album/6NbkKbATuGjI6E5vKtYCHI) | 3:16 | 2024-06-14 | 2025-01-31 |
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-07-06 | 2023-11-10 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-28 | 2025-07-25 |
-| [Track 1](https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl) | [Sidney Charles](https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH), [Archie Hamilton](https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 | 2025-02-21 | 2025-06-27 |
 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 | 2024-07-25 | 2025-03-07 |
 | [TRIBAL SPACEMAN](https://open.spotify.com/track/58e8LmPXhPlenHfYoaQnBu) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TRIBAL SPACEMAN](https://open.spotify.com/album/5XvNl4yk4g2rfN0dNYTM7x) | 3:56 | 2022-12-02 | 2023-03-31 |

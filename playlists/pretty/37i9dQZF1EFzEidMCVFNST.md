@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 183 | [Eu Tô Com Você](https://open.spotify.com/track/2xYeevuVaGyf8C6ZlBuWh8) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:04 |
 | 184 | [Suas Amigas \(Assereje\)](https://open.spotify.com/track/0m3FT962yi9lhQkShANgFs) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [Suas Amigas \(Assereje\)](https://open.spotify.com/album/5ruPLKXsF9RIxdAQk9qVK8) | 2:18 |
 | 185 | [Bate Palminha pra Ela](https://open.spotify.com/track/1HWXovIGDnctwV4CqHF3nV) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [GD Trilogia](https://open.spotify.com/album/3K9vzIZ8MJpkgYvH3jMWTH) | 3:03 |
-| 186 | [Amnésia](https://open.spotify.com/track/2VYDaBGNvw98OrDLSj55Zx) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/73q2GIJ0bC6zb3AjobpNUX) | 2:37 |
-| 187 | [Nunca Foi Tão Gostoso \- Ao Vivo](https://open.spotify.com/track/5RpAYFxIR8vMfdRBIeVTDF) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:42 |
+| 186 | [Nunca Foi Tão Gostoso \- Ao Vivo](https://open.spotify.com/track/5RpAYFxIR8vMfdRBIeVTDF) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:42 |
+| 187 | [Amnésia](https://open.spotify.com/track/2VYDaBGNvw98OrDLSj55Zx) | [Wallas Arrais](https://open.spotify.com/artist/33GsYMJgWMgIt4vbhUwTEe) | [Vibrations](https://open.spotify.com/album/73q2GIJ0bC6zb3AjobpNUX) | 2:37 |
 | 188 | [Lado Bom \- Ao Vivo](https://open.spotify.com/track/6u0rhQWzH2PoinGrMuinm6) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA), [Léo Moreira](https://open.spotify.com/artist/1wUxFuBWym6vKgn1akEUY9) | [Ao Vivo em Goiânia](https://open.spotify.com/album/3zjKPkYelG8ItxX9yMNOTo) | 2:44 |
 | 189 | [Vida de Solteiro \- Ao Vivo](https://open.spotify.com/track/0gFuMjx6xR1zHxrcPwfdrz) | [Mariana & Mateus](https://open.spotify.com/artist/2YCkwNYGevLmmLsbad5lsl) | [Quem Sabe Faz ao Vivo](https://open.spotify.com/album/6JinqrxXHOFHFz0U8mprqp) | 2:50 |
 | 190 | [Beijão](https://open.spotify.com/track/4edZCJCx5PLEqpKMrxNesS) | [Daniel Caon](https://open.spotify.com/artist/1NNT7LXreEsY7C0bHlCWDp) | [Emocionadin da Vida](https://open.spotify.com/album/6fFHUxOeBbOH9xY7QnjFlr) | 2:34 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 304 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 305 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `Ab9M6AAAAABWGKdA+YqzaesHAh/ScbY4`
+Snapshot ID: `Ab9SiAAAAABasLF4eu1oLdJ/8ZGzSbSk`

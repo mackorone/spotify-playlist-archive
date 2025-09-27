@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Letón Pé\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,903 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,924 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
 | 2 | [Dimelo](https://open.spotify.com/track/5vnxtlCUzyWVNvY6byiBwe) | [LINDO](https://open.spotify.com/artist/1h4ZAi8i44b0bSsMXXq6SL) | [Dimelo](https://open.spotify.com/album/6R7Zo832siISXLasEp9w3W) | 2:31 |
 | 3 | [Ámame](https://open.spotify.com/track/21Ez6ARLdC2bbXYpPQHzub) | [Bardo](https://open.spotify.com/artist/1SFhamIrUHoA2hfFWBAAqn) | [Transformation Time](https://open.spotify.com/album/7vDMZ0wXQZXPGNWDlAII1X) | 4:03 |
-| 4 | [stardust in my blood](https://open.spotify.com/track/6krAqd5MbY5oQguzbE1TRi) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Stardust in my Blood](https://open.spotify.com/album/2CDAzfAS5CxddLFYfbbZ6J) | 2:37 |
+| 4 | [Stardust in my Blood](https://open.spotify.com/track/6krAqd5MbY5oQguzbE1TRi) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [Stardust in my Blood](https://open.spotify.com/album/2CDAzfAS5CxddLFYfbbZ6J) | 2:37 |
 | 5 | [Nicole](https://open.spotify.com/track/4SVqVfRj8G5ekh2HqobV0o) | [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy), [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [Nicole](https://open.spotify.com/album/1Emercc6tSRhNo13uQkyMI) | 2:34 |
 | 6 | [La Conocí](https://open.spotify.com/track/6Jdy0AEVkSYIlFhWww53t3) | [LOCKWARD](https://open.spotify.com/artist/52IDIMrGNbCUkHrpkf0F8y), [Alzérreca](https://open.spotify.com/artist/6WyXBTkNHyy9tZ7IfnFuVq) | [La Conocí](https://open.spotify.com/album/7e62ZAvbWBrUXvdGUpb2Id) | 2:52 |
 | 7 | [Tranquilo](https://open.spotify.com/track/1N3A0Vy5MiIcAKxSPbBqR6) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [TRANQUILO](https://open.spotify.com/album/22FMTsJbRCZSEQFaeI92uE) | 2:49 |

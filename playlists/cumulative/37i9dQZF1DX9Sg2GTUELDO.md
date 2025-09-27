@@ -4,7 +4,7 @@
 
 > 感受女聲力量。Cover: Feanna Wong 黄淑蔓
 
-574 songs - 1 day 10 hr 10 min
+575 songs - 1 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [把自己還給自己](https://open.spotify.com/track/6lqZDNLv855czAX2ZZ5iBO) | [Elanne Kong](https://open.spotify.com/artist/4c13SqfZoqbvlFk0UeUIuR) | [把自己還給自己](https://open.spotify.com/album/5xP3bpxRTd0LnBT4rlgqEv) | 3:18 | 2025-08-28 |  |
 | [拔刺](https://open.spotify.com/track/1icuPSnNj9wTgJ0yOc07Mt) | [曾樂彤](https://open.spotify.com/artist/6W2vV8PN9oogX3ZElQyIOU) | [拔刺](https://open.spotify.com/album/2MuztZ0L43RNeeIUp6OqMu) | 3:32 | 2024-06-27 | 2025-09-12 |
 | [拯救我自己](https://open.spotify.com/track/4cAiQJTsXtFeuprgYtEWfz) | [Vivian Chan](https://open.spotify.com/artist/7h7iZmYBCQ3EEOwJLvTx8T) | [拯救我自己](https://open.spotify.com/album/7Lc3darGqlfHrzAKp9vSmv) | 3:50 | 2024-06-27 | 2025-09-12 |
+| [掌心的女孩](https://open.spotify.com/track/4jc9TFrjTWwAkzKt7mzWXa) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [掌心的女孩](https://open.spotify.com/album/6VcafyfKXU6JrdGFzMkc6j) | 4:03 | 2025-09-25 |  |
 | [接住](https://open.spotify.com/track/3P7xcO3UKI6c5SVjFFK7Id) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [接住](https://open.spotify.com/album/4GPqgcqnfoaNKHzXmqEKPQ) | 3:43 | 2025-08-07 |  |
 | [提前分手](https://open.spotify.com/track/7dJo2zjWskUkKbQnHB1yRS) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [提前分手](https://open.spotify.com/album/18hmzmdLSotlOcsmPH5xNp) | 3:32 | 2024-11-21 |  |
 | [撇](https://open.spotify.com/track/6eTfIbBQqCaonvqCv5jmvS) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [撇](https://open.spotify.com/album/58tmbCyD2KyANZy4BLmtk1) | 3:07 | 2025-09-18 |  |

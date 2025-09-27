@@ -2,9 +2,9 @@
 
 ### [Pakistani Indie 101](https://open.spotify.com/playlist/37i9dQZF1DX2E5psOxzjXz)
 
-> Explore Pakistan's thriving independent scene 🔥 Cover: Omar Mukhtar
+> Explore Pakistan's thriving independent scene 🔥 Cover: Zara Madani
 
-403 songs - 22 hr 14 min
+404 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Kahani Meri](https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Kahani Meri](https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc) | 2:19 | 2024-04-19 | 2024-09-14 |
 | [Kahani Suno 2.0](https://open.spotify.com/track/4VsP4Dm8gsibRxB5I2hEkw) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Kahani Suno 2.0](https://open.spotify.com/album/6BHlJhCk1vjCG6hqTG2SFV) | 2:53 | 2022-09-14 | 2023-04-09 |
 | [Kaise](https://open.spotify.com/track/4ZNlNsg7aDjeK9ORQpIPMh) | [Samra Khan](https://open.spotify.com/artist/6RTvKMKR11gpANguOSx5vv) | [Kaise](https://open.spotify.com/album/7KzDSXFJmK5dJzOe9U5zqu) | 4:24 | 2025-09-09 | 2025-09-25 |
-| [Kaleji](https://open.spotify.com/track/3ZQWPz5ggiFgRPHrpQ2doQ) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 2:58 | 2024-01-12 |  |
+| [Kaleji](https://open.spotify.com/track/3ZQWPz5ggiFgRPHrpQ2doQ) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 2:58 | 2024-01-12 | 2025-09-27 |
 | [Kali Raat](https://open.spotify.com/track/74UHCurjieq16JY1saeasF) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Zaw Ali](https://open.spotify.com/artist/19LdEP3vvsc2BJ4Vj7IRLI) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 2:58 | 2023-11-29 | 2024-02-17 |
 | [Kasam Ki Kasam](https://open.spotify.com/track/33e7SIWEr6AhRRT9cpn9ed) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Kasam Ki Kasam](https://open.spotify.com/album/4wub1DvYaUuEf8Jdck6Mvr) | 0:57 | 2024-01-12 | 2024-02-24 |
 | [Katé Na](https://open.spotify.com/track/1qtTCasqKlVKVG1DkMEEcg) | [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Adnan Abbas Rizvi](https://open.spotify.com/artist/7Jo598naeY8LMLpUmb2cbj) | [Katé Na](https://open.spotify.com/album/6rXlYqEbLfN6eNeWOXcfVB) | 2:46 | 2024-06-14 | 2024-12-13 |
@@ -224,6 +224,7 @@
 | [Lovesick](https://open.spotify.com/track/3Xvnh8wxRtnQUB9vGYhmUQ) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Lovesick](https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0) | 3:04 | 2021-12-06 | 2022-09-06 |
 | [Lutteya](https://open.spotify.com/track/5lvRJt718g6Crz1x5mzlDW) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP) | [Lutteya](https://open.spotify.com/album/4alqVnUPeTCTlRLT6FLtyW) | 2:48 | 2025-08-08 | 2025-09-10 |
 | [LV \(Ja Re Ja\)](https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [LV \(Ja Re Ja\)](https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW) | 3:07 | 2025-01-17 | 2025-05-19 |
+| [Maahi](https://open.spotify.com/track/7rpnhfRwtDcVvTpSENXPEB) | [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Maahi](https://open.spotify.com/album/56HmnDus04jOfLm7rb8WZu) | 3:08 | 2025-09-26 |  |
 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 | 2024-12-12 |  |
 | [MAHI // AVAY](https://open.spotify.com/track/4klMH7SD2ypbWvV8GxR452) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [MAHI // AVAY](https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0) | 2:34 | 2024-01-12 | 2025-05-27 |
 | [Mahi Ve](https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Mahi Ve](https://open.spotify.com/album/34aSTfoU0Y48pSE51JjpWQ) | 2:53 | 2021-12-06 | 2023-02-13 |

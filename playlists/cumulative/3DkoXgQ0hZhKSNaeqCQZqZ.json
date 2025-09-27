@@ -2927,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "I cant stop making mistakes",
+        "url": "https://open.spotify.com/album/68mFu6qBeVMEXtf1KPoSEo"
+      },
+      "artists": [
+        {
+          "name": "snuffles",
+          "url": "https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "I cant stop making mistakes",
+      "url": "https://open.spotify.com/track/6iD8XQ4eVCZG4OouuTsKHY"
+    },
+    {
+      "album": {
         "name": "I Don't Need Love",
         "url": "https://open.spotify.com/album/0eDzQHbimt2oZQVYNBa0AF"
       },

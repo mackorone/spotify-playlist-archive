@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics\. Cover: Behemoth
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,508 likes - 150 songs - 12 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,454 likes - 150 songs - 12 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 145 | [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 |
 | 146 | [Fly with Me](https://open.spotify.com/track/7bdMpp3VlobHOzuqSi0GWT) | [Brymir](https://open.spotify.com/artist/3YDtlBGmfvE2Xw0avhHeK5) | [Fly with Me](https://open.spotify.com/album/33VKMEjDVQiytCE8sTtkGA) | 4:51 |
 | 147 | [Mask Of Red Death](https://open.spotify.com/track/5OAqpB56GZAqbbU9dHGmWj) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [Necrophony](https://open.spotify.com/album/4UMTYpjf2pST9ojzIbMBqN) | 4:42 |
-| 148 | [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 |
-| 149 | [Iku\-Turso](https://open.spotify.com/track/7x80QmX9qhW4jEbZrE7mDD) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Iku\-Turso](https://open.spotify.com/album/6BHQPJPQCyRSk4wiAHniNP) | 4:37 |
+| 148 | [Iku\-Turso](https://open.spotify.com/track/7x80QmX9qhW4jEbZrE7mDD) | [Wolfheart](https://open.spotify.com/artist/11EAP8MX0cfrW9lzkK424H) | [Iku\-Turso](https://open.spotify.com/album/6BHQPJPQCyRSk4wiAHniNP) | 4:37 |
+| 149 | [Chapter III: Nest](https://open.spotify.com/track/5YDmEeIn2zJrsxO1rvfzrj) | [Where's My Bible](https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7) | [Chapter III: Nest](https://open.spotify.com/album/09XAlMXjuegy1rbEZf94Sj) | 3:43 |
 | 150 | [Awakening](https://open.spotify.com/track/0u6RMg7TrNHaLNPsVwt9mn) | [Swansong](https://open.spotify.com/artist/41o7icKIwWbg8W9i55eVeW) | [Awakening](https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN) | 3:57 |
 
 Snapshot ID: `AAAAAH1cfdwu0VxIidn7mHk0Xmob5/lk`

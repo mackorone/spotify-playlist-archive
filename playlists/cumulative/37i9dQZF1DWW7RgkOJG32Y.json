@@ -800,7 +800,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 261006,
       "name": "Bad State of Mind",
       "url": "https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 156721,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/3f3ujFD6YndqRRVYuBcq7T"
@@ -3884,7 +3884,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 264800,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
@@ -5505,6 +5505,24 @@
     },
     {
       "album": {
+        "name": "Let The Lonely",
+        "url": "https://open.spotify.com/album/4u9BR3AFUBH4Pn7UltwH0L"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Let The Lonely",
+      "url": "https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4"
+    },
+    {
+      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
       },
@@ -6134,6 +6152,28 @@
       "duration_ms": 200011,
       "name": "Mean Something",
       "url": "https://open.spotify.com/track/5kw5FXkySDRD90byTk4RoX"
+    },
+    {
+      "album": {
+        "name": "Measure (feat. Max McNown)",
+        "url": "https://open.spotify.com/album/6tWUs44CCd1z88cGYPOebf"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197693,
+      "name": "Measure - feat. Max McNown",
+      "url": "https://open.spotify.com/track/2cYH8hnffROSkisIuBSG1O"
     },
     {
       "album": {
@@ -7804,7 +7844,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 175070,
       "name": "Scornful Woman",
       "url": "https://open.spotify.com/track/5oEM9EDKL9y4XLTJzi0g96"
@@ -8046,7 +8086,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 150218,
       "name": "Small Town Girls",
       "url": "https://open.spotify.com/track/6Dm7r7IyaNLOnLKXs0MhKD"
@@ -8468,7 +8508,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 221373,
       "name": "Stay Country or Die Tryin\u2019",
       "url": "https://open.spotify.com/track/2OVJMopnpJFev3n1NxDJ92"
@@ -9082,7 +9122,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 197626,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg"

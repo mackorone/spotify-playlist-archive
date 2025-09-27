@@ -4,14 +4,14 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-428 songs - 1 day 1 hr 7 min
+429 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 | 2022-06-06 | 2024-11-13 |
 | [123我愛你](https://open.spotify.com/track/3G6xzaTG4H5q1hF0O29Pcr) | [新樂塵符\-賀子玲](https://open.spotify.com/artist/1no9ABTWrrjgqPVRadC6XA) | [123我愛你](https://open.spotify.com/album/0YU1etKEY5LnAOGByT1MsQ) | 3:19 | 2022-06-20 | 2022-07-10 |
 | [123我爱你](https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u) | [新乐尘符](https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA) | [123我爱你](https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo) | 3:19 | 2022-07-25 | 2024-04-19 |
-| [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 | 2022-06-06 |  |
+| [All Day](https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [All Day](https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU) | 3:26 | 2022-06-06 | 2025-09-27 |
 | [Always Be with You\(電視劇《戀愛是科學》片頭曲\)](https://open.spotify.com/track/4ehqDwPzXQDkQqtGWR8vkD) | [王欣晨 Amanda](https://open.spotify.com/artist/4tAhv18fKUC8QOWNiWS5eJ) | [每天都是紀念日](https://open.spotify.com/album/4Gaah0qAyq762OOS1qfG1H) | 3:47 | 2022-06-13 | 2022-07-25 |
 | [ANYTHING YOU WANT](https://open.spotify.com/track/0ZmrEs9PVo8Ouks4DCeknO) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [ANYTHING YOU WANT](https://open.spotify.com/album/10jiV0i5TjmINUU5jIRIZn) | 3:17 | 2022-06-06 | 2022-07-25 |
 | [ANYTHING YOU WANT \- Duet Version](https://open.spotify.com/track/4QpK3n9kidFcEHU4rBfLoi) | [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW), [吳宇恆](https://open.spotify.com/artist/45bOOG6ExnhMFBjKLZNZ2M) | [ANYTHING YOU WANT \(Duet Version\)](https://open.spotify.com/album/0AWl8bgcO3k3uuT8kiOiXr) | 3:17 | 2022-06-13 | 2022-07-21 |
@@ -268,6 +268,7 @@
 | [愛的菜市場](https://open.spotify.com/track/75V4tdx9wBJWXAvgADroED) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [愛的菜市場](https://open.spotify.com/album/3pvU1pLuTuOcpwm2ooVNip) | 2:59 | 2025-02-06 | 2025-04-09 |
 | [愛的首席](https://open.spotify.com/track/5LLF4td1wqhZ2fuxAulSWD) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [愛的首席](https://open.spotify.com/album/3q9vVzxUg1HwBylkLJKpS8) | 3:32 | 2024-01-01 | 2024-06-29 |
 | [感情線](https://open.spotify.com/track/3LgX9DAyToN6qHeCWhuuQH) | [Tension](https://open.spotify.com/artist/7fQvUENMhNj1uudorBk9DO) | [故事\(新歌+精選\)](https://open.spotify.com/album/3Zgjs3ZBOn1h0wj2e1yzpp) | 4:05 | 2022-07-11 | 2022-11-02 |
+| [慢動作告白](https://open.spotify.com/track/0oTNUfAZEykfW3zglmqdiF) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [慢動作告白](https://open.spotify.com/album/3rmO1ZCqgQbHlWam1InUBD) | 2:39 | 2025-09-25 |  |
 | [慢慢來](https://open.spotify.com/track/1yAgPYONWEoQgsOaFqIVGE) | [歐得洋](https://open.spotify.com/artist/4bq18ACyIRmH97uzCqrAEx) | [慢慢來](https://open.spotify.com/album/6PUCm1ig2sqtDU0epcKHQL) | 3:48 | 2022-06-13 | 2022-06-19 |
 | [慢慢走 \(影集《靈魂約定》插曲\)](https://open.spotify.com/track/2qGiyxisBAEMFd1rJOdDxk) | [顧于安](https://open.spotify.com/artist/40BZviKYLv51xc0Rrwij7m) | [慢慢走 \(影集《靈魂約定》插曲\)](https://open.spotify.com/album/504FB23aYfoAGBujN3WZCa) | 3:47 | 2025-07-03 | 2025-09-06 |
 | [慢慢靠近](https://open.spotify.com/track/1M0MsRnz3NfKqE37VyexwV) | [董又霖](https://open.spotify.com/artist/0rHXxnGdTBaVYVit4HfNE9) | [慢慢靠近](https://open.spotify.com/album/0ZUQ3g76DZwgFhzKAPampH) | 3:27 | 2022-09-05 | 2023-02-28 |

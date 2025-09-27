@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-499 songs - 1 day 0 hr 0 min
+501 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Artificial Intelligence](https://open.spotify.com/track/5EmqB3YZ6cARtlq5xPgtrz) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Sirona](https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G), [Heyder](https://open.spotify.com/artist/13zcQXoEQbyGdi7W78d4nc) | [Artificial Intelligence](https://open.spotify.com/album/5XqGAMi4EINRqAwwgDBNY2) | 2:29 | 2023-04-14 | 2025-04-27 |
 | [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 | 2023-03-04 |
 | [Attitude](https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Attitude](https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi) | 2:01 | 2024-04-19 | 2025-04-27 |
+| [Automatic](https://open.spotify.com/track/7LFj6r6OoAQLdQlNdY7Ycj) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Automatic](https://open.spotify.com/album/7M36OT3jENHuq2w3waVFtt) | 1:50 | 2025-09-26 |  |
 | [Automatic](https://open.spotify.com/track/3KmfcNPQ8PtYZEdo0JFgNw) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Automatic](https://open.spotify.com/album/63E9zyXGEyMZPNJGNnCS1V) | 3:33 | 2024-02-09 | 2025-04-27 |
 | [Back To Us](https://open.spotify.com/track/590T9WalvUZudNgVVXZE0W) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us](https://open.spotify.com/album/6aHmUKJNaOystRL2r9Wwd3) | 2:54 | 2023-08-11 | 2025-04-27 |
 | [Back To Us \- Acoustic Mix](https://open.spotify.com/track/6uVua5Di40zCSyT07zdPRA) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x) | [Back To Us \(Acoustic Mix\)](https://open.spotify.com/album/1W2Mb3YgdjJcWCV7HxhFtk) | 3:02 | 2024-03-08 | 2025-04-27 |
@@ -179,6 +180,7 @@
 | [Getting Started](https://open.spotify.com/track/2gMTwP5aqyBikVB8kM1Kkq) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [Getting Started](https://open.spotify.com/album/1bGK8Zb61ZEfXDXQXl0xrN) | 1:58 | 2024-03-01 | 2025-04-27 |
 | [Girls N Boys](https://open.spotify.com/track/3pQK1vMfnQnMRCtO7X6VfW) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Girls N Boys](https://open.spotify.com/album/5YxAwFb13Rum21MPS3ErYY) | 2:20 | 2023-11-22 | 2025-04-27 |
 | [Gitrox](https://open.spotify.com/track/259nV0mqEAhFcLDAcSXnYM) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/2AE94zFSIdF8NiSygPFdMU) | 3:17 | 2023-11-22 | 2025-04-27 |
+| [Glitter & Gold](https://open.spotify.com/track/6WAD0F28oPL1xthLnWudRh) | [Wurme](https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ), [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl) | [Glitter & Gold](https://open.spotify.com/album/1Jhpc4DfM04o0MenO4nQFq) | 2:28 | 2025-09-26 |  |
 | [Go Back](https://open.spotify.com/track/7qM19bCRQhMgoLgy6PCMmS) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Go Back](https://open.spotify.com/album/2UgSM0r0Af6WpVhSlhLAnf) | 2:26 | 2023-06-03 | 2025-04-27 |
 | [GOD IS A DJ \(feat\. CRAY\)](https://open.spotify.com/track/76AGO4vqC1k4MzxdSbXdC0) | [Dani Thorne](https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku), [CRUNCHi](https://open.spotify.com/artist/51lxZ0EUXLCTN03l23HQxe), [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [GOD IS A DJ \(feat\. CRAY\)](https://open.spotify.com/album/50VtD5PV0KgL6XatHfDdSJ) | 4:13 | 2025-08-08 |  |
 | [GOIN' ROUND](https://open.spotify.com/track/7l0N0ZzO2TCcXn6fA29mAe) | [SMITHWORKS](https://open.spotify.com/artist/2xMjDjnnCw558pO4C96qnS) | [GOIN' ROUND](https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto) | 2:25 | 2023-02-14 | 2023-04-01 |

@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "The King Is Still The King",
+        "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286152,
+      "name": "Still The King",
+      "url": "https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu"
+    },
+    {
+      "album": {
         "name": "REBEL (The Beginning)",
         "url": "https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5"
       },
@@ -2665,7 +2683,7 @@
     },
     {
       "album": {
-        "name": "with me",
+        "name": "WITH ME",
         "url": "https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG"
       },
       "artists": [

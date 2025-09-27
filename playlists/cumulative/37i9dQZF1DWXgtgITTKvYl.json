@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0gGTQB8SW3e0mniL8OGb0N"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Caravan",
+          "url": "https://open.spotify.com/artist/61MH29rMIyOfuK7KXQznzX"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252261,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/2jmh3lFcCwHYYN8QgMtSdo"
+    },
+    {
+      "album": {
         "name": "Alpha Howl",
         "url": "https://open.spotify.com/album/6PSB8BuGrQjgkNYy6ipToU"
       },
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 182314,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/4hHej12aUB9TrubEIZVhD2"
@@ -3745,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/5mJr0qZDx87Ttsys8QuPsg"
+      },
+      "artists": [
+        {
+          "name": "Bernth",
+          "url": "https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171624,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/1IfI2uz0lCvV587vHFrLBU"
+    },
+    {
+      "album": {
         "name": "PAINTER",
         "url": "https://open.spotify.com/album/5VYKCk3uGKXAQUZkRbGzr0"
       },
@@ -4080,7 +4116,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 183716,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/3GkmgQTR6GEsx9OMQoJYRA"

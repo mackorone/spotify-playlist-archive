@@ -2,9 +2,9 @@
 
 ### [GRAVEL](https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6)
 
-> back roads up loud with Treaty Oak Revival
+> back roads up loud with Whiskey Myers
 
-54 songs - 3 hr 2 min
+55 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Jesus and Joan Jett](https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Jesus and Joan Jett](https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl) | 3:01 | 2025-09-05 |  |
 | [John Wayne](https://open.spotify.com/track/4TcpoeAXkbJnXfxvOjJzCy) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs) | 4:55 | 2025-09-05 |  |
 | [Kill Me](https://open.spotify.com/track/1zpePAy9O9znaLHlGfUmdf) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Love You, Goodnight](https://open.spotify.com/album/76GsHRqy08Ndqkx8Bwlr6K) | 2:43 | 2025-09-05 |  |
+| [M.I.A](https://open.spotify.com/track/0h45L8tQrb6lwrQHUQovNn) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [M.I.A](https://open.spotify.com/album/1K9hq2qxMtxu1LwJJmqywc) | 3:06 | 2025-09-26 |  |
 | [Make It Look Easy](https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Make It Look Easy](https://open.spotify.com/album/1ylXu63fdiBSoVrdnx6YXE) | 2:33 | 2025-09-05 |  |
 | [Me On You](https://open.spotify.com/track/1wwjfgCUXaupR7q3tv6ZXN) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Dixie](https://open.spotify.com/album/34Pt5YlloNLomVuV97GbAY) | 2:47 | 2025-09-05 |  |
 | [Missed Call](https://open.spotify.com/track/6ybZUqlfk938oS6WeBmDab) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 4:15 | 2025-09-05 |  |

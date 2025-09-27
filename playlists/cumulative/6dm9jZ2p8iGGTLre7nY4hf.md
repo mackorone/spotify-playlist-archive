@@ -4,7 +4,7 @@
 
 > Break up songs, the best cure for a broken heart!
 
-479 songs - 1 day 3 hr 4 min
+482 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-09-15 |  |
 | [Carry It Well](https://open.spotify.com/track/6VgwZIrbmxcmPOYgpuoBeq) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Carry It Well](https://open.spotify.com/album/2BW5OzoFjPQySYW14Syiyy) | 3:35 | 2023-09-15 | 2025-03-14 |
 | [Carry you home \- Acoustic](https://open.spotify.com/track/2RX3YTmm8ils2ZTwiIGomj) | [KAMARA](https://open.spotify.com/artist/2v3gpVjL6OOm6ssDZaJYnm) | [Carry you home \(Acoustic\)](https://open.spotify.com/album/3To3YxyNQAfxdcrvu23XGL) | 3:32 | 2023-09-15 | 2025-03-14 |
-| [Cathedral](https://open.spotify.com/track/0xwu0DXnV1dHmp47imCUWA) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [](https://open.spotify.com/album/null) | 3:28 | 2025-09-25 |  |
+| [Cathedral](https://open.spotify.com/track/0xwu0DXnV1dHmp47imCUWA) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals:](https://open.spotify.com/album/3zzCqPiX9JhtOKBVxlPQqs) | 3:28 | 2025-09-25 |  |
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-09-15 | 2025-03-14 |
 | [Caves](https://open.spotify.com/track/6mHw0o12JUfDodSxMwp8TI) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/70ZgNr9ZbfPqaOn0gfA50A) | 3:53 | 2023-09-15 | 2025-03-14 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2025-03-26 |  |
@@ -357,6 +357,7 @@
 | [sicker](https://open.spotify.com/track/7deKd2P0q8Wocasuten7I5) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [sicker](https://open.spotify.com/album/0oIZwRLfRwOSp9UxjP2j4t) | 3:12 | 2023-09-15 | 2025-03-14 |
 | [Sign of the Times](https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sign of the Times](https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR) | 5:40 | 2023-09-15 | 2025-03-14 |
 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 | 2025-03-26 |  |
+| [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2025-09-26 |  |
 | [Singing for Days \(feat\. Sandra Hesch\)](https://open.spotify.com/track/7aZCznkucJgNJazcmxPpeD) | [Mike Vallas](https://open.spotify.com/artist/3bBb1wCpTPxl3KRfb2UbJb), [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Singing for Days \(feat\. Sandra Hesch\)](https://open.spotify.com/album/0GySDrRyhKozJ2TIkisJXk) | 3:19 | 2023-09-15 | 2025-03-14 |
 | [single af](https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [single af](https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh) | 3:06 | 2023-09-15 | 2025-03-14 |
 | [Siste farvel](https://open.spotify.com/track/45UXXykuHGkwKAGIctXfu7) | [Spelloppmaker](https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi) | [Siste farvel](https://open.spotify.com/album/5qy2NCz2kL0hBwDlLYftjS) | 2:56 | 2025-05-23 |  |
@@ -426,10 +427,11 @@
 | [THOUSAND MILES](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THOUSAND MILES](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2023-09-15 | 2025-03-14 |
 | [till you hate me](https://open.spotify.com/track/1QG6ItNSNxIswkFV4Bp7MJ) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [till you hate me](https://open.spotify.com/album/1MbdzIis9KoyqqYFxR7om2) | 2:59 | 2023-09-15 | 2025-03-14 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-06 |  |
-| [Tired Eyes](https://open.spotify.com/track/5eUfHAH72xZ2sMufJfyzw9) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [](https://open.spotify.com/album/null) | 2:52 | 2025-09-25 |  |
+| [Tired Eyes](https://open.spotify.com/track/5eUfHAH72xZ2sMufJfyzw9) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals:](https://open.spotify.com/album/3zzCqPiX9JhtOKBVxlPQqs) | 2:52 | 2025-09-25 |  |
 | [Tommy's Party](https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Being So Normal](https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA) | 6:01 | 2025-03-26 |  |
 | [Too Fucked Up to Love you](https://open.spotify.com/track/5pvqXgUhiQsNZ9whFVjtaa) | [dePresno](https://open.spotify.com/artist/3DzvldYcKG83XYhYC0wfLn) | [Monochrome](https://open.spotify.com/album/2sLWUHZQTHFzlYqJ2P1H36) | 2:45 | 2023-09-15 | 2025-03-14 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2023-09-15 |  |
+| [Try](https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:07 | 2025-09-26 |  |
 | [Try Again Tomorrow \(feat\. Darling West\)](https://open.spotify.com/track/5nolnpxrQloc0tBtTNDUS4) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR), [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Try Again Tomorrow \(feat\. Darling West\)](https://open.spotify.com/album/3oHmXxE0aJSReIV2YkKYCE) | 3:43 | 2023-09-15 | 2025-03-14 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-03-26 |  |
 | [two nights \(feat\. Aminé\)](https://open.spotify.com/track/1CPNoBoQIc0dgK8MQDyx0T) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:24 | 2023-09-15 | 2025-03-14 |
@@ -448,6 +450,7 @@
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2023-09-15 | 2025-03-14 |
 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-09-15 | 2025-03-14 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2023-09-15 | 2025-03-14 |
+| [What About Us](https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:29 | 2025-09-26 |  |
 | [What Happened to Ryan](https://open.spotify.com/track/0UYNa7reQKIbADXr8iN28w) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:35 | 2023-09-15 | 2025-03-14 |
 | [What If](https://open.spotify.com/track/1nyQWVjQ46agLbVmJJbWR7) | [JOP](https://open.spotify.com/artist/3KKxb3BykQhR9HVdXsSlkO) | [What If](https://open.spotify.com/album/3Pc9topjxyaOZodNqU27Mp) | 2:51 | 2023-09-15 | 2025-03-14 |
 | [What If I Told You That I Love You](https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [What If I Told You That I Love You](https://open.spotify.com/album/5pxH5JnBRw3Dc7CCxESMWM) | 3:13 | 2023-09-15 | 2025-03-14 |

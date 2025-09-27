@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZKyQHcEFXZ.md) - [plain]
 
 > El título lo dice todo! Twerk out work out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,428,190 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,427,273 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

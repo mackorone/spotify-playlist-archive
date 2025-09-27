@@ -2223,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/44VqSP4sgQcWr7S2eu3Jiu"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361000,
+      "name": "Love Inc",
+      "url": "https://open.spotify.com/track/5bjXTibRMVzZUQwiT47Z93"
+    },
+    {
+      "album": {
         "name": "Dear Diary",
         "url": "https://open.spotify.com/album/1Gxfg7F8DQ1V8oBEIZzWa7"
       },

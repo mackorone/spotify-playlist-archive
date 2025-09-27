@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar. ",
+  "description": "Merayakan 1000 artis RADAR dengan mendengarkan beberapa artis RADAR Indonesia yang paling banyak diputar. Cover: Bernadya",
   "name": "RADAR Indonesia ",
   "tracks": [
     {
@@ -4859,6 +4859,24 @@
     },
     {
       "album": {
+        "name": "Hari Ini, Esok & Selamanya",
+        "url": "https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224608,
+      "name": "Terima Kasih",
+      "url": "https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe"
+    },
+    {
+      "album": {
         "name": "Terlalu Sayang",
         "url": "https://open.spotify.com/album/4BvjQGyatE1Y4jmNgwAn3A"
       },
@@ -5172,24 +5190,6 @@
       "duration_ms": 184615,
       "name": "Topeng",
       "url": "https://open.spotify.com/track/2iHfsyJp0tRdGH3xgSRtSz"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "date_added": "2025-09-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe"
     },
     {
       "album": {

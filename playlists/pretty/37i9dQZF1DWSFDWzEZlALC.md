@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kraftklub, Domiziana
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,915 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,112 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 8 | [Swipes](https://open.spotify.com/track/0IfOmijmDKrfEltjOEzUVy) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [wieder verliebt](https://open.spotify.com/album/5XRPudErhTfvAcaAkdcy0x) | 3:04 |
 | 9 | [ariadne](https://open.spotify.com/track/77g2kugdY7tdQzUNgMio2N) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [1jahr ep](https://open.spotify.com/album/7tVwgdD9G6VItWdXY3OiU8) | 2:26 |
 | 10 | [Method Acting](https://open.spotify.com/track/0waRqqT3XMM1UzZkSZGnd3) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Method Acting](https://open.spotify.com/album/2tz2LLDjbdRZXaWsYwRAtA) | 2:47 |
-| 11 | [Track 11](https://open.spotify.com/track/3akDRulHPpIlDseXxUxdWr) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [](https://open.spotify.com/album/null) | 0:00 |
+| 11 | [Bin nicht verantwortlich für dich](https://open.spotify.com/track/3akDRulHPpIlDseXxUxdWr) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Kommt von Herzen](https://open.spotify.com/album/3iSXIrFDaqs0bokKlAVX1X) | 3:06 |
 | 12 | [Arsenalplatz](https://open.spotify.com/track/2BflyD6iRTJJffvVqmMtk5) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Arsenalplatz](https://open.spotify.com/album/6xztgC0pES1sRIA3v1JTTh) | 2:55 |
 | 13 | [Annemarie](https://open.spotify.com/track/0wWeUsowhTwGwErwsmmg7M) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Annemarie](https://open.spotify.com/album/04BQ7nU5YPYhJGmSMNtkPj) | 3:06 |
 | 14 | [Wo ist der Bus?](https://open.spotify.com/track/3K9w7OyVYqqdH3OCW1fitJ) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Wo ist der Bus?](https://open.spotify.com/album/32WbGkfl1nQ1BaOLEAzJlz) | 3:10 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Rondodasosa,  e molti altri.
+> Sempre aggiornata\. Con nuovi brani di Rondodasosa, Boro e Guè, 22simba, Mecna,  Visino Bianco e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,279 likes - 106 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,316 likes - 106 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 33 | [Player \(feat\. Joshua & Silent Bob\)](https://open.spotify.com/track/2tXuKyeDQuCqZsOn5LQEsm) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [BISTRO!](https://open.spotify.com/album/4TyK5OpO6xqUqnQNccWpSd) | 2:28 |
 | 34 | [TRE \(feat\. Salmo, Low Kidd, Nitro\)](https://open.spotify.com/track/5XAJzu72otPTtWWjZX6XOZ) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [OSTIL3](https://open.spotify.com/album/49ZyGerSEt8m7LXLeNWW6f) | 3:03 |
 | 35 | [MIA SICILIA](https://open.spotify.com/track/1KYbt2HeLEBs44rgFm4blg) | [Emme Effe](https://open.spotify.com/artist/4ElnMOO8e67S4PYu3rrmTO), [808s](https://open.spotify.com/artist/2GOXq0IQdGC0Ke965fc6ys) | [MIA SICILIA](https://open.spotify.com/album/2QeG1UtClfNuD25JeaklDA) | 2:27 |
-| 36 | [Track 2](https://open.spotify.com/track/4xtQfCb0yf8E0MCy2HI2sy) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [](https://open.spotify.com/album/null) | 0:00 |
+| 36 | [A casa mì \(feat\. Enzo Dong\)](https://open.spotify.com/track/4xtQfCb0yf8E0MCy2HI2sy) | [Fuossera](https://open.spotify.com/artist/53NBqBq06Yt70uHzbIIkRb), [Enzo Dong](https://open.spotify.com/artist/7iCdyOeJYk06mKJ6nLrFQ6) | [Ghetto Resistenz](https://open.spotify.com/album/1HeKIcJuzMYimMl4vkOLNZ) | 3:12 |
 | 37 | [BANDITO](https://open.spotify.com/track/4wr8git78eXX2UYaEOsrUn) | [LIUAN](https://open.spotify.com/artist/4EWwWCzNKwF2hJMjNtldWt) | [BANDITO](https://open.spotify.com/album/65c96jqqVAvrtV8s3YwIll) | 2:54 |
 | 38 | [DOUBLE TAP](https://open.spotify.com/track/7CFvQPt2w76Nm2mdVbGdJm) | [Elena Manuele](https://open.spotify.com/artist/6WUA50yJ87gbWrYEPGizxl), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [DOUBLE TAP](https://open.spotify.com/album/3Usm38eU42bbIkTCTzqbFl) | 2:24 |
 | 39 | [Caramelle](https://open.spotify.com/track/2RkbuBcHSq4DMCafxAP3ln) | [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Caramelle](https://open.spotify.com/album/4auVLKtiEUt3tBBTSjhlPq) | 2:02 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 105 | [come si fa](https://open.spotify.com/track/7CX1qSTRDIoP36YlNNymTx) | [nunfrizz](https://open.spotify.com/artist/1mo5WFDtzt5DrLTUcezySr), [loco](https://open.spotify.com/artist/4eyjzUOLIVfWsK02G2V4Z3) | [come si fa](https://open.spotify.com/album/6x81Sm692diFOz0XZ3sreq) | 2:03 |
 | 106 | [Anche gli uomini soffrono](https://open.spotify.com/track/6699uIUxOqbj6ayxU3keIL) | [Rnawa](https://open.spotify.com/artist/18VNvuSCfOuIwCkd8VzOIV) | [Anche gli uomini soffrono](https://open.spotify.com/album/4gXwH9dCpU8IHcIjm2C9so) | 2:12 |
 
-Snapshot ID: `AAAAAN1XrU4v8i0zMw/4FoK7BLSOrTHd`
+Snapshot ID: `AAAAADnPOBmRuETWls/75ENU045Q2Yda`

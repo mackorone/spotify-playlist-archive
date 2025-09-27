@@ -876,7 +876,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 196015,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/4B3cGux5Dy2VRYUbsqDj4M"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 133359,
       "name": "6 Veces",
       "url": "https://open.spotify.com/track/75mW9Fe4XuLV3brqIcvhGK"
@@ -1880,7 +1880,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 155624,
       "name": "Actitud",
       "url": "https://open.spotify.com/track/49pMKJz5qwNWTSQgewCOII"
@@ -1980,7 +1980,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 138352,
       "name": "Adicto A Ti",
       "url": "https://open.spotify.com/track/3SRlfFW7njWnmzD3KwTCMg"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 200597,
       "name": "Arizona",
       "url": "https://open.spotify.com/track/60ms6HaoWLPNJPYWp3K84t"
@@ -7868,7 +7868,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 150823,
       "name": "Buenos T\u00e9rminos",
       "url": "https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb"
@@ -8936,7 +8936,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 167288,
       "name": "casualidad",
       "url": "https://open.spotify.com/track/76CirVdwbTPD73kICChxJZ"
@@ -10790,7 +10790,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 164769,
       "name": "CORA DE HIELO",
       "url": "https://open.spotify.com/track/4ZzxVQZcZWcLjfiOA3hRH8"
@@ -13417,6 +13417,24 @@
     },
     {
       "album": {
+        "name": "Diablah",
+        "url": "https://open.spotify.com/album/1RLOltlJ3NUJrvAW6Va1oK"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175281,
+      "name": "Diablah",
+      "url": "https://open.spotify.com/track/5LDUHU7zXjxQoKOQMajfHP"
+    },
+    {
+      "album": {
         "name": "Diablo (Remix)",
         "url": "https://open.spotify.com/album/4S4DV8o5ASH2Ry6R4sJOVl"
       },
@@ -14860,7 +14878,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 254941,
       "name": "Duro Ma",
       "url": "https://open.spotify.com/track/5NTdorni110puBoPgWhK58"
@@ -17753,6 +17771,24 @@
     },
     {
       "album": {
+        "name": "Eso Es Un Vibe",
+        "url": "https://open.spotify.com/album/5lqtdG6bgiz967gn4UzeXj"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Eso Es Un Vibe",
+      "url": "https://open.spotify.com/track/51YnQomvoWD3BeZpWMTiI0"
+    },
+    {
+      "album": {
         "name": "Cien x Ciento",
         "url": "https://open.spotify.com/album/5YpRuLb8nmuwdDF4isj4iQ"
       },
@@ -18766,7 +18802,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 182400,
       "name": "FCK DAT",
       "url": "https://open.spotify.com/track/3d5EXv6u0rWzQYWWFFxJ9u"
@@ -20673,6 +20709,24 @@
     },
     {
       "album": {
+        "name": "GANGTEL",
+        "url": "https://open.spotify.com/album/1i5UQggnBjvDCOzzmtqUOW"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176645,
+      "name": "GANGTEL",
+      "url": "https://open.spotify.com/track/2XoH0IGikmWIRkCBBqvfp1"
+    },
+    {
+      "album": {
         "name": "Garchin",
         "url": "https://open.spotify.com/album/2JjA9KmAvPr8WywLFD8YxA"
       },
@@ -21688,7 +21742,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 157444,
       "name": "GTO",
       "url": "https://open.spotify.com/track/3h0AYC4XxstxeJ3TGHcLXY"
@@ -21706,7 +21760,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 161055,
       "name": "GuabanSexxx",
       "url": "https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff"
@@ -25044,7 +25098,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 147789,
       "name": "King of Watches",
       "url": "https://open.spotify.com/track/3QJXJACwdZ3EaIqdF5ZiXh"
@@ -25786,7 +25840,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 205714,
       "name": "La Ciudad del Sol",
       "url": "https://open.spotify.com/track/6xiQzVWczksJRBVbMDkV6A"
@@ -26150,7 +26204,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 158210,
       "name": "LA FREAK",
       "url": "https://open.spotify.com/track/34OeWFapJcyotfNV4h2Xuj"
@@ -28522,7 +28576,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 143750,
       "name": "Lokota",
       "url": "https://open.spotify.com/track/6t6nppgClHgZlwYfwyuiTW"
@@ -28616,6 +28670,24 @@
       "duration_ms": 159501,
       "name": "Lolly (with Clarent)",
       "url": "https://open.spotify.com/track/4B18y89IGhU1XbTzDK8Q4k"
+    },
+    {
+      "album": {
+        "name": "princesa de la noche",
+        "url": "https://open.spotify.com/album/1O4KYm9wHTNwAnjoHCnQMI"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144943,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/2zajUUzQI6EVxepdee2KML"
     },
     {
       "album": {
@@ -30830,7 +30902,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-20",
+      "date_removed": null,
       "duration_ms": 168209,
       "name": "Me Mareo",
       "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
@@ -33408,7 +33480,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 222866,
       "name": "Nadie Como Tu",
       "url": "https://open.spotify.com/track/3E2jVBZU7fjRNB0m3PrrhF"
@@ -36254,7 +36326,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 150102,
       "name": "Olvid\u00e1ndote",
       "url": "https://open.spotify.com/track/0JP1UuIeyF9Sc9iAeMZ7Gf"
@@ -40587,6 +40659,28 @@
     },
     {
       "album": {
+        "name": "PRE\u00d1\u00c1",
+        "url": "https://open.spotify.com/album/7brEChjNyiCa6aEi4VtMU6"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208721,
+      "name": "PRE\u00d1\u00c1",
+      "url": "https://open.spotify.com/track/454b0WL1k7vQ8MX1wRNRuS"
+    },
+    {
+      "album": {
         "name": "PRIMER AVISO",
         "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
       },
@@ -40971,6 +41065,32 @@
     },
     {
       "album": {
+        "name": "Puej Claro",
+        "url": "https://open.spotify.com/album/3nZRtjqGIVjHyEHtQ2nYdF"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "L-O-N",
+          "url": "https://open.spotify.com/artist/3nzfJeScfLaqasTrNn2QGj"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225319,
+      "name": "Puej Claro",
+      "url": "https://open.spotify.com/track/3eqXThzK0BNXFMhoRTmQjC"
+    },
+    {
+      "album": {
         "name": "PUERTO ESCONDIDO",
         "url": "https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z"
       },
@@ -41008,6 +41128,24 @@
       "duration_ms": 199627,
       "name": "Puerto Rican Mami",
       "url": "https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI"
+    },
+    {
+      "album": {
+        "name": "PUESTOPAKPASE",
+        "url": "https://open.spotify.com/album/3E8ZL8JrFL7YC3rOPCD7BK"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152006,
+      "name": "PUESTOPAKPASE",
+      "url": "https://open.spotify.com/track/4Gb6DYlVxeepf6KkDUZjdF"
     },
     {
       "album": {
@@ -41374,7 +41512,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 148915,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
@@ -41706,7 +41844,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 240681,
       "name": "Que Somos 2.0",
       "url": "https://open.spotify.com/track/1VnkN8AANvFqVhSgZOcH6Q"
@@ -42994,7 +43132,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 270158,
       "name": "REINAA",
       "url": "https://open.spotify.com/track/5wu2O9uFF3tG6nM8CE6Glz"
@@ -43302,7 +43440,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 200156,
       "name": "Revol\u00fa",
       "url": "https://open.spotify.com/track/0PLEcRTmhL9By2KMTqLbzz"
@@ -49650,7 +49788,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 158350,
       "name": "TODO KE VER",
       "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
@@ -50304,7 +50442,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 256000,
       "name": "Tranki",
       "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
@@ -51248,7 +51386,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 221224,
       "name": "TUCHAT",
       "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
@@ -53598,7 +53736,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"

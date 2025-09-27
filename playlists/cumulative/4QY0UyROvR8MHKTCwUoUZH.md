@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2025 \| Koffie Chill \| Café Music
 
-121 songs - 6 hr 35 min
+124 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Flowers \(Carry Me Home\)](https://open.spotify.com/track/70VTz7ZH2rCXUbk6PEo4Ap) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [Flowers \(Carry Me Home\)](https://open.spotify.com/album/2vMtuoEPWr7zbQnjCoLoVa) | 3:42 | 2025-07-18 |  |
 | [Flyover State](https://open.spotify.com/track/2ZxUgGgTOUM1izQUSQ6Ui1) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Flyover State](https://open.spotify.com/album/03T3cRxwnKsDtOeHZ4K5EG) | 3:15 | 2025-07-18 |  |
 | [Follows You](https://open.spotify.com/track/5nStHzdHO2GQDRuscRxPJQ) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Follows You](https://open.spotify.com/album/2RSKFTL1S4XwxVxQP8eorN) | 3:26 | 2025-07-18 | 2025-09-13 |
-| [Game Over Jazz](https://open.spotify.com/track/1bWEoUlX1fogQ4xy0TveOT) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Beat Tape III](https://open.spotify.com/album/6bhdbUuEQ9GEmnFrtwmO9w) | 1:30 | 2025-09-19 |  |
+| [Game Over Jazz](https://open.spotify.com/track/1bWEoUlX1fogQ4xy0TveOT) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Beat Tape III](https://open.spotify.com/album/6bhdbUuEQ9GEmnFrtwmO9w) | 1:30 | 2025-09-19 | 2025-09-27 |
 | [Girl](https://open.spotify.com/track/3ayq1aFbXb5kmQrBGLOmjG) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Girl](https://open.spotify.com/album/6YwzYbCe05hqVAI6KrX1c1) | 3:12 | 2025-07-18 | 2025-09-06 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:38 | 2025-07-18 | 2025-08-30 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-07-18 |  |
@@ -63,6 +63,7 @@
 | [Illusion \(feat\. Tangarine\) \- acoustic](https://open.spotify.com/track/4Y86dcLLPyk5CKfGAzEjFc) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Illusion \(feat\. Tangarine\) \[acoustic\]](https://open.spotify.com/album/2W126AI21HqwNAjupJfnJr) | 3:13 | 2025-09-12 |  |
 | [In Between The Glass](https://open.spotify.com/track/2bewIDkh0QfcVoQNgRaIpB) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [In Between The Glass](https://open.spotify.com/album/35kxAAk9pr5OlJaNGhWvek) | 2:58 | 2025-07-18 |  |
 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 | 2025-07-18 |  |
+| [It's A Beautiful Day Today](https://open.spotify.com/track/6wn3ZYA7XiXqfUCJCBo7q0) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Saving Grace](https://open.spotify.com/album/3E3qeXLdDtaX16OV4kbNoF) | 3:41 | 2025-09-26 |  |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2025-07-18 | 2025-09-13 |
 | [Little More Peace](https://open.spotify.com/track/4hzIJ03631VAlr6rDZAJfX) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Little More Peace](https://open.spotify.com/album/38mBMbqdvlVW8G9BORbpqb) | 2:57 | 2025-07-18 |  |
 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 | 2025-07-18 |  |
@@ -98,12 +99,13 @@
 | [Sienna](https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:44 | 2025-08-22 |  |
 | [Simple Life](https://open.spotify.com/track/27LKcnqzk6ckyQylQNUv91) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Simple Life](https://open.spotify.com/album/7uen16WfzBE3uzKdIgei4y) | 1:33 | 2025-08-29 |  |
 | [So It Goes](https://open.spotify.com/track/4T9ZCCAll4F0PYCPHWYSpJ) | [Penelope Road](https://open.spotify.com/artist/2BxNY82SWxJkGveOWm2oxH) | [The Diamond Street Sessions](https://open.spotify.com/album/5sSO4OXzEb3GetOjKh9wCS) | 4:14 | 2025-07-18 | 2025-08-09 |
+| [Socrates Smiled](https://open.spotify.com/track/7KnPqZ12WBmU8GJUy3ljAM) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Hand Me Downs](https://open.spotify.com/album/6lNeNrAgIn9yjmxeJRDdwq) | 3:07 | 2025-09-26 |  |
 | [Somebody New](https://open.spotify.com/track/6kMuoz0iuzByKqjMYxIY7y) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Somebody New](https://open.spotify.com/album/7nPAHt752Iqi3noSMr9YcW) | 2:52 | 2025-07-18 | 2025-09-20 |
 | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/track/1ZhcazwIbu1zu2qjitf3f2) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Song While You're Away \(From Twisters: The Album\)](https://open.spotify.com/album/1ljmP8WTZlfqQJH1DR5b2V) | 5:00 | 2025-07-18 | 2025-09-13 |
 | [Sophie](https://open.spotify.com/track/3okf8YVytf26gWSrBRHvJK) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Sophie](https://open.spotify.com/album/7rAAUeg5ctNJzz4M2JWMSu) | 3:13 | 2025-08-08 |  |
 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 | 2025-08-15 |  |
 | [stardust](https://open.spotify.com/track/5eBhZmoWwGhAPj80u4HWLB) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [stardust](https://open.spotify.com/album/3hRgPtGcjUUPmlWtH5cSHT) | 3:50 | 2025-07-18 |  |
-| [Still Love \- Acoustic](https://open.spotify.com/track/17WlwZjrDIUQaQAzZQFjVr) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love \(Acoustic\)](https://open.spotify.com/album/1YG1qbUceCNhWj6KfS0TQQ) | 3:09 | 2025-07-18 |  |
+| [Still Love \- Acoustic](https://open.spotify.com/track/17WlwZjrDIUQaQAzZQFjVr) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Still Love \(Acoustic\)](https://open.spotify.com/album/1YG1qbUceCNhWj6KfS0TQQ) | 3:09 | 2025-07-18 | 2025-09-27 |
 | [Sunburnt Shoulders](https://open.spotify.com/track/1e8JjEsphQZkxK5XURPzYC) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Me vs\. Me](https://open.spotify.com/album/2ibQlGalU0J2XhYpeMkgqc) | 2:57 | 2025-07-18 |  |
 | [Sunday Smile](https://open.spotify.com/track/3U2imIBWN0BnTS516Lhjfr) | [Jake Troth](https://open.spotify.com/artist/4YYFbWfMM8Gr55Hddzkcrl) | [Sunday Smile](https://open.spotify.com/album/1f6eML7QLTmlI5lyMPsblL) | 3:28 | 2025-07-18 | 2025-09-20 |
 | [Tadow](https://open.spotify.com/track/1DoS5ql0TW3ejjJGHbsAmz) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Tadow](https://open.spotify.com/album/66q4QLWTKxEZnADbRRTnSd) | 5:01 | 2025-07-18 |  |
@@ -113,7 +115,8 @@
 | [The Knife In My Back](https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [The Knife In My Back](https://open.spotify.com/album/2gTy3DhstHXAph5LjtHEnX) | 2:49 | 2025-09-05 |  |
 | [The Way](https://open.spotify.com/track/0qsbY9Jx0uqIs4QxhX0pLd) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [The Way](https://open.spotify.com/album/0SdP6YpDHTyVlSjkgBQJvZ) | 3:01 | 2025-07-18 |  |
 | [There She Goes](https://open.spotify.com/track/17Oq7DCHIwtaFs2GuWHEr2) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [There She Goes](https://open.spotify.com/album/7tJQYF7j1H65H3HHVrXfvy) | 3:02 | 2025-09-12 |  |
-| [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 | 2025-07-18 |  |
+| [This Life](https://open.spotify.com/track/2RufuE33URrDwlsX5frkNS) | [Michael Sanzone](https://open.spotify.com/artist/54LJoumlGbXHOSoC01aSYm) | [This Life](https://open.spotify.com/album/5qpWnisdd8hhGmgAa3p1Yy) | 3:02 | 2025-07-18 | 2025-09-27 |
+| [Thousand Nights](https://open.spotify.com/track/7bNfbHChtz9j65zMLvPoGV) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Thousand Nights](https://open.spotify.com/album/21woPwk6trw5H7sshSK7j2) | 2:59 | 2025-09-26 |  |
 | [TickTickBoom](https://open.spotify.com/track/2fifcgrC2McRDrABuG743H) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [TickTickBoom](https://open.spotify.com/album/71Gg0zWr0x4I5VB3gAKumw) | 2:25 | 2025-09-12 |  |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-19 |  |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-07-18 |  |

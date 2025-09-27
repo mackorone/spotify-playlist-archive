@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 10 hr 11 min
+176 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2023-12-14 |  |
 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 | 2023-12-13 | 2025-06-28 |
 | [Take Me Down](https://open.spotify.com/track/5wyFGDZMnv7wWews9KgKHZ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:27 | 2024-12-11 |  |
-| [Talk a Good Game](https://open.spotify.com/track/2VcealriqEgFRmdxlgXXCu) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 3:23 | 2023-12-13 |  |
+| [Talk a Good Game](https://open.spotify.com/track/2VcealriqEgFRmdxlgXXCu) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 3:23 | 2023-12-13 | 2025-09-27 |
+| [Talk a Good Game](https://open.spotify.com/track/3oqGQbesUiyhy2ciZX3HyK) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Kevin Cossom](https://open.spotify.com/artist/0Ja9yL6PS5FBnGJimpx504) | [Talk A Good Game](https://open.spotify.com/album/4E8UUUe0aXUPor4TD3P9m8) | 3:23 | 2025-09-26 |  |
 | [The Come Down Is Real Too](https://open.spotify.com/track/0apvzeJcPw9mB7iSQIBal5) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:51 | 2023-12-13 |  |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 | 2023-12-13 |  |
 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/5h0ERFfd8oKj1LoKXTbbWz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/4VCUBbgs3uNjwggcq3sk5l) | 3:27 | 2023-12-14 | 2024-02-02 |

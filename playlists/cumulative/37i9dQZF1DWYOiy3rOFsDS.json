@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Escarlata",
+        "url": "https://open.spotify.com/album/6dHtfspjlnEwvbCoKc1NYT"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150564,
+      "name": "Arrancando Flores",
+      "url": "https://open.spotify.com/track/3mBGB9VB86DA220iGo9uIA"
+    },
+    {
+      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 207997,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
@@ -2938,6 +2956,24 @@
       "duration_ms": 207981,
       "name": "La Flor de la Canela",
       "url": "https://open.spotify.com/track/4WKltvGwkSYSaCrRSeJKhJ"
+    },
+    {
+      "album": {
+        "name": "Boleros que me dict\u00f3 el gallo",
+        "url": "https://open.spotify.com/album/50zJxiNKraIvwVOLK6TR0j"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255542,
+      "name": "La lista",
+      "url": "https://open.spotify.com/track/0zaZIYgHscn5Jq60aadwz4"
     },
     {
       "album": {
@@ -3465,6 +3501,24 @@
     },
     {
       "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -3670,7 +3724,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 195728,
       "name": "Mi Alma Gemela Muri\u00f3",
       "url": "https://open.spotify.com/track/0U47POZTC0KCkaQBveFgyk"
@@ -4312,7 +4366,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 176720,
       "name": "NOstas",
       "url": "https://open.spotify.com/track/3xlrhGSfJsXeIMpUaH8tYA"
@@ -4776,7 +4830,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 209152,
       "name": "Perfume de Gardenias",
       "url": "https://open.spotify.com/track/4LoJdk0njvkUqugRn9fyfo"
@@ -5297,6 +5351,28 @@
     },
     {
       "album": {
+        "name": "Radioel\u00e9ctrica",
+        "url": "https://open.spotify.com/album/1Fhf8FY3bLTP4d0yNGjqKl"
+      },
+      "artists": [
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179145,
+      "name": "Radioel\u00e9ctrica",
+      "url": "https://open.spotify.com/track/0hV9eAPfej8pmM4eyzvW5Q"
+    },
+    {
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3HhbkUjg8eI5chZUn3v0Ng"
       },
@@ -5644,6 +5720,24 @@
       "duration_ms": 227473,
       "name": "Se Necesitan 2",
       "url": "https://open.spotify.com/track/0RUQeCXPEfMR4RNiQqJoug"
+    },
+    {
+      "album": {
+        "name": "Se Pasan Los D\u00edas",
+        "url": "https://open.spotify.com/album/7mCEhGO323aWIm2bFoP5aZ"
+      },
+      "artists": [
+        {
+          "name": "Chesdana",
+          "url": "https://open.spotify.com/artist/1PobiDleeGFCqJgRVvX9DY"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159413,
+      "name": "Se Pasan Los D\u00edas",
+      "url": "https://open.spotify.com/track/0vlY0i6Au1kWjMO4oL9pG4"
     },
     {
       "album": {
@@ -6962,7 +7056,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 225476,
       "name": "Viejitos",
       "url": "https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun"

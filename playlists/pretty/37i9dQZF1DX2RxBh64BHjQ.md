@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 ### [Most Necessary](https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ)
 
-> The official voice of the next generation\. Cover: <a href="spotify:artist:1alf4P7GDe5aNpALBzWIGf">Zeddy Will</a>
+> The official voice of the next generation\. Cover: <a href="spotify:artist:7a8ZndeHGrkS7xIM8060Xw">Babyfxce E</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,775,869 likes - 100 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,775,136 likes - 100 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 24 | [Fan Hoes \(feat\. FattMack\)](https://open.spotify.com/track/5PLcesY9WjjfaUNN2MtWHG) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [Fan Hoes \(feat\. FattMack\)](https://open.spotify.com/album/0DINBCyn5Q16PpQdk7tO7E) | 2:40 |
 | 25 | [Sittin](https://open.spotify.com/track/2JCHmML76qEFy8QoG7y0W0) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Sittin](https://open.spotify.com/album/7Bwa8JaiFrEQ6kFqCr0TGe) | 3:04 |
 | 26 | [cash flow \(feat\. DDG\)](https://open.spotify.com/track/62S7v1Sttf5uU8CoRhhaxE) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [webkam](https://open.spotify.com/album/0owwtB8ettfMbUgvOpGjqx) | 2:28 |
-| 27 | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 |
+| 27 | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 |
 | 28 | [2 Sides To Every Story](https://open.spotify.com/track/41zfQ7zCfewpZqAtcGlfEa) | [Lil Tony Official](https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6), [Who’s Casper](https://open.spotify.com/artist/5QtZNaeWr06xdolWPZdU4P) | [2 Sides To Every Story](https://open.spotify.com/album/3y4xvAC1YzakaTRkLFfHpm) | 2:06 |
 | 29 | [Plenty Motion](https://open.spotify.com/track/4UVZFD5h5RPoTjl1ExmxSe) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry \(Deluxe\)](https://open.spotify.com/album/6GuthNCWjSFsAFoKsnIBR7) | 1:55 |
 | 30 | [L.O.A.T](https://open.spotify.com/track/6N2lPLZFtDOck18VqPpgT2) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [L.O.A.T](https://open.spotify.com/album/1ee5K4fHafwKAl3t42W1Rg) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Trap Jump](https://open.spotify.com/track/56BtPjjWiRc0ch7DH8DNu9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 2:30 |
 | 100 | [Proud Of Me \(feat\. Meek Mill\)](https://open.spotify.com/track/1c3q6ie3uWznQ8hgcQrtYb) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Some Days I’m Good, Some Days I’m Not](https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG) | 3:50 |
 
-Snapshot ID: `AAAAAOq+ihn7YXV+NTW15suvX+6p/0J/`
+Snapshot ID: `AAAAAFfknBXt4Q5Fhk3C/NuyECDG7nZO`

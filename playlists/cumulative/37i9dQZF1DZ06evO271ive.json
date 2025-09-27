@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Is You Coo",
+        "url": "https://open.spotify.com/album/23SJdhzhMArG6U4xGAAGQu"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151201,
+      "name": "Is You Coo",
+      "url": "https://open.spotify.com/track/2qQqwmaEMrVqXzwNFCa1kc"
+    },
+    {
+      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -1314,12 +1332,12 @@
           "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
         },
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
           "name": "NaNaski",
           "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
       "date_added": "2025-09-16",
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 202500,
       "name": "So Sexyy (with Sexyy Redd & YTB Fatt)",
       "url": "https://open.spotify.com/track/208C0acBUn3Lzh4L5P5Kkw"

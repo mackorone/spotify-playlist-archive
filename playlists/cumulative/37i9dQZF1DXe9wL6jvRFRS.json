@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Bleary Eyes",
+        "url": "https://open.spotify.com/album/49iYguszBaXRFS3et4VZTD"
+      },
+      "artists": [
+        {
+          "name": "Truthpaste",
+          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293129,
+      "name": "Bleary Eyes",
+      "url": "https://open.spotify.com/track/2LAjXMH1tI47GrUvh9F3LP"
+    },
+    {
+      "album": {
         "name": "Cloudy",
         "url": "https://open.spotify.com/album/1cmYpshLS9j5ctqvq2z5HE"
       },

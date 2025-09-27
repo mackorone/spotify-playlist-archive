@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. 5 seconds of summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,307 likes - 85 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,319 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 17 | [crocodile eyes](https://open.spotify.com/track/0juY9UEu2358SkPnowjG2j) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [crocodile eyes](https://open.spotify.com/album/6s5FJuKHpzclX49BR3ZCQZ) | 1:44 |
 | 18 | [SELF IMMOLATION](https://open.spotify.com/track/0YGX5dJImOOEy8zXYLMMIE) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [SELF IMMOLATION](https://open.spotify.com/album/1qw8qRxpoEr7zNvzBzXB7X) | 2:18 |
 | 19 | [IF LYRICS WERE CONFIDENTIAL](https://open.spotify.com/track/4u3Cw2vfURpijHBMVFOmGQ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [IF LYRICS WERE CONFIDENTIAL](https://open.spotify.com/album/0RMmFHb2hxmy647eAXsfAB) | 2:52 |
-| 20 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [](https://open.spotify.com/album/null) | 3:02 |
+| 20 | [Dionysus](https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [King Of Terrors](https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t) | 3:02 |
 | 21 | [RAGE](https://open.spotify.com/track/3wtmfJg7Y59193gisXjdmR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [RAGE](https://open.spotify.com/album/15w0umvukS2W8W4LdsIJQx) | 4:08 |
 | 22 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
 | 23 | [Passenger](https://open.spotify.com/track/6Yh1aoi25AWHSug0jbAPHm) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Passenger](https://open.spotify.com/album/2QSZh6Xdn0swl1JUkDnyC8) | 3:11 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 31 | [Hold Onto Me](https://open.spotify.com/track/1bpiC1yM4P1O6LFjRRdk3A) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Hold Onto Me](https://open.spotify.com/album/5uCj1UeRtqhqk5fQ4UHhyV) | 3:09 |
 | 32 | [Anxiety \- Spotify Singles](https://open.spotify.com/track/4HFtwRQcTGZPtcmvi2x2hw) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Spotify Singles](https://open.spotify.com/album/1DC5dj0OSRe5vszmnlImyp) | 3:50 |
 | 33 | [Cashgrab](https://open.spotify.com/track/6PyyscHpD7xYMpiFi07FHC) | [Vienna Vienna](https://open.spotify.com/artist/5ZVQRC3rtUNBJVrrrSl17r) | [Cashgrab](https://open.spotify.com/album/4J68IxugOvEfgLwwVboovb) | 2:48 |
-| 34 | [Control](https://open.spotify.com/track/674JYSvMnOFtky6ZQSfeJC) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [](https://open.spotify.com/album/null) | 2:55 |
+| 34 | [Control](https://open.spotify.com/track/674JYSvMnOFtky6ZQSfeJC) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Caramel](https://open.spotify.com/album/4MPKYvLAMqP8NoKIVdjrcR) | 2:55 |
 | 35 | [A Sharp Pain](https://open.spotify.com/track/05IubeMdBq9J3hsj5e4EMa) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [The Sound of You Laughing](https://open.spotify.com/album/7BD7GUC2SLrEbmhnNQfoO8) | 3:38 |
 | 36 | [Cliché](https://open.spotify.com/track/13sYq1DRwEvWqfimRKRUAC) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Cliché](https://open.spotify.com/album/0flX7vAoaSnbrYnTkREOUj) | 2:55 |
 | 37 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 |
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 53 | [My Heart's Dead!](https://open.spotify.com/track/4scpT24QA1MTJl0RntkwWQ) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [My Heart's Dead!](https://open.spotify.com/album/0jk0kbOY1tuOjkaUv84wtU) | 3:26 |
 | 54 | [Death Do Us Part](https://open.spotify.com/track/4cfydDE0vCCa0MMBd2EPwm) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Death Do Us Part](https://open.spotify.com/album/6olQpH499EQGaUWo2ZkNIr) | 2:59 |
 | 55 | [Buckwild](https://open.spotify.com/track/1kZPSulbpNMcEO7B3Ag1XI) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL) | [Buckwild](https://open.spotify.com/album/6cAYNmrhsPfBV5KLKQdc1m) | 3:58 |
-| 56 | [BUSH](https://open.spotify.com/track/5XnqkvZ2JO1IP69HAEvU30) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [](https://open.spotify.com/album/null) | 3:57 |
+| 56 | [BUSH](https://open.spotify.com/track/5XnqkvZ2JO1IP69HAEvU30) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [PRINCELESS PRINCESS](https://open.spotify.com/album/5aFTtfNOWJs7fOLX3vbexi) | 3:57 |
 | 57 | [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 |
 | 58 | [neckdeep](https://open.spotify.com/track/5zMZ5EoTzjvoRGHTt5cmal) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [neckdeep](https://open.spotify.com/album/1OIRD9TXUp6Pzklt3JKTQZ) | 2:58 |
 | 59 | [the cost of giving up](https://open.spotify.com/track/2PcaKowfrJ2FDoBP5uxHaU) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 3:17 |

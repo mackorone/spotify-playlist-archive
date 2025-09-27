@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: MOON
 
-1,332 songs - 2 day 22 hr 9 min
+1,332 songs - 2 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [bieber songs](https://open.spotify.com/track/1AsEVeon121BaMBDFy62h2) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [bieber songs](https://open.spotify.com/album/0nuKXIir0n0ErlsO1wfSTx) | 2:23 | 2025-07-24 | 2025-09-26 |
 | [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 | 2025-08-07 |  |
 | [BigCityBoys](https://open.spotify.com/track/1hzxayWs2MVsQn7qW3t3GI) | [The Bird](https://open.spotify.com/artist/0VToPtDRTYvKFpUYh1IIOn), [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [BigCityBoys](https://open.spotify.com/album/3kwwYu5KK6vwsDF0ZzoDhG) | 2:43 | 2025-01-30 | 2025-03-21 |
+| [Binging RomComs](https://open.spotify.com/track/0tb1QIwojGzGTT1D4QsLq7) | [Selina Gin](https://open.spotify.com/artist/5gghGLi5wwcWOeDIgnuVoo) | [I Memorize Your Face, 'Cause it Changes all the Time](https://open.spotify.com/album/784sn3ldsCKpnTf2KEx9HN) | 3:21 | 2025-09-25 |  |
 | [Bitches I Hate](https://open.spotify.com/track/0MtfVWElfZzOQO33D5nPNh) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Bitches I Hate](https://open.spotify.com/album/4PFUjkbparrct54wxDBGDv) | 2:22 | 2025-07-10 | 2025-09-12 |
 | [BITE](https://open.spotify.com/track/45BuXs0isw9N5R8oasjeF8) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [BITE](https://open.spotify.com/album/0raZm9BAVI0cVkETThai8G) | 4:06 | 2024-10-24 | 2024-12-05 |
 | [bitter](https://open.spotify.com/track/7C9NEInmh4vXcDEmTR1RvZ) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [bitter](https://open.spotify.com/album/5Vhf26MRIVaOkiJRYL0xEb) | 2:06 | 2024-07-25 | 2024-09-14 |
@@ -1203,7 +1204,6 @@
 | [Top of the World](https://open.spotify.com/track/3DU6QaoZTDyOMOkwuXVAsI) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Top of the World](https://open.spotify.com/album/0UGx1m8SSUwvP6r7T25KJ9) | 3:30 | 2024-03-21 | 2024-04-19 |
 | [Touch Me \(Like That\)](https://open.spotify.com/track/57Pr0IYQqqu9ZnF6YdwMqV) | [CRASKIN](https://open.spotify.com/artist/74dVJIYf0gK6XyKNaNlHAz) | [Touch Me \(Like That\)](https://open.spotify.com/album/1V3E8hoaLm3wBUfUEbWcK3) | 1:57 | 2024-02-22 | 2024-06-01 |
 | [Tough Love](https://open.spotify.com/track/7mvpYEYtRbicvFYx4Fznrb) | [Duppy Tales](https://open.spotify.com/artist/5hUUq1vzCZapwGccYK9SIZ) | [Tough Love](https://open.spotify.com/album/7DHwOcBAq5zFVzC0kS63cn) | 6:39 | 2025-02-20 | 2025-03-28 |
-| [Track 3](https://open.spotify.com/track/0tb1QIwojGzGTT1D4QsLq7) | [Selina Gin](https://open.spotify.com/artist/5gghGLi5wwcWOeDIgnuVoo) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Tribe of Eurafric \(Never Go\)](https://open.spotify.com/track/06lLS27LfIVocqIq8fD5R7) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Paroxysms, Pt\. 1](https://open.spotify.com/album/6r9VKlQyrk0S7ivlc5vOMB) | 2:47 | 2024-05-23 | 2024-06-14 |
 | [Trippin Like WatR](https://open.spotify.com/track/1HoBCtcTM7uOgF4RnG4eq6) | [WatR.](https://open.spotify.com/artist/09f6SeIsdLhDq8BagVWunz) | [Trippin Like WatR](https://open.spotify.com/album/7Bx08ULQBEIfqU05B9QhQ4) | 3:00 | 2025-05-01 | 2025-06-06 |
 | [Tropicana Thunder](https://open.spotify.com/track/3FVTwKxIoDUXmWAxCQ4Gz9) | [Ari Bald & CJ Scott](https://open.spotify.com/artist/0E6gscdNMDFByNLHQkm4aG), [Ari Bald](https://open.spotify.com/artist/4BIUrqQlg2nOgFdem5DTup), [CJ Scott](https://open.spotify.com/artist/0thkTEQ87kDOsVs9ohjiCl) | [Västertorp](https://open.spotify.com/album/2MmW24gyKixixb0vl1efHT) | 7:30 | 2024-04-04 | 2024-05-03 |

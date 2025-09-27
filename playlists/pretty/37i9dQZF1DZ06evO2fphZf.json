@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12405,
+  "num_followers": 12403,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAAFeCKvi/hv4lvFZuMcviQS",
+  "snapshot_id": "aNSGAAAAAAB8Eryo3GQCUvD27d/ZBaEE",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newly",
-        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 177828,
-      "name": "Newly",
-      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
+      "duration_ms": 157199,
+      "name": "u should feel special",
+      "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
     },
     {
       "added_at": null,
@@ -343,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "Newly",
+        "url": "https://open.spotify.com/album/3PYmfD0X03oNgYnxCOmCYK"
       },
       "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 157199,
-      "name": "u should feel special",
-      "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
+      "duration_ms": 177828,
+      "name": "Newly",
+      "url": "https://open.spotify.com/track/4X7In1I8cDBpdOEWjRUMO7"
     },
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Truths And A Lie",
-        "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        },
-        {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
         }
       ],
-      "duration_ms": 133440,
-      "name": "Two Truths And A Lie",
-      "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
+      "duration_ms": 197557,
+      "name": "trust (feat. RINI)",
+      "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+        "name": "Two Truths And A Lie",
+        "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
       },
       "artists": [
         {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
         },
         {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 197557,
-      "name": "trust (feat. RINI)",
-      "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
+      "duration_ms": 133440,
+      "name": "Two Truths And A Lie",
+      "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Never Yours",
+        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 172608,
+      "name": "Never Yours",
+      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
       },
@@ -787,38 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Yours",
-        "url": "https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 172608,
-      "name": "Never Yours",
-      "url": "https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting on You",
-        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167088,
-      "name": "Waiting on You",
-      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -835,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
+        "name": "Waiting on You",
+        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
       },
       "artists": [
         {
@@ -844,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+      "duration_ms": 167088,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real",
+        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
     },
     {
       "added_at": null,

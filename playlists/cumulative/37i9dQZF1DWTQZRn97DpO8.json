@@ -7145,6 +7145,24 @@
     },
     {
       "album": {
+        "name": "NOV",
+        "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Nov",
+          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "T'aimes \u00e7a",
+      "url": "https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH"
+    },
+    {
+      "album": {
         "name": "tant que tu",
         "url": "https://open.spotify.com/album/2JAvBvIm2jodW3QPM5NNc0"
       },
@@ -7423,8 +7441,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "NOV",
+        "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
       },
       "artists": [
         {
@@ -7435,26 +7453,8 @@
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1BrBpOXyjyAi3DDyCTsxFH"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Nov",
-          "url": "https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 213866,
+      "name": "Toxic girl",
       "url": "https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg"
     },
     {
@@ -7947,8 +7947,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Je ne parlerai plus d'amour",
+        "url": "https://open.spotify.com/album/1wz9KckimITRnA6lyRi3sP"
       },
       "artists": [
         {

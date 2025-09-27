@@ -449,6 +449,32 @@
     },
     {
       "album": {
+        "name": "All Night Prayer",
+        "url": "https://open.spotify.com/album/5KlJitZ9pta6sZNNAHR94C"
+      },
+      "artists": [
+        {
+          "name": "Reblah",
+          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+        },
+        {
+          "name": "Condoseven",
+          "url": "https://open.spotify.com/artist/20rqbefynSHHd079In5Ipa"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2025-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150329,
+      "name": "All Night Prayer",
+      "url": "https://open.spotify.com/track/1hZaoh4wKbi2XKkWKYav85"
+    },
+    {
+      "album": {
         "name": "All Over The World",
         "url": "https://open.spotify.com/album/2WW74ORHcfnmasd6ROZOlK"
       },
@@ -2782,7 +2808,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 457906,
       "name": "Ever Present Help",
       "url": "https://open.spotify.com/track/53XKGgUszQqBX19YQmgv9e"
@@ -5576,7 +5602,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 172800,
       "name": "Jesus Power",
       "url": "https://open.spotify.com/track/41hM7dA3npzIv7bhtHpIdh"
@@ -11824,7 +11850,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 315431,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/0rCqiszNjjmwidpPGp8bW6"

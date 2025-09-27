@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-264 songs - 15 hr 37 min
+265 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/track/3RBubtMyzlp9MPZegNcDRK) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [4 Me \(feat\. Kali Uchis\)](https://open.spotify.com/album/1TXD0BaYXcHlmPIx7A7a0g) | 2:40 | 2023-03-24 | 2024-06-15 |
 | [7/11](https://open.spotify.com/track/02M6vucOvmRfMxTXDUwRXu) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 3:33 | 2021-12-17 |  |
 | [Afrodisiac](https://open.spotify.com/track/62K7EHA67O48gg7lTtcyc2) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:48 | 2021-12-17 | 2023-03-25 |
-| [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-06 |  |
+| [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-06 | 2025-09-27 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-08-25 |  |
 | [AMERICA HAS A PROBLEM](https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:18 | 2023-03-24 | 2024-04-07 |
 | [ayo](https://open.spotify.com/track/4qExpqP0xAjotJa8gA5FkS) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [unreleased](https://open.spotify.com/album/6e81zuZl9JgP82NpGWCVpU) | 3:04 | 2025-05-16 | 2025-06-12 |
@@ -112,6 +112,7 @@
 | [Hurtin' Me](https://open.spotify.com/track/5TTGvO7zUgv8momRWaga4C) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Fresh For 2018](https://open.spotify.com/album/0UURABllcIvOWRXAyzMQsy) | 3:33 | 2022-08-02 | 2022-11-13 |
 | [I Don't Want Her \(feat\. Problem\)](https://open.spotify.com/track/3rBec901wnvokK97xjoKlH) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Problem](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [I Don't Want Her \(feat\. Problem\)](https://open.spotify.com/album/56pLZKMJhdAPyfgsp3DBHW) | 3:14 | 2022-05-23 | 2023-03-25 |
 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 | 2021-12-17 | 2022-01-19 |
+| [I Won’t Allow It](https://open.spotify.com/track/09M1ZP4nidJk9Ev12j7Mh6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:26 | 2025-09-26 |  |
 | [I'm Gonna Be Alright \(feat\. Nas\)](https://open.spotify.com/track/3SHSWxOXqCrw55LiXAB8J1) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cory Rooney](https://open.spotify.com/artist/6v0jNVxRKCvjwXIU2SuqKo), [Poke and Tone](https://open.spotify.com/artist/7M8EwIpyu0mZ9oA8sqcsWj) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 2:52 | 2021-12-17 | 2023-08-26 |
 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 | 2022-03-23 | 2023-03-25 |
 | [Is It Mine \(feat\. Lady London\)](https://open.spotify.com/track/7g6A9wW2iQQ1Kyuc3uEvNY) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Lady London](https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4) | [Why Not More? \(Extended\)](https://open.spotify.com/album/2wnTULzFN2hm32986KHwm6) | 2:52 | 2025-05-02 | 2025-06-12 |

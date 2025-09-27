@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Junior Zamora",
+  "description": "Heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
   "name": "Afro Ritmo",
   "tracks": [
+    {
+      "album": {
+        "name": "1+1=1",
+        "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163404,
+      "name": "1+1=1",
+      "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
+    },
     {
       "album": {
         "name": "24",
@@ -2476,7 +2498,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 143803,
       "name": "KUIKI",
       "url": "https://open.spotify.com/track/47WfnYQgBp1bum5hiwJNvO"
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 209411,
       "name": "Me Curaste",
       "url": "https://open.spotify.com/track/3UBeWnTr8vbVb1alilHV5U"
@@ -3760,7 +3782,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 157079,
       "name": "No Te Soltar\u00e9",
       "url": "https://open.spotify.com/track/2A0m04EDTwS2V5VXYGuX8t"
@@ -4077,6 +4099,24 @@
     },
     {
       "album": {
+        "name": "PAKETE VAS",
+        "url": "https://open.spotify.com/album/0g0Wi4LkntibSaCldlIbJU"
+      },
+      "artists": [
+        {
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127060,
+      "name": "PAKETE VAS",
+      "url": "https://open.spotify.com/track/7pytb3QXxHRo7xr4SgtZbw"
+    },
+    {
+      "album": {
         "name": "Parcerita",
         "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
       },
@@ -4118,6 +4158,28 @@
       "duration_ms": 238805,
       "name": "Parcerita - Remix",
       "url": "https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189176,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
     },
     {
       "album": {
@@ -4236,7 +4298,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 187722,
       "name": "PEPESOUP",
       "url": "https://open.spotify.com/track/40XkTQH8oa1w1oN3Fd2FFG"
@@ -4533,6 +4595,24 @@
     },
     {
       "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138673,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE"
+    },
+    {
+      "album": {
         "name": "QSV",
         "url": "https://open.spotify.com/album/07ouadyCgIvGlbHgJu7BE1"
       },
@@ -4628,6 +4708,28 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "album": {
+        "name": "Rico",
+        "url": "https://open.spotify.com/album/1HYYqRPtdWQ3kZ8PjUnSM5"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194851,
+      "name": "Rico",
+      "url": "https://open.spotify.com/track/43xojBCuvMdcCFA0puNGWC"
     },
     {
       "album": {
@@ -6080,7 +6182,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 147169,
       "name": "Uhlal\u00e1",
       "url": "https://open.spotify.com/track/0OMRzxwYG06Cka4xCZEqrr"
@@ -6586,6 +6688,28 @@
       "duration_ms": 230967,
       "name": "YA LLORARE(MOS)",
       "url": "https://open.spotify.com/track/1FM64gZzMzOxLKbv93SDws"
+    },
+    {
+      "album": {
+        "name": "Yeye",
+        "url": "https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "Yeye",
+      "url": "https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B"
     },
     {
       "album": {

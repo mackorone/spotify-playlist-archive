@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 162590,
+  "num_followers": 162603,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAA93tK2zHZUHM7zZ67XtxQG",
+  "snapshot_id": "aNSGAAAAAACA+/7A18g7a7N1pm4QVjCu",
   "tracks": [
     {
       "added_at": null,
@@ -90,11 +90,31 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
     },
     {
       "added_at": null,
@@ -119,22 +139,6 @@
       "duration_ms": 250664,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5LRyR8eIg7fSlH3GsdFqEi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 223720,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
     },
     {
       "added_at": null,
@@ -166,35 +170,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Bajka",
-          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
-        }
-      ],
-      "duration_ms": 309546,
-      "name": "Nightlite",
-      "url": "https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
     },
     {
       "added_at": null,
@@ -215,6 +195,26 @@
       "duration_ms": 274693,
       "name": "Break Apart",
       "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Bajka",
+          "url": "https://open.spotify.com/artist/4V8wJAPq2ar1y1Zc8d9DhI"
+        }
+      ],
+      "duration_ms": 309546,
+      "name": "Nightlite",
+      "url": "https://open.spotify.com/track/1gI1nC5E3ObyMtejdc8crP"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 212356,
+      "name": "Antenna",
+      "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lazarus (Adult Swim Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 243780,
-      "name": "Ten Tigers",
-      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
@@ -707,6 +707,22 @@
       "duration_ms": 276573,
       "name": "Between The Lines",
       "url": "https://open.spotify.com/track/0oBV4QAfY26kcYqRLRv5ST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 243780,
+      "name": "Ten Tigers",
+      "url": "https://open.spotify.com/track/5xz5dUtU2xooSP75BwRJ3H"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 212356,
-      "name": "Antenna",
-      "url": "https://open.spotify.com/track/5YhKjllHOmPJMcTdctlOGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For A Day Remixes",
         "url": "https://open.spotify.com/album/1kkzmDFnNOkua0A217UeZq"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 227506,
       "name": "For A Day - Bonobo Remix",
       "url": "https://open.spotify.com/track/5JnmTaJ2ce5tz2hBcx3ksf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 274823,
+      "name": "Jets",
+      "url": "https://open.spotify.com/track/3cg38isdTrBH63B4BMywsw"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 274823,
-      "name": "Jets",
-      "url": "https://open.spotify.com/track/3cg38isdTrBH63B4BMywsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
       },
@@ -839,50 +839,6 @@
       "duration_ms": 376533,
       "name": "Nothing Owed",
       "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby, Hold Me (Remixes)",
-        "url": "https://open.spotify.com/album/12bSqNELb5yvv0auLO9iXJ"
-      },
-      "artists": [
-        {
-          "name": "Pot\u00e9",
-          "url": "https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5"
-        },
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Flaurese",
-          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Give You Up (with Bonobo) - Flaurese Remix",
-      "url": "https://open.spotify.com/track/6oaAY4J8seGCDRkjCYaMKm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nicole Miglis",
-          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
-        }
-      ],
-      "duration_ms": 164490,
-      "name": "Beyond the Sky",
-      "url": "https://open.spotify.com/track/7H5qbikaaCPS1BcuivRZSB"
     },
     {
       "added_at": null,
@@ -903,6 +859,42 @@
       "duration_ms": 278293,
       "name": "First Fires",
       "url": "https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 324693,
+      "name": "Kota",
+      "url": "https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lazarus (Adult Swim Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2l7QYB5EMOkbtuc17WwBnp"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
+        }
+      ],
+      "duration_ms": 164490,
+      "name": "Beyond the Sky",
+      "url": "https://open.spotify.com/track/7H5qbikaaCPS1BcuivRZSB"
     }
   ],
   "unique_name": "This Is Bonobo",

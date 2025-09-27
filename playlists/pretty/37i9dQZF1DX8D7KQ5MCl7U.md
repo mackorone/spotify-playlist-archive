@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,378 likes - 150 songs - 15 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,393 likes - 150 songs - 15 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,10 +151,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 141 | [Kirkir Kirkir](https://open.spotify.com/track/0jFME2O3JCWsVjncExX9xy) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 4:00 |
 | 142 | [Ik Aarzu](https://open.spotify.com/track/7Lvo57hmjkKvXu8IVvTRBa) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 7:46 |
 | 143 | [Kaisay Mumkin Hai](https://open.spotify.com/track/71Gpkx7YaTW8H50fiPgDCp) | [Karavan](https://open.spotify.com/artist/0Lhup66w8pghI27mmMDeUk), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 3:42 |
-| 144 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |
-| 145 | [Chehra](https://open.spotify.com/track/1Z6cKTMaY5v3DWTR05CyBW) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:01 |
-| 146 | [Lai Beqadaraan Naal Yaari](https://open.spotify.com/track/0ro6SFrYsMWnLaI9vBjhra) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:48 |
-| 147 | [Naina De Akhay](https://open.spotify.com/track/3puz5Sf2GA1Psy8uLFqGCU) | [Rizwan & Moazzam](https://open.spotify.com/artist/0AAzQBRltHcZePy2jhpLwD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:26 |
+| 144 | [Chehra](https://open.spotify.com/track/1Z6cKTMaY5v3DWTR05CyBW) | [Zoheb Hassan](https://open.spotify.com/artist/5pT8Tq6kM9sXknMXpgI19B) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:01 |
+| 145 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 |
+| 146 | [Naina De Akhay](https://open.spotify.com/track/3puz5Sf2GA1Psy8uLFqGCU) | [Rizwan & Moazzam](https://open.spotify.com/artist/0AAzQBRltHcZePy2jhpLwD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 9:26 |
+| 147 | [Lai Beqadaraan Naal Yaari](https://open.spotify.com/track/0ro6SFrYsMWnLaI9vBjhra) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:48 |
 | 148 | [Laili Jaan](https://open.spotify.com/track/7wNIAoRvQp0fQJeJkJbc9o) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:41 |
 | 149 | [Ujaalon Mein](https://open.spotify.com/track/1h5mPXw1Ln2JE4UkLAey6J) | [Faraz Anwar](https://open.spotify.com/artist/4WFQS1bqSok87rLhlWb8Ep), [Faiza Mujahid](https://open.spotify.com/artist/3EHt8CyaFjaukCZVjhlv8Z) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 7:08 |
 | 150 | [Paisay Da Nasha](https://open.spotify.com/track/3HGWfAthym1zsmD0lAvrDJ) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 3:34 |

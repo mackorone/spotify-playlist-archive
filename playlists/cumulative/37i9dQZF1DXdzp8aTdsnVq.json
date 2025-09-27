@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Silvestre Dangond & Juancho de la Espriella",
+  "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Diego Daza & Rolando Ochoa",
   "name": "Lo + del Vallenato",
   "tracks": [
     {
@@ -976,7 +976,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 248183,
       "name": "Diez Mil Veces T\u00fa",
       "url": "https://open.spotify.com/track/2Kh0B090ELw2MrJd2SY1LR"
@@ -1103,6 +1103,28 @@
     },
     {
       "album": {
+        "name": "El Altavoz",
+        "url": "https://open.spotify.com/album/4xLctyVjT2Syz5xCRZwazX"
+      },
+      "artists": [
+        {
+          "name": "Diego Daza",
+          "url": "https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc"
+        },
+        {
+          "name": "Rolando Ochoa",
+          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218694,
+      "name": "El Altavoz",
+      "url": "https://open.spotify.com/track/1h3zCW4S1sgUowclodpIIK"
+    },
+    {
+      "album": {
         "name": "Un Sue\u00f1o Llamado Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/63ehDXG0BtCb6WIjhl3ESB"
       },
@@ -1216,7 +1238,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 154027,
       "name": "EL HEREDERO (INTRO)",
       "url": "https://open.spotify.com/track/0MbPHgCOcu28kVyfjOgVhF"
@@ -1607,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "EL HEREDERO II (LIVE)",
+        "url": "https://open.spotify.com/album/1EWgGJVlzJNn5xGe4AngCv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Morales",
+          "url": "https://open.spotify.com/artist/3HCQ1p0JKOd8HS3O2UXtnS"
+        },
+        {
+          "name": "Juank Ricardo",
+          "url": "https://open.spotify.com/artist/4pndENcUE4a4i27yDe7coJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325000,
+      "name": "Jamas Me Cansare de Ti - Live",
+      "url": "https://open.spotify.com/track/2kO2ifgfdcTG6idRLNnMts"
+    },
+    {
+      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/1CfCK4Nx0nnccwueJfp9Hm"
       },
@@ -1666,6 +1710,28 @@
       "duration_ms": 200674,
       "name": "La Escena",
       "url": "https://open.spotify.com/track/6vjp1tZHzZT6omls4lNeER"
+    },
+    {
+      "album": {
+        "name": "La Ex de mi Amigo",
+        "url": "https://open.spotify.com/album/0ITOpoFKDvq8e0uiJphlwU"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Elder Day\u00e1n D\u00edaz",
+          "url": "https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "La Ex de mi Amigo",
+      "url": "https://open.spotify.com/track/5KrKP9vkwaOyqcHvNC0wZv"
     },
     {
       "album": {
@@ -2982,7 +3048,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 180960,
       "name": "Quiero Devorarte",
       "url": "https://open.spotify.com/track/57uQpq5BWaO4JFzoXjGQIa"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover:  Kutless",
+  "description": "Listen to the recent hits of Christian Rock.  Cover:  Demon Hunter",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -1341,6 +1341,28 @@
     },
     {
       "album": {
+        "name": "Everything You Ever Wanted",
+        "url": "https://open.spotify.com/album/0xriOiFfYg15JlgpCCkDXA"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        },
+        {
+          "name": "Audiophile",
+          "url": "https://open.spotify.com/artist/1WzHgbLRerusCquTLsOq2T"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224638,
+      "name": "Everything You Ever Wanted",
+      "url": "https://open.spotify.com/track/7p7qgUCeFGKs3KKI73UKuF"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/3K6EYMi8bDzCPs7tk5MXUM"
       },
@@ -1842,7 +1864,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 162213,
       "name": "Glitch In The Matrix",
       "url": "https://open.spotify.com/track/4bxBCX9Iw9IMeQe1vsujqt"
@@ -2074,7 +2096,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 288693,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/2TRCXH1RCQKi6jhYO8Cfmu"
@@ -2668,7 +2690,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 210461,
       "name": "My Favorite Part",
       "url": "https://open.spotify.com/track/4PVh2Kbi9yqybmbNIvUq9K"
@@ -2852,7 +2874,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 193968,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/1TnAZhq4cp6K2I4UmHJzZ4"
@@ -3505,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Showtime (Live)",
+        "url": "https://open.spotify.com/album/1aLb0v21t3iYfoEJKbGD4X"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294144,
+      "name": "Showtime - Live",
+      "url": "https://open.spotify.com/track/2JXVG3HKGQqgKF1a9XnjbE"
+    },
+    {
+      "album": {
         "name": "SILENCE THE WORLD",
         "url": "https://open.spotify.com/album/7oEjybhppczzGPKjbV8sTw"
       },
@@ -3578,6 +3618,24 @@
       "duration_ms": 204000,
       "name": "Sometimes I Dream",
       "url": "https://open.spotify.com/track/1jNI2ktaQCKGsIvqxql9uy"
+    },
+    {
+      "album": {
+        "name": "Sorrow Light The Way",
+        "url": "https://open.spotify.com/album/1Ux4NmtgeByS8O2kPcdxbb"
+      },
+      "artists": [
+        {
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "Sorrow Light The Way",
+      "url": "https://open.spotify.com/track/3VQ9NBYE3BFUU2VvPYDVSe"
     },
     {
       "album": {
@@ -4090,7 +4148,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 240054,
       "name": "They See - Live In Pomona",
       "url": "https://open.spotify.com/track/76g9TZlz0vfqFjLr2w8pvJ"
@@ -4152,6 +4210,24 @@
       "duration_ms": 266503,
       "name": "This Is Not The End",
       "url": "https://open.spotify.com/track/4sR3VyYFteDqBCFlBfxHhI"
+    },
+    {
+      "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/2gMfgLuwa8YSOmtIyW38XR"
+      },
+      "artists": [
+        {
+          "name": "Natural State",
+          "url": "https://open.spotify.com/artist/0EpCi97ecBbnLyBlmLaLM1"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198571,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/4ZDv9xKThAvUQORM2fteWe"
     },
     {
       "album": {
@@ -4278,6 +4354,24 @@
       "duration_ms": 253740,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4o8ncJ9YOfkBTrXpyCjy4y"
+    },
+    {
+      "album": {
+        "name": "Walking Into Fire",
+        "url": "https://open.spotify.com/album/3ZHPDFdLiHctzZhdYEwlyB"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181990,
+      "name": "Walking Into Fire",
+      "url": "https://open.spotify.com/track/1KQXKOSfTYKsDNBVL4gXXo"
     },
     {
       "album": {

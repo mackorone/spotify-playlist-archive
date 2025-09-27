@@ -4,7 +4,7 @@
 
 > Nieuw: Brokezart, Hefner, Nerra en meer
 
-151 songs - 6 hr 26 min
+151 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 | 2025-09-04 |  |
 | [BAKAYOKO \(feat\. Freezz, BFLClyde & Highguest\)](https://open.spotify.com/track/3XHjlFMOT4UtCuV2stR42J) | [Vensly](https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA), [Jacob](https://open.spotify.com/artist/2ZWlxqdbnltt0uP7DQZzJb), [Freezz](https://open.spotify.com/artist/2VcXNLYjdaTD2yFOIn1JIO), [BFLClyde](https://open.spotify.com/artist/5ybuFtnUioZDYS90bDO4GD), [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj) | [BAKAYOKO \(feat\. Freezz, BFLClyde & Highguest\)](https://open.spotify.com/album/1WnZiZgp1TjZAODW5NwaLw) | 2:40 | 2025-09-18 |  |
 | [Balliemangs](https://open.spotify.com/track/5ZkSqDsQJKOxRnt7GezAxN) | [Zaf\_G](https://open.spotify.com/artist/2X2rcof1Fyyr0jOrK2Lnxo), [Cizri](https://open.spotify.com/artist/44VLghXDkoka9fwa2ZjFwR) | [Balliemangs](https://open.spotify.com/album/48cBqrjdyfQxWzF6fKUzHK) | 2:07 | 2025-09-15 |  |
+| [BANDO](https://open.spotify.com/track/4e535p2OAB9JupZhUDsWl0) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [BILLO](https://open.spotify.com/album/4sdh8e9bt2FyBuqzLPapnL) | 2:41 | 2025-09-25 |  |
 | [BCN \- Freestyle](https://open.spotify.com/track/6Q03YMswqXMKncsOKfhOAa) | [JOJO AIR](https://open.spotify.com/artist/6cA3ifwf6ueJ87ecdDPMOF) | [BCN \(Freestyle\)](https://open.spotify.com/album/2FEbtYikblQewkehPh5v5d) | 1:40 | 2025-07-17 | 2025-08-15 |
 | [Begrafenis](https://open.spotify.com/track/1tOwpG5OVkVfemP7v6R53f) | [Sidney Shane](https://open.spotify.com/artist/32tHxdDs7eCpgjYPzWHyXA), [Sepa](https://open.spotify.com/artist/5oBUDu4SFA4clHOLCrh2b7) | [88](https://open.spotify.com/album/3UqophSkJ9MIEPdGIucF20) | 3:53 | 2025-09-18 |  |
 | [Beste Voor Jou](https://open.spotify.com/track/5B4hazJXJX68tYLO0aDItc) | [B4RKIE](https://open.spotify.com/artist/2MQ6TLWN9FQ5OqnsB9HNXs), [TB](https://open.spotify.com/artist/32dyZVtIJgvvGCLvCKD87s) | [Beste Voor Jou](https://open.spotify.com/album/6RcRiiZRb774Zi5erJi1SE) | 3:04 | 2025-07-17 | 2025-08-15 |
@@ -139,7 +140,6 @@
 | [Thuisbasis](https://open.spotify.com/track/3TlIlIjY45oQMTNyp0kqOw) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [Thuisbasis](https://open.spotify.com/album/3GQOty3Q4xmoMPFVzvUosr) | 2:22 | 2025-09-08 |  |
 | [Tijd Tikt](https://open.spotify.com/track/3zInNYw04oHluSIpridb43) | [MeoKidd](https://open.spotify.com/artist/4ZZaPbicmQeuSRcPlbv4o6), [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4) | [Tijd Tikt](https://open.spotify.com/album/42shMzjFLa83G3lUFJIGiw) | 1:54 | 2025-09-19 |  |
 | [Toasted](https://open.spotify.com/track/4UCsvu897Bikp6NE2oNJow) | [CC](https://open.spotify.com/artist/0zD2BPEqmxke9Dd0GtgthT), [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Toasted](https://open.spotify.com/album/1IIUXO4Fu5NFzy46pnaMnM) | 2:00 | 2025-09-15 |  |
-| [Track 17](https://open.spotify.com/track/4e535p2OAB9JupZhUDsWl0) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Bouzi](https://open.spotify.com/artist/5D4busM3l7V32B8LDxrrfG) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Trenches](https://open.spotify.com/track/2hbtk7UT9d3v7Tqba50i8I) | [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S), [Udi Mars](https://open.spotify.com/artist/2EqLmeAXEqGuGQIdqXAcgi), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Trenches](https://open.spotify.com/album/1MEqUhx1oixOQ4tC06K25q) | 2:56 | 2025-07-17 | 2025-08-15 |
 | [Tweak](https://open.spotify.com/track/3F4HfPtKQsA1xRVspbpBdA) | [BFLQuatro](https://open.spotify.com/artist/31zVK14B7AlX6iy8b2pwrl) | [Tweak](https://open.spotify.com/album/4ZschzBdYjWp5z0NHmrPmK) | 2:03 | 2025-09-19 |  |

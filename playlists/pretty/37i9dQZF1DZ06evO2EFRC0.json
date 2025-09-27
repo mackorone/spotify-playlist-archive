@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 96776,
+  "num_followers": 96781,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAAAS4dsNanMlIPUUkPmBbUgu",
+  "snapshot_id": "aNSGAAAAAACuQpd7ciD7pVKXCFxr5uSs",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 185933,
       "name": "Temprano Yo te Buscar\u00e9",
       "url": "https://open.spotify.com/track/2UpIPk8SGn02aqZCfOEXcW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Exaltamos",
+        "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
     },
     {
       "added_at": null,
@@ -71,22 +87,6 @@
       "duration_ms": 248040,
       "name": "Tu Amistad Me Hace Bien - En Vivo",
       "url": "https://open.spotify.com/track/7gUJ7lxBwciZpkohIRt5ph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Exaltamos",
-        "url": "https://open.spotify.com/album/7wCXLga0UCA7SkrCAFXPOM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/2wLKFKKiD9s8gArTfwsS5c"
     },
     {
       "added_at": null,
@@ -371,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
+        "name": "Dios es Bueno",
+        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
       },
       "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 152046,
-      "name": "Tu Fidelidad - En Vivo desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/7MQXOm1gKmRTaowv4K4Hyx"
+      "duration_ms": 325029,
+      "name": "En los Montes en los Valles",
+      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios es Bueno",
-        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
+        "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
       "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 325029,
-      "name": "En los Montes en los Valles",
-      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
+      "duration_ms": 152046,
+      "name": "Tu Fidelidad - En Vivo desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/7MQXOm1gKmRTaowv4K4Hyx"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proyecto AA",
+        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 165147,
+      "name": "Porque T\u00fa Eres bueno",
+      "url": "https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Primero Nos Am\u00f3",
         "url": "https://open.spotify.com/album/3SQgNmmPjB0Vl7DffcD7RW"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 229122,
       "name": "Primero Nos Am\u00f3",
       "url": "https://open.spotify.com/track/2J5SBXo9kmS37AQCBj4wiU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proyecto AA",
-        "url": "https://open.spotify.com/album/4Yn1oEGxhbwk8HhE0topvU"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 165147,
-      "name": "Porque T\u00fa Eres bueno",
-      "url": "https://open.spotify.com/track/6MRlSkOGex4cx3fcusHFtU"
     },
     {
       "added_at": null,

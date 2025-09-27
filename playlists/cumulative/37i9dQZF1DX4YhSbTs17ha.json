@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Rels B y Alejandro Sanz en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Yuridia en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 201694,
       "name": "Al Mismo Kbrn (De Siempre)",
       "url": "https://open.spotify.com/track/5CmRpdPwcN9BK4KXNYAr0Z"
@@ -2453,6 +2453,28 @@
     },
     {
       "album": {
+        "name": "Cosa Nuestra: Cap\u00edtulo 0",
+        "url": "https://open.spotify.com/album/752aUI4EPYOGrNuo74pmCR"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224650,
+      "name": "Callej\u00f3n de los Secretos",
+      "url": "https://open.spotify.com/track/1hFyhyZygYYD35G2cEuwR0"
+    },
+    {
+      "album": {
         "name": "Calumnia",
         "url": "https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX"
       },
@@ -2548,6 +2570,36 @@
       "duration_ms": 169559,
       "name": "Canci\u00f3n Bonita",
       "url": "https://open.spotify.com/track/5iF33sXejXwfTuidVHMll0"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n Para Regresar",
+        "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254713,
+      "name": "Canci\u00f3n Para Regresar",
+      "url": "https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG"
     },
     {
       "album": {
@@ -2796,7 +2848,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 165542,
       "name": "CIBELES",
       "url": "https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD"
@@ -3424,7 +3476,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 159342,
       "name": "Cuando Estamos T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m"
@@ -5248,6 +5300,32 @@
       "duration_ms": 267836,
       "name": "Eres Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/2A1izwuHiZjoxyH6y6W0U4"
+    },
+    {
+      "album": {
+        "name": "Sinf\u00f3nico En Tijuana (En Vivo)",
+        "url": "https://open.spotify.com/album/4PvLtFIY2w2wYWI5kCrwrx"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Armando Perqueira Villanueva",
+          "url": "https://open.spotify.com/artist/6QoC1QmAKMCzHHoh3lE3Y5"
+        },
+        {
+          "name": "La Orquesta de Baja California",
+          "url": "https://open.spotify.com/artist/2nxfI46Oqm0LFMj8C2rj60"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200492,
+      "name": "Eres Para M\u00ed - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV"
     },
     {
       "album": {
@@ -10000,7 +10078,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 195060,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/2j3FHjQOoqQggL5mllUvsI"
@@ -10080,7 +10158,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 166483,
       "name": "Ni Feliz Ni Triste",
       "url": "https://open.spotify.com/track/7gVjCWszGK1EsGaqpfGlZX"
@@ -11602,7 +11680,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 221053,
       "name": "Perfecta (Versi\u00f3n 2023)",
       "url": "https://open.spotify.com/track/0vUqiSvbUICW3YtTA5ecSX"
@@ -12220,7 +12298,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 115007,
       "name": "Querida Yo",
       "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
@@ -12602,7 +12680,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 252142,
       "name": "Rexsexex",
       "url": "https://open.spotify.com/track/4hof8Zyvn8QvkkCWt5HAY0"
@@ -12917,6 +12995,24 @@
     },
     {
       "album": {
+        "name": "Se Ha Acabado El Show",
+        "url": "https://open.spotify.com/album/3cXwAtlszAXsrrkhCNWW92"
+      },
+      "artists": [
+        {
+          "name": "Ana Torroja",
+          "url": "https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152559,
+      "name": "Se Ha Acabado El Show",
+      "url": "https://open.spotify.com/track/6wOiXCS3WHwDOggI0ae39N"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -13113,6 +13209,28 @@
     },
     {
       "album": {
+        "name": "Monumental (En Vivo Desde la Plaza de Toros la M\u00e9xico)",
+        "url": "https://open.spotify.com/album/6JeSToKtEW7j3lgLWQXNmE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274696,
+      "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
+      "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
+    },
+    {
+      "album": {
         "name": "Si pudiera",
         "url": "https://open.spotify.com/album/7oszfSxoX7J3Zl3IYZeltL"
       },
@@ -13132,6 +13250,32 @@
       "duration_ms": 256811,
       "name": "Si pudiera",
       "url": "https://open.spotify.com/track/0PEbhZvom6GqoQwUNDxwRF"
+    },
+    {
+      "album": {
+        "name": "Si Sabes Contar",
+        "url": "https://open.spotify.com/album/11EMI4j96rPujHAH7FMLG8"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "Si Sabes Contar",
+      "url": "https://open.spotify.com/track/3XnoN6xzYezuEzUFgDGuyG"
     },
     {
       "album": {
@@ -15098,7 +15242,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 169640,
       "name": "Una Nada M\u00e1s",
       "url": "https://open.spotify.com/track/42QSyOOPV5ZoV7xST6X4jn"
@@ -15608,7 +15752,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 144984,
       "name": "X Perro",
       "url": "https://open.spotify.com/track/31YMy2oiue0habrdFfAHTC"
@@ -16128,7 +16272,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 182323,
       "name": "\u00bfQu\u00e9 Te Parece?",
       "url": "https://open.spotify.com/track/6oCQOBXMHc1z2JRx1Dv6tG"

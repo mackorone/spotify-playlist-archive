@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1TJLNVWLtxRWrJYLhaW2hE.md) - [plain]
 
 > Good Trouble official playlist \~ featuring songs from each episode.
 
-[Freeform](https://open.spotify.com/user/abcfamily) - 9,922 likes - 664 songs - 1 day 15 hr 37 min
+[Freeform](https://open.spotify.com/user/abcfamily) - 9,923 likes - 664 songs - 1 day 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

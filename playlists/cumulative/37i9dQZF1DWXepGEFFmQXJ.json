@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Max Jackson",
+  "description": "The cream of today's country crop. Cover: Kaylee Bell",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -2751,6 +2751,24 @@
     },
     {
       "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/01rtI8jY5h2ZdPHMXnWJtb"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218810,
+      "name": "Call For You",
+      "url": "https://open.spotify.com/track/34HlyukOVl1gK1nfP5UXqs"
+    },
+    {
+      "album": {
         "name": "Call It",
         "url": "https://open.spotify.com/album/0xOxoDFnoSGcDtBA2nLWxB"
       },
@@ -4024,7 +4042,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 175527,
       "name": "Damn Good Taste in Whiskey",
       "url": "https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN"
@@ -5064,7 +5082,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 285466,
       "name": "Eatin' Big Time",
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
@@ -12243,6 +12261,24 @@
     },
     {
       "album": {
+        "name": "About A Woman (Deluxe)",
+        "url": "https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213599,
+      "name": "On A River",
+      "url": "https://open.spotify.com/track/55kJuUfBDApairwt8cij12"
+    },
+    {
+      "album": {
         "name": "On My Own Again",
         "url": "https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va"
       },
@@ -15175,6 +15211,24 @@
     },
     {
       "album": {
+        "name": "Cowboy Up",
+        "url": "https://open.spotify.com/album/4sf1VyilDtKqaduPSTXfet"
+      },
+      "artists": [
+        {
+          "name": "Kaylee Bell",
+          "url": "https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172420,
+      "name": "Song For Shania",
+      "url": "https://open.spotify.com/track/6VWsRQY6A3irb7dIILmHfK"
+    },
+    {
+      "album": {
         "name": "Song For That",
         "url": "https://open.spotify.com/album/620OUzRNp0w5u5BKzr1yD6"
       },
@@ -16426,7 +16480,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 162962,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/6guJdCiBdsLLo3fgAG8Utf"

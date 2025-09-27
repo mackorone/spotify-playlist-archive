@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Victor Mendivil en portada",
+  "description": "La tierra del Rap de oro puro. Luis R Conriquez en portada",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -343,6 +343,46 @@
     },
     {
       "album": {
+        "name": "Batall\u00f3n 2-4",
+        "url": "https://open.spotify.com/album/0wezmjeSeWyo4FqmWs8vt7"
+      },
+      "artists": [
+        {
+          "name": "Uriel Gaxiola",
+          "url": "https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125161,
+      "name": "Batall\u00f3n 2-4",
+      "url": "https://open.spotify.com/track/7qm88EbyBRDEkPURrqrv3m"
+    },
+    {
+      "album": {
+        "name": "Meneo",
+        "url": "https://open.spotify.com/album/1Kf6rAG1vw7aPVdygnZEHp"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Beliwestcoast",
+      "url": "https://open.spotify.com/track/6aXjypTkoCQN7CGsDCHXKM"
+    },
+    {
+      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -380,7 +420,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 166000,
       "name": "Borracho Gacho",
       "url": "https://open.spotify.com/track/4OzmPHAqniJC1yMuDh9lmC"
@@ -1035,6 +1075,28 @@
     },
     {
       "album": {
+        "name": "Tutankamon",
+        "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147789,
+      "name": "King of Watches",
+      "url": "https://open.spotify.com/track/3QJXJACwdZ3EaIqdF5ZiXh"
+    },
+    {
+      "album": {
         "name": "La Calle Sonrie",
         "url": "https://open.spotify.com/album/5RN9GcIQ3o743VcoOlWN3Z"
       },
@@ -1494,7 +1556,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 246000,
       "name": "Los No Tan Tristes",
       "url": "https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst"
@@ -1622,7 +1684,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 227694,
       "name": "Me acuerdo",
       "url": "https://open.spotify.com/track/1MFFBF5ugHrwPDdvD38QZQ"

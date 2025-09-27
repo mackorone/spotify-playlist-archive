@@ -16895,6 +16895,28 @@
     },
     {
       "album": {
+        "name": "Reset EP",
+        "url": "https://open.spotify.com/album/4WAGOxEZDWeat8p9vZBsL8"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        },
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl"
+    },
+    {
+      "album": {
         "name": "Resolution",
         "url": "https://open.spotify.com/album/0aldqu0IulsfyOxdruOE7g"
       },
@@ -21462,28 +21484,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        },
-        {
-          "name": "Archie Hamilton",
-          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
-        }
-      ],
-      "date_added": "2025-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3y0tAEH2RfanPiBzJNFlvl"
     },
     {
       "album": {

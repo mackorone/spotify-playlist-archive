@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Jotapê e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,638 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,614 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Interrogação \- Ao Vivo](https://open.spotify.com/track/0e91TwYBNqiEAHenznkari) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Interrogação \(Ao Vivo\)](https://open.spotify.com/album/3HfS8M29q5RU0fI83y5IIC) | 2:51 |
 | 50 | [Sentido à Zona Leste](https://open.spotify.com/track/2w02XJ34a0xhLwegEHw7u2) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Sentido à Zona Leste](https://open.spotify.com/album/3EoyU7wpCUPE7qrx54NUKB) | 2:03 |
 
-Snapshot ID: `AAAAABB5+F0Evnenpm/7II5V3Vvd2v5p`
+Snapshot ID: `AAAAAHd9wXicBpAMJ/sFtsHl/OQuLExI`

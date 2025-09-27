@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAADneYzP5dt4tYmo2y0CPMzv",
+  "snapshot_id": "aNSGAAAAAABeTmFhggyj7a0yCJgZj/iD",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 201489,
-      "name": "Tierra Sin Nombre",
-      "url": "https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl"
+      "duration_ms": 157492,
+      "name": "Chicas Modernas",
+      "url": "https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ"
     },
     {
       "added_at": null,
@@ -231,58 +231,6 @@
       "duration_ms": 185233,
       "name": "Pal Bailador (Pasito Tun Tun)",
       "url": "https://open.spotify.com/track/1SGcApP6dz2XJDDH7FgUce"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Estas Corazon",
-        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 196291,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dame Chamoy",
-        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
-      },
-      "artists": [
-        {
-          "name": "Marea Musical",
-          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
-        },
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Dame Chamoy",
-      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jacarandosa",
-        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 157492,
-      "name": "Chicas Modernas",
-      "url": "https://open.spotify.com/track/19D00rbiTgUtcSr9VfcYhZ"
     },
     {
       "added_at": null,
@@ -307,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flor de la Ausencia",
-        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
+        "name": "Donde Estas Corazon",
+        "url": "https://open.spotify.com/album/4KeWgca4KdauXP0g26aFRM"
       },
       "artists": [
         {
@@ -316,9 +264,45 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Flor De La Ausencia",
-      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
+      "duration_ms": 196291,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/0wGucLJrFq4NVPRIXO8JVA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 201489,
+      "name": "Tierra Sin Nombre",
+      "url": "https://open.spotify.com/track/4CBYdi1fNc9zx2rqKHPXXl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dame Chamoy",
+        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
+      },
+      "artists": [
+        {
+          "name": "Marea Musical",
+          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
+        },
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Dame Chamoy",
+      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
     },
     {
       "added_at": null,
@@ -339,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jacarandosa",
-        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "Toca Tres Veces",
-      "url": "https://open.spotify.com/track/699JdgmsdfNHRAxysWzD1S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grupero Hits",
         "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
       },
@@ -371,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jacarandosa",
+        "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 151458,
+      "name": "El Gato Del Vecindario",
+      "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flor de la Ausencia",
         "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
       },
@@ -380,9 +364,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Cari\u00f1o Verdad",
-      "url": "https://open.spotify.com/track/5dvkhIepgnYPnZe68BXYJ6"
+      "duration_ms": 186973,
+      "name": "Flor De La Ausencia",
+      "url": "https://open.spotify.com/track/2lDwNTE9OfzGZi5wqnpUUV"
     },
     {
       "added_at": null,
@@ -403,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CORRIDOS!",
+        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "El cari\u00f1o que perd\u00ed",
+      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
         "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
       },
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORRIDOS!",
-        "url": "https://open.spotify.com/album/2L1OGQ2Ds0VttVp7XmPFTk"
+        "name": "Flor de la Ausencia",
+        "url": "https://open.spotify.com/album/2oMDEpNCj5hD1vrN7LqaYn"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 167986,
-      "name": "El cari\u00f1o que perd\u00ed",
-      "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
+      "duration_ms": 196360,
+      "name": "Cari\u00f1o Verdad",
+      "url": "https://open.spotify.com/track/5dvkhIepgnYPnZe68BXYJ6"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
-        "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 171895,
-      "name": "D\u00e9jenme Si Estoy Llorando",
-      "url": "https://open.spotify.com/track/6vi8gdPYPpGnmJZR8o5TLK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Mexicanos",
         "url": "https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 140173,
       "name": "La chica del tec",
       "url": "https://open.spotify.com/track/5hcY0tnytA0kwAvj42P7eF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
+        "url": "https://open.spotify.com/album/4AAxr6YcB2n3yn7VAyozMI"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 171895,
+      "name": "D\u00e9jenme Si Estoy Llorando",
+      "url": "https://open.spotify.com/track/6vi8gdPYPpGnmJZR8o5TLK"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
       "duration_ms": 181413,
       "name": "Mu\u00e9veme el Pollo",
       "url": "https://open.spotify.com/track/0V2BArW7hihAeaHorTRkfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Banda",
+        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Ju\u00e1rez",
+      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
     },
     {
       "added_at": null,
@@ -588,25 +604,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 180001,
-      "name": "Cobardemente",
-      "url": "https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Banda",
-        "url": "https://open.spotify.com/album/5axups0KKDe1JYO9IaKzKa"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Ju\u00e1rez",
-      "url": "https://open.spotify.com/track/5HDq6sp36G5pMPtkCC5eJ3"
+      "duration_ms": 184006,
+      "name": "El Traficante",
+      "url": "https://open.spotify.com/track/584f81SKtZ8du0bfsz8mNM"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
       "duration_ms": 198622,
       "name": "Agua Helada",
       "url": "https://open.spotify.com/track/5RTwxQJO725bKdK2a8d5om"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tropicalandia, Vol. II",
+        "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Dime Lo Que Quieras",
+      "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
     },
     {
       "added_at": null,
@@ -652,25 +668,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184006,
-      "name": "El Traficante",
-      "url": "https://open.spotify.com/track/584f81SKtZ8du0bfsz8mNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tropicalandia, Vol. II",
-        "url": "https://open.spotify.com/album/57vgkfk1F10xH338L7SJIc"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Dime Lo Que Quieras",
-      "url": "https://open.spotify.com/track/4TDXDWUIo7thhqXLrqhw1A"
+      "duration_ms": 180001,
+      "name": "Cobardemente",
+      "url": "https://open.spotify.com/track/2FiUBzxN2JsGcIoQnKyBg3"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 162771,
-      "name": "De Chivito los Tamales",
-      "url": "https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor de Lo Mejor Desde Durango",
         "url": "https://open.spotify.com/album/65wK0llf5TIYYgelKhbIom"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 252866,
       "name": "Si la Ves",
       "url": "https://open.spotify.com/track/68m4KdheKS5MKQJPnPYq2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 162771,
+      "name": "De Chivito los Tamales",
+      "url": "https://open.spotify.com/track/5IgsBtotWUXW6QzwZtLt93"
     },
     {
       "added_at": null,

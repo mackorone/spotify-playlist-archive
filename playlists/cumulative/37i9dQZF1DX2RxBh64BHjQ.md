@@ -2,7 +2,7 @@
 
 ### [Most Necessary](https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ)
 
-> The official voice of the next generation\. Cover: <a href="spotify:artist:1alf4P7GDe5aNpALBzWIGf">Zeddy Will</a>
+> The official voice of the next generation\. Cover: <a href="spotify:artist:7a8ZndeHGrkS7xIM8060Xw">Babyfxce E</a>
 
 2,517 songs - 4 day 15 hr 39 min
 
@@ -1403,7 +1403,7 @@
 | [Morgan](https://open.spotify.com/track/6ippwBq8wypdrSqqvn56Wg) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 1:49 | 2025-05-30 | 2025-09-20 |
 | [MORTAL KOMBAT](https://open.spotify.com/track/2mJ3GtJzImwlmucY5Ffrno) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [MORTAL KOMBAT](https://open.spotify.com/album/6gOjy2B2NiAGiqPlVAKnTs) | 2:55 | 2025-03-14 | 2025-03-22 |
 | [MOTION](https://open.spotify.com/track/2Jh9kCArLqidXc9TGIAzTI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:09 | 2025-03-28 | 2025-04-05 |
-| [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 | 2025-09-12 |  |
+| [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [NaNaski](https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Motion \(feat\. Sexyy Red & NaNaski\)](https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP) | 3:12 | 2025-09-12 |  |
 | [Motion Sickness](https://open.spotify.com/track/0cwE2kc6cE5AlHlqr7x4jw) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Iiinfinite](https://open.spotify.com/artist/5tw81TqzE5gbCxMrYU710Y), [Tope](https://open.spotify.com/artist/6w4nfg5jYD6ejjbTIB2sHq) | [LIVE FROM THE 206](https://open.spotify.com/album/2T0lzqE5dQWvkFA6pxKXxk) | 2:04 | 2024-04-05 | 2024-04-13 |
 | [Mountains \(with Fivio Foreign & Young M.A\)](https://open.spotify.com/track/5DeONcxxhHSBnmODMadT5l) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:48 | 2022-04-15 | 2022-06-04 |
 | [Mourning Money](https://open.spotify.com/track/5Vj6Vr9deVpxHZsGqaVKki) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Mourning Money](https://open.spotify.com/album/1pi7hJ049FMPxJt0u37Zys) | 2:19 | 2025-07-11 | 2025-07-26 |

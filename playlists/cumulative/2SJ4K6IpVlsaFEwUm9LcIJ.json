@@ -2853,6 +2853,28 @@
     },
     {
       "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        },
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240508,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/2dexrJhfT8hQEvH7uqNpRf"
+    },
+    {
+      "album": {
         "name": "Escho 15 \u00e5r: Burgers for my new life",
         "url": "https://open.spotify.com/album/0DyC815neW8HCVwn9SEp09"
       },

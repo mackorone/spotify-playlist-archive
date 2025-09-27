@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from NewDad",
+  "description": "Explore all things indie rock right now. Featuring music from Geese",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 226355,
       "name": "100 Horses",
       "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
@@ -1626,6 +1626,24 @@
       "duration_ms": 175433,
       "name": "All The Way Round and Back",
       "url": "https://open.spotify.com/track/1J7FwSaCxczUgRwejPJWWH"
+    },
+    {
+      "album": {
+        "name": "Allnighter",
+        "url": "https://open.spotify.com/album/42VsfS8QjkHZs5qmjM9iy6"
+      },
+      "artists": [
+        {
+          "name": "Twen",
+          "url": "https://open.spotify.com/artist/7iyWvxyp2SxGg3L66TmHbO"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256495,
+      "name": "Allnighter",
+      "url": "https://open.spotify.com/track/4fXN5gRj2iszjV6D11joop"
     },
     {
       "album": {
@@ -6902,6 +6920,24 @@
       "duration_ms": 208298,
       "name": "Clueless",
       "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
+    },
+    {
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185152,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf"
     },
     {
       "album": {
@@ -12911,6 +12947,24 @@
     },
     {
       "album": {
+        "name": "Fuggit",
+        "url": "https://open.spotify.com/album/5OLxTroK4Zoo33baFPUgIh"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269691,
+      "name": "Fuggit",
+      "url": "https://open.spotify.com/track/1LtEt78G9OUECa7uYw8D0x"
+    },
+    {
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/7zGTZ3urmwYmLeVgmELakg"
       },
@@ -17446,6 +17500,24 @@
       "duration_ms": 189613,
       "name": "is suicide too much?",
       "url": "https://open.spotify.com/track/6hLwWVV4b7cXlqxU76PcTs"
+    },
+    {
+      "album": {
+        "name": "Getting Killed",
+        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354139,
+      "name": "Islands of Men",
+      "url": "https://open.spotify.com/track/75DUBuQSZ5fXbp7GHbTmTV"
     },
     {
       "album": {
@@ -24081,6 +24153,24 @@
     },
     {
       "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
+    },
+    {
+      "album": {
         "name": "In Breech",
         "url": "https://open.spotify.com/album/0PsNN3eGsmrzfB1R2QRkfC"
       },
@@ -27678,6 +27768,28 @@
       "duration_ms": 254059,
       "name": "September",
       "url": "https://open.spotify.com/track/28Ax0ZKpA7n5yh0xe9Bhio"
+    },
+    {
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        },
+        {
+          "name": "Moth\u00e9",
+          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151454,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
     },
     {
       "album": {
@@ -33855,6 +33967,24 @@
     },
     {
       "album": {
+        "name": "bones",
+        "url": "https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293020,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD"
       },
@@ -34691,6 +34821,24 @@
     },
     {
       "album": {
+        "name": "Kids Table",
+        "url": "https://open.spotify.com/album/7IH426dtS8J6gAzKVJ1TSB"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255026,
+      "name": "Victory City",
+      "url": "https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy"
+    },
+    {
+      "album": {
         "name": "Tickle Pink Hotel",
         "url": "https://open.spotify.com/album/1TimP0CFInR1WdasPUEhf5"
       },
@@ -35502,6 +35650,24 @@
       "duration_ms": 233000,
       "name": "What Do We Ever Really Know?",
       "url": "https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b"
+    },
+    {
+      "album": {
+        "name": "Big Lucky",
+        "url": "https://open.spotify.com/album/11dMnzivBNiiQ0INgzZyJc"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192103,
+      "name": "What Do You Do To Me?",
+      "url": "https://open.spotify.com/track/3vyojADgomymRVQHcmZlmY"
     },
     {
       "album": {

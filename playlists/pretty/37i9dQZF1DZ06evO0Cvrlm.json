@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 590541,
+  "num_followers": 590576,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAABdqDO/W4bRs0msu4xJAliu",
+  "snapshot_id": "aNSGAAAAAABuGOKto9MGOizVmVSbYTmG",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Older (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 318804,
-      "name": "I Can't Make You Love Me - Studio Version",
-      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 201135,
       "name": "Desafinado (with Astrud Gilberto)",
       "url": "https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 318804,
+      "name": "I Can't Make You Love Me - Studio Version",
+      "url": "https://open.spotify.com/track/0Qr2tOIgnmqUxAsO7of3OM"
     },
     {
       "added_at": null,

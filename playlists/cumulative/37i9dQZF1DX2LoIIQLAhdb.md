@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Favé x Genezio
 
-546 songs - 1 day 1 hr 48 min
+546 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Pic au cœur](https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Pic au cœur](https://open.spotify.com/album/6rf3Yn6OEpZroovlI5t6uu) | 2:40 | 2022-12-01 | 2023-01-20 |
 | [Piqué](https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Piqué](https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG) | 2:36 | 2022-11-24 | 2022-12-16 |
 | [Plan séquence](https://open.spotify.com/track/75apUo1MSFcDPBf7n26HfC) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Plan séquence](https://open.spotify.com/album/7I8s09xLqtaNMjN3RGTX8q) | 2:49 | 2022-11-24 | 2023-01-27 |
+| [Please](https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:03 | 2025-09-25 |  |
 | [Plus fort](https://open.spotify.com/track/7e1meVSbvi7Khq18QL0Wbn) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl), [Joé Dwèt Filé](https://open.spotify.com/artist/5ndUyzzVSnOtUYoBsI1m5v) | [Plus fort](https://open.spotify.com/album/3uObZqyRFN3G78ywP9xVpk) | 2:56 | 2023-09-14 | 2023-12-15 |
 | [Plus jamais](https://open.spotify.com/track/0ppnuARg9o6Alh2QLXHZse) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Plus jamais](https://open.spotify.com/album/1ThA5Ig20ituoUdDKjsi7v) | 2:40 | 2023-10-26 | 2023-12-30 |
 | [Polaroid](https://open.spotify.com/track/2M8dS8F3XolgXChxiu0m5B) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Polaroid](https://open.spotify.com/album/3binKMpTaZEIRwBFhN7YtF) | 3:09 | 2025-09-04 |  |
@@ -516,7 +517,6 @@
 | [Tout le quartier](https://open.spotify.com/track/4fv67Ng1bfkj6sLApDlJPE) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Tout le quartier](https://open.spotify.com/album/0y8AdrTcHobPMbsTwswwAm) | 3:06 | 2025-01-16 | 2025-02-21 |
 | [Toxic](https://open.spotify.com/track/69YKkqBo1RGZzW6z3cBfiQ) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Djene's Room](https://open.spotify.com/album/2Cw6MkVoG0jxOfywMc9zyE) | 2:48 | 2024-12-05 | 2025-01-17 |
 | [TPMP](https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [TPMP](https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT) | 2:42 | 2024-01-11 | 2024-05-17 |
-| [Track 7](https://open.spotify.com/track/1JxkfYFfPb8vZDncVbQien) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-25 |  |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-12-08 |
 | [TRASH](https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [TRASH](https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8) | 3:30 | 2023-12-21 | 2024-03-01 |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 | 2023-02-03 |

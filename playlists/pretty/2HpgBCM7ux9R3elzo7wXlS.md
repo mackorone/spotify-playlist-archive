@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 977 songs - 2 day 12 hr 26 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 979 songs - 2 day 12 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 76 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
 | 77 | [Going Down In Flames](https://open.spotify.com/track/2vnXw4zTwuJXFeCyeM0KkB) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:28 |
 | 78 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
-| 79 | [Lady Maria of the Astral Clocktower](https://open.spotify.com/track/531u77yKDtTLgciPyunLaR) | [SIEサウンドチーム](https://open.spotify.com/artist/1rpLsPOuk84fe64uy1A8jR) | [Bloodborne the Old Hunters Original Soundtrack](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) | 4:46 |
+| 79 | [Lady Maria of the Astral Clocktower](https://open.spotify.com/track/531u77yKDtTLgciPyunLaR) | [SIE Sound Team](https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376) | [Bloodborne the Old Hunters Original Soundtrack](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) | 4:46 |
 | 80 | [Monster](https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 6:18 |
 | 81 | [The River](https://open.spotify.com/track/6CDoDiMuvyX724CbOzqbqg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Quarters!](https://open.spotify.com/album/65qOl8k8K2SK3PYT0kF1W5) | 10:10 |
 | 82 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 |
@@ -335,7 +335,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 325 | [Bad Bad Bad \(feat\. Lil Baby\)](https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 2:29 |
 | 326 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 327 | [The Immolation Scene](https://open.spotify.com/track/4liOrw7OIc5zCxkFJiK2tJ) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: Revenge of the Sith \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg) | 2:39 |
-| 328 | [Ludwig, the Holy Blade](https://open.spotify.com/track/42yHzwCrmrPYnOiX2tp4yQ) | [SIEサウンドチーム](https://open.spotify.com/artist/1rpLsPOuk84fe64uy1A8jR) | [Bloodborne the Old Hunters Original Soundtrack](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) | 4:07 |
+| 328 | [Ludwig, the Holy Blade](https://open.spotify.com/track/42yHzwCrmrPYnOiX2tp4yQ) | [SIE Sound Team](https://open.spotify.com/artist/1RjRHE0popjV7rhcHdp376) | [Bloodborne the Old Hunters Original Soundtrack](https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1) | 4:07 |
 | 329 | [The Blonde](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:47 |
 | 330 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 |
 | 331 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
@@ -985,5 +985,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 975 | [Nangs](https://open.spotify.com/track/1cCbsojaA6GIT7Y3zuMJ1q) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 1:47 |
 | 976 | [抱かれに来た女](https://open.spotify.com/track/5ZwDNdZHE1HC4nJPWG321K) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [midnight cruisin'](https://open.spotify.com/album/30lgWjklkY1TOx7EdiGYlq) | 4:29 |
 | 977 | [Flower Moon](https://open.spotify.com/track/16fiL1QD7x9FeoGu8ktxrz) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:56 |
+| 978 | [Welcome to...](https://open.spotify.com/track/4fFiXfYW8JTyWwysayiNUf) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Somewhere City](https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn) | 3:05 |
+| 979 | [24 Hr Drive\-Thru](https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Somewhere City](https://open.spotify.com/album/4h2ME3sBJVi1X3KTwLJXnn) | 2:44 |
 
-Snapshot ID: `AAAHhAa6AEi5saUoInQ25cTjKpj9ro7s`
+Snapshot ID: `AAAHhuQ7ezqX6khkkd7DPg6XBO3b51bW`

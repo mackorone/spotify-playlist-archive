@@ -1,13 +1,33 @@
 {
-  "description": "The best of today's funk. Cover: TWRP",
-  "num_followers": 346934,
+  "description": "The best of today's funk. Cover: MonoNeon",
+  "num_followers": 346946,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD7zTqBBCfdyHZamoP9ANtauCj84",
+  "snapshot_id": "AAAAAAE4Crx81f4RCTCQHDP8G0/bTWCi",
   "tracks": [
+    {
+      "added_at": "2025-09-26 04:00:44",
+      "album": {
+        "name": "Love Me Wrong",
+        "url": "https://open.spotify.com/album/5MMQpizyx9ClTsKTvtNZ8o"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Love Me Wrong",
+      "url": "https://open.spotify.com/track/0cKfcQ3ovHdK4hKMsPx7Yk"
+    },
     {
       "added_at": "2025-09-19 04:00:34",
       "album": {
@@ -691,26 +711,6 @@
       "duration_ms": 181500,
       "name": "New Way",
       "url": "https://open.spotify.com/track/11H4y3J3uZiTRMKLQCcmSD"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/6nQbrIplcsesOfWOoWPP8p"
-      },
-      "artists": [
-        {
-          "name": "Boyan",
-          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 196488,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/4pf6UyOlaDtySrahgrbzqL"
     },
     {
       "added_at": "2024-08-30 04:00:00",

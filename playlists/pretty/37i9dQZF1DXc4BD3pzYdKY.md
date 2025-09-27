@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  Derek Minor & Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,461 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,527 likes - 100 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 78 | [Joy In Chaos](https://open.spotify.com/track/3pHJFnVrlqbn1li6mLEnQg) | [Prinz](https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9) | [Joy In Chaos](https://open.spotify.com/album/3WRJgByarkX8rP1mZ0fuIq) | 2:05 |
 | 79 | [My Enemies](https://open.spotify.com/track/6QUjDyRtxbX4e5X87hDuHh) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS) | [My Enemies](https://open.spotify.com/album/6omnvGQhlFfXHc07X5jbHx) | 2:59 |
 | 80 | [Wax](https://open.spotify.com/track/68hjFF6boEN3xJuCs9Rzx1) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Wax](https://open.spotify.com/album/1k03943FM7zgYBXAK4lcUc) | 2:14 |
-| 81 | [FINE BY ME!](https://open.spotify.com/track/7KgRrlrhTVIO6rlEUCDDzh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [FINE BY ME](https://open.spotify.com/album/7tIyn1fOcbhYtydCvWwDLb) | 1:45 |
+| 81 | [FINE BY ME!](https://open.spotify.com/track/7KgRrlrhTVIO6rlEUCDDzh) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Dell Mac](https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl) | [FINE BY ME!](https://open.spotify.com/album/7tIyn1fOcbhYtydCvWwDLb) | 1:45 |
 | 82 | [POP OFF](https://open.spotify.com/track/1uKNjYLV5RILivOYfQAVkm) | [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ), [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY) | [POP OFF](https://open.spotify.com/album/7gGXjlwQjSF9zcZZ0dMGQs) | 3:29 |
 | 83 | [I Found Rest](https://open.spotify.com/track/1rIXPIfJrlSkeoYhy3LKVb) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [I Found Rest](https://open.spotify.com/album/4LJ5a9T2ImLjyu4XDgBHaB) | 3:07 |
 | 84 | [Anointed](https://open.spotify.com/track/6V9fLB9uDbacLCqg3Bwz0A) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Young C](https://open.spotify.com/artist/3jTD8sMuIA35Rw9PRrOE5L), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR) | [Anointed](https://open.spotify.com/album/65YOR163Z3fnH9JZbhVt1n) | 2:41 |

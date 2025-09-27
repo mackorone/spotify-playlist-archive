@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Louane
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,092 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,141 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chiens](https://open.spotify.com/track/51qMciprNwFso3R3XioUUu) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Chiens](https://open.spotify.com/album/0xlKFgR6BT4drhj22kvqJG) | 3:02 |
-| 2 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [](https://open.spotify.com/album/null) | 2:33 |
+| 2 | [la maison](https://open.spotify.com/track/6LwRx3YAwMp3VmDxAHVpP6) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [grandir](https://open.spotify.com/album/081gGbY0tkx9wYxbORdgA7) | 2:33 |
 | 3 | [Bachata](https://open.spotify.com/track/0gNcltScOH0fMSytFnPkoe) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Verano](https://open.spotify.com/album/3bLdmgVrspGmk8M8Goqhw8) | 3:20 |
 | 4 | [Si demain tout s'arrête](https://open.spotify.com/track/6w41B36Con7ZfOPcTTupX1) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Si demain tout s'arrête](https://open.spotify.com/album/5UlqAQp3IWkarMS2Ldqvcw) | 2:32 |
 | 5 | [Café froid](https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Café froid](https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G) | 3:20 |
 | 6 | [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 |
-| 7 | [Ça va \(quand même\) \(feat\. Soprano\)](https://open.spotify.com/track/28pSl3TSdBUHY1vIrjVD4T) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [](https://open.spotify.com/album/null) | 2:48 |
+| 7 | [Ça va \(quand même\) \(feat\. Soprano\)](https://open.spotify.com/track/28pSl3TSdBUHY1vIrjVD4T) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:48 |
 | 8 | [Mille fois](https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [Mille fois](https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU) | 2:53 |
 | 9 | [Bye Bye](https://open.spotify.com/track/7zSFYYKM7ygYInwcbs1Aj2) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Bye Bye](https://open.spotify.com/album/6EC2GZOfGX9KbIGBjZy1PP) | 2:45 |
 | 10 | [Oublier](https://open.spotify.com/track/08ERabruhqMIkZOlIPKIDb) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Oublier](https://open.spotify.com/album/5Ezw4AdjahQsjz7U3iXIec) | 2:48 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 23 | [Laura](https://open.spotify.com/track/6jdbuti5nE5JJXsR4RBcgG) | [Adèle & Robin](https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8) | [Changer, pleurer, rire](https://open.spotify.com/album/7iW95Wgd03q12wGcO3ncFU) | 3:09 |
 | 24 | [Toi jamais](https://open.spotify.com/track/5Vep7odwkpVCfaOEoW1JHL) | [Oria](https://open.spotify.com/artist/2tcokte1gClrCRw645UFYR) | [Toi jamais](https://open.spotify.com/album/43d31PbrDRhOnTalfHnkJJ) | 2:51 |
 | 25 | [Matin à rallonge](https://open.spotify.com/track/6EYFr757PaoaLiJGreEIn3) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [Matin à rallonge](https://open.spotify.com/album/5B7CjA1HXxGH65fJ8NpLHT) | 2:36 |
-| 26 | [Plus que moi](https://open.spotify.com/track/6S3ut1DyCwLZw5zJyekMVK) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [](https://open.spotify.com/album/null) | 2:59 |
+| 26 | [Plus que moi](https://open.spotify.com/track/6S3ut1DyCwLZw5zJyekMVK) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:59 |
 | 27 | [Sage](https://open.spotify.com/track/7dWF43SRnWnqRNVXTa43lG) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/4kuvu8IkLHyb3yodU8qNZ5) | 2:45 |
 | 28 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 |
 | 29 | [Après nous](https://open.spotify.com/track/29y8gwKrKe8ppXXFg3ILqY) | [Sab](https://open.spotify.com/artist/0Nvj3odmXbXYyAvkyF4Eal), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Après nous](https://open.spotify.com/album/7pJ9mUBe8H10izh3hbbBV9) | 3:01 |

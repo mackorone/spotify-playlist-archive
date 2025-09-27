@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2025 \| Latest and greatest Christian songs of 2025\. NEW CHRISTIAN MUSIC!  New Music Friday! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>\. Cover: <a href="https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2?si=QHxGAhkxR5CxBJUba7VwdA">Josiah Queen</a>
 
-140 songs - 9 hr 31 min
+141 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Stars](https://open.spotify.com/track/1QKtl5FOh7JgKM5HEt1EaG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/75RnYnEkzvvOmksDhEivMq) | 2:54 | 2025-09-05 |  |
 | [Stay Strong](https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:18 | 2024-05-24 |  |
 | [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-09-22 |  |
+| [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 | 2025-09-26 |  |
 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 | 2024-05-24 |  |
 | [Take It All Back](https://open.spotify.com/track/4AjyX21TX61oa8AFaKZmxc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:13 | 2024-08-07 |  |
 | [Take It All Back \- 🔥🔥 Version](https://open.spotify.com/track/1S10j0Pz34TyWvH8jEikbE) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Take It All Back](https://open.spotify.com/album/7uzpfry2q3E9juC3X8uLIt) | 3:15 | 2024-05-24 |  |
@@ -142,7 +143,7 @@
 | [Who Else \- Live](https://open.spotify.com/track/2hUVIsZyLfy4xs35CHTlmN) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Claire Smith](https://open.spotify.com/artist/1WX879kYCO2MoFKwSZ2e50) | [Crowns Down \(Live\)](https://open.spotify.com/album/3yIWDWEr4BWDt38ovHWnre) | 4:50 | 2025-08-15 |  |
 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 | 2025-01-31 |  |
 | [Who He Is](https://open.spotify.com/track/5kgJZIFXAb9I30RVTJZTCI) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Who He Is](https://open.spotify.com/album/6zghmwpOhK3ybNRv7zZ87w) | 3:34 | 2025-03-21 |  |
-| [WITH ME](https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [with me](https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG) | 2:01 | 2025-01-31 |  |
+| [WITH ME](https://open.spotify.com/track/6doOhTCKwAW8Vrveb6amW0) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [WITH ME](https://open.spotify.com/album/4GNYbe1TGZGsbkcvtJ09MG) | 2:01 | 2025-01-31 |  |
 | [Won't He Do It \- Live](https://open.spotify.com/track/4FC3XAidDIMYLFIkxed9bA) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [33 \(Live\)](https://open.spotify.com/album/500D9cuyZpRq0mh13uxVUL) | 5:13 | 2024-07-12 | 2025-09-20 |
 | [Worship!](https://open.spotify.com/track/3uJ539yuwsbaVh2CIAp4Cr) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Worship!](https://open.spotify.com/album/3oYzCAKcT1AVna2vPCYWxF) | 4:01 | 2025-01-10 |  |
 | [Yahweh](https://open.spotify.com/track/0qkLFsVuhzlSkSvTpT09nP) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Yahweh](https://open.spotify.com/album/0pgMrzO9PsuT9SRhmOdY0x) | 2:50 | 2025-01-31 | 2025-09-20 |

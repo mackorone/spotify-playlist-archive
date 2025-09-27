@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: Twenty One Pilots",
+  "description": "Rock never dies. Cover: ivri",
   "name": "MARROW",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 227064,
       "name": "20/20 Vision",
       "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
+    },
+    {
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/02mqlcxY1kqOBOtvtPBzXF"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        },
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174981,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2bsMTraNEMpu6Z25bjWz2q"
     },
     {
       "album": {
@@ -686,7 +708,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 162886,
       "name": "All My Friends Are So Depressed",
       "url": "https://open.spotify.com/track/1B96kEGScLcBqZNlKycVsR"
@@ -996,7 +1018,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
@@ -3094,7 +3116,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 152613,
       "name": "CRUISING TO SELF SOOTHE",
       "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
@@ -3767,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "King Of Terrors",
+        "url": "https://open.spotify.com/album/5ea5VKYvbGuPNKEJjDm25t"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Dionysus",
+      "url": "https://open.spotify.com/track/16oBX63zAQRkNeNa2SDYo1"
+    },
+    {
+      "album": {
         "name": "DON'T WORRY, I'LL BE FINE",
         "url": "https://open.spotify.com/album/09natI8LumZF8kRgCuUSRe"
       },
@@ -3962,7 +4002,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 162640,
       "name": "Don't Fight",
       "url": "https://open.spotify.com/track/77uOIGBiWfd5dr88Y6QcIn"
@@ -4180,6 +4220,24 @@
       "duration_ms": 203773,
       "name": "Drum Show",
       "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "album": {
+        "name": "Drunk Surfer",
+        "url": "https://open.spotify.com/album/5MbQ33JkvmHNKeYbuYB1f8"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234680,
+      "name": "Drunk Surfer",
+      "url": "https://open.spotify.com/track/2OLM7e95IViS4hd26Rc0au"
     },
     {
       "album": {
@@ -5381,6 +5439,24 @@
     },
     {
       "album": {
+        "name": "Only Slightly Empty",
+        "url": "https://open.spotify.com/album/095PeO7jjMoZrvtUFkVeGW"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177816,
+      "name": "Freakshow",
+      "url": "https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI"
+    },
+    {
+      "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
       },
@@ -6043,7 +6119,7 @@
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 214942,
+      "duration_ms": 214943,
       "name": "Goldmine",
       "url": "https://open.spotify.com/track/7JpyHk0znA1e34QCpjIoB4"
     },
@@ -11540,7 +11616,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 167767,
       "name": "OK OK OK OK",
       "url": "https://open.spotify.com/track/1emDypCBCdJmAwLWpbYVBE"
@@ -11724,7 +11800,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 152414,
       "name": "One Train",
       "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"
@@ -12749,6 +12825,24 @@
     },
     {
       "album": {
+        "name": "Pom Pom",
+        "url": "https://open.spotify.com/album/4IzgMbugCWmPVnIp9T8aQX"
+      },
+      "artists": [
+        {
+          "name": "Sn\u00f5\u00f5per",
+          "url": "https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128634,
+      "name": "Pom Pom",
+      "url": "https://open.spotify.com/track/50XEaacXqkRUm4a2fQpoCS"
+    },
+    {
+      "album": {
         "name": "Pop Punk Anthem (Sorry for the Delay)",
         "url": "https://open.spotify.com/album/1yo6Z11R4lcfGB938jqazC"
       },
@@ -13480,6 +13574,24 @@
       "duration_ms": 170579,
       "name": "Rock A Bye Baby",
       "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
+    },
+    {
+      "album": {
+        "name": "Welcome to My Blue Sky",
+        "url": "https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199347,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/3XGqxMFncuSjOeW3yHFrru"
     },
     {
       "album": {
@@ -14693,6 +14805,24 @@
     },
     {
       "album": {
+        "name": "Outrun You All",
+        "url": "https://open.spotify.com/album/3dy3BgU0SuF4YyHSCmQoYc"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215666,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/3dT6aOiTVLcHGQwxxzqGhZ"
+    },
+    {
+      "album": {
         "name": "Slushy (feat. Kate Nash)",
         "url": "https://open.spotify.com/album/7iio9VUbXAW495paD6jGux"
       },
@@ -15098,6 +15228,24 @@
       "duration_ms": 199809,
       "name": "Spillways [Feat. Joe Elliott]",
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
+    },
+    {
+      "album": {
+        "name": "Spin The Block",
+        "url": "https://open.spotify.com/album/6lqtX8Ea7i76lIhPPoBPSl"
+      },
+      "artists": [
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173069,
+      "name": "Spin The Block",
+      "url": "https://open.spotify.com/track/1f3LYv9fIs3o9pS8V3dwUP"
     },
     {
       "album": {
@@ -15886,6 +16034,24 @@
       "duration_ms": 168030,
       "name": "t r a n s p a r e n t s o u l feat. Travis Barker",
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
+    },
+    {
+      "album": {
+        "name": "If You Asked For A Picture",
+        "url": "https://open.spotify.com/album/2WxJEnHUswOIZ6ZXdvY6SO"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "T&A",
+      "url": "https://open.spotify.com/track/0pUNmYBmMliYc2CNIbgfUs"
     },
     {
       "album": {

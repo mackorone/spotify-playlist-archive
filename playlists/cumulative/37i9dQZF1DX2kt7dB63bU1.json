@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Jazz voices of today. Cover: Rachael & Vilray",
+  "description": "Jazz voices of today. Cover: Samara Joy",
   "name": "Vocal Jazz",
   "tracks": [
     {
@@ -589,6 +589,28 @@
     },
     {
       "album": {
+        "name": "All I Ever Needed",
+        "url": "https://open.spotify.com/album/4XXYuQy4Mjl6BMlJqvLO28"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        },
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "All I Ever Needed",
+      "url": "https://open.spotify.com/track/4SayifPw2LFaHxGCzIuJKv"
+    },
+    {
+      "album": {
         "name": "Love Letters",
         "url": "https://open.spotify.com/album/6nwnnnWv9wuRRP8ScrT9eo"
       },
@@ -858,6 +880,24 @@
       "duration_ms": 235078,
       "name": "Angel City",
       "url": "https://open.spotify.com/track/5qLeANvmyow2ToeiVRVGof"
+    },
+    {
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/5xEQG4xagkE1zCBIHcG9CO"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286398,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3k9o6akjp2ZnKipCG9VPw4"
     },
     {
       "album": {
@@ -10970,7 +11010,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 346133,
       "name": "No More Blues",
       "url": "https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU"
@@ -13712,7 +13752,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 229133,
       "name": "Stop This World",
       "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
@@ -13856,7 +13896,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-27",
       "duration_ms": 250200,
       "name": "Stuck In London",
       "url": "https://open.spotify.com/track/2FXL8Xr4WaXwroKIRU90SU"
@@ -15604,6 +15644,24 @@
       "duration_ms": 187040,
       "name": "Three Cigarettes in an Ashtray",
       "url": "https://open.spotify.com/track/6nlynVbgwm6bavyuQw39Yo"
+    },
+    {
+      "album": {
+        "name": "Three Little Words",
+        "url": "https://open.spotify.com/album/20nAIJBVs6bItCdqyXzxI5"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/3smU34X0GvXYM6YcKO2Bwd"
     },
     {
       "album": {

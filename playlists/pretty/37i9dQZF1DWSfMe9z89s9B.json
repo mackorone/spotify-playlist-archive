@@ -1,44 +1,32 @@
 {
   "description": "The new school - Alternative R&B. Cover: Thundercat",
-  "num_followers": 1342367,
+  "num_followers": 1341976,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACL37QwxRxw/GMybXSOMVZbLWPwZ",
+  "snapshot_id": "AAAAAKanxXjh7R2lm4BqIR2WPPMnXOJc",
   "tracks": [
     {
-      "added_at": "2025-09-19 06:19:16",
+      "added_at": "2025-09-26 19:38:36",
       "album": {
-        "name": "I Wish I Didn\u2019t Waste Your Time",
-        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "I Wish I Didn\u2019t Waste Your Time",
-      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
-    },
-    {
-      "added_at": "2025-09-12 20:05:34",
-      "album": {
-        "name": "JUICY",
-        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
-      },
-      "artists": [
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 192221,
-      "name": "JUICY",
-      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
+      "duration_ms": 317000,
+      "name": "Moon (Feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
     },
     {
       "added_at": "2025-08-22 10:33:51",
@@ -81,22 +69,6 @@
       "url": "https://open.spotify.com/track/4qrgSuZSO1mH2VFwEBKYtB"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "be careful",
-        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 203940,
-      "name": "be careful",
-      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
-    },
-    {
       "added_at": "2025-09-07 01:24:20",
       "album": {
         "name": "Mirage",
@@ -115,6 +87,54 @@
     {
       "added_at": "2025-09-19 06:19:16",
       "album": {
+        "name": "I Wish I Didn\u2019t Waste Your Time",
+        "url": "https://open.spotify.com/album/51GiSe7gbtCBs7oAhsu1af"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "I Wish I Didn\u2019t Waste Your Time",
+      "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
+    },
+    {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/20F80R47bc7O1rlCHXPiiP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 192221,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
+    },
+    {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "be careful",
+        "url": "https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 203940,
+      "name": "be careful",
+      "url": "https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z"
+    },
+    {
+      "added_at": "2025-09-19 06:19:16",
+      "album": {
         "name": "WAVES",
         "url": "https://open.spotify.com/album/3Maum0B9owTJwvKc6JRdSy"
       },
@@ -129,20 +149,36 @@
       "url": "https://open.spotify.com/track/7vXYRLM5UxGt9s06NOQDlo"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
+      "added_at": "2025-09-26 19:38:36",
       "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+        "name": "Church",
+        "url": "https://open.spotify.com/album/3cqwldvKTmGpKrXrkkmWJJ"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Henry Verus",
+          "url": "https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4"
         }
       ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
+      "duration_ms": 229706,
+      "name": "Church",
+      "url": "https://open.spotify.com/track/5fZM36ZapKLmexDKuBW4pO"
+    },
+    {
+      "added_at": "2025-09-19 06:19:16",
+      "album": {
+        "name": "The Last Great American Summer",
+        "url": "https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "duration_ms": 188806,
+      "name": "R!OT",
+      "url": "https://open.spotify.com/track/4Y3ShMgcBwSy7UDvqZVYYE"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -161,20 +197,52 @@
       "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     },
     {
-      "added_at": "2025-09-19 06:19:16",
+      "added_at": "2025-08-15 06:41:00",
       "album": {
-        "name": "The Last Great American Summer",
-        "url": "https://open.spotify.com/album/7fXy1E3B6kP1Ct77Lk6YHC"
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
       },
       "artists": [
         {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 188806,
-      "name": "R!OT",
-      "url": "https://open.spotify.com/track/4Y3ShMgcBwSy7UDvqZVYYE"
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
+    },
+    {
+      "added_at": "2025-09-26 19:38:36",
+      "album": {
+        "name": "skin!",
+        "url": "https://open.spotify.com/album/3GUmmOqPRyswzZpcICXhcx"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "skin!",
+      "url": "https://open.spotify.com/track/0wuvZIbqh7oOtAQcjXy6hS"
+    },
+    {
+      "added_at": "2025-09-26 19:38:36",
+      "album": {
+        "name": "Heard What You Said",
+        "url": "https://open.spotify.com/album/1f8o1x4jMdHdY5odB4xuTv"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "Heard What You Said",
+      "url": "https://open.spotify.com/track/7CDchH4EG7QOmjTIK5Yakl"
     },
     {
       "added_at": "2025-09-19 06:19:16",
@@ -311,22 +379,6 @@
       "duration_ms": 169294,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
-    },
-    {
-      "added_at": "2025-07-18 05:45:52",
-      "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "YUKON",
-      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -505,22 +557,6 @@
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
     },
     {
-      "added_at": "2025-07-11 07:16:22",
-      "album": {
-        "name": "FLUX",
-        "url": "https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9"
-      },
-      "artists": [
-        {
-          "name": "CARI",
-          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
-        }
-      ],
-      "duration_ms": 125893,
-      "name": "Phuckups (Hold Me)",
-      "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
-    },
-    {
       "added_at": "2025-08-22 10:33:51",
       "album": {
         "name": "Growing Pains",
@@ -537,20 +573,20 @@
       "url": "https://open.spotify.com/track/3OkdBa6PhTPxOEl2LqGy3L"
     },
     {
-      "added_at": "2025-08-01 08:16:45",
+      "added_at": "2025-07-11 07:16:22",
       "album": {
-        "name": "jones",
-        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9"
       },
       "artists": [
         {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
         }
       ],
-      "duration_ms": 288773,
-      "name": "idiot",
-      "url": "https://open.spotify.com/track/20XtS2OeWwItsgAs71sPQ3"
+      "duration_ms": 125893,
+      "name": "Phuckups (Hold Me)",
+      "url": "https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ"
     },
     {
       "added_at": "2025-07-18 05:45:52",
@@ -567,6 +603,22 @@
       "duration_ms": 228548,
       "name": "say swear",
       "url": "https://open.spotify.com/track/6Hzi9t6gc3JeSVmYbAx9vm"
+    },
+    {
+      "added_at": "2025-08-01 08:16:45",
+      "album": {
+        "name": "jones",
+        "url": "https://open.spotify.com/album/0ZdcI5SgkDnVvTrBurFchs"
+      },
+      "artists": [
+        {
+          "name": "boylife",
+          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
+        }
+      ],
+      "duration_ms": 288773,
+      "name": "idiot",
+      "url": "https://open.spotify.com/track/20XtS2OeWwItsgAs71sPQ3"
     },
     {
       "added_at": "2025-04-04 04:43:43",
@@ -633,22 +685,6 @@
       "url": "https://open.spotify.com/track/0kgsSEOPCAPXHOWQjgGRs6"
     },
     {
-      "added_at": "2024-09-27 23:55:30",
-      "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
-    },
-    {
       "added_at": "2025-03-14 07:00:38",
       "album": {
         "name": "NuDivision",
@@ -669,6 +705,22 @@
       "url": "https://open.spotify.com/track/7i6qaskEiQzuDUMaVzYk6c"
     },
     {
+      "added_at": "2025-07-18 05:45:52",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
+    },
+    {
       "added_at": "2025-08-01 08:16:45",
       "album": {
         "name": "Fade Blue (11pm)",
@@ -685,6 +737,22 @@
       "url": "https://open.spotify.com/track/6MqbcgkeYKBqWxgQkEVtoN"
     },
     {
+      "added_at": "2024-09-27 23:55:30",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
       "added_at": "2025-03-21 05:31:12",
       "album": {
         "name": "Pieces",
@@ -699,38 +767,6 @@
       "duration_ms": 177000,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD"
-    },
-    {
-      "added_at": "2025-08-08 06:41:07",
-      "album": {
-        "name": "MONOCHROME RADIO (DELUXE)",
-        "url": "https://open.spotify.com/album/6ZheFCIly6mzEYOIOJv1X3"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 222516,
-      "name": "SUGAR HONEY ICED TEA",
-      "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
-    },
-    {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/1RhfxWkVqVhY6iSnHs4KX9"
-      },
-      "artists": [
-        {
-          "name": "nyan",
-          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
-        }
-      ],
-      "duration_ms": 148369,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/3qulGnMuDFn1javAqho9yi"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -753,20 +789,20 @@
       "url": "https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq"
     },
     {
-      "added_at": "2025-08-22 10:33:51",
+      "added_at": "2025-08-15 06:41:00",
       "album": {
-        "name": "stupid prizes",
-        "url": "https://open.spotify.com/album/6eiiFyinzNFa5ZnCiRp6c3"
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/1RhfxWkVqVhY6iSnHs4KX9"
       },
       "artists": [
         {
-          "name": "keiyaA",
-          "url": "https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV"
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
         }
       ],
-      "duration_ms": 191278,
-      "name": "stupid prizes",
-      "url": "https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C"
+      "duration_ms": 148369,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/3qulGnMuDFn1javAqho9yi"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -805,6 +841,22 @@
       "url": "https://open.spotify.com/track/4uyBm26e7ElRigCH6vRbpc"
     },
     {
+      "added_at": "2025-08-22 10:33:51",
+      "album": {
+        "name": "stupid prizes",
+        "url": "https://open.spotify.com/album/6eiiFyinzNFa5ZnCiRp6c3"
+      },
+      "artists": [
+        {
+          "name": "keiyaA",
+          "url": "https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV"
+        }
+      ],
+      "duration_ms": 191278,
+      "name": "stupid prizes",
+      "url": "https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C"
+    },
+    {
       "added_at": "2024-12-13 05:00:40",
       "album": {
         "name": "Chest Pain (I Love)",
@@ -835,22 +887,6 @@
       "duration_ms": 225874,
       "name": "Have A Baby (With Me)",
       "url": "https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc"
-    },
-    {
-      "added_at": "2024-12-06 07:13:57",
-      "album": {
-        "name": "I SHOULD CALL THEM",
-        "url": "https://open.spotify.com/album/1xdhvEWzPjEbhIqHGmz9SS"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 144429,
-      "name": "want",
-      "url": "https://open.spotify.com/track/7xerCwWpbFpdYfuYCiguAt"
     },
     {
       "added_at": "2025-01-24 10:24:05",
@@ -889,6 +925,22 @@
       "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
     },
     {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Jersey",
+        "url": "https://open.spotify.com/album/6qtAWnR7GmJJqMkmk10hvz"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        }
+      ],
+      "duration_ms": 215639,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/6UhygfLQaavhREE9Ia5FCD"
+    },
+    {
       "added_at": "2025-04-11 05:53:52",
       "album": {
         "name": "DEEP IN YOUR SOUL",
@@ -919,22 +971,6 @@
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
-    },
-    {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "Jersey",
-        "url": "https://open.spotify.com/album/6qtAWnR7GmJJqMkmk10hvz"
-      },
-      "artists": [
-        {
-          "name": "646yf4t",
-          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
-        }
-      ],
-      "duration_ms": 215639,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/6UhygfLQaavhREE9Ia5FCD"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -981,6 +1017,22 @@
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
     },
     {
+      "added_at": "2025-05-02 04:00:39",
+      "album": {
+        "name": "Head in a Jar",
+        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
+    },
+    {
       "added_at": "2024-01-08 22:37:02",
       "album": {
         "name": "act ii: date @ 8",
@@ -1013,22 +1065,6 @@
       "url": "https://open.spotify.com/track/6Qgy3ikLFnJsJ7xHL0mayF"
     },
     {
-      "added_at": "2025-05-02 04:00:39",
-      "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
-    },
-    {
       "added_at": "2024-07-12 06:42:32",
       "album": {
         "name": "There Goes My Baby",
@@ -1059,6 +1095,22 @@
       "duration_ms": 229009,
       "name": "True Believer",
       "url": "https://open.spotify.com/track/4G1ihdzBFpIwd9brtk0AF3"
+    },
+    {
+      "added_at": "2023-06-09 04:00:00",
+      "album": {
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "These Four Walls",
+      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
     },
     {
       "added_at": "2025-06-27 04:16:56",
@@ -1109,22 +1161,6 @@
       "url": "https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
-      "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "These Four Walls",
-      "url": "https://open.spotify.com/track/7tzeZLMnqlke2raEMeDZ9S"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Since I Have A Lover",
@@ -1173,22 +1209,6 @@
       "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Medea",
-        "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
-    },
-    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Lonely Fight",
@@ -1203,6 +1223,22 @@
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Medea",
+        "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -1253,6 +1289,22 @@
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
     },
     {
+      "added_at": "2024-02-09 06:30:29",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 118269,
+      "name": "DNM",
+      "url": "https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s"
+    },
+    {
       "added_at": "2025-06-13 04:00:56",
       "album": {
         "name": "Heaven",
@@ -1271,22 +1323,6 @@
       "duration_ms": 182906,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2"
-    },
-    {
-      "added_at": "2024-02-09 06:30:29",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 118269,
-      "name": "DNM",
-      "url": "https://open.spotify.com/track/67Oq8booO7HDSL4LlmHE4s"
     },
     {
       "added_at": "2024-05-24 06:53:46",
@@ -2535,38 +2571,6 @@
       "duration_ms": 149189,
       "name": "Pulp Jam (feat. Mamii)",
       "url": "https://open.spotify.com/track/3CarOVyNEOcK89v0o3elHk"
-    },
-    {
-      "added_at": "2024-09-27 23:55:30",
-      "album": {
-        "name": "CHARLOTTE",
-        "url": "https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 182330,
-      "name": "It\u2019s Gonna\u2019 Cost You",
-      "url": "https://open.spotify.com/track/0spvs0ecLz5ZbqZFS3ugSq"
-    },
-    {
-      "added_at": "2025-02-14 07:50:47",
-      "album": {
-        "name": "No Champagne (6am)",
-        "url": "https://open.spotify.com/album/06J4c0VJ5CKYy8xyQlv4GZ"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 154600,
-      "name": "No Champagne (6am)",
-      "url": "https://open.spotify.com/track/21ktp6PzUlRdruDIEcraM2"
     }
   ],
   "unique_name": "Vanguard",

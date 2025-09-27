@@ -1,13 +1,29 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 48536,
+  "num_followers": 48570,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNM0gAAAAACZb53YdbZ4vcs/O9emiHKU",
+  "snapshot_id": "aNSGAAAAAABsp7mqOlX1ajVPNS06oD/u",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 256079,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/6VN05yu5nz7t1On8Nn9DdO"
+    },
     {
       "added_at": null,
       "album": {
@@ -455,22 +471,6 @@
       "duration_ms": 150583,
       "name": "I Would've",
       "url": "https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 256079,
-      "name": "Heroin",
-      "url": "https://open.spotify.com/track/6VN05yu5nz7t1On8Nn9DdO"
     },
     {
       "added_at": null,

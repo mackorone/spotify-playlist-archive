@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-385 songs - 23 hr 6 min
+386 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Badai Telah Berlalu](https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Badai Telah Berlalu](https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9) | 4:55 | 2023-04-17 | 2025-07-28 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/1KoAKmbSdx172NnEn6rV9F) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Ballroom Extravaganza](https://open.spotify.com/album/0rbFTWzM6EtmYd61kpV1ke) | 3:09 | 2023-03-22 | 2023-10-12 |
 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-12-09 | 2025-06-03 |
+| [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2025-09-26 |  |
 | [Beranjak Dewasa](https://open.spotify.com/track/3FPlY1uqTe1oFfIgI0BnoA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selamat Ulang Tahun](https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG) | 4:57 | 2023-03-22 | 2024-10-16 |
 | [Berbunga\-bunga](https://open.spotify.com/track/0nJJr1PPDsezNGkJ1AtLkj) | [SOIN](https://open.spotify.com/artist/7DivToHdmrlnjxG1iKqfMx), [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Berbunga\-bunga](https://open.spotify.com/album/4gCyxB5ixZUx3aQGEzrNcE) | 3:21 | 2024-12-09 | 2025-05-20 |
 | [bergema sampai selamanya](https://open.spotify.com/track/0ql6fgz8qk0pAEKrGeSppJ) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [Nadhif \(laman berikutnya\)](https://open.spotify.com/album/6QNFAeSYHkbEuTUtQMhlnC) | 3:18 | 2025-09-24 |  |

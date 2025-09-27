@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 148767,
+  "num_followers": 148824,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -1154,6 +1154,22 @@
         {
           "name": "Navraj Hans",
           "url": "https://open.spotify.com/artist/4ItzUQL1OI4JNDGNdKHR1K"
+        },
+        {
+          "name": "Anand Raj Anand",
+          "url": "https://open.spotify.com/artist/5ixQ5hSywFLUaxoaA0uVaH"
+        },
+        {
+          "name": "Singhsta",
+          "url": "https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G"
+        },
+        {
+          "name": "Oye Sheraa",
+          "url": "https://open.spotify.com/artist/3gyYSD2w6UlmfrTeIY3Y3i"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "duration_ms": 203881,
@@ -1315,26 +1331,6 @@
     {
       "added_at": "2025-09-10 10:53:32",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Sahil Kaushal",
-          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
-    },
-    {
-      "added_at": "2025-09-10 10:53:32",
-      "album": {
         "name": "Sauda Khara Khara (From \"Good Newwz\")",
         "url": "https://open.spotify.com/album/4s111tHGrcnzOoZpIxijX5"
       },
@@ -1367,6 +1363,26 @@
       "duration_ms": 211034,
       "name": "Sauda Khara Khara - From \"Good Newwz\"",
       "url": "https://open.spotify.com/track/7Fq769JN9wwaVHUgVdkxNg"
+    },
+    {
+      "added_at": "2025-09-10 10:53:32",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Sahil Kaushal",
+          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
+        }
+      ],
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
     },
     {
       "added_at": "2025-09-10 10:53:32",
@@ -1503,30 +1519,6 @@
     {
       "added_at": "2025-09-10 10:53:32",
       "album": {
-        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
-      },
-      "artists": [
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        }
-      ],
-      "duration_ms": 215075,
-      "name": "Let's Nacho",
-      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
-    },
-    {
-      "added_at": "2025-09-10 10:53:32",
-      "album": {
         "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -1551,6 +1543,30 @@
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
+    },
+    {
+      "added_at": "2025-09-10 10:53:32",
+      "album": {
+        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 215075,
+      "name": "Let's Nacho",
+      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
     },
     {
       "added_at": "2025-09-10 10:53:32",
@@ -1599,6 +1615,30 @@
     {
       "added_at": "2025-09-10 10:53:32",
       "album": {
+        "name": "Kuch Kuch Locha Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WQHi2iNVTo5AqdlZDKdYc"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        },
+        {
+          "name": "Shraddha Pandit",
+          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Paani Waala Dance",
+      "url": "https://open.spotify.com/track/0Wt2nTFdp8maSu2cNRMxDx"
+    },
+    {
+      "added_at": "2025-09-10 10:53:32",
+      "album": {
         "name": "Nain Matakka (From \"Baby John\")",
         "url": "https://open.spotify.com/album/2xFg2ollu0FPiwvDBAVDT5"
       },
@@ -1627,50 +1667,6 @@
     {
       "added_at": "2025-09-10 10:53:32",
       "album": {
-        "name": "Kuch Kuch Locha Hai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WQHi2iNVTo5AqdlZDKdYc"
-      },
-      "artists": [
-        {
-          "name": "Ikka",
-          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
-        },
-        {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        },
-        {
-          "name": "Shraddha Pandit",
-          "url": "https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Paani Waala Dance",
-      "url": "https://open.spotify.com/track/0Wt2nTFdp8maSu2cNRMxDx"
-    },
-    {
-      "added_at": "2025-09-10 10:53:32",
-      "album": {
-        "name": "Badhaai Ho",
-        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 198025,
-      "name": "Morni Banke",
-      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
-    },
-    {
-      "added_at": "2025-09-10 10:53:32",
-      "album": {
         "name": "BurjKhalifa (From \"Laxmii\")",
         "url": "https://open.spotify.com/album/28lGT1KtDZNmLW6c6DMdSa"
       },
@@ -1695,6 +1691,26 @@
       "duration_ms": 187570,
       "name": "BurjKhalifa - From \"Laxmii\"",
       "url": "https://open.spotify.com/track/4UKXXrsLEQNHQQ8zhdRQ2a"
+    },
+    {
+      "added_at": "2025-09-10 10:53:32",
+      "album": {
+        "name": "Badhaai Ho",
+        "url": "https://open.spotify.com/album/3JV6qkpTBbwUL0gSDPc6bA"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        }
+      ],
+      "duration_ms": 198025,
+      "name": "Morni Banke",
+      "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
     },
     {
       "added_at": "2025-09-10 10:53:32",

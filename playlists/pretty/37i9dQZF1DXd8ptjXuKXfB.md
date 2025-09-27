@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 ### [Most Menő](https://open.spotify.com/playlist/37i9dQZF1DXd8ptjXuKXfB)
 
-> Cool és trendi dalok Magyarországon!
+> Cool és trendi dalok Magyarországon! Cover: Pamkutya
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,218 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,234 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |
-| 2 | [Aranybula](https://open.spotify.com/track/2L5UIZlS4We7uc8bPnjNHi) | [Pamkutya](https://open.spotify.com/artist/1VuCKCfnGqboppigH0s2Jr) | [Aranybula](https://open.spotify.com/album/5X7Ndo1wnRcKMEDWkt4Lp0) | 3:04 |
+| 1 | [Aranybula](https://open.spotify.com/track/2L5UIZlS4We7uc8bPnjNHi) | [Pamkutya](https://open.spotify.com/artist/1VuCKCfnGqboppigH0s2Jr) | [Aranybula](https://open.spotify.com/album/5X7Ndo1wnRcKMEDWkt4Lp0) | 3:04 |
+| 2 | [vemzavr!](https://open.spotify.com/track/5okl2XLawfPjOCZJ1mSdox) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [vemzavr!](https://open.spotify.com/album/3gA92ig8JUIowiMLKTJWx7) | 3:03 |
 | 3 | [PLETYKA](https://open.spotify.com/track/3PFA6nDgFmw51XBaB3kGMR) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [PLETYKA](https://open.spotify.com/album/7rUD24pfDqIb2ovCzeFXkj) | 2:35 |
 | 4 | [OHMAMMA](https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [OHMAMMA](https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu) | 2:48 |
 | 5 | [AFTERPARTY](https://open.spotify.com/track/1nu8OLdO1U77pxAmyZLdjv) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [AFTERPARTY](https://open.spotify.com/album/3KeX6WBU1frIGsFPfZCJmd) | 2:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [MILF](https://open.spotify.com/track/4OzNBJIHhiYKRe5COThmC3) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [MILF](https://open.spotify.com/album/0njwkRwxNkojfPZTKVnTYW) | 2:23 |
 | 80 | [Mégegyszer](https://open.spotify.com/track/6MoY6upCR0LGbyy9HOVwJ2) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee) | [Mégegyszer](https://open.spotify.com/album/74PfAetWEsR4nxqDq2UWlr) | 3:03 |
 
-Snapshot ID: `AAAAAFNz/RMtlC4m2jGDkRRA5/6r7mbv`
+Snapshot ID: `AAAAAENs0IMe7K01t9EI2/PzrUcf1H+i`

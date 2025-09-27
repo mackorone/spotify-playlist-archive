@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,026 likes - 51 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,100 likes - 51 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 50 | [Best Day Ever](https://open.spotify.com/track/5zNvK3AfYvmMfb458bzUFY) | [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [Okay to Be Different](https://open.spotify.com/album/79hcqBz6rqKuv1aMCJfx23) | 2:30 |
 | 51 | [Be You You You](https://open.spotify.com/track/7Eg3RbciQgucCxDanFjEbE) | [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI) | [Taste The Sky](https://open.spotify.com/album/3j2LHcEsD5j3LY77fAitx5) | 3:02 |
 
-Snapshot ID: `AAAAAPmZTh8bZD5a3GB6bQQRqGHadvt1`
+Snapshot ID: `AAAAAGeY9iY08HftJA/nni0Yy1JZHhVo`

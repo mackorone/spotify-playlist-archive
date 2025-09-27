@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The best indie tracks of the moment\. Cover: yung kai
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,995 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,038 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [](https://open.spotify.com/album/null) | 3:48 |
-| 2 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [](https://open.spotify.com/album/null) | 3:05 |
+| 1 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 |
+| 2 | [Cobra](https://open.spotify.com/track/7qOBKhD1a54OvLvVee2tGf) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:05 |
 | 3 | [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 |
-| 4 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [](https://open.spotify.com/album/null) | 3:21 |
+| 4 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 5 | [Serious](https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e), [Mothé](https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ) | [Serious](https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO) | 2:31 |
 | 6 | [Virgin Heartbreak](https://open.spotify.com/track/3AgUWDWeQLOepfIETZynmA) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Virgin Heartbreak](https://open.spotify.com/album/4VQhoUApuK9q2M6mRzA2bH) | 3:36 |
 | 7 | [Sucker / Psycho](https://open.spotify.com/track/0YrU5rnOXUWyik38YDVwQw) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Sucker / Psycho](https://open.spotify.com/album/4lGR8tzDw0OeWGiKZksDFY) | 3:39 |
-| 8 | [Victory City](https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [](https://open.spotify.com/album/null) | 4:15 |
+| 8 | [Victory City](https://open.spotify.com/track/3SJPrIvTqCbrDqnZ9zuFRy) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Kids Table](https://open.spotify.com/album/7IH426dtS8J6gAzKVJ1TSB) | 4:15 |
 | 9 | [Giving Up Air](https://open.spotify.com/track/5BnRN1Qqnl7MntWLzsZ9kE) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Giving Up Air](https://open.spotify.com/album/4foiPmpx9aPyoWs37TRVb1) | 4:47 |
-| 10 | [the long night](https://open.spotify.com/track/0CS4asinuJft3n2sE12zog) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [](https://open.spotify.com/album/null) | 4:17 |
+| 10 | [the long night](https://open.spotify.com/track/0CS4asinuJft3n2sE12zog) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [purity ring](https://open.spotify.com/album/3n0N3fSeIXDhMWSFtN2rX9) | 4:17 |
 | 11 | [Tennessee Heat](https://open.spotify.com/track/5ykYQxyoAF7NJJKW3FkZe5) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Tennessee Heat](https://open.spotify.com/album/3RfRUGbs2HQRYY37pgP9Zm) | 3:09 |
 | 12 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
 | 13 | [The Bridge](https://open.spotify.com/track/24jaYO61YocxAaD00zmNTM) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [The Bridge](https://open.spotify.com/album/5jybWpBPGtgDzGftITHCjv) | 3:04 |
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 16 | [Re: Valentine's Day](https://open.spotify.com/track/5q8ICX48e1CMLPBqUlPp1n) | [Hotel Mira](https://open.spotify.com/artist/7hd3XnjENIMw13Dmn8hEYw) | [Re: Valentine's Day](https://open.spotify.com/album/21lXRt5S61krfyOEcS52w3) | 3:14 |
 | 17 | [Gas](https://open.spotify.com/track/14ZO2q1zhmbFjMpieCKo0f) | [WEBB](https://open.spotify.com/artist/7t1nKwfNo1wiVYWEdJfyLj) | [Take Away The Pain](https://open.spotify.com/album/4UjxglsZXmWagYqSHcAky0) | 2:39 |
 | 18 | [Burn in Heaven](https://open.spotify.com/track/3JouCwLvnyyKE58ZYJqdxQ) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Burn in Heaven](https://open.spotify.com/album/2Cr1h80WAj2HPKA2G9jc0k) | 3:17 |
-| 19 | [Track 4](https://open.spotify.com/track/1DU4YT3fVrFjNlt2kS3iMY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [](https://open.spotify.com/album/null) | 0:00 |
+| 19 | [Human Resources](https://open.spotify.com/track/1DU4YT3fVrFjNlt2kS3iMY) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Satin Sleepover](https://open.spotify.com/album/3ZGvT0WSwNEM6LHuMBQH6c) | 3:21 |
 | 20 | [24 Hour Fantasy](https://open.spotify.com/track/2TBYuFW2iDRg0gO6b8gmux) | [Frank Mighty](https://open.spotify.com/artist/21AsIHgx9RggFb0aD29T3U) | [24 Hour Fantasy](https://open.spotify.com/album/3GszH3Y7eotijEQuTjRGNG) | 3:11 |
 | 21 | [come around](https://open.spotify.com/track/3edjiwGzN2je2P4wAK4fjl) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [come around](https://open.spotify.com/album/4M3HGuQOeW02F1EryOHozx) | 3:23 |
 | 22 | [Miss You Yet](https://open.spotify.com/track/0tXx51S0MifadPGN2WNCu3) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [Miss You Yet](https://open.spotify.com/album/4rfI9zbcFzUFwPD6bFwHpz) | 2:16 |
 | 23 | [San Francisco](https://open.spotify.com/track/3bNlCjoXHM2ZUhHJzj39SS) | [Hank's Dream](https://open.spotify.com/artist/6qYJLrA71AD4AxYa4a7MXh) | [San Francisco](https://open.spotify.com/album/2yWDcYud4zT94mLFQI5Ea2) | 3:36 |
-| 24 | [Capitol Cooler](https://open.spotify.com/track/5k1CDyQwUbR3VXUC3KKvu7) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [](https://open.spotify.com/album/null) | 3:13 |
-| 25 | [One Of The Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One Of The Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |
+| 24 | [Capitol Cooler](https://open.spotify.com/track/5k1CDyQwUbR3VXUC3KKvu7) | [Sloan](https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP) | [Based on the Best Seller](https://open.spotify.com/album/3VHuUziV1KBS08Ydz1ACfr) | 3:13 |
+| 25 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 |
 | 26 | [Point of View](https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I Can See The Future](https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy) | 4:49 |
 | 27 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
 | 28 | [HOV \(unerthed\)](https://open.spotify.com/track/5XZRcZUKUWgBmiQYUN9v7o) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Unerthed: Hole Erth Unplugged](https://open.spotify.com/album/1ZjpUdKgDpQxvIBq3bINsx) | 2:16 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lleva el alma musical de M\u00e9xico a donde sea!",
-  "num_followers": 133482,
+  "num_followers": 133493,
   "original_name": "Tradici\u00f3n Mexicana",
   "owner": {
     "name": "Spotify",
@@ -1171,22 +1171,18 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Mariachi Azteca",
-        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
+        "name": "The Best of Mexico",
+        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
       },
       "artists": [
         {
-          "name": "Juan Jos\u00e9 Espinosa",
-          "url": "https://open.spotify.com/artist/4BjCrB48jwSb1BoRTmgcNM"
-        },
-        {
-          "name": "Mariachi Azteca",
-          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+          "name": "De Norte A Sur",
+          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
         }
       ],
-      "duration_ms": 122026,
-      "name": "Las Alte\u00f1itas",
-      "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
+      "duration_ms": 163400,
+      "name": "La bikina (Arr. R. Jonas)",
+      "url": "https://open.spotify.com/track/1O4VFqHZSAnJONSv7YQTVs"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1207,22 +1203,22 @@
     {
       "added_at": "2025-09-04 20:27:32",
       "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V"
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
       },
       "artists": [
         {
-          "name": "Alfredo Gutierrez",
-          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+          "name": "Juan Jos\u00e9 Espinosa",
+          "url": "https://open.spotify.com/artist/4BjCrB48jwSb1BoRTmgcNM"
         },
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
         }
       ],
-      "duration_ms": 245600,
-      "name": "El polvorete",
-      "url": "https://open.spotify.com/track/6J3SOBJl8aL5gXlf4msiNw"
+      "duration_ms": 122026,
+      "name": "Las Alte\u00f1itas",
+      "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1239,22 +1235,6 @@
       "duration_ms": 170800,
       "name": "La Raspa",
       "url": "https://open.spotify.com/track/6N9he4wWKlcKnPZbUD0SDn"
-    },
-    {
-      "added_at": "2025-09-04 20:27:32",
-      "album": {
-        "name": "The Best of Mexico",
-        "url": "https://open.spotify.com/album/0JjUyzvAkWOcKizrCSOEd9"
-      },
-      "artists": [
-        {
-          "name": "De Norte A Sur",
-          "url": "https://open.spotify.com/artist/7bvhkGrKvpwFoxxhu2pW15"
-        }
-      ],
-      "duration_ms": 163400,
-      "name": "La bikina (Arr. R. Jonas)",
-      "url": "https://open.spotify.com/track/1O4VFqHZSAnJONSv7YQTVs"
     },
     {
       "added_at": "2025-09-04 20:27:32",
@@ -1303,6 +1283,26 @@
       "duration_ms": 192200,
       "name": "M\u00e9xico Lindo y Querido",
       "url": "https://open.spotify.com/track/76bx1yoItpI54YOixTk7f0"
+    },
+    {
+      "added_at": "2025-09-04 20:27:32",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/1fC7tnPE1fTadN6NePzG2V"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        },
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "El polvorete",
+      "url": "https://open.spotify.com/track/6J3SOBJl8aL5gXlf4msiNw"
     },
     {
       "added_at": "2025-09-04 20:27:32",

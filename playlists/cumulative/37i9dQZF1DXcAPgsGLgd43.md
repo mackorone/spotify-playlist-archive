@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-452 songs - 1 day 0 hr 11 min
+453 songs - 1 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Cohete](https://open.spotify.com/track/6NIoeWyJ4lyrcywJcs5DQL) | [Juan Dileju](https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0) | [Cohete](https://open.spotify.com/album/6fbYYWkGPCfGy7B1TD1mw1) | 3:31 | 2024-08-30 | 2024-10-26 |
 | [Coketea \(feat\. Dean Walker\)](https://open.spotify.com/track/28L7bvWJkW1aXwAkjg5GaF) | [Kastelo](https://open.spotify.com/artist/2KmU3cHtzAMUFFEQPHF8ON), [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ), [Sael Quinn](https://open.spotify.com/artist/1u4OxkwNI4kCwcjTeFE0bj), [Dean Walker](https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN) | [Coketea \(feat\. Dean Walker\)](https://open.spotify.com/album/6vw66EvhvToEv490yZTtnT) | 3:12 | 2025-02-21 | 2025-05-14 |
 | [Colombiana](https://open.spotify.com/track/09wXTzm6Q3NpBDKS4kUAqc) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [CZR](https://open.spotify.com/artist/4whL137jgt9m3zwTUlGJDz) | [Colombiana](https://open.spotify.com/album/7vvmaTj1zNgUxP3M61v2gA) | 2:58 | 2021-10-29 | 2023-03-26 |
+| [Como Se Llama](https://open.spotify.com/track/3DgKAnFjBdfB9s3UVMbkqt) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Como Se Llama](https://open.spotify.com/album/2OUgnZvY9qxz9aCbnxrcTK) | 2:41 | 2025-09-26 |  |
 | [Con Calma](https://open.spotify.com/track/0EGOgEqaiBjTWIu38eoXuH) | [IILO](https://open.spotify.com/artist/3b9lTEUWpg0CqrtDF8leUi) | [Con Calma](https://open.spotify.com/album/5NDtnpK44qAfjzjapkDJML) | 2:30 | 2024-06-21 |  |
 | [Con La Luna](https://open.spotify.com/track/0xFDE8aSHBteczKTDOIzIk) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Con La Luna](https://open.spotify.com/album/3EFnE5hXMAZ3jMcKtZOAtK) | 2:07 | 2024-08-16 | 2024-12-06 |
 | [Conga Mode \- Edit](https://open.spotify.com/track/5QJwvpgZXdMD9lDtdczCVy) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Conga Mode EP](https://open.spotify.com/album/5QH9ZqMTDy5c6yIg6PiLte) | 3:44 | 2021-10-08 | 2023-11-11 |
@@ -224,7 +225,7 @@
 | [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 | 2023-12-01 | 2024-04-19 |
 | [La La La](https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [La La La](https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO) | 2:56 | 2023-11-10 | 2024-06-12 |
 | [La Luna \- Radio Edit](https://open.spotify.com/track/6kRjB4AwnXnGmhXHisnFXX) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [BOHEMIAN](https://open.spotify.com/artist/6TACexnfiLJ7tnGavfCOnB) | [La Luna \(Radio Edit\)](https://open.spotify.com/album/74ehtTSROSGpuivD54tPEO) | 2:57 | 2024-06-28 | 2024-07-27 |
-| [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 | 2025-05-16 |  |
+| [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 | 2025-05-16 | 2025-09-27 |
 | [La Musa \(with Miluhska\)](https://open.spotify.com/track/5IGqDVkK8bDHuQqsYvUvMt) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [La Musa \(with Miluhska\)](https://open.spotify.com/album/0rOYlzsSZ13P4SToVCMgZt) | 3:03 | 2024-07-19 |  |
 | [La Negra](https://open.spotify.com/track/5V2emIkSLAecBdvMebSUno) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Justo Valdes](https://open.spotify.com/artist/0t4tk9VrtbCUF4CNyjPDbj) | [La Negra](https://open.spotify.com/album/5w7kJWxWIDLatvruhQh6qn) | 2:23 | 2024-03-29 | 2024-05-03 |
 | [La Niña Latina](https://open.spotify.com/track/1rbrPMvCjBmOmvNYfuZYV2) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [La Niña Latina](https://open.spotify.com/album/5K8Z4sHnr1OV5bK26uMgDJ) | 2:40 | 2024-09-30 | 2024-10-26 |
