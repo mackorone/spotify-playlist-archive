@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 61780,
+  "num_followers": 61794,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNSGAAAAAABrRwuwOvPyIfiuW2Fw95Te",
+  "snapshot_id": "aNXXgAAAAACwtNfvdOstNLAMJzI6efhc",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz / Gilberto \u201876",
         "url": "https://open.spotify.com/album/6N2glPSb8ojSxzvGM0h8t8"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 345851,
       "name": "Aguas de Mar\u00e7o",
       "url": "https://open.spotify.com/track/7yJUX5pmBnJ53YCGkJWLHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

@@ -2371,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277105,
+      "name": "El Robot",
+      "url": "https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D"
+    },
+    {
+      "album": {
         "name": "El Rudo",
         "url": "https://open.spotify.com/album/24Yftddd1NjsQvGXFMO1Xi"
       },
@@ -2918,7 +2936,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 185750,
       "name": "Joven Bragado",
       "url": "https://open.spotify.com/track/4jtAoSLMR47ETn572YVdVI"

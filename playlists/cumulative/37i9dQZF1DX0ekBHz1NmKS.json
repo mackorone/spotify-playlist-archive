@@ -2657,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Barfotabarn",
+        "url": "https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165632,
+      "name": "Barfotabarn",
+      "url": "https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F"
+    },
+    {
+      "album": {
         "name": "Jag forts\u00e4tter gl\u00f6mma",
         "url": "https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW"
       },
@@ -27854,7 +27876,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 195768,
       "name": "Siktar H\u00f6gre",
       "url": "https://open.spotify.com/track/356GcC7IEcfEa9LA7xgb8b"

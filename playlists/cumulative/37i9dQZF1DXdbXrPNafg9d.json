@@ -101807,6 +101807,24 @@
     },
     {
       "album": {
+        "name": "Montauk",
+        "url": "https://open.spotify.com/album/4MMsp6Yyj6q1z4merEN9Gq"
+      },
+      "artists": [
+        {
+          "name": "Silverdeer",
+          "url": "https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245960,
+      "name": "Montauk",
+      "url": "https://open.spotify.com/track/59jAAMnXK7wHrwgpGwyjM4"
+    },
+    {
+      "album": {
         "name": "Monte Carlo",
         "url": "https://open.spotify.com/album/5zrgZ1fYfqUVXjDDafbuXf"
       },

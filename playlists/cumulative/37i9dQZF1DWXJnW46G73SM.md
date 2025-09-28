@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف:  عمرو جابر
+> أحدث الأغاني المصرية هنا 🤩 الغلاف:  أنغام
 
-1,574 songs - 3 day 15 hr 47 min
+1,576 songs - 3 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,7 +448,7 @@
 | [Hali](https://open.spotify.com/track/2opZSlFgSLmA9pGNKaOrEI) | [Mohamed El Sharnouby](https://open.spotify.com/artist/7zUEJRavunKtqi2n029IHn) | [Hali](https://open.spotify.com/album/18eWnAs6RMbSFmrkLMpLjY) | 3:29 | 2024-09-12 | 2024-11-09 |
 | [Halo](https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe) | [Neveen Ragab](https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT) | [Halo](https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j) | 3:43 | 2023-03-07 | 2023-05-09 |
 | [Hamoot Men Gherha](https://open.spotify.com/track/2W4rmDnrHNGqT2xlsjmEWX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Hamoot Men Gherha](https://open.spotify.com/album/5QLOcBX3uhpTCzmHJl1Oze) | 3:31 | 2021-12-23 | 2022-02-17 |
-| [Hanehky Fe Eih](https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Hanehky Fe Eih](https://open.spotify.com/album/3gLfi17apJkOvkpCR2gIHb) | 3:55 | 2025-07-04 |  |
+| [Hanehky Fe Eih](https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI) | [Code Masr](https://open.spotify.com/artist/145N3lyWbfwAEVNFwb0ack) | [Hanehky Fe Eih](https://open.spotify.com/album/3gLfi17apJkOvkpCR2gIHb) | 3:55 | 2025-07-04 | 2025-09-28 |
 | [Hanetabel](https://open.spotify.com/track/5ytdOKZA6wkA6eS7rnDB4p) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Hanetabel](https://open.spotify.com/album/1DK0H8a3CkT6858LBzYURD) | 4:11 | 2023-06-01 | 2023-07-14 |
 | [Hanheb Tany](https://open.spotify.com/track/3GN9a5xwtECKHyCkDibHuw) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Hanheb Tany](https://open.spotify.com/album/76HD1WqCuX0gUa5leikwt5) | 3:35 | 2025-02-07 | 2025-05-02 |
 | [Hanor2os](https://open.spotify.com/track/5iILBNAqhYBWSSYVszZMDC) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [Hanor2os](https://open.spotify.com/album/2ptIOi4S50Eb2GCOcHkSKb) | 2:20 | 2023-08-16 | 2023-09-30 |
@@ -482,7 +482,7 @@
 | [Hollela](https://open.spotify.com/track/1yIoskiVCvPljSNe1MWyMY) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Hollela](https://open.spotify.com/album/0iUnUZiFg6uHCNkgQXa21g) | 3:51 | 2023-06-22 | 2023-07-28 |
 | [Independent](https://open.spotify.com/track/23LjDDuaiLm6pU4CiS2WY8) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB), [Alaa Ayoub](https://open.spotify.com/artist/1VlKswfMq3gkY5dqMPqOtH) | [Independent](https://open.spotify.com/album/2RZG30VaDtoJeCUPdMImG0) | 4:11 | 2022-11-09 | 2023-01-25 |
 | [Iskandarani Ana](https://open.spotify.com/track/1gr3Q6HOICwxnVpLDIA4mC) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [حوده شيبه](https://open.spotify.com/artist/3RIARtfixfhhZMVhEyRa7N) | [Iskandarani Ana](https://open.spotify.com/album/3q6z4iUR0irLdCIuoWu67m) | 2:42 | 2025-02-27 | 2025-05-16 |
-| [Ismallah](https://open.spotify.com/track/5cwsZOrSo8TRmYUa2JmZKu) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Ismallah](https://open.spotify.com/album/1E8KXu89Mvi1DpHXUuMBc4) | 2:52 | 2025-07-03 |  |
+| [Ismallah](https://open.spotify.com/track/5cwsZOrSo8TRmYUa2JmZKu) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Ismallah](https://open.spotify.com/album/1E8KXu89Mvi1DpHXUuMBc4) | 2:52 | 2025-07-03 | 2025-09-28 |
 | [James Dean](https://open.spotify.com/track/3bN0IZvx7rI9yK0JAYdP2M) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [James Dean](https://open.spotify.com/album/0xreh1fpGApy66xjYdGEMD) | 4:04 | 2022-09-21 | 2022-12-24 |
 | [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-01-19 | 2023-02-28 |
 | [Jebal](https://open.spotify.com/track/7EPvVoROZX4d1dafqunSEN) | [Mohamed Kammah](https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM), [Yousra El Gendy](https://open.spotify.com/artist/4NHY6xrFxJwxDxYNl9WZLv) | [Jebal](https://open.spotify.com/album/5M9HfVPfdPqRYJl22Sc39y) | 2:53 | 2022-10-27 | 2023-01-20 |
@@ -832,6 +832,7 @@
 | [Sebak Meen A'al](https://open.spotify.com/track/4LvtHbmrD5QBrlvwyKi6H6) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C) | [Sebak Meen A'al](https://open.spotify.com/album/5COOJJtzNUshIinMfztzmD) | 3:08 | 2024-12-26 | 2025-01-31 |
 | [Sebna Ba’ad](https://open.spotify.com/track/0RNhHikB5AUFk2CphRFGtP) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Sebna Ba’ad](https://open.spotify.com/album/71u9sXrgIf2xuy0a75zg51) | 4:24 | 2022-08-18 | 2022-11-10 |
 | [Sebo Sebo](https://open.spotify.com/track/1Ce7B3wYTruivevd70dWik) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Sebo Sebo](https://open.spotify.com/album/0EuGRizTSmDVKvTt3Hzrxr) | 4:13 | 2023-08-03 | 2023-09-22 |
+| [Sebtely Alby](https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Sebtely Alby](https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk) | 4:02 | 2025-09-27 |  |
 | [Sedi Sedi](https://open.spotify.com/track/2SwWxhY3zntY1WwiXQsf3G) | [Dergaly](https://open.spotify.com/artist/7z9opFTCQFhgM7MzsIxcj2) | [Sedi Sedi](https://open.spotify.com/album/7HX6Io94Nv8kk8OmJ6rU12) | 2:48 | 2023-03-20 | 2023-05-11 |
 | [Sekka Baraka](https://open.spotify.com/track/3qY6aHNvRt3lHsD9jZQXfD) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [Sekka Baraka](https://open.spotify.com/album/6t78W97JmzbxxInDEIoYKr) | 2:50 | 2022-09-28 | 2022-12-24 |
 | [Senara](https://open.spotify.com/track/0nYNOK8uum8GicinHF1jfw) | [Mousa](https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh) | [Senara](https://open.spotify.com/album/5oaz2190CAIz2DLMOWt1ka) | 3:08 | 2022-01-20 | 2022-04-08 |
@@ -884,6 +885,7 @@
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-08 | 2023-09-29 |
 | [Tegy Netsawar](https://open.spotify.com/track/6GnLxviis9Qsu1oq4fvfR6) | [Islam Zaki](https://open.spotify.com/artist/3z3CZNhE5lU0aRyAZ2XKpH), [May Abd El Aziz](https://open.spotify.com/artist/390rlknQEfIDTkwe87Fl7j) | [Tegy Netsawar](https://open.spotify.com/album/6AofYZuIof0MWN6RNBrnS4) | 2:46 | 2023-07-14 | 2023-08-10 |
 | [Tegy Ntrahn](https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/1UH5PQeEnm7MFkSN3t71av) | 4:00 | 2021-12-29 | 2022-03-10 |
+| [Tehid ElMa3bad](https://open.spotify.com/track/5YoGXXnHY3n1MrFUu7ODtT) | [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [Baya3 Kalam Pt\. 2](https://open.spotify.com/album/3zVn8rsKl5fotm4bpc7Fyd) | 3:27 | 2025-09-27 |  |
 | [Tekhsarny](https://open.spotify.com/track/5dAgXBrIOgw24tV9KVxdD8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tekhsarny](https://open.spotify.com/album/0QJYKeKXNLJfck0FwSD2xh) | 4:23 | 2024-08-09 | 2024-10-11 |
 | [Tel3et Shatra](https://open.spotify.com/track/4Fc4BthBA9jfUVGMU2nnbf) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [Tel3et Shatra](https://open.spotify.com/album/7EtK7ztKN3ckrnEvzCMPtD) | 3:15 | 2022-09-22 | 2022-12-24 |
 | [Telk Qadeya](https://open.spotify.com/track/5T8lBGbV2vH3CzrnJxPa7K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK) | [Telk Qadeya](https://open.spotify.com/album/4DG6jlpuo1MHl8wPWzNuO3) | 5:54 | 2023-11-30 | 2024-01-27 |

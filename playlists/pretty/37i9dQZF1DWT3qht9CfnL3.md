@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,633 likes - 98 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,618 likes - 98 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 | 97 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 98 | [Mi Peor Error](https://open.spotify.com/track/04t0G1yf4nVc5qxTb8ASQu) | [Norci Morales](https://open.spotify.com/artist/6FvOeMMM4g8hr3fixOV5mh), [Stidlmusic](https://open.spotify.com/artist/0xLrCvJATAv6Zw5ealVQlH) | [Mi Peor Error](https://open.spotify.com/album/2z956U4CQEWy4cyVGgWhFh) | 2:43 |
 
-Snapshot ID: `AAAAAAHR2p2BTH1GJPyPlkyXApQA2Nd+`
+Snapshot ID: `AAAAAETSdEP0d0S4HnaGy/6FrX6i75Ro`

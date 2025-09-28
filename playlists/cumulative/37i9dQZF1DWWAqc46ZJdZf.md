@@ -4,7 +4,7 @@
 
 > New era songs of empowerment and pride.
 
-159 songs - 10 hr 54 min
+160 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [My People](https://open.spotify.com/track/3pk8pThFHSD1fjISYCGWeI) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [My People](https://open.spotify.com/album/610772yvicacL2k72oWknb) | 3:51 | 2021-04-29 |  |
 | [My Petition](https://open.spotify.com/track/1DFC5WDlrdZoFsECRTq8T1) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Jill Scott Live In Paris](https://open.spotify.com/album/2lF5mGt41A5MWhkP0vwAfd) | 5:58 | 2021-04-29 | 2022-07-29 |
 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 | 2021-04-29 | 2024-02-01 |
-| [Nigga Dreams](https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Nigga Dreams](https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr) | 2:57 | 2025-01-31 |  |
+| [Nigga Dreams](https://open.spotify.com/track/6U2UaYti47pcrdME0SXx97) | [Steelo](https://open.spotify.com/artist/52JTE16P2RHKpJr3ZOwohE), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Nigga Dreams](https://open.spotify.com/album/7ypafu5DDUXBbGP0KqVFDr) | 2:57 | 2025-01-31 | 2025-09-28 |
 | [Niggers vs\. The Police](https://open.spotify.com/track/1Uf5QYb7Mo10eB5ozVmjOW) | [Richard Pryor](https://open.spotify.com/artist/0zokIKbH4c7crvZP9Xel1Y) | [The Anthology: 1968\-1992](https://open.spotify.com/album/2Zd4GXXqVsZiUA5vMJPGtq) | 1:41 | 2021-04-29 | 2022-07-29 |
 | [No Justice \(feat\. Big TC\)](https://open.spotify.com/track/6T31igJOl970c2C9aHVNZn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big TC](https://open.spotify.com/artist/0lcJ0rnv51qnpYkAlvMCGE) | [No Justice \(feat\. Big TC\)](https://open.spotify.com/album/7HEN7UZ0Ak2jPSQ8dMCrg7) | 3:30 | 2021-04-29 |  |
 | [NO MORE TEARDROPS feat\. Malik Yusef, Wyatt Waddell](https://open.spotify.com/track/4bPBhogrMsUkJHYeCW06ov) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Malik Yusef](https://open.spotify.com/artist/2hikCywT7dcTj6gt3jmsbD), [Wyatt Waddell](https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY) | [REPRISE: A Roc Nation Album](https://open.spotify.com/album/5ZwZy4UkFJ4BYNE6zewMuo) | 4:32 | 2021-04-29 | 2022-07-29 |
@@ -131,6 +131,7 @@
 | [Self](https://open.spotify.com/track/0nKiPnnqn6bfn8sPOZJGs8) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/3mpA4v2tvEM5aAYtNGnbzD) | 1:34 | 2021-04-29 | 2022-09-09 |
 | [Self](https://open.spotify.com/track/2kiCjjIJznzvPuSTtPPP4O) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/0OWKJhRqMHKWKISAKCKgAw) | 1:34 | 2022-02-14 | 2022-11-17 |
 | [Self](https://open.spotify.com/track/5rNqaOOSNGrYtMo4sLDXU6) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/5GV2nBx7O67vu9NYHbMfXl) | 1:34 | 2022-02-14 | 2024-02-01 |
+| [Sexy Soulaan](https://open.spotify.com/track/0xH565ykWKUrYdcizBbz30) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Sexy Soulaan](https://open.spotify.com/album/3ChMIwC91eiIA6KMJNq8EK) | 2:02 | 2025-09-27 |  |
 | [Shades Of Blue](https://open.spotify.com/track/1TpeT2PWnAv9NDbqK1qy6J) | [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [There's Alot Going On](https://open.spotify.com/album/5ebtbHmQ7WZpgKtH8ir14W) | 4:46 | 2024-01-31 |  |
 | [Slippin' Into Darkness](https://open.spotify.com/track/1jcTfIiBUz35bBqgHYItP6) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Greatest Hits](https://open.spotify.com/album/2k28jFjuu7dR4jgUV6RHI3) | 3:47 | 2022-02-14 | 2024-02-01 |
 | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/track/1HVX9i2RIAIAzPeZrqqRiL) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [The Hics](https://open.spotify.com/artist/2XHJ36WzMJKpDk6fLl6lMo) | [Smoke From Fire \(with The Hics\)](https://open.spotify.com/album/0wui0K5vPI3iVI4DfRhGvw) | 3:06 | 2021-04-29 | 2025-02-01 |

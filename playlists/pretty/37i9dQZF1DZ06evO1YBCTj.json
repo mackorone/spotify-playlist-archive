@@ -1,12 +1,12 @@
 {
   "description": "This is keshi. The essential tracks, all in one playlist.",
-  "num_followers": 259028,
+  "num_followers": 259086,
   "original_name": "This Is keshi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNSGAAAAAAB+ABk71UIEVA+lEk/9KNka",
+  "snapshot_id": "aNXXgAAAAAAorKk1V6rHz4ey4fCNo1NC",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 248010,
-      "name": "us",
-      "url": "https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK"
+      "duration_ms": 174403,
+      "name": "talk",
+      "url": "https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 174403,
-      "name": "talk",
-      "url": "https://open.spotify.com/track/0b8Sf6sJqXOr9cP6tQ7QQx"
+      "duration_ms": 248010,
+      "name": "us",
+      "url": "https://open.spotify.com/track/3r9eGg4SVPbhtiPTA9UkmK"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "skeletons",
+        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "atlas",
+      "url": "https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baby Chop",
         "url": "https://open.spotify.com/album/2T5gFlPWWhKIgLjAORrIwh"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 213743,
       "name": "Baby Chop",
       "url": "https://open.spotify.com/track/7uE1ItStahZOmoJTGBfR9w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "skeletons",
-        "url": "https://open.spotify.com/album/14IZ6aHadzsKrNMnntwLb0"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "atlas",
-      "url": "https://open.spotify.com/track/0PQK5efczMVIIjScPRZYH5"
     },
     {
       "added_at": null,

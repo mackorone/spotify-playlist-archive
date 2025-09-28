@@ -1,13 +1,29 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 74478,
+  "num_followers": 74480,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNSGAAAAAAAolFT8d5jgwyjZsZveatS6",
+  "snapshot_id": "aNXXgAAAAAChgsP4gH5lbvqIoIs46Xjy",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baddie Baddie",
+        "url": "https://open.spotify.com/album/2OVwwQqHXqbqzNvHPoSJHC"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 120784,
+      "name": "Baddie Baddie",
+      "url": "https://open.spotify.com/track/1Yu3TGKjgWsJdZ9bKsTiO2"
+    },
     {
       "added_at": null,
       "album": {

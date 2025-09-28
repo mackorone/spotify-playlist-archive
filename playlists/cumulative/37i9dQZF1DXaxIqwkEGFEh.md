@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-2,021 songs - 3 day 20 hr 35 min
+2,023 songs - 3 day 20 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1440,6 +1440,7 @@
 | [Repeat](https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Repeat](https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG) | 3:28 | 2022-04-29 | 2022-08-27 |
 | [Retail Therapy](https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Retail Therapy](https://open.spotify.com/album/4w3zllIwPthZ7AfhpeZNOe) | 2:55 | 2022-01-14 | 2022-03-12 |
 | [Retaliation](https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Retaliation](https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2) | 2:28 | 2021-09-24 | 2022-02-05 |
+| [Revenge \(feat\. Lil Gotit & 1300SAINT\)](https://open.spotify.com/track/3BXm2MNdC1gVu5uUsZQDbY) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Gotit](https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le), [1300SAINT](https://open.spotify.com/artist/40VzC4fLTuY4YWFwKXK4Cv) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:25 | 2025-09-26 |  |
 | [Revenue](https://open.spotify.com/track/4lXWdBuxBmbuA6YsoBXgzt) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Revenue](https://open.spotify.com/album/3vs53eZfqC6NQGto1qjSdR) | 3:15 | 2023-03-10 | 2023-06-24 |
 | [Rich Guys \(Feat\. Babyfxce E\)](https://open.spotify.com/track/7a1Iw4S1eNozL4C4gv5xSg) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [ZOO LIFE](https://open.spotify.com/album/7LwqjY4eF2SI9q7MB8PxBu) | 2:58 | 2025-04-25 | 2025-05-03 |
 | [Rich Junkie \(feat\. Skilla Baby\)](https://open.spotify.com/track/1YJ1ZgksxlYQEBy6cfhV7h) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Rich Junkie \(feat\. Skilla Baby\)](https://open.spotify.com/album/0uGdwXTZ9Eubd2JjpTGIb6) | 2:25 | 2023-01-20 | 2023-03-25 |
@@ -1935,6 +1936,7 @@
 | [Went Legit](https://open.spotify.com/track/4IlbjcbLvNQEzmCI2eXVLP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Greatest Rapper Alive](https://open.spotify.com/album/1iciI28KIt14YCE0Yd5qch) | 2:20 | 2025-05-16 |  |
 | [WENT WEST](https://open.spotify.com/track/4QBxmb7GTU73cz9asr88Hj) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [WENT WEST](https://open.spotify.com/album/4zFYvzS3T88MrLPmLn0zvx) | 2:36 | 2025-07-04 |  |
 | [WEST MEMPHIS](https://open.spotify.com/track/0HqAqJCNH9e2sKE91MkTSr) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [The Richest Foxx](https://open.spotify.com/album/4op6wPhRqIaVPZ73c277nL) | 2:51 | 2024-11-22 | 2025-03-01 |
+| [Whaddup Jesus \(feat\. YFN Lucci\)](https://open.spotify.com/track/0VDKJzAJMLfIqf4lO5JWfk) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [UY SCUTI](https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD) | 3:38 | 2025-09-26 |  |
 | [What Bag I’m In](https://open.spotify.com/track/2encLC1CGFGYHY1aSEHjvz) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [What Bag I’m In](https://open.spotify.com/album/3OxRnMPICaMcTp13PH6gAn) | 2:11 | 2025-09-19 |  |
 | [What Da Fuk](https://open.spotify.com/track/46e5RkqWEBRLebmdCK9t7o) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [What Da Fuk](https://open.spotify.com/album/3Eo36Xhm9j4KjYdG72TTVU) | 2:36 | 2025-04-25 |  |
 | [What Happened \(feat\. Lil Baby\)](https://open.spotify.com/track/6aIwv3sqrvXlW49dUhzN5Z) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [On Zai](https://open.spotify.com/album/0qXeIPzrKbNIJmZmu37Pp1) | 3:30 | 2024-07-05 | 2024-09-28 |

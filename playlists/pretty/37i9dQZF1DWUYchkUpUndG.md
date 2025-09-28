@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,470 likes - 98 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,515 likes - 98 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 45 | [Taking The Battlefield](https://open.spotify.com/track/117LzodQtQid9YdTxBr14l) | [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Taking The Battlefield](https://open.spotify.com/album/5KpCQEQobwhkDoMefOVjC9) | 3:40 |
 | 46 | [All The Days](https://open.spotify.com/track/0pLDVKs0ufTZqHXo7VXSRv) | [Chris NLC](https://open.spotify.com/artist/7EQFjTLK1i4ju5sUihRXrD) | [All The Days](https://open.spotify.com/album/4scZGzKICJMSnWJ2Unn5vP) | 2:39 |
 | 47 | [All I Am Is Yours](https://open.spotify.com/track/2nys2uJ6YzpXl7uIMKh1Ag) | [Jordan Praise](https://open.spotify.com/artist/7fG249hsXVMxhDYXtCfPzr) | [A Journey With Christ](https://open.spotify.com/album/35cnqnOoRUslagr8xHSXOC) | 14:31 |
-| 48 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |
+| 48 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |
 | 49 | [Sacrifice](https://open.spotify.com/track/0IUknH1paO4KDwnMnHFlKW) | [Yaw Ray](https://open.spotify.com/artist/7h3gak45kWkIF41LW6Cs3y) | [Sacrifice](https://open.spotify.com/album/2huPJlnrdBPMd1x59jAiJL) | 3:38 |
 | 50 | [Jesus Party](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [More Life](https://open.spotify.com/album/1VJ9UkV3ladKpeJUAFEUca) | 2:08 |
 | 51 | [COME AS YOU ARE](https://open.spotify.com/track/0aBwnQ0CcYBm49YYzExSfU) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [COME AS YOU ARE](https://open.spotify.com/album/752clWHnxr0710HeCyBosf) | 3:45 |

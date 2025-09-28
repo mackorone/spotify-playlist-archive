@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 149527,
+  "num_followers": 149559,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "DIOS es el que SABE",
+        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "DIOS es el que SABE",
+      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Invencible",
         "url": "https://open.spotify.com/album/5ydJx6BvJ2Az5N6ZEfXznw"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 217253,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "DIOS es el que SABE",
-        "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "DIOS es el que SABE",
-      "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -607,6 +607,34 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
+        "name": "Segunda Vida",
+        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
+      },
+      "artists": [
+        {
+          "name": "Kingdom & Culture",
+          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        },
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Segunda Vida",
+      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -643,50 +671,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Envero",
-        "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
+        "name": "GRACIAS",
+        "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
       },
       "artists": [
         {
           "name": "Manny Montes",
           "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
         }
       ],
-      "duration_ms": 219955,
-      "name": "Subiendo",
-      "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
-        "name": "Segunda Vida",
-        "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
-      },
-      "artists": [
-        {
-          "name": "Kingdom & Culture",
-          "url": "https://open.spotify.com/artist/4xC5LBd0us1IX0V80JouyT"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        },
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Segunda Vida",
-      "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
+      "duration_ms": 166310,
+      "name": "GRACIAS",
+      "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -711,22 +707,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -747,18 +727,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "GRACIAS",
-        "url": "https://open.spotify.com/album/2o4wNjj8v1ltM7rwAHnpf5"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
       },
       "artists": [
         {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 166310,
-      "name": "GRACIAS",
-      "url": "https://open.spotify.com/track/2sZ3ZWYVtFDqvBZDB4kyd1"
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -783,6 +763,26 @@
       "duration_ms": 195121,
       "name": "Cartelera",
       "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Envero",
+        "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Subiendo",
+      "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Mes\u00edas",
-        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
-      },
-      "artists": [
-        {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
-        }
-      ],
-      "duration_ms": 324017,
-      "name": "Mes\u00edas",
-      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Somos Cristianos",
         "url": "https://open.spotify.com/album/2KYkLX7gJaw0AcwgEQdzkH"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Amor Verdadero",
-        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
+        "name": "Mes\u00edas",
+        "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
       },
       "artists": [
         {
-          "name": "Abel Xanders",
-          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
+          "name": "Dexter Music",
+          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
         }
       ],
-      "duration_ms": 203271,
-      "name": "Amor Verdadero",
-      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+      "duration_ms": 324017,
+      "name": "Mes\u00edas",
+      "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1311,22 +1295,18 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Estar\u00e9",
-        "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
+        "name": "Amor Verdadero",
+        "url": "https://open.spotify.com/album/7LwKfRyfgSkUI3OEHJgnKy"
       },
       "artists": [
         {
-          "name": "Brional in Time",
-          "url": "https://open.spotify.com/artist/2xIZwSIAi04h7whdRabtTb"
-        },
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+          "name": "Abel Xanders",
+          "url": "https://open.spotify.com/artist/6crMnOzo3xkwwhgKuh4s6c"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Estar\u00e9",
-      "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
+      "duration_ms": 203271,
+      "name": "Amor Verdadero",
+      "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1347,6 +1327,26 @@
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Estar\u00e9",
+        "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
+      },
+      "artists": [
+        {
+          "name": "Brional in Time",
+          "url": "https://open.spotify.com/artist/2xIZwSIAi04h7whdRabtTb"
+        },
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Estar\u00e9",
+      "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
     },
     {
       "added_at": "2025-09-14 08:28:23",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-09-14 08:28:23",
       "album": {
-        "name": "Base y fundamento",
-        "url": "https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72"
-      },
-      "artists": [
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "El mood",
-      "url": "https://open.spotify.com/track/3uW6CjftFDfir7OqRPR410"
-    },
-    {
-      "added_at": "2025-09-14 08:28:23",
-      "album": {
         "name": "Set Religioso",
         "url": "https://open.spotify.com/album/1Jsps0jrrKU6Ia4R80nLRB"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 53379,
       "name": "Fuego En El Altar (Alabar al Rey)",
       "url": "https://open.spotify.com/track/7FQTM4CTPymdNnAzTOTbFV"
+    },
+    {
+      "added_at": "2025-09-14 08:28:23",
+      "album": {
+        "name": "Base y fundamento",
+        "url": "https://open.spotify.com/album/4JQ1vr4qRIDdyprqAkle72"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "El mood",
+      "url": "https://open.spotify.com/track/3uW6CjftFDfir7OqRPR410"
     },
     {
       "added_at": "2025-09-14 08:28:23",

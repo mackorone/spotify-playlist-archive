@@ -4,7 +4,7 @@
 
 > 
 
-2,551 songs - 5 day 13 hr 10 min
+2,553 songs - 5 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Ballin](https://open.spotify.com/track/4ckha1BHlVO5ykGm4XTNbs) | [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Ballin](https://open.spotify.com/album/0CxoqHzVK1csTN4wY5mKC2) | 2:54 | 2025-05-13 |  |
 | [BANG](https://open.spotify.com/track/5sUGcwnLfptAaaFMomD3Qk) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [BANG](https://open.spotify.com/album/1RiMpWp4Bw4IcXphu5e1BO) | 2:46 | 2025-05-03 |  |
 | [Bang Bang](https://open.spotify.com/track/4dTJKWt3kO6phtI630IsHH) | [Screecher](https://open.spotify.com/artist/0ZTkDaAaIcEnjE0FPq5rBD) | [Bang Bang](https://open.spotify.com/album/66pqYOZ4NfhcmYuOGrpllC) | 3:34 | 2025-05-26 |  |
+| [Bang Banger](https://open.spotify.com/track/2Q1Pz0qhpIf3nnlZNjm7Xc) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Enveak](https://open.spotify.com/artist/3CzQUOQ8Adb258xxKHHngS), [SHOWTEKNO](https://open.spotify.com/artist/6nKoiURdxdyE4ZKICS69GD) | [Bang Banger](https://open.spotify.com/album/1Bv73FSjKS45zvXfOrTfqT) | 3:06 | 2025-09-27 |  |
 | [BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER AFTER BANGER](https://open.spotify.com/track/2rGWPDScp9GUDgmSamnxWh) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [I LIKE THE NOISE VOL.1](https://open.spotify.com/album/3j3lPxENilPQcgkIkqyJqe) | 2:37 | 2024-12-06 |  |
 | [Bankai](https://open.spotify.com/track/5rxmO0stn0eRfn8vU9h1NR) | [Suae](https://open.spotify.com/artist/0pTJdgzCj4Wo6RwdOcGinx), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Bankai](https://open.spotify.com/album/2Wpq1krvlY0IIMm2gqr3D0) | 2:30 | 2024-06-10 |  |
 | [Barbie Girl](https://open.spotify.com/track/46wwJqwmcYtEOUI32N4kKg) | [GPF](https://open.spotify.com/artist/4OoHneMX97SjUXKWgsyrP4) | [Barbie Fuck](https://open.spotify.com/album/4qq5pWvKYUv7ti4la2dBAe) | 3:47 | 2023-08-25 |  |
@@ -843,6 +844,7 @@
 | [For The Weak](https://open.spotify.com/track/4JRcvV0QmTx3aN6e7nAteP) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [For The Weak](https://open.spotify.com/album/3TPGiZltbGCSEAXVt6JZr9) | 2:10 | 2024-04-26 |  |
 | [For You](https://open.spotify.com/track/540O477K9lmsOHCf5r2c6e) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [For You](https://open.spotify.com/album/5IYtVh4tZSH6kjY1FLdMAd) | 2:28 | 2024-03-24 |  |
 | [Force Of Will](https://open.spotify.com/track/3ZtsSSrYUSWSlH6QVmtsOT) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Force Of Will](https://open.spotify.com/album/6SuMWuLyuBbZmgArJRtcP6) | 2:44 | 2023-03-27 |  |
+| [FOREIGN \(Hard Techno Remix\)](https://open.spotify.com/track/7okFEH3prOUbgvOZkFL8uB) | [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [VampViolence](https://open.spotify.com/artist/6Pf4XByQfVSJZwvt3BCZhH) | [FOREIGN \(Hard Techno Remix\)](https://open.spotify.com/album/64is8gXPiI7wKJSKMQkQDN) | 2:55 | 2025-09-27 |  |
 | [FOREVER](https://open.spotify.com/track/5Q7cbga8YkAHG3n4P0eW2C) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [FOREVER](https://open.spotify.com/album/25LSQQ0NhxA6QU0uY1CQML) | 3:27 | 2023-03-25 |  |
 | [Forever \- F\. Noize & Yoshiko Remix](https://open.spotify.com/track/1OFBGsGp43xUamMZwu55yc) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2), [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq) | [Forever \(F\. Noize & Yoshiko Remix\)](https://open.spotify.com/album/3Z3Avi3KF6ZVVmzVyyaMhd) | 3:04 | 2022-09-27 |  |
 | [Forever Young \- Kaylene Sc@r Remix](https://open.spotify.com/track/0TtW5ItbDJs4CW6c0Puzh1) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r), [Kaylene Sc@r](https://open.spotify.com/artist/7aKRag04pZBFsECe22twqf) | [Forever Young \(Kaylene Sc@r Remix\)](https://open.spotify.com/album/18UJQtNd77OYnqrkoUj1xO) | 4:24 | 2023-06-02 |  |

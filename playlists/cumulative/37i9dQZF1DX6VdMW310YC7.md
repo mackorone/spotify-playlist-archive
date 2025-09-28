@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,816 songs - 5 day 3 hr 33 min
+1,817 songs - 5 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/4tvbTeU02dazZsXMS81ybB) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [Close Your Eyes](https://open.spotify.com/album/1dykSfMKD0vYaCH9Rp338Y) | 2:36 | 2025-07-11 |  |
 | [Close Your Eyes](https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [Close Your Eyes](https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB) | 4:54 | 2024-10-25 | 2025-01-01 |
 | [Closed for Renovations](https://open.spotify.com/track/3eHg10L5NVIz84J4oRTZRG) | [Pool Boy](https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Closed for Renovations](https://open.spotify.com/album/5AesdWGty4ye8UdrwBL4Jw) | 2:43 | 2021-08-20 | 2022-10-13 |
+| [Closer](https://open.spotify.com/track/3XPBfi63GPgii2rfHLcBN7) | [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv), [Alessandro Martire](https://open.spotify.com/artist/0R7yKHPyuxLG1iHgTc7OSf) | [Closer](https://open.spotify.com/album/3ht2v0Rc9q1RP80wr6zsPi) | 2:42 | 2025-09-26 |  |
 | [Closer](https://open.spotify.com/track/6o30i136QpwWOL2v98cSAd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Reviver](https://open.spotify.com/album/4cLmWCP2WDtblZVTrnZGtz) | 5:12 | 2022-01-21 | 2022-02-12 |
 | [Closer](https://open.spotify.com/track/7bDYzTFL2ksPttXvLsY0tE) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Brain Freeze](https://open.spotify.com/album/08fLzwK3ueT7etjpdinnRW) | 3:30 | 2020-05-22 | 2020-07-03 |
 | [Closer To Life](https://open.spotify.com/track/0wkX8SrPDxceFxgRoSDrs0) | [Atella](https://open.spotify.com/artist/4iyfdYs0bh6oIxRaeozwBh), [Frøder](https://open.spotify.com/artist/3JmXXj2YSEu650701Uj1Pe) | [Closer To Life](https://open.spotify.com/album/4s06uGn3KS97zwXyVjazsi) | 4:03 | 2020-05-18 | 2020-07-03 |
@@ -882,7 +883,7 @@
 | [Lac de Soi](https://open.spotify.com/track/4CDThn846W8Jp8Xqznv5B8) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Lac de Soi](https://open.spotify.com/album/59FbwgMdBY4gC50lCcKThZ) | 4:59 | 2020-10-13 | 2021-01-11 |
 | [Lake Arrowhead \- Radio Mix](https://open.spotify.com/track/5vB9br9McVS3HWZd9LhWD8) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lake Arrowhead EP](https://open.spotify.com/album/06WIiFArmoAHBCdFfQpz56) | 3:35 | 2020-05-18 | 2020-07-03 |
 | [Last Kiss](https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [Glorious](https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL) | 2:45 | 2020-05-18 | 2021-12-21 |
-| [Last Train](https://open.spotify.com/track/1A6bEfaRMXp63TnVQ9srp1) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Last Train](https://open.spotify.com/album/2P3RrEtVEbAKZGpWDSpwx2) | 3:20 | 2025-05-30 |  |
+| [Last Train](https://open.spotify.com/track/1A6bEfaRMXp63TnVQ9srp1) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Last Train](https://open.spotify.com/album/2P3RrEtVEbAKZGpWDSpwx2) | 3:20 | 2025-05-30 | 2025-09-28 |
 | [Late Delivery](https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Late Delivery](https://open.spotify.com/album/3TRdSrFf5YrW0EFieyD552) | 3:22 | 2021-03-14 | 2022-07-28 |
 | [Late Night](https://open.spotify.com/track/5Nu5Uyoauauy9LFePYL1Z3) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 3:48 | 2020-02-29\* | 2020-03-16 |
 | [Late Thinking](https://open.spotify.com/track/6swtIhcGLoHgQmVcvpeMOL) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Late Thinking](https://open.spotify.com/album/5n3P9cGAzvyjl9pkml45MP) | 3:25 | 2020-10-23 | 2020-11-03 |

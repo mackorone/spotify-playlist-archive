@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 
 > A woman of substance...Listen to the music from and inspired by Griselda, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,529 likes - 52 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,535 likes - 52 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX344TqGDlDff.md) - [plain]
 | 3 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
 | 4 | [Liza..\. Liza](https://open.spotify.com/track/4YmNfxo3gehMgoBN0wbJ0b) | [Elias Rahbani and His Orchestra](https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo) | [Elias Rahbani and His Orchestra](https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr) | 5:26 |
 | 5 | [Charanga Pa'Gozar](https://open.spotify.com/track/5jMgGC6FQwlHtPmor4uN3p) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Sensación Hay Una Sola](https://open.spotify.com/album/0ilBIGeGsQt6iN58lw0aa5) | 3:43 |
-| 6 | [Oye No Me Beses](https://open.spotify.com/track/1mAm0qjAa37vifkgBG1Bwa) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Charanga Super Charanga Vol\. 2](https://open.spotify.com/album/7o2Ug4ry3Vhf7egIodmoH3) | 3:15 |
+| 6 | [Oye No Me Beses](https://open.spotify.com/track/1mAm0qjAa37vifkgBG1Bwa) | [Charanga Sensación de Rolando Valdés](https://open.spotify.com/artist/4k9bVv3LipAAJh8c6jBPZo) | [Charanga Super Charanga, Vol\. 2](https://open.spotify.com/album/7o2Ug4ry3Vhf7egIodmoH3) | 3:15 |
 | 7 | [Sueltame, Vieja](https://open.spotify.com/track/2xm8eAcUNUK1nHAJ1k5DNP) | [Los Guaracheros De Oriente](https://open.spotify.com/artist/0BzFtDQ64uQV9fjIu1XVom) | [Vol\. 2](https://open.spotify.com/album/245nj8mRiTEY7KJWrxaGSo) | 2:36 |
 | 8 | [Mirando al Mar](https://open.spotify.com/track/45PwEQFU7EPFvz7zMa2FYg) | [Jorge Sepúlveda](https://open.spotify.com/artist/3jGe43dtDkcRvPzqyHbLzU) | [El Increíble Jorge Sepúlveda](https://open.spotify.com/album/4lgmEJ96wxzygeOhnu9mrP) | 3:11 |
 | 9 | [Soy una Nube](https://open.spotify.com/track/6wuUERCNF5oppDPIblsLtp) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [La Onda de Elia y Elizabeth](https://open.spotify.com/album/3oMbEphQxALHNPilVcs8YX) | 2:47 |

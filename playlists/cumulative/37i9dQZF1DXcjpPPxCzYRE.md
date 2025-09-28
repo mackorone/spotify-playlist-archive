@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-423 songs - 1 day 0 hr 16 min
+424 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-11-11 |  |
 | [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 |  |
 | [CULITO MELOCOTÓN](https://open.spotify.com/track/5GIxhvlvIqiQhE5BRPDqWD) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7) | [CULITO MELOCOTÓN](https://open.spotify.com/album/53mdtOmg3RUKhVatqjp3XU) | 3:17 | 2025-09-18 |  |
-| [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD) | 2:42 | 2025-09-18 |  |
+| [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Círculo de Luz / Un Hogar Acogedor](https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD) | 2:42 | 2025-09-18 | 2025-09-28 |
 | [Cógelo fuerte \(antes de que cambie\)](https://open.spotify.com/track/4fPxWYxu7v7At8qiNEEMuG) | [María Yfeu](https://open.spotify.com/artist/46tCymlXwfZS4wog93XK0B) | [Cógelo fuerte \(antes de que cambie\)](https://open.spotify.com/album/3PsHzP6LP243vsNhecVWqq) | 3:27 | 2025-03-31 |  |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-07-03 |  |
 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 | 2023-10-26 | 2024-04-19 |
@@ -238,6 +238,7 @@
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2022-11-11 | 2024-06-07 |
 | [Maison Du Monde](https://open.spotify.com/track/4joqLG9X39fahIqs0ObvGu) | [Luis Ramiro](https://open.spotify.com/artist/1WWezGDnjvHxS6DjIq9GjT) | [Maison Du Monde](https://open.spotify.com/album/7yV0PHxjUqJ3CnB0J7OxD3) | 3:25 | 2024-10-01 | 2024-10-25 |
 | [mami let go](https://open.spotify.com/track/1mYYOEfTcFzlc3fGDkoQ9I) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [mami let go](https://open.spotify.com/album/0hL0rgPIY2rYTn0ldVihM4) | 2:19 | 2024-09-24 | 2024-11-22 |
+| [MARíA DOLORES](https://open.spotify.com/track/0ew0QqYrsP5HLDMVQcSx0o) | [Carla Delgado](https://open.spotify.com/artist/0yRYMBKyFwr9rl2ts8XGom), [Jaguayano](https://open.spotify.com/artist/0XVsHyF9ofcEFttyOHXPYG) | [MARíA DOLORES](https://open.spotify.com/album/2LDdTP7wJE64ucCpUibjeW) | 2:33 | 2025-09-18 |  |
 | [Me Fui](https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 1:38 | 2024-08-23 | 2025-02-26 |
 | [Me mudo de casa](https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Me mudo de casa](https://open.spotify.com/album/6rHXpK2WXv57QQEiHfMVf3) | 4:04 | 2025-09-18 |  |
 | [Me Tienes Aquí](https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES) | [Maifrén](https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI) | [Me Tienes Aquí](https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc) | 2:41 | 2025-09-18 |  |

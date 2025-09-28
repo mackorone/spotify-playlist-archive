@@ -1085,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "Se Fue La Tristeza",
+        "url": "https://open.spotify.com/album/4oKnfsdL3uaY5lHV4b4eyK"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        },
+        {
+          "name": "Magic Juan",
+          "url": "https://open.spotify.com/artist/4MKKSJyNbrGSBodc8R7vPK"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216858,
+      "name": "Se Fue La Tristeza",
+      "url": "https://open.spotify.com/track/0uDGz2bzkMteNDDq1wmKlG"
+    },
+    {
+      "album": {
         "name": "Presente y Futuro",
         "url": "https://open.spotify.com/album/7MUG211VpL3P7h2ANoMNSP"
       },

@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Magdalena Bay
 
-9,454 songs - 23 day 0 hr 21 min
+9,455 songs - 23 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5461,6 +5461,7 @@
 | [Monster](https://open.spotify.com/track/46CcQLx7vwixtSTZ3MbZQH) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Monster](https://open.spotify.com/album/2CMlWaQAAuliFRFiTm8GlN) | 2:57 | 2023-09-29 | 2023-11-11 |
 | [Montage](https://open.spotify.com/track/5spPysUyJk4E2Q1NeOPzMR) | [India Thieriot](https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg) | [Montage](https://open.spotify.com/album/5wB8X7AQjIlNdvTJNa7woo) | 2:50 | 2023-01-06 | 2023-01-28 |
 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 | 2020-10-02 | 2020-10-30 |
+| [Montauk](https://open.spotify.com/track/59jAAMnXK7wHrwgpGwyjM4) | [Silverdeer](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [Montauk](https://open.spotify.com/album/4MMsp6Yyj6q1z4merEN9Gq) | 4:05 | 2025-09-26 |  |
 | [Monte Carlo](https://open.spotify.com/track/4oiT6Sxf4XZiLQckmup6Mf) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Monte Carlo](https://open.spotify.com/album/5zrgZ1fYfqUVXjDDafbuXf) | 2:23 | 2020-08-07 | 2020-09-04 |
 | [Month](https://open.spotify.com/track/2Ywh6o1lKsdFQsivAb8Rgt) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Month](https://open.spotify.com/album/5di0gwgYeGed7TbKKsQO2b) | 3:03 | 2020-07-10 | 2020-08-30 |
 | [mood](https://open.spotify.com/track/7wGkxdMduRyJe5HokBBQeZ) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [mood](https://open.spotify.com/album/3hbKfJruZKYYQxOMdS08q3) | 2:48 | 2023-07-07 | 2023-08-05 |

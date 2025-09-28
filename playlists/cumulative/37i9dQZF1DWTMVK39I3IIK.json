@@ -2363,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "hun m\u00e6rker aldrig smerten.",
+        "url": "https://open.spotify.com/album/3Dk8ZoaFTtHYCDWRSd43E0"
+      },
+      "artists": [
+        {
+          "name": "JONATHAN",
+          "url": "https://open.spotify.com/artist/5v96GtI5k2NSfheYWSMNTZ"
+        }
+      ],
+      "date_added": "2025-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160105,
+      "name": "hun m\u00e6rker aldrig smerten.",
+      "url": "https://open.spotify.com/track/1TjxFh0GZiQedyDJb5mb2s"
+    },
+    {
+      "album": {
         "name": "Hva Nu Hvis",
         "url": "https://open.spotify.com/album/6zBoSmv6vEwoys2yOvKChF"
       },
@@ -3872,7 +3890,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 189000,
       "name": "Playthings",
       "url": "https://open.spotify.com/track/2kDTCTOjNQVroK7KVhpw30"

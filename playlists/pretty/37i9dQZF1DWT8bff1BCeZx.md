@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,479 likes - 151 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,485 likes - 151 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 46 | [Jehovah](https://open.spotify.com/track/1XkTzzmDoMSw97cOLvp3W0) | [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Jehovah](https://open.spotify.com/album/0X6GYTN82L7U25f8gxYpSg) | 3:12 |
 | 47 | [Be Magnified](https://open.spotify.com/track/7m6fLplCGhM9Fr70QK1SNS) | [Grace Harmony Music](https://open.spotify.com/artist/6PgIs6bIhbqNgSxRC8b3X0) | [Victory](https://open.spotify.com/album/43MDovT1Q1WWqDxnJD8Wwn) | 3:24 |
 | 48 | [Undercover](https://open.spotify.com/track/5cBWaDfCIFEvTnUF73urP6) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44), [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Undercover](https://open.spotify.com/album/6XHM4gKUXfRwPpO1XIRPA5) | 2:30 |
-| 49 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |
+| 49 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |
 | 50 | [call Me](https://open.spotify.com/track/0OW5AcdzREdGdc69Vd3jFO) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [call Me](https://open.spotify.com/album/6QkTful7g2XYWQOuBWsdrx) | 2:05 |
 | 51 | [You Thought of Me](https://open.spotify.com/track/1PWjLU214MmESMxzI9rMPI) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [You Thought of Me](https://open.spotify.com/album/1CbIESMkBJPirkBmOTudGB) | 3:18 |
 | 52 | [Oghene Doh](https://open.spotify.com/track/3bMTOmTSqLAWBoICNujeZG) | [Jesufemi](https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA), [Pillar YRR](https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd) | [Oghene Doh](https://open.spotify.com/album/7M8k6l5p6Jql0COgp8CpRv) | 3:02 |

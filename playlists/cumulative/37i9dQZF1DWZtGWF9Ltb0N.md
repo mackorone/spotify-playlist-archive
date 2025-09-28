@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-842 songs - 2 day 7 hr 8 min
+843 songs - 2 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
 | [Bonker.s](https://open.spotify.com/track/2JpKHShAfduhwMMU7oJvfx) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Bonker.s](https://open.spotify.com/album/1e8j0JFqQfRIy36IqPNHtU) | 3:15 | 2024-11-08 |  |
 | [Boondow Bai](https://open.spotify.com/track/7cLgBeRNgizZbKr9CPeBOU) | [Dalek One](https://open.spotify.com/artist/3c3aIUcvGaeRYmqRm9rXqb) | [Boondow Bai](https://open.spotify.com/album/1bgC0CA9FzaT2NRKJ5GOCj) | 4:07 | 2022-02-17 | 2022-07-29 |
+| [Botnet Riddim](https://open.spotify.com/track/4hBc0EdTNfVw9mi4fL0eIx) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [Botnet Riddim](https://open.spotify.com/album/6OUzAan7CckaKFc06l5wdu) | 2:19 | 2025-09-26 |  |
 | [Break Slow Fast](https://open.spotify.com/track/5hmGd8oiC1B8wNoT9sIEU2) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S) | [The Villain in Someone's Story](https://open.spotify.com/album/2Tz9zXcUdWO1p0Hhi2tPte) | 3:16 | 2023-03-10 | 2025-03-08 |
 | [Bright Shadows](https://open.spotify.com/track/3QJEatxNmx1QvARdoqvEzx) | [OkayJake](https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3), [Gunpoint](https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu) | [Bright Shadows](https://open.spotify.com/album/0QuoHVee3ijR2C4186aoP3) | 2:36 | 2024-09-13 |  |
 | [Broken Chime](https://open.spotify.com/track/45W7PhgdmaZE3xJl0Athmz) | [DMVU](https://open.spotify.com/artist/59DcOmdlmKUgsUrb2S7Nb6) | [ENC006](https://open.spotify.com/album/0yhKhrIr1Be7WVjeAYyxIO) | 5:56 | 2022-07-08 | 2022-07-30 |
@@ -810,7 +811,7 @@
 | [WANTS/NEEDS](https://open.spotify.com/track/0gkwto0Jdn9lMPJV8gkgQA) | [Cozy Kev](https://open.spotify.com/artist/7e0CLdbVq8tdRGfh8Tf6JB) | [WANTS/NEEDS](https://open.spotify.com/album/6hxefNk8O1xC7caW0t7luK) | 2:37 | 2025-06-06 |  |
 | [War \- Truth Remix](https://open.spotify.com/track/0u6O7D2ou9cXGANFxM0XIo) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek), [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc) | [War \(Truth Remix\)](https://open.spotify.com/album/6GKQS093OPPoORbtWAtPSt) | 4:00 | 2024-04-19 | 2024-05-18 |
 | [Warrior Mentality](https://open.spotify.com/track/5u0QpOpQl3hyakqr3rb3SE) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB), [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Chiefin EP](https://open.spotify.com/album/5S3QraJnSF025N9KNuwYxs) | 3:42 | 2022-02-17 | 2024-08-18 |
-| [Wasn't Easy](https://open.spotify.com/track/29V749bQtSemlnoxkAw0s7) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Wasn't Easy](https://open.spotify.com/album/3gSyJl6ePgCXAPNG8TIA7t) | 4:56 | 2025-08-29 |  |
+| [Wasn't Easy](https://open.spotify.com/track/29V749bQtSemlnoxkAw0s7) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj) | [Wasn't Easy](https://open.spotify.com/album/3gSyJl6ePgCXAPNG8TIA7t) | 4:56 | 2025-08-29 | 2025-09-28 |
 | [wassup](https://open.spotify.com/track/73iD1rBBjPjQvFOFe2fM21) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI), [HerShe](https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J) | [wassup](https://open.spotify.com/album/4D4Xqyr5rLNnzK14GvGTeu) | 2:43 | 2024-03-22 | 2024-06-10 |
 | [Watchin You](https://open.spotify.com/track/384AyogTeYanSZeLzBptzd) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM), [ILLAMAN](https://open.spotify.com/artist/5Sbyn27Dwdsp9XtsFICpRu) | [DUBS EP](https://open.spotify.com/album/227Am9ZcZbUYeECl4eVrxN) | 3:41 | 2025-03-21 | 2025-06-07 |
 | [Watching From A Distance](https://open.spotify.com/track/7fP6evA1EQzB1tpfbPk9ml) | [Esseks](https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ) | [Watching From A Distance](https://open.spotify.com/album/0W7MdF4x84CqjlHC3RiyIq) | 2:33 | 2022-02-17 | 2023-04-27 |

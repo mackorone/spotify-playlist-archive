@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Piano 17",
+        "url": "https://open.spotify.com/album/6U0tusL7Z1KWjDyLFNQI2g"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287906,
+      "name": "Piano 17",
+      "url": "https://open.spotify.com/track/4cswtTsteO7Rmp0OJcgXiB"
+    },
+    {
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },

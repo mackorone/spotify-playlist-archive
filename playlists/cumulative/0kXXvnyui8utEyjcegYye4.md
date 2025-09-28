@@ -4,7 +4,7 @@
 
 > 
 
-341 songs - 20 hr 16 min
+342 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Full Moon \- Twilight Soundtrack Version](https://open.spotify.com/track/5xWm07eno5Lt6V397VEIQd) | [The Black Ghosts](https://open.spotify.com/artist/6j0sVXUMU7BEZZ5cfEwjkq) | [Twilight Original Motion Picture Soundtrack](https://open.spotify.com/album/34OCKs861Ot5CwDfTYksLe) | 3:50 | 2025-07-17 |  |
 | [Gangsta's Paradise](https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [L.V.](https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7) | [Gangsta's Paradise](https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ) | 4:00 | 2023-07-13 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-12-05 |  |
+| [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 | 2025-09-28 |  |
 | [Gata only \- edit audio ](https://open.spotify.com/episode/5XiioChRURsS7LQdlzCFX1) | [♡︎𝙷𝚎𝚊𝚛𝚝'𝚜 𝙲𝚊𝚜𝚜𝚎𝚝𝚝𝚎♡︎](https://open.spotify.com/show/6CIlJBLFXRePD6rssCeilg) | [♡︎𝙷𝚎𝚊𝚛𝚝'𝚜 𝙲𝚊𝚜𝚜𝚎𝚝𝚝𝚎♡︎](https://open.spotify.com/album/6CIlJBLFXRePD6rssCeilg) | 1:15 | 2024-12-05 | 2024-12-06 |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2023-07-13 |  |
 | [Get Low](https://open.spotify.com/track/0r2Bul2NuCViraT2zX1l5j) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Kings Of Crunk](https://open.spotify.com/album/4htcOW08TqINNLbcSf9esI) | 5:34 | 2023-07-13 |  |

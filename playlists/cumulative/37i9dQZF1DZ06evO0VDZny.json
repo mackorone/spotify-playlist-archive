@@ -560,7 +560,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 205212,
       "name": "drwn.vvv",
       "url": "https://open.spotify.com/track/7lXJ3hmDo5XK1witUxj8aX"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 209611,
       "name": "followU.bnd",
       "url": "https://open.spotify.com/track/2Bl0nrQIxBiL8q7PPfogkR"
@@ -684,6 +684,28 @@
       "duration_ms": 239386,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf"
+    },
+    {
+      "album": {
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Rahzel",
+          "url": "https://open.spotify.com/artist/6vunRaBya0Sx6CMJZAlHTZ"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240586,
+      "name": "heavy metal (feat. Rahzel)",
+      "url": "https://open.spotify.com/track/6baGTtDakSNvUfW3FJd8yX"
     },
     {
       "album": {
@@ -840,7 +862,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 198246,
       "name": "koolaid.xxo",
       "url": "https://open.spotify.com/track/5O1gAdLo5wb7TpYkGNLsCy"
@@ -1200,7 +1222,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-16",
+      "date_removed": null,
       "duration_ms": 208224,
       "name": "seenitallbefore_xx.arch",
       "url": "https://open.spotify.com/track/7nlMB8nDWH3pOFTxxwgfBm"

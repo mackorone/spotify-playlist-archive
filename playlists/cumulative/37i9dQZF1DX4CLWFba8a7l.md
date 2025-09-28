@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Hazlett
 
-454 songs - 1 day 1 hr 16 min
+455 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Friends](https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Friends](https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS) | 3:33 | 2024-09-05 | 2025-04-25 |
 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 | 2025-05-15 | 2025-08-08 |
 | [Game Ain't Blind](https://open.spotify.com/track/0AxGcK88VGppBodGPk0Hyo) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Game Ain't Blind](https://open.spotify.com/album/4pL3DyrcQR5zDEhz6wHFpi) | 3:18 | 2025-09-25 |  |
+| [GEEKD](https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [GEEKD](https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd) | 2:11 | 2025-09-25 |  |
 | [Get 'Em Up](https://open.spotify.com/track/3WJXMqyJTVUoZbe73wDjYw) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Get 'Em Up](https://open.spotify.com/album/7kZnK7Or40Hoe7unZcfZMJ) | 2:51 | 2025-06-05 | 2025-06-13 |
 | [Get It Done](https://open.spotify.com/track/6qJ8Il5OThFcrOFj32xR32) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Get It Done](https://open.spotify.com/album/1Pn6IYJQWyRRPFEMKTEw5w) | 3:02 | 2025-07-03 | 2025-07-11 |
 | [Get Knocked Down](https://open.spotify.com/track/4QCYGQb57NVQvDvG6RKpQV) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Get Knocked Down](https://open.spotify.com/album/366i7YVWV8vUqgciOQSyw4) | 3:40 | 2025-05-01 | 2025-05-30 |
@@ -402,7 +403,7 @@
 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 | 2025-05-22 | 2025-08-03 |
 | [The Long Road](https://open.spotify.com/track/1tQ4HWy7mZwHoValxwQD76) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [The Long Road](https://open.spotify.com/album/5kaT5I1IWXC0wzd1cFZtt5) | 3:47 | 2025-04-08 | 2025-04-18 |
 | [The Other Side \(feat\. Gordi\)](https://open.spotify.com/track/7qamM6CMbIDWh0o6XYiLdY) | [Tyne\-James Organ](https://open.spotify.com/artist/3E5mhmaKGxv8us9JoI157M), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [The Other Side](https://open.spotify.com/album/73IHBuG4978drite6milKs) | 3:49 | 2025-05-15 | 2025-05-23 |
-| [The Suburbs](https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw) | 3:08 | 2025-08-21 |  |
+| [The Suburbs](https://open.spotify.com/track/2WIvvJ2xRJ71hxmNRr3RtU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/4xjh3S26biJGSw8WMPHlkw) | 3:08 | 2025-08-21 | 2025-09-28 |
 | [The Worst Person Alive](https://open.spotify.com/track/0ZL3KCVOotXnC5trEE3XPa) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [The Worst Person Alive](https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz) | 3:30 | 2024-05-31 | 2024-09-07 |
 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2024-05-31 | 2025-04-04 |
 | [THICK SKIN \(feat\. Thelma Plum, Emma Donovan, Kee'ahn & Jada Weazel\)](https://open.spotify.com/track/57lqdbgvZslueRuQOeOwTq) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK), [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC), [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL), [Jada Weazel](https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm) | [THICK SKIN \(feat\. Thelma Plum, Emma Donovan, Kee'ahn & Jada Weazel\)](https://open.spotify.com/album/7aaWje6d6QPi5vUkC39co2) | 4:06 | 2025-09-04 | 2025-09-12 |

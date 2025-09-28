@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 130277,
+  "num_followers": 130304,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Be the One",
+        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 202914,
+      "name": "Be the One",
+      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/41TUivD915ztiKgyu99H9T"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 196413,
       "name": "Good Girls Go Bad (feat. Leighton Meester)",
       "url": "https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Be the One",
-        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 202914,
-      "name": "Be the One",
-      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1537,6 +1537,26 @@
       "url": "https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK"
     },
     {
+      "added_at": "2025-09-05 02:01:30",
+      "album": {
+        "name": "Me, You & The Music",
+        "url": "https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP"
+      },
+      "artists": [
+        {
+          "name": "Jessica Sanchez",
+          "url": "https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 238284,
+      "name": "Tonight (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK"
+    },
+    {
       "added_at": "2024-06-02 21:23:10",
       "album": {
         "name": "Demi",
@@ -1551,22 +1571,6 @@
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/1WINLcGPEw9jDs2z0zLKIU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1587,6 +1591,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "SuperLove",
         "url": "https://open.spotify.com/album/5fVKH7ReWO441v5LIFJ2fU"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 193163,
       "name": "SuperLove",
       "url": "https://open.spotify.com/track/15KUiWZCdAq458QQR9eygf"
-    },
-    {
-      "added_at": "2025-09-05 02:01:30",
-      "album": {
-        "name": "Me, You & The Music",
-        "url": "https://open.spotify.com/album/5dpVhlbI7CTt58ZCULC2SP"
-      },
-      "artists": [
-        {
-          "name": "Jessica Sanchez",
-          "url": "https://open.spotify.com/artist/3xBbmWwDPhEaGcwWgBarkI"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 238284,
-      "name": "Tonight (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK"
     },
     {
       "added_at": "2024-06-02 21:23:10",

@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,253 songs - 2 day 7 hr 18 min
+1,254 songs - 2 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Let Me Bleed](https://open.spotify.com/track/2Ejze9Vs0nxwmJXDBTV0vF) | [Homem](https://open.spotify.com/artist/5AGCm0GQFxSSAGRXWuQS0w), [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Let Me Bleed](https://open.spotify.com/album/7KrPOJtj79RNuKKkQgghuV) | 2:39 | 2024-02-16 | 2024-03-16 |
 | [Let Me Go](https://open.spotify.com/track/6mQcqlNE4VOCXwy3SnLfeS) | [DEFREEZE](https://open.spotify.com/artist/0BFAYJIgA5lX2momKOPPEd), [Ema Feud](https://open.spotify.com/artist/2rPtbgOmhSJcV7GenHKwPd) | [Let Me Go](https://open.spotify.com/album/3UNmDrMR819stYj4Z7Hn9f) | 2:57 | 2025-07-25 | 2025-09-22 |
 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 | 2023-12-21 | 2024-09-15 |
+| [Let Me Love You](https://open.spotify.com/track/6XONlc4fkRSNfbpUKgkj8H) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [Let Me Love You](https://open.spotify.com/album/0B7hrmrwn1mBbZMKM7nLmj) | 2:59 | 2025-09-27 |  |
 | [Let You Know \- Summer Edit](https://open.spotify.com/track/6eFlqtmgYckrLelrV4oc9C) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Let You Know \(Summer Edit\)](https://open.spotify.com/album/2tYezXk2MnMVK40DqqnMKm) | 2:29 | 2023-12-04 | 2024-09-15 |
 | [Letting Go](https://open.spotify.com/track/4p3VoeW620zFuYmGBBBlUK) | [Avira](https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC) | [Letting Go](https://open.spotify.com/album/3BYrdOwkgixfEOY8YbeOjv) | 2:36 | 2025-05-23 | 2025-07-05 |
 | [Lie In The Sun](https://open.spotify.com/track/3GwyX63A7fVl6dtti0eDGl) | [nømad](https://open.spotify.com/artist/6HQJ66vf7wfPl4SFUm9vMe), [noetic](https://open.spotify.com/artist/0i7i9CbTOGOEFYbfg1zpor), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Lie In The Sun](https://open.spotify.com/album/35UaAwNN2jRoooZQKyxjDZ) | 2:08 | 2025-02-14 | 2025-03-14 |

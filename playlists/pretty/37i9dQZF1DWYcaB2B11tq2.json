@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Christine D'Clario",
-  "num_followers": 481967,
+  "num_followers": 482122,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
+        "name": "Coleccion De Oro",
+        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
+      },
+      "artists": [
+        {
+          "name": "Roberto Orellana",
+          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Creyendo En Ti",
+      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
         "name": "No Lo Has Visto A\u00fan",
         "url": "https://open.spotify.com/album/30BsuKRAa8cxAsVkghAbFK"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 245163,
       "name": "No Lo Has Visto A\u00fan",
       "url": "https://open.spotify.com/track/4C7cPjGcerqjg0cy9hW33k"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Coleccion De Oro",
-        "url": "https://open.spotify.com/album/2V9hmIuuw40LaPA2FDlHL2"
-      },
-      "artists": [
-        {
-          "name": "Roberto Orellana",
-          "url": "https://open.spotify.com/artist/16sasuXQSiHh5kEpSGiQJN"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Creyendo En Ti",
-      "url": "https://open.spotify.com/track/54ez9MuLbnxYDMUxLPpWne"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Da\u00f1ar el Jangueo",
-        "url": "https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        }
-      ],
-      "duration_ms": 230476,
-      "name": "Da\u00f1ar el Jangueo",
-      "url": "https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Le Pertenezco",
         "url": "https://open.spotify.com/album/3yuypQS5iLMuJ7oPHwrIjy"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 226040,
       "name": "Le Pertenezco",
       "url": "https://open.spotify.com/track/2b2fnwZfLapxMAlskAj3M0"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Da\u00f1ar el Jangueo",
+        "url": "https://open.spotify.com/album/5Gzt5itwkQ3s2ZHICFzF0r"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        }
+      ],
+      "duration_ms": 230476,
+      "name": "Da\u00f1ar el Jangueo",
+      "url": "https://open.spotify.com/track/2G57GCgrChXL9CQ0yUMX7f"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Me enamor\u00e9",
-        "url": "https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Gim\u00e9nez",
-          "url": "https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G"
-        }
-      ],
-      "duration_ms": 246015,
-      "name": "Me enamor\u00e9",
-      "url": "https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "S\u00f3lo a Ti Jes\u00fas",
         "url": "https://open.spotify.com/album/6AhmGnkVFg9X8KpsqNupJc"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 216794,
       "name": "S\u00f3lo a Ti Jes\u00fas",
       "url": "https://open.spotify.com/track/1oEaQ5tC1JKbUy8xlENFWF"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Me enamor\u00e9",
+        "url": "https://open.spotify.com/album/6AnRhDx3IXaaM7I3NffEt5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Gim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5PBqMVGVeDWnOE5GHSp13G"
+        }
+      ],
+      "duration_ms": 246015,
+      "name": "Me enamor\u00e9",
+      "url": "https://open.spotify.com/track/1p7BM4OViezVCoLMa123ai"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1327,38 +1327,22 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Todos Mis Mejores Amigos",
-        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Winicius Nathan",
+          "url": "https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU"
         },
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Kevin Mendoza",
+          "url": "https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK"
         }
       ],
-      "duration_ms": 305573,
-      "name": "M\u00e1s All\u00e1 De Tu Ventana",
-      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 233437,
-      "name": "Mareas (todo a su tiempo)",
-      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
+      "duration_ms": 230377,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1379,22 +1363,38 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/39BhWVKo2v4AqtnIn2q3Ad"
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/0dGj2ahWYeX4njm5g6B1ia"
       },
       "artists": [
         {
-          "name": "Winicius Nathan",
-          "url": "https://open.spotify.com/artist/0okMmUI1LhZRWZVrtHmEqU"
-        },
-        {
-          "name": "Kevin Mendoza",
-          "url": "https://open.spotify.com/artist/5RcvhYmXXlPzchje5Y3DxK"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 230377,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
+      "duration_ms": 233437,
+      "name": "Mareas (todo a su tiempo)",
+      "url": "https://open.spotify.com/track/2ynsNq1lSzrpxUJIiSFT0O"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Todos Mis Mejores Amigos",
+        "url": "https://open.spotify.com/album/60RcEQQMc77fR4x2vxo8pR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 305573,
+      "name": "M\u00e1s All\u00e1 De Tu Ventana",
+      "url": "https://open.spotify.com/track/2XZ1LwR4j9qlQxavgUGEyu"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Generacion Radical",
-        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
-      },
-      "artists": [
-        {
-          "name": "Barak",
-          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
-        }
-      ],
-      "duration_ms": 406184,
-      "name": "La Tierra Canta",
-      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Dios Cuida De M\u00ed",
         "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 240483,
       "name": "Himno De Victoria",
       "url": "https://open.spotify.com/track/2kU32YkYwKUkWNcBv2NSRs"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "duration_ms": 406184,
+      "name": "La Tierra Canta",
+      "url": "https://open.spotify.com/track/4n1uuTzvlQF4rshRbaNXXK"
     },
     {
       "added_at": "2025-09-14 09:46:53",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-09-14 09:46:53",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
-    },
-    {
-      "added_at": "2025-09-14 09:46:53",
-      "album": {
         "name": "Voy A Profetizar",
         "url": "https://open.spotify.com/album/05HyX6gH8hKJ4fAji7XftG"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 284238,
       "name": "El Rey Te Mand\u00f3 Llamar",
       "url": "https://open.spotify.com/track/4yot6gJqaEvD5A8bLUjbn2"
+    },
+    {
+      "added_at": "2025-09-14 09:46:53",
+      "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2025-09-14 09:46:53",

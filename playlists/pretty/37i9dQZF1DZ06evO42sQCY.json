@@ -1,12 +1,12 @@
 {
   "description": "This is Ivan Cornejo. The essential tracks, all in one playlist.",
-  "num_followers": 158709,
+  "num_followers": 158765,
   "original_name": "This Is Ivan Cornejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNSGAAAAAACwt8bCxYvd4ubX5l6QcFgS",
+  "snapshot_id": "aNXXgAAAAAD4dDUjKFofvrwzpesEsLAL",
   "tracks": [
     {
       "added_at": null,
@@ -70,15 +70,11 @@
         {
           "name": "Ivan Cornejo",
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 216000,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4"
+      "duration_ms": 201194,
+      "name": "Est\u00e1 Da\u00f1ado",
+      "url": "https://open.spotify.com/track/0ciLo7Ntd7Gfc0rQRTgkSG"
     },
     {
       "added_at": null,
@@ -144,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 201194,
-      "name": "Est\u00e1 Da\u00f1ado",
-      "url": "https://open.spotify.com/track/0ciLo7Ntd7Gfc0rQRTgkSG"
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": null,
@@ -212,9 +208,9 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
+      "duration_ms": 206918,
+      "name": "Me Hiciste un Loco",
+      "url": "https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v"
     },
     {
       "added_at": null,
@@ -276,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 206918,
-      "name": "Me Hiciste un Loco",
-      "url": "https://open.spotify.com/track/0iade05WRF2AsjkRHDXz0v"
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/4ixwxIXEFw0Jf5nY0Leipd"
     },
     {
       "added_at": null,
@@ -340,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 211198,
-      "name": "Perro Abandonado",
-      "url": "https://open.spotify.com/track/4ixwxIXEFw0Jf5nY0Leipd"
+      "duration_ms": 210346,
+      "name": "No Me Quise Ir",
+      "url": "https://open.spotify.com/track/2JltnZUDzrxKuwNjkK5N6Q"
     },
     {
       "added_at": null,
@@ -399,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "No Me Quise Ir",
-      "url": "https://open.spotify.com/track/2JltnZUDzrxKuwNjkK5N6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noche de Relajo",
         "url": "https://open.spotify.com/album/0lTdXd09zSFDHiSmW36G76"
       },
@@ -447,6 +427,22 @@
       "duration_ms": 166124,
       "name": "Triste",
       "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 229660,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/6Ro1yaANVwZmoREZa5P8Bz"
     },
     {
       "added_at": null,

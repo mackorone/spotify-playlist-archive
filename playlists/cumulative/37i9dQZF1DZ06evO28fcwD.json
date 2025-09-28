@@ -2738,24 +2738,6 @@
     {
       "album": {
         "name": "The Star and the Wiseman",
-        "url": "https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "date_added": "2022-10-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 232093,
-      "name": "Swing Low Sweet Chariot",
-      "url": "https://open.spotify.com/track/5BujScz3tYp115DoioZUCs"
-    },
-    {
-      "album": {
-        "name": "The Star and the Wiseman",
         "url": "https://open.spotify.com/album/2D1Ph5BioeCgToYvGS6fbO"
       },
       "artists": [
@@ -2770,6 +2752,28 @@
       "duration_ms": 232093,
       "name": "Swing Low Sweet Chariot",
       "url": "https://open.spotify.com/track/5eTQdyKwV5KJCK1yuBmVOX"
+    },
+    {
+      "album": {
+        "name": "The Star and the Wiseman",
+        "url": "https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        },
+        {
+          "name": "CHINA BLACK",
+          "url": "https://open.spotify.com/artist/2alEr1xfOACV589q7XCv7A"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Swing Low Sweet Chariot",
+      "url": "https://open.spotify.com/track/5BujScz3tYp115DoioZUCs"
     },
     {
       "album": {

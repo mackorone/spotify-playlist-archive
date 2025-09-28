@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER MILLION LIVE!\".  THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
-  "num_followers": 18174,
+  "num_followers": 18178,
   "original_name": "THE IDOLM@STER MILLION LIVE! ",
   "owner": {
     "name": "Spotify",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 03",
-        "url": "https://open.spotify.com/album/7eyHlvuilbyQace0k063iy"
-      },
-      "artists": [
-        {
-          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "Catch my dream",
-      "url": "https://open.spotify.com/track/0jgj7n4quchk3nSTdVJ7vF"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
         "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 03",
+        "url": "https://open.spotify.com/album/7eyHlvuilbyQace0k063iy"
+      },
+      "artists": [
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "Catch my dream",
+      "url": "https://open.spotify.com/track/0jgj7n4quchk3nSTdVJ7vF"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02",
         "url": "https://open.spotify.com/album/63Ic75x61p1Mtdcyt8roK5"
       },
@@ -1379,6 +1379,62 @@
       "duration_ms": 217880,
       "name": "\u30ad\u30e9\u30e1\u30ad\u9032\u884c\u5f62",
       "url": "https://open.spotify.com/track/0zUxcMSrVLfjuloZtMEBGD"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 12 \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30c0\u30a4\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/6raoTree2kzuHvxAfcjkNt"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u69fb\u3084\u3088\u3044 (CV.\u4ec1\u5f8c\u771f\u8036\u5b50)",
+          "url": "https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb"
+        },
+        {
+          "name": "\u5929\u6d77\u6625\u9999 (CV.\u4e2d\u6751\u7e6a\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL"
+        },
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "VIVA \u30a2\u30af\u30a2\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/6KcZmsmgUVUy9YlTdpchCP"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        }
+      ],
+      "duration_ms": 237040,
+      "name": "\u30b3\u30b3\u30ed \u30a8\u30af\u30b5\u30b5\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/5HbQqTZIUk8izZCEs9tsOE"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04",
+        "url": "https://open.spotify.com/album/7fbgOJKABo75Cjpa529vgU"
+      },
+      "artists": [
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "ENTER PLEASURE",
+      "url": "https://open.spotify.com/track/02qhpRpoQwUC4wI2VOM7Tq"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1407,54 +1463,6 @@
       "duration_ms": 301573,
       "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
       "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u76e4)",
-        "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
-          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
-        },
-        {
-          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
-          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
-        },
-        {
-          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
-          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
-        }
-      ],
-      "duration_ms": 339120,
-      "name": "VOY@GER - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01Ver.",
-      "url": "https://open.spotify.com/track/4loMP9JuL2MTqzfysmLOPm"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER WAVE 12 \u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30c0\u30a4\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/6raoTree2kzuHvxAfcjkNt"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u69fb\u3084\u3088\u3044 (CV.\u4ec1\u5f8c\u771f\u8036\u5b50)",
-          "url": "https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb"
-        },
-        {
-          "name": "\u5929\u6d77\u6625\u9999 (CV.\u4e2d\u6751\u7e6a\u91cc\u5b50)",
-          "url": "https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL"
-        },
-        {
-          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
-        }
-      ],
-      "duration_ms": 248373,
-      "name": "VIVA \u30a2\u30af\u30a2\u30ea\u30ba\u30e0",
-      "url": "https://open.spotify.com/track/6KcZmsmgUVUy9YlTdpchCP"
     },
     {
       "added_at": "2025-03-26 16:49:37",
@@ -1507,6 +1515,46 @@
     {
       "added_at": "2025-03-26 16:49:37",
       "album": {
+        "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u76e4)",
+        "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "duration_ms": 339120,
+      "name": "VOY@GER - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01Ver.",
+      "url": "https://open.spotify.com/track/4loMP9JuL2MTqzfysmLOPm"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 07",
+        "url": "https://open.spotify.com/album/7kjKAMMNIJLEctRIE0cYsq"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "duration_ms": 254986,
+      "name": "Hearty!!",
+      "url": "https://open.spotify.com/track/1NHI4qrE0LtANN2wsRxAad"
+    },
+    {
+      "added_at": "2025-03-26 16:49:37",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER WAVE 11 \u30aa\u30da\u30e9\u30bb\u30ea\u30a2\u30fb\u714c\u8f1d\u5ea7",
         "url": "https://open.spotify.com/album/2SSr71xZDj52IgJ3zacjfx"
       },
@@ -1531,54 +1579,6 @@
       "duration_ms": 264480,
       "name": "Parade d'amour",
       "url": "https://open.spotify.com/track/0fPEMQLXpCDbaCeT6CgUAd"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
-        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
-          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
-        }
-      ],
-      "duration_ms": 237040,
-      "name": "\u30b3\u30b3\u30ed \u30a8\u30af\u30b5\u30b5\u30a4\u30ba",
-      "url": "https://open.spotify.com/track/5HbQqTZIUk8izZCEs9tsOE"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04",
-        "url": "https://open.spotify.com/album/7fbgOJKABo75Cjpa529vgU"
-      },
-      "artists": [
-        {
-          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
-          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "ENTER PLEASURE",
-      "url": "https://open.spotify.com/track/02qhpRpoQwUC4wI2VOM7Tq"
-    },
-    {
-      "added_at": "2025-03-26 16:49:37",
-      "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 07",
-        "url": "https://open.spotify.com/album/7kjKAMMNIJLEctRIE0cYsq"
-      },
-      "artists": [
-        {
-          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
-          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
-        }
-      ],
-      "duration_ms": 254986,
-      "name": "Hearty!!",
-      "url": "https://open.spotify.com/track/1NHI4qrE0LtANN2wsRxAad"
     },
     {
       "added_at": "2025-03-26 16:49:37",

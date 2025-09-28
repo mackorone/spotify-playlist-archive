@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 136686,
+  "num_followers": 136660,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Brazilian Soul (feat. Sofi Tukker) [Remixes]",
-        "url": "https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa"
-      },
-      "artists": [
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 250934,
-      "name": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version",
-      "url": "https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Box Natiruts",
         "url": "https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 332653,
       "name": "Sorri, Sou Rei (feat. Claudia Leitte)",
       "url": "https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Brazilian Soul (feat. Sofi Tukker) [Remixes]",
+        "url": "https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 250934,
+      "name": "Brazilian Soul (feat. Sofi Tukker) - Acoustic Bossa Version",
+      "url": "https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Maris",
-        "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
-      },
-      "artists": [
-        {
-          "name": "JORGE",
-          "url": "https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Maris",
-      "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Bossanova",
         "url": "https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201878,
       "name": "Bossanova",
       "url": "https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Maris",
+        "url": "https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27"
+      },
+      "artists": [
+        {
+          "name": "JORGE",
+          "url": "https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Maris",
+      "url": "https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Um Corpo no Mundo",
+        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 385093,
+      "name": "Um Corpo no Mundo",
+      "url": "https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Elephunk",
         "url": "https://open.spotify.com/album/4jOESXHbPsfy1IYdyvwjYI"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 184868,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/03PYKiPPsk5L7RELtARc1N"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Um Corpo no Mundo",
-        "url": "https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 385093,
-      "name": "Um Corpo no Mundo",
-      "url": "https://open.spotify.com/track/2kEGhFlJxjVtXnIpudVLtI"
     },
     {
       "added_at": "2023-06-23 03:00:00",

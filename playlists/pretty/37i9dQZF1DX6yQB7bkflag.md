@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Shabrina Leanor
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,893 likes - 141 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,895 likes - 141 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

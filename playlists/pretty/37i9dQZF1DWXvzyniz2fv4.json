@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 159260,
+  "num_followers": 159261,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADwGsWdqhp56pwmOtC1+fY16Cnli",
+  "snapshot_id": "AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B",
   "tracks": [
     {
       "added_at": "2025-09-12 17:53:54",
@@ -223,6 +223,30 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
         "name": "At\u00e9 o Final",
         "url": "https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5"
       },
@@ -247,30 +271,6 @@
       "duration_ms": 144682,
       "name": "At\u00e9 o Final",
       "url": "https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
-        "name": "Modo Foco (Studio Rec #4)",
-        "url": "https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw"
-      },
-      "artists": [
-        {
-          "name": "1Kilo",
-          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
-        },
-        {
-          "name": "Zekk.",
-          "url": "https://open.spotify.com/artist/1AmSDP1BlvqduXSxAJc06J"
-        }
-      ],
-      "duration_ms": 179495,
-      "name": "Modo Foco (Studio Rec #4)",
-      "url": "https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
         "name": "Equa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
+        "name": "Modo Foco (Studio Rec #4)",
+        "url": "https://open.spotify.com/album/7EeTxr7ArueH6YrQsbG9xw"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "Zekk.",
+          "url": "https://open.spotify.com/artist/1AmSDP1BlvqduXSxAJc06J"
+        }
+      ],
+      "duration_ms": 179495,
+      "name": "Modo Foco (Studio Rec #4)",
+      "url": "https://open.spotify.com/track/1HtbqR0nEMB2tHvGweP8Nl"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "Ka\u00ea",
+          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/13GBj5j1CbozJAYrgkxbOP"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-09-12 17:53:54",
       "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -1139,46 +1139,6 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
-        "name": "Sem Modera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
-      },
-      "artists": [
-        {
-          "name": "Meia1",
-          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
-        }
-      ],
-      "duration_ms": 133124,
-      "name": "Sem Modera\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
-    },
-    {
-      "added_at": "2025-09-12 17:53:54",
-      "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Mc Chagas",
-          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
-        },
-        {
-          "name": "Mc Rei Delas",
-          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
     },
     {
       "added_at": "2025-09-12 17:53:54",
@@ -1207,6 +1167,46 @@
       "duration_ms": 170700,
       "name": "Deixa Queimar",
       "url": "https://open.spotify.com/track/6jj0UwiD4y1LnlNJ5FuxZf"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Mc Chagas",
+          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
+        },
+        {
+          "name": "Mc Rei Delas",
+          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2025-09-12 17:53:54",
+      "album": {
+        "name": "Sem Modera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0yYitJaSJ1B1M4F6BxOzbZ"
+      },
+      "artists": [
+        {
+          "name": "Meia1",
+          "url": "https://open.spotify.com/artist/74GqSjWiHrUEYWkBhUdaiK"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Sem Modera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1BkZMa8sgeJVQcSK3fDkVO"
     },
     {
       "added_at": "2025-09-12 17:53:54",

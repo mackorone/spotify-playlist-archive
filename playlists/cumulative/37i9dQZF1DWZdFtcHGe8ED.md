@@ -2,9 +2,9 @@
 
 ### [Thrashers](https://open.spotify.com/playlist/37i9dQZF1DWZdFtcHGe8ED)
 
-> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
+> All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Metallica
 
-455 songs - 1 day 8 hr 9 min
+457 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Remain Violent](https://open.spotify.com/track/6vqfI9RPcpzwt3VhasBHdV) | [Warbringer](https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1) | [Woe To The Vanquished](https://open.spotify.com/album/7yXARozNFzIwEeoX9kbS0i) | 3:24 | 2021-12-17 | 2022-07-29 |
 | [Renewal](https://open.spotify.com/track/1S0AbOPzmLwUXtyv2Czq3z) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Renewal](https://open.spotify.com/album/7erRumRzCic3S7fkI8IiMP) | 5:21 | 2025-08-15 |  |
 | [Revelation Denied](https://open.spotify.com/track/49CdpNqdhe8wFBHxUpNqTH) | [Intoxicated](https://open.spotify.com/artist/6mloZ1De5nFjLFLWfXFxEV) | [Revelation Denied](https://open.spotify.com/album/3CbBZoRrHN1yBvdfkDWysG) | 3:29 | 2022-02-25 | 2022-03-03 |
+| [Ride The Lightning \- Remastered](https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:36 | 2025-09-26 |  |
 | [Riff Cult](https://open.spotify.com/track/4YhGqxin3zzvlOd9lNPTSw) | [Claustrofobia](https://open.spotify.com/artist/6qQ1oR8882plR1Iwfuh179) | [Riff Cult](https://open.spotify.com/album/1Noaorp5lraBbW2ch7rHPw) | 3:36 | 2021-12-17 | 2022-02-25 |
 | [Roadkill Relaxation](https://open.spotify.com/track/3lpGqImgOsp8J53dUhvQaX) | [Fatal Effect](https://open.spotify.com/artist/5NHQ6Nz1LrlthzcIDZ5dqb) | [Roadkill](https://open.spotify.com/album/0CA1wtbfscMI3eFm2lfTlI) | 3:46 | 2021-12-17 | 2022-03-02 |
 | [Romeo Delight](https://open.spotify.com/track/0Zl2Wx0aqXhMfFMcsLYmor) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO), [Stu Block](https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Metal II](https://open.spotify.com/album/6rvqy7S1R8d5kZ7jHNQ3Iw) | 4:20 | 2022-02-25 |  |
@@ -340,11 +341,12 @@
 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 | 2022-12-15 |  |
 | [Running Blind](https://open.spotify.com/track/3rklHnrprJJG0Wrkp1LMI4) | [Flaming Wrekage](https://open.spotify.com/artist/4fHy7P549XE4UE9G1rsqlw) | [Running Blind](https://open.spotify.com/album/0C137r86CegBzGyC2o3mXA) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Sacred Slaughter](https://open.spotify.com/track/2Wf1aYlPLSVga0eyAuayxO) | [Iron Angel](https://open.spotify.com/artist/50aVB5l90oifKXt0LDzanR) | [Sacred Slaughter](https://open.spotify.com/album/0H2MErtPyCzvxqjI89BKUf) | 4:22 | 2021-12-17 | 2022-07-16 |
-| [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 |  |
+| [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 | 2025-09-28 |
 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 | 2021-12-17 |  |
 | [Sea Savage](https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/3Yu6Zmjf6pqtg7BAKHlyCM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Semtex Revolution](https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9) | 5:30 | 2023-06-27 | 2024-04-19 |
 | [Semtex Revolution](https://open.spotify.com/track/7mTceRxYae4a5xkEhTgdqq) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/0qbld4MsN4rUa4uyEm1juQ) | 5:30 | 2022-07-13 | 2023-11-04 |
+| [Seven Serpents](https://open.spotify.com/track/0Ymzr5Fo4i10IaUQz5R0eO) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Seven Serpents](https://open.spotify.com/album/5Fa32KpztTDuW2wuq30LRX) | 4:39 | 2025-09-26 |  |
 | [Seven Words](https://open.spotify.com/track/1OBphi1GDxcPMNExEvNIh5) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Seven Words](https://open.spotify.com/album/0K1aAagoaaplNXP2vHRSkM) | 3:56 | 2022-10-08 | 2022-11-13 |
 | [Sever The Tongue](https://open.spotify.com/track/0kWPYyduQ5Vo5jLdf20AGG) | [Deicide](https://open.spotify.com/artist/2K3GorTixXKAiwe2t9lO89) | [Sever The Tongue](https://open.spotify.com/album/3Hm85xoM0c1XorBsEqOenD) | 3:24 | 2024-03-08 |  |
 | [Shadow People](https://open.spotify.com/track/5s7Jgjo2e8UtXItw91tK7d) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Shadow People](https://open.spotify.com/album/5ZAFMho7IwLr15Dbq3LSfv) | 5:45 | 2025-09-12 |  |
@@ -399,7 +401,7 @@
 | [The Eye](https://open.spotify.com/track/3CoID3xVaER6TcbcbUqkBm) | [Domination Inc.](https://open.spotify.com/artist/6vdbsYEmWHcM0iWJumU52a) | [The Eye](https://open.spotify.com/album/2D87yEOlqff04pWgnzN4Cx) | 4:09 | 2021-12-17 | 2022-02-27 |
 | [The Fall](https://open.spotify.com/track/7rpwaUJdxfcu2TNHbWjmcf) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [The Fall](https://open.spotify.com/album/3ce3udHx7koDVwheaUjXd1) | 2:20 | 2021-12-17 | 2022-07-26 |
 | [The Four Horsemen \(Remastered\)](https://open.spotify.com/track/4YPgTCGJWAlHQ5g6eWoM8r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 7:12 | 2022-07-13 | 2024-04-19 |
-| [The Four Horsemen \- Remastered](https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 7:12 | 2022-07-13 |  |
+| [The Four Horsemen \- Remastered](https://open.spotify.com/track/5RrnDgjoFxDINI5aFQPZXt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 7:12 | 2022-07-13 | 2025-09-28 |
 | [The Great Circus Train Disaster](https://open.spotify.com/track/5J9D4u13vrQldUYmbZInY3) | [Gwar](https://open.spotify.com/artist/3dnH7fdVm2X07MK6Fkbhbt) | [The Great Circus Train Disaster](https://open.spotify.com/album/3bJLcSlhljE9IXFrL07omY) | 3:43 | 2025-06-06 |  |
 | [The Knife Is Sharper Than Ever](https://open.spotify.com/track/7n1k9HArkbcYG8yFjRwteC) | [Grindpad](https://open.spotify.com/artist/7ws15SQDejPWDHPvH74DWD) | [Violence](https://open.spotify.com/album/7yvkP3ky34EnttM35nTG7C) | 5:05 | 2021-12-17 | 2022-03-01 |
 | [The Last Rager](https://open.spotify.com/track/4AuccIeDavrN0fxI2VoduG) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Last Rager](https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU) | 3:15 | 2021-12-17 |  |

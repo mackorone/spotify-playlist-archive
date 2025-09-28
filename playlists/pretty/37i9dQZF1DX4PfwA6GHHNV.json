@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22007,
+  "num_followers": 22013,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
-        "name": "1001 Noites",
-        "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 156428,
-      "name": "1001 Noites",
-      "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
-    },
-    {
-      "added_at": "2025-09-19 22:28:24",
-      "album": {
         "name": "Repare",
         "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 202245,
       "name": "Repare",
       "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
+    },
+    {
+      "added_at": "2025-09-19 22:28:24",
+      "album": {
+        "name": "1001 Noites",
+        "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "1001 Noites",
+      "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
     },
     {
       "added_at": "2025-09-19 22:28:24",
@@ -1107,26 +1107,22 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
-        "name": "B\u00f3ra",
-        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
       },
       "artists": [
         {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 235800,
-      "name": "B\u00f3ra",
-      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2025-09-19 22:28:24",
@@ -1155,22 +1151,26 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+        "name": "B\u00f3ra",
+        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
         },
         {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
         }
       ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+      "duration_ms": 235800,
+      "name": "B\u00f3ra",
+      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
     },
     {
       "added_at": "2025-09-19 22:28:24",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-09-19 22:28:24",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2025-09-19 22:28:24",
-      "album": {
         "name": "RELACIONAMENTO SOLO",
         "url": "https://open.spotify.com/album/5fx7lMvfcNgCs4oEwSW63o"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 155000,
       "name": "RELACIONAMENTO SOLO",
       "url": "https://open.spotify.com/track/3LwmbuHvt9rsiGsppCcW80"
+    },
+    {
+      "added_at": "2025-09-19 22:28:24",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     }
   ],
   "unique_name": "pique afrobeats",

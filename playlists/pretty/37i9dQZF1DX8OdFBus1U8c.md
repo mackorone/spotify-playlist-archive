@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  The Imbachi, Gabri
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,709 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,711 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 4 | [Thani Lokah Murakkaari \(From "Lokah \- Chapter 1: Chandra"\)](https://open.spotify.com/track/7gX2JJVKndYEVApM5GRtqZ) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Thani Lokah Murakkaari \(From "Lokah \- Chapter 1: Chandra"\)](https://open.spotify.com/album/3MqNFtmEnrwzmen3K91TsI) | 3:51 |
 | 5 | [Churuttu](https://open.spotify.com/track/06H8bojF4Rb2a4rlFM4SKq) | [S Dee](https://open.spotify.com/artist/6AIHewFwNjOEJQCrOZBoSt), [Rithwik](https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW), [Praxxii](https://open.spotify.com/artist/19qRy4jkw44VKBvTR69HKZ), [Vivian Leen](https://open.spotify.com/artist/1tAENFBmt9JdOCZWs97hwg) | [Churuttu](https://open.spotify.com/album/1uGNFmMLdtG05U013IY40c) | 3:00 |
 | 6 | [Run](https://open.spotify.com/track/39EeXaRJFxtQIHfgAUCsHR) | [Maneesh Madhusudhan](https://open.spotify.com/artist/2dPPSQfDQW440IQQUe1212), [Vishnu Soman](https://open.spotify.com/artist/35oUhEYSUVPRySRWyHARUV), [jithin kunjumon](https://open.spotify.com/artist/55xTx4OxE9FHduK3GqtKrn) | [Run](https://open.spotify.com/album/0l8u5LvvPoTCDmrYLoJRly) | 3:22 |
-| 7 | [nte ANGADI](https://open.spotify.com/track/4qZvR1dt68UHaTptb2tKlY) | [Adhil Rasheed](https://open.spotify.com/artist/0hp2owGe2CjGSqXfUZkAIn), [ZBR](https://open.spotify.com/artist/4Qe9UGhutQVFsgY70R21Be), [JOJO](https://open.spotify.com/artist/3RFxt1JnFjpFep8H9MQtd6) | [nte ANGADI](https://open.spotify.com/album/3vtzcCDjBYaWw5px4qmWYF) | 2:39 |
+| 7 | [Nte Angadi](https://open.spotify.com/track/4qZvR1dt68UHaTptb2tKlY) | [Adhil Rasheed](https://open.spotify.com/artist/0hp2owGe2CjGSqXfUZkAIn), [ZBR](https://open.spotify.com/artist/21Abac8U0ky8PPdACWgl7z), [JOJO](https://open.spotify.com/artist/3RFxt1JnFjpFep8H9MQtd6) | [Nte Angadi](https://open.spotify.com/album/3vtzcCDjBYaWw5px4qmWYF) | 2:39 |
 | 8 | [Double Inte Thala Ill](https://open.spotify.com/track/4sBd3r1uTaY4T7r44bhAY4) | [Double Ayy Kay](https://open.spotify.com/artist/72t2AYGBWVMEJvKlgcQKhh), [Dcypher](https://open.spotify.com/artist/0H0hcIgXiQHYIAl9m3y8Qe) | [Double Inte Thala Ill](https://open.spotify.com/album/4kAxmHTi4PIBIENVuEAsW9) | 3:05 |
 | 9 | [Chaakalle](https://open.spotify.com/track/76JNvwFWpaWJo0a5NFmCBs) | [DH STORIES](https://open.spotify.com/artist/5SG8gtaSlus7rlP6BYqSCa), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Chaakalle](https://open.spotify.com/album/75fkTAMFZsd5pAr2pYMyIy) | 3:09 |
 | 10 | [Not Like This \- Original mix](https://open.spotify.com/track/1Ri8LSjMUtTeKW9Of3OjAb) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN), [Lostix](https://open.spotify.com/artist/51J9B31DKYbV5PHMJMNp2r) | [Not Like This](https://open.spotify.com/album/3677Ht91id901Sa153vjo2) | 2:37 |

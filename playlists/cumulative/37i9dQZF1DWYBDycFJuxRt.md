@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: 米津玄師 + 宇多田ヒカル \*👉 <a href="https://spice.eplus.jp/articles/340946">連動記事</a>をSPICEでチェック!
 
-12,084 songs - 31 day 14 hr 56 min
+12,085 songs - 31 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2477,6 +2477,7 @@
 | [FUNKY MUSIC!!](https://open.spotify.com/track/77QVJP938JUWBTrnTU5qGy) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [FUNKY MUSIC!!](https://open.spotify.com/album/3A640IEuWSg6jFDaQgXv8Q) | 2:21 | 2025-04-15 | 2025-04-23 |
 | [Funky Night](https://open.spotify.com/track/6nfo17qf1ejtbUD5hU3tCY) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [Funky Night](https://open.spotify.com/album/2TypC5ePStdbyKgvKQlvaK) | 3:17 | 2024-05-14 | 2024-05-22 |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-21 | 2025-01-29 |
+| [Funny story](https://open.spotify.com/track/0A4mI870QmRjDeE3IcGP24) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Funny story](https://open.spotify.com/album/1Yd9NfCJSHmXxbte3gAia5) | 5:19 | 2025-09-24 |  |
 | [Furai](https://open.spotify.com/track/0JlDINY2QfgBGG1HYXeuyV) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Furai](https://open.spotify.com/album/4j0Zj8PZiRK5PL7MqFQA83) | 4:25 | 2023-02-22 | 2023-03-01 |
 | [Furase!](https://open.spotify.com/track/61ipDffoEASVKPJSTHleTw) | [kei](https://open.spotify.com/artist/1xp6W3tUbDNPOZRm35KeNq) | [Furase!](https://open.spotify.com/album/7sP1NP9i9JLPAnmvSQjpvI) | 3:59 | 2025-06-03 | 2025-06-11 |
 | [fushigi \- URBAN VOLCANO SOUNDS Mysterious Boogie Remix](https://open.spotify.com/track/4izWh3S6IbaKO0pIRHdSxZ) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF), [URBAN VOLCANO SOUNDS](https://open.spotify.com/artist/7uKxxjykhehO0XETSo7Ahi) | [fushigi \(URBAN VOLCANO SOUNDS Mysterious Boogie Remix\)](https://open.spotify.com/album/1kLgYyA73inRosAynMsNHu) | 5:49 | 2023-08-01 | 2023-08-09 |

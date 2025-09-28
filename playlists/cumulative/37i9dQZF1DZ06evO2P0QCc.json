@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-06",
+      "date_removed": null,
       "duration_ms": 228400,
       "name": "\"Lamba Do Ska\" (Llorando Se Fue)",
       "url": "https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 239333,
       "name": "Desatinos",
       "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
@@ -900,10 +900,28 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 243253,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+    },
+    {
+      "album": {
+        "name": "Me Estoy Enamorando (Sonando desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/7uOVn6vtCUGhz89nvD9nL4"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230480,
+      "name": "Me Estoy Enamorando - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/7HXcDZtdxoG2MwH8mJ03gh"
     },
     {
       "album": {

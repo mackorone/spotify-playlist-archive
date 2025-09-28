@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: jum:p\. Artwork: Isu Kim
+> ฟังผลงานจากศิลปินรุ่นใหม่กัน\. ศิลปิน: MEEPOOH\. Artwork: Isu Kim
 
 2,371 songs - 6 day 5 hr 1 min
 

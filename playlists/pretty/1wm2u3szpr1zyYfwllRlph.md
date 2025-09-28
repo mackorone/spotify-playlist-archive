@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Paul Kalkbrenner &amp; Stromae
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 56,525 likes - 130 songs - 6 hr 23 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 56,439 likes - 130 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Strings And Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,835 likes - 99 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,865 likes - 99 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 58 | [I Surrender All](https://open.spotify.com/track/5YkOK7E3cRqdqEUkRLTiTz) | [Mountclear Jazz](https://open.spotify.com/artist/5BdCZpKcI9uTIx83LEOl1D) | [I Surrender All](https://open.spotify.com/album/2EUNNyn8bphQqHESKe3EfH) | 6:08 |
 | 59 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 |
 | 60 | [Manner of Love](https://open.spotify.com/track/0YGUasDDdukr2oSE70lKp5) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Manner of Love](https://open.spotify.com/album/3aGTOTknndum6zVyoVj1UX) | 5:37 |
-| 61 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |
+| 61 | [Your Face](https://open.spotify.com/track/2D30APayldrwbX1mKTPoT4) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT) | [Your Face](https://open.spotify.com/album/7mWTUF7NUe0fgiPQBk27t6) | 2:38 |
 | 62 | [HEAVY](https://open.spotify.com/track/427vtHZx6zjqmBbjRZfa25) | [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [HEAVY](https://open.spotify.com/album/03znAU9b1wWRAUWXGCpUTB) | 3:41 |
 | 63 | [Jesus Party](https://open.spotify.com/track/0NG2hh18Y6Yp5rPwRf7TIR) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [More Life](https://open.spotify.com/album/1VJ9UkV3ladKpeJUAFEUca) | 2:08 |
 | 64 | [Te Necesito](https://open.spotify.com/track/16Baz97jpGAQn92jFzGSSF) | [Christ United Worship](https://open.spotify.com/artist/0fFDiR31JFe2UtISs31Xjo), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Michelle Desir](https://open.spotify.com/artist/20HfU2CLtLf297uCQWPX3e), [Cho$en](https://open.spotify.com/artist/75WXJnqKs8zMieAIzo6oLv) | [Te Necesito](https://open.spotify.com/album/3OfLlWtGiOdb0t3Np76Kfk) | 2:08 |

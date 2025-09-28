@@ -4618,7 +4618,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 191643,
       "name": "AUTOS",
       "url": "https://open.spotify.com/track/3K0brvOrbwMuHKswfdEzjd"
@@ -4658,7 +4658,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 179498,
       "name": "Ax Kardia Mou",
       "url": "https://open.spotify.com/track/0PFoC7hLMPv5NJ2l8xpofj"
@@ -6042,7 +6042,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -13978,7 +13978,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 131065,
       "name": "Erhmia",
       "url": "https://open.spotify.com/track/2UePKNtKiYpgxpAhuDOxzS"
@@ -15586,7 +15586,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 131351,
       "name": "FINOS FILM",
       "url": "https://open.spotify.com/track/3Q78butABFYlJZFIIlJZXd"
@@ -22082,7 +22082,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -23730,6 +23730,24 @@
       "duration_ms": 130483,
       "name": "Kounato Siga",
       "url": "https://open.spotify.com/track/4ieIAiWQcFLpcCPJeDbLRm"
+    },
+    {
+      "album": {
+        "name": "Kourastika Na S' Agapo",
+        "url": "https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253420,
+      "name": "Kourastika Na S' Agapo",
+      "url": "https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP"
     },
     {
       "album": {
@@ -32174,7 +32192,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 207225,
       "name": "Nyxterides",
       "url": "https://open.spotify.com/track/7rgTr97Ob29FuuKCHqB7a4"
@@ -34507,6 +34525,24 @@
     },
     {
       "album": {
+        "name": "PARANOMO",
+        "url": "https://open.spotify.com/album/0Rz6blnYamKkaeiAb7npGt"
+      },
+      "artists": [
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "PARANOMO",
+      "url": "https://open.spotify.com/track/4M9LkBYxzH1U6YGcWCs6OM"
+    },
+    {
+      "album": {
         "name": "PARANO\u00d3",
         "url": "https://open.spotify.com/album/095rtat4UlMpWphQtm90MN"
       },
@@ -36651,7 +36687,7 @@
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 169874,
+      "duration_ms": 169811,
       "name": "Prezi",
       "url": "https://open.spotify.com/track/7pm3I8p2MWYcjEyZKoVMcd"
     },
@@ -39350,6 +39386,28 @@
       "duration_ms": 238518,
       "name": "Se Periptosi Pou",
       "url": "https://open.spotify.com/track/4iJkeikfkJ7EzkR2xUu0m4"
+    },
+    {
+      "album": {
+        "name": "SEADOO",
+        "url": "https://open.spotify.com/album/2T5uudWve4hhgTHVnaMGcl"
+      },
+      "artists": [
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        },
+        {
+          "name": "Lami",
+          "url": "https://open.spotify.com/artist/5V9DCSxcVep57RMyCfL2TP"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "SEADOO",
+      "url": "https://open.spotify.com/track/2O6rvtuZnW3yCa1ASbTk6g"
     },
     {
       "album": {
@@ -45616,7 +45674,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 139200,
       "name": "TRANQUILA",
       "url": "https://open.spotify.com/track/3wFcRJlyQqaIF0gPfkz3y7"
@@ -48756,7 +48814,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "XOROS",
       "url": "https://open.spotify.com/track/7EeEMoAJVKzhO5uqNH7Oqm"

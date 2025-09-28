@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Devano
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,314 likes - 101 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,318 likes - 101 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 96 | [Sudah Bisa Tertawa](https://open.spotify.com/track/5aBpXjj0F93nt1rzqxqST6) | [Alisha Dira](https://open.spotify.com/artist/7HGA1yaatBdtc7N7S7gPFi) | [Sudah Bisa Tertawa](https://open.spotify.com/album/7HSx5rMcd6OlGlccE7ow9h) | 3:15 |
 | 97 | [Merindu Lagi](https://open.spotify.com/track/49cQR3bjxEndbqK2qARYds) | [Mesa Hira](https://open.spotify.com/artist/7ynP6OqOCJe3k4JTk1Tjwc), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Merindu Lagi](https://open.spotify.com/album/3b54FSMtFWyHk0CpeinEch) | 2:55 |
 | 98 | [Tegar](https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM), [Sita Nursanti](https://open.spotify.com/artist/0pafVQFBPn1LXwdpTMSqJM) | [Tegar](https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A) | 3:18 |
-| 99 | [Strategi](https://open.spotify.com/track/2vaYXTUux8AWI8miWBzNTa) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Katanya Bahagia Jatuh Cinta](https://open.spotify.com/album/1SpKCPTTtjTZDSRGW8tc7l) | 3:17 |
+| 99 | [Strategi](https://open.spotify.com/track/2vaYXTUux8AWI8miWBzNTa) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Katanya Bahagia Jatuh Cinta](https://open.spotify.com/album/1SpKCPTTtjTZDSRGW8tc7l) | 3:17 |
 | 100 | [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 |
 | 101 | [Lagu Orang Dewasa](https://open.spotify.com/track/4ANcqjCVvYH0wGGFewvSvt) | [Calvin Jeremy](https://open.spotify.com/artist/5R0U4DSRlKGCFcyJa4z4yD) | [Lagu Orang Dewasa](https://open.spotify.com/album/5YwzYvSVuWEUsl9LT5VEUG) | 2:49 |
 

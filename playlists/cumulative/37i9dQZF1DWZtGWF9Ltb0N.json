@@ -1711,6 +1711,24 @@
     },
     {
       "album": {
+        "name": "Botnet Riddim",
+        "url": "https://open.spotify.com/album/6OUzAan7CckaKFc06l5wdu"
+      },
+      "artists": [
+        {
+          "name": "Varien",
+          "url": "https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139133,
+      "name": "Botnet Riddim",
+      "url": "https://open.spotify.com/track/4hBc0EdTNfVw9mi4fL0eIx"
+    },
+    {
+      "album": {
         "name": "The Villain in Someone's Story",
         "url": "https://open.spotify.com/album/2Tz9zXcUdWO1p0Hhi2tPte"
       },
@@ -15768,7 +15786,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 296678,
       "name": "Wasn't Easy",
       "url": "https://open.spotify.com/track/29V749bQtSemlnoxkAw0s7"

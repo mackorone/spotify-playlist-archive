@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute AJULIACOSTA e mais mulheres incríveis no volume máximo! co\-curada por AJULIACOSTA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,222 likes - 46 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,257 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 29 | [Balas do Meu Bairro](https://open.spotify.com/track/1q2u58F58Jclr58j3iR1xp) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:00 |
 | 30 | [Sonhei com Você](https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Sonhei com Você](https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX) | 4:21 |
 | 31 | [DESCONFORTO](https://open.spotify.com/track/29tBLOZpAyaXZgsNuGUC86) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe) | [BUNMI](https://open.spotify.com/album/6sjV2tmRDy7Wql7El5rPPX) | 3:38 |
-| 32 | [El Barrio \- Spanish](https://open.spotify.com/track/2x9drpriJTSJ5o6niM2Kk0) | [Hurricane G](https://open.spotify.com/artist/7qcHusKwagP6hU5r1mhhvl) | [All Woman](https://open.spotify.com/album/2jyaJHEHRC1zwkSaQae4GC) | 4:18 |
-| 33 | [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 |
+| 32 | [APEDIDO](https://open.spotify.com/track/4D8ffdNH8VWbWS0p2khjeb) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [APEDIDO](https://open.spotify.com/album/47Gec07H7tU8NkKGO3GFGI) | 1:59 |
+| 33 | [El Barrio \- Spanish](https://open.spotify.com/track/2x9drpriJTSJ5o6niM2Kk0) | [Hurricane G](https://open.spotify.com/artist/7qcHusKwagP6hU5r1mhhvl) | [All Woman](https://open.spotify.com/album/2jyaJHEHRC1zwkSaQae4GC) | 4:18 |
 | 34 | [Ain’t I a Woman?](https://open.spotify.com/track/2x6FBPXXXiYXAZG8YHTGdS) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:47 |
 | 35 | [RITMOU](https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Mate Ou Morra](https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY) | 2:51 |
 | 36 | [Vai dar Trabalho](https://open.spotify.com/track/1lqkujChVibjSQlps8oxLd) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Vai dar Trabalho](https://open.spotify.com/album/0e35qb3SQ6wz53veRHgaqr) | 3:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 41 | [Divina Comédia](https://open.spotify.com/track/4a9qqG4nvQEvvJZ93VSD0G) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Divina Comédia](https://open.spotify.com/album/385nFASTAYOjWXVmMuWMWC) | 2:42 |
 | 42 | [Cosmo e Wanda](https://open.spotify.com/track/4yC4hyptMVCJekxnHCck3y) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Artilheira](https://open.spotify.com/album/57vseSG0QgBscoazMP2JQd) | 2:12 |
 | 43 | [Ten Commandments](https://open.spotify.com/track/3LAxDA234GrviAl7DeSHzi) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Meet the Girl Next Door](https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv) | 5:02 |
-| 44 | [12 de Junho](https://open.spotify.com/track/3vFK2T4ygQHos5deK4HYME) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:10 |
-| 45 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
+| 44 | [MOVEDIÇA](https://open.spotify.com/track/6vjY4xyudqURINypzLO5HV) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA](https://open.spotify.com/album/3Oc9BjpHMpy6vYe0gdbMZt) | 3:09 |
+| 45 | [12 de Junho](https://open.spotify.com/track/3vFK2T4ygQHos5deK4HYME) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Mulheres como eu não conhecem o amor.](https://open.spotify.com/album/1JJEYvRFOBlgGd5M8f0Wwt) | 3:10 |
 | 46 | [Bandida \- Remix](https://open.spotify.com/track/3uCaGqSBKi5ujNvPqZosnl) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z) | [Bandida \(Remix\)](https://open.spotify.com/album/3sQFnb3L4I1I590EYYT6u6) | 4:16 |
 
 Snapshot ID: `AAAAALlRGq/tFrNdFEC3idPd3BJttMqo`

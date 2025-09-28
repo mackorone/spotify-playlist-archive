@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 15286,
+  "num_followers": 15293,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-04-11 00:01:31",
       "album": {
+        "name": "Sometin",
+        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "Sometin",
+      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
+    },
+    {
+      "added_at": "2025-04-11 00:01:31",
+      "album": {
         "name": "JEHOVAH OVERDO",
         "url": "https://open.spotify.com/album/77FfDFvBdqw5JrtCcUHu9G"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 143861,
       "name": "JEHOVAH OVERDO",
       "url": "https://open.spotify.com/track/4CpkksfFzZWfdfa1jgJHnK"
-    },
-    {
-      "added_at": "2025-04-11 00:01:31",
-      "album": {
-        "name": "Sometin",
-        "url": "https://open.spotify.com/album/3kdcgOOdHWNNkmJF2VaLsP"
-      },
-      "artists": [
-        {
-          "name": "Nana Yaw Ofori-Atta",
-          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "Sometin",
-      "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
     },
     {
       "added_at": "2025-04-11 00:01:31",

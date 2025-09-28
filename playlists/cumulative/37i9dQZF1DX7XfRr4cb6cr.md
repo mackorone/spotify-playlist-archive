@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-328 songs - 1 day 3 hr 38 min
+329 songs - 1 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Chasing Shadows, Pt\. 1](https://open.spotify.com/track/5lrxlHcu8D2Sl9807ZBI80) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Murken Hollow](https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q) | 5:04 | 2022-12-30 |  |
 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 | 2022-01-21 | 2023-10-06 |
 | [Come Prima](https://open.spotify.com/track/3ufBy6taAXx6iiXxt2VaZO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Memorie I](https://open.spotify.com/album/4iKBNTWpEJksdtJr4jO8It) | 7:19 | 2025-05-22 |  |
+| [Confrontation 1](https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp) | [alva noto](https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp) | [This Stolen Country of Mine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5C5ZkhlDDMKQnSmVG1x58u) | 6:50 | 2025-09-04 |  |
 | [Contrail](https://open.spotify.com/track/0kUaVSpFJ1c5If3fK3S8CX) | [Kane Ikin](https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4) | [Contrail](https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr) | 4:41 | 2022-05-25 |  |
 | [Cracks](https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws) | [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K) | [Cracks](https://open.spotify.com/album/0SKz3oXHcgtANIjmTDO2yJ) | 8:28 | 2022-01-21 | 2025-07-04 |
 | [Crystals](https://open.spotify.com/track/3EWBI2kILNiKA53AJ2Lpq4) | [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Crystals](https://open.spotify.com/album/7i6UA2PHzHi8AzHs0UH8uq) | 4:07 | 2023-10-06 | 2023-10-09 |
@@ -106,7 +107,7 @@
 | [Good Earth](https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Good Earth](https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih) | 2:15 | 2022-02-25 |  |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 |  |
 | [Greener](https://open.spotify.com/track/603qsBFMCGXburZt057Wv3) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 1:43 | 2022-01-21 | 2023-09-24 |
-| [Grey Interiors](https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Grey Interiors](https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB) | 20:41 | 2025-04-24 |  |
+| [Grey Interiors](https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Grey Interiors](https://open.spotify.com/album/5mIWrPzuLBpWL4oLGDIBHB) | 20:41 | 2025-04-24 | 2025-09-28 |
 | [Guide](https://open.spotify.com/track/2CTG1DKBy6RkWtgW0uPzBt) | [Muffler](https://open.spotify.com/artist/4HSQ4ALTUXgWlSrhfc4LNA) | [Guide](https://open.spotify.com/album/0zcGMU5feKA3euuyHVoBwH) | 5:14 | 2022-03-25 | 2022-07-27 |
 | [Headflush](https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 4:51 | 2022-01-21 | 2025-07-04 |
 | [Heaven Will Come](https://open.spotify.com/track/4XL9nn0qDcLA25X88wxmrw) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Shards](https://open.spotify.com/album/06SyCXtsiegtbVJpJ7kNWm) | 4:48 | 2025-02-27 |  |

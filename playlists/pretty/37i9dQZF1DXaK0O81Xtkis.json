@@ -1,12 +1,12 @@
 {
   "description": "a little indie, a little pop, soda featuring Thomas Day",
-  "num_followers": 228570,
+  "num_followers": 228579,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHFtYRikPe2MjfAqWaCcM5thHVsW",
+  "snapshot_id": "AAAAAKca4W6p0yKO8WksWRHRYMwz398M",
   "tracks": [
     {
       "added_at": "2025-09-19 04:00:31",
@@ -23,6 +23,54 @@
       "duration_ms": 144703,
       "name": "sore throat",
       "url": "https://open.spotify.com/track/3RdB7tA0M8IPDqZYoDdqAx"
+    },
+    {
+      "added_at": "2025-09-27 19:59:59",
+      "album": {
+        "name": "Say What You Want",
+        "url": "https://open.spotify.com/album/666B6FOTPm0UYxwpto6N2x"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "duration_ms": 238951,
+      "name": "I Don't Blame You",
+      "url": "https://open.spotify.com/track/2q4OrVl17enVQwEP3FqICn"
+    },
+    {
+      "added_at": "2025-09-27 19:59:59",
+      "album": {
+        "name": "Shock Treatment",
+        "url": "https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH"
+    },
+    {
+      "added_at": "2025-09-27 20:32:56",
+      "album": {
+        "name": "Wisdom Tooth",
+        "url": "https://open.spotify.com/album/1MwkXWhTaIJmm6qZOEMUDr"
+      },
+      "artists": [
+        {
+          "name": "Jack Kane",
+          "url": "https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi"
+        }
+      ],
+      "duration_ms": 178680,
+      "name": "Wisdom Tooth",
+      "url": "https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d"
     },
     {
       "added_at": "2025-09-05 04:00:28",
@@ -57,6 +105,22 @@
       "url": "https://open.spotify.com/track/6qFHz3t1MRt6WsC8o9CoOw"
     },
     {
+      "added_at": "2025-09-27 19:59:59",
+      "album": {
+        "name": "I Dare Ya",
+        "url": "https://open.spotify.com/album/3AyLhNmA6U8R7Q0VYC3HO4"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 146854,
+      "name": "I Dare Ya",
+      "url": "https://open.spotify.com/track/0Dzyi3BEF37P2QnDY390Qy"
+    },
+    {
       "added_at": "2025-09-19 04:00:31",
       "album": {
         "name": "play",
@@ -71,6 +135,22 @@
       "duration_ms": 172748,
       "name": "play",
       "url": "https://open.spotify.com/track/43HLGa3iry3gOahaTUGcIM"
+    },
+    {
+      "added_at": "2025-09-27 20:32:56",
+      "album": {
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "duration_ms": 206628,
+      "name": "U-Turn",
+      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
       "added_at": "2025-09-05 04:00:28",
@@ -815,22 +895,6 @@
     {
       "added_at": "2025-08-22 14:59:17",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/78dPFW1kVn6CvDKFhz6MOF"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/1bEgyMW0qkchQo6n3lrHp2"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
         "name": "first date",
         "url": "https://open.spotify.com/album/2mIJLycY91IuPczBAGX1PG"
       },
@@ -843,22 +907,6 @@
       "duration_ms": 100920,
       "name": "first date",
       "url": "https://open.spotify.com/track/0WQa83jf87irPjO1eaC5qL"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/7MLu0RY87rxk3fJ1g0ZEre"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Cohen",
-          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
-        }
-      ],
-      "duration_ms": 220732,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7"
     },
     {
       "added_at": "2025-08-22 14:59:17",
@@ -883,38 +931,6 @@
     {
       "added_at": "2025-08-22 14:59:17",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc"
-      },
-      "artists": [
-        {
-          "name": "Caroline Kingsbury",
-          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
-        }
-      ],
-      "duration_ms": 223240,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "alibi",
-        "url": "https://open.spotify.com/album/5TVyVPNYxo6aEuJcXdhFWc"
-      },
-      "artists": [
-        {
-          "name": "joan",
-          "url": "https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "alibi",
-      "url": "https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
         "name": "Blame On You",
         "url": "https://open.spotify.com/album/06SBGJoEvUHa2V3AnCWxEO"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 146000,
       "name": "Blame On You",
       "url": "https://open.spotify.com/track/5GtX45E7JO3hrC1Ihq5A2T"
-    },
-    {
-      "added_at": "2025-08-22 14:59:17",
-      "album": {
-        "name": "Your Eyes",
-        "url": "https://open.spotify.com/album/3EzU1SormJ1SnlKEKg8L91"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 181889,
-      "name": "Your Eyes",
-      "url": "https://open.spotify.com/track/02KGJLnY7h0e8P4T0rf0bC"
     },
     {
       "added_at": "2025-08-22 14:59:17",

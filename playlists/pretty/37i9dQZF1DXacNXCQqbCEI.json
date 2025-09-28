@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 347190,
+  "num_followers": 347073,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -519,70 +519,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "\u00bfQu\u00e9 Jue?",
-        "url": "https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "\u00bfQu\u00e9 Jue?",
-      "url": "https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
-      },
-      "artists": [
-        {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Solpor",
-        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        }
-      ],
-      "duration_ms": 319169,
-      "name": "Mu\u00ed\u00f1o",
-      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc"
-      },
-      "artists": [
-        {
-          "name": "Tonolec",
-          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
-        }
-      ],
-      "duration_ms": 313240,
-      "name": "La Cazadora",
-      "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "La Que Es",
         "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
       },
@@ -603,6 +539,70 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Solpor",
+        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        }
+      ],
+      "duration_ms": 319169,
+      "name": "Mu\u00ed\u00f1o",
+      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc"
+      },
+      "artists": [
+        {
+          "name": "Tonolec",
+          "url": "https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5"
+        }
+      ],
+      "duration_ms": 313240,
+      "name": "La Cazadora",
+      "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "\u00bfQu\u00e9 Jue?",
+        "url": "https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "\u00bfQu\u00e9 Jue?",
+      "url": "https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Cafetal",
-        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 244660,
-      "name": "El Cafetal",
-      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -891,26 +875,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Momoto",
-        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
-      },
-      "artists": [
-        {
-          "name": "Onda Mundial",
-          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
-        },
-        {
-          "name": "Klik & Frik",
-          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
-        }
-      ],
-      "duration_ms": 427525,
-      "name": "Salamanquesa",
-      "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "El Corredor Del Jaguar",
         "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
       },
@@ -943,6 +907,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "El Cafetal",
+        "url": "https://open.spotify.com/album/5HFvxyfp9eb2PwzFgubQ48"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 244660,
+      "name": "El Cafetal",
+      "url": "https://open.spotify.com/track/2XsfAFoTRjddzRz52aIJek"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Ofelia (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/0LCGEuFRb0t2TWrQkry64K"
       },
@@ -967,6 +947,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Momoto",
+        "url": "https://open.spotify.com/album/3cThlPotjMGdTYVj77PXpA"
+      },
+      "artists": [
+        {
+          "name": "Onda Mundial",
+          "url": "https://open.spotify.com/artist/5c5oay9VCy0a9RzFw1S8Dp"
+        },
+        {
+          "name": "Klik & Frik",
+          "url": "https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC"
+        }
+      ],
+      "duration_ms": 427525,
+      "name": "Salamanquesa",
+      "url": "https://open.spotify.com/track/2g0DEj8yNoDmh5BjNg5kcw"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Ag\u00fcita del Equilibrio (Remix)",
         "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
       },
@@ -983,22 +983,6 @@
       "duration_ms": 287387,
       "name": "Ag\u00fcita del Equilibrio - Remix",
       "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Altamar",
-        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 289186,
-      "name": "Altamar",
-      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1055,42 +1039,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Las Mellas (Cerrero Dub Mix)",
-        "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
       },
       "artists": [
         {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        },
-        {
-          "name": "Carmelo Torres",
-          "url": "https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi"
-        },
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
         }
       ],
-      "duration_ms": 271335,
-      "name": "Las Mellas - Cerrero Dub Mix",
-      "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Tiboria",
-        "url": "https://open.spotify.com/album/6pQItyKgHpKxdLzJQvtT21"
-      },
-      "artists": [
-        {
-          "name": "Renzo Zong",
-          "url": "https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn"
-        }
-      ],
-      "duration_ms": 500425,
-      "name": "Tiboria",
-      "url": "https://open.spotify.com/track/6FIo3jFmmC5UsKjOTu5Bip"
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1111,6 +1071,46 @@
       "duration_ms": 261240,
       "name": "Mapal\u00e9",
       "url": "https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Tiboria",
+        "url": "https://open.spotify.com/album/6pQItyKgHpKxdLzJQvtT21"
+      },
+      "artists": [
+        {
+          "name": "Renzo Zong",
+          "url": "https://open.spotify.com/artist/6wdEQYkry4yDmHKsU6ZcNn"
+        }
+      ],
+      "duration_ms": 500425,
+      "name": "Tiboria",
+      "url": "https://open.spotify.com/track/6FIo3jFmmC5UsKjOTu5Bip"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Las Mellas (Cerrero Dub Mix)",
+        "url": "https://open.spotify.com/album/2TN8FrasxyrYtb2RPwMecC"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        },
+        {
+          "name": "Carmelo Torres",
+          "url": "https://open.spotify.com/artist/5Ylr6KUaImTujMNIhxtCSi"
+        },
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        }
+      ],
+      "duration_ms": 271335,
+      "name": "Las Mellas - Cerrero Dub Mix",
+      "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
     },
     {
       "added_at": "2024-07-12 22:50:04",

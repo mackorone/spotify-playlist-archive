@@ -93,6 +93,24 @@
     },
     {
       "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/5dGWRvO997qN20ROrBN1NX"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/7hI6lsC3yvxExoVG3w8euT"
+    },
+    {
+      "album": {
         "name": "212",
         "url": "https://open.spotify.com/album/4J5YT80bIX48JsmtlKnhIB"
       },
@@ -1375,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/5a4yAhcmithnWkeqQ9S2FV"
+      },
+      "artists": [
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144526,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/4zHL0ClWm3gRSxXB193QBJ"
+    },
+    {
+      "album": {
         "name": "Be with Me 2009",
         "url": "https://open.spotify.com/album/3bMj3P9gipZdQByUrOX2Px"
       },
@@ -1488,7 +1528,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 199166,
       "name": "Beat Won't Stop",
       "url": "https://open.spotify.com/track/11Wmr8miC2Qx1PGJfHryWo"
@@ -2504,6 +2544,32 @@
       "duration_ms": 274285,
       "name": "Careless",
       "url": "https://open.spotify.com/track/5DufMAb2NFd9p0WTt0l76H"
+    },
+    {
+      "album": {
+        "name": "Cash Out (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/5NOs1ZONmk3QiXR2cmFjrt"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154029,
+      "name": "Cash Out - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/0J4akD95yVlI5NTEUtUsWg"
     },
     {
       "album": {
@@ -4334,7 +4400,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 230769,
       "name": "Ease My Mind - Odd Mob Remix",
       "url": "https://open.spotify.com/track/5kRzvJXEsODhLA3pB1DvHS"
@@ -5092,7 +5158,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 381914,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/0aZGR2epMlwr5MoWKzGRxK"
@@ -5176,7 +5242,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 207761,
       "name": "Focus (feat. CLOVES) - Alok Remix",
       "url": "https://open.spotify.com/track/2DOUbOh1k3n9Ek6Eur61K4"
@@ -5934,7 +6000,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 182290,
       "name": "Get Serious",
       "url": "https://open.spotify.com/track/7yYuobfuCJSatM3gLQ2sJ8"
@@ -6643,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Hit It!",
+        "url": "https://open.spotify.com/album/0jQlopvEhj5mXMTw5MmVwb"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Hit It!",
+      "url": "https://open.spotify.com/track/7L6wfvgE4StDba9fLLHDgo"
+    },
+    {
+      "album": {
         "name": "Hit the Brakes",
         "url": "https://open.spotify.com/album/25V5D5A9JJJlCAquCMG5U5"
       },
@@ -6684,6 +6768,24 @@
       "duration_ms": 185433,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/6lAs6I5E4seFitCEwLOIDs"
+    },
+    {
+      "album": {
+        "name": "Hot Pot",
+        "url": "https://open.spotify.com/album/1b1MTEzCaZG1DCm8lhta7P"
+      },
+      "artists": [
+        {
+          "name": "Hot Pot",
+          "url": "https://open.spotify.com/artist/7i6HIKOzInE0wjYjCAfhLb"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239055,
+      "name": "Hold a Grip",
+      "url": "https://open.spotify.com/track/2hyazl0hytavSA3ShH42XE"
     },
     {
       "album": {
@@ -8356,7 +8458,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 219847,
       "name": "Let Go (feat. \u014cs\u00e9)",
       "url": "https://open.spotify.com/track/07dsZv1EZSGLitx6ljFQFs"
@@ -8748,7 +8850,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 224414,
       "name": "Like I Like It",
       "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
@@ -8979,6 +9081,28 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/62zfpf6wMu4nMyPqPAO0L6"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225361,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3fDv3H85PgOOg65JZZP6ki"
+    },
+    {
+      "album": {
         "name": "Lost & Found London",
         "url": "https://open.spotify.com/album/40IsnCOG3gBuriTfyjM0DQ"
       },
@@ -9082,6 +9206,24 @@
       "duration_ms": 239944,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/0yKCqYa3kJMk556wXlwoEq"
+    },
+    {
+      "album": {
+        "name": "Loveless",
+        "url": "https://open.spotify.com/album/3J7RqdFl8npQPq43yPTngZ"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192657,
+      "name": "Loveless",
+      "url": "https://open.spotify.com/track/4aHbNb41EVPHpd7bDlm0qm"
     },
     {
       "album": {
@@ -9634,7 +9776,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 356363,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/0v3GGmPiFIaXE0h4nuL5Wr"
@@ -9710,7 +9852,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 167727,
       "name": "Move Over",
       "url": "https://open.spotify.com/track/3qP4d4sEQNXpfY6LSrv0H7"
@@ -9866,6 +10008,24 @@
       "duration_ms": 219047,
       "name": "MUSIC IS OUR LIFE",
       "url": "https://open.spotify.com/track/0aJ7g4vz8WZfZIwaFsnj0F"
+    },
+    {
+      "album": {
+        "name": "My City",
+        "url": "https://open.spotify.com/album/0VjQFiFiUMApc3wD1uxFdq"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "My City",
+      "url": "https://open.spotify.com/track/6ipv6Mrfq4qF26ZRXAGgzp"
     },
     {
       "album": {
@@ -10298,6 +10458,24 @@
       "duration_ms": 171390,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/46UzMU4yX1D4ARkMhEiPe2"
+    },
+    {
+      "album": {
+        "name": "No Matter",
+        "url": "https://open.spotify.com/album/5IDEx7LuqLBMXQ4TyFvxIw"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "No Matter",
+      "url": "https://open.spotify.com/track/5aGV1AMq9BsUVZZAJmtGGY"
     },
     {
       "album": {
@@ -12734,6 +12912,24 @@
       "duration_ms": 192000,
       "name": "Say Yeah!",
       "url": "https://open.spotify.com/track/71dMoC1KmMOn3qi6lqUJTL"
+    },
+    {
+      "album": {
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6BLmtL9mZQifltaG8IMLBi"
+      },
+      "artists": [
+        {
+          "name": "Fach",
+          "url": "https://open.spotify.com/artist/5FmgI5UrzKYsxrmwHv4tJy"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164576,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/4e763OMuINffqaf66JfgJ3"
     },
     {
       "album": {
@@ -16778,7 +16974,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 179069,
       "name": "Work To The Beat",
       "url": "https://open.spotify.com/track/23aatiMC8xkysuQG8WuY4M"

@@ -16238,7 +16238,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 238120,
       "name": "Folded",
       "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
@@ -18078,7 +18078,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -26474,7 +26474,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 296097,
       "name": "Kukwandlwane",
       "url": "https://open.spotify.com/track/3UiFU9AwSvqHtQ6yieWirL"
@@ -29418,7 +29418,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 240326,
       "name": "Luyazenzela",
       "url": "https://open.spotify.com/track/18z13CvLX9wuxVfbE3Lhnv"
@@ -30008,7 +30008,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 365309,
       "name": "Malacosta (feat. Vulela Maweekend, Mark Khoza & Angekebabuye Mc)",
       "url": "https://open.spotify.com/track/694QCbEzK5oLIu9PoTcuUA"
@@ -34406,7 +34406,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 274207,
       "name": "Ngikheth' utshwala",
       "url": "https://open.spotify.com/track/7GN3vScsmnGJjt8GH93r6p"
@@ -34994,7 +34994,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 256864,
       "name": "Ngwanaka",
       "url": "https://open.spotify.com/track/3bM6G6G4kcoeTAMdFDPKEB"
@@ -36260,6 +36260,28 @@
       "duration_ms": 261543,
       "name": "On BS",
       "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "On The Floor",
+        "url": "https://open.spotify.com/album/1ppE43KggdTvjV1qXrMz8W"
+      },
+      "artists": [
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "King P",
+          "url": "https://open.spotify.com/artist/1i0GY0xeP8c8ow4zaBGtKi"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398772,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/2nlPxAYSF1L4Xqa5LUcifb"
     },
     {
       "album": {
@@ -42086,7 +42108,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 224187,
       "name": "Sdudla or Slender",
       "url": "https://open.spotify.com/track/2Ufc72Ojfx9lR30r5srBPB"
@@ -44586,7 +44608,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 327457,
       "name": "Sohlala Sisonke",
       "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
@@ -48678,6 +48700,10 @@
           "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
         },
         {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        },
+        {
           "name": "Thukuthela",
           "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
         },
@@ -51486,7 +51512,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 397682,
       "name": "Umona (feat. Sykes)",
       "url": "https://open.spotify.com/track/5AROirCx9LJlNF66npXCki"
@@ -51534,6 +51560,36 @@
       "duration_ms": 407863,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/7b2YXPWXRzzIN2fmGM5Dzi"
+    },
+    {
+      "album": {
+        "name": "The Most Wanted",
+        "url": "https://open.spotify.com/album/4RfcphuqAVShqwInsEAEny"
+      },
+      "artists": [
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        },
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "GL_Ceejay",
+          "url": "https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358850,
+      "name": "uMoya",
+      "url": "https://open.spotify.com/track/3eRaSAk4a6gjsHK2omZbU4"
     },
     {
       "album": {
@@ -55110,7 +55166,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
@@ -55418,7 +55474,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

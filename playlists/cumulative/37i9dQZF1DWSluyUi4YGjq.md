@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. cover: quannnic
 
-773 songs - 2 day 1 hr 56 min
+774 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Missing You](https://open.spotify.com/track/4mJz9boLlkYuZFue3Kn6gs) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Missing You](https://open.spotify.com/album/6i5AzWynjnUCWj4C2NmAXw) | 4:30 | 2024-01-31 | 2025-09-27 |
 | [Mobius](https://open.spotify.com/track/1p1qM22fWnEYOOTWBXGhlN) | [Codie](https://open.spotify.com/artist/6HfynYGZLyM6UCvRG1q7pG) | [相對性靜止](https://open.spotify.com/album/4bzufuzkc1jtHqaYkC5TXi) | 3:06 | 2022-09-29 | 2022-12-02 |
 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 | 2021-10-19 | 2023-06-08 |
+| [Montauk](https://open.spotify.com/track/59jAAMnXK7wHrwgpGwyjM4) | [Silverdeer](https://open.spotify.com/artist/1h1CNvurvYYLyzLbpeqaLq) | [Montauk](https://open.spotify.com/album/4MMsp6Yyj6q1z4merEN9Gq) | 4:05 | 2025-09-26 |  |
 | [Moodswing](https://open.spotify.com/track/5lztNaNPhBTrfygH1BO1W2) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Pure, Impure](https://open.spotify.com/album/7C3flv2nzeBoNHVrptYz6o) | 5:47 | 2024-05-24 |  |
 | [moon](https://open.spotify.com/track/2q7sf6L0APqrO0rcTKXzw9) | [brookelen](https://open.spotify.com/artist/27AO26anFR1MuQyxc5zAoc) | [moon](https://open.spotify.com/album/3FlHopHlPqEk3oi0Ac6wX9) | 4:33 | 2025-03-14 |  |
 | [Moon Song \(EP Version\)](https://open.spotify.com/track/4Yzom8WJVugy6Z1A58d1gp) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Tremolo](https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA) | 3:26 | 2024-05-24 | 2025-09-27 |

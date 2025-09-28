@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 800601,
+  "num_followers": 800747,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "The Best Of Bill Withers: Lean On Me",
+        "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Motown Remixed & Unmixed",
         "url": "https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "The Best Of Bill Withers: Lean On Me",
-        "url": "https://open.spotify.com/album/7t5voPAepq85BXJ2lFE79e"
+        "name": "Stax Profiles - The Staple Singers",
+        "url": "https://open.spotify.com/album/4GYZ7sTGIp9H5sSeh9Teml"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
         }
       ],
-      "duration_ms": 123333,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/7u8LNgkrmUXGT6JEwiy8Ia"
+      "duration_ms": 269013,
+      "name": "If You're Ready (Come Go With Me)",
+      "url": "https://open.spotify.com/track/0Yz3xt0hGPgkj8aZ2aAnDi"
     },
     {
       "added_at": "2024-07-02 22:47:47",
@@ -639,22 +655,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Stax Profiles - The Staple Singers",
-        "url": "https://open.spotify.com/album/4GYZ7sTGIp9H5sSeh9Teml"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 269013,
-      "name": "If You're Ready (Come Go With Me)",
-      "url": "https://open.spotify.com/track/0Yz3xt0hGPgkj8aZ2aAnDi"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "Stevie Wonder The Definitive Collection 2002",
         "url": "https://open.spotify.com/album/4mNzjWEClFHn0UTFzYsVyk"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Soul, Vol. 1",
-        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "The Very Best Of William Bell",
         "url": "https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 140733,
       "name": "I Forgot To Be Your Lover",
       "url": "https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "Soul, Vol. 1",
+        "url": "https://open.spotify.com/album/5qwkIFb6Kz2s7vgMRh3WGT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY"
     },
     {
       "added_at": "2024-07-02 22:47:47",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
-        "name": "Motown: The Complete No. 1's",
-        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
-      },
-      "artists": [
-        {
-          "name": "The Undisputed Truth",
-          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
-        }
-      ],
-      "duration_ms": 195773,
-      "name": "Smiling Faces Sometimes",
-      "url": "https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
         "name": "The Story Of The Supremes (2CD Set)",
         "url": "https://open.spotify.com/album/0SbIbtstxM3029vb4PWATl"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 152613,
       "name": "My World Is Empty Without You - Single Version (Mono)",
       "url": "https://open.spotify.com/track/2CaxrNLrafxNz93l4YOmCP"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
+        "name": "Motown: The Complete No. 1's",
+        "url": "https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb"
+      },
+      "artists": [
+        {
+          "name": "The Undisputed Truth",
+          "url": "https://open.spotify.com/artist/2tkwWmcZOQPNbbIdknfBsw"
+        }
+      ],
+      "duration_ms": 195773,
+      "name": "Smiling Faces Sometimes",
+      "url": "https://open.spotify.com/track/1ajJsHKxOwsGYpoFGXe1QL"
     },
     {
       "added_at": "2024-07-02 22:47:47",

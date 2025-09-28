@@ -1,4 +1,4 @@
-## Playlists \(8782\)
+## Playlists \(8783\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2318,6 +2318,7 @@
 - [Forest Bathing](/playlists/pretty/37i9dQZF1DXaPleDxjpDoo.md)
 - [Forever Country](/playlists/pretty/37i9dQZF1DX9hWdQ46pHPo.md)
 - [Forever Official Playlist](/playlists/pretty/37i9dQZF1DXak4YJ5RJ6q4.md)
+- [Fortnite Daft Punk Experience](/playlists/pretty/37i9dQZF1DWWk1ogyKKusH.md)
 - [Found Them First](/playlists/pretty/3sJ6SlgRo56Oa7YhHcLK5l.md)
 - [Foxall's track IDs](/playlists/pretty/37i9dQZF1DX2Jggz04vUOo.md)
 - [Francis Mercier's Track IDs](/playlists/pretty/37i9dQZF1DWYMHHO92ZJ8z.md)

@@ -974,7 +974,7 @@
       ],
       "date_added": "2025-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 191752,
       "name": "Afsos",
       "url": "https://open.spotify.com/track/4Qm7r3ImER8S2Ori1gLMAf"
@@ -7188,7 +7188,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "Gaadi 150",
       "url": "https://open.spotify.com/track/0qNMptHdkQuZsWKxZ8rmW2"
@@ -7938,7 +7938,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 253145,
       "name": "Guns and Roses (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/1mHEvHzpRwCLeAnecvE6eS"
@@ -9724,7 +9724,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 303640,
       "name": "Ishq Bulaava",
       "url": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy"
@@ -10974,7 +10974,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 306173,
       "name": "Jo Tere Sang",
       "url": "https://open.spotify.com/track/0kYBzFJ5a2Jozi6cI4y9Bp"
@@ -11470,6 +11470,28 @@
       "duration_ms": 173685,
       "name": "Kahani Suno 2.0",
       "url": "https://open.spotify.com/track/3GZBBvnkM8ybEbRSKysVcp"
+    },
+    {
+      "album": {
+        "name": "Murder",
+        "url": "https://open.spotify.com/album/4Ncc4SXe72mXB2d8Xdw64s"
+      },
+      "artists": [
+        {
+          "name": "Amir Jamal",
+          "url": "https://open.spotify.com/artist/6fjlehmqzeqeDmRwnbvapd"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311676,
+      "name": "Kaho Na Kaho - From \"Murder\"",
+      "url": "https://open.spotify.com/track/6iK2pxK4fCJLZwrzUslWgY"
     },
     {
       "album": {
@@ -20560,7 +20582,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
@@ -21146,7 +21168,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 271169,
       "name": "Satranga (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY"

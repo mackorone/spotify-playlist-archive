@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "I NEVER GAVE AF",
+        "url": "https://open.spotify.com/album/5U0od07DPyVqElA9cbO364"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Feel Bad (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3vopZj6osuP21LtAmCUTJs"
+    },
+    {
+      "album": {
         "name": "Strictly 4 My Fans 2",
         "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
       },
@@ -3628,7 +3650,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 187673,
       "name": "Through The Fire",
       "url": "https://open.spotify.com/track/25fdio8bhsK7Z93UXjfvKd"

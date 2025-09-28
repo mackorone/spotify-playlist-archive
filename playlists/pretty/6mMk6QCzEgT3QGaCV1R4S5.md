@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mMk6QCzEgT3QGaCV1R4S5.md) - [plain]
 
 > Get moving on the dancefloor with some big room beats! Cover: Calvin Harris &amp; Jessie Reyez
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,883 likes - 101 songs - 5 hr 33 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 35,874 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

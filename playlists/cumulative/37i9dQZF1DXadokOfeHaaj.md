@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fcukers
 
-352 songs - 21 hr 55 min
+353 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Ninetynine](https://open.spotify.com/track/1Ly3K26YPGfRc802bd8jsn) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Ninetynine](https://open.spotify.com/album/4nfGboE0gBkRA3x1fd4vBn) | 3:20 | 2024-03-01 | 2024-10-25 |
 | [No Forever](https://open.spotify.com/track/2VcKkrj7UKpUfep0RG9ZQV) | [Elaine Mai](https://open.spotify.com/artist/0wRHsCARScopB5WmbQzMcy), [MayKay](https://open.spotify.com/artist/3OalRjoYt3pFvLf8u37QFI) | [No Forever](https://open.spotify.com/album/4YRPQaPAFfgRXrB8maGWF3) | 3:43 | 2021-10-28 | 2024-02-23 |
 | [Notorious](https://open.spotify.com/track/0ZRBGJMBbNEUrnztZ5WxCl) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Notorious](https://open.spotify.com/album/0H19VwXpcNDGFDBl2aB4KG) | 2:55 | 2025-06-26 |  |
+| [Oh Baby](https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Oh Baby](https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57) | 3:00 | 2025-08-22 |  |
 | [Oh Me, Oh My \(Nicotine Patch\)](https://open.spotify.com/track/5ChMHAcbkE4lv4wnoqBflX) | [Real Lies](https://open.spotify.com/artist/1jucBaHU995Lf7ViACscFu) | [Oh Me, Oh My \(Nicotine Patch\)](https://open.spotify.com/album/1ToXN4pZa9a16vHZNeGMzQ) | 4:04 | 2021-10-28 | 2024-03-22 |
 | [Oluwa](https://open.spotify.com/track/3RJBYazhkBCCkZQaXV6p4Y) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs) | [Oluwa](https://open.spotify.com/album/0iE8ZM7DXD4vgoHP2FQfWw) | 3:29 | 2025-01-17 | 2025-02-14 |
 | [On and On \(Till the End of Us\)](https://open.spotify.com/track/0fQf23AVDUFO3ra88x61hx) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Do You Need A Release?](https://open.spotify.com/album/1FKKx9w0SyP341MkT0mf4K) | 5:26 | 2021-10-28 | 2023-04-30 |
@@ -347,7 +348,7 @@
 | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/track/740u0eelwwCQ6pfgQzg1Gy) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Waiting For The Punchline \(Swallertrip\)](https://open.spotify.com/album/1EnXmluTzfCoiEluGATRLp) | 3:23 | 2025-05-29 |  |
 | [Wake Up](https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Wake Up](https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo) | 2:04 | 2024-05-10 | 2025-06-27 |
 | [Warm \(Feeling\)](https://open.spotify.com/track/3t6YRAebaWeWHitQ05ZQZj) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Speakman](https://open.spotify.com/artist/1iGuChqxLqc0WZSCTfS45a), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Warm \(Feeling\)](https://open.spotify.com/album/35iBUBrdFfd8eNXllzB3L4) | 3:20 | 2024-02-23 | 2025-01-17 |
-| [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 | 2024-05-24 |  |
+| [Watching Me Dance](https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM) | [Jackson Homer](https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Watching Me Dance](https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg) | 3:33 | 2024-05-24 | 2025-09-28 |
 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-21 | 2025-02-23 |
 | [We Could Start a War \(Le Boom Remix\)](https://open.spotify.com/track/2YfiKA1LQqzNQSBbMzbYwT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1), [Le Boom](https://open.spotify.com/artist/7MyOyVdHb3cbI7fGZuG6gp) | [We Could Start a War \(Le Boom Remix\)](https://open.spotify.com/album/0Hz5pB74TFcO0QZDbRTZx6) | 4:00 | 2021-10-28 | 2024-03-01 |
 | [Welcome Home](https://open.spotify.com/track/6X4vGx2XIFYFTmeOm142cr) | [Monks](https://open.spotify.com/artist/1EESBfYnqZ9pylHg8n6lBP) | [Welcome Home](https://open.spotify.com/album/2IUiHvXFWEacS7YCnmbvRx) | 3:12 | 2024-03-22 | 2025-02-14 |

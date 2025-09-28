@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Aaron Blommaert \(<a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a><br/>\-artist\), Olivia Dean, Zwangere Guy, Roxy Dekker, Doja Cat and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,137 likes - 94 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,142 likes - 94 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 薛詒丹 \(aDAN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,701 likes - 139 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,768 likes - 139 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [差一點的我們 \(feat\. The Crane\)](https://open.spotify.com/track/0By1uAneGEFxJEsXmT1iUL) | [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [孤獨金魚圖鑑](https://open.spotify.com/album/119pYXUMDXvyTbeZI3MoHD) | 5:07 |
 | 2 | [不曾寧靜的夜](https://open.spotify.com/track/7xI6PbqawCEMgYwhXrWWTa) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [不曾寧靜的夜](https://open.spotify.com/album/1khd7zTbv9mhmQOqmTzB5i) | 4:22 |
 | 3 | [散散步 \(feat.以諾夫妻\)](https://open.spotify.com/track/7kbaDprqSE7mk4Jd0OSWFm) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [散散步](https://open.spotify.com/album/3PQbw5DmnNtYOKvMRlDiUF) | 3:05 |
-| 4 | [太聰明 \- 滾石撞樂隊2 \(原唱:陳綺貞\)](https://open.spotify.com/track/7iWFHz8A2OrJMouo38JtkV) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [黃子誠](https://open.spotify.com/artist/6pYcItY2zqmIeQAR8sI4AG) | [滾石撞樂隊2 \- 太聰明](https://open.spotify.com/album/2soZtd4wSu7R2bHIGbslK3) | 3:15 |
+| 4 | [太聰明 \- 滾石撞樂隊2 \(原唱:陳綺貞\)](https://open.spotify.com/track/7iWFHz8A2OrJMouo38JtkV) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滾石撞樂隊2 \- 太聰明](https://open.spotify.com/album/2soZtd4wSu7R2bHIGbslK3) | 3:15 |
 | 5 | [最瘋狂的藝術家](https://open.spotify.com/track/1YILIw1yBEmaxsSU4ikZk4) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [最瘋狂的藝術家](https://open.spotify.com/album/323eKqa1Z263qHnetsCXvB) | 3:50 |
 | 6 | [告訴我你心裡頭有我在](https://open.spotify.com/track/6RjGOBcSMl007GKe9MpqiZ) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [告訴我你心裡頭有我在](https://open.spotify.com/album/6MJqXTjYvaZk7TmyVmSE6s) | 3:06 |
 | 7 | [WHERE YOU AT](https://open.spotify.com/track/1BGB8Vo0NjM7osjADfJE7j) | [KAIY](https://open.spotify.com/artist/4AnufRyloUTPCZP2Rok7lH), [Xinz](https://open.spotify.com/artist/7ECCgxHrOUNqurrG8q3CJA) | [WHERE YOU AT](https://open.spotify.com/album/0vICMkucNaZOlwW2jzDkBi) | 2:36 |
-| 8 | [天黑黑](https://open.spotify.com/track/7EtyOIDbSsu82Blk2OFF2W) | [王泰翔 2000](https://open.spotify.com/artist/42QUZd4Sh57epMYFyesFLa), [孫德榮](https://open.spotify.com/artist/5zAepE9UIVJmhIMbzaXJ8M) | [2025悟空大鬧恐龍馬戱團](https://open.spotify.com/album/6zAQZtuP9Q2WS9KmnmsWhH) | 2:29 |
+| 8 | [天黑黑](https://open.spotify.com/track/7EtyOIDbSsu82Blk2OFF2W) | [2000twothousandxx](https://open.spotify.com/artist/5O7ZzzxKvwzVMu0Sa7P9hf), [孫德榮](https://open.spotify.com/artist/5zAepE9UIVJmhIMbzaXJ8M) | [2025悟空大鬧恐龍馬戱團](https://open.spotify.com/album/6zAQZtuP9Q2WS9KmnmsWhH) | 2:29 |
 | 9 | [BADASS](https://open.spotify.com/track/3xYk4ZSzHGS6lw5hBg0xKm) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [MIRROR](https://open.spotify.com/album/7II69468wP63QJ5ZevVFCP) | 2:55 |
 | 10 | [包括但不限於](https://open.spotify.com/track/7JOQAZez502sYE1fK9xoqu) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [包括但不限於](https://open.spotify.com/album/7iP7iEvxrsZKQtIMNwdA0H) | 3:24 |
 | 11 | [FIX IT! \(feat\. pH\-1\)](https://open.spotify.com/track/6YXwBKZ8OYfmj5JlhSuVan) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [FIX IT! \(feat\. pH\-1\)](https://open.spotify.com/album/40dOoovQxj7jhmt2k049qk) | 2:17 |

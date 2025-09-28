@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 213793,
       "name": "alibi",
       "url": "https://open.spotify.com/track/1ISuBnU4WRaIPStD2hktp4"
@@ -2992,7 +2992,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 220732,
       "name": "Boston",
       "url": "https://open.spotify.com/track/0RhzM0OwtSy008gV9MubT7"
@@ -4366,7 +4366,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 223240,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf"
@@ -11183,6 +11183,24 @@
     },
     {
       "album": {
+        "name": "I Dare Ya",
+        "url": "https://open.spotify.com/album/3AyLhNmA6U8R7Q0VYC3HO4"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "I Dare Ya",
+      "url": "https://open.spotify.com/track/0Dzyi3BEF37P2QnDY390Qy"
+    },
+    {
+      "album": {
         "name": "INSIDE :",
         "url": "https://open.spotify.com/album/7fRksONg2LUzGqXbIMd140"
       },
@@ -11198,6 +11216,24 @@
       "duration_ms": 279250,
       "name": "I Didn\u2019t Use To",
       "url": "https://open.spotify.com/track/4r1CCwT9h9PNIitYde2UEd"
+    },
+    {
+      "album": {
+        "name": "Say What You Want",
+        "url": "https://open.spotify.com/album/666B6FOTPm0UYxwpto6N2x"
+      },
+      "artists": [
+        {
+          "name": "Tom A. Smith",
+          "url": "https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238951,
+      "name": "I Don't Blame You",
+      "url": "https://open.spotify.com/track/2q4OrVl17enVQwEP3FqICn"
     },
     {
       "album": {
@@ -15488,6 +15524,24 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "album": {
+        "name": "Shock Treatment",
+        "url": "https://open.spotify.com/album/1P8RpkjDQatfPAwI6skudE"
+      },
+      "artists": [
+        {
+          "name": "Caroline Kingsbury",
+          "url": "https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Meteorite",
+      "url": "https://open.spotify.com/track/5Lar77m16xd8ThAN5qnnzH"
     },
     {
       "album": {
@@ -24408,7 +24462,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 225400,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/1bEgyMW0qkchQo6n3lrHp2"
@@ -24466,6 +24520,24 @@
       "duration_ms": 182875,
       "name": "U MOVE",
       "url": "https://open.spotify.com/track/5GUiWiiIQuKwyaEn1zB8oc"
+    },
+    {
+      "album": {
+        "name": "U-Turn",
+        "url": "https://open.spotify.com/album/6HWOTindwuiBnA738BxcDz"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Cohen",
+          "url": "https://open.spotify.com/artist/0OBwcfakkopHjezAQGbgl8"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206628,
+      "name": "U-Turn",
+      "url": "https://open.spotify.com/track/2iTzELWA8TjPb519KtNRFj"
     },
     {
       "album": {
@@ -26067,6 +26139,24 @@
     },
     {
       "album": {
+        "name": "Wisdom Tooth",
+        "url": "https://open.spotify.com/album/1MwkXWhTaIJmm6qZOEMUDr"
+      },
+      "artists": [
+        {
+          "name": "Jack Kane",
+          "url": "https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178680,
+      "name": "Wisdom Tooth",
+      "url": "https://open.spotify.com/track/30Pw9cCYhfokrNRFQ6rz3d"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT"
       },
@@ -26796,7 +26886,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 181889,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/02KGJLnY7h0e8P4T0rf0bC"

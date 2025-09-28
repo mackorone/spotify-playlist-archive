@@ -115,6 +115,32 @@
     },
     {
       "album": {
+        "name": "A Guevo A Guevo",
+        "url": "https://open.spotify.com/album/6cTcZzvkZQyGbMWH64XDMj"
+      },
+      "artists": [
+        {
+          "name": "La Makulada",
+          "url": "https://open.spotify.com/artist/0Ag9ysvWMLaQ6XEe0FMpNI"
+        },
+        {
+          "name": "La Grimita",
+          "url": "https://open.spotify.com/artist/08XZwESYiRiL4oIQMIsnQA"
+        },
+        {
+          "name": "TOLO DESAPARECELO",
+          "url": "https://open.spotify.com/artist/3hdC1HhetO3UW1N1RYQIp5"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108054,
+      "name": "A Guevo A Guevo",
+      "url": "https://open.spotify.com/track/1Xs5nP5kv7ld8cSn8dektt"
+    },
+    {
+      "album": {
         "name": "A I O",
         "url": "https://open.spotify.com/album/2CtAbuWgmb2To6lJ7Y8LO3"
       },
@@ -1439,6 +1465,32 @@
     },
     {
       "album": {
+        "name": "Que Rica",
+        "url": "https://open.spotify.com/album/7asfVYRPtTeyHzdBTVw133"
+      },
+      "artists": [
+        {
+          "name": "Crazy Design",
+          "url": "https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV"
+        },
+        {
+          "name": "Alofoke Music",
+          "url": "https://open.spotify.com/artist/0UvglCoh34HxaRZP1DWhjY"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115161,
+      "name": "Crazy Design - Que Rica",
+      "url": "https://open.spotify.com/track/6lq4TRhilKo0nka9BcfyB1"
+    },
+    {
+      "album": {
         "name": "Cristina (feat. Shelow Shaq)",
         "url": "https://open.spotify.com/album/2ZTlbmxYIAhs8ckvgx0imI"
       },
@@ -1978,7 +2030,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 135655,
       "name": "Dimdon - Remix",
       "url": "https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH"
@@ -8750,7 +8802,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 131081,
       "name": "Vivela",
       "url": "https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz"

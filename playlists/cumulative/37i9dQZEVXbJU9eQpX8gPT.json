@@ -1033,6 +1033,28 @@
     },
     {
       "album": {
+        "name": "9awdooha",
+        "url": "https://open.spotify.com/album/5tI95rP7sdZhIyaPNpafmQ"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227810,
+      "name": "9awdooha",
+      "url": "https://open.spotify.com/track/2MHafKNq1mDFBA9HGa2QdK"
+    },
+    {
+      "album": {
         "name": "9lil L7ya",
         "url": "https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV"
       },
@@ -3890,7 +3912,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 160500,
       "name": "BEAU-COUP",
       "url": "https://open.spotify.com/track/0jUmJoesKJIjx0p2V26F7M"
@@ -7956,6 +7978,28 @@
       "duration_ms": 149209,
       "name": "DARBA 9ADIYA",
       "url": "https://open.spotify.com/track/3BRLcZDFay893DuaKhuTWe"
+    },
+    {
+      "album": {
+        "name": "Darba Darba",
+        "url": "https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        },
+        {
+          "name": "badr ouabi",
+          "url": "https://open.spotify.com/artist/2JYV7Jmi2njyq5FxTK6NFQ"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234078,
+      "name": "Darba Darba",
+      "url": "https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf"
     },
     {
       "album": {
@@ -27180,7 +27224,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 205000,
       "name": "RBI M3ANA",
       "url": "https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4"

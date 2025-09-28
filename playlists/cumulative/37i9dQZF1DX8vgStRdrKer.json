@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "church",
+        "url": "https://open.spotify.com/album/7HkSrxNTM8YG3g5eCubsDV"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        }
+      ],
+      "date_added": "2025-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172682,
+      "name": "church",
+      "url": "https://open.spotify.com/track/37g9awMmmDKm9g1Ri7nNEQ"
+    },
+    {
+      "album": {
         "name": "Classic Jesus",
         "url": "https://open.spotify.com/album/25DWj5hOuaAXjPWO5VTXC8"
       },
@@ -2808,7 +2826,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 457906,
       "name": "Ever Present Help",
       "url": "https://open.spotify.com/track/53XKGgUszQqBX19YQmgv9e"

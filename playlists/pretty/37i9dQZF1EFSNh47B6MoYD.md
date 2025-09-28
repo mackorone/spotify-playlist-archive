@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 145 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 465 likes - 145 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 48 | [Conmigo](https://open.spotify.com/track/3iDYBd33V7Gkm0aaIaJMKm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:20 |
 | 49 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
 | 50 | [A Tiempo](https://open.spotify.com/track/1sq9qmnFtqHredKwbGnp2W) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [A Tiempo](https://open.spotify.com/album/6wni7QWK8sOUguXBe37mAz) | 3:10 |
-| 51 | [Enséñame a Vivir Sin Ti \- Bolero Version](https://open.spotify.com/track/0IC8wEVWUTXycJDQUTlTE4) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Auténtico](https://open.spotify.com/album/7cOFsHGVbn6SwAQwHC49ov) | 4:03 |
+| 51 | [Enseñame a Vivir Sin Ti](https://open.spotify.com/track/3vtHqsYoRV60SpYvbqyJTO) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Erika Músika](https://open.spotify.com/album/718iVK5qShRrlc1ESGXu8Q) | 5:11 |
 | 52 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
 | 53 | [Contra La Pared](https://open.spotify.com/track/1jqxPeziZWg2OTDqokJui1) | [Myriam](https://open.spotify.com/artist/4qa5jOQPzCpqmoAyJd3j9y) | [Cambio De Piel](https://open.spotify.com/album/02bSJLe3oBNGbQvkmjcHId) | 4:01 |
 | 54 | [Chispas De Cristal \- \(Sparks\)](https://open.spotify.com/track/5RNfTTqBM37GKCdY9nyH6Z) | [Paulina Goto](https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y) | [Paulina Goto](https://open.spotify.com/album/0NhF58Y8SePmenXKvFgcBL) | 4:14 |
@@ -138,8 +138,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 128 | [Echa P'aca \(a/k/a Déjate Llevar\)](https://open.spotify.com/track/0cGFKKxMuMdRfwtaOGNCVQ) | [Donato Poveda](https://open.spotify.com/artist/2B9jOeFRM64ChziFnAYprP) | [Bohemio Enamorado](https://open.spotify.com/album/5nKzMMs0MfZrUSuXicagfG) | 4:34 |
 | 129 | [Till Next time](https://open.spotify.com/track/2XLo4wd60y9C0BauROXN3j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Até Logo / Hasta Luego / Till Next Time](https://open.spotify.com/album/12h7zZIzbzYiAqzNAcFfrx) | 3:55 |
 | 130 | [Me Tienes de Cabeza \(A Garota Que Fez a Minha Cabeça\)](https://open.spotify.com/track/3Bad15EuGGDQ2pbNrjPQst) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 3:33 |
-| 131 | [Fuerte Pero Frágil](https://open.spotify.com/track/3H0QXSErbJUT1GNVaatHzb) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:09 |
-| 132 | [Por Ti](https://open.spotify.com/track/5TVABmbdkXetVYpLJq0uYr) | [Eduardo Verastegui](https://open.spotify.com/artist/5Abe4JiZV5tKWEyM55N9FQ) | [Eduardo Verastegui](https://open.spotify.com/album/5Hn9VytcQtyzmc0EqCyIvC) | 4:25 |
+| 131 | [Por Ti](https://open.spotify.com/track/5TVABmbdkXetVYpLJq0uYr) | [Eduardo Verastegui](https://open.spotify.com/artist/5Abe4JiZV5tKWEyM55N9FQ) | [Eduardo Verastegui](https://open.spotify.com/album/5Hn9VytcQtyzmc0EqCyIvC) | 4:25 |
+| 132 | [Fuerte Pero Frágil](https://open.spotify.com/track/3H0QXSErbJUT1GNVaatHzb) | [Patricia Manterola](https://open.spotify.com/artist/7qGVAYNNMun6Qf3jTkTGmf) | [Ya Terminé](https://open.spotify.com/album/42c96MawCtXwnoVpBRbvK9) | 3:09 |
 | 133 | [Super Top \(Top Demais\)](https://open.spotify.com/track/19avVvF9dxjDHjhnrq1ntb) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:42 |
 | 134 | [És Presión \(É Pressão\)](https://open.spotify.com/track/1rUQiBbFhULSuERxpMbedi) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:39 |
 | 135 | [Siempre Más \(Pode Acreditar\)](https://open.spotify.com/track/3QbriztLLCkrdYYszMg6Zg) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:39 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 144 | [Entre el Piano y el Amor](https://open.spotify.com/track/6LRGICKeYv2OgYtpjGPtmY) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:38 |
 | 145 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 
-Snapshot ID: `Ab9SpgAAAAC4Ym8mfucFeXtkTkUtlIj6`
+Snapshot ID: `Ab9YHgAAAAAXtA05YRfhVAy44bku9evA`

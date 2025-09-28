@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Will Terry, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,758 likes - 160 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,782 likes - 160 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNSGAAAAAAAFBS/HKcGLWxEranUKHAyD",
+  "snapshot_id": "aNXXgAAAAAAN6913T8cEQz7VkthwcJ6U",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 230399,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chemical Love",
         "url": "https://open.spotify.com/album/2TWaXEDl6ufnS9Qq0xK6Lx"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 205182,
       "name": "Selfish (feat. Kelli-Leigh & YOU)",
       "url": "https://open.spotify.com/track/0sbfgeGucib89oZVphmISx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 230399,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/0twklpVNU409abDKbvrA01"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favourite Things",
-        "url": "https://open.spotify.com/album/0mLMw6PJM6km6G10Jv5pZ0"
-      },
-      "artists": [
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Favourite Things",
-      "url": "https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Love House (Mini Mix 001) - Armada Music",
         "url": "https://open.spotify.com/album/0aIvFh7SFff0TbP5JpbF6U"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 77414,
       "name": "Do It Well (Mix Cut)",
       "url": "https://open.spotify.com/track/1WhZANn0700IqW0hRbs46r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Favourite Things",
+        "url": "https://open.spotify.com/album/0mLMw6PJM6km6G10Jv5pZ0"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Favourite Things",
+      "url": "https://open.spotify.com/track/01MVQusvSv5Dw1Gfo8SFfG"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Release I Need (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Release I Need (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Good",
         "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 160645,
       "name": "This Good",
       "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Release I Need (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/0AWJj5tmrS7JKQv7Jbhb1z"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Release I Need (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/4w9eWjE67B14vcDp89jhSJ"
     },
     {
       "added_at": null,
@@ -899,18 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Chic",
-        "url": "https://open.spotify.com/album/6Ihk1ZxI4q045l0qLo9uo8"
+        "name": "Just to Be with You",
+        "url": "https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz"
       },
       "artists": [
+        {
+          "name": "Manuel Riva",
+          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
+        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 179070,
-      "name": "New Chic",
-      "url": "https://open.spotify.com/track/4V69w339JdXeJqkxzhvhhY"
+      "duration_ms": 209142,
+      "name": "Just to Be with You",
+      "url": "https://open.spotify.com/track/25AmXRjwGEHAXvETQhCIbu"
     },
     {
       "added_at": null,
@@ -931,26 +935,6 @@
       "duration_ms": 177925,
       "name": "Get Lucky (With Kelli-Leigh)",
       "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just to Be with You",
-        "url": "https://open.spotify.com/album/5QBaffo1Nvstta0AxgFVWz"
-      },
-      "artists": [
-        {
-          "name": "Manuel Riva",
-          "url": "https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Just to Be with You",
-      "url": "https://open.spotify.com/track/25AmXRjwGEHAXvETQhCIbu"
     },
     {
       "added_at": null,
@@ -979,22 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Dance",
-        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
+        "name": "LEGACY",
+        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
       },
       "artists": [
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "Art Bastian",
-          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
         }
       ],
-      "duration_ms": 221052,
-      "name": "Can't Dance",
-      "url": "https://open.spotify.com/track/1Qus22vtga7fphTaSPPuss"
+      "duration_ms": 179070,
+      "name": "New Chic",
+      "url": "https://open.spotify.com/track/7b8kyPQiZeWeELLMZic9Uq"
     },
     {
       "added_at": null,
@@ -1023,18 +1003,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGACY",
-        "url": "https://open.spotify.com/album/1qG5yVar9ZAHFuFqvtJ6QP"
+        "name": "Can't Dance",
+        "url": "https://open.spotify.com/album/4VNcNJrUiO38Darw9itDSy"
       },
       "artists": [
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Art Bastian",
+          "url": "https://open.spotify.com/artist/2JblH86IoErnmhXVw5hEPy"
         }
       ],
-      "duration_ms": 162646,
-      "name": "Do You Wanna Be Loved Like This?",
-      "url": "https://open.spotify.com/track/4hgldGd2RGsSRV6w2ixAy3"
+      "duration_ms": 221052,
+      "name": "Can't Dance",
+      "url": "https://open.spotify.com/track/1Qus22vtga7fphTaSPPuss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love & Devotion",
+        "url": "https://open.spotify.com/album/3JrJsej825b2dqp0qtJGlY"
+      },
+      "artists": [
+        {
+          "name": "Jenaux",
+          "url": "https://open.spotify.com/artist/4pWvD2wQ6paqieVN9bE8yv"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 250409,
+      "name": "Love & Devotion",
+      "url": "https://open.spotify.com/track/3R60MeWYg7kRr5hNA8mlu9"
     }
   ],
   "unique_name": "This Is Kelli-Leigh",

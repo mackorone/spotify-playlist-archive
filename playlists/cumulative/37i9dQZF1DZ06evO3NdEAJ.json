@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185398,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/5ArAErzK5A6Tgn1cO9G4jq"
+    },
+    {
+      "album": {
         "name": "Neta Que No",
         "url": "https://open.spotify.com/album/0U73EAb12UJatEIwXlnEbr"
       },
@@ -280,7 +298,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 167509,
       "name": "Como una Fiera",
       "url": "https://open.spotify.com/track/0rFI3guWwBbbiO5BfYnHh6"

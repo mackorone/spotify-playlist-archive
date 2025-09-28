@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: C\u0153ur De Pirate",
-  "num_followers": 46344,
+  "num_followers": 46351,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -695,7 +695,7 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Hors du temps",
+        "name": "HORS DU TEMPS",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
       },
       "artists": [
@@ -705,7 +705,7 @@
         }
       ],
       "duration_ms": 173887,
-      "name": "Hors du temps",
+      "name": "HORS DU TEMPS",
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
@@ -859,26 +859,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
-      },
-      "artists": [
-        {
-          "name": "Houari",
-          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 156274,
-      "name": "Tana",
-      "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/1IAuna76xJisrezdZWzVDR"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 169042,
       "name": "Viens on essaie",
       "url": "https://open.spotify.com/track/5NKn6Ul72uLzdriFTM3fQ3"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
+      },
+      "artists": [
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 156274,
+      "name": "Tana",
+      "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
     },
     {
       "added_at": "2025-08-01 04:00:28",

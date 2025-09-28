@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 361626,
+  "num_followers": 361687,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2025-09-26 03:01:18",
       "album": {
+        "name": "Quem Como Deus? (AoVivo)",
+        "url": "https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        },
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "duration_ms": 366386,
+      "name": "Quem Como Deus? - AoVivo",
+      "url": "https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh"
+    },
+    {
+      "added_at": "2025-09-26 03:01:18",
+      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2025-09-26 03:01:18",
-      "album": {
-        "name": "Quero Nascer de Novo",
-        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "Quero Nascer de Novo",
-      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2025-09-26 03:01:18",
@@ -867,6 +867,26 @@
       "duration_ms": 294101,
       "name": "Deixa Deus Sonhar em Ti",
       "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
+    },
+    {
+      "added_at": "2025-09-26 03:01:18",
+      "album": {
+        "name": "Quero Nascer de Novo",
+        "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Quero Nascer de Novo",
+      "url": "https://open.spotify.com/track/4PtTdxYMkEoOy67iRkOW1v"
     },
     {
       "added_at": "2025-09-26 03:01:18",
@@ -931,26 +951,6 @@
     {
       "added_at": "2025-09-26 03:01:18",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
-    },
-    {
-      "added_at": "2025-09-26 03:01:18",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-09-26 03:01:18",
       "album": {
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
+      },
+      "artists": [
+        {
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
+    },
+    {
+      "added_at": "2025-09-26 03:01:18",
+      "album": {
         "name": "Acima dos Telhados (Acoustic)",
         "url": "https://open.spotify.com/album/1cy1MKq0hUWIZYQ6Ws4O9x"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 395298,
       "name": "Acima dos Telhados - Acoustic",
       "url": "https://open.spotify.com/track/4trwDfKxmbB5SR3tTrLnt3"
-    },
-    {
-      "added_at": "2025-09-26 03:01:18",
-      "album": {
-        "name": "Quem Como Deus? (AoVivo)",
-        "url": "https://open.spotify.com/album/4SekDo9Al4QLGhShnOmcye"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        },
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 366386,
-      "name": "Quem Como Deus? - AoVivo",
-      "url": "https://open.spotify.com/track/5vtwzMIYiBoRqg0WLJOJFh"
     },
     {
       "added_at": "2025-09-26 03:01:18",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2025-09-26 03:01:18",
       "album": {
+        "name": "S\u00e3o Miguel Arcanjo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7pTVHoLnZu8ylRXc48c03J"
+      },
+      "artists": [
+        {
+          "name": "Eros Biondini",
+          "url": "https://open.spotify.com/artist/2wIQqBYBvYkpvgZZNAXhOP"
+        },
+        {
+          "name": "FINO TOM",
+          "url": "https://open.spotify.com/artist/3prjTKOIm5AfaNkRywaQ5k"
+        }
+      ],
+      "duration_ms": 177221,
+      "name": "S\u00e3o Miguel Arcanjo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hEsKMgRT8Zey7kbhka1Jc"
+    },
+    {
+      "added_at": "2025-09-26 03:01:18",
+      "album": {
         "name": "Seremos o Amor",
         "url": "https://open.spotify.com/album/11269KCRvrv5jBX520lIDb"
       },
@@ -1127,22 +1147,18 @@
     {
       "added_at": "2025-09-26 03:01:18",
       "album": {
-        "name": "S\u00e3o Miguel Arcanjo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7pTVHoLnZu8ylRXc48c03J"
+        "name": "O cora\u00e7\u00e3o do Homem",
+        "url": "https://open.spotify.com/album/3sYnG0lsRfd9KcDjSYlw2l"
       },
       "artists": [
         {
-          "name": "Eros Biondini",
-          "url": "https://open.spotify.com/artist/2wIQqBYBvYkpvgZZNAXhOP"
-        },
-        {
-          "name": "FINO TOM",
-          "url": "https://open.spotify.com/artist/3prjTKOIm5AfaNkRywaQ5k"
+          "name": "Minist\u00e9rio Adora\u00e7\u00e3o e Vida",
+          "url": "https://open.spotify.com/artist/4fk1ToCb0m7irMHCaZhIrM"
         }
       ],
-      "duration_ms": 177221,
-      "name": "S\u00e3o Miguel Arcanjo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0hEsKMgRT8Zey7kbhka1Jc"
+      "duration_ms": 315223,
+      "name": "O cora\u00e7\u00e3o do Homem",
+      "url": "https://open.spotify.com/track/0RfXdgLdO3uvRmCnkNHbeK"
     },
     {
       "added_at": "2025-09-26 03:01:18",
@@ -1163,22 +1179,6 @@
       "duration_ms": 229067,
       "name": "Teu Amor N\u00e3o Sabe",
       "url": "https://open.spotify.com/track/4CE9PRPrZF9wfB9qNwbYJz"
-    },
-    {
-      "added_at": "2025-09-26 03:01:18",
-      "album": {
-        "name": "O cora\u00e7\u00e3o do Homem",
-        "url": "https://open.spotify.com/album/3sYnG0lsRfd9KcDjSYlw2l"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Adora\u00e7\u00e3o e Vida",
-          "url": "https://open.spotify.com/artist/4fk1ToCb0m7irMHCaZhIrM"
-        }
-      ],
-      "duration_ms": 315223,
-      "name": "O cora\u00e7\u00e3o do Homem",
-      "url": "https://open.spotify.com/track/0RfXdgLdO3uvRmCnkNHbeK"
     },
     {
       "added_at": "2025-09-26 03:01:18",
@@ -1211,6 +1211,26 @@
       "duration_ms": 261853,
       "name": "Dias Melhores Vir\u00e3o",
       "url": "https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA"
+    },
+    {
+      "added_at": "2025-09-26 03:01:18",
+      "album": {
+        "name": "O Encontro",
+        "url": "https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA"
+      },
+      "artists": [
+        {
+          "name": "Gabriela de S\u00e1",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 333728,
+      "name": "Abra\u00e7a-Me Forte",
+      "url": "https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr"
     },
     {
       "added_at": "2025-09-26 03:01:18",
@@ -1327,26 +1347,6 @@
       "duration_ms": 303527,
       "name": "Eis-Me Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/5y8WchxRNJ4WmvZuhKXIjA"
-    },
-    {
-      "added_at": "2025-09-26 03:01:18",
-      "album": {
-        "name": "O Encontro",
-        "url": "https://open.spotify.com/album/4Rx1OTMRc6vHMS67SeMaqA"
-      },
-      "artists": [
-        {
-          "name": "Gabriela de S\u00e1",
-          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 333728,
-      "name": "Abra\u00e7a-Me Forte",
-      "url": "https://open.spotify.com/track/1GI3wQAA2s8IXJysanOaJr"
     },
     {
       "added_at": "2025-09-26 03:01:18",

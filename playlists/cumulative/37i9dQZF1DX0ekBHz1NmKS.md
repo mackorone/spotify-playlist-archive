@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,006 songs - 4 day 7 hr 57 min
+2,007 songs - 4 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Bar Thinking](https://open.spotify.com/track/2nJfr4oazvlWLoeNYZWQhD) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Bar Thinking](https://open.spotify.com/album/6JCtqw85DgIoIhu7xqA90c) | 3:05 | 2024-06-13 | 2024-08-16 |
 | [Bara vi, bara jag, bara du](https://open.spotify.com/track/1fncAFDynLDnSIPg7h2mp3) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bara vi, bara jag, bara du](https://open.spotify.com/album/21zpZFBvL9oiNdXMSVQEyN) | 2:25 | 2025-04-10 | 2025-09-05 |
 | [Bare mellom oss](https://open.spotify.com/track/2V6y6xFWj6B0tgfQ3woscF) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf), [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Bare mellom oss](https://open.spotify.com/album/2xPRKtDRAhuuY8aMlm0HjR) | 2:31 | 2023-08-31 | 2024-01-19 |
+| [Barfotabarn](https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Barfotabarn](https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx) | 2:45 | 2025-09-25 |  |
 | [Barn av vår tid](https://open.spotify.com/track/76xREBiIGi4YK4S3KGFpdG) | [Joakim Berg](https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC) | [Jag fortsätter glömma](https://open.spotify.com/album/4jOlpTErg7vdKXH8A6JHWW) | 3:53 | 2022-06-02 | 2023-04-03 |
 | [Barnasinnet \- 2022](https://open.spotify.com/track/0qIZcJBbVvdxEFwuL8C4LY) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Barnasinnet \(2022\)](https://open.spotify.com/album/3RadEdS8IIlHlE1aEHVPIZ) | 3:13 | 2022-03-17 | 2022-07-29 |
 | [Barnatiden](https://open.spotify.com/track/6CMBrR2AJ15aOOpPnIPaZm) | [Nick & the Ocean](https://open.spotify.com/artist/4anGT3T3oYeESaJyFtRsC1) | [Barnatiden](https://open.spotify.com/album/0D6nuFra2Y1D5VFlomrTgJ) | 5:32 | 2024-02-08 | 2024-02-25 |
@@ -1497,7 +1498,7 @@
 | [Show Me Love](https://open.spotify.com/track/0a7ECrkynDauNbc6wQ6ilz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Show Me Love](https://open.spotify.com/album/48cv2VaUhc8RoLk0oaARrn) | 2:33 | 2022-02-05 | 2022-07-29 |
 | [Showdown](https://open.spotify.com/track/1sY71Tu4tLAMNHejetl4TH) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Showdown](https://open.spotify.com/album/1mFMjBJE2pkcKVVbMmT9mS) | 3:20 | 2024-05-09 | 2024-06-07 |
 | [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 | 2025-06-05 | 2025-08-22 |
-| [Siktar Högre](https://open.spotify.com/track/356GcC7IEcfEa9LA7xgb8b) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [Siktar Högre](https://open.spotify.com/album/2ZJxTJWYUgMJohqZ9FYu0u) | 3:15 | 2025-05-16 |  |
+| [Siktar Högre](https://open.spotify.com/track/356GcC7IEcfEa9LA7xgb8b) | [Mwuana](https://open.spotify.com/artist/0ahIOvoOixJ6reWSvAsshX), [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs) | [Siktar Högre](https://open.spotify.com/album/2ZJxTJWYUgMJohqZ9FYu0u) | 3:15 | 2025-05-16 | 2025-09-28 |
 | [Silhouettes](https://open.spotify.com/track/0TJHqGkznVqhRLvuboiSE8) | [Jacob Frohde](https://open.spotify.com/artist/2RP1zUSMIGi2YfuW9CHwGz) | [Silhouettes](https://open.spotify.com/album/2mpr7yVbCCHDX3lGEeAYb1) | 3:20 | 2024-01-25 | 2024-02-27 |
 | [Siljans strand](https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK) | [Stiko Per Larsson](https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt) | [Siljans strand / Midsommarvisa](https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw) | 3:46 | 2024-06-20 | 2024-08-23 |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-21 | 2025-06-16 |

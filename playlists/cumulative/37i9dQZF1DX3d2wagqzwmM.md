@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Blasterjaxx
 
-627 songs - 1 day 7 hr 54 min
+628 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,7 @@
 | [RIDE OR DIE](https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [RIDE OR DIE](https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj) | 3:09 | 2023-11-02 | 2024-10-28 |
 | [Ride With Me \(feat\. Kid Ink\) \- Blasterjaxx & Tungevaag Remix](https://open.spotify.com/track/5A72ceCUwcsMUqkzd5t5Nu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Ride With Me \(feat\. Kid Ink\) \[Blasterjaxx & Tungevaag Remix\]](https://open.spotify.com/album/4aelIqUCHvwZEigEXvL6SI) | 2:56 | 2022-04-14 | 2023-06-22 |
 | [Right Here, Right Now](https://open.spotify.com/track/0zYjllevbCpjeOI06v40bu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Right Here, Right Now](https://open.spotify.com/album/6yEtqmOfxybN4fSxPIAFsQ) | 2:32 | 2025-04-25 |  |
-| [Rise Up](https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Rise Up](https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11) | 3:49 | 2024-05-30 |  |
+| [Rise Up](https://open.spotify.com/track/50QgswlQoQIx6Zr2mS7Bnp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [Rise Up](https://open.spotify.com/album/39qKI7hCcOnnrnXPoPbW11) | 3:49 | 2024-05-30 | 2025-09-28 |
 | [Risk It All](https://open.spotify.com/track/16ML9NPj4zpFnYDSWU5qwv) | [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Risk It All](https://open.spotify.com/album/72DWqm09UUQnBiKuvCU41H) | 3:20 | 2022-04-14 | 2022-07-28 |
 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 | 2023-08-03 | 2025-03-07 |
 | [Rock Da House](https://open.spotify.com/track/2iIZ8iEGsCoxoa6lSpkeXD) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug) | [Rock Da House](https://open.spotify.com/album/7jVI8Hx2v5yahCSTCoViFB) | 2:27 | 2024-07-11 | 2024-11-15 |
@@ -478,6 +478,7 @@
 | [Runaway](https://open.spotify.com/track/7MFNxZl1k1zvnqNWfWWZKH) | [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F), [IMPULSE FACTORY](https://open.spotify.com/artist/5DsFxsAFsdgcQZxTLh3y9w) | [Runaway](https://open.spotify.com/album/6qI4uMva6vpS9WgNZSYQME) | 2:57 | 2024-07-25 | 2024-09-25 |
 | [Rush](https://open.spotify.com/track/5X9TtQKz6VmMo6QDFcYLEn) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [Rush](https://open.spotify.com/album/3FHVj8EMd0H2EpvP630UhV) | 2:41 | 2024-06-20 | 2024-07-05 |
 | [Safe](https://open.spotify.com/track/71WFZwTIUZoYpzjO56g3KH) | [Dimitri Vangelis & Wyman](https://open.spotify.com/artist/10hGPIDZi33LRaYRIq3Bh4) | [Safe](https://open.spotify.com/album/5edtT743uNFxgxSkITKKF3) | 3:45 | 2022-04-14 | 2023-08-25 |
+| [Safe And Sound](https://open.spotify.com/track/4Xno765v5rim1TyNlzbxyy) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Safe And Sound](https://open.spotify.com/album/2TwDCrPMCCjFyRj58GFCzM) | 3:02 | 2025-09-25 |  |
 | [Samba De Janeiro](https://open.spotify.com/track/43PYXbv72SNt7dS5eEzmI7) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Bellini](https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6) | [Samba De Janeiro](https://open.spotify.com/album/4JeaZAgY2Z83xKTc7Elk9M) | 2:24 | 2024-02-29 |  |
 | [Sanctuary](https://open.spotify.com/track/4chU8mXKqVOgwtq5NWUL5r) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Sanctuary](https://open.spotify.com/album/1tXfc98LLrLiSVd4GRWgyr) | 3:36 | 2025-04-11 | 2025-08-08 |
 | [Sandstorm](https://open.spotify.com/track/5kn21utlmg26nKxpc6rpTP) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Sandstorm](https://open.spotify.com/album/5XiMBOH5VR26hkK7rLNgK5) | 2:47 | 2025-03-06 | 2025-04-04 |

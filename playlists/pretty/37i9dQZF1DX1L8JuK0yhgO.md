@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 67 | [bleach](https://open.spotify.com/track/07Tt7fbOXWja7WZprxpo89) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [BEASTIE](https://open.spotify.com/album/4GVVOeGdjMvooQUlBaKdlJ) | 3:23 |
 | 68 | [Dew](https://open.spotify.com/track/3eOnh8QuygbZ0QF62JDV88) | [in the blue shirt](https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE) | [Dew](https://open.spotify.com/album/4RKMHUXJ10gauKJEtG39FJ) | 4:41 |
 | 69 | [Nakayoshi Island](https://open.spotify.com/track/5tCvLgkE6IEHR9zJkLhXCL) | [NUS\_0x40](https://open.spotify.com/artist/6mYgFI1s87KnYT2gesMCNk), [COR!S](https://open.spotify.com/artist/4LgV8O8GLle6j5XNjm6sHD), [栄免建設](https://open.spotify.com/artist/7lcGJh1bJpgqwgTMA7Xaj8) | [Nakayoshi Island](https://open.spotify.com/album/28fPhowVqx33SHRla8sHWn) | 3:13 |
-| 70 | [PRNG \(with Sion\)](https://open.spotify.com/track/75DX3BxEkrJS71ER8FmGNY) | [芳川ヨシノ、Sion](https://open.spotify.com/artist/24wfgRc5n3H7MBSkuyDFLJ) | [Endless Echoes](https://open.spotify.com/album/4b8o2rvJPyuoIFsF3QmHq7) | 2:44 |
+| 70 | [PRNG \(with Sion\)](https://open.spotify.com/track/75DX3BxEkrJS71ER8FmGNY) | [Yoshino Yoshikawa](https://open.spotify.com/artist/21T30ALYp9IYZlvhnGLeos), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Endless Echoes](https://open.spotify.com/album/4b8o2rvJPyuoIFsF3QmHq7) | 2:44 |
 
 Snapshot ID: `AAAAAB7gmsJkMJ9HUGALAC1GkrQ5XfHn`

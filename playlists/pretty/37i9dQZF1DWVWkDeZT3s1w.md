@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,371 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,409 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 82 | [¿Por Qué?](https://open.spotify.com/track/2Xr1HkDPYayvIvGDRAnz7a) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [El Mundo en Abstinencia](https://open.spotify.com/album/7rk2Op7j5T5qENRsNdWEHx) | 2:25 |
 | 83 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 | 84 | [Inmunes](https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Inmunes](https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU) | 3:14 |
-| 85 | [Voy a Regresar](https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE) | [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN), [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w) | [Voy a Regresar \(Escape Al Purgatorio\)](https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58) | 3:09 |
-| 86 | [El rap es nuestra arma](https://open.spotify.com/track/61lOmoS69aWS1N3wGReWm1) | [Biogénesis Clan](https://open.spotify.com/artist/0gFUKFYqDTDUfefV9zAeZ1), [ZK](https://open.spotify.com/artist/7zk9PFA7xFH3qObQVLUBiq), [Crítico](https://open.spotify.com/artist/33hBO9tBak1pzBfBCnzNcr), [DJ King C](https://open.spotify.com/artist/2fOofIhsrEg9Q6jUBTCMtL) | [El rap es nuestra arma](https://open.spotify.com/album/0Ec1q2ql5Xi4SdtWO7YKh4) | 3:49 |
+| 85 | [El rap es nuestra arma](https://open.spotify.com/track/61lOmoS69aWS1N3wGReWm1) | [Biogénesis Clan](https://open.spotify.com/artist/0gFUKFYqDTDUfefV9zAeZ1), [ZK](https://open.spotify.com/artist/7zk9PFA7xFH3qObQVLUBiq), [Crítico](https://open.spotify.com/artist/33hBO9tBak1pzBfBCnzNcr), [DJ King C](https://open.spotify.com/artist/2fOofIhsrEg9Q6jUBTCMtL) | [El rap es nuestra arma](https://open.spotify.com/album/0Ec1q2ql5Xi4SdtWO7YKh4) | 3:49 |
+| 86 | [Voy a Regresar](https://open.spotify.com/track/270GICoYWe6CFgxU65c9OE) | [Zaque](https://open.spotify.com/artist/4WQmw3fIx9F7iPKL5v8SCN), [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w) | [Voy a Regresar \(Escape Al Purgatorio\)](https://open.spotify.com/album/0N7bZyhtF57dxDalFrqh58) | 3:09 |
 | 87 | [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 |
 | 88 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
 | 89 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |

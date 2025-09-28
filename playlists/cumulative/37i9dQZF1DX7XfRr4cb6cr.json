@@ -925,6 +925,24 @@
     },
     {
       "album": {
+        "name": "This Stolen Country of Mine (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5C5ZkhlDDMKQnSmVG1x58u"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        }
+      ],
+      "date_added": "2025-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410181,
+      "name": "Confrontation 1",
+      "url": "https://open.spotify.com/track/5Im1AfLERv9rAIgBNX8yDp"
+    },
+    {
+      "album": {
         "name": "Contrail",
         "url": "https://open.spotify.com/album/32ksiUukA1qPs0FrHTklxr"
       },
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 1241448,
       "name": "Grey Interiors",
       "url": "https://open.spotify.com/track/2ofqsikXLUtWhsO9OsjSyr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185 likes - 131 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 184 likes - 131 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 51 | [Love Her Next](https://open.spotify.com/track/548N8wTu4WmazCh1tqed4p) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Glass Half Empty \(Part II\)](https://open.spotify.com/album/32YG49zOhGewbdspv1phvG) | 2:45 |
 | 52 | [Like What U See](https://open.spotify.com/track/1KILi2wUvgaHEBN935D2so) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Like What U See](https://open.spotify.com/album/6QlJOaK2GXm0yKhiWM6yxu) | 2:29 |
 | 53 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 |
-| 54 | [Sad Girl Heaven](https://open.spotify.com/track/4mddEmThV0rkrC3fZJXwf4) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Sad Girl Heaven](https://open.spotify.com/album/7iirAzgKmWYF2vVamc1DZw) | 2:47 |
-| 55 | [Subho Shaam](https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:56 |
+| 54 | [Subho Shaam](https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:56 |
+| 55 | [Sad Girl Heaven](https://open.spotify.com/track/4mddEmThV0rkrC3fZJXwf4) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Sad Girl Heaven](https://open.spotify.com/album/7iirAzgKmWYF2vVamc1DZw) | 2:47 |
 | 56 | [Give Up](https://open.spotify.com/track/3zXuytlXSsiL4CNmJIA5VS) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 4:08 |
 | 57 | [Cope](https://open.spotify.com/track/2MyUXJbj196Hv3zdWUivXp) | [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Cope](https://open.spotify.com/album/3TYKjOUpuQo1iV4NShBPPN) | 2:46 |
 | 58 | [The End](https://open.spotify.com/track/0OwqAGjxNnCSjKpVKwFxyZ) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 3:46 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 130 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 131 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `Ab9SiAAAAACY7ZdVwTLkRjoqOqUz2uJY`
+Snapshot ID: `Ab9YKAAAAAARZaO4pw2XskuUhjWB9/Ua`

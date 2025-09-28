@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\.  Malcriada en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,207 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,229 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 8 | [Las Palabras](https://open.spotify.com/track/2xKCYRoW2BNxciBwUzSz08) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Las Palabras](https://open.spotify.com/album/45YiKj8AvC9TXo3OjCkw1E) | 3:19 |
 | 9 | [Seres Superiores](https://open.spotify.com/track/7bfYBwr3Ph8duodBqVrY5M) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Seres Superiores](https://open.spotify.com/album/3yOL4qwF7bePnwIJCYfAni) | 3:58 |
 | 10 | [Luna Nueva](https://open.spotify.com/track/0Nn8fRZgLWtqdnGekA6UIa) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [Luna Nueva](https://open.spotify.com/album/2M6bjKE6Pkr7jo4EfJvG7B) | 3:08 |
-| 11 | [Eres Para Mí \- Sinfónico En Vivo](https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Armando Perqueira Villanueva](https://open.spotify.com/artist/6QoC1QmAKMCzHHoh3lE3Y5), [La Orquesta de Baja California](https://open.spotify.com/artist/2nxfI46Oqm0LFMj8C2rj60) | [Sinfónico En Tijuana \(En Vivo\)](https://open.spotify.com/album/4PvLtFIY2w2wYWI5kCrwrx) | 3:20 |
+| 11 | [Eres Para Mí \- Sinfónico En Vivo](https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [La orquesta de Baja California](https://open.spotify.com/artist/7gSzHDUhn05GjiLliRbSsj) | [Sinfónico En Tijuana \(En Vivo\)](https://open.spotify.com/album/4PvLtFIY2w2wYWI5kCrwrx) | 3:20 |
 | 12 | [De Cañon](https://open.spotify.com/track/2cTcSbzvjWjSMlejHf9m23) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [De Cañon](https://open.spotify.com/album/2xIS7qI1AUCNEB7JJAVHe2) | 2:22 |
 | 13 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
 | 14 | [El Cantar de los Anzuelos](https://open.spotify.com/track/6RPjByBOMY4mDJZ7kShliE) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [El Cantar de los Anzuelos](https://open.spotify.com/album/6EC7bqC3eLObVq1trOes4B) | 3:52 |

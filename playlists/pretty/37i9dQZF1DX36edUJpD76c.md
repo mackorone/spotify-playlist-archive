@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Nimo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,970,465 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,970,247 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 14 | [Dreckig & Gemein](https://open.spotify.com/track/1EivXiGzsCqTMrL2aJS2wJ) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Dreckig & Gemein](https://open.spotify.com/album/2EiuZnHinbHwmp0bYnCPK8) | 2:31 |
 | 15 | [Häagen Dazs](https://open.spotify.com/track/5gBDMQlmL0DBjxTxpgTgMn) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Häagen Dazs](https://open.spotify.com/album/5248MWBiMvgZQazAJKtO8d) | 2:13 |
 | 16 | [SQUADRA](https://open.spotify.com/track/0aYweD6lXNl9Wzt97PdEeY) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [FOREVER](https://open.spotify.com/album/2KDyOKoauaG76UbeQenJFX) | 2:17 |
-| 17 | [LALALA](https://open.spotify.com/track/3d34okTHT2xVaCRAkIPd9D) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [LALALA](https://open.spotify.com/album/7HqFOgtxy8fCZ9PMZyqVDG) | 2:33 |
+| 17 | [LALALA](https://open.spotify.com/track/3d34okTHT2xVaCRAkIPd9D) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [LALALA](https://open.spotify.com/album/7HqFOgtxy8fCZ9PMZyqVDG) | 2:33 |
 | 18 | [Simpel](https://open.spotify.com/track/1pE1hkxS5CWxcSgayoBXK8) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Simpel](https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL) | 2:43 |
 | 19 | [District](https://open.spotify.com/track/6gmEu6n1ZICPC0TztF7C0R) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [District](https://open.spotify.com/album/4nxzO65DR0aB8Fjba9Rhrb) | 2:22 |
 | 20 | [CCN](https://open.spotify.com/track/77P5XeaMFmuAkrH3R81CXM) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [CCN](https://open.spotify.com/album/1v6GVEQHlyeZfEKUaIJ4Kd) | 3:03 |

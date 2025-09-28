@@ -266,7 +266,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 163960,
       "name": "10",
       "url": "https://open.spotify.com/track/799bsi80kqvmPbyffNo0t5"
@@ -5353,6 +5353,24 @@
     },
     {
       "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
+    {
+      "album": {
         "name": "Dragon",
         "url": "https://open.spotify.com/album/4z7efS8U498IKsk7I4fKhc"
       },
@@ -6566,7 +6584,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
@@ -19172,7 +19190,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
@@ -27046,7 +27064,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 164500,
       "name": "\u0417\u0412'\u042f\u0417\u041e\u041a",
       "url": "https://open.spotify.com/track/5151tSCaX6klN5wcC3wPkf"
@@ -27386,7 +27404,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 203493,
       "name": "\u0417\u0446\u0430\u043f\u0430\u043b\u0430-\u0437\u043b\u0430\u043f\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/2dopO0qCoX7qoTbIriIf3q"
@@ -28220,7 +28238,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 204756,
       "name": "\u041a\u043e\u043d\u0442\u0440\u0430\u043a\u0442",
       "url": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
@@ -28710,7 +28728,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 169130,
       "name": "\u041b\u0410\u0411\u0418\u0420\u0418\u041d\u0422",
       "url": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
@@ -33252,7 +33270,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-25",
+      "date_removed": null,
       "duration_ms": 195784,
       "name": "\u041f\u0456\u043d\u0430\u043a\u043e\u043b\u0430\u0434\u0430",
       "url": "https://open.spotify.com/track/4PMQ591DnjhGRYZNLETsno"
@@ -36126,6 +36144,28 @@
       "duration_ms": 173795,
       "name": "\u0423 \u043e\u043a\u043d\u0430",
       "url": "https://open.spotify.com/track/1MnwDuTK1m9AV3nV3kUVes"
+    },
+    {
+      "album": {
+        "name": "\u0443 \u0442\u0435\u0431\u044f \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0441:",
+        "url": "https://open.spotify.com/album/3NKcir37W1zuhqoYYAYD2P"
+      },
+      "artists": [
+        {
+          "name": "KAMZ0NER",
+          "url": "https://open.spotify.com/artist/25Byb1TzNVrgcnpa8XlxLH"
+        },
+        {
+          "name": "no9hook",
+          "url": "https://open.spotify.com/artist/0bfTp1gAxSTpTCBjfF5QNa"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83616,
+      "name": "\u0443 \u0442\u0435\u0431\u044f \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u0441:",
+      "url": "https://open.spotify.com/track/4dnO6uluCrubTeaDXEv0cZ"
     },
     {
       "album": {

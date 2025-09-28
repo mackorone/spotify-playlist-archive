@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 262268,
+  "num_followers": 262350,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,22 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
       },
       "artists": [
         {
-          "name": "Marc Van Mourik",
-          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
+          "name": "Ezra Feinberg",
+          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
+        },
+        {
+          "name": "David Lackner",
+          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
         }
       ],
-      "duration_ms": 259042,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
+      "duration_ms": 359480,
+      "name": "Future Sand",
+      "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -775,26 +779,6 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
-      },
-      "artists": [
-        {
-          "name": "Ezra Feinberg",
-          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
-        },
-        {
-          "name": "David Lackner",
-          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
-        }
-      ],
-      "duration_ms": 359480,
-      "name": "Future Sand",
-      "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/3V8YAQt6ADKvL803nvq27L"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 338500,
       "name": "Swashers",
       "url": "https://open.spotify.com/track/5IqjAH2ynF7320IVnqfjlT"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
+      },
+      "artists": [
+        {
+          "name": "Marc Van Mourik",
+          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
+        }
+      ],
+      "duration_ms": 259042,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Golden Pear",
-        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
-      },
-      "artists": [
-        {
-          "name": "Omni Gardens",
-          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Wild Marionberries",
-      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
         "name": "Kof\u016b",
         "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
       },
@@ -875,22 +859,6 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Nature Calling",
-      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
         "name": "Comfort",
         "url": "https://open.spotify.com/album/11o1wEU5W9S7e6ii4oVWE2"
       },
@@ -903,6 +871,38 @@
       "duration_ms": 144349,
       "name": "Comfort",
       "url": "https://open.spotify.com/track/2UsNtVgKlx9FYhRHUAYIJn"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "Golden Pear",
+        "url": "https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1"
+      },
+      "artists": [
+        {
+          "name": "Omni Gardens",
+          "url": "https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Wild Marionberries",
+      "url": "https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Nature Calling",
+      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
         "name": "Eating 1+2",
         "url": "https://open.spotify.com/album/3ilPF0O3UM5BqZjc02cXVd"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
       },
       "artists": [
         {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
         }
       ],
-      "duration_ms": 195136,
-      "name": "First Defeat",
-      "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1123,6 +1107,22 @@
       "duration_ms": 444800,
       "name": "Yo Soy - (Versi\u00f3n Instrumental)",
       "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 195136,
+      "name": "First Defeat",
+      "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "INFINITY",
+          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
         }
       ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+      "duration_ms": 644500,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
       "artists": [
         {
-          "name": "INFINITY",
-          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 644500,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Europe",
-      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
         "name": "Music For Growing Flowers",
         "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
       },
@@ -1423,22 +1407,6 @@
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
-      },
-      "artists": [
-        {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1459,50 +1427,34 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Music for Tomato Plants",
-        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
       },
       "artists": [
         {
-          "name": "Loris S. Sarid",
-          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
         }
       ],
-      "duration_ms": 266277,
-      "name": "Orizzontale Verticale",
-      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     },
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Nausea",
-        "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "drkmnd",
-          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 186634,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
-        "name": "Salt Dreams",
-        "url": "https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS"
-      },
-      "artists": [
-        {
-          "name": "Europa Falls",
-          "url": "https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Salt Dreams",
-      "url": "https://open.spotify.com/track/6PMvrdEgVKh5kzLaFmDMQt"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1523,6 +1475,22 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
+        "name": "Music for Tomato Plants",
+        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
+      },
+      "artists": [
+        {
+          "name": "Loris S. Sarid",
+          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+        }
+      ],
+      "duration_ms": 266277,
+      "name": "Orizzontale Verticale",
+      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
         "name": "Amaryllis Dream",
         "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
       },
@@ -1539,6 +1507,38 @@
       "duration_ms": 238701,
       "name": "Fire Flys",
       "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "Salt Dreams",
+        "url": "https://open.spotify.com/album/2eoTpRBGtm9GtB88nb1aNS"
+      },
+      "artists": [
+        {
+          "name": "Europa Falls",
+          "url": "https://open.spotify.com/artist/3JR6Brrb2Uq8lXcXph5oxz"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Salt Dreams",
+      "url": "https://open.spotify.com/track/6PMvrdEgVKh5kzLaFmDMQt"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "Nausea",
+        "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
+      },
+      "artists": [
+        {
+          "name": "drkmnd",
+          "url": "https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C"
+        }
+      ],
+      "duration_ms": 186634,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "A Cat b/w Aran in Repose",
-        "url": "https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        },
-        {
-          "name": "Noah Georgeson",
-          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
-        }
-      ],
-      "duration_ms": 337500,
-      "name": "A Cat",
-      "url": "https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV"
-    },
-    {
-      "added_at": "2025-08-08 12:21:07",
-      "album": {
         "name": "A Healing Song",
         "url": "https://open.spotify.com/album/2YVbnl6fzKwIBN9q4562ar"
       },
@@ -1659,22 +1639,18 @@
     {
       "added_at": "2025-08-08 12:21:07",
       "album": {
-        "name": "Fantastic Farewell (2021 Remastered)",
-        "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
+        "name": "Sketch for Winter IX: Perlita",
+        "url": "https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8"
       },
       "artists": [
         {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        },
-        {
-          "name": "TiMT",
-          "url": "https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb"
+          "name": "Carmen Villain",
+          "url": "https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l"
         }
       ],
-      "duration_ms": 179570,
-      "name": "Dream In - TiMT Remix",
-      "url": "https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs"
+      "duration_ms": 230309,
+      "name": "Two Halves Touching",
+      "url": "https://open.spotify.com/track/63Ra6rlO5ybbsEDWOQ395S"
     },
     {
       "added_at": "2025-08-08 12:21:07",
@@ -1691,6 +1667,26 @@
       "duration_ms": 377200,
       "name": "Cape Cira",
       "url": "https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq"
+    },
+    {
+      "added_at": "2025-08-08 12:21:07",
+      "album": {
+        "name": "A Cat b/w Aran in Repose",
+        "url": "https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Noah Georgeson",
+          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
+        }
+      ],
+      "duration_ms": 337500,
+      "name": "A Cat",
+      "url": "https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV"
     },
     {
       "added_at": "2025-08-08 12:21:07",

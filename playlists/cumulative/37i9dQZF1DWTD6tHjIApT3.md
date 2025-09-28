@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: adieu
 
-3,340 songs - 8 day 21 hr 9 min
+3,341 songs - 8 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2156,7 +2156,7 @@
 | [まだまだ](https://open.spotify.com/track/15w9N478HMYK5VFFIZmRvh) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [まだまだ](https://open.spotify.com/album/5lUhwAwhZUuEmX72owXKBr) | 3:58 | 2023-04-04 | 2023-04-12 |
 | [まだ会えてないのに \- Prod.上野大樹](https://open.spotify.com/track/628GmSA7GYmZWgxMYO1PMS) | [みさき](https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU) | [まだ会えてないのに \(Prod.上野大樹\)](https://open.spotify.com/album/0LBt3aYmultj4Jm7MhP0gO) | 4:13 | 2022-08-02 | 2022-08-06 |
 | [まだ早い果物](https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [まだ早い果物](https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0) | 4:49 | 2024-06-18 | 2024-07-05 |
-| [まだ知らないストーリー](https://open.spotify.com/track/1nWoECQI4VPMk6EjttmP1G) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [まだ知らないストーリー](https://open.spotify.com/album/7uxlb0zRcVXr7IWYp2gs2i) | 3:29 | 2025-07-29 |  |
+| [まだ知らないストーリー](https://open.spotify.com/track/1nWoECQI4VPMk6EjttmP1G) | [Ms.OOJA](https://open.spotify.com/artist/4mQxvrtY2MbDuUXAhMg5pp) | [まだ知らないストーリー](https://open.spotify.com/album/7uxlb0zRcVXr7IWYp2gs2i) | 3:29 | 2025-07-29 | 2025-09-28 |
 | [まちぶせ](https://open.spotify.com/track/3BAh94NVGTACS763sV5fmt) | [hana\*hana](https://open.spotify.com/artist/7K5CN6zysGLqtsYT1XSVqM) | [Good Song Laboratory](https://open.spotify.com/album/6r0XlVSFysEYsJmEkVRHFD) | 3:49 | 2024-08-06 | 2024-09-04 |
 | [まっしろ](https://open.spotify.com/track/1UROqDjIRx4Hqk7rDzzVDg) | [しなの椰惠](https://open.spotify.com/artist/0YJZTnahX8UVUKMW4FwXIo) | [まっしろ](https://open.spotify.com/album/5AY2E5KuaCh1I52oSBd4cv) | 4:13 | 2022-06-30 | 2022-07-28 |
 | [まどろみ](https://open.spotify.com/track/0sxEdCqofNc7JYNegZNbSX) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [まどろみ](https://open.spotify.com/album/6wdoVlAvCeo5heE998oUMK) | 4:23 | 2023-10-05 | 2023-10-07 |
@@ -2304,6 +2304,7 @@
 | [コルテオ　～行列～](https://open.spotify.com/track/0ReowEiUlgn1BeVHcq6S1a) | [Miu Sakamoto](https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h) | [Salyu 20th Anniversary Tribute Album “grafting”](https://open.spotify.com/album/69XcbpHmjRmDzuGxaYJ8l4) | 5:42 | 2024-12-17 | 2024-12-25 |
 | [コワレモノ](https://open.spotify.com/track/2n9VLgcDJxdlwQSdwwBb1G) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [コワレモノ](https://open.spotify.com/album/4TlQpO7MR1Sh8kZ1hbFqB6) | 3:50 | 2023-10-17 | 2023-10-19 |
 | [コンタクト](https://open.spotify.com/track/7LVGcMdH6FlbuHFxkqyY6S) | [QUBIT](https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI) | [コンタクト](https://open.spotify.com/album/5mGXY9OXT3sHW7tEc1zimS) | 4:40 | 2024-02-20 | 2024-02-28 |
+| [ゴースト](https://open.spotify.com/track/7zonj6R8GrSCiHYP5vqRJS) | [tayori](https://open.spotify.com/artist/0XqIQi5z2qmlxlcUwlJPe2) | [ゴースト](https://open.spotify.com/album/2is5GJAPX8vZxJS6LsBcDQ) | 3:50 | 2025-09-23 |  |
 | [ゴールデン・チャイルド～旅立ちの時～ \(feat.Sumire\)](https://open.spotify.com/track/1sMBWBrD21f3Bz66sOppgR) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn), [Sumire](https://open.spotify.com/artist/3ie7Kl4oUITfThdgrDSHFS) | [ゴールデン・チャイルド～旅立ちの時～ \(feat.Sumire\)](https://open.spotify.com/album/4yFktYesHZPktoVkG4jo0b) | 3:00 | 2023-11-28 | 2023-12-06 |
 | [サイキック](https://open.spotify.com/track/6kYbmaEiQBj5tnJaneGunO) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [サイキック](https://open.spotify.com/album/6qrGGBKyF6MYW9uYt3VcVy) | 2:15 | 2024-03-26 | 2024-04-10 |
 | [サイレン](https://open.spotify.com/track/0lLAaiTc8WaSsAEJ2oaC9E) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [サイレン](https://open.spotify.com/album/2sP3l9QWHUlzujwEi4ORe4) | 3:52 | 2025-08-19 | 2025-09-03 |

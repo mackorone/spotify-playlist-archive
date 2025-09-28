@@ -12748,7 +12748,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 185070,
       "name": "endale",
       "url": "https://open.spotify.com/track/0CN7ejrQqkAck99BvIW4QN"
@@ -27484,7 +27484,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178823,
-      "name": "L\u00e4bi roosip\u00f5\u00f5sate",
+      "name": "L\u00e4bi roosip\u00f5\u00f5saste",
       "url": "https://open.spotify.com/track/4oCqS0d1y53LOD20AbuO77"
     },
     {
@@ -28370,7 +28370,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -29596,6 +29596,28 @@
       "duration_ms": 180733,
       "name": "Me\u00f0 h\u00e6kkandi s\u00f3l",
       "url": "https://open.spotify.com/track/4t3gM4Rl5rz5du0Qn2Yd8K"
+    },
+    {
+      "album": {
+        "name": "MH",
+        "url": "https://open.spotify.com/album/2rMbeMGAZmaLQvlwWELWm8"
+      },
+      "artists": [
+        {
+          "name": "SAMO",
+          "url": "https://open.spotify.com/artist/56Z5PKW2MTMBBM5f7Lp9DO"
+        },
+        {
+          "name": "Lil Till",
+          "url": "https://open.spotify.com/artist/20rxrauVfrXfc2vgZNvxot"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "MH",
+      "url": "https://open.spotify.com/track/5E3GnivdSR1HG6TMhjHRIC"
     },
     {
       "album": {
@@ -33284,7 +33306,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -36146,7 +36168,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 147397,
       "name": "peagi saabun...",
       "url": "https://open.spotify.com/track/5qih3ineeZsuEgr5TlyeaZ"
@@ -36440,7 +36462,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -47815,6 +47837,24 @@
     },
     {
       "album": {
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175956,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
+    },
+    {
+      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -49506,7 +49546,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"

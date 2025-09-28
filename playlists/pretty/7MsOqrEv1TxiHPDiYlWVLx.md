@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7MsOqrEv1TxiHPDiYlWVLx.md) - [plain]
 
 > ...and everything nice\. Enjoy your dinner to the sounds of classic jazz vocals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157 likes - 24 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 156 likes - 24 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

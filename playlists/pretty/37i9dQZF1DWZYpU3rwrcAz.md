@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,936 likes - 41 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,961 likes - 41 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 25 | [Nocturne No\. 19 in E Minor, Op\. 72 No\. 1](https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: The Nocturnes](https://open.spotify.com/album/1KPktR52hmJTJH8SdkiVmK) | 4:12 |
 | 26 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/07BYxoTub5POnsajOsoTXb) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin: Etudes \- Lang Lang](https://open.spotify.com/album/70CWcZa5F1uq0xmkMBOtah) | 6:06 |
 | 27 | [Nocturne No\. 9 in B Major, Op\. 32 No\. 1](https://open.spotify.com/track/5UpQqGyhYg70rRXgPuy28o) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin Favourites](https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL) | 5:11 |
-| 28 | [Nocturne No\. 18 in E Major, Op\. 62 No\. 2](https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: The Complete Préludes](https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7) | 5:39 |
+| 28 | [Nocturne No\. 18 in E Major, Op\. 62 No\. 2](https://open.spotify.com/track/10uRxefFamrk6OGym4JLlS) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: The Complete Preludes](https://open.spotify.com/album/1rBvFJvaHtmVmMdBFO8Te7) | 5:39 |
 | 29 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/1BPsXqDKyApGZTDQy69zOk) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Chopin: Piano Concerto No\. 1; Ballades](https://open.spotify.com/album/3uBOmT0tnbFyLB8X6hW8UN) | 7:49 |
 | 30 | [Four Mazurkas, Op\. 41: II\. Andantino](https://open.spotify.com/track/6DtkdC9g7j5nprKIYwSVxx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Katia Bronska](https://open.spotify.com/artist/7uHYhThJnXYNiFa3dCXwyj) | [Schumann: Kinderszenen; Papillons / Chopin: Nocturne Op\. 55 No\. 2; Mazurka Op\. 41 No\. 1](https://open.spotify.com/album/7aOPPHgnzLnKguHCEZQKsL) | 3:35 |
 | 31 | [Nocturne No\. 8 In D Flat, Op\. 27 No\. 2 \- Live](https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 6:13 |

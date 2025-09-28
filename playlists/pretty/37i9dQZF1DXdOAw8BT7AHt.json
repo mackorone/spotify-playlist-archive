@@ -1,12 +1,12 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Maruja",
-  "num_followers": 471263,
+  "num_followers": 471262,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIB8rmiGxEa/ZcxPDnffIPwdJ9ke",
+  "snapshot_id": "AAAAAH0EIKNLwbJS7MUxz7eow2Y51gvB",
   "tracks": [
     {
       "added_at": "2025-09-11 23:00:08",
@@ -583,6 +583,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "Lose Your Way & Find Yourself",
+        "url": "https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "duration_ms": 193776,
+      "name": "Lose Your Way & Find Yourself",
+      "url": "https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Stepper",
         "url": "https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Lose Your Way & Find Yourself",
-        "url": "https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A"
-      },
-      "artists": [
-        {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        }
-      ],
-      "duration_ms": 193776,
-      "name": "Lose Your Way & Find Yourself",
-      "url": "https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "By The Way",
         "url": "https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "100%",
-        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 208970,
-      "name": "100%",
-      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "LOOK OUT FOR ME",
         "url": "https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 403520,
       "name": "LOOK OUT FOR ME",
       "url": "https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "100%",
+        "url": "https://open.spotify.com/album/6bGvZxSSajIl2pfdC4MnEv"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 208970,
+      "name": "100%",
+      "url": "https://open.spotify.com/track/43d22Bp8nyPZJjmdKIzQ04"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -835,22 +835,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Circulate",
-        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
-      },
-      "artists": [
-        {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Circulate",
-      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "The New Chaos",
         "url": "https://open.spotify.com/album/1SIPq5EHlVtkmxaJnbzThi"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 117263,
       "name": "Jinx",
       "url": "https://open.spotify.com/track/4vZwnl3cQOhHkgvG6kNt2V"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Circulate",
+        "url": "https://open.spotify.com/album/0YwTCkNch7hft7qo4UwHOx"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Circulate",
+      "url": "https://open.spotify.com/track/4hJy2X3TGe02bKeonDDkgh"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "God's Country / Body of Mine",
-        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 131161,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "Keep Planting Flowers",
         "url": "https://open.spotify.com/album/4zZ2m5o6f0HqhDUGFEqGWR"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Last To Love",
-        "url": "https://open.spotify.com/album/0Io10Xwpa51dgz5youhDn5"
+        "name": "God's Country / Body of Mine",
+        "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
       "artists": [
         {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 176007,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5IN4Tidgh7w7omsfytcq0S"
+      "duration_ms": 131161,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -979,18 +963,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Wrong Side of Heaven",
-        "url": "https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2"
+        "name": "Last To Love",
+        "url": "https://open.spotify.com/album/0Io10Xwpa51dgz5youhDn5"
       },
       "artists": [
         {
-          "name": "End It",
-          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
         }
       ],
-      "duration_ms": 95789,
-      "name": "Billion Dollar Question",
-      "url": "https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6"
+      "duration_ms": 176007,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5IN4Tidgh7w7omsfytcq0S"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1007,6 +991,22 @@
       "duration_ms": 194781,
       "name": "Blue 42",
       "url": "https://open.spotify.com/track/2DFWAevfL1AfcarnQMrXOi"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Wrong Side of Heaven",
+        "url": "https://open.spotify.com/album/2NNdTHYcGC1bmua5ZcG7U2"
+      },
+      "artists": [
+        {
+          "name": "End It",
+          "url": "https://open.spotify.com/artist/5YlX74SFjWauq32aKLwAYn"
+        }
+      ],
+      "duration_ms": 95789,
+      "name": "Billion Dollar Question",
+      "url": "https://open.spotify.com/track/0uMKLjmS5t3w4q2XffDQt6"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "One Train",
-        "url": "https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/3WrwVAVGPXWDewDCxkdnc0"
       },
       "artists": [
         {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 152414,
-      "name": "One Train",
-      "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"
+      "duration_ms": 189064,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
+        "name": "One Train",
+        "url": "https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 152414,
+      "name": "One Train",
+      "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
         "name": "Sense of Humor",
         "url": "https://open.spotify.com/album/14IgZFyV44p90w5X5niqt4"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 195865,
       "name": "Sense of Humor",
       "url": "https://open.spotify.com/track/6KSGtuMoKHqpRzQZuBs2Xm"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/3WrwVAVGPXWDewDCxkdnc0"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/74nvvW4DI8UYB1EHRDONUl"
     },
     {
       "added_at": "2025-09-11 23:00:08",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-09-11 23:00:08",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 145893,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
-    },
-    {
-      "added_at": "2025-09-11 23:00:08",
-      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-09-11 23:00:08",
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0bMz5kvRYRUcUX9FC9rgfB"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 145893,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
     },
     {
       "added_at": "2025-09-11 23:00:08",

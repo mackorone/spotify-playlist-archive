@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:3jk39CGeaaSO3FPKNx1RUx">Syd</a>
 
-5,270 songs - 11 day 3 hr 21 min
+5,271 songs - 11 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2931,7 +2931,7 @@
 | [Mirage](https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3) | 3:51 | 2022-02-11 | 2022-03-12 |
 | [Miranda](https://open.spotify.com/track/6N4gbJIDfW7cwolK2mYjSJ) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Bad Girl Bible, Vol\. 1](https://open.spotify.com/album/2qLe59dgsNs1DqpK7DKpmp) | 3:09 | 2023-09-08 | 2023-11-11 |
 | [Miss Black America](https://open.spotify.com/track/3lOnh5ByORm35L62fscThB) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [Miss Black America](https://open.spotify.com/album/3EyZXAu9zmBIotrbvGPpT8) | 2:43 | 2025-08-15 | 2025-08-30 |
-| [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-19 |  |
+| [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 | 2025-09-19 | 2025-09-28 |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-28 | 2024-07-06 |
 | [Miss Me Yet?](https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG) | 2:54 | 2023-07-21 | 2023-10-14 |
 | [MISS ME?](https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [MISS ME?](https://open.spotify.com/album/3cJ0inyTwpiEqKRxnPpeJ9) | 2:06 | 2025-01-17 | 2025-03-08 |
@@ -4010,6 +4010,7 @@
 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 | 2024-11-08 | 2024-11-16 |
 | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy) | 3:33 | 2022-12-16 | 2023-01-14 |
 | [Sex With My Ex](https://open.spotify.com/track/60wUa3fbCc0IGmiT3Sycaw) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Sex With My Ex](https://open.spotify.com/album/20ZE7oCCLIZozrBzO2ChnJ) | 2:08 | 2024-11-22 | 2024-11-25 |
+| [Sexy Soulaan](https://open.spotify.com/track/0xH565ykWKUrYdcizBbz30) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Sexy Soulaan](https://open.spotify.com/album/3ChMIwC91eiIA6KMJNq8EK) | 2:02 | 2025-09-27 |  |
 | [Shabooya](https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [Shabooya](https://open.spotify.com/album/1CGE1Yx45ZHuxkw95NXpyU) | 2:58 | 2022-09-30 | 2022-10-22 |
 | [shadow](https://open.spotify.com/track/50NGxg7o2WIikjJNMO3p1j) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [shadow](https://open.spotify.com/album/6DGOOBLphaLRk3zKhpmV2i) | 2:47 | 2025-07-18 | 2025-08-16 |
 | [Shadow](https://open.spotify.com/track/1keltSbtxb5JeAiCfcVYeh) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Shadow](https://open.spotify.com/album/7n4NbaMVbblA9sIMzVXaej) | 2:51 | 2024-07-12 | 2024-08-10 |

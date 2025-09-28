@@ -1,6 +1,6 @@
 {
   "description": "\u200bBoogie along to doo-wop's greatest hits.",
-  "num_followers": 246230,
+  "num_followers": 246269,
   "original_name": "Doo-Wop Dee Doo",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Best Of The Penguins",
-        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
-      },
-      "artists": [
-        {
-          "name": "The Penguins",
-          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
-        }
-      ],
-      "duration_ms": 106760,
-      "name": "Hey Senorita",
-      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "Greatest Hits: From The Beginning",
         "url": "https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 169226,
       "name": "Shop Around",
       "url": "https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "The Best Of The Penguins",
+        "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 106760,
+      "name": "Hey Senorita",
+      "url": "https://open.spotify.com/track/4Glf7Hbi4w2PQ1cdTSZ7Hc"
     },
     {
       "added_at": "2024-07-14 11:36:52",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-07-14 11:36:52",
       "album": {
-        "name": "The Best of The Turbans",
-        "url": "https://open.spotify.com/album/0zVLh6WHk53AWbfRxAf6RH"
-      },
-      "artists": [
-        {
-          "name": "The Turbans",
-          "url": "https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "When You Dance",
-      "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
-    },
-    {
-      "added_at": "2024-07-14 11:36:52",
-      "album": {
         "name": "\"Maybe\": The Best of the Chantels",
         "url": "https://open.spotify.com/album/1HQAVqEPsz4dZPX9AjHA86"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 138814,
       "name": "Look into My Eyes",
       "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
+    },
+    {
+      "added_at": "2024-07-14 11:36:52",
+      "album": {
+        "name": "The Best of The Turbans",
+        "url": "https://open.spotify.com/album/0zVLh6WHk53AWbfRxAf6RH"
+      },
+      "artists": [
+        {
+          "name": "The Turbans",
+          "url": "https://open.spotify.com/artist/5wn4Uafieiu8AEo360i2z7"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "When You Dance",
+      "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
     },
     {
       "added_at": "2024-07-14 11:36:52",

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: BGYO
 
-545 songs - 1 day 10 hr 0 min
+552 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Ano Ba Talaga Tayo?](https://open.spotify.com/track/5cRzSZQQk3LYQke9HS0YE8) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ano Ba Talaga Tayo?](https://open.spotify.com/album/77qSHcJnJ4xmPlS7VXpyAF) | 4:12 | 2025-07-12 |  |
 | [ano ba talaga?](https://open.spotify.com/track/25ShFEmOxAztkDH90gDjnN) | [Carousel Casualties](https://open.spotify.com/artist/5JKO1slXmXcPZghqTrYG1I) | [ano ba talaga?](https://open.spotify.com/album/3qnEoTZUorPccoiVv3KGdZ) | 3:06 | 2025-03-14 | 2025-05-24 |
 | [ano na?](https://open.spotify.com/track/4gkzPjkYp7ktLcAflF5aPa) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [ano na?](https://open.spotify.com/album/4pdjDYCoUzkUxx6OOx9U4s) | 3:26 | 2025-07-18 |  |
+| [ANTOXIC](https://open.spotify.com/track/5QttlrC4uyjZt15VI4LulN) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [LAB SONGS NG MGA TANGA](https://open.spotify.com/album/3CvI8CDpDzz6Q2nDuXWKXs) | 4:10 | 2025-09-26 |  |
 | [APARISYON](https://open.spotify.com/track/5llMLpdZ78DwTN23ytcAsW) | [Alshiane Sarenio](https://open.spotify.com/artist/11NPLzV5ngI6FZVOzuGa5K) | [APARISYON](https://open.spotify.com/album/03UheYqHqi2L0a6jKDqK5x) | 2:30 | 2025-09-15 |  |
 | [Apat Na Buwan](https://open.spotify.com/track/69OsnO3yklzvD3COZr7ys1) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Apat Na Buwan](https://open.spotify.com/album/1Mf0kPZOr17J6mnGimMWWM) | 3:37 | 2024-08-16 | 2024-11-21 |
 | [April](https://open.spotify.com/track/1mRsJkPadr0PI3F3n7zblj) | [Mae Reynes](https://open.spotify.com/artist/7vd1RJX6dpXz9eCf9jK5I1) | [April](https://open.spotify.com/album/3LTMfOhvo8UpRjN3DIj5j5) | 3:14 | 2025-06-13 |  |
@@ -95,12 +96,14 @@
 | [Comets](https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Comets](https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj) | 3:56 | 2024-07-02 | 2024-07-19 |
 | [Comets \(with Petra Sihombing\)](https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Comets \(with Petra Sihombing\)](https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC) | 3:55 | 2024-08-30 | 2024-11-23 |
 | [Crisostomo](https://open.spotify.com/track/47hcQlmzCIEoWIk3W3PggN) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Crisostomo](https://open.spotify.com/album/4OY0wYFGnYZMWRkFyZEV22) | 3:48 | 2024-07-02 | 2024-07-09 |
+| [Dahan](https://open.spotify.com/track/4l6wJay9VIyQYaMOWecj6N) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Dahan](https://open.spotify.com/album/7CW5E4wuSXw01vBKkSZ9Gh) | 3:10 | 2025-09-26 |  |
 | [Dahan Dahan](https://open.spotify.com/track/7trAmBLuRdzxHDftBs8LwX) | [Fred Engay](https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb) | [Dahan Dahan](https://open.spotify.com/album/6jM1p1mCSkZONn7tYFjc8D) | 4:02 | 2024-07-02 | 2024-08-17 |
 | [Dahlia](https://open.spotify.com/track/1CGAsC6flV1mYjLhrob26x) | [Six70](https://open.spotify.com/artist/4AAnbo7FfF5JpwHAYAj7jY) | [Dahlia](https://open.spotify.com/album/5tG8LVkqg5plHo259CkYUK) | 4:13 | 2025-05-12 | 2025-07-19 |
 | [Daleng Dale](https://open.spotify.com/track/6QBPJkLxYzVXZXf1rzeQbe) | [GAT](https://open.spotify.com/artist/0xTKAk89QHQkiahdI2EpOY) | [Ang Mutya Ng Section E \(A Viva One Original Series Soundtrack\)](https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl) | 2:41 | 2025-03-11 | 2025-05-31 |
 | [Dalhin](https://open.spotify.com/track/1MZzrI9wTbWgASgaelBAtG) | [Noah Raquel](https://open.spotify.com/artist/3cXAOAlL3hdCbm2SGTagr2) | [Dalhin](https://open.spotify.com/album/5dATmO1n6tZVqCFS3v3cDe) | 3:02 | 2025-02-14 | 2025-05-12 |
 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 | 2025-02-28 | 2025-06-07 |
 | [damdamin!](https://open.spotify.com/track/6nrGNaUnAtLTbXMW4k9kKE) | [syd hartha](https://open.spotify.com/artist/3BQ7MYNeB0wMPtHYPWvu1C) | [damdamin!](https://open.spotify.com/album/6XY5qKaYLnZjE5boyV3vZS) | 3:47 | 2024-11-29 | 2025-02-15 |
+| [Dance With Me](https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:04 | 2025-09-26 |  |
 | [Dance With My Mistakes](https://open.spotify.com/track/7jd9wJQLGgaXPjPXPJiiMB) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Dance With My Mistakes](https://open.spotify.com/album/6dHu65n9dIQZyXaFtaSehO) | 2:57 | 2025-04-07 | 2025-06-21 |
 | [Darating Din](https://open.spotify.com/track/0X3gTjlVns6kM9cJLjGdwY) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Darating Din](https://open.spotify.com/album/0XuqGNQFVjtXPrldqlgfHT) | 4:03 | 2024-10-18 | 2025-06-21 |
 | [Delikado, Baby](https://open.spotify.com/track/6q3NuCI1HTpMtSKbNbshne) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Delikado, Baby](https://open.spotify.com/album/314uI5ZQOrE5VpiWdFjRlY) | 3:25 | 2024-07-02 | 2024-07-13 |
@@ -169,6 +172,7 @@
 | [Hayy](https://open.spotify.com/track/5Nc8J2Ie4eXi7l12C083GD) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Last Fool Show](https://open.spotify.com/album/7gF385mKDnOQEXQNrvBgD3) | 3:45 | 2025-05-23 |  |
 | [Headlines](https://open.spotify.com/track/5060fEQEvAIywQ8NMLJeOi) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/3pIxnSDUJ0I9KHdrahOC1s) | 2:19 | 2025-08-23 |  |
 | [Healing \(Someday I Might Fly\)](https://open.spotify.com/track/3u4hPVKemj7VPAxhOqmKsa) | [Rico Blanco](https://open.spotify.com/artist/6l880dxsvN2x5wiceaG6D0) | [Healing \(Someday I Might Fly\)](https://open.spotify.com/album/7qx81xGLcWUZHpHGb0orfD) | 3:12 | 2025-09-12 |  |
+| [Heaven](https://open.spotify.com/track/3DpLteY0bgkKgpa3OSRBso) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Heaven](https://open.spotify.com/album/4YkUSiTVud4s0VpFzIjxsZ) | 3:57 | 2025-09-26 |  |
 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 | 2025-05-09 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
 | [Hindi Ako Mawawala](https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Hindi Ako Mawawala](https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS) | 4:43 | 2025-09-01 |  |
@@ -236,6 +240,7 @@
 | [Kulimlim](https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af) | [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Kulimlim](https://open.spotify.com/album/6OhYBRH3PE4wH9t1Yfljpq) | 3:30 | 2024-10-18 | 2025-02-01 |
 | [Kumot](https://open.spotify.com/track/0fRgD25k6ouyUi8wd80eIc) | [Frizzle Anne](https://open.spotify.com/artist/0nFYwBSW3uQyPErFv96mr7) | [Kumot](https://open.spotify.com/album/1BeL5uaojiQ9O6ZX0JMSTK) | 2:31 | 2025-02-12 | 2025-04-17 |
 | [Kumusta](https://open.spotify.com/track/6efSjoVRFHM6nS8v6PF8wD) | [Winrich Adarlo](https://open.spotify.com/artist/5qqDnSwcDVRKgyV0UhbfJz) | [Kumusta](https://open.spotify.com/album/1AvywRk8Rwbbcz4Q3t5zVK) | 4:52 | 2024-07-08 | 2024-09-25 |
+| [Kung Di Mo Alam](https://open.spotify.com/track/73lcuoa9ZIRQhXNVRo81Kc) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Kung Di Mo Alam](https://open.spotify.com/album/1DRvYTu2nZlcKKixTQ7iIQ) | 2:57 | 2025-09-26 |  |
 | [Kung Ikaw Ay Masaya \- From "Flower Girl"](https://open.spotify.com/track/150bBCg7gT46Ex4KEQ5pwa) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Kung Ikaw Ay Masaya \- From "Flower Girl"](https://open.spotify.com/album/7mqPWZyHKabbiavhkr132d) | 3:16 | 2025-06-20 |  |
 | [Kuntento](https://open.spotify.com/track/1tE324P49X1J7Hrl4BlBue) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Kuntento](https://open.spotify.com/album/3LMSihxIrTWjjhrS4yv9bR) | 3:15 | 2025-09-19 |  |
 | [Kusapiling](https://open.spotify.com/track/52gnVgaEDDNtq2g0wubuYg) | [Anthony Meneses](https://open.spotify.com/artist/5hWdDTngERKdHiuLgb3IEj) | [Kusapiling](https://open.spotify.com/album/2wCj8SFPA6PJFREeDai5SV) | 4:36 | 2024-08-30 | 2024-11-21 |
@@ -403,6 +408,7 @@
 | [perfect view](https://open.spotify.com/track/0GEvhEoA1jY1PB7JAoGICF) | [Yana and Yna](https://open.spotify.com/artist/44MCDYvpFe8ugUCmSznxKM) | [perfect view](https://open.spotify.com/album/69DN81jxjmGZBhLC44esKh) | 3:24 | 2024-12-16 | 2025-04-16 |
 | [Pikit Mata](https://open.spotify.com/track/7o4shGcqPhgiyzDoQup28j) | [Janine](https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ) | [Pikit Mata](https://open.spotify.com/album/5mlLdZNF4pLhgp7jIXsU2r) | 3:25 | 2025-05-16 |  |
 | [Pinaglaban](https://open.spotify.com/track/4Kt8WjjUi3ot5GBAPFDB3X) | [Jason Marvin](https://open.spotify.com/artist/4eK6vQqh6wpgldKVWm7560) | [Pinaglaban](https://open.spotify.com/album/2RRER38RGdbWCmb5JWGnu4) | 3:11 | 2024-07-26 | 2024-11-09 |
+| [Pinapaasa](https://open.spotify.com/track/5O6hOrPYNaWVhDgwrSppD7) | [Soapdish](https://open.spotify.com/artist/13VRqzYJxIUpx67aASZADe) | [Pinapaasa](https://open.spotify.com/album/36gDnEzTVTfwM4PU4D91Vn) | 4:27 | 2025-09-26 |  |
 | [Pinipili](https://open.spotify.com/track/0xJ4Qk9lIisIjOrI8bLkNP) | [MATÉO](https://open.spotify.com/artist/5IIDooHzGQ1riNb6PWHexf) | [Pinipili](https://open.spotify.com/album/4T3NUu3OMXdyR8D6Fi9NfC) | 3:00 | 2024-11-04 | 2025-02-13 |
 | [Pink Skies](https://open.spotify.com/track/5dOrxKSZ3MNpDNqWxBOjET) | [The Bloomfields](https://open.spotify.com/artist/5VfC1cKlJXLcluxymeHu96) | [Pink Skies](https://open.spotify.com/album/7p8sDTU2sdxx7NsnqkSkah) | 4:51 | 2025-09-19 |  |
 | [PNYT](https://open.spotify.com/track/40zI0A8TPHqfIZkODRVMas) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [PNYT](https://open.spotify.com/album/6ytFN9XP7CHBqjm5F1Ygf5) | 3:18 | 2025-02-12 | 2025-05-17 |
@@ -533,6 +539,7 @@
 | [Unang Halik](https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Unang Halik](https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG) | 4:11 | 2025-08-23 |  |
 | [Unimaginable](https://open.spotify.com/track/339SFBs6VUjYdvDRrK8yCn) | [Klarisse](https://open.spotify.com/artist/1Imlf2KHeVnyY2bkZe1bNC) | [Unimaginable](https://open.spotify.com/album/6ojC0sFbE9CcsEFgLbxPD8) | 2:48 | 2025-09-19 |  |
 | [Wag Ako](https://open.spotify.com/track/4eEvkWe9r5qoXGYXuC8qQg) | [Rocksteddy](https://open.spotify.com/artist/2uSQi2dS9WLbu4IlzTPLKr) | [INTERGALACTIC ADIKINSANE](https://open.spotify.com/album/7BHkuFACzaTl1MgyNTA8sv) | 4:49 | 2025-09-19 |  |
+| [Wait](https://open.spotify.com/track/3aVN1nyimXo5waQ8M6o8j2) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Wait](https://open.spotify.com/album/2QiFJDsku1Yl67JjRAacaN) | 4:01 | 2025-09-26 |  |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |
 | [wanted you](https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:44 | 2024-07-19 | 2024-11-05 |
 | [Wasabi](https://open.spotify.com/track/1hk8R3dc6pJsyZcngDWa3i) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Wasabi](https://open.spotify.com/album/3n6ghEbNvbPQvJskAGcLHB) | 3:13 | 2025-08-08 |  |

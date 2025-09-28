@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: LOSTBOYJAY
 
-891 songs - 2 day 0 hr 13 min
+892 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [El Cuervo](https://open.spotify.com/track/0NUhccl4bo79EUsmFyAMHi) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [El Cuervo](https://open.spotify.com/album/4OmRlADG42BoxfGzSsNdEi) | 3:08 | 2022-04-01 | 2022-07-16 |
 | [El Oh Vee Ee](https://open.spotify.com/track/2qg9rX4JsmSXIsv1aqucm9) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn) | [El Oh Vee Ee](https://open.spotify.com/album/1RSEErTX6MymSpxhNR4PYm) | 3:31 | 2022-06-24 | 2022-09-03 |
 | [Elbow Grease](https://open.spotify.com/track/7beAh9FEDhV8VUQ39fwDyf) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Elbow Grease](https://open.spotify.com/album/4Avx8ZU2LrQrGFPtiuaT9A) | 3:33 | 2022-08-05 | 2022-11-19 |
-| [Elevated](https://open.spotify.com/track/5pfJqAYqSiukNZYNrWbnqK) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Elevated](https://open.spotify.com/album/4WD4HeFeD0K0NCzOl20VKX) | 2:45 | 2025-08-29 |  |
+| [Elevated](https://open.spotify.com/track/5pfJqAYqSiukNZYNrWbnqK) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Elevated](https://open.spotify.com/album/4WD4HeFeD0K0NCzOl20VKX) | 2:45 | 2025-08-29 | 2025-09-28 |
 | [Elvis](https://open.spotify.com/track/5vFGLkcPG8JdYAuAVVczGR) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Elvis](https://open.spotify.com/album/5wiSQgZwS0BqLWK8Ly43Yy) | 3:37 | 2022-06-10 | 2022-09-17 |
 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 | 2023-06-23 | 2024-02-29 |
 | [Emerald](https://open.spotify.com/track/2eAzJdGWnNPSSGFDHEBh7B) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [rSUN](https://open.spotify.com/artist/6Xeaz1BUIz3AHiT87zNAIo), [Deliriousninja](https://open.spotify.com/artist/4V7oY0avOn1pHnLnm4DODk) | [Emerald](https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7) | 2:57 | 2023-02-24 | 2023-03-11 |
@@ -741,6 +741,7 @@
 | [Spaceship](https://open.spotify.com/track/1GZaUXs4yZ45S5qiAObPTn) | [INNOCENT](https://open.spotify.com/artist/4nLQkTmrwDF2urrLlgLj1y) | [Spaceship](https://open.spotify.com/album/3YV50C8unIF38vKAyMDeSI) | 2:20 | 2022-12-16 | 2023-03-04 |
 | [Spend Money](https://open.spotify.com/track/6Q7MfRknss7JKOxnKkKfl4) | [GREG \(BR\)](https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79), [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Spend Money](https://open.spotify.com/album/0Yc4FlwbliYKyTbtQY3Ea9) | 2:55 | 2025-08-29 |  |
 | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/track/2bo8HF4dpbfJrxD6gaW3BJ) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [State Of Mind \(feat\. Sarah de Warren\)](https://open.spotify.com/album/3iNsypqs4GW8EkEe72cPHe) | 2:52 | 2022-03-04 | 2022-07-16 |
+| [Stay With The Tempo](https://open.spotify.com/track/3RE3izHxUijcckK3JDLLq5) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Stay With The Tempo](https://open.spotify.com/album/6ioWntlf8RGLq4lhALY9J8) | 3:34 | 2025-09-26 |  |
 | [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 | 2024-08-23 | 2024-12-07 |
 | [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 | 2023-04-28 | 2023-10-28 |
 | [Step Into It](https://open.spotify.com/track/5NTuMqHe6C2wPNB6pRxnT0) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Karsten Sollors](https://open.spotify.com/artist/0ltQvvKInsKwRwpg6sDW35) | [Step Into It](https://open.spotify.com/album/4TyRY68LRAM61BRBKDNiNq) | 3:09 | 2022-11-18 | 2023-03-11 |

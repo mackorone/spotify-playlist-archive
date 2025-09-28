@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Doja Cat, Olivia Dean, Tate McRae, 5 Seconds of Summer, Aina Abdul, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,587 likes - 124 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,602 likes - 124 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 27 | [Dance With Me](https://open.spotify.com/track/4eDOey6H4uD1kmbP1MZLwO) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/4E0DnIB6iLAZ9ufGA24yz7) | 3:04 |
 | 28 | [DEFENSELESS](https://open.spotify.com/track/6BldH7peblFKnRUxHX0Ms8) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [DEFENSELESS](https://open.spotify.com/album/1iUmL0eYABJ74DcFBx6F7A) | 2:30 |
 | 29 | [Baddie Baddie](https://open.spotify.com/track/5iiY9BOYRkydswD29G0SAh) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Baddie Baddie](https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr) | 2:00 |
-| 30 | [太聰明 \- 滾石撞樂隊2 \(原唱:陳綺貞\)](https://open.spotify.com/track/7iWFHz8A2OrJMouo38JtkV) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra), [黃子誠](https://open.spotify.com/artist/6pYcItY2zqmIeQAR8sI4AG) | [滾石撞樂隊2 \- 太聰明](https://open.spotify.com/album/2soZtd4wSu7R2bHIGbslK3) | 3:15 |
+| 30 | [太聰明 \- 滾石撞樂隊2 \(原唱:陳綺貞\)](https://open.spotify.com/track/7iWFHz8A2OrJMouo38JtkV) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滾石撞樂隊2 \- 太聰明](https://open.spotify.com/album/2soZtd4wSu7R2bHIGbslK3) | 3:15 |
 | 31 | [愛你愛到忘了自己（影視劇《以她之名》插曲）](https://open.spotify.com/track/4qcU8KMtxeOTbX2DNKaGiB) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [《以她之名》影視原聲帶](https://open.spotify.com/album/3NQlC3mr8WVd1e1cVrjX3Z) | 3:27 |
 | 32 | [房間裡的大象](https://open.spotify.com/track/09LIAnF6RuTlDv1gnp0XR0) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [房間裡的大象](https://open.spotify.com/album/0wOwvNRDjOdDbnaHqvBYP7) | 4:26 |
 | 33 | [Motorspeed](https://open.spotify.com/track/3cvUs2rh8LmO7OQEsjeeZG) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Motorspeed](https://open.spotify.com/album/4Kk28IbB1zU0aUUwhUeYlT) | 3:17 |

@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-3,552 songs - 8 day 6 hr 58 min
+3,553 songs - 8 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1477,6 +1477,7 @@
 | [House Music Is For Nerds \(feat\. Kyle Kidd\)](https://open.spotify.com/track/0pO7T9FQefapxby3YXS8Cv) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Kyle Kidd](https://open.spotify.com/artist/4X5Nbu5dWoMABqM0KORu9d) | [Lets ‘Av It Right!](https://open.spotify.com/album/4QTwl3IRXIxGWCdHJSdkEm) | 2:51 | 2025-07-11 | 2025-08-09 |
 | [HOW 2 BUILD A BETTER BOY](https://open.spotify.com/track/4y6sSlM6Jm4du7SEGhLFSW) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [HOW 2 BUILD A BETTER BOY](https://open.spotify.com/album/0JmTHqE4g2KcRW3HhPVdOs) | 3:17 | 2024-04-26 | 2024-05-25 |
 | [How Could U](https://open.spotify.com/track/0IdDlW4OuwalouHxttXdYk) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [BRUX](https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY) | [How Could U](https://open.spotify.com/album/2KWVWPEOaM8u1Bdm3dWmxd) | 3:32 | 2024-06-28 | 2024-07-27 |
+| [How Did I Get Here?](https://open.spotify.com/track/5kbcfcCP6ulyfjXzaAyJyo) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [How Did I Get Here?](https://open.spotify.com/album/7JYW9l2RVxX8oK8zAcmZD4) | 4:41 | 2025-09-27 |  |
 | [how do i let go](https://open.spotify.com/track/3wo2G0KNvd0E9PVO1JTeI8) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [how do i let go](https://open.spotify.com/album/6bRDS5I8FdKJHjrEpZAL9A) | 2:29 | 2025-03-21 | 2025-04-19 |
 | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ) | 2:49 | 2023-12-15 | 2024-01-20 |
 | [How Do You Love? \(feat\. Mougleta\)](https://open.spotify.com/track/2C6js1uZ2MOTOuWoK30re8) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Reverie](https://open.spotify.com/album/5GCjSTO49p9xx0I223rXo6) | 3:30 | 2024-07-19 | 2024-08-17 |

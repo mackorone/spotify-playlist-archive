@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-735 songs - 2 day 22 hr 3 min
+736 songs - 2 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Longlivedad](https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Longlivedad](https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs) | 3:35 | 2024-08-30 | 2024-09-17 |
 | [Loop](https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [Loop](https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg) | 3:18 | 2025-08-22 |  |
 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 | 2022-06-24 | 2024-05-25 |
-| [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 |  |
+| [Lose Yourself Again](https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Lose Yourself Again](https://open.spotify.com/album/4FYQpn00AtwMv3JgKye0Ws) | 4:19 | 2025-05-23 | 2025-09-28 |
 | [Loss](https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Less Hate](https://open.spotify.com/artist/3UtxZzXnYIRXpRPZM4ubbZ) | [Loss/Bow To The Rain](https://open.spotify.com/album/5krXrHyaBsfa8RWQNOMOFV) | 3:45 | 2020-04-18 | 2020-06-29 |
 | [Lost In The Stars \- Original Mix](https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU) | [ALMA \(GER\)](https://open.spotify.com/artist/6kYaUDGprOe3iZZ5bgxTgO) | [Mother](https://open.spotify.com/album/5v0f0wnZ4qYN8pjhTAZwsy) | 6:53 | 2022-01-14 | 2022-07-29 |
 | [Lotus](https://open.spotify.com/track/5B8J43hJFeVJvZEU2LdSwf) | [Dizharmonia](https://open.spotify.com/artist/6XJbAjen3yFjZ5NTmDC83h) | [Lotus](https://open.spotify.com/album/0KKINwa81J8iMNiEzlmocZ) | 7:13 | 2020-09-26 | 2020-11-28 |
@@ -660,6 +660,7 @@
 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 | 2023-09-15 | 2024-05-23 |
 | [Toni](https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o) | [Kalipo](https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi) | [Toni](https://open.spotify.com/album/3X2xoDkyQ7hVrelZbAiJJY) | 4:58 | 2021-07-17 | 2022-07-28 |
 | [Too Far Down The Trap \- Kölsch Remix](https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Promised Land \(Remixes\)](https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn) | 4:14 | 2024-10-04 | 2025-02-03 |
+| [Too Young](https://open.spotify.com/track/2P47oSY4wOA04R35miFEnn) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Ewerseen](https://open.spotify.com/artist/23BaLIAqxy7EayKqACLKPG) | [Too Young](https://open.spotify.com/album/2eSDpMFSB9UmWGOa9tzcC4) | 2:55 | 2025-09-26 |  |
 | [Topinambur](https://open.spotify.com/track/1aVOrF9veeQuBHZ3FqgZo3) | [Robag Wruhme](https://open.spotify.com/artist/47UDvjDVedKddLfGWk3keI) | [Topinambur EP](https://open.spotify.com/album/6DN4tGqxGOdvGTagUJFmMe) | 6:30 | 2019-12-02 | 2020-05-27 |
 | [Torch](https://open.spotify.com/track/0OcME0MLglLCSUABwfObS1) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Torch / The Highs Are Higher](https://open.spotify.com/album/1oGZxY1b5cxa3CnK52Wzif) | 7:08 | 2019-10-10 | 2020-06-08 |
 | [Transition](https://open.spotify.com/track/0UxU9qQc3Et21BAoVjb5og) | [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk), [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Transition](https://open.spotify.com/album/0QvkWlC02bMXH0nLz2ErTo) | 4:03 | 2020-01-01 | 2020-01-03 |

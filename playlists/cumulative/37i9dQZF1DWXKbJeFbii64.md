@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-178 songs - 8 hr 29 min
+179 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
 | [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-01-13 |  |
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
+| [Mahogany Comforter](https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW) | [Star Chip](https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg) | [Mahogany Comforter](https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7) | 3:12 | 2025-09-23 |  |
 | [Medium Rain and Intense NJ Thunder](https://open.spotify.com/track/67P3hjyYGjth8lNBl1gDsI) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 4:00 | 2023-01-13 |  |
 | [Medium rain, Thunder Threatening](https://open.spotify.com/track/49in3cjv5iMex3ajzSl47a) | [Naturalia](https://open.spotify.com/artist/2YHtsXV9u31l5qvZL1oaX7) | [Thunder Experience](https://open.spotify.com/album/1eZyixYHFRDImtSibiS9dI) | 3:15 | 2022-10-28 |  |
 | [Mellow thunder and rain](https://open.spotify.com/track/4WJ0RB2TLZso1uM909iiCO) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Peaceful thunder](https://open.spotify.com/album/6afKR7sAMn3u2eB1sM1qvM) | 2:29 | 2024-06-10 |  |
@@ -137,7 +138,7 @@
 | [Thunder And Drizzle \- Seamless](https://open.spotify.com/track/1ZlAyeaS19xgCxKHqAjY4I) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Residential Rain](https://open.spotify.com/album/1AJIuI87Pd8WW8QWV5F76v) | 2:48 | 2023-02-13 |  |
 | [Thunder and Echoes](https://open.spotify.com/track/6hBAkPhm7x97uGXMTBYygm) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:09 | 2023-09-20 | 2024-09-26 |
 | [Thunder and Heartbreak](https://open.spotify.com/track/70q71vivckSgkaMb5KQlOl) | [Wellseed](https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl) | [Rainy Day Redemption](https://open.spotify.com/album/6d5bTEOJinpLpkK0cYQUH0) | 3:03 | 2023-09-20 | 2025-05-19 |
-| [Thunder and Rain](https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 2:28 | 2023-09-20 |  |
+| [Thunder and Rain](https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 2:28 | 2023-09-20 | 2025-09-28 |
 | [Thunder and Rain](https://open.spotify.com/track/5KV2iZahicmCkHPOiFIewm) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Loud Thunder Boom](https://open.spotify.com/album/4zIvNSA5x4h6QIC5FdLGuJ) | 1:54 | 2023-09-20 | 2025-07-13 |
 | [Thunder and Rain Sleep Sound](https://open.spotify.com/track/3HD9I4sCFAIgZ8DR8DzFkI) | [Louis Lightning](https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK) | [Thunder and Lightning Relaxation](https://open.spotify.com/album/3s966QfBSAUptLaLnwXWHR) | 2:57 | 2023-09-20 |  |
 | [Thunder and Rain Sounds for Sleep](https://open.spotify.com/track/1IPWimN1vmECIFzZbhzuSk) | [Pure Relaxing Vibes](https://open.spotify.com/artist/4XdPbkEAdTU7KDmfOCIakS) | [Thunderstorm Sounds for Sleep](https://open.spotify.com/album/4yeyKUHbsCyfW4sLM8zFlV) | 8:19 | 2022-10-28 | 2023-01-06 |

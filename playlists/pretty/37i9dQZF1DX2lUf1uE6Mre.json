@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Monet192",
-  "num_followers": 917628,
+  "num_followers": 917618,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,26 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
+        "name": "Tutto Bene",
+        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Tutto Bene",
+      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
         "name": "Yerinde Dur Remix feat. Amo & Aymen",
         "url": "https://open.spotify.com/album/3e966JmhN3SrKx6QLTtwY2"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 164000,
       "name": "Yerinde Dur Remix feat. Amo & Aymen",
       "url": "https://open.spotify.com/track/4jsF4LQHWHm1hwWzjExyOg"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
-        "name": "Tutto Bene",
-        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Tutto Bene",
-      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "TRAPPER'S LULLABY",
-        "url": "https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 252865,
-      "name": "TRAPPER'S LULLABY",
-      "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
         "name": "Buscape",
         "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 151755,
       "name": "Buscape",
       "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
+        "name": "TRAPPER'S LULLABY",
+        "url": "https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        }
+      ],
+      "duration_ms": 252865,
+      "name": "TRAPPER'S LULLABY",
+      "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "ME GUSTA",
-        "url": "https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC"
-      },
-      "artists": [
-        {
-          "name": "Jamal",
-          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
-        },
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "ME GUSTA",
-      "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
         "name": "OnTouRage - EP",
         "url": "https://open.spotify.com/album/4aYXzIUkoPjX7bY07Bk2xL"
       },
@@ -555,38 +535,22 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "CUT",
-        "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
+        "name": "ME GUSTA",
+        "url": "https://open.spotify.com/album/6Ujq2Cz49wZYpgQ7CQy7cC"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 151399,
-      "name": "CUT",
-      "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
-        "name": "DON'T JUDGE",
-        "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/3DwUvt0kzO3j1fMQa6UfTU"
         },
         {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
         }
       ],
-      "duration_ms": 108386,
-      "name": "DON'T JUDGE",
-      "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
+      "duration_ms": 158000,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/4zxKZC3ekRDXocz4ccdVj5"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -611,42 +575,38 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "Wunder",
-        "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
+        "name": "DON'T JUDGE",
+        "url": "https://open.spotify.com/album/5PJDbdQeBpwnDo9azB3lub"
       },
       "artists": [
         {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
         },
         {
-          "name": "Apache 207",
-          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
         }
       ],
-      "duration_ms": 176492,
-      "name": "Wunder",
-      "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
+      "duration_ms": 108386,
+      "name": "DON'T JUDGE",
+      "url": "https://open.spotify.com/track/7esMLn3RT1WawDY4Wom7QN"
     },
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "BORN SPINNER",
-        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+        "name": "CUT",
+        "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
       },
       "artists": [
         {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         }
       ],
-      "duration_ms": 183788,
-      "name": "BORN SPINNER",
-      "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
+      "duration_ms": 151399,
+      "name": "CUT",
+      "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -675,18 +635,22 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "Morgen",
-        "url": "https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp"
+        "name": "Wunder",
+        "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
       },
       "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        },
         {
           "name": "Apache 207",
           "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
         }
       ],
-      "duration_ms": 190258,
-      "name": "Morgen",
-      "url": "https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh"
+      "duration_ms": 176492,
+      "name": "Wunder",
+      "url": "https://open.spotify.com/track/16f4ZN6XOfrIO8fJkm28HM"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -707,6 +671,42 @@
       "duration_ms": 191661,
       "name": "HOKUS POKUS",
       "url": "https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/04p6W318hkCTz3SNUqtsP8"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 183788,
+      "name": "BORN SPINNER",
+      "url": "https://open.spotify.com/track/3yAc2aiDRHPDusNQgJ1YQE"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/2BUNxpK33SP0ctBYz1qlHp"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "duration_ms": 190258,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/4YHB7lnoeFEHWtL0KtSklh"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
+        "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
+        "url": "https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 131163,
+      "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
+      "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
         "name": "Bei dir",
         "url": "https://open.spotify.com/album/4bD5KUrBZ3baC2qzxwFUqk"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 158480,
       "name": "Bei dir",
       "url": "https://open.spotify.com/track/7MLMhnzLCxXCsoWeKUZns7"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
-        "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
-        "url": "https://open.spotify.com/album/5SimHdkmwtJjkNSVrCc7IH"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 131163,
-      "name": "Brazil Funk Freestyle \ud83c\udde7\ud83c\uddf7",
-      "url": "https://open.spotify.com/track/1D0kYwRjSpYq7s7iieS8Oi"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
+        "name": "GOVA",
+        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Juana auf Snapchat",
+      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
         "name": "GUNSHOT",
         "url": "https://open.spotify.com/album/2oO4oJUUP9wHa1wv9CbW7Q"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 117573,
       "name": "GUNSHOT",
       "url": "https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
-        "name": "GOVA",
-        "url": "https://open.spotify.com/album/4yeuPlDecjfycHYXWlfk6v"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 180062,
-      "name": "Juana auf Snapchat",
-      "url": "https://open.spotify.com/track/0IWHAYlVJISbDL5Wx1aXXU"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
+        "name": "SSJ",
+        "url": "https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Haaland936",
+          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+        }
+      ],
+      "duration_ms": 159544,
+      "name": "Serie A",
+      "url": "https://open.spotify.com/track/4GJd3kcSBnLqrXCtuEOEPH"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
         "name": "Anders",
         "url": "https://open.spotify.com/album/0HcMkzOeigNRkImyrVDBgj"
       },
@@ -1127,22 +1147,18 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "SSJ",
-        "url": "https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS"
+        "name": "LAYLA WA LAYLA",
+        "url": "https://open.spotify.com/album/47RLicUlCL8h4lpiIK4OhT"
       },
       "artists": [
         {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        },
-        {
-          "name": "Haaland936",
-          "url": "https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe"
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
         }
       ],
-      "duration_ms": 159544,
-      "name": "Serie A",
-      "url": "https://open.spotify.com/track/4GJd3kcSBnLqrXCtuEOEPH"
+      "duration_ms": 160000,
+      "name": "LAYLA WA LAYLA",
+      "url": "https://open.spotify.com/track/595QVoNpJUaQhVYjU4ZgxF"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "LAYLA WA LAYLA",
-        "url": "https://open.spotify.com/album/47RLicUlCL8h4lpiIK4OhT"
+        "name": "Buonasera",
+        "url": "https://open.spotify.com/album/7oO2rrI1uButc8ephatUSC"
       },
       "artists": [
         {
-          "name": "Kurdo",
-          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "LAYLA WA LAYLA",
-      "url": "https://open.spotify.com/track/595QVoNpJUaQhVYjU4ZgxF"
+      "duration_ms": 151384,
+      "name": "Buonasera",
+      "url": "https://open.spotify.com/track/2DBwe8rBEtj9uAP8PI1Ig9"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -1195,22 +1211,6 @@
       "duration_ms": 149250,
       "name": "KUNSTWERK",
       "url": "https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
-        "name": "Buonasera",
-        "url": "https://open.spotify.com/album/7oO2rrI1uButc8ephatUSC"
-      },
-      "artists": [
-        {
-          "name": "Miami Yacine",
-          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Buonasera",
-      "url": "https://open.spotify.com/track/2DBwe8rBEtj9uAP8PI1Ig9"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
+        "name": "drop body",
+        "url": "https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV"
+      },
+      "artists": [
+        {
+          "name": "Erda",
+          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
+        }
+      ],
+      "duration_ms": 140138,
+      "name": "drop body",
+      "url": "https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
         "name": "Coco Chanel",
         "url": "https://open.spotify.com/album/6VvTZ4a8LfO1ymHs8FdLHs"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 134315,
       "name": "DR\u00dcCK",
       "url": "https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
-        "name": "drop body",
-        "url": "https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV"
-      },
-      "artists": [
-        {
-          "name": "Erda",
-          "url": "https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7"
-        }
-      ],
-      "duration_ms": 140138,
-      "name": "drop body",
-      "url": "https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i"
     },
     {
       "added_at": "2025-09-19 13:58:08",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-09-19 13:58:08",
       "album": {
-        "name": "MURDA MURDA",
-        "url": "https://open.spotify.com/album/0nlebnTFv4fJtWnPnNhsFO"
-      },
-      "artists": [
-        {
-          "name": "Rua",
-          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
-        }
-      ],
-      "duration_ms": 128750,
-      "name": "MURDA MURDA",
-      "url": "https://open.spotify.com/track/1IkWSFtfvIEqdFIG21XllU"
-    },
-    {
-      "added_at": "2025-09-19 13:58:08",
-      "album": {
         "name": "Fiona",
         "url": "https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 172615,
       "name": "Fiona",
       "url": "https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J"
+    },
+    {
+      "added_at": "2025-09-19 13:58:08",
+      "album": {
+        "name": "MURDA MURDA",
+        "url": "https://open.spotify.com/album/0nlebnTFv4fJtWnPnNhsFO"
+      },
+      "artists": [
+        {
+          "name": "Rua",
+          "url": "https://open.spotify.com/artist/6mEktZc9hTEYmOEBgG9fpw"
+        }
+      ],
+      "duration_ms": 128750,
+      "name": "MURDA MURDA",
+      "url": "https://open.spotify.com/track/1IkWSFtfvIEqdFIG21XllU"
     },
     {
       "added_at": "2025-09-19 13:58:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Kaushik Mahalengam
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,110 likes - 56 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,117 likes - 56 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

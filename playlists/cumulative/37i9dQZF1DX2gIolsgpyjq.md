@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: MOON
 
-1,332 songs - 2 day 22 hr 12 min
+1,333 songs - 2 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Back Again](https://open.spotify.com/track/2UiYopOxkXT4L78Zi6btmG) | [Boys and Ivy](https://open.spotify.com/artist/3GrJO6kJGc0koDm1C1dBBk) | [Back Again](https://open.spotify.com/album/5XDeWV7OMYF8lPYtpHr0qT) | 3:53 | 2025-02-06 | 2025-03-07 |
 | [Back Again](https://open.spotify.com/track/5xgyunRLVx3yF09LF0C0ka) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Back Again](https://open.spotify.com/album/7FcRHmYreISlTk2W3bF8rt) | 2:38 | 2025-07-31 | 2025-09-26 |
 | [Back In My Head](https://open.spotify.com/track/5sfTqBeFmvnSssDV37CySy) | [KUYA](https://open.spotify.com/artist/24zO640ApHBFMQ9y4tkzUs), [Calypso](https://open.spotify.com/artist/66CkJdrsXa6p9Baydk8oJf) | [Back In My Head](https://open.spotify.com/album/77TxtsMzzGcKu8xBxdjyfG) | 2:19 | 2024-04-11 | 2024-04-26 |
+| [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |
 | [Back To Being Blue](https://open.spotify.com/track/4gkaOhaULmGorDRAlwOjyY) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Caravan](https://open.spotify.com/album/4T2juNoEsMWucQH4aagNLi) | 3:33 | 2024-10-03 | 2024-11-29 |
 | [Backseat](https://open.spotify.com/track/4E6artJUn8gKTfADjFnw6M) | [Lavender Blu](https://open.spotify.com/artist/19sfPqgN1yp0YbZpzN6BEr), [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA) | [Backseat](https://open.spotify.com/album/1odkTyOYXr9TLJBtqijXEe) | 2:48 | 2024-06-06 | 2024-08-02 |
 | [Bad Dope](https://open.spotify.com/track/0WHUpzFixlgSLJ9sXnRaUb) | [Breazy Daze](https://open.spotify.com/artist/1QCmoTex4q2YFHnfeCichL) | [Bad Dope](https://open.spotify.com/album/6bpQ5TUxQEYyl6TKHTqOI4) | 2:40 | 2024-07-25 | 2024-09-06 |
@@ -499,7 +500,7 @@
 | [High Heels On Oceans](https://open.spotify.com/track/3IvxVbsuOA6pbmz37Y1Yqm) | [Lennixx](https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6) | [High Heels On Oceans](https://open.spotify.com/album/0LBsyH1jNcdwz6LATVC3De) | 2:36 | 2024-05-09 | 2024-06-21 |
 | [Higher \(Just A Feeling\) \- Hanna Ögonsten Remix](https://open.spotify.com/track/6uXnKANIK22Yud5pGjyBT6) | [Fourth Daughter](https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA), [hanna ögonsten](https://open.spotify.com/artist/35TbZVCiGN4v3OasdUl0G4) | [Higher \(Just A Feeling\) \- Hanna Ögonsten Remix](https://open.spotify.com/album/4ZxzpbeWR3JTWxvktVpyYx) | 2:28 | 2024-09-13 | 2024-10-18 |
 | [Hold Me Closer](https://open.spotify.com/track/08j84OH0cS0we2P3hEi6za) | [IVA](https://open.spotify.com/artist/6jqyxXRBC9Fleg4fOlWiEO) | [Hold Me Closer](https://open.spotify.com/album/5avViVReBqdiaGBVOmQEHR) | 2:52 | 2025-05-01 | 2025-05-30 |
-| [hold on](https://open.spotify.com/track/2ZSP0fGFIet6vreIT0UuGk) | [malt£](https://open.spotify.com/artist/0CaERlJ5uulwgT7ehOCjL9) | [hold on...we still have the rain](https://open.spotify.com/album/2J9jaU2fuDri3XkRwPzxPw) | 3:25 | 2025-08-07 |  |
+| [hold on](https://open.spotify.com/track/2ZSP0fGFIet6vreIT0UuGk) | [malt£](https://open.spotify.com/artist/0CaERlJ5uulwgT7ehOCjL9) | [hold on...we still have the rain](https://open.spotify.com/album/2J9jaU2fuDri3XkRwPzxPw) | 3:25 | 2025-08-07 | 2025-09-28 |
 | [Holding On](https://open.spotify.com/track/2IETnaGnIPYIEIZadmdFD2) | [Boytrill](https://open.spotify.com/artist/1yTrFJnL4ja3zzoUXA3rHT) | [Holding On](https://open.spotify.com/album/1ZEtu0FHOUPVWIlHPxZCL1) | 2:36 | 2024-03-07 | 2024-04-05 |
 | [Holiness Movement](https://open.spotify.com/track/0T47qvWPZhIq4FUsLHBrqR) | [Oh Hiroshima](https://open.spotify.com/artist/19iNYCVHcMwJMS3NZqhZ59) | [All Things Shining](https://open.spotify.com/album/6Fe24gOuqBwxbLhFaQ0tB9) | 5:36 | 2024-06-27 | 2024-08-30 |
 | [Hollow](https://open.spotify.com/track/6hQxQH8zvE6eiQ6nZpwUYS) | [ILMA](https://open.spotify.com/artist/28HUvCNgo5vgvf8Sm6wxfs) | [Hollow](https://open.spotify.com/album/1y8ypKVV4eSQM3OmarfD5i) | 4:18 | 2025-07-17 | 2025-09-19 |

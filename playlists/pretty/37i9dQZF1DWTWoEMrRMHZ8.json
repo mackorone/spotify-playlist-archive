@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Bruna Black",
-  "num_followers": 352277,
+  "num_followers": 352242,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -447,26 +447,6 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Besame",
-        "url": "https://open.spotify.com/album/0dpuGbA8Kh0mMZAXpk8Vjm"
-      },
-      "artists": [
-        {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Besame",
-      "url": "https://open.spotify.com/track/0dAVXWXbMOiMrgoICYWzfq"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
         "name": "V\u00eanus ou Urano",
         "url": "https://open.spotify.com/album/0ssQblTZnokL6My66du4bc"
       },
@@ -483,22 +463,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Vento",
-        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+        "name": "Besame",
+        "url": "https://open.spotify.com/album/0dpuGbA8Kh0mMZAXpk8Vjm"
       },
       "artists": [
         {
-          "name": "Feyj\u00e3o",
-          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
         },
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 172329,
-      "name": "Vento",
-      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+      "duration_ms": 238426,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/0dAVXWXbMOiMrgoICYWzfq"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -523,6 +503,26 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "Vento",
+        "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
+      },
+      "artists": [
+        {
+          "name": "Feyj\u00e3o",
+          "url": "https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 172329,
+      "name": "Vento",
+      "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "Se Acaso Voc\u00ea Chegasse",
         "url": "https://open.spotify.com/album/6QVaN8Rem6eekBccoZTzDz"
       },
@@ -535,26 +535,6 @@
       "duration_ms": 139658,
       "name": "Se Acaso Voc\u00ea Chegasse",
       "url": "https://open.spotify.com/track/44zjrwmi6RjfZbGe1F0ymj"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Faltando Um Peda\u00e7o",
-        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
-      },
-      "artists": [
-        {
-          "name": "Flavio Venturini",
-          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
-        },
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 230718,
-      "name": "Faltando Um Peda\u00e7o",
-      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -575,6 +555,26 @@
       "duration_ms": 342150,
       "name": "Ela Une Todas as Coisas - Ao Vivo",
       "url": "https://open.spotify.com/track/6U9PvzASkq37hBMZrDOzbE"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "Faltando Um Peda\u00e7o",
+        "url": "https://open.spotify.com/album/1pwgOhve84CrLFnLr1WN7t"
+      },
+      "artists": [
+        {
+          "name": "Flavio Venturini",
+          "url": "https://open.spotify.com/artist/6y7OyrOw8yA4yq4airggji"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 230718,
+      "name": "Faltando Um Peda\u00e7o",
+      "url": "https://open.spotify.com/track/5Yfrg3OFRagnGydac8xfqD"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -851,22 +851,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Pagode da Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
+        "name": "FOI NO S\u00c3O JO\u00c3O",
+        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Mariana Aydar",
+          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
         }
       ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+      "duration_ms": 189589,
+      "name": "FOI NO S\u00c3O JO\u00c3O",
+      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -887,22 +887,38 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "FOI NO S\u00c3O JO\u00c3O",
-        "url": "https://open.spotify.com/album/6Ql0MXVyqO4ph6bz8HQ2pD"
+        "name": "Pagode da Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
       "artists": [
         {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
         },
         {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 189589,
-      "name": "FOI NO S\u00c3O JO\u00c3O",
-      "url": "https://open.spotify.com/track/6m0CIXMK7LkUMQuiDWg8JC"
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
+        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 266302,
+      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
+      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "For\u00e7a Estranha",
-        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
-      },
-      "artists": [
-        {
-          "name": "Xande de Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 257739,
-      "name": "For\u00e7a Estranha",
-      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -995,18 +995,18 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "A Hist\u00f3ria de Lilly Braun (Ao Vivo no Coala Festival)",
-        "url": "https://open.spotify.com/album/2mwXLLUpPx2uMfb5Wrndqv"
+        "name": "For\u00e7a Estranha",
+        "url": "https://open.spotify.com/album/51ofvduJsjvQ9aQZB4oP3a"
       },
       "artists": [
         {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+          "name": "Xande de Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
         }
       ],
-      "duration_ms": 266302,
-      "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
-      "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
+      "duration_ms": 257739,
+      "name": "For\u00e7a Estranha",
+      "url": "https://open.spotify.com/track/19SaVJ4hb8WQApuD2iEa7w"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "Confiss\u00f5es (De Amor) vol.1",
+        "url": "https://open.spotify.com/album/6Q7E5DR26dRDmsRpZzq5bN"
+      },
+      "artists": [
+        {
+          "name": "Isabella Taviani",
+          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
+        }
+      ],
+      "duration_ms": 226076,
+      "name": "Flechas Na Parede",
+      "url": "https://open.spotify.com/track/0WoONZ0VAea84s3D8OV2iD"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "Quase Um Segundo",
         "url": "https://open.spotify.com/album/5W3Uj6xgFVyH1Z6oNk6Nc2"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 252436,
       "name": "Quase Um Segundo",
       "url": "https://open.spotify.com/track/1L9980Y779SA7ZWer3JAUg"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Confiss\u00f5es (De Amor) vol.1",
-        "url": "https://open.spotify.com/album/6Q7E5DR26dRDmsRpZzq5bN"
-      },
-      "artists": [
-        {
-          "name": "Isabella Taviani",
-          "url": "https://open.spotify.com/artist/1nKYVcowQA1JBEOr5SKPoK"
-        }
-      ],
-      "duration_ms": 226076,
-      "name": "Flechas Na Parede",
-      "url": "https://open.spotify.com/track/0WoONZ0VAea84s3D8OV2iD"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
-      },
-      "artists": [
-        {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
         "name": "Branco",
         "url": "https://open.spotify.com/album/2FQBFjNRtYj8CvBxtAgwil"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 217840,
       "name": "Na Ronda",
       "url": "https://open.spotify.com/track/0VpM9cCo1I1lQMm8acFzUt"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "\u00c0 Primeira Vista",
+        "url": "https://open.spotify.com/album/3TjqDLIj31znVGalAnYi9Y"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 154686,
+      "name": "\u00c0 Primeira Vista",
+      "url": "https://open.spotify.com/track/31H4dP6BCJvgAydev8U2wI"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "Samba e Amor",
         "url": "https://open.spotify.com/album/094jwaXbLmTxQREPKoUdZq"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "\u00c0 Primeira Vista",
-        "url": "https://open.spotify.com/album/3TjqDLIj31znVGalAnYi9Y"
+        "name": "Partir",
+        "url": "https://open.spotify.com/album/28blWY8Yr3w6LBtZru0uIR"
       },
       "artists": [
         {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
         }
       ],
-      "duration_ms": 154686,
-      "name": "\u00c0 Primeira Vista",
-      "url": "https://open.spotify.com/track/31H4dP6BCJvgAydev8U2wI"
+      "duration_ms": 94444,
+      "name": "Partir",
+      "url": "https://open.spotify.com/track/6QEGJF1lDMEEqxbEQVNi34"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Partir",
-        "url": "https://open.spotify.com/album/28blWY8Yr3w6LBtZru0uIR"
+        "name": "A Dan\u00e7a dos Signos (\u00c1lbum Comemorativo)",
+        "url": "https://open.spotify.com/album/1cMRnSqcX32hZ905hvLybK"
       },
       "artists": [
         {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+          "name": "Oswaldo Montenegro",
+          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
         }
       ],
-      "duration_ms": 94444,
-      "name": "Partir",
-      "url": "https://open.spotify.com/track/6QEGJF1lDMEEqxbEQVNi34"
+      "duration_ms": 243750,
+      "name": "Aos Filhos de Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/48aGahaZInA5aIf89tEfsa"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1463,22 +1479,6 @@
       "duration_ms": 172484,
       "name": "Ainda \u00e9 Ver\u00e3o",
       "url": "https://open.spotify.com/track/4RoQJkr2NkWEr7hIUrNuh8"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "A Dan\u00e7a dos Signos (\u00c1lbum Comemorativo)",
-        "url": "https://open.spotify.com/album/1cMRnSqcX32hZ905hvLybK"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo Montenegro",
-          "url": "https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Aos Filhos de Escorpi\u00e3o",
-      "url": "https://open.spotify.com/track/48aGahaZInA5aIf89tEfsa"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Minha Casa",
-        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
-      },
-      "artists": [
-        {
-          "name": "M\u00f4nica Salmaso",
-          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
-        }
-      ],
-      "duration_ms": 200632,
-      "name": "Noite Severina - Ao Vivo",
-      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
         "name": "Pr\u00f3xima",
         "url": "https://open.spotify.com/album/3e5GqL7KOk41xS3wcyjqls"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "Minha Casa",
+        "url": "https://open.spotify.com/album/5lghZeBMkC6Iq13XIscWHQ"
+      },
+      "artists": [
+        {
+          "name": "M\u00f4nica Salmaso",
+          "url": "https://open.spotify.com/artist/6m9OlwfRBWVyiazPouhBGx"
+        }
+      ],
+      "duration_ms": 200632,
+      "name": "Noite Severina - Ao Vivo",
+      "url": "https://open.spotify.com/track/6r9fGBw2zCyjunqPFIoAAE"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "a natureza das coisas",
         "url": "https://open.spotify.com/album/0MxZANPoJbhP7ma8NK5col"
       },
@@ -1655,6 +1655,26 @@
       "duration_ms": 119702,
       "name": "a natureza das coisas",
       "url": "https://open.spotify.com/track/2XOWOM7ljx20baKe6dGdLy"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "Este seu olhar / Promessas",
+        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
+      },
+      "artists": [
+        {
+          "name": "Roberto Menescal",
+          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
+        },
+        {
+          "name": "Cris Delanno",
+          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "Este seu olhar / Promessas",
+      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1679,26 +1699,6 @@
       "duration_ms": 245605,
       "name": "Cicatriz - Ao Vivo",
       "url": "https://open.spotify.com/track/42ZAJOfrht8ET5ap66n7rG"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Este seu olhar / Promessas",
-        "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
-      },
-      "artists": [
-        {
-          "name": "Roberto Menescal",
-          "url": "https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG"
-        },
-        {
-          "name": "Cris Delanno",
-          "url": "https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Este seu olhar / Promessas",
-      "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
+        "name": "Ponteio",
+        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
+      },
+      "artists": [
+        {
+          "name": "Chico Lobo",
+          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
+        }
+      ],
+      "duration_ms": 222877,
+      "name": "Ponteio",
+      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
         "name": "Desculpe o Au\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/70ayyaP7jxqFfpvOvbtxqK"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 213536,
       "name": "Desculpe o Au\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2wHOXgPbLgsrdDf60hsJy7"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
-        "name": "Ponteio",
-        "url": "https://open.spotify.com/album/1QikW9TjtBP3uRLbuoiK7V"
-      },
-      "artists": [
-        {
-          "name": "Chico Lobo",
-          "url": "https://open.spotify.com/artist/2nrIUZL2GjOW8IegzHSmOZ"
-        }
-      ],
-      "duration_ms": 222877,
-      "name": "Ponteio",
-      "url": "https://open.spotify.com/track/1Wd3Pm0uPJQjsAqAQP6fWy"
     },
     {
       "added_at": "2025-09-19 14:07:44",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2025-09-19 14:07:44",
       "album": {
-        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        },
-        {
-          "name": "Bona",
-          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
-        }
-      ],
-      "duration_ms": 169668,
-      "name": "A Noite do Meu Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
-    },
-    {
-      "added_at": "2025-09-19 14:07:44",
-      "album": {
         "name": "Medita\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3HotNZ1UrZHLKjVRMH1NFM"
       },
@@ -1891,6 +1871,26 @@
       "duration_ms": 221208,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2U7SpaVdbWoBmjuP6pt5CC"
+    },
+    {
+      "added_at": "2025-09-19 14:07:44",
+      "album": {
+        "name": "Cartas de Amor - Vol 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kdArHM1ssoWk6mNKsgP9Z"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        },
+        {
+          "name": "Bona",
+          "url": "https://open.spotify.com/artist/3JcoeykZnLoV6Z1rSwsuMV"
+        }
+      ],
+      "duration_ms": 169668,
+      "name": "A Noite do Meu Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/3kwREOYVZ8vbrwKHkQJeoh"
     }
   ],
   "unique_name": "Divina MPB",

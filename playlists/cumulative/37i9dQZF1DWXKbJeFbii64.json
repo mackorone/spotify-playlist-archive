@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Mahogany Comforter",
+        "url": "https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7"
+      },
+      "artists": [
+        {
+          "name": "Star Chip",
+          "url": "https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192603,
+      "name": "Mahogany Comforter",
+      "url": "https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW"
+    },
+    {
+      "album": {
         "name": "Hard Patio Rain with Thunder",
         "url": "https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY"
       },
@@ -2350,7 +2368,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 148090,
       "name": "Thunder and Rain",
       "url": "https://open.spotify.com/track/59FYRMaBBxHkJi8eg6oPeA"

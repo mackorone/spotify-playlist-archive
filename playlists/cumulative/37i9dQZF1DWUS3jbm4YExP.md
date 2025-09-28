@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-846 songs - 2 day 12 hr 1 min
+847 songs - 2 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 | 2022-01-14 | 2023-08-08 |
 | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/track/0GlDM1s0mLBrnV3BcF59EW) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Maktoub Aleina \(Habibi Funk 018\)](https://open.spotify.com/album/4PUXReU8jUWCkcge6pQKtk) | 4:07 | 2022-01-14 | 2022-07-21 |
 | [Maledetta Quella Notte](https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r) | [Il Mago Del Gelato](https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA) | [Maledetta Quella Notte](https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym) | 3:50 | 2023-10-20 | 2025-05-10 |
-| [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 | 2023-06-02 |  |
+| [Malìa](https://open.spotify.com/track/12fGfkMQLgZr4CooVyGBtK) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [Malìa](https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu) | 3:48 | 2023-06-02 | 2025-09-28 |
 | [Mam Yinne Wa](https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM) | [Alogte Oho & His Sounds of Joy](https://open.spotify.com/artist/4rGa6nIVxUyi8xWSwkHDE1) | [Mam Yinne Wa](https://open.spotify.com/album/1reaXBOvF2YSC4iYd2AQ0T) | 3:55 | 2021-10-06 |  |
 | [Mama \- Déni\-Shain & Mister Francky Remix](https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [Déni\-Shain](https://open.spotify.com/artist/2I3JncUKUZx2s0SqB4PcKr), [Mister Francky](https://open.spotify.com/artist/4kXQgX9t5ijlfWnybY6SW5) | [Mama](https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv) | 5:04 | 2021-10-06 |  |
 | [Mama Yo Mama Yo](https://open.spotify.com/track/4G2MhGFZCBq7Ojm7CSko9O) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Backslider](https://open.spotify.com/album/2cQEpr2WQBUtjgGaXcMy3B) | 4:43 | 2023-06-19 | 2023-10-25 |
@@ -685,6 +685,7 @@
 | [Space Lab](https://open.spotify.com/track/79pNMlXrkQG7PY0KEVvHAL) | [Ebony Steel Band](https://open.spotify.com/artist/272QEVxxN3IQaf16rRtbFg) | [Pan Machine](https://open.spotify.com/album/6aD18SuIVdXTD2xerYjh0d) | 4:30 | 2023-12-20 | 2024-03-06 |
 | [Spies Are Watching Me](https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Sir Jean](https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 7:12 | 2021-10-06 | 2023-08-08 |
 | [Spiky Boi](https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Spiky Boi](https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t) | 1:59 | 2023-05-24 | 2023-08-08 |
+| [Spirit Adapter](https://open.spotify.com/track/5xPfJybArmvr7Qyu08BgcR) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [Spirit Adapter](https://open.spotify.com/album/70fT6RyKYe7LYVZgxtXokJ) | 4:16 | 2025-09-26 |  |
 | [Spiritual Ideation](https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Spiritual Ideation](https://open.spotify.com/album/3LE82F0VE2gOX0IBweuq7H) | 3:57 | 2021-10-06 | 2022-04-29 |
 | [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 | 2022-11-17 | 2022-12-31 |
 | [Stella Marina](https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Pesce Rosso / Stella Marina \(Habibi Funk Limited 002\)](https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2) | 2:49 | 2024-06-21 | 2025-06-27 |

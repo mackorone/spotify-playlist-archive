@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Olew
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,148 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,149 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 49 | [ALIVE NOW](https://open.spotify.com/track/4wnSCKdM9gaZqS9iVhM92j) | [antransax](https://open.spotify.com/artist/3E3VtUZsU5Ci439SjOdCd0), [tanny ng](https://open.spotify.com/artist/6SmToDyj12uS8WGrc6m8ei) | [ALIVE NOW](https://open.spotify.com/album/6ePx5HWVgxVEDcYrNW4K5m) | 3:41 |
 | 50 | [Trao Về Anh](https://open.spotify.com/track/33hsLCLlUSzqdzIcc0WR5S) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Trao Về Anh](https://open.spotify.com/album/0iAmSHAb4YiO1muzyxP96Q) | 3:16 |
 
-Snapshot ID: `AAAAADEcGSUGGWYNsBoO/cqPpGxhQni9`
+Snapshot ID: `AAAAAEQIPYjhfayyGGxMAzbgnF4eBvP0`

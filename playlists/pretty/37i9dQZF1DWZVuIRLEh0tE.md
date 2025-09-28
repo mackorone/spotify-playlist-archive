@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Huan62
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,184 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,260 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 8 | [A 200](https://open.spotify.com/track/4fk9Ufhqn1jllnTSddki62) | [Keyviem](https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw), [Carlos Trvp](https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy), [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ), [Little Homie](https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky) | [A 200](https://open.spotify.com/album/4dgrkQvkwZiqgQfkHpoUSY) | 4:06 |
 | 9 | [Jarabe](https://open.spotify.com/track/7ymRbPu2ovlBekUHtwINOi) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [Jarabe](https://open.spotify.com/album/7kQVzTZWolp1cWXcN8b3rp) | 2:07 |
 | 10 | [Cuero Caro](https://open.spotify.com/track/7axxLnHLlcHeXkc4Si82zN) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Cuero Caro](https://open.spotify.com/album/0kqSvlx5pdMOYWaWiw7EUC) | 2:38 |
-| 11 | [Castigo](https://open.spotify.com/track/6r1LW4sBvy3ODLRERuszXT) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu), [Bryant Flow](https://open.spotify.com/artist/0CuT7R1m8QixpXo8sCZLHQ) | [Castigo](https://open.spotify.com/album/37jwoKxZnmqqXvJ7uuPD6L) | 3:20 |
+| 11 | [Castigo](https://open.spotify.com/track/6r1LW4sBvy3ODLRERuszXT) | [Mark B\. Bryant Flow](https://open.spotify.com/artist/6ESe0jEwTvDI7lxHQZEsKu) | [Castigo](https://open.spotify.com/album/37jwoKxZnmqqXvJ7uuPD6L) | 3:20 |
 | 12 | [Bristow](https://open.spotify.com/track/7q4eMua3XhvpLsFxVdofX5) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Papy Crish](https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6) | [Bristow](https://open.spotify.com/album/71UNhbUbnkdpxVGv3hBTmJ) | 3:36 |
 | 13 | [DIGITAL15](https://open.spotify.com/track/4fwKpMyCBWCaj0W45a3emW) | [Yk It’s Junaa](https://open.spotify.com/artist/4tgNxPUJKyOY0VkbzJ44iE) | [DIGITAL15](https://open.spotify.com/album/3VSKr1IIgKqteToundEf0e) | 2:55 |
 | 14 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |

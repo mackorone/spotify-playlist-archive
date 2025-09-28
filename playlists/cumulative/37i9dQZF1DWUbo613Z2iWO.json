@@ -1595,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Anything 4 U",
+        "url": "https://open.spotify.com/album/6R2Ciz7A4ZdsYkHI4vGpNX"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247114,
+      "name": "Anything 4 U",
+      "url": "https://open.spotify.com/track/1JHXXsXkDddmQJoD0cWegU"
+    },
+    {
+      "album": {
         "name": "Are U Still",
         "url": "https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR"
       },
@@ -4719,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "SUMMER ENDS",
+        "url": "https://open.spotify.com/album/10062usD6EWFvYflzRdpK7"
+      },
+      "artists": [
+        {
+          "name": "Solomon Headen",
+          "url": "https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv"
+        }
+      ],
+      "date_added": "2025-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104140,
+      "name": "Choosin'",
+      "url": "https://open.spotify.com/track/1KRmD4611AGR0nJzuZq634"
+    },
+    {
+      "album": {
         "name": "Choosin'",
         "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
       },
@@ -5660,7 +5696,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 198044,
       "name": "Cry for Me",
       "url": "https://open.spotify.com/track/1eAy1oaGN8LOrcB7dPfjdv"
@@ -16552,7 +16588,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 157087,
       "name": "My Type",
       "url": "https://open.spotify.com/track/7tPDxnVeIlmHTQKWRVIz55"

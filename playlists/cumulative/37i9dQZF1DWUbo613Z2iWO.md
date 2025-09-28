@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover:  Jaymin
 
-1,462 songs - 3 day 2 hr 6 min
+1,464 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Another Man's Life](https://open.spotify.com/track/13Td777M2ReYcBLsNRfDA6) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Person I Knew / Another Man's Life](https://open.spotify.com/album/0HqPyQcks2JPLAdvjVE7L4) | 3:06 | 2025-02-07 | 2025-05-24 |
 | [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-28 | 2023-09-02 |
 | [Anything](https://open.spotify.com/track/58TT87ZzrcZEyoqY57x7UT) | [2BYG](https://open.spotify.com/artist/4G6aMODE9CTOZyZ9S39DUE) | [Anything](https://open.spotify.com/album/4mutaCxhEmmqzXvxEuowSp) | 3:05 | 2025-05-30 | 2025-09-06 |
+| [Anything 4 U](https://open.spotify.com/track/1JHXXsXkDddmQJoD0cWegU) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Anything 4 U](https://open.spotify.com/album/6R2Ciz7A4ZdsYkHI4vGpNX) | 4:07 | 2025-09-26 |  |
 | [Are U Still](https://open.spotify.com/track/6LOgCq1V3zLzNrqV2azE2q) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Are U Still](https://open.spotify.com/album/1DuUEqsNu7nHsTmc6cfoeR) | 3:50 | 2025-02-21 | 2025-05-24 |
 | [Around The World](https://open.spotify.com/track/6UuztYLGwhpTsH0ploTJgm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Around The World](https://open.spotify.com/album/0abkIwIKwvsY5jmbS46zpY) | 1:56 | 2024-03-01 | 2024-06-01 |
 | [Art of War](https://open.spotify.com/track/7FdS8jLabsc3ym9VY8kGjK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Art of War](https://open.spotify.com/album/3PqJN4iYjY0IpMBPZqspwm) | 2:06 | 2025-03-28 | 2025-06-21 |
@@ -255,6 +256,7 @@
 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 | 2024-08-23 | 2024-09-21 |
 | [Chivalry Ain’t Dead](https://open.spotify.com/track/3E0RSY2SYcBCBx703yEZsU) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03) | [Chivalry Ain’t Dead](https://open.spotify.com/album/1XUYNqHfSQiF3qqS4YUYqu) | 2:14 | 2025-07-25 | 2025-09-13 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-03-10 | 2023-07-08 |
+| [Choosin'](https://open.spotify.com/track/1KRmD4611AGR0nJzuZq634) | [Solomon Headen](https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv) | [SUMMER ENDS](https://open.spotify.com/album/10062usD6EWFvYflzRdpK7) | 1:44 | 2025-09-26 |  |
 | [Choosin'](https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [Choosin'](https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy) | 2:56 | 2025-01-17 | 2025-02-15 |
 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 | 2022-07-15 | 2022-09-03 |
 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 | 2022-03-11 | 2022-04-09 |
@@ -304,7 +306,7 @@
 | [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 | 2025-09-13 |
 | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/track/37H7aRa7TWO7c0yvRnPcGg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Crocodile Tears \(feat\. Chase Shakur\)](https://open.spotify.com/album/5LZIpzVMyVceRxkVfLv34k) | 3:13 | 2024-11-01 | 2024-12-14 |
 | [Cruel, Cruel World](https://open.spotify.com/track/4h5kyy98D0d5GADmNs5bRD) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Cruel, Cruel World](https://open.spotify.com/album/2Jplnof86ciDHNdUpRdlWd) | 2:34 | 2025-02-28 | 2025-05-10 |
-| [Cry for Me](https://open.spotify.com/track/1eAy1oaGN8LOrcB7dPfjdv) | [Psiryn](https://open.spotify.com/artist/1n700L0EHZQWVPQU9opuFQ) | [In the Key of Us](https://open.spotify.com/album/1PHp9fCP43ql1R5QBc9Jv7) | 3:18 | 2025-06-13 |  |
+| [Cry for Me](https://open.spotify.com/track/1eAy1oaGN8LOrcB7dPfjdv) | [Psiryn](https://open.spotify.com/artist/1n700L0EHZQWVPQU9opuFQ) | [In the Key of Us](https://open.spotify.com/album/1PHp9fCP43ql1R5QBc9Jv7) | 3:18 | 2025-06-13 | 2025-09-28 |
 | [CRYBABY](https://open.spotify.com/track/2Xyzl5wumWGTvbZSQXH3aD) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [CRYBABY](https://open.spotify.com/album/0h3cx9s1TA0Bdflp2LiJ6V) | 3:59 | 2024-07-12 | 2024-08-10 |
 | [Crysalis](https://open.spotify.com/track/43drLzaqUUPyo8YlD6PBPM) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Crysalis](https://open.spotify.com/album/5wguW4MPD9WHsp65zUUSf4) | 1:47 | 2025-07-25 | 2025-08-09 |
 | [Crystal Ball](https://open.spotify.com/track/0pLLxI6K5Nd70Vmh4BZSxm) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Crystal Ball](https://open.spotify.com/album/5N75jW6H3Mb5ZEsa8kEgxa) | 2:34 | 2025-05-02 | 2025-09-06 |
@@ -874,7 +876,7 @@
 | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/track/2mdwJ2wy0OchwJSt09p2Cy) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Sierra Sellers](https://open.spotify.com/artist/3CX8IWsvFSnxgb5x82sETO) | [My Girls \(feat\. Sierra Sellers\)](https://open.spotify.com/album/7c08Y9F0zNR3PrdiP13TCj) | 3:37 | 2025-05-30 |  |
 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-06-07 | 2024-09-07 |
 | [My Peace](https://open.spotify.com/track/3S6k9OO5fSSoqiTeFCnKZf) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [My Peace](https://open.spotify.com/album/5bzABIv8KjHFep7Krio5Mq) | 3:39 | 2025-05-30 |  |
-| [My Type](https://open.spotify.com/track/7tPDxnVeIlmHTQKWRVIz55) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [My Type](https://open.spotify.com/album/5UKMdsEU2vuxSdKkhQeglK) | 2:37 | 2025-08-01 |  |
+| [My Type](https://open.spotify.com/track/7tPDxnVeIlmHTQKWRVIz55) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [My Type](https://open.spotify.com/album/5UKMdsEU2vuxSdKkhQeglK) | 2:37 | 2025-08-01 | 2025-09-28 |
 | [My Way](https://open.spotify.com/track/1yDbyNGxnz7k9IMrrbFnOd) | [Korin](https://open.spotify.com/artist/0eDD2Q4izETtZS1pnTp5Fd), [Tony Shhnow](https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8) | [My Way](https://open.spotify.com/album/315eZb2048lQgEXUYHU81Q) | 3:21 | 2023-11-10 | 2024-01-11 |
 | [My World](https://open.spotify.com/track/2wmSGI7ufutj3VJDGEXlAz) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [My World](https://open.spotify.com/album/7k7RbJfosRsUdilfBSKw7Q) | 2:43 | 2024-07-12 | 2025-07-12 |
 | [My, My, My](https://open.spotify.com/track/6i4HcGUwlfdiamDN8TJi8h) | [Billymaree](https://open.spotify.com/artist/54WEGLBrZDqfZgZaJgrxj2) | [My, My, My](https://open.spotify.com/album/4tTpotB7s3xrsTSu1QPo66) | 3:16 | 2022-03-25 | 2022-04-16 |

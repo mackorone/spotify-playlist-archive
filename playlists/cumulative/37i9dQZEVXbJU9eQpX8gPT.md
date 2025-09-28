@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,840 songs - 4 day 4 hr 9 min
+1,842 songs - 4 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [7YATI](https://open.spotify.com/track/2P9o39lTzv5Ot1rmRaVMrs) | [Ridouane.officiel1](https://open.spotify.com/artist/6CWdfBwZpsPKVYzIZucTKG) | [7YATI](https://open.spotify.com/album/6jeqpxMp1ODiZ6hdZXpeGk) | 2:35 | 2023-10-17 | 2023-10-19 |
 | [999](https://open.spotify.com/track/1z5GERONTAixk3yYhxMyg3) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:14 | 2023-01-07 | 2023-01-19 |
 | [999](https://open.spotify.com/track/6byhaAmWs8DEL8veyvFXnO) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:14 | 2023-01-08 | 2023-01-10 |
+| [9awdooha](https://open.spotify.com/track/2MHafKNq1mDFBA9HGa2QdK) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [9awdooha](https://open.spotify.com/album/5tI95rP7sdZhIyaPNpafmQ) | 3:47 | 2025-09-27 |  |
 | [9lil L7ya](https://open.spotify.com/track/72xRdkNgXfWTetqFPRxY7j) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [9lil L7ya](https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV) | 2:52 | 2021-10-18 | 2021-10-21 |
 | [9ortass](https://open.spotify.com/track/1m1RUXf2pARYhwNyaKd3ye) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [9ortass](https://open.spotify.com/album/43LzWtYzYJYCAcIHmTHzdr) | 2:49 | 2021-05-07 | 2021-11-24 |
 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-03-12 | 2023-03-15 |
@@ -207,7 +208,7 @@
 | [Batmana Ansak بتمنى أنساك](https://open.spotify.com/track/0xGpxSVUIdV7KDuerD8bRA) | [Asma Nour](https://open.spotify.com/artist/124XssaocuYccXwQzZpIXE) | [Batmana Ansak بتمنى أنساك](https://open.spotify.com/album/1FkzvL0LlIlXSGeOIFN93r) | 2:58 | 2025-05-13 | 2025-05-19 |
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-07-20 | 2025-03-08 |
 | [BEAST MODE](https://open.spotify.com/track/0SQPT4wCGUqS2xecqBSwjl) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 3:26 | 2022-08-13 | 2022-08-19 |
-| [BEAU\-COUP](https://open.spotify.com/track/0jUmJoesKJIjx0p2V26F7M) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [BEAU\-COUP](https://open.spotify.com/album/3hYuQ5LytX6jLp5ztr0xxJ) | 2:40 | 2025-08-22 |  |
+| [BEAU\-COUP](https://open.spotify.com/track/0jUmJoesKJIjx0p2V26F7M) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [BEAU\-COUP](https://open.spotify.com/album/3hYuQ5LytX6jLp5ztr0xxJ) | 2:40 | 2025-08-22 | 2025-09-28 |
 | [BEAU\-COUP](https://open.spotify.com/track/4Je6j6W8WyBnbofmVoEUHi) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [BEAU\-COUP](https://open.spotify.com/album/12Jze1F3SWKS1pE99i8fOt) | 2:40 | 2021-03-27\* | 2021-07-05 |
 | [Before Iceberg](https://open.spotify.com/track/48B1xKVZkSD1fjTYeUMdOi) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Before Iceberg](https://open.spotify.com/album/5uEZuaWpVgZhomZ6xdGKVW) | 2:35 | 2023-06-10 | 2023-07-04 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-16 | 2021-10-03 |
@@ -409,6 +410,7 @@
 | [Darba](https://open.spotify.com/track/3A0sNJCdWTX6Lev83LI9eE) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Darba](https://open.spotify.com/album/2sl6Jt00DxT8HhnC4rIefn) | 2:54 | 2025-07-06 | 2025-07-08 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-04-29 | 2023-11-08 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/3BRLcZDFay893DuaKhuTWe) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:29 | 2024-08-04 | 2024-09-25 |
+| [Darba Darba](https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38), [badr ouabi](https://open.spotify.com/artist/2JYV7Jmi2njyq5FxTK6NFQ) | [Darba Darba](https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM) | 3:54 | 2025-09-27 |  |
 | [DARIJA](https://open.spotify.com/track/0ksNeMQ70L4BsC7kix4yLL) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [DARIJA](https://open.spotify.com/album/4JukSwyvULDbzuw4YF6d4S) | 2:47 | 2025-07-19 | 2025-08-08 |
 | [Darja](https://open.spotify.com/track/3QqKJXiqBkgMM2prOdByeC) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Darja](https://open.spotify.com/album/5oJb0Ei8LzkAbAJBT9S8iq) | 2:14 | 2021-03-27\* | 2021-03-27 |
 | [Dark side of the moon](https://open.spotify.com/track/1kRE2K3GeNFD9LgVEOBCR8) | [8ird](https://open.spotify.com/artist/3QmZDh7Hz0zasHGHK6NZkw), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw) | [Dark side of the moon](https://open.spotify.com/album/4ORIHnOoJZQ4ZWEJKTUfke) | 3:30 | 2022-02-24 | 2022-02-26 |
@@ -1378,7 +1380,7 @@
 | [RATA](https://open.spotify.com/track/2nBxbWSTEo2hxo5opMViwn) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7) | 3:30 | 2024-12-30 | 2025-01-27 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-15 | 2025-03-23 |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2023-11-24 | 2025-09-11 |
-| [RBI M3ANA](https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 | 2024-02-10 |  |
+| [RBI M3ANA](https://open.spotify.com/track/0TeZxZZUZUoNXRcSglL7h4) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 | 2024-02-10 | 2025-09-28 |
 | [Rebirth](https://open.spotify.com/track/7LHcVG6sqmKMFK5WAV2ON5) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Cnebce](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [Temporis](https://open.spotify.com/album/0uEoafTA875Dqw6hJDlrJ5) | 3:29 | 2021-05-30 | 2021-05-31 |
 | [Rebirth \(Intro\)](https://open.spotify.com/track/7gMfVc4zfNIxuMyMGglOHa) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:24 | 2024-07-20 | 2024-07-22 |
 | [RED PILL](https://open.spotify.com/track/6JQSu378WGUyaIdRC83UzY) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [METAMORPHOSE](https://open.spotify.com/album/7vef7odtEo16WahTWsZSeY) | 2:45 | 2023-02-22 | 2023-03-08 |

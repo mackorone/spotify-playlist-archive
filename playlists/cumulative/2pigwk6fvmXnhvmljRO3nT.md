@@ -4,7 +4,7 @@
 
 > 
 
-7,724 songs - 19 day 22 hr 54 min
+7,727 songs - 19 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1306,6 +1306,7 @@
 | [Crow Song](https://open.spotify.com/track/3UOoGTEHQ30GPUOsydxPjJ) | [marina](https://open.spotify.com/artist/358xRt5CBUd9I19QYV379n), [VISUAL ARTS / Key](https://open.spotify.com/artist/4XoXFUiabPNKrXxTgHTy0z) | [Crow Song](https://open.spotify.com/album/0A14rgU2iEJj06M6Of5MBY) | 4:08 | 2025-01-15 |  |
 | [Crown](https://open.spotify.com/track/4zMxWSP2qZUy5CBCH5PdzZ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 4:24 | 2025-01-03 |  |
 | [Crown](https://open.spotify.com/track/4CEGyF5A5u5BjweVvkgCsn) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 3:33 | 2025-01-15 |  |
+| [Crown of the Mundane and Divine](https://open.spotify.com/track/42nxiplTgVMCEg49N5FFZI) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- Experience the Paths Vol\. 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/5Pk1X88GNrgZsVUlSsQX6Q) | 1:24 | 2025-09-27 |  |
 | [Crowns for Kings \(Feat\. Black Thought\)](https://open.spotify.com/track/0FQeZmAKQLLnZC5iTN6JuR) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Plugs I Met](https://open.spotify.com/album/5So31JibrTO74WvuCozsAb) | 4:28 | 2024-12-10 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2025-01-15 |  |
 | [Cruise Ship](https://open.spotify.com/track/3C4FUqrrjuvWoHwsumWfIu) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 2:46 | 2025-01-15 |  |
@@ -2685,6 +2686,7 @@
 | [H•A•M](https://open.spotify.com/track/7esMRbSzvLv60O70XLZFbc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 4:35 | 2025-01-03 |  |
 | [i](https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [i](https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x) | 3:51 | 2025-01-03 |  |
 | [i](https://open.spotify.com/track/3ODXRUPL44f04cCacwiCLC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 5:36 | 2025-01-03 |  |
+| [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2025-09-28 |  |
 | [I <3 My Choppa](https://open.spotify.com/track/0Dk9lP1YnOqssHH0oCeq9u) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 1:45 | 2025-01-15 |  |
 | [I Ain't Got Time!](https://open.spotify.com/track/430qNtapCS3Ue1yoSql1oV) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:26 | 2025-01-15 |  |
 | [I Ain't No Joke](https://open.spotify.com/track/0SwuCcwpFM6x4cu5zOvmi0) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Paid In Full](https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz) | 3:52 | 2025-01-03 |  |
@@ -6127,6 +6129,7 @@
 | [Traffic light](https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Traffic light](https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm) | 3:51 | 2025-03-24 |  |
 | [Traingazing](https://open.spotify.com/track/49QEJdbU9mf4VUXReOpZ9u) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:34 | 2025-04-12 |  |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2025-01-04 |  |
+| [Transcendent Ruan Tunes, Blushing Mei Blooms](https://open.spotify.com/track/2Pyrq6ual0XBdef5h4dzi0) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Honkai: Star Rail \- Experience the Paths Vol\. 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/5Pk1X88GNrgZsVUlSsQX6Q) | 2:55 | 2025-09-27 |  |
 | [Transform \(feat\. Charlotte Day Wilson\)](https://open.spotify.com/track/1jQfgl9WRle7D8a3GXLwaD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Charlotte Day Wilson](https://open.spotify.com/artist/2YfbBP050Xr7rbtPl1Iypg) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:40 | 2024-12-14 |  |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2024-12-05 |  |
 | [Trap Niggas](https://open.spotify.com/track/6elNeXUhiuHPD9hH5rocQi) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:03 | 2025-01-03 |  |
@@ -6878,7 +6881,7 @@
 | [ひまわり](https://open.spotify.com/track/2Tl9plCC1mml1tS9jepjC4) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:02 | 2025-01-03 |  |
 | [ふたりごと](https://open.spotify.com/track/3UqIt9prWWiZCyl3WwDK3I) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te), [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [Sincerely](https://open.spotify.com/album/1iccE1950dpEuNrvCojhRn) | 4:47 | 2025-01-15 |  |
 | [ふゆびより](https://open.spotify.com/track/08atpBEogaRGz58N7yVi0J) | [佐々木恵梨](https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf) | [ふゆびより\(TVアニメ「ゆるキャン△」EDテーマ\)](https://open.spotify.com/album/4M5mceOoTiPvE9bPXSy1iN) | 4:37 | 2025-01-15 |  |
-| [ほうき星](https://open.spotify.com/track/3nfZrNSXZfonDEA9RuzTOq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星 / タッチ BESTタッグ](https://open.spotify.com/album/5lBe0TGgWsuJlM9eOYNOcD) | 3:17 | 2025-01-15 |  |
+| [ほうき星](https://open.spotify.com/track/3nfZrNSXZfonDEA9RuzTOq) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星 / タッチ BESTタッグ](https://open.spotify.com/album/5lBe0TGgWsuJlM9eOYNOcD) | 3:17 | 2025-01-15 | 2025-09-28 |
 | [ほうき星](https://open.spotify.com/track/5nDurRPt24Rtl2sMnhMoyD) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [ほうき星](https://open.spotify.com/album/3F00qiSI5y2JiM39TCdoQG) | 3:17 | 2025-01-15 |  |
 | [また明日\(Alternate Version\)](https://open.spotify.com/track/5GQWKr06DK6EP2ckpXMS4C) | [OGRE YOU ASSHOLE](https://open.spotify.com/artist/0X9vdekJ6sIKcUvwIgVsjW) | [Confidential](https://open.spotify.com/album/7APNVXBJuVVqeqkJG1CMMT) | 4:24 | 2025-01-04 |  |
 | [また逢う日まで](https://open.spotify.com/track/3awymLmIrvn9lkJeFpmRSf) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Slow & Easy](https://open.spotify.com/album/0LLMweYMQL9FSdHortnpx8) | 4:15 | 2025-01-03 |  |

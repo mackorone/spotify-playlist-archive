@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Gerson Rufino",
-  "num_followers": 103526,
+  "num_followers": 103584,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Vai Ter Recompensa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
-      },
-      "artists": [
-        {
-          "name": "Samuel Sabinno",
-          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
-        }
-      ],
-      "duration_ms": 307721,
-      "name": "Vai Ter Recompensa (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
         "name": "Estou Contigo",
         "url": "https://open.spotify.com/album/7AcXBzod9ZPav1WkAtZXwE"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 249344,
       "name": "Estou Contigo",
       "url": "https://open.spotify.com/track/4Flh4Rfy3yFmHqtlkh7bk2"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
+        "name": "Deus \u00c9 Fiel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 269159,
+      "name": "Deus \u00c9 Fiel - Ao Vivo",
+      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -299,6 +299,22 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
+        "name": "Vai Ter Recompensa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE"
+      },
+      "artists": [
+        {
+          "name": "Samuel Sabinno",
+          "url": "https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ"
+        }
+      ],
+      "duration_ms": 307721,
+      "name": "Vai Ter Recompensa (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
         "name": "Viola e Adora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l"
       },
@@ -331,18 +347,22 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Deus \u00c9 Fiel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5vv2yytZnxkTEl019l7L48"
+        "name": "Contigo At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
       },
       "artists": [
         {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+          "name": "Elida Rodrigues",
+          "url": "https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ"
+        },
+        {
+          "name": "S\u00e9rgio Lopes",
+          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
         }
       ],
-      "duration_ms": 269159,
-      "name": "Deus \u00c9 Fiel - Ao Vivo",
-      "url": "https://open.spotify.com/track/6mtq9R1uS3wqszirOeiDdl"
+      "duration_ms": 243714,
+      "name": "Contigo At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -379,6 +399,22 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
+        "name": "Meu Barquinho",
+        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
+      },
+      "artists": [
+        {
+          "name": "Nani Azevedo",
+          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
+        }
+      ],
+      "duration_ms": 195520,
+      "name": "Meu Barquinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
         "name": "O Segredo da Felicidade",
         "url": "https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv"
       },
@@ -399,42 +435,6 @@
       "duration_ms": 200294,
       "name": "O Segredo da Felicidade",
       "url": "https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
-        "name": "Contigo At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/3hFoiaAjeOHgdTKfb3a9ye"
-      },
-      "artists": [
-        {
-          "name": "Elida Rodrigues",
-          "url": "https://open.spotify.com/artist/1TwjqugM8aphuZoa8qBZbZ"
-        },
-        {
-          "name": "S\u00e9rgio Lopes",
-          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
-        }
-      ],
-      "duration_ms": 243714,
-      "name": "Contigo At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/5CnY4YdSh1u5Wj665Wbo7R"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
-        "name": "Meu Barquinho",
-        "url": "https://open.spotify.com/album/3jpOEOizUzsvAkVNdmnF86"
-      },
-      "artists": [
-        {
-          "name": "Nani Azevedo",
-          "url": "https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF"
-        }
-      ],
-      "duration_ms": 195520,
-      "name": "Meu Barquinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/3zE6VnZ7RuUNiftqoi51eg"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "A Esperan\u00e7a Que Restou",
-        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
-      },
-      "artists": [
-        {
-          "name": "Rayssa e Ravel",
-          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
-        }
-      ],
-      "duration_ms": 281941,
-      "name": "A Esperan\u00e7a Que Restou",
-      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
         "name": "Estou de Volta",
         "url": "https://open.spotify.com/album/28G7PR9ps744oUELPTIZTf"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 245000,
       "name": "Estou de Volta",
       "url": "https://open.spotify.com/track/3EQ8FT2BNfz4s4Bl3dJ3Sm"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
+        "name": "A Esperan\u00e7a Que Restou",
+        "url": "https://open.spotify.com/album/7mvp3pV8fc3iI8eu7kDb4I"
+      },
+      "artists": [
+        {
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        }
+      ],
+      "duration_ms": 281941,
+      "name": "A Esperan\u00e7a Que Restou",
+      "url": "https://open.spotify.com/track/4vNR0JhrAEC8cGeM6KcBxM"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Origens",
-        "url": "https://open.spotify.com/album/06hxAgBVwsGsDBqnfWyovt"
-      },
-      "artists": [
-        {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "Faz Valer",
-      "url": "https://open.spotify.com/track/7k5zZAR7OuGwS2cBaosApL"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
         "name": "Trajet\u00f3ria",
         "url": "https://open.spotify.com/album/713WXPAkeukQUrkN7ZRzSi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 271166,
       "name": "Tudo",
       "url": "https://open.spotify.com/track/3hWDJKRQcZxruEHaNIRrxL"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
+        "name": "Origens",
+        "url": "https://open.spotify.com/album/06hxAgBVwsGsDBqnfWyovt"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "Faz Valer",
+      "url": "https://open.spotify.com/track/7k5zZAR7OuGwS2cBaosApL"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -735,6 +735,26 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
+        "name": "Melhor Heran\u00e7a",
+        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
+      },
+      "artists": [
+        {
+          "name": "Guilherme Franco",
+          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Melhor Heran\u00e7a",
+      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
         "name": "A Terra e o Lavrador",
         "url": "https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb"
       },
@@ -751,22 +771,6 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Voz e Viol\u00e3o - Parte 1",
-        "url": "https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 295555,
-      "name": "Vencer \u00c9 Preciso - Voz e Viol\u00e3o",
-      "url": "https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
         "name": "A Resposta \u00c9 Deus",
         "url": "https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE"
       },
@@ -779,6 +783,22 @@
       "duration_ms": 256450,
       "name": "A Resposta \u00c9 Deus",
       "url": "https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
+        "name": "Voz e Viol\u00e3o - Parte 1",
+        "url": "https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c"
+      },
+      "artists": [
+        {
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
+        }
+      ],
+      "duration_ms": 295555,
+      "name": "Vencer \u00c9 Preciso - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -815,38 +835,18 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Melhor Heran\u00e7a",
-        "url": "https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5"
+        "name": "Meu Filho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
       },
       "artists": [
         {
-          "name": "Guilherme Franco",
-          "url": "https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Gislaine e Mylena",
+          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Melhor Heran\u00e7a",
-      "url": "https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
-        "name": "Triunfo de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
-      },
-      "artists": [
-        {
-          "name": "Daniel & Samuel",
-          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
-        }
-      ],
-      "duration_ms": 336796,
-      "name": "O Pr\u00f3digo Vai Voltar",
-      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
+      "duration_ms": 239199,
+      "name": "Meu Filho (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Meu Filho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
+        "name": "Triunfo de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/1EhGaC2UWiusb4a0RnQ0AH"
       },
       "artists": [
         {
-          "name": "Gislaine e Mylena",
-          "url": "https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk"
+          "name": "Daniel & Samuel",
+          "url": "https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU"
         }
       ],
-      "duration_ms": 239199,
-      "name": "Meu Filho (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Jb0HoaMIHcEdI7l2BedDO"
+      "duration_ms": 336796,
+      "name": "O Pr\u00f3digo Vai Voltar",
+      "url": "https://open.spotify.com/track/3YWZgLMXtL2MZYFifoU0u2"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -943,8 +943,8 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Al\u00e9m da Medicina",
-        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
+        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
         }
       ],
-      "duration_ms": 286133,
-      "name": "Al\u00e9m da Medicina",
-      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
+      "duration_ms": 270677,
+      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
+      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
     },
     {
       "added_at": "2025-09-19 22:12:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-09-19 22:12:21",
       "album": {
-        "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-        "url": "https://open.spotify.com/album/65AR5SWnfULr33MQngy9at"
-      },
-      "artists": [
-        {
-          "name": "Marcos e Matteus",
-          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
-        }
-      ],
-      "duration_ms": 270677,
-      "name": "Uma M\u00fasica, uma Hist\u00f3ria: Vendavais",
-      "url": "https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz"
-    },
-    {
-      "added_at": "2025-09-19 22:12:21",
-      "album": {
         "name": "Estou Aqui",
         "url": "https://open.spotify.com/album/1xaEvaLiIUDdCIdsHqUE5Z"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 209134,
       "name": "Estou Aqui",
       "url": "https://open.spotify.com/track/7ckx72lvaOeEkxoga7jMBT"
+    },
+    {
+      "added_at": "2025-09-19 22:12:21",
+      "album": {
+        "name": "Al\u00e9m da Medicina",
+        "url": "https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED"
+      },
+      "artists": [
+        {
+          "name": "Marcos e Matteus",
+          "url": "https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4"
+        }
+      ],
+      "duration_ms": 286133,
+      "name": "Al\u00e9m da Medicina",
+      "url": "https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw"
     },
     {
       "added_at": "2025-09-19 22:12:21",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641:  \u0639\u0645\u0631\u0648 \u062c\u0627\u0628\u0631",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641:  \u0623\u0646\u063a\u0627\u0645",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -8292,7 +8292,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 235034,
       "name": "Hanehky Fe Eih",
       "url": "https://open.spotify.com/track/7IJazBonXaVmMyYfJ4MTkI"
@@ -8932,7 +8932,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-28",
       "duration_ms": 172250,
       "name": "Ismallah",
       "url": "https://open.spotify.com/track/5cwsZOrSo8TRmYUa2JmZKu"
@@ -15573,6 +15573,24 @@
     },
     {
       "album": {
+        "name": "Sebtely Alby",
+        "url": "https://open.spotify.com/album/5siBJGS4A5yxVDNkzo3oIk"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242470,
+      "name": "Sebtely Alby",
+      "url": "https://open.spotify.com/track/4737Q6tMY1c8uSxNHMVQO7"
+    },
+    {
+      "album": {
         "name": "Sedi Sedi",
         "url": "https://open.spotify.com/album/7HX6Io94Nv8kk8OmJ6rU12"
       },
@@ -16566,6 +16584,24 @@
       "duration_ms": 240673,
       "name": "Tegy Ntrahn",
       "url": "https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39"
+    },
+    {
+      "album": {
+        "name": "Baya3 Kalam Pt. 2",
+        "url": "https://open.spotify.com/album/3zVn8rsKl5fotm4bpc7Fyd"
+      },
+      "artists": [
+        {
+          "name": "Haneen",
+          "url": "https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO"
+        }
+      ],
+      "date_added": "2025-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Tehid ElMa3bad",
+      "url": "https://open.spotify.com/track/5YoGXXnHY3n1MrFUu7ODtT"
     },
     {
       "album": {

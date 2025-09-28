@@ -4,7 +4,7 @@
 
 > New music from Doja Cat, Olivia Dean, Tate McRae,  Mariah Carey, Geese, and more!
 
-30,770 songs - 67 day 17 hr 57 min
+30,771 songs - 67 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28365,6 +28365,7 @@
 | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [V12 \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/2PcHsFm2lY8QEDmVxTvVaW) | 2:57 | 2021-09-18 | 2021-09-25 |
 | [VA Sway](https://open.spotify.com/track/0NgIuunDGnevupaknVsD5U) | [Kingna Scott](https://open.spotify.com/artist/0J54LFO2S4wQcktDRDv1WL), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [VA Sway](https://open.spotify.com/album/2Xeqmc7cgL1Se0PIQNy9M0) | 3:14 | 2022-06-17 | 2022-06-25 |
 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 | 2022-01-21 | 2022-01-29 |
+| [Vacancy](https://open.spotify.com/track/08zXm8YQQmbFGag4y353Dp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Vacancy](https://open.spotify.com/album/2kVzP9jxqRDUrQ7Po0In3U) | 3:03 | 2025-09-26 |  |
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2023-11-24 | 2023-12-02 |
 | [Vacant Heart \(feat\. Big4Keezy\)](https://open.spotify.com/track/52XxS5bVvAr1AAtcvADPDi) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ), [Big4Keezy](https://open.spotify.com/artist/25ERQzsKhPadf61ze3EJxm) | [Vacant Heart \(feat\. Big4Keezy\)](https://open.spotify.com/album/5zqA7vIgZ1nNQJngRo8WCU) | 2:48 | 2020-06-19 | 2020-06-29 |
 | [VACATION](https://open.spotify.com/track/6q2uIyLqASSpv2SIv2ehWK) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [VACATION](https://open.spotify.com/album/42XA3CG4dOtlaVKq5ZRNRh) | 3:12 | 2020-06-19 | 2020-06-29 |

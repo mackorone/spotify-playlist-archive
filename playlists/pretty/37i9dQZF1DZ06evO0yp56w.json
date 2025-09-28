@@ -1,12 +1,12 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "num_followers": 821041,
+  "num_followers": 821107,
   "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aNSGAAAAAABvXyRQd89sBCWye4MpmVkF",
+  "snapshot_id": "aNXXgAAAAACzhnMBbHCcVNgZIFHbaU7p",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dead Star / In Your World",
-        "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Can't Take My Eyes off You",
-      "url": "https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neutron Star Collision [Love Is Forever]",
         "url": "https://open.spotify.com/album/2tJXza5ryx9DKIsmAI8neb"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 230256,
       "name": "Neutron Star Collision (Love Is Forever) - Soundtrack Version",
       "url": "https://open.spotify.com/track/4AIazttPmHpd7p7pwJw692"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dead Star / In Your World",
+        "url": "https://open.spotify.com/album/3kVGhOkgwIS2S0Gf1El92G"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Can't Take My Eyes off You",
+      "url": "https://open.spotify.com/track/3Y4m9Td603gbfMB86UNafs"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simulation Theory (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Dig Down",
-      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 233266,
       "name": "Exo-Politics",
       "url": "https://open.spotify.com/track/20vZII9Yu52czI9Fk4p39r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simulation Theory (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Dig Down",
+      "url": "https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ"
     },
     {
       "added_at": null,

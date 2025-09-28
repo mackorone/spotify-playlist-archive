@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Jejeran artis perempuan inspiratif Indonesia\. Cover: Anggis Devaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,455 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,462 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 11 | [Well, dadah](https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Well, dadah](https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI) | 3:17 |
 | 12 | [Looking for Love in Wrong Places](https://open.spotify.com/track/4gngdFoZ9jGJcHAlbjWmIZ) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Looking for Love in Wrong Places](https://open.spotify.com/album/1KN2KKeuWwdkimahJ0lmFp) | 4:05 |
 | 13 | [Mend This Break](https://open.spotify.com/track/1hHVteu6kkog8POlNIwJEP) | [Rasyiqa](https://open.spotify.com/artist/7cBoDUBWlU3lXx8ya0WMQX) | [Reckless \(the album\)](https://open.spotify.com/album/7thmL6AdtyHv3jg76LNNdc) | 3:50 |
-| 14 | [Strategi](https://open.spotify.com/track/2vaYXTUux8AWI8miWBzNTa) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Katanya Bahagia Jatuh Cinta](https://open.spotify.com/album/1SpKCPTTtjTZDSRGW8tc7l) | 3:17 |
+| 14 | [Strategi](https://open.spotify.com/track/2vaYXTUux8AWI8miWBzNTa) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Katanya Bahagia Jatuh Cinta](https://open.spotify.com/album/1SpKCPTTtjTZDSRGW8tc7l) | 3:17 |
 | 15 | [Diam, Kamu Berisik!](https://open.spotify.com/track/2OCgdKh0K1rFW1Gi8Y7rOt) | [SIVIA](https://open.spotify.com/artist/21PaJ7FN5NCb7BNVA3KTuy) | [KENALI, PAHAMI, EMPATI](https://open.spotify.com/album/0eh9Z9qkqWNkorijht9BiA) | 4:32 |
 | 16 | [Satu Langkah](https://open.spotify.com/track/44rBEhQW7SWAHVqlpIg1Ff) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Langkah](https://open.spotify.com/album/1aj2lSnEfnoqWjAutYy3Tq) | 3:37 |
 | 17 | [Bernaung \- From "Setetes Embun Cinta Niyala"](https://open.spotify.com/track/16Q9MOCDYgrgjEHx6Hx2rv) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Bernaung \(From "Setetes Embun Cinta Niyala"\)](https://open.spotify.com/album/753bObZFRMHb4cDlHtpzwz) | 3:18 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 33 | [Game of Love](https://open.spotify.com/track/47tEFLhr9yywjfCiaz4AbV) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu) | [Mamiu](https://open.spotify.com/album/2LGwwFntQoPzu17MlS2QvE) | 1:55 |
 | 34 | [Dari Awal Pertama](https://open.spotify.com/track/6FuZQ1wnpjvMIgmot3t5TP) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Dari Awal Pertama](https://open.spotify.com/album/4tEh1PHEFm9ipXF8u7z9Io) | 2:48 |
 | 35 | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/track/7Lm4S2P0MHwBktcdNILLQA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Sialnya, Hidup Harus Tetap Berjalan](https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D) | 2:58 |
-| 36 | [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 |
+| 36 | [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/4E46R3KgyeZmiJjeCaCQze) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 |
 | 37 | [1 dari 1000](https://open.spotify.com/track/73sNYWU4Qe1WEiUyMMNz6q) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [1 dari 1000](https://open.spotify.com/album/0xe2k3gc4rs7MAwqhiIdHT) | 3:54 |
 | 38 | [Pada Suatu Hari](https://open.spotify.com/track/4wi5YI41CsINfgKfn1dBl7) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Pada Suatu Hari](https://open.spotify.com/album/39MV4REL0m6xugmD9K9cbr) | 3:53 |
 | 39 | [Bahagia Tanpaku](https://open.spotify.com/track/6TIPNTCl2RcQTJtp88AjXZ) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Bahagia Tanpaku](https://open.spotify.com/album/1QYQnNJBkDHf7evDaUGsQK) | 4:12 |
